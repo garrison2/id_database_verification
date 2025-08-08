@@ -1,0 +1,385 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Alaska\" \"driver's license\" OR \"identity document\" \"personally identifiable information\" OR \"personal information\"",
+    "totalResults": "132000",
+    "searchTerms": "\"Alaska\" \"driver's license\" OR \"identity document\" \"personally identifiable information\" OR \"personal information\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Alaska\" \"driver's license\" OR \"identity document\" \"personally identifiable information\" OR \"personal information\"",
+    "totalResults": "132000",
+    "searchTerms": "\"Alaska\" \"driver's license\" OR \"identity document\" \"personally identifiable information\" OR \"personal information\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.42739,
+  "formattedSearchTime": "0.43",
+  "totalResults": "132000",
+  "formattedTotalResults": "132,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "STATE OF ALASKA - Division of Motor Vehicles Request for Crash ...",
+   "htmlTitle": "STATE OF <b>ALASKA</b> - Division of Motor Vehicles Request for Crash ...",
+   "link": "https://dmv.alaska.gov/media/g4ieqkco/440.pdf",
+   "displayLink": "dmv.alaska.gov",
+   "snippet": "Alaska Driver's License Number. Government Agency or Business Requesting ... Personal information means information that identifies a person, including\u00a0...",
+   "htmlSnippet": "<b>Alaska Driver&#39;s License</b> Number. Government Agency or Business Requesting ... <b>Personal information</b> means information that identifies a person, including&nbsp;...",
+   "formattedUrl": "https://dmv.alaska.gov/media/g4ieqkco/440.pdf",
+   "htmlFormattedUrl": "https://dmv.<b>alaska</b>.gov/media/g4ieqkco/440.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVT_Ua1mi_T-41D-QTOqJfMSTGNFzM3fqWTXs4rJo4ljJcqs4rSp0-3eo&s",
+      "width": "380",
+      "height": "133"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20230911105851-08'00'",
+      "creationdate": "D:20140205093934-09'00'",
+      "creator": "Acrobat PDFMaker 10.1 for Word",
+      "sourcemodified": "D:20140205183912",
+      "author": "PC-Install",
+      "producer": "Adobe PDF Library 10.0",
+      "company": "State of Alaska Department of Administration"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///b065c4ff82dfedd9ed75808c6ed59abe1c7ebcc919187d1b0ddf8bddba1649ee"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Privacy Bill Essentials: Alaska",
+   "htmlTitle": "Privacy Bill Essentials: <b>Alaska</b>",
+   "link": "https://www.hinshawlaw.com/newsroom-updates-pcb-privacy-bill-essentials-alaska.html",
+   "displayLink": "www.hinshawlaw.com",
+   "snippet": "Apr 16, 2021 ... The Alaska Consumer Data Privacy Act (the Act) would give Alaskan consumers more control over their personal information, impose a series of requirements on\u00a0...",
+   "htmlSnippet": "Apr 16, 2021 <b>...</b> The <b>Alaska</b> Consumer Data Privacy Act (the Act) would give Alaskan consumers more control over their <b>personal information</b>, impose a series of requirements on&nbsp;...",
+   "formattedUrl": "https://www.hinshawlaw.com/newsroom-updates-pcb-privacy-bill-essentials...",
+   "htmlFormattedUrl": "https://www.hinshawlaw.com/newsroom-updates-pcb-privacy-bill-essentials...",
+   "pagemap": {
+    "metatags": [
+     {
+      "twitter:card": "summary",
+      "twitter:site": "@hinshaw",
+      "viewport": "width=device-width",
+      "msvalidate.01": "AB8DF6F1CBB1421CCA6DCDD06534BEC0",
+      "og:title": "Privacy Bill Essentials: Alaska",
+      "og:url": "https://www.hinshawlaw.com/newsroom-updates-pcb-privacy-bill-essentials-alaska.html",
+      "msapplication-tileimage": "i-t1752792160/mstile-144x144.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "851 | Alaska DMV",
+   "htmlTitle": "851 | <b>Alaska</b> DMV",
+   "link": "https://dmv.alaska.gov/media/i2ejuy3v/851.pdf",
+   "displayLink": "dmv.alaska.gov",
+   "snippet": "Contact Phone Number. * Required if requestor does not have an Alaska driver's license. ... Disclosure of personal information contained in motor vehicle records.",
+   "htmlSnippet": "Contact Phone Number. * Required if requestor does not have an <b>Alaska driver&#39;s license</b>. ... Disclosure of <b>personal information</b> contained in motor vehicle records.",
+   "formattedUrl": "https://dmv.alaska.gov/media/i2ejuy3v/851.pdf",
+   "htmlFormattedUrl": "https://dmv.<b>alaska</b>.gov/media/i2ejuy3v/851.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20240603095853-08'00'",
+      "creationdate": "D:20240322154631-08'00'",
+      "creator": "Acrobat PDFMaker 24 for Word",
+      "author": "Debbie Smith",
+      "producer": "Adobe PDF Library 24.1.135",
+      "company": "State of Alaska",
+      "title": "DEPARTMENT OF ADMINISTRATION",
+      "contenttypeid": "0x0101006ABEBC7DCA6C7B4FB3784AC3EF8D7992"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Alaska awards Thales Driver's License, ID Card contract with next ...",
+   "htmlTitle": "<b>Alaska</b> awards Thales <b>Driver&#39;s License</b>, ID Card contract with next ...",
+   "link": "https://www.thalesgroup.com/en/worldwide/digital-identity-and-security/press_release/alaska-awards-thales-drivers-license-id-card",
+   "displayLink": "www.thalesgroup.com",
+   "snippet": "Sep 13, 2024 ... Alaska awards Thales Driver's License, ID Card contract with next generation security ... personal information against evolving threats.",
+   "htmlSnippet": "Sep 13, 2024 <b>...</b> <b>Alaska</b> awards Thales <b>Driver&#39;s License</b>, ID Card contract with next generation security ... <b>personal information</b> against evolving threats.",
+   "formattedUrl": "https://www.thalesgroup.com/.../alaska-awards-thales-drivers-license-id-car...",
+   "htmlFormattedUrl": "https://www.thalesgroup.com/.../<b>alaska</b>-awards-thales-<b>drivers-license</b>-id-car...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdkndaebJIvvmUU3c2nGX6qQUWJMLsGpi41ESpTtWS-4koY--IuGWEcVuG&s",
+      "width": "283",
+      "height": "178"
+     }
+    ],
+    "metatags": [
+     {
+      "og:site_name": "Thales Group",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Alaska awards Thales Driver\u2019s License, ID Card contract with next generation security",
+      "mobileoptimized": "width",
+      "og:url": "https://www.thalesgroup.com/en/worldwide/digital-identity-and-security/press_release/alaska-awards-thales-drivers-license-id-card",
+      "og:description": "The Alaska DMV recently awarded Thales a contract for secure driver\u2019s license and ID card production, including a new leading-edge card format with translucent windows for another level of data security."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://cdn.uc.assets.prezly.com/08288e42-9fae-4829-bd19-d4bba76272a7/-/format/auto/"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Alaska Personal Information Protection Act Breach of Security ...",
+   "htmlTitle": "<b>Alaska Personal Information</b> Protection Act Breach of Security ...",
+   "link": "https://www.akleg.gov/basis/get_documents.asp?session=29&docid=65934",
+   "displayLink": "www.akleg.gov",
+   "snippet": "including a social security number, driver's license number, account number, password, or ... Alaska Personal Information Protection Act - Consumer Protection\u00a0...",
+   "htmlSnippet": "including a social security number, <b>driver&#39;s license</b> number, account number, password, or ... <b>Alaska Personal Information</b> Protection Act - Consumer Protection&nbsp;...",
+   "formattedUrl": "https://www.akleg.gov/basis/get_documents.asp?session=29&docid...",
+   "htmlFormattedUrl": "https://www.akleg.gov/basis/get_documents.asp?session=29&amp;docid...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQBpjtKThSsfuNNxaleg64JR9li7Dp09RpG4SixtQ9KKepkmHIOP3mGHo&s",
+      "width": "197",
+      "height": "255"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20160311121654-09'00'",
+      "creationdate": "D:20160128192306Z",
+      "creator": "Xerox WorkCentre 5755",
+      "producer": "Xerox WorkCentre 5755"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///c2a9d62a3b86b9c714752f2bb6729db602fec1ed275063cf6f36cdf850813911"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "UNIT RELEASE PLAN",
+   "htmlTitle": "UNIT RELEASE PLAN",
+   "link": "https://www.alaska.edu/ualand/land/lease-residential/2021-Rental-Application.pdf",
+   "displayLink": "www.alaska.edu",
+   "snippet": "PERSONAL INFORMATION. APPLICANT'S FULL NAME: Social Security Number: Number of Dependents: Driver's License Number: State: Date of Birth:.",
+   "htmlSnippet": "<b>PERSONAL INFORMATION</b>. APPLICANT&#39;S FULL NAME: Social Security Number: Number of Dependents: <b>Driver&#39;s License</b> Number: State: Date of Birth:.",
+   "formattedUrl": "https://www.alaska.edu/ualand/land/lease.../2021-Rental-Application.pdf",
+   "htmlFormattedUrl": "https://www.<b>alaska</b>.edu/ualand/land/lease.../2021-Rental-Application.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhfubgpRIsZmqSm6vrz-ccLzXySle_g9hm_6G1HmjLvdhVqqrq8SW-uq8&s",
+      "width": "197",
+      "height": "255"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20210122102240-09'00'",
+      "creator": "Microsoft\u00ae Word 2019",
+      "creationdate": "D:20210122102240-09'00'",
+      "author": "Statewide",
+      "producer": "Microsoft\u00ae Word 2019",
+      "title": "UNIT RELEASE PLAN"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///4ed33dcfe822c263f77c6516f1063cd2b18e29d1d6210bcd8647d81abaf05c35"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ABA Online - ALASKA",
+   "htmlTitle": "ABA Online - ALASKA",
+   "link": "https://absenteeballotapplication.alaska.gov/AbsenteeRegistration/RegistrationDetails?haveValidAKDL=true",
+   "displayLink": "absenteeballotapplication.alaska.gov",
+   "snippet": "Enter Personal Information. Last Name:*, First Name:*, Middle ... Absentee ballot application is unable to validate your Alaska Driver's License information.",
+   "htmlSnippet": "Enter <b>Personal Information</b>. Last Name:*, First Name:*, Middle ... Absentee ballot application is unable to validate your <b>Alaska Driver&#39;s License</b> information.",
+   "formattedUrl": "https://absenteeballotapplication.alaska.gov/.../RegistrationDetails?...true",
+   "htmlFormattedUrl": "https://absenteeballotapplication.<b>alaska</b>.gov/.../RegistrationDetails?...true",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ALASKA - Online Voter Registration",
+   "htmlTitle": "<b>ALASKA</b> - Online Voter Registration",
+   "link": "https://voterregistration.alaska.gov/Registration/RegistrationDetails?haveValidAKDL=false",
+   "displayLink": "voterregistration.alaska.gov",
+   "snippet": "If, however, you prefer to print a blank State of Alaska Application for Voter Registration, Click HERE now. Enter Personal Information. Last Name:*, First\u00a0...",
+   "htmlSnippet": "If, however, you prefer to print a blank State of <b>Alaska</b> Application for Voter Registration, Click HERE now. Enter <b>Personal Information</b>. Last Name:*, First&nbsp;...",
+   "formattedUrl": "https://voterregistration.alaska.gov/Registration/RegistrationDetails?...false",
+   "htmlFormattedUrl": "https://voterregistration.<b>alaska</b>.gov/Registration/RegistrationDetails?...false",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Alaska Requirements for Correcting Transgender Driver's Licenses ...",
+   "htmlTitle": "<b>Alaska</b> Requirements for Correcting Transgender Driver&#39;s Licenses ...",
+   "link": "https://www.aclu.org/press-releases/alaska-requirements-correcting-transgender-drivers-licenses-are-unconstitutional-says-aclu",
+   "displayLink": "www.aclu.org",
+   "snippet": "Jul 19, 2011 ... \u201cNo one should have to disclose sensitive personal information or be forced to make major medical decisions in order to get a driver's license.",
+   "htmlSnippet": "Jul 19, 2011 <b>...</b> \u201cNo one should have to disclose sensitive <b>personal information</b> or be forced to make major medical decisions in order to get a <b>driver&#39;s license</b>.",
+   "formattedUrl": "https://www.aclu.org/.../alaska-requirements-correcting-transgender-drivers...",
+   "htmlFormattedUrl": "https://www.aclu.org/.../<b>alaska</b>-requirements-correcting-transgender-<b>drivers</b>...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-UAeX_3zvSpon3W-cMJ14ZRz62cTO5cTnphPgPLIUDLuYkubWvNdpt7A&s",
+      "width": "258",
+      "height": "196"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.aclu.org/wp-content/themes/aclu-wp/img/issues/press-release.jpg",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "American Civil Liberties Union",
+      "twitter:site": "@aclu",
+      "article:modified_time": "2011-07-18T19:00:00+00:00",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Alaska Requirements for Correcting Transgender Driver\u2019s Licenses are Unconstitutional, Says ACLU | American Civil Liberties Union",
+      "og:locale": "en_US",
+      "og:url": "https://www.aclu.org/press-releases/alaska-requirements-correcting-transgender-drivers-licenses-are-unconstitutional-says-aclu",
+      "msapplication-tileimage": "https://assets.aclu.org/live/uploads/2024/11/apple-touch-icon.png@2x-300x300.png",
+      "og:description": "Brief Challenges Requirement that Transgender Persons Undergo Surgery to Correct Gender on License..."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.aclu.org/wp-content/themes/aclu-wp/img/issues/press-release.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Alaska DMV to offer mobile IDs",
+   "htmlTitle": "<b>Alaska</b> DMV to offer mobile IDs",
+   "link": "https://www.alaskasnewssource.com/2025/06/23/alaska-dmv-offers-mobile-ids/",
+   "displayLink": "www.alaskasnewssource.com",
+   "snippet": "Jun 23, 2025 ... ... Alaska law still requires Alaskans to carry and produce a physical driver's license. ... Alaska gives food stamp recipients' personal information\u00a0...",
+   "htmlSnippet": "Jun 23, 2025 <b>...</b> ... <b>Alaska</b> law still requires Alaskans to carry and produce a physical <b>driver&#39;s license</b>. ... <b>Alaska</b> gives food stamp recipients&#39; <b>personal information</b>&nbsp;...",
+   "formattedUrl": "https://www.alaskasnewssource.com/2025/06/.../alaska-dmv-offers-mobile-i...",
+   "htmlFormattedUrl": "https://www.<b>alaska</b>snewssource.com/2025/06/.../<b>alaska</b>-dmv-offers-mobile-i...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx5sljtFzuQMom4m3zrGvoMO44p4bGshtjWhJTATY1zjPgKGwwqIKT_ZY&s",
+      "width": "318",
+      "height": "159"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://gray-ktuu-prod.gtv-cdn.com/resizer/v2/ENP6Z5LZ2NDPXMM3HCULS3TTIU.jpg?auth=647a9c5e78c9ce15eb9cfeecfb000956c8a25613374484bad8db802788c60396&width=1200&height=600&smart=true",
+      "apple-itunes-app": "app-id=1102853872",
+      "copyright": "Copyright (c) 2025",
+      "twitter:card": "summary_large_image",
+      "article:published_time": "2025-06-23T22:31:08.549Z",
+      "og:site_name": "https://www.alaskasnewssource.com",
+      "rating": "general",
+      "distribution": "global",
+      "og:description": "Alaskans have a new option when it comes to verifying their identities \u2014 instead of pulling out a driver\u2019s license, they can now show a mobile ID on their phones.",
+      "twitter:creator": "@AKNewsNow",
+      "article:sections_paths": "/consumer,/news/consumer,/news",
+      "article:publisher": "https://www.facebook.com/AlaskasNewsSource/",
+      "twitter:image": "https://gray-ktuu-prod.gtv-cdn.com/resizer/v2/ENP6Z5LZ2NDPXMM3HCULS3TTIU.jpg?auth=647a9c5e78c9ce15eb9cfeecfb000956c8a25613374484bad8db802788c60396&width=1200&height=600&smart=true",
+      "twitter:site": "@AKNewsNow",
+      "article:modified_time": "2025-06-23T22:31:08.549Z",
+      "news_keywords": "DMV,Alaska Driver's license,Mobile ID",
+      "fb:admins": "644426401",
+      "article:has_video": "true",
+      "article:distributor_subcategory": "gray-original-content",
+      "og:type": "article",
+      "twitter:title": "Alaska DMV to offer mobile IDs",
+      "article:section": "Consumer",
+      "og:title": "Alaska DMV to offer mobile IDs",
+      "googlebot-news": "index",
+      "fb:pages": "108536136665",
+      "fb:app_id": "1785726834984316",
+      "apple-mobile-web-app-status-bar-style": "black-translucent",
+      "viewport": "width=device-width, minimum-scale=1, initial-scale=1, viewport-fit=cover",
+      "twitter:description": "Alaskans have a new option when it comes to verifying their identities \u2014 instead of pulling out a driver\u2019s license, they can now show a mobile ID on their phones.",
+      "og:locale": "en_US",
+      "article:distributor_category": "staff",
+      "article:distributor_name": "Gray TV Stations (English)",
+      "og:url": "https://www.alaskasnewssource.com/2025/06/23/alaska-dmv-offers-mobile-ids/",
+      "google-play-app": "app-id=com.doapps.android.mln.MLN_4d6e4749289c4ec58c0063a90deb3964",
+      "taboola-section": "ktuu",
+      "authors": "Lauren Maxwell"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://gray-ktuu-prod.gtv-cdn.com/resizer/v2/ENP6Z5LZ2NDPXMM3HCULS3TTIU.jpg?auth=647a9c5e78c9ce15eb9cfeecfb000956c8a25613374484bad8db802788c60396&width=1200&height=600&smart=true"
+     }
+    ]
+   }
+  }
+ ]
+}

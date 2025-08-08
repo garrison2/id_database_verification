@@ -1,4 +1,18 @@
-[
-	"\"Arizona Revised Statutes\" \"identification card\" OR \"driver license\"",
-	"banana"
-]
+{
+ "00": "\"{STATE}\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL",
+ "01": "\"{STATE}\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL law OR bill OR order OR \"{STATE_STATUTE}\"",
+ "02": "site:{DMV_WEBSITE} \"driver's license\" OR \"identification card\"",
+ "03": "site:{DMV_WEBSITE} \"REAL ID\"",
+ "04": "site:{DMV_WEBSITE} \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL",
+ "05": "\"{STATE}\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL vendor OR developer OR procurement",
+ "06": "site:apps.apple.com \"{STATE}\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL",
+ "07": "site:play.google.com \"{STATE}\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL",
+ "08": "site:{DMV_WEBSITE} \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL  \"privacy policy\" OR \"privacy notice\" OR \"terms of service\"",
+ "09": "\"{STATE}\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL API",
+ "10": "\"{STATE}\" \"alcohol board\" OR \"ID scanning\" OR \"ID scan\" OR \"scan ID\"",
+ "11": "\"{STATE}\" \"driver's license\" OR \"identity document\" \"personally identifiable information\" OR \"personal information\"",
+ "12": "\"{STATE_STATUTE}\" \"driver's license\" OR \"identification card\" \"verification\" OR \"scanning\" OR \"swiping\" OR \"machine-readable\" OR \"electronically readable\" OR \"transaction scan\" -applicant -application",
+ "13": "\"{STATE_STATUTE}\" \"driver's license\" OR \"identification card\" \"scanning\" OR \"swiping\" around 10 \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+ "14": "\"{STATE}\" \"privacy act\" OR \"privacy law\"",
+ "15": "\"{STATE}\" \"data breach\" law"
+}

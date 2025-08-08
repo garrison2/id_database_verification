@@ -1,0 +1,566 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:play.google.com \"Alaska\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL",
+    "totalResults": "60",
+    "searchTerms": "site:play.google.com \"Alaska\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:play.google.com \"Alaska\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL",
+    "totalResults": "60",
+    "searchTerms": "site:play.google.com \"Alaska\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.276761,
+  "formattedSearchTime": "0.28",
+  "totalResults": "60",
+  "formattedTotalResults": "60"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Alaska Mobile ID - Apps on Google Play",
+   "htmlTitle": "<b>Alaska Mobile ID</b> - Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis.idv.ak.holder.prd&hl=en_US",
+   "displayLink": "play.google.com",
+   "snippet": "This app is for Alaska residents to obtain and use their Alaska Mobile ID. As with your physical driver license, please confirm anyone requesting to verify\u00a0...",
+   "htmlSnippet": "This app is for <b>Alaska</b> residents to obtain and use their <b>Alaska Mobile ID</b>. As with your physical driver license, please confirm anyone requesting to verify&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis.idv.ak.holder.prd&rdid=com.thalesgroup.dis.idv.ak.holder.prd&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgOPSZkhLZRUztCe5pGb--3Mu8VQEpGJELqU8qCsu5syW6UJfFM3LS564&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/zTketRJeFwqpEn0gY9O_-wjaOE9pSHEAD0rP5V8Hxl1t7N5k-ng43AJ3upcOt6g7jC6Q",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Alaska Mobile ID - Apps on Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis.idv.ak.holder.prd&hl=en_US",
+      "appstore:developer_url": "about:invalid#navigation",
+      "og:title": "Alaska Mobile ID - Apps on Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/zTketRJeFwqpEn0gY9O_-wjaOE9pSHEAD0rP5V8Hxl1t7N5k-ng43AJ3upcOt6g7jC6Q=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.thalesgroup.dis.idv.ak.holder.prd",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.thalesgroup.dis.idv.ak.holder.prd",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "This app is for Alaska residents to obtain and use their Alaska Mobile ID.",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis.idv.ak.holder.prd&hl=en_US"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/zTketRJeFwqpEn0gY9O_-wjaOE9pSHEAD0rP5V8Hxl1t7N5k-ng43AJ3upcOt6g7jC6Q"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Alaska Mobile ID Verifier - Apps on Google Play",
+   "htmlTitle": "<b>Alaska Mobile ID</b> Verifier - Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis.idv.ak.verifier.prd&hl=en_US",
+   "displayLink": "play.google.com",
+   "snippet": "Mar 4, 2025 ... Citizens using an mDL or digital identification app, such as Alaska Mobile ID, can provide their proof of age or identity information in a\u00a0...",
+   "htmlSnippet": "Mar 4, 2025 <b>...</b> Citizens using an <b>mDL</b> or digital identification app, such as <b>Alaska Mobile ID</b>, can provide their proof of age or identity information in a&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis.idv.ak.verifier.prd&rdid=com.thalesgroup.dis.idv.ak.verifier.prd&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm3QhaKCIccHhGIb189IK9-mo4h-V4oX8M2jGYwX5DS2RoHyI3B9VzxTs&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/wJh2BYsJYjhvZoM3alllPH6Dspv1HDoygE2U3D6DOhgnL9BOFEjh6zK-gUkYn2pNYdA",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Alaska Mobile ID Verifier - Apps on Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis.idv.ak.verifier.prd&hl=en_US",
+      "appstore:developer_url": "about:invalid#navigation",
+      "og:title": "Alaska Mobile ID Verifier - Apps on Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/wJh2BYsJYjhvZoM3alllPH6Dspv1HDoygE2U3D6DOhgnL9BOFEjh6zK-gUkYn2pNYdA=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.thalesgroup.dis.idv.ak.verifier.prd",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.thalesgroup.dis.idv.ak.verifier.prd",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "This app is for Alaska businesses and organizations to verify Alaska Mobile IDs.",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis.idv.ak.verifier.prd&hl=en_US"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/wJh2BYsJYjhvZoM3alllPH6Dspv1HDoygE2U3D6DOhgnL9BOFEjh6zK-gUkYn2pNYdA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Alaska Mobile ID Verifier - Apps en Google Play",
+   "htmlTitle": "<b>Alaska Mobile ID</b> Verifier - Apps en Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis.idv.ak.verifier.prd&hl=gl",
+   "displayLink": "play.google.com",
+   "snippet": "Mar 4, 2025 ... Os cidad\u00e1ns que utilicen unha aplicaci\u00f3n mDL ou de identificaci\u00f3n dixital, como Alaska Mobile ID, poden proporcionar a s\u00faa proba de idade ou a\u00a0...",
+   "htmlSnippet": "Mar 4, 2025 <b>...</b> Os cidad\u00e1ns que utilicen unha aplicaci\u00f3n <b>mDL</b> ou de identificaci\u00f3n dixital, como <b>Alaska Mobile ID</b>, poden proporcionar a s\u00faa proba de idade ou a&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis.idv.ak.verifier.prd&rdid=com.thalesgroup.dis.idv.ak.verifier.prd&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm3QhaKCIccHhGIb189IK9-mo4h-V4oX8M2jGYwX5DS2RoHyI3B9VzxTs&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/wJh2BYsJYjhvZoM3alllPH6Dspv1HDoygE2U3D6DOhgnL9BOFEjh6zK-gUkYn2pNYdA",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Alaska Mobile ID Verifier - Apps en Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis.idv.ak.verifier.prd&hl=gl",
+      "appstore:developer_url": "about:invalid#navigation",
+      "og:title": "Alaska Mobile ID Verifier - Apps en Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/wJh2BYsJYjhvZoM3alllPH6Dspv1HDoygE2U3D6DOhgnL9BOFEjh6zK-gUkYn2pNYdA=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.thalesgroup.dis.idv.ak.verifier.prd",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.thalesgroup.dis.idv.ak.verifier.prd",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Esta aplicaci\u00f3n \u00e9 para que as empresas e organizaci\u00f3ns de Alaska verifiquen os ID de Alaska Mobile.",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis.idv.ak.verifier.prd&hl=gl"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/wJh2BYsJYjhvZoM3alllPH6Dspv1HDoygE2U3D6DOhgnL9BOFEjh6zK-gUkYn2pNYdA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Alaska Mobile ID Verifier - \u0410\u043f\u043b\u0438\u043a\u0430\u0446\u0438\u0438 \u043d\u0430 Google Play",
+   "htmlTitle": "<b>Alaska Mobile ID</b> Verifier - \u0410\u043f\u043b\u0438\u043a\u0430\u0446\u0438\u0438 \u043d\u0430 Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis.idv.ak.verifier.prd&hl=mk",
+   "displayLink": "play.google.com",
+   "snippet": "\u041e\u0432\u0430\u0430 \u0430\u043f\u043b\u0438\u043a\u0430\u0446\u0438\u0458\u0430 \u0435 \u043d\u0430\u043c\u0435\u043d\u0435\u0442\u0430 \u0437\u0430 \u0431\u0438\u0437\u043d\u0438\u0441\u0438 \u0438 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0438 \u043d\u0430 \u0410\u043b\u0458\u0430\u0441\u043a\u0430 \u0434\u0430 \u0433\u0438 \u043f\u043e\u0442\u0432\u0440\u0434\u0430\u0442 \u043c\u043e\u0431\u0438\u043b\u043d\u0438\u0442\u0435 \u0438\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u043a\u0430\u0442\u043e\u0440\u0438 \u043d\u0430 \u0410\u043b\u0458\u0430\u0441\u043a\u0430. Alaska Mobile ID Verifier by Thales \u0435\u00a0...",
+   "htmlSnippet": "\u041e\u0432\u0430\u0430 \u0430\u043f\u043b\u0438\u043a\u0430\u0446\u0438\u0458\u0430 \u0435 \u043d\u0430\u043c\u0435\u043d\u0435\u0442\u0430 \u0437\u0430 \u0431\u0438\u0437\u043d\u0438\u0441\u0438 \u0438 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0438 \u043d\u0430 \u0410\u043b\u0458\u0430\u0441\u043a\u0430 \u0434\u0430 \u0433\u0438 \u043f\u043e\u0442\u0432\u0440\u0434\u0430\u0442 \u043c\u043e\u0431\u0438\u043b\u043d\u0438\u0442\u0435 \u0438\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u043a\u0430\u0442\u043e\u0440\u0438 \u043d\u0430 \u0410\u043b\u0458\u0430\u0441\u043a\u0430. <b>Alaska Mobile ID</b> Verifier by Thales \u0435&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis.idv.ak.verifier.prd&rdid=com.thalesgroup.dis.idv.ak.verifier.prd&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm3QhaKCIccHhGIb189IK9-mo4h-V4oX8M2jGYwX5DS2RoHyI3B9VzxTs&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/wJh2BYsJYjhvZoM3alllPH6Dspv1HDoygE2U3D6DOhgnL9BOFEjh6zK-gUkYn2pNYdA",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Alaska Mobile ID Verifier - \u0410\u043f\u043b\u0438\u043a\u0430\u0446\u0438\u0438 \u043d\u0430 Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis.idv.ak.verifier.prd&hl=mk",
+      "appstore:developer_url": "about:invalid#navigation",
+      "og:title": "Alaska Mobile ID Verifier - \u0410\u043f\u043b\u0438\u043a\u0430\u0446\u0438\u0438 \u043d\u0430 Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/wJh2BYsJYjhvZoM3alllPH6Dspv1HDoygE2U3D6DOhgnL9BOFEjh6zK-gUkYn2pNYdA=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.thalesgroup.dis.idv.ak.verifier.prd",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.thalesgroup.dis.idv.ak.verifier.prd",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "\u041e\u0432\u0430\u0430 \u0430\u043f\u043b\u0438\u043a\u0430\u0446\u0438\u0458\u0430 \u0435 \u043d\u0430\u043c\u0435\u043d\u0435\u0442\u0430 \u0437\u0430 \u0431\u0438\u0437\u043d\u0438\u0441\u0438 \u0438 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0438 \u043d\u0430 \u0410\u043b\u0458\u0430\u0441\u043a\u0430 \u0434\u0430 \u0433\u0438 \u043f\u043e\u0442\u0432\u0440\u0434\u0430\u0442 \u043c\u043e\u0431\u0438\u043b\u043d\u0438\u0442\u0435 \u0438\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u043a\u0430\u0442\u043e\u0440\u0438 \u043d\u0430 \u0410\u043b\u0458\u0430\u0441\u043a\u0430.",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis.idv.ak.verifier.prd&hl=mk"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/wJh2BYsJYjhvZoM3alllPH6Dspv1HDoygE2U3D6DOhgnL9BOFEjh6zK-gUkYn2pNYdA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Airside Digital Identity - Apps on Google Play",
+   "htmlTitle": "Airside Digital Identity - Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.airsidemobile.digitalid.android.prod",
+   "displayLink": "play.google.com",
+   "snippet": "Your digital ID is in your hands and it's the fastest and most private way ... Waste of time and Alaska is stupid to have to download something else to verify\u00a0...",
+   "htmlSnippet": "Your <b>digital ID</b> is in your hands and it&#39;s the fastest and most private way ... Waste of time and <b>Alaska</b> is stupid to have to download something else to verify&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.airsidemobile.digitalid...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.airsidemobile.<b>digitalid</b>...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.airsidemobile.digitalid.android.prod&rdid=com.airsidemobile.digitalid.android.prod&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBN1kW8kkCOY8z0B71TSPW8NAJEKMTQGZPSwOU1v0tsOOm18zSdeqOTIiW&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/62HyCbdU3_LPmJPmhPmPkPheUt1CW53msOLLG5IAmYLeSgLC_7Eba6aobVWC1MOIbTY",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Airside Digital Identity - Apps on Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.airsidemobile.digitalid.android.prod&hl=en_US",
+      "appstore:developer_url": "https://airsidemobile.com",
+      "og:title": "Airside Digital Identity - Apps on Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/62HyCbdU3_LPmJPmhPmPkPheUt1CW53msOLLG5IAmYLeSgLC_7Eba6aobVWC1MOIbTY=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.airsidemobile.digitalid.android.prod",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.airsidemobile.digitalid.android.prod",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Verify and share your mobile ID",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.airsidemobile.digitalid.android.prod&hl=en_US"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/62HyCbdU3_LPmJPmhPmPkPheUt1CW53msOLLG5IAmYLeSgLC_7Eba6aobVWC1MOIbTY"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Premera - Apps on Google Play",
+   "htmlTitle": "Premera - Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.premera.android",
+   "displayLink": "play.google.com",
+   "snippet": "Show your digital ID card ... Premera Blue Cross is an independent licensee of the Blue Cross Blue Shield Association serving businesses and residents of Alaska\u00a0...",
+   "htmlSnippet": "Show your <b>digital ID</b> card ... Premera Blue Cross is an independent licensee of the Blue Cross Blue Shield Association serving businesses and residents of <b>Alaska</b>&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.premera.android",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.premera.android",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.premera.android&rdid=com.premera.android&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5AnRogDx05L1WClbB2BAOvRwE8zUCSrZOB1r0MU313FWJJHK8dRN_Xq0&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/3DHvb2WBwI40f8V9juHFi0gw9nf0OQUZGQBr3aHgS5PIkpkC79s4ejilSwXjI-Qt8Jo",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Premera - Apps on Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.premera.android&hl=en_US",
+      "appstore:developer_url": "http://www.premera.com",
+      "og:title": "Premera - Apps on Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/3DHvb2WBwI40f8V9juHFi0gw9nf0OQUZGQBr3aHgS5PIkpkC79s4ejilSwXjI-Qt8Jo=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.premera.android",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.premera.android",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Convenient access to your healthcare information",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.premera.android&hl=en_US"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/3DHvb2WBwI40f8V9juHFi0gw9nf0OQUZGQBr3aHgS5PIkpkC79s4ejilSwXjI-Qt8Jo"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Digital iD\u2122 by Australia Post \u2013 Apper p\u00e5 Google Play",
+   "htmlTitle": "<b>Digital iD</b>\u2122 by Australia Post \u2013 Apper p\u00e5 Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.digitalid.android&hl=no",
+   "displayLink": "play.google.com",
+   "snippet": "Digital iD\u2122 by Australia Post. Digital iD. 3,4star. 5,89k anmeldelser ... Alaska Airlines - Travel. Alaska Airlines. 4,5star \u00b7 flagRapporter som upassende.",
+   "htmlSnippet": "<b>Digital iD</b>\u2122 by Australia Post. <b>Digital iD</b>. 3,4star. 5,89k anmeldelser ... <b>Alaska</b> Airlines - Travel. <b>Alaska</b> Airlines. 4,5star &middot; flagRapporter som upassende.",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.digitalid.android&hl...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.<b>digitalid</b>.android&amp;hl...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.digitalid.android&rdid=com.digitalid.android&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVGHabWHiAOJbWW8UkyqQpAJe6NpxIjflRHKZGm0PwUfuWFwhvfry6UOU&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/sxkX69_7SSIfa2E7rw-6jRuaha-4C93F0FW67IayrGI3BJ0smSKfOhqOycQmFoxwgx4",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Digital iD\u2122 by Australia Post \u2013 Apper p\u00e5 Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.digitalid.android&hl=no",
+      "appstore:developer_url": "https://www.digitalid.com",
+      "og:title": "Digital iD\u2122 by Australia Post \u2013 Apper p\u00e5 Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/sxkX69_7SSIfa2E7rw-6jRuaha-4C93F0FW67IayrGI3BJ0smSKfOhqOycQmFoxwgx4=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.digitalid.android",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.digitalid.android",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "ID p\u00e5 telefonen din",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.digitalid.android&hl=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/sxkX69_7SSIfa2E7rw-6jRuaha-4C93F0FW67IayrGI3BJ0smSKfOhqOycQmFoxwgx4"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Digital iD\u2122 by Australia Post - App su Google Play",
+   "htmlTitle": "<b>Digital iD</b>\u2122 by Australia Post - App su Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.digitalid.android&hl=it",
+   "displayLink": "play.google.com",
+   "snippet": "Digital iD\u2122 by Australia Post - App su Google Play. Giochi \u00b7 App \u00b7 Film e TV \u00b7 Libri ... Alaska Airlines - Travel. Alaska Airlines. 4,5star \u00b7 flagSegnala come non\u00a0...",
+   "htmlSnippet": "<b>Digital iD</b>\u2122 by Australia Post - App su Google Play. Giochi &middot; App &middot; Film e TV &middot; Libri ... <b>Alaska</b> Airlines - Travel. <b>Alaska</b> Airlines. 4,5star &middot; flagSegnala come non&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.digitalid.android&hl...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.<b>digitalid</b>.android&amp;hl...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.digitalid.android&rdid=com.digitalid.android&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVGHabWHiAOJbWW8UkyqQpAJe6NpxIjflRHKZGm0PwUfuWFwhvfry6UOU&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/sxkX69_7SSIfa2E7rw-6jRuaha-4C93F0FW67IayrGI3BJ0smSKfOhqOycQmFoxwgx4",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Digital iD\u2122 by Australia Post - App su Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.digitalid.android&hl=it",
+      "appstore:developer_url": "https://www.digitalid.com",
+      "og:title": "Digital iD\u2122 by Australia Post - App su Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/sxkX69_7SSIfa2E7rw-6jRuaha-4C93F0FW67IayrGI3BJ0smSKfOhqOycQmFoxwgx4=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.digitalid.android",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.digitalid.android",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "ID sul tuo telefono",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.digitalid.android&hl=it"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/sxkX69_7SSIfa2E7rw-6jRuaha-4C93F0FW67IayrGI3BJ0smSKfOhqOycQmFoxwgx4"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Digital iD\u2122 by Australia Post - \u1ee8ng d\u1ee5ng tr\u00ean Google Play",
+   "htmlTitle": "<b>Digital iD</b>\u2122 by Australia Post - \u1ee8ng d\u1ee5ng tr\u00ean Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.digitalid.android&hl=vi",
+   "displayLink": "play.google.com",
+   "snippet": "Digital iD\u2122 by Australia Post. Digital iD. 3,4star. 5,87 N b\u00e0i \u0111\u00e1nh gi\u00e1. 500 ... Alaska Airlines - Travel. Alaska Airlines. 4,5star. H\u00ecnh thu nh\u1ecf. Texas Trust\u00a0...",
+   "htmlSnippet": "<b>Digital iD</b>\u2122 by Australia Post. <b>Digital iD</b>. 3,4star. 5,87 N b\u00e0i \u0111\u00e1nh gi\u00e1. 500 ... <b>Alaska</b> Airlines - Travel. <b>Alaska</b> Airlines. 4,5star. H\u00ecnh thu nh\u1ecf. Texas Trust&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.digitalid.android&hl...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.<b>digitalid</b>.android&amp;hl...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.digitalid.android&rdid=com.digitalid.android&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVGHabWHiAOJbWW8UkyqQpAJe6NpxIjflRHKZGm0PwUfuWFwhvfry6UOU&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/sxkX69_7SSIfa2E7rw-6jRuaha-4C93F0FW67IayrGI3BJ0smSKfOhqOycQmFoxwgx4",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Digital iD\u2122 by Australia Post - \u1ee8ng d\u1ee5ng tr\u00ean Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.digitalid.android&hl=vi",
+      "appstore:developer_url": "https://www.digitalid.com",
+      "og:title": "Digital iD\u2122 by Australia Post - \u1ee8ng d\u1ee5ng tr\u00ean Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/sxkX69_7SSIfa2E7rw-6jRuaha-4C93F0FW67IayrGI3BJ0smSKfOhqOycQmFoxwgx4=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.digitalid.android",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.digitalid.android",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "ID tr\u00ean \u0111i\u1ec7n tho\u1ea1i c\u1ee7a b\u1ea1n",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.digitalid.android&hl=vi"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/sxkX69_7SSIfa2E7rw-6jRuaha-4C93F0FW67IayrGI3BJ0smSKfOhqOycQmFoxwgx4"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Digital iD\u2122 by Australia Post - \u0e41\u0e2d\u0e1b\u0e1e\u0e25\u0e34\u0e40\u0e04\u0e0a\u0e31\u0e19\u0e43\u0e19 Google Play",
+   "htmlTitle": "<b>Digital iD</b>\u2122 by Australia Post - \u0e41\u0e2d\u0e1b\u0e1e\u0e25\u0e34\u0e40\u0e04\u0e0a\u0e31\u0e19\u0e43\u0e19 Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.digitalid.android&hl=th",
+   "displayLink": "play.google.com",
+   "snippet": "Digital iD\u2122 by Australia Post. Digital iD. 3.4star. 5.89K \u0e23\u0e35\u0e27\u0e34\u0e27. 500K+. \u0e14\u0e32\u0e27\u0e19\u0e4c\u0e42\u0e2b\u0e25\u0e14 ... Alaska Airlines - Travel. Alaska Airlines. 4.5star \u00b7 flag\u0e41\u0e08\u0e49\u0e07\u0e27\u0e48\u0e32\u0e44\u0e21\u0e48\u0e40\u0e2b\u0e21\u0e32\u0e30\u0e2a\u0e21.",
+   "htmlSnippet": "<b>Digital iD</b>\u2122 by Australia Post. <b>Digital iD</b>. 3.4star. 5.89K \u0e23\u0e35\u0e27\u0e34\u0e27. 500K+. \u0e14\u0e32\u0e27\u0e19\u0e4c\u0e42\u0e2b\u0e25\u0e14 ... <b>Alaska</b> Airlines - Travel. <b>Alaska</b> Airlines. 4.5star &middot; flag\u0e41\u0e08\u0e49\u0e07\u0e27\u0e48\u0e32\u0e44\u0e21\u0e48\u0e40\u0e2b\u0e21\u0e32\u0e30\u0e2a\u0e21.",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.digitalid.android&hl...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.<b>digitalid</b>.android&amp;hl...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.digitalid.android&rdid=com.digitalid.android&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVGHabWHiAOJbWW8UkyqQpAJe6NpxIjflRHKZGm0PwUfuWFwhvfry6UOU&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/sxkX69_7SSIfa2E7rw-6jRuaha-4C93F0FW67IayrGI3BJ0smSKfOhqOycQmFoxwgx4",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Digital iD\u2122 by Australia Post - \u0e41\u0e2d\u0e1b\u0e1e\u0e25\u0e34\u0e40\u0e04\u0e0a\u0e31\u0e19\u0e43\u0e19 Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.digitalid.android&hl=th",
+      "appstore:developer_url": "https://www.digitalid.com",
+      "og:title": "Digital iD\u2122 by Australia Post - \u0e41\u0e2d\u0e1b\u0e1e\u0e25\u0e34\u0e40\u0e04\u0e0a\u0e31\u0e19\u0e43\u0e19 Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/sxkX69_7SSIfa2E7rw-6jRuaha-4C93F0FW67IayrGI3BJ0smSKfOhqOycQmFoxwgx4=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.digitalid.android",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.digitalid.android",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "ID \u0e1a\u0e19\u0e42\u0e17\u0e23\u0e28\u0e31\u0e1e\u0e17\u0e4c\u0e02\u0e2d\u0e07\u0e04\u0e38\u0e13",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.digitalid.android&hl=th"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/sxkX69_7SSIfa2E7rw-6jRuaha-4C93F0FW67IayrGI3BJ0smSKfOhqOycQmFoxwgx4"
+     }
+    ]
+   }
+  }
+ ]
+}
