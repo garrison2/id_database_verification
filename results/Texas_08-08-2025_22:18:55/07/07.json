@@ -1,0 +1,566 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:play.google.com \"Texas\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL",
+    "totalResults": "124",
+    "searchTerms": "site:play.google.com \"Texas\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:play.google.com \"Texas\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL",
+    "totalResults": "124",
+    "searchTerms": "site:play.google.com \"Texas\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.170241,
+  "formattedSearchTime": "0.17",
+  "totalResults": "124",
+  "formattedTotalResults": "124"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Texas by Texas (TxT) - Apps on Google Play",
+   "htmlTitle": "<b>Texas</b> by <b>Texas</b> (TxT) - Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details?id=gov.texas.dir.txt.eProd",
+   "displayLink": "play.google.com",
+   "snippet": "Take care of your government to-dos easier, faster, and more securely with Texas by Texas (TxT) \u2014 an official Texas.gov app. Available services:",
+   "htmlSnippet": "Take care of your government to-dos easier, faster, and more securely with <b>Texas</b> by <b>Texas</b> (TxT) \u2014 an official <b>Texas</b>.gov app. Available services:",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=gov.texas.dir.txt.eProd",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=gov.<b>texas</b>.dir.txt.eProd",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=gov.texas.dir.txt.eProd&rdid=gov.texas.dir.txt.eProd&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy0MIOGlmG_gjMqxd_n3HeKbKzOqonrBdC-At4sQFeyu5ao0fyp7jK6ptz&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/kSdxTDPFQXqJ_RKkqvL0fBuUrp9aSB-QaKsC2VKjCO-I1jUOCzKThg_0Xm7nVZIzDBc",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Texas by Texas (TxT) - Apps on Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=gov.texas.dir.txt.eProd&hl=en_US",
+      "appstore:developer_url": "https://www.texas.gov/texas-by-texas/",
+      "og:title": "Texas by Texas (TxT) - Apps on Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/kSdxTDPFQXqJ_RKkqvL0fBuUrp9aSB-QaKsC2VKjCO-I1jUOCzKThg_0Xm7nVZIzDBc=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "gov.texas.dir.txt.eProd",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "gov.texas.dir.txt.eProd",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Renew your Texas vehicle registration, driver license, ID, and more.",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=gov.texas.dir.txt.eProd&hl=en_US"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/kSdxTDPFQXqJ_RKkqvL0fBuUrp9aSB-QaKsC2VKjCO-I1jUOCzKThg_0Xm7nVZIzDBc"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "New York Mobile ID \u2013 Apps on Google Play",
+   "htmlTitle": "New York <b>Mobile ID</b> \u2013 Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.ny&hl=en_NZ",
+   "displayLink": "play.google.com",
+   "snippet": "Only your Face ID, TouchID or six-digit pin will unlock the app and access your Mobile ID. ... Texas Trust Credit Union. 4.8star. Thumbnail image. Psync - Capture\u00a0...",
+   "htmlSnippet": "Only your Face ID, TouchID or six-digit pin will unlock the app and access your <b>Mobile ID</b>. ... <b>Texas</b> Trust Credit Union. 4.8star. Thumbnail image. Psync - Capture&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.idemia.mobileid...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.idemia.<b>mobileid</b>...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.ny&rdid=com.idemia.mobileid.us.ny&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHJNYUO8IoZZ484aPmzX8DfaRwHYsSrpd9NkrYSObPC9DXa5D6jx1rpOl&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/qZx0LnmqwRjvaS4c1UU6bXbLWMqGgVN67OYTZD4ZtKJgw8CC8l686dK91iZO7hRT1A",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "New York Mobile ID \u2013 Apps on Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.ny&hl=en_NZ",
+      "appstore:developer_url": "https://dmv.ny.gov/mobileid",
+      "og:title": "New York Mobile ID \u2013 Apps on Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/qZx0LnmqwRjvaS4c1UU6bXbLWMqGgVN67OYTZD4ZtKJgw8CC8l686dK91iZO7hRT1A=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.idemia.mobileid.us.ny",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.idemia.mobileid.us.ny",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "NY official digital ID",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.ny&hl=en_NZ"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/qZx0LnmqwRjvaS4c1UU6bXbLWMqGgVN67OYTZD4ZtKJgw8CC8l686dK91iZO7hRT1A"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Mobile ID - Apps en Google Play",
+   "htmlTitle": "Arizona <b>Mobile ID</b> - Apps en Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.az&hl=es_MX",
+   "displayLink": "play.google.com",
+   "snippet": "Arizona Mobile ID - Apps en Google Play. Juegos ... Twenty Inc. 4.7star \u00b7 Imagen en miniatura. Your Texas Benefits. Texas Health & Human Services Commission.",
+   "htmlSnippet": "Arizona <b>Mobile ID</b> - Apps en Google Play. Juegos ... Twenty Inc. 4.7star &middot; Imagen en miniatura. Your <b>Texas</b> Benefits. <b>Texas</b> Health &amp; Human Services Commission.",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.idemia.mobileid...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.idemia.<b>mobileid</b>...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.az&rdid=com.idemia.mobileid.us.az&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSggQOlqDP4rbMTORUlOksrympp4BCDLmFKiXUbeGwQBXgyZI4GBZElJvjk&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/oLKG-sGvxAelwfZvLWR-_UST30oxz6VN3eQcUZxrJ1R7qNp-TjsUasgWEiNdUqesz5g",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Arizona Mobile ID - Apps en Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.az&hl=es_MX",
+      "appstore:developer_url": "about:invalid#navigation",
+      "og:title": "Arizona Mobile ID - Apps en Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/oLKG-sGvxAelwfZvLWR-_UST30oxz6VN3eQcUZxrJ1R7qNp-TjsUasgWEiNdUqesz5g=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.idemia.mobileid.us.az",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.idemia.mobileid.us.az",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "ID digital oficial de AZ",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.az&hl=es_MX"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/oLKG-sGvxAelwfZvLWR-_UST30oxz6VN3eQcUZxrJ1R7qNp-TjsUasgWEiNdUqesz5g"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Mobile ID - Apps en Google Play",
+   "htmlTitle": "Arizona <b>Mobile ID</b> - Apps en Google Play",
+   "link": "https://play.google.com/store/apps/details/Arizona_Mobile_ID?id=com.idemia.mobileid.us.az&hl=es_419",
+   "displayLink": "play.google.com",
+   "snippet": "Arizona Mobile ID - Apps en Google Play. Juegos ... Twenty Inc. 4.7star \u00b7 Imagen en miniatura. Your Texas Benefits. Texas Health & Human Services Commission.",
+   "htmlSnippet": "Arizona <b>Mobile ID</b> - Apps en Google Play. Juegos ... Twenty Inc. 4.7star &middot; Imagen en miniatura. Your <b>Texas</b> Benefits. <b>Texas</b> Health &amp; Human Services Commission.",
+   "formattedUrl": "https://play.google.com/store/apps/.../Arizona_Mobile_ID?id...mobileid...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/.../Arizona_<b>Mobile_ID</b>?id...<b>mobileid</b>...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.az&rdid=com.idemia.mobileid.us.az&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSggQOlqDP4rbMTORUlOksrympp4BCDLmFKiXUbeGwQBXgyZI4GBZElJvjk&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/oLKG-sGvxAelwfZvLWR-_UST30oxz6VN3eQcUZxrJ1R7qNp-TjsUasgWEiNdUqesz5g",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Arizona Mobile ID - Apps en Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details/Arizona_Mobile_ID?id=com.idemia.mobileid.us.az&hl=es_419",
+      "appstore:developer_url": "about:invalid#navigation",
+      "og:title": "Arizona Mobile ID - Apps en Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/oLKG-sGvxAelwfZvLWR-_UST30oxz6VN3eQcUZxrJ1R7qNp-TjsUasgWEiNdUqesz5g=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.idemia.mobileid.us.az",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.idemia.mobileid.us.az",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "ID digital oficial de AZ",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details/Arizona_Mobile_ID?id=com.idemia.mobileid.us.az&hl=es_419"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/oLKG-sGvxAelwfZvLWR-_UST30oxz6VN3eQcUZxrJ1R7qNp-TjsUasgWEiNdUqesz5g"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile ID Verify - Apps en Google Play",
+   "htmlTitle": "<b>Mobile ID</b> Verify - Apps en Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.idemia.idverify.android&hl=es_US",
+   "displayLink": "play.google.com",
+   "snippet": "Mobile ID Verify by IDEMIA escanea y verifica las credenciales de identidad digital, como las licencias de conducir m\u00f3viles (mDL) y las ID m\u00f3viles emitidas\u00a0...",
+   "htmlSnippet": "<b>Mobile ID</b> Verify by IDEMIA escanea y verifica las credenciales de identidad digital, como las licencias de conducir m\u00f3viles (<b>mDL</b>) y las ID m\u00f3viles emitidas&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.idemia.idverify...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.idemia.idverify...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.idemia.idverify.android&rdid=com.idemia.idverify.android&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5PNHxY0qASd-FneZoQHI4lJ-9I_wCyPeBWgwfJU2Gp_fTEUNJ5AUDoPU&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/DlT2RJssuAvdpXSa9ajg8iUgshJXtgvqf-GF_fEFAe-GM3wsowAQvzvZOrK-D9ksDw",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Mobile ID Verify - Apps en Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.idemia.idverify.android&hl=es_US",
+      "appstore:developer_url": "https://www.idemia-mobile-id.com/",
+      "og:title": "Mobile ID Verify - Apps en Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/DlT2RJssuAvdpXSa9ajg8iUgshJXtgvqf-GF_fEFAe-GM3wsowAQvzvZOrK-D9ksDw=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.idemia.idverify.android",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.idemia.idverify.android",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Escanee y verifique las credenciales digitales de ID m\u00f3viles (mDL).",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.idemia.idverify.android&hl=es_US"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/DlT2RJssuAvdpXSa9ajg8iUgshJXtgvqf-GF_fEFAe-GM3wsowAQvzvZOrK-D9ksDw"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "LA Wallet \u2013 Apps on Google Play",
+   "htmlTitle": "LA Wallet \u2013 Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details?id=gov.la.omv.lawallet&hl=en_IE",
+   "displayLink": "play.google.com",
+   "snippet": "Louisiana Digital Driver's License. ... Texas Health & Human Services Commission. 4.8star \u00b7 flagFlag as inappropriate. Google Play. Play Pass \u00b7 Play Points \u00b7 Gift\u00a0...",
+   "htmlSnippet": "Louisiana <b>Digital Driver&#39;s License</b>. ... <b>Texas</b> Health &amp; Human Services Commission. 4.8star &middot; flagFlag as inappropriate. Google Play. Play Pass &middot; Play Points &middot; Gift&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=gov.la.omv.lawallet...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=gov.la.omv.lawallet...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=gov.la.omv.lawallet&rdid=gov.la.omv.lawallet&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm__9nHQTgLGM3QFfxMRAhw5EyV0nmUpuEBtgcNqeB3mUHrYt_RjXRM7c&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/zOXEaJ_vLkJ34XVQZl_a01JqKr8wENhTQtOWeiyd-ijRcUc93zXzDomeAAUeov_xgn1n",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "LA Wallet \u2013 Apps on Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=gov.la.omv.lawallet&hl=en_IE",
+      "appstore:developer_url": "https://lawallet.com",
+      "og:title": "LA Wallet \u2013 Apps on Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/zOXEaJ_vLkJ34XVQZl_a01JqKr8wENhTQtOWeiyd-ijRcUc93zXzDomeAAUeov_xgn1n=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "gov.la.omv.lawallet",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "gov.la.omv.lawallet",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Louisiana Digital Driver's License",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=gov.la.omv.lawallet&hl=en_IE"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/zOXEaJ_vLkJ34XVQZl_a01JqKr8wENhTQtOWeiyd-ijRcUc93zXzDomeAAUeov_xgn1n"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mercury Insurance: Car & Home - Apps on Google Play",
+   "htmlTitle": "Mercury Insurance: Car &amp; Home - Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.mercuryinsurance.cpmobileapp",
+   "displayLink": "play.google.com",
+   "snippet": "Get quick, easy access to your home and car insurance policies and digital ID cards, pay your bills, call roadside assistance, and more \u2014 from one convenient\u00a0...",
+   "htmlSnippet": "Get quick, easy access to your home and car insurance policies and <b>digital ID</b> cards, pay your bills, call roadside assistance, and more \u2014 from one convenient&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.mercuryinsurance...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.mercuryinsurance...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.mercuryinsurance.cpmobileapp&rdid=com.mercuryinsurance.cpmobileapp&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu2OzOOXa37WCHGrBCEozMZahv4KXH2vKNSLEITAFz_L4LkogLmPUYCKWP&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/pCzR5ZPc3iz4TL4WMsQ2GHOcAflO9Jo0Bk1zWKWyEJHCxAbctjxwgIfrntC52uo6Qhw",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Mercury Insurance: Car & Home - Apps on Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.mercuryinsurance.cpmobileapp&hl=en_US",
+      "appstore:developer_url": "https://www.mercuryinsurance.com",
+      "og:title": "Mercury Insurance: Car & Home - Apps on Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/pCzR5ZPc3iz4TL4WMsQ2GHOcAflO9Jo0Bk1zWKWyEJHCxAbctjxwgIfrntC52uo6Qhw=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.mercuryinsurance.cpmobileapp",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.mercuryinsurance.cpmobileapp",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Manage home & auto policies-- get ID cards, roadside assistance & make payments!",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.mercuryinsurance.cpmobileapp&hl=en_US"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/pCzR5ZPc3iz4TL4WMsQ2GHOcAflO9Jo0Bk1zWKWyEJHCxAbctjxwgIfrntC52uo6Qhw"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mercury Insurance \u2013 Apps on Google Play",
+   "htmlTitle": "Mercury Insurance \u2013 Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.mercuryinsurance.cpmobileapp&hl=en_ZA",
+   "displayLink": "play.google.com",
+   "snippet": "Digital ID Cards \u2014 No longer do you have to comb through your wallet, purse, or glove box to find your insurance ID card. Download the Mercury Insurance app to\u00a0...",
+   "htmlSnippet": "<b>Digital ID</b> Cards \u2014 No longer do you have to comb through your wallet, purse, or glove box to find your insurance ID card. Download the Mercury Insurance app to&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.mercuryinsurance...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.mercuryinsurance...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.mercuryinsurance.cpmobileapp&rdid=com.mercuryinsurance.cpmobileapp&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfuKU2spu17acI0dskLNMkjl-xualuqXvjpFFSLVXKNYzFmX35bJ6ina_Z&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/2AhNOwc2bwBOlD1TetvxlmwTiKjIrKCeJJJDS-9WnFjUE342ZbkGdJKi1B0g8WRAMzA",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Mercury Insurance \u2013 Apps on Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.mercuryinsurance.cpmobileapp&hl=en_ZA",
+      "appstore:developer_url": "https://www.mercuryinsurance.com",
+      "og:title": "Mercury Insurance \u2013 Apps on Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/2AhNOwc2bwBOlD1TetvxlmwTiKjIrKCeJJJDS-9WnFjUE342ZbkGdJKi1B0g8WRAMzA=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.mercuryinsurance.cpmobileapp",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.mercuryinsurance.cpmobileapp",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Access your insurance policies, pay bills, call roadside assistance, and more",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.mercuryinsurance.cpmobileapp&hl=en_ZA"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/2AhNOwc2bwBOlD1TetvxlmwTiKjIrKCeJJJDS-9WnFjUE342ZbkGdJKi1B0g8WRAMzA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "myID - Australian Government \u2013 Google Play ilovalari",
+   "htmlTitle": "myID - Australian Government \u2013 Google Play ilovalari",
+   "link": "https://play.google.com/store/apps/details?id=au.gov.ato.mygovid.droid&hl=uz",
+   "displayLink": "play.google.com",
+   "snippet": "myID is the Australian Government's Digital ID app (formerly known as myGovID). ... PNC Bank, N.A.. 4,5star \u00b7 Eskiz rasmi. Your Texas Benefits. Texas Health &\u00a0...",
+   "htmlSnippet": "myID is the Australian Government&#39;s <b>Digital ID</b> app (formerly known as myGovID). ... PNC Bank, N.A.. 4,5star &middot; Eskiz rasmi. Your <b>Texas</b> Benefits. <b>Texas</b> Health &amp;&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=au.gov.ato.mygovid...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=au.gov.ato.mygovid...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=au.gov.ato.mygovid.droid&rdid=au.gov.ato.mygovid.droid&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxSTyiVWba7vO5fFBNvgE8sNeGLWyl8Ub6PtKBbZ-4Ac5YbwUL9gfw8mOp&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/nqY_dtOXtWIvYu6ZfwKYLPClOoJbq_t8IUdXLhHkHB6QOzZj6UcYJSGmgt3f9qR77OQ",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "myID - Australian Government \u2013 Google Play ilovalari",
+      "twitter:url": "https://play.google.com/store/apps/details?id=au.gov.ato.mygovid.droid&hl=uz",
+      "appstore:developer_url": "https://www.myid.gov.au",
+      "og:title": "myID - Australian Government \u2013 Google Play ilovalari",
+      "twitter:image": "https://play-lh.googleusercontent.com/nqY_dtOXtWIvYu6ZfwKYLPClOoJbq_t8IUdXLhHkHB6QOzZj6UcYJSGmgt3f9qR77OQ=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "au.gov.ato.mygovid.droid",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "au.gov.ato.mygovid.droid",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Securely verify your ID online",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=au.gov.ato.mygovid.droid&hl=uz"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/nqY_dtOXtWIvYu6ZfwKYLPClOoJbq_t8IUdXLhHkHB6QOzZj6UcYJSGmgt3f9qR77OQ"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "OTP Mobile Banking Moldova - Apps on Google Play",
+   "htmlTitle": "OTP Mobile Banking Moldova - Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details?id=md.mobiasbanca.otpdirekt",
+   "displayLink": "play.google.com",
+   "snippet": "We have improved the process of making MDL payments to legal entities via OTP Internet Banking! ... Texas Health & Human Services Commission. 4.8star.",
+   "htmlSnippet": "We have improved the process of making <b>MDL</b> payments to legal entities via OTP Internet Banking! ... <b>Texas</b> Health &amp; Human Services Commission. 4.8star.",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=md.mobiasbanca.otpdirekt",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=md.mobiasbanca.otpdirekt",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=md.mobiasbanca.otpdirekt&rdid=md.mobiasbanca.otpdirekt&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrs4pTCMgaxJ4PG_FR0WhxGjSqdL7xp2wv0OhgtSQUkoGsyfKGTAHaztA8&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/2eqXsxMZmSU4kiQ0b2CWRSeGDO4gu2aYI9JbFaiIbn7rDcvD4uoo_CtE1haMdu30qivX",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "OTP Mobile Banking Moldova - Apps on Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=md.mobiasbanca.otpdirekt&hl=en_US",
+      "appstore:developer_url": "https://otpbank.md/",
+      "og:title": "OTP Mobile Banking Moldova - Apps on Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/2eqXsxMZmSU4kiQ0b2CWRSeGDO4gu2aYI9JbFaiIbn7rDcvD4uoo_CtE1haMdu30qivX=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "md.mobiasbanca.otpdirekt",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "md.mobiasbanca.otpdirekt",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "The only app you will ever need to manage your personal and business finances!",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=md.mobiasbanca.otpdirekt&hl=en_US"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/2eqXsxMZmSU4kiQ0b2CWRSeGDO4gu2aYI9JbFaiIbn7rDcvD4uoo_CtE1haMdu30qivX"
+     }
+    ]
+   }
+  }
+ ]
+}

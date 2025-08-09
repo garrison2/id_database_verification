@@ -1,0 +1,375 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site: \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL  \"privacy policy\" OR \"privacy notice\" OR \"terms of service\"",
+    "totalResults": "50700000",
+    "searchTerms": "site: \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL  \"privacy policy\" OR \"privacy notice\" OR \"terms of service\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site: \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL  \"privacy policy\" OR \"privacy notice\" OR \"terms of service\"",
+    "totalResults": "50700000",
+    "searchTerms": "site: \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL  \"privacy policy\" OR \"privacy notice\" OR \"terms of service\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.145781,
+  "formattedSearchTime": "0.15",
+  "totalResults": "50700000",
+  "formattedTotalResults": "50,700,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Privacy Policy | MDL autoMation",
+   "htmlTitle": "<b>Privacy Policy</b> | <b>MDL</b> autoMation",
+   "link": "https://mdlautomation.com/privacy-policy/",
+   "displayLink": "mdlautomation.com",
+   "snippet": "View MDL autoMation's privacy policy. We respect your need for online privacy and protect any business and personal information that you may share with us.",
+   "htmlSnippet": "View <b>MDL</b> autoMation&#39;s <b>privacy policy</b>. We respect your need for online privacy and protect any business and personal information that you may share with us.",
+   "formattedUrl": "https://mdlautomation.com/privacy-policy/",
+   "htmlFormattedUrl": "https://<b>mdl</b>automation.com/<b>privacy-policy</b>/",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "MDL autoMation",
+      "article:modified_time": "2019-08-26T22:07:26+00:00",
+      "viewport": "width=device-width",
+      "og:title": "Privacy Policy | MDL autoMation",
+      "og:locale": "en_US",
+      "bingbot": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+      "og:url": "https://mdlautomation.com/privacy-policy/",
+      "og:description": "View MDL autoMation's privacy policy. We respect your need for online privacy and protect any business and personal information that you may share with us.",
+      "format-detection": "telephone=no"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CA DMV Wallet & mDL Pilot - California DMV",
+   "htmlTitle": "CA DMV Wallet &amp; <b>mDL</b> Pilot - California DMV",
+   "link": "https://www.dmv.ca.gov/portal/ca-dmv-wallet/",
+   "displayLink": "www.dmv.ca.gov",
+   "snippet": "The CA DMV Wallet app holds your mobile driver's license (mDL) - a free, digital, secure, and convenient version of your California DL/ID.",
+   "htmlSnippet": "The CA DMV Wallet app holds your <b>mobile driver&#39;s license</b> (<b>mDL</b>) - a free, digital, secure, and convenient version of your California DL/ID.",
+   "formattedUrl": "https://www.dmv.ca.gov/portal/ca-dmv-wallet/",
+   "htmlFormattedUrl": "https://www.dmv.ca.gov/portal/ca-dmv-wallet/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZHk_ML745B7xRHSHo_ZBl0g65ylI5dja8Phvyh5R_5WHiBIIYpxdvFsfX&s",
+      "width": "280",
+      "height": "180"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.ca.gov/portal/uploads/2023/08/DMV_mDL_1320w_450h_Silvia_850px_Taller_update-2.jpg",
+      "og:type": "article",
+      "og:image:width": "1320",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "California DMV",
+      "og:title": "CA DMV Wallet & mDL Pilot - California DMV",
+      "og:image:height": "850",
+      "twitter:label1": "Est. reading time",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://www.dmv.ca.gov/portal/uploads/2020/02/cropped-dmv_favicon_Final_png-1-270x270.png",
+      "og:description": "The CA DMV Wallet app holds your mobile driver\u2019s license (mDL) - a free, digital, secure, and convenient version of your California DL/ID.",
+      "article:publisher": "https://www.facebook.com/CADMV",
+      "twitter:data1": "3 minutes",
+      "twitter:site": "@ca_dmv",
+      "article:modified_time": "2025-07-24T23:01:28+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.dmv.ca.gov/portal/ca-dmv-wallet/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.ca.gov/portal/uploads/2023/08/DMV_mDL_1320w_450h_Silvia_850px_Taller_update-2.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Thales mobile Driver License (mDL) Privacy Policy Terms",
+   "htmlTitle": "Thales mobile Driver License (<b>mDL</b>) <b>Privacy Policy</b> Terms",
+   "link": "https://www.thalesgroup.com/en/markets/digital-identity-and-security/policies/privacy-policy-mdl",
+   "displayLink": "www.thalesgroup.com",
+   "snippet": "This document acts as Privacy Policy Terms for any Thales mobile Driver License (mDL) ... privacy-notice. As Thales contracts directly with US State and/or\u00a0...",
+   "htmlSnippet": "This document acts as <b>Privacy Policy</b> Terms for any Thales mobile Driver License (<b>mDL</b>) ... <b>privacy-notice</b>. As Thales contracts directly with US State and/or&nbsp;...",
+   "formattedUrl": "https://www.thalesgroup.com/en/.../digital-identity-and.../privacy-policy-m...",
+   "htmlFormattedUrl": "https://www.thalesgroup.com/en/.../<b>digital-id</b>entity-and.../<b>privacy-policy</b>-<b>m</b>...",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:site_name": "Thales Group",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Thales mobile Driver License (mDL) Privacy Policy Terms",
+      "mobileoptimized": "width",
+      "og:url": "https://www.thalesgroup.com/en/markets/digital-identity-and-security/policies/privacy-policy-mdl"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Privacy Policy | Digital ID System",
+   "htmlTitle": "<b>Privacy Policy</b> | <b>Digital ID</b> System",
+   "link": "https://www.digitalidsystem.gov.au/privacy-policy",
+   "displayLink": "www.digitalidsystem.gov.au",
+   "snippet": "The Department of Finance manages the Digital ID Program and this website. Our Privacy Policy tells you how we collect and use your personal information.",
+   "htmlSnippet": "The Department of Finance manages the <b>Digital ID</b> Program and this <b>website</b>. Our <b>Privacy Policy</b> tells you how we collect and use your personal information.",
+   "formattedUrl": "https://www.digitalidsystem.gov.au/privacy-policy",
+   "htmlFormattedUrl": "https://www.<b>digitalid</b>system.gov.au/<b>privacy-policy</b>",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "rights": "CC BY 4.0",
+      "mobileoptimized": "width",
+      "abstract": "Your Digital ID allows you to prove who you are online, and you can re-use your Digital ID whenever you need it."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Verify Privacy Policy \u2014 IDEMIA",
+   "htmlTitle": "Verify <b>Privacy Policy</b> \u2014 IDEMIA",
+   "link": "https://idemia-mobile-id.com/verify/privacy-policy",
+   "displayLink": "idemia-mobile-id.com",
+   "snippet": "Mobile ID \u00b7 ID Verify App \u00b7 FAQs. Support. Mobile ID App \u00b7 Proctor ID App \u00b7 Contact ... The latest version of the Privacy Statement can be found at Privacy Policy\u00a0...",
+   "htmlSnippet": "<b>Mobile ID</b> &middot; ID Verify App &middot; FAQs. Support. <b>Mobile ID</b> App &middot; Proctor ID App &middot; Contact ... The latest version of the Privacy Statement can be found at <b>Privacy Policy</b>&nbsp;...",
+   "formattedUrl": "https://idemia-mobile-id.com/verify/privacy-policy",
+   "htmlFormattedUrl": "https://idemia-<b>mobile-id</b>.com/verify/<b>privacy-policy</b>",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:type": "website",
+      "twitter:title": "Verify Privacy Policy \u2014 IDEMIA",
+      "twitter:card": "summary",
+      "og:site_name": "IDEMIA",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:url": "https://idemia-mobile-id.com/verify/privacy-policy",
+      "og:title": "Verify Privacy Policy \u2014 IDEMIA",
+      "og:url": "https://idemia-mobile-id.com/verify/privacy-policy"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "State of Illinois - Digital ID - Privacy Policy",
+   "htmlTitle": "State of Illinois - <b>Digital ID</b> - <b>Privacy Policy</b>",
+   "link": "https://enroll.pki.illinois.gov/UserRegistration/en_US/soi_privacy.htm",
+   "displayLink": "enroll.pki.illinois.gov",
+   "snippet": "Digital ID | Privacy Policy. State of Illinois Digital ID Privacy Notice ... The user expressly agrees that use of the State's web site is at the user's sole risk\u00a0...",
+   "htmlSnippet": "<b>Digital ID</b> | <b>Privacy Policy</b>. State of Illinois <b>Digital ID Privacy Notice</b> ... The user expressly agrees that use of the State&#39;s <b>web site</b> is at the user&#39;s sole risk&nbsp;...",
+   "formattedUrl": "https://enroll.pki.illinois.gov/UserRegistration/en_US/soi_privacy.htm",
+   "htmlFormattedUrl": "https://enroll.pki.illinois.gov/UserRegistration/en_US/soi_privacy.htm",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsY7OY1JEV12UDoTk-Qtr-_3qe_xeyB6ZFE7efEMX1FIRhGppLU2_NDg&s",
+      "width": "190",
+      "height": "100"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://enroll.pki.illinois.gov/UserRegistration/en_US/images/sitelogo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile ID Privacy Policy | Virginia Department of Motor Vehicles",
+   "htmlTitle": "<b>Mobile ID Privacy Policy</b> | Virginia Department of Motor Vehicles",
+   "link": "https://www.dmv.virginia.gov/licenses-ids/mobile-id/privacy",
+   "displayLink": "www.dmv.virginia.gov",
+   "snippet": "Mobile ID Privacy Policy. NOTE: We are currently test driving Virginia Mobile ID. DMV agrees without reservation\u00a0...",
+   "htmlSnippet": "<b>Mobile ID Privacy Policy</b>. NOTE: We are currently test driving Virginia <b>Mobile ID</b>. DMV agrees without reservation&nbsp;...",
+   "formattedUrl": "https://www.dmv.virginia.gov/licenses-ids/mobile-id/privacy",
+   "htmlFormattedUrl": "https://www.dmv.virginia.gov/licenses-ids/<b>mobile-id</b>/privacy",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrdzU_br5_YiI8EoVeeqQ5dyWirS6kSf6gMmItyunE0eSSImAMJzSfuNQ&s",
+      "width": "224",
+      "height": "224"
+     }
+    ],
+    "metatags": [
+     {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Mobile ID Privacy Policy",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Mobile ID Privacy Policy",
+      "mobileoptimized": "width",
+      "og:description": "DMV agrees without reservation or qualification that it and its officers, employees, agents, and/or authorized users shall comply with, and be subject to the penalties for violations of, all laws and regulations, whether federal or state, pertaining to the access, use, and/or dissemination of information, including but not limited to, the Federal Driver\u2019s Privacy Protection Act of 1994, 18 U.S.C. \u00a7 2721 et seq.; the Federal Fair Credit Reporting Act, 15 U.S.C.",
+      "twitter:creator": "@VirginiaDMV"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.developer.virginia.gov/media/developer/assets/img/close_icon.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile ID \u2013 Arkansas Department of Finance and Administration",
+   "htmlTitle": "<b>Mobile ID</b> \u2013 Arkansas Department of Finance and Administration",
+   "link": "https://www.dfa.arkansas.gov/office/driver-services/mobile-id/",
+   "displayLink": "www.dfa.arkansas.gov",
+   "snippet": "Arkansas Mobile ID. Arkansas Mobile ID allows Arkansas residents to manage ... Privacy Policy \u00b7 Alerts \u00b7 Security Policy \u00b7 Acceptable Use \u00b7 Transparency. \u00a92025\u00a0...",
+   "htmlSnippet": "Arkansas <b>Mobile ID</b>. Arkansas <b>Mobile ID</b> allows Arkansas residents to manage ... <b>Privacy Policy</b> &middot; Alerts &middot; Security Policy &middot; Acceptable Use &middot; Transparency. \u00a92025&nbsp;...",
+   "formattedUrl": "https://www.dfa.arkansas.gov/office/driver-services/mobile-id/",
+   "htmlFormattedUrl": "https://www.dfa.arkansas.gov/office/driver-services/<b>mobile-id</b>/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ0k7syzdWQFBKqOASM2LtQsJQg3uukNEcIoP72PR4dTsXFzDadPt8TdU&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dfa.arkansas.gov/wp-content/uploads/arkansas-state-flag--scaled.jpg",
+      "og:type": "article",
+      "og:image:width": "2560",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Arkansas Department of Finance and Administration",
+      "og:title": "Mobile ID \u2013 Arkansas Department of Finance and Administration",
+      "og:image:height": "1440",
+      "twitter:label1": "Est. reading time",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://www.dfa.arkansas.gov/wp-content/uploads/DFA-Logo.svg",
+      "og:description": "Arkansas Mobile ID is a secure, digital version of a state-issued driver\u2019s license or ID card that residents can access on their smartphones. It provides a convenient and contactless way to verify identity, offering enhanced security features to prevent fraud and ensure privacy. Mobile ID can be used for age verification, airport security, and other [\u2026]",
+      "article:publisher": "https://www.facebook.com/ArkansasDFA/",
+      "twitter:data1": "1 minute",
+      "twitter:site": "@arkansasdfa",
+      "article:modified_time": "2025-03-06T18:28:40+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "ina-man": "fw",
+      "og:url": "https://www.dfa.arkansas.gov/office/driver-services/mobile-id/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dfa.arkansas.gov/wp-content/uploads/arkansas-state-flag--scaled.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Privacy Policy - MDL Group",
+   "htmlTitle": "<b>Privacy Policy</b> - <b>MDL</b> Group",
+   "link": "https://www.mdlgroup.com/privacy-policy/",
+   "displayLink": "www.mdlgroup.com",
+   "snippet": "Please note that this policy applies only to sites maintained by MDL Group ... Terms of Service. Cookies and Other Technologies Cookies: We use cookies\u00a0...",
+   "htmlSnippet": "Please note that this policy applies only to <b>sites</b> maintained by <b>MDL</b> Group ... <b>Terms of Service</b>. Cookies and Other Technologies Cookies: We use cookies&nbsp;...",
+   "formattedUrl": "https://www.mdlgroup.com/privacy-policy/",
+   "htmlFormattedUrl": "https://www.<b>mdl</b>group.com/<b>privacy-policy</b>/",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "MDL Group",
+      "og:title": "Privacy Policy - MDL Group",
+      "twitter:label1": "Est. reading time",
+      "og:description": "MDL Group and its subsidiary companies respect the privacy rights of our online visitors and recognize the importance of protecting the information collected from you. We have adopted a corporate wide Online Privacy Policy that guides how we collect, store and use the information you provide online",
+      "article:publisher": "https://www.facebook.com/MDLGroupLV/",
+      "twitter:data1": "6 minutes",
+      "twitter:site": "@mdlgroup",
+      "article:modified_time": "2020-06-16T21:14:40+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.mdlgroup.com/privacy-policy/"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Colorado Digital ID - myColorado",
+   "htmlTitle": "Colorado Digital ID - myColorado",
+   "link": "https://mycolorado.gov/colorado-digital-id",
+   "displayLink": "mycolorado.gov",
+   "snippet": "Colorado Digital ID\u2122. The contactless Colorado Digital ID\u2122 is a secure ... Colorado.gov | Privacy Policy | Terms of Use | 303.562.9855 | myColorado\u00a0...",
+   "htmlSnippet": "Colorado <b>Digital ID</b>\u2122. The contactless Colorado <b>Digital ID</b>\u2122 is a secure ... Colorado.gov | <b>Privacy Policy</b> | Terms of Use | 303.562.9855 | myColorado&nbsp;...",
+   "formattedUrl": "https://mycolorado.gov/colorado-digital-id",
+   "htmlFormattedUrl": "https://mycolorado.gov/colorado-<b>digital-id</b>",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin",
+      "og:image": "https://lh3.googleusercontent.com/xAGwQ1CFZXXJPGzQkExbp_Riqd8bBt3CB8sstSYs1DtQgyYSiVbQDMfRLHJCzxp_fFG3GmdWc-aZx4mpE88WQDbLdBimH11BN7zszQiHe56C988cGYi8h6U-ZJKQ_AlhzMAtP8R5Bm0=w16383",
+      "og:type": "website",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "myColorado - Colorado Digital ID\u2122",
+      "og:url": "https://mycolorado.state.co.us/colorado-digital-id",
+      "og:description": "Digital ID Features"
+     }
+    ],
+    "webpage": [
+     {
+      "image": "https://lh3.googleusercontent.com/xAGwQ1CFZXXJPGzQkExbp_Riqd8bBt3CB8sstSYs1DtQgyYSiVbQDMfRLHJCzxp_fFG3GmdWc-aZx4mpE88WQDbLdBimH11BN7zszQiHe56C988cGYi8h6U-ZJKQ_AlhzMAtP8R5Bm0=w16383",
+      "imageurl": "https://lh3.googleusercontent.com/xAGwQ1CFZXXJPGzQkExbp_Riqd8bBt3CB8sstSYs1DtQgyYSiVbQDMfRLHJCzxp_fFG3GmdWc-aZx4mpE88WQDbLdBimH11BN7zszQiHe56C988cGYi8h6U-ZJKQ_AlhzMAtP8R5Bm0=w16383",
+      "name": "myColorado - Colorado Digital ID\u2122",
+      "description": "Digital ID Features",
+      "url": "https://mycolorado.state.co.us/colorado-digital-id",
+      "thumbnailurl": "https://lh3.googleusercontent.com/xAGwQ1CFZXXJPGzQkExbp_Riqd8bBt3CB8sstSYs1DtQgyYSiVbQDMfRLHJCzxp_fFG3GmdWc-aZx4mpE88WQDbLdBimH11BN7zszQiHe56C988cGYi8h6U-ZJKQ_AlhzMAtP8R5Bm0=w16383"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://lh3.googleusercontent.com/xAGwQ1CFZXXJPGzQkExbp_Riqd8bBt3CB8sstSYs1DtQgyYSiVbQDMfRLHJCzxp_fFG3GmdWc-aZx4mpE88WQDbLdBimH11BN7zszQiHe56C988cGYi8h6U-ZJKQ_AlhzMAtP8R5Bm0=w16383"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,586 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:apps.apple.com \"Texas\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL",
+    "totalResults": "36",
+    "searchTerms": "site:apps.apple.com \"Texas\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:apps.apple.com \"Texas\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL",
+    "totalResults": "36",
+    "searchTerms": "site:apps.apple.com \"Texas\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.153589,
+  "formattedSearchTime": "0.15",
+  "totalResults": "36",
+  "formattedTotalResults": "36"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Texas Best Propane on the App Store",
+   "htmlTitle": "<b>Texas</b> Best Propane on the App Store",
+   "link": "https://apps.apple.com/hr/app/texas-best-propane/id6657950173",
+   "displayLink": "apps.apple.com",
+   "snippet": "May 19, 2025 ... Texas Best Propane 4+. Rural Computer Consultants, Inc. Designed ... Zebra Digital ID. Utilities. Hunter CELLKIT. Utilities.",
+   "htmlSnippet": "May 19, 2025 <b>...</b> <b>Texas</b> Best Propane 4+. Rural Computer Consultants, Inc. Designed ... Zebra <b>Digital ID</b>. Utilities. Hunter CELLKIT. Utilities.",
+   "formattedUrl": "https://apps.apple.com/hr/app/texas-best-propane/id6657950173",
+   "htmlFormattedUrl": "https://apps.apple.com/hr/app/<b>texas</b>-best-propane/id6657950173",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz_bd9bNT5JTSHlZ9Pqrc7ABsEQ8gVGD_vLs0NlJucbLjzwtcJfXOErwY&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/8d/e4/ce8de465-ca34-ae16-00d5-74f6451175a1/AppIcons-0-0-1x_U007emarketing-0-8-0-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App\u00a0Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eInformation at your fingertips! This app gives you direct access to your account balance, location and contract information. It also gives you the ability to store and process payment and request service work and deliveries directly through the app.",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/8d/e4/ce8de465-ca34-ae16-00d5-74f6451175a1/AppIcons-0-0-1x_U007emarketing-0-8-0-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/8d/e4/ce8de465-ca34-ae16-00d5-74f6451175a1/AppIcons-0-0-1x_U007emarketing-0-8-0-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222530.1.0%2Bdd954829%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "Texas Best Propane on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "Texas Best Propane on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eTexas Best Propane",
+      "og:title": "\u200eTexas Best Propane",
+      "og:image:height": "630",
+      "version": "2530.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eInformation at your fingertips! This app gives you direct access to your account balance, location and contract information. It also gives you the ability to store and process payment and request service work and deliveries directly through the app.",
+      "og:locale": "en_GB",
+      "apple:content_id": "6657950173",
+      "og:url": "https://apps.apple.com/hr/app/texas-best-propane/id6657950173"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/8d/e4/ce8de465-ca34-ae16-00d5-74f6451175a1/AppIcons-0-0-1x_U007emarketing-0-8-0-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "IDrive Arkansas on the App Store",
+   "htmlTitle": "IDrive Arkansas on the App Store",
+   "link": "https://apps.apple.com/us/app/idrive-arkansas/id791168388",
+   "displayLink": "apps.apple.com",
+   "snippet": "Mar 22, 2024 ... Arkansas Mobile ID. Travel. MoDOT Traveler Information. Travel. Drive Oklahoma.",
+   "htmlSnippet": "Mar 22, 2024 <b>...</b> Arkansas <b>Mobile ID</b>. Travel. MoDOT Traveler Information. Travel. Drive Oklahoma.",
+   "formattedUrl": "https://apps.apple.com/us/app/idrive-arkansas/id791168388",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/idrive-arkansas/id791168388",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1PszwomTid88pU7cYfwag3jK9_lIojKqRIp9vId9LxRD0eKseffGXEuI&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/9b/05/829b0562-f98b-2623-ba96-384de0fd1eba/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eIDrive Arkansas is your source of traveler information for Arkansas Highways! \n\nAt a glance, IDrive Arkansas will show you the location of each construction zone on the state highway system. Activate the live traffic / traffic camera features for a clear understanding of how traffic is moving up to\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/9b/05/829b0562-f98b-2623-ba96-384de0fd1eba/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/9b/05/829b0562-f98b-2623-ba96-384de0fd1eba/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222530.1.0%2Bdd954829%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "IDrive Arkansas on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "IDrive Arkansas on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eIDrive Arkansas",
+      "og:title": "\u200eIDrive Arkansas",
+      "og:image:height": "630",
+      "version": "2530.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eIDrive Arkansas is your source of traveler information for Arkansas Highways! \n\nAt a glance, IDrive Arkansas will show you the location of each construction zone on the state highway system. Activate the live traffic / traffic camera features for a clear understanding of how traffic is moving up to\u2026",
+      "og:locale": "en_US",
+      "apple:content_id": "791168388",
+      "og:url": "https://apps.apple.com/us/app/idrive-arkansas/id791168388"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/9b/05/829b0562-f98b-2623-ba96-384de0fd1eba/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Shepherd University WC App on the App Store",
+   "htmlTitle": "Shepherd University WC App on the App Store",
+   "link": "https://apps.apple.com/us/app/shepherd-university-wc-app/id6451391324",
+   "displayLink": "apps.apple.com",
+   "snippet": "Apr 9, 2025 ... Stay up to date with notifications, use the digital ID for entry, find information and register for programs and more! ... Texas A&M Rec Sports.",
+   "htmlSnippet": "Apr 9, 2025 <b>...</b> Stay up to date with notifications, use the <b>digital ID</b> for entry, find information and register for programs and more! ... <b>Texas</b> A&amp;M Rec Sports.",
+   "formattedUrl": "https://apps.apple.com/us/app/shepherd-university-wc.../id6451391324",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/shepherd-university-wc.../id6451391324",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd9QmLPgCvKi75srHgcN_yC4n1_YCuHYUcPSExRgIe6E26-OHV_bdRPhQ&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/fa/69/37fa694b-6dbd-daca-614c-71b9b9e933fd/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eThe official app of the Shepherd University Wellness Center! Stay up to date with notifications, use the digital ID for entry, find information and register for programs and more!",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/fa/69/37fa694b-6dbd-daca-614c-71b9b9e933fd/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/fa/69/37fa694b-6dbd-daca-614c-71b9b9e933fd/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222530.1.0%2Bdd954829%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "Shepherd University WC App on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "Shepherd University WC App on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eShepherd University WC App",
+      "og:title": "\u200eShepherd University WC App",
+      "og:image:height": "630",
+      "version": "2530.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eThe official app of the Shepherd University Wellness Center! Stay up to date with notifications, use the digital ID for entry, find information and register for programs and more!",
+      "og:locale": "en_US",
+      "apple:content_id": "6451391324",
+      "og:url": "https://apps.apple.com/us/app/shepherd-university-wc-app/id6451391324"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/fa/69/37fa694b-6dbd-daca-614c-71b9b9e933fd/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "UNCO Rec App on the App Store",
+   "htmlTitle": "UNCO Rec App on the App Store",
+   "link": "https://apps.apple.com/us/app/unco-rec-app/id6450606232",
+   "displayLink": "apps.apple.com",
+   "snippet": "Aug 7, 2024 ... Stay up to date with notifications, use the digital ID for entry, find information and register for programs and more! ... Texas A&M Rec Sports.",
+   "htmlSnippet": "Aug 7, 2024 <b>...</b> Stay up to date with notifications, use the <b>digital ID</b> for entry, find information and register for programs and more! ... <b>Texas</b> A&amp;M Rec Sports.",
+   "formattedUrl": "https://apps.apple.com/us/app/unco-rec-app/id6450606232",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/unco-rec-app/id6450606232",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8cmQOa-jNpmIhGzR2x5aONuX8xzlrkO37leHK7XgoueOasaxikpmgqHE&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/47/02/1947025d-71a1-99f5-9432-0e68b9982ad6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eThe official app of Campus Recreation at the University of Northern Colorado! Stay up to date with notifications, use the digital ID for entry, find information and register for programs and more!",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/47/02/1947025d-71a1-99f5-9432-0e68b9982ad6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/47/02/1947025d-71a1-99f5-9432-0e68b9982ad6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222530.1.0%2Bdd954829%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "UNCO Rec App on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "UNCO Rec App on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eUNCO Rec App",
+      "og:title": "\u200eUNCO Rec App",
+      "og:image:height": "630",
+      "version": "2530.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eThe official app of Campus Recreation at the University of Northern Colorado! Stay up to date with notifications, use the digital ID for entry, find information and register for programs and more!",
+      "og:locale": "en_US",
+      "apple:content_id": "6450606232",
+      "og:url": "https://apps.apple.com/us/app/unco-rec-app/id6450606232"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/47/02/1947025d-71a1-99f5-9432-0e68b9982ad6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Kennesaw State Sports & Rec on the App Store",
+   "htmlTitle": "Kennesaw State Sports &amp; Rec on the App Store",
+   "link": "https://apps.apple.com/us/app/kennesaw-state-sports-rec/id1489543048",
+   "displayLink": "apps.apple.com",
+   "snippet": "Aug 3, 2024 ... classes and access Sports and Recreation facilities with the digital ID feature! ... Texas A&M Rec Sports. Health & Fitness.",
+   "htmlSnippet": "Aug 3, 2024 <b>...</b> classes and access Sports and Recreation facilities with the <b>digital ID</b> feature! ... <b>Texas</b> A&amp;M Rec Sports. Health &amp; Fitness.",
+   "formattedUrl": "https://apps.apple.com/us/app/kennesaw-state-sports-rec/id1489543048",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/kennesaw-state-sports-rec/id1489543048",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFvONhWGLz-SfUe173teyD0oDqsfak52jaWMkwhpbvtcsIaZS8uy92YDM&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/50/50/755050d6-c9b6-ff68-3056-8a9f6f480e06/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eOfficial app for the Kennesaw State University Department of Sports and\nRecreation. Features information on recreation facilities, OwlFit fitness programs,\naquatics, outdoor adventures, club, and intramural sports programs.\n\nRegister for programs and events, find facility hours, save your favorite f\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/50/50/755050d6-c9b6-ff68-3056-8a9f6f480e06/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/50/50/755050d6-c9b6-ff68-3056-8a9f6f480e06/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222530.1.0%2Bdd954829%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "Kennesaw State Sports & Rec on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "Kennesaw State Sports & Rec on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eKennesaw State Sports & Rec",
+      "og:title": "\u200eKennesaw State Sports & Rec",
+      "og:image:height": "630",
+      "version": "2530.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eOfficial app for the Kennesaw State University Department of Sports and\nRecreation. Features information on recreation facilities, OwlFit fitness programs,\naquatics, outdoor adventures, club, and intramural sports programs.\n\nRegister for programs and events, find facility hours, save your favorite f\u2026",
+      "og:locale": "en_US",
+      "apple:content_id": "1489543048",
+      "og:url": "https://apps.apple.com/us/app/kennesaw-state-sports-rec/id1489543048"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/50/50/755050d6-c9b6-ff68-3056-8a9f6f480e06/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MiMEC on the App Store",
+   "htmlTitle": "MiMEC on the App Store",
+   "link": "https://apps.apple.com/us/app/mimec/id1364115970",
+   "displayLink": "apps.apple.com",
+   "snippet": "4 days ago ... Texas Tower. Business. You Might Also Like. See All \u00b7 One RBC. Productivity. Bluink eID-Me Digital ID.",
+   "htmlSnippet": "4 days ago <b>...</b> <b>Texas</b> Tower. Business. You Might Also Like. See All &middot; One RBC. Productivity. Bluink eID-Me <b>Digital ID</b>.",
+   "formattedUrl": "https://apps.apple.com/us/app/mimec/id1364115970",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/mimec/id1364115970",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Z8VjR-1iTAYvIQNDiuv1q_uIOiVik6S-CKYcNEHD6EQI9WF8DARHCZ4&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/38/fd/4c38fd23-f967-931c-1890-c761f467096e/AppIcon-MiMEC-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eMiMEC is the gateway to your workplace!\n\nConnecting you to all Mississauga Executive Centre has to offer!\n\nWith MiMEC you can access services and amenities available exclusively to you as an office tenant. Be the first to know when events are taking place, participate in surveys, promotions and so m\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/38/fd/4c38fd23-f967-931c-1890-c761f467096e/AppIcon-MiMEC-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/38/fd/4c38fd23-f967-931c-1890-c761f467096e/AppIcon-MiMEC-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222532.1.0%2B09273a9c%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "MiMEC on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "MiMEC on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eMiMEC",
+      "og:title": "\u200eMiMEC",
+      "og:image:height": "630",
+      "version": "2532.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eMiMEC is the gateway to your workplace!\n\nConnecting you to all Mississauga Executive Centre has to offer!\n\nWith MiMEC you can access services and amenities available exclusively to you as an office tenant. Be the first to know when events are taking place, participate in surveys, promotions and so m\u2026",
+      "og:locale": "en_US",
+      "apple:content_id": "1364115970",
+      "og:url": "https://apps.apple.com/us/app/mimec/id1364115970"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/38/fd/4c38fd23-f967-931c-1890-c761f467096e/AppIcon-MiMEC-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CSUB SRC on the App Store",
+   "htmlTitle": "CSUB SRC on the App Store",
+   "link": "https://apps.apple.com/us/app/csub-src/id1535847257",
+   "displayLink": "apps.apple.com",
+   "snippet": "Aug 3, 2024 ... Get connected with the CSUB's Student Recreation Center App! Download today and scan your unique digital ID to access the facility.",
+   "htmlSnippet": "Aug 3, 2024 <b>...</b> Get connected with the CSUB&#39;s Student Recreation Center App! Download today and scan your unique <b>digital ID</b> to access the facility.",
+   "formattedUrl": "https://apps.apple.com/us/app/csub-src/id1535847257",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/csub-src/id1535847257",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTEuqR_OVHXyc0ASwl9c0vV5CU0r2zEubjQlSxd2MT3nauM8rwJs4TUTs&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/e7/f6/a4e7f676-ad84-204a-2b7b-ef73e0b93d5b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eGet connected with the CSUB\u2019s Student Recreation Center App! Download today and scan your unique digital ID to access the facility. Stay connected with hours of operation, Group X schedules, upcoming event information, and more. With the CSUB SRC App, you can register for programs, join an intramura\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/e7/f6/a4e7f676-ad84-204a-2b7b-ef73e0b93d5b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/e7/f6/a4e7f676-ad84-204a-2b7b-ef73e0b93d5b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222530.1.0%2Bdd954829%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "CSUB SRC on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "CSUB SRC on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eCSUB SRC",
+      "og:title": "\u200eCSUB SRC",
+      "og:image:height": "630",
+      "version": "2530.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eGet connected with the CSUB\u2019s Student Recreation Center App! Download today and scan your unique digital ID to access the facility. Stay connected with hours of operation, Group X schedules, upcoming event information, and more. With the CSUB SRC App, you can register for programs, join an intramura\u2026",
+      "og:locale": "en_US",
+      "apple:content_id": "1535847257",
+      "og:url": "https://apps.apple.com/us/app/csub-src/id1535847257"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/e7/f6/a4e7f676-ad84-204a-2b7b-ef73e0b93d5b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "SMU Fitness and Recreation on the App Store",
+   "htmlTitle": "SMU Fitness and Recreation on the App Store",
+   "link": "https://apps.apple.com/us/app/smu-fitness-and-recreation/id6740991432",
+   "displayLink": "apps.apple.com",
+   "snippet": "Download the SMUfit Go app to access everything you need to enhance your wellbeing at SMU. Use your digital ID to check in and access the Homburg Centre,\u00a0...",
+   "htmlSnippet": "Download the SMUfit Go app to access everything you need to enhance your wellbeing at SMU. Use your <b>digital ID</b> to check in and access the Homburg Centre,&nbsp;...",
+   "formattedUrl": "https://apps.apple.com/us/app/smu-fitness-and-recreation/id6740991432",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/smu-fitness-and-recreation/id6740991432",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPnTaSstUVB_OVDtmwy2KsQdMRe_QZWKh0purFosnjjS2yQwBd07Se7ZsX&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/c8/91/8cc891f6-441c-b914-6cc8-5bed375f1710/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eDownload the SMUfit Go app to access everything you need to enhance your wellbeing at SMU. Use your digital ID to check in and access the Homburg Centre, then view hours and explore schedules for Group Exercise, Strength & Conditioning, and more. From Group Fitness to Pickleball/Squash Programs or K\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/c8/91/8cc891f6-441c-b914-6cc8-5bed375f1710/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/c8/91/8cc891f6-441c-b914-6cc8-5bed375f1710/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222530.1.0%2Bdd954829%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "SMU Fitness and Recreation on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "SMU Fitness and Recreation on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eSMU Fitness and Recreation",
+      "og:title": "\u200eSMU Fitness and Recreation",
+      "og:image:height": "630",
+      "version": "2530.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eDownload the SMUfit Go app to access everything you need to enhance your wellbeing at SMU. Use your digital ID to check in and access the Homburg Centre, then view hours and explore schedules for Group Exercise, Strength & Conditioning, and more. From Group Fitness to Pickleball/Squash Programs or K\u2026",
+      "og:locale": "en_US",
+      "apple:content_id": "6740991432",
+      "og:url": "https://apps.apple.com/us/app/smu-fitness-and-recreation/id6740991432"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/c8/91/8cc891f6-441c-b914-6cc8-5bed375f1710/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Fairmont State Falcon Center on the App Store",
+   "htmlTitle": "Fairmont State Falcon Center on the App Store",
+   "link": "https://apps.apple.com/us/app/fairmont-state-falcon-center/id1531493226",
+   "displayLink": "apps.apple.com",
+   "snippet": "Aug 3, 2024 ... And best of all, you no longer need your ID card, you will have a Digital ID on your phone for access through the turnstiles. ... Texas A&M Rec\u00a0...",
+   "htmlSnippet": "Aug 3, 2024 <b>...</b> And best of all, you no longer need your ID card, you will have a <b>Digital ID</b> on your phone for access through the turnstiles. ... <b>Texas</b> A&amp;M Rec&nbsp;...",
+   "formattedUrl": "https://apps.apple.com/us/app/fairmont-state-falcon.../id1531493226",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/fairmont-state-falcon.../id1531493226",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrpsuhGDtnkwF_FlW6SYIKSAy6ZA7QlmbOeSH2jxa4Hz1Zf8j5uxN17Bs&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/e8/5a/3de85a4b-fc66-04ff-cc9b-734e93d7cd14/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eWelcome Home to the Fairmont State University Falcon Center. Available at your fingertips, this app provides you detailed information on the many amenities available within the Falcon Center. You will find information about memberships, lockers, fitness and wellness programs, aquatic activities incl\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/e8/5a/3de85a4b-fc66-04ff-cc9b-734e93d7cd14/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/e8/5a/3de85a4b-fc66-04ff-cc9b-734e93d7cd14/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222532.1.0%2B09273a9c%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "Fairmont State Falcon Center on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "Fairmont State Falcon Center on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eFairmont State Falcon Center",
+      "og:title": "\u200eFairmont State Falcon Center",
+      "og:image:height": "630",
+      "version": "2532.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eWelcome Home to the Fairmont State University Falcon Center. Available at your fingertips, this app provides you detailed information on the many amenities available within the Falcon Center. You will find information about memberships, lockers, fitness and wellness programs, aquatic activities incl\u2026",
+      "og:locale": "en_US",
+      "apple:content_id": "1531493226",
+      "og:url": "https://apps.apple.com/us/app/fairmont-state-falcon-center/id1531493226"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/e8/5a/3de85a4b-fc66-04ff-cc9b-734e93d7cd14/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mercury Insurance: Car & Home on the App Store",
+   "htmlTitle": "Mercury Insurance: Car &amp; Home on the App Store",
+   "link": "https://apps.apple.com/us/app/mercury-insurance-car-home/id1538025662",
+   "displayLink": "apps.apple.com",
+   "snippet": "Download the Mercury Insurance app to instantly view your digital ID ... Mercury writes auto insurance in Arizona, Georgia, Illinois, Nevada, New Jersey, New York\u00a0...",
+   "htmlSnippet": "Download the Mercury Insurance app to instantly view your <b>digital ID</b> ... Mercury writes auto insurance in Arizona, Georgia, Illinois, Nevada, New Jersey, New York&nbsp;...",
+   "formattedUrl": "https://apps.apple.com/us/app/mercury-insurance-car.../id1538025662",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/mercury-insurance-car.../id1538025662",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbyFqL2pj0yCyJFOtgg3e-9VO0E5hiQWZ_pI1gAvDWDp8K95zPc9ffYDM&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/d3/b8/00d3b892-e872-b4c5-bf5f-aef3e24bbe76/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eGet quick, easy access to your home and car insurance policies and ID cards, pay your bills, make changes to your policy, call roadside assistance, and more! Mercury Insurance makes life a little easier, and our app provides you with peace of mind knowing we're always here to help.\n\nWherever life ta\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/d3/b8/00d3b892-e872-b4c5-bf5f-aef3e24bbe76/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/d3/b8/00d3b892-e872-b4c5-bf5f-aef3e24bbe76/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222530.1.0%2Bdd954829%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "Mercury Insurance: Car & Home on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "Mercury Insurance: Car & Home on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eMercury Insurance: Car & Home",
+      "og:title": "\u200eMercury Insurance: Car & Home",
+      "og:image:height": "630",
+      "version": "2530.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eGet quick, easy access to your home and car insurance policies and ID cards, pay your bills, make changes to your policy, call roadside assistance, and more! Mercury Insurance makes life a little easier, and our app provides you with peace of mind knowing we're always here to help.\n\nWherever life ta\u2026",
+      "og:locale": "en_US",
+      "apple:content_id": "1538025662",
+      "og:url": "https://apps.apple.com/us/app/mercury-insurance-car-home/id1538025662"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/d3/b8/00d3b892-e872-b4c5-bf5f-aef3e24bbe76/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  }
+ ]
+}

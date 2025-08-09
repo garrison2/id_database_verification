@@ -1,0 +1,370 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Virginia\" \"driver's license\" OR \"identity document\" \"personally identifiable information\" OR \"personal information\"",
+    "totalResults": "407000",
+    "searchTerms": "\"Virginia\" \"driver's license\" OR \"identity document\" \"personally identifiable information\" OR \"personal information\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Virginia\" \"driver's license\" OR \"identity document\" \"personally identifiable information\" OR \"personal information\"",
+    "totalResults": "407000",
+    "searchTerms": "\"Virginia\" \"driver's license\" OR \"identity document\" \"personally identifiable information\" OR \"personal information\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.223702,
+  "formattedSearchTime": "0.22",
+  "totalResults": "407000",
+  "formattedTotalResults": "407,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Change Address, Name or Sex Designation | Virginia Department of ...",
+   "htmlTitle": "Change Address, Name or Sex Designation | <b>Virginia</b> Department of ...",
+   "link": "https://www.dmv.virginia.gov/records/personal-information-updates",
+   "displayLink": "www.dmv.virginia.gov",
+   "snippet": "DMV makes it easy to update your personal information as quickly as your life changes. ... If you cannot present your Virginia driver's license, learner's permit,\u00a0...",
+   "htmlSnippet": "DMV makes it easy to update your <b>personal information</b> as quickly as your life changes. ... If you cannot present your <b>Virginia driver&#39;s license</b>, learner&#39;s permit,&nbsp;...",
+   "formattedUrl": "https://www.dmv.virginia.gov/records/personal-information-updates",
+   "htmlFormattedUrl": "https://www.dmv.<b>virginia</b>.gov/records/<b>personal-information</b>-updates",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrdzU_br5_YiI8EoVeeqQ5dyWirS6kSf6gMmItyunE0eSSImAMJzSfuNQ&s",
+      "width": "224",
+      "height": "224"
+     }
+    ],
+    "metatags": [
+     {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Change Address, Name or Sex Designation",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Change Address, Name or Sex Designation",
+      "mobileoptimized": "width",
+      "twitter:creator": "@VirginiaDMV"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.developer.virginia.gov/media/developer/assets/img/close_icon.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "\u00a7 59.1-443.3. Scanning information from driver's license or other ...",
+   "htmlTitle": "\u00a7 59.1-443.3. Scanning information from <b>driver&#39;s license</b> or other ...",
+   "link": "https://law.lis.virginia.gov/vacode/title59.1/chapter35/section59.1-443.3/",
+   "displayLink": "law.lis.virginia.gov",
+   "snippet": "Virginia Law \u00b7 Code of Virginia \u00b7 \u00a7 59.1-443.3. Scanning information from driver's license or other document; retention, sale, or dissemination of information.",
+   "htmlSnippet": "<b>Virginia</b> Law &middot; Code of <b>Virginia</b> &middot; \u00a7 59.1-443.3. Scanning information from <b>driver&#39;s license</b> or other document; retention, sale, or dissemination of information.",
+   "formattedUrl": "https://law.lis.virginia.gov/vacode/title59.1/chapter35/section59.1-443.3/",
+   "htmlFormattedUrl": "https://law.lis.<b>virginia</b>.gov/vacode/title59.1/chapter35/section59.1-443.3/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "docid": "002599",
+      "covtitle": "Title 59.1. Trade and Commerce",
+      "title": "Title 59.1. Trade and Commerce"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DRIVER'S LICENSE AND IDENTIFICATION CARD APPLICATION",
+   "htmlTitle": "<b>DRIVER&#39;S LICENSE</b> AND IDENTIFICATION CARD APPLICATION",
+   "link": "https://www.dmv.virginia.gov/sites/default/files/forms/dl1p.pdf",
+   "displayLink": "www.dmv.virginia.gov",
+   "snippet": "I authorize DMV to forward to the Selective Service System personal information necessary to register me with Selective Service. ... Virginia driver's license or\u00a0...",
+   "htmlSnippet": "I authorize DMV to forward to the Selective Service System <b>personal information</b> necessary to register me with Selective Service. ... <b>Virginia driver&#39;s license</b> or&nbsp;...",
+   "formattedUrl": "https://www.dmv.virginia.gov/sites/default/files/forms/dl1p.pdf",
+   "htmlFormattedUrl": "https://www.dmv.<b>virginia</b>.gov/sites/default/files/forms/dl1p.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzsfO8XRfJvb8Ax-KZuuDO_coa5mYzaFbvJnFj4CG9oK1IjOGlEE7xd9s&s",
+      "width": "197",
+      "height": "255"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20250521115722-04'00'",
+      "creationdate": "D:20250520140139-04'00'",
+      "creator": "Designer 6.5",
+      "producer": "Designer 6.5"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///c530ce90fff52719587b209982c808581aa8bdead1c8ed8d57cd2a8519edd4cf"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "\u00a7 18.2-186.6. Breach of personal information notification",
+   "htmlTitle": "\u00a7 18.2-186.6. Breach of <b>personal information</b> notification",
+   "link": "https://law.lis.virginia.gov/vacode/title18.2/chapter6/section18.2-186.6/",
+   "displayLink": "law.lis.virginia.gov",
+   "snippet": "\u00d7 Visit the LIS Learning Center to learn more about the features of the Virginia State Law Portal. ... Driver's license number or state identification card\u00a0...",
+   "htmlSnippet": "\u00d7 Visit the LIS Learning Center to learn more about the features of the <b>Virginia</b> State Law Portal. ... <b>Driver&#39;s license</b> number or state identification card&nbsp;...",
+   "formattedUrl": "https://law.lis.virginia.gov/vacode/title18.2/chapter6/section18.2-186.6/",
+   "htmlFormattedUrl": "https://law.lis.<b>virginia</b>.gov/vacode/title18.2/chapter6/section18.2-186.6/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "docid": "022158",
+      "covtitle": "Title 18.2. Crimes and Offenses Generally",
+      "title": "Title 18.2. Crimes and Offenses Generally"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Application for a Driver's License or Identification Card",
+   "htmlTitle": "Application for a <b>Driver&#39;s License</b> or Identification Card",
+   "link": "https://transportation.wv.gov/DMV/DMVFormSearch/DMV-DS-23P_Application-for-a-Drivers-License-or-Photo-ID-Card-WF.pdf",
+   "displayLink": "transportation.wv.gov",
+   "snippet": "By checking \u201cyes\u201d, you agree that the DMV may furnish your personal information to designated ... Do you wish to make a contribution to the West Virginia\u00a0...",
+   "htmlSnippet": "By checking \u201cyes\u201d, you agree that the DMV may furnish your <b>personal information</b> to designated ... Do you wish to make a contribution to the West <b>Virginia</b>&nbsp;...",
+   "formattedUrl": "https://transportation.wv.gov/.../DMV-DS-23P_Application-for-a-Drivers-L...",
+   "htmlFormattedUrl": "https://transportation.wv.gov/.../DMV-DS-23P_Application-for-a-<b>Drivers-L</b>...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzz8l-bNE8xQ8mIuIIt6o8z3_kwbMVtSizfR4iBjaQuB28VV1DJtBuZ64&s",
+      "width": "201",
+      "height": "178"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20230106142105-05'00'",
+      "creationdate": "D:20180424110954-04'00'",
+      "creator": "Adobe Illustrator CC 22.0 (Macintosh)",
+      "author": "Typesetadmin",
+      "producer": "Adobe PDF library 15.00",
+      "title": "DMV-DS-23P_Application_for_DL_or_ID_-_10-16"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///fee39d91808d63a9d0321afebde0456d315b558836e5fa5ec482226f28e777c9"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Application Tip of the Month",
+   "htmlTitle": "Application Tip of the Month",
+   "link": "https://personnel.wv.gov/bulletinboard/Pages/ApplicationTip12.aspx",
+   "displayLink": "personnel.wv.gov",
+   "snippet": "May 28, 2025 ... However, there are times when an agency may specifically require a valid West Virginia driver's license. ... Personal Information or as a\u00a0...",
+   "htmlSnippet": "May 28, 2025 <b>...</b> However, there are times when an agency may specifically require a valid West <b>Virginia driver&#39;s license</b>. ... <b>Personal Information</b> or as a&nbsp;...",
+   "formattedUrl": "https://personnel.wv.gov/bulletinboard/Pages/ApplicationTip12.aspx",
+   "htmlFormattedUrl": "https://personnel.wv.gov/bulletinboard/Pages/ApplicationTip12.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSnpfocFr15OuA12yVBVcFWVLeWBDzJM6e3Qx7LAAdVnjnqnc9AMstusE&s",
+      "width": "220",
+      "height": "77"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width",
+      "google-translate-customization": "7486d167d7397280-080348131c7a8e67-ga9fa1db8a9048044-10",
+      "progid": "SharePoint.WebPartPage.Document"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://personnel.wv.gov/images2015/mobilebanner.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "West Virginia Digital ID in Samsung Wallet",
+   "htmlTitle": "West <b>Virginia</b> Digital ID in Samsung Wallet",
+   "link": "https://transportation.wv.gov/DMV/MiD/Pages/Samsung_Wallet.aspx",
+   "displayLink": "transportation.wv.gov",
+   "snippet": "... Virginia residents can choose what personal information to share ... Have an eligible West Virginia driver's license or state-issued identification card.",
+   "htmlSnippet": "... <b>Virginia</b> residents can choose what <b>personal information</b> to share ... Have an eligible West <b>Virginia driver&#39;s license</b> or state-issued identification card.",
+   "formattedUrl": "https://transportation.wv.gov/DMV/MiD/Pages/Samsung_Wallet.aspx",
+   "htmlFormattedUrl": "https://transportation.wv.gov/DMV/MiD/Pages/Samsung_Wallet.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLlAoDAolU1FYAYcSSSTtcTMR67qwk1fIfQIdW6Y2fUE6r1nI-j-DCGQ&s",
+      "width": "350",
+      "height": "144"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.wv.gov/images/homebkg.jpg",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "West Virginia Digital ID in Samsung Wallet",
+      "twitter:site": "@wvgov",
+      "viewport": "width=device-width",
+      "og:title": "West Virginia Digital ID in Samsung Wallet",
+      "progid": "SharePoint.WebPartPage.Document"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.wv.gov/images/homebkg.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Obtaining a Virginia Driver's License or Identification (ID) Card",
+   "htmlTitle": "Obtaining a <b>Virginia Driver&#39;s License</b> or Identification (ID) Card",
+   "link": "https://home.hamptonu.edu/international/wp-content/uploads/sites/85/2024/03/Drivers-License-Application.pdf",
+   "displayLink": "home.hamptonu.edu",
+   "snippet": "\u2022 Virginia driver's license, commercial driver's license, learner's permit ... D I authorize OMV to forward to the Selective Service System personal information\u00a0...",
+   "htmlSnippet": "\u2022 <b>Virginia driver&#39;s license</b>, commercial <b>driver&#39;s license</b>, learner&#39;s permit ... D I authorize OMV to forward to the Selective Service System <b>personal information</b>&nbsp;...",
+   "formattedUrl": "https://home.hamptonu.edu/.../wp.../85/.../Drivers-License-Application.pdf",
+   "htmlFormattedUrl": "https://home.hamptonu.edu/.../wp.../85/.../<b>Drivers-License</b>-Application.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRNwuNck7y5g_JfxEWap4X_6Tdy7yi4C8YDvkXyhOgTz9DWGXytZvxURI&s",
+      "width": "270",
+      "height": "187"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20240303143619-05'00'",
+      "creationdate": "D:20191025112209-04'00'"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///6d0c22019c42ffeba5f1844726552ec6a8aa59bcdac83d1e55995bd566780d73"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DMV-CDL-1: Application for Commercial Driver's License (CDL) and ...",
+   "htmlTitle": "DMV-CDL-1: Application for Commercial <b>Driver&#39;s License</b> (CDL) and ...",
+   "link": "https://transportation.wv.gov/dmv/dmvformsearch/dmv-cdl-1.pdf",
+   "displayLink": "transportation.wv.gov",
+   "snippet": "By checking \u201cyes\u201d, you agree that the DMV may furnish your personal information ... Do you wish to make a contribution to the West Virginia State. Police\u00a0...",
+   "htmlSnippet": "By checking \u201cyes\u201d, you agree that the DMV may furnish your <b>personal information</b> ... Do you wish to make a contribution to the West <b>Virginia</b> State. Police&nbsp;...",
+   "formattedUrl": "https://transportation.wv.gov/dmv/dmvformsearch/dmv-cdl-1.pdf",
+   "htmlFormattedUrl": "https://transportation.wv.gov/dmv/dmvformsearch/dmv-cdl-1.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20230801150319-04'00'",
+      "creationdate": "D:20210401153936-04'00'",
+      "creator": "Adobe Illustrator 25.1 (Macintosh)",
+      "subject": "CDL or Endorsement addition application",
+      "producer": "Adobe PDF library 15.00",
+      "title": "DMV-CDL-1: Application for Commercial Driver's License (CDL) and/or Endorsements"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What is considered sensitive personal information? | Data Privacy Dish",
+   "htmlTitle": "What is considered sensitive <b>personal information</b>? | Data Privacy Dish",
+   "link": "https://www.gtlaw-dataprivacydish.com/2021/05/what-is-considered-sensitive-personal-information/",
+   "displayLink": "www.gtlaw-dataprivacydish.com",
+   "snippet": "May 10, 2021 ... ... Driver's License Number) in the event of a data ... personal information, Virginia, Virginia Consumer Data Protection Act (Virginia CDPA).",
+   "htmlSnippet": "May 10, 2021 <b>...</b> ... <b>Driver&#39;s License</b> Number) in the event of a data ... <b>personal information</b>, <b>Virginia</b>, <b>Virginia</b> Consumer Data Protection Act (<b>Virginia</b> CDPA).",
+   "formattedUrl": "https://www.gtlaw-dataprivacydish.com/.../what-is-considered-sensitive-pers...",
+   "htmlFormattedUrl": "https://www.gtlaw-dataprivacydish.com/.../what-is-considered-sensitive-<b>pers</b>...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy2W-1AY8bNjC4VLoFFcGmis_EnVLihc259783_peFAdB4W90TG3xY7fs&s",
+      "width": "367",
+      "height": "137"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.gtlaw-dataprivacydish.com/files/2020/10/shutterstock_1024337068.jpg",
+      "og:type": "article",
+      "article:published_time": "2021-05-10T15:02:31+00:00",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Data Privacy Dish",
+      "author": "David A. Zetoony",
+      "og:title": "What is considered sensitive personal information?",
+      "og:image:height": "450",
+      "twitter:label1": "Written by",
+      "twitter:label2": "Est. reading time",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://www.gtlaw-dataprivacydish.com/files/2019/07/cropped-favicon-270x270.png",
+      "og:description": "Some privacy statutes explicitly reference \u201csensitive\u201d or \u201cspecial\u201d categories of personal information. While such terms, when used, often include similar",
+      "twitter:data1": "David A. Zetoony",
+      "twitter:data2": "14 minutes",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.gtlaw-dataprivacydish.com/2021/05/what-is-considered-sensitive-personal-information/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.gtlaw-dataprivacydish.com/files/2020/10/shutterstock_1024337068.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,464 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site: \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL",
+    "totalResults": "59000000",
+    "searchTerms": "site: \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site: \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL",
+    "totalResults": "59000000",
+    "searchTerms": "site: \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.225964,
+  "formattedSearchTime": "0.23",
+  "totalResults": "59000000",
+  "formattedTotalResults": "59,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "CA DMV Wallet & mDL Pilot - California DMV",
+   "htmlTitle": "CA DMV Wallet &amp; <b>mDL</b> Pilot - California DMV",
+   "link": "https://www.dmv.ca.gov/portal/ca-dmv-wallet/",
+   "displayLink": "www.dmv.ca.gov",
+   "snippet": "The California mobile Driver's License (mDL) is a new, easy way to show your ... Site Map \u00b7 Accessibility \u00b7 Forms; Share Screen. \u00d7. Google\u2122 Translate\u00a0...",
+   "htmlSnippet": "The California <b>mobile Driver&#39;s License</b> (<b>mDL</b>) is a new, easy way to show your ... <b>Site</b> Map &middot; Accessibility &middot; Forms; Share Screen. \u00d7. Google\u2122 Translate&nbsp;...",
+   "formattedUrl": "https://www.dmv.ca.gov/portal/ca-dmv-wallet/",
+   "htmlFormattedUrl": "https://www.dmv.ca.gov/portal/ca-dmv-wallet/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZHk_ML745B7xRHSHo_ZBl0g65ylI5dja8Phvyh5R_5WHiBIIYpxdvFsfX&s",
+      "width": "280",
+      "height": "180"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.ca.gov/portal/uploads/2023/08/DMV_mDL_1320w_450h_Silvia_850px_Taller_update-2.jpg",
+      "og:type": "article",
+      "og:image:width": "1320",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "California DMV",
+      "og:title": "CA DMV Wallet & mDL Pilot - California DMV",
+      "og:image:height": "850",
+      "twitter:label1": "Est. reading time",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://www.dmv.ca.gov/portal/uploads/2020/02/cropped-dmv_favicon_Final_png-1-270x270.png",
+      "og:description": "The CA DMV Wallet app holds your mobile driver\u2019s license (mDL) - a free, digital, secure, and convenient version of your California DL/ID.",
+      "article:publisher": "https://www.facebook.com/CADMV",
+      "twitter:data1": "3 minutes",
+      "twitter:site": "@ca_dmv",
+      "article:modified_time": "2025-07-24T23:01:28+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.dmv.ca.gov/portal/ca-dmv-wallet/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.ca.gov/portal/uploads/2023/08/DMV_mDL_1320w_450h_Silvia_850px_Taller_update-2.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "GA Digital ID | Georgia Department of Driver Services",
+   "htmlTitle": "GA <b>Digital ID</b> | Georgia Department of Driver Services",
+   "link": "https://dds.georgia.gov/georgia-licenseid/ga-digital-id",
+   "displayLink": "dds.georgia.gov",
+   "snippet": "GA Digital ID \u00b7 Georgia Digital Driver's License and ID \u00b7 Available On Apple and Android Devices \u00b7 mDL Introduction \u00b7 Apple Wallet \u00b7 Google Wallet \u00b7 Samsung Wallet.",
+   "htmlSnippet": "GA <b>Digital ID</b> &middot; Georgia <b>Digital Driver&#39;s License</b> and ID &middot; Available On Apple and Android Devices &middot; <b>mDL</b> Introduction &middot; Apple Wallet &middot; Google Wallet &middot; Samsung Wallet.",
+   "formattedUrl": "https://dds.georgia.gov/georgia-licenseid/ga-digital-id",
+   "htmlFormattedUrl": "https://dds.georgia.gov/georgia-licenseid/ga-<b>digital-id</b>",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcHMDQGJKWYJoTADqCjGRbWZH4Bfp-WrnxenByqI-NT2yj0rgn6l2eHx7C&s",
+      "width": "310",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffc40d",
+      "og:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "og:image:width": "1201",
+      "twitter:card": "summary",
+      "twitter:title": "GA Digital ID",
+      "theme-color": "#ffffff",
+      "og:site_name": "Georgia Department of Driver Services",
+      "handheldfriendly": "true",
+      "og:title": "GA Digital ID",
+      "og:image:height": "629",
+      "og:description": "Introducing Georgia Digital Driver's License and ID on both Apple and Android platforms.",
+      "twitter:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "twitter:site": "@georgiadds",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Introducing Georgia Digital Driver's License and ID on both Apple and Android platforms.",
+      "mobileoptimized": "width",
+      "og:url": "https://dds.georgia.gov/georgia-licenseid/ga-digital-id",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Participating States and Eligible Digital IDs | Transportation Security ...",
+   "htmlTitle": "Participating States and Eligible Digital IDs | Transportation Security ...",
+   "link": "https://www.tsa.gov/digital-id/participating-states",
+   "displayLink": "www.tsa.gov",
+   "snippet": "On-site Classroom \u00b7 HAZMAT Endorsement \u00b7 I-STEP \u00b7 PASS \u00b7 STSAC \u00b7 Surface ... With a mobile driver's license (mDL) or ID pass stored in your phone's\u00a0...",
+   "htmlSnippet": "On-<b>site</b> Classroom &middot; HAZMAT Endorsement &middot; I-STEP &middot; PASS &middot; STSAC &middot; Surface ... With a <b>mobile driver&#39;s license</b> (<b>mDL</b>) or ID pass stored in your phone&#39;s&nbsp;...",
+   "formattedUrl": "https://www.tsa.gov/digital-id/participating-states",
+   "htmlFormattedUrl": "https://www.tsa.gov/<b>digital-id</b>/participating-states",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPmfB7IVmgDmb3IDXSU12352SHrXv5e_5i8yycsOrPNmZwXMWtBL06Rg4&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.tsa.gov/sites/default/files/2025-03/21366_graphic_tsa_open_graph_image_1200x630.jpg",
+      "og:type": "website",
+      "og:image:width": "1200",
+      "og:site_name": "U.S. Department of Homeland Security Transportation Security Administration",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+      "og:title": "Participating States and Eligible Digital IDs | Transportation Security Administration",
+      "mobileoptimized": "width",
+      "og:image:height": "630",
+      "og:image:type": "image/jpg",
+      "og:url": "https://www.tsa.gov/digital-id/participating-states",
+      "og:description": "The TSA's digital ID program allows travelers from participating states to use mobile driver's licenses or state IDs at select TSA checkpoints. These digital IDs can be added to platforms like Apple Wallet, Google Wallet, or state-specific apps. The program aims to enhance security and streamline the identity verification process. However, travelers must still carry a physical ID as a backup. You can find more details on the TSA's official page."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.tsa.gov/sites/default/files/2025-03/21366_graphic_tsa_open_graph_image_1200x630.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Judicial Panel on Multidistrict Litigation | United States",
+   "htmlTitle": "Judicial Panel on Multidistrict Litigation | United States",
+   "link": "https://www.jpml.uscourts.gov/",
+   "displayLink": "www.jpml.uscourts.gov",
+   "snippet": "MDL Case Info \u00b7 PACER \u00b7 Pending MDLs \u00b7 Statistics \u00b7 JPML NextGen. \u25bd; For Attorneys ... Search form. Search this site. Home \u00b7 Panel Information \u00b7 Panel Judges\u00a0...",
+   "htmlSnippet": "<b>MDL</b> Case Info &middot; PACER &middot; Pending MDLs &middot; Statistics &middot; JPML NextGen. \u25bd; For Attorneys ... Search form. Search this <b>site</b>. Home &middot; Panel Information &middot; Panel Judges&nbsp;...",
+   "formattedUrl": "https://www.jpml.uscourts.gov/",
+   "htmlFormattedUrl": "https://www.jpml.uscourts.gov/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq9U7hMIgO3dFZxdESv7kOoF2A7xziT4u6DywZ_WWxKxgeYR8mPRxJCw&s",
+      "width": "464",
+      "height": "108"
+     }
+    ],
+    "Item": [
+     {
+      "num_replies": "0",
+      "title": "Panel Location",
+      "encoded": "Washington, DC Thurgood Marshall Federal Judiciary Building One Columbus Circle, NE Room G-255, North Lobby Washington, DC 20544-0005 Clerk's Office: 202-502-2800 JPML Help Desk: 202-502-2822"
+     },
+     {
+      "num_replies": "0",
+      "title": "Footer (left): Home",
+      "encoded": "Home | About the Panel | Contact Us | Hearing Information | Panel Orders | For Attorneys | Pro Se Information | \u200b\u200b\u200b\u200b\u200b\u200b\u200bMulticircuit Petitions/Orders"
+     },
+     {
+      "num_replies": "0",
+      "title": "Footer (right): Quick links"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width",
+      "mobileoptimized": "width"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.jpml.uscourts.gov/sites/jpml/files/build_0_0.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Digital Identity and Facial Comparison Technology | Transportation ...",
+   "htmlTitle": "Digital Identity and Facial Comparison Technology | Transportation ...",
+   "link": "https://www.tsa.gov/digital-id",
+   "displayLink": "www.tsa.gov",
+   "snippet": "Use of a mobile driver's license requires biometric verification prior to each transaction. A digital ID may also be issued by a non-governmental entity based\u00a0...",
+   "htmlSnippet": "Use of a <b>mobile driver&#39;s license</b> requires biometric verification prior to each transaction. A <b>digital ID</b> may also be issued by a non-governmental entity based&nbsp;...",
+   "formattedUrl": "https://www.tsa.gov/digital-id",
+   "htmlFormattedUrl": "https://www.tsa.gov/<b>digital-id</b>",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPmfB7IVmgDmb3IDXSU12352SHrXv5e_5i8yycsOrPNmZwXMWtBL06Rg4&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.tsa.gov/sites/default/files/2025-03/21366_graphic_tsa_open_graph_image_1200x630.jpg",
+      "og:type": "website",
+      "og:image:width": "1200",
+      "og:site_name": "U.S. Department of Homeland Security Transportation Security Administration",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+      "og:title": "Digital Identity and Facial Comparison Technology | Transportation Security Administration",
+      "mobileoptimized": "width",
+      "og:image:height": "630",
+      "og:image:type": "image/jpg",
+      "og:url": "https://www.tsa.gov/digital-id",
+      "og:description": "Learn how TSA accepts digital IDs for identity verification through platforms like Apple Wallet, Google Wallet, Samsung Wallet, or a state-issued app."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.tsa.gov/sites/default/files/2025-03/21366_graphic_tsa_open_graph_image_1200x630.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Pages - Maryland Mobile ID Program",
+   "htmlTitle": "Pages - Maryland <b>Mobile ID</b> Program",
+   "link": "https://mva.maryland.gov/Pages/MDMobileID.aspx",
+   "displayLink": "mva.maryland.gov",
+   "snippet": "... Mobile ID Check by MD app - an easy, trusted solution for your business. Visit the Maryland Mobile ID for Business\u200b page to learn more and download below to\u00a0...",
+   "htmlSnippet": "... <b>Mobile ID</b> Check by MD app - an easy, trusted solution for your business. Visit the Maryland <b>Mobile ID</b> for Business\u200b <b>page</b> to learn more and download below to&nbsp;...",
+   "formattedUrl": "https://mva.maryland.gov/Pages/MDMobileID.aspx",
+   "htmlFormattedUrl": "https://mva.maryland.gov/Pages/MD<b>MobileID</b>.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR7oGzbIQUEc1_nZeuoLrrKAB6TL3tYmyYGyLh-gFBkSfpmVGqv2fWgQ&s",
+      "width": "240",
+      "height": "112"
+     }
+    ],
+    "metatags": [
+     {
+      "robot": "noarchive",
+      "og:image": "/Style Library/egov/img/logo.png",
+      "og:type": "website",
+      "og:image:alt": "MVA Logo",
+      "og:site_name": "MVA",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "msvalidate.01": "DC82C0A3FC3A7277E85B6AC7346D802D",
+      "og:url": "/Pages/default.aspx"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://mva.maryland.gov/Style%20Library/egov/img/logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile ID (MiD) | NY DMV",
+   "htmlTitle": "<b>Mobile ID</b> (MiD) | NY DMV",
+   "link": "https://dmv.ny.gov/id-card/mobile-id-mid",
+   "displayLink": "dmv.ny.gov",
+   "snippet": "Introducing New York Mobile ID What is Mobile ID (MiD)?. MiD allows New York ... Site Map \u00b7 Website Accessibility Practices and Procedures. About the DMV.",
+   "htmlSnippet": "Introducing New York <b>Mobile ID</b> What is <b>Mobile ID</b> (MiD)?. MiD allows New York ... <b>Site</b> Map &middot; <b>Website</b> Accessibility Practices and Procedures. About the DMV.",
+   "formattedUrl": "https://dmv.ny.gov/id-card/mobile-id-mid",
+   "htmlFormattedUrl": "https://dmv.ny.gov/id-card/<b>mobile-id</b>-mid",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWZlveCmXupsQ_-iTPgNQ_gzursAO7aen5cWBPLgbJTO1CQk6pT3xFuXY&s",
+      "width": "353",
+      "height": "143"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://dmv.ny.gov/sites/default/files/images/2024-06/ny-mid-homepage-hero-1280x520.png",
+      "og:site_name": "NY DMV",
+      "og:image:url": "https://dmv.ny.gov/themes/custom/webny_core/images/nys-default.png",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width",
+      "og:description": "MiD allows NYS residents to manage their identity with a secure, digital version of state-issued photo documents, in an app on a smartphone."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.ny.gov/sites/default/files/images/2024-06/ny-mid-homepage-hero-1280x520.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Colorado Digital ID - myColorado",
+   "htmlTitle": "Colorado Digital ID - myColorado",
+   "link": "https://mycolorado.gov/colorado-digital-id",
+   "displayLink": "mycolorado.gov",
+   "snippet": "Search this site. Embedded Files. Skip to main content. Skip to navigation ... Colorado Digital ID\u2122. The contactless Colorado Digital ID\u2122 is a secure\u00a0...",
+   "htmlSnippet": "Search this <b>site</b>. Embedded Files. Skip to main content. Skip to navigation ... Colorado <b>Digital ID</b>\u2122. The contactless Colorado <b>Digital ID</b>\u2122 is a secure&nbsp;...",
+   "formattedUrl": "https://mycolorado.gov/colorado-digital-id",
+   "htmlFormattedUrl": "https://mycolorado.gov/colorado-<b>digital-id</b>",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin",
+      "og:image": "https://lh3.googleusercontent.com/xAGwQ1CFZXXJPGzQkExbp_Riqd8bBt3CB8sstSYs1DtQgyYSiVbQDMfRLHJCzxp_fFG3GmdWc-aZx4mpE88WQDbLdBimH11BN7zszQiHe56C988cGYi8h6U-ZJKQ_AlhzMAtP8R5Bm0=w16383",
+      "og:type": "website",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "myColorado - Colorado Digital ID\u2122",
+      "og:url": "https://mycolorado.state.co.us/colorado-digital-id",
+      "og:description": "Digital ID Features"
+     }
+    ],
+    "webpage": [
+     {
+      "image": "https://lh3.googleusercontent.com/xAGwQ1CFZXXJPGzQkExbp_Riqd8bBt3CB8sstSYs1DtQgyYSiVbQDMfRLHJCzxp_fFG3GmdWc-aZx4mpE88WQDbLdBimH11BN7zszQiHe56C988cGYi8h6U-ZJKQ_AlhzMAtP8R5Bm0=w16383",
+      "imageurl": "https://lh3.googleusercontent.com/xAGwQ1CFZXXJPGzQkExbp_Riqd8bBt3CB8sstSYs1DtQgyYSiVbQDMfRLHJCzxp_fFG3GmdWc-aZx4mpE88WQDbLdBimH11BN7zszQiHe56C988cGYi8h6U-ZJKQ_AlhzMAtP8R5Bm0=w16383",
+      "name": "myColorado - Colorado Digital ID\u2122",
+      "description": "Digital ID Features",
+      "url": "https://mycolorado.state.co.us/colorado-digital-id",
+      "thumbnailurl": "https://lh3.googleusercontent.com/xAGwQ1CFZXXJPGzQkExbp_Riqd8bBt3CB8sstSYs1DtQgyYSiVbQDMfRLHJCzxp_fFG3GmdWc-aZx4mpE88WQDbLdBimH11BN7zszQiHe56C988cGYi8h6U-ZJKQ_AlhzMAtP8R5Bm0=w16383"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://lh3.googleusercontent.com/xAGwQ1CFZXXJPGzQkExbp_Riqd8bBt3CB8sstSYs1DtQgyYSiVbQDMfRLHJCzxp_fFG3GmdWc-aZx4mpE88WQDbLdBimH11BN7zszQiHe56C988cGYi8h6U-ZJKQ_AlhzMAtP8R5Bm0=w16383"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile ID \u2013 Arkansas Department of Finance and Administration",
+   "htmlTitle": "<b>Mobile ID</b> \u2013 Arkansas Department of Finance and Administration",
+   "link": "https://www.dfa.arkansas.gov/office/driver-services/mobile-id/",
+   "displayLink": "www.dfa.arkansas.gov",
+   "snippet": "The Official Website of the State of Arkansas. State Directory ... Arkansas Mobile ID allows Arkansas residents to manage their identity like never before.",
+   "htmlSnippet": "The Official <b>Website</b> of the State of Arkansas. State Directory ... Arkansas <b>Mobile ID</b> allows Arkansas residents to manage their identity like never before.",
+   "formattedUrl": "https://www.dfa.arkansas.gov/office/driver-services/mobile-id/",
+   "htmlFormattedUrl": "https://www.dfa.arkansas.gov/office/driver-services/<b>mobile-id</b>/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ0k7syzdWQFBKqOASM2LtQsJQg3uukNEcIoP72PR4dTsXFzDadPt8TdU&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dfa.arkansas.gov/wp-content/uploads/arkansas-state-flag--scaled.jpg",
+      "og:type": "article",
+      "og:image:width": "2560",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Arkansas Department of Finance and Administration",
+      "og:title": "Mobile ID \u2013 Arkansas Department of Finance and Administration",
+      "og:image:height": "1440",
+      "twitter:label1": "Est. reading time",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://www.dfa.arkansas.gov/wp-content/uploads/DFA-Logo.svg",
+      "og:description": "Arkansas Mobile ID is a secure, digital version of a state-issued driver\u2019s license or ID card that residents can access on their smartphones. It provides a convenient and contactless way to verify identity, offering enhanced security features to prevent fraud and ensure privacy. Mobile ID can be used for age verification, airport security, and other [\u2026]",
+      "article:publisher": "https://www.facebook.com/ArkansasDFA/",
+      "twitter:data1": "1 minute",
+      "twitter:site": "@arkansasdfa",
+      "article:modified_time": "2025-03-06T18:28:40+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "ina-man": "fw",
+      "og:url": "https://www.dfa.arkansas.gov/office/driver-services/mobile-id/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dfa.arkansas.gov/wp-content/uploads/arkansas-state-flag--scaled.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Digital ID | Digital ID System",
+   "htmlTitle": "<b>Digital ID</b> | <b>Digital ID</b> System",
+   "link": "https://www.digitalidsystem.gov.au/",
+   "displayLink": "www.digitalidsystem.gov.au",
+   "snippet": "Your Digital ID makes accessing services easier, safer and more secure.",
+   "htmlSnippet": "Your <b>Digital ID</b> makes accessing services easier, safer and more secure.",
+   "formattedUrl": "https://www.digitalidsystem.gov.au/",
+   "htmlFormattedUrl": "https://www.<b>digitalid</b>system.gov.au/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkmsDLG2jQcnHIn2behxlBbIprcCyMnbQFlmOChlYqCKZRY9VODVqgiQvs&s",
+      "width": "293",
+      "height": "172"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "rights": "CC BY 4.0",
+      "mobileoptimized": "width",
+      "abstract": "Your Digital ID allows you to prove who you are online, and you can re-use your Digital ID whenever you need it."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.digitalidsystem.gov.au/sites/default/files/2024-05/rescaled-hero-image.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

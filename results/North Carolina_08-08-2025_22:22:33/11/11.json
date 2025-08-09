@@ -1,0 +1,447 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"North Carolina\" \"driver's license\" OR \"identity document\" \"personally identifiable information\" OR \"personal information\"",
+    "totalResults": "198000",
+    "searchTerms": "\"North Carolina\" \"driver's license\" OR \"identity document\" \"personally identifiable information\" OR \"personal information\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"North Carolina\" \"driver's license\" OR \"identity document\" \"personally identifiable information\" OR \"personal information\"",
+    "totalResults": "198000",
+    "searchTerms": "\"North Carolina\" \"driver's license\" OR \"identity document\" \"personally identifiable information\" OR \"personal information\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.220178,
+  "formattedSearchTime": "0.22",
+  "totalResults": "198000",
+  "formattedTotalResults": "198,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "The Impact of North Carolina Driver's License Requirements and the ...",
+   "htmlTitle": "The Impact of <b>North Carolina Driver&#39;s License</b> Requirements and the ...",
+   "link": "https://www.sog.unc.edu/sites/default/files/articles/online2.pdf",
+   "displayLink": "www.sog.unc.edu",
+   "snippet": "North Carolina driver's license. The 2006 legislation enacted one exception ... curity of personally identifiable information. 15. \u00a7 37.41(b)(5)(i\u00a0...",
+   "htmlSnippet": "<b>North Carolina driver&#39;s license</b>. The 2006 legislation enacted one exception ... curity of <b>personally identifiable information</b>. 15. \u00a7 37.41(b)(5)(i&nbsp;...",
+   "formattedUrl": "https://www.sog.unc.edu/sites/default/files/articles/online2.pdf",
+   "htmlFormattedUrl": "https://www.sog.unc.edu/sites/default/files/articles/online2.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20090724091716-04'00'",
+      "creationdate": "D:20090723111158Z",
+      "creator": "QuarkXPress(tm) 6.5",
+      "xpressprivate": "%%DocumentProcessColors: Cyan Magenta Yellow Black %%EndComments",
+      "producer": "QuarkXPress(tm) 6.5",
+      "title": "PGsprSum09_online_denning"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver's License Suspension in North Carolina by Brandon L. Garrett ...",
+   "htmlTitle": "<b>Driver&#39;s License</b> Suspension in <b>North Carolina</b> by Brandon L. Garrett ...",
+   "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3355599",
+   "displayLink": "papers.ssrn.com",
+   "snippet": "Apr 15, 2019 ... We also conducted a series of mixed-model linear regressions on North Carolina driver's license suspensions from 2010-2017, analyzing the\u00a0...",
+   "htmlSnippet": "Apr 15, 2019 <b>...</b> We also conducted a series of mixed-model linear regressions on <b>North Carolina driver&#39;s license</b> suspensions from 2010-2017, analyzing the&nbsp;...",
+   "formattedUrl": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3355599",
+   "htmlFormattedUrl": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3355599",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsVrE6hwBO1rUJ5lqnZEO2T6r0WVWJTvSFNRvwmRkrZb9O0Tn-QNc88aft&s",
+      "width": "340",
+      "height": "148"
+     }
+    ],
+    "metatags": [
+     {
+      "citation_publication_date": "2019/03/19",
+      "og:image": "https://cdn.ssrn.com/ssrn-global-header/11589acb53bc518aa22929bf19add113.svg",
+      "citation_title": "Driver's License Suspension in North Carolina",
+      "og:image:width": "1200",
+      "user_name": "Public User",
+      "tdm-policy": "https://www.elsevier.com/tdm/tdmrep-policy.json",
+      "on_behalf": "false",
+      "citation_online_date": "2019/04/15",
+      "tdm-reservation": "1",
+      "static_server": "https://cdn.ssrn.com",
+      "own_design": "false",
+      "is_custom": "false",
+      "citation_pdf_url": "https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=3355599",
+      "part_id": "1",
+      "hq_server": "hq.ssrn.com",
+      "papers_server": "papers.ssrn.com",
+      "og:title": "Driver's License Suspension in North Carolina",
+      "citation_author": "Garrett, Brandon L.",
+      "og:image:height": "630",
+      "citation_abstract_html_url": "https://papers.ssrn.com/abstract=3355599",
+      "viewport": "width=device-width, initial-scale=1",
+      "citation_doi": "10.2139/ssrn.3355599",
+      "free_download_available": "true",
+      "www_server": "www.ssrn.com",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://cdn.ssrn.com/ssrn-global-header/11589acb53bc518aa22929bf19add113.svg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Police Department Application | Jacksonville, NC - Official Website",
+   "htmlTitle": "Police Department Application | Jacksonville, NC - Official Website",
+   "link": "https://www.jacksonvillenc.gov/158/Police-Department-Application",
+   "displayLink": "www.jacksonvillenc.gov",
+   "snippet": "Possess a valid North Carolina driver's license; Have no convictions of a ... Personal Information, and Selective Service forms. When vacant, the\u00a0...",
+   "htmlSnippet": "Possess a valid <b>North Carolina driver&#39;s license</b>; Have no convictions of a ... <b>Personal Information</b>, and Selective Service forms. When vacant, the&nbsp;...",
+   "formattedUrl": "https://www.jacksonvillenc.gov/158/Police-Department-Application",
+   "htmlFormattedUrl": "https://www.jacksonvillenc.gov/158/Police-Department-Application",
+   "pagemap": {
+    "metatags": [
+     {
+      "category2": "Jobs",
+      "category3": "Police Department Application",
+      "theme-color": "#003561",
+      "viewport": "width=device-width, initial-scale=1",
+      "category0": "Home",
+      "category1": "City Services"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Changes to North Carolina Driver's License and ID Cards",
+   "htmlTitle": "Changes to <b>North Carolina Driver&#39;s License</b> and ID Cards",
+   "link": "https://www.dannygloverlawfirm.com/blog/changes-to-north-carolina-drivers-license-and-id-cards/",
+   "displayLink": "www.dannygloverlawfirm.com",
+   "snippet": "May 29, 2024 ... ... North Carolina driver's license ... These enhancements will help ensure your personal information remains safe and that your driver's license is\u00a0...",
+   "htmlSnippet": "May 29, 2024 <b>...</b> ... <b>North Carolina driver&#39;s license</b> ... These enhancements will help ensure your <b>personal information</b> remains safe and that your <b>driver&#39;s license</b> is&nbsp;...",
+   "formattedUrl": "https://www.dannygloverlawfirm.com/.../changes-to-north-carolina-drivers-...",
+   "htmlFormattedUrl": "https://www.dannygloverlawfirm.com/.../changes-to-<b>north-carolina</b>-<b>drivers-</b>...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrZE-1lzVWKqnY_eUKwOpTwWZatQlNqWqmCF4movUGVZLQ-L-PhlLNHRVl&s",
+      "width": "299",
+      "height": "168"
+     }
+    ],
+    "imageobject": [
+     {
+      "representativeofpage": "http://schema.org/True",
+      "width": "1280",
+      "url": "https://www.dannygloverlawfirm.com/blog/wp-content/uploads/2024/05/2GLOVER.png",
+      "height": "720"
+     },
+     {
+      "representativeofpage": "http://schema.org/True",
+      "width": "179",
+      "url": "https://www.dannygloverlawfirm.com/blog/wp-content/uploads/2018/11/GloverLawFirm-Logo.png",
+      "height": "60"
+     }
+    ],
+    "legalservice": [
+     {
+      "image": "https://www.dannygloverlawfirm.com/blog/wp-content/uploads/2018/11/GloverLawFirm-Logo.png",
+      "name": "Glover Law Firm",
+      "logo": "https://www.dannygloverlawfirm.com/blog/wp-content/uploads/2018/11/GloverLawFirm-Logo.png",
+      "telephone": "(252) 299-5300",
+      "url": "https://www.dannygloverlawfirm.com/blog"
+     }
+    ],
+    "person": [
+     {
+      "name": "Danny Glover",
+      "url": "Danny Glover",
+      "sameas": "https://twitter.com/dgloverattorney"
+     },
+     {
+      "name": "Danny Glover",
+      "url": "Danny Glover",
+      "sameas": "https://twitter.com/dgloverattorney"
+     }
+    ],
+    "organization": [
+     {
+      "name": "Glover Law Firm"
+     }
+    ],
+    "postaladdress": [
+     {
+      "addresslocality": "Elizabeth City",
+      "postalcode": "27909",
+      "addressregion": "NC",
+      "streetaddress": "406 S Griffin St #B"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dannygloverlawfirm.com/blog/wp-content/uploads/2024/05/2GLOVER-1000x563.png",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Changes to North Carolina Driver's License and ID Cards",
+      "article:published_time": "2024-05-29T15:47:24-04:00",
+      "article:section": "Uncategorized",
+      "og:type": "article",
+      "og:image:width": "1280",
+      "og:site_name": "North Carolina Criminal Law Updates",
+      "og:image:url": "https://www.dannygloverlawfirm.com/blog/wp-content/uploads/2024/05/2GLOVER-1000x563.png",
+      "og:title": "Changes to North Carolina Driver\u2019s License and ID Cards",
+      "twitter:label1": "Written by",
+      "og:image:height": "720",
+      "twitter:label2": "Est. reading time",
+      "og:description": "North Carolina's New Driver's License: What You Need to Know The risk of identity theft and fraud is a growing concern in today's digital age. Protecting your personal information is more ...",
+      "twitter:image": "https://www.dannygloverlawfirm.com/blog/wp-content/uploads/2024/05/2GLOVER.png",
+      "twitter:data1": "Danny Glover",
+      "article:author": "https://www.dannygloverlawfirm.com/blog/author/dannygloverlawfirm1/",
+      "og:image:secure_url": "https://www.dannygloverlawfirm.com/blog/wp-content/uploads/2024/05/2GLOVER-1000x563.png",
+      "twitter:data2": "11 minutes",
+      "referrer": "origin",
+      "article:modified_time": "2024-05-29T15:48:29-04:00",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "This guide provides details about the updated North Carolina driver's license and ID card - OBX Traffic Lawyer Danny Glover - NC DMV",
+      "og:url": "https://www.dannygloverlawfirm.com/blog/changes-to-north-carolina-drivers-license-and-id-cards/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dannygloverlawfirm.com/blog/wp-content/uploads/2024/05/2GLOVER-1000x563.png"
+     }
+    ],
+    "hatomfeed": [
+     {}
+    ],
+    "blogposting": [
+     {
+      "articlebody": "North Carolina\u2019s New Driver\u2019s License: What You Need to Know The risk of identity theft and fraud is a growing concern in today\u2019s digital age. Protecting your personal information is...",
+      "datemodified": "2024-05-29T15:48:29-04:00",
+      "name": "Changes to North Carolina Driver\u2019s License and ID Cards",
+      "headline": "Changes to North Carolina Driver\u2019s License and ID Cards",
+      "datepublished": "2024-05-29T15:47:24-04:00",
+      "mainentityofpage": "https://www.dannygloverlawfirm.com/blog/changes-to-north-carolina-drivers-license-and-id-cards/"
+     }
+    ],
+    "geocoordinates": [
+     {
+      "latitude": "36.2967133",
+      "longitude": "-76.23374469999999"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ID Theft Victims",
+   "htmlTitle": "ID Theft Victims",
+   "link": "https://ncdoj.gov/protecting-consumers/identity-theft/",
+   "displayLink": "ncdoj.gov",
+   "snippet": "Call the NC DMV at (919) 715-7000 if you suspect that someone else has a state-issued North Carolina driver's license in your name. ... personal information has\u00a0...",
+   "htmlSnippet": "Call the NC DMV at (919) 715-7000 if you suspect that someone else has a state-issued <b>North Carolina driver&#39;s license</b> in your name. ... <b>personal information</b> has&nbsp;...",
+   "formattedUrl": "https://ncdoj.gov/protecting-consumers/identity-theft/",
+   "htmlFormattedUrl": "https://ncdoj.gov/protecting-consumers/identity-theft/",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "NCDOJ",
+      "og:title": "ID Theft Victims",
+      "twitter:label1": "Est. reading time",
+      "msapplication-tileimage": "https://ncdoj.gov/wp-content/uploads/2019/05/cropped-favicon-300x300.png",
+      "og:description": "master page",
+      "twitter:data1": "8 minutes",
+      "article:modified_time": "2019-07-30T21:46:15+00:00",
+      "viewport": "width=device-width, initial-scale=1.0, shrink-to-fit=no",
+      "og:locale": "en_US",
+      "position": "1",
+      "og:url": "https://ncdoj.gov"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Official use only North Carolina Division of Motor Vehicles Request ...",
+   "htmlTitle": "Official use only <b>North Carolina</b> Division of Motor Vehicles Request ...",
+   "link": "https://www.ncdot.gov/dmv/downloads/Documents/TR-67A.pdf",
+   "displayLink": "www.ncdot.gov",
+   "snippet": "... driver's license or affect the administration of organ donation initiatives in the States. (b) Permissible Uses. Personal information shall be disclosed for\u00a0...",
+   "htmlSnippet": "... <b>driver&#39;s license</b> or affect the administration of organ donation initiatives in the States. (b) Permissible Uses. <b>Personal information</b> shall be disclosed for&nbsp;...",
+   "formattedUrl": "https://www.ncdot.gov/dmv/downloads/Documents/TR-67A.pdf",
+   "htmlFormattedUrl": "https://www.ncdot.gov/dmv/downloads/Documents/TR-67A.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20250721121351-04'00'",
+      "creationdate": "D:20240701092201-04'00'",
+      "creator": "Acrobat PDFMaker 22 for Word",
+      "lastsaved": "D:20220510",
+      "author": "Janna M. Allison",
+      "created": "D:20170417",
+      "producer": "Adobe PDF Library 22.3.39",
+      "contenttypeid": "0x0101001CCFBFE2D8D76B46B54608F18DA035AA"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Security Breach Information with North Carolina DOJ",
+   "htmlTitle": "Security Breach Information with <b>North Carolina</b> DOJ",
+   "link": "https://ncdoj.gov/protecting-consumers/protecting-your-identity/protect-your-business-from-id-theft/security-breach-information/",
+   "displayLink": "ncdoj.gov",
+   "snippet": "... driver's license or state identification number, passport number ... Businesses that keep records/data with the personal information of North Carolina\u00a0...",
+   "htmlSnippet": "... <b>driver&#39;s license</b> or state identification number, passport number ... Businesses that keep records/data with the <b>personal information</b> of <b>North Carolina</b>&nbsp;...",
+   "formattedUrl": "https://ncdoj.gov/protecting-consumers/.../security-breach-information/",
+   "htmlFormattedUrl": "https://ncdoj.gov/protecting-consumers/.../security-breach-information/",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "NCDOJ",
+      "og:title": "Security Breach Information with North Carolina DOJ",
+      "twitter:label1": "Est. reading time",
+      "msapplication-tileimage": "https://ncdoj.gov/wp-content/uploads/2019/05/cropped-favicon-300x300.png",
+      "og:description": "Security Breach Information with North Carolina DOJ notifies people when there is a security breach involving their personal identifying information.",
+      "twitter:data1": "3 minutes",
+      "article:modified_time": "2023-08-09T14:56:29+00:00",
+      "viewport": "width=device-width, initial-scale=1.0, shrink-to-fit=no",
+      "og:locale": "en_US",
+      "position": "1",
+      "og:url": "https://ncdoj.gov"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Official NCDMV: Crash Reports",
+   "htmlTitle": "Official NCDMV: Crash Reports",
+   "link": "https://www.ncdot.gov/dmv/offices-services/records-reports/Pages/crash-reports.aspx",
+   "displayLink": "www.ncdot.gov",
+   "snippet": "Sep 29, 2024 ... North Carolina Division of Motor Vehicles. Search. It looks like your ... personal information about more than one person. They can be\u00a0...",
+   "htmlSnippet": "Sep 29, 2024 <b>...</b> <b>North Carolina</b> Division of Motor Vehicles. Search. It looks like your ... <b>personal information</b> about more than one person. They can be&nbsp;...",
+   "formattedUrl": "https://www.ncdot.gov/dmv/offices-services/records.../crash-reports.aspx",
+   "htmlFormattedUrl": "https://www.ncdot.gov/dmv/offices-services/records.../crash-reports.aspx",
+   "pagemap": {
+    "metatags": [
+     {
+      "image": "https://www.ncdot.gov/Style%20Library/Images/NCDOT_Social_Image.jpg",
+      "og:image": "https://www.ncdot.gov/Style%20Library/Images/NCDOT_Social_Image.jpg",
+      "twitter:card": "summary",
+      "og:type": "website",
+      "twitter:site": "@NCDOT",
+      "og:site_name": "NCDOT",
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0",
+      "twitter:description": "NCDOT",
+      "twitter:creator": "@NCDOT",
+      "og:description": "NCDOT"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.ncdot.gov/Style%20Library/Images/NCDOT_Social_Image.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Voters Can Now Get Free Photo ID Cards from County Boards of ...",
+   "htmlTitle": "Voters Can Now Get Free Photo ID Cards from County Boards of ...",
+   "link": "https://www.ncsbe.gov/news/press-releases/2023/08/02/voters-can-now-get-free-photo-id-cards-county-boards-elections",
+   "displayLink": "www.ncsbe.gov",
+   "snippet": "Aug 2, 2023 ... Most voters have a North Carolina driver's license, which is an acceptable form of photo ID for voting. Those voters do not need to obtain a\u00a0...",
+   "htmlSnippet": "Aug 2, 2023 <b>...</b> Most voters have a <b>North Carolina driver&#39;s license</b>, which is an acceptable form of photo ID for voting. Those voters do not need to obtain a&nbsp;...",
+   "formattedUrl": "https://www.ncsbe.gov/.../voters-can-now-get-free-photo-id-cards-county-b...",
+   "htmlFormattedUrl": "https://www.ncsbe.gov/.../voters-can-now-get-free-photo-id-cards-county-b...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYTZ_K6SoU29F_jLLPvHMIhJntYdnn0XQU6qSjAG0gjDP0Sapxa5b_kl0&s",
+      "width": "250",
+      "height": "75"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Voters Can Now Get Free Photo ID Cards from County Boards of Elections",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "og:title": "Voters Can Now Get Free Photo ID Cards from County Boards of Elections",
+      "mobileoptimized": "width",
+      "og:url": "https://www.ncsbe.gov/news/press-releases/2023/08/02/voters-can-now-get-free-photo-id-cards-county-boards-elections"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://files.nc.gov/sbe/SBE-logo%20%281%29.png?VersionId=Ct4d0VAc4I.o6t.OffmNvyjWf9FmRLXo"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Identity Theft Protection Act | Pitt County, NC",
+   "htmlTitle": "Identity Theft Protection Act | Pitt County, NC",
+   "link": "https://www.pittcountync.gov/1211/Identity-Theft-Protection-Act",
+   "displayLink": "www.pittcountync.gov",
+   "snippet": "Protect Your Personal Information on Public Records. Pitt County is committed to protecting the personal information of its residents. Under the North Carolina\u00a0...",
+   "htmlSnippet": "Protect Your <b>Personal Information</b> on Public Records. Pitt County is committed to protecting the <b>personal information</b> of its residents. Under the <b>North Carolina</b>&nbsp;...",
+   "formattedUrl": "https://www.pittcountync.gov/1211/Identity-Theft-Protection-Act",
+   "htmlFormattedUrl": "https://www.pittcountync.gov/1211/Identity-Theft-Protection-Act",
+   "pagemap": {
+    "metatags": [
+     {
+      "category2": "Register of Deeds",
+      "category3": "Identity Theft Protection Act",
+      "theme-color": "rgb(9, 33, 49)",
+      "viewport": "width=device-width, initial-scale=1",
+      "category0": "Home",
+      "category1": "Government"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,413 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Texas\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL API",
+    "totalResults": "169000",
+    "searchTerms": "\"Texas\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL API",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Texas\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL API",
+    "totalResults": "169000",
+    "searchTerms": "\"Texas\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL API",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.20449,
+  "formattedSearchTime": "0.20",
+  "totalResults": "169000",
+  "formattedTotalResults": "169,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "TxDPS-Real ID Document Check App",
+   "htmlTitle": "TxDPS-Real ID Document Check App",
+   "link": "https://www.dps.texas.gov/apps/DriverLicense/RealID",
+   "displayLink": "www.dps.texas.gov",
+   "snippet": "How to renew your Texas Driver License or ID Card.",
+   "htmlSnippet": "How to renew your <b>Texas</b> Driver License or ID Card.",
+   "formattedUrl": "https://www.dps.texas.gov/apps/DriverLicense/RealID",
+   "htmlFormattedUrl": "https://www.dps.<b>texas</b>.gov/apps/DriverLicense/RealID",
+   "pagemap": {
+    "metatags": [
+     {
+      "copyright": "Texas Department of Public Safety",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "google-translate-customization": "124407f13cc64fea-d9c097476878aa0b-ga65d73fba5ee9c15-11",
+      "author": "TxDPS",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "TEXAS NATURAL RESOURCE CONSERVATION COMMISSION",
+   "htmlTitle": "<b>TEXAS</b> NATURAL RESOURCE CONSERVATION COMMISSION",
+   "link": "https://www.tceq.texas.gov/downloads/remediation/trrp/method-1005.pdf",
+   "displayLink": "www.tceq.texas.gov",
+   "snippet": "Jun 1, 2001 ... MDL study. Once per 12 month period. Detection limits established ... Texas Natural Resource Conservation Commission. P.O. Box 13087, MC\u00a0...",
+   "htmlSnippet": "Jun 1, 2001 <b>...</b> <b>MDL</b> study. Once per 12 month period. Detection limits established ... <b>Texas</b> Natural Resource Conservation Commission. P.O. Box 13087, MC&nbsp;...",
+   "formattedUrl": "https://www.tceq.texas.gov/downloads/remediation/trrp/method-1005.pdf",
+   "htmlFormattedUrl": "https://www.tceq.<b>texas</b>.gov/downloads/remediation/trrp/method-1005.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20180824161512-05'00'",
+      "creationdate": "D:20180824161512-05'00'",
+      "author": "DSimonin",
+      "producer": "Microsoft: Print To PDF",
+      "title": "1005_final.pdf"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "GET Mobile ID",
+   "htmlTitle": "GET <b>Mobile ID</b>",
+   "link": "https://mobiledl.us/",
+   "displayLink": "mobiledl.us",
+   "snippet": "Mobile ID, or mobile driver's license (mDL) is a highly secure, official ... Texas, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin, Wyoming.",
+   "htmlSnippet": "<b>Mobile ID</b>, or <b>mobile driver&#39;s license</b> (<b>mDL</b>) is a highly secure, official ... <b>Texas</b>, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin, Wyoming.",
+   "formattedUrl": "https://mobiledl.us/",
+   "htmlFormattedUrl": "https://mobiledl.us/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMi814SWl71z043Y5VNQH2Ya7TeffM4vyS6itNtjgEqlTLOocNKrIri2c&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://mobiledl.us/wp-content/uploads/2024/01/GET-MOBILE-ID-LOGO-600x600-1.png",
+      "og:type": "website",
+      "og:image:width": "600",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "GET Mobile",
+      "og:title": "Home - GET Mobile",
+      "og:image:height": "600",
+      "og:image:type": "image/png",
+      "msapplication-tileimage": "https://mobiledl.us/wp-content/uploads/2024/01/GET-Mobile-1.png",
+      "og:description": "Mobile ID (mDL) is a highly secure, official version of your driver\u2019s license or state-issued ID card (mID) on your phone.",
+      "article:modified_time": "2025-02-03T19:27:14+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://mobiledl.us/"
+     }
+    ],
+    "creativework": [
+     {
+      "text": "The Future of IdentityGET Mobile IDWhere YOU are in control of your IdentityWhat is Mobile ID (mDL)?Mobile ID, or mobile driver\u2019s license (mDL) is a highly secure, official version of your..."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://mobiledl.us/wp-content/uploads/2024/01/GET-MOBILE-ID-LOGO-600x600-1.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "<np> court_type (all, ap, bk, cv, cr, mdl)",
+   "htmlTitle": "&lt;np&gt; court_type (all, ap, bk, cv, cr, <b>mdl</b>)",
+   "link": "https://free.law/pdf/PACER-API-Documentation.pdf",
+   "displayLink": "free.law",
+   "snippet": "Download Formats (MDL) ... TX,Texas,05. UT,Utah,10. VT,Vermont,02. VI,Virgin Islands,03. VA,Virginia,04. WA\u00a0...",
+   "htmlSnippet": "Download Formats (<b>MDL</b>) ... TX,<b>Texas</b>,05. UT,Utah,10. VT,Vermont,02. VI,Virgin Islands,03. VA,Virginia,04. WA&nbsp;...",
+   "formattedUrl": "https://free.law/pdf/PACER-API-Documentation.pdf",
+   "htmlFormattedUrl": "https://free.law/pdf/PACER-<b>API</b>-Documentation.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20120606140154-05'00'",
+      "creationdate": "D:20120606140150-05'00'",
+      "creator": "Acrobat PDFMaker 10.1 for Word",
+      "sourcemodified": "D:20120606190142",
+      "author": "petreleyn",
+      "producer": "Adobe PDF Library 10.0",
+      "company": "PSC",
+      "title": "<np> court_type (all, ap, bk, cv, cr, mdl)"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Information Technology - UTHealth Houston",
+   "htmlTitle": "Information Technology - UTHealth Houston",
+   "link": "https://www.uth.edu/it/",
+   "displayLink": "www.uth.edu",
+   "snippet": "Digital ID Request ... The chief information officer is the primary liaison to The University of Texas System and the Texas Department of Information Resources.",
+   "htmlSnippet": "<b>Digital ID</b> Request ... The chief information officer is the primary liaison to The University of <b>Texas</b> System and the <b>Texas</b> Department of Information Resources.",
+   "formattedUrl": "https://www.uth.edu/it/",
+   "htmlFormattedUrl": "https://www.uth.edu/it/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsj3_tns9AcRxtws5CtZ3Psi1NLZ2uAdUwlPxVyOXn6L6f3QKQ45sLjJ4j&s",
+      "width": "310",
+      "height": "162"
+     }
+    ],
+    "WebPage": [
+     {}
+    ],
+    "metatags": [
+     {
+      "og:image": "https://share.uth.edu/global/img/og/uth.jpg",
+      "og:type": "article",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "lastmodifieddate": "2025-06-13 09:25:22.277",
+      "og:title": "Information Technology",
+      "og:url": "https://www.uth.edu/it/",
+      "pageid": "3192cc04-86d8-4a25-a645-6621f67af8cc"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://share.uth.edu/global/img/og/uth.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mentalix: Home",
+   "htmlTitle": "Mentalix: Home",
+   "link": "https://mentalix.com/",
+   "displayLink": "mentalix.com",
+   "snippet": "... mobile ID, and fingerprint-based identity checks. We also offer secure card ... Texas Live Scan. Mentalix's Fed Submit (TX) product is used by law\u00a0...",
+   "htmlSnippet": "... <b>mobile ID</b>, and fingerprint-based identity checks. We also offer secure card ... <b>Texas</b> Live Scan. Mentalix&#39;s Fed Submit (TX) product is used by law&nbsp;...",
+   "formattedUrl": "https://mentalix.com/",
+   "htmlFormattedUrl": "https://mentalix.com/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPbotrLW_37DzvIVyR5f17esQBEQviGEiNwwfoPcOlC7r0-6nGABylRA&s",
+      "width": "395",
+      "height": "127"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Mentalix",
+      "og:site_name": "Mentalix",
+      "og:title": "Home - Mentalix",
+      "msapplication-tileimage": "https://mentalix.com/wp-content/uploads/2017/06/cropped-X-Icon-270x270.png",
+      "og:description": "Phone: (972) 423-9377 E-Mail: info@mentalix.com Hours: Mon \u2013 Fri : 8:00am \u2013 5:00pm Address: Mentalix, Inc. 1255 W 15th St, Suite #200 Dallas, Texas 75075 United States of America",
+      "article:publisher": "https://www.facebook.com/MentalixInc/",
+      "twitter:site": "@mentalixinc",
+      "article:modified_time": "2025-03-25T18:19:04+00:00",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:partner": "tfwp",
+      "og:locale": "en_US",
+      "og:url": "https://mentalix.com/",
+      "twitter:widgets:link-color": "#000000",
+      "twitter:widgets:border-color": "#000000"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://mentalix.com/wp-content/uploads/2018/01/Banner-2018-2-Light-Gray.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Texas Mobile ID Updates",
+   "htmlTitle": "<b>Texas Mobile ID</b> Updates",
+   "link": "https://idscan.net/state-digital-id/texas-mobile-id-updates/",
+   "displayLink": "idscan.net",
+   "snippet": "However, there has been legislation in progress since May 2023 regarding the creation of a Texas digital ID. ... API & SDK Library \u00b7 Open A Ticket \u00b7 Track A\u00a0...",
+   "htmlSnippet": "However, there has been legislation in progress since May 2023 regarding the creation of a <b>Texas digital ID</b>. ... <b>API</b> &amp; <b>SDK</b> Library &middot; Open A Ticket &middot; Track A&nbsp;...",
+   "formattedUrl": "https://idscan.net/state-digital-id/texas-mobile-id-updates/",
+   "htmlFormattedUrl": "https://idscan.net/state-<b>digital-id</b>/<b>texas</b>-<b>mobile-id</b>-updates/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmRDyp4N7WPBrhZJVio2M-KPDQ-KHWVgjKq2VlCamdYeFz12Eo6w2n1F6P&s",
+      "width": "284",
+      "height": "178"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://idscan.net/wp-content/uploads/texas-mobile-id-application.png?lm=66A73197",
+      "og:type": "article",
+      "og:image:width": "1442",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "IDScan.net",
+      "og:title": "Texas Mobile ID Updates",
+      "og:image:height": "904",
+      "og:image:type": "image/png",
+      "msapplication-tileimage": "https://idscan.net/wp-content/uploads/cropped-idscan-identity-verification-software-icon-1-270x270.png",
+      "og:description": "The Texas mobile ID was slated to release on February 1, 2025, but it has yet to be released. Here is what we know.",
+      "article:publisher": "https://www.facebook.com/idscannet",
+      "twitter:site": "@idscan_net",
+      "article:modified_time": "2025-02-19T20:04:35+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://idscan.net/state-digital-id/texas-mobile-id-updates/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://idscan.net/wp-content/uploads/texas-mobile-id-application.png?lm=66A73197"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Federal Judicial Caseload Statistics 2023",
+   "htmlTitle": "Federal Judicial Caseload Statistics 2023",
+   "link": "https://www.uscourts.gov/data-news/reports/statistical-reports/federal-judicial-caseload-statistics/federal-judicial-caseload-statistics-2023",
+   "displayLink": "www.uscourts.gov",
+   "snippet": "Health care/pharmaceutical cases decreased 30 percent (down 7,251 cases), primarily because fewer MDL ... Texas (after increasing 18 percent last year), 11\u00a0...",
+   "htmlSnippet": "Health care/pharmaceutical cases decreased 30 percent (down 7,251 cases), primarily because fewer <b>MDL</b> ... <b>Texas</b> (after increasing 18 percent last year), 11&nbsp;...",
+   "formattedUrl": "https://www.uscourts.gov/data.../federal-judicial-caseload-statistics-2023",
+   "htmlFormattedUrl": "https://www.uscourts.gov/data.../federal-judicial-caseload-statistics-2023",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1N3SV36QrOWMAMfJ0n0Yuoz_wm3U_rG_-9miYLfO0ndTkfz3pF8145rQJ&s",
+      "width": "314",
+      "height": "161"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "Report",
+      "twitter:card": "summary",
+      "twitter:title": "Federal Judicial Caseload Statistics 2023",
+      "og:site_name": "United States Courts",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Federal Judicial Caseload Statistics 2023",
+      "mobileoptimized": "width",
+      "og:url": "https://www.uscourts.gov/data-news/reports/statistical-reports/federal-judicial-caseload-statistics/federal-judicial-caseload-statistics-2023/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.uscourts.gov/sites/default/files/styles/site_logo/public/images/2024-11/uscourts_logo_0.png.webp?itok=z9b9aU7N"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Federal Mobile Driver's License (mDL) Industry Day | GSA",
+   "htmlTitle": "Federal <b>Mobile Driver&#39;s License</b> (<b>mDL</b>) Industry Day | GSA",
+   "link": "https://www.gsa.gov/events/federal-mobile-drivers-license-mdl-industry-day",
+   "displayLink": "www.gsa.gov",
+   "snippet": "Jun 9, 2025 ... Accelerate digital transformation with secure, privacy-preserving mobile driver's license (mDL) technology ... Texas, Utah, Vermont, Virginia\u00a0...",
+   "htmlSnippet": "Jun 9, 2025 <b>...</b> Accelerate digital transformation with secure, privacy-preserving <b>mobile driver&#39;s license</b> (<b>mDL</b>) technology ... <b>Texas</b>, Utah, Vermont, Virginia&nbsp;...",
+   "formattedUrl": "https://www.gsa.gov/events/federal-mobile-drivers-license-mdl-industry-day",
+   "htmlFormattedUrl": "https://www.gsa.gov/events/federal-<b>mobile-drivers-license</b>-<b>mdl</b>-industry-day",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSUa_90S6WXJo0eHwAmolNNSW0k_edIyja2pnX4f9HGTRgESASH5_EoUw&s",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.gsa.gov/sites/gsa.gov/themes/custom/gsa/custom_assets/images/open_graph_image.jpeg",
+      "og:type": "website",
+      "og:image:alt": "Photo of GSA headquarters",
+      "og:site_name": "U.S. General Services Administration",
+      "handheldfriendly": "true",
+      "og:title": "Federal Mobile Driver\u2019s License (mDL) Industry Day",
+      "og:description": "Accelerate digital transformation with secure, privacy-preserving mobile driver\u2019s license (mDL) technology.",
+      "last-modified": "2025-06-09",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width",
+      "organization": "FAS",
+      "og:locale": "en_US",
+      "og:url": "https://www.gsa.gov/events/federal-mobile-drivers-license-mdl-industry-day"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.gsa.gov/sites/gsa.gov/themes/custom/gsa/custom_assets/images/open_graph_image.jpeg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Kroger Texas Statewide Opioid Settlement Agreement and Release ...",
+   "htmlTitle": "Kroger <b>Texas</b> Statewide Opioid Settlement Agreement and Release ...",
+   "link": "https://comptroller.texas.gov/programs/opioid-council/settlements/docs/kroger-opioid-settlement-fully-executed-10-30-2024.pdf",
+   "displayLink": "comptroller.texas.gov",
+   "snippet": "Oct 30, 2024 ... Except with respect to the Consent Judgment, \u201cCourt\u201d means the Honorable Robert. Schaffer, In Re: Texas Opioid Litigation, MDL No. 18-0358,\u00a0...",
+   "htmlSnippet": "Oct 30, 2024 <b>...</b> Except with respect to the Consent Judgment, \u201cCourt\u201d means the Honorable Robert. Schaffer, In Re: <b>Texas</b> Opioid Litigation, <b>MDL</b> No. 18-0358,&nbsp;...",
+   "formattedUrl": "https://comptroller.texas.gov/.../kroger-opioid-settlement-fully-executed-10...",
+   "htmlFormattedUrl": "https://comptroller.<b>texas</b>.gov/.../kroger-opioid-settlement-fully-executed-10...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyZJiSSGhxoiorknJnPx7OBwzQKkDo-DED4DRUHiOMNNjzyPL0DAaL3w&s",
+      "width": "160",
+      "height": "100"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20241114165313-06'00'",
+      "creationdate": "D:20241030110118-04'00'",
+      "creator": "Adobe Acrobat Pro (32-bit) 24.3.20180",
+      "producer": "Adobe Acrobat Pro (32-bit) 24.3.20180",
+      "_iqpdocumentid": "2c9a104d-731c-458b-a358-85b5698d0519"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///479265f00f6bcd6f5772c5db16d93c51a5610e4eba046eba992592ef4b84797c"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

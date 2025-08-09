@@ -1,0 +1,451 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Virginia\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL law OR bill OR order OR \"\"",
+    "totalResults": "725000",
+    "searchTerms": "\"Virginia\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL law OR bill OR order OR \"\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Virginia\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL law OR bill OR order OR \"\"",
+    "totalResults": "725000",
+    "searchTerms": "\"Virginia\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL law OR bill OR order OR \"\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.206779,
+  "formattedSearchTime": "0.21",
+  "totalResults": "725000",
+  "formattedTotalResults": "725,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile ID Frequently Asked Questions (FAQs) | Virginia Department ...",
+   "htmlTitle": "<b>Mobile ID</b> Frequently Asked Questions (FAQs) | <b>Virginia</b> Department ...",
+   "link": "https://www.dmv.virginia.gov/licenses-ids/mobile-id/faq",
+   "displayLink": "www.dmv.virginia.gov",
+   "snippet": "NOTE: We are currently test driving Virginia Mobile ID. See answers to general mobile ID questions, as well as common troubleshooting topics below. What is\u00a0...",
+   "htmlSnippet": "NOTE: We are currently test driving <b>Virginia Mobile ID</b>. See answers to general <b>mobile ID</b> questions, as well as common troubleshooting topics below. What is&nbsp;...",
+   "formattedUrl": "https://www.dmv.virginia.gov/licenses-ids/mobile-id/faq",
+   "htmlFormattedUrl": "https://www.dmv.<b>virginia</b>.gov/licenses-ids/<b>mobile-id</b>/faq",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrdzU_br5_YiI8EoVeeqQ5dyWirS6kSf6gMmItyunE0eSSImAMJzSfuNQ&s",
+      "width": "224",
+      "height": "224"
+     }
+    ],
+    "metatags": [
+     {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Mobile ID Frequently Asked Questions (FAQs)",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Mobile ID Frequently Asked Questions (FAQs)",
+      "mobileoptimized": "width",
+      "twitter:creator": "@VirginiaDMV"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.developer.virginia.gov/media/developer/assets/img/close_icon.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DMV Introduces Virginia Mobile ID on Your Smartphone - Virginia ...",
+   "htmlTitle": "DMV Introduces <b>Virginia Mobile ID</b> on Your Smartphone - <b>Virginia</b> ...",
+   "link": "https://www.vachiefs.org/news/dmv-introduces-virginia-mobile-id-on-your-smartphone",
+   "displayLink": "www.vachiefs.org",
+   "snippet": "Jun 23, 2025 ... How Mobile ID Works for Law Enforcement. By downloading a separate app, the Virginia Mobile ID Verifier app on your department-issued smartphone\u00a0...",
+   "htmlSnippet": "Jun 23, 2025 <b>...</b> How <b>Mobile ID</b> Works for <b>Law</b> Enforcement. By downloading a separate app, the <b>Virginia Mobile ID</b> Verifier app on your department-issued smartphone&nbsp;...",
+   "formattedUrl": "https://www.vachiefs.org/.../dmv-introduces-virginia-mobile-id-on-your-sm...",
+   "htmlFormattedUrl": "https://www.vachiefs.org/.../dmv-introduces-<b>virginia</b>-<b>mobile-id</b>-on-your-sm...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpfh9Mmia1M34ojPSueyzMCaIBeAitIk9b9xEjdsm88N7yPf1-fAGlkQPc&s",
+      "width": "159",
+      "height": "316"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1",
+      "og:url": "https://www.vachiefs.org/news/dmv-introduces-virginia-mobile-id-on-your-smartphone"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://assets.noviams.com/novi-file-uploads/vacp/images/MobileID.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MDL No. 2327 - Southern District of West Virginia",
+   "htmlTitle": "<b>MDL</b> No. 2327 - Southern District of West <b>Virginia</b>",
+   "link": "https://www.wvsd.uscourts.gov/case-info/MDL/2327",
+   "displayLink": "www.wvsd.uscourts.gov",
+   "snippet": "United States District Court \u00b7 Southern District of West Virginia ... MDL No. 2327 | In Re Ethicon, Inc., Pelvic Repair System Products Liability\u00a0...",
+   "htmlSnippet": "United States District Court &middot; Southern District of West <b>Virginia</b> ... <b>MDL</b> No. 2327 | In Re Ethicon, Inc., Pelvic Repair System Products Liability&nbsp;...",
+   "formattedUrl": "https://www.wvsd.uscourts.gov/case-info/MDL/2327",
+   "htmlFormattedUrl": "https://www.wvsd.uscourts.gov/case-info/<b>MDL</b>/2327",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyNCDXV37LQTR4pOxDvGSDI2xdiNwToTsrcexg4PH9ASjlHf05tNNDG28&s",
+      "width": "126",
+      "height": "133"
+     }
+    ],
+    "Item": [
+     {
+      "num_replies": "0",
+      "title": "Footer (left): Home",
+      "encoded": "Home | Contact Us | Employment | Glossary of Legal Terms"
+     },
+     {
+      "num_replies": "0",
+      "title": "Footer (right): Quick links",
+      "encoded": "Privacy Policy"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width",
+      "mobileoptimized": "width"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.wvsd.uscourts.gov/sites/wvsd/files/seal_2.png"
+     }
+    ],
+    "Document": [
+     {
+      "num_replies": "0",
+      "title": "MDL No. 2327 | In Re Ethicon, Inc., Pelvic Repair System Products Liability Litigation",
+      "encoded": "Status: Closed (Terminated 3/19/2021) Steering Committees, Lead and Liaison Counsel Orders:"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "West Virginia Digital ID in Samsung Wallet",
+   "htmlTitle": "West <b>Virginia Digital ID</b> in Samsung Wallet",
+   "link": "https://transportation.wv.gov/DMV/MiD/Pages/Samsung_Wallet.aspx",
+   "displayLink": "transportation.wv.gov",
+   "snippet": "West Virginia Digital ID is a voluntary, secure, digitized version of your WV-DMV issued driver license (DL) or identification card (ID) available in Samsung\u00a0...",
+   "htmlSnippet": "West <b>Virginia Digital ID</b> is a voluntary, secure, digitized version of your WV-DMV issued driver license (DL) or identification card (ID) available in Samsung&nbsp;...",
+   "formattedUrl": "https://transportation.wv.gov/DMV/MiD/Pages/Samsung_Wallet.aspx",
+   "htmlFormattedUrl": "https://transportation.wv.gov/DMV/MiD/Pages/Samsung_Wallet.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLlAoDAolU1FYAYcSSSTtcTMR67qwk1fIfQIdW6Y2fUE6r1nI-j-DCGQ&s",
+      "width": "350",
+      "height": "144"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.wv.gov/images/homebkg.jpg",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "West Virginia Digital ID in Samsung Wallet",
+      "twitter:site": "@wvgov",
+      "viewport": "width=device-width",
+      "og:title": "West Virginia Digital ID in Samsung Wallet",
+      "progid": "SharePoint.WebPartPage.Document"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.wv.gov/images/homebkg.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MDL IN THE STATES",
+   "htmlTitle": "<b>MDL</b> IN THE STATES",
+   "link": "https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=1457&context=nulr",
+   "displayLink": "scholarlycommons.law.northwestern.edu",
+   "snippet": "... Virginia State Law Library, Supreme Court of Virginia. On file with ... Virginia have state MDLs (and only West Virginia's is an institutional MDL).",
+   "htmlSnippet": "... <b>Virginia</b> State <b>Law</b> Library, Supreme Court of <b>Virginia</b>. On file with ... <b>Virginia</b> have state MDLs (and only West <b>Virginia&#39;s</b> is an institutional <b>MDL</b>).",
+   "formattedUrl": "https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?...",
+   "htmlFormattedUrl": "https://scholarlycommons.<b>law</b>.northwestern.edu/cgi/viewcontent.cgi?...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoxahyD6nRhwNMOoqS5KoLMpFGFxtFeWIVWhQ-mXn6oLDiHFrCEf-pdjhp&s",
+      "width": "277",
+      "height": "182"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20210418201550-05'00'",
+      "creationdate": "D:20210418201550-05'00'",
+      "author": "lik1037",
+      "producer": "Microsoft: Print To PDF",
+      "title": "Microsoft Word - 115.6 Clopton & Rave FINAL"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///11a2bee4cd3e16575c628fa7ffe19cd8e57355b7c792c73d2d1dee01a50f0dd1"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Zetia (Ezetimibe) Antitrust Litigation - Eastern District of Virginia",
+   "htmlTitle": "Zetia (Ezetimibe) Antitrust Litigation - Eastern District of <b>Virginia</b>",
+   "link": "https://www.vaed.uscourts.gov/zetia-ezetimibe-antitrust-litigation-218md2836",
+   "displayLink": "www.vaed.uscourts.gov",
+   "snippet": "United States District Court - Eastern District of Virginia. MDL No. 2:18md2836 (RBS/DEM). ECF Certification Form \u00b7 Pretrial Order No. 1 - Doc 20 \u00b7 Pretrial\u00a0...",
+   "htmlSnippet": "United States District Court - Eastern District of <b>Virginia</b>. <b>MDL</b> No. 2:18md2836 (RBS/DEM). ECF Certification Form &middot; Pretrial <b>Order</b> No. 1 - Doc 20 &middot; Pretrial&nbsp;...",
+   "formattedUrl": "https://www.vaed.uscourts.gov/zetia-ezetimibe-antitrust-litigation-218md28...",
+   "htmlFormattedUrl": "https://www.vaed.uscourts.gov/zetia-ezetimibe-antitrust-litigation-218md28...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTugVmCv-t8oGi4s5qnkLPNoJ-xXuT8CVDDTLDadbLAB9iz9yZ7TYf7ag&s",
+      "width": "126",
+      "height": "133"
+     }
+    ],
+    "Item": [
+     {
+      "num_replies": "0",
+      "title": "Footer (left): Home",
+      "encoded": "Home | Contact Us | Employment | Glossary of Legal Terms"
+     },
+     {
+      "num_replies": "0",
+      "title": "Footer (right): Quick links"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width",
+      "mobileoptimized": "width"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.vaed.uscourts.gov/sites/vaed/files/easternDist_VA_color2.png"
+     }
+    ],
+    "Document": [
+     {
+      "num_replies": "0",
+      "title": "Zetia (Ezetimibe) Antitrust Litigation - 2:18md2836",
+      "encoded": "In Re: Zetia (Ezetimibe) Antitrust Litigation Assigned to: Chief District Judge Rebecca Beach Smith Referred to: Magistrate Judge Douglas E. Miller United States District Court - Eastern District..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Virginia Mobile ID Updates",
+   "htmlTitle": "<b>Virginia Mobile ID</b> Updates",
+   "link": "https://idscan.net/state-digital-id/virginia-mobile-id-updates/",
+   "displayLink": "idscan.net",
+   "snippet": "State of digital IDs in Virginia \u00b7 Early Virginia mobile ID pilot program \u00b7 Other Virginia mDL resources.",
+   "htmlSnippet": "State of digital IDs in <b>Virginia</b> &middot; Early <b>Virginia mobile ID</b> pilot program &middot; Other <b>Virginia mDL</b> resources.",
+   "formattedUrl": "https://idscan.net/state-digital-id/virginia-mobile-id-updates/",
+   "htmlFormattedUrl": "https://idscan.net/state-<b>digital-id</b>/<b>virginia</b>-<b>mobile-id</b>-updates/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS487AOxtlIZp_v7aHGzVg64tUk0Xi512NixiJ5VkZQMhvsr5i17FGNHhKV&s",
+      "width": "311",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://idscan.net/wp-content/uploads/virginia-mobile-drivers-license.jpg?lm=66A7319C",
+      "og:type": "article",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "IDScan.net",
+      "og:title": "Virginia Mobile ID Updates",
+      "og:image:height": "628",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://idscan.net/wp-content/uploads/cropped-idscan-identity-verification-software-icon-1-270x270.png",
+      "og:description": "Initially launching a pilot in 2016, the Virginia mobile ID has experienced significant delays in becoming available for the general public.",
+      "article:publisher": "https://www.facebook.com/idscannet",
+      "twitter:site": "@idscan_net",
+      "article:modified_time": "2025-02-28T21:48:35+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://idscan.net/state-digital-id/virginia-mobile-id-updates/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://idscan.net/wp-content/uploads/virginia-mobile-drivers-license.jpg?lm=66A7319C"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Virginia adopted standards for electronic credentials years ago ...",
+   "htmlTitle": "<b>Virginia</b> adopted standards for electronic credentials years ago ...",
+   "link": "https://virginiamercury.com/2024/10/04/virginia-adopted-standards-for-electronic-credentials-years-ago-what-happened/",
+   "displayLink": "virginiamercury.com",
+   "snippet": "Oct 4, 2024 ... ... law enforcement and emergency services, and eventually show proof ... Virginia's mobile ID app follows suit. \u201cYour information is not\u00a0...",
+   "htmlSnippet": "Oct 4, 2024 <b>...</b> ... <b>law</b> enforcement and emergency services, and eventually show proof ... <b>Virginia&#39;s mobile ID</b> app follows suit. \u201cYour information is not&nbsp;...",
+   "formattedUrl": "https://virginiamercury.com/.../virginia-adopted-standards-for-electronic-cr...",
+   "htmlFormattedUrl": "https://<b>virginia</b>mercury.com/.../<b>virginia</b>-adopted-standards-for-electronic-cr...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWhhNqRklMhTufDlzZeyH6ix8lIOoRT6fDhktruUuFQSeJT0N2xNZ4V0B-&s",
+      "width": "259",
+      "height": "194"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://virginiamercury.com/wp-content/uploads/2024/10/photo-collage.png-3.png",
+      "og:type": "article",
+      "article:published_time": "2024-10-04T09:19:16+00:00",
+      "twitter:card": "summary_large_image",
+      "og:image:width": "1440",
+      "og:site_name": "Virginia Mercury",
+      "author": "Nathaniel Cline",
+      "og:title": "Virginia adopted standards for electronic credentials years ago. What happened? \u2022 Virginia Mercury",
+      "twitter:label1": "Written by",
+      "twitter:label2": "Est. reading time",
+      "msapplication-tileimage": "https://virginiamercury.com/wp-content/uploads/2019/10/cropped-virginiamercury-270x270.jpg",
+      "og:description": "In some states, smartphones can do more than help you pay for services, capture memorable moments, or instantly access your choice of media.",
+      "twitter:creator": "@nathanielcline",
+      "twitter:data1": "Nathaniel Cline",
+      "twitter:data2": "5 minutes",
+      "article:modified_time": "2024-10-04T09:23:30+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://virginiamercury.com/2024/10/04/virginia-adopted-standards-for-electronic-credentials-years-ago-what-happened/",
+      "sn_version": "v1.86.4"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://virginiamercury.com/wp-content/uploads/2024/10/photo-collage.png-3.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MDL 2804 | Northern District of Ohio | United States District Court",
+   "htmlTitle": "<b>MDL</b> 2804 | Northern District of Ohio | United States District Court",
+   "link": "https://www.ohnd.uscourts.gov/mdl-2804",
+   "displayLink": "www.ohnd.uscourts.gov",
+   "snippet": "Order Rregarding Document Production to MDL Repository ... 12/27/2022. Doc #4809, Opinion and Order Denying Motions to Remand by Virginia Plaintiffs Frederick\u00a0...",
+   "htmlSnippet": "<b>Order</b> Rregarding Document Production to <b>MDL</b> Repository ... 12/27/2022. Doc #4809, Opinion and <b>Order</b> Denying Motions to Remand by <b>Virginia</b> Plaintiffs Frederick&nbsp;...",
+   "formattedUrl": "https://www.ohnd.uscourts.gov/mdl-2804",
+   "htmlFormattedUrl": "https://www.ohnd.uscourts.gov/<b>mdl</b>-2804",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEtMoAL6FD3j9ZUs4eshkiHCbuX8Y9XBXNHy-92aUg5haPzU66i5G6Vg&s",
+      "width": "133",
+      "height": "126"
+     }
+    ],
+    "Item": [
+     {
+      "num_replies": "0",
+      "title": "Footer (left): Home",
+      "encoded": "Home | Contact Us | Employment | Glossary of Legal Terms | FAQs"
+     },
+     {
+      "num_replies": "0",
+      "title": "Footer (right): Quick links",
+      "encoded": "Privacy Policy|BrowseAloud"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width",
+      "mobileoptimized": "width"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.ohnd.uscourts.gov/sites/ohnd/files/NORTHERN%20DISTRICT%20OF%20OHIO_seal_regular_color2.png"
+     }
+    ],
+    "Document": [
+     {
+      "num_replies": "0",
+      "title": "MDL 2804",
+      "encoded": "National Prescription Opiate Litigation MDL 2804 Opiate Litigation - Order Re: Public and Media Logistics All media inquiries regarding this case must be directed to the following email box:..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mass Litigation Panel - Orders | West Virginia Judiciary",
+   "htmlTitle": "Mass Litigation Panel - Orders | West <b>Virginia</b> Judiciary",
+   "link": "http://www.courtswv.gov/lower-courts/mass-litigation-panel/orders",
+   "displayLink": "www.courtswv.gov",
+   "snippet": "Order Extending Deadline for Filing Supplemental Briefs and Proposed Orders, Opioid - NAS, 22-C-9000 NAS. 03/06/2025, Order Regarding the West Virginia First\u00a0...",
+   "htmlSnippet": "<b>Order</b> Extending Deadline for Filing Supplemental Briefs and Proposed Orders, Opioid - NAS, 22-C-9000 NAS. 03/06/2025, <b>Order</b> Regarding the West <b>Virginia</b> First&nbsp;...",
+   "formattedUrl": "http://www.courtswv.gov/lower-courts/mass-litigation-panel/orders",
+   "htmlFormattedUrl": "http://www.courtswv.gov/lower-courts/mass-litigation-panel/<b>order</b>s",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  }
+ ]
+}

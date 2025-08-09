@@ -1,0 +1,586 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:apps.apple.com \"Colorado\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL",
+    "totalResults": "22",
+    "searchTerms": "site:apps.apple.com \"Colorado\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:apps.apple.com \"Colorado\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL",
+    "totalResults": "22",
+    "searchTerms": "site:apps.apple.com \"Colorado\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.150302,
+  "formattedSearchTime": "0.15",
+  "totalResults": "22",
+  "formattedTotalResults": "22"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "myColorado\u2122 on the App Store",
+   "htmlTitle": "myColorado\u2122 on the App Store",
+   "link": "https://apps.apple.com/us/app/mycolorado/id1447566714",
+   "displayLink": "apps.apple.com",
+   "snippet": "Hi Jared, thank you for your thoughtful review. We would like to make the distinction that the Colorado Digital ID, which is available in the myColorado app\u00a0...",
+   "htmlSnippet": "Hi Jared, thank you for your thoughtful review. We would like to make the distinction that the <b>Colorado Digital ID</b>, which is available in the myColorado app&nbsp;...",
+   "formattedUrl": "https://apps.apple.com/us/app/mycolorado/id1447566714",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/my<b>colorado</b>/id1447566714",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSwqARGtE-7z3gYuNbfQxChJ-6maKw8cWOKA6fgJ1_hluYGrEjFhG7ml7q&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/d5/aa/70d5aa55-1578-b53d-a902-3e5406d06430/AppIcon-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220-0.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eAs the State of Colorado's official mobile app\u2122, myColorado\u2122 provides a secure and convenient way for Coloradans to access important state services anytime, anywhere!\n\nmyColorado allows you to:\n- create your Colorado Digital ID\u2122 to complement your physical ID card for in-state use*\n- show proof of v\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/d5/aa/70d5aa55-1578-b53d-a902-3e5406d06430/AppIcon-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220-0.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/d5/aa/70d5aa55-1578-b53d-a902-3e5406d06430/AppIcon-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220-0.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222532.1.0%2B09273a9c%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "myColorado\u2122 on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "myColorado\u2122 on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200emyColorado\u2122",
+      "og:title": "\u200emyColorado\u2122",
+      "og:image:height": "630",
+      "version": "2532.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eAs the State of Colorado's official mobile app\u2122, myColorado\u2122 provides a secure and convenient way for Coloradans to access important state services anytime, anywhere!\n\nmyColorado allows you to:\n- create your Colorado Digital ID\u2122 to complement your physical ID card for in-state use*\n- show proof of v\u2026",
+      "og:locale": "en_US",
+      "apple:content_id": "1447566714",
+      "og:url": "https://apps.apple.com/us/app/mycolorado/id1447566714"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/d5/aa/70d5aa55-1578-b53d-a902-3e5406d06430/AppIcon-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220-0.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "myColorado\u2122 tr\u00ean App Store",
+   "htmlTitle": "myColorado\u2122 tr\u00ean App Store",
+   "link": "https://apps.apple.com/us/app/mycolorado/id1447566714?l=vi",
+   "displayLink": "apps.apple.com",
+   "snippet": "We would like to make the distinction that the Colorado Digital ID, which is available in the myColorado app is not REAL ID compliant. What you're referring\u00a0...",
+   "htmlSnippet": "We would like to make the distinction that the <b>Colorado Digital ID</b>, which is available in the myColorado app is not REAL ID compliant. What you&#39;re referring&nbsp;...",
+   "formattedUrl": "https://apps.apple.com/us/app/mycolorado/id1447566714?l=vi",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/my<b>colorado</b>/id1447566714?l=vi",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSwqARGtE-7z3gYuNbfQxChJ-6maKw8cWOKA6fgJ1_hluYGrEjFhG7ml7q&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/d5/aa/70d5aa55-1578-b53d-a902-3e5406d06430/AppIcon-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220-0.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App\u00a0Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eAs the State of Colorado's official mobile app\u2122, myColorado\u2122 provides a secure and convenient way for Coloradans to access important state services anytime, anywhere!\n\nmyColorado allows you to:\n- create your Colorado Digital ID\u2122 to complement your physical ID card for in-state use*\n- show proof of v\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/d5/aa/70d5aa55-1578-b53d-a902-3e5406d06430/AppIcon-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220-0.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/d5/aa/70d5aa55-1578-b53d-a902-3e5406d06430/AppIcon-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220-0.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222530.1.0%2Bdd954829%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "myColorado\u2122 tr\u00ean App Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "myColorado\u2122 tr\u00ean App Store",
+      "og:type": "website",
+      "twitter:title": "\u200emyColorado\u2122",
+      "og:title": "\u200emyColorado\u2122",
+      "og:image:height": "630",
+      "version": "2530.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eAs the State of Colorado's official mobile app\u2122, myColorado\u2122 provides a secure and convenient way for Coloradans to access important state services anytime, anywhere!\n\nmyColorado allows you to:\n- create your Colorado Digital ID\u2122 to complement your physical ID card for in-state use*\n- show proof of v\u2026",
+      "og:locale": "vi_VI",
+      "apple:content_id": "1447566714",
+      "og:url": "https://apps.apple.com/us/app/mycolorado/id1447566714?l=vi"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/d5/aa/70d5aa55-1578-b53d-a902-3e5406d06430/AppIcon-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220-0.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arkansas Mobile ID - App Store",
+   "htmlTitle": "Arkansas Mobile ID - App Store",
+   "link": "https://apps.apple.com/us/app/arkansas-mobile-id/id6596562568?l=ru",
+   "displayLink": "apps.apple.com",
+   "snippet": "Apr 18, 2025 ... Louisiana, Colorado, and other states have apps where you can scan ... Mobile ID Verify. \u0423\u0442\u0438\u043b\u0438\u0442\u044b. Iowa Mobile ID.",
+   "htmlSnippet": "Apr 18, 2025 <b>...</b> Louisiana, <b>Colorado</b>, and other states have apps where you can scan ... <b>Mobile ID</b> Verify. \u0423\u0442\u0438\u043b\u0438\u0442\u044b. Iowa <b>Mobile ID</b>.",
+   "formattedUrl": "https://apps.apple.com/us/app/arkansas-mobile-id/id6596562568?l=ru",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/arkansas-<b>mobile-id</b>/id6596562568?l=ru",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lU3QD_eA1iOFbFs0r10spaAcOCgxBotJxikFxjynWTAiepFairm_R5o&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/cc/fb/93ccfbc2-ecbb-4592-efbe-891a2ecf6b71/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App\u00a0Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eIn today's connected world, Mobile ID offers a private, secure, contactless way to verify identity, either at home or on-the-go. Everything is on your phone \u2013 now your ID is, too!\n\nIntuitive, easy-to-use and highly convenient, Arkansas Mobile ID can be used anywhere it\u2019s accepted, in any context a p\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/cc/fb/93ccfbc2-ecbb-4592-efbe-891a2ecf6b71/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/cc/fb/93ccfbc2-ecbb-4592-efbe-891a2ecf6b71/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222530.1.0%2Bdd954829%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "App\u00a0Store: Arkansas Mobile ID",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "App\u00a0Store: Arkansas Mobile ID",
+      "og:type": "website",
+      "twitter:title": "\u200eArkansas Mobile ID",
+      "og:title": "\u200eArkansas Mobile ID",
+      "og:image:height": "630",
+      "version": "2530.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eIn today's connected world, Mobile ID offers a private, secure, contactless way to verify identity, either at home or on-the-go. Everything is on your phone \u2013 now your ID is, too!\n\nIntuitive, easy-to-use and highly convenient, Arkansas Mobile ID can be used anywhere it\u2019s accepted, in any context a p\u2026",
+      "og:locale": "ru_RU",
+      "apple:content_id": "6596562568",
+      "og:url": "https://apps.apple.com/us/app/arkansas-mobile-id/id6596562568?l=ru"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/cc/fb/93ccfbc2-ecbb-4592-efbe-891a2ecf6b71/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Delaware Mobile ID on the App Store",
+   "htmlTitle": "Delaware <b>Mobile ID</b> on the App Store",
+   "link": "https://apps.apple.com/us/app/delaware-mobile-id/id1484936896",
+   "displayLink": "apps.apple.com",
+   "snippet": "Mar 14, 2021 ... This app is available only on the App Store for iPhone. Delaware Mobile ID 4+. DE's official digital ID. IDEMIA\u00a0...",
+   "htmlSnippet": "Mar 14, 2021 <b>...</b> This app is available only on the App Store for iPhone. Delaware <b>Mobile ID</b> 4+. DE&#39;s official <b>digital ID</b>. IDEMIA&nbsp;...",
+   "formattedUrl": "https://apps.apple.com/us/app/delaware-mobile-id/id1484936896",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/delaware-<b>mobile-id</b>/id1484936896",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu0U2Rb3xjplznV6sjnrLdiFW8d-yGcKDiKvaOrh0Cf8_F5dG3YUHQy1A&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/44/69/9e4469cc-9fe7-9107-bd92-adaf445840f9/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eIncluding layers of security and privacy controls, Delaware Mobile ID is a contactless, convenient way to verify your identity from your phone.\n\nDelaware Mobile ID allows you to control what information you share during a transaction. For example, when buying age-restricted items, the app can confir\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/44/69/9e4469cc-9fe7-9107-bd92-adaf445840f9/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/44/69/9e4469cc-9fe7-9107-bd92-adaf445840f9/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222530.1.0%2Bdd954829%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "Delaware Mobile ID on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "Delaware Mobile ID on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eDelaware Mobile ID",
+      "og:title": "\u200eDelaware Mobile ID",
+      "og:image:height": "630",
+      "version": "2530.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eIncluding layers of security and privacy controls, Delaware Mobile ID is a contactless, convenient way to verify your identity from your phone.\n\nDelaware Mobile ID allows you to control what information you share during a transaction. For example, when buying age-restricted items, the app can confir\u2026",
+      "og:locale": "en_US",
+      "apple:content_id": "1484936896",
+      "og:url": "https://apps.apple.com/us/app/delaware-mobile-id/id1484936896"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/44/69/9e4469cc-9fe7-9107-bd92-adaf445840f9/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arkansas Mobile ID dans l'App Store",
+   "htmlTitle": "Arkansas <b>Mobile ID</b> dans l&#39;App Store",
+   "link": "https://apps.apple.com/us/app/arkansas-mobile-id/id6596562568?l=fr-FR",
+   "displayLink": "apps.apple.com",
+   "snippet": "Apr 18, 2025 ... Louisiana, Colorado, and other states have apps where you can scan ... Mobile ID Verify. Utilitaires. Iowa Mobile ID.",
+   "htmlSnippet": "Apr 18, 2025 <b>...</b> Louisiana, <b>Colorado</b>, and other states have apps where you can scan ... <b>Mobile ID</b> Verify. Utilitaires. Iowa <b>Mobile ID</b>.",
+   "formattedUrl": "https://apps.apple.com/us/app/arkansas-mobile-id/id6596562568?l=fr-FR",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/arkansas-<b>mobile-id</b>/id6596562568?l=fr-FR",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lU3QD_eA1iOFbFs0r10spaAcOCgxBotJxikFxjynWTAiepFairm_R5o&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/cc/fb/93ccfbc2-ecbb-4592-efbe-891a2ecf6b71/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App\u00a0Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eIn today's connected world, Mobile ID offers a private, secure, contactless way to verify identity, either at home or on-the-go. Everything is on your phone \u2013 now your ID is, too!\n\nIntuitive, easy-to-use and highly convenient, Arkansas Mobile ID can be used anywhere it\u2019s accepted, in any context a p\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/cc/fb/93ccfbc2-ecbb-4592-efbe-891a2ecf6b71/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/cc/fb/93ccfbc2-ecbb-4592-efbe-891a2ecf6b71/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222530.1.0%2Bdd954829%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "Arkansas Mobile ID dans l\u2019App Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "Arkansas Mobile ID dans l\u2019App Store",
+      "og:type": "website",
+      "twitter:title": "\u200eArkansas Mobile ID",
+      "og:title": "\u200eArkansas Mobile ID",
+      "og:image:height": "630",
+      "version": "2530.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eIn today's connected world, Mobile ID offers a private, secure, contactless way to verify identity, either at home or on-the-go. Everything is on your phone \u2013 now your ID is, too!\n\nIntuitive, easy-to-use and highly convenient, Arkansas Mobile ID can be used anywhere it\u2019s accepted, in any context a p\u2026",
+      "og:locale": "fr_FR",
+      "apple:content_id": "6596562568",
+      "og:url": "https://apps.apple.com/us/app/arkansas-mobile-id/id6596562568?l=fr-FR"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/cc/fb/93ccfbc2-ecbb-4592-efbe-891a2ecf6b71/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "UNCO Rec App on the App Store",
+   "htmlTitle": "UNCO Rec App on the App Store",
+   "link": "https://apps.apple.com/eg/app/unco-rec-app/id6450606232",
+   "displayLink": "apps.apple.com",
+   "snippet": "Aug 7, 2024 ... The official app of Campus Recreation at the University of Northern Colorado! Stay up to date with notifications, use the digital ID for\u00a0...",
+   "htmlSnippet": "Aug 7, 2024 <b>...</b> The official app of Campus Recreation at the University of Northern <b>Colorado</b>! Stay up to date with notifications, use the <b>digital ID</b> for&nbsp;...",
+   "formattedUrl": "https://apps.apple.com/eg/app/unco-rec-app/id6450606232",
+   "htmlFormattedUrl": "https://apps.apple.com/eg/app/unco-rec-app/id6450606232",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8cmQOa-jNpmIhGzR2x5aONuX8xzlrkO37leHK7XgoueOasaxikpmgqHE&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/47/02/1947025d-71a1-99f5-9432-0e68b9982ad6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App\u00a0Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eThe official app of Campus Recreation at the University of Northern Colorado! Stay up to date with notifications, use the digital ID for entry, find information and register for programs and more!",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/47/02/1947025d-71a1-99f5-9432-0e68b9982ad6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/47/02/1947025d-71a1-99f5-9432-0e68b9982ad6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222530.1.0%2Bdd954829%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "UNCO Rec App on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "UNCO Rec App on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eUNCO Rec App",
+      "og:title": "\u200eUNCO Rec App",
+      "og:image:height": "630",
+      "version": "2530.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eThe official app of Campus Recreation at the University of Northern Colorado! Stay up to date with notifications, use the digital ID for entry, find information and register for programs and more!",
+      "og:locale": "en_GB",
+      "apple:content_id": "6450606232",
+      "og:url": "https://apps.apple.com/eg/app/unco-rec-app/id6450606232"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/47/02/1947025d-71a1-99f5-9432-0e68b9982ad6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arkansas Mobile ID \u0639\u0644\u0649 App Store",
+   "htmlTitle": "Arkansas <b>Mobile ID</b> \u0639\u0644\u0649 App Store",
+   "link": "https://apps.apple.com/us/app/arkansas-mobile-id/id6596562568?l=ar",
+   "displayLink": "apps.apple.com",
+   "snippet": "Apr 18, 2025 ... Louisiana, Colorado, and other states have apps where you can scan ... Iowa Mobile ID. \u0633\u0641\u0631. \u0631\u0628\u0645\u0627 \u064a\u0639\u062c\u0628\u0643 \u0623\u064a\u0636\u064b\u0627. \u0639\u0631\u0636 \u0627\u0644\u0643\u0644.",
+   "htmlSnippet": "Apr 18, 2025 <b>...</b> Louisiana, <b>Colorado</b>, and other states have apps where you can scan ... Iowa <b>Mobile ID</b>. \u0633\u0641\u0631. \u0631\u0628\u0645\u0627 \u064a\u0639\u062c\u0628\u0643 \u0623\u064a\u0636\u064b\u0627. \u0639\u0631\u0636 \u0627\u0644\u0643\u0644.",
+   "formattedUrl": "https://apps.apple.com/us/app/arkansas-mobile-id/id6596562568?l=ar",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/arkansas-<b>mobile-id</b>/id6596562568?l=ar",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd0ooZ8oQjUuzMyJE-8XU2DxvrGe_gaicNzxCcXrVGFddOpEXTTlR2BPo&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/cc/fb/93ccfbc2-ecbb-4592-efbe-891a2ecf6b71/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App\u00a0Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eIn today's connected world, Mobile ID offers a private, secure, contactless way to verify identity, either at home or on-the-go. Everything is on your phone \u2013 now your ID is, too!\n\nIntuitive, easy-to-use and highly convenient, Arkansas Mobile ID can be used anywhere it\u2019s accepted, in any context a p\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/cc/fb/93ccfbc2-ecbb-4592-efbe-891a2ecf6b71/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/cc/fb/93ccfbc2-ecbb-4592-efbe-891a2ecf6b71/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222530.1.0%2Bdd954829%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "Arkansas Mobile ID \u0639\u0644\u0649 App Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "Arkansas Mobile ID \u0639\u0644\u0649 App Store",
+      "og:type": "website",
+      "twitter:title": "\u200eArkansas Mobile ID",
+      "og:title": "\u200eArkansas Mobile ID",
+      "og:image:height": "630",
+      "version": "2530.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eIn today's connected world, Mobile ID offers a private, secure, contactless way to verify identity, either at home or on-the-go. Everything is on your phone \u2013 now your ID is, too!\n\nIntuitive, easy-to-use and highly convenient, Arkansas Mobile ID can be used anywhere it\u2019s accepted, in any context a p\u2026",
+      "og:locale": "ar_SA",
+      "apple:content_id": "6596562568",
+      "og:url": "https://apps.apple.com/us/app/arkansas-mobile-id/id6596562568?l=ar"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/cc/fb/93ccfbc2-ecbb-4592-efbe-891a2ecf6b71/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arkansas Mobile ID tr\u00ean App Store",
+   "htmlTitle": "Arkansas <b>Mobile ID</b> tr\u00ean App Store",
+   "link": "https://apps.apple.com/us/app/arkansas-mobile-id/id6596562568?l=vi",
+   "displayLink": "apps.apple.com",
+   "snippet": "Apr 18, 2025 ... Louisiana, Colorado, and other states have apps where you can scan ... Iowa Mobile ID. Du L\u1ecbch. C\u00f3 Th\u1ec3 B\u1ea1n C\u0169ng Th\u00edch. Xem\u00a0...",
+   "htmlSnippet": "Apr 18, 2025 <b>...</b> Louisiana, <b>Colorado</b>, and other states have apps where you can scan ... Iowa <b>Mobile ID</b>. Du L\u1ecbch. C\u00f3 Th\u1ec3 B\u1ea1n C\u0169ng Th\u00edch. Xem&nbsp;...",
+   "formattedUrl": "https://apps.apple.com/us/app/arkansas-mobile-id/id6596562568?l=vi",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/arkansas-<b>mobile-id</b>/id6596562568?l=vi",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd0ooZ8oQjUuzMyJE-8XU2DxvrGe_gaicNzxCcXrVGFddOpEXTTlR2BPo&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/cc/fb/93ccfbc2-ecbb-4592-efbe-891a2ecf6b71/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App\u00a0Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eIn today's connected world, Mobile ID offers a private, secure, contactless way to verify identity, either at home or on-the-go. Everything is on your phone \u2013 now your ID is, too!\n\nIntuitive, easy-to-use and highly convenient, Arkansas Mobile ID can be used anywhere it\u2019s accepted, in any context a p\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/cc/fb/93ccfbc2-ecbb-4592-efbe-891a2ecf6b71/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/cc/fb/93ccfbc2-ecbb-4592-efbe-891a2ecf6b71/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222530.1.0%2Bdd954829%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "Arkansas Mobile ID tr\u00ean App Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "Arkansas Mobile ID tr\u00ean App Store",
+      "og:type": "website",
+      "twitter:title": "\u200eArkansas Mobile ID",
+      "og:title": "\u200eArkansas Mobile ID",
+      "og:image:height": "630",
+      "version": "2530.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eIn today's connected world, Mobile ID offers a private, secure, contactless way to verify identity, either at home or on-the-go. Everything is on your phone \u2013 now your ID is, too!\n\nIntuitive, easy-to-use and highly convenient, Arkansas Mobile ID can be used anywhere it\u2019s accepted, in any context a p\u2026",
+      "og:locale": "vi_VI",
+      "apple:content_id": "6596562568",
+      "og:url": "https://apps.apple.com/us/app/arkansas-mobile-id/id6596562568?l=vi"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/cc/fb/93ccfbc2-ecbb-4592-efbe-891a2ecf6b71/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "TapID - Mobile ID Verifier on the App Store",
+   "htmlTitle": "TapID - <b>Mobile ID</b> Verifier on the App Store",
+   "link": "https://apps.apple.com/us/app/tapid-mobile-id-verifier/id6459659909",
+   "displayLink": "apps.apple.com",
+   "snippet": "Oct 19, 2024 ... - Colorado / CO: on Apple and Google Wallet. - Arizona / AZ: on ... *Mobile IDs are also known as Digital ID or mDL. more. What's New.",
+   "htmlSnippet": "Oct 19, 2024 <b>...</b> - <b>Colorado</b> / CO: on Apple and Google Wallet. - Arizona / AZ: on ... *Mobile IDs are also known as <b>Digital ID</b> or <b>mDL</b>. more. What&#39;s New.",
+   "formattedUrl": "https://apps.apple.com/us/app/tapid-mobile-id-verifier/id6459659909",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/tapid-<b>mobile-id</b>-verifier/id6459659909",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR72pjm-CcgXQWaMz9H4exq1N64J2GVZuBqaV8vmGiSGSiDd91ZSLSwNm4&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/8b/04/568b0423-6c7f-0a0a-53af-69146ee5eb2c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eTapID is a revolutionary tool that enables any business (like bars, restaurants, liquor stores) to start accepting & verifying Mobile IDs.\nMobile IDs are found in customer's Apple Wallet, Google Wallet, or State applications.\n\nInstructions:\n- Press \"Start Verification\"\n- Tap your customer's phone wi\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/8b/04/568b0423-6c7f-0a0a-53af-69146ee5eb2c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/8b/04/568b0423-6c7f-0a0a-53af-69146ee5eb2c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222532.1.0%2B09273a9c%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "TapID - Mobile ID Verifier on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "TapID - Mobile ID Verifier on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eTapID - Mobile ID Verifier",
+      "og:title": "\u200eTapID - Mobile ID Verifier",
+      "og:image:height": "630",
+      "version": "2532.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eTapID is a revolutionary tool that enables any business (like bars, restaurants, liquor stores) to start accepting & verifying Mobile IDs.\nMobile IDs are found in customer's Apple Wallet, Google Wallet, or State applications.\n\nInstructions:\n- Press \"Start Verification\"\n- Tap your customer's phone wi\u2026",
+      "og:locale": "en_US",
+      "apple:content_id": "6459659909",
+      "og:url": "https://apps.apple.com/us/app/tapid-mobile-id-verifier/id6459659909"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/8b/04/568b0423-6c7f-0a0a-53af-69146ee5eb2c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "UCCS Mobile on the App Store",
+   "htmlTitle": "UCCS Mobile on the App Store",
+   "link": "https://apps.apple.com/us/app/uccs-mobile/id1518115843",
+   "displayLink": "apps.apple.com",
+   "snippet": "Jul 22, 2025 ... Welcome to the University of Colorado Colorado Springs mobile ... Access your mobile ID, check your GPA, view your class schedule, and\u00a0...",
+   "htmlSnippet": "Jul 22, 2025 <b>...</b> Welcome to the University of <b>Colorado Colorado</b> Springs mobile ... Access your <b>mobile ID</b>, check your GPA, view your class schedule, and&nbsp;...",
+   "formattedUrl": "https://apps.apple.com/us/app/uccs-mobile/id1518115843",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/uccs-<b>mobile/id</b>1518115843",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaGrG5NgVs3q-1CVWqCNupdu2bhreb7cOQvaNRJKTN3-3r4H76uVCSqOqS&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/b3/5c/cdb35c9c-74bb-e2fe-c55c-8e732f4e7d64/Icon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eWelcome to the University of Colorado Colorado Springs mobile experience, built and designed for future and current students to explore what UCCS has to offer, as well as utilize campus resources, such as the student portal. \r\n \r\nWe strive to offer seamless access to: News, events, student transit,\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/b3/5c/cdb35c9c-74bb-e2fe-c55c-8e732f4e7d64/Icon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/b3/5c/cdb35c9c-74bb-e2fe-c55c-8e732f4e7d64/Icon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222530.1.0%2Bdd954829%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "UCCS Mobile on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "UCCS Mobile on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eUCCS Mobile",
+      "og:title": "\u200eUCCS Mobile",
+      "og:image:height": "630",
+      "version": "2530.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eWelcome to the University of Colorado Colorado Springs mobile experience, built and designed for future and current students to explore what UCCS has to offer, as well as utilize campus resources, such as the student portal. \r\n \r\nWe strive to offer seamless access to: News, events, student transit,\u2026",
+      "og:locale": "en_US",
+      "apple:content_id": "1518115843",
+      "og:url": "https://apps.apple.com/us/app/uccs-mobile/id1518115843"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/b3/5c/cdb35c9c-74bb-e2fe-c55c-8e732f4e7d64/Icon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  }
+ ]
+}
