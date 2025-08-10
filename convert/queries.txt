@@ -1,5 +1,5 @@
 # terms
-MOBILE_ID_TERMS: “mobile ID” OR “digital ID” OR “mobile driver’s license” OR “digital driver's license” OR mDL
+MOBILE_ID_TERMS: “mobile ID” OR “digital ID” OR “mobile driver’s license” OR “digital driver's license” OR mDL -"multidistrict litigation"
 STATE: "{STATE}"
 STATE_STATUTE: "{STATE_STATUTE}"
 DMV_WEBSITE: {DMV_WEBSITE}
@@ -14,9 +14,9 @@ site:{DMV_WEBSITE} {MOBILE_ID_TERMS}
 site:apps.apple.com {STATE} {MOBILE_ID_TERMS}
 site:play.google.com {STATE} {MOBILE_ID_TERMS}
 site:{DMV_WEBSITE} {MOBILE_ID_TERMS}  “privacy policy” OR “privacy notice” OR “terms of service”
-{STATE} {MOBILE_ID_TERMS} API
+{STATE} API OR "verify" OR "verifier" OR "reader" OR "SDK" OR "check" {MOBILE_ID_TERMS}
 {STATE} “alcohol board” OR “ID scanning” OR “ID scan” OR “scan ID”
-{STATE} “driver’s license” OR “identity document” “personally identifiable information” OR “personal information”
+{STATE_STATUTE} “driver’s license” OR “identity document” “personally identifiable information” OR “personal information”
 {STATE_STATUTE} “driver’s license” OR “identification card” “verification” OR “scanning” OR “swiping” OR “machine-readable” OR “electronically readable” OR “transaction scan” -applicant -application
 {STATE_STATUTE} “driver’s license” OR “identification card” “scanning” OR “swiping” around 10 “retain” OR “retention” OR “delete” OR “deletion”
 {STATE} “privacy act” OR “privacy law”
