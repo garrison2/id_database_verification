@@ -1,5 +1,9 @@
 # terms
-MOBILE_ID_TERMS: “mobile ID” OR “digital ID” OR “mobile driver’s license” OR “digital driver's license” OR mDL -"multidistrict litigation"
+ MOBILE_ID_TERMS: “mobile ID” OR “digital ID” OR “mobile driver’s license” OR “digital driver's license” OR mDL -"multidistrict litigation" -"transfer" -"litigation" -"district"
+
+# Less exclusionary option:
+# MOBILE_ID_TERMS: “mobile ID” OR “digital ID” OR “mobile driver’s license” OR “digital driver's license” OR mDL -"multidistrict litigation" -"district"
+
 STATE: "{STATE}"
 STATE_STATUTE: "{STATE_STATUTE}"
 DMV_WEBSITE: {DMV_WEBSITE}

@@ -1,0 +1,387 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Iowa Code\" \"driver's license\" OR \"identification card\" \"verification\" OR \"scanning\" OR \"swiping\" OR \"machine-readable\" OR \"electronically readable\" OR \"transaction scan\" -applicant -application",
+    "totalResults": "353",
+    "searchTerms": "\"Iowa Code\" \"driver's license\" OR \"identification card\" \"verification\" OR \"scanning\" OR \"swiping\" OR \"machine-readable\" OR \"electronically readable\" OR \"transaction scan\" -applicant -application",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Iowa Code\" \"driver's license\" OR \"identification card\" \"verification\" OR \"scanning\" OR \"swiping\" OR \"machine-readable\" OR \"electronically readable\" OR \"transaction scan\" -applicant -application",
+    "totalResults": "353",
+    "searchTerms": "\"Iowa Code\" \"driver's license\" OR \"identification card\" \"verification\" OR \"scanning\" OR \"swiping\" OR \"machine-readable\" OR \"electronically readable\" OR \"transaction scan\" -applicant -application",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.136392,
+  "formattedSearchTime": "0.14",
+  "totalResults": "353",
+  "formattedTotalResults": "353"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "49.78 Voter identity and signature verification. 1. To ensure the ...",
+   "htmlTitle": "49.78 Voter identity and signature <b>verification</b>. 1. To ensure the ...",
+   "link": "https://www.legis.iowa.gov/docs/code/49.78.pdf",
+   "displayLink": "www.legis.iowa.gov",
+   "snippet": "Nov 19, 2024 ... (1) An Iowa driver's license issued pursuant to section 321.189. ... A current voter identification card provided pursuant to section 48A.",
+   "htmlSnippet": "Nov 19, 2024 <b>...</b> (1) An Iowa <b>driver&#39;s license</b> issued pursuant to section 321.189. ... A current voter <b>identification card</b> provided pursuant to section 48A.",
+   "formattedUrl": "https://www.legis.iowa.gov/docs/code/49.78.pdf",
+   "htmlFormattedUrl": "https://www.legis.iowa.gov/docs/code/49.78.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "stylesheet": "E:\\program files\\PTC\\arbortext pe\\custom\\doctypes\\ico-codeSection\\ico-codeSection.style",
+      "creator": "Arbortext Publishing Engine",
+      "creationdate": "D:20241119222506-06'00'",
+      "print_engine": "Arbortext FOSI Print Publisher",
+      "graphics_resolution": "1200",
+      "compression_level": "6",
+      "compression_type": "zip",
+      "producer": "PDFlib+PDI 9.0.3p4 (Win32)",
+      "arbortext_build": "R71M020-1138",
+      "eps_processor": "PStill version 1.90.3",
+      "config_file": "E:\\program files\\ptc\\arbortext pe/lib/print.pdfcf",
+      "graphics_resolution_threshold": "1800"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver's License - Treasurer - Shelby County, Iowa",
+   "htmlTitle": "<b>Driver&#39;s License</b> - Treasurer - Shelby County, Iowa",
+   "link": "https://shelbycounty.iowa.gov/treasurer/drivers_license/",
+   "displayLink": "shelbycounty.iowa.gov",
+   "snippet": "Driver's License and Identification Card (I.D.) services are available 8:00 ... Address verification items can include any of the following: student\u00a0...",
+   "htmlSnippet": "<b>Driver&#39;s License</b> and <b>Identification Card</b> (I.D.) services are available 8:00 ... Address <b>verification</b> items can include any of the following: student&nbsp;...",
+   "formattedUrl": "https://shelbycounty.iowa.gov/treasurer/drivers_license/",
+   "htmlFormattedUrl": "https://shelbycounty.iowa.gov/treasurer/<b>drivers_license</b>/",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:image": "/images/social_sharing.png",
+      "og:type": "website",
+      "og:image:width": "1200",
+      "og:image:alt": "Shelby County",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "Driver's License - Treasurer - Shelby County, Iowa",
+      "og:image:height": "630",
+      "og:image:type": "image/jpg",
+      "og:description": "View open hours for renewals and testing for driver;s licenses in Shelby County, Iowa. View available services from our offices.",
+      "og:image:secure_url": "/images/social_sharing.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "/images/social_sharing.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "48A.10A Voter identification cards \u2014 verification of voter registration ...",
+   "htmlTitle": "48A.10A Voter identification cards \u2014 <b>verification</b> of voter registration ...",
+   "link": "https://www.legis.iowa.gov/docs/code/48A.10A.pdf",
+   "displayLink": "www.legis.iowa.gov",
+   "snippet": "Nov 19, 2024 ... transportation's driver's license or nonoperator's identification card files. ... Iowa Code 2025, Section 48A.10A (12, 0)",
+   "htmlSnippet": "Nov 19, 2024 <b>...</b> transportation&#39;s <b>driver&#39;s license</b> or nonoperator&#39;s <b>identification card</b> files. ... <b>Iowa Code</b> 2025, Section 48A.10A (12, 0)",
+   "formattedUrl": "https://www.legis.iowa.gov/docs/code/48A.10A.pdf",
+   "htmlFormattedUrl": "https://www.legis.iowa.gov/docs/code/48A.10A.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "stylesheet": "E:\\program files\\PTC\\arbortext pe\\custom\\doctypes\\ico-codeSection\\ico-codeSection.style",
+      "creator": "Arbortext Publishing Engine",
+      "creationdate": "D:20241119222413-06'00'",
+      "print_engine": "Arbortext FOSI Print Publisher",
+      "graphics_resolution": "1200",
+      "compression_level": "6",
+      "compression_type": "zip",
+      "producer": "PDFlib+PDI 9.0.3p4 (Win32)",
+      "arbortext_build": "R71M020-1138",
+      "eps_processor": "PStill version 1.90.3",
+      "config_file": "E:\\program files\\ptc\\arbortext pe/lib/print.pdfcf",
+      "graphics_resolution_threshold": "1800"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver's License - Treasurer - Iowa County Government - Iowa",
+   "htmlTitle": "<b>Driver&#39;s License</b> - Treasurer - Iowa County Government - Iowa",
+   "link": "https://iowacounty.iowa.gov/treasurer/drivers_license/",
+   "displayLink": "iowacounty.iowa.gov",
+   "snippet": "Collection or the convenience fee is pursuant to Iowa Code 321M.9. The ... driver's license or identification card services); Proof of residency x 2 (2\u00a0...",
+   "htmlSnippet": "Collection or the convenience fee is pursuant to <b>Iowa Code</b> 321M.9. The ... <b>driver&#39;s license</b> or <b>identification card</b> services); Proof of residency x 2 (2&nbsp;...",
+   "formattedUrl": "https://iowacounty.iowa.gov/treasurer/drivers_license/",
+   "htmlFormattedUrl": "https://iowacounty.iowa.gov/treasurer/<b>drivers_license</b>/",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:image": "/images/social_sharing.jpg",
+      "og:type": "website",
+      "og:image:width": "1200",
+      "og:image:alt": "Photo of Iowa County, Iowa, with logo.",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "Driver's License - Treasurer - Iowa County Government - Iowa",
+      "og:image:height": "630",
+      "og:image:type": "image/jpg",
+      "og:description": "View open hours for renewals and testing for driver's licenses in Iowa County, Iowa. View available services from our offices.",
+      "og:image:secure_url": "/images/social_sharing.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "/images/social_sharing.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Fleet Services",
+   "htmlTitle": "Fleet Services",
+   "link": "https://das.iowa.gov/sites/default/files/fleet/pdf/DASFleetPNPmanual.pdf",
+   "displayLink": "das.iowa.gov",
+   "snippet": "Jun 30, 2022 ... must be submitted via the Driver's License Verification Form. PINs ... Iowa Code section 8A.362.3(b): \u201cA gasoline-powered motor vehicle.",
+   "htmlSnippet": "Jun 30, 2022 <b>...</b> must be submitted via the <b>Driver&#39;s License Verification</b> Form. PINs ... <b>Iowa Code</b> section 8A.362.3(b): \u201cA gasoline-powered motor vehicle.",
+   "formattedUrl": "https://das.iowa.gov/sites/default/files/fleet/pdf/DASFleetPNPmanual.pdf",
+   "htmlFormattedUrl": "https://das.iowa.gov/sites/default/files/fleet/pdf/DASFleetPNPmanual.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQUZ5kpj7akw-VMxSozdMKmjdUFy_be9TOgMX_cy3hGDJwgTembMiEoh0&s",
+      "width": "196",
+      "height": "257"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20230421084856-05'00'",
+      "creator": "Microsoft\u00ae Word 2019",
+      "creationdate": "D:20230421084856-05'00'",
+      "author": "Bubser, Karl [DAS]",
+      "producer": "Microsoft\u00ae Word 2019"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///ee6237dae91ba473ccf7a4aa7c3b269b6be8a761afb4058ffa59eed96716fbbf"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "3 Steps of the Notarization Process - Issuu",
+   "htmlTitle": "3 Steps of the Notarization Process - Issuu",
+   "link": "https://issuu.com/iowasecretaryofstate/docs/handbook_for_iowa_notaries_public_digital_version/s/29345464",
+   "displayLink": "issuu.com",
+   "snippet": "Acceptable identification documents: a passport, driver's license, or government-issued nonoperator identification card ... See Iowa Code section 9B.14A\u00a0...",
+   "htmlSnippet": "Acceptable identification documents: a passport, <b>driver&#39;s license</b>, or government-issued nonoperator <b>identification card</b> ... See <b>Iowa Code</b> section 9B.14A&nbsp;...",
+   "formattedUrl": "https://issuu.com/iowasecretaryofstate/docs/handbook.../29345464",
+   "htmlFormattedUrl": "https://issuu.com/iowasecretaryofstate/docs/handbook.../29345464",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdFJu4oAhFxFKT0Xkrv39Wtk5HCY4k24YD4XqhAI-9lqZnxWrUHK7ujZc&s",
+      "width": "268",
+      "height": "188"
+     }
+    ],
+    "imageobject": [
+     {
+      "contenturl": "https://photo.isu.pub/iowasecretaryofstate/photo_large.jpg",
+      "width": "160px",
+      "url": "https://issuu.com/iowasecretaryofstate",
+      "height": "160px"
+     }
+    ],
+    "organization": [
+     {
+      "name": "Iowa Secretary of State"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://assets.isu.pub/document-structure/230804133040-34cd8e91ff0caa6c549f9ed9ce928d3f/v1/c539f00612793c6f68f08e83713a7b01.jpeg",
+      "og:type": "website",
+      "og:image:alt": "A variety of magazines, catalogs and publications surrounding the Issuu logo",
+      "og:image:width": "1200",
+      "og:site_name": "Issuu",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "og:title": "3 Steps of the Notarization Process - Issuu",
+      "og:image:height": "630",
+      "og:image:type": "image/jpeg",
+      "og:url": "/iowasecretaryofstate/docs/handbook_for_iowa_notaries_public_digital_version/s/29345464",
+      "og:description": "The process of notarization involves three critical steps that a notary public must always follow:",
+      "og:image:secure_url": "https://assets.isu.pub/document-structure/230804133040-34cd8e91ff0caa6c549f9ed9ce928d3f/v1/c539f00612793c6f68f08e83713a7b01.jpeg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://assets.isu.pub/document-structure/230804133040-34cd8e91ff0caa6c549f9ed9ce928d3f/v1/c539f00612793c6f68f08e83713a7b01.jpeg"
+     }
+    ],
+    "article": [
+     {
+      "image": "5 minute read3 Steps of the Notarization Process",
+      "author": "from Handbook for Iowa Notaries Publicby Iowa Secretary of State",
+      "headline": "3 Steps of the Notarization Process",
+      "datepublished": "2023-08-04T13:31:04.000Z",
+      "mainentityofpage": "http://schema.org/Article"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Policy 650.010 - Fleet Services Agency Fleet Contacts.docx",
+   "htmlTitle": "Policy 650.010 - Fleet Services Agency Fleet Contacts.docx",
+   "link": "https://das.iowa.gov/media/4950/download?inline",
+   "displayLink": "das.iowa.gov",
+   "snippet": "Jun 1, 2025 ... Submit a Driver's License verification form for every authorized driver in ... a) Iowa Code 8A.361-367 b) Iowa Administrative Code 11-103 c\u00a0...",
+   "htmlSnippet": "Jun 1, 2025 <b>...</b> Submit a <b>Driver&#39;s License verification</b> form for every authorized driver in ... a) <b>Iowa Code</b> 8A.361-367 b) Iowa Administrative Code 11-103 c&nbsp;...",
+   "formattedUrl": "https://das.iowa.gov/media/4950/download?inline",
+   "htmlFormattedUrl": "https://das.iowa.gov/media/4950/download?inline",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgtJTXrninszOo6Sm4_jmHd-M_DCQ3_ozgasyfBAYACs3wpdhBmlftYbNh&s",
+      "width": "196",
+      "height": "258"
+     }
+    ],
+    "metatags": [
+     {
+      "producer": "Skia/PDF m139 Google Docs Renderer",
+      "title": "Policy 650.010 - Fleet Services Agency Fleet Contacts.docx"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///78610cfd219413c1fefcd5502716087f0bc4733b38fb90578e514713b97918f3"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "IN THE SUPREME COURT OF IOWA",
+   "htmlTitle": "IN THE SUPREME COURT OF IOWA",
+   "link": "https://www.iowacourts.gov/courtcases/3138/embed/SupremeCourtOpinion",
+   "displayLink": "www.iowacourts.gov",
+   "snippet": "Oct 19, 2018 ... The MVE officer then determined that the motorist's driver's license had been revoked pursuant to Iowa Code chapter 321J. He arrested the\u00a0...",
+   "htmlSnippet": "Oct 19, 2018 <b>...</b> The MVE officer then determined that the motorist&#39;s <b>driver&#39;s license</b> had been revoked pursuant to <b>Iowa Code</b> chapter 321J. He arrested the&nbsp;...",
+   "formattedUrl": "https://www.iowacourts.gov/courtcases/3138/embed/SupremeCourtOpinion",
+   "htmlFormattedUrl": "https://www.iowacourts.gov/courtcases/3138/embed/SupremeCourtOpinion",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20181019105440-05'00'",
+      "creationdate": "D:20181019105438-05'00'",
+      "creator": "Acrobat PDFMaker 19 for Word",
+      "sourcemodified": "D:20181019155004",
+      "producer": "Adobe PDF Library 19.8.103"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Voter Vo ng is",
+   "htmlTitle": "Voter Vo ng is",
+   "link": "https://sos.iowa.gov/elections/pdf/NVRA/VR%20Form%20(003)%20Public%20Assistance%20Agency.pdf",
+   "displayLink": "sos.iowa.gov",
+   "snippet": "Bring your. Iowa Driver's License, Iowa Non-operator ID,. U.S. Passport, U.S. Military or ... Auditor's Office Use Only \u201c03\u201d - Remove before filing/scanning.",
+   "htmlSnippet": "Bring your. Iowa <b>Driver&#39;s License</b>, Iowa Non-operator ID,. U.S. Passport, U.S. Military or ... Auditor&#39;s Office Use Only \u201c03\u201d - Remove before filing/<b>scanning</b>.",
+   "formattedUrl": "https://sos.iowa.gov/.../VR%20Form%20(003)%20Public%20Assistance%2...",
+   "htmlFormattedUrl": "https://sos.iowa.gov/.../VR%20Form%20(003)%20Public%20Assistance%2...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYufG21gey5DM6sTpS_V-4O3OXP6jfaPoFVu74cYRw-FHohZ736aY1-Ps&s",
+      "width": "180",
+      "height": "279"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20240227084329-06'00'",
+      "creationdate": "D:20230104101537-06'00'",
+      "author": "whicok",
+      "producer": "Microsoft: Print To PDF",
+      "title": "C:\\Users\\whicok\\AppData\\Local\\Temp\\msoD091.tmp"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///6d6bc73c7f50639c2f4738b2219465c3e99478f2d788bb95359a580c6b3b14d3"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "IN THE COURT OF APPEALS OF IOWA No. 13-1396 Filed July 16 ...",
+   "htmlTitle": "IN THE COURT OF APPEALS OF IOWA No. 13-1396 Filed July 16 ...",
+   "link": "https://www.iowacourts.gov/moduledocuments/embed/23276/131396_B83D90215B53B.pdf",
+   "displayLink": "www.iowacourts.gov",
+   "snippet": "Jul 16, 2014 ... See 21 U.S.C. \u00a7 830; Iowa Code \u00a7 124.212A (requiring pharmacists ... The record is created by swiping the purchaser's identification card.",
+   "htmlSnippet": "Jul 16, 2014 <b>...</b> See 21 U.S.C. \u00a7 830; <b>Iowa Code</b> \u00a7 124.212A (requiring pharmacists ... The record is created by <b>swiping</b> the purchaser&#39;s <b>identification card</b>.",
+   "formattedUrl": "https://www.iowacourts.gov/.../embed/.../131396_B83D90215B53B.pdf",
+   "htmlFormattedUrl": "https://www.iowacourts.gov/.../embed/.../131396_B83D90215B53B.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20140711153621-05'00'",
+      "creator": "Microsoft\u00ae Word 2010",
+      "creationdate": "D:20140711153621-05'00'",
+      "producer": "Microsoft\u00ae Word 2010"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

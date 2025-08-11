@@ -1,0 +1,373 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Illinois Compiled Statutes\" \"driver's license\" OR \"identification card\" \"scanning\" OR \"swiping\" around 10 \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "totalResults": "100",
+    "searchTerms": "\"Illinois Compiled Statutes\" \"driver's license\" OR \"identification card\" \"scanning\" OR \"swiping\" around 10 \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Illinois Compiled Statutes\" \"driver's license\" OR \"identification card\" \"scanning\" OR \"swiping\" around 10 \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "totalResults": "100",
+    "searchTerms": "\"Illinois Compiled Statutes\" \"driver's license\" OR \"identification card\" \"scanning\" OR \"swiping\" around 10 \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.150434,
+  "formattedSearchTime": "0.15",
+  "totalResults": "100",
+  "formattedTotalResults": "100"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "410 ILCS 705/ Cannabis Regulation and Tax Act.",
+   "htmlTitle": "410 ILCS 705/ Cannabis Regulation and Tax Act.",
+   "link": "https://www.ilga.gov/legislation/ilcs/ilcs4.asp?DocName=041007050HArt%2E+15&ActID=3992&ChapterID=35&SeqStart=3000000&SeqEnd=6400000",
+   "displayLink": "www.ilga.gov",
+   "snippet": "... identification card visible at all times when in the dispensary. ... government-issued identification card by use of an electronic reader or electronic scanning\u00a0...",
+   "htmlSnippet": "... <b>identification card</b> visible <b>at</b> all times when in the dispensary. ... government-issued <b>identification card</b> by use of an electronic reader or electronic <b>scanning</b>&nbsp;...",
+   "formattedUrl": "https://www.ilga.gov/legislation/ilcs/ilcs4.asp?DocName...15...",
+   "htmlFormattedUrl": "https://www.ilga.gov/legislation/ilcs/ilcs4.asp?DocName...15...",
+   "pagemap": {
+    "metatags": [
+     {
+      "agencyprogram": "Illinois General Assembly",
+      "originatoroffice": "Illinois General Assembly",
+      "rating": "General",
+      "createdate": "3/21/2001",
+      "govtype": "State",
+      "contactphonenumber": "217-782-3944",
+      "language": "EN",
+      "medium": "Web Site",
+      "distribution": "Global",
+      "contactnetworkaddress": "webmaster@ilga.gov",
+      "contactname": "Legislative Information System",
+      "originalcontrolidentifier": "0000001",
+      "contactorganization": "LIS Staff Services",
+      "contactfaxnumber": "217-524-6059",
+      "contactstreetaddress1": "705 Stratton Office Building",
+      "originatordepartment": "Legislative Information System",
+      "sitetitle": "Illinois General Assembly",
+      "originatorjurisdiction": "State Of Illinois",
+      "classification": "Government",
+      "originatordivision": "Web Staff",
+      "contactzipcode": "62706",
+      "contactstate": "IL",
+      "permanentpublicaccess": "yes",
+      "dateoflastmodification": "3/21/2001",
+      "timeperiodtextual": "2003-2004",
+      "contactcity": "Springfield"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "INSTRUCTION SHEET",
+   "htmlTitle": "INSTRUCTION SHEET",
+   "link": "https://idfpr.illinois.gov/content/dam/soi/en/web/idfpr/renewals/apply/forms/pd-ex-ed.pdf",
+   "displayLink": "idfpr.illinois.gov",
+   "snippet": "Oct 17, 2024 ... In accordance with 5 Illinois Compiled Statutes 100/10-65(c) ... scanning the finger- prints to include your driver's license or other\u00a0...",
+   "htmlSnippet": "Oct 17, 2024 <b>...</b> In accordance with 5 <b>Illinois Compiled Statutes</b> 100/<b>10</b>-65(c) ... <b>scanning</b> the finger- prints to include your <b>driver&#39;s license</b> or other&nbsp;...",
+   "formattedUrl": "https://idfpr.illinois.gov/content/dam/soi/en/web/idfpr/.../pd-ex-ed.pdf",
+   "htmlFormattedUrl": "https://idfpr.illinois.gov/content/dam/soi/en/web/idfpr/.../pd-ex-ed.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20241017091250-05'00'",
+      "creationdate": "D:20241017091250-05'00'",
+      "creator": "PScript5.dll Version 5.2.2",
+      "author": "christopher.dinardo",
+      "producer": "Acrobat Distiller 24.0 (Windows)",
+      "title": "pd-ex-ed.indd"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Guide to Understanding Criminal History Record Check Information",
+   "htmlTitle": "Guide to Understanding Criminal History Record Check Information",
+   "link": "https://dph.illinois.gov/content/dam/soi/en/web/idph/files/forms/background-check-guide-071817.pdf",
+   "displayLink": "dph.illinois.gov",
+   "snippet": "Enter the subject's driver's license number if known. Drivers License State ... Do you wish to delete the file? If you are done with the file you can\u00a0...",
+   "htmlSnippet": "Enter the subject&#39;s <b>driver&#39;s license</b> number if known. Drivers License State ... Do you wish to <b>delete</b> the file? If you are done with the file you can&nbsp;...",
+   "formattedUrl": "https://dph.illinois.gov/content/.../background-check-guide-071817.pdf",
+   "htmlFormattedUrl": "https://dph.illinois.gov/content/.../background-check-guide-071817.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRlgXLedd_KFsQhRF5ui4XWA2VqOLgRV4Zq_rEo6vL4R17XxVlg1Ytnoif&s",
+      "width": "239",
+      "height": "211"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20211007192541Z",
+      "creationdate": "D:20110809174723Z",
+      "creator": "Acrobat PDFMaker 10.1 for Word",
+      "sourcemodified": "D:20110809174631",
+      "author": "westmom",
+      "producer": "Adobe PDF Library 10.0",
+      "company": "Illinois Stae Police",
+      "title": "Illinois State Police Background Check Guide"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///9c44e4fcb886b508a9b65026c7ae57af58f0880e58b4f629d46c5bfa35c39f53"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1 Record Retention 2016.pptx",
+   "htmlTitle": "1 Record <b>Retention</b> 2016.pptx",
+   "link": "https://www.isba.org/sites/default/files/cle/Document%20Retention-Destruction%20Policies.pdf",
+   "displayLink": "www.isba.org",
+   "snippet": "\u201cRetain two (2) years in office, then transfer to the state records center for four (4) years, after which dispose of \u2026..\u201d A record that has a retention period\u00a0...",
+   "htmlSnippet": "\u201c<b>Retain</b> two (2) years in office, then transfer to the state records center for four (4) years, after which dispose of \u2026..\u201d A record that has a <b>retention</b> period&nbsp;...",
+   "formattedUrl": "https://www.isba.org/.../Document%20Retention-Destruction%20Policies.pd...",
+   "htmlFormattedUrl": "https://www.isba.org/.../Document%20<b>Retention</b>-Destruction%20Policies.pd...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGEmakE0Kg3PJjiwVzSFNb1TdrECQ6cM4OVjhe4bfpAoXxFr1brxWNhDg&s",
+      "width": "260",
+      "height": "194"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20160510144532-05'00'",
+      "creationdate": "D:20160510194130Z",
+      "creator": "PowerPoint",
+      "author": "Staci Howard-Curtis",
+      "producer": "Adobe Acrobat 10.1.14 Paper Capture Plug-in",
+      "title": "1 Record Retention 2016.pptx"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///75607e66f0d293f0c6c6f372a6e0f37fb00c921256e075f0618b7b57839084d3"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "815 ILCS 505/ - Consumer Fraud and Deceptive Business Practices ...",
+   "htmlTitle": "815 ILCS 505/ - Consumer Fraud and Deceptive Business Practices ...",
+   "link": "https://law.justia.com/codes/illinois/chapter-815/act-815-ilcs-505/",
+   "displayLink": "law.justia.com",
+   "snippet": "2024 Illinois Compiled Statutes Chapter 815 - BUSINESS TRANSACTIONS 815 ILCS ... RETAIN OR DISPOSE OF THE GOODS WITHOUT ANY FURTHER OBLIGATION. IF YOU\u00a0...",
+   "htmlSnippet": "2024 <b>Illinois Compiled Statutes</b> Chapter 815 - BUSINESS TRANSACTIONS 815 ILCS ... <b>RETAIN</b> OR DISPOSE OF THE GOODS WITHOUT ANY FURTHER OBLIGATION. IF YOU&nbsp;...",
+   "formattedUrl": "https://law.justia.com/codes/illinois/chapter-815/act-815-ilcs-505/",
+   "htmlFormattedUrl": "https://law.justia.com/codes/illinois/chapter-815/act-815-ilcs-505/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-woulhMdqoqWwaGL0JyYyzOQ86EXUqHGNMcyUUpdijH7qqq65uA4WQBk&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://justatic.com/v/20250801141619/shared/images/social-media/law.jpg",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "og:site_name": "Justia Law",
+      "og:title": "2024 Illinois Compiled Statutes :: Chapter 815 - BUSINESS TRANSACTIONS :: 815 ILCS 505/ - Consumer Fraud and Deceptive Business Practices Act.",
+      "og:app_id": "119529808075661",
+      "trigger-ga": "1",
+      "og:description": "Justia Free Databases of U.S. Laws, Codes & Statutes",
+      "og:admins": "656268335,686786921,25900864",
+      "referrer": "unsafe-url",
+      "twitter:site": "@JustiaCom",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "page-type": "Law: Codes Document Page (Current Year)",
+      "is-li": "0",
+      "og:url": "https://law.justia.com/codes/illinois/chapter-815/act-815-ilcs-505/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://justatic.com/v/20250801141619/shared/images/social-media/law.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "West's Smith-Hurd Illinois Compiled Statutes Annotated Currentness",
+   "htmlTitle": "West&#39;s Smith-Hurd <b>Illinois Compiled Statutes</b> Annotated Currentness",
+   "link": "https://www.law.upenn.edu/faculty/paul-robinson/clrgcodes/Illinois.html",
+   "displayLink": "www.law.upenn.edu",
+   "snippet": "... retain temporary protective custody of the child pursuant to the Abused and ... retention and promotion and notifies the principal of the school of his\u00a0...",
+   "htmlSnippet": "... <b>retain</b> temporary protective custody of the child pursuant to the Abused and ... <b>retention</b> and promotion and notifies the principal of the school of his&nbsp;...",
+   "formattedUrl": "https://www.law.upenn.edu/faculty/paul-robinson/clrgcodes/Illinois.html",
+   "htmlFormattedUrl": "https://www.law.upenn.edu/faculty/paul-robinson/clrgcodes/Illinois.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Title III - Specific Offenses :: 2024 Illinois Compiled Statutes :: U.S. ...",
+   "htmlTitle": "Title III - Specific Offenses :: 2024 <b>Illinois Compiled Statutes</b> :: U.S. ...",
+   "link": "https://law.justia.com/codes/illinois/chapter-720/act-720-ilcs-5/title-iii/",
+   "displayLink": "law.justia.com",
+   "snippet": "... retain temporary protective custody of the child pursuant to the Abused ... (5) A person's driver's license number or State of Illinois identification card\u00a0...",
+   "htmlSnippet": "... <b>retain</b> temporary protective custody of the child pursuant to the Abused ... (5) A person&#39;s <b>driver&#39;s license</b> number or State of Illinois <b>identification card</b>&nbsp;...",
+   "formattedUrl": "https://law.justia.com/codes/illinois/chapter-720/act-720-ilcs-5/title-iii/",
+   "htmlFormattedUrl": "https://law.justia.com/codes/illinois/chapter-720/act-720-ilcs-5/title-iii/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPP2ksOfM4IyWL7PTxPyS5N80Or-jyXZZLgeH1kYuOtXk5YU597YCxGszS&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "og:site_name": "Justia Law",
+      "og:title": "2024 Illinois Compiled Statutes :: Chapter 720 - CRIMINAL OFFENSES :: 720 ILCS 5/ - Criminal Code of 2012. :: Title III - Specific Offenses",
+      "og:app_id": "119529808075661",
+      "trigger-ga": "1",
+      "og:description": "Justia Free Databases of U.S. Laws, Codes & Statutes",
+      "og:admins": "656268335,686786921,25900864",
+      "referrer": "unsafe-url",
+      "twitter:site": "@JustiaCom",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "page-type": "Law: Codes Document Page (Current Year)",
+      "is-li": "0",
+      "og:url": "https://law.justia.com/codes/illinois/chapter-720/act-720-ilcs-5/title-iii/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "PUBLIC SAFETY (430 ILCS 66/) Firearm Concealed Carry Act.",
+   "htmlTitle": "PUBLIC SAFETY (430 ILCS 66/) Firearm Concealed Carry Act.",
+   "link": "https://www.illinoistrooper.com/application/files/2016/3275/9571/ILCS_2020_-_Master_Sergeant.pdf",
+   "displayLink": "www.illinoistrooper.com",
+   "snippet": "Mar 25, 2020 ... ... Illinois Compiled Statutes (ILCS) is an ongoing process. Recent laws ... Identification Card and at the time of application meets the\u00a0...",
+   "htmlSnippet": "Mar 25, 2020 <b>...</b> ... <b>Illinois Compiled Statutes</b> (ILCS) is an ongoing process. Recent laws ... <b>Identification Card</b> and <b>at</b> the time of application meets the&nbsp;...",
+   "formattedUrl": "https://www.illinoistrooper.com/.../ILCS_2020_-_Master_Sergeant.pdf",
+   "htmlFormattedUrl": "https://www.illinoistrooper.com/.../ILCS_2020_-_Master_Sergeant.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20200325114731-05'00'",
+      "creationdate": "D:20200325114731-05'00'",
+      "creator": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36",
+      "producer": "Skia/PDF m80"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "oakland, illinois city code",
+   "htmlTitle": "oakland, illinois city code",
+   "link": "https://www.colesco.illinois.gov/static/oakland/Council/Codebook.pdf",
+   "displayLink": "www.colesco.illinois.gov",
+   "snippet": "Illinois driver's license, an Illinois Identification Card, or an Illinois Person with a Disability ... provided by 65 Illinois Compiled Statutes 5/11-20-13,\u00a0...",
+   "htmlSnippet": "Illinois <b>driver&#39;s license</b>, an Illinois <b>Identification Card</b>, or an Illinois Person with a Disability ... provided by 65 <b>Illinois Compiled Statutes</b> 5/11-20-13,&nbsp;...",
+   "formattedUrl": "https://www.colesco.illinois.gov/static/oakland/Council/Codebook.pdf",
+   "htmlFormattedUrl": "https://www.colesco.illinois.gov/static/oakland/Council/Codebook.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20230510141050-05'00'",
+      "creationdate": "D:20200925122223-05'00'",
+      "creator": "Microsoft\u00ae Word for Microsoft 365",
+      "author": "Oakland City Council",
+      "producer": "Microsoft\u00ae Word for Microsoft 365",
+      "title": "Oakland City Code Book"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MORTON COLLEGE",
+   "htmlTitle": "MORTON COLLEGE",
+   "link": "https://www.morton.edu/wp-content/uploads/2019/05/May-22-2019-Boardbook.pdf",
+   "displayLink": "www.morton.edu",
+   "snippet": "May 22, 2019 ... retain no copies of the PHI. This subsection shall also apply to PHI ... Valid Illinois driver's license. Ability to maintain.",
+   "htmlSnippet": "May 22, 2019 <b>...</b> <b>retain</b> no copies of the PHI. This subsection shall also apply to PHI ... Valid Illinois <b>driver&#39;s license</b>. Ability to maintain.",
+   "formattedUrl": "https://www.morton.edu/wp-content/.../05/May-22-2019-Boardbook.pdf",
+   "htmlFormattedUrl": "https://www.morton.edu/wp-content/.../05/May-22-2019-Boardbook.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNcc88WDd1zoTVJY9_uJWRyGKqeyN_h2hSaAF11XJLSlY2nuMu8wZyDEYE&s",
+      "width": "302",
+      "height": "167"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20190521090548-05'00'",
+      "creationdate": "D:20190520101840-06'00'",
+      "creator": "Toolkit http://www.activepdf.com",
+      "producer": "3-Heights(TM) PDF Optimization Shell 4.8.25.2 (http://www.pdf-tools.com)",
+      "aptkver": "5.5.1.15339 Pro Production-32"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///74377756c0da108910c310b71d36ee3759854f9889367e51168bf8471c8bcdf4"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

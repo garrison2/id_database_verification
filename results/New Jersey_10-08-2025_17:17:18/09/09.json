@@ -1,0 +1,446 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"New Jersey\" API OR \"verify\" OR \"verifier\" OR \"reader\" OR \"SDK\" OR \"check\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"transfer\" -\"litigation\" -\"district\"",
+    "totalResults": "149000",
+    "searchTerms": "\"New Jersey\" API OR \"verify\" OR \"verifier\" OR \"reader\" OR \"SDK\" OR \"check\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"transfer\" -\"litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"New Jersey\" API OR \"verify\" OR \"verifier\" OR \"reader\" OR \"SDK\" OR \"check\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"transfer\" -\"litigation\" -\"district\"",
+    "totalResults": "149000",
+    "searchTerms": "\"New Jersey\" API OR \"verify\" OR \"verifier\" OR \"reader\" OR \"SDK\" OR \"check\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"transfer\" -\"litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.208274,
+  "formattedSearchTime": "0.21",
+  "totalResults": "149000",
+  "formattedTotalResults": "149,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Digital driver's licenses to debut in NJ under new law \u2022 New Jersey ...",
+   "htmlTitle": "Digital driver&#39;s licenses to debut in NJ under new law \u2022 <b>New Jersey</b> ...",
+   "link": "https://newjerseymonitor.com/briefs/digital-drivers-licenses-to-debut-in-nj-under-new-law/",
+   "displayLink": "newjerseymonitor.com",
+   "snippet": "Jul 24, 2025 ... ... mobile ID to verify their identity. The rollout, however, remains ... \u201cDigital driver's licenses will make life easier for drivers across New\u00a0...",
+   "htmlSnippet": "Jul 24, 2025 <b>...</b> ... <b>mobile ID</b> to <b>verify</b> their identity. The rollout, however, remains ... \u201cDigital driver&#39;s licenses will make life easier for drivers across <b>New</b>&nbsp;...",
+   "formattedUrl": "https://newjerseymonitor.com/.../digital-drivers-licenses-to-debut-in-nj-und...",
+   "htmlFormattedUrl": "https://<b>newjersey</b>monitor.com/.../<b>digital-drivers-license</b>s-to-debut-in-nj-und...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQxlhvy1lFHPHKzfaAFbHa-msJBu8nqv7Qop2tFlJPpC857CCw7Zq3xDA&s",
+      "width": "272",
+      "height": "185"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://newjerseymonitor.com/wp-content/uploads/2024/12/0JS19261_1-2048x1399.jpg",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:image:width": "2048",
+      "og:site_name": "New Jersey Monitor",
+      "og:title": "Digital driver\u2019s licenses to debut in NJ under new law \u2022 New Jersey Monitor",
+      "twitter:label1": "Est. reading time",
+      "twitter:label2": "Written by",
+      "msapplication-tileimage": "https://newjerseymonitor.com/wp-content/uploads/2021/07/cropped-NJ-Sq-2-270x270.png",
+      "og:description": "The law allows people to display mobile licenses to prove their identity \u2014 but the rollout is still years away.",
+      "twitter:data1": "2 minutes",
+      "twitter:data2": "Morgan Leason",
+      "article:modified_time": "2025-07-24T22:37:15+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://newjerseymonitor.com/briefs/digital-drivers-licenses-to-debut-in-nj-under-new-law/",
+      "sn_version": "v1.86.4"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://newjerseymonitor.com/wp-content/uploads/2024/12/0JS19261_1-2048x1399.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "New Jersey Becomes Latest State to Embrace Mobile ID, Paving the ...",
+   "htmlTitle": "<b>New Jersey</b> Becomes Latest State to Embrace <b>Mobile ID</b>, Paving the ...",
+   "link": "https://responsivegov.org/new-jersey-becomes-latest-state-to-embrace-mobile-id-paving-the-way-for-more-modern-secure-accessible-services/",
+   "displayLink": "responsivegov.org",
+   "snippet": "Jul 23, 2025 ... CHICAGO \u2014 Today, Governor Phil Murphy signed A3518 into law, authorizing the use of mobile ID in New Jersey. ... verify their identity. The\u00a0...",
+   "htmlSnippet": "Jul 23, 2025 <b>...</b> CHICAGO \u2014 Today, Governor Phil Murphy signed A3518 into law, authorizing the use of <b>mobile ID</b> in <b>New Jersey</b>. ... <b>verify</b> their identity. The&nbsp;...",
+   "formattedUrl": "https://responsivegov.org/new-jersey-becomes-latest-state-to-embrace-mobi...",
+   "htmlFormattedUrl": "https://responsivegov.org/<b>new-jersey</b>-becomes-latest-state-to-embrace-<b>mobi</b>...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTsXJ53EDMxq8qYU_Dke5L5H5NBnvNyGXvo1K0CYh_rA9MG8avHEcC113q&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "xfn": [
+     {}
+    ],
+    "metatags": [
+     {
+      "og:image": "https://responsivegov.org/wp-content/uploads/2022/05/Social-Share@2x.png",
+      "og:type": "article",
+      "article:published_time": "2025-07-23T18:39:23+00:00",
+      "og:image:width": "2400",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Institute for Responsive Government",
+      "og:title": "New Jersey Becomes Latest State to Embrace Mobile ID, Paving the Way for More Modern, Secure, Accessible Services - Institute for Responsive Government",
+      "og:image:height": "1260",
+      "twitter:label1": "Written by",
+      "og:image:type": "image/png",
+      "msapplication-tileimage": "https://responsivegov.org/wp-content/uploads/2022/05/cropped-favicon-390x390.png",
+      "twitter:data1": "IRG Press",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://responsivegov.org/new-jersey-becomes-latest-state-to-embrace-mobile-id-paving-the-way-for-more-modern-secure-accessible-services/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://responsivegov.org/wp-content/uploads/2022/05/Social-Share@2x.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NJMCP Home",
+   "htmlTitle": "NJMCP Home",
+   "link": "https://njmcp.crc.nj.gov/",
+   "displayLink": "njmcp.crc.nj.gov",
+   "snippet": "FREE Digital ID cards are now available. Existing patients and caregivers ... Check with your local dispensary to see if they offer service or check\u00a0...",
+   "htmlSnippet": "FREE <b>Digital ID</b> cards are now available. Existing patients and caregivers ... <b>Check</b> with your local dispensary to see if they offer service or <b>check</b>&nbsp;...",
+   "formattedUrl": "https://njmcp.crc.nj.gov/",
+   "htmlFormattedUrl": "https://njmcp.crc.nj.gov/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Joint Base McGuire-Dix-Lakehurst - iSportsman: Home",
+   "htmlTitle": "Joint Base McGuire-Dix-Lakehurst - iSportsman: Home",
+   "link": "https://jbmdl.isportsman.net/",
+   "displayLink": "jbmdl.isportsman.net",
+   "snippet": "Here is where you buy permits, check area availability, check-in/-out of ... If you partake in any iSportsman related outdoor activities on JB MDL, you are\u00a0...",
+   "htmlSnippet": "Here is where you buy permits, <b>check</b> area availability, <b>check</b>-in/-out of ... If you partake in any iSportsman related outdoor activities on JB <b>MDL</b>, you are&nbsp;...",
+   "formattedUrl": "https://jbmdl.isportsman.net/",
+   "htmlFormattedUrl": "https://jb<b>mdl</b>.isportsman.net/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm-fNl5BJ3hpMEekcCS46BUBOLSjrvvdxFyZjrHeSxSw9gCS9xE8S2kkg&s",
+      "width": "225",
+      "height": "224"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://jbmdl.isportsman.net/files/logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "New Jersey Motor Vehicle Commission",
+   "htmlTitle": "<b>New Jersey</b> Motor Vehicle Commission",
+   "link": "https://www.nj.gov/mvc/pdf/about/QAAddendum2ElectronicDriversLicenses.pdf",
+   "displayLink": "www.nj.gov",
+   "snippet": "Aug 23, 2016 ... These servers would be used by. MVC to permit our customers to have either mDL User or Verifier ... verifier, they only need to verify ID.",
+   "htmlSnippet": "Aug 23, 2016 <b>...</b> These servers would be used by. MVC to permit our customers to have either <b>mDL</b> User or <b>Verifier</b> ... <b>verifier</b>, they only need to <b>verify</b> ID.",
+   "formattedUrl": "https://www.nj.gov/mvc/pdf/.../QAAddendum2ElectronicDriversLicenses.p...",
+   "htmlFormattedUrl": "https://www.nj.gov/mvc/pdf/.../QAAddendum2ElectronicDriversLicenses.p...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7lT16P8MfGlNmjVKmFGPy8HypXu_k0UmSlnDJK9MJT66MMXzo9hC9StOG&s",
+      "width": "197",
+      "height": "255"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20160829134638-04'00'",
+      "creationdate": "D:20160829134637-04'00'",
+      "creator": "Acrobat PDFMaker 15 for Word",
+      "sourcemodified": "D:20160823201245",
+      "author": "TPZMCGR",
+      "producer": "Adobe PDF Library 15.0",
+      "company": "njdot"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///2a75f1461919858bfde553880f8b6ee4164cd688b325db87b062fe019586624f"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "New Jersey Gov. Phil Murphy signs law creating digital ID program ...",
+   "htmlTitle": "<b>New Jersey</b> Gov. Phil Murphy signs law creating <b>digital ID</b> program ...",
+   "link": "https://statescoop.com/new-jersey-phil-murphy-digital-id-2025/",
+   "displayLink": "statescoop.com",
+   "snippet": "Jul 24, 2025 ... ... verify identity, including to law enforcement. Advertisement. The law also states that displaying a digital ID does not imply consent for law\u00a0...",
+   "htmlSnippet": "Jul 24, 2025 <b>...</b> ... <b>verify</b> identity, including to law enforcement. Advertisement. The law also states that displaying a <b>digital ID</b> does not imply consent for law&nbsp;...",
+   "formattedUrl": "https://statescoop.com/new-jersey-phil-murphy-digital-id-2025/",
+   "htmlFormattedUrl": "https://statescoop.com/<b>new-jersey</b>-phil-murphy-<b>digital-id</b>-2025/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFrPTtnHLfaXYXbZ_LMX83z89OGHj1SliBhgXUxtVfJ2jbN2O0TrEuDmI&s",
+      "width": "274",
+      "height": "184"
+     }
+    ],
+    "website": [
+     {
+      "query-input": "name=s value",
+      "target": "https://statescoop.com/?s={s}"
+     }
+    ],
+    "organization": [
+     {
+      "logo": "https://statescoop.com/wp-content/themes/scoopnewsgroup/dist/svg/logo-state.svg",
+      "url": "https://statescoop.com/"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://statescoop.com/wp-content/uploads/sites/6/2025/07/GettyImages-128437782.jpg",
+      "og:type": "article",
+      "article:published_time": "2025-07-24T20:07:51+00:00",
+      "og:image:width": "1300",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "StateScoop",
+      "author": "Keely Quinlan",
+      "og:title": "New Jersey Gov. Phil Murphy signs law creating digital ID program | StateScoop",
+      "og:image:height": "873",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://statescoop.com/wp-content/uploads/sites/6/2023/01/cropped-ss_favicon.png?w=270",
+      "og:description": "The law will make New Jersey the 16th state to allow its residents to use digital driver\u2019s licenses in lieu of physical IDs.",
+      "twitter:creator": "@State_Scoop",
+      "article:publisher": "https://www.facebook.com/StateScoop/",
+      "twitter:site": "@State_Scoop",
+      "article:modified_time": "2025-07-24T20:07:54+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://statescoop.com/new-jersey-phil-murphy-digital-id-2025/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://statescoop.com/wp-content/uploads/sites/6/2025/07/GettyImages-128437782.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "JBMDL - McGuire-Dix-Lakehurst",
+   "htmlTitle": "JBMDL - McGuire-Dix-Lakehurst",
+   "link": "https://af.dodlodging.net/propertys/JBMDL---McGuire-Dix-Lakehurst-",
+   "displayLink": "af.dodlodging.net",
+   "snippet": "Check-in/Check-out. Base Information & Events. Click on the ... New Jersey Shakespeare Festival, New Jersey State Fair, New Jersey Festival of Ballooning.",
+   "htmlSnippet": "<b>Check</b>-in/<b>Check</b>-out. Base Information &amp; Events. Click on the ... <b>New Jersey</b> Shakespeare Festival, <b>New Jersey</b> State Fair, <b>New Jersey</b> Festival of Ballooning.",
+   "formattedUrl": "https://af.dodlodging.net/propertys/JBMDL---McGuire-Dix-Lakehurst-",
+   "htmlFormattedUrl": "https://af.dodlodging.net/propertys/JB<b>MDL</b>---McGuire-Dix-Lakehurst-",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbqR3gh64XL0YlV5Bbl-Bd4ddGe_JKPQ_t9srlHB1C-nJ6TvfibypbnXvx&s",
+      "width": "320",
+      "height": "157"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://form.dodlodging.net/images/propertyavatar/propertyimage.aspx?propertyID=271"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Welcome Center Information",
+   "htmlTitle": "Welcome Center Information",
+   "link": "https://www.jbmdl.jb.mil/About-Us/Welcome-Center-Information/",
+   "displayLink": "www.jbmdl.jb.mil",
+   "snippet": "... MDL Welcome Center Supervisor at (609) 562-6601. Unofficial Foreign ... New Jersey is compliant with the REAL ID Act. Federal agencies can accept\u00a0...",
+   "htmlSnippet": "... <b>MDL</b> Welcome Center Supervisor at (609) 562-6601. Unofficial Foreign ... <b>New Jersey</b> is compliant with the REAL ID Act. Federal agencies can accept&nbsp;...",
+   "formattedUrl": "https://www.jbmdl.jb.mil/About-Us/Welcome-Center-Information/",
+   "htmlFormattedUrl": "https://www.jb<b>mdl</b>.jb.mil/About-Us/Welcome-Center-Information/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnMF69G_-jOrGWAT51Z1-GsCG9LDMTiVSaEF40IukYkgzAQgIOLtZwCN4&s",
+      "width": "219",
+      "height": "230"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "contact": "dma.WebSD@mail.mil",
+      "rating": "GENERAL",
+      "host": "DMA Public Web",
+      "resource-type": "DOCUMENT"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.jbmdl.jb.mil/portals/47/welcome%20center.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Governor Phil Murphy signs new legislation establishing digital ...",
+   "htmlTitle": "Governor Phil Murphy signs new legislation establishing <b>digital</b> ...",
+   "link": "https://6abc.com/post/governor-phil-murphy-signs-new-legislation-establishing-digital-drivers-license-identification-cards-jersey/17277049/",
+   "displayLink": "6abc.com",
+   "snippet": "Jul 24, 2025 ... Digital driver's license and identification cards coming soon to New Jersey | What to know ... verify their identity. It also establishes\u00a0...",
+   "htmlSnippet": "Jul 24, 2025 <b>...</b> <b>Digital driver&#39;s license</b> and identification cards coming soon to <b>New Jersey</b> | What to know ... <b>verify</b> their identity. It also establishes&nbsp;...",
+   "formattedUrl": "https://6abc.com/post/governor...digital-drivers-license.../17277049/",
+   "htmlFormattedUrl": "https://6abc.com/post/governor...<b>digital-drivers-license</b>.../17277049/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQByBG4GYHcFf2KuASJETNgKV6QocWOs_3mS47DWcGMGuMtu4rhplm-jc8e&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "apple-itunes-app": "app-id=405616387, affiliate-data=ct=wpvi-smart-banner&pt=302756, app-argument=https://6abc.com/story/17277049",
+      "og:image": "https://cdn.abcotvs.com/dip/images/17277107_AP110511064682.jpg?w=1600",
+      "twitter:app:id:googleplay": "com.abclocal.wpvi.news",
+      "twitter:card": "summary_large_image",
+      "article:published_time": "2025-07-24T18:16:17Z",
+      "og:site_name": "6abc Philadelphia",
+      "twitter:url": "https://6abc.com/post/governor-phil-murphy-signs-new-legislation-establishing-digital-drivers-license-identification-cards-jersey/17277049/",
+      "twitter:app:name:googleplay": "wpvi",
+      "medium": "website",
+      "twitter:app:id:iphone": "405616387",
+      "title": "Digital driver's license and identification cards coming soon to New Jersey | What to know",
+      "og:description": "New Jerseyans will soon be able to have a digital driver's license or identification card under new legislation signed by Governor Murphy on Thursday.",
+      "twitter:creator": "@6abc",
+      "twitter:image": "https://cdn.abcotvs.com/dip/images/17277107_AP110511064682.jpg?w=1600",
+      "twitter:site": "@6abc",
+      "article:modified_time": "2025-07-24T18:14:33Z",
+      "og:type": "article",
+      "twitter:title": "Digital driver's license and identification cards coming soon to New Jersey | What to know",
+      "article:section": "politics",
+      "og:title": "Digital driver's license and identification cards coming soon to New Jersey | What to know",
+      "fb:pages": "9335481377",
+      "tags": "new-jersey-news,DMV,New-Jersey",
+      "fb:app_id": "2022478634557698",
+      "viewport": "initial-scale=1.0, maximum-scale=3.0, user-scalable=yes",
+      "twitter:description": "New Jerseyans will soon be able to have a digital driver's license or identification card under new legislation signed by Governor Murphy on Thursday.",
+      "og:locale": "en_US",
+      "og:url": "https://6abc.com/post/governor-phil-murphy-signs-new-legislation-establishing-digital-drivers-license-identification-cards-jersey/17277049/",
+      "twitter:app:name:iphone": "wpvi"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://cdn.abcotvs.com/dip/images/17277107_AP110511064682.jpg?w=1600"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile driver's licenses could soon be coming to N.J. - WHYY",
+   "htmlTitle": "Mobile driver&#39;s licenses could soon be coming to N.J. - WHYY",
+   "link": "https://whyy.org/articles/mobile-drivers-licenses-new-jersey/",
+   "displayLink": "whyy.org",
+   "snippet": "Mar 28, 2024 ... ... New Jersey Motor Vehicle Commission to create and issue a mobile driver's license ... Check, Please! Philly \u00b7 The Connection \u00b7 Delishtory \u00b7 Flicks\u00a0...",
+   "htmlSnippet": "Mar 28, 2024 <b>...</b> ... <b>New Jersey</b> Motor Vehicle Commission to create and issue a <b>mobile driver&#39;s license</b> ... <b>Check</b>, Please! Philly &middot; The Connection &middot; Delishtory &middot; Flicks&nbsp;...",
+   "formattedUrl": "https://whyy.org/articles/mobile-drivers-licenses-new-jersey/",
+   "htmlFormattedUrl": "https://whyy.org/articles/<b>mobile-drivers-license</b>s-<b>new-jersey</b>/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe30YrPncCyGkojN1M6WpZG3eqdu7Yo5cmODjrsysGaazFiqCUEZpqmt7o&s",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://whyy.org/wp-content/uploads/2024/03/mobile-drivers-license-AP.jpg",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Mobile driver's licenses could soon be coming to N.J.",
+      "og:site_name": "WHYY",
+      "wp-parsely_version": "1.13.0",
+      "og:title": "Mobile driver's licenses could soon be coming to N.J.",
+      "og:description": "A bill is working its way through the N.J. legislature that would allow a license to be carried on a cellphone, tablet, or any device with internet capability.",
+      "twitter:creator": "@richban",
+      "og:image:secure_url": "https://whyy.org/wp-content/uploads/2024/03/mobile-drivers-license-AP.jpg",
+      "twitter:image": "https://whyy.org/wp-content/uploads/2024/03/mobile-drivers-license-AP.jpg",
+      "article:tag": "driver's license",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "A bill is working its way through the N.J. legislature that would allow a license to be carried on a cellphone, tablet, or any device with internet capability.",
+      "og:locale": "en_US",
+      "og:url": "https://whyy.org/articles/mobile-drivers-licenses-new-jersey/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://whyy.org/wp-content/uploads/2024/03/mobile-drivers-license-AP.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

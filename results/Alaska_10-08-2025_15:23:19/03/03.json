@@ -1,0 +1,362 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://dmv.alaska.gov \"REAL ID\"",
+    "totalResults": "32",
+    "searchTerms": "site:https://dmv.alaska.gov \"REAL ID\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://dmv.alaska.gov \"REAL ID\"",
+    "totalResults": "32",
+    "searchTerms": "site:https://dmv.alaska.gov \"REAL ID\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.182463,
+  "formattedSearchTime": "0.18",
+  "totalResults": "32",
+  "formattedTotalResults": "32"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "HOME, Division of Motor Vehicles, State of Alaska",
+   "htmlTitle": "HOME, Division of Motor Vehicles, State of Alaska",
+   "link": "https://dmv.alaska.gov/",
+   "displayLink": "dmv.alaska.gov",
+   "snippet": "DMV will continue to issue REAL ID-compliant credentials at all locations beyond the federal enforcement deadline and on an ongoing basis. information Locations\u00a0...",
+   "htmlSnippet": "DMV will continue to issue <b>REAL ID</b>-compliant credentials at all locations beyond the federal enforcement deadline and on an ongoing basis. information Locations&nbsp;...",
+   "formattedUrl": "https://dmv.alaska.gov/",
+   "htmlFormattedUrl": "https://dmv.alaska.gov/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9aTTY6xZkK7FLMT9J7izZ2KRBuFpgWiRyTJatwd_xg7_JcojTeGxlttdF&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.alaska.gov/media/xgeh52lz/dmv-logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DMV REAL ID - Home",
+   "htmlTitle": "DMV <b>REAL ID</b> - Home",
+   "link": "https://online.dmv.alaska.gov/REALIdChecklist",
+   "displayLink": "online.dmv.alaska.gov",
+   "snippet": "The Alaska Division of Motor Vehicles (DMV) has created an interactive checklist to provide you with the documents you will need to apply for a Alaska REAL ID\u00a0...",
+   "htmlSnippet": "The Alaska Division of Motor Vehicles (DMV) has created an interactive checklist to provide you with the documents you will need to apply for a Alaska <b>REAL ID</b>&nbsp;...",
+   "formattedUrl": "https://online.dmv.alaska.gov/REALIdChecklist",
+   "htmlFormattedUrl": "https://online.dmv.alaska.gov/<b>REALId</b>Checklist",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN-orXKk-cyk3mb1DiNDG--Bfy00qsvMrPXqgAXubQiFj5ZB1CFWLeo83l&s",
+      "width": "380",
+      "height": "133"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://online.dmv.alaska.gov/RealIDChecklist/Resources/real-id-hero-bg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Rural Outreach, Division of Motor Vehicles, State of Alaska",
+   "htmlTitle": "Rural Outreach, Division of Motor Vehicles, State of Alaska",
+   "link": "https://dmv.alaska.gov/general-information/rural-outreach/",
+   "displayLink": "dmv.alaska.gov",
+   "snippet": "Through the Mobile DMV Program, we work with rural communities across the state to provide road tests, credential processing, and REAL ID services.",
+   "htmlSnippet": "Through the Mobile DMV Program, we work with rural communities across the state to provide road tests, credential processing, and <b>REAL ID</b> services.",
+   "formattedUrl": "https://dmv.alaska.gov/general-information/rural-outreach/",
+   "htmlFormattedUrl": "https://dmv.alaska.gov/general-information/rural-outreach/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCLlSrnXIvUbQ-nGSw9otH7WqA0bDk9Phzi_M1Gdn_vkWtOzlh2vzJ1mU&s",
+      "width": "239",
+      "height": "210"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.alaska.gov/media/uuzlambf/remote-dmv.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DMV Duplicate DL/ID - State of Alaska",
+   "htmlTitle": "DMV Duplicate DL/ID - State of Alaska",
+   "link": "https://online.dmv.alaska.gov/DMVDuplicateDLID/index.aspx",
+   "displayLink": "online.dmv.alaska.gov",
+   "snippet": "This online service is for replacement of a standard (non-REAL ID) card or a REAL ID card, depending on the type you currently hold.",
+   "htmlSnippet": "This online service is for replacement of a standard (non-<b>REAL ID</b>) card or a <b>REAL ID</b> card, depending on the type you currently hold.",
+   "formattedUrl": "https://online.dmv.alaska.gov/DMVDuplicateDLID/index.aspx",
+   "htmlFormattedUrl": "https://online.dmv.alaska.gov/DMVDuplicateDLID/index.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPyw6A7ovaGqybCbbBjKWv0YkzZkkxJc5Frs6c2gqKex4r8zfj0cxMuSY&s",
+      "width": "282",
+      "height": "179"
+     }
+    ],
+    "organization": [
+     {
+      "name": "Division of Motor Vehicles",
+      "alternatename": "DMV",
+      "email": "Email"
+     }
+    ],
+    "postaladdress": [
+     {
+      "addresslocality": "Anchorage",
+      "postalcode": "99503",
+      "addressregion": "Alaska",
+      "streetaddress": "4001 Ingra Street, Suite 101"
+     }
+    ],
+    "contactpoint": [
+     {
+      "areaserved": "Anchorage Area",
+      "telephone": "269-5551"
+     },
+     {
+      "areaserved": "Alaska",
+      "telephone": "(855)269-5551",
+      "contactoption": "Toll-Free"
+     },
+     {
+      "areaserved": "Outside of Alaska",
+      "telephone": "(907)269-5551"
+     }
+    ],
+    "metatags": [
+     {
+      "division": "Motor Vehicles DMV",
+      "review_date": "01/07/2010",
+      "release_date": "01/07/2010",
+      "author": "DMV",
+      "program": "DMV",
+      "creation_date": "12/28/2010",
+      "department": "Admin."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://online.dmv.alaska.gov/DMVDuplicateDLID/Images/REAL-ID-Non-Compliant-O21.JPG"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "real id update",
+   "htmlTitle": "<b>real id</b> update",
+   "link": "https://dmv.alaska.gov/credential-services/realidupdate/",
+   "displayLink": "dmv.alaska.gov",
+   "snippet": "On May 7, 2025, US travelers must be REAL ID compliant to board domestic flights and access certain federal facilities.",
+   "htmlSnippet": "On May 7, 2025, US travelers must be <b>REAL ID</b> compliant to board domestic flights and access certain federal facilities.",
+   "formattedUrl": "https://dmv.alaska.gov/credential-services/realidupdate/",
+   "htmlFormattedUrl": "https://dmv.alaska.gov/credential-services/<b>realid</b>update/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9aTTY6xZkK7FLMT9J7izZ2KRBuFpgWiRyTJatwd_xg7_JcojTeGxlttdF&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.alaska.gov/media/xgeh52lz/dmv-logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DMV REAL ID - Checklist",
+   "htmlTitle": "DMV <b>REAL ID</b> - Checklist",
+   "link": "https://online.dmv.alaska.gov/RealIDChecklist/Home/Checklist",
+   "displayLink": "online.dmv.alaska.gov",
+   "snippet": "To apply for a REAL ID card, you must present one primary document, which shows your date of birth, true full name, identity and US citizenship or lawful\u00a0...",
+   "htmlSnippet": "To apply for a <b>REAL ID</b> card, you must present one primary document, which shows your date of birth, true full name, identity and US citizenship or lawful&nbsp;...",
+   "formattedUrl": "https://online.dmv.alaska.gov/RealIDChecklist/Home/Checklist",
+   "htmlFormattedUrl": "https://online.dmv.alaska.gov/<b>RealID</b>Checklist/Home/Checklist",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "License Fees, Division of Motor Vehicles, State of Alaska",
+   "htmlTitle": "License Fees, Division of Motor Vehicles, State of Alaska",
+   "link": "https://dmv.alaska.gov/credential-services/license-fees/",
+   "displayLink": "dmv.alaska.gov",
+   "snippet": "LICENSE, STANDARD, REAL-ID, NOTES. Driver or Motorcycle License (Non-Commercial), $20, $40, Class: D, M1, M2, M3. Renewal Driver or Motorcycle License\u00a0...",
+   "htmlSnippet": "LICENSE, STANDARD, <b>REAL-ID</b>, NOTES. Driver or Motorcycle License (Non-Commercial), $20, $40, Class: D, M1, M2, M3. Renewal Driver or Motorcycle License&nbsp;...",
+   "formattedUrl": "https://dmv.alaska.gov/credential-services/license-fees/",
+   "htmlFormattedUrl": "https://dmv.alaska.gov/credential-services/license-fees/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9aTTY6xZkK7FLMT9J7izZ2KRBuFpgWiRyTJatwd_xg7_JcojTeGxlttdF&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.alaska.gov/media/xgeh52lz/dmv-logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Real ID Information, Division of Motor Vehicles, State of Alaska",
+   "htmlTitle": "<b>Real ID</b> Information, Division of Motor Vehicles, State of Alaska",
+   "link": "https://dmv.alaska.gov/home/news/real-id-information/",
+   "displayLink": "dmv.alaska.gov",
+   "snippet": "On May 7, 2025, US travelers must be REAL ID compliant to board domestic flights and access certain federal facilities.",
+   "htmlSnippet": "On May 7, 2025, US travelers must be <b>REAL ID</b> compliant to board domestic flights and access certain federal facilities.",
+   "formattedUrl": "https://dmv.alaska.gov/home/news/real-id-information/",
+   "htmlFormattedUrl": "https://dmv.alaska.gov/home/news/<b>real-id</b>-information/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9aTTY6xZkK7FLMT9J7izZ2KRBuFpgWiRyTJatwd_xg7_JcojTeGxlttdF&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.alaska.gov/media/xgeh52lz/dmv-logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Identification Card, Division of Motor Vehicles, State of Alaska",
+   "htmlTitle": "Identification Card, Division of Motor Vehicles, State of Alaska",
+   "link": "https://dmv.alaska.gov/credential-services/identification-card/",
+   "displayLink": "dmv.alaska.gov",
+   "snippet": "ID cards are $15 for standard and $35 for Real ID. For Alaskans 60 years old and older, standard ID cards are free or $20 for the Real ID.",
+   "htmlSnippet": "ID cards are $15 for standard and $35 for <b>Real ID</b>. For Alaskans 60 years old and older, standard ID cards are free or $20 for the <b>Real ID</b>.",
+   "formattedUrl": "https://dmv.alaska.gov/credential-services/identification-card/",
+   "htmlFormattedUrl": "https://dmv.alaska.gov/credential-services/identification-card/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "REAL ID | Alaska DMV",
+   "htmlTitle": "<b>REAL ID</b> | Alaska DMV",
+   "link": "https://dmv.alaska.gov/media/ozwhxz3e/ak-real-id-checklist.pdf",
+   "displayLink": "dmv.alaska.gov",
+   "snippet": "For your first Alaska Real ID credential U.S. Citizens, Permanent Residents, Temporary Resident with Lawful Status in the U.S. need the following documents:.",
+   "htmlSnippet": "For your first Alaska <b>Real ID</b> credential U.S. Citizens, Permanent Residents, Temporary Resident with Lawful Status in the U.S. need the following documents:.",
+   "formattedUrl": "https://dmv.alaska.gov/media/ozwhxz3e/ak-real-id-checklist.pdf",
+   "htmlFormattedUrl": "https://dmv.alaska.gov/media/ozwhxz3e/ak-<b>real-id</b>-checklist.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJwUFtDZXWAqzwd2BPSAOcNpEj7zfR1BnGLTmzDBFNYWSF5CLY12ELyQA&s",
+      "width": "348",
+      "height": "145"
+     }
+    ],
+    "metatags": [
+     {
+      "creationdate": "D:20231222170949",
+      "creator": "PDFium",
+      "producer": "PDFium"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///6873b895161a8a22a393ce0a8ca9aff27e81137b7790b2ca939d65b2e23ea1a6"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

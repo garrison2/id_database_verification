@@ -1,0 +1,391 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"New Jersey Statutes\" \"driver's license\" OR \"identification card\" \"verification\" OR \"scanning\" OR \"swiping\" OR \"machine-readable\" OR \"electronically readable\" OR \"transaction scan\" -applicant -application",
+    "totalResults": "43",
+    "searchTerms": "\"New Jersey Statutes\" \"driver's license\" OR \"identification card\" \"verification\" OR \"scanning\" OR \"swiping\" OR \"machine-readable\" OR \"electronically readable\" OR \"transaction scan\" -applicant -application",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"New Jersey Statutes\" \"driver's license\" OR \"identification card\" \"verification\" OR \"scanning\" OR \"swiping\" OR \"machine-readable\" OR \"electronically readable\" OR \"transaction scan\" -applicant -application",
+    "totalResults": "43",
+    "searchTerms": "\"New Jersey Statutes\" \"driver's license\" OR \"identification card\" \"verification\" OR \"scanning\" OR \"swiping\" OR \"machine-readable\" OR \"electronically readable\" OR \"transaction scan\" -applicant -application",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.119293,
+  "formattedSearchTime": "0.12",
+  "totalResults": "43",
+  "formattedTotalResults": "43"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "New Jersey Legislature",
+   "htmlTitle": "New Jersey Legislature",
+   "link": "https://www.njleg.state.nj.us/bill-search/2022/S3549/bill-text?f=S4000&n=3549_I1",
+   "displayLink": "www.njleg.state.nj.us",
+   "snippet": "Sales of kratom shall be made only to an individual who demonstrates, through (i) a valid driver's license or non-driver's identification card issued by the New\u00a0...",
+   "htmlSnippet": "Sales of kratom shall be made only to an individual who demonstrates, through (i) a valid <b>driver&#39;s license</b> or non-driver&#39;s <b>identification card</b> issued by the New&nbsp;...",
+   "formattedUrl": "https://www.njleg.state.nj.us/bill-search/2022/S3549/bill-text?f...n...",
+   "htmlFormattedUrl": "https://www.njleg.state.nj.us/bill-search/2022/S3549/bill-text?f...n...",
+   "pagemap": {
+    "metatags": [
+     {
+      "next-head-count": "8",
+      "og:type": "website",
+      "og:site_name": "New Jersey Legislature",
+      "viewport": "width=device-width,initial-scale=1",
+      "og:locale": "en_US"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "S3549",
+   "htmlTitle": "S3549",
+   "link": "https://pub.njleg.gov/Bills/2022/S4000/3549_I1.HTM",
+   "displayLink": "pub.njleg.gov",
+   "snippet": "Sales of kratom shall be made only to an individual who demonstrates, through (i) a valid driver's license or non-driver's identification card issued by the New\u00a0...",
+   "htmlSnippet": "Sales of kratom shall be made only to an individual who demonstrates, through (i) a valid <b>driver&#39;s license</b> or non-driver&#39;s <b>identification card</b> issued by the New&nbsp;...",
+   "formattedUrl": "https://pub.njleg.gov/Bills/2022/S4000/3549_I1.HTM",
+   "htmlFormattedUrl": "https://pub.njleg.gov/Bills/2022/S4000/3549_I1.HTM"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "STATE OF NEW JERSEY",
+   "htmlTitle": "STATE OF NEW JERSEY",
+   "link": "https://pub.njleg.state.nj.us/Bills/2024/A1500/1188_I1.PDF",
+   "displayLink": "pub.njleg.state.nj.us",
+   "snippet": "driver's license or non-driver identification number, and (iv) the. 30 ... the New Jersey Statutes; (iii) any kratom product containing a level. 39 of 7\u00a0...",
+   "htmlSnippet": "<b>driver&#39;s license</b> or non-driver identification number, and (iv) the. 30 ... the <b>New Jersey Statutes</b>; (iii) any kratom product containing a level. 39 of 7&nbsp;...",
+   "formattedUrl": "https://pub.njleg.state.nj.us/Bills/2024/A1500/1188_I1.PDF",
+   "htmlFormattedUrl": "https://pub.njleg.state.nj.us/Bills/2024/A1500/1188_I1.PDF",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk7frXfzsziCw55wZ0meRsuND3LugZlkRxKJX2UwRHmMV14WoS1gUh_2WM&s",
+      "width": "219",
+      "height": "230"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20231227130218-05'00'",
+      "creator": "Microsoft\u00ae Word 2016",
+      "creationdate": "D:20231227130218-05'00'",
+      "producer": "Microsoft\u00ae Word 2016"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///58b3b102b97e5ddd3623a056f295ae342d54b3adb806de31c944c4d4acc32271"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "New Jersey ID Scanning Laws - Guest Ban | ID Scanning for ...",
+   "htmlTitle": "New Jersey ID <b>Scanning</b> Laws - Guest Ban | ID <b>Scanning</b> for ...",
+   "link": "https://guestban.com/id-scanning-laws/new-jersey-id-scanning-laws/",
+   "displayLink": "guestban.com",
+   "snippet": "... New Jersey Statutes. The Laws of New Jersey Statutes available online. View ... Information collected by scanning a person's identification card must be\u00a0...",
+   "htmlSnippet": "... <b>New Jersey Statutes</b>. The Laws of <b>New Jersey Statutes</b> available online. View ... Information collected by <b>scanning</b> a person&#39;s <b>identification card</b> must be&nbsp;...",
+   "formattedUrl": "https://guestban.com/id-scanning-laws/new-jersey-id-scanning-laws/",
+   "htmlFormattedUrl": "https://guestban.com/id-<b>scanning</b>-laws/new-jersey-id-<b>scanning</b>-laws/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOE2l6T2UoMqwxozsXqLG5BclhQpxcg8pUDQFNIhuPK9I4-GtJSZHaKao&s",
+      "width": "313",
+      "height": "161"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://guestban.com/wp-content/uploads/2023/08/new-jersey-skyline-at-dusk-usa-.jpg",
+      "og:type": "article",
+      "og:image:width": "2000",
+      "og:image:alt": "New Jersey skyline at dusk, USA.",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "New Jersey ID Scanning Laws - Guest Ban | ID Scanning for Hospitality",
+      "og:site_name": "Guest Ban ID Scanning",
+      "og:title": "New Jersey ID Scanning Laws - Guest Ban | ID Scanning for Hospitality",
+      "og:image:height": "1031",
+      "twitter:label1": "Time to read",
+      "og:image:type": "image/jpeg",
+      "og:updated_time": "2025-02-11T19:21:11-08:00",
+      "msapplication-tileimage": "https://guestban.com/wp-content/uploads/2021/12/cropped-app-min-270x270.jpg",
+      "og:description": "Understand the laws and regulations of ID scanning in New Jersey. Learn about the legalities, how and when you can scan IDs, and more.",
+      "twitter:creator": "@guest_ban",
+      "article:publisher": "https://www.facebook.com/guestbanhospitality",
+      "og:image:secure_url": "https://guestban.com/wp-content/uploads/2023/08/new-jersey-skyline-at-dusk-usa-.jpg",
+      "twitter:image": "https://guestban.com/wp-content/uploads/2023/08/new-jersey-skyline-at-dusk-usa-.jpg",
+      "twitter:data1": "4 minutes",
+      "twitter:site": "@guest_ban",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Understand the laws and regulations of ID scanning in New Jersey. Learn about the legalities, how and when you can scan IDs, and more.",
+      "og:locale": "en_US",
+      "og:url": "https://guestban.com/id-scanning-laws/new-jersey-id-scanning-laws/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://guestban.com/wp-content/uploads/2023/08/new-jersey-skyline-at-dusk-usa-.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "New Jersey Criminal Law & Motor Vehicle Field Guide | Blue360 ...",
+   "htmlTitle": "New Jersey Criminal Law &amp; Motor Vehicle Field Guide | Blue360 ...",
+   "link": "https://www.blue360media.com/products/new-jersey-criminal-law-and-motor-vehicle-field-guide",
+   "displayLink": "www.blue360media.com",
+   "snippet": "The New Jersey Criminal Law and Motor Vehicle Field Guide provides a comprehensive overview of essential New Jersey statutes, focusing on frequently encountered\u00a0...",
+   "htmlSnippet": "The New Jersey Criminal Law and Motor Vehicle Field Guide provides a comprehensive overview of essential <b>New Jersey statutes</b>, focusing on frequently encountered&nbsp;...",
+   "formattedUrl": "https://www.blue360media.com/.../new-jersey-criminal-law-and-motor-vehi...",
+   "htmlFormattedUrl": "https://www.blue360media.com/.../new-jersey-criminal-law-and-motor-vehi...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ05bM96J-JMz-CsZx6Sbh90T4g6CKBXyr_-opqrDV4gS5k7Mi6BSt2ouhw&s",
+      "width": "169",
+      "height": "298"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://blueprint-product-assets.s3.amazonaws.com/36330/36330-22/36330-22-cover.png",
+      "og:type": "product",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "New Jersey Criminal Law & Motor Vehicle Field Guide | Blue360\u00b0 Media",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "New Jersey Criminal Law and Motor Vehicle Field Guide\u2014covers key criminal offenses, drug laws, weapons, and public safety for law enforcement and legal professionals. Order today.",
+      "og:title": "New Jersey Criminal Law & Motor Vehicle Field Guide | Blue360\u00b0 Media",
+      "og:url": "https://www.blue360media.com/products/new-jersey-criminal-law-and-motor-vehicle-field-guide",
+      "og:description": "New Jersey Criminal Law and Motor Vehicle Field Guide\u2014covers key criminal offenses, drug laws, weapons, and public safety for law enforcement and legal professionals. Order today.",
+      "twitter:image": "https://blueprint-product-assets.s3.amazonaws.com/36330/36330-22/36330-22-cover.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://blueprint-product-assets.s3.amazonaws.com/36330/36330-22/36330-22-cover.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "pl2020, c26 Allows remote notarial acts durng Public Health ...",
+   "htmlTitle": "pl2020, c26 Allows remote notarial acts durng Public Health ...",
+   "link": "https://www.njcourts.gov/sites/default/files/courts/municipal/legislation/fornjcourtspl2020c26remotenotary.pdf",
+   "displayLink": "www.njcourts.gov",
+   "snippet": "Apr 13, 2020 ... identification card, which is current or expired not more than three ... of Title 12A of the New Jersey Statutes, and the provisions of the.",
+   "htmlSnippet": "Apr 13, 2020 <b>...</b> <b>identification card</b>, which is current or expired not more than three ... of Title 12A of the <b>New Jersey Statutes</b>, and the provisions of the.",
+   "formattedUrl": "https://www.njcourts.gov/sites/.../fornjcourtspl2020c26remotenotary.pdf",
+   "htmlFormattedUrl": "https://www.njcourts.gov/sites/.../fornjcourtspl2020c26remotenotary.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyOP7AuBHYaQZ9kHWTzuRbuA1C0jv0NqTNOKRgolE5ja_Q3Xl09zckIgU&s",
+      "width": "175",
+      "height": "288"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20200415145744-04'00'",
+      "creationdate": "D:20200415125927-04'00'",
+      "creator": "Adobe Acrobat Pro DC 20.6.20034",
+      "subject": "pl2020, c26",
+      "producer": "Adobe Acrobat Pro DC 20.6.20034",
+      "title": "pl2020, c26 Allows remote notarial acts durng Public Health Emergency and State of Emergency declared by Governor in Executive Order 103 of 2020"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///37269766f9df0fac4e9b29358df2aec57234bff351aa2e5e76dc66ddc9baef09"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ventnor City, NJ Charges for Emergency Medical Services",
+   "htmlTitle": "Ventnor City, NJ Charges for Emergency Medical Services",
+   "link": "https://ecode360.com/8288694",
+   "displayLink": "ecode360.com",
+   "snippet": "... verification from a medical establishment that said services were necessary ... driver's license or proof of filing of a State of New Jersey income tax\u00a0...",
+   "htmlSnippet": "... <b>verification</b> from a medical establishment that said services were necessary ... <b>driver&#39;s license</b> or proof of filing of a State of New Jersey income tax&nbsp;...",
+   "formattedUrl": "https://ecode360.com/8288694",
+   "htmlFormattedUrl": "https://ecode360.com/8288694",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAF7Qtz9w7JKEu7si5GLu2b2o8XeVgHVuOrfEPJjbt2swkhvtq_9NlTqI&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#00aba9",
+      "og:image": "https://ecode360.com/images/eCode360_Facebook_share-0a9c326a3c2a92ebc08c26fa61bfcbec.jpg",
+      "theme-color": "#ffffff",
+      "og:type": "website",
+      "fb:app_id": "635525276612098",
+      "og:site_name": "Ventnor City, NJ Code",
+      "viewport": "width=device-width, initial-scale=1, minimum-scale=1, shrink-to-fit=no",
+      "apple-mobile-web-app-capable": "yes",
+      "og:title": "Ventnor City, NJ: Charges for Emergency Medical Services",
+      "og:url": "https://ecode360.com/8288694",
+      "og:description": "Ch 122 Art III  [Adopted 2-17-2005 by Ord. No. 2005-3] This article shall be known as \\\"Charges for the Provision of Emergency Medical Services by the Ventnor City Fire Department.\\\" The City of Ventnor City, through its Fire Department, shall provide full-time profe"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://ecode360.com/images/eCode360_Facebook_share-0a9c326a3c2a92ebc08c26fa61bfcbec.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Alcohol and Other Drugs Policy for Students (this policy applies only ...",
+   "htmlTitle": "Alcohol and Other Drugs Policy for Students (this policy applies only ...",
+   "link": "https://policies.rutgers.edu/B.aspx?BookId=11915",
+   "displayLink": "policies.rutgers.edu",
+   "snippet": "... New Jersey Statutes, generally). (See Subsection 6.IV.C). A person under the ... driver's license, birth certificate, or other document issued by a\u00a0...",
+   "htmlSnippet": "... <b>New Jersey Statutes</b>, generally). (See Subsection 6.IV.C). A person under the ... <b>driver&#39;s license</b>, birth certificate, or other document issued by a&nbsp;...",
+   "formattedUrl": "https://policies.rutgers.edu/B.aspx?BookId=11915",
+   "htmlFormattedUrl": "https://policies.rutgers.edu/B.aspx?BookId=11915",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Bergen Community College hiring Public Safety Officer in Paramus ...",
+   "htmlTitle": "Bergen Community College hiring Public Safety Officer in Paramus ...",
+   "link": "https://www.linkedin.com/jobs/view/public-safety-officer-at-bergen-community-college-4280842285",
+   "displayLink": "www.linkedin.com",
+   "snippet": "5 days ago ... Other: Must have a valid New Jersey driver's license and ability to work shifts any day of the week. ... Security verification. Already on\u00a0...",
+   "htmlSnippet": "5 days ago <b>...</b> Other: Must have a valid New Jersey <b>driver&#39;s license</b> and ability to work shifts any day of the week. ... Security <b>verification</b>. Already on&nbsp;...",
+   "formattedUrl": "https://www.linkedin.com/.../public-safety-officer-at-bergen-community-co...",
+   "htmlFormattedUrl": "https://www.linkedin.com/.../public-safety-officer-at-bergen-community-co...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLjBaC_1S0uALKnUZkw7cZJBVb5zU3LNmhvD_Y5Ib5XHiDt-eF5vJ9pjI&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://static.licdn.com/aero-v1/sc/h/xlk678jv0tjp79pv10kglzkf",
+      "og:type": "website",
+      "twitter:title": "Bergen Community College hiring Public Safety Officer in Paramus, NJ | LinkedIn",
+      "twitter:card": "summary_large_image",
+      "theme-color": "#293e49",
+      "clientsideingraphs": "1",
+      "industryids": "69",
+      "og:title": "Bergen Community College hiring Public Safety Officer in Paramus, NJ | LinkedIn",
+      "titleid": "15823",
+      "pagekey": "p_jobs_guest_details",
+      "locale": "en_US",
+      "og:description": "Posted 12:00:00 AM. The Public Safety Officer protects life and property of all individuals on campus; and protects\u2026See this and similar jobs on LinkedIn.",
+      "twitter:image": "https://static.licdn.com/aero-v1/sc/h/xlk678jv0tjp79pv10kglzkf",
+      "lnkd:url": "https://www.linkedin.com/jobs/view/public-safety-officer-at-bergen-community-college-4280842285",
+      "companyid": "282958",
+      "twitter:site": "@LinkedIn",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "litmsprofilename": "jobs-guest-frontend",
+      "twitter:description": "Posted 12:00:00 AM. The Public Safety Officer protects life and property of all individuals on campus; and protects\u2026See this and similar jobs on LinkedIn.",
+      "og:url": "https://www.linkedin.com/jobs/view/public-safety-officer-at-bergen-community-college-4280842285"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://static.licdn.com/aero-v1/sc/h/xlk678jv0tjp79pv10kglzkf"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "new jersey notary public manual",
+   "htmlTitle": "new jersey notary public manual",
+   "link": "https://njac.org/download/Library/News%20-%20Related%20Attachments/Notary-Public-Manual-Updated-042020.pdf",
+   "displayLink": "njac.org",
+   "snippet": "Apr 20, 2020 ... (ID) that provides a physical description of the signer-- e.g., driver's license. ... verification, while the Notary's certification\u00a0...",
+   "htmlSnippet": "Apr 20, 2020 <b>...</b> (ID) that provides a physical description of the signer-- e.g., <b>driver&#39;s license</b>. ... <b>verification</b>, while the Notary&#39;s certification&nbsp;...",
+   "formattedUrl": "https://njac.org/download/.../Notary-Public-Manual-Updated-042020.pdf",
+   "htmlFormattedUrl": "https://njac.org/download/.../Notary-Public-Manual-Updated-042020.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDpFFxwiysELv71_xnGPQAg69MPcvMtciec3uh1eUzfS_t25nhH6ofz3A&s",
+      "width": "235",
+      "height": "215"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20200421152230-04'00'",
+      "creationdate": "D:20200420150121-04'00'",
+      "creator": "Acrobat PDFMaker 20 for Word",
+      "lastsaved": "D:20200419",
+      "sourcemodified": "D:20200420190115",
+      "author": "Wilgus, Philip",
+      "created": "D:20200130",
+      "producer": "Adobe PDF Library 20.6.74",
+      "company": "Division of Revenue and Enterprise Services",
+      "title": "Notary Public Manual"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///19a9d1c3fe3af639637494608ea3796bec396cf9446fc5492f60b8650f8cea67"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

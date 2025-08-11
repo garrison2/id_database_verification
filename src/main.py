@@ -2,6 +2,7 @@
 import os, sys
 import json
 import time
+import argparse
 
 from googleapiclient.discovery import build
 
@@ -27,6 +28,16 @@ def get_paths(state_dir, query):
     json_path = os.path.join(dir_path, f'{query}.json')
     return dir_path, json_path
 
+def clean_selection_path(state, selection):
+    directories = os.listdir(RESULTS_PATH)
+    directories = [ d for d in directories if state in d ]
+    if len(directories) == 0:
+        raise Exception("State does not exist.")
+    if not 0 <= int(selection) < len(directories):
+        raise Exception("Invalid selection.")
+    
+    return directories[int(selection)]
+
 def choose_timestamp(state):
     directories = os.listdir(RESULTS_PATH)
     directories = [ d for d in directories if state in d ]
@@ -44,9 +55,9 @@ def choose_timestamp(state):
         raise Exception("Invalid choice.")
     return directories[index]
 # -----------------------------------------------------------------------------
-
 def process(state, query, selection):
     path = os.path.join(RESULTS_PATH, selection, query, f'{query}.json')
+    if not os.path.exists(path): return
     with open(path, 'r') as file:
         query_results = json.load(file)
  
@@ -59,23 +70,15 @@ def view(state, query, selection):
     print(f'{selection}:')
     print(f"\t{query_results['queries']['request'][0]['searchTerms']} ({query})\n")
 #    print(a['queries']['nextPage'])
+    if 'items' not in query_results: 
+        print("No results found.")
+        return
+
     for i in range(len(query_results['items'])):
         website = query_results['items'][i]
         print(f"{i+1} - {website['title']}")
         print('\t' + website['link'])
     print()
-
-def search_all():
-    i = input('Are you sure? ')
-    if i != 'y' and i != 'Y':
-        return
-
-    for state in STATES:
-        path = make_state_dir(state)
-
-        for query in QUERIES:
-            search_wrapper(state, query, path)
-
 
 # ----------------------------------JSON API ----------------------------------
 def search(query, key):
@@ -109,93 +112,119 @@ def next_except(args):
     except StopIteration:
         return None
 
-def parse_state_and_query(args):
-    state = next_except(args)
-
-    if state is None:
-        raise Exception("No state selected.")
-    elif state != 'all' and state not in STATES:
+def verify_state_and_query(state, queries):
+    if state != 'all' and state not in STATES:
         raise Exception("Argument is not a state.")
-
-    query = next_except(args)
-    if query and query not in QUERIES:
-        raise Exception("Query is invalid.")
-
-    if next_except(args) or (state == 'all' and query is not None):
-        raise Exception("Too many arguments.")
-
-    return state, query
+    if not queries: return
+    for query in queries:
+        if query not in QUERIES:
+            raise Exception("Query is invalid.")
 
 def main(args):
-    arg = next_except(args)
-    if arg is None:
-        raise Exception("Too few arguments.")
+    parser = argparse.ArgumentParser()
+    parser.add_argument('-q', '--queries', nargs = '*',
+                        help='choose specific queries (default all).')
+    parser.add_argument('-s', '--select',
+                        help='choose the directory to process.')
+    parser.add_argument('action', choices=('process', 'view',
+                                           'search', 'list'),
+                        metavar="<process, view, search, list>",
+                        help='choose an action.')
+    parser.add_argument('state',
+                        metavar='<state>',
+                        help='choose a state (or "all").')
+    parsed = parser.parse_args(args)
 
-    match arg:
+    match parsed.action:
         case 'process' | 'view':
-            func = process if arg == 'process' else view
+            func = process if parsed.action == 'process' else view
 
-            state, query = parse_state_and_query(args)
-            if state == 'all':
-                for path in os.listdir(RESULTS_PATH):
+            verify_state_and_query(parsed.state, parsed.queries)
+            if parsed.state == 'all':
+                if parsed.select:
+                    raise Exception('Cannot select path if "all" states are chosen.')
+                paths = os.listdir(RESULTS_PATH)
+
+                for path in paths:
                     state = path.split('_')[0]
                     if state not in STATES: continue
-                    for query in QUERIES:
+                    if parsed.queries:
+                        queries = parsed.queries
+                    else:
+                        queries = QUERIES
+
+                    for query in queries:
                         func(state, query, path)
                 return
 
-            selection = choose_timestamp(state)
-            if query:
-                func(state, query, selection)
+            if parsed.select:
+                path = clean_selection_path(parsed.state, parsed.select)
             else:
-                for query in QUERIES:
-                    func(state, query, selection)
+                path = choose_timestamp(parsed.state)
+
+            if parsed.queries:
+                queries = parsed.queries
+            else:
+                queries = QUERIES
+
+            for query in queries:
+                func(parsed.state, query, path)
 
         case 'search':
-            state, query = parse_state_and_query(args)
-            if state == 'all': search_all()
-            elif query:
-                search_wrapper(state, query)
-            else:
-                path = make_state_dir(state)
+            verify_state_and_query(parsed.state, parsed.queries)
 
-                for query in QUERIES:
-                    search_wrapper(state, query, path)
+            if parsed.queries:
+                queries = parsed.queries
+            else:
+                queries = QUERIES
+
+            if parsed.state == 'all':
+                i = input('Are you sure? ')
+                if i != 'y' and i != 'Y':
+                    return
+
+                for state in STATES:
+                    path = make_state_dir(state)
+
+                    for query in queries:
+                        search_wrapper(state, query, path)
+
+            else:
+                path = make_state_dir(parsed.state)
+                for query in queries:
+                    search_wrapper(parsed.state, query, path)
 
         case 'list':
-            state, query = parse_state_and_query(args)
-            if state == 'all': 
+            verify_state_and_query(parsed.state, parsed.queries)
+            if parsed.state == 'all': 
                 print('Results:')
                 for p in os.listdir(RESULTS_PATH):
                     queries = os.listdir(os.path.join(RESULTS_PATH, p))
                     print(f'\t{p} ({", ".join(queries)})')
             else:
-                states_dirs = [os.path.join(RESULTS_PATH, d)
-                               for d in os.listdir(RESULTS_PATH) 
-                               if state in d]
+                if parsed.select:
+                    states_dirs = [ clean_selection_path(parsed.state, parsed.select) ]
+                else:
+                    states_dirs = [os.path.join(RESULTS_PATH, d)
+                                   for d in os.listdir(RESULTS_PATH) 
+                                   if parsed.state in d]
                 for state_dir in states_dirs:
                     queries = os.listdir(state_dir)
 
-                    if not query:
+                    if not parsed.queries:
                         print(f'Queries: ({state_dir})')
                         for q in queries:
                             print('\t' + q)
                     else:
-                        if query not in queries:
-                            raise Exception("Query is invalid.")
+                        for query in parsed.queries:
+                            if query not in queries:
+                                raise Exception("Query is invalid.")
                         
-                        files = os.listdir(os.path.join(RESULTS_PATH, state_dir,
-                                                        query))
-                        print(f'Files: ({state_dir}/{query})')
-                        for f in files:
-                            print('\t' + f)
-
-        case 'help':
-            print("process {state/all} [query]\n"
-                  "view {state/all} [query]\n"
-                  "search {state/all} [query]")
-        case _:
-            print("Invalid input.")
+                            files = os.listdir(os.path.join(RESULTS_PATH, state_dir,
+                                                            query))
+                            print(f'Files: ({state_dir}/{query})')
+                            for f in files:
+                                print('\t' + f)
 
     if LOGGING:
         with open(LOGGING, 'a') as file:
@@ -204,5 +233,5 @@ def main(args):
             file.write(text)
 
 if __name__ == "__main__":
-    main(iter(sys.argv[1:]))
+    main(sys.argv[1:])
 # -----------------------------------------------------------------------------

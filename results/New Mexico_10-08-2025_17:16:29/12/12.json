@@ -1,0 +1,279 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"New Mexico Statutes Annotated\" \"driver's license\" OR \"identification card\" \"verification\" OR \"scanning\" OR \"swiping\" OR \"machine-readable\" OR \"electronically readable\" OR \"transaction scan\" -applicant -application",
+    "totalResults": "8",
+    "searchTerms": "\"New Mexico Statutes Annotated\" \"driver's license\" OR \"identification card\" \"verification\" OR \"scanning\" OR \"swiping\" OR \"machine-readable\" OR \"electronically readable\" OR \"transaction scan\" -applicant -application",
+    "count": 8,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.116213,
+  "formattedSearchTime": "0.12",
+  "totalResults": "8",
+  "formattedTotalResults": "8"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "FYI-240 Transactions with Government Agencies",
+   "htmlTitle": "FYI-240 Transactions with Government Agencies",
+   "link": "https://www.tax.newmexico.gov/governments/wp-content/uploads/sites/7/2023/03/FYI-240.pdf",
+   "displayLink": "www.tax.newmexico.gov",
+   "snippet": "Verification of Deductions. The Department requires taxpayers to retain documentation to support any deduction from gross receipts. The most widely held\u00a0...",
+   "htmlSnippet": "<b>Verification</b> of Deductions. The Department requires taxpayers to retain documentation to support any deduction from gross receipts. The most widely held&nbsp;...",
+   "formattedUrl": "https://www.tax.newmexico.gov/governments/wp-content/.../FYI-240.pdf",
+   "htmlFormattedUrl": "https://www.tax.newmexico.gov/governments/wp-content/.../FYI-240.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20220831144406-06'00'",
+      "creator": "Microsoft\u00ae Word 2016",
+      "creationdate": "D:20220831144406-06'00'",
+      "author": "TAXINFO01",
+      "producer": "Microsoft\u00ae Word 2016",
+      "title": "FYI-240 Transactions with Government Agencies"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1.21.2 NMAC",
+   "htmlTitle": "1.21.2 NMAC",
+   "link": "https://www.srca.nm.gov/parts/title01/01.021.0002.html",
+   "displayLink": "www.srca.nm.gov",
+   "snippet": "Description: Records related to employment eligibility verification form I-9. ... Description: Records related to permanent commercial driver's license\u00a0...",
+   "htmlSnippet": "Description: Records related to employment eligibility <b>verification</b> form I-9. ... Description: Records related to permanent commercial <b>driver&#39;s license</b>&nbsp;...",
+   "formattedUrl": "https://www.srca.nm.gov/parts/title01/01.021.0002.html",
+   "htmlFormattedUrl": "https://www.srca.nm.gov/parts/title01/01.021.0002.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "originator": "Microsoft Word 14",
+      "progid": "Word.Document"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "International Military Students to Kirtland Air Force Base, New Mexico",
+   "htmlTitle": "International Military Students to Kirtland Air Force Base, New Mexico",
+   "link": "https://www.safety.af.mil/Portals/71/documents/Training/IFSO-IMS%20Student%20Guide%20(Nov%2018).pdf?ver=2018-11-29-164417-497",
+   "displayLink": "www.safety.af.mil",
+   "snippet": "You must carry the verification of insurance document in your automobile at all times. Page 5. 5. 11.3. Driver's License and Registration. To operate a\u00a0...",
+   "htmlSnippet": "You must carry the <b>verification</b> of insurance document in your automobile at all times. Page 5. 5. 11.3. <b>Driver&#39;s License</b> and Registration. To operate a&nbsp;...",
+   "formattedUrl": "https://www.safety.af.mil/.../IFSO-IMS%20Student%20Guide%20(Nov%20...",
+   "htmlFormattedUrl": "https://www.safety.af.mil/.../IFSO-IMS%20Student%20Guide%20(Nov%20...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCSE7XbvOXsqS3TjbasslVWe8n0X8nGhDFxeRdKpb7jAumBw4YwBIgKxo&s",
+      "width": "197",
+      "height": "255"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20181129143231-07'00'",
+      "creationdate": "D:20181129143231-07'00'"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///90fccf69c7627eaee8d2d07929cb36e7166a2d8c818a3f40587e44df2397a1ca"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Summary of Vehicle Occupant Protection and Motorcycle Laws ...",
+   "htmlTitle": "Summary of Vehicle Occupant Protection and Motorcycle Laws ...",
+   "link": "https://www.nhtsa.gov/sites/nhtsa.gov/files/812129-summaryvehicleoccupantprotection-motorcyclelaws.pdf",
+   "displayLink": "www.nhtsa.gov",
+   "snippet": "driver's license if it determines that there exists a need to protect ... verification from a physician; (2) rural carriers of the U.S. Postal Service\u00a0...",
+   "htmlSnippet": "<b>driver&#39;s license</b> if it determines that there exists a need to protect ... <b>verification</b> from a physician; (2) rural carriers of the U.S. Postal Service&nbsp;...",
+   "formattedUrl": "https://www.nhtsa.gov/.../812129-summaryvehicleoccupantprotection-moto...",
+   "htmlFormattedUrl": "https://www.nhtsa.gov/.../812129-summaryvehicleoccupantprotection-moto...",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20150609200854-04'00'",
+      "creationdate": "D:20150306132518-05'00'",
+      "creator": "Acrobat PDFMaker 10.1 for Word",
+      "sourcemodified": "D:20150306180727",
+      "author": "Laura Caldwell-Aden",
+      "wsi_doc_id": "a78e5208-1703-4fba-afbe-872c7f44246d",
+      "producer": "Adobe PDF Library 10.0",
+      "company": "DOT",
+      "title": "Maryn Consulting"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "How to File Bankruptcy in New Mexico (NM)",
+   "htmlTitle": "How to File Bankruptcy in New Mexico (NM)",
+   "link": "https://www.nolo.com/legal-encyclopedia/how-to-file-bankruptcy-in-new-mexico.html",
+   "displayLink": "www.nolo.com",
+   "snippet": "The statute citations are to the New Mexico Statutes Annotated. State ... Driver's License, I.D. Card, Government I.D., or Passport (The name on the\u00a0...",
+   "htmlSnippet": "The statute citations are to the <b>New Mexico Statutes Annotated</b>. State ... <b>Driver&#39;s License</b>, I.D. Card, Government I.D., or Passport (The name on the&nbsp;...",
+   "formattedUrl": "https://www.nolo.com/legal.../how-to-file-bankruptcy-in-new-mexico.html",
+   "htmlFormattedUrl": "https://www.nolo.com/legal.../how-to-file-bankruptcy-in-new-mexico.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBdY1ldsRbLCWcCwn0syYJasqaEAGVfokC-wmsg-HoNliHOrJKuYtYGDA&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#2b5797",
+      "msapplication-config": "/themes/default/favicon/browserconfig.xml",
+      "og:image": "https://www.nolo.com/files/logo/nolo-logo-OG.png",
+      "theme-color": "#01314c",
+      "og:type": "article",
+      "og:site_name": "www.nolo.com",
+      "og:title": "Filing for Bankruptcy in New Mexico (NM)",
+      "msapplication-tileimage": "/themes/default/favicon/mstile-144x144.png",
+      "title": "How to File Bankruptcy in New Mexico (NM)",
+      "og:description": "Learn about qualifying and filing a New Mexico bankruptcy, protecting property with bankruptcy exemptions, needed financial documents, and hiring a lawyer.",
+      "facebook-domain-verification": "gpucniew5yhm9jlx8gm9j8y658wwc1",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:url": "https://www.nolo.com/legal-encyclopedia/how-to-file-bankruptcy-in-new-mexico.html",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.nolo.com/files/logo/nolo-logo-OG.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Summary of Vehicle Occupant Protection and Motorcycle Laws",
+   "htmlTitle": "Summary of Vehicle Occupant Protection and Motorcycle Laws",
+   "link": "https://www.nhtsa.gov/sites/nhtsa.gov/files/811768.pdf",
+   "displayLink": "www.nhtsa.gov",
+   "snippet": "driver's license if it determines that there exists a need to protect ... verification from a physician; (2) rural carriers of the U.S. Postal Service\u00a0...",
+   "htmlSnippet": "<b>driver&#39;s license</b> if it determines that there exists a need to protect ... <b>verification</b> from a physician; (2) rural carriers of the U.S. Postal Service&nbsp;...",
+   "formattedUrl": "https://www.nhtsa.gov/sites/nhtsa.gov/files/811768.pdf",
+   "htmlFormattedUrl": "https://www.nhtsa.gov/sites/nhtsa.gov/files/811768.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20131101140148-04'00'",
+      "creationdate": "D:20131028121153-04'00'",
+      "creator": "Acrobat PDFMaker 10.1 for Word",
+      "sourcemodified": "D:20131028160834",
+      "author": "Laura Caldwell-Aden",
+      "wsi_doc_id": "a78e5208-1703-4fba-afbe-872c7f44246d",
+      "producer": "Adobe PDF Library 10.0",
+      "company": "DOT",
+      "title": "Maryn Consulting"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Search New Mexico Driving Records - Criminal and Civil Offenses",
+   "htmlTitle": "Search New Mexico Driving Records - Criminal and Civil Offenses",
+   "link": "https://newmexico.thepublicindex.org/driving-records",
+   "displayLink": "newmexico.thepublicindex.org",
+   "snippet": "Driver's license information (number, class, expiration date); Current ... Employment verification: Employers may review driving records when hiring for\u00a0...",
+   "htmlSnippet": "<b>Driver&#39;s license</b> information (number, class, expiration date); Current ... Employment <b>verification</b>: Employers may review driving records when hiring for&nbsp;...",
+   "formattedUrl": "https://newmexico.thepublicindex.org/driving-records",
+   "htmlFormattedUrl": "https://newmexico.thepublicindex.org/driving-records",
+   "pagemap": {
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#0a80db",
+      "msapplication-config": "/assets/img/favicon/browserconfig.xml",
+      "next-head-count": "18",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "New Mexico Public Records",
+      "name": "New Mexico Public Records",
+      "position": "1"
+     },
+     {
+      "name": "Driving Records",
+      "position": "2"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "PERSONNEL CODE OF CONDUCT",
+   "htmlTitle": "PERSONNEL CODE OF CONDUCT",
+   "link": "https://www.cabq.gov/police/documents/1-1-personnel-code-of-conduct.pdf",
+   "displayLink": "www.cabq.gov",
+   "snippet": "Dec 1, 2017 ... Personnel shall not lend or offer their identification card or badge to anyone. ... complaint and only after written verification with the\u00a0...",
+   "htmlSnippet": "Dec 1, 2017 <b>...</b> Personnel shall not lend or offer their <b>identification card</b> or badge to anyone. ... complaint and only after written <b>verification</b> with the&nbsp;...",
+   "formattedUrl": "https://www.cabq.gov/police/documents/1-1-personnel-code-of-conduct.pdf",
+   "htmlFormattedUrl": "https://www.cabq.gov/police/documents/1-1-personnel-code-of-conduct.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Q_VaBjuAjKRp6HRxBDGjF2vjbUnDg_pB0_ivR2J67SxnkdhzV9QFhvAq&s",
+      "width": "176",
+      "height": "152"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20161201134321-07'00'",
+      "creator": "Microsoft\u00ae Word 2016",
+      "creationdate": "D:20161201134321-07'00'",
+      "author": "APD RANGE",
+      "producer": "Microsoft\u00ae Word 2016",
+      "title": "K"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///061a1276365fce343565af298ca69162289f9641ded00409af00f24e80e82649"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

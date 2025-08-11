@@ -1,0 +1,508 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"North Carolina\" API OR \"verify\" OR \"verifier\" OR \"reader\" OR \"SDK\" OR \"check\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"transfer\" -\"litigation\" -\"district\"",
+    "totalResults": "117000",
+    "searchTerms": "\"North Carolina\" API OR \"verify\" OR \"verifier\" OR \"reader\" OR \"SDK\" OR \"check\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"transfer\" -\"litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"North Carolina\" API OR \"verify\" OR \"verifier\" OR \"reader\" OR \"SDK\" OR \"check\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"transfer\" -\"litigation\" -\"district\"",
+    "totalResults": "117000",
+    "searchTerms": "\"North Carolina\" API OR \"verify\" OR \"verifier\" OR \"reader\" OR \"SDK\" OR \"check\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"transfer\" -\"litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.202768,
+  "formattedSearchTime": "0.20",
+  "totalResults": "117000",
+  "formattedTotalResults": "117,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Official NCDMV: Online Services",
+   "htmlTitle": "Official NCDMV: Online Services",
+   "link": "https://www.ncdot.gov/dmv/offices-services/online/Pages/default.aspx",
+   "displayLink": "www.ncdot.gov",
+   "snippet": "May 27, 2025 ... North Carolina Division of Motor Vehicles. Search. It looks like your ... Check out some frequently asked questions\u200b for more information\u00a0...",
+   "htmlSnippet": "May 27, 2025 <b>...</b> <b>North Carolina</b> Division of Motor Vehicles. Search. It looks like your ... <b>Check</b> out some frequently asked questions\u200b for more information&nbsp;...",
+   "formattedUrl": "https://www.ncdot.gov/dmv/offices-services/online/Pages/default.aspx",
+   "htmlFormattedUrl": "https://www.ncdot.gov/dmv/offices-services/online/Pages/default.aspx",
+   "pagemap": {
+    "metatags": [
+     {
+      "image": "https://www.ncdot.gov/Style%20Library/Images/NCDOT_Social_Image.jpg",
+      "og:image": "https://www.ncdot.gov/Style%20Library/Images/NCDOT_Social_Image.jpg",
+      "twitter:card": "summary",
+      "og:type": "website",
+      "twitter:site": "@NCDOT",
+      "og:site_name": "NCDOT",
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0",
+      "twitter:description": "NCDOT",
+      "twitter:creator": "@NCDOT",
+      "og:description": "NCDOT"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.ncdot.gov/Style%20Library/Images/NCDOT_Social_Image.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Will North Carolina get mobile drivers licenses? | wcnc.com",
+   "htmlTitle": "Will <b>North Carolina</b> get mobile drivers licenses? | wcnc.com",
+   "link": "https://www.wcnc.com/article/news/verify/north-carolina-drivers-license-verify/275-8f58038a-e99a-408f-8942-7b8224075760",
+   "displayLink": "www.wcnc.com",
+   "snippet": "Jan 20, 2023 ... First, let's take a look at what an MDL is; according to the American Association of Motor Vehicle Administration, an MDL ... The VERIFY\u00a0...",
+   "htmlSnippet": "Jan 20, 2023 <b>...</b> First, let&#39;s take a look at what an <b>MDL</b> is; according to the American Association of Motor Vehicle Administration, an <b>MDL</b> ... The <b>VERIFY</b>&nbsp;...",
+   "formattedUrl": "https://www.wcnc.com/.../verify/north-carolina...verify/275-8f58038a-e99a...",
+   "htmlFormattedUrl": "https://www.wcnc.com/.../<b>verify</b>/<b>north-carolina</b>...<b>verify</b>/275-8f58038a-e99a...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3X-LP-VfABP-0BAkHF272ygdgb8vWaeXT7ddPFk3E_p6ve6TGEwqyZ9w&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "apple-itunes-app": "app-id=1453203308",
+      "og:image": "https://media.wcnc.com/assets/WCNC/images/da8f83ce-92fa-4da3-8265-fdd978bdf0a0/da8f83ce-92fa-4da3-8265-fdd978bdf0a0_1140x641.jpg",
+      "theme-color": "#045ea8",
+      "og:image:width": "1140",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "wcnc.com",
+      "og:description": "Currently, 12 states offer mobile driver's licenses or they are implementing them as we speak, but what about North Carolina?",
+      "twitter:image": "https://media.wcnc.com/assets/WCNC/images/da8f83ce-92fa-4da3-8265-fdd978bdf0a0/da8f83ce-92fa-4da3-8265-fdd978bdf0a0_1140x641.jpg",
+      "twitter:site": "wcnc",
+      "article:content_tier": "free",
+      "og:type": "article",
+      "article:section": "wcnc,news,verify,wake-up-charlotte",
+      "twitter:title": "What needs to happen for North Carolina to get mobile drivers licenses",
+      "twitter:domain": "www.wcnc.com/",
+      "og:title": "What needs to happen for North Carolina to get mobile drivers licenses",
+      "og:image:height": "641",
+      "og:article:published_time": "1/20/2023 6:23:53 AM",
+      "twitter:image:src": "https://media.wcnc.com/assets/WCNC/images/da8f83ce-92fa-4da3-8265-fdd978bdf0a0/da8f83ce-92fa-4da3-8265-fdd978bdf0a0_1140x641.jpg",
+      "site": "wcnc.com",
+      "fb:app_id": "137962213565585",
+      "viewport": "width=device-width",
+      "twitter:description": "Currently, 12 states offer mobile driver's licenses or they are implementing them as we speak, but what about North Carolina?",
+      "og:locale": "en_US",
+      "category": "news",
+      "og:url": "https://www.wcnc.com/article/news/verify/north-carolina-drivers-license-verify/275-8f58038a-e99a-408f-8942-7b8224075760",
+      "article:opinion": "false"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://media.wcnc.com/assets/WCNC/images/da8f83ce-92fa-4da3-8265-fdd978bdf0a0/da8f83ce-92fa-4da3-8265-fdd978bdf0a0_1140x641.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Non-Field Guidance and Technical Assistance | NC DEQ",
+   "htmlTitle": "Non-Field Guidance and Technical Assistance | NC DEQ",
+   "link": "https://www.deq.nc.gov/about/divisions/water-resources/water-sciences/chemistry-laboratory/laboratory-certification-branch/non-field-guidance-and-technical-assistance",
+   "displayLink": "www.deq.nc.gov",
+   "snippet": "Mar 12, 2025 ... Lab Tech Day 2018 presentation about the new MDL procedure. Fecal Coliform (MF) Colony Confirmation Video, This video provides a visual example\u00a0...",
+   "htmlSnippet": "Mar 12, 2025 <b>...</b> Lab Tech Day 2018 presentation about the new <b>MDL</b> procedure. Fecal Coliform (MF) Colony Confirmation Video, This video provides a visual example&nbsp;...",
+   "formattedUrl": "https://www.deq.nc.gov/.../non-field-guidance-and-technical-assistance",
+   "htmlFormattedUrl": "https://www.deq.nc.gov/.../non-field-guidance-and-technical-assistance",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCVVs0LRXqw2iv4tXZyA2H2tamsNLh99Skgwc-rHZxKW9hf9VXjm8NExk&s",
+      "width": "369",
+      "height": "136"
+     }
+    ],
+    "postaladdress": [
+     {
+      "name": "Physical Address"
+     },
+     {
+      "streetaddress": "North Carolina Department of Environmental Quality"
+     },
+     {
+      "addresslocality": "Raleigh",
+      "postalcode": "27603",
+      "addressregion": "NC"
+     }
+    ],
+    "metatags": [
+     {
+      "twitter:card": "summary_large_image",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width",
+      "facebook-domain-verification": "a9ibbdi4z7xqgdg588c5o56kpl9vs6"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://files.nc.gov/deq/DEQLogo%282-color%29.png?VersionId=AYKehAq0DgKno2QboW0y.2ILkHNWIKmi"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "49er Mobile ID now available to all faculty, staff and students ...",
+   "htmlTitle": "49er <b>Mobile ID</b> now available to all faculty, staff and students ...",
+   "link": "https://aux.charlotte.edu/49er-mobile-id-now-available/",
+   "displayLink": "aux.charlotte.edu",
+   "snippet": "Jan 20, 2023 ... Search for University of North Carolina at Charlotte and tap through to the 49er Mobile ID login screen. ... Check out this handy set of\u00a0...",
+   "htmlSnippet": "Jan 20, 2023 <b>...</b> Search for University of <b>North Carolina</b> at Charlotte and tap through to the 49er <b>Mobile ID</b> login screen. ... <b>Check</b> out this handy set of&nbsp;...",
+   "formattedUrl": "https://aux.charlotte.edu/49er-mobile-id-now-available/",
+   "htmlFormattedUrl": "https://aux.charlotte.edu/49er-<b>mobile-id</b>-now-available/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnQ-l2qHQvJwqOF9uxoSLILeMR0O-e4QchFlaZBmgAftQdRtLODp9vW31H&s",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://aux.charlotte.edu/wp-content/uploads/sites/167/2023/04/52353075370_9747221535_z.jpg",
+      "og:type": "article",
+      "article:published_time": "2023-01-20T06:37:37+00:00",
+      "og:image:width": "600",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Auxiliary Services",
+      "author": "A-Heather A-Cummens",
+      "og:title": "49er Mobile ID now available to all faculty, staff and students - Auxiliary Services",
+      "og:image:height": "400",
+      "twitter:label1": "Written by",
+      "twitter:label2": "Est. reading time",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://aux.charlotte.edu/wp-content/uploads/sites/167/2022/12/cropped-All-in-C-1-270x270.png",
+      "og:description": "49er Mobile ID is now available for all faculty, staff and students to access on your phone. Your physical 49er Card will continue to work, but if you",
+      "twitter:data1": "A-Heather A-Cummens",
+      "twitter:data2": "2 minutes",
+      "article:modified_time": "2023-04-14T15:27:54+00:00",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:locale": "en_US",
+      "og:url": "https://aux.charlotte.edu/49er-mobile-id-now-available/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://aux.charlotte.edu/wp-content/uploads/sites/167/2023/04/52353075370_9747221535_z.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Help for Members with Delayed ID Cards: Digital ID Cards Available ...",
+   "htmlTitle": "Help for Members with Delayed ID Cards: <b>Digital ID</b> Cards Available ...",
+   "link": "https://www.bluecrossnc.com/providers/provider-news/2021/help-members-delayed-id-cards-digital-id-cards-available-blue-connect",
+   "displayLink": "www.bluecrossnc.com",
+   "snippet": "Jan 4, 2021 ... Blue Cross and Blue Shield of North Carolina (Blue Cross NC) makes ... Providers unable to verify coverage should call Blue Cross NC's\u00a0...",
+   "htmlSnippet": "Jan 4, 2021 <b>...</b> Blue Cross and Blue Shield of <b>North Carolina</b> (Blue Cross NC) makes ... Providers unable to <b>verify</b> coverage should call Blue Cross NC&#39;s&nbsp;...",
+   "formattedUrl": "https://www.bluecrossnc.com/.../help-members-delayed-id-cards-digital-id-...",
+   "htmlFormattedUrl": "https://www.bluecrossnc.com/.../help-members-delayed-id-cards-<b>digital-id</b>-...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5KiZNTSubEIS4W65hANWb_xyvFJEaZh5d1GBrYA8rPHmhDav2tLqSpg&s",
+      "width": "444",
+      "height": "113"
+     }
+    ],
+    "imageobject": [
+     {
+      "contenturl": "https://www.bluecrossnc.com/content/experience-fragments/bcbsnc/us/en/site/header/master/_jcr_content/root/image.coreimg.png/1734705657311/logo.png"
+     },
+     {
+      "contenturl": "https://www.bluecrossnc.com/content/experience-fragments/bcbsnc/us/en/site/footer/master/_jcr_content/root/container_1150201395/v1/image.coreimg.svg/1734705656627/bcbsnc-full-logo.svg"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "provider-news-template",
+      "msapplication-square70x70logo": "/content/dam/bcbsnc/logos/icon-70x70.png",
+      "twitter:title": "Help for Members with Delayed ID Cards: Digital ID Cards Available on Blue Connect | Blue Cross NC",
+      "twitter:card": "summary_large_image",
+      "tag-links": "Products & Programs",
+      "og:title": "Help for Members with Delayed ID Cards: Digital ID Cards Available on Blue Connect | Blue Cross NC",
+      "bcbsncbuildversion": "1.56.2-2025-07-03T13:37-c2729c125",
+      "msapplication-wide310x150logo": "/content/dam/bcbsnc/logos/icon-310x150.png",
+      "title": "Help for Members with Delayed ID Cards: Digital ID Cards Available on Blue Connect",
+      "msapplication-square150x150logo": "/content/dam/bcbsnc/logos/icon-150x150.png",
+      "publicationdate": "2021-01-04T00:00:00.000-05:00",
+      "contenttype": "PAGE",
+      "pagepath": "/content/bcbsnc/us/en/providers/provider-news/2021/help-members-delayed-id-cards-digital-id-cards-available-blue-connect",
+      "viewport": "width=device-width, initial-scale=1",
+      "msapplication-square310x310logo": "/content/dam/bcbsnc/logos/icon-310x310.png",
+      "navtitle": "Help for Members with Delayed ID Cards: Digital ID Cards Available on Blue Connect",
+      "primarytag": "Products & Programs",
+      "tag": "2021,bcbsnc:provider-news/year/2021,Year,bcbsnc:provider-news/year,Products & Programs,bcbsnc:provider-news/products-programs"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.bluecrossnc.com/content/experience-fragments/bcbsnc/us/en/site/header/master/_jcr_content/root/image.coreimg.png/1734705657311/logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "49er Mobile ID Program - Auxiliary Services",
+   "htmlTitle": "49er <b>Mobile ID</b> Program - Auxiliary Services",
+   "link": "https://aux.charlotte.edu/49er-mobile-id/",
+   "displayLink": "aux.charlotte.edu",
+   "snippet": "... Check account \u00b7 Watch our video guide: everything you need to know about student spending accounts. Next. 1; 2. 49er ID. Toggle Submenu. 49er Mobile ID Program\u00a0...",
+   "htmlSnippet": "... <b>Check</b> account &middot; Watch our video guide: everything you need to know about student spending accounts. Next. 1; 2. 49er ID. Toggle Submenu. 49er <b>Mobile ID</b> Program&nbsp;...",
+   "formattedUrl": "https://aux.charlotte.edu/49er-mobile-id/",
+   "htmlFormattedUrl": "https://aux.charlotte.edu/49er-<b>mobile-id</b>/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROrz8ZEUgqgl4KWBURd5iYMvkONx8GLLCH7SEbIyxnnK8FWIHihqeJ4PI&s",
+      "width": "162",
+      "height": "311"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://aux.charlotte.edu/wp-content/uploads/sites/167/2023/04/UNC_iphone.png",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Auxiliary Services",
+      "og:title": "49er Mobile ID Program - Auxiliary Services",
+      "twitter:label1": "Est. reading time",
+      "msapplication-tileimage": "https://aux.charlotte.edu/wp-content/uploads/sites/167/2022/12/cropped-All-in-C-1-270x270.png",
+      "og:description": "The 49er ID Card is available on Google Wallet, Samsung Wallet, iOS and Apple Watch. 49er Mobile ID Your 49er Mobile ID gives you access to: Campus",
+      "twitter:data1": "4 minutes",
+      "article:modified_time": "2024-12-16T15:12:08+00:00",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:locale": "en_US",
+      "og:url": "https://aux.charlotte.edu/49er-mobile-id/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://aux.charlotte.edu/wp-content/uploads/sites/167/2023/04/UNC_iphone.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Reporting Schedules | NCSBE",
+   "htmlTitle": "Reporting Schedules | NCSBE",
+   "link": "https://www.ncsbe.gov/campaign-finance/reporting-schedules",
+   "displayLink": "www.ncsbe.gov",
+   "snippet": "... Reader or other Adobe products using a certificate-based digital ID and emailed to campaign.reporting@ncsbe.gov. ... check in with reception personnel to\u00a0...",
+   "htmlSnippet": "... <b>Reader</b> or other Adobe products using a certificate-based <b>digital ID</b> and emailed to campaign.reporting@ncsbe.gov. ... <b>check</b> in with reception personnel to&nbsp;...",
+   "formattedUrl": "https://www.ncsbe.gov/campaign-finance/reporting-schedules",
+   "htmlFormattedUrl": "https://www.ncsbe.gov/campaign-finance/reporting-schedules",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYTZ_K6SoU29F_jLLPvHMIhJntYdnn0XQU6qSjAG0gjDP0Sapxa5b_kl0&s",
+      "width": "250",
+      "height": "75"
+     }
+    ],
+    "metatags": [
+     {
+      "twitter:card": "summary_large_image",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://files.nc.gov/sbe/SBE-logo%20%281%29.png?VersionId=Ct4d0VAc4I.o6t.OffmNvyjWf9FmRLXo"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "North Carolina Mobile ID Updates",
+   "htmlTitle": "<b>North Carolina Mobile ID</b> Updates",
+   "link": "https://idscan.net/state-digital-id/north-carolina-mobile-id-updates/",
+   "displayLink": "idscan.net",
+   "snippet": "Notable elements of HB199: A mobile ID is the legal equivalent to a physical ID. Other North Carolina mDL resources. What Needs to Happen for North Carolina\u00a0...",
+   "htmlSnippet": "Notable elements of HB199: A <b>mobile ID</b> is the legal equivalent to a physical ID. Other <b>North Carolina mDL</b> resources. What Needs to Happen for <b>North Carolina</b>&nbsp;...",
+   "formattedUrl": "https://idscan.net/state-digital-id/north-carolina-mobile-id-updates/",
+   "htmlFormattedUrl": "https://idscan.net/state-<b>digital-id</b>/<b>north-carolina</b>-<b>mobile-id</b>-updates/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjA5GDmsC6ZDIXARRaRNvRPiNSPEWsGXOU5SfE6M2polFLOmGDjpWoF5Y&s",
+      "width": "312",
+      "height": "161"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://idscan.net/wp-content/uploads/north-carolina-mobile-drivers-license.jpg?lm=66A7318F",
+      "og:type": "article",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "IDScan.net",
+      "og:title": "North Carolina Mobile ID Updates",
+      "og:image:height": "622",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://idscan.net/wp-content/uploads/cropped-idscan-identity-verification-software-icon-1-270x270.png",
+      "og:description": "A North Carolina mobile ID has been legalized and is expected to be live for residents starting July 1, 2025.",
+      "article:publisher": "https://www.facebook.com/idscannet",
+      "twitter:site": "@idscan_net",
+      "article:modified_time": "2025-02-28T19:59:48+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://idscan.net/state-digital-id/north-carolina-mobile-id-updates/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://idscan.net/wp-content/uploads/north-carolina-mobile-drivers-license.jpg?lm=66A7318F"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "North Carolina Aims for mDLs by Summer '25",
+   "htmlTitle": "<b>North Carolina</b> Aims for mDLs by Summer &#39;25",
+   "link": "https://mobileidworld.com/north-carolina-aims-for-mdls-by-summer-25/",
+   "displayLink": "mobileidworld.com",
+   "snippet": "Jul 10, 2024 ... ... check if their digital ID will be accepted before flying. North ... verify their identity at select airport security screenings. Source\u00a0...",
+   "htmlSnippet": "Jul 10, 2024 <b>...</b> ... <b>check</b> if their <b>digital ID</b> will be accepted before flying. <b>North</b> ... <b>verify</b> their identity at select airport security screenings. Source&nbsp;...",
+   "formattedUrl": "https://mobileidworld.com/north-carolina-aims-for-mdls-by-summer-25/",
+   "htmlFormattedUrl": "https://<b>mobileid</b>world.com/<b>north-carolina</b>-aims-for-<b>mdl</b>s-by-summer-25/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1",
+      "msapplication-tileimage": "https://mobileidworld.com/wp-content/uploads/favicon.png"
+     }
+    ],
+    "webpage": [
+     {
+      "url": "About Us"
+     }
+    ],
+    "creativework": [
+     {
+      "text": "By the summer of 2025, North Carolina residents will have the option to use digital driver\u2019s licenses. The digital IDs will be stored in a secure app on smartphones and will contain the same...",
+      "headline": "North Carolina Aims for mDLs by Summer \u201925"
+     }
+    ],
+    "wpheader": [
+     {
+      "description": "Identification Revolution",
+      "headline": "Mobile ID World"
+     }
+    ],
+    "sitenavigationelement": [
+     {
+      "name": "Our Services",
+      "url": "Our Services"
+     }
+    ],
+    "searchaction": [
+     {
+      "query-input": "name=s",
+      "target": "https://mobileidworld.com/?s={s}"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "UNC digital ID approved for voting in 2024 NC elections | Raleigh ...",
+   "htmlTitle": "UNC <b>digital ID</b> approved for voting in 2024 NC elections | Raleigh ...",
+   "link": "https://www.newsobserver.com/news/politics-government/article291217655.html",
+   "displayLink": "www.newsobserver.com",
+   "snippet": "Aug 20, 2024 ... UNC-Chapel Hill's digital ID allowed for voting in 2024, the Democratic majority on the North Carolina State Board of Elections decided.",
+   "htmlSnippet": "Aug 20, 2024 <b>...</b> UNC-Chapel Hill&#39;s <b>digital ID</b> allowed for voting in 2024, the Democratic majority on the <b>North Carolina</b> State Board of Elections decided.",
+   "formattedUrl": "https://www.newsobserver.com/news/politics.../article291217655.html",
+   "htmlFormattedUrl": "https://www.newsobserver.com/news/politics.../article291217655.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_bRvd6H7Jg7B4uQUEyAqjFOQO1KsLtMfkiUv093a7rw2OPGRGpZHnc81N&s",
+      "width": "284",
+      "height": "177"
+     }
+    ],
+    "metatags": [
+     {
+      "apple-itunes-app": "app-id=399175255, affiliate-data=at=1010lHsN&ct=SmartAppBannerRAL, app-argument=https://www.newsobserver.com/news/politics-government/article291217655.html?appNav=smartBanner",
+      "og:image": "https://www.islandpacket.com/public/latest-news/22cwlb/picture281538028/alternates/LANDSCAPE_1140/GeneralElection11072023DM03.jpg",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Raleigh News & Observer",
+      "msapplication-tileimage": "https://www.newsobserver.com/wps/build/images/newsobserver/windowsmetro-144.png",
+      "title": "UNC digital ID approved for voting in 2024 NC elections | Raleigh News & Observer",
+      "og:description": "UNC-Chapel Hill\u2019s digital ID will be allowed for voting this year.",
+      "parsely-metadata": "{\"article_id\": \"291217655\"}",
+      "mrf:tags": "name:mcc-timely-ta;name:mcc-recirculation-ta",
+      "twitter:image": "https://www.islandpacket.com/public/latest-news/22cwlb/picture281538028/alternates/LANDSCAPE_1140/GeneralElection11072023DM03.jpg",
+      "twitter:image:alt": "The North Carolina State Board of Elections on Tuesday approved the first-ever digital ID for voting in the 2024 elections.",
+      "twitter:site": "@newsobserver",
+      "news_keywords": "voter id, UNC, elections, 2024, digital id",
+      "allow-comments": "true",
+      "mrf:canonical": "https://www.newsobserver.com/news/politics-government/article291217655.html",
+      "msapplication-tilecolor": "#FFFFFF",
+      "twitter:title": "First-ever digital ID for voting approved by NC elections board, as GOP members object",
+      "og:type": "article",
+      "og:image:alt": "The North Carolina State Board of Elections on Tuesday approved the first-ever digital ID for voting in the 2024 elections.",
+      "og:title": "First-ever digital ID for voting approved by NC elections board, as GOP members object",
+      "fb:pages": "475137002499244",
+      "fb:app_id": "571418586252964",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "UNC-Chapel Hill\u2019s digital ID will be allowed for voting this year.",
+      "is-wirestory": "false",
+      "og:url": "https://www.newsobserver.com/news/politics-government/article291217655.html",
+      "article:opinion": "false"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.islandpacket.com/public/latest-news/22cwlb/picture281538028/alternates/LANDSCAPE_1140/GeneralElection11072023DM03.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

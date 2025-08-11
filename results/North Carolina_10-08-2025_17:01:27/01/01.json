@@ -1,0 +1,536 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"North Carolina\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"transfer\" -\"litigation\" -\"district\" law OR bill OR order OR \"North Carolina General Statutes\"",
+    "totalResults": "136000",
+    "searchTerms": "\"North Carolina\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"transfer\" -\"litigation\" -\"district\" law OR bill OR order OR \"North Carolina General Statutes\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"North Carolina\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"transfer\" -\"litigation\" -\"district\" law OR bill OR order OR \"North Carolina General Statutes\"",
+    "totalResults": "136000",
+    "searchTerms": "\"North Carolina\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"transfer\" -\"litigation\" -\"district\" law OR bill OR order OR \"North Carolina General Statutes\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.169203,
+  "formattedSearchTime": "0.17",
+  "totalResults": "136000",
+  "formattedTotalResults": "136,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "North Carolina appeals court blocks use of university's digital ID for ...",
+   "htmlTitle": "<b>North Carolina</b> appeals court blocks use of university&#39;s <b>digital ID</b> for ...",
+   "link": "https://abc11.com/post/north-carolina-appeals-court-blocks-use-universitys-digital-id-voting/15365478/",
+   "displayLink": "abc11.com",
+   "snippet": "Sep 27, 2024 ... ... digital ID but want the physical card for voting. The Republican-dominated North Carolina legislature enacted a voter ID law in late 2018\u00a0...",
+   "htmlSnippet": "Sep 27, 2024 <b>...</b> ... <b>digital ID</b> but want the physical card for voting. The Republican-dominated <b>North Carolina</b> legislature enacted a voter ID <b>law</b> in late 2018&nbsp;...",
+   "formattedUrl": "https://abc11.com/post/north-carolina-appeals...digital-id.../15365478/",
+   "htmlFormattedUrl": "https://abc11.com/post/<b>north-carolina</b>-appeals...<b>digital-id</b>.../15365478/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNG32cjX86Z-cKIBHg2UzvWuJr59Z8dN5MW0HGJY0mL470Y3H_fMySMPE&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "apple-itunes-app": "app-id=408441304, affiliate-data=ct=wtvd-smart-banner&pt=302756, app-argument=https://abc11.com/story/15365478",
+      "og:image": "https://cdn.abcotvs.com/dip/images/14774328_voteridtrialnoon.jpg?w=1600",
+      "twitter:app:id:googleplay": "com.abclocal.wtvd.news",
+      "twitter:card": "summary_large_image",
+      "article:published_time": "2024-09-27T23:52:00Z",
+      "og:site_name": "ABC11 Raleigh-Durham",
+      "twitter:url": "https://abc11.com/post/north-carolina-appeals-court-blocks-use-universitys-digital-id-voting/15365478/",
+      "twitter:app:name:googleplay": "wtvd",
+      "medium": "website",
+      "twitter:app:id:iphone": "408441304",
+      "title": "North Carolina appeals court blocks use of university's digital ID for voting",
+      "og:description": "North Carolina GOP spokesperson Matt Mercer said Friday's decision \"will ensure election integrity and adherence to state law.\"",
+      "twitter:creator": "@ABC11_WTVD",
+      "twitter:image": "https://cdn.abcotvs.com/dip/images/14774328_voteridtrialnoon.jpg?w=1600",
+      "twitter:site": "@ABC11_WTVD",
+      "article:modified_time": "2024-09-27T23:53:47Z",
+      "og:type": "article",
+      "twitter:title": "North Carolina appeals court blocks use of university's digital ID for voting",
+      "article:section": "politics",
+      "og:title": "North Carolina appeals court blocks use of university's digital ID for voting",
+      "fb:pages": "57780972549",
+      "tags": "voting,voter-information,unc,lawsuit,republicans,election,NC",
+      "fb:app_id": "476025212522972",
+      "viewport": "initial-scale=1.0, maximum-scale=3.0, user-scalable=yes",
+      "twitter:description": "North Carolina GOP spokesperson Matt Mercer said Friday's decision \"will ensure election integrity and adherence to state law.\"",
+      "og:locale": "en_US",
+      "og:url": "https://abc11.com/post/north-carolina-appeals-court-blocks-use-universitys-digital-id-voting/15365478/",
+      "twitter:app:name:iphone": "wtvd"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://cdn.abcotvs.com/dip/images/14774328_voteridtrialnoon.jpg?w=1600"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "North Carolina, Arkansas work toward mDL launches | Biometric ...",
+   "htmlTitle": "<b>North Carolina</b>, Arkansas work toward <b>mDL</b> launches | Biometric ...",
+   "link": "https://www.biometricupdate.com/202502/north-carolina-arkansas-work-toward-mdl-launches",
+   "displayLink": "www.biometricupdate.com",
+   "snippet": "Feb 12, 2025 ... ... bill in Arkansas and acceptance at two more international airports. ... North Carolina should contract a third party to manage its mDL system.",
+   "htmlSnippet": "Feb 12, 2025 <b>...</b> ... <b>bill</b> in Arkansas and acceptance at two more international airports. ... <b>North Carolina</b> should contract a third party to manage its <b>mDL</b> system.",
+   "formattedUrl": "https://www.biometricupdate.com/.../north-carolina-arkansas-work-toward-...",
+   "htmlFormattedUrl": "https://www.biometricupdate.com/.../<b>north-carolina</b>-arkansas-work-toward-...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEk2YsOGIL3rWBlGV7ePnpNCSdkbsTBGgqDn00WUIlTSzI-a7pPz_glRg&s",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/11/25183007/ohio-mdl.jpg",
+      "theme-color": "#ffffff",
+      "og:image:width": "1920",
+      "article:published_time": "2025-02-12T22:05:53+00:00",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Biometric Update | Biometrics News, Companies and Explainers",
+      "rating": "general",
+      "msapplication-tileimage": "/favicon/ms-icon-144x144.png",
+      "og:description": "The strategic plan for North Carolina\u2019s implementation of mobile driver\u2019s licenses (mDLs) is contained in a study published in revised form in January.",
+      "twitter:creator": "@BiometricUpdate",
+      "og:image:secure_url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/11/25183007/ohio-mdl.jpg",
+      "article:publisher": "https://www.facebook.com/BiometricUpdate",
+      "twitter:image": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/11/25183007/ohio-mdl.jpg",
+      "twitter:site": "@BiometricUpdate",
+      "article:modified_time": "2025-02-12T22:05:53+00:00",
+      "msapplication-tilecolor": "#ffffff",
+      "og:type": "article",
+      "twitter:title": "North Carolina, Arkansas work toward mDL launches | Biometric Update",
+      "msvalidate.01": "37DAF50D768AB3DDD4F101B413D98584",
+      "author": "Chris Burt",
+      "og:title": "North Carolina, Arkansas work toward mDL launches | Biometric Update",
+      "og:image:height": "1280",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "The strategic plan for North Carolina\u2019s implementation of mobile driver\u2019s licenses (mDLs) is contained in a study published in revised form in January.",
+      "og:locale": "en_US",
+      "og:url": "https://www.biometricupdate.com/202502/north-carolina-arkansas-work-toward-mdl-launches"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/11/25183007/ohio-mdl.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "North Carolina Mobile ID Updates",
+   "htmlTitle": "<b>North Carolina Mobile ID</b> Updates",
+   "link": "https://idscan.net/state-digital-id/north-carolina-mobile-id-updates/",
+   "displayLink": "idscan.net",
+   "snippet": "A mobile ID is the legal equivalent to a physical ID. Other North Carolina mDL resources. What Needs to Happen for North Carolina to Get Mobile Driver's\u00a0...",
+   "htmlSnippet": "A <b>mobile ID</b> is the legal equivalent to a physical ID. Other <b>North Carolina mDL</b> resources. What Needs to Happen for <b>North Carolina</b> to Get Mobile Driver&#39;s&nbsp;...",
+   "formattedUrl": "https://idscan.net/state-digital-id/north-carolina-mobile-id-updates/",
+   "htmlFormattedUrl": "https://idscan.net/state-<b>digital-id</b>/<b>north-carolina</b>-<b>mobile-id</b>-updates/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjA5GDmsC6ZDIXARRaRNvRPiNSPEWsGXOU5SfE6M2polFLOmGDjpWoF5Y&s",
+      "width": "312",
+      "height": "161"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://idscan.net/wp-content/uploads/north-carolina-mobile-drivers-license.jpg?lm=66A7318F",
+      "og:type": "article",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "IDScan.net",
+      "og:title": "North Carolina Mobile ID Updates",
+      "og:image:height": "622",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://idscan.net/wp-content/uploads/cropped-idscan-identity-verification-software-icon-1-270x270.png",
+      "og:description": "A North Carolina mobile ID has been legalized and is expected to be live for residents starting July 1, 2025.",
+      "article:publisher": "https://www.facebook.com/idscannet",
+      "twitter:site": "@idscan_net",
+      "article:modified_time": "2025-02-28T19:59:48+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://idscan.net/state-digital-id/north-carolina-mobile-id-updates/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://idscan.net/wp-content/uploads/north-carolina-mobile-drivers-license.jpg?lm=66A7318F"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Appeals Court blocks UNC digital ID as voter ID for 2024",
+   "htmlTitle": "Appeals Court blocks UNC <b>digital ID</b> as voter ID for 2024",
+   "link": "https://www.carolinajournal.com/appeals-court-blocks-unc-digital-id-as-voter-id-for-2024/",
+   "displayLink": "www.carolinajournal.com",
+   "snippet": "Sep 27, 2024 ... The Democratic National Committee joined the State Board of Elections in supporting the digital ID option. ... North Carolina law implicitly\u00a0...",
+   "htmlSnippet": "Sep 27, 2024 <b>...</b> The Democratic National Committee joined the State Board of Elections in supporting the <b>digital ID</b> option. ... <b>North Carolina law</b> implicitly&nbsp;...",
+   "formattedUrl": "https://www.carolinajournal.com/appeals-court-blocks-unc-digital-id-as-vot...",
+   "htmlFormattedUrl": "https://www.carolinajournal.com/appeals-court-blocks-unc-<b>digital-id</b>-as-vot...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyA-MDHQDsQCu6EO7N_Xi_gw0bYBNWXXWw5cARxNUDS1BIbF9RDmw6g4A&s",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#342944",
+      "og:image": "https://www.carolinajournal.com/wp-content/uploads/2024/09/hands-mobile-telephone-1851218_1280-768x512.jpg",
+      "msapplication-config": "//www.carolinajournal.com/wp-content/themes/carolinajournal/images/favicon/browserconfig.xml?v=1706288444",
+      "og:type": "article",
+      "og:image:width": "768",
+      "article:published_time": "2024-09-27T23:58:27+00:00",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Appeals Court blocks UNC digital ID as voter ID for 2024",
+      "theme-color": "#342944",
+      "og:site_name": "Carolina Journal -",
+      "og:title": "Appeals Court blocks UNC digital ID as voter ID for 2024",
+      "og:image:height": "512",
+      "ia:markup_url": "https://www.carolinajournal.com/appeals-court-blocks-unc-digital-id-as-voter-id-for-2024/?ia_markup=1",
+      "og:description": "The North Carolina Court of Appeals has ruled that the University of North Carolina at Chapel Hill\u2019s digital identification cannot be used as voter ID in North Carolina\u2019s election this fall. A unanimous three-judge appellate panel issued on Friday afternoon a temporary injunction and an order called a writ of supersedeas. The writ blocks a lower court order that would have allowed state election officials to count the digital UNC ID as a valid voter ID.",
+      "fb:pages": "1460967490803132",
+      "og:image:secure_url": "https://www.carolinajournal.com/wp-content/uploads/2024/09/hands-mobile-telephone-1851218_1280-768x512.jpg",
+      "twitter:image": "https://www.carolinajournal.com/wp-content/uploads/2024/09/hands-mobile-telephone-1851218_1280-768x512.jpg",
+      "article:modified_time": "2024-09-27T23:58:29+00:00",
+      "viewport": "width=device-width, initial-scale=1, user-scalable=yes",
+      "twitter:description": "The North Carolina Court of Appeals has ruled that the University of North Carolina at Chapel Hill\u2019s digital identification cannot be used as voter ID in North Carolina\u2019s election this fall. A unanimous three-judge appellate panel issued on Friday afternoon a temporary injunction and an order called a writ of supersedeas. The writ blocks a lower court order that would have allowed state election officials to count the digital UNC ID as a valid voter ID.",
+      "og:locale": "en_US",
+      "og:url": "https://www.carolinajournal.com/appeals-court-blocks-unc-digital-id-as-voter-id-for-2024/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.carolinajournal.com/wp-content/uploads/2024/09/hands-mobile-telephone-1851218_1280-768x512.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "North Carolina to Launch Digital Driver's Licenses by Mid-2025 - ID ...",
+   "htmlTitle": "<b>North Carolina</b> to Launch Digital Driver&#39;s Licenses by Mid-2025 - ID ...",
+   "link": "https://idtechwire.com/north-carolina-to-launch-digital-drivers-licenses-by-mid-2025/",
+   "displayLink": "idtechwire.com",
+   "snippet": "Jan 2, 2025 ... Many states have partnered with established digital ID providers like IDEMIA and Thales to implement their mDL programs. The transition to\u00a0...",
+   "htmlSnippet": "Jan 2, 2025 <b>...</b> Many states have partnered with established <b>digital ID</b> providers like IDEMIA and Thales to implement their <b>mDL</b> programs. The transition to&nbsp;...",
+   "formattedUrl": "https://idtechwire.com/north-carolina-to-launch-digital-drivers-licenses-by-...",
+   "htmlFormattedUrl": "https://idtechwire.com/<b>north-carolina</b>-to-launch-<b>digital-drivers-license</b>s-by-...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTquVxQpIL-RWXcw5hpj-XLJK9RvT35LAfTwEE21U4hNB0KBPzhJekhGQ&s",
+      "width": "259",
+      "height": "195"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://idtechwire.com/wp-content/uploads/QR-code-UR-code-identity.jpg",
+      "og:type": "article",
+      "article:published_time": "2025-01-02T17:15:56+00:00",
+      "og:image:width": "1232",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "ID Tech",
+      "author": "ID Tech Editorial Team",
+      "og:title": "North Carolina to Launch Digital Driver\u2019s Licenses by Mid-2025 - ID Tech",
+      "og:image:height": "928",
+      "twitter:label1": "Written by",
+      "twitter:label2": "Est. reading time",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://idtechwire.com/wp-content/uploads/cropped-BasicLogo-270x270.png",
+      "og:description": "North Carolina is set to modernize its driver\u2019s license system with the introduction of digital versions by mid-2025, joining a growing number of U.S. states embracing mobile driver\u2019s license (mDL) [\u2026]",
+      "article:publisher": "https://www.linkedin.com/company/id-tech-wire/",
+      "twitter:data1": "ID Tech Editorial Team",
+      "twitter:data2": "2 minutes",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://idtechwire.com/north-carolina-to-launch-digital-drivers-licenses-by-mid-2025/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://idtechwire.com/wp-content/uploads/QR-code-UR-code-identity.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Digital Driver's License: Any Update? : r/NorthCarolina",
+   "htmlTitle": "<b>Digital Driver&#39;s License</b>: Any Update? : r/NorthCarolina",
+   "link": "https://www.reddit.com/r/NorthCarolina/comments/1lzspw0/digital_drivers_license_any_update/",
+   "displayLink": "www.reddit.com",
+   "snippet": "Jul 14, 2025 ... Digital Driver's License: Any Update? Is there an update on when ... north-carolina-dmv-idscan/83-91eafdb8-b441-4d84-a87f-69d6b431340d.",
+   "htmlSnippet": "Jul 14, 2025 <b>...</b> <b>Digital Driver&#39;s License</b>: Any Update? Is there an update on when ... <b>north-carolina</b>-dmv-idscan/83-91eafdb8-b441-4d84-a87f-69d6b431340d.",
+   "formattedUrl": "https://www.reddit.com/.../NorthCarolina/.../digital_drivers_license_any_up...",
+   "htmlFormattedUrl": "https://www.reddit.com/.../<b>NorthCarolina</b>/.../<b>digital_drivers_license</b>_any_up...",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:image": "https://share.redd.it/preview/post/1lzspw0",
+      "theme-color": "#000000",
+      "og:image:width": "1200",
+      "og:type": "website",
+      "og:image:alt": "An image containing a preview of the post",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "r/NorthCarolina on Reddit: Digital Driver's License: Any Update?",
+      "og:site_name": "Reddit",
+      "og:title": "r/NorthCarolina on Reddit: Digital Driver's License: Any Update?",
+      "og:image:height": "630",
+      "msapplication-navbutton-color": "#000000",
+      "og:description": "Posted by u/waynomo - 6 votes and 36 comments",
+      "twitter:image": "https://share.redd.it/preview/post/1lzspw0",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "twitter:site": "@reddit",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "apple-mobile-web-app-capable": "yes",
+      "og:ttl": "600",
+      "og:url": "https://www.reddit.com/r/NorthCarolina/comments/1lzspw0/digital_drivers_license_any_update/?seeker-session=true"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ID Card\u200b | Blue Cross Blue Shield of North Carolina",
+   "htmlTitle": "ID Card\u200b | Blue Cross Blue Shield of <b>North Carolina</b>",
+   "link": "https://member.myhealthtoolkitnc.com/web/public/brands/nc/manage-your-plan/using-your-plan/id-card/",
+   "displayLink": "member.myhealthtoolkitnc.com",
+   "snippet": "Your digital ID card is just as good as one you might order through the mail ... Blue Cross and Blue Shield of North Carolina is an independent licensee of the\u00a0...",
+   "htmlSnippet": "Your <b>digital ID</b> card is just as good as one you might <b>order</b> through the mail ... Blue Cross and Blue Shield of <b>North Carolina</b> is an independent licensee of the&nbsp;...",
+   "formattedUrl": "https://member.myhealthtoolkitnc.com/web/public/brands/nc/.../id-card/",
+   "htmlFormattedUrl": "https://member.myhealthtoolkitnc.com/web/public/brands/nc/.../id-card/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkYfrKuvGX6XFtdaIv9IynRGytu55a8AeXTOC_R9dQ-ETiF34wmSkkC3Si&s",
+      "width": "180",
+      "height": "180"
+     }
+    ],
+    "metatags": [
+     {
+      "smartbanner:button-url-apple": "https://itunes.apple.com/us/app/my-health-toolkit/id1318516799?mt=8",
+      "smartbanner:price": "FREE",
+      "smartbanner:price-suffix-google": "- In Google Play",
+      "smartbanner:button": "VIEW",
+      "smartbanner:button-url-google": "https://play.google.com/store/apps/details?id=com.bcbssc.myhealthtoolkit.mobile&hl=en",
+      "smartbanner:price-suffix-apple": "- On the App Store",
+      "branding": "nc",
+      "cobranding": "nc",
+      "smartbanner:enabled-platforms": "android,ios",
+      "smartbanner:title": "My Health Toolkit\u00ae",
+      "smartbanner:icon-google": "/web/public/resources/34beaf53-5d91-4bf1-8823-d05293b32539/mhtk-mobile-app-icon.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_J8HC1841O8UG50QSGO8C690083-34beaf53-5d91-4bf1-8823-d05293b32539-mQWo9yX",
+      "smartbanner:author": "My Health Toolkit, LLC",
+      "smartbanner:icon-apple": "/web/public/resources/34beaf53-5d91-4bf1-8823-d05293b32539/mhtk-mobile-app-icon.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_J8HC1841O8UG50QSGO8C690083-34beaf53-5d91-4bf1-8823-d05293b32539-mQWo9yX",
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://member.myhealthtoolkitnc.com/web/public/resources/34beaf53-5d91-4bf1-8823-d05293b32539/mhtk-mobile-app-icon.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_J8HC1841O8UG50QSGO8C690083-34beaf53-5d91-4bf1-8823-d05293b32539-mQWo9yX"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "North Carolina Appeals Court Blocks Use of University's Digital ID ...",
+   "htmlTitle": "<b>North Carolina</b> Appeals Court Blocks Use of University&#39;s <b>Digital ID</b> ...",
+   "link": "https://chapelboro.com/local-election-coverage/north-carolina-appeals-court-blocks-use-of-universitys-digital-id-for-voting",
+   "displayLink": "chapelboro.com",
+   "snippet": "Sep 29, 2024 ... North Carolina Appeals Court Blocks Use of University's Digital ID for Voting ... A North Carolina appeals court on Friday blocked students and\u00a0...",
+   "htmlSnippet": "Sep 29, 2024 <b>...</b> <b>North Carolina</b> Appeals Court Blocks Use of University&#39;s <b>Digital ID</b> for Voting ... A <b>North Carolina</b> appeals court on Friday blocked students and&nbsp;...",
+   "formattedUrl": "https://chapelboro.com/.../north-carolina-appeals-court-blocks-use-of-unive...",
+   "htmlFormattedUrl": "https://chapelboro.com/.../<b>north-carolina</b>-appeals-court-blocks-use-of-unive...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6vrwNRaRVB0sGwxTdxKY8HYDsY-Tt7GXCwjTbT3gxxsKSFfLed3CLkCpZ&s",
+      "width": "258",
+      "height": "196"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://chapelboromedia.s3.amazonaws.com/wp-content/uploads/2024/09/19133134/unc-physical-one-card-example-ramses-e1726767326333.jpg",
+      "og:type": "article",
+      "article:published_time": "2024-09-29T08:59:33+00:00",
+      "og:image:width": "862",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Chapelboro.com",
+      "author": "Associated Press",
+      "og:title": "North Carolina Appeals Court Blocks Use of University's Digital ID for Voting - Chapelboro.com",
+      "og:image:height": "655",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://chapelboromedia.s3.amazonaws.com/wp-content/uploads/2024/07/24101954/cropped-download-1-270x270.png",
+      "og:description": "A North Carolina appeals court on Friday blocked UNC students and employees from providing a digital One Card when voting.",
+      "twitter:creator": "@WCHLChapelboro",
+      "article:publisher": "https://www.facebook.com/chapelboro",
+      "twitter:site": "@WCHLChapelboro",
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=1",
+      "og:locale": "en_US",
+      "og:url": "https://chapelboro.com/local-election-coverage/north-carolina-appeals-court-blocks-use-of-universitys-digital-id-for-voting"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://chapelboromedia.s3.amazonaws.com/wp-content/uploads/2024/09/19133134/unc-physical-one-card-example-ramses-e1726767326333.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "UNC Charlotte Commencement",
+   "htmlTitle": "UNC Charlotte Commencement",
+   "link": "https://commencement.charlotte.edu/",
+   "displayLink": "commencement.charlotte.edu",
+   "snippet": "Visit the University of North Carolina at Charlotte homepage ... Graduating students are required to have a UNC Charlotte student ID card or mobile ID in order to\u00a0...",
+   "htmlSnippet": "Visit the University of <b>North Carolina</b> at Charlotte homepage ... Graduating students are required to have a UNC Charlotte student ID card or <b>mobile ID</b> in <b>order</b> to&nbsp;...",
+   "formattedUrl": "https://commencement.charlotte.edu/",
+   "htmlFormattedUrl": "https://commencement.charlotte.edu/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGPqCM3THlP1z2bo1bqRwRTwYaVMhd0O5D_Qi9V-pYhOf7sa9tmNfbNcI&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Commencement",
+      "article:modified_time": "2025-08-08T12:10:44+00:00",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Commencement - Commencement",
+      "og:locale": "en_US",
+      "og:url": "https://commencement.charlotte.edu/",
+      "msapplication-tileimage": "https://commencement.charlotte.edu/wp-content/uploads/sites/795/2022/12/cropped-All-in-C-1-270x270.png",
+      "og:description": "Commencement is one of our most cherished traditions, one that marks a major milestone for you, your family and the faculty and staff who have supported your journey at Charlotte. The University will hold one ceremony for our summer graduates to include all colleges and the Graduate School. The ceremony will take place on Saturday, [\u2026]"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://commencement.charlotte.edu/wp-content/uploads/sites/795/2024/06/2024_Commencement-Emblem_Evergreen-Primary-1-300x300.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "North Carolina Assembly advances digital driver's license",
+   "htmlTitle": "<b>North Carolina</b> Assembly advances <b>digital driver&#39;s license</b>",
+   "link": "https://enlacelatinonc.org/en/driver%27s-license-or-digital-id-in-north-carolina/",
+   "displayLink": "enlacelatinonc.org",
+   "snippet": "Jun 10, 2024 ... North Carolina Legislature advances driver's license and digital ID \u00b7 Which states authorize a digital driver's license in 2024 \u00b7 What other\u00a0...",
+   "htmlSnippet": "Jun 10, 2024 <b>...</b> <b>North Carolina</b> Legislature advances driver&#39;s license and <b>digital ID</b> &middot; Which states authorize a <b>digital driver&#39;s license</b> in 2024 &middot; What other&nbsp;...",
+   "formattedUrl": "https://enlacelatinonc.org/.../driver%27s-license-or-digital-id-in-north-caroli...",
+   "htmlFormattedUrl": "https://enlacelatinonc.org/.../driver%27s-license-or-<b>digital-id</b>-in-<b>north-caroli</b>...",
+   "pagemap": {
+    "hcard": [
+     {
+      "url_text": "Walter Gomez",
+      "fn": "Walter Gomez",
+      "url": "https://enlacelatinonc.org/en/author/walter-enc/"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVL7PnEk-G1gW2r_mHkJDh4eaMi1hIBZTHABJ5i2M9OtVD94Bl3sovLJo&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://i0.wp.com/enlacelatinonc.org/wp-content/uploads/2024/06/Driver-Licence.jpg?fit=1200%2C674&ssl=1",
+      "article:published_time": "2024-06-10T20:00:56+00:00",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "theme-color": "#fff",
+      "og:site_name": "Enlace Latino NC",
+      "apple-mobile-web-app-title": "Enlace Latino NC",
+      "twitter:label1": "Written by",
+      "twitter:label2": "Reading time",
+      "og:image:type": "image/jpeg",
+      "twitter:label3": "Written by",
+      "twitter:data3": "Walter G\u00f3mez",
+      "msapplication-tileimage": "https://i0.wp.com/enlacelatinonc.org/wp-content/uploads/2019/01/cropped-ICO.png?fit=270%2C270&ssl=1",
+      "og:description": "News in Spanish about politics, immigration and community issues for Latinos in North Carolina.",
+      "twitter:creator": "@EnlaceLatinoNC",
+      "article:publisher": "https://www.facebook.com/EnlaceLatinoNC/",
+      "twitter:data1": "Walter Gomez",
+      "twitter:data2": "2 minutes",
+      "twitter:site": "@EnlaceLatinoNC",
+      "article:modified_time": "2024-08-17T03:05:09+00:00",
+      "uri-translation": "on",
+      "application-name": "Enlace Latino NC",
+      "og:type": "article",
+      "author": "Walter G\u00f3mez",
+      "og:title": "North Carolina Legislature advances driver's license and digital ID",
+      "og:image:height": "674",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "onesignal": "wordpress-plugin",
+      "og:locale": "es_ES",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://enlacelatinonc.org/en/driver%27s-license-or-digital-id-in-north-carolina/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://i0.wp.com/enlacelatinonc.org/wp-content/uploads/2024/06/Driver-Licence.jpg?fit=1200%2C674&ssl=1"
+     }
+    ]
+   }
+  }
+ ]
+}

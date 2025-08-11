@@ -1,0 +1,372 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Montana Code Annotated\" \"driver's license\" OR \"identification card\" \"scanning\" OR \"swiping\" around 10 \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "totalResults": "43",
+    "searchTerms": "\"Montana Code Annotated\" \"driver's license\" OR \"identification card\" \"scanning\" OR \"swiping\" around 10 \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Montana Code Annotated\" \"driver's license\" OR \"identification card\" \"scanning\" OR \"swiping\" around 10 \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "totalResults": "43",
+    "searchTerms": "\"Montana Code Annotated\" \"driver's license\" OR \"identification card\" \"scanning\" OR \"swiping\" around 10 \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.134721,
+  "formattedSearchTime": "0.13",
+  "totalResults": "43",
+  "formattedTotalResults": "43"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "44-15-103. Definitions, MCA",
+   "htmlTitle": "44-15-103. Definitions, MCA",
+   "link": "https://archive.legmt.gov/bills/mca/title_0440/chapter_0150/part_0010/section_0030/0440-0150-0010-0030.html",
+   "displayLink": "archive.legmt.gov",
+   "snippet": "Montana Code Annotated 2023 ... (5) \"Digital driver's license\" means a secure version of an individual's physical driver's license or identification card that is\u00a0...",
+   "htmlSnippet": "<b>Montana Code Annotated</b> 2023 ... (5) &quot;Digital <b>driver&#39;s license</b>&quot; means a secure version of an individual&#39;s physical <b>driver&#39;s license</b> or <b>identification card</b> that is&nbsp;...",
+   "formattedUrl": "https://archive.legmt.gov/bills/mca/title.../0440-0150-0010-0030.html",
+   "htmlFormattedUrl": "https://archive.legmt.gov/bills/mca/title.../0440-0150-0010-0030.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Montana Driver Manual",
+   "htmlTitle": "Montana Driver Manual",
+   "link": "https://mvdmt.gov/wp-content/uploads/2023/09/25-0100M-Montana-Driver-Manual-English.pdf",
+   "displayLink": "mvdmt.gov",
+   "snippet": "Courts go by the actual language of the Montana Code Annotated, not this text. ... identification card at no charge. If you give up your license during the\u00a0...",
+   "htmlSnippet": "Courts go by the actual language of the <b>Montana Code Annotated</b>, not this text. ... <b>identification card at</b> no charge. If you give up your license during the&nbsp;...",
+   "formattedUrl": "https://mvdmt.gov/wp.../25-0100M-Montana-Driver-Manual-English.pdf",
+   "htmlFormattedUrl": "https://mvdmt.gov/wp.../25-0100M-Montana-Driver-Manual-English.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyCmVcWNhj9pp7ISiWIIKFqToGb4ELdiaiMMCM12OFLvr2x3ZEfFxifPOH&s",
+      "width": "215",
+      "height": "234"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20240403172825-06'00'",
+      "creationdate": "D:20240403084227-06'00'",
+      "creator": "Acrobat PDFMaker 24 for Word",
+      "lastsaved": "D:20240311",
+      "sourcemodified": "D:20231107234034",
+      "author": "Doyle, Ashley",
+      "created": "D:20231106",
+      "producer": "Adobe PDF Library 24.1.149",
+      "contenttypeid": "0x01010023686D10023E9C48B6A79715A2EC3337"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///4d2f313bbdcf2af109b988fc9a383812ebb1f4c27a9102f53333a7c385152f7d"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2019 Laws of Montana Volume 2",
+   "htmlTitle": "2019 Laws of Montana Volume 2",
+   "link": "https://archive.legmt.gov/content/Publications/sales/2019SessionLaws_VOL2.pdf",
+   "displayLink": "archive.legmt.gov",
+   "snippet": "... retain a commodity dealer's license, a commodity dealer shall have and ... driver's license status and history stored as part of the commercial.",
+   "htmlSnippet": "... <b>retain</b> a commodity dealer&#39;s license, a commodity dealer shall have and ... <b>driver&#39;s license</b> status and history stored as part of the commercial.",
+   "formattedUrl": "https://archive.legmt.gov/content/Publications/.../2019SessionLaws_VOL2....",
+   "htmlFormattedUrl": "https://archive.legmt.gov/content/Publications/.../2019SessionLaws_VOL2....",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20190808110933-06'00'",
+      "creationdate": "D:20190709081753-06'00'",
+      "creator": "Adobe InDesign 14.0 (Windows)",
+      "author": "Montana Legislative Services Division",
+      "subject": "2019 Laws of Montana Volume 2",
+      "producer": "Adobe PDF Library 15.0",
+      "title": "2019 Laws of Montana Volume 2"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Montana-Driver-Manual.pdf",
+   "htmlTitle": "Montana-Driver-Manual.pdf",
+   "link": "https://opi.mt.gov/Portals/182/Page%20Files/Driver%20Education/Curriculum/Resources%20and%20Extras/Montana-Driver-Manual.pdf?ver=2021-06-16-084448-473",
+   "displayLink": "opi.mt.gov",
+   "snippet": "Jun 16, 2021 ... Courts go by the actual language of the Montana Code Annotated, not this text. ... Scanning\u00a0...",
+   "htmlSnippet": "Jun 16, 2021 <b>...</b> Courts go by the actual language of the <b>Montana Code Annotated</b>, not this text. ... <b>Scanning</b>&nbsp;...",
+   "formattedUrl": "https://opi.mt.gov/Portals/182/.../Montana-Driver-Manual.pdf?ver...06...",
+   "htmlFormattedUrl": "https://opi.mt.gov/Portals/182/.../Montana-Driver-Manual.pdf?ver...06...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjeDAokhU_s8-hWrZcZcJituPuU6QHcZQ-ywDGtTN02njn57q3202ibOCs&s",
+      "width": "215",
+      "height": "234"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20210611102500-06'00'",
+      "creationdate": "D:20210328152202-06'00'",
+      "creator": "Acrobat PDFMaker 18 for Word",
+      "author": "Doyle, Ashley",
+      "producer": "Adobe PDF Library 15.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///157b45249aa4103ffe2fd86ef837c8d7acddd9a044dbc29a97097ff0f24e39b0"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "RULES OF PRACTICE, FORMS and ORDERS MONTANA FOURTH ...",
+   "htmlTitle": "RULES OF PRACTICE, FORMS and ORDERS MONTANA FOURTH ...",
+   "link": "https://courts.mt.gov/external/dcourt/dc_rules/4th.pdf",
+   "displayLink": "courts.mt.gov",
+   "snippet": "The District Court Judges of the Fourth Judicial District jointly issue this Standing. Order pursuant to Montana Code Annotated \u00a7 3-5-124(1). 1. Appointment.",
+   "htmlSnippet": "The District Court Judges of the Fourth Judicial District jointly issue this Standing. Order pursuant to <b>Montana Code Annotated</b> \u00a7 3-5-124(1). 1. Appointment.",
+   "formattedUrl": "https://courts.mt.gov/external/dcourt/dc_rules/4th.pdf",
+   "htmlFormattedUrl": "https://courts.mt.gov/external/dcourt/dc_rules/4th.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20200331093825-06'00'",
+      "creator": "Microsoft\u00ae Word for Office 365",
+      "creationdate": "D:20200331093825-06'00'",
+      "author": "Johnson, Brenda",
+      "producer": "Microsoft\u00ae Word for Office 365"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "HUMAN RESOURCES POLICY MANUAL MAY 2025",
+   "htmlTitle": "HUMAN RESOURCES POLICY MANUAL MAY 2025",
+   "link": "https://www.billingsmt.gov/DocumentCenter/View/53701/COMPLETE-COB-EMPLOYEE-HANDBOOK-EFF-512025",
+   "displayLink": "www.billingsmt.gov",
+   "snippet": "May 1, 2025 ... ... retain full control of the animal at all times. If the service animal ... Title 45 Chapter 10 Montana Code Annotated (MCA). Controlled\u00a0...",
+   "htmlSnippet": "May 1, 2025 <b>...</b> ... <b>retain</b> full control of the animal <b>at</b> all times. If the service animal ... Title 45 Chapter <b>10 Montana Code Annotated</b> (MCA). Controlled&nbsp;...",
+   "formattedUrl": "https://www.billingsmt.gov/.../COMPLETE-COB-EMPLOYEE-HANDBOO...",
+   "htmlFormattedUrl": "https://www.billingsmt.gov/.../COMPLETE-COB-EMPLOYEE-HANDBOO...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLmBVjtofBIgKBtxrDZbbc879SY2ahu8DXeDAOelBrAEtq1_MVlnhkiZZs&s",
+      "width": "369",
+      "height": "136"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20250507065857-06'00'",
+      "creationdate": "D:20250502105919-06'00'",
+      "creator": "Acrobat PDFMaker 20 for Word",
+      "author": "Shirek, Deanna",
+      "producer": "Adobe PDF Library 20.5.43"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///8560aa212dfa2f3b8a3939780ec6b659f7fd6185db952273de9f305babf678da"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Investigating Sexual Assault",
+   "htmlTitle": "Investigating Sexual Assault",
+   "link": "https://dojmt.gov/wp-content/uploads/Investigating-Sexual-Assault-Field-Guide.pdf",
+   "displayLink": "dojmt.gov",
+   "snippet": "Montana Code Annotated ... If lost or stolen, most devices are designed with reset commands that can be sent through various means to delete the contents of the\u00a0...",
+   "htmlSnippet": "<b>Montana Code Annotated</b> ... If lost or stolen, most devices are designed with reset commands that can be sent through various means to <b>delete</b> the contents of the&nbsp;...",
+   "formattedUrl": "https://dojmt.gov/wp-content/.../Investigating-Sexual-Assault-Field-Guide.p...",
+   "htmlFormattedUrl": "https://dojmt.gov/wp-content/.../Investigating-Sexual-Assault-Field-Guide.p...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJtL5fRdeZIpyWx1qlnmDSuvWvrWS8bAb5K4HiTN4qvuGaCeMG8W0-Ic0&s",
+      "width": "276",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20200831095912-06'00'",
+      "creationdate": "D:20200302104514-07'00'",
+      "creator": "Adobe InDesign 15.0 (Windows)",
+      "producer": "Adobe PDF Library 15.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///0f7eed4b09172ec61e5780f102202b318fa7de2b40a95ceb1ed393c633e3fbab"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Election Administration and Voting Survey (EAVS) 2022 ...",
+   "htmlTitle": "Election Administration and Voting Survey (EAVS) 2022 ...",
+   "link": "https://www.eac.gov/sites/default/files/2023-06/2022_EAVS_Report_508c.pdf",
+   "displayLink": "www.eac.gov",
+   "snippet": "... deletion was used at the state level in calculating the national turnout ... scanning system.62. 61 Open-ended comments on poll worker recruitment\u00a0...",
+   "htmlSnippet": "... <b>deletion</b> was used <b>at</b> the state level in calculating the national turnout ... <b>scanning</b> system.62. 61 Open-ended comments on poll worker recruitment&nbsp;...",
+   "formattedUrl": "https://www.eac.gov/sites/default/files/2023.../2022_EAVS_Report_508c.p...",
+   "htmlFormattedUrl": "https://www.eac.gov/sites/default/files/2023.../2022_EAVS_Report_508c.p...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrQVZMu-gUwlzdH7a9xtgeUxiDf3msJS0H86L5wn-u-dAlJ8_5V5P1YzE&s",
+      "width": "229",
+      "height": "220"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20230623155004-04'00'",
+      "creationdate": "D:20230609125645-04'00'",
+      "creator": "Acrobat Pro 23.1.20177",
+      "author": "U.S. Election Assistance Commission",
+      "producer": "Adobe Acrobat Pro DC (64-bit) 22 Paper Capture Plug-in",
+      "title": "Election Administration and Voting Survey (EAVS) 2022 Comprehensive Report"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///21668ea028ffc9c377015ab18360b05c64252cf7bd1001278f033d9624a48cd4"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Montana Department of Corrections Policies Manual",
+   "htmlTitle": "Montana Department of Corrections Policies Manual",
+   "link": "https://cor.mt.gov/DataStatsContractsPoliciesProcedures/DataDocumentsandLinks/DOC-Policies-Manual.pdf",
+   "displayLink": "cor.mt.gov",
+   "snippet": "May 21, 2024 ... ... retain private counsel after the chief has complied with the ... driver's license number, state issued ID number pursuant to 61-12-501\u00a0...",
+   "htmlSnippet": "May 21, 2024 <b>...</b> ... <b>retain</b> private counsel after the chief has complied with the ... <b>driver&#39;s license</b> number, state issued ID number pursuant to 61-12-501&nbsp;...",
+   "formattedUrl": "https://cor.mt.gov/.../DataDocumentsandLinks/DOC-Policies-Manual.pdf",
+   "htmlFormattedUrl": "https://cor.mt.gov/.../DataDocumentsandLinks/DOC-Policies-Manual.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzS9ld3ZHUOhNQXMSPANl_SqZlsiR-8hpaHwJzJHE4VQHwlue5Hl8-0gSe&s",
+      "width": "224",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20250805084425-06'00'",
+      "creationdate": "D:20241119145633-07'00'",
+      "creator": "Adobe Acrobat Pro (64-bit) 24.4.20272",
+      "author": "Montana Department of Corrections Policy and Procedure Department",
+      "subject": "Policies of the Montana Department of Corrections (Compiled)",
+      "producer": "Adobe Acrobat Pro (64-bit) 24.4.20272",
+      "title": "Montana Department of Corrections Policies"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///9d44a72daba9d7f5958e86e93a5c8d0c142a15de07c0d5373c3196f3863aadbd"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "LOCAL BANKRUPTCY RULES FOR THE UNITED STATES ...",
+   "htmlTitle": "LOCAL BANKRUPTCY RULES FOR THE UNITED STATES ...",
+   "link": "https://www.mtb.uscourts.gov/sites/mtb/files/LocalBankruptcyRules_12312022.pdf",
+   "displayLink": "www.mtb.uscourts.gov",
+   "snippet": "Dec 31, 2022 ... retain attorneys to file proofs of claim, reaffirmation agreements ... (1) uses the standard form of Attorney Retention Agreement set forth in\u00a0...",
+   "htmlSnippet": "Dec 31, 2022 <b>...</b> <b>retain</b> attorneys to file proofs of claim, reaffirmation agreements ... (1) uses the standard form of Attorney <b>Retention</b> Agreement set forth in&nbsp;...",
+   "formattedUrl": "https://www.mtb.uscourts.gov/sites/.../LocalBankruptcyRules_12312022.pd...",
+   "htmlFormattedUrl": "https://www.mtb.uscourts.gov/sites/.../LocalBankruptcyRules_12312022.pd...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnhYDf60LWjQAhQcnCk72FNhl7V_777jNoCa1ikPTGE_4nc_6tGDs5Ai4&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20221216152136-07'00'",
+      "creationdate": "D:20221216143132-07'00'",
+      "creator": "Acrobat PDFMaker 22 for Word",
+      "sourcemodified": "D:20221216191932",
+      "producer": "Adobe PDF Library 22.3.58"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///ffed7ae9e30deb5cc2a45a432e8f17debf8d3a19a208291d916a788e0b336b51"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

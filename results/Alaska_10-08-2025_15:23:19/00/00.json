@@ -1,0 +1,558 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Alaska\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\"",
+    "totalResults": "4210000",
+    "searchTerms": "\"Alaska\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Alaska\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\"",
+    "totalResults": "4210000",
+    "searchTerms": "\"Alaska\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.208405,
+  "formattedSearchTime": "0.21",
+  "totalResults": "4210000",
+  "formattedTotalResults": "4,210,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "mID, Division of Motor Vehicles, State of Alaska",
+   "htmlTitle": "mID, Division of Motor Vehicles, State of <b>Alaska</b>",
+   "link": "https://dmv.alaska.gov/mid/",
+   "displayLink": "dmv.alaska.gov",
+   "snippet": "Mobile Identification (mID). Alaska Mobile ID ... I'm getting: 'This device does not meet the hardware requirements necessary for the Alaska Mobile ID App' error\u00a0...",
+   "htmlSnippet": "Mobile Identification (mID). <b>Alaska Mobile ID</b> ... I&#39;m getting: &#39;This device does not meet the hardware requirements necessary for the <b>Alaska Mobile ID</b> App&#39; error&nbsp;...",
+   "formattedUrl": "https://dmv.alaska.gov/mid/",
+   "htmlFormattedUrl": "https://dmv.<b>alaska</b>.gov/mid/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi4gxP_8fdm-Hkq-yWdUpN3cWlZZ922X_F29ist7y6tJl7wpd4wLW4dn4&s",
+      "width": "217",
+      "height": "232"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.alaska.gov/media/trrnudi0/ak-mobile-id-counter-poster_le_upscale_balanced_x4_tone_enhance_30a.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Alaska Mobile ID on the App Store",
+   "htmlTitle": "<b>Alaska Mobile ID</b> on the App Store",
+   "link": "https://apps.apple.com/us/app/alaska-mobile-id/id6742159339",
+   "displayLink": "apps.apple.com",
+   "snippet": "Alaska Mobile ID by Thales is an official app-based version of your Alaska driver license or ID card, and a secure, convenient and contactless way to digitally\u00a0...",
+   "htmlSnippet": "<b>Alaska Mobile ID</b> by Thales is an official app-based version of your Alaska driver license or ID card, and a secure, convenient and contactless way to digitally&nbsp;...",
+   "formattedUrl": "https://apps.apple.com/us/app/alaska-mobile-id/id6742159339",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/<b>alaska</b>-<b>mobile-id</b>/id6742159339",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtgt5FzQHUUsgQAoGcX754-seOpI05RmmIA7UoKLU2XnD2q1eyq3URD9I&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/08/9f/22089fca-e86b-a9d6-3e6f-5b5d54cc6e0b/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eThis app is for Alaska residents to obtain and use their Alaska Mobile ID. As with your physical driver license, please confirm anyone requesting to verify your Alaska Mobile ID before providing your consent.\nAlaska Mobile ID by Thales is an official app-based version of your Alaska driver license o\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/08/9f/22089fca-e86b-a9d6-3e6f-5b5d54cc6e0b/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/08/9f/22089fca-e86b-a9d6-3e6f-5b5d54cc6e0b/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222530.1.0%2Bdd954829%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "Alaska Mobile ID on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "Alaska Mobile ID on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eAlaska Mobile ID",
+      "og:title": "\u200eAlaska Mobile ID",
+      "og:image:height": "630",
+      "version": "2530.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eThis app is for Alaska residents to obtain and use their Alaska Mobile ID. As with your physical driver license, please confirm anyone requesting to verify your Alaska Mobile ID before providing your consent.\nAlaska Mobile ID by Thales is an official app-based version of your Alaska driver license o\u2026",
+      "og:locale": "en_US",
+      "apple:content_id": "6742159339",
+      "og:url": "https://apps.apple.com/us/app/alaska-mobile-id/id6742159339"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/08/9f/22089fca-e86b-a9d6-3e6f-5b5d54cc6e0b/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Alaska Mobile ID - Apps on Google Play",
+   "htmlTitle": "<b>Alaska Mobile ID</b> - Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis.idv.ak.holder.prd&hl=en_US",
+   "displayLink": "play.google.com",
+   "snippet": "Feb 25, 2025 ... This app is for Alaska residents to obtain and use their Alaska Mobile ID. As with your physical driver license, please confirm anyone\u00a0...",
+   "htmlSnippet": "Feb 25, 2025 <b>...</b> This app is for Alaska residents to obtain and use their <b>Alaska Mobile ID</b>. As with your physical driver license, please confirm anyone&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis.idv.ak.holder.prd&rdid=com.thalesgroup.dis.idv.ak.holder.prd&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgOPSZkhLZRUztCe5pGb--3Mu8VQEpGJELqU8qCsu5syW6UJfFM3LS564&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/zTketRJeFwqpEn0gY9O_-wjaOE9pSHEAD0rP5V8Hxl1t7N5k-ng43AJ3upcOt6g7jC6Q",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Alaska Mobile ID - Apps on Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis.idv.ak.holder.prd&hl=en_US",
+      "appstore:developer_url": "about:invalid#navigation",
+      "og:title": "Alaska Mobile ID - Apps on Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/zTketRJeFwqpEn0gY9O_-wjaOE9pSHEAD0rP5V8Hxl1t7N5k-ng43AJ3upcOt6g7jC6Q=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.thalesgroup.dis.idv.ak.holder.prd",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.thalesgroup.dis.idv.ak.holder.prd",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "This app is for Alaska residents to obtain and use their Alaska Mobile ID.",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis.idv.ak.holder.prd&hl=en_US"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/zTketRJeFwqpEn0gY9O_-wjaOE9pSHEAD0rP5V8Hxl1t7N5k-ng43AJ3upcOt6g7jC6Q"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "A seamless security solution \u2013 coming to an Alaska Airlines hub ...",
+   "htmlTitle": "A seamless security solution \u2013 coming to an <b>Alaska</b> Airlines hub ...",
+   "link": "https://news.alaskaair.com/alaska-airlines/a-seamless-security-solution-coming-to-an-alaska-airlines-hub-near-you/",
+   "displayLink": "news.alaskaair.com",
+   "snippet": "Jun 20, 2025 ... Touchless ID users still need to have REAL ID compliant identification on hand, in case a digital ID cannot be verified at the TSA security\u00a0...",
+   "htmlSnippet": "Jun 20, 2025 <b>...</b> Touchless ID users still need to have REAL ID compliant identification on hand, in case a <b>digital ID</b> cannot be verified at the TSA security&nbsp;...",
+   "formattedUrl": "https://news.alaskaair.com/alaska.../a-seamless-security-solution-coming-to-...",
+   "htmlFormattedUrl": "https://news.<b>alaska</b>air.com/<b>alaska</b>.../a-seamless-security-solution-coming-to-...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcWG2dxQtZ-ketCsNr3Yrc6mA2kKSIg_sADPIE04-8VXX7HO5kzMNlFbLn&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://news.alaskaair.com/wp-content/uploads/2025/06/Feature-image-TIS.png?resize=1600,900",
+      "og:type": "article",
+      "article:published_time": "2025-06-20T17:00:00+00:00",
+      "og:image:width": "1600",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Alaska Airlines News",
+      "msvalidate.01": "8298423F878DE959195C48BC6B6802DD",
+      "author": "Alaska Airlines",
+      "og:title": "A seamless security solution \u2013 coming to an Alaska Airlines hub near you - Alaska Airlines News",
+      "og:image:height": "900",
+      "og:image:type": "image/png",
+      "msapplication-tileimage": "https://news.alaskaair.com/wp-content/uploads/2024/12/cropped-cropped-cropped-Favicon-1-1.png?w=270",
+      "og:description": "Alaska Airlines is bringing TSA PreCheck\u00ae Touchless ID to Seattle, Portland, and Los Angeles.",
+      "twitter:creator": "@alaskaair",
+      "article:publisher": "https://www.facebook.com/alaskaairlines",
+      "twitter:site": "@alaskaair",
+      "article:modified_time": "2025-07-09T20:04:18+00:00",
+      "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=5",
+      "og:locale": "en_US",
+      "og:url": "https://news.alaskaair.com/alaska-airlines/a-seamless-security-solution-coming-to-an-alaska-airlines-hub-near-you/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://news.alaskaair.com/wp-content/uploads/2025/06/Feature-image-TIS.png?resize=1600,900"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Launch of Alaska Mobile ID brings number of states with mDL to 19 ...",
+   "htmlTitle": "Launch of <b>Alaska Mobile ID</b> brings number of states with mDL to 19 ...",
+   "link": "https://www.biometricupdate.com/202503/launch-of-alaska-mobile-id-brings-number-of-states-with-mdl-to-19",
+   "displayLink": "www.biometricupdate.com",
+   "snippet": "Mar 26, 2025 ... Alaska has launched its mobile driver's license (mDL) program, referred to locally as Mobile ID (mID), bringing the total number of states to offer mobile\u00a0...",
+   "htmlSnippet": "Mar 26, 2025 <b>...</b> <b>Alaska</b> has launched its <b>mobile driver&#39;s license</b> (<b>mDL</b>) program, referred to locally as <b>Mobile ID</b> (mID), bringing the total number of states to offer mobile&nbsp;...",
+   "formattedUrl": "https://www.biometricupdate.com/.../launch-of-alaska-mobile-id-brings-nu...",
+   "htmlFormattedUrl": "https://www.biometricupdate.com/.../launch-of-<b>alaska</b>-<b>mobile-id</b>-brings-nu...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4gHVfcYK7Z8qddu2k8R5pQm7I9YYroRXtiOga0Ud-o1eLhGhAnYAYJVE&s",
+      "width": "336",
+      "height": "150"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/03/26143439/thales-alaska-mID.jpg",
+      "theme-color": "#ffffff",
+      "og:image:width": "1520",
+      "article:published_time": "2025-03-26T18:35:34+00:00",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Biometric Update | Biometrics News, Companies and Explainers",
+      "rating": "general",
+      "msapplication-tileimage": "/favicon/ms-icon-144x144.png",
+      "og:description": "Alaska has launched its mDL program, referred to locally as Mobile ID (mID), bringing the total number of states to offer mobile licenses to 19.",
+      "twitter:creator": "@BiometricUpdate",
+      "og:image:secure_url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/03/26143439/thales-alaska-mID.jpg",
+      "article:publisher": "https://www.facebook.com/BiometricUpdate",
+      "twitter:image": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/03/26143439/thales-alaska-mID.jpg",
+      "twitter:site": "@BiometricUpdate",
+      "article:modified_time": "2025-03-26T18:35:34+00:00",
+      "msapplication-tilecolor": "#ffffff",
+      "og:type": "article",
+      "twitter:title": "Launch of Alaska Mobile ID brings number of states with mDL to 19 | Biometric Update",
+      "msvalidate.01": "37DAF50D768AB3DDD4F101B413D98584",
+      "author": "Joel R. McConvey",
+      "og:title": "Launch of Alaska Mobile ID brings number of states with mDL to 19 | Biometric Update",
+      "og:image:height": "680",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Alaska has launched its mDL program, referred to locally as Mobile ID (mID), bringing the total number of states to offer mobile licenses to 19.",
+      "og:locale": "en_US",
+      "og:url": "https://www.biometricupdate.com/202503/launch-of-alaska-mobile-id-brings-number-of-states-with-mdl-to-19"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/03/26143439/thales-alaska-mID.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Identity Opportunity: Alaska DMV Leads the Way on Mobile ID ...",
+   "htmlTitle": "Identity Opportunity: <b>Alaska</b> DMV Leads the Way on <b>Mobile ID</b> ...",
+   "link": "https://www.akbizmag.com/industry/government/identityopportunity/",
+   "displayLink": "www.akbizmag.com",
+   "snippet": "Jun 16, 2025 ... The Alaska DMV is launching a mobile credential that will give residents the option to use a digital ID alongside their physical driver's\u00a0...",
+   "htmlSnippet": "Jun 16, 2025 <b>...</b> The <b>Alaska</b> DMV is launching a mobile credential that will give residents the option to use a <b>digital ID</b> alongside their physical driver&#39;s&nbsp;...",
+   "formattedUrl": "https://www.akbizmag.com/industry/government/identityopportunity/",
+   "htmlFormattedUrl": "https://www.akbizmag.com/industry/government/identityopportunity/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn1EJepJ7XEp6zwCkSUWgi3mC9rW1DRACk-Y62vL1gC1l3v-fKJ9dgvAk&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "BreadcrumbList": [
+     {}
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.akbizmag.com/wp-content/uploads/2025/05/AdobeStock_1091331535_feature.webp",
+      "og:type": "article",
+      "article:published_time": "2025-06-16T16:00:18+00:00",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Alaska Business Magazine",
+      "tec-api-origin": "https://www.akbizmag.com",
+      "author": "Amy Newman",
+      "og:title": "Identity Opportunity: Alaska DMV Leads the Way on Mobile ID - Alaska Business Magazine",
+      "og:image:height": "675",
+      "twitter:label1": "Written by",
+      "twitter:label2": "Est. reading time",
+      "og:image:type": "image/webp",
+      "msapplication-tileimage": "https://www.akbizmag.com/wp-content/uploads/2024/01/cropped-ab-icon-270x270.png",
+      "og:description": "The Alaska DMV is launching a mobile credential that will give residents the option to use a digital ID alongside their physical driver\u2019s license or ID card.",
+      "twitter:data1": "Amy Newman",
+      "twitter:data2": "10 minutes",
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+      "og:locale": "en_US",
+      "position": "1",
+      "og:url": "https://www.akbizmag.com/industry/government/identityopportunity/",
+      "tec-api-version": "v1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.akbizmag.com/wp-content/uploads/2025/05/AdobeStock_1091331535_feature.webp"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "514th AMW represent JB MDL at RED FLAG-Alaska > Joint Base ...",
+   "htmlTitle": "514th AMW represent JB <b>MDL</b> at RED FLAG-<b>Alaska</b> &gt; Joint Base ...",
+   "link": "https://www.jbmdl.jb.mil/News/Article-Display/Article/3505826/514th-amw-represent-jb-mdl-at-red-flag-alaska/",
+   "displayLink": "www.jbmdl.jb.mil",
+   "snippet": "514th AMW represent JB MDL at RED FLAG-Alaska. Published Aug. 25, 2023; By Airman 1st Class Andrew Britten; 673rd Air Base Wing Public Affairs.",
+   "htmlSnippet": "514th AMW represent JB <b>MDL</b> at RED FLAG-<b>Alaska</b>. Published Aug. 25, 2023; By Airman 1st Class Andrew Britten; 673rd Air Base Wing Public Affairs.",
+   "formattedUrl": "https://www.jbmdl.jb.mil/.../514th-amw-represent-jb-mdl-at-red-flag-alaska...",
+   "htmlFormattedUrl": "https://www.jb<b>mdl</b>.jb.mil/.../514th-amw-represent-jb-<b>mdl</b>-at-red-flag-<b>alaska</b>...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgeDGAP8wXv1v4jsft450JHNYd7on2s9V-f--HsSN5ZcWRl-21jeO28yk&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://media.defense.gov/2023/Aug/25/2003288573/2000/2000/0/230824-F-KB004-1326.JPG",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "514th AMW represent JB MDL at RED FLAG-Alaska",
+      "og:type": "article",
+      "og:site_name": "Joint Base McGuire-Dix-Lakehurst",
+      "og:title": "514th AMW represent JB MDL at RED FLAG-Alaska",
+      "rating": "GENERAL",
+      "twitter:creator": "@jointbasemdl",
+      "og:description": "Airmen from the 514th Air Mobility Wing perform maintenance actions during RED FLAG-Alaska, which is the Pacific Air Forces premier field training exercise for U.S. forces and their partner and",
+      "twitter:image": "https://media.defense.gov/2023/Aug/25/2003288573/2000/2000/0/230824-F-KB004-1326.JPG",
+      "twitter:site": "@jointbasemdl",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "twitter:description": "Airmen from the 514th Air Mobility Wing perform maintenance actions during RED FLAG-Alaska, which is the Pacific Air Forces premier field training exercise for U.S. forces and their partner and",
+      "contact": "dma.WebSD@mail.mil",
+      "host": "DMA Public Web",
+      "resource-type": "DOCUMENT",
+      "og:url": "https://www.jbmdl.jb.mil/News/Article-Display/Article/3505826/514th-amw-represent-jb-mdl-at-red-flag-alaska/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://media.defense.gov/2023/Aug/25/2003288573/2000/2000/0/230824-F-KB004-1326.JPG"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Alaska DMV to offer mobile IDs",
+   "htmlTitle": "<b>Alaska</b> DMV to offer mobile IDs",
+   "link": "https://www.alaskasnewssource.com/2025/06/23/alaska-dmv-offers-mobile-ids/",
+   "displayLink": "www.alaskasnewssource.com",
+   "snippet": "Jun 23, 2025 ... The Alaska Mobile ID is an app created by the DMV. Information, including how to download it for free, is on the DMV's website. Whiteside\u00a0...",
+   "htmlSnippet": "Jun 23, 2025 <b>...</b> The <b>Alaska Mobile ID</b> is an app created by the DMV. Information, including how to download it for free, is on the DMV&#39;s website. Whiteside&nbsp;...",
+   "formattedUrl": "https://www.alaskasnewssource.com/2025/06/.../alaska-dmv-offers-mobile-i...",
+   "htmlFormattedUrl": "https://www.<b>alaska</b>snewssource.com/2025/06/.../<b>alaska</b>-dmv-offers-<b>mobile-i</b>...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx5sljtFzuQMom4m3zrGvoMO44p4bGshtjWhJTATY1zjPgKGwwqIKT_ZY&s",
+      "width": "318",
+      "height": "159"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://gray-ktuu-prod.gtv-cdn.com/resizer/v2/ENP6Z5LZ2NDPXMM3HCULS3TTIU.jpg?auth=647a9c5e78c9ce15eb9cfeecfb000956c8a25613374484bad8db802788c60396&width=1200&height=600&smart=true",
+      "apple-itunes-app": "app-id=1102853872",
+      "copyright": "Copyright (c) 2025",
+      "twitter:card": "summary_large_image",
+      "article:published_time": "2025-06-23T22:31:08.549Z",
+      "og:site_name": "https://www.alaskasnewssource.com",
+      "rating": "general",
+      "distribution": "global",
+      "og:description": "Alaskans have a new option when it comes to verifying their identities \u2014 instead of pulling out a driver\u2019s license, they can now show a mobile ID on their phones.",
+      "twitter:creator": "@AKNewsNow",
+      "article:sections_paths": "/consumer,/news/consumer,/news",
+      "article:publisher": "https://www.facebook.com/AlaskasNewsSource/",
+      "twitter:image": "https://gray-ktuu-prod.gtv-cdn.com/resizer/v2/ENP6Z5LZ2NDPXMM3HCULS3TTIU.jpg?auth=647a9c5e78c9ce15eb9cfeecfb000956c8a25613374484bad8db802788c60396&width=1200&height=600&smart=true",
+      "twitter:site": "@AKNewsNow",
+      "article:modified_time": "2025-06-23T22:31:08.549Z",
+      "news_keywords": "DMV,Alaska Driver's license,Mobile ID",
+      "fb:admins": "644426401",
+      "article:has_video": "true",
+      "article:distributor_subcategory": "gray-original-content",
+      "og:type": "article",
+      "twitter:title": "Alaska DMV to offer mobile IDs",
+      "article:section": "Consumer",
+      "og:title": "Alaska DMV to offer mobile IDs",
+      "googlebot-news": "index",
+      "fb:pages": "108536136665",
+      "fb:app_id": "1785726834984316",
+      "apple-mobile-web-app-status-bar-style": "black-translucent",
+      "viewport": "width=device-width, minimum-scale=1, initial-scale=1, viewport-fit=cover",
+      "twitter:description": "Alaskans have a new option when it comes to verifying their identities \u2014 instead of pulling out a driver\u2019s license, they can now show a mobile ID on their phones.",
+      "og:locale": "en_US",
+      "article:distributor_category": "staff",
+      "article:distributor_name": "Gray TV Stations (English)",
+      "og:url": "https://www.alaskasnewssource.com/2025/06/23/alaska-dmv-offers-mobile-ids/",
+      "google-play-app": "app-id=com.doapps.android.mln.MLN_4d6e4749289c4ec58c0063a90deb3964",
+      "taboola-section": "ktuu",
+      "authors": "Lauren Maxwell"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://gray-ktuu-prod.gtv-cdn.com/resizer/v2/ENP6Z5LZ2NDPXMM3HCULS3TTIU.jpg?auth=647a9c5e78c9ce15eb9cfeecfb000956c8a25613374484bad8db802788c60396&width=1200&height=600&smart=true"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Exciting News, Alaska! Alaska's Mobile ID (mID) is here! You can ...",
+   "htmlTitle": "Exciting News, Alaska! <b>Alaska&#39;s Mobile ID</b> (mID) is here! You can ...",
+   "link": "https://www.facebook.com/AlaskaDMV/posts/-exciting-news-alaska-alaskas-mobile-id-mid-is-here-you-can-now-digitally-carry-/1037172841772037/",
+   "displayLink": "www.facebook.com",
+   "snippet": "Mar 10, 2025 ... Exciting News, Alaska! Alaska's Mobile ID (mID) is here! You can now digitally carry your official Alaska driver's license or ID on your\u00a0...",
+   "htmlSnippet": "Mar 10, 2025 <b>...</b> Exciting News, Alaska! <b>Alaska&#39;s Mobile ID</b> (mID) is here! You can now digitally carry your official Alaska driver&#39;s license or ID on your&nbsp;...",
+   "formattedUrl": "https://www.facebook.com/AlaskaDMV/...alaska-alaskas-mobile-id...-/1037...",
+   "htmlFormattedUrl": "https://www.facebook.com/<b>Alaska</b>DMV/...<b>alaska</b>-<b>alaska</b>s-<b>mobile-id</b>...-/1037...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTSZO_LgAzdb9bMNgi8_ztz3I6tDqX-oKNC06GrIlBYjcOUGNwdhKErsog&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1037170655105589",
+      "theme-color": "#FFFFFF",
+      "og:type": "video.other",
+      "og:image:alt": "State of Alaska DMV",
+      "twitter:card": "summary",
+      "twitter:title": "State of Alaska DMV",
+      "og:title": "State of Alaska DMV",
+      "google": "notranslate",
+      "og:description": "\ud83d\udea8 Exciting News, Alaska! \ud83d\udea8\n\nAlaska\u2019s Mobile ID (mID) is here! \ud83c\udf89 You can now digitally carry your official Alaska driver\u2019s license or ID on your phone for added convenience and security.  Reminder:...",
+      "twitter:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1037170655105589",
+      "referrer": "origin-when-crossorigin",
+      "twitter:image:alt": "State of Alaska DMV",
+      "twitter:site": "@facebookapp",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "\ud83d\udea8 Exciting News, Alaska! \ud83d\udea8\n\nAlaska\u2019s Mobile ID (mID) is here! \ud83c\udf89 You can now digitally carry your official Alaska driver\u2019s license or ID on your phone for added convenience and security.  Reminder:...",
+      "og:locale": "en_US",
+      "fb-version": "471.0.0.0.109:2884",
+      "og:url": "https://www.facebook.com/AlaskaDMV/posts/-exciting-news-alaska-alaskas-mobile-id-mid-is-here-you-can-now-digitally-carry-/1037172841772037/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1037170655105589"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Alaska Airlines Mobile Verify | Airside",
+   "htmlTitle": "<b>Alaska</b> Airlines Mobile Verify | Airside",
+   "link": "https://airsidemobile.com/alaska-airlines-mobile-verify/",
+   "displayLink": "airsidemobile.com",
+   "snippet": "Alaska Airlines Airside Digital ID App. Alaska Airlines Mobile Verify\u200b. Skip the passport line! U.S. and Canadian passport holders can share their verified\u00a0...",
+   "htmlSnippet": "<b>Alaska</b> Airlines Airside <b>Digital ID</b> App. <b>Alaska</b> Airlines Mobile Verify\u200b. Skip the passport line! U.S. and Canadian passport holders can share their verified&nbsp;...",
+   "formattedUrl": "https://airsidemobile.com/alaska-airlines-mobile-verify/",
+   "htmlFormattedUrl": "https://airsidemobile.com/<b>alaska</b>-airlines-mobile-verify/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKRyXQSi-BuAq0gssvYKJ9UoNq9zcNV6Fvm3rn44SD205kBv_vcyinoLw&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "organization": [
+     {
+      "url": "https://airsidemobile.com/"
+     }
+    ],
+    "rating": [
+     {
+      "ratingvalue": "5/5"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://airsidemobile.com/wp-content/uploads/2024/04/Floating-Mockup-1.png",
+      "og:type": "article",
+      "og:image:width": "1000",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Airside",
+      "og:title": "Alaska Airlines Mobile Verify",
+      "og:image:height": "1000",
+      "og:image:type": "image/png",
+      "msapplication-tileimage": "https://airsidemobile.com/wp-content/uploads/2020/02/cropped-airside_favicon-270x270.png",
+      "og:description": "U.S. and Canadian passport holders can share their verified passport with Alaska Airlines prior to an international trip using the Airside App.",
+      "article:publisher": "https://www.facebook.com/AirsideMobile/",
+      "twitter:site": "@Airsideout",
+      "article:modified_time": "2025-03-13T21:04:07+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://airsidemobile.com/alaska-airlines-mobile-verify/"
+     }
+    ],
+    "creativework": [
+     {
+      "text": "Alaska Airlines Mobile Verify\u200b Skip the passport line! U.S. and Canadian passport holders can share their verified passport with Alaska Airlines prior to an international trip using the Airside..."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://airsidemobile.com/wp-content/uploads/2024/04/Floating-Mockup-1.png"
+     }
+    ]
+   }
+  }
+ ]
+}

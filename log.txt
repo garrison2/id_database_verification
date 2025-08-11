@@ -11,7 +11,7 @@
 08-08-2025_22:21:51	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py search West Virginia 13
 08-08-2025_22:21:52	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py search West Virginia 12
 
-googleapiclient.errors.HttpError: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=%22North+Carolina%22+%22data+breach%22+law&cx=3548decfb27244f8b&key=AIzaSyB9bxUGpjDi4Evp3VaJ7j1ud9h4GKgi4Ps&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:928658372250'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:928658372250'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
+googleapiclient.errors.HttpError: <HttpError 429 when requesting https://customsearch.googleapis.com/customsearch/v1?q=%22North+Carolina%22+%22data+breach%22+law&cx=3548decfb27244f8b&key=KEY&alt=json returned "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:928658372250'.". Details: "[{'message': "Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:928658372250'.", 'domain': 'global', 'reason': 'rateLimitExceeded'}]">
 
 08-08-2025_23:28:51	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py help
 09-08-2025_11:48:33	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py process West Virginia
@@ -70,3 +70,91 @@ googleapiclient.errors.HttpError: <HttpError 429 when requesting https://customs
 10-08-2025_13:03:09	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py list all
 10-08-2025_13:03:23	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view Texas
 10-08-2025_13:06:08	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py list all
+
+10-08-2025_15:23:05	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py list all
+10-08-2025_15:23:29	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py search Alaska
+10-08-2025_15:23:31	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py list all
+10-08-2025_15:23:50	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view Alaska
+10-08-2025_15:24:22	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view Alaska
+10-08-2025_15:24:33	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view Alaska
+10-08-2025_16:18:23	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view Alaska -q 02
+10-08-2025_16:18:31	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view Alaska -q 02
+10-08-2025_16:18:43	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py list all
+10-08-2025_16:18:56	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py list North Carolina
+10-08-2025_16:30:59	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py list North Carolina
+10-08-2025_16:31:16	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py list all
+10-08-2025_16:32:08	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py list all
+10-08-2025_16:32:58	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py process Alabama
+10-08-2025_16:33:08	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view Alabama
+10-08-2025_16:33:21	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view Alabama
+10-08-2025_16:33:31	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view Alabama -s 1
+10-08-2025_16:33:35	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view Alabama -s 0
+10-08-2025_16:33:37	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view Alabama -s 1
+10-08-2025_16:33:45	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view Alabama -s 1
+10-08-2025_16:46:21	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view Alabama -s 1
+10-08-2025_16:46:25	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view Alabama -s 0
+10-08-2025_16:46:55	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view Alabama -s 1
+10-08-2025_16:47:02	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py list all
+10-08-2025_16:48:10	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py list all
+10-08-2025_16:48:25	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view New Hampshire -s 1
+10-08-2025_16:48:29	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view New Hampshire -s 0
+10-08-2025_16:48:53	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view New Hampshire -q 00 01
+10-08-2025_16:48:57	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py list all
+10-08-2025_16:49:08	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view Alaska -q 00 01
+10-08-2025_16:49:48	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view Alaska -s 1
+10-08-2025_16:50:26	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py list all
+10-08-2025_16:50:37	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view North Carolina -s 0
+10-08-2025_16:52:44	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py search North Carolina -q 00 01 05
+10-08-2025_16:52:54	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view North Carolina
+10-08-2025_16:54:16	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view North Carolina -s 1
+10-08-2025_16:54:24	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view North Carolina -s 1 -q 04
+10-08-2025_16:54:42	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py list North Carolina
+10-08-2025_16:54:49	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view North Carolina -s 0 -q 04
+10-08-2025_16:55:07	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view North Carolina -q 02 -s 2
+10-08-2025_16:55:22	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view North Carolina -q 02 -s 2
+10-08-2025_16:55:24	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view North Carolina -q 01 -s 2
+10-08-2025_16:55:28	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view North Carolina -s 0 -q 01
+10-08-2025_16:56:04	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view North Carolina -s 0 -q 05
+10-08-2025_16:56:16	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view North Carolina -s 2 -q 05
+10-08-2025_16:57:00	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py search North Carolina -q 00 01 05
+10-08-2025_16:57:05	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view North Carolina -s 3 -q 05
+10-08-2025_16:57:24	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view North Carolina -s 3 -q 00
+10-08-2025_16:57:34	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view North Carolina -s 3 -q 01
+10-08-2025_16:59:15	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py search North Carolina -q 00 01 05
+10-08-2025_16:59:26	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view North Carolina -s 4 -q 00
+10-08-2025_16:59:36	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view North Carolina -s 4 -q 01
+10-08-2025_16:59:58	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view North Carolina -s 4 -q 05
+10-08-2025_17:01:29	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py search North Carolina -q 00 01 05
+10-08-2025_17:01:35	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view North Carolina -s 4 -q 05
+10-08-2025_17:02:02	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py search North Carolina -q 00 01 05
+10-08-2025_17:02:06	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view North Carolina -s 4 -q 05
+10-08-2025_17:02:45	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view North Carolina -s 3 -q 05
+10-08-2025_17:02:49	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view North Carolina -s 5 -q 05
+10-08-2025_17:02:52	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view North Carolina -s 6 -q 05
+10-08-2025_17:02:59	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view North Carolina -s 6 -q 05
+10-08-2025_17:03:22	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view North Carolina -s 3 -q 05
+10-08-2025_17:03:42	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view North Carolina -s 4 -q 05
+10-08-2025_17:04:40	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view North Carolina -s 6 -q 00
+10-08-2025_17:04:42	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view North Carolina -s 4 -q 00
+10-08-2025_17:05:02	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view North Carolina -s 6 -q 01
+10-08-2025_17:08:35	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py list all
+10-08-2025_17:08:45	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view Alaska -s 1
+10-08-2025_17:12:12	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py list all
+10-08-2025_17:13:06	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py search Colorado -q 08 09 12 13
+10-08-2025_17:13:22	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py search North Carolina -q 08 09 12 13
+10-08-2025_17:13:32	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py search Texas -q 08 09 12 13
+10-08-2025_17:13:40	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py search Virginia -q 08 09 12 13
+10-08-2025_17:14:00	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py search West Virginia -q 08 09 12 13
+10-08-2025_17:15:42	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py search Illinois -q 08 09 12 13
+10-08-2025_17:15:51	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py search Iowa -q 08 09 12 13
+10-08-2025_17:16:07	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py search Mississippi -q 08 09 12 13
+10-08-2025_17:16:24	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py search Montana -q 08 09 12 13
+10-08-2025_17:16:31	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py search New Mexico -q 08 09 12 13
+10-08-2025_17:16:38	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py search New York -q 08 09 12 13
+10-08-2025_17:17:20	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py search New Jersey -q 08 09 12 13
+10-08-2025_17:17:31	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py search Ohio -q 08 09 12 13
+10-08-2025_17:17:40	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py search Wyoming -q 08 09 12 13
+10-08-2025_17:17:48	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py search Florida -q 08 09 12 13
+10-08-2025_17:17:57	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py search California -q 08 09 12 13
+10-08-2025_17:18:04	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py search Arizona -q 08 09 12 13
+10-08-2025_17:18:35	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py search Oregon -q 08 09 12 13

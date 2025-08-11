@@ -1,0 +1,340 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Arizona Revised Statutes\" \"driver's license\" OR \"identification card\" \"verification\" OR \"scanning\" OR \"swiping\" OR \"machine-readable\" OR \"electronically readable\" OR \"transaction scan\" -applicant -application",
+    "totalResults": "823",
+    "searchTerms": "\"Arizona Revised Statutes\" \"driver's license\" OR \"identification card\" \"verification\" OR \"scanning\" OR \"swiping\" OR \"machine-readable\" OR \"electronically readable\" OR \"transaction scan\" -applicant -application",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Arizona Revised Statutes\" \"driver's license\" OR \"identification card\" \"verification\" OR \"scanning\" OR \"swiping\" OR \"machine-readable\" OR \"electronically readable\" OR \"transaction scan\" -applicant -application",
+    "totalResults": "823",
+    "searchTerms": "\"Arizona Revised Statutes\" \"driver's license\" OR \"identification card\" \"verification\" OR \"scanning\" OR \"swiping\" OR \"machine-readable\" OR \"electronically readable\" OR \"transaction scan\" -applicant -application",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.17524,
+  "formattedSearchTime": "0.18",
+  "totalResults": "823",
+  "formattedTotalResults": "823"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "SB1230 - 472R - Senate Fact Sheet",
+   "htmlTitle": "SB1230 - 472R - Senate Fact Sheet",
+   "link": "https://www.azleg.gov/legtext/47leg/2r/summary/s.1230jud_aspassedbythesenate.doc.htm",
+   "displayLink": "www.azleg.gov",
+   "snippet": "Section 13-3821, Arizona Revised Statutes, requires a person who ... Failure to update the identification card and information is a class 1 misdemeanor.",
+   "htmlSnippet": "Section 13-3821, <b>Arizona Revised Statutes</b>, requires a person who ... Failure to update the <b>identification card</b> and information is a class 1 misdemeanor.",
+   "formattedUrl": "https://www.azleg.gov/legtext/.../s.1230jud_aspassedbythesenate.doc.htm",
+   "htmlFormattedUrl": "https://www.azleg.gov/legtext/.../s.1230jud_aspassedbythesenate.doc.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Verifying Identity and Avoiding Identity Theft | Arizona Department of ...",
+   "htmlTitle": "Verifying Identity and Avoiding Identity Theft | Arizona Department of ...",
+   "link": "https://azdor.gov/individuals/income-tax-filing-assistance/verifying-identity-and-avoiding-identity-theft",
+   "displayLink": "azdor.gov",
+   "snippet": "The IRS, state tax agencies and the tax industry are asking for driver's license numbers or state-issued identification numbers.",
+   "htmlSnippet": "The IRS, state tax agencies and the tax industry are asking for <b>driver&#39;s license</b> numbers or state-issued identification numbers.",
+   "formattedUrl": "https://azdor.gov/.../income.../verifying-identity-and-avoiding-identity-theft",
+   "htmlFormattedUrl": "https://azdor.gov/.../income.../verifying-identity-and-avoiding-identity-theft",
+   "pagemap": {
+    "WebPage": [
+     {
+      "name": "Verifying Identity and Avoiding Identity Theft"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Chapter 0062 - 531R - S Ver of HB2341",
+   "htmlTitle": "Chapter 0062 - 531R - S Ver of HB2341",
+   "link": "https://www.azleg.gov/legtext/53leg/1r/laws/0062.htm",
+   "displayLink": "www.azleg.gov",
+   "snippet": "amending section 32\u20114301, Arizona Revised Statutes; relating to ... identification card or a written verification from the member's commanding\u00a0...",
+   "htmlSnippet": "amending section 32\u20114301, <b>Arizona Revised Statutes</b>; relating to ... <b>identification card</b> or a written <b>verification</b> from the member&#39;s commanding&nbsp;...",
+   "formattedUrl": "https://www.azleg.gov/legtext/53leg/1r/laws/0062.htm",
+   "htmlFormattedUrl": "https://www.azleg.gov/legtext/53leg/1r/laws/0062.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "License Suspension DUI After Arrest in Arizona | Griffen & Stevens",
+   "htmlTitle": "License Suspension DUI After Arrest in Arizona | Griffen &amp; Stevens",
+   "link": "https://www.flagstaff-lawyer.com/faqs/license-suspension-dui-after-arrest-in-arizona.cfm",
+   "displayLink": "www.flagstaff-lawyer.com",
+   "snippet": "Under Arizona Revised Statutes (ARS) Section 28-1321, a DUI arrest results ... When you're arrested, the officer confiscates your physical driver's license and\u00a0...",
+   "htmlSnippet": "Under <b>Arizona Revised Statutes</b> (ARS) Section 28-1321, a DUI arrest results ... When you&#39;re arrested, the officer confiscates your physical <b>driver&#39;s license</b> and&nbsp;...",
+   "formattedUrl": "https://www.flagstaff-lawyer.com/.../license-suspension-dui-after-arrest-in-a...",
+   "htmlFormattedUrl": "https://www.flagstaff-lawyer.com/.../license-suspension-dui-after-arrest-in-a...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTe2SNVD-VLhE2J62fb83MBBaf1cGuptS_fojeh9ySL9X-OqC0emBFlACU&s",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://images.fosterwebmarketing.com/1074/license-suspension-DUI-temporary-permits-Flagstaff-criminal-defense-attorney.jpg",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Can I drive after a DUI arrest in Arizona?",
+      "og:site_name": "Griffen & Stevens",
+      "handheldfriendly": "True",
+      "msvalidate.01": "B7753523D41A7DDBA282191B4C39BF5B",
+      "og:title": "Can I drive after a DUI arrest in Arizona?",
+      "og:description": "Learn what happens to your driving privileges after a DUI arrest in Arizona. Understand temporary permits, administrative hearings, and restricted licenses.",
+      "twitter:image": "https://images.fosterwebmarketing.com/1074/license-suspension-DUI-temporary-permits-Flagstaff-criminal-defense-attorney.jpg",
+      "sections": "Criminal Defense",
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0",
+      "twitter:description": "Learn what happens to your driving privileges after a DUI arrest in Arizona. Understand temporary permits, administrative hearings, and restricted licenses.",
+      "mobileoptimized": "320",
+      "og:url": "https://www.flagstaff-lawyer.com/faqs/license-suspension-dui-after-arrest-in-arizona.cfm"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://images.fosterwebmarketing.com/1074/license-suspension-DUI-temporary-permits-Flagstaff-criminal-defense-attorney.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "PIMA COUNTY RECORDER'S OFFICE",
+   "htmlTitle": "PIMA COUNTY RECORDER&#39;S OFFICE",
+   "link": "https://recorder.pima.gov/Docs/2024/List%20Maintenance%20Document%208-14-2024.pdf",
+   "displayLink": "recorder.pima.gov",
+   "snippet": "Aug 14, 2024 ... when driver's license is not provided. 4. SSA (Social Security Administration) verification. EPM p. 26. D. SAVE database (Federal)\u00a0...",
+   "htmlSnippet": "Aug 14, 2024 <b>...</b> when <b>driver&#39;s license</b> is not provided. 4. SSA (Social Security Administration) <b>verification</b>. EPM p. 26. D. SAVE database (Federal)&nbsp;...",
+   "formattedUrl": "https://recorder.pima.gov/.../List%20Maintenance%20Document%208-14-2...",
+   "htmlFormattedUrl": "https://recorder.pima.gov/.../List%20Maintenance%20Document%208-14-2...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP__hWHqwXLeH5V-2kEEy2Ad5U1wW9A2VvWnS3nvkUT4qv_ir2SXEie8dW&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20240814161033-07'00'",
+      "creationdate": "D:20240814161031-07'00'",
+      "creator": "Acrobat PDFMaker 24 for Word",
+      "author": "Gabriella Cazares-Kelly",
+      "producer": "Adobe PDF Library 24.2.255",
+      "contenttypeid": "0x010100086888C7DB9CD44F97ECF6743E9F0D10"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///a8beda7e9a6068874d0bb79fa5dd3019375df3da529390fea4f1ff3a3ef5843d"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Furnishing Alcohol to a Minor: ARS 4-241",
+   "htmlTitle": "Furnishing Alcohol to a Minor: ARS 4-241",
+   "link": "https://www.scottsdale-duilawyer.com/blog/2025/06/furnishing-alcohol-to-a-minor-ars-4-241/",
+   "displayLink": "www.scottsdale-duilawyer.com",
+   "snippet": "Jun 18, 2025 ... An unexpired driver's license issued by any other state, the ... verification techniques in issuing the consular identification card.",
+   "htmlSnippet": "Jun 18, 2025 <b>...</b> An unexpired <b>driver&#39;s license</b> issued by any other state, the ... <b>verification</b> techniques in issuing the consular <b>identification card</b>.",
+   "formattedUrl": "https://www.scottsdale-duilawyer.com/.../furnishing-alcohol-to-a-minor-ars-...",
+   "htmlFormattedUrl": "https://www.scottsdale-duilawyer.com/.../furnishing-alcohol-to-a-minor-ars-...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEZ8dhLDEKxwn9qJSOAdQRySTwtyXrVGfgjOEGkYMd5jdshlXqiHC0XzM&s",
+      "width": "211",
+      "height": "239"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.scottsdale-duilawyer.com/wp-content/uploads/2025/06/Furnishing-Alcohol-to-a-Minor.webp",
+      "og:type": "article",
+      "article:published_time": "2025-06-18T21:18:11+00:00",
+      "og:image:width": "1958",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Scottsdale DUI Lawyers",
+      "author": "Rosenstein Law Group",
+      "og:title": "Furnishing Alcohol to a Minor: ARS 4-241",
+      "og:image:height": "2221",
+      "twitter:label1": "Written by",
+      "twitter:label2": "Est. reading time",
+      "og:image:type": "image/webp",
+      "msapplication-tileimage": "https://www.scottsdale-duilawyer.com/wp-content/uploads/2022/03/rosenstein-favicon-02-01.png",
+      "og:description": "Have you recently been charged with drag racing? Learn about the ARS 28-708 drag racing law and how you can protect yourself from charges.",
+      "twitter:data1": "Rosenstein Law Group",
+      "twitter:data2": "7 minutes",
+      "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes",
+      "og:locale": "en_US",
+      "og:url": "https://www.scottsdale-duilawyer.com/blog/2025/06/furnishing-alcohol-to-a-minor-ars-4-241/",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.scottsdale-duilawyer.com/wp-content/uploads/2025/06/Furnishing-Alcohol-to-a-Minor.webp"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Section 6-202.01 : Adult Intensive Probation Evidence-Based ...",
+   "htmlTitle": "Section 6-202.01 : Adult Intensive Probation Evidence-Based ...",
+   "link": "https://govt.westlaw.com/azrules/Document/N90A99F50EA9B11EEB569BD30B8CDDCCB?viewType=FullText&originationContext=documenttoc&transitionType=DocumentItem&contextData=%28sc.Default%29",
+   "displayLink": "govt.westlaw.com",
+   "snippet": "(1) Valid state driver license or identification card; ... The adult probation department shall document this verification in the tracking system's DNA screen and\u00a0...",
+   "htmlSnippet": "(1) Valid state driver license or <b>identification card</b>; ... The adult probation department shall document this <b>verification</b> in the tracking system&#39;s DNA screen and&nbsp;...",
+   "formattedUrl": "https://govt.westlaw.com/.../N90A99F50EA9B11EEB569BD30B8CDDCCB...",
+   "htmlFormattedUrl": "https://govt.westlaw.com/.../N90A99F50EA9B11EEB569BD30B8CDDCCB...",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Revised Statutes Title 4. Alcoholic Beverages \u00a7 4-241 ...",
+   "htmlTitle": "<b>Arizona Revised Statutes</b> Title 4. Alcoholic Beverages \u00a7 4-241 ...",
+   "link": "https://codes.findlaw.com/az/title-4-alcoholic-beverages/az-rev-st-sect-4-241/",
+   "displayLink": "codes.findlaw.com",
+   "snippet": "Arizona Revised Statutes Title 4. Alcoholic Beverages Section 4 ... verification techniques in issuing the consular identification card. For the\u00a0...",
+   "htmlSnippet": "<b>Arizona Revised Statutes</b> Title 4. Alcoholic Beverages Section 4 ... <b>verification</b> techniques in issuing the consular <b>identification card</b>. For the&nbsp;...",
+   "formattedUrl": "https://codes.findlaw.com/az/title-4-alcoholic.../az-rev-st-sect-4-241/",
+   "htmlFormattedUrl": "https://codes.findlaw.com/az/title-4-alcoholic.../az-rev-st-sect-4-241/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuWtKEZ0kzYj6NSuZlgNrAF5XcYIi9XgsiqHcAgQHtxY18xcWZ1bDMaCM&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png",
+      "og:type": "article",
+      "og:site_name": "Findlaw",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Arizona Revised Statutes Title 4. Alcoholic Beverages \u00a7 4-241 | FindLaw",
+      "apple-mobile-web-app-title": "FindLaw",
+      "og:url": "https://codes.findlaw.com/az/title-4-alcoholic-beverages/az-rev-st-sect-4-241/",
+      "og:description": "Arizona Revised Statutes Title 4. Alcoholic Beverages   Section 4-241. Read the code on FindLaw"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Section 6\u2013201.01: Standard Probation Evidence Based Practice",
+   "htmlTitle": "Section 6\u2013201.01: Standard Probation Evidence Based Practice",
+   "link": "https://govt.westlaw.com/azrules/Document/NC0FFBF30E79A11EEBD44D8D39AB4AC7F?viewType=FullText&originationContext=documenttoc&transitionType=CategoryPageItem&contextData=(sc.Default)",
+   "displayLink": "govt.westlaw.com",
+   "snippet": "(1) Valid state driver license or identification card;. (2) Housing;. (3) ... b. Employment verification or employment search verification as necessary;. c\u00a0...",
+   "htmlSnippet": "(1) Valid state driver license or <b>identification card</b>;. (2) Housing;. (3) ... b. Employment <b>verification</b> or employment search <b>verification</b> as necessary;. c&nbsp;...",
+   "formattedUrl": "https://govt.westlaw.com/.../NC0FFBF30E79A11EEBD44D8D39AB4AC7F...",
+   "htmlFormattedUrl": "https://govt.westlaw.com/.../NC0FFBF30E79A11EEBD44D8D39AB4AC7F...",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Revised Statutes \u00a7 13-2101 (2024) - Definitions :: 2024 ...",
+   "htmlTitle": "<b>Arizona Revised Statutes</b> \u00a7 13-2101 (2024) - Definitions :: 2024 ...",
+   "link": "https://law.justia.com/codes/arizona/title-13/section-13-2101/",
+   "displayLink": "law.justia.com",
+   "snippet": "... identification card or by any other name, that is issued with or without fee ... \" Scanning device\" means a scanner, reader or other electronic device\u00a0...",
+   "htmlSnippet": "... <b>identification card</b> or by any other name, that is issued with or without fee ... &quot; <b>Scanning</b> device&quot; means a scanner, reader or other electronic device&nbsp;...",
+   "formattedUrl": "https://law.justia.com/codes/arizona/title-13/section-13-2101/",
+   "htmlFormattedUrl": "https://law.justia.com/codes/arizona/title-13/section-13-2101/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUsEXFeYBuAPfcBBVPIyUzrZ_CJMY-G1UQkbVgeLAo7QKw91U8LPjTVlwN&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://justatic.com/v/20250617153813/shared/images/social-media/law.jpg",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "og:site_name": "Justia Law",
+      "og:title": "2024 Arizona Revised Statutes :: Title 13 - Criminal Code :: &sect; 13-2101 - Definitions",
+      "og:app_id": "119529808075661",
+      "trigger-ga": "1",
+      "og:description": "Ariz. Rev. Stat. \u00a7 13-2101 - Definitions from 2024 Arizona Revised Statutes",
+      "og:admins": "656268335,686786921,25900864",
+      "referrer": "unsafe-url",
+      "twitter:site": "@JustiaCom",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "page-type": "Law: Codes Document Page (Current Year)",
+      "is-li": "0",
+      "og:url": "https://law.justia.com/codes/arizona/title-13/section-13-2101/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://justatic.com/v/20250617153813/shared/images/social-media/law.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,277 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"New Mexico Statutes Annotated\" \"driver's license\" OR \"identification card\" \"scanning\" OR \"swiping\" around 10 \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "totalResults": "7",
+    "searchTerms": "\"New Mexico Statutes Annotated\" \"driver's license\" OR \"identification card\" \"scanning\" OR \"swiping\" around 10 \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "count": 7,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.119429,
+  "formattedSearchTime": "0.12",
+  "totalResults": "7",
+  "formattedTotalResults": "7"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Legal Update (Biennial In-Service) - New Mexico Law Enforcement ...",
+   "htmlTitle": "Legal Update (Biennial In-Service) - New Mexico Law Enforcement ...",
+   "link": "https://www.lea.nm.gov/wp-content/uploads/sites/4/2022/05/2022-2023_Legal_Update_Biennial_In-Service.pdf",
+   "displayLink": "www.lea.nm.gov",
+   "snippet": "New Mexico Statutes Annotated. ESTIMATED TIME. Two hours ... Video on YouTube: Vehicle scanning technology at the border is about to ruin the drug trade.",
+   "htmlSnippet": "<b>New Mexico Statutes Annotated</b>. ESTIMATED TIME. Two hours ... Video on YouTube: Vehicle <b>scanning</b> technology <b>at</b> the border is <b>about</b> to ruin the drug trade.",
+   "formattedUrl": "https://www.lea.nm.gov/.../2022-2023_Legal_Update_Biennial_In-Service....",
+   "htmlFormattedUrl": "https://www.lea.nm.gov/.../2022-2023_Legal_Update_Biennial_In-Service....",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4lB1mojZ_Wd2EDYP1kjt4H_knnB1T1wmqSbVw1JLvTUZlaTQvVSRPsLoQ&s",
+      "width": "259",
+      "height": "194"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20220112175653-07'00'",
+      "creationdate": "D:20220112175653-07'00'",
+      "creator": "Adobe Acrobat Pro DC (32-bit) 21.7.20099",
+      "author": "Kelly Alzaharna",
+      "producer": "Adobe PDF Library 21.7.131"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///8c76331424b5d2b5ed14eea0016c52f5b49e28082eb6105fb899ea2baa905c23"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "U.S. Retail Pricing Laws and Regulations 2009",
+   "htmlTitle": "U.S. Retail Pricing Laws and Regulations 2009",
+   "link": "https://www.nist.gov/document/us-pricing-laws-all-states2pdf",
+   "displayLink": "www.nist.gov",
+   "snippet": "scanning check-out registers must be in use. (b) If an item price exemption has been granted to a retailer in accordance with section 21a-79 (b) (4) of the.",
+   "htmlSnippet": "<b>scanning</b> check-out registers must be in use. (b) If an item price exemption has been granted to a retailer in accordance with section 21a-79 (b) (4) of the.",
+   "formattedUrl": "https://www.nist.gov/document/us-pricing-laws-all-states2pdf",
+   "htmlFormattedUrl": "https://www.nist.gov/document/us-pricing-laws-all-states2pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20090406073630-04'00'",
+      "creationdate": "D:20090406073606-04'00'",
+      "creator": "Acrobat PDFMaker 8.1 for Word",
+      "sourcemodified": "D:20090406113158",
+      "author": "Silvia Williams",
+      "producer": "Acrobat Distiller 8.1.0 (Windows)",
+      "company": "NIST",
+      "title": "ARIZONA"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NEW MEXICO STATE UNIVERSITY POLICY MANUAL",
+   "htmlTitle": "NEW MEXICO STATE UNIVERSITY POLICY MANUAL",
+   "link": "https://legal.nmsu.edu/wp-content/uploads/sites/28/2021/11/nmsu-policy-manual-bor-051013-from-TG-old-file-to-DW-111521.pdf",
+   "displayLink": "legal.nmsu.edu",
+   "snippet": "... retain ownership in perpetuity. Every effort should be made to limit ... delete athletic programs. The following are the varsity athletic programs\u00a0...",
+   "htmlSnippet": "... <b>retain</b> ownership in perpetuity. Every effort should be made to limit ... <b>delete</b> athletic programs. The following are the varsity athletic programs&nbsp;...",
+   "formattedUrl": "https://legal.nmsu.edu/.../nmsu-policy-manual-bor-051013-from-TG-old-fil...",
+   "htmlFormattedUrl": "https://legal.nmsu.edu/.../nmsu-policy-manual-bor-051013-from-TG-old-fil...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Rb33wF8d1L9Xsj9fLzazbKBlCDRGRc-xeiKZJTlcfJN9NJket-HAaHs&s",
+      "width": "210",
+      "height": "240"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20211122103700-07'00'",
+      "creationdate": "D:20130522145936-06'00'",
+      "creator": "Microsoft\u00ae Office Word 2007",
+      "author": "llwarren",
+      "producer": "Microsoft\u00ae Office Word 2007"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///2808ea63822714a892e172651a3054115eb6b891ff155cbe5420a06e88980eda"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "SANTA FE",
+   "htmlTitle": "SANTA FE",
+   "link": "https://santafenm.gov/FY26_Proposed_Budget_Book.pdf",
+   "displayLink": "santafenm.gov",
+   "snippet": "scanning of paper files, and testing and completion of e-review implementation; ... \u2022 Revise record retention legislation to allow the City to digitize all\u00a0...",
+   "htmlSnippet": "<b>scanning</b> of paper files, and testing and completion of e-review implementation; ... \u2022 Revise record <b>retention</b> legislation to allow the City to digitize all&nbsp;...",
+   "formattedUrl": "https://santafenm.gov/FY26_Proposed_Budget_Book.pdf",
+   "htmlFormattedUrl": "https://santafenm.gov/FY26_Proposed_Budget_Book.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE73n-TV3HOG_U2fNYNtulHSq1aPAE_buav-mcDzIqcoFrlWHvPaIy_s68&s",
+      "width": "262",
+      "height": "192"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20250417110741-06'00'",
+      "creationdate": "D:20200706114112-06'00'",
+      "creator": "PScript5.dll Version 5.2.2",
+      "author": "game35617",
+      "producer": "Adobe Acrobat Pro (32-bit) 25 Paper Capture Plug-in",
+      "title": "Microsoft Word - {95ECF63F-726A-4E94-A63E-87FE427BF409}"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///6e123e04b666537da51c7039ddf1b57619489739373194d54f0e22e0780d61ad"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "FEMA FINDING OF NO SIGNIFICANT IMPACT The State of New ...",
+   "htmlTitle": "FEMA FINDING OF NO SIGNIFICANT IMPACT The State of New ...",
+   "link": "https://www.fema.gov/sites/default/files/documents/fema_oehp-nm-watershed-resiliency-post-wildfire-treatment-project-final-pea-signed-fonsi.pdf",
+   "displayLink": "www.fema.gov",
+   "snippet": "Oct 4, 2022 ... temperature, and improve soil moisture retention at special interest sites until vegetation can ... New Mexico Statutes Annotated (NMSA) 1978.",
+   "htmlSnippet": "Oct 4, 2022 <b>...</b> temperature, and improve soil moisture <b>retention at</b> special interest sites until vegetation can ... <b>New Mexico Statutes Annotated</b> (NMSA) 1978.",
+   "formattedUrl": "https://www.fema.gov/.../fema_oehp-nm-watershed-resiliency-post-wildfire...",
+   "htmlFormattedUrl": "https://www.fema.gov/.../fema_oehp-nm-watershed-resiliency-post-wildfire...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvEvc4-qalENS29vpl6zrLsQ0QwD6B7S8C-RWW9e4JUvUZMVMbS9hVVs&s",
+      "width": "224",
+      "height": "103"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20221012120445-05'00'",
+      "creationdate": "D:20221012083837-05'00'",
+      "creator": "Adobe Acrobat Pro DC (32-bit) 22.2.20191",
+      "author": "FEMA",
+      "subject": "Programmatic Environmental Assessment and Finding of No Significant Impact",
+      "producer": "Adobe Acrobat Pro DC (32-bit) 22.2.20191",
+      "title": "Programmatic EA and FONSI - NM Watershed Resiliency Post-Fire Treatments - October 2022"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///a834f7f904c74bb8b47eee407e5ec5a634f5591da7f31d30000449dc4795eea9"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Acronym Master List:",
+   "htmlTitle": "Acronym Master List:",
+   "link": "https://digital.library.unt.edu/ark:/67531/metadc794079/m2/1/high_res_d/95468.pdf",
+   "displayLink": "digital.library.unt.edu",
+   "snippet": "Jun 5, 1995 ... near-field scanning optical microscopy. National Society of ... retention basin stored waste retrieval facility. Southwest Research\u00a0...",
+   "htmlSnippet": "Jun 5, 1995 <b>...</b> <b>near</b>-field <b>scanning</b> optical microscopy. National Society of ... <b>retention</b> basin stored waste retrieval facility. Southwest Research&nbsp;...",
+   "formattedUrl": "https://digital.library.unt.edu/ark:/67531/metadc794079/.../95468.pdf",
+   "htmlFormattedUrl": "https://digital.library.unt.edu/ark:/67531/metadc794079/.../95468.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0XVXJwcNQ7llwnHPptcMgO4T_aoxwji7yJUnw6Op1iowuJlOdXi_CtPuw&s",
+      "width": "198",
+      "height": "255"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20071130061821-05'00'",
+      "creationdate": "D:20071130061628-05'00'",
+      "creator": "Acrobat Capture 3.0",
+      "producer": "Adobe PDF Library 4.0",
+      "style": "Searchable Image (Exact)"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///e0cf11f0fc26e5c24ad3efca7a0f794f1f3d61a4b3396b577e35059c12cfbd9c"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Gale Encyclopedia of Everyday Law",
+   "htmlTitle": "Gale Encyclopedia of Everyday Law",
+   "link": "http://ndl.ethernet.edu.et/bitstream/123456789/62682/1/Jeffrey%20%20Wilson.pdf",
+   "displayLink": "ndl.ethernet.edu.et",
+   "snippet": "... Driver's License . . . . . . . . . . . . . . . . . . . . . .63. Insurance ... retain/continue the insurance coverage and health insurance benefits they.",
+   "htmlSnippet": "... <b>Driver&#39;s License</b> . . . . . . . . . . . . . . . . . . . . . .63. Insurance ... <b>retain</b>/continue the insurance coverage and health insurance benefits they.",
+   "formattedUrl": "http://ndl.ethernet.edu.et/bitstream/123456789/.../Jeffrey%20%20Wilson.p...",
+   "htmlFormattedUrl": "http://ndl.ethernet.edu.et/bitstream/123456789/.../Jeffrey%20%20Wilson.p...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl7XzRtmSK6l1Iae4MWge6tsjOwMNq1g8HLZq_bo9x2N_xDajQZN8vOs66&s",
+      "width": "224",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20070529160955+04'00'",
+      "creationdate": "D:20070525125055-04'00'",
+      "producer": "PDFlib+PDI 6.0.3 (SunOS)"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///63a1e871edac3cc428a1e5de97cac18f88656fccb330ca82591cf1e6d773f461"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

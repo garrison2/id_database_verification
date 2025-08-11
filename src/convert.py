@@ -33,6 +33,8 @@ def parse_queries():
                 case '# terms':
                     environment = 'terms'
                 case _:
+                    if line[0] == '#':
+                        continue
                     if environment == 'terms':
                         delim = line.find(': ')
                         term = line[:delim]

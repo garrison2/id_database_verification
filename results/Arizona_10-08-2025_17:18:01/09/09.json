@@ -1,0 +1,438 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Arizona\" API OR \"verify\" OR \"verifier\" OR \"reader\" OR \"SDK\" OR \"check\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"transfer\" -\"litigation\" -\"district\"",
+    "totalResults": "186000",
+    "searchTerms": "\"Arizona\" API OR \"verify\" OR \"verifier\" OR \"reader\" OR \"SDK\" OR \"check\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"transfer\" -\"litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Arizona\" API OR \"verify\" OR \"verifier\" OR \"reader\" OR \"SDK\" OR \"check\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"transfer\" -\"litigation\" -\"district\"",
+    "totalResults": "186000",
+    "searchTerms": "\"Arizona\" API OR \"verify\" OR \"verifier\" OR \"reader\" OR \"SDK\" OR \"check\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"transfer\" -\"litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.219762,
+  "formattedSearchTime": "0.22",
+  "totalResults": "186000",
+  "formattedTotalResults": "186,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Mobile Driver License (mDL)",
+   "htmlTitle": "<b>Arizona</b> Mobile Driver License (<b>mDL</b>)",
+   "link": "https://azdot.gov/mvd/mobile-driver-license",
+   "displayLink": "azdot.gov",
+   "snippet": "Arizona Digital ID for Apple Wallet, Google Wallet and Arizona Mobile ID ... However, the mDL requires certain technology to be able to read and verify it.",
+   "htmlSnippet": "<b>Arizona Digital ID</b> for Apple Wallet, Google Wallet and <b>Arizona Mobile ID</b> ... However, the <b>mDL</b> requires certain technology to be able to read and <b>verify</b> it.",
+   "formattedUrl": "https://azdot.gov/mvd/mobile-driver-license",
+   "htmlFormattedUrl": "https://azdot.gov/mvd/mobile-driver-license",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCSgChPV24wsDfADWQtFVphiTZUE39APsarNMLQu4cVEasEuYnWcG67FPc&s",
+      "width": "179",
+      "height": "166"
+     }
+    ],
+    "WebPage": [
+     {
+      "name": "Mobile Driver License"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://azdot.gov/sites/default/files/styles/medium/public/2024-07/app-icon-Apple-Wallet.png?itok=WeugVYWN"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Mobile ID - Apps on Google Play",
+   "htmlTitle": "<b>Arizona Mobile ID</b> - Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.az&hl=en_US",
+   "displayLink": "play.google.com",
+   "snippet": "Including layers of security and privacy controls, Arizona Mobile ID is a contactless, convenient way to verify your identity from your phone.",
+   "htmlSnippet": "Including layers of security and privacy controls, <b>Arizona Mobile ID</b> is a contactless, convenient way to <b>verify</b> your identity from your phone.",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.idemia.mobileid...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.idemia.<b>mobileid</b>...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.az&rdid=com.idemia.mobileid.us.az&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSggQOlqDP4rbMTORUlOksrympp4BCDLmFKiXUbeGwQBXgyZI4GBZElJvjk&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/oLKG-sGvxAelwfZvLWR-_UST30oxz6VN3eQcUZxrJ1R7qNp-TjsUasgWEiNdUqesz5g",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Arizona Mobile ID - Apps on Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.az&hl=en_US",
+      "appstore:developer_url": "about:invalid#navigation",
+      "og:title": "Arizona Mobile ID - Apps on Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/oLKG-sGvxAelwfZvLWR-_UST30oxz6VN3eQcUZxrJ1R7qNp-TjsUasgWEiNdUqesz5g=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.idemia.mobileid.us.az",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.idemia.mobileid.us.az",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "AZ\u2019s official digital ID",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.az&hl=en_US"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/oLKG-sGvxAelwfZvLWR-_UST30oxz6VN3eQcUZxrJ1R7qNp-TjsUasgWEiNdUqesz5g"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile ID | Department of Transportation",
+   "htmlTitle": "<b>Mobile ID</b> | Department of Transportation",
+   "link": "https://azdot.gov/mobile-id-app",
+   "displayLink": "azdot.gov",
+   "snippet": "Arizonans should continue to carry their physical ID as awareness about mDL grows. The Arizona Mobile ID app cannot currently be used at Transportation Security\u00a0...",
+   "htmlSnippet": "Arizonans should continue to carry their physical ID as awareness about <b>mDL</b> grows. The <b>Arizona Mobile ID</b> app cannot currently be used at Transportation Security&nbsp;...",
+   "formattedUrl": "https://azdot.gov/mobile-id-app",
+   "htmlFormattedUrl": "https://azdot.gov/<b>mobile-id</b>-app",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIEXKo2gKfnCeq9jCGU3Bi1E6QI_HQfqwG8BPo7uTpABSFj6ettYjgdx0&s",
+      "width": "100",
+      "height": "196"
+     }
+    ],
+    "WebPage": [
+     {
+      "name": "Mobile ID",
+      "text": "About The Arizona Mobile Driver License App The Arizona Mobile Driver License is a safe, secure, and trustable solution for sharing your driver license that allows for touchless transactions,..."
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://azdot.gov/sites/default/files/01-Get-04-UI-MobileID-TakeSelfie-Jacob.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Mobile ID on the App Store",
+   "htmlTitle": "<b>Arizona Mobile ID</b> on the App Store",
+   "link": "https://apps.apple.com/us/app/arizona-mobile-id/id1534795245",
+   "displayLink": "apps.apple.com",
+   "snippet": "Including layers of security and privacy controls, Arizona Mobile ID is a contactless, convenient way to verify your identity from your phone ... Check Coverage\u00a0...",
+   "htmlSnippet": "Including layers of security and privacy controls, <b>Arizona Mobile ID</b> is a contactless, convenient way to <b>verify</b> your identity from your phone ... <b>Check</b> Coverage&nbsp;...",
+   "formattedUrl": "https://apps.apple.com/us/app/arizona-mobile-id/id1534795245",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/<b>arizona</b>-<b>mobile-id</b>/id1534795245",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuoJmy1Q7tU7oTa5y2A3g7kpNVVyl1eZdGVW5546EqY6Ff1qY9S_jr3u0H&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/00/71/960071cc-2ddc-39fd-f11c-955dc9df4f2a/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eIncluding layers of security and privacy controls, Arizona Mobile ID is a contactless, convenient way to verify your identity from your phone. \n\nArizona Mobile ID allows you to control what information you share during a transaction. For example, when buying age-restricted items, the app can confirm\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/00/71/960071cc-2ddc-39fd-f11c-955dc9df4f2a/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/00/71/960071cc-2ddc-39fd-f11c-955dc9df4f2a/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222530.1.0%2Bdd954829%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "Arizona Mobile ID on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "Arizona Mobile ID on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eArizona Mobile ID",
+      "og:title": "\u200eArizona Mobile ID",
+      "og:image:height": "630",
+      "version": "2530.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eIncluding layers of security and privacy controls, Arizona Mobile ID is a contactless, convenient way to verify your identity from your phone. \n\nArizona Mobile ID allows you to control what information you share during a transaction. For example, when buying age-restricted items, the app can confirm\u2026",
+      "og:locale": "en_US",
+      "apple:content_id": "1534795245",
+      "og:url": "https://apps.apple.com/us/app/arizona-mobile-id/id1534795245"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/00/71/960071cc-2ddc-39fd-f11c-955dc9df4f2a/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "TSA enables Arizona residents to use mobile driver's license or state ...",
+   "htmlTitle": "TSA enables <b>Arizona</b> residents to use <b>mobile driver&#39;s license</b> or state ...",
+   "link": "https://www.tsa.gov/news/press/releases/2022/03/23/tsa-enables-arizona-residents-use-mobile-drivers-license-or-state-id",
+   "displayLink": "www.tsa.gov",
+   "snippet": "Mar 23, 2022 ... ... verify their identity for airport security screening purposes ... reader. The TSA security officer will then verify the passenger's\u00a0...",
+   "htmlSnippet": "Mar 23, 2022 <b>...</b> ... <b>verify</b> their identity for airport security screening purposes ... <b>reader</b>. The TSA security officer will then <b>verify</b> the passenger&#39;s&nbsp;...",
+   "formattedUrl": "https://www.tsa.gov/.../tsa-enables-arizona-residents-use-mobile-drivers-lice...",
+   "htmlFormattedUrl": "https://www.tsa.gov/.../tsa-enables-<b>arizona</b>-residents-use-<b>mobile-drivers-lice</b>...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPmfB7IVmgDmb3IDXSU12352SHrXv5e_5i8yycsOrPNmZwXMWtBL06Rg4&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.tsa.gov/sites/default/files/2025-03/21366_graphic_tsa_open_graph_image_1200x630.jpg",
+      "og:type": "website",
+      "og:image:width": "1200",
+      "og:site_name": "U.S. Department of Homeland Security Transportation Security Administration",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+      "og:title": "TSA enables Arizona residents to use mobile driver\u2019s license or state ID for verification at Phoenix Sky Harbor International Airport | Transportation Security Administration",
+      "mobileoptimized": "width",
+      "og:image:height": "630",
+      "og:image:type": "image/jpg",
+      "og:url": "https://www.tsa.gov/news/press/releases/2022/03/23/tsa-enables-arizona-residents-use-mobile-drivers-license-or-state-id",
+      "og:description": "WASHINGTON \u2013 The Transportation Security Administration (TSA), in collaboration with the State of Arizona and Apple, deployed a new technology that allows airline passengers to use their state-issued mobile driver\u2019s license or mobile identification card in Apple Wallet on iPhone or Apple Watch to verify their identity for airport security screening purposes."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.tsa.gov/sites/default/files/2025-03/21366_graphic_tsa_open_graph_image_1200x630.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile ID FAQs | Arizona State University",
+   "htmlTitle": "<b>Mobile ID</b> FAQs | <b>Arizona</b> State University",
+   "link": "https://cfo.asu.edu/mobile-ID-FAQs",
+   "displayLink": "cfo.asu.edu",
+   "snippet": "... Arizona State University \u00b7 Business and Finance. Breadcrumb. Home; Services; ID Card; Mobile ID ... reader to activate the ASU Mobile ID on your devices\u00a0...",
+   "htmlSnippet": "... <b>Arizona</b> State University &middot; Business and Finance. Breadcrumb. Home; Services; ID Card; <b>Mobile ID</b> ... <b>reader</b> to activate the ASU <b>Mobile ID</b> on your devices&nbsp;...",
+   "formattedUrl": "https://cfo.asu.edu/mobile-ID-FAQs",
+   "htmlFormattedUrl": "https://cfo.asu.edu/<b>mobile-ID</b>-FAQs",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width",
+      "cmsversion": "Webspark2:2.15.3"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Participating States and Eligible Digital IDs | Transportation Security ...",
+   "htmlTitle": "Participating States and Eligible Digital IDs | Transportation Security ...",
+   "link": "https://www.tsa.gov/digital-id/participating-states",
+   "displayLink": "www.tsa.gov",
+   "snippet": "Eligible Digital ID. ID pass (U.S. Passport - domestic travel), Google Wallet \u00b7 Arkansas \u00b7 Arkansas Mobile ID \u00b7 Arizona \u00b7 Apple Wallet, Google Wallet, and\u00a0...",
+   "htmlSnippet": "Eligible <b>Digital ID</b>. ID pass (U.S. Passport - domestic travel), Google Wallet &middot; Arkansas &middot; Arkansas <b>Mobile ID</b> &middot; <b>Arizona</b> &middot; Apple Wallet, Google Wallet, and&nbsp;...",
+   "formattedUrl": "https://www.tsa.gov/digital-id/participating-states",
+   "htmlFormattedUrl": "https://www.tsa.gov/<b>digital-id</b>/participating-states",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPmfB7IVmgDmb3IDXSU12352SHrXv5e_5i8yycsOrPNmZwXMWtBL06Rg4&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.tsa.gov/sites/default/files/2025-03/21366_graphic_tsa_open_graph_image_1200x630.jpg",
+      "og:type": "website",
+      "og:image:width": "1200",
+      "og:site_name": "U.S. Department of Homeland Security Transportation Security Administration",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+      "og:title": "Participating States and Eligible Digital IDs | Transportation Security Administration",
+      "mobileoptimized": "width",
+      "og:image:height": "630",
+      "og:image:type": "image/jpg",
+      "og:url": "https://www.tsa.gov/digital-id/participating-states",
+      "og:description": "The TSA's digital ID program allows travelers from participating states to use mobile driver's licenses or state IDs at select TSA checkpoints. These digital IDs can be added to platforms like Apple Wallet, Google Wallet, or state-specific apps. The program aims to enhance security and streamline the identity verification process. However, travelers must still carry a physical ID as a backup. You can find more details on the TSA's official page."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.tsa.gov/sites/default/files/2025-03/21366_graphic_tsa_open_graph_image_1200x630.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ID Card | Arizona State University",
+   "htmlTitle": "ID Card | <b>Arizona</b> State University",
+   "link": "https://cfo.asu.edu/cardservices",
+   "displayLink": "cfo.asu.edu",
+   "snippet": "Arizona State University \u00b7 Business and Finance ... Check your device's NFC location before setting up your ASU Mobile ID: Apple\u00a0...",
+   "htmlSnippet": "<b>Arizona</b> State University &middot; Business and Finance ... <b>Check</b> your device&#39;s NFC location before setting up your ASU <b>Mobile ID</b>: Apple&nbsp;...",
+   "formattedUrl": "https://cfo.asu.edu/cardservices",
+   "htmlFormattedUrl": "https://cfo.asu.edu/cardservices",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoqcwEJJQkEFMKdgJx_1sAkiJbD035g13fzQVIaHb8YFB_N7szObXCUdmJ&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width",
+      "cmsversion": "Webspark2:2.15.3"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://cfo.asu.edu/sites/g/files/litvpz186/files/inline-images/idphoto-anatomy.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "IDEMIA Brings Mobile ID Technology to Arizona | IDEMIA",
+   "htmlTitle": "IDEMIA Brings <b>Mobile ID</b> Technology to <b>Arizona</b> | IDEMIA",
+   "link": "https://www.idemia.com/press-release/idemia-brings-mobile-id-technology-arizona-2021-03-25",
+   "displayLink": "www.idemia.com",
+   "snippet": "Mar 25, 2021 ... Mobile ID allows Arizona residents to carry a digital version of ... For example, mID can be used to verify a person's identity to\u00a0...",
+   "htmlSnippet": "Mar 25, 2021 <b>...</b> <b>Mobile ID</b> allows <b>Arizona</b> residents to carry a digital version of ... For example, mID can be used to <b>verify</b> a person&#39;s identity to&nbsp;...",
+   "formattedUrl": "https://www.idemia.com/.../idemia-brings-mobile-id-technology-arizona-20...",
+   "htmlFormattedUrl": "https://www.idemia.com/.../idemia-brings-<b>mobile-id</b>-technology-<b>arizona</b>-20...",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:image": "https://www.idemia.com/wp-content/uploads/2021/03/idemia-mobile-id-technology-arizona.jpg",
+      "og:type": "article",
+      "article:published_time": "2021-03-25T14:00:59+00:00",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "IDEMIA Brings Mobile ID Technology to Arizona | IDEMIA",
+      "og:site_name": "IDEMIA",
+      "og:title": "IDEMIA Brings Mobile ID Technology to Arizona | IDEMIA",
+      "og:description": "IDEMIA today launched a Mobile ID offering for Arizona in partnership with the Arizona Department of Transportation Motor Vehicle Division\u2026",
+      "twitter:image": "https://www.idemia.com/wp-content/uploads/2021/03/idemia-mobile-id-technology-arizona.jpg",
+      "article:modified_time": "2025-01-29T09:24:13+00:00",
+      "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes",
+      "twitter:description": "IDEMIA today launched a Mobile ID offering for Arizona in partnership with the Arizona Department of Transportation Motor Vehicle Division\u2026",
+      "og:locale": "en_US",
+      "og:url": "https://www.idemia.com/press-release/idemia-brings-mobile-id-technology-arizona-2021-03-25"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "TSA enables Arizona residents to use mobile driver's license or state ...",
+   "htmlTitle": "TSA enables <b>Arizona</b> residents to use <b>mobile driver&#39;s license</b> or state ...",
+   "link": "https://www.skyharbor.com/about-phx/news-media/press-releases/tsa-enables-arizona-residents-to-use-mobile-driver-s-license-or-state-id-for-verification-at-phoenix-sky-harbor-international-airport/",
+   "displayLink": "www.skyharbor.com",
+   "snippet": "... mobile driver's license or mobile identification card in Apple Wallet on iPhone or Apple Watch to verify their identity for airport security screening purposes.",
+   "htmlSnippet": "... <b>mobile driver&#39;s license</b> or mobile identification card in Apple Wallet on iPhone or Apple Watch to <b>verify</b> their identity for airport security screening purposes.",
+   "formattedUrl": "https://www.skyharbor.com/.../tsa-enables-arizona-residents-to-use-mobile-...",
+   "htmlFormattedUrl": "https://www.skyharbor.com/.../tsa-enables-<b>arizona</b>-residents-to-use-mobile-...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbpj9SKQbX71t1U9kvNCvDiqC7RF2WJyEo0JRq_PTKrDfda_Fn-Pbloqit&s",
+      "width": "308",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#da532c",
+      "og:image": "https://www.skyharbor.com/media/tibfyllf/at-sky-exterior.png",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "TSA enables Arizona residents to use mobile driver\u2019s license or state ID for verification at Phoenix Sky Harbor International Airport | Phoenix Sky Harbor International Airport",
+      "theme-color": "#ffffff",
+      "og:site_name": "Phoenix Sky Harbor International Airport",
+      "og:title": "TSA enables Arizona residents to use mobile driver\u2019s license or state ID for verification at Phoenix Sky Harbor International Airport | Phoenix Sky Harbor International Airport",
+      "og:description": "Read the press release about TSA enabling Arizona residents to use mobile driver's license or state ID for verification at Phoenix Sky Harbor International Airport.",
+      "twitter:image": "https://www.skyharbor.com/media/tibfyllf/at-sky-exterior.png",
+      "twitter:site": "PHXSkyHarbor",
+      "og:locale:alternate": "es_MX",
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+      "twitter:description": "Read the press release about TSA enabling Arizona residents to use mobile driver's license or state ID for verification at Phoenix Sky Harbor International Airport.",
+      "og:locale": "en_US"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.skyharbor.com/media/tibfyllf/at-sky-exterior.png"
+     }
+    ]
+   }
+  }
+ ]
+}

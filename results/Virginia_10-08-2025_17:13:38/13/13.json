@@ -1,0 +1,354 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Code of Virginia\" \"driver's license\" OR \"identification card\" \"scanning\" OR \"swiping\" around 10 \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "totalResults": "5140",
+    "searchTerms": "\"Code of Virginia\" \"driver's license\" OR \"identification card\" \"scanning\" OR \"swiping\" around 10 \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Code of Virginia\" \"driver's license\" OR \"identification card\" \"scanning\" OR \"swiping\" around 10 \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "totalResults": "5140",
+    "searchTerms": "\"Code of Virginia\" \"driver's license\" OR \"identification card\" \"scanning\" OR \"swiping\" around 10 \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.286988,
+  "formattedSearchTime": "0.29",
+  "totalResults": "5140",
+  "formattedTotalResults": "5,140"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Library of Virginia DIGITAL IMAGING GUIDELINES September 2008 ...",
+   "htmlTitle": "Library of Virginia DIGITAL IMAGING GUIDELINES September 2008 ...",
+   "link": "https://www.lva.virginia.gov/agencies/records/electronic/digital_imaging.pdf",
+   "displayLink": "www.lva.virginia.gov",
+   "snippet": "May entail destruction, reformatting, transfer or permanent retention. Dots per inch (DPI): A measurement of the scanning resolution of an image or the quality\u00a0...",
+   "htmlSnippet": "May entail destruction, reformatting, transfer or permanent <b>retention</b>. Dots per inch (DPI): A measurement of the <b>scanning</b> resolution of an image or the quality&nbsp;...",
+   "formattedUrl": "https://www.lva.virginia.gov/agencies/records/.../digital_imaging.pdf",
+   "htmlFormattedUrl": "https://www.lva.virginia.gov/agencies/records/.../digital_imaging.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20180827160152-04'00'",
+      "creationdate": "D:20180827160106-04'00'"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Code of Virginia",
+   "htmlTitle": "<b>Code of Virginia</b>",
+   "link": "https://law.lis.virginia.gov/vacodefull/title18.2/",
+   "displayLink": "law.lis.virginia.gov",
+   "snippet": "... delete, remove, or take back a previously ... The last four digits of a driver's license number, state identification card number, or account number.",
+   "htmlSnippet": "... <b>delete</b>, remove, or take back a previously ... The last four digits of a <b>driver&#39;s license</b> number, state <b>identification card</b> number, or account number.",
+   "formattedUrl": "https://law.lis.virginia.gov/vacodefull/title18.2/",
+   "htmlFormattedUrl": "https://law.lis.virginia.gov/vacodefull/title18.2/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Information Security Standard (SEC501)",
+   "htmlTitle": "Information Security Standard (SEC501)",
+   "link": "https://www.vita.virginia.gov/media/vitavirginiagov/it-governance/psgs/pdf/SEC501-Information-Security-Standard.pdf",
+   "displayLink": "www.vita.virginia.gov",
+   "snippet": "Aug 25, 2022 ... 2) Driver's license number or state identification card number issued in lieu of a driver's ... (10) VULNERABILITY SCANNING | CORRELATE SCANNING\u00a0...",
+   "htmlSnippet": "Aug 25, 2022 <b>...</b> 2) <b>Driver&#39;s license</b> number or state <b>identification card</b> number issued in lieu of a driver&#39;s ... (<b>10</b>) VULNERABILITY <b>SCANNING</b> | CORRELATE <b>SCANNING</b>&nbsp;...",
+   "formattedUrl": "https://www.vita.virginia.gov/.../SEC501-Information-Security-Standard.pd...",
+   "htmlFormattedUrl": "https://www.vita.virginia.gov/.../SEC501-Information-Security-Standard.pd...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSjFyfm4A3BeiK4zl3RQy-lM5rKjR-4rF2H2V665mpBDq5ppLBNN4EJt5b&s",
+      "width": "227",
+      "height": "222"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20220826142841-04'00'",
+      "creationdate": "D:20220826142841-04'00'"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///c3d0aa756c8cb82669c11a53427c8b36ebc70a012ab083c5796773393a5b6e6f"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Electronic Pollbook Certification Standard",
+   "htmlTitle": "Electronic Pollbook Certification Standard",
+   "link": "https://www.elections.virginia.gov/media/election-security/Virginia-Electronic-Poll-Book-Standard---FINAL-2023.pdf",
+   "displayLink": "www.elections.virginia.gov",
+   "snippet": "... retain the TDP as long as the EPB system is marketed or used in the ... As required by the Code of Virginia \u00a724.2-629 (E) and the procurement\u00a0...",
+   "htmlSnippet": "... <b>retain</b> the TDP as long as the EPB system is marketed or used in the ... As required by the <b>Code of Virginia</b> \u00a724.2-629 (E) and the procurement&nbsp;...",
+   "formattedUrl": "https://www.elections.virginia.gov/.../Virginia-Electronic-Poll-Book-Standa...",
+   "htmlFormattedUrl": "https://www.elections.virginia.gov/.../Virginia-Electronic-Poll-Book-Standa...",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20240112061024-05'00'",
+      "creationdate": "D:20230427161318-04'00'",
+      "author": "jxf56655",
+      "producer": "Microsoft: Print To PDF",
+      "title": "Microsoft Word - Virginia_EPB Certification Standard DRAFT 2023.docx"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Child Care Subsidy Program Guidance Manual",
+   "htmlTitle": "Child Care Subsidy Program Guidance Manual",
+   "link": "https://www.dss.virginia.gov/files/division/cc/approved_subsidy_vendors/forms/Child_Care_Subsidy_Guidance_Manuel.pdf",
+   "displayLink": "www.dss.virginia.gov",
+   "snippet": "Code of Virginia, Sections 63.2-217, 63.2-319, 63.2-510, 63.2-611, 63.2-616 ... driver's license, work or school ID, ID for health benefits/ assistance\u00a0...",
+   "htmlSnippet": "<b>Code of Virginia</b>, Sections 63.2-217, 63.2-319, 63.2-510, 63.2-611, 63.2-616 ... <b>driver&#39;s license</b>, work or school ID, ID for health benefits/ assistance&nbsp;...",
+   "formattedUrl": "https://www.dss.virginia.gov/.../Child_Care_Subsidy_Guidance_Manuel.pd...",
+   "htmlFormattedUrl": "https://www.dss.virginia.gov/.../Child_Care_Subsidy_Guidance_Manuel.pd...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoPjKucHt7IexWZ4syZoJJ4wjy2sza9vpwdVWLRFHIy2tF2EAMeMX9v6PO&s",
+      "width": "308",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20200129085002-05'00'",
+      "creator": "Microsoft\u00ae Word 2016",
+      "creationdate": "D:20200129085002-05'00'",
+      "author": "TV",
+      "producer": "Microsoft\u00ae Word 2016"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///b35f005611ad0bf7658d7b33552c688c2bf2122494a1016dafa10e2f6449972b"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2024 VCC",
+   "htmlTitle": "2024 VCC",
+   "link": "http://www.vcsc.virginia.gov/VCCs/2024/2024VCCCodeBook.pdf",
+   "displayLink": "www.vcsc.virginia.gov",
+   "snippet": "In many instances, there is one VCC per section in the Code of Virginia. For ... retain records by. DOG-4586-M1. 3.2-6511.1(C). 0-12M. \u00a7. Unlicensed dog\u00a0...",
+   "htmlSnippet": "In many instances, there is one VCC per section in the <b>Code of Virginia</b>. For ... <b>retain</b> records by. DOG-4586-M1. 3.2-6511.1(C). 0-12M. \u00a7. Unlicensed dog&nbsp;...",
+   "formattedUrl": "http://www.vcsc.virginia.gov/VCCs/2024/2024VCCCodeBook.pdf",
+   "htmlFormattedUrl": "http://www.vcsc.virginia.gov/VCCs/2024/2024VCCCodeBook.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8gcs1QfM_1MDYIu402d32Vt9Z1lcKPMZ3VBxTehGUqODhUWCeAvn_0xc1&s",
+      "width": "266",
+      "height": "190"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20240508082459-04'00'",
+      "creationdate": "D:20240508080107-04'00'",
+      "creator": "Adobe InDesign 19.3 (Windows)",
+      "producer": "Adobe PDF Library 17.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///9c72e76226e792c2935c2eda3d6346f082050f6cafcc5115c4139ce23320ccd1"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Virginia Department of State Police E-Summons Pilot Project ...",
+   "htmlTitle": "Virginia Department of State Police E-Summons Pilot Project ...",
+   "link": "https://rga.lis.virginia.gov/Published/2019/RD498/PDF",
+   "displayLink": "rga.lis.virginia.gov",
+   "snippet": "Oct 28, 2019 ... Authorizing the Virginia State. Police to retain funding through the Section 17.1-279.1 of the Code of Virginia would be ... driver's license\u00a0...",
+   "htmlSnippet": "Oct 28, 2019 <b>...</b> Authorizing the Virginia State. Police to <b>retain</b> funding through the Section 17.1-279.1 of the <b>Code of Virginia</b> would be ... <b>driver&#39;s license</b>&nbsp;...",
+   "formattedUrl": "https://rga.lis.virginia.gov/Published/2019/RD498/PDF",
+   "htmlFormattedUrl": "https://rga.lis.virginia.gov/Published/2019/RD498/PDF",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMDPdl5tssYsVc9rIHfKJBHvYmuPSXop-DVbXglkfDrGrQN8JzyqX7GUg&s",
+      "width": "259",
+      "height": "194"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20191104104555-05'00'",
+      "creationdate": "D:20191101090443-04'00'",
+      "creator": "Microsoft\u00ae Word 2010",
+      "author": "mb00",
+      "producer": "Microsoft\u00ae Word 2010",
+      "title": "Virginia Department of State Police E-Summons Pilot Project Activities and Outcomes of System Implementation \u2013 October 2019"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///9cdf312bfe3bf410a7b49644a2b04be1d9c34d30f8f5f9d0e076da8524e82a30"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Local Board Member Handbook 2023",
+   "htmlTitle": "Local Board Member Handbook 2023",
+   "link": "https://www.dss.virginia.gov/about/files/lb_handbook.pdf",
+   "displayLink": "www.dss.virginia.gov",
+   "snippet": "EAP regulations can be found at Chapter 680 of the Administrative Code of Virginia. ... accounts, cardholders spend them by swiping their EBT card at the point of\u00a0...",
+   "htmlSnippet": "EAP regulations can be found <b>at</b> Chapter 680 of the Administrative <b>Code of Virginia</b>. ... accounts, cardholders spend them by <b>swiping</b> their EBT card <b>at</b> the point of&nbsp;...",
+   "formattedUrl": "https://www.dss.virginia.gov/about/files/lb_handbook.pdf",
+   "htmlFormattedUrl": "https://www.dss.virginia.gov/about/files/lb_handbook.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSEtOB1spKxDam3RCObW-Tc5DDB295ukm0u7gOKxe1j_Gu9l9O5w0zHUQ&s",
+      "width": "228",
+      "height": "221"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20230313111927-04'00'",
+      "creationdate": "D:20230313111927-04'00'"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///847ab1c794b3c741c7bf119e5ea42a79cd645535bfdb0439fda2f84d22921f5a"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Security and Confidentiality Policies and Procedures | Virginia ...",
+   "htmlTitle": "Security and Confidentiality Policies and Procedures | Virginia ...",
+   "link": "https://www.vdh.virginia.gov/content/uploads/sites/10/2016/01/DDP_Security_and_Confidentiality_Policies_and_Procedures.pdf",
+   "displayLink": "www.vdh.virginia.gov",
+   "snippet": "The Code of Virginia is the statutory law of Virginia and consists of ... retention, see the Records Retention and Disposal Guidelines & Procedures.",
+   "htmlSnippet": "The <b>Code of Virginia</b> is the statutory law of Virginia and consists of ... <b>retention</b>, see the Records <b>Retention</b> and Disposal Guidelines &amp; Procedures.",
+   "formattedUrl": "https://www.vdh.virginia.gov/.../10/.../DDP_Security_and_Confidentiality_...",
+   "htmlFormattedUrl": "https://www.vdh.virginia.gov/.../<b>10</b>/.../DDP_Security_and_Confidentiality_...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRepgw7V-DCbTUSe1qq34kr0DbV4qT_iZQf2UqeWiliYXd8SJj1kqaaYiXV&s",
+      "width": "174",
+      "height": "290"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20140529124009-04'00'",
+      "creationdate": "D:20140529123853-04'00'",
+      "creator": "Adobe Acrobat Pro 10.0.0",
+      "author": "Yiliu Chen",
+      "producer": "Adobe Acrobat Pro 10.0.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///b5cbfd6825ee9aa9cb8b325b28da6a338ef68b7b4b952942cda5334b82334d4c"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "RESPONSIBILITY GUIDE FOR LICENSEES",
+   "htmlTitle": "RESPONSIBILITY GUIDE FOR LICENSEES",
+   "link": "https://www.townhall.virginia.gov/l/GetFile.cfm?File=C:\\TownHall\\docroot\\GuidanceDocs\\999\\GDoc_ABC_1851_v2.pdf",
+   "displayLink": "www.townhall.virginia.gov",
+   "snippet": "Fraudulent use of driver's license or Department of Motor Vehicles identification card to obtain alcoholic beverages. \u25bbAny underage person found using a\u00a0...",
+   "htmlSnippet": "Fraudulent use of <b>driver&#39;s license</b> or Department of Motor Vehicles <b>identification card</b> to obtain alcoholic beverages. \u25bbAny underage person found using a&nbsp;...",
+   "formattedUrl": "https://www.townhall.virginia.gov/l/GetFile.cfm?File=C...ABC_1851...",
+   "htmlFormattedUrl": "https://www.townhall.virginia.gov/l/GetFile.cfm?File=C...ABC_1851...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuVJqUIILj5hvaLUQKdSVDXvv6PJuL1DTHSYKHQvj8LRsvyR39Io3yQDA&s",
+      "width": "278",
+      "height": "181"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20170214141901-05'00'",
+      "creationdate": "D:20160523162706-04'00'",
+      "creator": "Adobe InDesign CC 2015 (Macintosh)",
+      "producer": "Adobe PDF Library 15.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///843858593560485abeac45dad0b1a6c68c59fbce82e7f8610424fdf51d488b58"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

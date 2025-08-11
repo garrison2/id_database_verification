@@ -1,0 +1,458 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Florida\" API OR \"verify\" OR \"verifier\" OR \"reader\" OR \"SDK\" OR \"check\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"transfer\" -\"litigation\" -\"district\"",
+    "totalResults": "400000",
+    "searchTerms": "\"Florida\" API OR \"verify\" OR \"verifier\" OR \"reader\" OR \"SDK\" OR \"check\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"transfer\" -\"litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Florida\" API OR \"verify\" OR \"verifier\" OR \"reader\" OR \"SDK\" OR \"check\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"transfer\" -\"litigation\" -\"district\"",
+    "totalResults": "400000",
+    "searchTerms": "\"Florida\" API OR \"verify\" OR \"verifier\" OR \"reader\" OR \"SDK\" OR \"check\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"transfer\" -\"litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.2277,
+  "formattedSearchTime": "0.23",
+  "totalResults": "400000",
+  "formattedTotalResults": "400,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Florida Mobile ID Updates",
+   "htmlTitle": "<b>Florida Mobile ID</b> Updates",
+   "link": "https://idscan.net/state-digital-id/florida-mobile-id-updates/",
+   "displayLink": "idscan.net",
+   "snippet": "Florida mobile ID updates. State of mobile ID in Florida; Other Florida mDL ... API & SDK Library \u00b7 Open A Ticket \u00b7 Track A Shipment \u00b7 Make A Return \u00b7 Hardware\u00a0...",
+   "htmlSnippet": "<b>Florida mobile ID</b> updates. State of <b>mobile ID</b> in <b>Florida</b>; Other <b>Florida mDL</b> ... <b>API</b> &amp; <b>SDK</b> Library &middot; Open A Ticket &middot; Track A Shipment &middot; Make A Return &middot; Hardware&nbsp;...",
+   "formattedUrl": "https://idscan.net/state-digital-id/florida-mobile-id-updates/",
+   "htmlFormattedUrl": "https://idscan.net/state-<b>digital-id</b>/<b>florida</b>-<b>mobile-id</b>-updates/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7RU3DkJRwKciLF9zDoDTlBt9dUkl8FViZikuIQK_SmpUBNJiyr9yWwLI&s",
+      "width": "267",
+      "height": "189"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://idscan.net/wp-content/uploads/florida-smartid-digital-id.png?lm=66A73175",
+      "og:type": "article",
+      "og:image:width": "916",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "IDScan.net",
+      "og:title": "Florida Mobile ID Updates",
+      "og:image:height": "648",
+      "og:image:type": "image/png",
+      "msapplication-tileimage": "https://idscan.net/wp-content/uploads/cropped-idscan-identity-verification-software-icon-1-270x270.png",
+      "og:description": "Florida has ended their SmartID by Thales app, and asked users to delete the app. Its back to the drawing board for a Florida mobile ID.",
+      "article:publisher": "https://www.facebook.com/idscannet",
+      "twitter:site": "@idscan_net",
+      "article:modified_time": "2025-02-26T21:18:37+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://idscan.net/state-digital-id/florida-mobile-id-updates/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://idscan.net/wp-content/uploads/florida-smartid-digital-id.png?lm=66A73175"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Florida - mDL Connection",
+   "htmlTitle": "<b>Florida</b> - <b>mDL</b> Connection",
+   "link": "https://www.mdlconnection.com/implementation-tracker-map/florida/",
+   "displayLink": "www.mdlconnection.com",
+   "snippet": "Florida Smart ID Verifier: Google Play \u00b7 How to Enroll in Florida Smart ID ... New Florida Digital ID Pilot Being Tested, June 20, 2022 \u00b7 Florida looks to\u00a0...",
+   "htmlSnippet": "<b>Florida</b> Smart ID <b>Verifier</b>: Google Play &middot; How to Enroll in <b>Florida</b> Smart ID ... New <b>Florida Digital ID</b> Pilot Being Tested, June 20, 2022 &middot; <b>Florida</b> looks to&nbsp;...",
+   "formattedUrl": "https://www.mdlconnection.com/implementation-tracker-map/florida/",
+   "htmlFormattedUrl": "https://www.<b>mdl</b>connection.com/implementation-tracker-map/<b>florida</b>/",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "mDL Connection",
+      "article:modified_time": "2024-07-12T16:26:42+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "Florida - mDL Connection",
+      "og:locale": "en_US",
+      "twitter:label1": "Est. reading time",
+      "og:url": "https://www.mdlconnection.com/implementation-tracker-map/florida/",
+      "msapplication-tileimage": "https://www.mdlconnection.com/wp-content/uploads/2020/04/cropped-mDLConnection-icon@2x-270x270.png",
+      "twitter:data1": "2 minutes"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "My Health Toolkit\u200b | Blue Cross Blue Shield of Florida",
+   "htmlTitle": "My Health Toolkit\u200b | Blue Cross Blue Shield of <b>Florida</b>",
+   "link": "https://member.myhealthtoolkitfl.com/web/public/brands/fl/manage-your-plan/my-health-toolkit/",
+   "displayLink": "member.myhealthtoolkitfl.com",
+   "snippet": "View and share your digital ID card. Submit and check the status of your claims. ... Blue Cross and Blue Shield of Florida, Inc. is an Independent Licensee\u00a0...",
+   "htmlSnippet": "View and share your <b>digital ID</b> card. Submit and <b>check</b> the status of your claims. ... Blue Cross and Blue Shield of <b>Florida</b>, Inc. is an Independent Licensee&nbsp;...",
+   "formattedUrl": "https://member.myhealthtoolkitfl.com/web/public/.../my-health-toolkit/",
+   "htmlFormattedUrl": "https://member.myhealthtoolkitfl.com/web/public/.../my-health-toolkit/",
+   "pagemap": {
+    "metatags": [
+     {
+      "smartbanner:button-url-apple": "https://itunes.apple.com/us/app/my-health-toolkit/id1318516799?mt=8",
+      "smartbanner:price": "FREE",
+      "smartbanner:price-suffix-google": "- In Google Play",
+      "smartbanner:button": "VIEW",
+      "smartbanner:button-url-google": "https://play.google.com/store/apps/details?id=com.bcbssc.myhealthtoolkit.mobile&hl=en",
+      "smartbanner:price-suffix-apple": "- On the App Store",
+      "branding": "fl",
+      "cobranding": "fl",
+      "smartbanner:enabled-platforms": "android,ios",
+      "smartbanner:title": "My Health Toolkit\u00ae",
+      "smartbanner:icon-google": "/web/public/resources/34beaf53-5d91-4bf1-8823-d05293b32539/mhtk-mobile-app-icon.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_J8HC1841O8UG50QSGO8C690083-34beaf53-5d91-4bf1-8823-d05293b32539-mQWo9yX",
+      "smartbanner:author": "My Health Toolkit, LLC",
+      "smartbanner:icon-apple": "/web/public/resources/34beaf53-5d91-4bf1-8823-d05293b32539/mhtk-mobile-app-icon.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_J8HC1841O8UG50QSGO8C690083-34beaf53-5d91-4bf1-8823-d05293b32539-mQWo9yX",
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "HOW TO CREATE A DIGITAL ID & INCORPORATE SEAL",
+   "htmlTitle": "HOW TO CREATE A <b>DIGITAL ID</b> &amp; INCORPORATE SEAL",
+   "link": "https://fortmyers.gov/DocumentCenter/View/14686/Create-Digital-ID---Acrobat-Reader-revised-2-2-2024",
+   "displayLink": "fortmyers.gov",
+   "snippet": "Page 1 of 6. The below instructions are for creating a Digital ID in Acrobat Reader DC Version 2015.010. ... C. S. Hammatt, State of Florida, Professional\u00a0...",
+   "htmlSnippet": "Page 1 of 6. The below instructions are for creating a <b>Digital ID</b> in Acrobat <b>Reader</b> DC Version 2015.010. ... C. S. Hammatt, State of <b>Florida</b>, Professional&nbsp;...",
+   "formattedUrl": "https://fortmyers.gov/.../Create-Digital-ID---Acrobat-Reader-revised-2-2-20...",
+   "htmlFormattedUrl": "https://fortmyers.gov/.../Create-<b>Digital-ID</b>---Acrobat-<b>Reader</b>-revised-2-2-20...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQBnjlw8vVNknzZ3bfJb9rNUf5RLoFW29058gXC7xZTUTMtiaUg2tqjEhW&s",
+      "width": "242",
+      "height": "209"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20250227111237-05'00'",
+      "creationdate": "D:20250227111130-05'00'",
+      "creator": "Acrobat PDFMaker 15 for Word",
+      "lastsaved": "D:20250218",
+      "author": "Christy Barker",
+      "created": "D:20160713",
+      "producer": "Adobe PDF Library 15.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///d25aa814c5ece59efa875733a1ae42e1521b8a8a300b6c1db3318c16f0e3fc9d"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Has anyone actually tried to use the Florida Highway Safety and ...",
+   "htmlTitle": "Has anyone actually tried to use the <b>Florida</b> Highway Safety and ...",
+   "link": "https://www.reddit.com/r/florida/comments/1aejl3j/has_anyone_actually_tried_to_use_the_florida/",
+   "displayLink": "www.reddit.com",
+   "snippet": "Jan 30, 2024 ... ... verify your digital ID within the app. They basically have to ... r/florida icon. r/florida. \u2022 6 mo. ago. Florida license suspended. 32 comments\u00a0...",
+   "htmlSnippet": "Jan 30, 2024 <b>...</b> ... <b>verify</b> your <b>digital ID</b> within the app. They basically have to ... r/<b>florida</b> icon. r/<b>florida</b>. \u2022 6 mo. ago. <b>Florida</b> license suspended. 32 comments&nbsp;...",
+   "formattedUrl": "https://www.reddit.com/.../florida/.../has_anyone_actually_tried_to_use_the...",
+   "htmlFormattedUrl": "https://www.reddit.com/.../<b>florida</b>/.../has_anyone_actually_tried_to_use_the...",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:image": "https://share.redd.it/preview/post/1aejl3j",
+      "theme-color": "#000000",
+      "og:image:width": "1200",
+      "og:type": "website",
+      "og:image:alt": "An image containing a preview of the post",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "r/florida on Reddit: Has anyone actually tried to use the Florida Highway Safety and Motor Vehicles Smart ID app to purchase an age restricted item in FL?",
+      "og:site_name": "Reddit",
+      "og:title": "r/florida on Reddit: Has anyone actually tried to use the Florida Highway Safety and Motor Vehicles Smart ID app to purchase an age restricted item in FL?",
+      "og:image:height": "630",
+      "msapplication-navbutton-color": "#000000",
+      "og:description": "Posted by u/madcatzplayer5 - 12 votes and 34 comments",
+      "twitter:image": "https://share.redd.it/preview/post/1aejl3j",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "twitter:site": "@reddit",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "apple-mobile-web-app-capable": "yes",
+      "og:ttl": "600",
+      "og:url": "https://www.reddit.com/r/florida/comments/1aejl3j/has_anyone_actually_tried_to_use_the_florida/?seeker-session=true"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile ID Instructions Installing the Mobile ID App 1. Download ...",
+   "htmlTitle": "<b>Mobile ID</b> Instructions Installing the <b>Mobile ID</b> App 1. Download ...",
+   "link": "https://housing.fiu.edu/_assets/fiu-mobile-id-instructions.pdf",
+   "displayLink": "housing.fiu.edu",
+   "snippet": "Download CBORD Mobile ID app for free (available for iOS and Google Play). 2. Launch the app. 3. From the menu or settings, select Florida International\u00a0...",
+   "htmlSnippet": "Download CBORD <b>Mobile ID</b> app for free (available for iOS and Google Play). 2. Launch the app. 3. From the menu or settings, select <b>Florida</b> International&nbsp;...",
+   "formattedUrl": "https://housing.fiu.edu/_assets/fiu-mobile-id-instructions.pdf",
+   "htmlFormattedUrl": "https://housing.fiu.edu/_assets/fiu-<b>mobile-id</b>-instructions.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8Pj5dttQRKZDKEMDb-F-WBds8hoC-k84HNpFu5tX38UFb3DKGAD41iTI&s",
+      "width": "332",
+      "height": "152"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20231012084829-04'00'",
+      "creationdate": "D:20231012084829-04'00'",
+      "creator": "Microsoft\u00ae Word for Microsoft 365",
+      "author": "Ricky Sant",
+      "producer": "Microsoft\u00ae Word for Microsoft 365"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///ec14f81d0b3c1d3e4941f5d9e24d548aaa3642fcbb574ddbe3084690ded6d8c1"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "UF to Offer Mobile GATOR ONE on Digital Wallets this Fall ...",
+   "htmlTitle": "UF to Offer Mobile GATOR ONE on Digital Wallets this Fall ...",
+   "link": "https://businessservices.ufl.edu/2023/04/27/uf-to-offer-mobile-gatorone-on-digital-wallets-this-fall/",
+   "displayLink": "businessservices.ufl.edu",
+   "snippet": "Apr 27, 2023 ... UF is the first higher-education institution in the state to implement mobile ID technology. The University of Florida will offer its\u00a0...",
+   "htmlSnippet": "Apr 27, 2023 <b>...</b> UF is the first higher-education institution in the state to implement <b>mobile ID</b> technology. The University of <b>Florida</b> will offer its&nbsp;...",
+   "formattedUrl": "https://businessservices.ufl.edu/.../uf-to-offer-mobile-gatorone-on-digital-w...",
+   "htmlFormattedUrl": "https://businessservices.ufl.edu/.../uf-to-offer-mobile-gatorone-on-digital-w...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3TKle40YAikkC2f0IwaWvL56PBCz0c3qbR5ZEBIMrtZlnwhIRi1vSt-az&s",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://businessservices.ufl.edu/wp-content/uploads/2023/04/DSC08496-scaled.jpg",
+      "og:type": "article",
+      "article:published_time": "2023-04-27T13:18:44+00:00",
+      "og:image:width": "2560",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Business Services",
+      "author": "moyer13",
+      "og:title": "UF to Offer Mobile GATOR ONE on Digital Wallets this Fall - Business Services",
+      "og:image:height": "1707",
+      "twitter:label1": "Written by",
+      "twitter:label2": "Est. reading time",
+      "og:image:type": "image/jpeg",
+      "og:description": "UF is the first higher-education institution in the state to implement mobile ID technology. The University of Florida will offer its students, faculty and staff contactless technology on campus to conveniently access campus buildings, purchase food, check in for events, use library services, and more. The shift from physical cards to a contactless GATOR ONE [\u2026]",
+      "twitter:data1": "moyer13",
+      "twitter:data2": "2 minutes",
+      "article:modified_time": "2023-04-27T13:47:23+00:00",
+      "viewport": "width=device-width,initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://businessservices.ufl.edu/2023/04/27/uf-to-offer-mobile-gatorone-on-digital-wallets-this-fall/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://businessservices.ufl.edu/wp-content/uploads/2023/04/DSC08496-scaled.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Which states allow digital driver's license on iPhone, Android?",
+   "htmlTitle": "Which states allow <b>digital driver&#39;s license</b> on iPhone, Android?",
+   "link": "https://www.palmbeachpost.com/story/news/2024/01/08/florida-drivers-license-digital-smart-app-california/72145314007/",
+   "displayLink": "www.palmbeachpost.com",
+   "snippet": "Jan 8, 2024 ... When used with an associated Florida Smart ID Verifier, customers ... Will Florida digital driver's license, Florida Smart ID, work on Android\u00a0...",
+   "htmlSnippet": "Jan 8, 2024 <b>...</b> When used with an associated <b>Florida</b> Smart ID <b>Verifier</b>, customers ... Will <b>Florida digital driver&#39;s license</b>, <b>Florida</b> Smart ID, work on Android&nbsp;...",
+   "formattedUrl": "https://www.palmbeachpost.com/story/news/.../florida.../72145314007/",
+   "htmlFormattedUrl": "https://www.palmbeachpost.com/story/news/.../<b>florida</b>.../72145314007/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAsOGhyXowUJ8tnd8MhQaPWBATkocXbBiiQqST7ck4Z0IIikAuxiN__b8&s",
+      "width": "299",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.palmbeachpost.com/gcdn/presto/2022/05/09/NTGS/5323e7c6-155f-4f05-ae54-24e18d2f9d7a-FLHSMV_Brochure.png?crop=1049,591,x0,y8&width=1049&height=591&format=pjpg&auto=webp",
+      "theme-color": "#0098FE",
+      "og:image:width": "1049",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Can you put Florida driver's license on your phone? What to know about Florida Smart ID",
+      "og:site_name": "The Palm Beach Post",
+      "og:title": "Can you put Florida driver's license on your phone? What to know about Florida Smart ID",
+      "og:image:height": "591",
+      "google": "notranslate",
+      "og:description": "The Florida Smart ID app is a secure version of your driver's license, which can be downloaded on your smart device when launched.",
+      "fb:pages": "33989251494",
+      "twitter:creator": "@pbpost",
+      "article:author": "Jennifer Sangalang",
+      "twitter:image": "https://www.palmbeachpost.com/gcdn/presto/2022/05/09/NTGS/5323e7c6-155f-4f05-ae54-24e18d2f9d7a-FLHSMV_Brochure.png?crop=1049,591,x0,y8&width=1049&height=524&format=pjpg&auto=webp",
+      "fb:app_id": "1478060222401946",
+      "twitter:site": "@pbpost",
+      "viewport": "width=device-width,initial-scale=1,minimum-scale=1",
+      "twitter:description": "The Florida Smart ID app is a secure version of your driver's license, which can be downloaded on your smart device when launched.",
+      "article:content_tier": "free",
+      "og:url": "https://www.palmbeachpost.com/story/news/2024/01/08/florida-drivers-license-digital-smart-app-california/72145314007/",
+      "article:opinion": "false"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.palmbeachpost.com/gcdn/presto/2022/05/09/NTGS/5323e7c6-155f-4f05-ae54-24e18d2f9d7a-FLHSMV_Brochure.png?crop=1049,591,x0,y8&width=1049&height=591&format=pjpg&auto=webp"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Florida Statewide Medicaid Dental Coverage | DentaQuest",
+   "htmlTitle": "<b>Florida</b> Statewide Medicaid Dental Coverage | DentaQuest",
+   "link": "https://www.dentaquest.com/en/members/florida-medicaid-dental-coverage/statewide-medicaid-managed-care",
+   "displayLink": "www.dentaquest.com",
+   "snippet": "FLORIDA MEDICAID. Florida Medicaid Dental Program. Looking for a different state or plan? Change selection. Get Your Digital ID. Remember to bring you/your\u00a0...",
+   "htmlSnippet": "<b>FLORIDA</b> MEDICAID. <b>Florida</b> Medicaid Dental Program. Looking for a different state or plan? Change selection. Get Your <b>Digital ID</b>. Remember to bring you/your&nbsp;...",
+   "formattedUrl": "https://www.dentaquest.com/en/.../florida.../statewide-medicaid-managed-ca...",
+   "htmlFormattedUrl": "https://www.dentaquest.com/en/.../<b>florida</b>.../statewide-medicaid-managed-ca...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDWZGAzz5P3khEyfoqdZxykrChEUMJQyrgIfJFDmMTJ1MomC-kN6XlAED6&s",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "imageobject": [
+     {
+      "contenturl": "https://www.dentaquest.com/content/experience-fragments/dentaquest/us/en/site/header/master/_jcr_content/root/container/header/logo.coreimg.svg/1687380479971/dq-sunlife-logo.svg"
+     },
+     {
+      "contenturl": "https://www.dentaquest.com/content/experience-fragments/dentaquest/us/en/site/header/master/_jcr_content/root/container/header/logo.coreimg.svg/1687380479971/dq-sunlife-logo.svg"
+     },
+     {
+      "contenturl": "https://www.dentaquest.com/adobe/dynamicmedia/deliver/dm-aid--9f466597-fd42-41e6-b7a2-09660777bd77/family-with-a-dentist.jpg?quality=85&preferwebp=true",
+      "caption": "Family with a dentist"
+     },
+     {
+      "contenturl": "https://www.dentaquest.com/adobe/dynamicmedia/deliver/dm-aid--98a70dfd-f596-4c8e-b326-4e778296abed/mydentaquest.jpg?quality=85&preferwebp=true"
+     },
+     {
+      "contenturl": "https://www.dentaquest.com/adobe/dynamicmedia/deliver/dm-aid--80404598-6264-480a-a535-38cce31d04df/mother-and-daughter-at-the-park.jpg?quality=85&preferwebp=true",
+      "caption": "Mother and daughter at the park"
+     },
+     {
+      "contenturl": "https://www.dentaquest.com/adobe/dynamicmedia/deliver/dm-aid--f01d5c35-5a42-4b02-9213-81eb27dfa92f/mother-and-daughter-contacting-dentaquest-support.jpg?quality=85&preferwebp=true",
+      "caption": "Mother and Daughter Contacting DentaQuest Support"
+     },
+     {
+      "contenturl": "https://www.dentaquest.com/adobe/dynamicmedia/deliver/dm-aid--e3e1b264-ba88-4d9e-8ea4-934816d6ccf4/family-excited-about-oral-health.jpg?quality=85&preferwebp=true",
+      "caption": "Preventistry Pulse Image"
+     },
+     {
+      "contenturl": "https://www.dentaquest.com/content/experience-fragments/dentaquest/us/en/site/footer/master/_jcr_content/root/container_1923334321/container/image.coreimg.svg/1685555758937/dq-sunlife-logo.svg",
+      "caption": "DentaQuest Logo"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "plan-pages",
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dentaquest.com/adobe/dynamicmedia/deliver/dm-aid--80404598-6264-480a-a535-38cce31d04df/mother-and-daughter-at-the-park.jpg?quality=85&preferwebp=true"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Gator ONE goes digital: UF rolls out mobile credentials News ...",
+   "htmlTitle": "Gator ONE goes digital: UF rolls out mobile credentials News ...",
+   "link": "https://news.ufl.edu/2023/04/mobile-gatorone/",
+   "displayLink": "news.ufl.edu",
+   "snippet": "Apr 27, 2023 ... ... reader at the UF Bookstore. UF is the first higher-education institution in the state to implement mobile ID technology. ... check in for\u00a0...",
+   "htmlSnippet": "Apr 27, 2023 <b>...</b> ... <b>reader</b> at the UF Bookstore. UF is the first higher-education institution in the state to implement <b>mobile ID</b> technology. ... <b>check</b> in for&nbsp;...",
+   "formattedUrl": "https://news.ufl.edu/2023/04/mobile-gatorone/",
+   "htmlFormattedUrl": "https://news.ufl.edu/2023/04/mobile-gatorone/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlF90lCVeRDpihP8wTVxg7W07jHX1eCpBDqPHO_RODdHrU8UvB6w1sbDA&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://news.ufl.edu/media/newsufledu/images/2023/04/DSC08496-1024x683_square.jpg",
+      "twitter:card": "summary",
+      "twitter:title": "Gator ONE goes digital: UF rolls out mobile credentials",
+      "og:type": "website",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Gator ONE goes digital: UF rolls out mobile credentials",
+      "pageid": "282696",
+      "twitter:image": "https://news.ufl.edu/media/newsufledu/images/2023/04/DSC08496-1024x683_square.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://news.ufl.edu/media/newsufledu/images/2023/04/DSC08496-1024x683_square.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

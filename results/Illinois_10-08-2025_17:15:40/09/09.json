@@ -1,0 +1,440 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Illinois\" API OR \"verify\" OR \"verifier\" OR \"reader\" OR \"SDK\" OR \"check\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"transfer\" -\"litigation\" -\"district\"",
+    "totalResults": "146000",
+    "searchTerms": "\"Illinois\" API OR \"verify\" OR \"verifier\" OR \"reader\" OR \"SDK\" OR \"check\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"transfer\" -\"litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Illinois\" API OR \"verify\" OR \"verifier\" OR \"reader\" OR \"SDK\" OR \"check\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"transfer\" -\"litigation\" -\"district\"",
+    "totalResults": "146000",
+    "searchTerms": "\"Illinois\" API OR \"verify\" OR \"verifier\" OR \"reader\" OR \"SDK\" OR \"check\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"transfer\" -\"litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.300472,
+  "formattedSearchTime": "0.30",
+  "totalResults": "146000",
+  "formattedTotalResults": "146,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "myHFS Login",
+   "htmlTitle": "myHFS Login",
+   "link": "https://medi.hfs.illinois.gov/",
+   "displayLink": "medi.hfs.illinois.gov",
+   "snippet": "Check Browser. Register ... If you need to update the information associated with your State of Illinois Digital ID, then choose 'Manage Digital ID'.",
+   "htmlSnippet": "<b>Check</b> Browser. Register ... If you need to update the information associated with your State of <b>Illinois Digital ID</b>, then choose &#39;Manage <b>Digital ID</b>&#39;.",
+   "formattedUrl": "https://medi.hfs.illinois.gov/",
+   "htmlFormattedUrl": "https://medi.hfs.<b>illinois</b>.gov/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MEDI Home | HFS",
+   "htmlTitle": "MEDI Home | HFS",
+   "link": "https://hfs.illinois.gov/medicalproviders/edi/medi.html",
+   "displayLink": "hfs.illinois.gov",
+   "snippet": "The secure Web site for the Illinois Department of Healthcare and Family Services. This Web site allows authorized users online access to departmental\u00a0...",
+   "htmlSnippet": "The secure Web site for the <b>Illinois</b> Department of Healthcare and Family Services. This Web site allows authorized users online access to departmental&nbsp;...",
+   "formattedUrl": "https://hfs.illinois.gov/medicalproviders/edi/medi.html",
+   "htmlFormattedUrl": "https://hfs.<b>illinois</b>.gov/medicalproviders/edi/medi.html",
+   "pagemap": {
+    "imageobject": [
+     {
+      "contenturl": "https://s7d1.scene7.com/is/image/isp/medi?qlt=100&wid=600&ts=1679411057209&$Responsive$&fit=constrain",
+      "caption": "medi.png"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "Left Navigation Page",
+      "twitter:card": "summary",
+      "twitter:title": "Medi",
+      "og:type": "agency-left-navigation-page",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:url": "https://hfs.illinois.gov/medicalproviders/edi/medi.html",
+      "twitter:description": "Alert! Please Read!",
+      "og:title": "Medi",
+      "og:locale": "en",
+      "google": "notranslate",
+      "og:url": "https://hfs.illinois.gov/medicalproviders/edi/medi.html",
+      "og:description": "Alert! Please Read!"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "HFS",
+      "name": "HFS",
+      "position": "1"
+     },
+     {
+      "item": "Medical Providers",
+      "name": "Medical Providers",
+      "position": "2"
+     },
+     {
+      "item": "Electronic Data Interchange (EDI)",
+      "name": "Electronic Data Interchange (EDI)",
+      "position": "3"
+     },
+     {
+      "item": "Medi",
+      "name": "Medi",
+      "position": "4"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "PKI FAQ - Security",
+   "htmlTitle": "PKI FAQ - Security",
+   "link": "https://doit.illinois.gov/services/catalog/security/pki-faqs.html",
+   "displayLink": "doit.illinois.gov",
+   "snippet": "... verify the true identity of the individual applying for the ID. ... If you reside in another state, you can still acquire a State of Illinois Digital ID.",
+   "htmlSnippet": "... <b>verify</b> the true identity of the individual applying for the ID. ... If you reside in another state, you can still acquire a State of <b>Illinois Digital ID</b>.",
+   "formattedUrl": "https://doit.illinois.gov/services/catalog/security/pki-faqs.html",
+   "htmlFormattedUrl": "https://doit.<b>illinois</b>.gov/services/catalog/security/pki-faqs.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "template": "Left Navigation Page",
+      "twitter:card": "summary",
+      "twitter:title": "PKI FAQ - Security",
+      "og:type": "agency-left-navigation-page",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:url": "https://doit.illinois.gov/services/catalog/security/pki-faqs.html",
+      "og:title": "PKI FAQ - Security",
+      "og:locale": "en",
+      "google": "notranslate",
+      "og:url": "https://doit.illinois.gov/services/catalog/security/pki-faqs.html"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "Home",
+      "name": "Home",
+      "position": "1"
+     },
+     {
+      "item": "Services",
+      "name": "Services",
+      "position": "2"
+     },
+     {
+      "item": "Catalog",
+      "name": "Catalog",
+      "position": "3"
+     },
+     {
+      "item": "Security",
+      "name": "Security",
+      "position": "4"
+     },
+     {
+      "item": "PKI FAQ - Security",
+      "name": "PKI FAQ - Security",
+      "position": "5"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Digital Signature | e-Forms | SIU",
+   "htmlTitle": "Digital Signature | e-Forms | SIU",
+   "link": "https://eforms.siu.edu/sign_forms.php",
+   "displayLink": "eforms.siu.edu",
+   "snippet": "Request a certified Digital ID from the State of Illinois \u00b7 Install EESP software on your PC \u00b7 Set specific preferences for Adobe Reader 9 or X (10). NOTE: These\u00a0...",
+   "htmlSnippet": "Request a certified <b>Digital ID</b> from the State of <b>Illinois</b> &middot; Install EESP software on your PC &middot; Set specific preferences for Adobe <b>Reader</b> 9 or X (10). NOTE: These&nbsp;...",
+   "formattedUrl": "https://eforms.siu.edu/sign_forms.php",
+   "htmlFormattedUrl": "https://eforms.siu.edu/sign_forms.php",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Public Key Infrastructure Cryptography",
+   "htmlTitle": "Public Key Infrastructure Cryptography",
+   "link": "https://doit.illinois.gov/services/catalog/security/service.pki.html",
+   "displayLink": "doit.illinois.gov",
+   "snippet": "Digitally sign electronic documents and verify those signatures. ... Illinois Digital ID Subscriber Agreement. The Registration Authority (RA) is\u00a0...",
+   "htmlSnippet": "Digitally sign electronic documents and <b>verify</b> those signatures. ... <b>Illinois Digital ID</b> Subscriber Agreement. The Registration Authority (RA) is&nbsp;...",
+   "formattedUrl": "https://doit.illinois.gov/services/catalog/security/service.pki.html",
+   "htmlFormattedUrl": "https://doit.<b>illinois</b>.gov/services/catalog/security/service.pki.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvhu7Ra3775bYz1QJmkRd4tA55JLORvQelCxgyOZaRfzej3jT80tXw8w&s",
+      "width": "406",
+      "height": "124"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "Full Width/ Open Page",
+      "twitter:card": "summary",
+      "twitter:title": "Public Key Infrastructure Cryptography",
+      "og:type": "agency-full-width-open-page",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:url": "https://doit.illinois.gov/services/catalog/security/service.pki.html",
+      "twitter:description": "Category:",
+      "og:title": "Public Key Infrastructure Cryptography",
+      "og:locale": "en",
+      "google": "notranslate",
+      "og:url": "https://doit.illinois.gov/services/catalog/security/service.pki.html",
+      "og:description": "Category:"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://doit.illinois.gov/content/dam/soi/en/web/doit/images/services/catalog/security/publishingimages/pki-cryptography-catalog.png"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "Home",
+      "name": "Home",
+      "position": "1"
+     },
+     {
+      "item": "Services",
+      "name": "Services",
+      "position": "2"
+     },
+     {
+      "item": "Catalog",
+      "name": "Catalog",
+      "position": "3"
+     },
+     {
+      "item": "Security",
+      "name": "Security",
+      "position": "4"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "State of Illinois - Digital ID - Privacy Policy",
+   "htmlTitle": "State of <b>Illinois</b> - <b>Digital ID</b> - Privacy Policy",
+   "link": "https://enroll.pki.illinois.gov/UserRegistration/en_US/soi_privacy.htm",
+   "displayLink": "enroll.pki.illinois.gov",
+   "snippet": "State of Illinois Digital ID Privacy Notice. Pursuant to the fundamental ... Cookies can be used to track usage patterns, traffic trends and verify identity for\u00a0...",
+   "htmlSnippet": "State of <b>Illinois Digital ID</b> Privacy Notice. Pursuant to the fundamental ... Cookies can be used to track usage patterns, traffic trends and <b>verify</b> identity for&nbsp;...",
+   "formattedUrl": "https://enroll.pki.illinois.gov/UserRegistration/en_US/soi_privacy.htm",
+   "htmlFormattedUrl": "https://enroll.pki.<b>illinois</b>.gov/UserRegistration/en_US/soi_privacy.htm",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsY7OY1JEV12UDoTk-Qtr-_3qe_xeyB6ZFE7efEMX1FIRhGppLU2_NDg&s",
+      "width": "190",
+      "height": "100"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://enroll.pki.illinois.gov/UserRegistration/en_US/images/sitelogo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Criminal History Information Response Process",
+   "htmlTitle": "Criminal History Information Response Process",
+   "link": "https://chirp.isp.illinois.gov/user.pdf",
+   "displayLink": "chirp.isp.illinois.gov",
+   "snippet": "Oct 1, 2019 ... To view or print a background check, first place your cursor over the \u201cCheck Status\u201d ... DoIT.Helpdesk@Illinois.gov. Submit Digital ID problems\u00a0...",
+   "htmlSnippet": "Oct 1, 2019 <b>...</b> To view or print a background <b>check</b>, first place your cursor over the \u201c<b>Check</b> Status\u201d ... DoIT.Helpdesk@<b>Illinois</b>.gov. Submit <b>Digital ID</b> problems&nbsp;...",
+   "formattedUrl": "https://chirp.isp.illinois.gov/user.pdf",
+   "htmlFormattedUrl": "https://chirp.isp.<b>illinois</b>.gov/user.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO7YrcRpNCcDRJoZ1kqb1dMRcrO0hr3PKVNIFDQYWQ89l7lAdmRsP0B0I&s",
+      "width": "267",
+      "height": "189"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20191009074628-05'00'",
+      "creationdate": "D:20191009074628-05'00'",
+      "creator": "Microsoft\u00ae PowerPoint\u00ae 2013",
+      "author": "Shunda Buckley",
+      "producer": "Microsoft\u00ae PowerPoint\u00ae 2013",
+      "title": "Criminal History Information Response Process"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///d4575ae8220095be89b54b4cbe7835d01cf2166d1a25e2b48172853ca7ce1801"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "625 ILCS 5/6-101",
+   "htmlTitle": "625 ILCS 5/6-101",
+   "link": "https://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=062500050K6-101",
+   "displayLink": "www.ilga.gov",
+   "snippet": "(b) No person shall drive a motor vehicle unless the person holds a valid license or permit, an Illinois mobile driver's license, or a restricted driving permit\u00a0...",
+   "htmlSnippet": "(b) No person shall drive a motor vehicle unless the person holds a valid license or permit, an <b>Illinois mobile driver&#39;s license</b>, or a restricted driving permit&nbsp;...",
+   "formattedUrl": "https://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=062500050K6...",
+   "htmlFormattedUrl": "https://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=062500050K6..."
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Illinois Passes Law That Allows Residents To Carry Mobile IDs ...",
+   "htmlTitle": "<b>Illinois</b> Passes Law That Allows Residents To Carry Mobile IDs ...",
+   "link": "https://www.spiceworks.com/it-security/identity-access-management/news/illinois-passes-law-that-allows-residents-to-carry-mobile-ids/",
+   "displayLink": "www.spiceworks.com",
+   "snippet": "Aug 19, 2024 ... However, the measure in Illinois prohibits law enforcement officers from searching the phone's contents after viewing the mobile ID. ... reader.",
+   "htmlSnippet": "Aug 19, 2024 <b>...</b> However, the measure in <b>Illinois</b> prohibits law enforcement officers from searching the phone&#39;s contents after viewing the <b>mobile ID</b>. ... <b>reader</b>.",
+   "formattedUrl": "https://www.spiceworks.com/.../illinois-passes-law-that-allows-residents-to-c...",
+   "htmlFormattedUrl": "https://www.spiceworks.com/.../<b>illinois</b>-passes-law-that-allows-residents-to-c...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_7m6nfKYwIe5li71WX3dnd3YaFNl9jZEgI5tSS7-fl-erYEw_Sb5ROJO&s",
+      "width": "318",
+      "height": "159"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://zd-brightspot.s3.us-east-1.amazonaws.com/wp-content/uploads/2024/06/12133834/Digital-ID.jpg",
+      "og:type": "article",
+      "og:image:width": "800",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Spiceworks Inc",
+      "og:title": "Illinois Passes Law That Allows Residents To Carry Mobile IDs - Spiceworks",
+      "og:image:height": "400",
+      "twitter:label1": "Est. reading time",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://zd-brightspot.s3.us-east-1.amazonaws.com/wp-content/uploads/2024/07/02084556/spiceworks-logo-icon.jpg",
+      "og:description": "Illinois has passed a law allowing residents to show mobile driver's licenses and state IDs instead of physical ones. Learn more.",
+      "article:publisher": "https://www.facebook.com/SpiceworksNews/",
+      "twitter:data1": "4 minutes",
+      "zd_ptax_version": "zdb2bV1",
+      "twitter:site": "@SpiceworksNews",
+      "article:modified_time": "2024-08-19T14:37:35+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.spiceworks.com/it-security/identity-access-management/news/illinois-passes-law-that-allows-residents-to-carry-mobile-ids/",
+      "zd_ptax": "Identity & Access Management"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://zd-brightspot.s3.us-east-1.amazonaws.com/wp-content/uploads/2024/06/12133834/Digital-ID.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Can you get a digital ID in Illinois? What to know about new law ...",
+   "htmlTitle": "Can you get a <b>digital ID</b> in <b>Illinois</b>? What to know about new law ...",
+   "link": "https://www.nbcchicago.com/news/local/can-you-get-a-digital-id-in-illinois-what-to-know-as-new-law-takes-effect/3643185/",
+   "displayLink": "www.nbcchicago.com",
+   "snippet": "Jan 10, 2025 ... Can you get a digital ID in Illinois? What to know as new law takes ... reader, officials said. Such IDs will be able to be used in\u00a0...",
+   "htmlSnippet": "Jan 10, 2025 <b>...</b> Can you get a <b>digital ID</b> in <b>Illinois</b>? What to know as new law takes ... <b>reader</b>, officials said. Such IDs will be able to be used in&nbsp;...",
+   "formattedUrl": "https://www.nbcchicago.com/news/...a-digital-id...illinois.../3643185/",
+   "htmlFormattedUrl": "https://www.nbcchicago.com/news/...a-<b>digital-id</b>...<b>illinois</b>.../3643185/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ISN6zygqeTdJX-D3qHKmfmz-eYCF-0zwFzFJxWLMwtEZlXpc4tq1ye_p&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://media.nbcchicago.com/2024/08/mobile-id.png?resize=1200%2C675&quality=85&strip=all",
+      "twitter:card": "summary_large_image",
+      "og:image:width": "1200",
+      "og:site_name": "NBC Chicago",
+      "sailthru.tags": "Transportation",
+      "twitter:url": "https://www.nbcchicago.com/news/local/can-you-get-a-digital-id-in-illinois-what-to-know-as-new-law-takes-effect/3643185/",
+      "parsely-author": "NBC Chicago",
+      "msapplication-tileimage": "https://media.nbcchicago.com/2019/09/cropped-NBC_Chicago.png?fit=270%2C270&quality=85&strip=all",
+      "twitter:creator": "@nbcchicago",
+      "og:description": "Beginning Jan. 1, a new state law known as HB 4592 allowed the Secretary of State's office to issue mobile ID cards and driver's licenses. But how can you get one?",
+      "article:publisher": "http://www.facebook.com/nbcchicago",
+      "twitter:image": "https://media.nbcchicago.com/2024/08/mobile-id.png?resize=1200%2C675&quality=85&strip=all",
+      "parsely-type": "post",
+      "twitter:site": "@nbcchicago",
+      "parsely-link": "http://www.nbcchicago.com/news/local/can-you-get-a-digital-id-in-illinois-what-to-know-as-new-law-takes-effect/3643185/",
+      "sailthru.title": "Can you get a digital ID in Illinois? What to know about new law",
+      "parsely-image-url": "https://media.nbcchicago.com/2024/08/mobile-id.png?resize=218%2C123&quality=85&strip=all",
+      "parsely-section": "Chicago Politics",
+      "article:content_tier": "free",
+      "sailthru.type": "article",
+      "sailthru.date": "2025-01-10T17:40:50+00:00",
+      "og:type": "article",
+      "twitter:title": "Can you get a digital ID in Illinois? What to know as new law takes effect",
+      "og:title": "Can you get a digital ID in Illinois? What to know as new law takes effect",
+      "og:image:height": "675",
+      "parsely-title": "Can you get a digital ID in Illinois? What to know as new law takes effect",
+      "parsely-pub-date": "2025-01-10T23:40:50Z",
+      "parsely-tags": "transportation",
+      "fb:app_id": "187516345314",
+      "sailthru.description": "Beginning Jan. 1, a new state law known as HB 4592 allowed the Secretary of State's office to issue mobile ID cards and driver's licenses.",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Beginning Jan. 1, a new state law known as HB 4592 allowed the Secretary of State's office to issue mobile ID cards and driver's licenses. But how can you get one?",
+      "taboola_lead": "video",
+      "og:url": "https://www.nbcchicago.com/news/local/can-you-get-a-digital-id-in-illinois-what-to-know-as-new-law-takes-effect/3643185/",
+      "article:opinion": "false"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://media.nbcchicago.com/2024/08/mobile-id.png?resize=1200%2C675&quality=85&strip=all"
+     }
+    ]
+   }
+  }
+ ]
+}

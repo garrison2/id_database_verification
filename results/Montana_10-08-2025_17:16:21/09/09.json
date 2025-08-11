@@ -1,0 +1,531 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Montana\" API OR \"verify\" OR \"verifier\" OR \"reader\" OR \"SDK\" OR \"check\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"transfer\" -\"litigation\" -\"district\"",
+    "totalResults": "123000",
+    "searchTerms": "\"Montana\" API OR \"verify\" OR \"verifier\" OR \"reader\" OR \"SDK\" OR \"check\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"transfer\" -\"litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Montana\" API OR \"verify\" OR \"verifier\" OR \"reader\" OR \"SDK\" OR \"check\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"transfer\" -\"litigation\" -\"district\"",
+    "totalResults": "123000",
+    "searchTerms": "\"Montana\" API OR \"verify\" OR \"verifier\" OR \"reader\" OR \"SDK\" OR \"check\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"transfer\" -\"litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.228569,
+  "formattedSearchTime": "0.23",
+  "totalResults": "123000",
+  "formattedTotalResults": "123,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Montana Mobile ID Updates",
+   "htmlTitle": "<b>Montana Mobile ID</b> Updates",
+   "link": "https://idscan.net/state-digital-id/montana-mobile-id-updates/",
+   "displayLink": "idscan.net",
+   "snippet": "Montana mobile ID updates \u00b7 State of digital ID in Montana \u00b7 Other Montana mDL resources.",
+   "htmlSnippet": "<b>Montana mobile ID</b> updates &middot; State of <b>digital ID</b> in <b>Montana</b> &middot; Other <b>Montana mDL</b> resources.",
+   "formattedUrl": "https://idscan.net/state-digital-id/montana-mobile-id-updates/",
+   "htmlFormattedUrl": "https://idscan.net/state-<b>digital-id</b>/<b>montana</b>-<b>mobile-id</b>-updates/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzJuXLR_70RO4Vy78L5nN7a5DMMVz5G6fsWYESr23QwMpuVp1jI0_an5Q&s",
+      "width": "310",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://idscan.net/wp-content/uploads/montana-mobile-id.jpg?lm=66A7318D",
+      "og:type": "article",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "IDScan.net",
+      "og:title": "Montana Mobile ID Updates",
+      "og:image:height": "629",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://idscan.net/wp-content/uploads/cropped-idscan-identity-verification-software-icon-1-270x270.png",
+      "og:description": "A Montana mobile ID has been approved by the House of Representatives and are expected to launch for resident sometime in 2025.",
+      "article:publisher": "https://www.facebook.com/idscannet",
+      "twitter:site": "@idscan_net",
+      "article:modified_time": "2025-02-28T16:21:00+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://idscan.net/state-digital-id/montana-mobile-id-updates/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://idscan.net/wp-content/uploads/montana-mobile-id.jpg?lm=66A7318D"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Blue Cross and Blue Shield of Montana: Montana Health Insurance",
+   "htmlTitle": "Blue Cross and Blue Shield of <b>Montana</b>: <b>Montana</b> Health Insurance",
+   "link": "https://bcbsmt.com/",
+   "displayLink": "bcbsmt.com",
+   "snippet": "... digital ID, and more \u00b7 Employer. Manage your company's benefits \u00b7 Producer ... reader program. Most PDF readers are a free download. One option is Adobe\u00a0...",
+   "htmlSnippet": "... <b>digital ID</b>, and more &middot; Employer. Manage your company&#39;s benefits &middot; Producer ... <b>reader</b> program. Most PDF readers are a free download. One option is Adobe&nbsp;...",
+   "formattedUrl": "https://bcbsmt.com/",
+   "htmlFormattedUrl": "https://bcbsmt.com/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMOyeUOt5eIZ_Adbw87xWcbVRDPVIWnDUlyuE5pJCuUIq6J8m0SiFGeAU&s",
+      "width": "248",
+      "height": "203"
+     }
+    ],
+    "imageobject": [
+     {
+      "contenturl": "https://www.bcbsmt.com/content/bcbs-v2/public-sites/bcbsmt/en/home/_jcr_content/root/main-par/section_copy_copy_10/section-par/teaser/image.coreimg.82.1024.jpeg/1753992079843/group-of-senior-friends-on-a-hike.jpeg"
+     },
+     {
+      "contenturl": "https://www.bcbsmt.com/content/bcbs-v2/public-sites/bcbsmt/en/home/_jcr_content/root/main-par/section_608592528_co/section-par/tabs/item_1718989740651/tab-par/teaser/image.coreimg.82.1024.jpeg/1747884687738/girl-playing-doctor-with-stethescope.jpeg"
+     },
+     {
+      "contenturl": "https://www.bcbsmt.com/content/bcbs-v2/public-sites/bcbsmt/en/home/_jcr_content/root/main-par/section_2096521577_c/section-par/teaser/image.coreimg.82.1024.jpeg/1752763492099/group-of-professionals-at-a-table.jpeg"
+     },
+     {
+      "contenturl": "https://www.bcbsmt.com/content/bcbs-v2/public-sites/bcbsmt/en/home/_jcr_content/root/main-par/section_2069978393_c/section-par/grid_container/grid/image.coreimg.82.1024.jpeg/1751309659025/senior-couple-running-race.jpeg"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "homepage",
+      "og:type": "website",
+      "twitter:card": "summary",
+      "msapplication-square70x70logo": "/content/dam/bcbs-new/all-states/images/icons/favicons/icon-70x70.png",
+      "og:site_name": "Home",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-square310x310logo": "/content/dam/bcbs-new/all-states/images/icons/favicons/icon-310x310.png",
+      "og:title": "Blue Cross and Blue Shield of Montana",
+      "msapplication-wide310x150logo": "/content/dam/bcbs-new/all-states/images/icons/favicons/icon-310x150.png",
+      "og:description": "Access to one of the nation's biggest networks, for all. When you choose\u00a0Blue Cross\u00a0and\u00a0Blue Shield\u00a0of\u00a0Montana, you're not just getting health insurance. You are getting coverage you can trust to give you access to quality care at the best price.",
+      "msapplication-square150x150logo": "/content/dam/bcbs-new/all-states/images/icons/favicons/icon-150x150.png",
+      "coveo_api_url": "https://platform.cloud.coveo.com"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.bcbsmt.com/content/bcbs-v2/public-sites/bcbsmt/en/home/_jcr_content/root/main-par/hero_copy_copy_12816/mobileImage.coreimg.82.1024.jpeg/1754065620794/family-doing-handstand-mobile.jpeg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Google Wallet launches new age and identity verification features",
+   "htmlTitle": "Google Wallet launches new age and identity verification features",
+   "link": "https://blog.google/products/google-pay/google-wallet-age-identity-verifications/",
+   "displayLink": "blog.google",
+   "snippet": "Apr 29, 2025 ... At launch, we're partnering with Rail Delivery Group, which will offer train travellers the opportunity to use their digital ID to verify that\u00a0...",
+   "htmlSnippet": "Apr 29, 2025 <b>...</b> At launch, we&#39;re partnering with Rail Delivery Group, which will offer train travellers the opportunity to use their <b>digital ID</b> to <b>verify</b> that&nbsp;...",
+   "formattedUrl": "https://blog.google/products/...pay/google-wallet-age-identity-verifications/",
+   "htmlFormattedUrl": "https://blog.google/products/...pay/google-wallet-age-identity-verifications/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRulGPtBYFSxQvk11gvJ3qxL-r06-SieyDJJZm0x5c89yjMBsClN573AVQ&s",
+      "width": "299",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWallet_Hero_2097x1182.width-1300.png",
+      "og:type": "article",
+      "article:published_time": "2025-04-29",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "It\u2019s now easier to prove age and identity with Google Wallet",
+      "og:site_name": "Google",
+      "twitter:url": "https://blog.google/products/google-pay/google-wallet-age-identity-verifications/",
+      "og:title": "It\u2019s now easier to prove age and identity with Google Wallet",
+      "gtm-tag": "GTM-TRV24V",
+      "optimize_experiments": "[]",
+      "locale": "en-us",
+      "og:description": "Learn more about new Google Wallet updates, including new ways to use your digital ID for age and identity verification.",
+      "article:publisher": "https://www.facebook.com/Google/",
+      "twitter:image:src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWallet_Hero_2097x1182.width-1300.png",
+      "tags": "Google Pay",
+      "article-author": "Alan Stapelberg",
+      "twitter:site": "@google",
+      "content_type": "blogv2.articlepage",
+      "viewport": "width=device-width, initial-scale=1.0, user-scalable=1.0, minimum-scale=1.0",
+      "twitter:description": "Learn more about new Google Wallet updates, including new ways to use your digital ID for age and identity verification.",
+      "published_time": "2025-04-29T16:00:00+00:00",
+      "page": "78437",
+      "og:url": "https://blog.google/products/google-pay/google-wallet-age-identity-verifications/",
+      "authors": "Alan Stapelberg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWallet_Hero_2097x1182.width-1300.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Apple brings California driver's licenses and state IDs to Apple Wallet",
+   "htmlTitle": "Apple brings California driver&#39;s licenses and state IDs to Apple Wallet",
+   "link": "https://www.apple.com/newsroom/2024/09/apple-brings-california-drivers-licenses-and-state-ids-to-apple-wallet/",
+   "displayLink": "www.apple.com",
+   "snippet": "Sep 19, 2024 ... Additionally, Montana, New Mexico, and ... Mobile ID Verify, for in-person age verification. These apps leverage Apple's ID Verifier API\u00a0...",
+   "htmlSnippet": "Sep 19, 2024 <b>...</b> Additionally, <b>Montana</b>, New Mexico, and ... <b>Mobile ID Verify</b>, for in-person age verification. These apps leverage Apple&#39;s ID <b>Verifier API</b>&nbsp;...",
+   "formattedUrl": "https://www.apple.com/.../apple-brings-california-drivers-licenses-and-state-...",
+   "htmlFormattedUrl": "https://www.apple.com/.../apple-brings-california-drivers-licenses-and-state-...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXHYLmA6smMQ-x78bJxSjNL7s-_LfiZBtm28SE3dEjTW-emMF9gTKtQJlY&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "BreadcrumbList": [
+     {}
+    ],
+    "metatags": [
+     {
+      "analytics-s-bucket-1": "applestoreww",
+      "analytics-s-bucket-0": "applestoreww",
+      "og:image": "https://www.apple.com/newsroom/images/2024/09/apple-brings-california-drivers-licenses-and-state-ids-to-apple-wallet/tile/Apple-Wallet-drivers-licenses-California-lp.jpg.og.jpg?202505081810",
+      "og:type": "article",
+      "twitter:title": "Apple brings California driver\u2019s licenses and state IDs to Apple Wallet",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Apple Newsroom",
+      "globalnav-store-key": "SFX9YPYY9PPXCU9KH",
+      "og:title": "Apple brings California driver\u2019s licenses and state IDs to Apple Wallet",
+      "og:description": "Apple today announced California driver\u2019s licenses and state IDs can now be added to Apple Wallet.",
+      "twitter:image": "https://www.apple.com/newsroom/images/2024/09/apple-brings-california-drivers-licenses-and-state-ids-to-apple-wallet/tile/Apple-Wallet-drivers-licenses-California-lp.jpg.og.jpg?202505081810",
+      "analytics-s-channel": "newsroom",
+      "twitter:site": "@Apple",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "twitter:description": "Apple today announced California driver\u2019s licenses and state IDs can now be added to Apple Wallet.",
+      "og:locale": "en_US",
+      "globalnav-submenus-enabled": "false",
+      "position": "1",
+      "og:url": "https://www.apple.com/newsroom/2024/09/apple-brings-california-drivers-licenses-and-state-ids-to-apple-wallet/",
+      "analytics-s-bucket-2": "applestoreww",
+      "analytics-track": "Newsroom - Apple brings California driver\u2019s licenses and state IDs to Apple Wallet"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.apple.com/newsroom/images/2024/09/apple-brings-california-drivers-licenses-and-state-ids-to-apple-wallet/tile/Apple-Wallet-drivers-licenses-California-lp.jpg.og.jpg?202505081810"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Montana Dental Lab \u2013 Premier Dental Lab",
+   "htmlTitle": "<b>Montana</b> Dental Lab \u2013 Premier Dental Lab",
+   "link": "https://montanadentallab.com/",
+   "displayLink": "montanadentallab.com",
+   "snippet": "At MDL we have assembled a team of expert technicians to produce the finest ... Check Our Latest Articles. We are committed to sustainability. eco\u00a0...",
+   "htmlSnippet": "At <b>MDL</b> we have assembled a team of expert technicians to produce the finest ... <b>Check</b> Our Latest Articles. We are committed to sustainability. eco&nbsp;...",
+   "formattedUrl": "https://montanadentallab.com/",
+   "htmlFormattedUrl": "https://<b>montana</b>dentallab.com/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwo5ljGk76IPySdSamDE9qDCk44_i_ezNawM30KnDNCHW_Zuw9-0NWGLWq&s",
+      "width": "150",
+      "height": "150"
+     }
+    ],
+    "rating": [
+     {
+      "ratingvalue": "5",
+      "worstrating": "0",
+      "bestrating": "5"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-tileimage": "https://montanadentallab.com/wp-content/uploads/2024/07/cropped-Montana-DL_icon-white-270x270.avif"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://montanadentallab.com/wp-content/uploads/2025/06/best-dental-lab-near-Billings-MT-150x150.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Google Wallet Expands Digital ID Support to More States | Kiplinger",
+   "htmlTitle": "Google Wallet Expands <b>Digital ID</b> Support to More States | Kiplinger",
+   "link": "https://www.kiplinger.com/personal-finance/travel/google-wallet-expands-digital-id-support-across-more-states-and-services",
+   "displayLink": "www.kiplinger.com",
+   "snippet": "May 9, 2025 ... ... Montana, Puerto Rico and West Virginia. ... Beyond TSA checkpoints, Google Wallet's digital ID is making it easier to verify identity in apps and\u00a0...",
+   "htmlSnippet": "May 9, 2025 <b>...</b> ... <b>Montana</b>, Puerto Rico and West Virginia. ... Beyond TSA checkpoints, Google Wallet&#39;s <b>digital ID</b> is making it easier to <b>verify</b> identity in apps and&nbsp;...",
+   "formattedUrl": "https://www.kiplinger.com/.../google-wallet-expands-digital-id-support-acr...",
+   "htmlFormattedUrl": "https://www.kiplinger.com/.../google-wallet-expands-<b>digital-id</b>-support-acr...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9Qcw0QJQQlBXgtcwuS58SZOTw5hBRaMMjDk5_8FB5mdKB0XTTX7TmsXoO&s",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#000000",
+      "og:image": "https://cdn.mos.cms.futurecdn.net/gsFGC54nQjtcn6Z7ff74nS.jpg",
+      "og:image:width": "1024",
+      "og:type": "article",
+      "article:published_time": "2025-05-09T16:18:27Z",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Google Wallet Expands Digital ID Support Across More States and Services",
+      "og:site_name": "Kiplinger",
+      "msvalidate.01": "CC462E6DF91492086145CA5EBDCB615E",
+      "og:title": "Google Wallet Expands Digital ID Support Across More States and Services",
+      "og:image:height": "683",
+      "msapplication-tileimage": "https://cdn.mos.cms.futurecdn.net/flexiimages/lftig0typz1648720200.svg",
+      "og:description": "From TSA checkpoints to online verification, we dive into Google Wallet's growing role in digital identification.",
+      "twitter:creator": "@Kiplinger",
+      "article:publisher": "https://www.facebook.com/KiplingerPersonalFinance",
+      "mrf:tags": "region:US;articleType:Features;category:Travel;category:ecommerce;category:Personal Finance;category:Spending;category:Leisure;category:Business;category:Small Business;unindexedFreeform:ecomm-general;unindexedFreeform:pushly",
+      "twitter:image": "https://cdn.mos.cms.futurecdn.net/gsFGC54nQjtcn6Z7ff74nS-1200-80.jpg",
+      "pub_date": "2025-05-09T16:18:27+00:00",
+      "twitter:site": "@Kiplinger",
+      "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+      "twitter:description": "From TSA checkpoints to online verification, we dive into Google Wallet's growing role in digital identification.",
+      "og:url": "https://www.kiplinger.com/personal-finance/travel/google-wallet-expands-digital-id-support-across-more-states-and-services",
+      "twitter:account_id": "22042454"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://cdn.mos.cms.futurecdn.net/gsFGC54nQjtcn6Z7ff74nS.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "TSA using state-of-the art identity verification technology at five ...",
+   "htmlTitle": "TSA using state-of-the art identity verification technology at five ...",
+   "link": "https://www.tsa.gov/news/press/releases/2024/10/08/tsa-using-state-art-identity-verification-technology-five-montana",
+   "displayLink": "www.tsa.gov",
+   "snippet": "Oct 8, 2024 ... TSA in Montana has deployed units that use facial matching technology to verify the identity of travelers during the security screening process.",
+   "htmlSnippet": "Oct 8, 2024 <b>...</b> TSA in <b>Montana</b> has deployed units that use facial matching technology to <b>verify</b> the identity of travelers during the security screening process.",
+   "formattedUrl": "https://www.tsa.gov/.../tsa-using-state-art-identity-verification-technology-fi...",
+   "htmlFormattedUrl": "https://www.tsa.gov/.../tsa-using-state-art-identity-verification-technology-fi...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPmfB7IVmgDmb3IDXSU12352SHrXv5e_5i8yycsOrPNmZwXMWtBL06Rg4&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.tsa.gov/sites/default/files/2025-03/21366_graphic_tsa_open_graph_image_1200x630.jpg",
+      "og:type": "website",
+      "og:image:width": "1200",
+      "og:site_name": "U.S. Department of Homeland Security Transportation Security Administration",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+      "og:title": "TSA using state-of-the art identity verification technology at five Montana airports | Transportation Security Administration",
+      "mobileoptimized": "width",
+      "og:image:height": "630",
+      "og:image:type": "image/jpg",
+      "og:url": "https://www.tsa.gov/news/press/releases/2024/10/08/tsa-using-state-art-identity-verification-technology-five-montana",
+      "og:description": "BELGRADE, Montana - The next time you depart one of five Montana airports, you will have the option of having your identity verified by the latest generation of Credential Authentication Technology (CAT). The Transportation Security Administration (TSA) in Montana has deployed units that use facial matching technology to verify the identity of travelers during the security screening process."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.tsa.gov/sites/default/files/2025-03/21366_graphic_tsa_open_graph_image_1200x630.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CIRCULAR DEQ-7 MONTANA NUMERIC WATER QUALITY ...",
+   "htmlTitle": "CIRCULAR DEQ-7 <b>MONTANA</b> NUMERIC WATER QUALITY ...",
+   "link": "https://deq.mt.gov/Files/Land/StateSuperFund/Documents/DEQ-7_June2019_Final.pdf?ver=2019-07-16-085110-630",
+   "displayLink": "deq.mt.gov",
+   "snippet": "the reader to search for synonyms or CASRN. Such searches will make this ... recommends multiplying the MDL by 3.18 to calculate the RRV. Since the\u00a0...",
+   "htmlSnippet": "the <b>reader</b> to search for synonyms or CASRN. Such searches will make this ... recommends multiplying the <b>MDL</b> by 3.18 to calculate the RRV. Since the&nbsp;...",
+   "formattedUrl": "https://deq.mt.gov/Files/Land/.../DEQ-7_June2019_Final.pdf?ver=2019...",
+   "htmlFormattedUrl": "https://deq.mt.gov/Files/Land/.../DEQ-7_June2019_Final.pdf?ver=2019...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6nuyVORyIApa6JSOxGs13XXCzcX71lu_llTE_CX2npubWHsoiFUk5ERxB&s",
+      "width": "197",
+      "height": "255"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20190710105755-06'00'",
+      "creationdate": "D:20190624163014-06'00'",
+      "creator": "Microsoft\u00ae Word 2016",
+      "author": "Greeley, Carrie",
+      "producer": "Microsoft\u00ae Word 2016"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///7114a93945e5bb10f781aeed537a6e6e9d4a9cfac2ce6395c4128ccf5a88112f"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Montana Medicare plans and resources | Blue Cross and Blue ...",
+   "htmlTitle": "<b>Montana</b> Medicare plans and resources | Blue Cross and Blue ...",
+   "link": "https://www.bcbsmt.com/medicare",
+   "displayLink": "www.bcbsmt.com",
+   "snippet": "... digital ID, and more \u00b7 Employer. Manage your company's benefits \u00b7 Producer. View ... One option is Adobe\u00ae Reader\u00ae which has a built-in screen reader. You can\u00a0...",
+   "htmlSnippet": "... <b>digital ID</b>, and more &middot; Employer. Manage your company&#39;s benefits &middot; Producer. View ... One option is Adobe<sup>\u00ae</sup> <b>Reader</b><sup>\u00ae</sup> which has a built-in screen <b>reader</b>. You can&nbsp;...",
+   "formattedUrl": "https://www.bcbsmt.com/medicare",
+   "htmlFormattedUrl": "https://www.bcbsmt.com/medicare",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdnnavikLQBy-wko3o2eRYNxqWZYVYM2hnzVFJCAYXWiDEjatQ5uQ8OqqQ&s",
+      "width": "283",
+      "height": "178"
+     }
+    ],
+    "imageobject": [
+     {
+      "contenturl": "https://www.bcbsmt.com/content/experience-fragments/bcbs-v2/public_sites/bcbsmt/en/medicare/find-in-network-care/master/_jcr_content/root/teaser/image.coreimg.82.1024.jpeg/1743114266153/older-man-smiling-with-healthcare-worker.jpeg"
+     },
+     {
+      "contenturl": "https://www.bcbsmt.com/content/experience-fragments/bcbs-v2/public_sites/bcbsmt/en/medicare/ready-to-enroll/ready-to-enroll-vertical-tabs/_jcr_content/root/section_copy_copy/section-par/tabs/tab/tab-par/teaser/image.coreimg.82.1024.jpeg/1743114245993/senior-woman-holds-tablet.jpeg"
+     },
+     {
+      "contenturl": "https://www.bcbsmt.com/content/experience-fragments/bcbs-v2/public_sites/bcbsmt/en/medicare/find-in-network-care/prescription-cost-estimator/_jcr_content/root/teaser/image.coreimg.82.1024.jpeg/1743114266863/older-woman-consults-pharmacist.jpeg"
+     },
+     {
+      "contenturl": "https://www.bcbsmt.com/content/bcbs-v2/public-sites/bcbsmt/en/home/medicare/_jcr_content/root/main-par/section/section-par/tabs/item_1718734460114/tab-par/teaser/image.coreimg.82.1024.jpeg/1743114245670/senior-couple-couch-interacting-laptop.jpeg"
+     },
+     {
+      "contenturl": "https://www.bcbsmt.com/content/bcbs-v2/public-sites/bcbsmt/en/home/medicare/_jcr_content/root/main-par/section_900242050/section-par/carousel_content_blo/carousel/carousel_slide/carousel-slide-par/teaser_card/image.coreimg.82.1024.jpeg/1743114195741/couple-planning-together-kitchen-writing.jpeg"
+     },
+     {
+      "contenturl": "https://www.bcbsmt.com/content/bcbs-v2/public-sites/bcbsmt/en/home/medicare/_jcr_content/root/main-par/section_900242050/section-par/carousel_content_blo/carousel/item_1718737985932/carousel-slide-par/teaser_card/image.coreimg.82.1024.jpeg/1743114246331/daughter-helping-elderly-mother-holding-credit-card-laptop.jpeg"
+     },
+     {
+      "contenturl": "https://www.bcbsmt.com/content/bcbs-v2/public-sites/bcbsmt/en/home/medicare/_jcr_content/root/main-par/section_900242050/section-par/carousel_content_blo/carousel/item_1718738007301/carousel-slide-par/teaser_card/image.coreimg.82.1024.jpeg/1743114223246/senior-woman-window-holding-mobile.jpeg"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "sectionhomepage",
+      "twitter:card": "summary",
+      "msapplication-square70x70logo": "/content/dam/bcbs-new/all-states/images/icons/favicons/icon-70x70.png",
+      "og:site_name": "Home",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-square310x310logo": "/content/dam/bcbs-new/all-states/images/icons/favicons/icon-310x310.png",
+      "og:title": "Find a BCBSMT Medicare plan",
+      "msapplication-wide310x150logo": "/content/dam/bcbs-new/all-states/images/icons/favicons/icon-310x150.png",
+      "og:description": "Homepage for BCBSMT Medicare site",
+      "msapplication-square150x150logo": "/content/dam/bcbs-new/all-states/images/icons/favicons/icon-150x150.png",
+      "coveo_api_url": "https://platform.cloud.coveo.com"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.bcbsmt.com/content/bcbs-v2/public-sites/bcbsmt/en/home/medicare/_jcr_content/root/main-par/hero/image.coreimg.82.1024.jpeg/1743114256609/smiling-man-colorful-houses.jpeg"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "Home",
+      "name": "Home",
+      "position": "1"
+     },
+     {
+      "name": "Medicare Home",
+      "position": "2"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile Griz Card | University of Montana",
+   "htmlTitle": "Mobile Griz Card | University of <b>Montana</b>",
+   "link": "https://www.umt.edu/griz-card/get-your-griz-card-v2/mobile-griz-card.php",
+   "displayLink": "www.umt.edu",
+   "snippet": "To use your Griz Card Mobile ID, Bear Bucks, or UMoney, simply tap your iPhone, Apple Watch, Samsung or an eligible Android phone against a reader and you're\u00a0...",
+   "htmlSnippet": "To use your Griz Card <b>Mobile ID</b>, Bear Bucks, or UMoney, simply tap your iPhone, Apple Watch, Samsung or an eligible Android phone against a <b>reader</b> and you&#39;re&nbsp;...",
+   "formattedUrl": "https://www.umt.edu/griz-card/get-your-griz-card.../mobile-griz-card.php",
+   "htmlFormattedUrl": "https://www.umt.edu/griz-card/get-your-griz-card.../mobile-griz-card.php",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMW_1LDgKOxFCGO3WyO_qA4MAyoysuXLiaL6KvabVIuGzWWEHF92yB_zw&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.umt.edu/_files/images/opengraph-logo.jpg",
+      "twitter:card": "summary",
+      "twitter:title": "Mobile Griz Card",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "Mobile Griz Card",
+      "cascade-page-id": "23e0feeeac1e001d4309cde9755ecff0",
+      "id": "23e0feeeac1e001d4309cde9755ecff0",
+      "og:url": "https://www.umt.edu/griz-card/get-your-griz-card-v2/mobile-griz-card.php",
+      "twitter:image": "https://www.umt.edu/_files/images/opengraph-logo.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.umt.edu/_files/images/opengraph-logo.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

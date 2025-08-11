@@ -1,0 +1,496 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://iowadot.gov/ \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"transfer\" -\"litigation\" -\"district\"  \"privacy policy\" OR \"privacy notice\" OR \"terms of service\"",
+    "totalResults": "12",
+    "searchTerms": "site:https://iowadot.gov/ \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"transfer\" -\"litigation\" -\"district\"  \"privacy policy\" OR \"privacy notice\" OR \"terms of service\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://iowadot.gov/ \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"transfer\" -\"litigation\" -\"district\"  \"privacy policy\" OR \"privacy notice\" OR \"terms of service\"",
+    "totalResults": "12",
+    "searchTerms": "site:https://iowadot.gov/ \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"transfer\" -\"litigation\" -\"district\"  \"privacy policy\" OR \"privacy notice\" OR \"terms of service\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.110602,
+  "formattedSearchTime": "0.11",
+  "totalResults": "12",
+  "formattedTotalResults": "12"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Privacy Policy | Department of Transportation",
+   "htmlTitle": "<b>Privacy Policy</b> | Department of Transportation",
+   "link": "https://iowadot.gov/policies-statements/privacy-policy",
+   "displayLink": "iowadot.gov",
+   "snippet": "Mobile ID \u00b7 Military Services \u00b7 Investigation & Identity Protection \u00b7 Forms ... Privacy Policy. The Iowa Department of Transportation recognizes the\u00a0...",
+   "htmlSnippet": "<b>Mobile ID</b> &middot; Military Services &middot; Investigation &amp; Identity Protection &middot; Forms ... <b>Privacy Policy</b>. The Iowa Department of Transportation recognizes the&nbsp;...",
+   "formattedUrl": "https://iowadot.gov/policies-statements/privacy-policy",
+   "htmlFormattedUrl": "https://iowadot.gov/policies-statements/<b>privacy-policy</b>",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQit6f-Pct-9SXbZyPYc_BylbcdpTauEOAO0mgB74_cv-M9SmJQXB_MmKO&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://iowadot.gov/themes/custom/wildrose/images/iowa-metaimg-universal.png",
+      "og:type": "article",
+      "og:image:alt": "State of Iowa official seal",
+      "twitter:card": "summary",
+      "twitter:title": "Privacy Policy",
+      "og:site_name": "Department of Transportation",
+      "handheldfriendly": "true",
+      "og:title": "Privacy Policy",
+      "og:updated_time": "2025-02-28T10:02:35-0600",
+      "og:description": "Read the privacy policy for the Iowa Department of Transportation, including cookies usage and geolocation data.",
+      "twitter:image": "https://iowadot.gov/themes/custom/wildrose/images/iowa-metaimg-universal.png",
+      "twitter:image:alt": "State of Iowa official seal",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Read the privacy policy for the Iowa Department of Transportation, including cookies usage and geolocation data.",
+      "mobileoptimized": "width",
+      "og:url": "https://iowadot.gov/policies-statements/privacy-policy"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://iowadot.gov/themes/custom/wildrose/images/iowa-metaimg-universal.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Policies & Statements | Department of Transportation",
+   "htmlTitle": "Policies &amp; Statements | Department of Transportation",
+   "link": "https://iowadot.gov/policies-statements",
+   "displayLink": "iowadot.gov",
+   "snippet": "Linking Policy \u00b7 Logos & Brand Guidelines \u00b7 Nondiscrimination & Public Accommodation Statement \u00b7 Privacy Policy \u00b7 511 Data Feed Terms &\u00a0...",
+   "htmlSnippet": "Linking Policy &middot; Logos &amp; Brand Guidelines &middot; Nondiscrimination &amp; Public Accommodation Statement &middot; <b>Privacy Policy</b> &middot; 511 Data Feed Terms &amp;&nbsp;...",
+   "formattedUrl": "https://iowadot.gov/policies-statements",
+   "htmlFormattedUrl": "https://iowadot.gov/policies-statements",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZxchG60CYQsSFqZOLe3STE2RfCMbo-OrOD6xIka9UgXunPic1leV1SND9&s",
+      "width": "241",
+      "height": "209"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://iowadot.gov/sites/default/files/styles/large/public/images/2025-03/policy-square.jpg.webp?itok=JMPZkhDG",
+      "og:type": "article",
+      "og:image:alt": "Terms of use and accessibility",
+      "twitter:card": "summary",
+      "twitter:title": "Policies & Statements",
+      "og:site_name": "Department of Transportation",
+      "handheldfriendly": "true",
+      "og:title": "Policies & Statements",
+      "og:updated_time": "2025-04-10T19:06:57-0500",
+      "og:description": "Browse all policies and statements for the Iowa Department of Transportation",
+      "twitter:image": "https://iowadot.gov/sites/default/files/styles/large/public/images/2025-03/policy-square.jpg.webp?itok=JMPZkhDG",
+      "twitter:image:alt": "Terms of use and accessibility",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Browse all policies and statements for the Iowa Department of Transportation",
+      "mobileoptimized": "width",
+      "og:url": "https://iowadot.gov/policies-statements"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://iowadot.gov/sites/default/files/styles/large/public/images/2025-03/policy-square.jpg.webp?itok=JMPZkhDG"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Accessibility Statement | Department of Transportation",
+   "htmlTitle": "Accessibility Statement | Department of Transportation",
+   "link": "https://iowadot.gov/policies-statements/accessibility-statement",
+   "displayLink": "iowadot.gov",
+   "snippet": "Mobile ID \u00b7 Military Services \u00b7 Investigation & Identity Protection \u00b7 Forms ... Privacy Policy \u00b7 511 Data Feed Terms & Conditions. Department of Transportation\u00a0...",
+   "htmlSnippet": "<b>Mobile ID</b> &middot; Military Services &middot; Investigation &amp; Identity Protection &middot; Forms ... <b>Privacy Policy</b> &middot; 511 Data Feed Terms &amp; Conditions. Department of Transportation&nbsp;...",
+   "formattedUrl": "https://iowadot.gov/policies-statements/accessibility-statement",
+   "htmlFormattedUrl": "https://iowadot.gov/policies-statements/accessibility-statement",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQit6f-Pct-9SXbZyPYc_BylbcdpTauEOAO0mgB74_cv-M9SmJQXB_MmKO&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://iowadot.gov/themes/custom/wildrose/images/iowa-metaimg-universal.png",
+      "og:type": "article",
+      "og:image:alt": "State of Iowa official seal",
+      "twitter:card": "summary",
+      "twitter:title": "Accessibility Statement",
+      "og:site_name": "Department of Transportation",
+      "handheldfriendly": "true",
+      "og:title": "Accessibility Statement",
+      "og:updated_time": "2025-03-06T12:06:08-0600",
+      "og:description": "Read the Iowa Department of Transportation's website accessibility standards and statement.",
+      "twitter:image": "https://iowadot.gov/themes/custom/wildrose/images/iowa-metaimg-universal.png",
+      "twitter:image:alt": "State of Iowa official seal",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Read the Iowa Department of Transportation's website accessibility standards and statement.",
+      "mobileoptimized": "width",
+      "og:url": "https://iowadot.gov/policies-statements/accessibility-statement"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://iowadot.gov/themes/custom/wildrose/images/iowa-metaimg-universal.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Nondiscrimination & Public Accommodation Statement | Department ...",
+   "htmlTitle": "Nondiscrimination &amp; Public Accommodation Statement | Department ...",
+   "link": "https://iowadot.gov/policies-statements/nondiscrimination-public-accommodation-statement",
+   "displayLink": "iowadot.gov",
+   "snippet": "Mobile ID \u00b7 Military Services \u00b7 Investigation & Identity Protection \u00b7 Forms ... Privacy Policy \u00b7 511 Data Feed Terms & Conditions. Department of Transportation\u00a0...",
+   "htmlSnippet": "<b>Mobile ID</b> &middot; Military Services &middot; Investigation &amp; Identity Protection &middot; Forms ... <b>Privacy Policy</b> &middot; 511 Data Feed Terms &amp; Conditions. Department of Transportation&nbsp;...",
+   "formattedUrl": "https://iowadot.gov/.../nondiscrimination-public-accommodation-statement",
+   "htmlFormattedUrl": "https://iowadot.gov/.../nondiscrimination-public-accommodation-statement",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQit6f-Pct-9SXbZyPYc_BylbcdpTauEOAO0mgB74_cv-M9SmJQXB_MmKO&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://iowadot.gov/themes/custom/wildrose/images/iowa-metaimg-universal.png",
+      "og:type": "article",
+      "og:image:alt": "State of Iowa official seal",
+      "twitter:card": "summary",
+      "twitter:title": "Nondiscrimination & Public Accommodation Statement",
+      "og:site_name": "Department of Transportation",
+      "handheldfriendly": "true",
+      "og:title": "Nondiscrimination & Public Accommodation Statement",
+      "og:updated_time": "2025-06-11T13:25:13-0500",
+      "og:description": "Read the nondiscrimination and public accommodation statement for the Iowa Department of Transportation.",
+      "twitter:image": "https://iowadot.gov/themes/custom/wildrose/images/iowa-metaimg-universal.png",
+      "twitter:image:alt": "State of Iowa official seal",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Read the nondiscrimination and public accommodation statement for the Iowa Department of Transportation.",
+      "mobileoptimized": "width",
+      "og:url": "https://iowadot.gov/policies-statements/nondiscrimination-public-accommodation-statement"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://iowadot.gov/themes/custom/wildrose/images/iowa-metaimg-universal.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "511 Data Feed Terms & Conditions | Department of Transportation",
+   "htmlTitle": "511 Data Feed Terms &amp; Conditions | Department of Transportation",
+   "link": "https://iowadot.gov/policies-statements/511-data-feed-terms-conditions",
+   "displayLink": "iowadot.gov",
+   "snippet": "Mobile ID \u00b7 Military Services \u00b7 Investigation & Identity Protection \u00b7 Forms ... All information collected online is subject to the Iowa DOT's Privacy Policy\u00a0...",
+   "htmlSnippet": "<b>Mobile ID</b> &middot; Military Services &middot; Investigation &amp; Identity Protection &middot; Forms ... All information collected online is subject to the Iowa DOT&#39;s <b>Privacy Policy</b>&nbsp;...",
+   "formattedUrl": "https://iowadot.gov/policies-statements/511-data-feed-terms-conditions",
+   "htmlFormattedUrl": "https://iowadot.gov/policies-statements/511-data-feed-terms-conditions",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQit6f-Pct-9SXbZyPYc_BylbcdpTauEOAO0mgB74_cv-M9SmJQXB_MmKO&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://iowadot.gov/themes/custom/wildrose/images/iowa-metaimg-universal.png",
+      "og:type": "article",
+      "og:image:alt": "State of Iowa official seal",
+      "twitter:card": "summary",
+      "twitter:title": "511 Data Feed Terms & Conditions",
+      "og:site_name": "Department of Transportation",
+      "handheldfriendly": "true",
+      "og:title": "511 Data Feed Terms & Conditions",
+      "og:updated_time": "2025-02-28T10:06:55-0600",
+      "og:description": "Read the 511 data feed terms and conditions, and access to the Cars-Hubs website from the Iowa Department of Transportation.",
+      "twitter:image": "https://iowadot.gov/themes/custom/wildrose/images/iowa-metaimg-universal.png",
+      "twitter:image:alt": "State of Iowa official seal",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Read the 511 data feed terms and conditions, and access to the Cars-Hubs website from the Iowa Department of Transportation.",
+      "mobileoptimized": "width",
+      "og:url": "https://iowadot.gov/policies-statements/511-data-feed-terms-conditions"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://iowadot.gov/themes/custom/wildrose/images/iowa-metaimg-universal.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Logos & Brand Guidelines | Department of Transportation",
+   "htmlTitle": "Logos &amp; Brand Guidelines | Department of Transportation",
+   "link": "https://iowadot.gov/policies-statements/logos-brand-guidelines",
+   "displayLink": "iowadot.gov",
+   "snippet": "Mobile ID \u00b7 Military Services \u00b7 Investigation & Identity Protection \u00b7 Forms ... Privacy Policy \u00b7 511 Data Feed Terms & Conditions. Department of Transportation\u00a0...",
+   "htmlSnippet": "<b>Mobile ID</b> &middot; Military Services &middot; Investigation &amp; Identity Protection &middot; Forms ... <b>Privacy Policy</b> &middot; 511 Data Feed Terms &amp; Conditions. Department of Transportation&nbsp;...",
+   "formattedUrl": "https://iowadot.gov/policies-statements/logos-brand-guidelines",
+   "htmlFormattedUrl": "https://iowadot.gov/policies-statements/logos-brand-guidelines",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQit6f-Pct-9SXbZyPYc_BylbcdpTauEOAO0mgB74_cv-M9SmJQXB_MmKO&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://iowadot.gov/themes/custom/wildrose/images/iowa-metaimg-universal.png",
+      "og:type": "article",
+      "og:image:alt": "State of Iowa official seal",
+      "twitter:card": "summary",
+      "twitter:title": "Logos & Brand Guidelines",
+      "og:site_name": "Department of Transportation",
+      "handheldfriendly": "true",
+      "og:title": "Logos & Brand Guidelines",
+      "og:updated_time": "2025-04-30T16:09:42-0500",
+      "og:description": "Access and download the Iowa Department of Transportation brand logos, and read brand guidelines, usage requirements and restrictions.",
+      "twitter:image": "https://iowadot.gov/themes/custom/wildrose/images/iowa-metaimg-universal.png",
+      "twitter:image:alt": "State of Iowa official seal",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Access and download the Iowa Department of Transportation brand logos, and read brand guidelines, usage requirements and restrictions.",
+      "mobileoptimized": "width",
+      "og:url": "https://iowadot.gov/policies-statements/logos-brand-guidelines"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://iowadot.gov/themes/custom/wildrose/images/iowa-metaimg-universal.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Traffic and Criminal Software (TraCS) & Mobile Architecture for ...",
+   "htmlTitle": "Traffic and Criminal Software (TraCS) &amp; Mobile Architecture for ...",
+   "link": "https://iowadot.gov/tracs-mach",
+   "displayLink": "iowadot.gov",
+   "snippet": "Mobile ID \u00b7 Military Services \u00b7 Investigation & Identity Protection \u00b7 Forms \u00b7 Registration & Plates Registration & Plates sub-navigation. Vehicle Registration\u00a0...",
+   "htmlSnippet": "<b>Mobile ID</b> &middot; Military Services &middot; Investigation &amp; Identity Protection &middot; Forms &middot; Registration &amp; Plates Registration &amp; Plates sub-navigation. Vehicle Registration&nbsp;...",
+   "formattedUrl": "https://iowadot.gov/tracs-mach",
+   "htmlFormattedUrl": "https://iowadot.gov/tracs-mach",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGr35zBHfFbBmXsIz0G1adCQKlrZ6WS7bNpoeDMjjBHHz6Nff1HieZZmk&s",
+      "width": "241",
+      "height": "209"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://iowadot.gov/sites/default/files/styles/large/public/images/2025-02/TraCS-MACH.png.webp?itok=zgi4-fiB",
+      "og:type": "article",
+      "og:image:alt": "Decorative",
+      "twitter:card": "summary",
+      "twitter:title": "Traffic and Criminal Software (TraCS) & Mobile Architecture for Communications Handling (MACH)",
+      "og:site_name": "Department of Transportation",
+      "handheldfriendly": "true",
+      "og:title": "Traffic and Criminal Software (TraCS) & Mobile Architecture for Communications Handling (MACH)",
+      "og:updated_time": "2025-02-25T10:56:34-0600",
+      "og:description": "Learn more about the tools that help connect law enforcement and public safety agencies with the Iowa DOT.",
+      "twitter:image": "https://iowadot.gov/sites/default/files/styles/large/public/images/2025-02/TraCS-MACH.png.webp?itok=zgi4-fiB",
+      "twitter:image:alt": "Decorative",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Learn more about the tools that help connect law enforcement and public safety agencies with the Iowa DOT.",
+      "mobileoptimized": "width",
+      "og:url": "https://iowadot.gov/tracs-mach"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://iowadot.gov/sites/default/files/styles/large/public/images/2025-02/TraCS-MACH.png.webp?itok=zgi4-fiB"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Frequently Asked Questions for Autonomous Vehicles | Department ...",
+   "htmlTitle": "Frequently Asked Questions for Autonomous Vehicles | Department ...",
+   "link": "https://iowadot.gov/transportation-development/automated-transportation/about-iowa-advisory-council-automated-transportation/faqs",
+   "displayLink": "iowadot.gov",
+   "snippet": "Mobile ID \u00b7 Military Services \u00b7 Investigation & Identity Protection \u00b7 Forms ... For details, visit Iowa DOT's privacy policy. How can the public provide\u00a0...",
+   "htmlSnippet": "<b>Mobile ID</b> &middot; Military Services &middot; Investigation &amp; Identity Protection &middot; Forms ... For details, visit Iowa DOT&#39;s <b>privacy policy</b>. How can the public provide&nbsp;...",
+   "formattedUrl": "https://iowadot.gov/transportation-development/automated...iowa.../faqs",
+   "htmlFormattedUrl": "https://iowadot.gov/transportation-development/automated...iowa.../faqs",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQit6f-Pct-9SXbZyPYc_BylbcdpTauEOAO0mgB74_cv-M9SmJQXB_MmKO&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://iowadot.gov/themes/custom/wildrose/images/iowa-metaimg-universal.png",
+      "og:type": "article",
+      "og:image:alt": "State of Iowa official seal",
+      "twitter:card": "summary",
+      "twitter:title": "Frequently Asked Questions for Autonomous Vehicles",
+      "og:site_name": "Department of Transportation",
+      "handheldfriendly": "true",
+      "og:title": "Frequently Asked Questions for Autonomous Vehicles",
+      "og:updated_time": "2025-03-03T08:45:39-0600",
+      "og:description": "Frequently Asked Questions for Autonomous Vehicles in Iowa.",
+      "twitter:image": "https://iowadot.gov/themes/custom/wildrose/images/iowa-metaimg-universal.png",
+      "twitter:image:alt": "State of Iowa official seal",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Frequently Asked Questions for Autonomous Vehicles in Iowa.",
+      "mobileoptimized": "width",
+      "og:url": "https://iowadot.gov/transportation-development/automated-transportation/about-iowa-advisory-council-automated-transportation/faqs"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://iowadot.gov/themes/custom/wildrose/images/iowa-metaimg-universal.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Transportation Facts | Department of Transportation",
+   "htmlTitle": "Transportation Facts | Department of Transportation",
+   "link": "https://iowadot.gov/transportation-facts",
+   "displayLink": "iowadot.gov",
+   "snippet": "Mobile ID \u00b7 Military Services \u00b7 Investigation & Identity Protection \u00b7 Forms ... Privacy Policy \u00b7 511 Data Feed Terms & Conditions \u00b7 Maps (parent section) Toggle\u00a0...",
+   "htmlSnippet": "<b>Mobile ID</b> &middot; Military Services &middot; Investigation &amp; Identity Protection &middot; Forms ... <b>Privacy Policy</b> &middot; 511 Data Feed Terms &amp; Conditions &middot; Maps (parent section) Toggle&nbsp;...",
+   "formattedUrl": "https://iowadot.gov/transportation-facts",
+   "htmlFormattedUrl": "https://iowadot.gov/transportation-facts",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQit6f-Pct-9SXbZyPYc_BylbcdpTauEOAO0mgB74_cv-M9SmJQXB_MmKO&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://iowadot.gov/themes/custom/wildrose/images/iowa-metaimg-universal.png",
+      "og:type": "article",
+      "og:image:alt": "State of Iowa official seal",
+      "twitter:card": "summary",
+      "twitter:title": "Transportation Facts",
+      "og:site_name": "Department of Transportation",
+      "handheldfriendly": "true",
+      "og:title": "Transportation Facts",
+      "og:updated_time": "2025-05-23T10:41:49-0500",
+      "og:description": "Read transportation facts and statistics for the State of Iowa from the Iowa Department of Transportation.",
+      "twitter:image": "https://iowadot.gov/themes/custom/wildrose/images/iowa-metaimg-universal.png",
+      "twitter:image:alt": "State of Iowa official seal",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Read transportation facts and statistics for the State of Iowa from the Iowa Department of Transportation.",
+      "mobileoptimized": "width",
+      "og:url": "https://iowadot.gov/transportation-facts"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://iowadot.gov/themes/custom/wildrose/images/iowa-metaimg-universal.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Geospatial | Department of Transportation",
+   "htmlTitle": "Geospatial | Department of Transportation",
+   "link": "https://iowadot.gov/geospatial",
+   "displayLink": "iowadot.gov",
+   "snippet": "Mobile ID \u00b7 Military Services \u00b7 Investigation & Identity Protection \u00b7 Forms ... Privacy Policy \u00b7 511 Data Feed Terms & Conditions \u00b7 Maps (parent section) Toggle\u00a0...",
+   "htmlSnippet": "<b>Mobile ID</b> &middot; Military Services &middot; Investigation &amp; Identity Protection &middot; Forms ... <b>Privacy Policy</b> &middot; 511 Data Feed Terms &amp; Conditions &middot; Maps (parent section) Toggle&nbsp;...",
+   "formattedUrl": "https://iowadot.gov/geospatial",
+   "htmlFormattedUrl": "https://iowadot.gov/geospatial",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG7Wlk6lXkVzC17b-UbW6FpzrqDfSQzH6IAXZl05UmqgzjIBajEGpKLAs&s",
+      "width": "241",
+      "height": "209"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://iowadot.gov/sites/default/files/styles/large/public/images/2025-01/GeoSpatial-1000x864.png.webp?itok=hl0c5CUV",
+      "og:type": "article",
+      "og:image:alt": "Geospatial technologies and information",
+      "twitter:card": "summary",
+      "twitter:title": "Geospatial",
+      "og:site_name": "Department of Transportation",
+      "handheldfriendly": "true",
+      "og:title": "Geospatial",
+      "og:updated_time": "2025-07-17T11:00:32-0500",
+      "og:description": "Information about Iowa DOT's work in geospatial technologies.",
+      "twitter:image": "https://iowadot.gov/sites/default/files/styles/large/public/images/2025-01/GeoSpatial-1000x864.png.webp?itok=hl0c5CUV",
+      "twitter:image:alt": "Geospatial technologies and information",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Information about Iowa DOT's work in geospatial technologies.",
+      "mobileoptimized": "width",
+      "og:url": "https://iowadot.gov/geospatial"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://iowadot.gov/sites/default/files/styles/large/public/images/2025-01/GeoSpatial-1000x864.png.webp?itok=hl0c5CUV"
+     }
+    ]
+   }
+  }
+ ]
+}

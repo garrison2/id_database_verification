@@ -1,0 +1,145 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://www.dps.texas.gov/ \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"transfer\" -\"litigation\" -\"district\"  \"privacy policy\" OR \"privacy notice\" OR \"terms of service\"",
+    "totalResults": "5",
+    "searchTerms": "site:https://www.dps.texas.gov/ \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"transfer\" -\"litigation\" -\"district\"  \"privacy policy\" OR \"privacy notice\" OR \"terms of service\"",
+    "count": 5,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.108282,
+  "formattedSearchTime": "0.11",
+  "totalResults": "5",
+  "formattedTotalResults": "5"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile ID | Department of Public Safety",
+   "htmlTitle": "<b>Mobile ID</b> | Department of Public Safety",
+   "link": "https://www.dps.texas.gov/section/crime-records/mobile-id",
+   "displayLink": "www.dps.texas.gov",
+   "snippet": "Aug 27, 2020 ... ... mobile ID device and the purpose of the mobile ID device. ... Texas Fusion Center Privacy Policy \u00b7 Public Information Act \u00b7 Privacy Notice\u00a0...",
+   "htmlSnippet": "Aug 27, 2020 <b>...</b> ... <b>mobile ID</b> device and the purpose of the <b>mobile ID</b> device. ... Texas Fusion Center <b>Privacy Policy</b> &middot; Public Information Act &middot; <b>Privacy Notice</b>&nbsp;...",
+   "formattedUrl": "https://www.dps.texas.gov/section/crime-records/mobile-id",
+   "htmlFormattedUrl": "https://www.dps.texas.gov/section/crime-records/<b>mobile-id</b>",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Biometric Services | Department of Public Safety",
+   "htmlTitle": "Biometric Services | Department of Public Safety",
+   "link": "https://www.dps.texas.gov/section/crime-records/biometric-services",
+   "displayLink": "www.dps.texas.gov",
+   "snippet": "Jul 29, 2021 ... Texas Fusion Center Privacy Policy \u00b7 Public Information Act \u00b7 Privacy Notice. Texas Sites. Texas Homeland Security \u00b7 Texas Veterans Portal\u00a0...",
+   "htmlSnippet": "Jul 29, 2021 <b>...</b> Texas Fusion Center <b>Privacy Policy</b> &middot; Public Information Act &middot; <b>Privacy Notice</b>. Texas Sites. Texas Homeland Security &middot; Texas Veterans Portal&nbsp;...",
+   "formattedUrl": "https://www.dps.texas.gov/section/crime-records/biometric-services",
+   "htmlFormattedUrl": "https://www.dps.texas.gov/section/crime-records/biometric-services",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Multimodal Biometric Identification System (MBIS) | Department of ...",
+   "htmlTitle": "Multimodal Biometric Identification System (MBIS) | Department of ...",
+   "link": "https://www.dps.texas.gov/section/crime-records-service/multimodal-biometric-identification-system-mbis",
+   "displayLink": "www.dps.texas.gov",
+   "snippet": "Aug 27, 2020 ... Additionally, it provides functionality for processing Mobile ID submissions. ... Texas Fusion Center Privacy Policy \u00b7 Public Information Act\u00a0...",
+   "htmlSnippet": "Aug 27, 2020 <b>...</b> Additionally, it provides functionality for processing <b>Mobile ID</b> submissions. ... Texas Fusion Center <b>Privacy Policy</b> &middot; Public Information Act&nbsp;...",
+   "formattedUrl": "https://www.dps.texas.gov/.../multimodal-biometric-identification-system-m...",
+   "htmlFormattedUrl": "https://www.dps.texas.gov/.../multimodal-biometric-identification-system-m...",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CJIS and JJIS Information | Department of Public Safety",
+   "htmlTitle": "CJIS and JJIS Information | Department of Public Safety",
+   "link": "https://www.dps.texas.gov/section/crime-records-service/cjis-and-jjis-information",
+   "displayLink": "www.dps.texas.gov",
+   "snippet": "Aug 27, 2020 ... Mobile ID \u00b7 Texas NICS Indices Entry Reporting \u00b7 Back to Crime ... Texas Fusion Center Privacy Policy \u00b7 Public Information Act \u00b7 Privacy\u00a0...",
+   "htmlSnippet": "Aug 27, 2020 <b>...</b> <b>Mobile ID</b> &middot; Texas NICS Indices Entry Reporting &middot; Back to Crime ... Texas Fusion Center <b>Privacy Policy</b> &middot; Public Information Act &middot; <b>Privacy</b>&nbsp;...",
+   "formattedUrl": "https://www.dps.texas.gov/section/crime-records.../cjis-and-jjis-information",
+   "htmlFormattedUrl": "https://www.dps.texas.gov/section/crime-records.../cjis-and-jjis-information",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Compliance and Training Bureau | Department of Public Safety",
+   "htmlTitle": "Compliance and Training Bureau | Department of Public Safety",
+   "link": "https://www.dps.texas.gov/section/crime-records/compliance-and-training-bureau",
+   "displayLink": "www.dps.texas.gov",
+   "snippet": "Nov 2, 2023 ... CHR Other Information. Electronic Arrest Reporting (EAR) Information \u00b7 Mobile ID Information ... Texas Fusion Center Privacy Policy \u00b7 Public\u00a0...",
+   "htmlSnippet": "Nov 2, 2023 <b>...</b> CHR Other Information. Electronic Arrest Reporting (EAR) Information &middot; <b>Mobile ID</b> Information ... Texas Fusion Center <b>Privacy Policy</b> &middot; Public&nbsp;...",
+   "formattedUrl": "https://www.dps.texas.gov/section/crime.../compliance-and-training-bureau",
+   "htmlFormattedUrl": "https://www.dps.texas.gov/section/crime.../compliance-and-training-bureau",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtQr60RmuEPlaS01M0iCybD9l9c-ueiBzZYyiRx-0xkfuIQFNKML3IKw&s",
+      "width": "450",
+      "height": "112"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://cdn.www3.dps.texas.gov/cdn/ff/ZA56J89FdMWTcRhqjeD6Zf7QezAM0UcPXuuafeN2ML8/1701962350/public/inline-images/CATB.png"
+     }
+    ]
+   }
+  }
+ ]
+}

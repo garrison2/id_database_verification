@@ -1,0 +1,331 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Colorado Revised Statutes\" \"driver's license\" OR \"identification card\" \"scanning\" OR \"swiping\" around 10 \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "totalResults": "435",
+    "searchTerms": "\"Colorado Revised Statutes\" \"driver's license\" OR \"identification card\" \"scanning\" OR \"swiping\" around 10 \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Colorado Revised Statutes\" \"driver's license\" OR \"identification card\" \"scanning\" OR \"swiping\" around 10 \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "totalResults": "435",
+    "searchTerms": "\"Colorado Revised Statutes\" \"driver's license\" OR \"identification card\" \"scanning\" OR \"swiping\" around 10 \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.199204,
+  "formattedSearchTime": "0.20",
+  "totalResults": "435",
+  "formattedTotalResults": "435"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Title 1 - Elections - Colorado Revised Statutes 2024",
+   "htmlTitle": "Title 1 - Elections - <b>Colorado Revised Statutes</b> 2024",
+   "link": "https://leg.colorado.gov/sites/default/files/images/olls/crs2024-title-01.pdf",
+   "displayLink": "leg.colorado.gov",
+   "snippet": "... Driver's license\" means any license, temporary instruction permit, or ... identification card issued under part 4 of article 2 of title 42, C.R.S..",
+   "htmlSnippet": "... <b>Driver&#39;s license</b>&quot; means any license, temporary instruction permit, or ... <b>identification card</b> issued under part 4 of article 2 of title 42, C.R.S..",
+   "formattedUrl": "https://leg.colorado.gov/sites/default/files/images/olls/crs2024-title-01.pdf",
+   "htmlFormattedUrl": "https://leg.colorado.gov/sites/default/files/images/olls/crs2024-title-01.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20240912150223-06'00'",
+      "creationdate": "D:20240912152603Z",
+      "creator": "PrintServer210",
+      "producer": "Corel PDF Engine Version 21.0.0.81",
+      "title": "Title 1 - Elections - Colorado Revised Statutes 2024"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "State Personnel Rules",
+   "htmlTitle": "State Personnel Rules",
+   "link": "https://www.sos.state.co.us/CCR/GenerateRulePdf.do?ruleVersionId=9693&fileName=4%20CCR%20801-1",
+   "displayLink": "www.sos.state.co.us",
+   "snippet": "Voluntary separation from the state personnel system. Board Rule 1-66. Retention Credit. Credit of time and, if necessary, the calculation of an employee's\u00a0...",
+   "htmlSnippet": "Voluntary separation from the state personnel system. Board Rule 1-66. <b>Retention</b> Credit. Credit of time and, if necessary, the calculation of an employee&#39;s&nbsp;...",
+   "formattedUrl": "https://www.sos.state.co.us/CCR/GenerateRulePdf.do?ruleVersionId...1",
+   "htmlFormattedUrl": "https://www.sos.state.co.us/CCR/GenerateRulePdf.do?ruleVersionId...1",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20210830133457-06'00'",
+      "creationdate": "D:20210830133224-06'00'",
+      "creator": "Microsoft\u00ae Word 2019",
+      "author": "Colorado Secretary of State",
+      "producer": "Microsoft\u00ae Word 2019",
+      "title": "Code of Colorado Regulations"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Title 6 - Colorado Revised Statutes 2024",
+   "htmlTitle": "Title 6 - <b>Colorado Revised Statutes</b> 2024",
+   "link": "https://leg.colorado.gov/sites/default/files/images/olls/crs2024-title-06.pdf",
+   "displayLink": "leg.colorado.gov",
+   "snippet": "military, or passport identification number; driver's license number or identification card ... car sharing program shall retain these records for at least\u00a0...",
+   "htmlSnippet": "military, or passport identification number; <b>driver&#39;s license</b> number or <b>identification card</b> ... car sharing program shall <b>retain</b> these records for <b>at</b> least&nbsp;...",
+   "formattedUrl": "https://leg.colorado.gov/sites/default/files/images/olls/crs2024-title-06.pdf",
+   "htmlFormattedUrl": "https://leg.colorado.gov/sites/default/files/images/olls/crs2024-title-06.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20240912150413-06'00'",
+      "creationdate": "D:20240912162652Z",
+      "creator": "PrintServer210",
+      "producer": "Corel PDF Engine Version 21.0.0.81",
+      "title": "Title 6 - Consumer and Commercial Affairs - Colorado Revised Statutes 2024"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "POST MANUAL",
+   "htmlTitle": "POST MANUAL",
+   "link": "https://post.colorado.gov/sites/post/files/Manual%20-%20Program%20and%20Instructor%20Programs%20Jan%202024%20%282%29.pdf",
+   "displayLink": "post.colorado.gov",
+   "snippet": "Colorado Revised Statutes 24-10-101 through 24-10-114.5. Colorado Revised ... and retention techniques, practices, and protocols for evidence that may\u00a0...",
+   "htmlSnippet": "<b>Colorado Revised Statutes</b> 24-<b>10</b>-101 through 24-<b>10</b>-114.5. <b>Colorado Revised</b> ... and <b>retention</b> techniques, practices, and protocols for evidence that may&nbsp;...",
+   "formattedUrl": "https://post.colorado.gov/.../Manual%20-%20Program%20and%20Instructo...",
+   "htmlFormattedUrl": "https://post.colorado.gov/.../Manual%20-%20Program%20and%20Instructo...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFmR748uCn4GYTYg3lY1_z4fG_IjaRXa6mC7y72e_cu_5tSo6zJ4ZLRJk&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20240123153111-07'00'",
+      "creationdate": "D:20231129090216-07'00'",
+      "creator": "Adobe Acrobat Pro (32-bit) 23.6.20320",
+      "author": "Courtnay Schwartz",
+      "producer": "Adobe Acrobat Pro (32-bit) 23.6.20320"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///694b5bac5f0dd4e82785fdfd23940a921fe9b51d45c807910331edaee85797a2"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Chapter 1 - Assessor's Duties and Relationships | Assessors' Library",
+   "htmlTitle": "Chapter 1 - Assessor&#39;s Duties and Relationships | Assessors&#39; Library",
+   "link": "https://arl.colorado.gov/chapter-1-assessors-duties-and-relationships",
+   "displayLink": "arl.colorado.gov",
+   "snippet": "... driver's license or identification card number; a government passport ... At the end of the retention period, authorization must be obtained from the\u00a0...",
+   "htmlSnippet": "... <b>driver&#39;s license</b> or <b>identification card</b> number; a government passport ... <b>At</b> the end of the <b>retention</b> period, authorization must be obtained from the&nbsp;...",
+   "formattedUrl": "https://arl.colorado.gov/chapter-1-assessors-duties-and-relationships",
+   "htmlFormattedUrl": "https://arl.colorado.gov/chapter-1-assessors-duties-and-relationships",
+   "pagemap": {
+    "WebPage": [
+     {
+      "name": "Chapter 1 - Assessor\u2019s Duties and Relationships"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Colorado Secretary of State - Election Rules [8 CCR 1505-1]",
+   "htmlTitle": "Colorado Secretary of State - Election Rules [8 CCR 1505-1]",
+   "link": "http://www.coloradosos.gov/pubs/rule_making/CurrentRules/8CCR1505-1/ElectionRules.pdf",
+   "displayLink": "www.coloradosos.gov",
+   "snippet": "submits a photocopy of his or her driver's license or identification card, the ... completed at a voter registration agency or driver's license office is.",
+   "htmlSnippet": "submits a photocopy of his or her <b>driver&#39;s license</b> or <b>identification card</b>, the ... completed <b>at</b> a voter registration agency or <b>driver&#39;s license</b> office is.",
+   "formattedUrl": "http://www.coloradosos.gov/pubs/rule_making/...1/ElectionRules.pdf",
+   "htmlFormattedUrl": "http://www.coloradosos.gov/pubs/rule_making/...1/ElectionRules.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKieyuZDevwQAKvFij2bMb2tBtTnw0LjVqjBeiiUiyNlul2khfwuWXUyD8&s",
+      "width": "232",
+      "height": "196"
+     }
+    ],
+    "metatags": [
+     {
+      "creationdate": "D:20241101105841-06'00'",
+      "creator": "Acrobat PDFMaker 24 for Word",
+      "msip_label_59e4beaa_c4ba_4ea9_a1f4_4e52626a3d73_name": "defa4170-0d19-0005-0004-bc88714345d2",
+      "title": "Unofficial Copy of the Election Rules (8 CCR 1505-1)",
+      "msip_label_59e4beaa_c4ba_4ea9_a1f4_4e52626a3d73_contentbits": "0",
+      "moddate": "D:20250317154802-06'00'",
+      "msip_label_59e4beaa_c4ba_4ea9_a1f4_4e52626a3d73_siteid": "58e69e55-1d13-4102-aac7-ea2947430191",
+      "msip_label_59e4beaa_c4ba_4ea9_a1f4_4e52626a3d73_setdate": "2023-09-18T22:48:18Z",
+      "sourcemodified": "D:20241101165828",
+      "msip_label_59e4beaa_c4ba_4ea9_a1f4_4e52626a3d73_actionid": "d2e36f48-31d2-4597-8912-bf0648705dd6",
+      "producer": "Adobe PDF Library 24.3.212",
+      "company": "CDOS",
+      "msip_label_59e4beaa_c4ba_4ea9_a1f4_4e52626a3d73_method": "Standard",
+      "msip_label_59e4beaa_c4ba_4ea9_a1f4_4e52626a3d73_enabled": "true"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///cb7fde55cc25f92bc05fd6f7be7a3f43fe6513841a7f271c27e6f06df4b9bd8e"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Colorado Jury Instructions Criminal 2022",
+   "htmlTitle": "Colorado Jury Instructions Criminal 2022",
+   "link": "https://www.courts.state.co.us/userfiles/file/Court_Probation/Supreme_Court/Committees/Criminal_Jury_Instructions/2022/COLJI-Crim%202022%20-%20Final.pdf",
+   "displayLink": "www.courts.state.co.us",
+   "snippet": "... SCANNING DEVICE. F:328.8. SCHOOL. F:329. SCHOOL RESOURCE OFFICER. F:329.2 ... RETENTION). 13:18.SP. UNLAWFUL PURCHASE OR SALE OF COMMODITY. METALS\u2014SPECIAL\u00a0...",
+   "htmlSnippet": "... <b>SCANNING</b> DEVICE. F:328.8. SCHOOL. F:329. SCHOOL RESOURCE OFFICER. F:329.2 ... <b>RETENTION</b>). 13:18.SP. UNLAWFUL PURCHASE OR SALE OF COMMODITY. METALS\u2014SPECIAL&nbsp;...",
+   "formattedUrl": "https://www.courts.state.co.us/.../COLJI-Crim%202022%20-%20Final.pdf",
+   "htmlFormattedUrl": "https://www.courts.state.co.us/.../COLJI-Crim%202022%20-%20Final.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUPvCIUQ3UjX-EEjeTQS684Uj-3JVeFEnsu2GvRGHhb23wWa8RWo08s8dm&s",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20230127093724-07'00'",
+      "creator": "Microsoft\u00ae Word for Office 365",
+      "creationdate": "D:20230127093724-07'00'",
+      "author": "Colorado Judicial User",
+      "producer": "Microsoft\u00ae Word for Office 365"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///d1b06acfda371135bdea638490087fcaa0594d3493d610b9ade2b8298d15a3f2"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Chapter 42 - POLICE | Code of Ordinances | Denver, CO | Municode ...",
+   "htmlTitle": "Chapter 42 - POLICE | Code of Ordinances | Denver, CO | Municode ...",
+   "link": "https://library.municode.com/co/denver/codes/code_of_ordinances?nodeId=TITIIREMUCO_CH42PO",
+   "displayLink": "library.municode.com",
+   "snippet": "... retain the property in the surplus pool for future city use. ... In addition to a license, each security guard shall be issued an identification card which shall\u00a0...",
+   "htmlSnippet": "... <b>retain</b> the property in the surplus pool for future city use. ... In addition to a license, each security guard shall be issued an <b>identification card</b> which shall&nbsp;...",
+   "formattedUrl": "https://library.municode.com/co/denver/codes/code_of_ordinances?...",
+   "htmlFormattedUrl": "https://library.municode.com/co/denver/codes/code_of_ordinances?...",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "apple-mobile-web-app-title": "Municode Codification"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Durable Medical Equipment, Prosthetics, Orthotics and Supplies ...",
+   "htmlTitle": "Durable Medical Equipment, Prosthetics, Orthotics and Supplies ...",
+   "link": "https://hcpf.colorado.gov/DMEPOS-manual",
+   "displayLink": "hcpf.colorado.gov",
+   "snippet": "The Billing Provider must retain the member's prescription and related documentation for services for at ... scanning device or morse code. Tablet\u00a0...",
+   "htmlSnippet": "The Billing Provider must <b>retain</b> the member&#39;s prescription and related documentation for services for <b>at</b> ... <b>scanning</b> device or morse code. Tablet&nbsp;...",
+   "formattedUrl": "https://hcpf.colorado.gov/DMEPOS-manual",
+   "htmlFormattedUrl": "https://hcpf.colorado.gov/DMEPOS-manual",
+   "pagemap": {
+    "WebPage": [
+     {
+      "name": "Durable Medical Equipment, Prosthetics, Orthotics and Supplies (DMEPOS)",
+      "text": "Program OverviewEligible ProvidersPrescribing ProvidersBilling ProvidersCovered BenefitsDurable Medical EquipmentTranscutaneous or Neuromuscular Electrical Nerve Stimulators (TENS or NMES)Osteogeni..."
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Code of Colorado Regulations",
+   "htmlTitle": "Code of Colorado Regulations",
+   "link": "https://spb.colorado.gov/sites/spb/files/4%20CCR%20801-1_2.pdf",
+   "displayLink": "spb.colorado.gov",
+   "snippet": "Jan 1, 2024 ... Departments shall obtain Board approval to limit the retention area at least thirty (30) ... retain at any step in this order, then the\u00a0...",
+   "htmlSnippet": "Jan 1, 2024 <b>...</b> Departments shall obtain Board approval to limit the <b>retention</b> area <b>at</b> least thirty (30) ... <b>retain at</b> any step in this order, then the&nbsp;...",
+   "formattedUrl": "https://spb.colorado.gov/sites/spb/files/4%20CCR%20801-1_2.pdf",
+   "htmlFormattedUrl": "https://spb.colorado.gov/sites/spb/files/4%20CCR%20801-1_2.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20231130141958-07'00'",
+      "creationdate": "D:20231130141510-07'00'",
+      "creator": "Microsoft\u00ae Word for Microsoft 365",
+      "author": "Colorado Secretary of State",
+      "producer": "Microsoft\u00ae Word for Microsoft 365",
+      "title": "Code of Colorado Regulations"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}
