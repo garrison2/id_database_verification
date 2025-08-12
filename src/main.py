@@ -18,19 +18,13 @@ with open(QUERIES_PATH, 'r') as file:
 with open(STATES_PATH, 'r') as file:
     STATES = json.load(file)
 
-# -------------------------------- FILESYSTEM ---------------------------------
-def make_state_dir(state):
+# ---------------------------- RESULTS DIRECTORY ------------------------------
+def make_rdir(state):
         time_str = time.strftime("%d-%m-%Y_%H:%M:%S")
         return os.path.join(RESULTS_PATH, f'{state}_{time_str}')
 
-def get_paths(state_dir, query):
-    dir_path = os.path.join(state_dir, query)
-    json_path = os.path.join(dir_path, f'{query}.json')
-    return dir_path, json_path
-
-def clean_selection_path(state, selection):
-    directories = os.listdir(RESULTS_PATH)
-    directories = [ d for d in directories if state in d ]
+def get_rdir_noinput(state, selection):
+    directories = [ d for d in sorted(os.listdir(RESULTS_PATH)) if state in d ]
     if len(directories) == 0:
         raise Exception("State does not exist.")
     if not 0 <= int(selection) < len(directories):
@@ -38,9 +32,8 @@ def clean_selection_path(state, selection):
     
     return directories[int(selection)]
 
-def choose_timestamp(state):
-    directories = os.listdir(RESULTS_PATH)
-    directories = [ d for d in directories if state in d ]
+def get_rdir_input(state):
+    directories = [ d for d in sorted(os.listdir(RESULTS_PATH)) if state in d ]
     if len(directories) == 0:
         raise Exception("State does not exist.")
     if len(directories) == 1:
@@ -54,7 +47,26 @@ def choose_timestamp(state):
     if not 0 <= index < len(directories):
         raise Exception("Invalid choice.")
     return directories[index]
+
+def get_most_recent_rdirs():
+    convert = lambda t: time.mktime(time.strptime(t, "%d-%m-%Y_%H:%M:%S"))
+    
+    states = dict()
+    for rdir in os.listdir(RESULTS_PATH):
+        state = rdir[:rdir.find('_')]
+        tval = convert(rdir[rdir.find('_') + 1:])
+        if tval > states.get(state, (0, None))[0]:
+            states[state] = (tval, rdir)
+
+    results = []
+    for state in states:
+        results.append(states[state][1])
+
+    results.sort()
+    return results
 # -----------------------------------------------------------------------------
+
+
 def process(state, query, selection):
     path = os.path.join(RESULTS_PATH, selection, query, f'{query}.json')
     if not os.path.exists(path): return
@@ -80,6 +92,7 @@ def view(state, query, selection):
         print('\t' + website['link'])
     print()
 
+
 # ----------------------------------JSON API ----------------------------------
 def search(query, key):
     service = build("customsearch", "v1", developerKey=key)
@@ -95,23 +108,20 @@ def search_wrapper(state, query, state_dir = None):
                                        STATE_STATUTE=statute, 
                                        DMV_WEBSITE=dmv_website)
     if not state_dir:
-        state_dir = make_state_dir(state)
-    dir_path, json_path = get_paths(state_dir, query)
-    os.makedirs(dir_path)
+        state_dir = make_rdir(state)
+
+    qdir_path = os.path.join(state_dir, query)
+    qjson_path = os.path.join(qdir_path, f'{query}.json')
+
+    os.makedirs(qdir_path)
 
     result = search(query_text, API_KEY)
-    with open(json_path, 'w') as f:
+    with open(qjson_path, 'w') as f:
         json.dump(result, f, indent=1)
 # -----------------------------------------------------------------------------
 
 
 # ----------------------------------- CLI -------------------------------------
-def next_except(args):
-    try:
-        return next(args)
-    except StopIteration:
-        return None
-
 def verify_state_and_query(state, queries):
     if state != 'all' and state not in STATES:
         raise Exception("Argument is not a state.")
@@ -124,8 +134,13 @@ def main(args):
     parser = argparse.ArgumentParser()
     parser.add_argument('-q', '--queries', nargs = '*',
                         help='choose specific queries (default all).')
-    parser.add_argument('-s', '--select',
-                        help='choose the directory to process.')
+    select = parser.add_mutually_exclusive_group()
+    select.add_argument('-s', '--select',
+                        help='choose the result directory to process.')
+    select.add_argument('--most-recent', action='store_true',
+                        help='only choose the most recent result directories.')
+#    parser.add_argument('-d', '--date',
+#                        help='choose a date cutoff for result directories.')
     parser.add_argument('action', choices=('process', 'view',
                                            'search', 'list'),
                         metavar="<process, view, search, list>",
@@ -142,11 +157,14 @@ def main(args):
             verify_state_and_query(parsed.state, parsed.queries)
             if parsed.state == 'all':
                 if parsed.select:
-                    raise Exception('Cannot select path if "all" states are chosen.')
-                paths = os.listdir(RESULTS_PATH)
+                    raise Exception('Cannot select result directory if "all" is chosen.')
+                if parsed.most_recent:
+                    result_directories = get_most_recent_rdirs()
+                else:
+                    result_directories = os.listdir(RESULTS_PATH)
 
-                for path in paths:
-                    state = path.split('_')[0]
+                for rdir in result_directories:
+                    state = rdir[:rdir.find('_')]
                     if state not in STATES: continue
                     if parsed.queries:
                         queries = parsed.queries
@@ -154,13 +172,16 @@ def main(args):
                         queries = QUERIES
 
                     for query in queries:
-                        func(state, query, path)
+                        func(state, query, rdir)
                 return
 
-            if parsed.select:
-                path = clean_selection_path(parsed.state, parsed.select)
+            if parsed.most_recent:
+                rdir = [r for r in get_most_recent_rdirs()
+                        if parsed.state in r][0]
+            elif parsed.select:
+                rdir = get_rdir_noinput(parsed.state, parsed.select)
             else:
-                path = choose_timestamp(parsed.state)
+                rdir = get_rdir_input(parsed.state)
 
             if parsed.queries:
                 queries = parsed.queries
@@ -168,7 +189,7 @@ def main(args):
                 queries = QUERIES
 
             for query in queries:
-                func(parsed.state, query, path)
+                func(parsed.state, query, rdir)
 
         case 'search':
             verify_state_and_query(parsed.state, parsed.queries)
@@ -184,35 +205,53 @@ def main(args):
                     return
 
                 for state in STATES:
-                    path = make_state_dir(state)
+                    rdir = make_rdir(state)
 
                     for query in queries:
-                        search_wrapper(state, query, path)
+                        search_wrapper(state, query, rdir)
 
             else:
-                path = make_state_dir(parsed.state)
+                rdir = make_rdir(parsed.state)
                 for query in queries:
-                    search_wrapper(parsed.state, query, path)
+                    search_wrapper(parsed.state, query, rdir)
 
         case 'list':
             verify_state_and_query(parsed.state, parsed.queries)
             if parsed.state == 'all': 
-                print('Results:')
-                for p in os.listdir(RESULTS_PATH):
-                    queries = os.listdir(os.path.join(RESULTS_PATH, p))
-                    print(f'\t{p} ({", ".join(queries)})')
-            else:
-                if parsed.select:
-                    states_dirs = [ clean_selection_path(parsed.state, parsed.select) ]
+                state_count = dict()
+                rdirs_sequence = dict() 
+
+                sorted_rdirs = sorted(os.listdir(RESULTS_PATH))
+                for rdir in sorted_rdirs:
+                    state = rdir[:rdir.find("_")]
+                    state_count[state] = state_count.get(state, -1) + 1
+                    rdirs_sequence[rdir] = state_count[state]
+
+                if parsed.most_recent:
+                    result_directories = get_most_recent_rdirs()
                 else:
-                    states_dirs = [os.path.join(RESULTS_PATH, d)
-                                   for d in os.listdir(RESULTS_PATH) 
-                                   if parsed.state in d]
-                for state_dir in states_dirs:
-                    queries = os.listdir(state_dir)
+                    result_directories = sorted_rdirs
+
+                print('Results:')
+                for rdir in result_directories:
+                    sequence = rdirs_sequence[rdir]
+                    queries = os.listdir(os.path.join(RESULTS_PATH, rdir))
+                    print(f'\t{sequence} - {rdir} ({", ".join(queries)})')
+            else:
+                if parsed.most_recent:
+                    result_directories = [r for r in get_most_recent_rdirs()
+                                          if state in r]
+                elif parsed.select:
+                    result_directories = [ get_rdir_noinput(parsed.state, parsed.select) ]
+                else:
+                    result_directories = [os.path.join(RESULTS_PATH, r)
+                                          for r in os.listdir(RESULTS_PATH) 
+                                          if parsed.state in r]
+                for rdir in result_directories:
+                    queries = os.listdir(rdir)
 
                     if not parsed.queries:
-                        print(f'Queries: ({state_dir})')
+                        print(f'Queries: ({rdir})')
                         for q in queries:
                             print('\t' + q)
                     else:
@@ -220,9 +259,9 @@ def main(args):
                             if query not in queries:
                                 raise Exception("Query is invalid.")
                         
-                            files = os.listdir(os.path.join(RESULTS_PATH, state_dir,
+                            files = os.listdir(os.path.join(RESULTS_PATH, rdir,
                                                             query))
-                            print(f'Files: ({state_dir}/{query})')
+                            print(f'Files: ({rdir}/{query})')
                             for f in files:
                                 print('\t' + f)
 
