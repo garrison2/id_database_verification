@@ -1,0 +1,303 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Florida Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "totalResults": "7530",
+    "searchTerms": "\"Florida Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Florida Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "totalResults": "7530",
+    "searchTerms": "\"Florida Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.307295,
+  "formattedSearchTime": "0.31",
+  "totalResults": "7530",
+  "formattedTotalResults": "7,530"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "The 2024 Florida Statutes (including 2025 Special Session C)",
+   "htmlTitle": "The 2024 <b>Florida Statutes</b> (including 2025 Special Session C)",
+   "link": "http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0322/Sections/0322.143.html",
+   "displayLink": "www.leg.state.fl.us",
+   "snippet": "... swipe an individual's driver license or identification card, except for the following purposes: ... swiping the driver license or identification card. (4) A\u00a0...",
+   "htmlSnippet": "... <b>swipe</b> an individual&#39;s <b>driver license</b> or <b>identification card</b>, except for the following purposes: ... <b>swiping</b> the <b>driver license</b> or <b>identification card</b>. (4) A&nbsp;...",
+   "formattedUrl": "http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display...",
+   "htmlFormattedUrl": "http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display..."
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Chapter 322 Section 143 - 2013 Florida Statutes - The Florida Senate",
+   "htmlTitle": "Chapter 322 Section 143 - 2013 <b>Florida Statutes</b> - The Florida Senate",
+   "link": "https://www.flsenate.gov/laws/statutes/2013/322.143",
+   "displayLink": "www.flsenate.gov",
+   "snippet": "... swipe an individual's driver license or identification card, except for the following purposes: ... swiping the driver license or identification card. (4) A\u00a0...",
+   "htmlSnippet": "... <b>swipe</b> an individual&#39;s <b>driver license</b> or <b>identification card</b>, except for the following purposes: ... <b>swiping</b> the <b>driver license</b> or <b>identification card</b>. (4) A&nbsp;...",
+   "formattedUrl": "https://www.flsenate.gov/laws/statutes/2013/322.143",
+   "htmlFormattedUrl": "https://www.flsenate.gov/laws/statutes/2013/322.143"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The 2024 Florida Statutes (including 2025 Special Session C)",
+   "htmlTitle": "The 2024 <b>Florida Statutes</b> (including 2025 Special Session C)",
+   "link": "http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0300-0399/0322/Sections/0322.032.html",
+   "displayLink": "www.leg.state.fl.us",
+   "snippet": "... scanning his or her digital proof of driver license or identification card. ... If the individual does not want the private entity to scan his or her\u00a0...",
+   "htmlSnippet": "... <b>scanning</b> his or her digital proof of <b>driver license</b> or <b>identification card</b>. ... If the individual does not want the private entity to <b>scan</b> his or her&nbsp;...",
+   "formattedUrl": "http://www.leg.state.fl.us/statutes/index.cfm?App_mode...032...",
+   "htmlFormattedUrl": "http://www.leg.state.fl.us/statutes/index.cfm?App_mode...032..."
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Untitled",
+   "htmlTitle": "Untitled",
+   "link": "https://www.flsenate.gov/Session/Bill/2013/7125/Amendment/370784/HTML",
+   "displayLink": "www.flsenate.gov",
+   "snippet": "... retain, 37 or transmit the driver license information. 38 (3) A private ... swiping the driver license or 42 identification card. 43 (4) A private\u00a0...",
+   "htmlSnippet": "... <b>retain</b>, 37 or transmit the <b>driver license</b> information. 38 (3) A private ... <b>swiping</b> the <b>driver license</b> or 42 <b>identification card</b>. 43 (4) A private&nbsp;...",
+   "formattedUrl": "https://www.flsenate.gov/Session/Bill/2013/7125/Amendment/.../HTML",
+   "htmlFormattedUrl": "https://www.flsenate.gov/Session/Bill/2013/7125/Amendment/.../HTML"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Surrendered Driver License/ID \u2013 Manatee County Tax Collector ...",
+   "htmlTitle": "Surrendered <b>Driver License</b>/ID \u2013 Manatee County Tax Collector ...",
+   "link": "https://helpcenter.taxcollector.com/hc/en-us/articles/26749410029837-Surrendered-Driver-License-ID",
+   "displayLink": "helpcenter.taxcollector.com",
+   "snippet": "... scan the QR code to access the application \u2013 prior to your appointment. Do ... Section 322.059, Florida Statutes, states that any person whose driver's license or\u00a0...",
+   "htmlSnippet": "... <b>scan</b> the QR code to access the application \u2013 prior to your appointment. Do ... Section 322.059, <b>Florida Statutes</b>, states that any person whose <b>driver&#39;s license</b> or&nbsp;...",
+   "formattedUrl": "https://helpcenter.taxcollector.com/.../26749410029837-Surrendered-Drive...",
+   "htmlFormattedUrl": "https://helpcenter.taxcollector.com/.../26749410029837-Surrendered-<b>Drive</b>...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhl9_ubm-fLctiIS2SD1hIeG18eYU6BwuiauigB0bLeSpon8_kxAxgvVQ&s",
+      "width": "200",
+      "height": "72"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://helpcenter.taxcollector.com/hc/theming_assets/01J2CG11GE1DDK9THAR475YQPJ",
+      "og:type": "website",
+      "og:site_name": "Manatee County Tax Collector | Help Center",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Surrendered Driver License/ID",
+      "og:url": "https://helpcenter.taxcollector.com/hc/en-us/articles/26749410029837-Surrendered-Driver-License-ID",
+      "og:description": "THIS TRANSACTION MUST BE PROCESSED\u00a0BY APPOINTMENT\u00a0AT THEDRIVER LICENSE BRANCH \u2013 904 301 BLVD W, BRADENTONCustomers will be charged a $6.25 Tax Collector service fee for information and processing, ..."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://helpcenter.taxcollector.com/hc/theming_assets/01J2CG11GE1DDK9THAR475YQPJ"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "FAQs - FL HealthSource \u2022 Health Care Resources for Consumers ...",
+   "htmlTitle": "FAQs - FL HealthSource \u2022 Health Care Resources for Consumers ...",
+   "link": "https://flhealthsource.gov/background-screening/bgs-faqs/",
+   "displayLink": "flhealthsource.gov",
+   "snippet": "... retention requirements. ... One of the two types of identification must bear your picture and signature such as a driver's license, state identification card or\u00a0...",
+   "htmlSnippet": "... <b>retention</b> requirements. ... One of the two types of identification must bear your picture and signature such as a <b>driver&#39;s license</b>, state <b>identification card</b> or&nbsp;...",
+   "formattedUrl": "https://flhealthsource.gov/background-screening/bgs-faqs/",
+   "htmlFormattedUrl": "https://flhealthsource.gov/background-screening/bgs-faqs/",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:type": "article",
+      "article:published_time": "2021-12-02T14:22:17+00:00",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "FAQs - FL HealthSource \u2022 Health Care Resources for Consumers & Providers",
+      "og:site_name": "FL HealthSource \u2022 Health Care Resources for Consumers & Providers -",
+      "og:title": "FAQs - FL HealthSource \u2022 Health Care Resources for Consumers & Providers",
+      "msapplication-tileimage": "https://flhealthsource.gov/wp-content/uploads/2021/12/favicon.ico",
+      "og:description": "Now Required - Background Screening As of July 1, 2025, all* health care practitioners must comply with background screening requirements when applying for initial licensure or renewing their license. *Emergency medical technicians, paramedics, pharmacy interns, registered pharmacy technicians, and radiologic technologists are exempt unless applying through the military active-duty spouse licensure pathway. Fingerprint retention requirements",
+      "article:modified_time": "2025-07-14T20:53:19+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Now Required - Background Screening As of July 1, 2025, all* health care practitioners must comply with background screening requirements when applying for initial licensure or renewing their license. *Emergency medical technicians, paramedics, pharmacy interns, registered pharmacy technicians, and radiologic technologists are exempt unless applying through the military active-duty spouse licensure pathway. Fingerprint retention requirements",
+      "og:locale": "en_US",
+      "og:url": "https://flhealthsource.gov/background-screening/bgs-faqs/"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Florida Driver License or ID Card Renewal, Replacement, Address ...",
+   "htmlTitle": "Florida <b>Driver License</b> or ID Card Renewal, Replacement, Address ...",
+   "link": "https://helpcenter.taxcollector.com/hc/en-us/articles/26676494374413-Florida-Driver-License-or-ID-Card-Renewal-Replacement-Address-Change-or-Name-Change",
+   "displayLink": "helpcenter.taxcollector.com",
+   "snippet": "This applies to your driver's license, identification card and vehicle registration (F.S. 322.19 & 320.02). 5. Proof of Social Security Number \u2013 Bring One.",
+   "htmlSnippet": "This applies to your <b>driver&#39;s license</b>, <b>identification card</b> and vehicle registration (F.S. 322.19 &amp; 320.02). 5. Proof of Social Security Number \u2013 Bring One.",
+   "formattedUrl": "https://helpcenter.taxcollector.com/.../26676494374413-Florida-Driver-Lic...",
+   "htmlFormattedUrl": "https://helpcenter.taxcollector.com/.../26676494374413-Florida-<b>Driver-Lic</b>...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhl9_ubm-fLctiIS2SD1hIeG18eYU6BwuiauigB0bLeSpon8_kxAxgvVQ&s",
+      "width": "200",
+      "height": "72"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://helpcenter.taxcollector.com/hc/theming_assets/01J2CG11GE1DDK9THAR475YQPJ",
+      "og:type": "website",
+      "og:site_name": "Manatee County Tax Collector | Help Center",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Florida Driver License or ID Card Renewal, Replacement, Address Change, or Name Change",
+      "og:url": "https://helpcenter.taxcollector.com/hc/en-us/articles/26676494374413-Florida-Driver-License-or-ID-Card-Renewal-Replacement-Address-Change-or-Name-Change",
+      "og:description": "Need to renew, replace, change your address, or change your name on your Florida driver license or ID card?\u00a0 Follow these 6 easy steps!\u00a0\n\n\n\n\n\nThe\u00a0US Federal Real ID Act\u00a0(https://www.dhs.gov/real-id..."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://helpcenter.taxcollector.com/hc/theming_assets/01J2CG11GE1DDK9THAR475YQPJ"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Guidelines for the Use of Automated License Plate Readers",
+   "htmlTitle": "Guidelines for the Use of Automated License Plate Readers",
+   "link": "https://www.fdle.state.fl.us/cjjis/documents/cjjis-council-alpr-guidelines",
+   "displayLink": "www.fdle.state.fl.us",
+   "snippet": "An ALPR may be used only to scan vehicle license plates affixed to public view (i.e., ... Florida statutes regarding the privacy restrictions and retention\u00a0...",
+   "htmlSnippet": "An ALPR may be used only to <b>scan</b> vehicle license plates affixed to public view (i.e., ... <b>Florida statutes</b> regarding the privacy restrictions and <b>retention</b>&nbsp;...",
+   "formattedUrl": "https://www.fdle.state.fl.us/cjjis/documents/cjjis-council-alpr-guidelines",
+   "htmlFormattedUrl": "https://www.fdle.state.fl.us/cjjis/documents/cjjis-council-alpr-guidelines",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo7dBmKJNGx5JtC2qKjLmmG66aDeAXbax5ClXU6J21E5bD2R2sCg6PslGn&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20160208143946-05'00'",
+      "creationdate": "D:20160208143945-05'00'",
+      "creator": "Acrobat PDFMaker 10.1 for Word",
+      "sourcemodified": "D:20160208193917",
+      "author": "Schaeffer, Charles",
+      "producer": "Adobe PDF Library 10.0",
+      "company": "Florida Department of Law Enforcement"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///3560ce03beeca9da6d804a373c237c06c6a846365429df11cab654283b0d977b"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Out-of-State Driver License/ID Card Transfer to Florida \u2013 Manatee ...",
+   "htmlTitle": "Out-of-State <b>Driver License</b>/ID Card Transfer to Florida \u2013 Manatee ...",
+   "link": "https://helpcenter.taxcollector.com/hc/en-us/articles/25134090420365-Out-of-State-Driver-License-ID-Card-Transfer-to-Florida",
+   "displayLink": "helpcenter.taxcollector.com",
+   "snippet": "Florida law requires that you update your address within 30 days of any change. This applies to your driver's license, identification card and vehicle\u00a0...",
+   "htmlSnippet": "Florida law requires that you update your address within 30 days of any change. This applies to your <b>driver&#39;s license</b>, <b>identification card</b> and vehicle&nbsp;...",
+   "formattedUrl": "https://helpcenter.taxcollector.com/.../25134090420365-Out-of-State-Drive...",
+   "htmlFormattedUrl": "https://helpcenter.taxcollector.com/.../25134090420365-Out-of-State-<b>Drive</b>...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhl9_ubm-fLctiIS2SD1hIeG18eYU6BwuiauigB0bLeSpon8_kxAxgvVQ&s",
+      "width": "200",
+      "height": "72"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://helpcenter.taxcollector.com/hc/theming_assets/01J2CG11GE1DDK9THAR475YQPJ",
+      "og:type": "website",
+      "og:site_name": "Manatee County Tax Collector | Help Center",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Out-of-State Driver License/ID Card Transfer to Florida",
+      "og:url": "https://helpcenter.taxcollector.com/hc/en-us/articles/25134090420365-Out-of-State-Driver-License-ID-Card-Transfer-to-Florida",
+      "og:description": "Need to transfer your out-of-state driver license or ID card to Florida?\u00a0 Follow these 6 easy steps!\u00a0\nTo transfer your driver license/ID card to Florida from another US State or US Territory (Puert..."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://helpcenter.taxcollector.com/hc/theming_assets/01J2CG11GE1DDK9THAR475YQPJ"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Florida Statutes Title XXIII. Motor Vehicles \u00a7 322.143 | FindLaw",
+   "htmlTitle": "<b>Florida Statutes</b> Title XXIII. Motor Vehicles \u00a7 322.143 | FindLaw",
+   "link": "https://codes.findlaw.com/fl/title-xxiii-motor-vehicles/fl-st-sect-322-143/",
+   "displayLink": "codes.findlaw.com",
+   "snippet": "... swipe an individual's driver license or identification card, except for the following purposes: ... swiping the driver license or identification card. (4) A\u00a0...",
+   "htmlSnippet": "... <b>swipe</b> an individual&#39;s <b>driver license</b> or <b>identification card</b>, except for the following purposes: ... <b>swiping</b> the <b>driver license</b> or <b>identification card</b>. (4) A&nbsp;...",
+   "formattedUrl": "https://codes.findlaw.com/fl/title-xxiii-motor-vehicles/fl-st-sect-322-143/",
+   "htmlFormattedUrl": "https://codes.findlaw.com/fl/title-xxiii-motor-vehicles/fl-st-sect-322-143/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuWtKEZ0kzYj6NSuZlgNrAF5XcYIi9XgsiqHcAgQHtxY18xcWZ1bDMaCM&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png",
+      "og:type": "article",
+      "og:site_name": "Findlaw",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Florida Statutes Title XXIII. Motor Vehicles \u00a7 322.143 | FindLaw",
+      "apple-mobile-web-app-title": "FindLaw",
+      "og:url": "https://codes.findlaw.com/fl/title-xxiii-motor-vehicles/fl-st-sect-322-143/",
+      "og:description": "Florida Title XXIII. Motor Vehicles   Section 322.143. Read the code on FindLaw"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png"
+     }
+    ]
+   }
+  }
+ ]
+}

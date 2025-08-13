@@ -1,0 +1,428 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"California Code\" \"driver's license\" OR \"identification card\" around 100 \"verification\" OR \"scanning\" OR \"swiping\" OR \"machine-readable\" OR \"electronically readable\" OR \"transaction scan\" -applicant -application",
+    "totalResults": "1440",
+    "searchTerms": "\"California Code\" \"driver's license\" OR \"identification card\" around 100 \"verification\" OR \"scanning\" OR \"swiping\" OR \"machine-readable\" OR \"electronically readable\" OR \"transaction scan\" -applicant -application",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"California Code\" \"driver's license\" OR \"identification card\" around 100 \"verification\" OR \"scanning\" OR \"swiping\" OR \"machine-readable\" OR \"electronically readable\" OR \"transaction scan\" -applicant -application",
+    "totalResults": "1440",
+    "searchTerms": "\"California Code\" \"driver's license\" OR \"identification card\" around 100 \"verification\" OR \"scanning\" OR \"swiping\" OR \"machine-readable\" OR \"electronically readable\" OR \"transaction scan\" -applicant -application",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.163448,
+  "formattedSearchTime": "0.16",
+  "totalResults": "1440",
+  "formattedTotalResults": "1,440"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "View Document - California Code of Regulations",
+   "htmlTitle": "View Document - <b>California Code</b> of Regulations",
+   "link": "https://govt.westlaw.com/calregs/Document/IF1505CE0699611ED9432FA58BC52C333?viewType=FullText&originationContext=documenttoc&transitionType=CategoryPageItem&contextData=(sc.Default)",
+   "displayLink": "govt.westlaw.com",
+   "snippet": "... identification card issued under Health and Safety Code section 11362.71. (A) ... 100, title 1, California Code of Regulations (Register 2021, No. 29)\u00a0...",
+   "htmlSnippet": "... <b>identification card</b> issued <b>under</b> Health and Safety Code section 11362.71. (A) ... <b>100</b>, title 1, <b>California Code</b> of Regulations (Register 2021, No. 29)&nbsp;...",
+   "formattedUrl": "https://govt.westlaw.com/.../IF1505CE0699611ED9432FA58BC52C333?...",
+   "htmlFormattedUrl": "https://govt.westlaw.com/.../IF1505CE0699611ED9432FA58BC52C333?...",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cal. Code Regs. Tit. 11, \u00a7 4285 - Coe Verification Process | State ...",
+   "htmlTitle": "Cal. Code Regs. Tit. 11, \u00a7 4285 - Coe <b>Verification</b> Process | State ...",
+   "link": "https://www.law.cornell.edu/regulations/california/11-CCR-4285",
+   "displayLink": "www.law.cornell.edu",
+   "snippet": "shall collect the ammunition purchaser's or transferee's name, date of birth, current address, and driver's license ... 100, title 1, California Code of\u00a0...",
+   "htmlSnippet": "shall collect the ammunition purchaser&#39;s or transferee&#39;s name, date of birth, current address, and <b>driver&#39;s license</b> ... <b>100</b>, title 1, <b>California Code</b> of&nbsp;...",
+   "formattedUrl": "https://www.law.cornell.edu/regulations/california/11-CCR-4285",
+   "htmlFormattedUrl": "https://www.law.cornell.edu/regulations/california/11-CCR-4285",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGcdwfPFrYUuDCq3KrLd2pdV3wLyOnciLGWSa5M5h-ZuqJJJGyLAiepQ&s",
+      "width": "232",
+      "height": "159"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.law.cornell.edu/images/liibracketlogo.gif",
+      "og:type": "website",
+      "twitter:card": "Cal. Code Regs. Tit. 11, \u00a7 4285 - Coe Verification Process",
+      "twitter:title": "Cal. Code Regs. Tit. 11, \u00a7 4285 - Coe Verification Process",
+      "og:site_name": "LII / Legal Information Institute",
+      "twitter:url": "https://www.law.cornell.edu/regulations/california/11-CCR-4285",
+      "og:title": "Cal. Code Regs. Tit. 11, \u00a7 4285 - Coe Verification Process",
+      "dcterms.title": "Cal. Code Regs. Tit. 11, \u00a7 4285 - Coe Verification Process",
+      "version": "v10.16.1",
+      "twitter:image": "https://www.law.cornell.edu/images/liibracketlogo.gif",
+      "twitter:site": "@LIICornell",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:url": "https://www.law.cornell.edu/regulations/california/11-CCR-4285"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.law.cornell.edu/images/liibracketlogo.gif"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Georgia Code Title 40. Motor Vehicles and Traffic \u00a7 40-5-120 ...",
+   "htmlTitle": "Georgia Code Title 40. Motor Vehicles and Traffic \u00a7 40-5-120 ...",
+   "link": "https://codes.findlaw.com/ga/title-40-motor-vehicles-and-traffic/ga-code-sect-40-5-120/",
+   "displayLink": "codes.findlaw.com",
+   "snippet": "... identification card issued pursuant to Code Section 40-5-100;. (2) Fail ... If a person consents to the scanning of his or her driver's license, permit\u00a0...",
+   "htmlSnippet": "... <b>identification card</b> issued pursuant to Code Section 40-5-<b>100</b>;. (2) Fail ... If a person consents to the <b>scanning</b> of his or her <b>driver&#39;s license</b>, permit&nbsp;...",
+   "formattedUrl": "https://codes.findlaw.com/ga/title-40-motor.../ga-code-sect-40-5-120/",
+   "htmlFormattedUrl": "https://codes.findlaw.com/ga/title-40-motor.../ga-code-sect-40-5-120/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuWtKEZ0kzYj6NSuZlgNrAF5XcYIi9XgsiqHcAgQHtxY18xcWZ1bDMaCM&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png",
+      "og:type": "article",
+      "og:site_name": "Findlaw",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Georgia Code Title 40. Motor Vehicles and Traffic \u00a7 40-5-120 | FindLaw",
+      "og:url": "https://codes.findlaw.com/ga/title-40-motor-vehicles-and-traffic/ga-code-sect-40-5-120/",
+      "og:description": "Georgia Title 40. Motor Vehicles and Traffic   Section 40-5-120. Read the code on FindLaw"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cal. Code Regs. Tit. 4, \u00a7 15411 - Requirements for Providing Free ...",
+   "htmlTitle": "Cal. Code Regs. Tit. 4, \u00a7 15411 - Requirements for Providing Free ...",
+   "link": "https://www.law.cornell.edu/regulations/california/4-CCR-15411",
+   "displayLink": "www.law.cornell.edu",
+   "snippet": "who does not possess a valid identification card issued under Health and ... 100, title 1, California Code of Regulations (Register 2021, No. 29). For\u00a0...",
+   "htmlSnippet": "who does not possess a valid <b>identification card</b> issued <b>under</b> Health and ... <b>100</b>, title 1, <b>California Code</b> of Regulations (Register 2021, No. 29). For&nbsp;...",
+   "formattedUrl": "https://www.law.cornell.edu/regulations/california/4-CCR-15411",
+   "htmlFormattedUrl": "https://www.law.cornell.edu/regulations/california/4-CCR-15411",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGcdwfPFrYUuDCq3KrLd2pdV3wLyOnciLGWSa5M5h-ZuqJJJGyLAiepQ&s",
+      "width": "232",
+      "height": "159"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.law.cornell.edu/images/liibracketlogo.gif",
+      "og:type": "website",
+      "twitter:card": "Cal. Code Regs. Tit. 4, \u00a7 15411 - Requirements for Providing Free Cannabis Goods to Medicinal Consumers",
+      "twitter:title": "Cal. Code Regs. Tit. 4, \u00a7 15411 - Requirements for Providing Free Cannabis Goods to Medicinal Consumers",
+      "og:site_name": "LII / Legal Information Institute",
+      "twitter:url": "https://www.law.cornell.edu/regulations/california/4-CCR-15411",
+      "og:title": "Cal. Code Regs. Tit. 4, \u00a7 15411 - Requirements for Providing Free Cannabis Goods to Medicinal Consumers",
+      "dcterms.title": "Cal. Code Regs. Tit. 4, \u00a7 15411 - Requirements for Providing Free Cannabis Goods to Medicinal Consumers",
+      "version": "v10.16.1",
+      "twitter:image": "https://www.law.cornell.edu/images/liibracketlogo.gif",
+      "twitter:site": "@LIICornell",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:url": "https://www.law.cornell.edu/regulations/california/4-CCR-15411"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.law.cornell.edu/images/liibracketlogo.gif"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Is it normal for driver license to be scanned at gas station for lotto? : r ...",
+   "htmlTitle": "Is it normal for driver license to be scanned at gas station for lotto? : r ...",
+   "link": "https://www.reddit.com/r/bayarea/comments/14yxj43/is_it_normal_for_driver_license_to_be_scanned_at/",
+   "displayLink": "www.reddit.com",
+   "snippet": "Jul 13, 2023 ... age verification. Full California Code As Related to ID Scanning ... 3) Provides that a business swiping a driver's license or DMV-issued\u00a0...",
+   "htmlSnippet": "Jul 13, 2023 <b>...</b> age <b>verification</b>. Full <b>California Code</b> As Related to ID <b>Scanning</b> ... 3) Provides that a business <b>swiping</b> a <b>driver&#39;s license</b> or DMV-issued&nbsp;...",
+   "formattedUrl": "https://www.reddit.com/.../is_it_normal_for_driver_license_to_be_scanned...",
+   "htmlFormattedUrl": "https://www.reddit.com/.../is_it_normal_for_driver_license_to_be_scanned...",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:image": "https://share.redd.it/preview/post/14yxj43",
+      "theme-color": "#000000",
+      "og:image:width": "1200",
+      "og:type": "website",
+      "og:image:alt": "An image containing a preview of the post",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "r/bayarea on Reddit: Is it normal for driver license to be scanned at gas station for lotto?",
+      "og:site_name": "Reddit",
+      "og:title": "r/bayarea on Reddit: Is it normal for driver license to be scanned at gas station for lotto?",
+      "og:image:height": "630",
+      "msapplication-navbutton-color": "#000000",
+      "og:description": "Posted by u/[Deleted Account] - 16 votes and 10 comments",
+      "twitter:image": "https://share.redd.it/preview/post/14yxj43",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "twitter:site": "@reddit",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "apple-mobile-web-app-capable": "yes",
+      "og:ttl": "600",
+      "og:url": "https://www.reddit.com/r/bayarea/comments/14yxj43/is_it_normal_for_driver_license_to_be_scanned_at/?seeker-session=true"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2010 California Code :: Vehicle Code :: Article 6. Additional Court ...",
+   "htmlTitle": "2010 <b>California Code</b> :: Vehicle Code :: Article 6. Additional Court ...",
+   "link": "https://law.justia.com/codes/california/2010/veh/23592-23597.html",
+   "displayLink": "law.justia.com",
+   "snippet": "... Verification of Installation\" form described in paragraph (2) of ... under state law, during the driver's license revocation period. (B) The\u00a0...",
+   "htmlSnippet": "... <b>Verification</b> of Installation&quot; form described in paragraph (2) of ... <b>under</b> state law, during the <b>driver&#39;s license</b> revocation period. (B) The&nbsp;...",
+   "formattedUrl": "https://law.justia.com/codes/california/2010/veh/23592-23597.html",
+   "htmlFormattedUrl": "https://law.justia.com/codes/california/2010/veh/23592-23597.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF6tMvFPbIJqGnmnTW6XkFdDjhl5MmPOj8MHuFjo38QgKyMeeQBDgDYts&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://justatic.com/v/20250804101307/shared/images/social-media/law.jpg",
+      "og:type": "article",
+      "fb:app_id": "119529808075661",
+      "og:site_name": "Justia Law",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "page-type": "Law: Codes Page (Current Year)",
+      "og:title": "2010 California Code ::  Vehicle Code ::  Article 6. Additional Court-imposed Orders And Directions ...",
+      "is-logged-in": "0",
+      "fb:admins": "656268335,686786921,25900864",
+      "trigger-ga": "1",
+      "og:url": "https://law.justia.com/codes/california/2010/veh/23592-23597.html"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://justatic.com/v/20250804101307/shared/images/social-media/law.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "4. ELIGIBILITY AND VERIFICATION A. Eligibility Verification",
+   "htmlTitle": "4. ELIGIBILITY AND <b>VERIFICATION</b> A. Eligibility <b>Verification</b>",
+   "link": "https://www.providerservices.iehp.org/content/dam/provider-services/en/documents/providers/provider-manual/2023/medi-cal/medi-cal-redline/04---eligibility-verification---redline.pdf",
+   "displayLink": "www.providerservices.iehp.org",
+   "snippet": "Neither the IEHP ID card nor the Benefit Identification Card (BIC) guarantees eligibility. These cards are issued for Member convenience and identification\u00a0...",
+   "htmlSnippet": "Neither the IEHP ID card nor the Benefit <b>Identification Card</b> (BIC) guarantees eligibility. These cards are issued for Member convenience and identification&nbsp;...",
+   "formattedUrl": "https://www.providerservices.iehp.org/.../04---eligibility-verification---redli...",
+   "htmlFormattedUrl": "https://www.providerservices.iehp.org/.../04---eligibility-<b>verification</b>---redli...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsV28JCogrmefxFwafhI9aZSQ53-rOBamF6XgeLiBkCc6jGafFMUn94x4&s",
+      "width": "234",
+      "height": "216"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20220914094601-07'00'",
+      "creationdate": "D:20220914094601-07'00'",
+      "creator": "Adobe Acrobat Pro DC (32-bit) 22.2.20212",
+      "author": "i4182",
+      "producer": "Adobe Acrobat Pro DC (32-bit) 22.2.20212"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///c6e73e82aced16d92edc9945ab8ec3ba3572c9dcd1bbf1703ac5f2b2347c4a2d"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "California Vehicle Code \u00a7 23700 (2017) :: 2017 California Code ...",
+   "htmlTitle": "California Vehicle Code \u00a7 23700 (2017) :: 2017 <b>California Code</b> ...",
+   "link": "https://law.justia.com/codes/california/2017/code-veh/division-11.5/chapter-5/section-23700/",
+   "displayLink": "law.justia.com",
+   "snippet": "(B) Notify the department and provide to the department proof of installation by submitting the \u201cVerification ... driver's license, being reissued a\u00a0...",
+   "htmlSnippet": "(B) Notify the department and provide to the department proof of installation by submitting the \u201c<b>Verification</b> ... <b>driver&#39;s license</b>, being reissued a&nbsp;...",
+   "formattedUrl": "https://law.justia.com/codes/california/2017/code-veh/.../section-23700/",
+   "htmlFormattedUrl": "https://law.justia.com/codes/california/2017/code-veh/.../section-23700/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPP2ksOfM4IyWL7PTxPyS5N80Or-jyXZZLgeH1kYuOtXk5YU597YCxGszS&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "og:site_name": "Justia Law",
+      "og:title": "2017 California Code :: Vehicle Code - VEH :: DIVISION 11.5 - SENTENCING FOR DRIVING WHILE UNDER THE INFLUENCE :: CHAPTER 5 - Ignition Interlock Devices :: Section 23700.",
+      "og:app_id": "119529808075661",
+      "trigger-ga": "1",
+      "og:description": "Cal. VEH Code \u00a7 23700 - 23700.\u00a0\u00a0(a)\u00a0Notwithstanding any other provision of law, the Department of Motor Vehicles shall establish a pilot program in the Counties of Alameda, Los Angeles, Sacramento, and Tulare to reduce the",
+      "og:admins": "656268335,686786921,25900864",
+      "referrer": "unsafe-url",
+      "twitter:site": "@JustiaCom",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "page-type": "Law: Codes Document Page (Current Year)",
+      "is-li": "0",
+      "og:url": "https://law.justia.com/codes/california/2017/code-veh/division-11.5/chapter-5/section-23700/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Pocket Travel Guide",
+   "htmlTitle": "Pocket Travel Guide",
+   "link": "https://travelpocketguide.dot.ca.gov/",
+   "displayLink": "travelpocketguide.dot.ca.gov",
+   "snippet": "Beginning May 7, 2025, every air traveler must present a REAL ID-compliant driver's license ... under the provisions of California Code of Regulations (CCR)\u00a0...",
+   "htmlSnippet": "Beginning May 7, 2025, every air traveler must present a REAL ID-compliant <b>driver&#39;s license</b> ... <b>under</b> the provisions of <b>California Code</b> of Regulations (CCR)&nbsp;...",
+   "formattedUrl": "https://travelpocketguide.dot.ca.gov/",
+   "htmlFormattedUrl": "https://travelpocketguide.dot.ca.gov/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM9pWi4vXAHWNKOXdWQFKH1AVhj3t1ERe8SqOfNPois_lPNK0-P8hV_g&s",
+      "width": "426",
+      "height": "118"
+     }
+    ],
+    "metatags": [
+     {
+      "application-name": "Pocket Travel Guide",
+      "msapplication-tilecolor": "#FFFFFF",
+      "msapplication-square70x70logo": "https://travelpocketguide.dot.ca.gov/images/icons/mstile-70x70.png",
+      "handheldfriendly": "True",
+      "author": "State of California, Caltrans",
+      "apple-mobile-web-app-title": "Pocket Travel Guide",
+      "msapplication-wide310x150logo": "https://travelpocketguide.dot.ca.gov/images/icons/mstile-310x150.png",
+      "msapplication-tileimage": "https://travelpocketguide.dot.ca.gov/images/icons/mstile-144x144.png",
+      "msapplication-square150x150logo": "https://travelpocketguide.dot.ca.gov/images/icons/mstile-150x150.png",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "viewport": "width=device-width, initial-scale=1",
+      "msapplication-square310x310logo": "https://travelpocketguide.dot.ca.gov/images/icons/mstile-310x310.png",
+      "apple-mobile-web-app-capable": "yes",
+      "mobileoptimized": "320",
+      "mobile-web-app-capable": "yes"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://travelpocketguide.dot.ca.gov//resources/images/pocket_guide/image003.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "California Vehicle Code \u00a7 23575.3 (2024) :: 2024 California Code ...",
+   "htmlTitle": "California Vehicle Code \u00a7 23575.3 (2024) :: 2024 <b>California Code</b> ...",
+   "link": "https://law.justia.com/codes/california/code-veh/division-11-5/chapter-2/article-5/section-23575-3/",
+   "displayLink": "law.justia.com",
+   "snippet": "(E) The person acknowledges that he or she is required to have a valid driver's license before he or she can drive. ... verification pursuant to paragraph\u00a0...",
+   "htmlSnippet": "(E) The person acknowledges that he or she is required to have a valid <b>driver&#39;s license</b> before he or she can drive. ... <b>verification</b> pursuant to paragraph&nbsp;...",
+   "formattedUrl": "https://law.justia.com/codes/california/code-veh/...11.../section-23575-3/",
+   "htmlFormattedUrl": "https://law.justia.com/codes/<b>california/code</b>-veh/...11.../section-23575-3/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUsEXFeYBuAPfcBBVPIyUzrZ_CJMY-G1UQkbVgeLAo7QKw91U8LPjTVlwN&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://justatic.com/v/20250617153813/shared/images/social-media/law.jpg",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "og:site_name": "Justia Law",
+      "og:title": "2024 California Code :: Vehicle Code - VEH :: DIVISION 11.5 - SENTENCING FOR DRIVING WHILE UNDER THE INFLUENCE :: CHAPTER 2 - Court Penalties :: ARTICLE 5 - Additional Penalties and Sanctions :: Section 23575.3.",
+      "og:app_id": "119529808075661",
+      "trigger-ga": "1",
+      "og:description": "Cal. VEH Code \u00a7 23575.3 - 23575.3. (a)\u00a0In addition to any other requirement imposed by law, a court shall notify a person convicted of a violation listed in subdivision (h) that he or she is required to install a functioning,",
+      "og:admins": "656268335,686786921,25900864",
+      "referrer": "unsafe-url",
+      "twitter:site": "@JustiaCom",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "page-type": "Law: Codes Document Page (Current Year)",
+      "is-li": "0",
+      "og:url": "https://law.justia.com/codes/california/code-veh/division-11-5/chapter-2/article-5/section-23575-3/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://justatic.com/v/20250617153813/shared/images/social-media/law.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

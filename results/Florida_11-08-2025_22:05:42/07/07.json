@@ -1,0 +1,321 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Florida Statutes\" \"driver's license\" OR \"identification card\" around 10 \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" around 50 \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "totalResults": "5230",
+    "searchTerms": "\"Florida Statutes\" \"driver's license\" OR \"identification card\" around 10 \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" around 50 \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Florida Statutes\" \"driver's license\" OR \"identification card\" around 10 \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" around 50 \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "totalResults": "5230",
+    "searchTerms": "\"Florida Statutes\" \"driver's license\" OR \"identification card\" around 10 \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" around 50 \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.294599,
+  "formattedSearchTime": "0.29",
+  "totalResults": "5230",
+  "formattedTotalResults": "5,230"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "The 2024 Florida Statutes (including 2025 Special Session C)",
+   "htmlTitle": "The 2024 <b>Florida Statutes</b> (including 2025 Special Session C)",
+   "link": "http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0322/0322.html",
+   "displayLink": "www.leg.state.fl.us",
+   "snippet": "... swipe an individual's driver license or identification card, except for the following purposes: ... swiping the driver license or identification card. (4) A\u00a0...",
+   "htmlSnippet": "... <b>swipe</b> an individual&#39;s driver license or <b>identification card</b>, except for the following purposes: ... <b>swiping</b> the driver license or <b>identification card</b>. (4) A&nbsp;...",
+   "formattedUrl": "http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display...",
+   "htmlFormattedUrl": "http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display..."
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Untitled",
+   "htmlTitle": "Untitled",
+   "link": "https://www.flsenate.gov/Session/Bill/2013/7125/Amendment/370784/HTML",
+   "displayLink": "www.flsenate.gov",
+   "snippet": "... Delete lines 1647 - 1723 5 and insert: 6 Section 38. Section 322.143 ... swiping the driver license or 42 identification card. 43 (4) A private\u00a0...",
+   "htmlSnippet": "... <b>Delete</b> lines 1647 - 1723 5 and insert: 6 Section 38. Section 322.143 ... <b>swiping</b> the driver license or 42 <b>identification card</b>. 43 (4) A private&nbsp;...",
+   "formattedUrl": "https://www.flsenate.gov/Session/Bill/2013/7125/Amendment/.../HTML",
+   "htmlFormattedUrl": "https://www.flsenate.gov/Session/Bill/2013/7125/Amendment/.../HTML"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The 2024 Florida Statutes (including 2025 Special Session C)",
+   "htmlTitle": "The 2024 <b>Florida Statutes</b> (including 2025 Special Session C)",
+   "link": "http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0800-0899/0817/0817.html",
+   "displayLink": "www.leg.state.fl.us",
+   "snippet": "\u2014This section does not create an obligation on the part of a business entity to obtain, retain ... retention requirement must provide the notice specified\u00a0...",
+   "htmlSnippet": "\u2014This section does not create an obligation on the part of a business entity to obtain, <b>retain</b> ... <b>retention</b> requirement must provide the notice specified&nbsp;...",
+   "formattedUrl": "http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display...",
+   "htmlFormattedUrl": "http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display..."
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Florida CDL Handbook 2022",
+   "htmlTitle": "Florida CDL Handbook 2022",
+   "link": "https://www.flhsmv.gov/pdf/handbooks/englishcdlhandbook.pdf",
+   "displayLink": "www.flhsmv.gov",
+   "snippet": "Legal authority is found in Chapters 316, 318, and 322,. Florida Statutes. ... \u2022 An identification card may be issued at no fee to an applicant who is 80\u00a0...",
+   "htmlSnippet": "Legal authority is found in Chapters 316, 318, and 322,. <b>Florida Statutes</b>. ... \u2022 An <b>identification card</b> may be issued <b>at</b> no fee to an applicant who is 80&nbsp;...",
+   "formattedUrl": "https://www.flhsmv.gov/pdf/handbooks/englishcdlhandbook.pdf",
+   "htmlFormattedUrl": "https://www.flhsmv.gov/pdf/handbooks/englishcdlhandbook.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOU5_h3Ymx3Lkw1vXJBK5Ol6bacHIzXvjFC7MTw8wwifhHUddJebSCAsRm&s",
+      "width": "197",
+      "height": "255"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20220805161701-04'00'",
+      "creationdate": "D:20220725131305-04'00'",
+      "creator": "Adobe Acrobat Pro DC (64-bit) 22.1.20169",
+      "producer": "Adobe Acrobat Pro DC (64-bit) 22.1.20169"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///e1aa6e4d3dce1ede31aa5d3f835f51fa7ca9300907fb4d72ce2e287cbc8ebaf9"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DCF Memo CFOP 50-1 Criminal Justice Information Services",
+   "htmlTitle": "DCF Memo CFOP <b>50</b>-1 Criminal Justice Information Services",
+   "link": "https://www.myflfamilies.com/sites/default/files/2023-05/Memo_CFOP50-1_CriminalJusticeInformationServices.pdf",
+   "displayLink": "www.myflfamilies.com",
+   "snippet": "Driver's License Photo and Signature. a. Access to personal driver's license ... Live Scan is a device used for the electronic submission of fingerprints.",
+   "htmlSnippet": "<b>Driver&#39;s License</b> Photo and Signature. a. Access to personal <b>driver&#39;s license</b> ... Live <b>Scan</b> is a device used for the electronic submission of fingerprints.",
+   "formattedUrl": "https://www.myflfamilies.com/.../Memo_CFOP50-1_CriminalJusticeInform...",
+   "htmlFormattedUrl": "https://www.myflfamilies.com/.../Memo_CFOP50-1_CriminalJusticeInform...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi5RhnkQN29gZ3FUWe9HUJBLMoLaeSDJwhRMZeRLh5pib9X0k8JLfjM9o&s",
+      "width": "197",
+      "height": "255"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20200320140120-04'00'",
+      "creationdate": "D:20200318190048Z",
+      "creator": "TOSHIBA e-STUDIO5560C",
+      "author": "DCF",
+      "subject": "Chapter 7, Chapter 10 and Chapter 11 Updates",
+      "producer": "SECnvtToPDF V1.0",
+      "title": "DCF Memo CFOP 50-1 Criminal Justice Information Services"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///74796deca1512de5d118ea8e58e140bcfc7ee800f575fe91279955d100355823"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "OFFICIAL RECORDS OF CONDOMINIUM ASSOCIATIONS ...",
+   "htmlTitle": "OFFICIAL RECORDS OF CONDOMINIUM ASSOCIATIONS ...",
+   "link": "https://www2.myfloridalicense.com/lsc/documents/OfficialRecordsofourCondominiumAssociation.pdf",
+   "displayLink": "www2.myfloridalicense.com",
+   "snippet": "scanning or taking photographs, to make an electronic copy of ... Section 718.111(12)(c), Florida Statutes provides for minimum damages of $50 per calendar.",
+   "htmlSnippet": "<b>scanning</b> or taking photographs, to make an electronic copy of ... Section 718.111(12)(c), <b>Florida Statutes</b> provides for minimum damages of <b>$50</b> per calendar.",
+   "formattedUrl": "https://www2.myfloridalicense.com/.../OfficialRecordsofourCondominium...",
+   "htmlFormattedUrl": "https://www2.myfloridalicense.com/.../OfficialRecordsofourCondominium...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIOR_JzPWbvAVJ9PFf6wqLeUvkeDGbZLNJcqCCYvDrSEdIxq4qbHkIzB4&s",
+      "width": "232",
+      "height": "217"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20241016155534-04'00'",
+      "creationdate": "D:20240710155810-04'00'",
+      "creator": "Acrobat PDFMaker 24 for Word",
+      "lastsaved": "D:20240407",
+      "sourcemodified": "D:20240710164900",
+      "author": "keith.soans",
+      "created": "D:20231220",
+      "producer": "Adobe PDF Library 24.2.159",
+      "title": "Microsoft Word - OfficialRecordsofourCondominiumAssociation"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///2a5e399d053fcfc5fd6664107392a9ec789bc820539146415325d599c8732ac2"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "First Time Learner License \u2013 Manatee County Tax Collector | Help ...",
+   "htmlTitle": "First Time Learner License \u2013 Manatee County Tax Collector | Help ...",
+   "link": "https://helpcenter.taxcollector.com/hc/en-us/articles/26712556450189-First-Time-Learner-License",
+   "displayLink": "helpcenter.taxcollector.com",
+   "snippet": "This applies to your driver's license, identification card and vehicle registration (F.S. 322.19 & 320.02). ... scan the QR code to access the application \u2013 prior\u00a0...",
+   "htmlSnippet": "This applies to your <b>driver&#39;s license</b>, <b>identification card</b> and vehicle registration (F.S. 322.19 &amp; 320.02). ... <b>scan</b> the QR code to access the application \u2013 prior&nbsp;...",
+   "formattedUrl": "https://helpcenter.taxcollector.com/.../26712556450189-First-Time-Learner...",
+   "htmlFormattedUrl": "https://helpcenter.taxcollector.com/.../26712556450189-First-Time-Learner...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhl9_ubm-fLctiIS2SD1hIeG18eYU6BwuiauigB0bLeSpon8_kxAxgvVQ&s",
+      "width": "200",
+      "height": "72"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://helpcenter.taxcollector.com/hc/theming_assets/01J2CG11GE1DDK9THAR475YQPJ",
+      "og:type": "website",
+      "og:site_name": "Manatee County Tax Collector | Help Center",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "First Time Learner License",
+      "og:url": "https://helpcenter.taxcollector.com/hc/en-us/articles/26712556450189-First-Time-Learner-License",
+      "og:description": "IMPORTANT! As of August 1, 2025, the testing requirements to obtain a first-time Learner License have changed. (See details below.)\n\u00a0\n\nYou must be at least 15 years old or older and must meet the f..."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://helpcenter.taxcollector.com/hc/theming_assets/01J2CG11GE1DDK9THAR475YQPJ"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Traffic and Misdemeanor - Broward County Clerk of Courts",
+   "htmlTitle": "Traffic and Misdemeanor - Broward County Clerk of Courts",
+   "link": "https://www.browardclerk.org/Divisions/TrafficAndMisdemeanor",
+   "displayLink": "www.browardclerk.org",
+   "snippet": "No points will be assessed against your Driver's License if you complete a driver improvement school. ... Florida Statutes, read more about how to Apply for\u00a0...",
+   "htmlSnippet": "No points will be assessed against your <b>Driver&#39;s License</b> if you complete a driver improvement school. ... <b>Florida Statutes</b>, read more <b>about</b> how to Apply for&nbsp;...",
+   "formattedUrl": "https://www.browardclerk.org/Divisions/TrafficAndMisdemeanor",
+   "htmlFormattedUrl": "https://www.browardclerk.org/Divisions/TrafficAndMisdemeanor",
+   "pagemap": {
+    "metatags": [
+     {
+      "copyright": "Copyright 2025 by Broward County Clerk of Circuit and County Court",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "author": "Broward County Clerk of Circuit and County Court"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Laws and Rules- Rev. 11/2021 - Florida Board of Physical Therapy",
+   "htmlTitle": "Laws and Rules- Rev. 11/2021 - Florida Board of Physical Therapy",
+   "link": "https://floridasphysicaltherapy.gov/forms/pt-study.pdf",
+   "displayLink": "floridasphysicaltherapy.gov",
+   "snippet": "Nov 17, 2021 ... job retention in the state or that places unreasonable restrictions ... identification card and the wall card if the licensee's license\u00a0...",
+   "htmlSnippet": "Nov 17, 2021 <b>...</b> job <b>retention</b> in the state or that places unreasonable restrictions ... <b>identification card</b> and the wall card if the licensee&#39;s license&nbsp;...",
+   "formattedUrl": "https://floridasphysicaltherapy.gov/forms/pt-study.pdf",
+   "htmlFormattedUrl": "https://floridasphysicaltherapy.gov/forms/pt-study.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiWE-v2_8Pc2LcgR5W6IqMerqq6PI6sZ4QSuWNMvick38ad4tbnvmCRdY&s",
+      "width": "171",
+      "height": "193"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20211206082627-05'00'",
+      "creator": "Microsoft\u00ae Word for Microsoft 365",
+      "creationdate": "D:20211206082627-05'00'",
+      "author": "Kayla Karpp",
+      "producer": "Microsoft\u00ae Word for Microsoft 365",
+      "title": "Florida Board of Physical Therapy- Laws and Rules- Rev. 11/2021"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///571570c55b2721bccb80b1325a1445db6c63ba6915ddf1ce08fd4c503265bf41"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Florida HIV/AIDS Ryan White Part B Eligibility Procedures Manual",
+   "htmlTitle": "Florida HIV/AIDS Ryan White Part B Eligibility Procedures Manual",
+   "link": "https://www.floridahealth.gov/diseases-and-conditions/aids/patient-care/_documents/eligibility-information/eligibility-manual-6-28-16-c.pdf",
+   "displayLink": "www.floridahealth.gov",
+   "snippet": "such as driver's license and utility bill). Example: A copy of a client's ... Other identified documents as part of file, if applicable: Do not re-scan.",
+   "htmlSnippet": "such as <b>driver&#39;s license</b> and utility bill). Example: A copy of a client&#39;s ... Other identified documents as part of file, if applicable: Do not re-<b>scan</b>.",
+   "formattedUrl": "https://www.floridahealth.gov/...and.../eligibility-manual-6-28-16-c.pdf",
+   "htmlFormattedUrl": "https://www.floridahealth.gov/...and.../eligibility-manual-6-28-16-c.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRblkNcGPrk-k72ALURNud03cQh0YocIeSEUgaT6y9VfWXnRQRSev3owWj0&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20160628144513-04'00'",
+      "creationdate": "D:20160628144513-04'00'",
+      "creator": "PScript5.dll Version 5.2.2",
+      "author": "UrbasCL",
+      "producer": "Acrobat Distiller 10.1.15 (Windows)"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///d4695dbafd129e25fb7c91eaec34f170ad7cb5bd6b33672a3c83f0866e74dab6"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

@@ -1,0 +1,371 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Oregon Revised Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\"",
+    "totalResults": "4000",
+    "searchTerms": "\"Oregon Revised Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Oregon Revised Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\"",
+    "totalResults": "4000",
+    "searchTerms": "\"Oregon Revised Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.198266,
+  "formattedSearchTime": "0.20",
+  "totalResults": "4000",
+  "formattedTotalResults": "4,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Chapter 807 \u2014 Driving Privileges and Identification Cards",
+   "htmlTitle": "Chapter 807 \u2014 Driving Privileges and Identification Cards",
+   "link": "https://www.oregonlegislature.gov/bills_laws/ors/ors807.html",
+   "displayLink": "www.oregonlegislature.gov",
+   "snippet": "... store, sell or share personal information collected from swiping the driver license or identification card. (4) A private entity that swipes an individual's\u00a0...",
+   "htmlSnippet": "... <b>store</b>, <b>sell</b> or <b>share</b> personal information collected from <b>swiping</b> the <b>driver license</b> or <b>identification card</b>. (4) A private entity that swipes an individual&#39;s&nbsp;...",
+   "formattedUrl": "https://www.oregonlegislature.gov/bills_laws/ors/ors807.html",
+   "htmlFormattedUrl": "https://www.oregonlegislature.gov/bills_laws/ors/ors807.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Oregon Revised Statutes Oregon Vehicle Code \u00a7 807.750 | FindLaw",
+   "htmlTitle": "<b>Oregon Revised Statutes</b> Oregon Vehicle Code \u00a7 807.750 | FindLaw",
+   "link": "https://codes.findlaw.com/or/title-59-oregon-vehicle-code/or-rev-st-sect-807-750/",
+   "displayLink": "codes.findlaw.com",
+   "snippet": "... store, sell or share personal information collected from swiping the driver license or identification card. (4) A private entity that swipes an individual's\u00a0...",
+   "htmlSnippet": "... <b>store</b>, <b>sell</b> or <b>share</b> personal information collected from <b>swiping</b> the <b>driver license</b> or <b>identification card</b>. (4) A private entity that swipes an individual&#39;s&nbsp;...",
+   "formattedUrl": "https://codes.findlaw.com/or/title-59-oregon.../or-rev-st-sect-807-750/",
+   "htmlFormattedUrl": "https://codes.findlaw.com/or/title-59-oregon.../or-rev-st-sect-807-750/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuWtKEZ0kzYj6NSuZlgNrAF5XcYIi9XgsiqHcAgQHtxY18xcWZ1bDMaCM&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png",
+      "og:type": "article",
+      "og:site_name": "Findlaw",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Oregon Revised Statutes Oregon Vehicle Code \u00a7 807.750 | FindLaw",
+      "apple-mobile-web-app-title": "FindLaw",
+      "og:url": "https://codes.findlaw.com/or/title-59-oregon-vehicle-code/or-rev-st-sect-807-750/",
+      "og:description": "Title 59. Oregon Vehicle Code OR ST  Section 807.750. Read the code on FindLaw"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Chapter 703 \u2014 Truth Verification and Deception Detection ...",
+   "htmlTitle": "Chapter 703 \u2014 Truth <b>Verification</b> and Deception Detection ...",
+   "link": "https://www.oregonlegislature.gov/bills_laws/ors/ors703.html",
+   "displayLink": "www.oregonlegislature.gov",
+   "snippet": "(6) \u201cPolygraph examiner\u201d means a person who purports to be able to detect deception or verify ... maintain appropriate judicial proceedings, in the manner\u00a0...",
+   "htmlSnippet": "(6) \u201cPolygraph examiner\u201d means a person who purports to be able to detect deception or <b>verify</b> ... <b>maintain</b> appropriate judicial proceedings, in the manner&nbsp;...",
+   "formattedUrl": "https://www.oregonlegislature.gov/bills_laws/ors/ors703.html",
+   "htmlFormattedUrl": "https://www.oregonlegislature.gov/bills_laws/ors/ors703.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ORS 807.745 \u2013 Findings regarding personal information contained ...",
+   "htmlTitle": "ORS 807.745 \u2013 Findings regarding personal information contained ...",
+   "link": "https://oregon.public.law/statutes/ors_807.745",
+   "displayLink": "oregon.public.law",
+   "snippet": "Machine-readable features found on driver licenses, driver permits and identification cards are intended to facilitate verification ... swiping driver\u00a0...",
+   "htmlSnippet": "Machine-readable features found on driver licenses, driver permits and identification cards are intended to facilitate <b>verification</b> ... <b>swiping</b> driver&nbsp;...",
+   "formattedUrl": "https://oregon.public.law/statutes/ors_807.745",
+   "htmlFormattedUrl": "https://oregon.public.law/statutes/ors_807.745",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvX-hCUJSvOnYxwK0gpR0JymRYP3YZvjlsizWXNx6v8dbg0i4LaS34Y8o&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:determiner": "the",
+      "og:image": "https://oregon.public.law/assets/jurisdiction/256x256/oregon-178e7f7dd689fa81d78879372c59764dd65e7a08331c87f39f8232d2a004a913.png",
+      "twitter:card": "summary",
+      "og:image:width": "256",
+      "og:site_name": "OregonLaws",
+      "msapplication-wide310x150logo": "https://oregon.public.law/assets/favicon/mstile-310x150-ae54f5e235f629e5bbc1b3787980a0a0c790ccaaf7e6153f46e35480b9460a78.png",
+      "og:image:type": "image/png",
+      "title": "ORS 807.745 \u2013 Findings regarding personal information contained in driver licenses, driver permits and identification cards",
+      "msapplication-tileimage": "https://oregon.public.law/assets/favicon/mstile-144x144-1ff51a60a42438151b0aa8d2b8ecdaa867d9af9ede744983626c8263eb9051c5.png",
+      "og:description": "The Legislative Assembly finds that, (1) Oregon recognizes the importance of protecting the confidentiality and privacy of an individual\u2019s personal informati...",
+      "twitter:image": "https://oregon.public.law/assets/jurisdiction/oregon-c954d87af14b523b19b292236af483242aa1ca9007e0b96080fd9afcd3928858.png",
+      "twitter:image:alt": "Oregon icon",
+      "twitter:site": "@law_is_code",
+      "msapplication-square310x310logo": "https://oregon.public.law/assets/favicon/mstile-310x310-c954d87af14b523b19b292236af483242aa1ca9007e0b96080fd9afcd3928858.png",
+      "msapplication-tilecolor": "#FFFFFF",
+      "twitter:title": "ORS 807.745 \u2013 Findings regarding personal information contained in driver licenses, driver permits and identification cards",
+      "og:type": "article",
+      "article:section": "Utilities, Vehicle Code, Watercraft, Aviation",
+      "og:image:alt": "Oregon icon",
+      "og:title": "ORS 807.745 \u2013 Findings regarding personal information contained in driver licenses, driver permits and identification cards",
+      "og:image:height": "256",
+      "article:author": "OR Legislature",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "twitter:description": "The Legislative Assembly finds that, (1) Oregon recognizes the importance of protecting the confidentiality and privacy of an individual\u2019s personal informati...",
+      "og:url": "https://oregon.public.law/statutes/ors_807.745"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://oregon.public.law/assets/jurisdiction/256x256/oregon-178e7f7dd689fa81d78879372c59764dd65e7a08331c87f39f8232d2a004a913.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ORS Chapter 475C \u2013 Cannabis Regulation",
+   "htmlTitle": "ORS Chapter 475C \u2013 Cannabis Regulation",
+   "link": "https://www.oregonlegislature.gov/bills_laws/ors/ors475c.html",
+   "displayLink": "www.oregonlegislature.gov",
+   "snippet": "(iii) The owner elects to retain ownership and properly store the items or materials; ... (b) If a registry identification card is revoked, any associated\u00a0...",
+   "htmlSnippet": "(iii) The owner elects to <b>retain</b> ownership and properly <b>store</b> the items or materials; ... (b) If a registry <b>identification card</b> is revoked, any associated&nbsp;...",
+   "formattedUrl": "https://www.oregonlegislature.gov/bills_laws/ors/ors475c.html",
+   "htmlFormattedUrl": "https://www.oregonlegislature.gov/bills_laws/ors/ors475c.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Oregon Notary Public Guide",
+   "htmlTitle": "Oregon Notary Public Guide",
+   "link": "https://sos.oregon.gov/business/documents/notary-guide/notary-guide.pdf",
+   "displayLink": "sos.oregon.gov",
+   "snippet": "Verification ... Important: if there are multiple notaries at your workplace, each notary must maintain a separate journal; it is not permissible to share a\u00a0...",
+   "htmlSnippet": "<b>Verification</b> ... Important: if there are multiple notaries at your workplace, each notary must <b>maintain</b> a separate journal; it is not permissible to <b>share</b> a&nbsp;...",
+   "formattedUrl": "https://sos.oregon.gov/business/documents/notary-guide/notary-guide.pdf",
+   "htmlFormattedUrl": "https://sos.oregon.gov/business/documents/notary-guide/notary-guide.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8WvvXnMrOutfJrZuWLnZJsj7ulygQjuTGfDDdkhrjFyECmAM6M22PoBuc&s",
+      "width": "197",
+      "height": "255"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20250707091452-07'00'",
+      "creationdate": "D:20250707085530-07'00'",
+      "creator": "Acrobat PDFMaker 25 for Word",
+      "comments": "Oregon Notary Public Guide",
+      "sourcemodified": "D:20250707155456",
+      "author": "SOS",
+      "subject": "Oregon Notary Public Guide",
+      "producer": "Adobe PDF Library 25.1.51",
+      "company": "Oregon Secretary of State Corporation Division",
+      "category": "Oregon Notary Public Guide",
+      "title": "Oregon Notary Public Guide",
+      "contenttypeid": "0x01010049182F93C53E45499EC0689ED379E5AC"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///5fd85581ab9b22d9a0f5eb66fcb0acda486f23ecd011d134add8d280989011e7"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ORS 807.022 \u2013 Verification of identity source documents",
+   "htmlTitle": "ORS 807.022 \u2013 <b>Verification</b> of identity source documents",
+   "link": "https://oregon.public.law/statutes/ors_807.022",
+   "displayLink": "oregon.public.law",
+   "snippet": "Before issuing, renewing or replacing a driver license, driver permit or identification card, the Department of Transportation may verify with the issuing\u2026",
+   "htmlSnippet": "Before issuing, renewing or replacing a <b>driver license</b>, driver permit or <b>identification card</b>, the Department of Transportation may <b>verify</b> with the issuing\u2026",
+   "formattedUrl": "https://oregon.public.law/statutes/ors_807.022",
+   "htmlFormattedUrl": "https://oregon.public.law/statutes/ors_807.022",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDpWjg6i4-2IPkoVDe-oAfOSoo4i6pqIHeG0THhRIdKmUTEz1VInhFHMhL&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:determiner": "the",
+      "og:image": "https://oregon.public.law/assets/jurisdiction/256x256/oregon-c281e0815f41996cf648ae74a7b17f9e8504face1c685cd9ea805db234a29dbb.png",
+      "twitter:card": "summary",
+      "og:image:width": "256",
+      "og:site_name": "OregonLaws",
+      "msapplication-wide310x150logo": "https://nevada.public.law/assets/favicon/mstile-310x150-ae54f5e235f629e5bbc1b3787980a0a0c790ccaaf7e6153f46e35480b9460a78.png",
+      "og:image:type": "image/png",
+      "title": "ORS 807.022 \u2013 Verification of identity source documents",
+      "msapplication-tileimage": "https://nevada.public.law/assets/favicon/mstile-144x144-1ff51a60a42438151b0aa8d2b8ecdaa867d9af9ede744983626c8263eb9051c5.png",
+      "og:description": "Before issuing, renewing or replacing a driver license, driver permit or identification card, the Department of Transportation may verify with the issuing\u2026",
+      "twitter:image": "https://oregon.public.law/assets/jurisdiction/oregon-ae5ac36d3f2e7887e2f084753bd525fa5354db87e3cc8c0793ad631b5f6f9736.png",
+      "twitter:image:alt": "Oregon icon",
+      "twitter:site": "@law_is_code",
+      "msapplication-square310x310logo": "https://nevada.public.law/assets/favicon/mstile-310x310-c954d87af14b523b19b292236af483242aa1ca9007e0b96080fd9afcd3928858.png",
+      "msapplication-tilecolor": "#FFFFFF",
+      "twitter:title": "ORS 807.022 \u2013 Verification of identity source documents",
+      "og:type": "article",
+      "article:section": "Utilities, Vehicle Code, Watercraft, Aviation",
+      "og:image:alt": "Oregon icon",
+      "og:title": "ORS 807.022 \u2013 Verification of identity source documents",
+      "og:image:height": "256",
+      "article:author": "OR Legislature",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "twitter:description": "Before issuing, renewing or replacing a driver license, driver permit or identification card, the Department of Transportation may verify with the issuing\u2026",
+      "og:url": "https://oregon.public.law/statutes/ors_807.022"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://oregon.public.law/assets/jurisdiction/256x256/oregon-c281e0815f41996cf648ae74a7b17f9e8504face1c685cd9ea805db234a29dbb.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "TSPC : Name Changes : Licensing : State of Oregon",
+   "htmlTitle": "TSPC : Name Changes : Licensing : State of Oregon",
+   "link": "https://www.oregon.gov/tspc/lic/pages/name_change.aspx",
+   "displayLink": "www.oregon.gov",
+   "snippet": "DUE TO SECURITY RISKS, PLEASE DO NOT EMAIL OR UPLOAD A COPY OF YOUR SOCIAL SECURITY CARD AS VERIFICATION OF NAME CHANGE. ... driver license, instruction permit or\u00a0...",
+   "htmlSnippet": "DUE TO SECURITY RISKS, PLEASE DO NOT EMAIL OR UPLOAD A COPY OF YOUR SOCIAL SECURITY CARD AS <b>VERIFICATION</b> OF NAME CHANGE. ... <b>driver license</b>, instruction permit or&nbsp;...",
+   "formattedUrl": "https://www.oregon.gov/tspc/lic/pages/name_change.aspx",
+   "htmlFormattedUrl": "https://www.oregon.gov/tspc/lic/pages/name_change.aspx",
+   "pagemap": {
+    "metatags": [
+     {
+      "application-name": "Name Changes :  TSPC",
+      "msapplication-tilecolor": "#344032",
+      "msapplication-square70x70logo": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-70x70.png?v=03_04_2025",
+      "theme-color": "#222222",
+      "msapplication-wide310x150logo": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-310x150.png?v=03_04_2025",
+      "progid": "SharePoint.WebPartPage.Document",
+      "msapplication-tileimage": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-144x144.png?v=03_04_2025",
+      "msapplication-square150x150logo": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-150x150.png?v=03_04_2025",
+      "msapplication-navbutton-color": "#344032",
+      "apple-mobile-web-app-status-bar-style": "black-translucent",
+      "viewport": "width=device-width, initial-scale=1",
+      "google-translate-customization": "d78d477bc586dd01-66d24054f200e54f-g61435a41cc4d65c3-e",
+      "msapplication-square310x310logo": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-310x310.png?v=03_04_2025"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Oregon Revised Statutes Chapter 807 (2023) - Driving Privileges ...",
+   "htmlTitle": "<b>Oregon Revised Statutes</b> Chapter 807 (2023) - Driving Privileges ...",
+   "link": "https://law.justia.com/codes/oregon/volume-19/chapter-807/",
+   "displayLink": "law.justia.com",
+   "snippet": "2023 Oregon Revised Statutes Volume : 19 - Utilities, Vehicle Code, Watercraft, Aviation Chapter 807 - Driving Privileges and Identification Cards.",
+   "htmlSnippet": "2023 <b>Oregon Revised Statutes</b> Volume : 19 - Utilities, Vehicle Code, Watercraft, Aviation Chapter 807 - Driving Privileges and Identification Cards.",
+   "formattedUrl": "https://law.justia.com/codes/oregon/volume-19/chapter-807/",
+   "htmlFormattedUrl": "https://law.justia.com/codes/oregon/volume-19/chapter-807/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPP2ksOfM4IyWL7PTxPyS5N80Or-jyXZZLgeH1kYuOtXk5YU597YCxGszS&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "og:site_name": "Justia Law",
+      "og:title": "2023 Oregon Revised Statutes :: Volume : 19 - Utilities, Vehicle Code, Watercraft, Aviation :: Chapter 807 - Driving Privileges and Identification Cards",
+      "og:app_id": "119529808075661",
+      "trigger-ga": "1",
+      "og:description": "Justia Free Databases of U.S. Laws, Codes & Statutes",
+      "og:admins": "656268335,686786921,25900864",
+      "referrer": "unsafe-url",
+      "twitter:site": "@JustiaCom",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "page-type": "Law: Codes Listing Page (Current Year)",
+      "is-li": "0",
+      "og:url": "https://law.justia.com/codes/oregon/volume-19/chapter-807/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Oregon Judicial Department : Self-Help Center",
+   "htmlTitle": "Oregon Judicial Department : Self-Help Center",
+   "link": "https://www.courts.oregon.gov/help/pages/default.aspx",
+   "displayLink": "www.courts.oregon.gov",
+   "snippet": "Traffic Fine Remissions: If you lost your driver's license based on failure to pay fines or appear in court, you may be eligible to get your license back. Check\u00a0...",
+   "htmlSnippet": "Traffic Fine Remissions: If you lost your <b>driver&#39;s license</b> based on failure to pay fines or appear in court, you may be eligible to get your license back. Check&nbsp;...",
+   "formattedUrl": "https://www.courts.oregon.gov/help/pages/default.aspx",
+   "htmlFormattedUrl": "https://www.courts.oregon.gov/help/pages/default.aspx",
+   "pagemap": {
+    "metatags": [
+     {
+      "application-name": "Self-Help Center : Oregon Judicial Department",
+      "msapplication-tilecolor": "#344032",
+      "msapplication-square70x70logo": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-70x70.png?v=03_04_2025",
+      "theme-color": "#222222",
+      "msapplication-wide310x150logo": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-310x150.png?v=03_04_2025",
+      "progid": "SharePoint.WebPartPage.Document",
+      "msapplication-tileimage": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-144x144.png?v=03_04_2025",
+      "msapplication-square150x150logo": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-150x150.png?v=03_04_2025",
+      "msapplication-navbutton-color": "#344032",
+      "apple-mobile-web-app-status-bar-style": "black-translucent",
+      "viewport": "width=device-width, initial-scale=1",
+      "google-translate-customization": "d78d477bc586dd01-66d24054f200e54f-g61435a41cc4d65c3-e",
+      "msapplication-square310x310logo": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-310x310.png?v=03_04_2025"
+     }
+    ]
+   }
+  }
+ ]
+}

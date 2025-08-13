@@ -64,6 +64,39 @@ def get_most_recent_rdirs():
 
     results.sort()
     return results
+
+def get_rdirs(state, single=False, select=None, most_recent=None, time=None):
+    if state == 'all':
+        if select:
+            raise Exception('Cannot select result directory if "all" is chosen.')
+        elif most_recent:
+            rdirs = get_most_recent_rdirs()
+        else:
+            rdirs = os.listdir(RESULTS_PATH)
+        if time:
+            rdirs = [ r for r in rdirs if time in r ]
+
+        return rdirs
+
+    if most_recent:
+        rdirs = [ r for r in get_most_recent_rdirs() if state in r ]
+    elif select:
+        rdirs = [ get_rdir_noinput(state, select) ]
+    else:
+        if single:
+            rdirs = [ get_rdir_input(state) ]
+        else:
+            rdirs = [os.path.join(RESULTS_PATH, r)
+                     for r in os.listdir(RESULTS_PATH) 
+                     if state in r]
+
+    if time:
+        rdirs = [ r for r in rdirs if time in r ]
+
+
+    if single:
+        return rdirs[0] if rdirs else ''
+    return rdirs
 # -----------------------------------------------------------------------------
 
 
@@ -139,8 +172,13 @@ def main(args):
                         help='choose the result directory to process.')
     select.add_argument('--most-recent', action='store_true',
                         help='only choose the most recent result directories.')
-#    parser.add_argument('-d', '--date',
-#                        help='choose a date cutoff for result directories.')
+    parser.add_argument('-t', '--time',
+                        help=('choose a time results directories must be from, '
+                              'in format: dd-mm-yyyy_hh:mm:ss.')
+                        )
+    parser.add_argument('--confirm', metavar="i", type=int,
+                        help=('prompt a confirmation every i searches '
+                              'when searching "all".'))
     parser.add_argument('action', choices=('process', 'view',
                                            'search', 'list'),
                         metavar="<process, view, search, list>",
@@ -156,12 +194,8 @@ def main(args):
 
             verify_state_and_query(parsed.state, parsed.queries)
             if parsed.state == 'all':
-                if parsed.select:
-                    raise Exception('Cannot select result directory if "all" is chosen.')
-                if parsed.most_recent:
-                    result_directories = get_most_recent_rdirs()
-                else:
-                    result_directories = os.listdir(RESULTS_PATH)
+                result_directories = get_rdirs('all', False, parsed.select, 
+                                               parsed.most_recent, parsed.time)
 
                 for rdir in result_directories:
                     state = rdir[:rdir.find('_')]
@@ -175,14 +209,8 @@ def main(args):
                         func(state, query, rdir)
                 return
 
-            if parsed.most_recent:
-                rdir = [r for r in get_most_recent_rdirs()
-                        if parsed.state in r][0]
-            elif parsed.select:
-                rdir = get_rdir_noinput(parsed.state, parsed.select)
-            else:
-                rdir = get_rdir_input(parsed.state)
-
+            rdir = get_rdirs(parsed.state, True, parsed.select, 
+                             parsed.most_recent, parsed.time)
             if parsed.queries:
                 queries = parsed.queries
             else:
@@ -200,15 +228,24 @@ def main(args):
                 queries = QUERIES
 
             if parsed.state == 'all':
-                i = input('Are you sure? ')
-                if i != 'y' and i != 'Y':
-                    return
+                def proceed():
+                    prompt = input('Proceed? ')
+                    if prompt != 'y' and prompt != 'Y':
+                        exit()
+                proceed()
 
+                confirm = int(parsed.confirm) if parsed.confirm else None
+
+                i = 0
                 for state in STATES:
+                    if confirm and i % confirm == 0:
+                        print(f'{i} states searched.')
+                        proceed()
                     rdir = make_rdir(state)
 
                     for query in queries:
                         search_wrapper(state, query, rdir)
+                    i += 1
 
             else:
                 rdir = make_rdir(parsed.state)
@@ -221,16 +258,14 @@ def main(args):
                 state_count = dict()
                 rdirs_sequence = dict() 
 
-                sorted_rdirs = sorted(os.listdir(RESULTS_PATH))
-                for rdir in sorted_rdirs:
+                for rdir in sorted(os.listdir(RESULTS_PATH)):
                     state = rdir[:rdir.find("_")]
                     state_count[state] = state_count.get(state, -1) + 1
                     rdirs_sequence[rdir] = state_count[state]
 
-                if parsed.most_recent:
-                    result_directories = get_most_recent_rdirs()
-                else:
-                    result_directories = sorted_rdirs
+                result_directories = get_rdirs('all', False, parsed.select, 
+                                               parsed.most_recent, parsed.time)
+
 
                 print('Results:')
                 for rdir in result_directories:
@@ -238,17 +273,11 @@ def main(args):
                     queries = os.listdir(os.path.join(RESULTS_PATH, rdir))
                     print(f'\t{sequence} - {rdir} ({", ".join(queries)})')
             else:
-                if parsed.most_recent:
-                    result_directories = [r for r in get_most_recent_rdirs()
-                                          if state in r]
-                elif parsed.select:
-                    result_directories = [ get_rdir_noinput(parsed.state, parsed.select) ]
-                else:
-                    result_directories = [os.path.join(RESULTS_PATH, r)
-                                          for r in os.listdir(RESULTS_PATH) 
-                                          if parsed.state in r]
+                result_directories = get_rdirs(parsed.state, False, parsed.select, 
+                                               parsed.most_recent, parsed.time)
+
                 for rdir in result_directories:
-                    queries = os.listdir(rdir)
+                    queries = os.listdir(os.path.join(RESULTS_PATH, rdir))
 
                     if not parsed.queries:
                         print(f'Queries: ({rdir})')

@@ -1,0 +1,372 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Arizona Revised Statutes\" \"driver's license\" OR \"identification card\" around 10 \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" around 50 \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "totalResults": "714",
+    "searchTerms": "\"Arizona Revised Statutes\" \"driver's license\" OR \"identification card\" around 10 \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" around 50 \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Arizona Revised Statutes\" \"driver's license\" OR \"identification card\" around 10 \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" around 50 \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "totalResults": "714",
+    "searchTerms": "\"Arizona Revised Statutes\" \"driver's license\" OR \"identification card\" around 10 \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" around 50 \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.181789,
+  "formattedSearchTime": "0.18",
+  "totalResults": "714",
+  "formattedTotalResults": "714"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Revised Statutes",
+   "htmlTitle": "<b>Arizona Revised Statutes</b>",
+   "link": "https://www.azleg.gov/arsDetail/?title=32",
+   "displayLink": "www.azleg.gov",
+   "snippet": "... retention of ... Grounds for refusal to issue a security guard identification card or registration certificate; judicial review; good cause exceptions.",
+   "htmlSnippet": "... <b>retention</b> of ... Grounds for refusal to issue a security guard <b>identification card</b> or registration certificate; judicial review; good cause exceptions.",
+   "formattedUrl": "https://www.azleg.gov/arsDetail/?title=32",
+   "htmlFormattedUrl": "https://www.azleg.gov/arsDetail/?title=32",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ],
+    "webpage": [
+     {
+      "headline": "Arizona Revised Statutes"
+     }
+    ],
+    "wpheader": [
+     {
+      "headline": "Arizona Legislature"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Bill Text: AZ SB1556 | 2025 | Fifty-seventh Legislature 1st Regular ...",
+   "htmlTitle": "Bill Text: AZ SB1556 | 2025 | <b>Fifty</b>-seventh Legislature 1st Regular ...",
+   "link": "https://legiscan.com/AZ/text/SB1556/id/3153548",
+   "displayLink": "legiscan.com",
+   "snippet": "... Arizona Revised Statutes; amending title 4, chapter 2, article 1, Arizona ... scan of a biometric of the person, through a fingerprint, iris image\u00a0...",
+   "htmlSnippet": "... <b>Arizona Revised Statutes</b>; amending title 4, chapter 2, article 1, <b>Arizona</b> ... <b>scan</b> of a biometric of the person, through a fingerprint, iris image&nbsp;...",
+   "formattedUrl": "https://legiscan.com/AZ/text/SB1556/id/3153548",
+   "htmlFormattedUrl": "https://legi<b>scan</b>.com/AZ/text/SB1556/id/3153548",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNHoMDMLlw-6Rym0vQ_2fLAuGOSEIUM7kfXxyxX7YR121bLjATyWMlKPI&s",
+      "width": "200",
+      "height": "200"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://acme.legiscan.com/images/legiscan_opengraph_200x200.png",
+      "og:type": "Article",
+      "og:image:width": "200",
+      "fb:profile_id": "454937694543893",
+      "twitter:card": "summary",
+      "twitter:title": "Arizona SB1556 | 2025 | Fifty-seventh Legislature 1st Regular",
+      "og:site_name": "LegiScan",
+      "twitter:url": "https://legiscan.com/AZ/text/SB1556/id/3153548",
+      "og:title": "Arizona SB1556 | 2025 | Fifty-seventh Legislature 1st Regular",
+      "og:image:height": "200",
+      "og:image:type": "image/png",
+      "og:description": "Bill Text (2025-03-27) Adult hemp beverages; policies; procedures [House COM Committee action: Withdrawn, voting: (0-0-0-0-0-0)]",
+      "twitter:creator": "@LegiScanAZ",
+      "twitter:image": "https://acme.legiscan.com/images/legiscan_twittercard.png",
+      "fb:app_id": "113560478825038",
+      "twitter:site": "@LegiScan",
+      "twitter:description": "Bill Text (2025-03-27) Adult hemp beverages; policies; procedures [House COM Committee action: Withdrawn, voting: (0-0-0-0-0-0)]",
+      "og:url": "https://legiscan.com/AZ/text/SB1556/id/3153548"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://acme.legiscan.com/images/legiscan_opengraph_200x200.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Revised Statutes",
+   "htmlTitle": "<b>Arizona Revised Statutes</b>",
+   "link": "https://www.azleg.gov/arsDetail/?title=13",
+   "displayLink": "www.azleg.gov",
+   "snippet": "Persons required to register; procedure; identification card; assessment; definitions ... Fingerprinting at time of arrest; order for fingerprints; retention. 13-\u00a0...",
+   "htmlSnippet": "Persons required to register; procedure; <b>identification card</b>; assessment; definitions ... Fingerprinting <b>at</b> time of arrest; order for fingerprints; <b>retention</b>. 13-&nbsp;...",
+   "formattedUrl": "https://www.azleg.gov/arsDetail/?title=13",
+   "htmlFormattedUrl": "https://www.azleg.gov/arsDetail/?title=13",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ],
+    "webpage": [
+     {
+      "headline": "Arizona Revised Statutes"
+     }
+    ],
+    "wpheader": [
+     {
+      "headline": "Arizona Legislature"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "4 AAC 23 - Supp. 20-1 Questions about these rules? Contact",
+   "htmlTitle": "4 AAC 23 - Supp. 20-1 Questions <b>about</b> these rules? Contact",
+   "link": "https://pharmacy.az.gov/sites/default/files/2022-04/4-23%20%281%29.pdf",
+   "displayLink": "pharmacy.az.gov",
+   "snippet": "Mar 31, 2020 ... The Arizona Revised Statutes (A.R.S.) are available online at the ... license and driver's license. Upon receipt of the notarized access\u00a0...",
+   "htmlSnippet": "Mar 31, 2020 <b>...</b> The <b>Arizona Revised Statutes</b> (A.R.S.) are available online <b>at</b> the ... license and <b>driver&#39;s license</b>. Upon receipt of the notarized access&nbsp;...",
+   "formattedUrl": "https://pharmacy.az.gov/sites/default/files/2022.../4-23%20%281%29.pdf",
+   "htmlFormattedUrl": "https://pharmacy.az.gov/sites/default/files/2022.../4-23%20%281%29.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3Bh2xbR06uWNn2Y2FfyJ8RFeETGAbI4yGp5_4CedOsmUVepT0FLppRWs&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20200517141042-07'00'",
+      "creationdate": "D:20161215121342Z",
+      "creator": "FrameMaker 2019.0.5",
+      "author": "scancelosi",
+      "producer": "Adobe PDF Library 15.0",
+      "title": "4-23.pdf"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///c2dcd8e05eb0391032c197234db6ca6d83f0a7e62ee564cc1d2209e38d19fc21"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Revised Statutes",
+   "htmlTitle": "<b>Arizona Revised Statutes</b>",
+   "link": "https://www.azleg.gov/arsDetail/?title=16",
+   "displayLink": "www.azleg.gov",
+   "snippet": "Retention of registration forms and record of cancellation. 16-163; Assignment ... Form of ballot; optical scanning system; sample ballots. Article 6\u00a0...",
+   "htmlSnippet": "<b>Retention</b> of registration forms and record of cancellation. 16-163; Assignment ... Form of ballot; optical <b>scanning</b> system; sample ballots. Article 6&nbsp;...",
+   "formattedUrl": "https://www.azleg.gov/arsDetail/?title=16",
+   "htmlFormattedUrl": "https://www.azleg.gov/arsDetail/?title=16",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ],
+    "webpage": [
+     {
+      "headline": "Arizona Revised Statutes"
+     }
+    ],
+    "wpheader": [
+     {
+      "headline": "Arizona Legislature"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Noncriminal Justice Compliance Program Noncriminal ...",
+   "htmlTitle": "Arizona Noncriminal Justice Compliance Program Noncriminal ...",
+   "link": "https://www.azdps.gov/sites/default/files/2023-08/NoCHRI_NCJ_Agency_Guide_5-2021.pdf",
+   "displayLink": "www.azdps.gov",
+   "snippet": "Per Arizona Revised Statutes (ARS) \u00a715-106, public school districts and ... retain one copy of the APL for its records and forward a copy to the AIU\u00a0...",
+   "htmlSnippet": "Per <b>Arizona Revised Statutes</b> (ARS) \u00a715-106, public school districts and ... <b>retain</b> one copy of the APL for its records and forward a copy to the AIU&nbsp;...",
+   "formattedUrl": "https://www.azdps.gov/sites/.../NoCHRI_NCJ_Agency_Guide_5-2021.pdf",
+   "htmlFormattedUrl": "https://www.azdps.gov/sites/.../NoCHRI_NCJ_Agency_Guide_5-2021.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9YGdLiyhCZ2QJML7JB1cD145I1L2kbFLx8SfcDB0FlkZ0Fo3Or8QTkurh&s",
+      "width": "234",
+      "height": "215"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20210526151503-07'00'",
+      "creationdate": "D:20210526151000-07'00'",
+      "creator": "Acrobat PDFMaker 21 for Word",
+      "sourcemodified": "D:20210526220858",
+      "author": "ACJIS Compliance Specialist",
+      "producer": "Adobe PDF Library 21.1.174",
+      "contenttypeid": "0x0101002F24308189D20745927F556A504D4C42"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///1a21b233958ad0efc5b9e854d7d4922333ecd3c18b47385a031d887f02a6a334"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "This is a new Chapter released in Supp. 23-3. TITLE 21. CHILD ...",
+   "htmlTitle": "This is a new Chapter released in Supp. 23-3. TITLE 21. CHILD ...",
+   "link": "https://apps.azsos.gov/public_services/Title_21/21-07.pdf",
+   "displayLink": "apps.azsos.gov",
+   "snippet": "The Arizona Revised Statutes (A.R.S.) are available online at the ... the Department's record retention schedules. L. The licensee shall destroy records in\u00a0...",
+   "htmlSnippet": "The <b>Arizona Revised Statutes</b> (A.R.S.) are available online <b>at</b> the ... the Department&#39;s record <b>retention</b> schedules. L. The licensee shall destroy records in&nbsp;...",
+   "formattedUrl": "https://apps.azsos.gov/public_services/Title_21/21-07.pdf",
+   "htmlFormattedUrl": "https://apps.azsos.gov/public_services/Title_21/21-07.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwItupz3FaCypVT1fL1mtUObljbY3wNDcTkQYkslqi3QZ479pmxQkCXVp9&s",
+      "width": "215",
+      "height": "215"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20231211115210-07'00'",
+      "creationdate": "D:20220801132338Z",
+      "creator": "FrameMaker 16.0.3",
+      "creatortool": "FrameMaker 16.0.3",
+      "author": "scancelosi",
+      "producer": "Adobe PDF Library 15.0",
+      "title": "21-07.pdf"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///cb9945db529dbd5f8ba4c21438b529d794642391523548ce931acb47f02503bb"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Revised Statutes Title 28. Transportation \u00a7 28-2098 | FindLaw",
+   "htmlTitle": "<b>Arizona Revised Statutes</b> Title 28. Transportation \u00a7 28-2098 | FindLaw",
+   "link": "https://codes.findlaw.com/az/title-28-transportation/az-rev-st-sect-28-2098",
+   "displayLink": "codes.findlaw.com",
+   "snippet": "The department must retain records of searches on the department's electronic system pursuant to this section as specified in its record retention schedule. K.",
+   "htmlSnippet": "The department must <b>retain</b> records of searches on the department&#39;s electronic system pursuant to this section as specified in its record <b>retention</b> schedule. K.",
+   "formattedUrl": "https://codes.findlaw.com/az/title-28-transportation/az-rev-st-sect-28-2098",
+   "htmlFormattedUrl": "https://codes.findlaw.com/az/title-28-transportation/az-rev-st-sect-28-2098",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:image": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png",
+      "og:type": "article",
+      "og:site_name": "Findlaw",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Arizona Revised Statutes Title 28. Transportation \u00a7 28-2098 | FindLaw",
+      "og:url": "https://codes.findlaw.com/az/title-28-transportation/az-rev-st-sect-28-2098/",
+      "og:description": "Arizona Revised Statutes Title 28. Transportation   Section 28-2098. Read the code on FindLaw"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Section 7-205: Defensive Driving",
+   "htmlTitle": "Section 7-205: Defensive Driving",
+   "link": "https://govt.westlaw.com/azrules/Document/N3B8609609A1711EF9C6C8DC04BBC173B?viewType=FullText&originationContext=documenttoc&transitionType=DocumentItem&contextData=%28sc.Default%29",
+   "displayLink": "govt.westlaw.com",
+   "snippet": "\u201d Schools may retain a photocopy of each driver license or identification card. ... (4) Traffic laws pertinent to Title 28 of the Arizona Revised Statutes\u00a0...",
+   "htmlSnippet": "\u201d Schools may <b>retain</b> a photocopy of each driver license or <b>identification card</b>. ... (4) Traffic laws pertinent to Title 28 of the <b>Arizona Revised Statutes</b>&nbsp;...",
+   "formattedUrl": "https://govt.westlaw.com/.../N3B8609609A1711EF9C6C8DC04BBC173B?...",
+   "htmlFormattedUrl": "https://govt.westlaw.com/.../N3B8609609A1711EF9C6C8DC04BBC173B?...",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Laws & Rules Governoring the practice of Chiropractic Care in the ...",
+   "htmlTitle": "Laws &amp; Rules Governoring the practice of Chiropractic Care in the ...",
+   "link": "https://chiroboard.az.gov/sites/default/files/2022-03/2018%20Arizona%20Chiropractic%20Jurisprudence%20Law%20Book_2.pdf",
+   "displayLink": "chiroboard.az.gov",
+   "snippet": "military identification card or a written verification from the member's commanding officer ... (18), verify the technician's training, and retain documentation\u00a0...",
+   "htmlSnippet": "military <b>identification card</b> or a written verification from the member&#39;s commanding officer ... (18), verify the technician&#39;s training, and <b>retain</b> documentation&nbsp;...",
+   "formattedUrl": "https://chiroboard.az.gov/.../2018%20Arizona%20Chiropractic%20Jurispru...",
+   "htmlFormattedUrl": "https://chiroboard.az.gov/.../2018%20Arizona%20Chiropractic%20Jurispru...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRESa27SQvAFcypoJ-ffMUu4Sdof2ssjtn-dH552uceLGejBnEsCRt8uAXP&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20180117113933-07'00'",
+      "creationdate": "D:20180117113543-07'00'",
+      "creator": "Adobe InDesign CC 2015 (Windows)",
+      "producer": "Adobe Acrobat Pro DC 18.9.20050"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///9877e666c4a61056139c84c20e4660dc0d53966262c3d1352509caa414ff000f"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

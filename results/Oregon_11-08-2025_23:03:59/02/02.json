@@ -1,0 +1,420 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Oregon Revised Statutes\" \"driver's license\" OR \"identification card\" around 10 \"verification\" OR \"scanning\" OR \"swiping\" OR \"machine-readable\" OR \"electronically readable\" OR \"transaction scan\" -applicant -application",
+    "totalResults": "44",
+    "searchTerms": "\"Oregon Revised Statutes\" \"driver's license\" OR \"identification card\" around 10 \"verification\" OR \"scanning\" OR \"swiping\" OR \"machine-readable\" OR \"electronically readable\" OR \"transaction scan\" -applicant -application",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Oregon Revised Statutes\" \"driver's license\" OR \"identification card\" around 10 \"verification\" OR \"scanning\" OR \"swiping\" OR \"machine-readable\" OR \"electronically readable\" OR \"transaction scan\" -applicant -application",
+    "totalResults": "44",
+    "searchTerms": "\"Oregon Revised Statutes\" \"driver's license\" OR \"identification card\" around 10 \"verification\" OR \"scanning\" OR \"swiping\" OR \"machine-readable\" OR \"electronically readable\" OR \"transaction scan\" -applicant -application",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.131412,
+  "formattedSearchTime": "0.13",
+  "totalResults": "44",
+  "formattedTotalResults": "44"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "ORS 802.250 \u2013 Records containing residence address of eligible ...",
+   "htmlTitle": "ORS 802.250 \u2013 Records containing residence address of eligible ...",
+   "link": "https://oregon.public.law/statutes/ors_802.250",
+   "displayLink": "oregon.public.law",
+   "snippet": "Oregon Revised Statutes \u00b7 ORCP \u00b7 Remove ads \u00b7 Login \u00b7 Home \u00b7 ORS \u00b7 Vol. 19 \u00b7 Title 59 \u00b7 Chap ... Contain verification by the employing public agency of the\u00a0...",
+   "htmlSnippet": "<b>Oregon Revised Statutes</b> &middot; ORCP &middot; Remove ads &middot; Login &middot; Home &middot; ORS &middot; Vol. 19 &middot; Title 59 &middot; Chap ... Contain <b>verification</b> by the employing public agency of the&nbsp;...",
+   "formattedUrl": "https://oregon.public.law/statutes/ors_802.250",
+   "htmlFormattedUrl": "https://oregon.public.law/statutes/ors_802.250",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvX-hCUJSvOnYxwK0gpR0JymRYP3YZvjlsizWXNx6v8dbg0i4LaS34Y8o&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:determiner": "the",
+      "og:image": "https://oregon.public.law/assets/jurisdiction/256x256/oregon-178e7f7dd689fa81d78879372c59764dd65e7a08331c87f39f8232d2a004a913.png",
+      "twitter:card": "summary",
+      "og:image:width": "256",
+      "og:site_name": "OregonLaws",
+      "msapplication-wide310x150logo": "https://oregon.public.law/assets/favicon/mstile-310x150-ae54f5e235f629e5bbc1b3787980a0a0c790ccaaf7e6153f46e35480b9460a78.png",
+      "og:image:type": "image/png",
+      "title": "ORS 802.250 \u2013 Records containing residence address of eligible public employee or household member",
+      "msapplication-tileimage": "https://oregon.public.law/assets/favicon/mstile-144x144-1ff51a60a42438151b0aa8d2b8ecdaa867d9af9ede744983626c8263eb9051c5.png",
+      "og:description": "An eligible public employee may request that any driver or vehicle record kept by the Department of Transportation that contains or is\u2026",
+      "twitter:image": "https://oregon.public.law/assets/jurisdiction/oregon-c954d87af14b523b19b292236af483242aa1ca9007e0b96080fd9afcd3928858.png",
+      "twitter:image:alt": "Oregon icon",
+      "twitter:site": "@law_is_code",
+      "msapplication-square310x310logo": "https://oregon.public.law/assets/favicon/mstile-310x310-c954d87af14b523b19b292236af483242aa1ca9007e0b96080fd9afcd3928858.png",
+      "msapplication-tilecolor": "#FFFFFF",
+      "twitter:title": "ORS 802.250 \u2013 Records containing residence address of eligible public employee or household member",
+      "og:type": "article",
+      "article:section": "Utilities, Vehicle Code, Watercraft, Aviation",
+      "og:image:alt": "Oregon icon",
+      "og:title": "ORS 802.250 \u2013 Records containing residence address of eligible public employee or household member",
+      "og:image:height": "256",
+      "article:author": "OR Legislature",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "twitter:description": "An eligible public employee may request that any driver or vehicle record kept by the Department of Transportation that contains or is\u2026",
+      "og:url": "https://oregon.public.law/statutes/ors_802.250"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://oregon.public.law/assets/jurisdiction/256x256/oregon-178e7f7dd689fa81d78879372c59764dd65e7a08331c87f39f8232d2a004a913.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "11/6/24 This position is: Agency: Oregon Department of Agrticulture ...",
+   "htmlTitle": "11/6/24 This position is: Agency: Oregon Department of Agrticulture ...",
+   "link": "https://www.oregon.gov/oda/about-us/Documents/Position%20Descriptions/2025%20NPCP%20NRS-1%20Seasonal%20PD.pdf",
+   "displayLink": "www.oregon.gov",
+   "snippet": "Nov 6, 2024 ... Oregon Revised Statutes: ORS 561 (Department of Agriculture), ORS ... A current and valid driver's license and acceptable driving record is\u00a0...",
+   "htmlSnippet": "Nov 6, 2024 <b>...</b> <b>Oregon Revised Statutes</b>: ORS 561 (Department of Agriculture), ORS ... A current and valid <b>driver&#39;s license</b> and acceptable driving record is&nbsp;...",
+   "formattedUrl": "https://www.oregon.gov/.../2025%20NPCP%20NRS-1%20Seasonal%20PD....",
+   "htmlFormattedUrl": "https://www.oregon.gov/.../2025%20NPCP%20NRS-1%20Seasonal%20PD....",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLQoe7NbiJMUveuH5xETpcgJcBSAdz0UK8HnlJK8C_SLa5mOMeLFHpOJg&s",
+      "width": "197",
+      "height": "255"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20250110180328Z00'00'",
+      "creationdate": "D:20250110180328Z00'00'",
+      "producer": "macOS Version 15.2 (Build 24C101) Quartz PDFContext"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///b1a4d11498219641324ee91b691955aa21f1e20f61d58533b9cd5c7aa310586b"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ORS 332.445 \u2013 Regulation of vehicles on school property; rules",
+   "htmlTitle": "ORS 332.445 \u2013 Regulation of vehicles on school property; rules",
+   "link": "https://oregon.public.law/statutes/ors_332.445",
+   "displayLink": "oregon.public.law",
+   "snippet": "Oregon Revised Statutes \u00b7 ORCP \u00b7 Remove ads \u00b7 Login \u00b7 Home \u00b7 ORS \u00b7 Vol. 9 \u00b7 Title 30 \u00b7 Chap ... driver's license, that the vehicle is currently registered and\u00a0...",
+   "htmlSnippet": "<b>Oregon Revised Statutes</b> &middot; ORCP &middot; Remove ads &middot; Login &middot; Home &middot; ORS &middot; Vol. 9 &middot; Title 30 &middot; Chap ... <b>driver&#39;s license</b>, that the vehicle is currently registered and&nbsp;...",
+   "formattedUrl": "https://oregon.public.law/statutes/ors_332.445",
+   "htmlFormattedUrl": "https://oregon.public.law/statutes/ors_332.445",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvX-hCUJSvOnYxwK0gpR0JymRYP3YZvjlsizWXNx6v8dbg0i4LaS34Y8o&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:determiner": "the",
+      "og:image": "https://oregon.public.law/assets/jurisdiction/256x256/oregon-178e7f7dd689fa81d78879372c59764dd65e7a08331c87f39f8232d2a004a913.png",
+      "twitter:card": "summary",
+      "og:image:width": "256",
+      "og:site_name": "OregonLaws",
+      "msapplication-wide310x150logo": "https://oregon.public.law/assets/favicon/mstile-310x150-ae54f5e235f629e5bbc1b3787980a0a0c790ccaaf7e6153f46e35480b9460a78.png",
+      "og:image:type": "image/png",
+      "title": "ORS 332.445 \u2013 Regulation of vehicles on school property; rules",
+      "msapplication-tileimage": "https://oregon.public.law/assets/favicon/mstile-144x144-1ff51a60a42438151b0aa8d2b8ecdaa867d9af9ede744983626c8263eb9051c5.png",
+      "og:description": "As used in this section, \u201cvehicles\u201d means and includes all motor vehicles as defined in ORS 801.360 (\u201cMotor vehicle.\u201d) and every other\u2026",
+      "twitter:image": "https://oregon.public.law/assets/jurisdiction/oregon-c954d87af14b523b19b292236af483242aa1ca9007e0b96080fd9afcd3928858.png",
+      "twitter:image:alt": "Oregon icon",
+      "twitter:site": "@law_is_code",
+      "msapplication-square310x310logo": "https://oregon.public.law/assets/favicon/mstile-310x310-c954d87af14b523b19b292236af483242aa1ca9007e0b96080fd9afcd3928858.png",
+      "msapplication-tilecolor": "#FFFFFF",
+      "twitter:title": "ORS 332.445 \u2013 Regulation of vehicles on school property; rules",
+      "og:type": "article",
+      "article:section": "Education and Culture",
+      "og:image:alt": "Oregon icon",
+      "og:title": "ORS 332.445 \u2013 Regulation of vehicles on school property; rules",
+      "og:image:height": "256",
+      "article:author": "OR Legislature",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "twitter:description": "As used in this section, \u201cvehicles\u201d means and includes all motor vehicles as defined in ORS 801.360 (\u201cMotor vehicle.\u201d) and every other\u2026",
+      "og:url": "https://oregon.public.law/statutes/ors_332.445"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://oregon.public.law/assets/jurisdiction/256x256/oregon-178e7f7dd689fa81d78879372c59764dd65e7a08331c87f39f8232d2a004a913.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "PERMANENT ADMINISTRATIVE ORDER",
+   "htmlTitle": "PERMANENT ADMINISTRATIVE ORDER",
+   "link": "https://secure.sos.state.or.us/oard/viewReceiptPDF.action;JSESSIONID_OARD=pK4nZUbHaW1YFUJIUIieEBWeunIAjumBE6N2soUIiQ3dp4V-DNVZ!99228750?filingRsn=47669",
+   "displayLink": "secure.sos.state.or.us",
+   "snippet": "Jun 29, 2021 ... ... verification. (3) The Claimant may voluntarily provide the ... with Oregon Revised Statutes 111 through 119. These rules shall be\u00a0...",
+   "htmlSnippet": "Jun 29, 2021 <b>...</b> ... <b>verification</b>. (3) The Claimant may voluntarily provide the ... with <b>Oregon Revised Statutes</b> 111 through 119. These rules shall be&nbsp;...",
+   "formattedUrl": "https://secure.sos.state.or.us/oard/viewReceiptPDF.action;JSESSIONID...",
+   "htmlFormattedUrl": "https://secure.sos.state.or.us/oard/viewReceiptPDF.action;JSESSIONID...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp2gkSxoL63RdpIJMslbxMsc88K2y9VY5EvMSbRU9jkGvAFL5qvfkU&s",
+      "width": "127",
+      "height": "126"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20210630081540-07'00'",
+      "creationdate": "D:20210630081540-07'00'",
+      "producer": "iText\u00ae 7.0.2 \u00a92000-2017 iText Group NV (Secretary of State Oregon; licensed version)"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///cd8d364d0edddc6d79af20938b95cbbe68bd943e4f78ab2bee6e96a9d9ad5255"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Untitled",
+   "htmlTitle": "Untitled",
+   "link": "https://www.sweethomeor.gov/media/16611",
+   "displayLink": "www.sweethomeor.gov",
+   "snippet": "Responds to request for employment verification of current and former employees ... Oregon Revised Statutes that affect municipal government. Page 2 of 4. Page 3\u00a0...",
+   "htmlSnippet": "Responds to request for employment <b>verification</b> of current and former employees ... <b>Oregon Revised Statutes</b> that affect municipal government. Page 2 of 4. Page 3&nbsp;...",
+   "formattedUrl": "https://www.sweethomeor.gov/media/16611",
+   "htmlFormattedUrl": "https://www.sweethomeor.gov/media/16611",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "Wed Jul 18 18:32:36 2018",
+      "creationdate": "Wed Jul 18 18:32:36 2018",
+      "creator": "KM_C658",
+      "producer": "KONICA MINOLTA bizhub C658"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver Requirements",
+   "htmlTitle": "Driver Requirements",
+   "link": "https://www.pcc.edu/wp-content/uploads/sites/31/2017/10/DriverRequirements_Rev.Jan201409.15.162.pdf",
+   "displayLink": "www.pcc.edu",
+   "snippet": "Verification of a required CDL certification. *NOTE \u2013 the ... as follows: If the driver has a valid driver's license and is acting at the direction and.",
+   "htmlSnippet": "<b>Verification</b> of a required CDL certification. *NOTE \u2013 the ... as follows: If the driver has a valid <b>driver&#39;s license</b> and is acting <b>at</b> the direction and.",
+   "formattedUrl": "https://www.pcc.edu/.../10/DriverRequirements_Rev.Jan201409.15.162.pdf",
+   "htmlFormattedUrl": "https://www.pcc.edu/.../<b>10</b>/DriverRequirements_Rev.Jan201409.15.162.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20170407082959-07'00'",
+      "creator": "Microsoft\u00ae Word 2013",
+      "creationdate": "D:20170407082959-07'00'",
+      "author": "Pat Delplanche",
+      "producer": "Microsoft\u00ae Word 2013"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Kay et al v. Plaid Pantry, Inc. et al, No. 3:2024cv01440 - Document ...",
+   "htmlTitle": "Kay et al v. Plaid Pantry, Inc. et al, No. 3:2024cv01440 - Document ...",
+   "link": "https://law.justia.com/cases/federal/district-courts/oregon/ordce/3:2024cv01440/181630/27/",
+   "displayLink": "law.justia.com",
+   "snippet": "BACKGROUND Plaintiffs allege that Defendants violated \u00a7 807.750 of the Oregon Revised Statutes (\u201cORS\u201d). ... swiping the driver license or identification card.\u201d\u00a0...",
+   "htmlSnippet": "BACKGROUND Plaintiffs allege that Defendants violated \u00a7 807.750 of the <b>Oregon Revised Statutes</b> (\u201cORS\u201d). ... <b>swiping</b> the driver license or <b>identification card</b>.\u201d&nbsp;...",
+   "formattedUrl": "https://law.justia.com/cases/federal/district-courts/oregon/ordce/3.../27/",
+   "htmlFormattedUrl": "https://law.justia.com/cases/federal/district-courts/oregon/ordce/3.../27/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-woulhMdqoqWwaGL0JyYyzOQ86EXUqHGNMcyUUpdijH7qqq65uA4WQBk&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://justatic.com/v/20250801141619/shared/images/social-media/law.jpg",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "og:site_name": "Justia Law",
+      "og:title": "Kay et al v. Plaid Pantry, Inc. et al, No. 3:2024cv01440 - Document 27 (D. Or. 2025)",
+      "og:app_id": "119529808075661",
+      "trigger-ga": "1",
+      "og:description": "Kay et al v. Plaid Pantry, Inc. et al, No. 3:2024cv01440 - Document 27 (D. Or. 2025) case opinion from the District of Oregon U.S. Federal District Court",
+      "og:admins": "656268335,686786921,25900864",
+      "referrer": "unsafe-url",
+      "twitter:site": "@JustiaCom",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "page-type": "Law: Cases: Opinion (PDF)",
+      "is-li": "0",
+      "og:url": "https://law.justia.com/cases/federal/district-courts/oregon/ordce/3:2024cv01440/181630/27/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://justatic.com/v/20250801141619/shared/images/social-media/law.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Stop and identify statutes - Wikipedia",
+   "htmlTitle": "Stop and identify statutes - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Stop_and_identify_statutes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "^ \"ORS 807.570 - Failure to carry or present license - 2020 Oregon Revised Statutes\". ... driver's license or some other form of written identification, 11\u00a0...",
+   "htmlSnippet": "^ &quot;ORS 807.570 - Failure to carry or present license - 2020 <b>Oregon Revised Statutes</b>&quot;. ... <b>driver&#39;s license</b> or some other form of written identification, 11&nbsp;...",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Stop_and_identify_statutes",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Stop_and_identify_statutes",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/States_with_Stop_and_Identify_Laws.svg/1200px-States_with_Stop_and_Identify_Laws.svg.png",
+      "theme-color": "#eaecf0",
+      "og:image:width": "1200",
+      "og:type": "website",
+      "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+      "og:title": "Stop and identify statutes - Wikipedia",
+      "og:image:height": "743",
+      "format-detection": "telephone=no"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Criminal Lawyers In Bend, OR - Call For A Free Consultation",
+   "htmlTitle": "Criminal Lawyers In Bend, OR - Call For A Free Consultation",
+   "link": "https://deschuteslawfirm.com/criminal-law/",
+   "displayLink": "deschuteslawfirm.com",
+   "snippet": "Oregon Driver's License Restoration \u00b7 Gun Rights ... Chapter 163 of the Oregon Revised Statutes defines in detail the various types of assault charges.",
+   "htmlSnippet": "Oregon <b>Driver&#39;s License</b> Restoration &middot; Gun Rights ... Chapter 163 of the <b>Oregon Revised Statutes</b> defines in detail the various types of assault charges.",
+   "formattedUrl": "https://deschuteslawfirm.com/criminal-law/",
+   "htmlFormattedUrl": "https://deschuteslawfirm.com/criminal-law/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaX0NcohcbL5VNsmOOY5P5oNlFvAAE_K2842W53lHg5kOvEbD8fOGhU3U&s",
+      "width": "330",
+      "height": "137"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Criminal Lawyers In Bend, OR - Call For A Free Consultation",
+      "og:site_name": "Donahue Law Firm, LLC",
+      "og:title": "Criminal Lawyers In Bend, OR - Call For A Free Consultation",
+      "twitter:label1": "Time to read",
+      "og:updated_time": "2024-08-12T23:48:22-07:00",
+      "msapplication-tileimage": "https://deschuteslawfirm.com/wp-content/uploads/2021/07/favicon.png",
+      "og:description": "Don't face a criminal charge alone! The team of criminal lawyers at Donahue Law Firm want to win your case. Learn more and call for a free consultation.",
+      "twitter:data1": "33 minutes",
+      "facebook-domain-verification": "slsgtg3srhedtkgl3f3fxqqudz29d4",
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+      "twitter:description": "Don't face a criminal charge alone! The team of criminal lawyers at Donahue Law Firm want to win your case. Learn more and call for a free consultation.",
+      "og:locale": "en_US",
+      "og:url": "https://deschuteslawfirm.com/criminal-law/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://deschuteslawfirm.com/wp-content/uploads/2021/03/logo-white-5afeeb8650609.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "FRC Handbook 2018/19 - Google Docs",
+   "htmlTitle": "FRC Handbook 2018/19 - Google Docs",
+   "link": "https://www.ddouglas.k12.or.us/wp-content/uploads/2018/08/FRC-Handbook-2018_19-.pdf",
+   "displayLink": "www.ddouglas.k12.or.us",
+   "snippet": "Have verification of insurance on file in the Athletic Director's office. ... driver's license, we will have the vehicle towed (at your expense), and you\u00a0...",
+   "htmlSnippet": "Have <b>verification</b> of insurance on file in the Athletic Director&#39;s office. ... <b>driver&#39;s license</b>, we will have the vehicle towed (<b>at</b> your expense), and you&nbsp;...",
+   "formattedUrl": "https://www.ddouglas.k12.or.us/wp.../08/FRC-Handbook-2018_19-.pdf",
+   "htmlFormattedUrl": "https://www.ddouglas.k12.or.us/wp.../08/FRC-Handbook-2018_19-.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-erKsoQBFJVfUrCtDGZ1dGCN8D_tqPph3F7lcRFoBmDNOSMV4mAHGa6CI&s",
+      "width": "227",
+      "height": "222"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20180820195147Z00'00'",
+      "creator": "Chrome",
+      "creationdate": "D:20180820195147Z00'00'",
+      "author": "Amy Straw",
+      "producer": "Mac OS X 10.12.6 Quartz PDFContext",
+      "title": "FRC Handbook 2018/19 - Google Docs"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///f7b569b74e8b2ebb46f92c219802590497cefc52151b5b0d91aaf63aa6b29585"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

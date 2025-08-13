@@ -1,0 +1,445 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Oregon Revised Statutes\" \"driver's license\" OR \"identification card\" \"scanning\" OR \"swiping\" around 10 \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "totalResults": "129",
+    "searchTerms": "\"Oregon Revised Statutes\" \"driver's license\" OR \"identification card\" \"scanning\" OR \"swiping\" around 10 \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Oregon Revised Statutes\" \"driver's license\" OR \"identification card\" \"scanning\" OR \"swiping\" around 10 \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "totalResults": "129",
+    "searchTerms": "\"Oregon Revised Statutes\" \"driver's license\" OR \"identification card\" \"scanning\" OR \"swiping\" around 10 \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.173757,
+  "formattedSearchTime": "0.17",
+  "totalResults": "129",
+  "formattedTotalResults": "129"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Chapter 807 \u2014 Driving Privileges and Identification Cards",
+   "htmlTitle": "Chapter 807 \u2014 Driving Privileges and Identification Cards",
+   "link": "https://www.oregonlegislature.gov/bills_laws/ors/ors807.html",
+   "displayLink": "www.oregonlegislature.gov",
+   "snippet": "(2) Retain digital images of identity source documents for a minimum of 10 ... Information collected by swiping an individual's driver license or identification\u00a0...",
+   "htmlSnippet": "(2) <b>Retain</b> digital images of identity source documents for a minimum of <b>10</b> ... Information collected by <b>swiping</b> an individual&#39;s driver license or <b>identification</b>&nbsp;...",
+   "formattedUrl": "https://www.oregonlegislature.gov/bills_laws/ors/ors807.html",
+   "htmlFormattedUrl": "https://www.oregonlegislature.gov/bills_laws/ors/ors807.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ORS 807.750 \u2013 Restrictions on swiping driver licenses or ...",
+   "htmlTitle": "ORS 807.750 \u2013 Restrictions on <b>swiping</b> driver licenses or ...",
+   "link": "https://oregon.public.law/statutes/ors_807.750",
+   "displayLink": "oregon.public.law",
+   "snippet": "... swiping the driver license or identification card. (4). A private entity that swipes an individual's driver license or identification card under subsection\u00a0...",
+   "htmlSnippet": "... <b>swiping</b> the driver license or <b>identification card</b>. (4). A private entity that swipes an individual&#39;s driver license or <b>identification card</b> under subsection&nbsp;...",
+   "formattedUrl": "https://oregon.public.law/statutes/ors_807.750",
+   "htmlFormattedUrl": "https://oregon.public.law/statutes/ors_807.750",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDpWjg6i4-2IPkoVDe-oAfOSoo4i6pqIHeG0THhRIdKmUTEz1VInhFHMhL&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:determiner": "the",
+      "og:image": "https://oregon.public.law/assets/jurisdiction/256x256/oregon-c281e0815f41996cf648ae74a7b17f9e8504face1c685cd9ea805db234a29dbb.png",
+      "twitter:card": "summary",
+      "og:image:width": "256",
+      "og:site_name": "OregonLaws",
+      "msapplication-wide310x150logo": "https://nevada.public.law/assets/favicon/mstile-310x150-ae54f5e235f629e5bbc1b3787980a0a0c790ccaaf7e6153f46e35480b9460a78.png",
+      "og:image:type": "image/png",
+      "title": "ORS 807.750 \u2013 Restrictions on swiping driver licenses or identification cards",
+      "msapplication-tileimage": "https://nevada.public.law/assets/favicon/mstile-144x144-1ff51a60a42438151b0aa8d2b8ecdaa867d9af9ede744983626c8263eb9051c5.png",
+      "og:description": "As used in this section, (a) \u201cDriver license\u201d means a license or permit issued by this state or any other jurisdiction as\u2026",
+      "twitter:image": "https://oregon.public.law/assets/jurisdiction/oregon-ae5ac36d3f2e7887e2f084753bd525fa5354db87e3cc8c0793ad631b5f6f9736.png",
+      "twitter:image:alt": "Oregon icon",
+      "twitter:site": "@law_is_code",
+      "msapplication-square310x310logo": "https://nevada.public.law/assets/favicon/mstile-310x310-c954d87af14b523b19b292236af483242aa1ca9007e0b96080fd9afcd3928858.png",
+      "msapplication-tilecolor": "#FFFFFF",
+      "twitter:title": "ORS 807.750 \u2013 Restrictions on swiping driver licenses or identification cards",
+      "og:type": "article",
+      "article:section": "Utilities, Vehicle Code, Watercraft, Aviation",
+      "og:image:alt": "Oregon icon",
+      "og:title": "ORS 807.750 \u2013 Restrictions on swiping driver licenses or identification cards",
+      "og:image:height": "256",
+      "article:author": "OR Legislature",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "twitter:description": "As used in this section, (a) \u201cDriver license\u201d means a license or permit issued by this state or any other jurisdiction as\u2026",
+      "og:url": "https://oregon.public.law/statutes/ors_807.750"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://oregon.public.law/assets/jurisdiction/256x256/oregon-c281e0815f41996cf648ae74a7b17f9e8504face1c685cd9ea805db234a29dbb.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Vote by Mail Procedures Manual",
+   "htmlTitle": "Vote by Mail Procedures Manual",
+   "link": "https://sos.oregon.gov/elections/documents/vbm_manual.pdf",
+   "displayLink": "sos.oregon.gov",
+   "snippet": "May 21, 2014 ... ... retain the note. ... If you have a current, valid Oregon DMV Driver's License or Identification Card. \u2192 your Oregon DMV Driver's License/ID number.",
+   "htmlSnippet": "May 21, 2014 <b>...</b> ... <b>retain</b> the note. ... If you have a current, valid Oregon DMV <b>Driver&#39;s License</b> or <b>Identification Card</b>. \u2192 your Oregon DMV <b>Driver&#39;s License</b>/ID number.",
+   "formattedUrl": "https://sos.oregon.gov/elections/documents/vbm_manual.pdf",
+   "htmlFormattedUrl": "https://sos.oregon.gov/elections/documents/vbm_manual.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb1gzQGwUEf24DuqHefuzmIcq7_vNcOY5rtyhjByFFWDY4bNAj8iY6gUgi&s",
+      "width": "220",
+      "height": "220"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20240424152120-07'00'",
+      "creationdate": "D:20240320080609-07'00'",
+      "creator": "Acrobat PDFMaker 24 for Word",
+      "author": "Oregon Secretary of State - Elections Division",
+      "subject": "Vote by Mail Procedures Manual",
+      "grammarlydocumentid": "f5d7010b4a914fd1ce1dffa306ef530ea0c82f5b99f8d856fc8a5e2f9bb8ee04",
+      "producer": "Adobe PDF Library 24.1.124",
+      "company": "Oregon Secretary of State",
+      "title": "Vote by Mail Procedures Manual"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///4dbc600ad9851cb9d2aa23afd5e509a0074bf5075b19f1d79101ab98afb75593"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ORS 807.745 \u2013 Findings regarding personal information contained ...",
+   "htmlTitle": "ORS 807.745 \u2013 Findings regarding personal information contained ...",
+   "link": "https://oregon.public.law/statutes/ors_807.745",
+   "displayLink": "oregon.public.law",
+   "snippet": "... swiping driver licenses or identification cards) were enacted into law by ... See Preface to Oregon Revised Statutes for further explanation. Source\u00a0...",
+   "htmlSnippet": "... <b>swiping</b> driver licenses or identification cards) were enacted into law by ... See Preface to <b>Oregon Revised Statutes</b> for further explanation. Source&nbsp;...",
+   "formattedUrl": "https://oregon.public.law/statutes/ors_807.745",
+   "htmlFormattedUrl": "https://oregon.public.law/statutes/ors_807.745",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDpWjg6i4-2IPkoVDe-oAfOSoo4i6pqIHeG0THhRIdKmUTEz1VInhFHMhL&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:determiner": "the",
+      "og:image": "https://oregon.public.law/assets/jurisdiction/256x256/oregon-c281e0815f41996cf648ae74a7b17f9e8504face1c685cd9ea805db234a29dbb.png",
+      "twitter:card": "summary",
+      "og:image:width": "256",
+      "og:site_name": "OregonLaws",
+      "msapplication-wide310x150logo": "https://oregon.public.law/assets/favicon/mstile-310x150-ae54f5e235f629e5bbc1b3787980a0a0c790ccaaf7e6153f46e35480b9460a78.png",
+      "og:image:type": "image/png",
+      "title": "ORS 807.745 \u2013 Findings regarding personal information contained in driver licenses, driver permits and identification cards",
+      "msapplication-tileimage": "https://oregon.public.law/assets/favicon/mstile-144x144-1ff51a60a42438151b0aa8d2b8ecdaa867d9af9ede744983626c8263eb9051c5.png",
+      "og:description": "The Legislative Assembly finds that, (1) Oregon recognizes the importance of protecting the confidentiality and privacy of an individual\u2019s personal informati...",
+      "twitter:image": "https://oregon.public.law/assets/jurisdiction/oregon-ae5ac36d3f2e7887e2f084753bd525fa5354db87e3cc8c0793ad631b5f6f9736.png",
+      "twitter:image:alt": "Oregon icon",
+      "twitter:site": "@law_is_code",
+      "msapplication-square310x310logo": "https://oregon.public.law/assets/favicon/mstile-310x310-c954d87af14b523b19b292236af483242aa1ca9007e0b96080fd9afcd3928858.png",
+      "msapplication-tilecolor": "#FFFFFF",
+      "twitter:title": "ORS 807.745 \u2013 Findings regarding personal information contained in driver licenses, driver permits and identification cards",
+      "og:type": "article",
+      "article:section": "Utilities, Vehicle Code, Watercraft, Aviation",
+      "og:image:alt": "Oregon icon",
+      "og:title": "ORS 807.745 \u2013 Findings regarding personal information contained in driver licenses, driver permits and identification cards",
+      "og:image:height": "256",
+      "article:author": "OR Legislature",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "twitter:description": "The Legislative Assembly finds that, (1) Oregon recognizes the importance of protecting the confidentiality and privacy of an individual\u2019s personal informati...",
+      "og:url": "https://oregon.public.law/statutes/ors_807.745"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://oregon.public.law/assets/jurisdiction/256x256/oregon-c281e0815f41996cf648ae74a7b17f9e8504face1c685cd9ea805db234a29dbb.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Oregon Board of Pharmacy Laws & Rules",
+   "htmlTitle": "Oregon Board of Pharmacy Laws &amp; Rules",
+   "link": "https://www.oregon.gov/pharmacy/Documents/OBOP_Laws_Rules_as_of_3.1.2023.pdf",
+   "displayLink": "www.oregon.gov",
+   "snippet": "Mar 8, 2020 ... ... at the pharmacy;. (H) Retain information submitted for at least two years from the date of transaction; and. (I) Be accompanied by training\u00a0...",
+   "htmlSnippet": "Mar 8, 2020 <b>...</b> ... <b>at</b> the pharmacy;. (H) <b>Retain</b> information submitted for <b>at</b> least two years from the date of transaction; and. (I) Be accompanied by training&nbsp;...",
+   "formattedUrl": "https://www.oregon.gov/pharmacy/.../OBOP_Laws_Rules_as_of_3.1.2023....",
+   "htmlFormattedUrl": "https://www.oregon.gov/pharmacy/.../OBOP_Laws_Rules_as_of_3.1.2023....",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJgyQArb3glrbriVPaOmuwAuajhJhI8vccSbFliTBHTSifCt-Y3Ad5pjvd&s",
+      "width": "229",
+      "height": "220"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20230302142836-08'00'",
+      "creationdate": "D:20230302142815-08'00'",
+      "creator": "Adobe Acrobat Standard DC 15.6.30527",
+      "author": "HTLEWIS",
+      "producer": "Adobe Acrobat Standard DC 15.6.30527",
+      "title": "0045SS"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///5c9fc5cfdf08f25d41dd8eab9fa8169396c2aa8d880d360b8f5a993791ad462d"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ORS 807.570 \u2013 Failure to carry or present license; penalty",
+   "htmlTitle": "ORS 807.570 \u2013 Failure to carry or present license; penalty",
+   "link": "https://oregon.public.law/statutes/ors_807.570",
+   "displayLink": "oregon.public.law",
+   "snippet": "Oregon Revised Statutes \u00b7 ORCP \u00b7 Remove ads \u00b7 Login \u00b7 Home \u00b7 ORS \u00b7 Vol. 19 \u00b7 Title 59 \u00b7 Chap ... Document retention 807.470. Disclosure of identity source\u00a0...",
+   "htmlSnippet": "<b>Oregon Revised Statutes</b> &middot; ORCP &middot; Remove ads &middot; Login &middot; Home &middot; ORS &middot; Vol. 19 &middot; Title 59 &middot; Chap ... Document <b>retention</b> 807.470. Disclosure of identity source&nbsp;...",
+   "formattedUrl": "https://oregon.public.law/statutes/ors_807.570",
+   "htmlFormattedUrl": "https://oregon.public.law/statutes/ors_807.570",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvX-hCUJSvOnYxwK0gpR0JymRYP3YZvjlsizWXNx6v8dbg0i4LaS34Y8o&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:determiner": "the",
+      "og:image": "https://oregon.public.law/assets/jurisdiction/256x256/oregon-178e7f7dd689fa81d78879372c59764dd65e7a08331c87f39f8232d2a004a913.png",
+      "twitter:card": "summary",
+      "og:image:width": "256",
+      "og:site_name": "OregonLaws",
+      "msapplication-wide310x150logo": "https://oregon.public.law/assets/favicon/mstile-310x150-ae54f5e235f629e5bbc1b3787980a0a0c790ccaaf7e6153f46e35480b9460a78.png",
+      "og:image:type": "image/png",
+      "title": "ORS 807.570 \u2013 Failure to carry or present license; penalty",
+      "msapplication-tileimage": "https://oregon.public.law/assets/favicon/mstile-144x144-1ff51a60a42438151b0aa8d2b8ecdaa867d9af9ede744983626c8263eb9051c5.png",
+      "og:description": "A person commits the offense of failure to carry a license or to present a license to a police officer if the\u2026",
+      "twitter:image": "https://oregon.public.law/assets/jurisdiction/oregon-c954d87af14b523b19b292236af483242aa1ca9007e0b96080fd9afcd3928858.png",
+      "twitter:image:alt": "Oregon icon",
+      "twitter:site": "@law_is_code",
+      "msapplication-square310x310logo": "https://oregon.public.law/assets/favicon/mstile-310x310-c954d87af14b523b19b292236af483242aa1ca9007e0b96080fd9afcd3928858.png",
+      "msapplication-tilecolor": "#FFFFFF",
+      "twitter:title": "ORS 807.570 \u2013 Failure to carry or present license; penalty",
+      "og:type": "article",
+      "article:section": "Utilities, Vehicle Code, Watercraft, Aviation",
+      "og:image:alt": "Oregon icon",
+      "og:title": "ORS 807.570 \u2013 Failure to carry or present license; penalty",
+      "og:image:height": "256",
+      "article:author": "OR Legislature",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "twitter:description": "A person commits the offense of failure to carry a license or to present a license to a police officer if the\u2026",
+      "og:url": "https://oregon.public.law/statutes/ors_807.570"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://oregon.public.law/assets/jurisdiction/256x256/oregon-178e7f7dd689fa81d78879372c59764dd65e7a08331c87f39f8232d2a004a913.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Untitled",
+   "htmlTitle": "Untitled",
+   "link": "https://dochub.clackamas.us/documents/drupal/af5775cf-0913-42d4-bf7c-6330b01d93ea",
+   "displayLink": "dochub.clackamas.us",
+   "snippet": "INVESTMENT PURPOSES means the purchase of personal property by businesses and the retention ... Dealers must retain at their business location a copy of all\u00a0...",
+   "htmlSnippet": "INVESTMENT PURPOSES means the purchase of personal property by businesses and the <b>retention</b> ... Dealers must <b>retain at</b> their business location a copy of all&nbsp;...",
+   "formattedUrl": "https://dochub.clackamas.us/.../af5775cf-0913-42d4-bf7c-6330b01d93ea",
+   "htmlFormattedUrl": "https://dochub.clackamas.us/.../af5775cf-0913-42d4-bf7c-6330b01d93ea",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQdcKR3bXrIetklJ3K15yLxlvwt7D-iW4jpo6-QKlhzEpE3BdZjm01vw&s",
+      "width": "197",
+      "height": "255"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20210603145545-07'00'",
+      "creationdate": "D:20210602101136-07'00'",
+      "creator": "Canon iR-ADV 6575 III  PDF",
+      "producer": "Adobe PSL 1.3e for Canon"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///cbb094b57d9faa189ee1e0eb2d33e3997ac8a564ec9d863147c13caca161c0d8"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Kay et al v. Plaid Pantry, Inc. et al, No. 3:2024cv01440 - Document ...",
+   "htmlTitle": "Kay et al v. Plaid Pantry, Inc. et al, No. 3:2024cv01440 - Document ...",
+   "link": "https://law.justia.com/cases/federal/district-courts/oregon/ordce/3:2024cv01440/181630/27/",
+   "displayLink": "law.justia.com",
+   "snippet": "BACKGROUND Plaintiffs allege that Defendants violated \u00a7 807.750 of the Oregon Revised Statutes (\u201cORS\u201d). ... swiping the driver license or identification card.\u201d\u00a0...",
+   "htmlSnippet": "BACKGROUND Plaintiffs allege that Defendants violated \u00a7 807.750 of the <b>Oregon Revised Statutes</b> (\u201cORS\u201d). ... <b>swiping</b> the driver license or <b>identification card</b>.\u201d&nbsp;...",
+   "formattedUrl": "https://law.justia.com/cases/federal/district-courts/oregon/ordce/3.../27/",
+   "htmlFormattedUrl": "https://law.justia.com/cases/federal/district-courts/oregon/ordce/3.../27/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-woulhMdqoqWwaGL0JyYyzOQ86EXUqHGNMcyUUpdijH7qqq65uA4WQBk&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://justatic.com/v/20250801141619/shared/images/social-media/law.jpg",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "og:site_name": "Justia Law",
+      "og:title": "Kay et al v. Plaid Pantry, Inc. et al, No. 3:2024cv01440 - Document 27 (D. Or. 2025)",
+      "og:app_id": "119529808075661",
+      "trigger-ga": "1",
+      "og:description": "Kay et al v. Plaid Pantry, Inc. et al, No. 3:2024cv01440 - Document 27 (D. Or. 2025) case opinion from the District of Oregon U.S. Federal District Court",
+      "og:admins": "656268335,686786921,25900864",
+      "referrer": "unsafe-url",
+      "twitter:site": "@JustiaCom",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "page-type": "Law: Cases: Opinion (PDF)",
+      "is-li": "0",
+      "og:url": "https://law.justia.com/cases/federal/district-courts/oregon/ordce/3:2024cv01440/181630/27/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://justatic.com/v/20250801141619/shared/images/social-media/law.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "FAQs \u2022 Oregon City, OR \u2022 CivicEngage",
+   "htmlTitle": "FAQs \u2022 Oregon City, OR \u2022 CivicEngage",
+   "link": "https://www.orcity.org/faq",
+   "displayLink": "www.orcity.org",
+   "snippet": "... Oregon Revised Statutes (ORS) 244.040(1)?. The mayor of a ... Contact the Planning Division at 503-722-3789 for help in uploading or scanning your photo.",
+   "htmlSnippet": "... <b>Oregon Revised Statutes</b> (ORS) 244.040(1)?. The mayor of a ... Contact the Planning Division <b>at</b> 503-722-3789 for help in uploading or <b>scanning</b> your photo.",
+   "formattedUrl": "https://www.orcity.org/faq",
+   "htmlFormattedUrl": "https://www.orcity.org/faq",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_MD3o0R_xeHMPDFJFB8IXBaT5GaTDex6FeMYyYHTq1eak_-o2w14vLbE&s",
+      "width": "425",
+      "height": "118"
+     }
+    ],
+    "metatags": [
+     {
+      "theme-color": "#101010",
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.orcity.org/ImageRepository/Document?documentID=64"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Medical Review Practices for Driver Licensing - NHTSA",
+   "htmlTitle": "Medical Review Practices for Driver Licensing - NHTSA",
+   "link": "https://www.nhtsa.gov/sites/nhtsa.gov/files/documents/812402_medicalreviewdriverlicense.pdf",
+   "displayLink": "www.nhtsa.gov",
+   "snippet": "... driver's license required (by State statute or law) to have a physical exam ... retain and properly follow both directions (e.g., \u201cat the next corner\u00a0...",
+   "htmlSnippet": "... <b>driver&#39;s license</b> required (by State statute or law) to have a physical exam ... <b>retain</b> and properly follow both directions (e.g., \u201c<b>at</b> the next corner&nbsp;...",
+   "formattedUrl": "https://www.nhtsa.gov/sites/nhtsa.../812402_medicalreviewdriverlicense.pdf",
+   "htmlFormattedUrl": "https://www.nhtsa.gov/sites/nhtsa.../812402_medicalreviewdriverlicense.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQz0-GjRf8wYNbGWvg8IrIpudE8g7BFiXei-8gSw1dkRJMCClcLQUXauil&s",
+      "width": "225",
+      "height": "224"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20170417144429-04'00'",
+      "creationdate": "D:20170417132853-04'00'",
+      "creator": "Acrobat PDFMaker 11 for Word",
+      "sourcemodified": "D:20170417172810",
+      "author": "KHL",
+      "producer": "Adobe PDF Library 11.0",
+      "company": "Hewlett-Packard Company",
+      "title": "Medical Review Practices For Driver Licensing, Volume 3: Guidelines and Processes In the United States"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///e819fded940c278ef6ae739eb590752426e46fd88aa4d4485b01a4fe6a04ea11"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

@@ -1,0 +1,379 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"North Carolina General Statutes\" \"driver's license\" OR \"identification card\" around 25 \"verification\" OR \"scanning\" OR \"swiping\" OR \"machine-readable\" OR \"electronically readable\" OR \"transaction scan\" -applicant -application",
+    "totalResults": "103",
+    "searchTerms": "\"North Carolina General Statutes\" \"driver's license\" OR \"identification card\" around 25 \"verification\" OR \"scanning\" OR \"swiping\" OR \"machine-readable\" OR \"electronically readable\" OR \"transaction scan\" -applicant -application",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"North Carolina General Statutes\" \"driver's license\" OR \"identification card\" around 25 \"verification\" OR \"scanning\" OR \"swiping\" OR \"machine-readable\" OR \"electronically readable\" OR \"transaction scan\" -applicant -application",
+    "totalResults": "103",
+    "searchTerms": "\"North Carolina General Statutes\" \"driver's license\" OR \"identification card\" around 25 \"verification\" OR \"scanning\" OR \"swiping\" OR \"machine-readable\" OR \"electronically readable\" OR \"transaction scan\" -applicant -application",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.149674,
+  "formattedSearchTime": "0.15",
+  "totalResults": "103",
+  "formattedTotalResults": "103"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "North Carolina Uniform Driver's License Act. :: Article 2 - Uniform ...",
+   "htmlTitle": "North Carolina Uniform <b>Driver&#39;s License</b> Act. :: Article 2 - Uniform ...",
+   "link": "https://law.justia.com/codes/north-carolina/chapter-20/article-2/",
+   "displayLink": "law.justia.com",
+   "snippet": "2023 North Carolina General Statutes Chapter 20 - Motor Vehicles Article 2 - Uniform Driver's License Act. \u00b7 \u00a7 20-5 - Title of Article. \u00b7 \u00a7\u00a7 20-6 - Repealed by\u00a0...",
+   "htmlSnippet": "2023 <b>North Carolina General Statutes</b> Chapter 20 - Motor Vehicles Article 2 - Uniform <b>Driver&#39;s License</b> Act. &middot; \u00a7 20-5 - Title of Article. &middot; \u00a7\u00a7 20-6 - Repealed by&nbsp;...",
+   "formattedUrl": "https://law.justia.com/codes/north-carolina/chapter-20/article-2/",
+   "htmlFormattedUrl": "https://law.justia.com/codes/north-carolina/chapter-20/article-2/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv1kRHR9CU0qZQZbA5HjXfFiiv89jojffP2K4PT4We8RS5sK4bvKZXSg0j&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://justatic.com/v/20250804101257/shared/images/social-media/law.jpg",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "og:site_name": "Justia Law",
+      "og:title": "2023 North Carolina General Statutes :: Chapter 20 - Motor Vehicles :: Article 2 - Uniform Driver&#39;s License Act.",
+      "og:app_id": "119529808075661",
+      "trigger-ga": "1",
+      "og:description": "Justia Free Databases of U.S. Laws, Codes & Statutes",
+      "og:admins": "656268335,686786921,25900864",
+      "referrer": "unsafe-url",
+      "twitter:site": "@JustiaCom",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "page-type": "Law: Codes Listing Page (Current Year)",
+      "is-li": "0",
+      "og:url": "https://law.justia.com/codes/north-carolina/chapter-20/article-2/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://justatic.com/v/20250804101257/shared/images/social-media/law.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Article - UNC One Card Cardholder Agr...",
+   "htmlTitle": "Article - UNC One Card Cardholder Agr...",
+   "link": "https://policies.unc.edu/TDClient/2833/Portal/KB/ArticleDet?ID=131704",
+   "displayLink": "policies.unc.edu",
+   "snippet": "A valid U.S. driver's license, U.S. passport, U.S. visa, U.S. military ID, or U.S. state-issued identification card is required when requesting a UNC One Card.",
+   "htmlSnippet": "A valid U.S. <b>driver&#39;s license</b>, U.S. passport, U.S. visa, U.S. military ID, or U.S. state-issued <b>identification card</b> is required when requesting a UNC One Card.",
+   "formattedUrl": "https://policies.unc.edu/TDClient/2833/Portal/KB/ArticleDet?ID=131704",
+   "htmlFormattedUrl": "https://policies.unc.edu/TDClient/2833/Portal/KB/ArticleDet?ID=131704",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb4fZVTYzRHwCX3ymedWSi4D5fieLcwqOtF-irysuvmvMRDYmwo3TFBVg&s",
+      "width": "291",
+      "height": "80"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://policies.unc.edu/TDPortal/BE/Logo/488/2833",
+      "og:type": "article",
+      "article:section": "One Card Office",
+      "article:published_time": "2021-04-09T01:14Z",
+      "og:site_name": "University of North Carolina at Chapel Hill - Knowledge Base",
+      "article:modified_time": "2024-11-15T20:44Z",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "UNC One Card Cardholder Agreement Policy",
+      "og:url": "https://policies.unc.edu/TDClient/2833/Portal/KB/ArticleDet?ID=131704",
+      "og:description": "The University of North Carolina at Chapel Hill (\"UNC\") One Card is a multipurpose identification card that also serves as a card for library and meal plan use, building access, copy and print services and access to campus events. This Cardholder Agreement document explains how to get a One Card,...",
+      "article:tag": "University-Policy"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://policies.unc.edu/TDPortal/BE/Logo/488/2833"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Guidelines for Official Depositories of State Funds Department of ...",
+   "htmlTitle": "Guidelines for Official Depositories of State Funds Department of ...",
+   "link": "https://www.nctreasurer.gov/documents/files/fod/guidelines-official-depositories-state-funds/open",
+   "displayLink": "www.nctreasurer.gov",
+   "snippet": "Verification of cash deposits must be made at the time the deposit is receipted. ENDORSEMENTS. Deposit accounts held in the name of the State Treasurer are\u00a0...",
+   "htmlSnippet": "<b>Verification</b> of cash deposits must be made at the time the deposit is receipted. ENDORSEMENTS. Deposit accounts held in the name of the State Treasurer are&nbsp;...",
+   "formattedUrl": "https://www.nctreasurer.gov/documents/files/fod/guidelines...state.../open",
+   "htmlFormattedUrl": "https://www.nctreasurer.gov/documents/files/fod/guidelines...state.../open",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSteHAHazUP5XjEQZFSobhhEO5M-bV9KtmCnWZYZxdYtssqJeDOqVPN7j4&s",
+      "width": "406",
+      "height": "124"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20230123095353-05'00'",
+      "creationdate": "D:20230123095348-05'00'",
+      "creator": "Acrobat PDFMaker 22 for Word",
+      "sourcemodified": "D:20230123145308",
+      "author": "Brandon Watson",
+      "producer": "Adobe PDF Library 22.3.86"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///b798eb7bde6db378f298ee782b7bf7b5fba866f372c616879290ad5d1fc6cd6c"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "COUNTY OF COLUMBUS, NORTH CAROLINA NOTICE TO ...",
+   "htmlTitle": "COUNTY OF COLUMBUS, NORTH CAROLINA NOTICE TO ...",
+   "link": "https://www2.columbusco.org/RFP%20QRV%20COLUMBUS%20COUNTY%202022.pdf",
+   "displayLink": "www2.columbusco.org",
+   "snippet": "Sep 2, 2022 ... QRV personnel must also hold a valid. North Carolina driver's license. ... North Carolina General Statutes, to include (mark which applies):.",
+   "htmlSnippet": "Sep 2, 2022 <b>...</b> QRV personnel must also hold a valid. North Carolina <b>driver&#39;s license</b>. ... <b>North Carolina General Statutes</b>, to include (mark which applies):.",
+   "formattedUrl": "https://www2.columbusco.org/RFP%20QRV%20COLUMBUS%20COUNT...",
+   "htmlFormattedUrl": "https://www2.columbusco.org/RFP%20QRV%20COLUMBUS%20COUNT...",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20220902155120-04'00'",
+      "creator": "Microsoft\u00ae Word 2016",
+      "creationdate": "D:20220902155120-04'00'",
+      "author": "Nick West",
+      "producer": "Microsoft\u00ae Word 2016"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "UNC One Card Brochure",
+   "htmlTitle": "UNC One Card Brochure",
+   "link": "https://onecard.unc.edu/wp-content/uploads/sites/237/2020/08/one-card-brochure.pdf",
+   "displayLink": "onecard.unc.edu",
+   "snippet": "A valid driver's license, passport, military ID, or state-issued identification card is required when requesting a ... verification as reasonably requested\u00a0...",
+   "htmlSnippet": "A valid <b>driver&#39;s license</b>, passport, military ID, or state-issued <b>identification card</b> is required when requesting a ... <b>verification</b> as reasonably requested&nbsp;...",
+   "formattedUrl": "https://onecard.unc.edu/wp-content/uploads/sites/.../one-card-brochure.pdf",
+   "htmlFormattedUrl": "https://onecard.unc.edu/wp-content/uploads/sites/.../one-card-brochure.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoBQH0Z2YnNcpkVmHJp-Y-7rehVjOviSGsmd298EUQT2R0-BIMkZj-uYoi&s",
+      "width": "264",
+      "height": "191"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20220513151240-04'00'",
+      "creationdate": "D:20220513145107-04'00'",
+      "creator": "Adobe Illustrator 25.4 (Macintosh)",
+      "producer": "Adobe PDF library 16.00",
+      "title": "UNC One Card Brochure"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///0ae5ee2a40bd1dcddce7917f39d8eaaffec987d8bde4732da003be9720143a3d"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Additional Information about Drugs & Alcohol Updated January ...",
+   "htmlTitle": "Additional Information <b>about</b> Drugs &amp; Alcohol Updated January ...",
+   "link": "https://www.methodist.edu/wp-content/uploads/2024/10/AdditionalDrugAlcohol24.pdf",
+   "displayLink": "www.methodist.edu",
+   "snippet": "As required by Article 3 of Chapter 18B of the North Carolina General Statutes ... to provide independent, medical verification that the quantity and the\u00a0...",
+   "htmlSnippet": "As required by Article 3 of Chapter 18B of the <b>North Carolina General Statutes</b> ... to provide independent, medical <b>verification</b> that the quantity and the&nbsp;...",
+   "formattedUrl": "https://www.methodist.edu/wp-content/.../AdditionalDrugAlcohol24.pdf",
+   "htmlFormattedUrl": "https://www.methodist.edu/wp-content/.../AdditionalDrugAlcohol24.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20241017154306-04'00'",
+      "creationdate": "D:20240207132902-05'00'",
+      "creator": "Acrobat PDFMaker 20 for Word",
+      "lastsaved": "D:20230706",
+      "author": "Carol Pope",
+      "created": "D:20220928",
+      "producer": "Adobe PDF Library 20.5.75"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DURHAM FAMILY COURT'S IMPORTANT",
+   "htmlTitle": "DURHAM FAMILY COURT&#39;S IMPORTANT",
+   "link": "https://www.nccourts.gov/assets/inline-files/DivorcePacketInstructions.pdf?QHVgDomw9Z63Qn99_kMi1I25vTnLslo9=",
+   "displayLink": "www.nccourts.gov",
+   "snippet": "The Verification is a statement that you sign before a Notary Public \u2013 a person who ... valid identification card. You may qualify to have this filing fee waived\u00a0...",
+   "htmlSnippet": "The <b>Verification</b> is a statement that you sign before a Notary Public \u2013 a person who ... valid <b>identification card</b>. You may qualify to have this filing fee waived&nbsp;...",
+   "formattedUrl": "https://www.nccourts.gov/assets/inline.../DivorcePacketInstructions.pdf?...",
+   "htmlFormattedUrl": "https://www.nccourts.gov/assets/inline.../DivorcePacketInstructions.pdf?...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_k--j9JVNpjvgnWJgrTAddZgfLuC3Gc4NT_TFSfCz-9nDyqe6qIldxmY&s",
+      "width": "365",
+      "height": "138"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20170809104154",
+      "creationdate": "D:20170809104154",
+      "creator": "PScript5.dll Version 5.2.2",
+      "author": "cdcenw",
+      "producer": "GPL Ghostscript 8.15",
+      "title": "Microsoft Word - Divorce Packet Instructions 2017.docx"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///cd579bdf392a2b54dab3e88151e9d3f08a93cc4e88860d16e30a78f911b7640a"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "RETRIEVED FROM DEMOCRACYDOCKET.COM",
+   "htmlTitle": "RETRIEVED FROM DEMOCRACYDOCKET.COM",
+   "link": "https://www.democracydocket.com/wp-content/uploads/2024/12/37-2025-04-14-North-Carolina-Dems-memorandum-in-support-of-emergency-TRO-and-PI.pdf",
+   "displayLink": "www.democracydocket.com",
+   "snippet": "Apr 14, 2025 ... Ballots were cast by registered voters whose voter registration database records contain neither a driver's license number nor the last-four\u00a0...",
+   "htmlSnippet": "Apr 14, 2025 <b>...</b> Ballots were cast by registered voters whose voter registration database records contain neither a <b>driver&#39;s license</b> number nor the last-four&nbsp;...",
+   "formattedUrl": "https://www.democracydocket.com/.../37-2025-04-14-North-Carolina-Dem...",
+   "htmlFormattedUrl": "https://www.democracydocket.com/.../37-2025-04-14-North-Carolina-Dem...",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20250414122055-04'00'",
+      "creationdate": "D:20250414112551-04'00'",
+      "author": "Pat Douglas",
+      "producer": "Acrobat Pro 24 Paper Capture Plug-in",
+      "title": "Microsoft Word - NCDP v. NCSBE -- Memorandum ISO motion for TRO PI (4.14 10am) 4898-1489-7974 v.4.docx"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Summary of Vehicle Occupant Protection and Motorcycle Laws ...",
+   "htmlTitle": "Summary of Vehicle Occupant Protection and Motorcycle Laws ...",
+   "link": "https://www.nhtsa.gov/sites/nhtsa.gov/files/documents/812405_summary-of-vehicle-occupant-protection-and-motorcycle-laws-14th-edition.pdf",
+   "displayLink": "www.nhtsa.gov",
+   "snippet": "individual's driver's license. A.C.A. \u00a727-37-706(b). Note: A.C.A. ... verification within the past 12 months that states such person is unable to wear a.",
+   "htmlSnippet": "individual&#39;s <b>driver&#39;s license</b>. A.C.A. \u00a727-37-706(b). Note: A.C.A. ... <b>verification</b> within the <b>past</b> 12 months that states such person is unable to wear a.",
+   "formattedUrl": "https://www.nhtsa.gov/.../812405_summary-of-vehicle-occupant-protection...",
+   "htmlFormattedUrl": "https://www.nhtsa.gov/.../812405_summary-of-vehicle-occupant-protection...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRHFNtrjmsrGyzAUAqPd9gwfBP0lSMLhNO6bhLmEgEWCeOgBi6Jn61YRc&s",
+      "width": "150",
+      "height": "150"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20180322141340-04'00'",
+      "creationdate": "D:20170616124857-04'00'",
+      "creator": "Acrobat PDFMaker 11 for Word",
+      "sourcemodified": "D:20170616164706",
+      "author": "Laura Caldwell-Aden",
+      "wsi_doc_id": "a78e5208-1703-4fba-afbe-872c7f44246d",
+      "producer": "Adobe PDF Library 11.0",
+      "company": "DOT",
+      "title": "Summary of Vehicle Occupant Protection and Motorcycle Laws, Fourteenth Edition",
+      "contenttypeid": "0x010100C4C713BFEFED344BA50D644F463BF557"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///d827f041c40b93b7619a81dad15b17ef631e7745c609412fca289095eb0800d7"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1 | Page",
+   "htmlTitle": "1 | Page",
+   "link": "https://evp.nc.gov/_entity/annotation/ea0d07f8-f8cf-ee11-9079-001dd8306ce3/863ea987-6d3e-ed11-9daf-001dd805ec0b?t=1745884800270",
+   "displayLink": "evp.nc.gov",
+   "snippet": "\u2022 Contracted therapist must possess a valid driver's license and transportation to/from WCPSS sites. ... North Carolina General Statutes) requiring use of the E-\u00a0...",
+   "htmlSnippet": "\u2022 Contracted therapist must possess a valid <b>driver&#39;s license</b> and transportation to/from WCPSS sites. ... <b>North Carolina General Statutes</b>) requiring use of the E-&nbsp;...",
+   "formattedUrl": "https://evp.nc.gov/_entity/.../863ea987-6d3e-ed11-9daf-001dd805ec0b?t...",
+   "htmlFormattedUrl": "https://evp.nc.gov/_entity/.../863ea987-6d3e-ed11-9daf-001dd805ec0b?t...",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20240220084847-05'00'",
+      "creator": "Microsoft\u00ae Word for Microsoft 365",
+      "creationdate": "D:20240220084847-05'00'",
+      "author": "Debra Wallace",
+      "producer": "Microsoft\u00ae Word for Microsoft 365"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

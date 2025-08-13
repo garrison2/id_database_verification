@@ -1,0 +1,508 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:www.dmv.ca.gov \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"  \"privacy policy\" OR \"privacy notice\" OR \"privacy statement\" OR \"terms of service\" OR \"terms and conditions\"",
+    "totalResults": "4610",
+    "searchTerms": "site:www.dmv.ca.gov \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"  \"privacy policy\" OR \"privacy notice\" OR \"privacy statement\" OR \"terms of service\" OR \"terms and conditions\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:www.dmv.ca.gov \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"  \"privacy policy\" OR \"privacy notice\" OR \"privacy statement\" OR \"terms of service\" OR \"terms and conditions\"",
+    "totalResults": "4610",
+    "searchTerms": "site:www.dmv.ca.gov \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"  \"privacy policy\" OR \"privacy notice\" OR \"privacy statement\" OR \"terms of service\" OR \"terms and conditions\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.360614,
+  "formattedSearchTime": "0.36",
+  "totalResults": "4610",
+  "formattedTotalResults": "4,610"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "CA DMV Wallet & mDL Pilot - California DMV",
+   "htmlTitle": "CA DMV Wallet &amp; <b>mDL</b> Pilot - California DMV",
+   "link": "https://www.dmv.ca.gov/portal/ca-dmv-wallet/",
+   "displayLink": "www.dmv.ca.gov",
+   "snippet": "Watch this short video on how to set up the CA DMV Wallet and add the mobile driver's license (mDL). ... mDL Privacy Policy. Copyright \u00a9 2025 State of California.",
+   "htmlSnippet": "Watch this short video on how to set up the CA DMV Wallet and add the <b>mobile driver&#39;s license</b> (<b>mDL</b>). ... <b>mDL Privacy Policy</b>. Copyright \u00a9 2025 State of California.",
+   "formattedUrl": "https://www.dmv.ca.gov/portal/ca-dmv-wallet/",
+   "htmlFormattedUrl": "https://www.dmv.ca.gov/portal/ca-dmv-wallet/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZHk_ML745B7xRHSHo_ZBl0g65ylI5dja8Phvyh5R_5WHiBIIYpxdvFsfX&s",
+      "width": "280",
+      "height": "180"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.ca.gov/portal/uploads/2023/08/DMV_mDL_1320w_450h_Silvia_850px_Taller_update-2.jpg",
+      "og:type": "article",
+      "og:image:width": "1320",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "California DMV",
+      "og:title": "CA DMV Wallet & mDL Pilot - California DMV",
+      "og:image:height": "850",
+      "twitter:label1": "Est. reading time",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://www.dmv.ca.gov/portal/uploads/2020/02/cropped-dmv_favicon_Final_png-1-270x270.png",
+      "og:description": "The CA DMV Wallet app holds your mobile driver\u2019s license (mDL) - a free, digital, secure, and convenient version of your California DL/ID.",
+      "article:publisher": "https://www.facebook.com/CADMV",
+      "twitter:data1": "3 minutes",
+      "twitter:site": "@ca_dmv",
+      "article:modified_time": "2025-07-24T23:01:28+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.dmv.ca.gov/portal/ca-dmv-wallet/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.ca.gov/portal/uploads/2023/08/DMV_mDL_1320w_450h_Silvia_850px_Taller_update-2.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "mDL in Apple Wallet - California DMV",
+   "htmlTitle": "<b>mDL</b> in Apple Wallet - California DMV",
+   "link": "https://www.dmv.ca.gov/portal/california-mdl/apple-wallet/",
+   "displayLink": "www.dmv.ca.gov",
+   "snippet": "mDL Privacy Policy \u00b7 Learn more about ID in Apple Wallet. Give feedback on the mDL. Copyright \u00a9 2025 State of California. About DMV \u00b7 Privacy Policy \u00b7 Cookie\u00a0...",
+   "htmlSnippet": "<b>mDL Privacy Policy</b> &middot; Learn more about ID in Apple Wallet. Give feedback on the <b>mDL</b>. Copyright \u00a9 2025 State of California. About DMV &middot; <b>Privacy Policy</b> &middot; Cookie&nbsp;...",
+   "formattedUrl": "https://www.dmv.ca.gov/portal/california-mdl/apple-wallet/",
+   "htmlFormattedUrl": "https://www.dmv.ca.gov/portal/california-<b>mdl</b>/apple-wallet/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBVZZIHzZ6VkJUYI4gyTDrotWiIo246ZY0TFY_GGJjGSHG_zP10K8x3S7z&s",
+      "width": "394",
+      "height": "128"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.ca.gov/portal/uploads/2024/11/Apple_mDL_Website-_landingPage_REV10-3-2000x650-2.jpg",
+      "og:type": "article",
+      "og:image:width": "2000",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "California DMV",
+      "og:title": "mDL in Apple Wallet - California DMV",
+      "og:image:height": "650",
+      "twitter:label1": "Est. reading time",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://www.dmv.ca.gov/portal/uploads/2020/02/cropped-dmv_favicon_Final_png-1-270x270.png",
+      "og:description": "Your California ID in Apple Wallet.",
+      "article:publisher": "https://www.facebook.com/CADMV",
+      "twitter:data1": "2 minutes",
+      "twitter:site": "@ca_dmv",
+      "article:modified_time": "2025-04-14T20:54:22+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.dmv.ca.gov/portal/california-mdl/apple-wallet/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.ca.gov/portal/uploads/2024/11/Apple_mDL_Website-_landingPage_REV10-3-2000x650-2.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "mDL in Google Wallet - California DMV",
+   "htmlTitle": "<b>mDL</b> in Google Wallet - California DMV",
+   "link": "https://www.dmv.ca.gov/portal/california-mdl/google-wallet/",
+   "displayLink": "www.dmv.ca.gov",
+   "snippet": "mDL Privacy Policy. Google Wallet is a trademark of Google LLC. Copyright \u00a9 2025 State of California. About DMV \u00b7 Privacy Policy \u00b7 Cookie Policy \u00b7 Conditions of\u00a0...",
+   "htmlSnippet": "<b>mDL Privacy Policy</b>. Google Wallet is a trademark of Google LLC. Copyright \u00a9 2025 State of California. About DMV &middot; <b>Privacy Policy</b> &middot; Cookie Policy &middot; Conditions of&nbsp;...",
+   "formattedUrl": "https://www.dmv.ca.gov/portal/california-mdl/google-wallet/",
+   "htmlFormattedUrl": "https://www.dmv.ca.gov/portal/california-<b>mdl</b>/google-wallet/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWX_n5INRxinjXRjw1hkEOyTnMnywGWxy4tseLfCYtfqhSnWvcZMx0Kw&s",
+      "width": "413",
+      "height": "122"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.ca.gov/portal/uploads/2024/09/GooglewalletbannerBlueV9.jpg",
+      "og:type": "article",
+      "og:image:width": "2200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "California DMV",
+      "og:title": "mDL in Google Wallet - California DMV",
+      "og:image:height": "650",
+      "twitter:label1": "Est. reading time",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://www.dmv.ca.gov/portal/uploads/2020/02/cropped-dmv_favicon_Final_png-1-270x270.png",
+      "og:description": "Your California ID in Google Wallet.",
+      "article:publisher": "https://www.facebook.com/CADMV",
+      "twitter:data1": "1 minute",
+      "twitter:site": "@ca_dmv",
+      "article:modified_time": "2025-05-09T17:11:51+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.dmv.ca.gov/portal/california-mdl/google-wallet/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.ca.gov/portal/uploads/2024/09/GooglewalletbannerBlueV9.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile Driver's License Portal - California DMV",
+   "htmlTitle": "<b>Mobile Driver&#39;s License</b> Portal - California DMV",
+   "link": "https://www.dmv.ca.gov/portal/california-mdl/login/",
+   "displayLink": "www.dmv.ca.gov",
+   "snippet": "Hassle-free management of your Mobile Driver's License (mDL) across all your personal devices. ... Privacy Policy \u00b7 Cookie Policy \u00b7 Conditions of Use \u00b7 Site Map\u00a0...",
+   "htmlSnippet": "Hassle-free management of your <b>Mobile Driver&#39;s License</b> (<b>mDL</b>) across all your personal devices. ... <b>Privacy Policy</b> &middot; Cookie Policy &middot; Conditions of Use &middot; Site Map&nbsp;...",
+   "formattedUrl": "https://www.dmv.ca.gov/portal/california-mdl/login/",
+   "htmlFormattedUrl": "https://www.dmv.ca.gov/portal/california-<b>mdl</b>/login/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw0iVZ_4jKNUsog2k5PcaWigQDeEB1khvm1chsn83b7TwuaorSz3kVtA&s",
+      "width": "413",
+      "height": "122"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.ca.gov/portal/uploads/2025/01/DMV-Website-Banner_2200x650_alldevices-2.png",
+      "og:type": "article",
+      "og:image:width": "2200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "California DMV",
+      "og:title": "Mobile Driver's License Portal - California DMV",
+      "og:image:height": "650",
+      "og:image:type": "image/png",
+      "msapplication-tileimage": "https://www.dmv.ca.gov/portal/uploads/2020/02/cropped-dmv_favicon_Final_png-1-270x270.png",
+      "og:description": "Mobile Driver\u2019s License Portal Hassle-free management of your Mobile Driver\u2019s License (mDL) across all your personal devices. What\u2019s Included",
+      "article:publisher": "https://www.facebook.com/CADMV",
+      "twitter:site": "@ca_dmv",
+      "article:modified_time": "2025-05-09T17:19:08+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.dmv.ca.gov/portal/california-mdl/login/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.ca.gov/portal/uploads/2025/01/DMV-Website-Banner_2200x650_alldevices-2.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DMV to Host Community Hackathons to Facilitate Additional Uses ...",
+   "htmlTitle": "DMV to Host Community Hackathons to Facilitate Additional Uses ...",
+   "link": "https://www.dmv.ca.gov/portal/news-and-media/dmv-to-host-community-hackathons-to-facilitate-additional-uses-for-mobile-drivers-license/",
+   "displayLink": "www.dmv.ca.gov",
+   "snippet": "Jul 24, 2024 ... ... mobile Driver's License (CA mDL). Innovators interested in adding a ... Privacy Policy \u00b7 Cookie Policy \u00b7 Conditions of Use \u00b7 Site Map\u00a0...",
+   "htmlSnippet": "Jul 24, 2024 <b>...</b> ... <b>mobile Driver&#39;s License</b> (CA <b>mDL</b>). Innovators interested in adding a ... <b>Privacy Policy</b> &middot; Cookie Policy &middot; Conditions of Use &middot; Site Map&nbsp;...",
+   "formattedUrl": "https://www.dmv.ca.gov/.../dmv-to-host-community-hackathons-to-facilitat...",
+   "htmlFormattedUrl": "https://www.dmv.ca.gov/.../dmv-to-host-community-hackathons-to-facilitat...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu1CncnGPr7i_CpSdehYf9W8kOo4yocch0014LrFVFGRKxXMAF2_OIgWU&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.ca.gov/portal/uploads/2022/06/DMV_Logo.png",
+      "og:type": "article",
+      "og:image:width": "1920",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "California DMV",
+      "og:title": "DMV to Host Community Hackathons to Facilitate Additional Uses for mobile Driver's License - California DMV",
+      "og:image:height": "1080",
+      "twitter:label1": "Est. reading time",
+      "og:image:type": "image/png",
+      "msapplication-tileimage": "https://www.dmv.ca.gov/portal/uploads/2020/02/cropped-dmv_favicon_Final_png-1-270x270.png",
+      "og:description": "FOR IMMEDIATE RELEASEJuly 24, 2024 Sacramento \u2013 The California Department of Motor Vehicles invites businesses, public agencies and innovators to apply to join two community \u201chackathons\u201d to promote additional uses for the California mobile Driver\u2019s License (CA mDL). Innovators interested in adding a secure and privacy-protecting digital identity into their customer experience are encouraged to [\u2026]",
+      "article:publisher": "https://www.facebook.com/CADMV",
+      "twitter:data1": "2 minutes",
+      "twitter:site": "@ca_dmv",
+      "article:modified_time": "2024-07-24T23:12:44+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.dmv.ca.gov/portal/news-and-media/dmv-to-host-community-hackathons-to-facilitate-additional-uses-for-mobile-drivers-license/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.ca.gov/portal/uploads/2022/06/DMV_Logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "mDL Reader - California DMV",
+   "htmlTitle": "<b>mDL</b> Reader - California DMV",
+   "link": "https://www.dmv.ca.gov/portal/ca-dmv-wallet/mdl-reader/",
+   "displayLink": "www.dmv.ca.gov",
+   "snippet": "read and trust the information that is displayed on your mDL Reader after scanning an mDL. ... Privacy Policy \u00b7 Conditions of Use \u00b7 Site Map \u00b7 Accessibility\u00a0...",
+   "htmlSnippet": "read and trust the information that is displayed on your <b>mDL</b> Reader after scanning an <b>mDL</b>. ... <b>Privacy Policy</b> &middot; Conditions of Use &middot; Site Map &middot; Accessibility&nbsp;...",
+   "formattedUrl": "https://www.dmv.ca.gov/portal/ca-dmv-wallet/mdl-reader/",
+   "htmlFormattedUrl": "https://www.dmv.ca.gov/portal/ca-dmv-wallet/<b>mdl</b>-reader/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxHrVNuUray8wJcO3fiRTfevTNEbY5FqplHSNcB4HhE2OqWhTVSMei7BY&s",
+      "width": "300",
+      "height": "100"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.ca.gov/portal/uploads/2023/06/App-Store-Cropped.png",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "California DMV",
+      "og:title": "mDL Reader - California DMV",
+      "twitter:label1": "Est. reading time",
+      "msapplication-tileimage": "https://www.dmv.ca.gov/portal/uploads/2020/02/cropped-dmv_favicon_Final_png-1-270x270.png",
+      "og:description": "The mDL Reader enables your business to serve customers presenting the mDL on their mobile phone.",
+      "article:publisher": "https://www.facebook.com/CADMV",
+      "twitter:data1": "3 minutes",
+      "twitter:site": "@ca_dmv",
+      "article:modified_time": "2024-09-19T21:47:51+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.dmv.ca.gov/portal/ca-dmv-wallet/mdl-reader/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.ca.gov/portal/uploads/2023/06/App-Store-Cropped.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "mDL for Technology Developers - California DMV",
+   "htmlTitle": "<b>mDL</b> for Technology Developers - California DMV",
+   "link": "https://www.dmv.ca.gov/portal/ca-dmv-wallet/mdl-for-technology-developers/",
+   "displayLink": "www.dmv.ca.gov",
+   "snippet": "mDL for Californians. California's mobile driver's license / identification card is a free, secure, and convenient digital ID carried on your smartphone. Learn\u00a0...",
+   "htmlSnippet": "<b>mDL</b> for Californians. California&#39;s <b>mobile driver&#39;s license</b> / identification card is a free, secure, and convenient <b>digital ID</b> carried on your smartphone. Learn&nbsp;...",
+   "formattedUrl": "https://www.dmv.ca.gov/portal/ca-dmv.../mdl-for-technology-developers/",
+   "htmlFormattedUrl": "https://www.dmv.ca.gov/portal/ca-dmv.../<b>mdl</b>-for-technology-developers/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQpawcfp9dU8--4YIjseMo9ZqPTHw7cZ9DWkj2g0KGmsCchymNZiKLyGSa&s",
+      "width": "347",
+      "height": "145"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.ca.gov/portal/uploads/2024/04/MDL_1200_578_Wbanner_3.jpg",
+      "og:type": "article",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "California DMV",
+      "og:title": "mDL for Technology Developers - California DMV",
+      "og:image:height": "502",
+      "twitter:label1": "Est. reading time",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://www.dmv.ca.gov/portal/uploads/2020/02/cropped-dmv_favicon_Final_png-1-270x270.png",
+      "og:description": "The mDL for technology developers provides a major upgrade from traditional physical credentials that can be lost, stolen, damaged, or outdated.",
+      "article:publisher": "https://www.facebook.com/CADMV",
+      "twitter:data1": "7 minutes",
+      "twitter:site": "@ca_dmv",
+      "article:modified_time": "2025-04-14T20:49:11+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.dmv.ca.gov/portal/ca-dmv-wallet/mdl-for-technology-developers/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.ca.gov/portal/uploads/2024/04/MDL_1200_578_Wbanner_3.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "mDL for Businesses - California DMV",
+   "htmlTitle": "<b>mDL</b> for Businesses - California DMV",
+   "link": "https://www.dmv.ca.gov/portal/ca-dmv-wallet/mdl-for-business/",
+   "displayLink": "www.dmv.ca.gov",
+   "snippet": "The mobile driver's license (mDL) ... Learn more. mDL_banner_for_Technology_Developers. Copyright \u00a9 2025 State of California. About DMV \u00b7 Privacy Policy\u00a0...",
+   "htmlSnippet": "The <b>mobile driver&#39;s license</b> (<b>mDL</b>) ... Learn more. mDL_banner_for_Technology_Developers. Copyright \u00a9 2025 State of California. About DMV &middot; <b>Privacy Policy</b>&nbsp;...",
+   "formattedUrl": "https://www.dmv.ca.gov/portal/ca-dmv-wallet/mdl-for-business/",
+   "htmlFormattedUrl": "https://www.dmv.ca.gov/portal/ca-dmv-wallet/<b>mdl</b>-for-business/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6NT0ZPTiMM3d5XCGLvTEJIlCbyU6MPm89nI2WjmImwW64pbhhWuGL8l-J&s",
+      "width": "385",
+      "height": "131"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.ca.gov/portal/uploads/2024/02/mDL_BIZwebsite_bannerv2-2-scaled.jpg",
+      "og:type": "article",
+      "og:image:width": "2560",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "California DMV",
+      "og:title": "mDL for Businesses - California DMV",
+      "og:image:height": "873",
+      "twitter:label1": "Est. reading time",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://www.dmv.ca.gov/portal/uploads/2020/02/cropped-dmv_favicon_Final_png-1-270x270.png",
+      "og:description": "The mobile driver\u2019s license (mDL) digital identity credential offers a range of benefits for both businesses and government entities.",
+      "article:publisher": "https://www.facebook.com/CADMV",
+      "twitter:data1": "7 minutes",
+      "twitter:site": "@ca_dmv",
+      "article:modified_time": "2025-04-14T20:49:09+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.dmv.ca.gov/portal/ca-dmv-wallet/mdl-for-business/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.ca.gov/portal/uploads/2024/02/mDL_BIZwebsite_bannerv2-2-scaled.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Privacy and Security - California DMV",
+   "htmlTitle": "Privacy and Security - California DMV",
+   "link": "https://www.dmv.ca.gov/portal/privacy-and-security/",
+   "displayLink": "www.dmv.ca.gov",
+   "snippet": "mDL Status. mDL Status. mDL Status. Sub Menu Toggle IBC Case ... Please note that questions unrelated to DMV's privacy policy may not receive a response.",
+   "htmlSnippet": "<b>mDL</b> Status. <b>mDL</b> Status. <b>mDL</b> Status. Sub Menu Toggle IBC Case ... Please note that questions unrelated to DMV&#39;s <b>privacy policy</b> may not receive a response.",
+   "formattedUrl": "https://www.dmv.ca.gov/portal/privacy-and-security/",
+   "htmlFormattedUrl": "https://www.dmv.ca.gov/portal/privacy-and-security/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHPHVjBCQ8uVvTNSFI8nzwT9djGmxjRUsxYMt3aOd_o_9LTY5LGfp24EM&s",
+      "width": "183",
+      "height": "276"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.ca.gov/portal/wp-content/themes/dmv/dist/images/illustrations/adult_walking.svg",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "California DMV",
+      "og:title": "Privacy and Security - California DMV",
+      "twitter:label1": "Est. reading time",
+      "msapplication-tileimage": "https://www.dmv.ca.gov/portal/uploads/2020/02/cropped-dmv_favicon_Final_png-1-270x270.png",
+      "og:description": "It is the policy of DMV to limit the collection of personal information and to safeguard the privacy of personal information collected or maintained by DMV.",
+      "article:publisher": "https://www.facebook.com/CADMV",
+      "twitter:data1": "6 minutes",
+      "twitter:site": "@ca_dmv",
+      "article:modified_time": "2023-05-04T16:18:02+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.dmv.ca.gov/portal/privacy-and-security/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.ca.gov/portal/wp-content/themes/dmv/dist/images/illustrations/adult_walking.svg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DMV Recognizes Companies for Outstanding mDL Use Cases at ...",
+   "htmlTitle": "DMV Recognizes Companies for Outstanding <b>mDL</b> Use Cases at ...",
+   "link": "https://www.dmv.ca.gov/portal/news-and-media/news-releases/dmv-recognizes-companies-for-outstanding-mdl-use-cases-at-first-community-hackathon/",
+   "displayLink": "www.dmv.ca.gov",
+   "snippet": "Oct 10, 2024 ... ... mobile driver's license (mDL). Held at the Computer History Museum in ... Privacy Policy \u00b7 Conditions of Use \u00b7 Site Map \u00b7 Accessibility \u00b7 Forms.",
+   "htmlSnippet": "Oct 10, 2024 <b>...</b> ... <b>mobile driver&#39;s license</b> (<b>mDL</b>). Held at the Computer History Museum in ... <b>Privacy Policy</b> &middot; Conditions of Use &middot; Site Map &middot; Accessibility &middot; Forms.",
+   "formattedUrl": "https://www.dmv.ca.gov/.../dmv-recognizes-companies-for-outstanding-md...",
+   "htmlFormattedUrl": "https://www.dmv.ca.gov/.../dmv-recognizes-companies-for-outstanding-<b>md</b>...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu1CncnGPr7i_CpSdehYf9W8kOo4yocch0014LrFVFGRKxXMAF2_OIgWU&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.ca.gov/portal/uploads/2022/06/DMV_Logo.png",
+      "og:type": "article",
+      "og:image:width": "1920",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "California DMV",
+      "og:title": "DMV Recognizes Companies for Outstanding mDL Use Cases at First Community Hackathon - California DMV",
+      "og:image:height": "1080",
+      "twitter:label1": "Est. reading time",
+      "og:image:type": "image/png",
+      "msapplication-tileimage": "https://www.dmv.ca.gov/portal/uploads/2020/02/cropped-dmv_favicon_Final_png-1-270x270.png",
+      "og:description": "Contact:\u00a0Office of Public Affairs2415 First AvenueSacramento, CA 95818(916) 657\u20136437 |\u00a0dmvpublicaffairs@dmv.ca.gov FOR IMMEDIATE RELEASEOctober 10, 2024 Sacramento \u2013 The California Department of Motor Vehicles (DMV) today announced recognition awardees of its first community hackathon focused on expanding the use of the California mobile driver\u2019s license (mDL). Held at the Computer History Museum in Mountain View on [\u2026]",
+      "article:publisher": "https://www.facebook.com/CADMV",
+      "twitter:data1": "2 minutes",
+      "twitter:site": "@ca_dmv",
+      "article:modified_time": "2024-10-10T21:24:15+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.dmv.ca.gov/portal/news-and-media/news-releases/dmv-recognizes-companies-for-outstanding-mdl-use-cases-at-first-community-hackathon/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.ca.gov/portal/uploads/2022/06/DMV_Logo.png"
+     }
+    ]
+   }
+  }
+ ]
+}

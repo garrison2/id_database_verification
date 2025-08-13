@@ -1,0 +1,320 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"North Carolina General Statutes\" \"driver's license\" OR \"identification card\" around 10 \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" around 25 \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "totalResults": "992",
+    "searchTerms": "\"North Carolina General Statutes\" \"driver's license\" OR \"identification card\" around 10 \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" around 25 \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"North Carolina General Statutes\" \"driver's license\" OR \"identification card\" around 10 \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" around 25 \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "totalResults": "992",
+    "searchTerms": "\"North Carolina General Statutes\" \"driver's license\" OR \"identification card\" around 10 \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" around 25 \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.179912,
+  "formattedSearchTime": "0.18",
+  "totalResults": "992",
+  "formattedTotalResults": "992"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Chapter 90",
+   "htmlTitle": "Chapter 90",
+   "link": "https://www.ncleg.gov/enactedlegislation/statutes/html/bychapter/chapter_90.html",
+   "displayLink": "www.ncleg.gov",
+   "snippet": "Retention of jurisdiction by court. The court shall retain ... The subcontractor shall retain the subwork order and the issuer thereof shall retain\u00a0...",
+   "htmlSnippet": "<b>Retention</b> of jurisdiction by court. The court shall <b>retain</b> ... The subcontractor shall <b>retain</b> the subwork order and the issuer thereof shall <b>retain</b>&nbsp;...",
+   "formattedUrl": "https://www.ncleg.gov/enactedlegislation/statutes/html/.../chapter_90.html",
+   "htmlFormattedUrl": "https://www.ncleg.gov/enactedlegislation/statutes/html/.../chapter_90.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NORTH CAROLINA",
+   "htmlTitle": "NORTH CAROLINA",
+   "link": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/driver-handbook.pdf",
+   "displayLink": "www.ncdot.gov",
+   "snippet": "Requirements are based on North Carolina General Statutes 20-7 and 20-11 ... identification card at no charge, you must also include one of the following\u00a0...",
+   "htmlSnippet": "Requirements are based on <b>North Carolina General Statutes</b> 20-7 and 20-11 ... <b>identification card at</b> no charge, you must also include one of the following&nbsp;...",
+   "formattedUrl": "https://www.ncdot.gov/dmv/license-id/driver.../driver-handbook.pdf",
+   "htmlFormattedUrl": "https://www.ncdot.gov/dmv/license-id/driver.../driver-handbook.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEPfZZOF3sacrtLgp6U-5NfHrAScJmZJ_fkq0BeRgGpsqO7zPHCfuZSjmR&s",
+      "width": "277",
+      "height": "182"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20250509215849-04'00'",
+      "creationdate": "D:20250509215843-04'00'",
+      "creator": "Adobe InDesign 20.0 (Macintosh)",
+      "producer": "Adobe PDF Library 17.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///82b45c844462481e9caf5351739f7564d27bd88a83d66ff544e55caec7e3903e"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NC General Statutes - Chapter 20 Article 3",
+   "htmlTitle": "NC General Statutes - Chapter 20 Article 3",
+   "link": "https://www.ncleg.gov/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_20/Article_3.pdf",
+   "displayLink": "www.ncleg.gov",
+   "snippet": "special identification card number if at least one co\u2011owner provides a North ... shall retain a copy for its records and submit the title to the Division.",
+   "htmlSnippet": "special <b>identification card</b> number if <b>at</b> least one co\u2011owner provides a North ... shall <b>retain</b> a copy for its records and submit the title to the Division.",
+   "formattedUrl": "https://www.ncleg.gov/EnactedLegislation/Statutes/PDF/.../Article_3.pdf",
+   "htmlFormattedUrl": "https://www.ncleg.gov/EnactedLegislation/Statutes/PDF/.../Article_3.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20250527163059-04'00'",
+      "creator": "Microsoft Office Word",
+      "creationdate": "D:20250527163059-04'00'",
+      "producer": "Developer Express Inc. DXperience (tm) v24.1.7",
+      "title": "Chapter 20 - Article 3"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2021 Program Records Schedule: Local Government Agencies",
+   "htmlTitle": "2021 Program Records Schedule: Local Government Agencies",
+   "link": "https://archives.ncdcr.gov/program-records-schedule-local-government-agencies/open",
+   "displayLink": "archives.ncdcr.gov",
+   "snippet": "Oct 1, 2021 ... The records retention and disposition schedules and retention ... Local government agencies may scan any paper record and retain it electronically\u00a0...",
+   "htmlSnippet": "Oct 1, 2021 <b>...</b> The records <b>retention</b> and disposition schedules and <b>retention</b> ... Local government agencies may <b>scan</b> any paper record and <b>retain</b> it electronically&nbsp;...",
+   "formattedUrl": "https://archives.ncdcr.gov/program-records-schedule-local.../open",
+   "htmlFormattedUrl": "https://archives.ncdcr.gov/program-records-schedule-local.../open",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWGTYeMNnK9IZdphA52CaHJ7d_3pgDb-KA-Unq8q_SHrpcQfJxx5PfGSaI&s",
+      "width": "298",
+      "height": "169"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20211027111227-04'00'",
+      "creationdate": "D:20211027090955-04'00'",
+      "creator": "Acrobat PDFMaker 21 for Word",
+      "sourcemodified": "D:20211027130900",
+      "author": "Bailey, Courtney",
+      "producer": "Adobe PDF Library 21.7.131",
+      "title": "2021 Program Records Schedule: Local Government Agencies",
+      "contenttypeid": "0x010100C587F028F6D0694F8177A430DADE0EAF"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///0f1d9e80b95a3cf276f2d590bb8fb3cd0549502815c0a1f44ee21dc5c731aa5b"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "VEHICLE REGISTRATION SECTION TITLE MANUAL | Connect ...",
+   "htmlTitle": "VEHICLE REGISTRATION SECTION TITLE MANUAL | Connect ...",
+   "link": "https://connect.ncdot.gov/business/dmv/dmv%20documents/nc%20title%20manual.pdf",
+   "displayLink": "connect.ncdot.gov",
+   "snippet": "Jan 1, 2024 ... Retain any motor vehicle for use upon payment of towing and storage costs. ... A valid NC Driver's License or NC Identification Card. 4. License\u00a0...",
+   "htmlSnippet": "Jan 1, 2024 <b>...</b> <b>Retain</b> any motor vehicle for use upon payment of towing and storage costs. ... A valid NC <b>Driver&#39;s License</b> or NC <b>Identification Card</b>. 4. License&nbsp;...",
+   "formattedUrl": "https://connect.ncdot.gov/business/dmv/.../nc%20title%20manual.pdf",
+   "htmlFormattedUrl": "https://connect.ncdot.gov/business/dmv/.../nc%20title%20manual.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz78-i2yG1HUWKmSfAoVjbVzxd0z02725AzZZlyiB4lFVk5hcDcKVkF74&s",
+      "width": "240",
+      "height": "210"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20240716110655-04'00'",
+      "creationdate": "D:20240322145858-04'00'"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///7df26cbfef8c40fdab161e79547fdb229215944d1047cafd644f38d529d22468"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CHAPTER 46 - BOARD OF PHARMACY SECTION .0100 ...",
+   "htmlTitle": "CHAPTER 46 - BOARD OF PHARMACY SECTION .0100 ...",
+   "link": "http://reports.oah.state.nc.us/ncac/title%2021%20-%20occupational%20licensing%20boards%20and%20commissions/chapter%2046%20-%20pharmacy/chapter%2046%20rules.pdf",
+   "displayLink": "reports.oah.state.nc.us",
+   "snippet": "(d) Bar code scanning of drug packaging and storage units may be utilized ... North Carolina General Statutes. (e) In the event that the either (a) the\u00a0...",
+   "htmlSnippet": "(d) Bar code <b>scanning</b> of drug packaging and storage units may be utilized ... <b>North Carolina General Statutes</b>. (e) In the event that the either (a) the&nbsp;...",
+   "formattedUrl": "http://reports.oah.state.nc.us/ncac/.../chapter%2046%20rules.pdf",
+   "htmlFormattedUrl": "http://reports.oah.state.nc.us/ncac/.../chapter%2046%20rules.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20250307201556-05'00'",
+      "creator": "Microsoft\u00ae Word 2016",
+      "creationdate": "D:20250307201556-05'00'",
+      "producer": "Microsoft\u00ae Word 2016"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "APSM 45-2",
+   "htmlTitle": "APSM 45-2",
+   "link": "https://www.ncdhhs.gov/rmanddm-3rd-edition-9-1-16/download",
+   "displayLink": "www.ncdhhs.gov",
+   "snippet": "... 10-6 and the Records Retention and. Disposition Schedule \u2013 DMH/DD/SAS Provider Agency division publication, APSM 10-5, addressed later in this chapter. The\u00a0...",
+   "htmlSnippet": "... <b>10</b>-6 and the Records <b>Retention</b> and. Disposition Schedule \u2013 DMH/DD/SAS Provider Agency division publication, APSM <b>10</b>-5, addressed later in this chapter. The&nbsp;...",
+   "formattedUrl": "https://www.ncdhhs.gov/rmanddm-3rd-edition-9-1-16/download",
+   "htmlFormattedUrl": "https://www.ncdhhs.gov/rmanddm-3rd-edition-9-1-16/download",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuvjGSL2upU8XFYM29oldg5LHC2cZ3PVi5ocrGbnXE9KmwkT0ryujIqxA&s",
+      "width": "165",
+      "height": "103"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20160901155933-04'00'",
+      "creationdate": "D:20160901144712-04'00'",
+      "creator": "Acrobat PDFMaker 11 for Word",
+      "sourcemodified": "D:20160901184641",
+      "author": "Thacker, Tanya D",
+      "producer": "Adobe PDF Library 11.0",
+      "company": "DMH",
+      "title": "APSM 45-2"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///8844f12115918e249b2bb929a03c55215c64a1047856a01369fbfea2d8d6fdde"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "IN THE COURT OF APPEALS OF NORTH CAROLINA No. COA25 ...",
+   "htmlTitle": "IN THE COURT OF APPEALS OF NORTH CAROLINA No. <b>COA25</b> ...",
+   "link": "https://www.nccourts.gov/assets/documents/opinions/25-181-1.pdf",
+   "displayLink": "www.nccourts.gov",
+   "snippet": "Apr 4, 2025 ... driver's license number or the last four digits of their social ... as others\u2014scan a seemingly random QR code on a bulk-mail postcard\u00a0...",
+   "htmlSnippet": "Apr 4, 2025 <b>...</b> <b>driver&#39;s license</b> number or the last four digits of their social ... as others\u2014<b>scan</b> a seemingly random QR code on a bulk-mail postcard&nbsp;...",
+   "formattedUrl": "https://www.nccourts.gov/assets/documents/opinions/25-181-1.pdf",
+   "htmlFormattedUrl": "https://www.nccourts.gov/assets/documents/opinions/<b>25</b>-181-1.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20250403165503-04'00'",
+      "creator": "Microsoft\u00ae Word for Microsoft 365",
+      "creationdate": "D:20250403165503-04'00'",
+      "producer": "Microsoft\u00ae Word for Microsoft 365"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2022 personal taxes bulletin | ncdor",
+   "htmlTitle": "2022 personal taxes bulletin | ncdor",
+   "link": "https://www.ncdor.gov/2022-personal-taxes-bulletin/open",
+   "displayLink": "www.ncdor.gov",
+   "snippet": "scanning equipment may be returned to the taxpayer with instructions to refile on an acceptable ... The North Carolina General Statutes provide both civil\u00a0...",
+   "htmlSnippet": "<b>scanning</b> equipment may be returned to the taxpayer with instructions to refile on an acceptable ... The <b>North Carolina General Statutes</b> provide both civil&nbsp;...",
+   "formattedUrl": "https://www.ncdor.gov/2022-personal-taxes-bulletin/open",
+   "htmlFormattedUrl": "https://www.ncdor.gov/2022-personal-taxes-bulletin/open",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20230217144724-05'00'",
+      "creationdate": "D:20230217144627-05'00'",
+      "creator": "Acrobat PDFMaker 22 for Word",
+      "sourcemodified": "D:20230217194547",
+      "producer": "Adobe PDF Library 22.3.86"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1 IN THE UNITED STATES DISTRICT COURT FOR THE EASTERN ...",
+   "htmlTitle": "1 IN THE UNITED STATES DISTRICT COURT FOR THE EASTERN ...",
+   "link": "https://protectdemocracy.org/wp-content/uploads/2025/04/Conley-et-al.-v.-Hirsch-et-al.pdf",
+   "displayLink": "protectdemocracy.org",
+   "snippet": "Apr 14, 2025 ... could scan a QR code to search for further information. 97. If ... show a driver's license number or the last four digits of their\u00a0...",
+   "htmlSnippet": "Apr 14, 2025 <b>...</b> could <b>scan</b> a QR code to search for further information. 97. If ... show a <b>driver&#39;s license</b> number or the last four digits of their&nbsp;...",
+   "formattedUrl": "https://protectdemocracy.org/wp-content/.../Conley-et-al.-v.-Hirsch-et-al.pd...",
+   "htmlFormattedUrl": "https://protectdemocracy.org/wp-content/.../Conley-et-al.-v.-Hirsch-et-al.pd...",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20250414033013-04'00'",
+      "creationdate": "D:20250414063923Z",
+      "creator": "Word",
+      "producer": "macOS Version 15.4 (Build 24E248) Quartz PDFContext; modified using iText\u00ae Core 7.2.3 (production version) \u00a92000-2022 iText Group NV, Administrative Office of the United States Courts"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

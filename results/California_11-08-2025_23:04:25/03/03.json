@@ -1,0 +1,412 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"California Code\" \"driver's license\" OR \"identification card\" around 10 \"scan\" OR \"scanning\" OR \"swipe\" OR \"swipping\" OR \"verify\" OR \"verification\" OR \"machine-readable\" OR \"electronically readable\" OR \"transaction scan\" -applicant -application",
+    "totalResults": "12300",
+    "searchTerms": "\"California Code\" \"driver's license\" OR \"identification card\" around 10 \"scan\" OR \"scanning\" OR \"swipe\" OR \"swipping\" OR \"verify\" OR \"verification\" OR \"machine-readable\" OR \"electronically readable\" OR \"transaction scan\" -applicant -application",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"California Code\" \"driver's license\" OR \"identification card\" around 10 \"scan\" OR \"scanning\" OR \"swipe\" OR \"swipping\" OR \"verify\" OR \"verification\" OR \"machine-readable\" OR \"electronically readable\" OR \"transaction scan\" -applicant -application",
+    "totalResults": "12300",
+    "searchTerms": "\"California Code\" \"driver's license\" OR \"identification card\" around 10 \"scan\" OR \"scanning\" OR \"swipe\" OR \"swipping\" OR \"verify\" OR \"verification\" OR \"machine-readable\" OR \"electronically readable\" OR \"transaction scan\" -applicant -application",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.166958,
+  "formattedSearchTime": "0.17",
+  "totalResults": "12300",
+  "formattedTotalResults": "12,300"
+ },
+ "spelling": {
+  "correctedQuery": "\"California Code\" \"driver's license\" OR \"identification card\" around 10 \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" OR \"machine-readable\" OR \"electronically readable\" OR \"transaction scan\" -applicant -application",
+  "htmlCorrectedQuery": "&quot;California Code&quot; &quot;driver&#39;s license&quot; OR &quot;identification card&quot; around 10 &quot;scan&quot; OR &quot;scanning&quot; OR &quot;swipe&quot; OR &quot;<b><i>swiping</i></b>&quot; OR &quot;verify&quot; OR &quot;verification&quot; OR &quot;machine-readable&quot; OR &quot;electronically readable&quot; OR &quot;transaction scan&quot; -applicant -application"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "1995 All County Welfare Director's Letters",
+   "htmlTitle": "1995 All County Welfare Director&#39;s Letters",
+   "link": "https://www.dhcs.ca.gov/services/medi-cal/eligibility/letters/Pages/1995ACWDLs.aspx",
+   "displayLink": "www.dhcs.ca.gov",
+   "snippet": "... California Code of Regulations (CCR), Section 50515(a)(3): That This Income ... Income Eligibility Verification System (IEVS) Recipient Franchise Tax\u00a0...",
+   "htmlSnippet": "... <b>California Code</b> of Regulations (CCR), Section 50515(a)(3): That This Income ... Income Eligibility <b>Verification</b> System (IEVS) Recipient Franchise Tax&nbsp;...",
+   "formattedUrl": "https://www.dhcs.ca.gov/services/medi-cal/eligibility/.../1995ACWDLs.aspx",
+   "htmlFormattedUrl": "https://www.dhcs.ca.gov/services/medi-cal/eligibility/.../1995ACWDLs.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDQIN3f2_uVbEKXvY7reaMDDg-DxUekoj4JzAEsWw00bMeCawhL3inqRNI&s",
+      "width": "226",
+      "height": "223"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "/PublishingImages/logo_DHCS_SN-ICON.jpg",
+      "handheldfriendly": "True",
+      "msvalidate.01": "9D9A7188935B645813DF844CBB70605B",
+      "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0",
+      "author": "Department of Health Care Services",
+      "organization": "Medi-Cal Eligibility",
+      "mobileoptimized": "320"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dhcs.ca.gov/_layouts/15/images/spcommon.png?rev=40"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cal. Code Regs. Tit. 11, \u00a7 4285 - Coe Verification Process | State ...",
+   "htmlTitle": "Cal. Code Regs. Tit. 11, \u00a7 4285 - Coe <b>Verification</b> Process | State ...",
+   "link": "https://www.law.cornell.edu/regulations/california/11-CCR-4285",
+   "displayLink": "www.law.cornell.edu",
+   "snippet": "shall collect the ammunition purchaser's or transferee's name, date of birth, current address, and driver's license ... California Code of Regulations (Register\u00a0...",
+   "htmlSnippet": "shall collect the ammunition purchaser&#39;s or transferee&#39;s name, date of birth, current address, and <b>driver&#39;s license</b> ... <b>California Code</b> of Regulations (Register&nbsp;...",
+   "formattedUrl": "https://www.law.cornell.edu/regulations/california/11-CCR-4285",
+   "htmlFormattedUrl": "https://www.law.cornell.edu/regulations/california/11-CCR-4285",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGcdwfPFrYUuDCq3KrLd2pdV3wLyOnciLGWSa5M5h-ZuqJJJGyLAiepQ&s",
+      "width": "232",
+      "height": "159"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.law.cornell.edu/images/liibracketlogo.gif",
+      "og:type": "website",
+      "twitter:card": "Cal. Code Regs. Tit. 11, \u00a7 4285 - Coe Verification Process",
+      "twitter:title": "Cal. Code Regs. Tit. 11, \u00a7 4285 - Coe Verification Process",
+      "og:site_name": "LII / Legal Information Institute",
+      "twitter:url": "https://www.law.cornell.edu/regulations/california/11-CCR-4285",
+      "og:title": "Cal. Code Regs. Tit. 11, \u00a7 4285 - Coe Verification Process",
+      "dcterms.title": "Cal. Code Regs. Tit. 11, \u00a7 4285 - Coe Verification Process",
+      "version": "v10.16.1",
+      "twitter:image": "https://www.law.cornell.edu/images/liibracketlogo.gif",
+      "twitter:site": "@LIICornell",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:url": "https://www.law.cornell.edu/regulations/california/11-CCR-4285"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.law.cornell.edu/images/liibracketlogo.gif"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Is it normal for driver license to be scanned at gas station for lotto? : r ...",
+   "htmlTitle": "Is it normal for driver license to be scanned <b>at</b> gas station for lotto? : r ...",
+   "link": "https://www.reddit.com/r/bayarea/comments/14yxj43/is_it_normal_for_driver_license_to_be_scanned_at/",
+   "displayLink": "www.reddit.com",
+   "snippet": "Jul 13, 2023 ... they scan to make sure it's a legit ID. age verification. Full California Code As Related to ID Scanning Amended by Stats. 2014, Ch. 569, Sec. 1\u00a0...",
+   "htmlSnippet": "Jul 13, 2023 <b>...</b> they <b>scan</b> to make sure it&#39;s a legit ID. age <b>verification</b>. Full <b>California Code</b> As Related to ID <b>Scanning</b> Amended by Stats. 2014, Ch. 569, Sec. 1&nbsp;...",
+   "formattedUrl": "https://www.reddit.com/.../is_it_normal_for_driver_license_to_be_scanned...",
+   "htmlFormattedUrl": "https://www.reddit.com/.../is_it_normal_for_driver_license_to_be_<b>scan</b>ned...",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:image": "https://share.redd.it/preview/post/14yxj43",
+      "theme-color": "#000000",
+      "og:image:width": "1200",
+      "og:type": "website",
+      "og:image:alt": "An image containing a preview of the post",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "r/bayarea on Reddit: Is it normal for driver license to be scanned at gas station for lotto?",
+      "og:site_name": "Reddit",
+      "og:title": "r/bayarea on Reddit: Is it normal for driver license to be scanned at gas station for lotto?",
+      "og:image:height": "630",
+      "msapplication-navbutton-color": "#000000",
+      "og:description": "Posted by u/[Deleted Account] - 16 votes and 10 comments",
+      "twitter:image": "https://share.redd.it/preview/post/14yxj43",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "twitter:site": "@reddit",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "apple-mobile-web-app-capable": "yes",
+      "og:ttl": "600",
+      "og:url": "https://www.reddit.com/r/bayarea/comments/14yxj43/is_it_normal_for_driver_license_to_be_scanned_at/?seeker-session=true"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "View Document - California Code of Regulations",
+   "htmlTitle": "View Document - <b>California Code</b> of Regulations",
+   "link": "https://govt.westlaw.com/calregs/Document/IED04C1B85B6111EC9451000D3A7C4BC3?viewType=FullText&originationContext=documenttoc&transitionType=CategoryPageItem&contextData=(sc.Default)",
+   "displayLink": "govt.westlaw.com",
+   "snippet": "(4) Written verification that the employee is at least 18 years of age ... driver's license. (5) Home address and telephone number. (6) Educational\u00a0...",
+   "htmlSnippet": "(4) Written <b>verification</b> that the employee is <b>at</b> least 18 years of age ... <b>driver&#39;s license</b>. (5) Home address and telephone number. (6) Educational&nbsp;...",
+   "formattedUrl": "https://govt.westlaw.com/.../IED04C1B85B6111EC9451000D3A7C4BC3?...",
+   "htmlFormattedUrl": "https://govt.westlaw.com/.../IED04C1B85B6111EC9451000D3A7C4BC3?...",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "FAQs \u2022 How do I obtain a copy of a police report?",
+   "htmlTitle": "FAQs \u2022 How do I obtain a copy of a police report?",
+   "link": "https://www.ci.seaside.ca.us/FAQ.aspx?QID=111",
+   "displayLink": "www.ci.seaside.ca.us",
+   "snippet": "We will release the report as California code allows. ... You will need to have a current driver's license or ID card with your picture to verify your identity.",
+   "htmlSnippet": "We will release the report as <b>California code</b> allows. ... You will need to have a current <b>driver&#39;s license</b> or ID card with your picture to <b>verify</b> your identity.",
+   "formattedUrl": "https://www.ci.seaside.ca.us/FAQ.aspx?QID=111",
+   "htmlFormattedUrl": "https://www.ci.seaside.ca.us/FAQ.aspx?QID=111",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQglK7wHVs0vuTvUwXCli4OvHFBmgVT69brZVkfUBRoCQXA0-zpl5Pndw&s",
+      "width": "324",
+      "height": "100"
+     }
+    ],
+    "metatags": [
+     {
+      "theme-color": "rgb(19, 72, 124)",
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.ci.seaside.ca.us/ImageRepository/Document?documentID=15668"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "California Code, Vehicle Code - VEH \u00a7 12505 | FindLaw",
+   "htmlTitle": "<b>California Code</b>, Vehicle Code - VEH \u00a7 12505 | FindLaw",
+   "link": "https://codes.findlaw.com/ca/vehicle-code/veh-sect-12505/",
+   "displayLink": "codes.findlaw.com",
+   "snippet": "... driver's license pursuant to Section 384.405 of Title 49 of the Code of ... Please verify the status of the code you are researching with the state\u00a0...",
+   "htmlSnippet": "... <b>driver&#39;s license</b> pursuant to Section 384.405 of Title 49 of the Code of ... Please <b>verify</b> the status of the code you are researching with the state&nbsp;...",
+   "formattedUrl": "https://codes.findlaw.com/ca/vehicle-code/veh-sect-12505/",
+   "htmlFormattedUrl": "https://codes.findlaw.com/ca/vehicle-code/veh-sect-12505/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuWtKEZ0kzYj6NSuZlgNrAF5XcYIi9XgsiqHcAgQHtxY18xcWZ1bDMaCM&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png",
+      "og:type": "article",
+      "og:site_name": "Findlaw",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "California Code, Vehicle Code - VEH \u00a7 12505 | FindLaw",
+      "apple-mobile-web-app-title": "FindLaw",
+      "og:url": "https://codes.findlaw.com/ca/vehicle-code/veh-sect-12505/",
+      "og:description": "California Vehicle Code VEH CA VEHICLE  Section 12505. Read the code on FindLaw"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "California Vehicle Code \u00a7 23597 (2024) :: 2024 California Code ...",
+   "htmlTitle": "California Vehicle Code \u00a7 23597 (2024) :: 2024 <b>California Code</b> ...",
+   "link": "https://law.justia.com/codes/california/code-veh/division-11-5/chapter-2/article-6/section-23597/",
+   "displayLink": "law.justia.com",
+   "snippet": "... driver's license for 10 years, except as provided in subdivision (c). (c) (1) ... Verification of Installation\u201d form described in paragraph (2) of\u00a0...",
+   "htmlSnippet": "... <b>driver&#39;s license</b> for <b>10</b> years, except as provided in subdivision (c). (c) (1) ... <b>Verification</b> of Installation\u201d form described in paragraph (2) of&nbsp;...",
+   "formattedUrl": "https://law.justia.com/codes/california/code-veh/...11-5/.../section-23597/",
+   "htmlFormattedUrl": "https://law.justia.com/codes/<b>california/code</b>-veh/...11-5/.../section-23597/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPP2ksOfM4IyWL7PTxPyS5N80Or-jyXZZLgeH1kYuOtXk5YU597YCxGszS&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "og:site_name": "Justia Law",
+      "og:title": "2024 California Code :: Vehicle Code - VEH :: DIVISION 11.5 - SENTENCING FOR DRIVING WHILE UNDER THE INFLUENCE :: CHAPTER 2 - Court Penalties :: ARTICLE 6 - Additional Court-Imposed Orders and Directions :: Section 23597.",
+      "og:app_id": "119529808075661",
+      "trigger-ga": "1",
+      "og:description": "Cal. VEH Code \u00a7 23597 - 23597. (a)\u00a0Notwithstanding Sections 13202.5, 13203, and 13352, a court may order a 10-year revocation of the driver\u2019s license of a person who has been convicted of three or more separate violations",
+      "og:admins": "656268335,686786921,25900864",
+      "referrer": "unsafe-url",
+      "twitter:site": "@JustiaCom",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "page-type": "Law: Codes Document Page (Current Year)",
+      "is-li": "0",
+      "og:url": "https://law.justia.com/codes/california/code-veh/division-11-5/chapter-2/article-6/section-23597/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Texas Transportation Code - TRANSP \u00a7 521.025 | FindLaw",
+   "htmlTitle": "Texas Transportation Code - TRANSP \u00a7 521.025 | FindLaw",
+   "link": "https://codes.findlaw.com/tx/transportation-code/transp-sect-521-025/",
+   "displayLink": "codes.findlaw.com",
+   "snippet": "(b) A peace officer may stop and detain a person operating a motor vehicle to determine if the person has a driver's license as required by this section.",
+   "htmlSnippet": "(b) A peace officer may stop and detain a person operating a motor vehicle to determine if the person has a <b>driver&#39;s license</b> as required by this section.",
+   "formattedUrl": "https://codes.findlaw.com/tx/transportation-code/transp-sect-521-025/",
+   "htmlFormattedUrl": "https://codes.findlaw.com/tx/transportation-code/transp-sect-521-025/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuWtKEZ0kzYj6NSuZlgNrAF5XcYIi9XgsiqHcAgQHtxY18xcWZ1bDMaCM&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png",
+      "og:type": "article",
+      "og:site_name": "Findlaw",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Texas Transportation Code - TRANSP \u00a7 521.025 | FindLaw",
+      "apple-mobile-web-app-title": "FindLaw",
+      "og:url": "https://codes.findlaw.com/tx/transportation-code/transp-sect-521-025/",
+      "og:description": "Texas Transportation Code TRANSP TX TRANSP  Section 521.025. Read the code on FindLaw"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver's License Points by State - FindLaw",
+   "htmlTitle": "<b>Driver&#39;s License</b> Points by State - FindLaw",
+   "link": "https://www.findlaw.com/traffic/traffic-tickets/state-specific-points-systems.html",
+   "displayLink": "www.findlaw.com",
+   "snippet": "Dec 4, 2023 ... ... California Code ... The Alabama Law Enforcement Agency provides information about the driver's license point system on its website.",
+   "htmlSnippet": "Dec 4, 2023 <b>...</b> ... <b>California Code</b> ... The Alabama Law Enforcement Agency provides information <b>about</b> the <b>driver&#39;s license</b> point system on its website.",
+   "formattedUrl": "https://www.findlaw.com/traffic/traffic.../state-specific-points-systems.html",
+   "htmlFormattedUrl": "https://www.findlaw.com/traffic/traffic.../state-specific-points-systems.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0nIB-ZmOO6KXmheNnwQGDu6TcRdap5m4hIbD_a3DkYVtGNtUBqL833vV2&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.findlaw.com/static/c/images/images/w_1200,c_limit,dpr_auto/f_auto,q_auto:eco/v1734519797/ability-legal/wp-qa/FindLaw_600x600/FindLaw_600x600.png",
+      "og:type": "article",
+      "og:site_name": "FindLaw",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "apple-mobile-web-app-title": "FindLaw",
+      "og:title": "Driver's License Points by State - FindLaw",
+      "og:url": "https://www.findlaw.com/traffic/traffic-tickets/state-specific-points-systems.html",
+      "og:description": "Most states have a traffic ticket points system that assigns a point value to different kinds of traffic offenses. Find your state's system and learn about suspensions, point thresholds, and much more at FindLaw.com."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.findlaw.com/static/c/images/images/w_1200,c_limit,dpr_auto/f_auto,q_auto:eco/v1734519797/ability-legal/wp-qa/FindLaw_600x600/FindLaw_600x600.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "California Vehicle Code \u00a7 1808.1 (2024) :: 2024 California Code ...",
+   "htmlTitle": "California Vehicle Code \u00a7 1808.1 (2024) :: 2024 <b>California Code</b> ...",
+   "link": "https://law.justia.com/codes/california/code-veh/division-2/chapter-1/article-3/section-1808-1/",
+   "displayLink": "law.justia.com",
+   "snippet": "Justia \u203a U.S. Law \u203a U.S. Codes and Statutes \u203a California Code \u203a 2024 California Code ... The employer shall verify that each employee's driver's license has not\u00a0...",
+   "htmlSnippet": "Justia \u203a U.S. Law \u203a U.S. Codes and Statutes \u203a <b>California Code</b> \u203a 2024 <b>California Code</b> ... The employer shall <b>verify</b> that each employee&#39;s <b>driver&#39;s license</b> has not&nbsp;...",
+   "formattedUrl": "https://law.justia.com/codes/california/code-veh/...2/.../section-1808-1/",
+   "htmlFormattedUrl": "https://law.justia.com/codes/<b>california/code</b>-veh/...2/.../section-1808-1/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUsEXFeYBuAPfcBBVPIyUzrZ_CJMY-G1UQkbVgeLAo7QKw91U8LPjTVlwN&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://justatic.com/v/20250617153813/shared/images/social-media/law.jpg",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "og:site_name": "Justia Law",
+      "og:title": "2024 California Code :: Vehicle Code - VEH :: DIVISION 2 - ADMINISTRATION :: CHAPTER 1 - The Department of Motor Vehicles :: ARTICLE 3 - Records of Department :: Section 1808.1.",
+      "og:app_id": "119529808075661",
+      "trigger-ga": "1",
+      "og:description": "Cal. VEH Code \u00a7 1808.1 - 1808.1. (a)\u00a0The prospective employer of a driver who drives a vehicle specified in subdivision (k) shall obtain a report showing the driver\u2019s current public record as recorded by the department. For",
+      "og:admins": "656268335,686786921,25900864",
+      "referrer": "unsafe-url",
+      "twitter:site": "@JustiaCom",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "page-type": "Law: Codes Document Page (Current Year)",
+      "is-li": "0",
+      "og:url": "https://law.justia.com/codes/california/code-veh/division-2/chapter-1/article-3/section-1808-1/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://justatic.com/v/20250617153813/shared/images/social-media/law.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

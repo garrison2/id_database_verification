@@ -1,0 +1,461 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Oregon Revised Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "totalResults": "736",
+    "searchTerms": "\"Oregon Revised Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Oregon Revised Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "totalResults": "736",
+    "searchTerms": "\"Oregon Revised Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.240752,
+  "formattedSearchTime": "0.24",
+  "totalResults": "736",
+  "formattedTotalResults": "736"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Chapter 807 \u2014 Driving Privileges and Identification Cards",
+   "htmlTitle": "Chapter 807 \u2014 Driving Privileges and Identification Cards",
+   "link": "https://www.oregonlegislature.gov/bills_laws/ors/ors807.html",
+   "displayLink": "www.oregonlegislature.gov",
+   "snippet": "(b) The private entity may swipe the individual's driver license or identification card ... Information collected by swiping an individual's driver license or\u00a0...",
+   "htmlSnippet": "(b) The private entity may <b>swipe</b> the individual&#39;s <b>driver license</b> or <b>identification card</b> ... Information collected by <b>swiping</b> an individual&#39;s <b>driver license</b> or&nbsp;...",
+   "formattedUrl": "https://www.oregonlegislature.gov/bills_laws/ors/ors807.html",
+   "htmlFormattedUrl": "https://www.oregonlegislature.gov/bills_laws/ors/ors807.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ORS 807.750 \u2013 Restrictions on swiping driver licenses or ...",
+   "htmlTitle": "ORS 807.750 \u2013 Restrictions on <b>swiping</b> driver licenses or ...",
+   "link": "https://oregon.public.law/statutes/ors_807.750",
+   "displayLink": "oregon.public.law",
+   "snippet": "... swiping the driver license or identification card. (4). A private ... 1039) may swipe an individual's driver license or identification card if the\u00a0...",
+   "htmlSnippet": "... <b>swiping</b> the <b>driver license</b> or <b>identification card</b>. (4). A private ... 1039) may <b>swipe</b> an individual&#39;s <b>driver license</b> or <b>identification card</b> if the&nbsp;...",
+   "formattedUrl": "https://oregon.public.law/statutes/ors_807.750",
+   "htmlFormattedUrl": "https://oregon.public.law/statutes/ors_807.750",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDpWjg6i4-2IPkoVDe-oAfOSoo4i6pqIHeG0THhRIdKmUTEz1VInhFHMhL&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:determiner": "the",
+      "og:image": "https://oregon.public.law/assets/jurisdiction/256x256/oregon-c281e0815f41996cf648ae74a7b17f9e8504face1c685cd9ea805db234a29dbb.png",
+      "twitter:card": "summary",
+      "og:image:width": "256",
+      "og:site_name": "OregonLaws",
+      "msapplication-wide310x150logo": "https://nevada.public.law/assets/favicon/mstile-310x150-ae54f5e235f629e5bbc1b3787980a0a0c790ccaaf7e6153f46e35480b9460a78.png",
+      "og:image:type": "image/png",
+      "title": "ORS 807.750 \u2013 Restrictions on swiping driver licenses or identification cards",
+      "msapplication-tileimage": "https://nevada.public.law/assets/favicon/mstile-144x144-1ff51a60a42438151b0aa8d2b8ecdaa867d9af9ede744983626c8263eb9051c5.png",
+      "og:description": "As used in this section, (a) \u201cDriver license\u201d means a license or permit issued by this state or any other jurisdiction as\u2026",
+      "twitter:image": "https://oregon.public.law/assets/jurisdiction/oregon-ae5ac36d3f2e7887e2f084753bd525fa5354db87e3cc8c0793ad631b5f6f9736.png",
+      "twitter:image:alt": "Oregon icon",
+      "twitter:site": "@law_is_code",
+      "msapplication-square310x310logo": "https://nevada.public.law/assets/favicon/mstile-310x310-c954d87af14b523b19b292236af483242aa1ca9007e0b96080fd9afcd3928858.png",
+      "msapplication-tilecolor": "#FFFFFF",
+      "twitter:title": "ORS 807.750 \u2013 Restrictions on swiping driver licenses or identification cards",
+      "og:type": "article",
+      "article:section": "Utilities, Vehicle Code, Watercraft, Aviation",
+      "og:image:alt": "Oregon icon",
+      "og:title": "ORS 807.750 \u2013 Restrictions on swiping driver licenses or identification cards",
+      "og:image:height": "256",
+      "article:author": "OR Legislature",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "twitter:description": "As used in this section, (a) \u201cDriver license\u201d means a license or permit issued by this state or any other jurisdiction as\u2026",
+      "og:url": "https://oregon.public.law/statutes/ors_807.750"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://oregon.public.law/assets/jurisdiction/256x256/oregon-c281e0815f41996cf648ae74a7b17f9e8504face1c685cd9ea805db234a29dbb.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ORS Chapter 811: Rules of the Road for Drivers",
+   "htmlTitle": "ORS Chapter 811: Rules of the Road for Drivers",
+   "link": "https://www.oregonlegislature.gov/bills_laws/ors/ors811.html",
+   "displayLink": "www.oregonlegislature.gov",
+   "snippet": "... deletion. Editorial adjustment of 811.587 for the deletion of the ... driver license, a driver permit or an identification card issued by the department.",
+   "htmlSnippet": "... <b>deletion</b>. Editorial adjustment of 811.587 for the <b>deletion</b> of the ... <b>driver license</b>, a driver permit or an <b>identification card</b> issued by the department.",
+   "formattedUrl": "https://www.oregonlegislature.gov/bills_laws/ors/ors811.html",
+   "htmlFormattedUrl": "https://www.oregonlegislature.gov/bills_laws/ors/ors811.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ORS 807.745 \u2013 Findings regarding personal information contained ...",
+   "htmlTitle": "ORS 807.745 \u2013 Findings regarding personal information contained ...",
+   "link": "https://oregon.public.law/statutes/ors_807.745",
+   "displayLink": "oregon.public.law",
+   "snippet": "... swiping driver licenses or identification cards) were enacted into law by ... See Preface to Oregon Revised Statutes for further explanation. Source\u00a0...",
+   "htmlSnippet": "... <b>swiping</b> driver licenses or identification cards) were enacted into law by ... See Preface to <b>Oregon Revised Statutes</b> for further explanation. Source&nbsp;...",
+   "formattedUrl": "https://oregon.public.law/statutes/ors_807.745",
+   "htmlFormattedUrl": "https://oregon.public.law/statutes/ors_807.745",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvX-hCUJSvOnYxwK0gpR0JymRYP3YZvjlsizWXNx6v8dbg0i4LaS34Y8o&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:determiner": "the",
+      "og:image": "https://oregon.public.law/assets/jurisdiction/256x256/oregon-178e7f7dd689fa81d78879372c59764dd65e7a08331c87f39f8232d2a004a913.png",
+      "twitter:card": "summary",
+      "og:image:width": "256",
+      "og:site_name": "OregonLaws",
+      "msapplication-wide310x150logo": "https://oregon.public.law/assets/favicon/mstile-310x150-ae54f5e235f629e5bbc1b3787980a0a0c790ccaaf7e6153f46e35480b9460a78.png",
+      "og:image:type": "image/png",
+      "title": "ORS 807.745 \u2013 Findings regarding personal information contained in driver licenses, driver permits and identification cards",
+      "msapplication-tileimage": "https://oregon.public.law/assets/favicon/mstile-144x144-1ff51a60a42438151b0aa8d2b8ecdaa867d9af9ede744983626c8263eb9051c5.png",
+      "og:description": "The Legislative Assembly finds that, (1) Oregon recognizes the importance of protecting the confidentiality and privacy of an individual\u2019s personal informati...",
+      "twitter:image": "https://oregon.public.law/assets/jurisdiction/oregon-c954d87af14b523b19b292236af483242aa1ca9007e0b96080fd9afcd3928858.png",
+      "twitter:image:alt": "Oregon icon",
+      "twitter:site": "@law_is_code",
+      "msapplication-square310x310logo": "https://oregon.public.law/assets/favicon/mstile-310x310-c954d87af14b523b19b292236af483242aa1ca9007e0b96080fd9afcd3928858.png",
+      "msapplication-tilecolor": "#FFFFFF",
+      "twitter:title": "ORS 807.745 \u2013 Findings regarding personal information contained in driver licenses, driver permits and identification cards",
+      "og:type": "article",
+      "article:section": "Utilities, Vehicle Code, Watercraft, Aviation",
+      "og:image:alt": "Oregon icon",
+      "og:title": "ORS 807.745 \u2013 Findings regarding personal information contained in driver licenses, driver permits and identification cards",
+      "og:image:height": "256",
+      "article:author": "OR Legislature",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "twitter:description": "The Legislative Assembly finds that, (1) Oregon recognizes the importance of protecting the confidentiality and privacy of an individual\u2019s personal informati...",
+      "og:url": "https://oregon.public.law/statutes/ors_807.745"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://oregon.public.law/assets/jurisdiction/256x256/oregon-178e7f7dd689fa81d78879372c59764dd65e7a08331c87f39f8232d2a004a913.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Oregon Revised Statutes Chapter 807 (2023) - Driving Privileges ...",
+   "htmlTitle": "<b>Oregon Revised Statutes</b> Chapter 807 (2023) - Driving Privileges ...",
+   "link": "https://law.justia.com/codes/oregon/volume-19/chapter-807/",
+   "displayLink": "law.justia.com",
+   "snippet": "Section 807.065 - Additional eligibility requirements for persons under 18 years of age; provisional driver license. ... Section 807.465 - Document retention.",
+   "htmlSnippet": "Section 807.065 - Additional eligibility requirements for persons under 18 years of age; provisional <b>driver license</b>. ... Section 807.465 - Document <b>retention</b>.",
+   "formattedUrl": "https://law.justia.com/codes/oregon/volume-19/chapter-807/",
+   "htmlFormattedUrl": "https://law.justia.com/codes/oregon/volume-19/chapter-807/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPP2ksOfM4IyWL7PTxPyS5N80Or-jyXZZLgeH1kYuOtXk5YU597YCxGszS&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "og:site_name": "Justia Law",
+      "og:title": "2023 Oregon Revised Statutes :: Volume : 19 - Utilities, Vehicle Code, Watercraft, Aviation :: Chapter 807 - Driving Privileges and Identification Cards",
+      "og:app_id": "119529808075661",
+      "trigger-ga": "1",
+      "og:description": "Justia Free Databases of U.S. Laws, Codes & Statutes",
+      "og:admins": "656268335,686786921,25900864",
+      "referrer": "unsafe-url",
+      "twitter:site": "@JustiaCom",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "page-type": "Law: Codes Listing Page (Current Year)",
+      "is-li": "0",
+      "og:url": "https://law.justia.com/codes/oregon/volume-19/chapter-807/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ORS 807.022 \u2013 Verification of identity source documents",
+   "htmlTitle": "ORS 807.022 \u2013 Verification of identity source documents",
+   "link": "https://oregon.public.law/statutes/ors_807.022",
+   "displayLink": "oregon.public.law",
+   "snippet": "Before issuing, renewing or replacing a driver license, driver permit or identification card, the Department of Transportation may verify with the issuing\u2026",
+   "htmlSnippet": "Before issuing, renewing or replacing a <b>driver license</b>, driver permit or <b>identification card</b>, the Department of Transportation may verify with the issuing\u2026",
+   "formattedUrl": "https://oregon.public.law/statutes/ors_807.022",
+   "htmlFormattedUrl": "https://oregon.public.law/statutes/ors_807.022",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDpWjg6i4-2IPkoVDe-oAfOSoo4i6pqIHeG0THhRIdKmUTEz1VInhFHMhL&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:determiner": "the",
+      "og:image": "https://oregon.public.law/assets/jurisdiction/256x256/oregon-c281e0815f41996cf648ae74a7b17f9e8504face1c685cd9ea805db234a29dbb.png",
+      "twitter:card": "summary",
+      "og:image:width": "256",
+      "og:site_name": "OregonLaws",
+      "msapplication-wide310x150logo": "https://nevada.public.law/assets/favicon/mstile-310x150-ae54f5e235f629e5bbc1b3787980a0a0c790ccaaf7e6153f46e35480b9460a78.png",
+      "og:image:type": "image/png",
+      "title": "ORS 807.022 \u2013 Verification of identity source documents",
+      "msapplication-tileimage": "https://nevada.public.law/assets/favicon/mstile-144x144-1ff51a60a42438151b0aa8d2b8ecdaa867d9af9ede744983626c8263eb9051c5.png",
+      "og:description": "Before issuing, renewing or replacing a driver license, driver permit or identification card, the Department of Transportation may verify with the issuing\u2026",
+      "twitter:image": "https://oregon.public.law/assets/jurisdiction/oregon-ae5ac36d3f2e7887e2f084753bd525fa5354db87e3cc8c0793ad631b5f6f9736.png",
+      "twitter:image:alt": "Oregon icon",
+      "twitter:site": "@law_is_code",
+      "msapplication-square310x310logo": "https://nevada.public.law/assets/favicon/mstile-310x310-c954d87af14b523b19b292236af483242aa1ca9007e0b96080fd9afcd3928858.png",
+      "msapplication-tilecolor": "#FFFFFF",
+      "twitter:title": "ORS 807.022 \u2013 Verification of identity source documents",
+      "og:type": "article",
+      "article:section": "Utilities, Vehicle Code, Watercraft, Aviation",
+      "og:image:alt": "Oregon icon",
+      "og:title": "ORS 807.022 \u2013 Verification of identity source documents",
+      "og:image:height": "256",
+      "article:author": "OR Legislature",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "twitter:description": "Before issuing, renewing or replacing a driver license, driver permit or identification card, the Department of Transportation may verify with the issuing\u2026",
+      "og:url": "https://oregon.public.law/statutes/ors_807.022"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://oregon.public.law/assets/jurisdiction/256x256/oregon-c281e0815f41996cf648ae74a7b17f9e8504face1c685cd9ea805db234a29dbb.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "state of oregon board of dentistry dental practice act",
+   "htmlTitle": "state of oregon board of dentistry dental practice act",
+   "link": "https://www.oregon.gov/dentistry/Documents/Dental%20Practice%20Act%207.1.22.pdf",
+   "displayLink": "www.oregon.gov",
+   "snippet": "Oregon Revised Statutes for further explanation. 680.090 [Repealed by ... retain the use of the decedent's name, where it appears other than as a part\u00a0...",
+   "htmlSnippet": "<b>Oregon Revised Statutes</b> for further explanation. 680.090 [Repealed by ... <b>retain</b> the use of the decedent&#39;s name, where it appears other than as a part&nbsp;...",
+   "formattedUrl": "https://www.oregon.gov/dentistry/.../Dental%20Practice%20Act%207.1.22....",
+   "htmlFormattedUrl": "https://www.oregon.gov/dentistry/.../Dental%20Practice%20Act%207.1.22....",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3gmYI7KJbaYwETDEejtMN4ysPGvG27ISOH-k3MBryeB6leEfPxAZiE1gj&s",
+      "width": "226",
+      "height": "223"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20230216144903-08'00'",
+      "creationdate": "D:20200528114200-07'00'",
+      "creator": "Acrobat PDFMaker 11 for Word",
+      "sourcemodified": "D:20200528184155",
+      "author": "Teresa Haynes",
+      "producer": "Adobe PDF Library 11.0",
+      "company": "Dentistry",
+      "title": "STATE OF OREGON"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///72892d2b9ed492f4b6baed799abfbe25d8dc4872cca84d17243e5b5b58a0cddd"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ORS 807.570 \u2013 Failure to carry or present license; penalty",
+   "htmlTitle": "ORS 807.570 \u2013 Failure to carry or present license; penalty",
+   "link": "https://oregon.public.law/statutes/ors_807.570",
+   "displayLink": "oregon.public.law",
+   "snippet": "Oregon Revised Statutes \u00b7 ORCP \u00b7 Remove ads \u00b7 Login \u00b7 Home \u00b7 ORS \u00b7 Vol. 19 \u00b7 Title 59 \u00b7 Chap ... driver license or driver permit. (3). Except as provided in ORS\u00a0...",
+   "htmlSnippet": "<b>Oregon Revised Statutes</b> &middot; ORCP &middot; Remove ads &middot; Login &middot; Home &middot; ORS &middot; Vol. 19 &middot; Title 59 &middot; Chap ... <b>driver license</b> or driver permit. (3). Except as provided in ORS&nbsp;...",
+   "formattedUrl": "https://oregon.public.law/statutes/ors_807.570",
+   "htmlFormattedUrl": "https://oregon.public.law/statutes/ors_807.570",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvX-hCUJSvOnYxwK0gpR0JymRYP3YZvjlsizWXNx6v8dbg0i4LaS34Y8o&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:determiner": "the",
+      "og:image": "https://oregon.public.law/assets/jurisdiction/256x256/oregon-178e7f7dd689fa81d78879372c59764dd65e7a08331c87f39f8232d2a004a913.png",
+      "twitter:card": "summary",
+      "og:image:width": "256",
+      "og:site_name": "OregonLaws",
+      "msapplication-wide310x150logo": "https://oregon.public.law/assets/favicon/mstile-310x150-ae54f5e235f629e5bbc1b3787980a0a0c790ccaaf7e6153f46e35480b9460a78.png",
+      "og:image:type": "image/png",
+      "title": "ORS 807.570 \u2013 Failure to carry or present license; penalty",
+      "msapplication-tileimage": "https://oregon.public.law/assets/favicon/mstile-144x144-1ff51a60a42438151b0aa8d2b8ecdaa867d9af9ede744983626c8263eb9051c5.png",
+      "og:description": "A person commits the offense of failure to carry a license or to present a license to a police officer if the\u2026",
+      "twitter:image": "https://oregon.public.law/assets/jurisdiction/oregon-c954d87af14b523b19b292236af483242aa1ca9007e0b96080fd9afcd3928858.png",
+      "twitter:image:alt": "Oregon icon",
+      "twitter:site": "@law_is_code",
+      "msapplication-square310x310logo": "https://oregon.public.law/assets/favicon/mstile-310x310-c954d87af14b523b19b292236af483242aa1ca9007e0b96080fd9afcd3928858.png",
+      "msapplication-tilecolor": "#FFFFFF",
+      "twitter:title": "ORS 807.570 \u2013 Failure to carry or present license; penalty",
+      "og:type": "article",
+      "article:section": "Utilities, Vehicle Code, Watercraft, Aviation",
+      "og:image:alt": "Oregon icon",
+      "og:title": "ORS 807.570 \u2013 Failure to carry or present license; penalty",
+      "og:image:height": "256",
+      "article:author": "OR Legislature",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "twitter:description": "A person commits the offense of failure to carry a license or to present a license to a police officer if the\u2026",
+      "og:url": "https://oregon.public.law/statutes/ors_807.570"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://oregon.public.law/assets/jurisdiction/256x256/oregon-178e7f7dd689fa81d78879372c59764dd65e7a08331c87f39f8232d2a004a913.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Vote by Mail Procedures Manual",
+   "htmlTitle": "Vote by Mail Procedures Manual",
+   "link": "https://sos.oregon.gov/elections/documents/vbm_manual.pdf",
+   "displayLink": "sos.oregon.gov",
+   "snippet": "May 21, 2014 ... ... retain the note. ... If you have a current, valid Oregon DMV Driver's License or Identification Card. \u2192 your Oregon DMV Driver's License/ID number.",
+   "htmlSnippet": "May 21, 2014 <b>...</b> ... <b>retain</b> the note. ... If you have a current, valid Oregon DMV <b>Driver&#39;s License</b> or <b>Identification Card</b>. \u2192 your Oregon DMV <b>Driver&#39;s License</b>/ID number.",
+   "formattedUrl": "https://sos.oregon.gov/elections/documents/vbm_manual.pdf",
+   "htmlFormattedUrl": "https://sos.oregon.gov/elections/documents/vbm_manual.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb1gzQGwUEf24DuqHefuzmIcq7_vNcOY5rtyhjByFFWDY4bNAj8iY6gUgi&s",
+      "width": "220",
+      "height": "220"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20240424152120-07'00'",
+      "creationdate": "D:20240320080609-07'00'",
+      "creator": "Acrobat PDFMaker 24 for Word",
+      "author": "Oregon Secretary of State - Elections Division",
+      "subject": "Vote by Mail Procedures Manual",
+      "grammarlydocumentid": "f5d7010b4a914fd1ce1dffa306ef530ea0c82f5b99f8d856fc8a5e2f9bb8ee04",
+      "producer": "Adobe PDF Library 24.1.124",
+      "company": "Oregon Secretary of State",
+      "title": "Vote by Mail Procedures Manual"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///4dbc600ad9851cb9d2aa23afd5e509a0074bf5075b19f1d79101ab98afb75593"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ORS 807.710 \u2013 Reports of persons with cognitive or functional ...",
+   "htmlTitle": "ORS 807.710 \u2013 Reports of persons with cognitive or functional ...",
+   "link": "https://oregon.public.law/statutes/ors_807.710",
+   "displayLink": "oregon.public.law",
+   "snippet": "Oregon Revised Statutes ... The department shall consider this information in determining the person's eligibility for a driver license or driver permit.",
+   "htmlSnippet": "<b>Oregon Revised Statutes</b> ... The department shall consider this information in determining the person&#39;s eligibility for a <b>driver license</b> or driver permit.",
+   "formattedUrl": "https://oregon.public.law/statutes/ors_807.710",
+   "htmlFormattedUrl": "https://oregon.public.law/statutes/ors_807.710",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvX-hCUJSvOnYxwK0gpR0JymRYP3YZvjlsizWXNx6v8dbg0i4LaS34Y8o&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:determiner": "the",
+      "og:image": "https://oregon.public.law/assets/jurisdiction/256x256/oregon-178e7f7dd689fa81d78879372c59764dd65e7a08331c87f39f8232d2a004a913.png",
+      "twitter:card": "summary",
+      "og:image:width": "256",
+      "og:site_name": "OregonLaws",
+      "msapplication-wide310x150logo": "https://oregon.public.law/assets/favicon/mstile-310x150-ae54f5e235f629e5bbc1b3787980a0a0c790ccaaf7e6153f46e35480b9460a78.png",
+      "og:image:type": "image/png",
+      "title": "ORS 807.710 \u2013 Reports of persons with cognitive or functional impairment; rules; forms",
+      "msapplication-tileimage": "https://oregon.public.law/assets/favicon/mstile-144x144-1ff51a60a42438151b0aa8d2b8ecdaa867d9af9ede744983626c8263eb9051c5.png",
+      "og:description": "For the purposes of this section, (a) \u201cPhysician\u201d means a person who holds a degree of Doctor of Medicine or Doctor of\u2026",
+      "twitter:image": "https://oregon.public.law/assets/jurisdiction/oregon-c954d87af14b523b19b292236af483242aa1ca9007e0b96080fd9afcd3928858.png",
+      "twitter:image:alt": "Oregon icon",
+      "twitter:site": "@law_is_code",
+      "msapplication-square310x310logo": "https://oregon.public.law/assets/favicon/mstile-310x310-c954d87af14b523b19b292236af483242aa1ca9007e0b96080fd9afcd3928858.png",
+      "msapplication-tilecolor": "#FFFFFF",
+      "twitter:title": "ORS 807.710 \u2013 Reports of persons with cognitive or functional impairment; rules; forms",
+      "og:type": "article",
+      "article:section": "Utilities, Vehicle Code, Watercraft, Aviation",
+      "og:image:alt": "Oregon icon",
+      "og:title": "ORS 807.710 \u2013 Reports of persons with cognitive or functional impairment; rules; forms",
+      "og:image:height": "256",
+      "article:author": "OR Legislature",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "twitter:description": "For the purposes of this section, (a) \u201cPhysician\u201d means a person who holds a degree of Doctor of Medicine or Doctor of\u2026",
+      "og:url": "https://oregon.public.law/statutes/ors_807.710"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://oregon.public.law/assets/jurisdiction/256x256/oregon-178e7f7dd689fa81d78879372c59764dd65e7a08331c87f39f8232d2a004a913.png"
+     }
+    ]
+   }
+  }
+ ]
+}

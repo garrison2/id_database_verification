@@ -1,0 +1,245 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Florida Statutes\" \"driver's license\" OR \"identification card\" around 10 \"verification\" OR \"scanning\" OR \"swiping\" OR \"machine-readable\" OR \"electronically readable\" OR \"transaction scan\" -applicant -application",
+    "totalResults": "1790",
+    "searchTerms": "\"Florida Statutes\" \"driver's license\" OR \"identification card\" around 10 \"verification\" OR \"scanning\" OR \"swiping\" OR \"machine-readable\" OR \"electronically readable\" OR \"transaction scan\" -applicant -application",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Florida Statutes\" \"driver's license\" OR \"identification card\" around 10 \"verification\" OR \"scanning\" OR \"swiping\" OR \"machine-readable\" OR \"electronically readable\" OR \"transaction scan\" -applicant -application",
+    "totalResults": "1790",
+    "searchTerms": "\"Florida Statutes\" \"driver's license\" OR \"identification card\" around 10 \"verification\" OR \"scanning\" OR \"swiping\" OR \"machine-readable\" OR \"electronically readable\" OR \"transaction scan\" -applicant -application",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.163086,
+  "formattedSearchTime": "0.16",
+  "totalResults": "1790",
+  "formattedTotalResults": "1,790"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Florida Statutes \u00a7 775.261",
+   "htmlTitle": "<b>Florida Statutes</b> \u00a7 775.261",
+   "link": "http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0775/Sections/0775.261.html",
+   "displayLink": "www.leg.state.fl.us",
+   "snippet": "... identification card, and for use by the department in maintaining current ... The sheriff shall promptly provide the address verification information to the\u00a0...",
+   "htmlSnippet": "... <b>identification card</b>, and for use by the department in maintaining current ... The sheriff shall promptly provide the address <b>verification</b> information to the&nbsp;...",
+   "formattedUrl": "http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display...",
+   "htmlFormattedUrl": "http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display..."
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Untitled",
+   "htmlTitle": "Untitled",
+   "link": "https://www.flsenate.gov/Session/Bill/2013/7125/Amendment/370784/HTML",
+   "displayLink": "www.flsenate.gov",
+   "snippet": "... electronically readable format, the 19 information electronically encoded in ... swiping the driver license or 42 identification card. 43 (4) A private\u00a0...",
+   "htmlSnippet": "... <b>electronically readable</b> format, the 19 information electronically encoded in ... <b>swiping</b> the driver license or 42 <b>identification card</b>. 43 (4) A private&nbsp;...",
+   "formattedUrl": "https://www.flsenate.gov/Session/Bill/2013/7125/Amendment/.../HTML",
+   "htmlFormattedUrl": "https://www.flsenate.gov/Session/Bill/2013/7125/Amendment/.../HTML"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The 2024 Florida Statutes (including 2025 Special Session C)",
+   "htmlTitle": "The 2024 <b>Florida Statutes</b> (including 2025 Special Session C)",
+   "link": "http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0538/Sections/0538.04.html",
+   "displayLink": "www.leg.state.fl.us",
+   "snippet": "(2) The secondhand dealer shall require verification of the identification by the exhibition of a government-issued photographic identification card such as a\u00a0...",
+   "htmlSnippet": "(2) The secondhand dealer shall require <b>verification</b> of the identification by the exhibition of a government-issued photographic <b>identification card</b> such as a&nbsp;...",
+   "formattedUrl": "http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display...",
+   "htmlFormattedUrl": "http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display..."
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "View PDF",
+   "htmlTitle": "View PDF",
+   "link": "https://www.myfloridalegal.com/print/pdf/node/2859",
+   "displayLink": "www.myfloridalegal.com",
+   "snippet": "verification language. Section 322.2615, Florida Statutes, is the administrative driver's license suspension statute. The statute authorizes a law\u00a0...",
+   "htmlSnippet": "<b>verification</b> language. Section 322.2615, <b>Florida Statutes</b>, is the administrative <b>driver&#39;s license</b> suspension statute. The statute authorizes a law&nbsp;...",
+   "formattedUrl": "https://www.myfloridalegal.com/print/pdf/node/2859",
+   "htmlFormattedUrl": "https://www.myfloridalegal.com/print/pdf/node/2859",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20250729004454-04'00'",
+      "creationdate": "D:20250729004454-04'00'",
+      "producer": "dompdf 2.0.3 + CPDF",
+      "title": "View PDF"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The 2024 Florida Statutes (including 2025 Special Session C)",
+   "htmlTitle": "The 2024 <b>Florida Statutes</b> (including 2025 Special Session C)",
+   "link": "http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0900-0999/0944/Sections/0944.607.html",
+   "displayLink": "www.leg.state.fl.us",
+   "snippet": "... identification card in the manner provided in s. 943.0435(3), (4), and (5), unless the sexual offender is a sexual predator, in which case he or she shall\u00a0...",
+   "htmlSnippet": "... <b>identification card</b> in the manner provided in s. 943.0435(3), (4), and (5), unless the sexual offender is a sexual predator, in which case he or she shall&nbsp;...",
+   "formattedUrl": "http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display...",
+   "htmlFormattedUrl": "http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display..."
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Fun on the 4th | Davie, FL",
+   "htmlTitle": "Fun on the 4th | Davie, FL",
+   "link": "https://www.davie-fl.gov/1196/Fun-on-the-4th",
+   "displayLink": "www.davie-fl.gov",
+   "snippet": "Jul 4, 2025 ... Bring a valid driver's license to the Pine Island ... Florida Statutes, and Article I, Section 24, of the Florida Constitution.",
+   "htmlSnippet": "Jul 4, 2025 <b>...</b> Bring a valid <b>driver&#39;s license</b> to the Pine Island ... <b>Florida Statutes</b>, and Article I, Section 24, of the Florida Constitution.",
+   "formattedUrl": "https://www.davie-fl.gov/1196/Fun-on-the-4th",
+   "htmlFormattedUrl": "https://www.davie-fl.gov/1196/Fun-on-the-4th",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYOL3a-0s0DhaJZrCDBFxqScSSvNXF9J2O3H5cW1IJI7_6kZfwM1eO_izt&s",
+      "width": "383",
+      "height": "132"
+     }
+    ],
+    "metatags": [
+     {
+      "category2": "Departments/Divisions",
+      "category3": "Parks, Recreation & Cultural Arts",
+      "category4": "About Us",
+      "theme-color": "rgb(8, 84, 56)",
+      "category5": "Special Events",
+      "viewport": "width=device-width, initial-scale=1",
+      "category0": "Home",
+      "category1": "Government",
+      "category6": "Fun on the 4th"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.davie-fl.gov/ImageRepository/Document?documentID=20753"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Title & Registration - Randy Mask - Sumter County Tax Collector",
+   "htmlTitle": "Title &amp; Registration - Randy Mask - Sumter County Tax Collector",
+   "link": "https://www.sumtertaxcollector.com/auto.html",
+   "displayLink": "www.sumtertaxcollector.com",
+   "snippet": "The vehicle for VIN verification ... Florida Statutes. Permanent placards can only be issued to individuals with a Florida driver's license or ID card and is\u00a0...",
+   "htmlSnippet": "The vehicle for VIN <b>verification</b> ... <b>Florida Statutes</b>. Permanent placards can only be issued to individuals with a Florida <b>driver&#39;s license</b> or ID card and is&nbsp;...",
+   "formattedUrl": "https://www.sumtertaxcollector.com/auto.html",
+   "htmlFormattedUrl": "https://www.sumtertaxcollector.com/auto.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Job Bulletin",
+   "htmlTitle": "Job Bulletin",
+   "link": "https://www.governmentjobs.com/careers/broward/jobs/newprint/5013899",
+   "displayLink": "www.governmentjobs.com",
+   "snippet": "All candidates must complete an extensive ten (10) year work history verification ... Will you possess a valid Florida Driver's License at time of appointment?",
+   "htmlSnippet": "All candidates must complete an extensive ten (<b>10</b>) year work history <b>verification</b> ... Will you possess a valid Florida <b>Driver&#39;s License at</b> time of appointment?",
+   "formattedUrl": "https://www.governmentjobs.com/careers/broward/jobs/newprint/5013899",
+   "htmlFormattedUrl": "https://www.governmentjobs.com/careers/broward/jobs/newprint/5013899",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width; initial-scale=1.0;"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Score Verification Session Information",
+   "htmlTitle": "Score <b>Verification</b> Session Information",
+   "link": "https://www.fl.nesinc.com/PDFs/FL_ScoreVerificationSessionInformation.pdf",
+   "displayLink": "www.fl.nesinc.com",
+   "snippet": "Score verification sessions are available weekdays and Saturdays at the ... driver's license or state- issued ID card. All personal items must be\u00a0...",
+   "htmlSnippet": "Score <b>verification</b> sessions are available weekdays and Saturdays <b>at</b> the ... <b>driver&#39;s license</b> or state- issued ID card. All personal items must be&nbsp;...",
+   "formattedUrl": "https://www.fl.nesinc.com/.../FL_ScoreVerificationSessionInformation.pdf",
+   "htmlFormattedUrl": "https://www.fl.nesinc.com/.../FL_Score<b>Verification</b>SessionInformation.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLuRFq2EZA8CNTV0fg5J32g0v2Y0GXNN28Z0ttAIn-bbwQ9gbJWlIpp2g&s",
+      "width": "208",
+      "height": "208"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20240405081827-05'00'",
+      "creationdate": "D:20240205121558-05'00'",
+      "lastsaved": "D:20240204",
+      "sourcemodified": "D:20230602130622",
+      "created": "D:20230601",
+      "author": "Florida Department of Education",
+      "subject": "Score Verification Session Information",
+      "company": "Evaluation Systems",
+      "title": "Score Verification Session Information"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///58d958d8549cc3850d01ec087ae88a990f03795daa4b3380443138ef96fdd0c9"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Procedures Manual for Implementation of the Florida Motor Vehicle ...",
+   "htmlTitle": "Procedures Manual for Implementation of the Florida Motor Vehicle ...",
+   "link": "https://www.flhsmv.gov/pdf/frmanual/ftp-procedure-manual.pdf",
+   "displayLink": "www.flhsmv.gov",
+   "snippet": "Section 324.0221(1) (a), Florida Statutes, reads in part: \"Each ... Non-. DUI related Conviction '4' Cases require verification of lower limits of. 10/20/10.",
+   "htmlSnippet": "Section 324.0221(1) (a), <b>Florida Statutes</b>, reads in part: &quot;Each ... Non-. DUI related Conviction &#39;4&#39; Cases require <b>verification</b> of lower limits of. <b>10</b>/20/<b>10</b>.",
+   "formattedUrl": "https://www.flhsmv.gov/pdf/frmanual/ftp-procedure-manual.pdf",
+   "htmlFormattedUrl": "https://www.flhsmv.gov/pdf/frmanual/ftp-procedure-manual.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20170720085142-04'00'",
+      "creator": "Microsoft\u00ae Word 2016",
+      "creationdate": "D:20170720085142-04'00'",
+      "author": "State of Florida",
+      "producer": "Microsoft\u00ae Word 2016",
+      "title": "PROCEDURES MANUAL"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

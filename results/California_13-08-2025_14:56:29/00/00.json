@@ -1,0 +1,390 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"California Code\" \"driver's license\" OR \"identification card\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "totalResults": "10800",
+    "searchTerms": "\"California Code\" \"driver's license\" OR \"identification card\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"California Code\" \"driver's license\" OR \"identification card\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "totalResults": "10800",
+    "searchTerms": "\"California Code\" \"driver's license\" OR \"identification card\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.190144,
+  "formattedSearchTime": "0.19",
+  "totalResults": "10800",
+  "formattedTotalResults": "10,800"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "California Code, Civil Code - CIV \u00a7 1798.90.1 | FindLaw",
+   "htmlTitle": "<b>California Code</b>, Civil Code - CIV \u00a7 1798.90.1 | FindLaw",
+   "link": "https://codes.findlaw.com/ca/civil-code/civ-sect-1798-90-1/",
+   "displayLink": "codes.findlaw.com",
+   "snippet": "(a)(1) A business may scan or swipe a driver's license or identification ... (B) Prior to scanning or swiping a driver's license or identification card\u00a0...",
+   "htmlSnippet": "(a)(1) A business may <b>scan</b> or <b>swipe</b> a <b>driver&#39;s license</b> or <b>identification</b> ... (B) Prior to <b>scanning</b> or <b>swiping</b> a <b>driver&#39;s license</b> or <b>identification card</b>&nbsp;...",
+   "formattedUrl": "https://codes.findlaw.com/ca/civil-code/civ-sect-1798-90-1/",
+   "htmlFormattedUrl": "https://codes.findlaw.com/ca/civil-code/civ-sect-1798-90-1/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuWtKEZ0kzYj6NSuZlgNrAF5XcYIi9XgsiqHcAgQHtxY18xcWZ1bDMaCM&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png",
+      "og:type": "article",
+      "og:site_name": "Findlaw",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "California Code, Civil Code - CIV \u00a7 1798.90.1 | FindLaw",
+      "apple-mobile-web-app-title": "FindLaw",
+      "og:url": "https://codes.findlaw.com/ca/civil-code/civ-sect-1798-90-1/",
+      "og:description": "California Civil Code CIV CA CIVIL  Section 1798.90.1. Read the code on FindLaw"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Title 1.81.2. Confidentiality Of Driver's License Information :: Civil ...",
+   "htmlTitle": "Title 1.81.2. Confidentiality Of <b>Driver&#39;s License</b> Information :: Civil ...",
+   "link": "https://law.justia.com/codes/california/2010/civ/1798.90.1.html",
+   "displayLink": "law.justia.com",
+   "snippet": "Any business may swipe a driver's license or identification card issued by the Department of Motor Vehicles in any electronic device for the following purposes.",
+   "htmlSnippet": "Any business may <b>swipe</b> a <b>driver&#39;s license</b> or <b>identification card</b> issued by the Department of Motor Vehicles in any electronic device for the following purposes.",
+   "formattedUrl": "https://law.justia.com/codes/california/2010/civ/1798.90.1.html",
+   "htmlFormattedUrl": "https://law.justia.com/codes/california/2010/civ/1798.90.1.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF6tMvFPbIJqGnmnTW6XkFdDjhl5MmPOj8MHuFjo38QgKyMeeQBDgDYts&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://justatic.com/v/20250804101307/shared/images/social-media/law.jpg",
+      "og:type": "article",
+      "fb:app_id": "119529808075661",
+      "og:site_name": "Justia Law",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "page-type": "Law: Codes Page (Current Year)",
+      "og:title": "2010 California Code ::  Civil Code ::  Title 1.81.2. Confidentiality Of Driver's License Information",
+      "is-logged-in": "0",
+      "fb:admins": "656268335,686786921,25900864",
+      "trigger-ga": "1",
+      "og:url": "https://law.justia.com/codes/california/2010/civ/1798.90.1.html"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://justatic.com/v/20250804101307/shared/images/social-media/law.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Frequently Asked Questions | State of California - Department of ...",
+   "htmlTitle": "Frequently Asked Questions | State of California - Department of ...",
+   "link": "https://oag.ca.gov/firearms/dlrfaqs",
+   "displayLink": "oag.ca.gov",
+   "snippet": "... retain copies of both documents. Temporary driver licenses and ... Why do I have to swipe the CA Driver's License/Identification card prior to\u00a0...",
+   "htmlSnippet": "... <b>retain</b> copies of both documents. Temporary driver licenses and ... Why do I have to <b>swipe</b> the CA <b>Driver&#39;s License</b>/<b>Identification card</b> prior to&nbsp;...",
+   "formattedUrl": "https://oag.ca.gov/firearms/dlrfaqs",
+   "htmlFormattedUrl": "https://oag.ca.gov/firearms/dlrfaqs",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt13Gj3QIR7Gu-wsjBLabPFxi4LVpjTwOR-p5T1yMr4qKWyXI8wrzmJoO3&s",
+      "width": "311",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://oag.ca.gov/sites/default/files/oag-opengraph.jpg",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Frequently Asked Questions",
+      "article:published_time": "2011-12-16T12:14:31-08:00",
+      "og:site_name": "State of California - Department of Justice - Office of the Attorney General",
+      "msvalidate.01": "677D5153D29C8072A80042A74C837F58",
+      "twitter:url": "https://oag.ca.gov/firearms/dlrfaqs",
+      "og:title": "Frequently Asked Questions",
+      "og:updated_time": "2025-05-16T14:36:37-07:00",
+      "og:description": "Firearms Dealers Links to Topics below  General FAQs  DROS Entry System (DES) Internet Process  AB 1872/2165/2699 Dealer FAQs  General FAQs What are California's licensing requirements for firearms dealers? How much is the annual Centralized List fee and when must it be paid? What is a California Firearms Dealer (CFD) number? Do I need to send copies of my dealer's Federal Firearms License and local firearms license(s) to DOJ? How is DROS information submitted? How do I get copies of the blank DROS worksheet? How can I correct or cancel a DROS submission?",
+      "twitter:image": "https://oag.ca.gov/sites/default/files/oag-opengraph.jpg",
+      "article:modified_time": "2025-05-16T14:36:37-07:00",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Firearms Dealers Links to Topics below  General FAQs  DROS Entry System (DES) Internet Process  AB 1872/2165/2699 Dealer FAQs  General FAQs What are California's licensing requirements for firearms",
+      "og:url": "https://oag.ca.gov/firearms/dlrfaqs"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://oag.ca.gov/sites/default/files/oag-opengraph.jpg"
+     }
+    ],
+    "Document": [
+     {
+      "num_replies": "0",
+      "title": "Frequently Asked Questions",
+      "encoded": "Firearms Dealers Links to Topics below General FAQs DROS Entry System (DES) Internet Process AB 1872/2165/2699 Dealer FAQs General FAQs What are California's licensing requirements for firearms..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Fingerprinting, Disclosure, and Background Review - CSLB",
+   "htmlTitle": "Fingerprinting, Disclosure, and Background Review - CSLB",
+   "link": "https://www.cslb.ca.gov/about_Us/faqs/fingerprint_q_and_a.aspx",
+   "displayLink": "www.cslb.ca.gov",
+   "snippet": "Go to an authorized Live Scan provider with the completed form and driver's license ... California Code of Regulations (CCR). Substantially Related Criminal\u00a0...",
+   "htmlSnippet": "Go to an authorized Live <b>Scan</b> provider with the completed form and <b>driver&#39;s license</b> ... <b>California Code</b> of Regulations (CCR). Substantially Related Criminal&nbsp;...",
+   "formattedUrl": "https://www.cslb.ca.gov/about_Us/faqs/fingerprint_q_and_a.aspx",
+   "htmlFormattedUrl": "https://www.cslb.ca.gov/about_Us/faqs/fingerprint_q_and_a.aspx",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "True",
+      "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0",
+      "author": "State of California",
+      "mobileoptimized": "320"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Is it normal for driver license to be scanned at gas station for lotto? : r ...",
+   "htmlTitle": "Is it normal for driver license to be scanned at gas station for lotto? : r ...",
+   "link": "https://www.reddit.com/r/bayarea/comments/14yxj43/is_it_normal_for_driver_license_to_be_scanned_at/",
+   "displayLink": "www.reddit.com",
+   "snippet": "Jul 13, 2023 ... (A) To verify age or the authenticity of the driver's license or identification card. (B) To comply with a legal requirement to record, retain,\u00a0...",
+   "htmlSnippet": "Jul 13, 2023 <b>...</b> (A) To verify age or the authenticity of the <b>driver&#39;s license</b> or <b>identification card</b>. (B) To comply with a legal requirement to record, <b>retain</b>,&nbsp;...",
+   "formattedUrl": "https://www.reddit.com/.../is_it_normal_for_driver_license_to_be_scanned...",
+   "htmlFormattedUrl": "https://www.reddit.com/.../is_it_normal_for_driver_license_to_be_<b>scan</b>ned...",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:image": "https://share.redd.it/preview/post/14yxj43",
+      "theme-color": "#000000",
+      "og:image:width": "1200",
+      "og:type": "website",
+      "og:image:alt": "An image containing a preview of the post",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "r/bayarea on Reddit: Is it normal for driver license to be scanned at gas station for lotto?",
+      "og:site_name": "Reddit",
+      "og:title": "r/bayarea on Reddit: Is it normal for driver license to be scanned at gas station for lotto?",
+      "og:image:height": "630",
+      "msapplication-navbutton-color": "#000000",
+      "og:description": "Posted by u/[Deleted Account] - 16 votes and 10 comments",
+      "twitter:image": "https://share.redd.it/preview/post/14yxj43",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "twitter:site": "@reddit",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "apple-mobile-web-app-capable": "yes",
+      "og:ttl": "600",
+      "og:url": "https://www.reddit.com/r/bayarea/comments/14yxj43/is_it_normal_for_driver_license_to_be_scanned_at/?seeker-session=true"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "California Consumer Privacy Act Regulations",
+   "htmlTitle": "California Consumer Privacy Act Regulations",
+   "link": "https://cppa.ca.gov/regulations/pdf/cppa_regs.pdf",
+   "displayLink": "cppa.ca.gov",
+   "snippet": "Jan 2, 2024 ... (y) \u201cRequest to delete\u201d means a consumer request that a business delete ... including a fingerprint scan\u201d without disclosing the actual\u00a0...",
+   "htmlSnippet": "Jan 2, 2024 <b>...</b> (y) \u201cRequest to <b>delete</b>\u201d means a consumer request that a business <b>delete</b> ... including a fingerprint <b>scan</b>\u201d without disclosing the actual&nbsp;...",
+   "formattedUrl": "https://cppa.ca.gov/regulations/pdf/cppa_regs.pdf",
+   "htmlFormattedUrl": "https://cppa.ca.gov/regulations/pdf/cppa_regs.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20240416145547-07'00'",
+      "creationdate": "D:20240416145033-07'00'",
+      "creator": "Acrobat PDFMaker 24 for Word",
+      "sourcemodified": "D:20240416215018",
+      "author": "California Privacy Protection Agency",
+      "producer": "Adobe PDF Library 24.1.124",
+      "title": "California Consumer Privacy Act Regulations"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Intern Pharmacist Application and Instructions",
+   "htmlTitle": "Intern Pharmacist Application and Instructions",
+   "link": "https://www.pharmacy.ca.gov/forms/intern_app_pkt.pdf",
+   "displayLink": "www.pharmacy.ca.gov",
+   "snippet": "The name on each form listed below must be EXACTLY THE SAME as the name on your state issued driver's license or state issued identification card. ... Scan or\u00a0...",
+   "htmlSnippet": "The name on each form listed below must be EXACTLY THE SAME as the name on your state issued <b>driver&#39;s license</b> or state issued <b>identification card</b>. ... <b>Scan</b> or&nbsp;...",
+   "formattedUrl": "https://www.pharmacy.ca.gov/forms/intern_app_pkt.pdf",
+   "htmlFormattedUrl": "https://www.pharmacy.ca.gov/forms/intern_app_pkt.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThuTr3-IMXhljYwx_oIlq1n2ZrBXN_20q5rwLPxPJj5BZvh7EgYQlVBkqv&s",
+      "width": "144",
+      "height": "144"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20241224111343-08'00'",
+      "creationdate": "D:20190207083943-08'00'",
+      "creator": "Acrobat PDFMaker 19 for Word",
+      "sourcemodified": "D:20190206220207",
+      "author": "California State Board of Pharmacy",
+      "subject": "Intern Pharmacist Application Packet",
+      "producer": "Adobe Acrobat Pro DC 19 Paper Capture Plug-in",
+      "company": "California State Board of Pharmacy",
+      "title": "Intern Pharmacist Application Packet"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///220fd6779e9c07e3d06c173c3af581b49ec20a61d07d1e19e63116ab2828c353"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Live Scan Fingerprinting",
+   "htmlTitle": "Live <b>Scan</b> Fingerprinting",
+   "link": "https://ssa.ocgov.com/sites/ssa/files/import/data/files/67333.pdf",
+   "displayLink": "ssa.ocgov.com",
+   "snippet": "\u2022 Retain and file original copy of Request for Live Scan. Services (BCII 8016) ... California Code of Regulations, Title 11, Division 1, Chapter 7\u00a0...",
+   "htmlSnippet": "\u2022 <b>Retain</b> and file original copy of Request for Live <b>Scan</b>. Services (BCII 8016) ... <b>California Code</b> of Regulations, Title 11, Division 1, Chapter 7&nbsp;...",
+   "formattedUrl": "https://ssa.ocgov.com/sites/ssa/files/import/data/files/67333.pdf",
+   "htmlFormattedUrl": "https://ssa.ocgov.com/sites/ssa/files/import/data/files/67333.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20170815083758-07'00'",
+      "creator": "Microsoft\u00ae Office Word 2007",
+      "creationdate": "D:20170815083610-07'00'",
+      "author": "SSA/CFS",
+      "subject": "Administrative Policies/General",
+      "producer": "Microsoft\u00ae Office Word 2007",
+      "title": "Live Scan Fingerprinting"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Pharmacy Technician Application and Instructions (Rev. 7/2020)",
+   "htmlTitle": "Pharmacy Technician Application and Instructions (Rev. 7/2020)",
+   "link": "https://www.pharmacy.ca.gov/forms/tch_app_pkt.pdf",
+   "displayLink": "www.pharmacy.ca.gov",
+   "snippet": "The name on each form must be EXACTLY THE SAME as the name on your state driver's license or state-issued identification card. Your name must be the same on\u00a0...",
+   "htmlSnippet": "The name on each form must be EXACTLY THE SAME as the name on your state <b>driver&#39;s license</b> or state-issued <b>identification card</b>. Your name must be the same on&nbsp;...",
+   "formattedUrl": "https://www.pharmacy.ca.gov/forms/tch_app_pkt.pdf",
+   "htmlFormattedUrl": "https://www.pharmacy.ca.gov/forms/tch_app_pkt.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW2wgTMbf7Kqm6XcSVvR7PUMqdq02_eT62ww27yEXlkD0fY0SeOVKflGc0&s",
+      "width": "144",
+      "height": "144"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20250107125015-08'00'",
+      "creationdate": "D:20200702134534-07'00'",
+      "creator": "Microsoft\u00ae Word for Office 365",
+      "author": "California State Board of Pharmacy",
+      "subject": "Pharmacy Technician Application and Instructions (Rev. 7/2020)",
+      "producer": "Microsoft\u00ae Word for Office 365",
+      "title": "Pharmacy Technician Application and Instructions (Rev. 7/2020)"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///f1f19661649c42d8e26619a5b4e791899d0bccedf2da72c26e09ee9593ac7a61"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Examination Application Fees and Instructions",
+   "htmlTitle": "Examination Application Fees and Instructions",
+   "link": "https://www.rn.ca.gov/pdfs/applicants/exam-app.pdf",
+   "displayLink": "www.rn.ca.gov",
+   "snippet": "You may retain the third copy for your records. Using Live Scan can speed your licensure because the Board receives fingerprint results from this new technology\u00a0...",
+   "htmlSnippet": "You may <b>retain</b> the third copy for your records. Using Live <b>Scan</b> can speed your licensure because the Board receives fingerprint results from this new technology&nbsp;...",
+   "formattedUrl": "https://www.rn.ca.gov/pdfs/applicants/exam-app.pdf",
+   "htmlFormattedUrl": "https://www.rn.ca.gov/pdfs/applicants/exam-app.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20250114092930-08'00'",
+      "creationdate": "D:20130703124029-07'00'",
+      "creator": "Acrobat PDFMaker 10.1 for Word",
+      "sourcemodified": "D:20130703193527",
+      "author": "Board of Registered Nursing",
+      "subject": "Examination Application Fees and Instructions",
+      "producer": "Adobe PDF Library 10.0",
+      "company": "DCA",
+      "title": "Examination Application Fees and Instructions"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

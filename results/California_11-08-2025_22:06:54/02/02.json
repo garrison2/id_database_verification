@@ -1,0 +1,420 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"California Code\" \"personally identifiable information\" OR \"personal information\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "42300",
+    "searchTerms": "\"California Code\" \"personally identifiable information\" OR \"personal information\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"California Code\" \"personally identifiable information\" OR \"personal information\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "42300",
+    "searchTerms": "\"California Code\" \"personally identifiable information\" OR \"personal information\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.149776,
+  "formattedSearchTime": "0.15",
+  "totalResults": "42300",
+  "formattedTotalResults": "42,300"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Personal Information (California Code) and/or Personally ...",
+   "htmlTitle": "<b>Personal Information</b> (<b>California Code</b>) and/or <b>Personally</b> ...",
+   "link": "https://cloud.ucdavis.edu/datatype/personally-identifiable-information-pii-high-level",
+   "displayLink": "cloud.ucdavis.edu",
+   "snippet": "Personal Information (California Code) and/or Personally Identifiable Information (PII) ... Driver's license number or California identification card number\u00a0...",
+   "htmlSnippet": "<b>Personal Information</b> (<b>California Code</b>) and/or <b>Personally Identifiable Information</b> (PII) ... <b>Driver&#39;s license</b> number or California <b>identification card</b> number&nbsp;...",
+   "formattedUrl": "https://cloud.ucdavis.edu/.../personally-identifiable-information-pii-high-le...",
+   "htmlFormattedUrl": "https://cloud.ucdavis.edu/.../<b>personally-identifiable-information</b>-pii-high-le...",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Automated Firearms System Personal Information Update | State of ...",
+   "htmlTitle": "Automated Firearms System <b>Personal Information</b> Update | State of ...",
+   "link": "https://oag.ca.gov/firearms/afspi",
+   "displayLink": "oag.ca.gov",
+   "snippet": "Jul 1, 2019 ... ... identification card, you may upload your military identification card again. ... California Code of Regulations \u00b7 Roster of Firearm Safety\u00a0...",
+   "htmlSnippet": "Jul 1, 2019 <b>...</b> ... <b>identification card</b>, you may upload your military <b>identification card</b> again. ... <b>California Code</b> of Regulations &middot; Roster of Firearm Safety&nbsp;...",
+   "formattedUrl": "https://oag.ca.gov/firearms/afspi",
+   "htmlFormattedUrl": "https://oag.ca.gov/firearms/afspi",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt13Gj3QIR7Gu-wsjBLabPFxi4LVpjTwOR-p5T1yMr4qKWyXI8wrzmJoO3&s",
+      "width": "311",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://oag.ca.gov/sites/default/files/oag-opengraph.jpg",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Automated Firearms System Personal Information Update",
+      "article:published_time": "2019-06-25T10:56:23-07:00",
+      "og:site_name": "State of California - Department of Justice - Office of the Attorney General",
+      "msvalidate.01": "677D5153D29C8072A80042A74C837F58",
+      "twitter:url": "https://oag.ca.gov/firearms/afspi",
+      "og:title": "Automated Firearms System Personal Information Update",
+      "og:updated_time": "2019-09-06T07:29:00-07:00",
+      "og:description": "The Automated Firearms System is a repository of firearm records maintained by the Department, as established by Penal Code section 11106. The Automated Firearms System is populated by way of firearm purchases or transfers at a California licensed firearm dealer, registration of assault weapons (during specified registration periods), an individual\u2019s report of firearm ownership to the Department, Carry Concealed Weapons Permit records, or records entered by law enforcement agencies.",
+      "twitter:image": "https://oag.ca.gov/sites/default/files/oag-opengraph.jpg",
+      "article:modified_time": "2019-09-06T07:29:00-07:00",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "The Automated Firearms System is a repository of firearm records maintained by the Department, as established by Penal Code section 11106. The Automated Firearms System is populated by way of firearm",
+      "og:url": "https://oag.ca.gov/firearms/afspi"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://oag.ca.gov/sites/default/files/oag-opengraph.jpg"
+     }
+    ],
+    "Document": [
+     {
+      "num_replies": "0",
+      "title": "Automated Firearms System Personal Information Update",
+      "encoded": "The Automated Firearms System is a repository of firearm records maintained by the Department, as established by Penal Code section 11106. The Automated Firearms System is populated by way..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Privacy and Security - California DMV",
+   "htmlTitle": "Privacy and Security - California DMV",
+   "link": "https://www.dmv.ca.gov/portal/privacy-and-security/",
+   "displayLink": "www.dmv.ca.gov",
+   "snippet": "DMV collects personal information through our website only if that individual provides such information to the DMV through forms or driver license or vehicle\u00a0...",
+   "htmlSnippet": "DMV collects <b>personal information</b> through our website only if that individual provides such information to the DMV through forms or driver license or vehicle&nbsp;...",
+   "formattedUrl": "https://www.dmv.ca.gov/portal/privacy-and-security/",
+   "htmlFormattedUrl": "https://www.dmv.ca.gov/portal/privacy-and-security/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHPHVjBCQ8uVvTNSFI8nzwT9djGmxjRUsxYMt3aOd_o_9LTY5LGfp24EM&s",
+      "width": "183",
+      "height": "276"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.ca.gov/portal/wp-content/themes/dmv/dist/images/illustrations/adult_walking.svg",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "California DMV",
+      "og:title": "Privacy and Security - California DMV",
+      "twitter:label1": "Est. reading time",
+      "msapplication-tileimage": "https://www.dmv.ca.gov/portal/uploads/2020/02/cropped-dmv_favicon_Final_png-1-270x270.png",
+      "og:description": "It is the policy of DMV to limit the collection of personal information and to safeguard the privacy of personal information collected or maintained by DMV.",
+      "article:publisher": "https://www.facebook.com/CADMV",
+      "twitter:data1": "6 minutes",
+      "twitter:site": "@ca_dmv",
+      "article:modified_time": "2023-05-04T16:18:02+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.dmv.ca.gov/portal/privacy-and-security/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.ca.gov/portal/wp-content/themes/dmv/dist/images/illustrations/adult_walking.svg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What Is \"Personal Information\" Under CCPA? - California Lawyers ...",
+   "htmlTitle": "What Is &quot;<b>Personal Information</b>&quot; Under CCPA? - California Lawyers ...",
+   "link": "https://calawyers.org/privacy-law/what-is-personal-information-under-the-california-consumer-privacy-act/",
+   "displayLink": "calawyers.org",
+   "snippet": "Sep 30, 2019 ... ... driver's license number, passport number, or other similar identifiers[4]. ... personally identifiable information as defined in the Family\u00a0...",
+   "htmlSnippet": "Sep 30, 2019 <b>...</b> ... <b>driver&#39;s license</b> number, passport number, or other similar identifiers[4]. ... <b>personally identifiable information</b> as defined in the Family&nbsp;...",
+   "formattedUrl": "https://calawyers.org/.../what-is-personal-information-under-the-california-c...",
+   "htmlFormattedUrl": "https://calawyers.org/.../what-is-<b>personal-information</b>-under-the-california-c...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYdl6LLAnPgiIWWPqyB07v874ehBdZjNadEz-U3PiSy_RNIPKf-fE2yzX2&s",
+      "width": "245",
+      "height": "206"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://calawyers.org/wp-content/uploads/2019/08/CLA_logo-e1637274101193.png",
+      "og:type": "article",
+      "article:published_time": "2019-09-30T20:14:20+00:00",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "California Lawyers Association",
+      "tec-api-origin": "https://calawyers.org",
+      "author": "Brian",
+      "og:title": "What Is \"Personal Information\" Under CCPA? - California Lawyers Association",
+      "msapplication-tileimage": "https://calawyers.org/wp-content/uploads/2019/08/cropped-favicon-270x270.jpg",
+      "og:description": "The California Consumers Privacy Act (CCPA) represents a quantum leap in US privacy, and the core of that change is the expansive concept of personal information.",
+      "twitter:creator": "@CALawyersOrg",
+      "article:publisher": "https://www.facebook.com/CALawyersOrg/",
+      "twitter:site": "@CALawyersOrg",
+      "article:modified_time": "2025-07-09T17:09:44+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://calawyers.org/privacy-law/what-is-personal-information-under-the-california-consumer-privacy-act/",
+      "tec-api-version": "v1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://calawyers.org/wp-content/uploads/2019/08/CLA_logo-e1637274101193.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "TITLE 1.81. CUSTOMER RECORDS - Sections 1798.80-1798.84 ...",
+   "htmlTitle": "TITLE 1.81. CUSTOMER RECORDS - Sections 1798.80-1798.84 ...",
+   "link": "https://law.justia.com/codes/california/2005/civ/1798.80-1798.84.html",
+   "displayLink": "law.justia.com",
+   "snippet": "(B) Driver's license number or California identification card number. (C) Account number, credit or debit card number, in combination with any required\u00a0...",
+   "htmlSnippet": "(B) <b>Driver&#39;s license</b> number or California <b>identification card</b> number. (C) Account number, credit or debit card number, in combination with any required&nbsp;...",
+   "formattedUrl": "https://law.justia.com/codes/california/2005/civ/1798.80-1798.84.html",
+   "htmlFormattedUrl": "https://law.justia.com/codes/california/2005/civ/1798.80-1798.84.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF6tMvFPbIJqGnmnTW6XkFdDjhl5MmPOj8MHuFjo38QgKyMeeQBDgDYts&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://justatic.com/v/20250804101307/shared/images/social-media/law.jpg",
+      "og:type": "article",
+      "fb:app_id": "119529808075661",
+      "og:site_name": "Justia Law",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "page-type": "Law: Codes Page (Current Year)",
+      "og:title": "2005 California Civil Code Sections 1798.80-1798.84 ::  ::  TITLE 1.81. :: CUSTOMER RECORDS",
+      "is-logged-in": "0",
+      "fb:admins": "656268335,686786921,25900864",
+      "trigger-ga": "1",
+      "og:url": "https://law.justia.com/codes/california/2005/civ/1798.80-1798.84.html"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://justatic.com/v/20250804101307/shared/images/social-media/law.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "California Code, Civil Code - CIV \u00a7 1798.140 | FindLaw",
+   "htmlTitle": "<b>California Code</b>, Civil Code - CIV \u00a7 1798.140 | FindLaw",
+   "link": "https://codes.findlaw.com/ca/civil-code/civ-sect-1798-140/",
+   "displayLink": "codes.findlaw.com",
+   "snippet": "(1) Personal information that reveals: (A) A consumer's social security, driver's license, state identification card, or passport number. (B) A consumer's\u00a0...",
+   "htmlSnippet": "(1) <b>Personal information</b> that reveals: (A) A consumer&#39;s social security, <b>driver&#39;s license</b>, state <b>identification card</b>, or passport number. (B) A consumer&#39;s&nbsp;...",
+   "formattedUrl": "https://codes.findlaw.com/ca/civil-code/civ-sect-1798-140/",
+   "htmlFormattedUrl": "https://codes.findlaw.com/ca/civil-code/civ-sect-1798-140/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuWtKEZ0kzYj6NSuZlgNrAF5XcYIi9XgsiqHcAgQHtxY18xcWZ1bDMaCM&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png",
+      "og:type": "article",
+      "og:site_name": "Findlaw",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "California Code, Civil Code - CIV \u00a7 1798.140 | FindLaw",
+      "apple-mobile-web-app-title": "FindLaw",
+      "og:url": "https://codes.findlaw.com/ca/civil-code/civ-sect-1798-140/",
+      "og:description": "California Civil Code CIV CA CIVIL  Section 1798.140. Read the code on FindLaw"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Title 1.81.2. Confidentiality Of Driver's License Information :: Civil ...",
+   "htmlTitle": "Title 1.81.2. Confidentiality Of <b>Driver&#39;s License</b> Information :: Civil ...",
+   "link": "https://law.justia.com/codes/california/2010/civ/1798.90.1.html",
+   "displayLink": "law.justia.com",
+   "snippet": "Justia U.S. Law U.S. Codes and Statutes California Code 2010 California Code Civil Code Title 1.81.2. ... driver's license or identification card. (B) To comply\u00a0...",
+   "htmlSnippet": "Justia U.S. Law U.S. Codes and Statutes <b>California Code</b> 2010 <b>California Code</b> Civil Code Title 1.81.2. ... <b>driver&#39;s license</b> or <b>identification card</b>. (B) To comply&nbsp;...",
+   "formattedUrl": "https://law.justia.com/codes/california/2010/civ/1798.90.1.html",
+   "htmlFormattedUrl": "https://law.justia.com/codes/california/2010/civ/1798.90.1.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF6tMvFPbIJqGnmnTW6XkFdDjhl5MmPOj8MHuFjo38QgKyMeeQBDgDYts&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://justatic.com/v/20250804101307/shared/images/social-media/law.jpg",
+      "og:type": "article",
+      "fb:app_id": "119529808075661",
+      "og:site_name": "Justia Law",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "page-type": "Law: Codes Page (Current Year)",
+      "og:title": "2010 California Code ::  Civil Code ::  Title 1.81.2. Confidentiality Of Driver's License Information",
+      "is-logged-in": "0",
+      "fb:admins": "656268335,686786921,25900864",
+      "trigger-ga": "1",
+      "og:url": "https://law.justia.com/codes/california/2010/civ/1798.90.1.html"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://justatic.com/v/20250804101307/shared/images/social-media/law.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "California Consumer Privacy Act",
+   "htmlTitle": "California Consumer Privacy Act",
+   "link": "https://www.fmfarmcredit.com/california-consumer-privacy-act",
+   "displayLink": "www.fmfarmcredit.com",
+   "snippet": "Sep 1, 2020 ... ... California Code of Regulations ... FMFC will not collect additional categories of personal information or use the personal information\u00a0...",
+   "htmlSnippet": "Sep 1, 2020 <b>...</b> ... <b>California Code</b> of Regulations ... FMFC will not collect additional categories of <b>personal information</b> or use the <b>personal information</b>&nbsp;...",
+   "formattedUrl": "https://www.fmfarmcredit.com/california-consumer-privacy-act",
+   "htmlFormattedUrl": "https://www.fmfarmcredit.com/california-consumer-privacy-act",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRafnBkmGoj9N-a3zJQ2Pz1Erp7xGN4VWqseLtNS-3GZMTCeSgrOI1cJso&s",
+      "width": "300",
+      "height": "150"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=2, user-scalable=1",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.fmfarmcredit.com/-/media/Images/Logos/Logo-for-Website-150x300px/Website-Logo-images-(1).ashx?h=150&iar=0&w=300&hash=7E98DD8F24160DBB886488F981A9E60B"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "California Code, Civil Code - CIV \u00a7 1798.80 | FindLaw",
+   "htmlTitle": "<b>California Code</b>, Civil Code - CIV \u00a7 1798.80 | FindLaw",
+   "link": "https://codes.findlaw.com/ca/civil-code/civ-sect-1798-80/",
+   "displayLink": "codes.findlaw.com",
+   "snippet": "... driver's license or state identification card number, insurance policy ... \u201cPersonal information\u201d does not include publicly available information that\u00a0...",
+   "htmlSnippet": "... <b>driver&#39;s license</b> or state <b>identification card</b> number, insurance policy ... \u201c<b>Personal information</b>\u201d does not include publicly available information that&nbsp;...",
+   "formattedUrl": "https://codes.findlaw.com/ca/civil-code/civ-sect-1798-80/",
+   "htmlFormattedUrl": "https://codes.findlaw.com/ca/civil-code/civ-sect-1798-80/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuWtKEZ0kzYj6NSuZlgNrAF5XcYIi9XgsiqHcAgQHtxY18xcWZ1bDMaCM&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png",
+      "og:type": "article",
+      "og:site_name": "Findlaw",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "California Code, Civil Code - CIV \u00a7 1798.80 | FindLaw",
+      "apple-mobile-web-app-title": "FindLaw",
+      "og:url": "https://codes.findlaw.com/ca/civil-code/civ-sect-1798-80/",
+      "og:description": "California Civil Code CIV CA CIVIL  Section 1798.80. Read the code on FindLaw"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "California Consumer Privacy Act Regulations",
+   "htmlTitle": "California Consumer Privacy Act Regulations",
+   "link": "https://cppa.ca.gov/regulations/pdf/cppa_regs.pdf",
+   "displayLink": "cppa.ca.gov",
+   "snippet": "Jan 2, 2024 ... (kk) \u201cUnstructured\u201d as it relates to personal information means personal information ... number, driver's license number or other\u00a0...",
+   "htmlSnippet": "Jan 2, 2024 <b>...</b> (kk) \u201cUnstructured\u201d as it relates to <b>personal information</b> means <b>personal information</b> ... number, <b>driver&#39;s license</b> number or other&nbsp;...",
+   "formattedUrl": "https://cppa.ca.gov/regulations/pdf/cppa_regs.pdf",
+   "htmlFormattedUrl": "https://cppa.ca.gov/regulations/pdf/cppa_regs.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20240416145547-07'00'",
+      "creationdate": "D:20240416145033-07'00'",
+      "creator": "Acrobat PDFMaker 24 for Word",
+      "sourcemodified": "D:20240416215018",
+      "author": "California Privacy Protection Agency",
+      "producer": "Adobe PDF Library 24.1.124",
+      "title": "California Consumer Privacy Act Regulations"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

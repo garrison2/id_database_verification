@@ -1,0 +1,321 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Ohio Revised Code\" \"driver's license\" OR \"identification card\" \"scanning\" OR \"swiping\" around 10 \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "totalResults": "1200",
+    "searchTerms": "\"Ohio Revised Code\" \"driver's license\" OR \"identification card\" \"scanning\" OR \"swiping\" around 10 \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Ohio Revised Code\" \"driver's license\" OR \"identification card\" \"scanning\" OR \"swiping\" around 10 \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "totalResults": "1200",
+    "searchTerms": "\"Ohio Revised Code\" \"driver's license\" OR \"identification card\" \"scanning\" OR \"swiping\" around 10 \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.161161,
+  "formattedSearchTime": "0.16",
+  "totalResults": "1200",
+  "formattedTotalResults": "1,200"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Chapter 2913 - Ohio Revised Code | Ohio Laws",
+   "htmlTitle": "Chapter 2913 - <b>Ohio Revised Code</b> | Ohio Laws",
+   "link": "https://codes.ohio.gov/ohio-revised-code/chapter-2913",
+   "displayLink": "codes.ohio.gov",
+   "snippet": "... scanning device capable of acquiring, intercepting, receiving, or otherwise ... (b) If the offender's driver's license, probationary driver's license\u00a0...",
+   "htmlSnippet": "... <b>scanning</b> device capable of acquiring, intercepting, receiving, or otherwise ... (b) If the offender&#39;s <b>driver&#39;s license</b>, probationary <b>driver&#39;s license</b>&nbsp;...",
+   "formattedUrl": "https://codes.ohio.gov/ohio-revised-code/chapter-2913",
+   "htmlFormattedUrl": "https://codes.ohio.gov/<b>ohio-revised-code</b>/chapter-2913",
+   "pagemap": {
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#da532c",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Untitled",
+   "htmlTitle": "Untitled",
+   "link": "https://dam.assets.ohio.gov/image/upload/procure.ohio.gov/pdf/DPS%2018-071112018141418BMVRCPP18.pdf",
+   "displayLink": "dam.assets.ohio.gov",
+   "snippet": "Jan 10, 2018 ... boxed records stored in the Record Retention area at the ODPS Alum Creek Facility (ACF) ... driver's license or identification card applications\u00a0...",
+   "htmlSnippet": "Jan 10, 2018 <b>...</b> boxed records stored in the Record <b>Retention</b> area <b>at</b> the ODPS Alum Creek Facility (ACF) ... <b>driver&#39;s license</b> or <b>identification card</b> applications&nbsp;...",
+   "formattedUrl": "https://dam.assets.ohio.gov/.../DPS%2018-071112018141418BMVRCPP18...",
+   "htmlFormattedUrl": "https://dam.assets.ohio.gov/.../DPS%2018-071112018141418BMVRCPP18...",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "Thu Jan 11 09:03:53 2018",
+      "creator": "Canon iR-ADV C5250  PDF",
+      "creationdate": "Thu Jan 11 08:58:21 2018",
+      "producer": "Adobe PSL 1.2e for Canon"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Chapter 3796:6-3 - Ohio Administrative Code | Ohio Laws",
+   "htmlTitle": "Chapter 3796:6-3 - Ohio Administrative Code | Ohio Laws",
+   "link": "https://codes.ohio.gov/ohio-administrative-code/chapter-3796:6-3",
+   "displayLink": "codes.ohio.gov",
+   "snippet": "Ohio Revised Code \u00b7 Ohio Administrative Code. About. About. Contact. Contact ... identification card printed by the dispensary at which they are employed. (1)\u00a0...",
+   "htmlSnippet": "<b>Ohio Revised Code</b> &middot; Ohio Administrative Code. <b>About</b>. <b>About</b>. Contact. Contact ... <b>identification card</b> printed by the dispensary <b>at</b> which they are employed. (1)&nbsp;...",
+   "formattedUrl": "https://codes.ohio.gov/ohio-administrative-code/chapter-3796:6-3",
+   "htmlFormattedUrl": "https://codes.ohio.gov/ohio-administrative-code/chapter-3796:6-3",
+   "pagemap": {
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#da532c",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Untitled",
+   "htmlTitle": "Untitled",
+   "link": "http://www.fremontmunicipalcourt.org/pdf/localRules-20250601.pdf",
+   "displayLink": "www.fremontmunicipalcourt.org",
+   "snippet": "Jun 1, 2025 ... (g) The Clerk will not delete the relevant docket text, but will annotate the docket to show the deletion, the reason for the deletion and that\u00a0...",
+   "htmlSnippet": "Jun 1, 2025 <b>...</b> (g) The Clerk will not <b>delete</b> the relevant docket text, but will annotate the docket to show the <b>deletion</b>, the reason for the <b>deletion</b> and that&nbsp;...",
+   "formattedUrl": "http://www.fremontmunicipalcourt.org/pdf/localRules-20250601.pdf",
+   "htmlFormattedUrl": "http://www.fremontmunicipalcourt.org/pdf/localRules-20250601.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "Wed May 28 11:49:16 2025",
+      "creator": "Preview",
+      "creationdate": "Wed May 28 11:49:16 2025",
+      "producer": "macOS Version 15.5 (Build 24F74) Quartz PDFContext"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Chapter 2929 - Ohio Revised Code | Ohio Laws",
+   "htmlTitle": "Chapter 2929 - <b>Ohio Revised Code</b> | Ohio Laws",
+   "link": "https://codes.ohio.gov/ohio-revised-code/chapter-2929",
+   "displayLink": "codes.ohio.gov",
+   "snippet": "... scanning system that is so approved. (VV) \"Non-economic loss\" means ... Section 2929.33 | Driver's license suspension for drug offenses. Effective\u00a0...",
+   "htmlSnippet": "... <b>scanning</b> system that is so approved. (VV) &quot;Non-economic loss&quot; means ... Section 2929.33 | <b>Driver&#39;s license</b> suspension for drug offenses. Effective&nbsp;...",
+   "formattedUrl": "https://codes.ohio.gov/ohio-revised-code/chapter-2929",
+   "htmlFormattedUrl": "https://codes.ohio.gov/<b>ohio-revised-code</b>/chapter-2929",
+   "pagemap": {
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#da532c",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Vermilion Municipal Court Rules 2/1/2021",
+   "htmlTitle": "Vermilion Municipal Court Rules 2/1/2021",
+   "link": "https://www.vermilionmunicipalcourt.org/pdf/localRules-20230705.pdf",
+   "displayLink": "www.vermilionmunicipalcourt.org",
+   "snippet": "Feb 1, 2021 ... of the Ohio Revised Code, and the record retention schedules in Rules 26, 26.01 and. 26.05 of the Rules of Superintendence shall be followed\u00a0...",
+   "htmlSnippet": "Feb 1, 2021 <b>...</b> of the <b>Ohio Revised Code</b>, and the record <b>retention</b> schedules in Rules 26, 26.01 and. 26.05 of the Rules of Superintendence shall be followed&nbsp;...",
+   "formattedUrl": "https://www.vermilionmunicipalcourt.org/pdf/localRules-20230705.pdf",
+   "htmlFormattedUrl": "https://www.vermilionmunicipalcourt.org/pdf/localRules-20230705.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "Wed Jul  5 19:37:19 2023",
+      "creationdate": "Wed Jul  5 19:37:19 2023",
+      "creator": "Preview",
+      "producer": "macOS Version 12.6.6 (Build 21G646) Quartz PDFContext"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Bill Analysis",
+   "htmlTitle": "Bill Analysis",
+   "link": "https://www.legislature.ohio.gov/download?key=23074",
+   "displayLink": "www.legislature.ohio.gov",
+   "snippet": "Jun 17, 2024 ... (5) Provide your Ohio driver's license or state identification card number or, if you do ... Under continuing law, the boards must retain those\u00a0...",
+   "htmlSnippet": "Jun 17, 2024 <b>...</b> (5) Provide your Ohio <b>driver&#39;s license</b> or state <b>identification card</b> number or, if you do ... Under continuing law, the boards must <b>retain</b> those&nbsp;...",
+   "formattedUrl": "https://www.legislature.ohio.gov/download?key=23074",
+   "htmlFormattedUrl": "https://www.legislature.ohio.gov/download?key=23074",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDZtok3IQGpo_dIUXDyMid2oWbk-_HORUiehGfYwRyfJG73hnDDpv40JU&s",
+      "width": "220",
+      "height": "229"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20240617120813-04'00'",
+      "creator": "Microsoft\u00ae Word 2016",
+      "creationdate": "D:20240617120813-04'00'",
+      "author": "Amy Rees",
+      "producer": "Microsoft\u00ae Word 2016"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///72a04016719cef58f04d197480045b30da54de2390e553b4d160cf9a60a54eda"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "FREMONT MUNICIPAL COURT",
+   "htmlTitle": "FREMONT MUNICIPAL COURT",
+   "link": "http://fremontmunicipalcourt.org/pdf/localRules-20190305.pdf",
+   "displayLink": "fremontmunicipalcourt.org",
+   "snippet": "Mar 5, 2019 ... (A) The clerk of court shall maintain separate civil and criminal records and dockets as required by. Ohio Revised Code Section 1901.31 (E).",
+   "htmlSnippet": "Mar 5, 2019 <b>...</b> (A) The clerk of court shall maintain separate civil and criminal records and dockets as required by. <b>Ohio Revised Code</b> Section 1901.31 (E).",
+   "formattedUrl": "http://fremontmunicipalcourt.org/pdf/localRules-20190305.pdf",
+   "htmlFormattedUrl": "http://fremontmunicipalcourt.org/pdf/localRules-20190305.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfT9749D1bU-bcxwJvYBwUO7zPTJHNuGdMRWp9-h-cpVZDkMiJLdWhgtA&s",
+      "width": "245",
+      "height": "206"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20190305091433-05'00'",
+      "creationdate": "D:20190305091433-05'00'",
+      "creator": "Acrobat PDFMaker 9.0 for Word",
+      "sourcemodified": "D:20190304205726",
+      "author": "wbishop",
+      "producer": "Adobe PDF Library 9.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///2f252a5435a73233bc0848b0cbb9828075a484c62e520840d851b3901073583d"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CHAPTER 3: VOTER REGISTRATION Directive 2019-13",
+   "htmlTitle": "CHAPTER 3: VOTER REGISTRATION Directive 2019-13",
+   "link": "https://www.ohiosos.gov/globalassets/elections/directives/2019/dir2019-13_eom_ch_03.pdf",
+   "displayLink": "www.ohiosos.gov",
+   "snippet": "period of at least four years, in accordance with the Secretary of State's retention chart. ... update, or renew a driver's license or state identification card\u00a0...",
+   "htmlSnippet": "period of <b>at</b> least four years, in accordance with the Secretary of State&#39;s <b>retention</b> chart. ... update, or renew a <b>driver&#39;s license</b> or state <b>identification card</b>&nbsp;...",
+   "formattedUrl": "https://www.ohiosos.gov/globalassets/.../2019/dir2019-13_eom_ch_03.pdf",
+   "htmlFormattedUrl": "https://www.ohiosos.gov/globalassets/.../2019/dir2019-13_eom_ch_03.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaDXG6p8NZmGYkIiWx5V5wSRh0KNthJtPws24TJG2SJzHCcmEivIGdxz4N&s",
+      "width": "204",
+      "height": "247"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20190806171441-04'00'",
+      "creationdate": "D:20190806171409-04'00'",
+      "creator": "Acrobat PDFMaker 19 for Word",
+      "sourcemodified": "D:20190806211311",
+      "author": "Macdonald, Cassandra",
+      "producer": "Adobe PDF Library 19.12.66",
+      "company": "Ohio SOS"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///ad74487a2ce07afb1665bcfb4bad6f232e2358f7e91e62dfe3de848e4b2d2c17"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MOTORCYCLE OPERATOR MANUAL",
+   "htmlTitle": "MOTORCYCLE OPERATOR MANUAL",
+   "link": "https://publicsafety.ohio.gov/links/mop0001.pdf",
+   "displayLink": "publicsafety.ohio.gov",
+   "snippet": "Each operator must have a valid. Temporary Instruction Permit. Identification Card (TIPIC) or motorcycle license or endorsement. ... the Ohio Revised code, or\u00a0...",
+   "htmlSnippet": "Each operator must have a valid. Temporary Instruction Permit. <b>Identification Card</b> (TIPIC) or motorcycle license or endorsement. ... the <b>Ohio Revised code</b>, or&nbsp;...",
+   "formattedUrl": "https://publicsafety.ohio.gov/links/mop0001.pdf",
+   "htmlFormattedUrl": "https://publicsafety.ohio.gov/links/mop0001.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ2nid4VljZmsg0YDkgd7Wso3EFwPmzQ0-GQEI6wbrapO0S-Sa4C8pv3UC&s",
+      "width": "233",
+      "height": "216"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20240403070338-04'00'",
+      "creationdate": "D:20240402130838-04'00'",
+      "creator": "Adobe InDesign 19.3 (Windows)",
+      "producer": "Adobe PDF Library 17.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///3d870d17e88ab354edaed0627538b602df3283d0e57f65f27898b1ad3b7ecc70"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

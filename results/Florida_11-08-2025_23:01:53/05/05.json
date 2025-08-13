@@ -1,0 +1,327 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Florida Statutes\" \"driver's license\" OR \"identification card\" around 10 \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" around 25 \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "totalResults": "5500",
+    "searchTerms": "\"Florida Statutes\" \"driver's license\" OR \"identification card\" around 10 \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" around 25 \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Florida Statutes\" \"driver's license\" OR \"identification card\" around 10 \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" around 25 \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "totalResults": "5500",
+    "searchTerms": "\"Florida Statutes\" \"driver's license\" OR \"identification card\" around 10 \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" around 25 \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.165436,
+  "formattedSearchTime": "0.17",
+  "totalResults": "5500",
+  "formattedTotalResults": "5,500"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "The 2024 Florida Statutes (including 2025 Special Session C)",
+   "htmlTitle": "The 2024 <b>Florida Statutes</b> (including 2025 Special Session C)",
+   "link": "http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0322/0322.html",
+   "displayLink": "www.leg.state.fl.us",
+   "snippet": "... swipe an individual's driver license or identification card, except for the following purposes: ... swiping the driver license or identification card. (4) A\u00a0...",
+   "htmlSnippet": "... <b>swipe</b> an individual&#39;s driver license or <b>identification card</b>, except for the following purposes: ... <b>swiping</b> the driver license or <b>identification card</b>. (4) A&nbsp;...",
+   "formattedUrl": "http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display...",
+   "htmlFormattedUrl": "http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display..."
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Untitled",
+   "htmlTitle": "Untitled",
+   "link": "https://www.flsenate.gov/Session/Bill/2013/7125/Amendment/370784/HTML",
+   "displayLink": "www.flsenate.gov",
+   "snippet": "... Delete lines 1647 - 1723 5 and insert: 6 Section 38. Section 322.143 ... swiping the driver license or 42 identification card. 43 (4) A private\u00a0...",
+   "htmlSnippet": "... <b>Delete</b> lines 1647 - 1723 5 and insert: 6 Section 38. Section 322.143 ... <b>swiping</b> the driver license or 42 <b>identification card</b>. 43 (4) A private&nbsp;...",
+   "formattedUrl": "https://www.flsenate.gov/Session/Bill/2013/7125/Amendment/.../HTML",
+   "htmlFormattedUrl": "https://www.flsenate.gov/Session/Bill/2013/7125/Amendment/.../HTML"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "FAQs - FL HealthSource \u2022 Health Care Resources for Consumers ...",
+   "htmlTitle": "FAQs - FL HealthSource \u2022 Health Care Resources for Consumers ...",
+   "link": "https://flhealthsource.gov/background-screening/bgs-faqs/",
+   "displayLink": "flhealthsource.gov",
+   "snippet": "One of the two types of identification must bear your picture and signature such as a driver's license, state identification card or passport. If you are an\u00a0...",
+   "htmlSnippet": "One of the two types of identification must bear your picture and signature such as a <b>driver&#39;s license</b>, state <b>identification card</b> or passport. If you are an&nbsp;...",
+   "formattedUrl": "https://flhealthsource.gov/background-screening/bgs-faqs/",
+   "htmlFormattedUrl": "https://flhealthsource.gov/background-screening/bgs-faqs/",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:type": "article",
+      "article:published_time": "2021-12-02T14:22:17+00:00",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "FAQs - FL HealthSource \u2022 Health Care Resources for Consumers & Providers",
+      "og:site_name": "FL HealthSource \u2022 Health Care Resources for Consumers & Providers -",
+      "og:title": "FAQs - FL HealthSource \u2022 Health Care Resources for Consumers & Providers",
+      "msapplication-tileimage": "https://flhealthsource.gov/wp-content/uploads/2021/12/favicon.ico",
+      "og:description": "Now Required - Background Screening As of July 1, 2025, all* health care practitioners must comply with background screening requirements when applying for initial licensure or renewing their license. *Emergency medical technicians, paramedics, pharmacy interns, registered pharmacy technicians, and radiologic technologists are exempt unless applying through the military active-duty spouse licensure pathway. Fingerprint retention requirements",
+      "article:modified_time": "2025-07-14T20:53:19+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Now Required - Background Screening As of July 1, 2025, all* health care practitioners must comply with background screening requirements when applying for initial licensure or renewing their license. *Emergency medical technicians, paramedics, pharmacy interns, registered pharmacy technicians, and radiologic technologists are exempt unless applying through the military active-duty spouse licensure pathway. Fingerprint retention requirements",
+      "og:locale": "en_US",
+      "og:url": "https://flhealthsource.gov/background-screening/bgs-faqs/"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Florida CDL Handbook 2022",
+   "htmlTitle": "Florida CDL Handbook 2022",
+   "link": "https://www.flhsmv.gov/pdf/handbooks/englishcdlhandbook.pdf",
+   "displayLink": "www.flhsmv.gov",
+   "snippet": "Legal authority is found in Chapters 316, 318, and 322,. Florida Statutes. ... \u2022 An identification card may be issued at no fee to an applicant who is 80\u00a0...",
+   "htmlSnippet": "Legal authority is found in Chapters 316, 318, and 322,. <b>Florida Statutes</b>. ... \u2022 An <b>identification card</b> may be issued <b>at</b> no fee to an applicant who is 80&nbsp;...",
+   "formattedUrl": "https://www.flhsmv.gov/pdf/handbooks/englishcdlhandbook.pdf",
+   "htmlFormattedUrl": "https://www.flhsmv.gov/pdf/handbooks/englishcdlhandbook.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOU5_h3Ymx3Lkw1vXJBK5Ol6bacHIzXvjFC7MTw8wwifhHUddJebSCAsRm&s",
+      "width": "197",
+      "height": "255"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20220805161701-04'00'",
+      "creationdate": "D:20220725131305-04'00'",
+      "creator": "Adobe Acrobat Pro DC (64-bit) 22.1.20169",
+      "producer": "Adobe Acrobat Pro DC (64-bit) 22.1.20169"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///e1aa6e4d3dce1ede31aa5d3f835f51fa7ca9300907fb4d72ce2e287cbc8ebaf9"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "WHAT MUST I PROVIDE TO THE LIVESCAN SERVICE PROVIDER ...",
+   "htmlTitle": "WHAT MUST I PROVIDE TO THE LIVESCAN SERVICE PROVIDER ...",
+   "link": "https://flhealthsource.gov/faq/what-must-i-provide-to-the-livescan-service-provider-i-choose/",
+   "displayLink": "flhealthsource.gov",
+   "snippet": "Apr 10, 2025 ... ... driver's license, state identification card or passport. If you. ... throughout the Florida Statutes. APRNs would be licensed instead of\u00a0...",
+   "htmlSnippet": "Apr 10, 2025 <b>...</b> ... <b>driver&#39;s license</b>, state <b>identification card</b> or passport. If you. ... <b>throughout</b> the <b>Florida Statutes</b>. APRNs would be licensed instead of&nbsp;...",
+   "formattedUrl": "https://flhealthsource.gov/.../what-must-i-provide-to-the-livescan-service-pr...",
+   "htmlFormattedUrl": "https://flhealthsource.gov/.../what-must-i-provide-to-the-live<b>scan</b>-service-pr...",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:type": "article",
+      "article:published_time": "2025-04-10T21:01:18+00:00",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "WHAT MUST I PROVIDE TO THE LIVESCAN SERVICE PROVIDER I CHOOSE? - FL HealthSource \u2022 Health Care Resources for Consumers & Providers",
+      "og:site_name": "FL HealthSource \u2022 Health Care Resources for Consumers & Providers -",
+      "og:title": "WHAT MUST I PROVIDE TO THE LIVESCAN SERVICE PROVIDER I CHOOSE? - FL HealthSource \u2022 Health Care Resources for Consumers & Providers",
+      "msapplication-tileimage": "https://flhealthsource.gov/wp-content/uploads/2021/12/favicon.ico",
+      "og:description": "Provide the following to the LiveScan service provider: All applicants will be required to bring two (2) forms of identification to the electronic fingerprinting site on the day of fingerprinting. One of the two types of identification must bear your picture and signature such as a driver's license, state identification card or passport. If you",
+      "article:modified_time": "2025-04-14T14:33:19+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Provide the following to the LiveScan service provider: All applicants will be required to bring two (2) forms of identification to the electronic fingerprinting site on the day of fingerprinting. One of the two types of identification must bear your picture and signature such as a driver's license, state identification card or passport. If you",
+      "og:locale": "en_US",
+      "og:url": "https://flhealthsource.gov/faq/what-must-i-provide-to-the-livescan-service-provider-i-choose/"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "OFFICIAL RECORDS OF CONDOMINIUM ASSOCIATIONS ...",
+   "htmlTitle": "OFFICIAL RECORDS OF CONDOMINIUM ASSOCIATIONS ...",
+   "link": "https://www2.myfloridalicense.com/lsc/documents/OfficialRecordsofourCondominiumAssociation.pdf",
+   "displayLink": "www2.myfloridalicense.com",
+   "snippet": "section 718.111(12)(a), Florida Statutes must be available for distribution upon request. ... scanning or taking photographs, to make an electronic copy of\u00a0...",
+   "htmlSnippet": "section 718.111(12)(a), <b>Florida Statutes</b> must be available for distribution upon request. ... <b>scanning</b> or taking photographs, to make an electronic copy of&nbsp;...",
+   "formattedUrl": "https://www2.myfloridalicense.com/.../OfficialRecordsofourCondominium...",
+   "htmlFormattedUrl": "https://www2.myfloridalicense.com/.../OfficialRecordsofourCondominium...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIOR_JzPWbvAVJ9PFf6wqLeUvkeDGbZLNJcqCCYvDrSEdIxq4qbHkIzB4&s",
+      "width": "232",
+      "height": "217"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20241016155534-04'00'",
+      "creationdate": "D:20240710155810-04'00'",
+      "creator": "Acrobat PDFMaker 24 for Word",
+      "lastsaved": "D:20240407",
+      "sourcemodified": "D:20240710164900",
+      "author": "keith.soans",
+      "created": "D:20231220",
+      "producer": "Adobe PDF Library 24.2.159",
+      "title": "Microsoft Word - OfficialRecordsofourCondominiumAssociation"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///2a5e399d053fcfc5fd6664107392a9ec789bc820539146415325d599c8732ac2"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CFOP 060-25 Chapter 01 - Recruitment and Selection",
+   "htmlTitle": "CFOP 060-<b>25</b> Chapter 01 - Recruitment and Selection",
+   "link": "https://www.myflfamilies.com/sites/default/files/2025-03/CFOP%20060-25%20Chapter%2001%20-%20Recruitment%20and%20Selection.pdf",
+   "displayLink": "www.myflfamilies.com",
+   "snippet": "valid Driver's License, etc., should be included in ... Checklist; scan and send all required supporting documents to Human Services at a minimum of five.",
+   "htmlSnippet": "valid <b>Driver&#39;s License</b>, etc., should be included in ... Checklist; <b>scan</b> and send all required supporting documents to Human Services <b>at</b> a minimum of five.",
+   "formattedUrl": "https://www.myflfamilies.com/.../CFOP%20060-25%20Chapter%2001%20-...",
+   "htmlFormattedUrl": "https://www.myflfamilies.com/.../CFOP%20060-25%20Chapter%2001%20-...",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20250325092032-04'00'",
+      "creationdate": "D:20211202141728-05'00'",
+      "creator": "Microsoft\u00ae Word for Microsoft 365",
+      "subject": "CFOP 060-25 Chapter 01 - Recruitment and Selection",
+      "producer": "Microsoft\u00ae Word for Microsoft 365",
+      "title": "CFOP 060-25 Chapter 01 - Recruitment and Selection"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Member Handbook | FRS Online",
+   "htmlTitle": "Member Handbook | FRS Online",
+   "link": "https://frs.fl.gov/forms/member_handbook.pdf",
+   "displayLink": "frs.fl.gov",
+   "snippet": "Dec 1, 1970 ... scanning the below QR code. ... Reference: Section 121.051, Florida Statutes. Sections 60S-1.004, Florida Administrative Code. Page 25. 23.",
+   "htmlSnippet": "Dec 1, 1970 <b>...</b> <b>scanning</b> the below QR code. ... Reference: Section 121.051, <b>Florida Statutes</b>. Sections 60S-1.004, Florida Administrative Code. Page <b>25</b>. 23.",
+   "formattedUrl": "https://frs.fl.gov/forms/member_handbook.pdf",
+   "htmlFormattedUrl": "https://frs.fl.gov/forms/member_handbook.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWZlFzOfWdeXaD7Zu8U-uynHq4j8IEwXDdEUNVy1dq9WtpT5pFEySqJgA&s",
+      "width": "197",
+      "height": "256"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20250717122340-04'00'",
+      "creationdate": "D:20250717075538-04'00'",
+      "creator": "Microsoft\u00ae Word for Microsoft 365",
+      "author": "Sharon K. Lowe",
+      "producer": "Microsoft\u00ae Word for Microsoft 365",
+      "title": "Member Handbook"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///9588343d171e27884b59a3ad9dd89469157b6278e20f1f16a3d46920d5a3b1c5"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Laws and Rules- Rev. 11/2021 - Florida Board of Physical Therapy",
+   "htmlTitle": "Laws and Rules- Rev. 11/2021 - Florida Board of Physical Therapy",
+   "link": "https://floridasphysicaltherapy.gov/forms/pt-study.pdf",
+   "displayLink": "floridasphysicaltherapy.gov",
+   "snippet": "Nov 17, 2021 ... job retention in the state or that places unreasonable restrictions ... identification card and the wall card if the licensee's license\u00a0...",
+   "htmlSnippet": "Nov 17, 2021 <b>...</b> job <b>retention</b> in the state or that places unreasonable restrictions ... <b>identification card</b> and the wall card if the licensee&#39;s license&nbsp;...",
+   "formattedUrl": "https://floridasphysicaltherapy.gov/forms/pt-study.pdf",
+   "htmlFormattedUrl": "https://floridasphysicaltherapy.gov/forms/pt-study.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiWE-v2_8Pc2LcgR5W6IqMerqq6PI6sZ4QSuWNMvick38ad4tbnvmCRdY&s",
+      "width": "171",
+      "height": "193"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20211206082627-05'00'",
+      "creator": "Microsoft\u00ae Word for Microsoft 365",
+      "creationdate": "D:20211206082627-05'00'",
+      "author": "Kayla Karpp",
+      "producer": "Microsoft\u00ae Word for Microsoft 365",
+      "title": "Florida Board of Physical Therapy- Laws and Rules- Rev. 11/2021"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///571570c55b2721bccb80b1325a1445db6c63ba6915ddf1ce08fd4c503265bf41"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Who is Eligible to Apply to Take the Examination? Important ...",
+   "htmlTitle": "Who is Eligible to Apply to Take the Examination? Important ...",
+   "link": "https://floridasnursing.gov/applications/121115-exam_app.pdf",
+   "displayLink": "floridasnursing.gov",
+   "snippet": "464.019,. Florida Statutes. An \"accredited\" nursing education program is a ... nurse retention and recruitment. Increasing production of new nurses\u00a0...",
+   "htmlSnippet": "464.019,. <b>Florida Statutes</b>. An &quot;accredited&quot; nursing education program is a ... nurse <b>retention</b> and recruitment. Increasing production of new nurses&nbsp;...",
+   "formattedUrl": "https://floridasnursing.gov/applications/121115-exam_app.pdf",
+   "htmlFormattedUrl": "https://floridasnursing.gov/applications/121115-exam_app.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20160208155818-05'00'",
+      "creationdate": "D:20131101093046-04'00'",
+      "creator": "PDFCreator Version 1.2.0",
+      "author": "spoonerwe",
+      "producer": "GPL Ghostscript  9.0",
+      "title": "Final Exam App- 10-13.pdf"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

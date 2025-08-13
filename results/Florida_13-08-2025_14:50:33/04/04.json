@@ -1,0 +1,348 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Florida Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "totalResults": "40900",
+    "searchTerms": "\"Florida Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Florida Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "totalResults": "40900",
+    "searchTerms": "\"Florida Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.33673,
+  "formattedSearchTime": "0.34",
+  "totalResults": "40900",
+  "formattedTotalResults": "40,900"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "The 2024 Florida Statutes (including 2025 Special Session C)",
+   "htmlTitle": "The 2024 <b>Florida Statutes</b> (including 2025 Special Session C)",
+   "link": "http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0322/Sections/0322.143.html",
+   "displayLink": "www.leg.state.fl.us",
+   "snippet": "... store, sell, or share personal information collected from swiping the driver license or identification card. (4) A private entity that swipes an\u00a0...",
+   "htmlSnippet": "... <b>store</b>, <b>sell</b>, or <b>share</b> personal information collected from <b>swiping</b> the <b>driver license</b> or <b>identification card</b>. (4) A private entity that swipes an&nbsp;...",
+   "formattedUrl": "http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display...",
+   "htmlFormattedUrl": "http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display..."
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Chapter 322 Section 143 - 2013 Florida Statutes - The Florida Senate",
+   "htmlTitle": "Chapter 322 Section 143 - 2013 <b>Florida Statutes</b> - The Florida Senate",
+   "link": "https://www.flsenate.gov/laws/statutes/2013/322.143",
+   "displayLink": "www.flsenate.gov",
+   "snippet": "... store, sell, or share personal information collected from swiping the driver license or identification card. (4) A private entity that swipes an\u00a0...",
+   "htmlSnippet": "... <b>store</b>, <b>sell</b>, or <b>share</b> personal information collected from <b>swiping</b> the <b>driver license</b> or <b>identification card</b>. (4) A private entity that swipes an&nbsp;...",
+   "formattedUrl": "https://www.flsenate.gov/laws/statutes/2013/322.143",
+   "htmlFormattedUrl": "https://www.flsenate.gov/laws/statutes/2013/322.143"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The 2024 Florida Statutes (including 2025 Special Session C)",
+   "htmlTitle": "The 2024 <b>Florida Statutes</b> (including 2025 Special Session C)",
+   "link": "http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0300-0399/0322/Sections/0322.032.html",
+   "displayLink": "www.leg.state.fl.us",
+   "snippet": "... identification card may not store, sell, or share personal information collected from such scanning of the digital proof of driver license or identification\u00a0...",
+   "htmlSnippet": "... <b>identification card</b> may not <b>store</b>, <b>sell</b>, or <b>share</b> personal information collected from such <b>scanning</b> of the digital proof of <b>driver license</b> or <b>identification</b>&nbsp;...",
+   "formattedUrl": "http://www.leg.state.fl.us/statutes/index.cfm?App_mode...032...",
+   "htmlFormattedUrl": "http://www.leg.state.fl.us/statutes/index.cfm?App_mode...032..."
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Identity Theft & Driver License Fraud Protection - Florida Department ...",
+   "htmlTitle": "Identity Theft &amp; <b>Driver License</b> Fraud Protection - Florida Department ...",
+   "link": "https://www.flhsmv.gov/safety-center/consumer-education/fraud/identity-theft-driver-license-fraud/",
+   "displayLink": "www.flhsmv.gov",
+   "snippet": "Section 322.33, Florida Statutes. Although making and using fake ID's are a crime, it is not considered driver license or ID card fraud until such documents are\u00a0...",
+   "htmlSnippet": "Section 322.33, <b>Florida Statutes</b>. Although making and using fake ID&#39;s are a crime, it is not considered <b>driver license</b> or ID card fraud until such documents are&nbsp;...",
+   "formattedUrl": "https://www.flhsmv.gov/safety-center/.../identity-theft-driver-license-fraud/",
+   "htmlFormattedUrl": "https://www.flhsmv.gov/safety-center/.../identity-theft-<b>driver-license</b>-fraud/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSahsos2oLxDZd27dJFBvcze5QyFGEzvbU6WOpHNOlS7BBq5HLipcOENURT&s",
+      "width": "243",
+      "height": "153"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.flhsmv.gov/wp-content/uploads/front-new-driver-license.png",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Florida Department of Highway Safety and Motor Vehicles",
+      "twitter:site": "@FLHSMV",
+      "article:modified_time": "2023-10-09T18:25:54+00:00",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Identity Theft & Driver License Fraud Protection",
+      "og:locale": "en_US",
+      "og:url": "https://www.flhsmv.gov/safety-center/consumer-education/fraud/identity-theft-driver-license-fraud/",
+      "og:description": "Language | Idioma English Espa\u00f1ol The Florida Department of Highway Safety & Motor Vehicles (FLHSMV) is committed to protecting the integrity of the identity documents issued by the agency. In order to prevent the issuance of driver licenses and ID cards to people who are not eligible to receive these documents, the FLHSMV has enacted [\u2026]",
+      "article:publisher": "https://www.facebook.com/FLHSMV/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.flhsmv.gov/wp-content/uploads/front-new-driver-license.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Surrendered Driver License/ID \u2013 Manatee County Tax Collector ...",
+   "htmlTitle": "Surrendered <b>Driver License</b>/ID \u2013 Manatee County Tax Collector ...",
+   "link": "https://helpcenter.taxcollector.com/hc/en-us/articles/26749410029837-Surrendered-Driver-License-ID",
+   "displayLink": "helpcenter.taxcollector.com",
+   "snippet": "... scan the QR code to access the application \u2013 prior to your appointment. Do ... Section 322.059, Florida Statutes, states that any person whose driver's license or\u00a0...",
+   "htmlSnippet": "... <b>scan</b> the QR code to access the application \u2013 prior to your appointment. Do ... Section 322.059, <b>Florida Statutes</b>, states that any person whose <b>driver&#39;s license</b> or&nbsp;...",
+   "formattedUrl": "https://helpcenter.taxcollector.com/.../26749410029837-Surrendered-Drive...",
+   "htmlFormattedUrl": "https://helpcenter.taxcollector.com/.../26749410029837-Surrendered-<b>Drive</b>...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhl9_ubm-fLctiIS2SD1hIeG18eYU6BwuiauigB0bLeSpon8_kxAxgvVQ&s",
+      "width": "200",
+      "height": "72"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://helpcenter.taxcollector.com/hc/theming_assets/01J2CG11GE1DDK9THAR475YQPJ",
+      "og:type": "website",
+      "og:site_name": "Manatee County Tax Collector | Help Center",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Surrendered Driver License/ID",
+      "og:url": "https://helpcenter.taxcollector.com/hc/en-us/articles/26749410029837-Surrendered-Driver-License-ID",
+      "og:description": "THIS TRANSACTION MUST BE PROCESSED\u00a0BY APPOINTMENT\u00a0AT THEDRIVER LICENSE BRANCH \u2013 904 301 BLVD W, BRADENTONCustomers will be charged a $6.25 Tax Collector service fee for information and processing, ..."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://helpcenter.taxcollector.com/hc/theming_assets/01J2CG11GE1DDK9THAR475YQPJ"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver Privacy Protection Act - Florida Department of Highway Safety ...",
+   "htmlTitle": "Driver Privacy Protection Act - Florida Department of Highway Safety ...",
+   "link": "https://www.flhsmv.gov/privacy-statement/driver-privacy-protection-act/",
+   "displayLink": "www.flhsmv.gov",
+   "snippet": "The department automatically blocks personal information in all motor vehicle and driver license records that we maintain. ... DPPA restricts public access to\u00a0...",
+   "htmlSnippet": "The department automatically blocks personal information in all motor vehicle and <b>driver license</b> records that we <b>maintain</b>. ... DPPA restricts public access to&nbsp;...",
+   "formattedUrl": "https://www.flhsmv.gov/privacy-statement/driver-privacy-protection-act/",
+   "htmlFormattedUrl": "https://www.flhsmv.gov/privacy-statement/driver-privacy-protection-act/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ1njz9HjjwYGl3erVUFmUBQJ6_lKa0nr_Kua4fysucs65AVgVxVtWze_Q&s",
+      "width": "380",
+      "height": "133"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Florida Department of Highway Safety and Motor Vehicles",
+      "twitter:site": "@FLHSMV",
+      "article:modified_time": "2024-05-24T18:43:29+00:00",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Driver Privacy Protection Act",
+      "og:locale": "en_US",
+      "og:url": "https://www.flhsmv.gov/privacy-statement/driver-privacy-protection-act/",
+      "og:description": "Language | Idioma English Espa\u00f1ol Under Florida law, motor vehicle, driver license and vehicular crash record information are public information. The Driver Privacy Protection Act, 18 United States Code, Section 2721, keeps your personal information private by limiting those who can have it. The department automatically blocks personal information in all motor vehicle and driver [\u2026]",
+      "article:publisher": "https://www.facebook.com/FLHSMV/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.flhsmv.gov/wp-content/themes/flhsmv/images/logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Florida Statutes \u00a7 28.2225 (2024) - Title Fraud Prevention Through ...",
+   "htmlTitle": "<b>Florida Statutes</b> \u00a7 28.2225 (2024) - Title Fraud Prevention Through ...",
+   "link": "https://law.justia.com/codes/florida/title-v/chapter-28/section-28-2225/",
+   "displayLink": "law.justia.com",
+   "snippet": "2024 Florida Statutes Title V - Judicial Branch Chapter 28 - Clerks of the Circuit Courts 28.2225 - Title Fraud Prevention Through Identity Verification; Pilot\u00a0...",
+   "htmlSnippet": "2024 <b>Florida Statutes</b> Title V - Judicial Branch Chapter 28 - Clerks of the Circuit Courts 28.2225 - Title Fraud Prevention Through Identity <b>Verification</b>; Pilot&nbsp;...",
+   "formattedUrl": "https://law.justia.com/codes/florida/title-v/chapter-28/section-28-2225/",
+   "htmlFormattedUrl": "https://law.justia.com/codes/florida/title-v/chapter-28/section-28-2225/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPP2ksOfM4IyWL7PTxPyS5N80Or-jyXZZLgeH1kYuOtXk5YU597YCxGszS&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "og:site_name": "Justia Law",
+      "og:title": "2024 Florida Statutes :: Title V - Judicial Branch :: Chapter 28 - Clerks of the Circuit Courts :: 28.2225 - Title Fraud Prevention Through Identity Verification; Pilot Program.",
+      "og:app_id": "119529808075661",
+      "trigger-ga": "1",
+      "og:description": "Justia Free Databases of U.S. Laws, Codes & Statutes",
+      "og:admins": "656268335,686786921,25900864",
+      "referrer": "unsafe-url",
+      "twitter:site": "@JustiaCom",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "page-type": "Law: Codes Document Page (Current Year)",
+      "is-li": "0",
+      "og:url": "https://law.justia.com/codes/florida/title-v/chapter-28/section-28-2225/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Florida Statutes Title XXIII. Motor Vehicles \u00a7 322.143 | FindLaw",
+   "htmlTitle": "<b>Florida Statutes</b> Title XXIII. Motor Vehicles \u00a7 322.143 | FindLaw",
+   "link": "https://codes.findlaw.com/fl/title-xxiii-motor-vehicles/fl-st-sect-322-143/",
+   "displayLink": "codes.findlaw.com",
+   "snippet": "... store, sell, or share personal information collected from swiping the driver license or identification card. (4) A private entity that swipes an\u00a0...",
+   "htmlSnippet": "... <b>store</b>, <b>sell</b>, or <b>share</b> personal information collected from <b>swiping</b> the <b>driver license</b> or <b>identification card</b>. (4) A private entity that swipes an&nbsp;...",
+   "formattedUrl": "https://codes.findlaw.com/fl/title-xxiii-motor-vehicles/fl-st-sect-322-143/",
+   "htmlFormattedUrl": "https://codes.findlaw.com/fl/title-xxiii-motor-vehicles/fl-st-sect-322-143/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuWtKEZ0kzYj6NSuZlgNrAF5XcYIi9XgsiqHcAgQHtxY18xcWZ1bDMaCM&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png",
+      "og:type": "article",
+      "og:site_name": "Findlaw",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Florida Statutes Title XXIII. Motor Vehicles \u00a7 322.143 | FindLaw",
+      "apple-mobile-web-app-title": "FindLaw",
+      "og:url": "https://codes.findlaw.com/fl/title-xxiii-motor-vehicles/fl-st-sect-322-143/",
+      "og:description": "Florida Title XXIII. Motor Vehicles   Section 322.143. Read the code on FindLaw"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "implementation of attendance requirements for minors to maintain ...",
+   "htmlTitle": "implementation of attendance requirements for minors to <b>maintain</b> ...",
+   "link": "https://info.fldoe.org/docushare/dsweb/Get/Document-382/DL%20TAP%2002.pdf",
+   "displayLink": "info.fldoe.org",
+   "snippet": "The outcome of the hearing must be conveyed to DHSMV via electronic transmission ... driver license until the student provides verification of compliance required\u00a0...",
+   "htmlSnippet": "The outcome of the hearing must be conveyed to DHSMV via electronic <b>transmission</b> ... <b>driver license</b> until the student provides <b>verification</b> of compliance required&nbsp;...",
+   "formattedUrl": "https://info.fldoe.org/docushare/dsweb/Get/...382/DL%20TAP%2002.pdf",
+   "htmlFormattedUrl": "https://info.fldoe.org/docu<b>share</b>/dsweb/Get/...382/DL%20TAP%2002.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20020813103328-04'00'",
+      "creationdate": "D:20020813103324-04'00'",
+      "creator": "Adobe PageMaker 7.0",
+      "subject": "DL TAP 02",
+      "producer": "Acrobat Distiller 5.00 for Macintosh",
+      "title": "DL TAP 02"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Frequently Asked Questions - Florida Board of Nursing",
+   "htmlTitle": "Frequently Asked Questions - Florida Board of Nursing",
+   "link": "https://floridasnursing.gov/frequently-asked-questions/",
+   "displayLink": "floridasnursing.gov",
+   "snippet": "Proof of residency such as a driver's license may be required. Upon issuance of a new multistate license, the former license is inactivated. ... The nurse is\u00a0...",
+   "htmlSnippet": "Proof of residency such as a <b>driver&#39;s license</b> may be required. Upon issuance of a new multistate license, the former license is inactivated. ... The nurse is&nbsp;...",
+   "formattedUrl": "https://floridasnursing.gov/frequently-asked-questions/",
+   "htmlFormattedUrl": "https://floridasnursing.gov/frequently-asked-questions/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv2VMSWQVpEgU47htEvqWx4xjC0xja2eqU9dxdzIE8tkQLLrxFIZeekA4&s",
+      "width": "187",
+      "height": "187"
+     }
+    ],
+    "metatags": [
+     {
+      "theme-color": "#ffffff",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Florida Board of Nursing",
+      "article:modified_time": "2025-04-14T19:20:16+00:00",
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+      "tec-api-origin": "https://floridasnursing.gov",
+      "og:title": "Frequently Asked Questions - Florida Board of Nursing",
+      "og:locale": "en_US",
+      "og:url": "https://floridasnursing.gov/frequently-asked-questions/",
+      "tec-api-version": "v1",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "webpage": [
+     {
+      "maincontentofpage": "Frequently Asked Questions Welcome to the Florida Board of Nursing Help Center \u2013 an online tool for applicants, licensees, and the public to search and access our Frequently Asked Questions..."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://floridasnursing.gov/wp-content/themes/betheme-child/assets/logo.png"
+     }
+    ]
+   }
+  }
+ ]
+}

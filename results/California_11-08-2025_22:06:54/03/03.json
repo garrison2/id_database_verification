@@ -1,0 +1,388 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"California Code\" \"personally identifiable information\" OR \"personal information\" \"defined\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "37800",
+    "searchTerms": "\"California Code\" \"personally identifiable information\" OR \"personal information\" \"defined\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"California Code\" \"personally identifiable information\" OR \"personal information\" \"defined\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "37800",
+    "searchTerms": "\"California Code\" \"personally identifiable information\" OR \"personal information\" \"defined\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.162825,
+  "formattedSearchTime": "0.16",
+  "totalResults": "37800",
+  "formattedTotalResults": "37,800"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "What Is \"Personal Information\" Under CCPA? - California Lawyers ...",
+   "htmlTitle": "What Is &quot;<b>Personal Information</b>&quot; Under CCPA? - California Lawyers ...",
+   "link": "https://calawyers.org/privacy-law/what-is-personal-information-under-the-california-consumer-privacy-act/",
+   "displayLink": "calawyers.org",
+   "snippet": "Sep 30, 2019 ... ... driver's license number, passport number, or other similar identifiers[4]. ... defined to mean \u201can individual's physiological, biological\u00a0...",
+   "htmlSnippet": "Sep 30, 2019 <b>...</b> ... <b>driver&#39;s license</b> number, passport number, or other similar identifiers[4]. ... <b>defined</b> to mean \u201can individual&#39;s physiological, biological&nbsp;...",
+   "formattedUrl": "https://calawyers.org/.../what-is-personal-information-under-the-california-c...",
+   "htmlFormattedUrl": "https://calawyers.org/.../what-is-<b>personal-information</b>-under-the-california-c...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYdl6LLAnPgiIWWPqyB07v874ehBdZjNadEz-U3PiSy_RNIPKf-fE2yzX2&s",
+      "width": "245",
+      "height": "206"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://calawyers.org/wp-content/uploads/2019/08/CLA_logo-e1637274101193.png",
+      "og:type": "article",
+      "article:published_time": "2019-09-30T20:14:20+00:00",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "California Lawyers Association",
+      "tec-api-origin": "https://calawyers.org",
+      "author": "Brian",
+      "og:title": "What Is \"Personal Information\" Under CCPA? - California Lawyers Association",
+      "msapplication-tileimage": "https://calawyers.org/wp-content/uploads/2019/08/cropped-favicon-270x270.jpg",
+      "og:description": "The California Consumers Privacy Act (CCPA) represents a quantum leap in US privacy, and the core of that change is the expansive concept of personal information.",
+      "twitter:creator": "@CALawyersOrg",
+      "article:publisher": "https://www.facebook.com/CALawyersOrg/",
+      "twitter:site": "@CALawyersOrg",
+      "article:modified_time": "2025-07-09T17:09:44+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://calawyers.org/privacy-law/what-is-personal-information-under-the-california-consumer-privacy-act/",
+      "tec-api-version": "v1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://calawyers.org/wp-content/uploads/2019/08/CLA_logo-e1637274101193.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "California Code, Civil Code - CIV \u00a7 1798.140 | FindLaw",
+   "htmlTitle": "<b>California Code</b>, Civil Code - CIV \u00a7 1798.140 | FindLaw",
+   "link": "https://codes.findlaw.com/ca/civil-code/civ-sect-1798-140/",
+   "displayLink": "codes.findlaw.com",
+   "snippet": "... personal information relating to the consumer for a narrowly defined particular purpose. ... (A) A consumer's social security, driver's license, state\u00a0...",
+   "htmlSnippet": "... <b>personal information</b> relating to the consumer for a narrowly <b>defined</b> particular purpose. ... (A) A consumer&#39;s social security, <b>driver&#39;s license</b>, state&nbsp;...",
+   "formattedUrl": "https://codes.findlaw.com/ca/civil-code/civ-sect-1798-140/",
+   "htmlFormattedUrl": "https://codes.findlaw.com/ca/civil-code/civ-sect-1798-140/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuWtKEZ0kzYj6NSuZlgNrAF5XcYIi9XgsiqHcAgQHtxY18xcWZ1bDMaCM&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png",
+      "og:type": "article",
+      "og:site_name": "Findlaw",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "California Code, Civil Code - CIV \u00a7 1798.140 | FindLaw",
+      "apple-mobile-web-app-title": "FindLaw",
+      "og:url": "https://codes.findlaw.com/ca/civil-code/civ-sect-1798-140/",
+      "og:description": "California Civil Code CIV CA CIVIL  Section 1798.140. Read the code on FindLaw"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "California Consumer Privacy Act",
+   "htmlTitle": "California Consumer Privacy Act",
+   "link": "https://www.fmfarmcredit.com/california-consumer-privacy-act",
+   "displayLink": "www.fmfarmcredit.com",
+   "snippet": "Sep 1, 2020 ... ... California Code of Regulations (\u201cconsumers\u201d or \u201cyou\u201d). We adopt this ... FMFC does not sell Personal Information as defined in the CCPA.",
+   "htmlSnippet": "Sep 1, 2020 <b>...</b> ... <b>California Code</b> of Regulations (\u201cconsumers\u201d or \u201cyou\u201d). We adopt this ... FMFC does not sell <b>Personal Information</b> as <b>defined</b> in the CCPA.",
+   "formattedUrl": "https://www.fmfarmcredit.com/california-consumer-privacy-act",
+   "htmlFormattedUrl": "https://www.fmfarmcredit.com/california-consumer-privacy-act",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRafnBkmGoj9N-a3zJQ2Pz1Erp7xGN4VWqseLtNS-3GZMTCeSgrOI1cJso&s",
+      "width": "300",
+      "height": "150"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=2, user-scalable=1",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.fmfarmcredit.com/-/media/Images/Logos/Logo-for-Website-150x300px/Website-Logo-images-(1).ashx?h=150&iar=0&w=300&hash=7E98DD8F24160DBB886488F981A9E60B"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "TITLE 1.81. CUSTOMER RECORDS - Sections 1798.80-1798.84 ...",
+   "htmlTitle": "TITLE 1.81. CUSTOMER RECORDS - Sections 1798.80-1798.84 ...",
+   "link": "https://law.justia.com/codes/california/2005/civ/1798.80-1798.84.html",
+   "displayLink": "law.justia.com",
+   "snippet": "(B) Driver's license number or California identification card number. (C) Account number, credit or debit card number, in combination with any required\u00a0...",
+   "htmlSnippet": "(B) <b>Driver&#39;s license</b> number or California <b>identification card</b> number. (C) Account number, credit or debit card number, in combination with any required&nbsp;...",
+   "formattedUrl": "https://law.justia.com/codes/california/2005/civ/1798.80-1798.84.html",
+   "htmlFormattedUrl": "https://law.justia.com/codes/california/2005/civ/1798.80-1798.84.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF6tMvFPbIJqGnmnTW6XkFdDjhl5MmPOj8MHuFjo38QgKyMeeQBDgDYts&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://justatic.com/v/20250804101307/shared/images/social-media/law.jpg",
+      "og:type": "article",
+      "fb:app_id": "119529808075661",
+      "og:site_name": "Justia Law",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "page-type": "Law: Codes Page (Current Year)",
+      "og:title": "2005 California Civil Code Sections 1798.80-1798.84 ::  ::  TITLE 1.81. :: CUSTOMER RECORDS",
+      "is-logged-in": "0",
+      "fb:admins": "656268335,686786921,25900864",
+      "trigger-ga": "1",
+      "og:url": "https://law.justia.com/codes/california/2005/civ/1798.80-1798.84.html"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://justatic.com/v/20250804101307/shared/images/social-media/law.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "California Consumer Privacy Act Regulations",
+   "htmlTitle": "California Consumer Privacy Act Regulations",
+   "link": "https://cppa.ca.gov/regulations/pdf/cppa_regs.pdf",
+   "displayLink": "cppa.ca.gov",
+   "snippet": "Jan 2, 2024 ... as defined in Civil Code section 1798.140 ... (kk) \u201cUnstructured\u201d as it relates to personal information means personal information.",
+   "htmlSnippet": "Jan 2, 2024 <b>...</b> as <b>defined</b> in Civil Code section 1798.140 ... (kk) \u201cUnstructured\u201d as it relates to <b>personal information</b> means <b>personal information</b>.",
+   "formattedUrl": "https://cppa.ca.gov/regulations/pdf/cppa_regs.pdf",
+   "htmlFormattedUrl": "https://cppa.ca.gov/regulations/pdf/cppa_regs.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20240416145547-07'00'",
+      "creationdate": "D:20240416145033-07'00'",
+      "creator": "Acrobat PDFMaker 24 for Word",
+      "sourcemodified": "D:20240416215018",
+      "author": "California Privacy Protection Agency",
+      "producer": "Adobe PDF Library 24.1.124",
+      "title": "California Consumer Privacy Act Regulations"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Text of the CPRA | CPRA Resource Center",
+   "htmlTitle": "Text of the CPRA | CPRA Resource Center",
+   "link": "https://www.caprivacy.org/cpra-text/",
+   "displayLink": "www.caprivacy.org",
+   "snippet": "(1) Personal information that reveals: (A) A consumer's social security, driver's license, state identification card, or passport number. (B) A consumer's\u00a0...",
+   "htmlSnippet": "(1) <b>Personal information</b> that reveals: (A) A consumer&#39;s social security, <b>driver&#39;s license</b>, state <b>identification card</b>, or passport number. (B) A consumer&#39;s&nbsp;...",
+   "formattedUrl": "https://www.caprivacy.org/cpra-text/",
+   "htmlFormattedUrl": "https://www.caprivacy.org/cpra-text/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiSH9_Q5axCmB1eWOTA9ESIn37LQHK4cARHlxWQH7EAaW5R2U3-0PBTBU&s",
+      "width": "389",
+      "height": "129"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.caprivacy.org/wp-content/uploads/2021/01/California_Privacy_banner_op2.png",
+      "og:type": "article",
+      "og:image:width": "1500",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Text of the CPRA",
+      "og:site_name": "Yes on Prop 24",
+      "og:title": "Text of the CPRA",
+      "og:image:height": "500",
+      "twitter:label1": "Est. reading time",
+      "og:image:type": "image/png",
+      "msapplication-tileimage": "https://www.caprivacy.org/wp-content/uploads/2020/03/cropped-Lock-blue-1-270x270.png",
+      "og:description": "Text of the California Privacy Rights Act (CPRA) of 2020 that does NOT include changes from the text of the California Consumer Privacy Act (CCPA).",
+      "article:publisher": "https://www.facebook.com/caprivacyorg",
+      "twitter:image": "https://www.caprivacy.org/wp-content/uploads/2021/01/California_Privacy_banner_op2.png",
+      "twitter:data1": "131 minutes",
+      "twitter:site": "@caprivacyorg",
+      "article:modified_time": "2021-03-10T15:13:59+00:00",
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=1",
+      "twitter:description": "Text of the California Privacy Rights Act (CPRA) of 2020 that does NOT include changes from the text of the California Consumer Privacy Act (CCPA).",
+      "og:locale": "en_US",
+      "og:url": "https://www.caprivacy.org/cpra-text/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.caprivacy.org/wp-content/uploads/2021/01/California_Privacy_banner_op2.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "California New Motor Voter Program :: California Secretary of State",
+   "htmlTitle": "California New Motor Voter Program :: California Secretary of State",
+   "link": "https://www.sos.ca.gov/administration/regulations/current-regulations/business/business-entity-names/california-new-motor-voter-program",
+   "displayLink": "www.sos.ca.gov",
+   "snippet": "California Code of Regulations. Title ... For purposes of this section, personal information is defined in accordance with section 1798.3 of the Civil Code.",
+   "htmlSnippet": "<b>California Code</b> of Regulations. Title ... For purposes of this section, <b>personal information</b> is <b>defined</b> in accordance with section 1798.3 of the Civil Code.",
+   "formattedUrl": "https://www.sos.ca.gov/.../current.../california-new-motor-voter-program",
+   "htmlFormattedUrl": "https://www.sos.ca.gov/.../current.../california-new-motor-voter-program",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Information Practices Act - CalHR",
+   "htmlTitle": "Information Practices Act - CalHR",
+   "link": "https://www.calhr.ca.gov/Pages/information-practices-act.aspx",
+   "displayLink": "www.calhr.ca.gov",
+   "snippet": "Feb 21, 2025 ... Personal information, as defined in the Information Practices Act ... driver's license, passport, etc.) during a video call to verify\u00a0...",
+   "htmlSnippet": "Feb 21, 2025 <b>...</b> <b>Personal information</b>, as <b>defined</b> in the Information Practices Act ... <b>driver&#39;s license</b>, passport, etc.) during a video call to verify&nbsp;...",
+   "formattedUrl": "https://www.calhr.ca.gov/Pages/information-practices-act.aspx",
+   "htmlFormattedUrl": "https://www.calhr.ca.gov/Pages/information-practices-act.aspx",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Untitled",
+   "htmlTitle": "Untitled",
+   "link": "https://www.ussteel.com/CAPrivacy",
+   "displayLink": "www.ussteel.com",
+   "snippet": "Apr 12, 2024 ... ... California Code ... Education information, defined as information that is not publicly available personally identifiable information as defined in\u00a0...",
+   "htmlSnippet": "Apr 12, 2024 <b>...</b> ... <b>California Code</b> ... Education information, <b>defined</b> as information that is not publicly available <b>personally identifiable information</b> as <b>defined</b> in&nbsp;...",
+   "formattedUrl": "https://www.ussteel.com/CAPrivacy",
+   "htmlFormattedUrl": "https://www.ussteel.com/CAPrivacy",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1W8lyJr2gzOjAs7-Egif_EJcAHkuIMf8m8CIaTGIaVJK3Sf-8qO3qLCM&s",
+      "width": "197",
+      "height": "255"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20240412132403-04'00'",
+      "creationdate": "D:20240412132401-04'00'",
+      "creator": "Acrobat PDFMaker 24 for Word",
+      "sourcemodified": "D:20240412172351",
+      "author": "Lucente, Kate",
+      "producer": "Adobe PDF Library 24.1.163",
+      "company": "DLA Piper LLP (US)",
+      "swdocid": "EAST\\167369897.1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///a9b7ae65c5fe3b7bcd93dbf957db7453bc430c8fe9f6ca6e3ee35ae003fb51f4"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Privacy notice | California State University Monterey Bay",
+   "htmlTitle": "Privacy notice | California State University Monterey Bay",
+   "link": "https://csumb.edu/it/privacy-notice/",
+   "displayLink": "csumb.edu",
+   "snippet": "... California Code of Regulations, or under ... The University will not distribute or share electronically collected personal information (as defined\u00a0...",
+   "htmlSnippet": "... <b>California Code</b> of Regulations, or under ... The University will not distribute or share electronically collected <b>personal information</b> (as <b>defined</b>&nbsp;...",
+   "formattedUrl": "https://csumb.edu/it/privacy-notice/",
+   "htmlFormattedUrl": "https://csumb.edu/it/privacy-notice/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaGtTYjUrwFdA_F1JeCjJ34y9-g2dJ4wTmCmrmwTKSUtRhfODNEBqnomk&s",
+      "width": "229",
+      "height": "220"
+     }
+    ],
+    "metatags": [
+     {
+      "twitter:card": "summary_large_image",
+      "fb:app_id": "626886828256304",
+      "og:type": "website",
+      "twitter:site": "@csumb",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "author": "California State University Monterey Bay",
+      "twitter:creator": "@csumb"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://csumb.edu/media/csumb/ucomm-news-library/BC32-SocialMobility-2025.png"
+     }
+    ]
+   }
+  }
+ ]
+}

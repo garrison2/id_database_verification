@@ -1,0 +1,355 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Arizona Revised Statutes\" \"personally identifiable information\" OR \"personal information\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "1810",
+    "searchTerms": "\"Arizona Revised Statutes\" \"personally identifiable information\" OR \"personal information\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Arizona Revised Statutes\" \"personally identifiable information\" OR \"personal information\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "1810",
+    "searchTerms": "\"Arizona Revised Statutes\" \"personally identifiable information\" OR \"personal information\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.129794,
+  "formattedSearchTime": "0.13",
+  "totalResults": "1810",
+  "formattedTotalResults": "1,810"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "HB2434 - 562R - I Ver",
+   "htmlTitle": "HB2434 - 562R - I Ver",
+   "link": "https://www.azleg.gov/legtext/56leg/2r/bills/hb2434p.htm",
+   "displayLink": "www.azleg.gov",
+   "snippet": "\"Highly restricted personal information\" means an individual's photograph or image, social security number, consular identification card number and medical or\u00a0...",
+   "htmlSnippet": "&quot;Highly restricted <b>personal information</b>&quot; means an individual&#39;s photograph or image, social security number, consular <b>identification card</b> number and medical or&nbsp;...",
+   "formattedUrl": "https://www.azleg.gov/legtext/56leg/2r/bills/hb2434p.htm",
+   "htmlFormattedUrl": "https://www.azleg.gov/legtext/56leg/2r/bills/hb2434p.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Section 3-403 : Protecting Personal Information in Public Records",
+   "htmlTitle": "Section 3-403 : Protecting <b>Personal Information</b> in Public Records",
+   "link": "https://govt.westlaw.com/azrules/Document/N90119B33EA3511E985EDE8E9B017726E?originationContext=document&transitionType=StatuteNavigator&needToInjectTerms=False&viewType=FullText",
+   "displayLink": "govt.westlaw.com",
+   "snippet": "Section 3-403 : Protecting Personal Information in Public Records. Arizona Revised Statutes Annotated ... Section 3-403: Protecting Personal Information in\u00a0...",
+   "htmlSnippet": "Section 3-403 : Protecting <b>Personal Information</b> in Public Records. <b>Arizona Revised Statutes</b> Annotated ... Section 3-403: Protecting <b>Personal Information</b> in&nbsp;...",
+   "formattedUrl": "https://govt.westlaw.com/.../N90119B33EA3511E985EDE8E9B017726E?...",
+   "htmlFormattedUrl": "https://govt.westlaw.com/.../N90119B33EA3511E985EDE8E9B017726E?...",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Revised Statutes",
+   "htmlTitle": "<b>Arizona Revised Statutes</b>",
+   "link": "https://www.azleg.gov/arsDetail/?title=28",
+   "displayLink": "www.azleg.gov",
+   "snippet": "Nonresident daily commuter; identification card; fee ... Federal motor carrier safety administration commercial driver's license drug and alcohol clearinghouse;\u00a0...",
+   "htmlSnippet": "Nonresident daily commuter; <b>identification card</b>; fee ... Federal motor carrier safety administration commercial <b>driver&#39;s license</b> drug and alcohol clearinghouse;&nbsp;...",
+   "formattedUrl": "https://www.azleg.gov/arsDetail/?title=28",
+   "htmlFormattedUrl": "https://www.azleg.gov/arsDetail/?title=28",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ],
+    "webpage": [
+     {
+      "headline": "Arizona Revised Statutes"
+     }
+    ],
+    "wpheader": [
+     {
+      "headline": "Arizona Legislature"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Department of Health Services: Bureau of Child Care ...",
+   "htmlTitle": "Arizona Department of Health Services: Bureau of Child Care ...",
+   "link": "https://www.azdhs.gov/documents/licensing/childcare-facilities/rules/bccl-child-care-facility-rules.pdf",
+   "displayLink": "www.azdhs.gov",
+   "snippet": "ARIZONA REVISED STATUTES ... Personally identifiable information that relates to a child, parent or guardian is confidential.",
+   "htmlSnippet": "<b>ARIZONA REVISED STATUTES</b> ... <b>Personally identifiable information</b> that relates to a child, parent or guardian is confidential.",
+   "formattedUrl": "https://www.azdhs.gov/documents/.../bccl-child-care-facility-rules.pdf",
+   "htmlFormattedUrl": "https://www.azdhs.gov/documents/.../bccl-child-care-facility-rules.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20200805133244-07'00'",
+      "creationdate": "D:20200805133225-07'00'",
+      "creator": "Acrobat PDFMaker 20 for Word",
+      "sourcemodified": "D:20200805203211",
+      "author": "TSALOW",
+      "producer": "Adobe PDF Library 20.9.95",
+      "company": "ADHS",
+      "title": "ARTICLE 1"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "HB2852 - 571R - H Ver",
+   "htmlTitle": "HB2852 - 571R - H Ver",
+   "link": "https://www.azleg.gov/legtext/57leg/1r/bills/hb2852h.htm",
+   "displayLink": "www.azleg.gov",
+   "snippet": "Section 28-3165, Arizona Revised Statutes, is ... The DISTINGUISHING mark may not identify a specific Indian tribe or other specific personal information\u00a0...",
+   "htmlSnippet": "Section 28-3165, <b>Arizona Revised Statutes</b>, is ... The DISTINGUISHING mark may not identify a specific Indian tribe or other specific <b>personal information</b>&nbsp;...",
+   "formattedUrl": "https://www.azleg.gov/legtext/57leg/1r/bills/hb2852h.htm",
+   "htmlFormattedUrl": "https://www.azleg.gov/legtext/57leg/1r/bills/hb2852h.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Explained: The Arizona Data Breach Notification Law - RM Warner ...",
+   "htmlTitle": "Explained: The Arizona Data Breach Notification Law - RM Warner ...",
+   "link": "https://kellywarnerlaw.com/explained-the-arizona-data-breach-notification-law",
+   "displayLink": "kellywarnerlaw.com",
+   "snippet": "Jun 3, 2015 ... ... personal information\u201d under Arizona State law? Answer: Any person's ... Driver's license or official ID information; or; Credit or debit\u00a0...",
+   "htmlSnippet": "Jun 3, 2015 <b>...</b> ... <b>personal information</b>\u201d under Arizona State law? Answer: Any person&#39;s ... <b>Driver&#39;s license</b> or official ID information; or; Credit or debit&nbsp;...",
+   "formattedUrl": "https://kellywarnerlaw.com/explained-the-arizona-data-breach-notification-l...",
+   "htmlFormattedUrl": "https://kellywarnerlaw.com/explained-the-arizona-data-breach-notification-l...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNz3ScC_L7Gdc9v5rG6fT2OskcRRdaHVe0a_nJl4tUB4v6qngMxleFXjFZ&s",
+      "width": "274",
+      "height": "184"
+     }
+    ],
+    "person": [
+     {
+      "name": "Daniel R. Warner",
+      "description": "As a partner at RM Warner, Daniel focuses the majority of his practice on litigating cases involving Internet defamation, false and misleading advertising/marketing, unfair competition and..."
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://kellywarnerlaw.com/wp-content/uploads/2013/05/shutterstock_399172996-1024x686.jpg",
+      "og:image:width": "1024",
+      "article:published_time": "2015-06-03T14:00:23+00:00",
+      "twitter:card": "summary_large_image",
+      "theme-color": "#8e8e8e",
+      "og:site_name": "RM Warner Law | Defamation Law, Internet Law, Business Law",
+      "apple-mobile-web-app-title": "Internet Defamation Lawyers & Internet Law Resource",
+      "twitter:label1": "Written by",
+      "twitter:label2": "Time to read",
+      "og:image:type": "image/jpeg",
+      "og:description": "By the end of this post, you\u2019ll understand Arizona's \"data breach notification law\" and what you're legally required to do in the wake of a hack, leak, or",
+      "twitter:creator": "@RMWarnerLaw1",
+      "article:publisher": "https://www.facebook.com/rmwarnerlaw/",
+      "og:image:secure_url": "https://kellywarnerlaw.com/wp-content/uploads/2013/05/shutterstock_399172996-1024x686.jpg",
+      "twitter:image": "https://kellywarnerlaw.com/wp-content/uploads/2013/05/shutterstock_399172996-1024x686.jpg",
+      "twitter:data1": "Daniel R. Warner",
+      "twitter:data2": "3 minutes",
+      "twitter:site": "@RMWarnerlaw1",
+      "article:modified_time": "2020-05-13T20:02:58+00:00",
+      "og:type": "article",
+      "article:section": "Business Law",
+      "og:image:alt": "phoenix skyline",
+      "twitter:title": "Explained: The Arizona Data Breach Notification Law - RM Warner Law | Defamation Law, Internet Law, Business Law",
+      "og:title": "Explained: The Arizona Data Breach Notification Law - RM Warner Law | Defamation Law, Internet Law, Business Law",
+      "og:image:height": "686",
+      "og:updated_time": "2020-05-13T20:02:58+00:00",
+      "article:author": "https://www.facebook.com/rmwarnerlaw/?modal=admin_todo_tour",
+      "article:tag": "arizona data breach",
+      "fb:app_id": "4030326087008911",
+      "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no",
+      "twitter:description": "By the end of this post, you\u2019ll understand Arizona's \"data breach notification law\" and what you're legally required to do in the wake of a hack, leak, or",
+      "og:locale": "en_US",
+      "og:url": "https://kellywarnerlaw.com/explained-the-arizona-data-breach-notification-law"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://kellywarnerlaw.com/wp-content/uploads/2013/05/shutterstock_399172996-1024x686.jpg"
+     }
+    ],
+    "hatomfeed": [
+     {}
+    ],
+    "blogposting": [
+     {
+      "articlebody": "By the end of this post, you\u2019ll understand Arizona\u2019s \u201cdata breach notification law\u201d and what you\u2019re legally required to do in the wake of a hack, leak, or manual data breach. Ready...",
+      "name": "Daniel R. Warner",
+      "headline": "Explained: The Arizona Data Breach Notification Law",
+      "datepublished": "2015-06-03T14:00:23+00:00"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Revised Statutes",
+   "htmlTitle": "<b>Arizona Revised Statutes</b>",
+   "link": "https://www.azleg.gov/arsDetail/?title=13",
+   "displayLink": "www.azleg.gov",
+   "snippet": "Personal information on the internet; exception; classification; definitions ... Persons required to register; procedure; identification card; assessment\u00a0...",
+   "htmlSnippet": "<b>Personal information</b> on the internet; exception; classification; definitions ... Persons required to register; procedure; <b>identification card</b>; assessment&nbsp;...",
+   "formattedUrl": "https://www.azleg.gov/arsDetail/?title=13",
+   "htmlFormattedUrl": "https://www.azleg.gov/arsDetail/?title=13",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ],
+    "webpage": [
+     {
+      "headline": "Arizona Revised Statutes"
+     }
+    ],
+    "wpheader": [
+     {
+      "headline": "Arizona Legislature"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Affidavit of Request to Obtain or Renew a Pawnbroker License in ...",
+   "htmlTitle": "Affidavit of Request to Obtain or Renew a Pawnbroker License in ...",
+   "link": "https://www.pimasheriff.org/download_file/view/35/261",
+   "displayLink": "www.pimasheriff.org",
+   "snippet": "I further certify that the above personal information is accurate and true. Also, I meet all the established requirements as stated per Arizona Revised Statutes\u00a0...",
+   "htmlSnippet": "I further certify that the above <b>personal information</b> is accurate and true. Also, I meet all the established requirements as stated per <b>Arizona Revised Statutes</b>&nbsp;...",
+   "formattedUrl": "https://www.pimasheriff.org/download_file/view/35/261",
+   "htmlFormattedUrl": "https://www.pimasheriff.org/download_file/view/35/261",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQILVDQ6uGcSGWngZplMpmRGtfcp2rIC8_9uw6fcJYAdxpfuYeF6CAFAA&s",
+      "width": "135",
+      "height": "125"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20150220152504-07'00'",
+      "creator": "Microsoft\u00ae Word 2010",
+      "creationdate": "D:20150220152504-07'00'",
+      "author": "gsanchez",
+      "producer": "Microsoft\u00ae Word 2010"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///35fb25cf0e2dc98b4d4803b0ba230dbd816c30df5b8be0b85e10ce0fda32a3a2"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NOTICE OF EXEMPT RULEMAKING",
+   "htmlTitle": "NOTICE OF EXEMPT RULEMAKING",
+   "link": "https://www.azdhs.gov/documents/licensing/childcare-facilities/rules/bccl-child-care-group-home-rules.pdf",
+   "displayLink": "www.azdhs.gov",
+   "snippet": "ARIZONA REVISED STATUTES ... A driver's license or other picture identification to verify the individual's identity.",
+   "htmlSnippet": "<b>ARIZONA REVISED STATUTES</b> ... A <b>driver&#39;s license</b> or other picture identification to verify the individual&#39;s identity.",
+   "formattedUrl": "https://www.azdhs.gov/documents/.../bccl-child-care-group-home-rules.pdf",
+   "htmlFormattedUrl": "https://www.azdhs.gov/documents/.../bccl-child-care-group-home-rules.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20221208110004-07'00'",
+      "creationdate": "D:20221208105953-07'00'",
+      "creator": "Acrobat PDFMaker 22 for Word",
+      "sourcemodified": "D:20221208175922",
+      "author": "Maria Herbert",
+      "producer": "Adobe PDF Library 22.3.58",
+      "company": "ADHS",
+      "title": "NOTICE OF EXEMPT RULEMAKING"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2024 Arizona Revised Statutes Title 32 - Professions and Occupations",
+   "htmlTitle": "2024 <b>Arizona Revised Statutes</b> Title 32 - Professions and Occupations",
+   "link": "https://law.justia.com/codes/arizona/title-32/",
+   "displayLink": "law.justia.com",
+   "snippet": "... identification card or registration certificate; judicial review; good cause exceptions ... \u00a7 32-4225 - License renewal; changes in personal information;\u00a0...",
+   "htmlSnippet": "... <b>identification card</b> or registration certificate; judicial review; good cause exceptions ... \u00a7 32-4225 - License renewal; changes in <b>personal information</b>;&nbsp;...",
+   "formattedUrl": "https://law.justia.com/codes/arizona/title-32/",
+   "htmlFormattedUrl": "https://law.justia.com/codes/arizona/title-32/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPP2ksOfM4IyWL7PTxPyS5N80Or-jyXZZLgeH1kYuOtXk5YU597YCxGszS&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "og:site_name": "Justia Law",
+      "og:title": "2024 Arizona Revised Statutes :: Title 32 - Professions and Occupations",
+      "og:app_id": "119529808075661",
+      "trigger-ga": "1",
+      "og:description": "Title 32 - Professions and Occupations of the Arizona Revised Statutes (2024)",
+      "og:admins": "656268335,686786921,25900864",
+      "referrer": "unsafe-url",
+      "twitter:site": "@JustiaCom",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "page-type": "Law: Codes Listing Page (Current Year)",
+      "is-li": "0",
+      "og:url": "https://law.justia.com/codes/arizona/title-32/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

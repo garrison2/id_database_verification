@@ -1,0 +1,326 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Florida Statutes\" \"personally identifiable information\" OR \"personal information\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "10300",
+    "searchTerms": "\"Florida Statutes\" \"personally identifiable information\" OR \"personal information\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Florida Statutes\" \"personally identifiable information\" OR \"personal information\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "10300",
+    "searchTerms": "\"Florida Statutes\" \"personally identifiable information\" OR \"personal information\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.317745,
+  "formattedSearchTime": "0.32",
+  "totalResults": "10300",
+  "formattedTotalResults": "10,300"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "The 2024 Florida Statutes (including 2025 Special Session C)",
+   "htmlTitle": "The 2024 <b>Florida Statutes</b> (including 2025 Special Session C)",
+   "link": "http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0322/Sections/0322.143.html",
+   "displayLink": "www.leg.state.fl.us",
+   "snippet": "Florida Statutes \u00b7 Search Statutes \u00b7 Search Tips \u00b7 Florida Constitution \u00b7 Laws ... identification card to collect and store personal information. However, the\u00a0...",
+   "htmlSnippet": "<b>Florida Statutes</b> &middot; Search Statutes &middot; Search Tips &middot; Florida Constitution &middot; Laws ... <b>identification card</b> to collect and store <b>personal information</b>. However, the&nbsp;...",
+   "formattedUrl": "http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display...",
+   "htmlFormattedUrl": "http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display..."
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Chapter 322 Section 143 - 2013 Florida Statutes - The Florida Senate",
+   "htmlTitle": "Chapter 322 Section 143 - 2013 <b>Florida Statutes</b> - The Florida Senate",
+   "link": "https://www.flsenate.gov/laws/statutes/2013/322.143",
+   "displayLink": "www.flsenate.gov",
+   "snippet": "2013 Florida Statutes \u00b7 (a) \u201cPersonal information\u201d means an individual's name, address, date of birth, driver license number, or identification card number. \u00b7 (b)\u00a0...",
+   "htmlSnippet": "2013 <b>Florida Statutes</b> &middot; (a) \u201c<b>Personal information</b>\u201d means an individual&#39;s name, address, date of birth, driver license number, or <b>identification card</b> number. &middot; (b)&nbsp;...",
+   "formattedUrl": "https://www.flsenate.gov/laws/statutes/2013/322.143",
+   "htmlFormattedUrl": "https://www.flsenate.gov/laws/statutes/2013/322.143"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Request to Withhold Personal Information",
+   "htmlTitle": "Request to Withhold <b>Personal Information</b>",
+   "link": "https://www.flhsmv.gov/pdf/forms/96020.pdf",
+   "displayLink": "www.flhsmv.gov",
+   "snippet": "The information required to complete this form is located on the Florida driver license or identification card of the requester. ... 119.071, Florida Statutes.",
+   "htmlSnippet": "The information required to complete this form is located on the Florida driver license or <b>identification card</b> of the requester. ... 119.071, <b>Florida Statutes</b>.",
+   "formattedUrl": "https://www.flhsmv.gov/pdf/forms/96020.pdf",
+   "htmlFormattedUrl": "https://www.flhsmv.gov/pdf/forms/96020.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20240719155528-04'00'",
+      "creationdate": "D:20240719154523-04'00'",
+      "creator": "Acrobat PDFMaker 20 for Word",
+      "lastsaved": "D:20240401",
+      "author": "FLHSMV - BOR",
+      "created": "D:20230627",
+      "subject": "PII",
+      "producer": "Adobe Acrobat Pro 2020 20 Paper Capture Plug-in",
+      "title": "Request to Withhold Personal Information"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Motor Vehicle Records--Driver's Privacy Protection Act | My Florida ...",
+   "htmlTitle": "Motor Vehicle Records--Driver&#39;s Privacy Protection Act | My Florida ...",
+   "link": "https://www.myfloridalegal.com/ag-opinions/motor-vehicle-records-drivers-privacy-protection-act",
+   "displayLink": "www.myfloridalegal.com",
+   "snippet": "Apr 12, 2010 ... A driver's license number is \"personal information\" within the scope of section 119.0712(2), Florida Statutes, and is confidential as it is\u00a0...",
+   "htmlSnippet": "Apr 12, 2010 <b>...</b> A <b>driver&#39;s license</b> number is &quot;<b>personal information</b>&quot; within the scope of section 119.0712(2), <b>Florida Statutes</b>, and is confidential as it is&nbsp;...",
+   "formattedUrl": "https://www.myfloridalegal.com/.../motor-vehicle-records-drivers-privacy-...",
+   "htmlFormattedUrl": "https://www.myfloridalegal.com/.../motor-vehicle-records-drivers-privacy-...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNeB3McSsPqzb2o93lQixsGexZDRDDXf-oI9IPdUbZ0TeLVpaQpvBCQg&s",
+      "width": "170",
+      "height": "170"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.myfloridalegal.com/img/logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Law Enforcement & Servicemember Blocks \u2013 Manatee County Tax ...",
+   "htmlTitle": "Law Enforcement &amp; Servicemember Blocks \u2013 Manatee County Tax ...",
+   "link": "https://helpcenter.taxcollector.com/hc/en-us/articles/27681525122189-Law-Enforcement-Servicemember-Blocks",
+   "displayLink": "helpcenter.taxcollector.com",
+   "snippet": "1. WHAT IS A LAW ENFORCEMENT/SERVICEMEMBER BLOCK? Your personal information contained in your motor vehicle or driver license/identification card records are\u00a0...",
+   "htmlSnippet": "1. WHAT IS A LAW ENFORCEMENT/SERVICEMEMBER BLOCK? Your <b>personal information</b> contained in your motor vehicle or driver license/<b>identification card</b> records are&nbsp;...",
+   "formattedUrl": "https://helpcenter.taxcollector.com/.../27681525122189-Law-Enforcement-...",
+   "htmlFormattedUrl": "https://helpcenter.taxcollector.com/.../27681525122189-Law-Enforcement-...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhl9_ubm-fLctiIS2SD1hIeG18eYU6BwuiauigB0bLeSpon8_kxAxgvVQ&s",
+      "width": "200",
+      "height": "72"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://helpcenter.taxcollector.com/hc/theming_assets/01J2CG11GE1DDK9THAR475YQPJ",
+      "og:type": "website",
+      "og:site_name": "Manatee County Tax Collector | Help Center",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Law Enforcement & Servicemember Blocks",
+      "og:url": "https://helpcenter.taxcollector.com/hc/en-us/articles/27681525122189-Law-Enforcement-Servicemember-Blocks",
+      "og:description": "1. WHAT IS A LAW ENFORCEMENT/SERVICEMEMBER BLOCK?\nYour personal information contained in your motor vehicle or driver license/identification card records are blocked (withheld) from the public.\u00a0 As..."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://helpcenter.taxcollector.com/hc/theming_assets/01J2CG11GE1DDK9THAR475YQPJ"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Florida Statutes Title XXIII. Motor Vehicles \u00a7 322.143 | FindLaw",
+   "htmlTitle": "<b>Florida Statutes</b> Title XXIII. Motor Vehicles \u00a7 322.143 | FindLaw",
+   "link": "https://codes.findlaw.com/fl/title-xxiii-motor-vehicles/fl-st-sect-322-143/",
+   "displayLink": "codes.findlaw.com",
+   "snippet": "Florida Statutes Title XXIII. Motor Vehicles \u00a7 322.143. Use of a driver license or identification card ; (a) \u201cPersonal information ; (b) \u201cPrivate entity ; (c) \u201c\u00a0...",
+   "htmlSnippet": "<b>Florida Statutes</b> Title XXIII. Motor Vehicles \u00a7 322.143. Use of a driver license or <b>identification card</b> ; (a) \u201c<b>Personal information</b> ; (b) \u201cPrivate entity ; (c) \u201c&nbsp;...",
+   "formattedUrl": "https://codes.findlaw.com/fl/title-xxiii-motor-vehicles/fl-st-sect-322-143/",
+   "htmlFormattedUrl": "https://codes.findlaw.com/fl/title-xxiii-motor-vehicles/fl-st-sect-322-143/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuWtKEZ0kzYj6NSuZlgNrAF5XcYIi9XgsiqHcAgQHtxY18xcWZ1bDMaCM&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png",
+      "og:type": "article",
+      "og:site_name": "Findlaw",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Florida Statutes Title XXIII. Motor Vehicles \u00a7 322.143 | FindLaw",
+      "apple-mobile-web-app-title": "FindLaw",
+      "og:url": "https://codes.findlaw.com/fl/title-xxiii-motor-vehicles/fl-st-sect-322-143/",
+      "og:description": "Florida Title XXIII. Motor Vehicles   Section 322.143. Read the code on FindLaw"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Identification Card - Hillsborough County Tax Collector",
+   "htmlTitle": "<b>Identification Card</b> - Hillsborough County Tax Collector",
+   "link": "https://www.hillstaxfl.gov/drivers-license-id/identification-card/",
+   "displayLink": "www.hillstaxfl.gov",
+   "snippet": "... personal information. Click here for more. New ... Florida statutes prohibit a person from holding both an identification card and driver license.",
+   "htmlSnippet": "... <b>personal information</b>. Click here for more. New ... <b>Florida statutes</b> prohibit a person from holding both an <b>identification card</b> and driver license.",
+   "formattedUrl": "https://www.hillstaxfl.gov/drivers-license-id/identification-card/",
+   "htmlFormattedUrl": "https://www.hillstaxfl.gov/<b>drivers-license</b>-id/<b>identification-card</b>/",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Hillsborough County Tax Collector",
+      "article:modified_time": "2023-03-23T20:46:22+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "Identification Card - Hillsborough County Tax Collector",
+      "og:locale": "en_US",
+      "og:url": "https://www.hillstaxfl.gov/drivers-license-id/identification-card/",
+      "msapplication-tileimage": "https://www.hillstaxfl.gov/assets/uploads/2019/02/HCTC-icon-3.png",
+      "og:description": "Get a Florida Identification Card. Due to the Real ID Act, the State of Florida has new documentation requirements to renew or replace a Florida ID card."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Payment Plan | Citrus County Clerk of Courts, FL",
+   "htmlTitle": "Payment Plan | Citrus County Clerk of Courts, FL",
+   "link": "https://www.citrusclerk.org/242/Payment-Plan",
+   "displayLink": "www.citrusclerk.org",
+   "snippet": "Will result in the assessment of late fees and the suspension of your driver's license pursuant to Florida Statutes 318.15; and; May result in your case\u00a0...",
+   "htmlSnippet": "Will result in the assessment of late fees and the suspension of your <b>driver&#39;s license</b> pursuant to <b>Florida Statutes</b> 318.15; and; May result in your case&nbsp;...",
+   "formattedUrl": "https://www.citrusclerk.org/242/Payment-Plan",
+   "htmlFormattedUrl": "https://www.citrusclerk.org/242/Payment-Plan",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDoyZtndfC-ZLPv_Euae1oePX3duztHUkck3mMPMVMd6O7NyyVtygYl2Rv&s",
+      "width": "318",
+      "height": "159"
+     }
+    ],
+    "metatags": [
+     {
+      "category2": "Payment Plan",
+      "theme-color": "#30495c",
+      "viewport": "width=device-width, initial-scale=1",
+      "category0": "Home",
+      "category1": "Court Services"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.citrusclerk.org/ImageRepository/Document?documentID=1880"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Florida State Parks - New Customer",
+   "htmlTitle": "Florida State Parks - New Customer",
+   "link": "https://reserve.floridastateparks.org/Web/Customers/NewCustomer.aspx",
+   "displayLink": "reserve.floridastateparks.org",
+   "snippet": "... driver's license number or Florida identification card number issued under s. 322.051, Florida Statutes, as proof of Florida residency while making this\u00a0...",
+   "htmlSnippet": "... <b>driver&#39;s license</b> number or Florida <b>identification card</b> number issued under s. 322.051, <b>Florida Statutes</b>, as proof of Florida residency while making this&nbsp;...",
+   "formattedUrl": "https://reserve.floridastateparks.org/Web/Customers/NewCustomer.aspx",
+   "htmlFormattedUrl": "https://reserve.floridastateparks.org/Web/Customers/NewCustomer.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfEQmKUUhKCT9OlXGdSCFuj35-USW08WF0Kh_PvRGPHEdVpTw4RvC0FCg&s",
+      "width": "450",
+      "height": "112"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://reserve.floridastateparks.org/Web/themes/Florida/A_logo.png",
+      "og:type": "Website",
+      "og:site_name": "FLORIDA STATE PARKS",
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0,user-scalable=0",
+      "og:title": "Camping and Reservation Information - FLORIDA STATE PARKS",
+      "og:url": "https://reserve.floridastateparks.org/Web",
+      "og:description": "Florida Parks, Camping and Reservation Information",
+      "article:tag": "FLORIDA STATE PARKS"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://reserve.floridastateparks.org/Web/themes/Florida/A_logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Marriage Licenses \u2013 Flagler County Clerk of the Circuit Court ...",
+   "htmlTitle": "Marriage Licenses \u2013 Flagler County Clerk of the Circuit Court ...",
+   "link": "https://flaglerclerk.com/records/official-records/marriage-licenses/",
+   "displayLink": "flaglerclerk.com",
+   "snippet": "Florida Statutes require the couple to read the Florida Bar Family Law ... Valid Photo ID (Driver's License, State issued ID card or Valid Passport) is REQUIRED.",
+   "htmlSnippet": "<b>Florida Statutes</b> require the couple to read the Florida Bar Family Law ... Valid Photo ID (<b>Driver&#39;s License</b>, State issued ID card or Valid Passport) is REQUIRED.",
+   "formattedUrl": "https://flaglerclerk.com/records/official-records/marriage-licenses/",
+   "htmlFormattedUrl": "https://flaglerclerk.com/records/official-records/marriage-licenses/",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:type": "article",
+      "twitter:card": "summary",
+      "article:published_time": "2015-11-13T09:18:41-05:00",
+      "og:site_name": "Flagler County Clerk of the Circuit Court & Comptroller",
+      "article:modified_time": "2025-07-23T15:16:36-04:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "Marriage Licenses",
+      "og:locale": "en_US",
+      "og:url": "https://flaglerclerk.com/records/official-records/marriage-licenses/",
+      "og:description": "Marriage licenses are filed in the Official Records Division of the Clerk\u2019s Office. This division is located on the first floor of the Kim C. Hammond Justice Center, 1769 E. Moody Blvd, Bldg 1, Bunnell, FL 32110. You may contact this division by calling by calling 386-313-4360 or\u00a0via our contact form. Marriage License Application Information [...]"
+     }
+    ]
+   }
+  }
+ ]
+}

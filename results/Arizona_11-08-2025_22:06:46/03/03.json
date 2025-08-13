@@ -1,0 +1,313 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Arizona Revised Statutes\" \"personally identifiable information\" OR \"personal information\" \"defined\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "1370",
+    "searchTerms": "\"Arizona Revised Statutes\" \"personally identifiable information\" OR \"personal information\" \"defined\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Arizona Revised Statutes\" \"personally identifiable information\" OR \"personal information\" \"defined\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "1370",
+    "searchTerms": "\"Arizona Revised Statutes\" \"personally identifiable information\" OR \"personal information\" \"defined\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.283864,
+  "formattedSearchTime": "0.28",
+  "totalResults": "1370",
+  "formattedTotalResults": "1,370"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Revised Statutes",
+   "htmlTitle": "<b>Arizona Revised Statutes</b>",
+   "link": "https://www.azleg.gov/arsDetail/?title=28",
+   "displayLink": "www.azleg.gov",
+   "snippet": "Nonresident daily commuter; identification card; fee ... Federal motor carrier safety administration commercial driver's license drug and alcohol clearinghouse;\u00a0...",
+   "htmlSnippet": "Nonresident daily commuter; <b>identification card</b>; fee ... Federal motor carrier safety administration commercial <b>driver&#39;s license</b> drug and alcohol clearinghouse;&nbsp;...",
+   "formattedUrl": "https://www.azleg.gov/arsDetail/?title=28",
+   "htmlFormattedUrl": "https://www.azleg.gov/arsDetail/?title=28",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ],
+    "webpage": [
+     {
+      "headline": "Arizona Revised Statutes"
+     }
+    ],
+    "wpheader": [
+     {
+      "headline": "Arizona Legislature"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Department of Health Services: Bureau of Child Care ...",
+   "htmlTitle": "Arizona Department of Health Services: Bureau of Child Care ...",
+   "link": "https://www.azdhs.gov/documents/licensing/childcare-facilities/rules/bccl-child-care-facility-rules.pdf",
+   "displayLink": "www.azdhs.gov",
+   "snippet": "ARIZONA REVISED STATUTES ... \u201cStaff\u201d or \u201cstaff member\u201d means the same as \u201cchild care personnel\u201d as defined in A.R.S.\u00a0...",
+   "htmlSnippet": "<b>ARIZONA REVISED STATUTES</b> ... \u201cStaff\u201d or \u201cstaff member\u201d means the same as \u201cchild care personnel\u201d as <b>defined</b> in A.R.S.&nbsp;...",
+   "formattedUrl": "https://www.azdhs.gov/documents/.../bccl-child-care-facility-rules.pdf",
+   "htmlFormattedUrl": "https://www.azdhs.gov/documents/.../bccl-child-care-facility-rules.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20200805133244-07'00'",
+      "creationdate": "D:20200805133225-07'00'",
+      "creator": "Acrobat PDFMaker 20 for Word",
+      "sourcemodified": "D:20200805203211",
+      "author": "TSALOW",
+      "producer": "Adobe PDF Library 20.9.95",
+      "company": "ADHS",
+      "title": "ARTICLE 1"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "HB2434 - 562R - I Ver",
+   "htmlTitle": "HB2434 - 562R - I Ver",
+   "link": "https://www.azleg.gov/legtext/56leg/2r/bills/hb2434p.htm",
+   "displayLink": "www.azleg.gov",
+   "snippet": "\"Highly restricted personal information\" means an individual's photograph or image, social security number, consular identification card number and medical or\u00a0...",
+   "htmlSnippet": "&quot;Highly restricted <b>personal information</b>&quot; means an individual&#39;s photograph or image, social security number, consular <b>identification card</b> number and medical or&nbsp;...",
+   "formattedUrl": "https://www.azleg.gov/legtext/56leg/2r/bills/hb2434p.htm",
+   "htmlFormattedUrl": "https://www.azleg.gov/legtext/56leg/2r/bills/hb2434p.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ARIZONA Notary Public Reference Manual",
+   "htmlTitle": "ARIZONA Notary Public Reference Manual",
+   "link": "https://azsos.gov/sites/default/files/docs/Notary-Manual-2025-April.pdf",
+   "displayLink": "azsos.gov",
+   "snippet": "As used in this section \"instrument\" includes a written instrument as defined in section 13-2001. ARIZONA REVISED STATUTES. TITLE 41. STATE GOVERNMENT. CHAPTER\u00a0...",
+   "htmlSnippet": "As used in this section &quot;instrument&quot; includes a written instrument as <b>defined</b> in section 13-2001. <b>ARIZONA REVISED STATUTES</b>. TITLE 41. STATE GOVERNMENT. CHAPTER&nbsp;...",
+   "formattedUrl": "https://azsos.gov/sites/default/files/docs/Notary-Manual-2025-April.pdf",
+   "htmlFormattedUrl": "https://azsos.gov/sites/default/files/docs/Notary-Manual-2025-April.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsVfu57TEqvQZEwC6HnEQseCbWSLCJPq-xMzQF4Zi0vhKO6w1qbDJiOP5g&s",
+      "width": "225",
+      "height": "224"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20250516083104-07'00'",
+      "creationdate": "D:20250516083104-07'00'",
+      "creator": "Microsoft\u00ae Publisher for Microsoft 365",
+      "author": "Cancelosi, Scott",
+      "producer": "Microsoft\u00ae Publisher for Microsoft 365"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///5a4c1fd24d58ec3e4aeadb65546e612a899e21d3d1c41af41c09e6d076b86f88"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NOTICE OF EXEMPT RULEMAKING",
+   "htmlTitle": "NOTICE OF EXEMPT RULEMAKING",
+   "link": "https://www.azdhs.gov/documents/licensing/childcare-facilities/rules/bccl-child-care-group-home-rules.pdf",
+   "displayLink": "www.azdhs.gov",
+   "snippet": "ARIZONA REVISED STATUTES ... defined in A.R.S. \u00a7 8-. 201;. 5. Has been denied a certificate to operate a child care group home or a license to operate a\u00a0...",
+   "htmlSnippet": "<b>ARIZONA REVISED STATUTES</b> ... <b>defined</b> in A.R.S. \u00a7 8-. 201;. 5. Has been denied a certificate to operate a child care group home or a license to operate a&nbsp;...",
+   "formattedUrl": "https://www.azdhs.gov/documents/.../bccl-child-care-group-home-rules.pdf",
+   "htmlFormattedUrl": "https://www.azdhs.gov/documents/.../bccl-child-care-group-home-rules.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20221208110004-07'00'",
+      "creationdate": "D:20221208105953-07'00'",
+      "creator": "Acrobat PDFMaker 22 for Word",
+      "sourcemodified": "D:20221208175922",
+      "author": "Maria Herbert",
+      "producer": "Adobe PDF Library 22.3.58",
+      "company": "ADHS",
+      "title": "NOTICE OF EXEMPT RULEMAKING"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Section 7-205: Defensive Driving",
+   "htmlTitle": "Section 7-205: Defensive Driving",
+   "link": "https://govt.westlaw.com/azrules/Document/N3B8609609A1711EF9C6C8DC04BBC173B?viewType=FullText&originationContext=documenttoc&transitionType=DocumentItem&contextData=%28sc.Default%29",
+   "displayLink": "govt.westlaw.com",
+   "snippet": "Section 7-205: Defensive Driving. Arizona Revised Statutes Annotated; Code of Judicial Administration; Effective: October 30, 2024.",
+   "htmlSnippet": "Section 7-205: Defensive Driving. <b>Arizona Revised Statutes</b> Annotated; Code of Judicial Administration; Effective: October 30, 2024.",
+   "formattedUrl": "https://govt.westlaw.com/.../N3B8609609A1711EF9C6C8DC04BBC173B?...",
+   "htmlFormattedUrl": "https://govt.westlaw.com/.../N3B8609609A1711EF9C6C8DC04BBC173B?...",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "APPLICATION FOR PROFESSIONAL CERTIFICATION",
+   "htmlTitle": "APPLICATION FOR PROFESSIONAL CERTIFICATION",
+   "link": "https://bbhe.az.gov/sites/default/files/pdfs/Applications/LMFT%20App.2023.pdf",
+   "displayLink": "bbhe.az.gov",
+   "snippet": "Arizona Revised Statutes \u00a7 41-1080 requires, in general, that a person applying for a license must submit documentation to the licensing agency that\u00a0...",
+   "htmlSnippet": "<b>Arizona Revised Statutes</b> \u00a7 41-1080 requires, in general, that a person applying for a license must submit documentation to the licensing agency that&nbsp;...",
+   "formattedUrl": "https://bbhe.az.gov/sites/default/files/pdfs/.../LMFT%20App.2023.pdf",
+   "htmlFormattedUrl": "https://bbhe.az.gov/sites/default/files/pdfs/.../LMFT%20App.2023.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb-Q9NgH3bG1ORVsyA9j-YXcWcAMrPQ2aGIvcNpZG-TWaGraYMuTobesk&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20230426090543-07'00'",
+      "creationdate": "D:20210101201936-07'00'",
+      "creator": "Acrobat PDFMaker 20 for Word",
+      "sourcemodified": "D:20210102031703",
+      "author": "Mary Wilson",
+      "producer": "Adobe PDF Library 20.13.106",
+      "company": "BBHE",
+      "title": "APPLICATION FOR PROFESSIONAL CERTIFICATION"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///961007a0e76aa3cbf0534347451e08c4b12240b0e343074ac01f5b65b9be3668"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "SEX OFFENDER LAWS & DEFINITIONS",
+   "htmlTitle": "SEX OFFENDER LAWS &amp; DEFINITIONS",
+   "link": "https://www.lhcaz.gov/police/sex-offender-information-center/sex-offender-laws-definitions",
+   "displayLink": "www.lhcaz.gov",
+   "snippet": "ARIZONA REVISED STATUTES \u00b7 13-3821 Persons required to register; procedure; identification card; assessment; definitions \u00b7 13-3822 Notice of moving from place of\u00a0...",
+   "htmlSnippet": "<b>ARIZONA REVISED STATUTES</b> &middot; 13-3821 Persons required to register; procedure; <b>identification card</b>; assessment; definitions &middot; 13-3822 Notice of moving from place of&nbsp;...",
+   "formattedUrl": "https://www.lhcaz.gov/police/sex-offender.../sex-offender-laws-definitions",
+   "htmlFormattedUrl": "https://www.lhcaz.gov/police/sex-offender.../sex-offender-laws-definitions",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, minimum-scale=1.0, maximum-scale=1.0, initial-scale=1.0",
+      "google-translate-customization": "60604d6f6aa1fd18-7e9d3854cd38679a-g45df859c393f0ea3-d"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The release of this Chapter in Supp. 25-2 replaces Supp. 22-3, 1-39 ...",
+   "htmlTitle": "The release of this Chapter in Supp. 25-2 replaces Supp. 22-3, 1-39 ...",
+   "link": "https://apps.azsos.gov/public_services/Title_17/17-04.pdf",
+   "displayLink": "apps.azsos.gov",
+   "snippet": "\u201cTravel-compliant driver license\u201d has the same meaning as the term REAL ID Driver's License defined under 6 CFR 37.3, which is a driver license issued by\u00a0...",
+   "htmlSnippet": "\u201cTravel-compliant driver license\u201d has the same meaning as the term REAL ID <b>Driver&#39;s License defined</b> under 6 CFR 37.3, which is a driver license issued by&nbsp;...",
+   "formattedUrl": "https://apps.azsos.gov/public_services/Title_17/17-04.pdf",
+   "htmlFormattedUrl": "https://apps.azsos.gov/public_services/Title_17/17-04.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwItupz3FaCypVT1fL1mtUObljbY3wNDcTkQYkslqi3QZ479pmxQkCXVp9&s",
+      "width": "215",
+      "height": "215"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20250806144933-07'00'",
+      "creationdate": "D:20220801132338Z",
+      "creator": "FrameMaker 17.0.6",
+      "author": "scancelosi",
+      "producer": "Adobe PDF Library 17.0",
+      "title": "17-04.pdf"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///cb9945db529dbd5f8ba4c21438b529d794642391523548ce931acb47f02503bb"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Statutes & Rules",
+   "htmlTitle": "Statutes &amp; Rules",
+   "link": "https://optometry.az.gov/sites/default/files/2022-03/CURRENT-Statutes%2520%26%2520Rule%2520Book%2520revised%25204-19-16%5B1%5D.pdf",
+   "displayLink": "optometry.az.gov",
+   "snippet": "This section does not apply to a health professional who is employed by a health care institution as defined ... identification card or a written\u00a0...",
+   "htmlSnippet": "This section does not apply to a health professional who is employed by a health care institution as <b>defined</b> ... <b>identification card</b> or a written&nbsp;...",
+   "formattedUrl": "https://optometry.az.gov/.../CURRENT-Statutes%2520%26%2520Rule%25...",
+   "htmlFormattedUrl": "https://optometry.az.gov/.../CURRENT-Statutes%2520%26%2520Rule%25...",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20160525145822-07'00'",
+      "creationdate": "D:20160525145822-07'00'",
+      "creator": "PScript5.dll Version 5.2.2",
+      "author": "Margaret's",
+      "producer": "Acrobat Distiller 9.5.5 (Windows)",
+      "title": "Microsoft Word - CURRENT-Statutes & Rule Book revised 4-19-16"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

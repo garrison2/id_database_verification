@@ -1,0 +1,429 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Florida Statutes\" \"driver's license\" OR \"identification card\" around 50 \"verification\" OR \"scanning\" OR \"swiping\" OR \"machine-readable\" OR \"electronically readable\" OR \"transaction scan\" -applicant -application",
+    "totalResults": "1100",
+    "searchTerms": "\"Florida Statutes\" \"driver's license\" OR \"identification card\" around 50 \"verification\" OR \"scanning\" OR \"swiping\" OR \"machine-readable\" OR \"electronically readable\" OR \"transaction scan\" -applicant -application",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Florida Statutes\" \"driver's license\" OR \"identification card\" around 50 \"verification\" OR \"scanning\" OR \"swiping\" OR \"machine-readable\" OR \"electronically readable\" OR \"transaction scan\" -applicant -application",
+    "totalResults": "1100",
+    "searchTerms": "\"Florida Statutes\" \"driver's license\" OR \"identification card\" around 50 \"verification\" OR \"scanning\" OR \"swiping\" OR \"machine-readable\" OR \"electronically readable\" OR \"transaction scan\" -applicant -application",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.337044,
+  "formattedSearchTime": "0.34",
+  "totalResults": "1100",
+  "formattedTotalResults": "1,100"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Untitled",
+   "htmlTitle": "Untitled",
+   "link": "https://www.flsenate.gov/Session/Bill/2013/7125/Amendment/370784/HTML",
+   "displayLink": "www.flsenate.gov",
+   "snippet": "... electronically readable format, the 19 information electronically encoded in ... swiping the driver license or 42 identification card. 43 (4) A private\u00a0...",
+   "htmlSnippet": "... <b>electronically readable</b> format, the 19 information electronically encoded in ... <b>swiping</b> the driver license or 42 <b>identification card</b>. 43 (4) A private&nbsp;...",
+   "formattedUrl": "https://www.flsenate.gov/Session/Bill/2013/7125/Amendment/.../HTML",
+   "htmlFormattedUrl": "https://www.flsenate.gov/Session/Bill/2013/7125/Amendment/.../HTML"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Outsourcing and Privatization Options of Driver Licensing Services",
+   "htmlTitle": "Outsourcing and Privatization Options of Driver Licensing Services",
+   "link": "http://www.leg.state.fl.us/sunset/UserContent/docs/File/HSMV_Driver_Licensing_Outsourcing_OptionsFINAL(1).doc",
+   "displayLink": "www.leg.state.fl.us",
+   "snippet": "... verification. ... 4 The equipment is currently leased from a private vendor, who is compensated at the rate of $1.57 per driver's license or identification card\u00a0...",
+   "htmlSnippet": "... <b>verification</b>. ... 4 The equipment is currently leased from a private vendor, who is compensated at the rate of $1.57 per <b>driver&#39;s license</b> or <b>identification card</b>&nbsp;...",
+   "formattedUrl": "http://www.leg.state.fl.us/.../HSMV_Driver_Licensing_Outsourcing_Option...",
+   "htmlFormattedUrl": "http://www.leg.state.fl.us/.../HSMV_Driver_Licensing_Outsourcing_Option...",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Denese Bass"
+     }
+    ]
+   },
+   "mime": "application/msword",
+   "fileFormat": "Microsoft Word"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Florida Statutes Title XXIII. Motor Vehicles \u00a7 322.143 | FindLaw",
+   "htmlTitle": "<b>Florida Statutes</b> Title XXIII. Motor Vehicles \u00a7 322.143 | FindLaw",
+   "link": "https://codes.findlaw.com/fl/title-xxiii-motor-vehicles/fl-st-sect-322-143/",
+   "displayLink": "codes.findlaw.com",
+   "snippet": "... electronically readable format, the information electronically encoded ... swiping the driver license or identification card. (4) A private entity that\u00a0...",
+   "htmlSnippet": "... <b>electronically readable</b> format, the information electronically encoded ... <b>swiping</b> the driver license or <b>identification card</b>. (4) A private entity that&nbsp;...",
+   "formattedUrl": "https://codes.findlaw.com/fl/title-xxiii-motor-vehicles/fl-st-sect-322-143/",
+   "htmlFormattedUrl": "https://codes.findlaw.com/fl/title-xxiii-motor-vehicles/fl-st-sect-322-143/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuWtKEZ0kzYj6NSuZlgNrAF5XcYIi9XgsiqHcAgQHtxY18xcWZ1bDMaCM&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png",
+      "og:type": "article",
+      "og:site_name": "Findlaw",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Florida Statutes Title XXIII. Motor Vehicles \u00a7 322.143 | FindLaw",
+      "apple-mobile-web-app-title": "FindLaw",
+      "og:url": "https://codes.findlaw.com/fl/title-xxiii-motor-vehicles/fl-st-sect-322-143/",
+      "og:description": "Florida Title XXIII. Motor Vehicles   Section 322.143. Read the code on FindLaw"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "(For Persons Claiming Florida Residency for Tuition Purposes)",
+   "htmlTitle": "(For Persons Claiming Florida Residency for Tuition Purposes)",
+   "link": "https://law.fsu.edu/sites/g/files/upcbnu1581/files/Florida%20Residency%20Affidavit.pdf",
+   "displayLink": "law.fsu.edu",
+   "snippet": "... past 12 consecutive months. (Required: copy of parent/legal guardian's FL driver's license, FL voters' card/registration, and/or FL vehicle registration).",
+   "htmlSnippet": "... <b>past</b> 12 consecutive months. (Required: copy of parent/legal guardian&#39;s FL <b>driver&#39;s license</b>, FL voters&#39; card/registration, and/or FL vehicle registration).",
+   "formattedUrl": "https://law.fsu.edu/sites/g/files/.../Florida%20Residency%20Affidavit.pdf",
+   "htmlFormattedUrl": "https://law.fsu.edu/sites/g/files/.../Florida%20Residency%20Affidavit.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJgYf-_DlMK9m0dbVum5lKrwzVqYBDO9FQyUniWl-gnk0oKKJr6Qm7hlw&s",
+      "width": "197",
+      "height": "255"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20240830144258-04'00'",
+      "creationdate": "D:20150415130604-05'00'",
+      "creator": "OBS-MFP",
+      "producer": "KONICA MINOLTA bizhub C552"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///3b7b97d7a72ecce8262214c7b2d223148572bf2e25870f2ec400c7ac3d770f5e"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "City of Tampa",
+   "htmlTitle": "City of Tampa",
+   "link": "https://www.jobapscloud.com/Tampa/specs/classspecdisplay.asp?ClassNumber=004001&LinkSpec=RecruitNum2&R1=&R3=",
+   "displayLink": "www.jobapscloud.com",
+   "snippet": "Work is reviewed through verification of parking tickets issued, work ... Florida Statutes. Possession of a valid Florida driver's license required\u00a0...",
+   "htmlSnippet": "Work is reviewed through <b>verification</b> of parking tickets issued, work ... <b>Florida Statutes</b>. Possession of a valid Florida <b>driver&#39;s license</b> required&nbsp;...",
+   "formattedUrl": "https://www.jobapscloud.com/Tampa/specs/classspecdisplay.asp?...",
+   "htmlFormattedUrl": "https://www.jobapscloud.com/Tampa/specs/classspecdisplay.asp?...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL6sue_gQBWdQQhEfQvJLa08dGeQ1x496tGzLLkbQdRZvW6FOojecc&s",
+      "width": "125",
+      "height": "125"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.jobapscloud.com/Tampa/_skin/images/CityOfTampa.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Florida's Motorcycle, Moped & Scooter Laws",
+   "htmlTitle": "Florida&#39;s Motorcycle, Moped &amp; Scooter Laws",
+   "link": "https://www.salterhealy.com/floridas-motorcycle-moped-scooter-laws/",
+   "displayLink": "www.salterhealy.com",
+   "snippet": "Jan 18, 2024 ... per section 320.01(26), Florida Statutes. Do ... Operators must have a class E driver's license or a \u201cmotorcycle only\u201d driver's license.",
+   "htmlSnippet": "Jan 18, 2024 <b>...</b> per section 320.01(26), <b>Florida Statutes</b>. Do ... Operators must have a class E <b>driver&#39;s license</b> or a \u201cmotorcycle only\u201d <b>driver&#39;s license</b>.",
+   "formattedUrl": "https://www.salterhealy.com/floridas-motorcycle-moped-scooter-laws/",
+   "htmlFormattedUrl": "https://www.salterhealy.com/floridas-motorcycle-moped-scooter-laws/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBbHQW0Z24kRXFFNaOwcA_CieObaaUJvFW31kNCmxDgTDnWjKM_Uwv5LQ&s",
+      "width": "370",
+      "height": "136"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "article",
+      "article:published_time": "2024-01-18T18:46:44+00:00",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Salter, Healy, Rivera, & Heptner",
+      "author": "Legal Team",
+      "og:title": "Florida's Motorcycle, Moped & Scooter Laws",
+      "twitter:label1": "Written by",
+      "twitter:label2": "Est. reading time",
+      "og:description": "Stay informed about Florida's motorcycle, moped, and scooter laws to ensure a safe and legal ride.",
+      "twitter:data1": "Legal Team",
+      "twitter:data2": "3 minutes",
+      "article:modified_time": "2024-01-18T18:47:19+00:00",
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.salterhealy.com/floridas-motorcycle-moped-scooter-laws/",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.salterhealy.com/wp-content/uploads/2021/10/int-hero-360.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Procedures Manual for Implementation of the Florida Motor Vehicle ...",
+   "htmlTitle": "Procedures Manual for Implementation of the Florida Motor Vehicle ...",
+   "link": "https://www.flhsmv.gov/pdf/frmanual/ftp-procedure-manual.pdf",
+   "displayLink": "www.flhsmv.gov",
+   "snippet": "Section 324.0221(1) (a), Florida Statutes, reads in part: \"Each insurer ... requiring the verification of higher BIL/PDL limits of 100k/300k/50k. Non\u00a0...",
+   "htmlSnippet": "Section 324.0221(1) (a), <b>Florida Statutes</b>, reads in part: &quot;Each insurer ... requiring the <b>verification</b> of higher BIL/PDL limits of 100k/300k/<b>50k</b>. Non&nbsp;...",
+   "formattedUrl": "https://www.flhsmv.gov/pdf/frmanual/ftp-procedure-manual.pdf",
+   "htmlFormattedUrl": "https://www.flhsmv.gov/pdf/frmanual/ftp-procedure-manual.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20170720085142-04'00'",
+      "creator": "Microsoft\u00ae Word 2016",
+      "creationdate": "D:20170720085142-04'00'",
+      "author": "State of Florida",
+      "producer": "Microsoft\u00ae Word 2016",
+      "title": "PROCEDURES MANUAL"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Bad Check Crime Report",
+   "htmlTitle": "Bad Check Crime Report",
+   "link": "http://miamisao.com/wp-content/uploads/2021/02/bad-check-complaint-form-2021.pdf",
+   "displayLink": "miamisao.com",
+   "snippet": "Verification. Must Be. Notarized. Revised: 6/10/2019. Page 2. Worthless Check Florida Statutes 832. 05. Bad Check Program Information. As a victim of a bad\u00a0...",
+   "htmlSnippet": "<b>Verification</b>. Must Be. Notarized. Revised: 6/10/2019. Page 2. Worthless Check <b>Florida Statutes</b> 832. 05. Bad Check Program Information. As a victim of a bad&nbsp;...",
+   "formattedUrl": "http://miamisao.com/wp-content/.../bad-check-complaint-form-2021.pdf",
+   "htmlFormattedUrl": "http://miamisao.com/wp-content/.../bad-check-complaint-form-2021.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShFHel63pDa7R1kjYzsriZO9XSlqeiKBdtZ7cfF2a2JtyvEPNusA_o6jY&s",
+      "width": "267",
+      "height": "189"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20210203135542+05'00'",
+      "creationdate": "D:20080623094214-07'00'",
+      "creator": "PScript5.dll Version 5.2",
+      "author": "megan",
+      "producer": "Acrobat Distiller 8.1.0 (Windows)",
+      "title": "Miami FL Crime Report 6.6.08.pub"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///0605ca4a479bd7d0da30c96063b7e6bdedcd5c6947e72a73ac3cc873295f4e98"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Motor Scooter Accidents | Jacksonville Personal Injury Lawyer",
+   "htmlTitle": "Motor Scooter Accidents | Jacksonville Personal Injury Lawyer",
+   "link": "https://www.davidalanwolf.com/motor-scooter-accidents.html",
+   "displayLink": "www.davidalanwolf.com",
+   "snippet": "Pursuant to Section 316.003 (22), Florida Statutes ... As such, the operation of a motor scooter requires a Class E Driver's License OR a motorcycle only license.",
+   "htmlSnippet": "Pursuant to Section 316.003 (22), <b>Florida Statutes</b> ... As such, the operation of a motor scooter requires a Class E <b>Driver&#39;s License</b> OR a motorcycle only license.",
+   "formattedUrl": "https://www.davidalanwolf.com/motor-scooter-accidents.html",
+   "htmlFormattedUrl": "https://www.davidalanwolf.com/motor-scooter-accidents.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcUwavZFWTInwF8welSsdGx42w_dcxCPF9jzOhiRFGSUVKlblk0wN-4A&s",
+      "width": "415",
+      "height": "81"
+     }
+    ],
+    "legalservice": [
+     {
+      "image": "http://www.davidalanwolf.com/images/justia-davidalanwolf-com.png",
+      "name": "David Alan Wolf, Personal Injury Attorney",
+      "telephone": "(904) 500-9653",
+      "url": "https://www.davidalanwolf.com/"
+     },
+     {
+      "image": "http://www.davidalanwolf.com/images/justia-davidalanwolf-com.png",
+      "name": "David Alan Wolf, Personal Injury Attorney",
+      "telephone": "(386) 348-4695",
+      "url": "https://www.davidalanwolf.com/"
+     },
+     {
+      "image": "http://www.davidalanwolf.com/images/justia-davidalanwolf-com.png",
+      "name": "David Alan Wolf, Personal Injury Attorney",
+      "telephone": "(352) 887-4695",
+      "url": "https://www.davidalanwolf.com/"
+     }
+    ],
+    "imageobject": [
+     {
+      "contenturl": "http://www.davidalanwolf.com/images/justia-davidalanwolf-com.png"
+     },
+     {
+      "contenturl": "http://www.davidalanwolf.com/images/justia-davidalanwolf-com.png"
+     },
+     {
+      "contenturl": "http://www.davidalanwolf.com/images/justia-davidalanwolf-com.png"
+     }
+    ],
+    "postaladdress": [
+     {
+      "addresslocality": "Jacksonville",
+      "postalcode": "32207",
+      "addressregion": "FL",
+      "addresscountry": "US",
+      "streetaddress": "1702 Emerson St #2A"
+     },
+     {
+      "addresslocality": "Flagler Beach",
+      "postalcode": "32136",
+      "addressregion": "FL",
+      "addresscountry": "US",
+      "streetaddress": "2561 Moody Blvd #210"
+     },
+     {
+      "addresslocality": "Mt Dora",
+      "postalcode": "32757",
+      "addressregion": "FL",
+      "addresscountry": "US",
+      "streetaddress": "440 Royellou #204"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "http://www.davidalanwolf.com/images/justia-davidalanwolf-com.png",
+      "og:type": "website",
+      "og:site_name": "David Alan Wolf, Personal Injury Attorney",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "utime": "2025-04-02 13:09:40",
+      "og:title": "Motor Scooter Accidents",
+      "siteid": "2611504",
+      "pageid": "2982639",
+      "og:url": "https://www.davidalanwolf.com/motor-scooter-accidents.html",
+      "og:description": "Call (904) 500-9653 - David Alan Wolf helps victims and their families receive compensation for their injuries in Personal Injury and Accident cases. Motor Scooter Accidents - Jacksonville Personal Injury Lawyer",
+      "og:image:secure_url": "http://www.davidalanwolf.com/images/justia-davidalanwolf-com.png",
+      "autosize": "off"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "http://www.davidalanwolf.com/images/justia-davidalanwolf-com.png"
+     }
+    ],
+    "geocoordinates": [
+     {
+      "latitude": "30.2843996",
+      "longitude": "-81.64710860000002"
+     },
+     {
+      "latitude": "29.476387",
+      "longitude": "-81.147735"
+     },
+     {
+      "latitude": "28.8000144",
+      "longitude": "-81.6440974"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "Home",
+      "name": "Home",
+      "position": "1"
+     },
+     {
+      "item": "Injury Law",
+      "name": "Injury Law",
+      "position": "2"
+     },
+     {
+      "name": "Motor Scooter Accidents",
+      "position": "3"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Job Bulletin",
+   "htmlTitle": "Job Bulletin",
+   "link": "https://www.governmentjobs.com/careers/broward/jobs/newprint/5013899",
+   "displayLink": "www.governmentjobs.com",
+   "snippet": "Under Section 295.07, Florida Statutes, certain servicemembers and veterans ... Will you possess a valid Florida Driver's License at time of appointment?",
+   "htmlSnippet": "Under Section 295.07, <b>Florida Statutes</b>, certain servicemembers and veterans ... Will you possess a valid Florida <b>Driver&#39;s License</b> at time of appointment?",
+   "formattedUrl": "https://www.governmentjobs.com/careers/broward/jobs/newprint/5013899",
+   "htmlFormattedUrl": "https://www.governmentjobs.com/careers/broward/jobs/newprint/5013899",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width; initial-scale=1.0;"
+     }
+    ]
+   }
+  }
+ ]
+}

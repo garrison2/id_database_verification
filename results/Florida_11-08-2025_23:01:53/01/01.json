@@ -1,0 +1,309 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Florida Statutes\" \"driver's license\" OR \"identification card\" around 25 \"verification\" OR \"scanning\" OR \"swiping\" OR \"machine-readable\" OR \"electronically readable\" OR \"transaction scan\" -applicant -application",
+    "totalResults": "1290",
+    "searchTerms": "\"Florida Statutes\" \"driver's license\" OR \"identification card\" around 25 \"verification\" OR \"scanning\" OR \"swiping\" OR \"machine-readable\" OR \"electronically readable\" OR \"transaction scan\" -applicant -application",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Florida Statutes\" \"driver's license\" OR \"identification card\" around 25 \"verification\" OR \"scanning\" OR \"swiping\" OR \"machine-readable\" OR \"electronically readable\" OR \"transaction scan\" -applicant -application",
+    "totalResults": "1290",
+    "searchTerms": "\"Florida Statutes\" \"driver's license\" OR \"identification card\" around 25 \"verification\" OR \"scanning\" OR \"swiping\" OR \"machine-readable\" OR \"electronically readable\" OR \"transaction scan\" -applicant -application",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.294094,
+  "formattedSearchTime": "0.29",
+  "totalResults": "1290",
+  "formattedTotalResults": "1,290"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Untitled",
+   "htmlTitle": "Untitled",
+   "link": "https://www.flsenate.gov/Session/Bill/2013/7125/Amendment/370784/HTML",
+   "displayLink": "www.flsenate.gov",
+   "snippet": "... electronically readable format, the 19 information electronically encoded in ... swiping the driver license or 42 identification card. 43 (4) A private\u00a0...",
+   "htmlSnippet": "... <b>electronically readable</b> format, the 19 information electronically encoded in ... <b>swiping</b> the driver license or 42 <b>identification card</b>. 43 (4) A private&nbsp;...",
+   "formattedUrl": "https://www.flsenate.gov/Session/Bill/2013/7125/Amendment/.../HTML",
+   "htmlFormattedUrl": "https://www.flsenate.gov/Session/Bill/2013/7125/Amendment/.../HTML"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The 2024 Florida Statutes (including 2025 Special Session C)",
+   "htmlTitle": "The 2024 <b>Florida Statutes</b> (including 2025 Special Session C)",
+   "link": "http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0900-0999/0944/Sections/0944.607.html",
+   "displayLink": "www.leg.state.fl.us",
+   "snippet": "... identification card in the manner provided in s. 943.0435(3), (4), and (5), unless the sexual offender is a sexual predator, in which case he or she shall\u00a0...",
+   "htmlSnippet": "... <b>identification card</b> in the manner provided in s. 943.0435(3), (4), and (5), unless the sexual offender is a sexual predator, in which case he or she shall&nbsp;...",
+   "formattedUrl": "http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display...",
+   "htmlFormattedUrl": "http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display..."
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Chapter 943 Section 0435 - 2012 Florida Statutes - The Florida Senate",
+   "htmlTitle": "Chapter 943 Section 0435 - 2012 <b>Florida Statutes</b> - The Florida Senate",
+   "link": "https://www.flsenate.gov/laws/statutes/2012/943.0435",
+   "displayLink": "www.flsenate.gov",
+   "snippet": "(a) If otherwise qualified, secure a Florida driver's license, renew a Florida driver's license, or secure an identification card. ... verification or\u00a0...",
+   "htmlSnippet": "(a) If otherwise qualified, secure a Florida <b>driver&#39;s license</b>, renew a Florida <b>driver&#39;s license</b>, or secure an <b>identification card</b>. ... <b>verification</b> or&nbsp;...",
+   "formattedUrl": "https://www.flsenate.gov/laws/statutes/2012/943.0435",
+   "htmlFormattedUrl": "https://www.flsenate.gov/laws/statutes/2012/943.0435"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Fun on the 4th | Davie, FL",
+   "htmlTitle": "Fun on the 4th | Davie, FL",
+   "link": "https://www.davie-fl.gov/1196/Fun-on-the-4th",
+   "displayLink": "www.davie-fl.gov",
+   "snippet": "Jul 4, 2025 ... Bring a valid driver's license to the Pine Island ... Florida Statutes, and Article I, Section 24, of the Florida Constitution.",
+   "htmlSnippet": "Jul 4, 2025 <b>...</b> Bring a valid <b>driver&#39;s license</b> to the Pine Island ... <b>Florida Statutes</b>, and Article I, Section 24, of the Florida Constitution.",
+   "formattedUrl": "https://www.davie-fl.gov/1196/Fun-on-the-4th",
+   "htmlFormattedUrl": "https://www.davie-fl.gov/1196/Fun-on-the-4th",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYOL3a-0s0DhaJZrCDBFxqScSSvNXF9J2O3H5cW1IJI7_6kZfwM1eO_izt&s",
+      "width": "383",
+      "height": "132"
+     }
+    ],
+    "metatags": [
+     {
+      "category2": "Departments/Divisions",
+      "category3": "Parks, Recreation & Cultural Arts",
+      "category4": "About Us",
+      "theme-color": "rgb(8, 84, 56)",
+      "category5": "Special Events",
+      "viewport": "width=device-width, initial-scale=1",
+      "category0": "Home",
+      "category1": "Government",
+      "category6": "Fun on the 4th"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.davie-fl.gov/ImageRepository/Document?documentID=20753"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Procedures Manual for Implementation of the Florida Motor Vehicle ...",
+   "htmlTitle": "Procedures Manual for Implementation of the Florida Motor Vehicle ...",
+   "link": "https://www.flhsmv.gov/pdf/frmanual/ftp-procedure-manual.pdf",
+   "displayLink": "www.flhsmv.gov",
+   "snippet": "Section 324.0221(1) (a), Florida Statutes, reads in part: ... The verification list includes a cover letter with instructions on the verification process.",
+   "htmlSnippet": "Section 324.0221(1) (a), <b>Florida Statutes</b>, reads in part: ... The <b>verification</b> list includes a cover letter with instructions on the <b>verification</b> process.",
+   "formattedUrl": "https://www.flhsmv.gov/pdf/frmanual/ftp-procedure-manual.pdf",
+   "htmlFormattedUrl": "https://www.flhsmv.gov/pdf/frmanual/ftp-procedure-manual.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20170720085142-04'00'",
+      "creator": "Microsoft\u00ae Word 2016",
+      "creationdate": "D:20170720085142-04'00'",
+      "author": "State of Florida",
+      "producer": "Microsoft\u00ae Word 2016",
+      "title": "PROCEDURES MANUAL"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2025 OPEN ENROLLMENT",
+   "htmlTitle": "2025 OPEN ENROLLMENT",
+   "link": "https://www.browardschools.com/fs/resource-manager/view/e9bacba1-c0ed-4917-ad9a-5ae5dcabe2d6",
+   "displayLink": "www.browardschools.com",
+   "snippet": "Florida Statutes 627.6562(2). o Proof of Florida residency (e.g. Driver's License) o Proof of full or part-time school registration. \u2022 The Adult Child\u00a0...",
+   "htmlSnippet": "<b>Florida Statutes</b> 627.6562(2). o Proof of Florida residency (e.g. <b>Driver&#39;s License</b>) o Proof of full or part-time school registration. \u2022 The Adult Child&nbsp;...",
+   "formattedUrl": "https://www.browardschools.com/.../e9bacba1-c0ed-4917-ad9a-5ae5dcabe...",
+   "htmlFormattedUrl": "https://www.browardschools.com/.../e9bacba1-c0ed-4917-ad9a-5ae5dcabe...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPPVLOj-MVEPlZ47jvesvonbo-sgvfAR1S4I0-YNvUn4kuAiWbV8tyrwJ6&s",
+      "width": "197",
+      "height": "255"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20241006171016-04'00'",
+      "creationdate": "D:20241006171016-04'00'",
+      "creator": "Acrobat PDFMaker 24 for Word",
+      "author": "p00073992",
+      "producer": "Adobe Acrobat Pro (64-bit) 24.3.20180"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///64813dfe5c7ed65db8766b20a93cd9f9ed8caaf895e391f43d940c111397c67e"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Registered Sex Offenders in Florida Communities Increased to Over ...",
+   "htmlTitle": "Registered Sex Offenders in Florida Communities Increased to Over ...",
+   "link": "https://oppaga.fl.gov/Documents/Reports/12-12.pdf",
+   "displayLink": "oppaga.fl.gov",
+   "snippet": "Dec 1, 2012 ... verification efforts. Almost 25% of sex offenders are unable to ... 23. (See Appendix B for a sample sex offender identification card and letter.).",
+   "htmlSnippet": "Dec 1, 2012 <b>...</b> <b>verification</b> efforts. Almost <b>25</b>% of sex offenders are unable to ... 23. (See Appendix B for a sample sex offender <b>identification card</b> and letter.).",
+   "formattedUrl": "https://oppaga.fl.gov/Documents/Reports/12-12.pdf",
+   "htmlFormattedUrl": "https://oppaga.fl.gov/Documents/Reports/12-12.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2LbTSeYtMc5d80EhLPdMVYSVNpaOKjxDjG8xKWwkt-_qj2EUtcwDxmRQ&s",
+      "width": "215",
+      "height": "234"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20121219085650-05'00'",
+      "creationdate": "D:20121218145153-05'00'",
+      "creator": "Acrobat PDFMaker 10.1 for Word",
+      "sourcemodified": "D:20121218195128",
+      "author": "OPPAGA",
+      "subject": "Criminal Justice Publication",
+      "producer": "Adobe PDF Library 10.0",
+      "company": "OPPAGA",
+      "title": "Registered Sex Offenders in Florida Communities Increased to Over 23,000; Transient Offenders Present Challenges"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///d4205f3479bd1c9ae7e87cf52107f69c9e68883fcdf4af059c1638d8ab86ff65"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Print Shop Specialist - Broward County",
+   "htmlTitle": "Print Shop Specialist - Broward County",
+   "link": "https://www.governmentjobs.com/careers/broward/jobs/newprint/4975892",
+   "displayLink": "www.governmentjobs.com",
+   "snippet": "Jun 17, 2025 ... Under Section 295.07, Florida Statutes ... Do you possess or have the eligibility to maintain a valid Class E Florida Driver's License for the\u00a0...",
+   "htmlSnippet": "Jun 17, 2025 <b>...</b> Under Section 295.07, <b>Florida Statutes</b> ... Do you possess or have the eligibility to maintain a valid Class E Florida <b>Driver&#39;s License</b> for the&nbsp;...",
+   "formattedUrl": "https://www.governmentjobs.com/careers/broward/jobs/newprint/4975892",
+   "htmlFormattedUrl": "https://www.governmentjobs.com/careers/broward/jobs/newprint/4975892",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width; initial-scale=1.0;"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Jeffrey P. Gale, P.A. // Claim for Punitive Damages Allowed for Cell ...",
+   "htmlTitle": "Jeffrey P. Gale, P.A. // Claim for Punitive Damages Allowed for Cell ...",
+   "link": "https://www.jeffgalelaw.com/blog/jeffrey-p-gale-p-a-claim-for-punitive-damages-allowed-for-cell-phone-usage-while-driving/",
+   "displayLink": "www.jeffgalelaw.com",
+   "snippet": "May 25, 2020 ... ... Florida Statutes. However, reference to case law remains important ... scanning at intersections. A copy of the Florida Commercial\u00a0...",
+   "htmlSnippet": "May 25, 2020 <b>...</b> ... <b>Florida Statutes</b>. However, reference to case law remains important ... <b>scanning</b> at intersections. A copy of the Florida Commercial&nbsp;...",
+   "formattedUrl": "https://www.jeffgalelaw.com/.../jeffrey-p-gale-p-a-claim-for-punitive-dama...",
+   "htmlFormattedUrl": "https://www.jeffgalelaw.com/.../jeffrey-p-gale-p-a-claim-for-punitive-dama...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRle26-DqYRoZZHGZcHSX5YW8NZSMybmaY_wKN8b98Uy5RlMeos4iBAiuMe&s",
+      "width": "200",
+      "height": "251"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.jeffgalelaw.com/static/2020/05/texting1-reduced.jpg",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Jeffrey P. Gale, P.A. // Claim for Punitive Damages Allowed for Cell Phone Usage While Driving | Miami Personal Injury Lawyer Blog | May 25, 2020",
+      "og:type": "article",
+      "article:published_time": "2020-05-26T00:13:50+00:00",
+      "og:site_name": "Jeffrey P. Gale, P.A.",
+      "og:image:url": "https://www.jeffgalelaw.com/static/2020/05/texting1-reduced.jpg",
+      "og:title": "Jeffrey P. Gale, P.A. // Claim for Punitive Damages Allowed for Cell Phone Usage While Driving",
+      "twitter:label1": "Written by",
+      "twitter:label2": "Est. reading time",
+      "og:description": "Punitive damages under Florida law can increase the amount of money awarded against a defendant by a factor far in excess of the amount awarded by the",
+      "twitter:image": "https://www.jeffgalelaw.com/static/2020/05/texting1-reduced.jpg",
+      "twitter:data1": "Jeffrey P. Gale, P.A.",
+      "twitter:data2": "3 minutes",
+      "article:modified_time": "2025-07-07T20:34:24+00:00",
+      "viewport": "width=device-width",
+      "twitter:description": "Punitive damages under Florida law can increase the amount of money awarded against a defendant by a factor far in excess of the amount awarded by the",
+      "siteid": "jeffgalelaw-com",
+      "og:url": "https://www.jeffgalelaw.com/blog/jeffrey-p-gale-p-a-claim-for-punitive-damages-allowed-for-cell-phone-usage-while-driving/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.jeffgalelaw.com/static/2020/05/texting1-reduced.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BILL ANALYSIS AND FISCAL IMPACT STATEMENT Please see ...",
+   "htmlTitle": "BILL ANALYSIS AND FISCAL IMPACT STATEMENT Please see ...",
+   "link": "https://m.flsenate.gov/session/bill/2025/1418/analyses/2025s01418.ri.pdf",
+   "displayLink": "m.flsenate.gov",
+   "snippet": "Mar 19, 2025 ... remote sales of tobacco products, including age verification requirements. ... This bill substantially amends the following sections of the\u00a0...",
+   "htmlSnippet": "Mar 19, 2025 <b>...</b> remote sales of tobacco products, including age <b>verification</b> requirements. ... This bill substantially amends the following sections of the&nbsp;...",
+   "formattedUrl": "https://m.flsenate.gov/session/bill/2025/1418/analyses/2025s01418.ri.pdf",
+   "htmlFormattedUrl": "https://m.flsenate.gov/session/bill/2025/1418/analyses/2025s01418.ri.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20250321082623-04'00'",
+      "creator": "Microsoft\u00ae Word for Microsoft 365",
+      "creationdate": "D:20250321082623-04'00'",
+      "author": "Oxamendi, Miguel",
+      "producer": "Microsoft\u00ae Word for Microsoft 365",
+      "title": "2025 S0141 RI"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}
