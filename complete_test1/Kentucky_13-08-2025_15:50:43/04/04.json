@@ -1,0 +1,126 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://drive.ky.gov \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "3",
+    "searchTerms": "site:https://drive.ky.gov \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 3,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.094739,
+  "formattedSearchTime": "0.09",
+  "totalResults": "3",
+  "formattedTotalResults": "3"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Kentucky Mobile ID - DRIVE",
+   "htmlTitle": "Kentucky <b>Mobile ID</b> - DRIVE",
+   "link": "https://drive.ky.gov/Pages/Mobile-ID.aspx",
+   "displayLink": "drive.ky.gov",
+   "snippet": "Digital Option. The Mobile ID app offers a secure, digital version of your driver's license or ID\u2014perfect for quick access on the go!",
+   "htmlSnippet": "Digital Option. The <b>Mobile ID</b> app offers a secure, digital version of your driver&#39;s license or ID\u2014perfect for quick access on the go!",
+   "formattedUrl": "https://drive.ky.gov/Pages/Mobile-ID.aspx",
+   "htmlFormattedUrl": "https://drive.ky.gov/Pages/<b>Mobile-ID</b>.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSutlzUFHOTfFHhpMKrHZeoUKMKh9H2zMVOvQ1tJAYfmCpYubK4xby2g00&s",
+      "width": "326",
+      "height": "155"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#da532c",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msvalidate.01": "6688D5607AD5EB2274EC21A212D9D29A",
+      "progid": "SharePoint.WebPartPage.Document",
+      "title": "Kentucky Mobile ID"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://drive.ky.gov/Drivers/MobileID/STEP-FINAL.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Welcome - DRIVE",
+   "htmlTitle": "Welcome - DRIVE",
+   "link": "https://drive.ky.gov/Pages/index.aspx",
+   "displayLink": "drive.ky.gov",
+   "snippet": "Join more than 130K Kentuckians who have renewed their vehicle registration online this year! All you need is your title number, plate number and a credit card.",
+   "htmlSnippet": "Join more than 130K Kentuckians who have renewed their vehicle registration online this year! All you need is your title number, plate number and a credit card.",
+   "formattedUrl": "https://drive.ky.gov/Pages/index.aspx",
+   "htmlFormattedUrl": "https://drive.ky.gov/Pages/index.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpDCWM3ZBQIv9ijvVP_FcnUjaVkQAh7mvoHTxJ6wRhfpxi6-e21zGYYfc&s",
+      "width": "278",
+      "height": "181"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#da532c",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msvalidate.01": "6688D5607AD5EB2274EC21A212D9D29A",
+      "progid": "SharePoint.WebPartPage.Document",
+      "title": "Welcome"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://drive.ky.gov/PublishingImages/LICENSE-DLRO-IMAGE.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Site Map - DRIVE",
+   "htmlTitle": "Site Map - DRIVE",
+   "link": "https://drive.ky.gov/Pages/sitemap.aspx",
+   "displayLink": "drive.ky.gov",
+   "snippet": "Kentucky Mobile ID \u00b7 Acknowledgement for Online License Renewal \u00b7 tester \u00b7 Skip the Line \u00b7 tester-3. Translate this page. Select Language, Abkhaz, Acehnese\u00a0...",
+   "htmlSnippet": "Kentucky <b>Mobile ID</b> &middot; Acknowledgement for Online License Renewal &middot; tester &middot; Skip the Line &middot; tester-3. Translate this page. Select Language, Abkhaz, Acehnese&nbsp;...",
+   "formattedUrl": "https://drive.ky.gov/Pages/sitemap.aspx",
+   "htmlFormattedUrl": "https://drive.ky.gov/Pages/sitemap.aspx",
+   "pagemap": {
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#da532c",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msvalidate.01": "6688D5607AD5EB2274EC21A212D9D29A",
+      "progid": "SharePoint.WebPartPage.Document",
+      "title": "Site Map"
+     }
+    ]
+   }
+  }
+ ]
+}

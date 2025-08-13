@@ -1,0 +1,486 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://www.mass.gov \"driver's license\" OR \"identification card\"",
+    "totalResults": "16000",
+    "searchTerms": "site:https://www.mass.gov \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://www.mass.gov \"driver's license\" OR \"identification card\"",
+    "totalResults": "16000",
+    "searchTerms": "site:https://www.mass.gov \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.17142,
+  "formattedSearchTime": "0.17",
+  "totalResults": "16000",
+  "formattedTotalResults": "16,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "RMV-issued Identification Cards | Mass.gov",
+   "htmlTitle": "RMV-issued Identification Cards | Mass.gov",
+   "link": "https://www.mass.gov/rmv-issued-identification-cards",
+   "displayLink": "www.mass.gov",
+   "snippet": "If you do not have a Massachusetts driver's license, the RMV can issue you an official identification card: Massachusetts ID or Massachusetts Liquor ID.",
+   "htmlSnippet": "If you do not have a Massachusetts <b>driver&#39;s license</b>, the RMV can issue you an official <b>identification card</b>: Massachusetts ID or Massachusetts Liquor ID.",
+   "formattedUrl": "https://www.mass.gov/rmv-issued-identification-cards",
+   "htmlFormattedUrl": "https://www.mass.gov/rmv-issued-<b>identification-card</b>s",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHkjswho953Mg0gCrmmloime8zyCwXxRJvLm607H9MNycpTvRI8IQi3tji&s",
+      "width": "310",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.mass.gov/files/styles/social_media/public/2017-08/ID.jpg?h=ef32067e&itok=oRuAdhX1",
+      "mg_title": "RMV-issued Identification Cards",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Mass.gov",
+      "twitter:url": "https://www.mass.gov/rmv-issued-identification-cards",
+      "mg_parent_org": "massachusettsdepartmentoftransportation",
+      "mg_short_description": "If you do not have a Massachusetts driver's license, the RMV can issue you an official identification card: Massachusetts ID or Massachusetts Liquor ID. They do not extend any driving privileges.",
+      "og:description": "If you do not have a Massachusetts driver's license, the RMV can issue you an official identification card: Massachusetts ID or Massachusetts Liquor ID. They do not extend any driving privileges.",
+      "twitter:image": "https://www.mass.gov/files/styles/social_media/public/2017-08/ID.jpg?h=ef32067e&itok=oRuAdhX1",
+      "mg_url": "https://www.mass.gov/rmv-issued-identification-cards",
+      "twitter:site": "@massgov",
+      "og:type": "website",
+      "twitter:title": "RMV-issued Identification Cards",
+      "twitter:site:id": "16264003",
+      "mg_body_preview": "If you do not have a Massachusetts driver's license, the RMV can issue you an official identification card: Massachusetts ID or Massachusetts Liquor ID. They do not extend any driving privileges.",
+      "handheldfriendly": "true",
+      "og:title": "RMV-issued Identification Cards",
+      "mg_organization": "massachusettsregistryofmotorvehicles",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "If you do not have a Massachusetts driver's license, the RMV can issue you an official identification card: Massachusetts ID or Massachusetts Liquor ID. They do not extend any driving privileges.",
+      "mobileoptimized": "width",
+      "mg_labels": "reviewmultipleparents,massgovchatbot,dotsecchatbot,rmvorgchatbot,rmvlicenseservchatbot,rmvcrawlchatbot,rmvvirtualassistant,virtualassistant",
+      "og:url": "https://www.mass.gov/rmv-issued-identification-cards",
+      "mg_parent_topic": "[{\"name\":\"Licenses & IDs\",\"url\":\"https:\\/\\/www.mass.gov\\/topics\\/licenses-ids\"}]",
+      "category": "services"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.mass.gov/files/styles/social_media/public/2017-08/ID.jpg?h=ef32067e&itok=oRuAdhX1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Massachusetts identification (ID) requirements | Mass.gov",
+   "htmlTitle": "Massachusetts identification (ID) requirements | Mass.gov",
+   "link": "https://www.mass.gov/info-details/massachusetts-identification-id-requirements",
+   "displayLink": "www.mass.gov",
+   "snippet": "If you are renewing a standard driver's license (Class D, Class M, or Class D/M) or Mass ID, you have the option of choosing REAL ID, which you now need to\u00a0...",
+   "htmlSnippet": "If you are renewing a standard <b>driver&#39;s license</b> (Class D, Class M, or Class D/M) or Mass ID, you have the option of choosing REAL ID, which you now need to&nbsp;...",
+   "formattedUrl": "https://www.mass.gov/info.../massachusetts-identification-id-requirements",
+   "htmlFormattedUrl": "https://www.mass.gov/info.../massachusetts-identification-id-requirements",
+   "pagemap": {
+    "WebPage": [
+     {
+      "noopener": "Mass.gov"
+     }
+    ],
+    "metatags": [
+     {
+      "mg_title": "Massachusetts identification (ID) requirements",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Massachusetts identification (ID) requirements",
+      "og:site_name": "Mass.gov",
+      "twitter:site:id": "16264003",
+      "og:image:url": "https://www.mass.gov/files/2025-04/Required%20Documents_final.jpg",
+      "handheldfriendly": "true",
+      "twitter:url": "https://www.mass.gov/info-details/massachusetts-identification-id-requirements",
+      "mg_parent_org": "massachusettsdepartmentoftransportation",
+      "og:title": "Massachusetts identification (ID) requirements",
+      "og:description": "Learn more about what you need to do to get RMV-issued ID cards in Massachusetts.",
+      "twitter:image": "https://www.mass.gov/files/2025-04/Required%20Documents_final.jpg",
+      "mg_url": "https://www.mass.gov/info-details/massachusetts-identification-id-requirements",
+      "twitter:site": "@massgov",
+      "mg_organization": "massachusettsregistryofmotorvehicles",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Learn more about what you need to do to get RMV-issued ID cards in Massachusetts.",
+      "mobileoptimized": "width",
+      "mg_labels": "reviewmultipleparents,massgovchatbot,dotsecchatbot,rmvorgchatbot,rmvlicenseservchatbot,rmvcrawlchatbot,rmvvirtualassistant,virtualassistant",
+      "og:url": "https://www.mass.gov/info-details/massachusetts-identification-id-requirements",
+      "category": "services"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Passenger (Class D) Driver's Licenses | Mass.gov",
+   "htmlTitle": "Passenger (Class D) Driver&#39;s Licenses | Mass.gov",
+   "link": "https://www.mass.gov/passenger-class-d-drivers-licenses",
+   "displayLink": "www.mass.gov",
+   "snippet": "If you are a Massachusetts resident (or even a non-resident), you must have a valid driver's license to operate a motor vehicle on any public road, highway,\u00a0...",
+   "htmlSnippet": "If you are a Massachusetts resident (or even a non-resident), you must have a valid <b>driver&#39;s license</b> to operate a motor vehicle on any public road, highway,&nbsp;...",
+   "formattedUrl": "https://www.mass.gov/passenger-class-d-drivers-licenses",
+   "htmlFormattedUrl": "https://www.mass.gov/passenger-class-d-<b>drivers-license</b>s",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpKtvR6V61C5SqTHTOmf-oBVI6F76k092C1s2hDa5rhCNTf-6xb8KSXApD&s",
+      "width": "310",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.mass.gov/files/styles/social_media/public/2020-06/car%20shutterstock.jpg?h=8f60a04c&itok=OEjaUHpF",
+      "mg_title": "Passenger (Class D) Driver's Licenses",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Mass.gov",
+      "twitter:url": "https://www.mass.gov/passenger-class-d-drivers-licenses",
+      "mg_parent_org": "massachusettsdepartmentoftransportation",
+      "mg_short_description": "If you are a Massachusetts resident (or even a non-resident), you must have a valid driver's license to operate a motor vehicle on any public road, highway, or other way permitting access to the public.",
+      "og:description": "If you are a Massachusetts resident (or even a non-resident), you must have a valid driver's license to operate a motor vehicle on any public road, highway, or other way permitting access to the public.",
+      "twitter:image": "https://www.mass.gov/files/styles/social_media/public/2020-06/car%20shutterstock.jpg?h=8f60a04c&itok=OEjaUHpF",
+      "mg_url": "https://www.mass.gov/passenger-class-d-drivers-licenses",
+      "twitter:site": "@massgov",
+      "og:type": "website",
+      "twitter:title": "Passenger (Class D) Driver's Licenses",
+      "twitter:site:id": "16264003",
+      "mg_body_preview": "If you are a Massachusetts resident (or even a non-resident), you must have a valid driver's license to operate a motor vehicle on any public road, highway, or other way permitting access to the public.",
+      "handheldfriendly": "true",
+      "og:title": "Passenger (Class D) Driver's Licenses",
+      "mg_organization": "massachusettsregistryofmotorvehicles,massachusettsdepartmentoftransportation",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "If you are a Massachusetts resident (or even a non-resident), you must have a valid driver's license to operate a motor vehicle on any public road, highway, or other way permitting access to the public.",
+      "mobileoptimized": "width",
+      "mg_labels": "reviewmultipleparents,massgovchatbot,dotsecchatbot,rmvorgchatbot,rmvlicenseservchatbot,rmvcrawlchatbot,rmvvirtualassistant,virtualassistant",
+      "og:url": "https://www.mass.gov/passenger-class-d-drivers-licenses",
+      "mg_parent_topic": "[{\"name\":\"Licenses & IDs\",\"url\":\"https:\\/\\/www.mass.gov\\/topics\\/licenses-ids\"}]",
+      "category": "services"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.mass.gov/files/styles/social_media/public/2020-06/car%20shutterstock.jpg?h=8f60a04c&itok=OEjaUHpF"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Apply for a Massachusetts Identification Card (Mass ID) | Mass.gov",
+   "htmlTitle": "Apply for a Massachusetts <b>Identification Card</b> (Mass ID) | Mass.gov",
+   "link": "https://www.mass.gov/how-to/apply-for-a-massachusetts-identification-card-mass-id",
+   "displayLink": "www.mass.gov",
+   "snippet": "Apply for a Massachusetts Identification Card (Mass ID). Learn how to ... Individuals 18 and older now need a REAL ID driver's license or ID card (or\u00a0...",
+   "htmlSnippet": "Apply for a Massachusetts <b>Identification Card</b> (Mass ID). Learn how to ... Individuals 18 and older now need a REAL ID <b>driver&#39;s license</b> or ID card (or&nbsp;...",
+   "formattedUrl": "https://www.mass.gov/.../apply-for-a-massachusetts-identification-card-mass...",
+   "htmlFormattedUrl": "https://www.mass.gov/.../apply-for-a-massachusetts-<b>identification-card</b>-mass...",
+   "pagemap": {
+    "metatags": [
+     {
+      "mg_title": "Apply for a Massachusetts Identification Card (Mass ID)",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Apply for a Massachusetts Identification Card (Mass ID)",
+      "og:site_name": "Mass.gov",
+      "twitter:site:id": "16264003",
+      "mg_body_preview": "Learn how to apply for a Massachusetts identification card (Mass ID).",
+      "handheldfriendly": "true",
+      "twitter:url": "https://www.mass.gov/how-to/apply-for-a-massachusetts-identification-card-mass-id",
+      "mg_parent_org": "massachusettsdepartmentoftransportation",
+      "mg_short_description": "Learn how to apply for a Massachusetts identification card (Mass ID).",
+      "og:title": "Apply for a Massachusetts Identification Card (Mass ID)",
+      "og:description": "Learn how to apply for a Massachusetts identification card (Mass ID).",
+      "mg_url": "https://www.mass.gov/how-to/apply-for-a-massachusetts-identification-card-mass-id",
+      "twitter:site": "@massgov",
+      "mg_key_actions": "[{\"name\":\"Start your application online\",\"url\":\"https:\\/\\/atlas-myrmv.massdot.state.ma.us\\/myrmv\\/?Link=ApplyForMassID\"},{\"name\":\"Learn what documents you need to bring\",\"url\":\"https:\\/\\/www.mass.gov\\/info-details\\/massachusetts-identification-id-requirements\"}]",
+      "mg_organization": "massachusettsregistryofmotorvehicles",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Learn how to apply for a Massachusetts identification card (Mass ID).",
+      "mobileoptimized": "width",
+      "mg_labels": "reviewmultipleparents,massgovchatbot,dotsecchatbot,rmvorgchatbot,rmvidcardservchatbot,rmvcrawlchatbot,rmvvirtualassistant,virtualassistant",
+      "og:url": "https://www.mass.gov/how-to/apply-for-a-massachusetts-identification-card-mass-id",
+      "category": "services",
+      "mg_parent_service": "[{\"name\":\"Passenger (Class D) Driver's Licenses\",\"url\":\"https:\\/\\/www.mass.gov\\/passenger-class-d-drivers-licenses\"}]"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Renew your REAL or standard passenger (Class D) or motorcycle ...",
+   "htmlTitle": "Renew your REAL or standard passenger (Class D) or motorcycle ...",
+   "link": "https://www.mass.gov/how-to/renew-your-real-or-standard-passenger-class-d-or-motorcycle-class-m-drivers-license",
+   "displayLink": "www.mass.gov",
+   "snippet": "What you need. If you are renewing a driver's license in Massachusetts, you have the option of upgrading to a REAL ID if you don't already have\u00a0...",
+   "htmlSnippet": "What you need. If you are renewing a <b>driver&#39;s license</b> in Massachusetts, you have the option of upgrading to a REAL ID if you don&#39;t already have&nbsp;...",
+   "formattedUrl": "https://www.mass.gov/.../renew-your-real-or-standard-passenger-class-d-or-...",
+   "htmlFormattedUrl": "https://www.mass.gov/.../renew-your-real-or-standard-passenger-class-d-or-...",
+   "pagemap": {
+    "metatags": [
+     {
+      "mg_title": "Renew your REAL or standard passenger (Class D) or motorcycle (Class M) driver's license",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Renew your REAL or standard passenger (Class D) or motorcycle (Class M) driver's license",
+      "og:site_name": "Mass.gov",
+      "twitter:site:id": "16264003",
+      "mg_body_preview": "Learn how to renew a standard or REAL ID passenger or motorcycle driver's license in Massachusetts.",
+      "handheldfriendly": "true",
+      "twitter:url": "https://www.mass.gov/how-to/renew-your-real-or-standard-passenger-class-d-or-motorcycle-class-m-drivers-license",
+      "mg_parent_org": "massachusettsdepartmentoftransportation",
+      "mg_short_description": "Learn how to renew a standard or REAL ID passenger or motorcycle driver's license in Massachusetts.",
+      "og:title": "Renew your REAL or standard passenger (Class D) or motorcycle (Class M) driver's license",
+      "og:description": "Learn how to renew a standard or REAL ID passenger or motorcycle driver's license in Massachusetts.",
+      "mg_url": "https://www.mass.gov/how-to/renew-your-real-or-standard-passenger-class-d-or-motorcycle-class-m-drivers-license",
+      "twitter:site": "@massgov",
+      "mg_key_actions": "[]",
+      "mg_organization": "massachusettsregistryofmotorvehicles",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Learn how to renew a standard or REAL ID passenger or motorcycle driver's license in Massachusetts.",
+      "mobileoptimized": "width",
+      "mg_labels": "reviewmultipleparents,massgovchatbot,dotsecchatbot,rmvorgchatbot,rmvlicenseservchatbot,rmvcrawlchatbot,rmvcrawlchatbot,rmvvirtualassistant,virtualassistant",
+      "og:url": "https://www.mass.gov/how-to/renew-your-real-or-standard-passenger-class-d-or-motorcycle-class-m-drivers-license",
+      "category": "services",
+      "mg_parent_service": "[{\"name\":\"RMV Services at AAA\",\"url\":\"https:\\/\\/www.mass.gov\\/rmv-services-at-aaa\"}]"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Change information on your driver's license or ID card | Mass.gov",
+   "htmlTitle": "Change information on your <b>driver&#39;s license</b> or ID card | Mass.gov",
+   "link": "https://www.mass.gov/how-to/change-information-on-your-drivers-license-or-id-card",
+   "displayLink": "www.mass.gov",
+   "snippet": "If you are looking to change information on your driver's license, Mass ID, or Liquor ID you will need to notify the RMV.",
+   "htmlSnippet": "If you are looking to change information on your <b>driver&#39;s license</b>, Mass ID, or Liquor ID you will need to notify the RMV.",
+   "formattedUrl": "https://www.mass.gov/.../change-information-on-your-drivers-license-or-id...",
+   "htmlFormattedUrl": "https://www.mass.gov/.../change-information-on-your-<b>drivers-license</b>-or-id...",
+   "pagemap": {
+    "metatags": [
+     {
+      "mg_title": "Change information on your driver's license or ID card",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Change information on your driver's license or ID card",
+      "og:site_name": "Mass.gov",
+      "twitter:site:id": "16264003",
+      "mg_body_preview": "If you are looking to change information on your driver's license, Mass ID, or Liquor ID you will need to notify the RMV.",
+      "handheldfriendly": "true",
+      "twitter:url": "https://www.mass.gov/how-to/change-information-on-your-drivers-license-or-id-card",
+      "mg_parent_org": "massachusettsdepartmentoftransportation",
+      "mg_short_description": "If you are looking to change information on your driver's license, Mass ID, or Liquor ID you will need to notify the RMV.",
+      "og:title": "Change information on your driver's license or ID card",
+      "og:description": "If you are looking to change information on your driver's license, Mass ID, or Liquor ID you will need to notify the RMV.",
+      "mg_url": "https://www.mass.gov/how-to/change-information-on-your-drivers-license-or-id-card",
+      "twitter:site": "@massgov",
+      "mg_key_actions": "[{\"name\":\"Access your profile\",\"url\":\"https:\\/\\/atlas-myrmv.massdot.state.ma.us\\/myrmv\\/?Link=AccessMyProfile\"},{\"name\":\"Apply for a REAL ID\",\"url\":\"https:\\/\\/atlas-myrmv.massdot.state.ma.us\\/myrmv\\/?Link=ObtainRealID\"}]",
+      "mg_organization": "massachusettsregistryofmotorvehicles",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "If you are looking to change information on your driver's license, Mass ID, or Liquor ID you will need to notify the RMV.",
+      "mobileoptimized": "width",
+      "mg_labels": "reviewmultipleparents,massgovchatbot,dotsecchatbot,rmvorgchatbot,rmvlicenseservchatbot,rmvcrawlchatbot,rmvvirtualassistant,virtualassistant",
+      "og:url": "https://www.mass.gov/how-to/change-information-on-your-drivers-license-or-id-card",
+      "category": "services"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver's License, Learner's Permit or ID Card Application | Mass.gov",
+   "htmlTitle": "<b>Driver&#39;s License</b>, Learner&#39;s Permit or ID Card Application | Mass.gov",
+   "link": "https://www.mass.gov/doc/learners-permit-drivers-license-and-id-card-application/download",
+   "displayLink": "www.mass.gov",
+   "snippet": "List any current license/permit also: You may use additional paper if necessary. An out of state driver's license or identification card is subject to\u00a0...",
+   "htmlSnippet": "List any current license/permit also: You may use additional paper if necessary. An out of state <b>driver&#39;s license</b> or <b>identification card</b> is subject to&nbsp;...",
+   "formattedUrl": "https://www.mass.gov/doc/learners-permit-drivers-license-and.../download",
+   "htmlFormattedUrl": "https://www.mass.gov/doc/learners-permit-<b>drivers-license</b>-and.../download",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRLBUQisknOCViZmXyyczkGo2QRqSvTT9wA7tPSzJTEjh04pqj0H955m4&s",
+      "width": "128",
+      "height": "128"
+     }
+    ],
+    "metatags": [
+     {
+      "mg_title": "Learner's Permit, Driver's License, and ID Card Application",
+      "mg_organization": "massachusettsregistryofmotorvehicles",
+      "mg_date": "20180321",
+      "mg_file_type": "application/pdf",
+      "mg_file_size": "644863"
+     },
+     {
+      "moddate": "D:20240820110325-04'00'",
+      "creationdate": "D:20230620151428-04'00'",
+      "creator": "Microsoft\u00ae Word 2016",
+      "author": "Steve McCarthy",
+      "producer": "Microsoft\u00ae Word 2016",
+      "title": "Driver's License, Learner's Permit, or ID Card Application"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///37b0e29a944584289509fcb6f583d6a762fb6cf7d571347e3453f72d9cc5e5cc"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Massachusetts Registry of Motor Vehicles | Mass.gov",
+   "htmlTitle": "Massachusetts Registry of Motor Vehicles | Mass.gov",
+   "link": "https://www.mass.gov/orgs/massachusetts-registry-of-motor-vehicles",
+   "displayLink": "www.mass.gov",
+   "snippet": "Individuals 18 and older now need a REAL ID driver's license or ID card (or another ID accepted by the TSA) to board domestic flights or enter certain federal\u00a0...",
+   "htmlSnippet": "Individuals 18 and older now need a REAL ID <b>driver&#39;s license</b> or ID card (or another ID accepted by the TSA) to board domestic flights or enter certain federal&nbsp;...",
+   "formattedUrl": "https://www.mass.gov/orgs/massachusetts-registry-of-motor-vehicles",
+   "htmlFormattedUrl": "https://www.mass.gov/orgs/massachusetts-registry-of-motor-vehicles",
+   "pagemap": {
+    "metatags": [
+     {
+      "mg_title": "Massachusetts Registry of Motor Vehicles",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Mass.gov",
+      "twitter:url": "https://www.mass.gov/orgs/massachusetts-registry-of-motor-vehicles",
+      "mg_parent_org": "massachusettsdepartmentoftransportation",
+      "og:description": "The RMV is responsible for registering and inspecting motor vehicles, licensing drivers, and processing payments for traffic citations in Massachusetts. You can complete more than 60 transactions online by visiting the registry\u2019s Online Service Center.",
+      "twitter:image": "https://www.mass.gov/files/styles/large/public/2025-02/RMV_Banner_Placeholder.png?itok=thHe77RW",
+      "mg_logo_url": "https://www.mass.gov/files/styles/organization_logo/public/2017-08/rmv%20logo.png?itok=PI5HlElv",
+      "mg_address_label": "Registry of Motor Vehicles",
+      "mg_url": "https://www.mass.gov/orgs/massachusetts-registry-of-motor-vehicles",
+      "twitter:site": "@massgov",
+      "mg_location_listing_url": "[{\"name\":\"Massachusetts Registry of Motor Vehicles Locations\",\"url\":\"https:\\/\\/www.mass.gov\\/orgs\\/massachusetts-registry-of-motor-vehicles\\/locations\"}]",
+      "og:type": "website",
+      "twitter:title": "Massachusetts Registry of Motor Vehicles",
+      "twitter:site:id": "16264003",
+      "mg_body_preview": "The RMV is responsible for registering and inspecting motor vehicles, licensing drivers, and processing payments for traffic citations in Massachusetts. You can complete more than 60 transactions online by visiting the registry\u2019s Online Service Center.",
+      "handheldfriendly": "true",
+      "og:title": "Massachusetts Registry of Motor Vehicles",
+      "mg_organization": "massachusettsregistryofmotorvehicles",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "The RMV is responsible for registering and inspecting motor vehicles, licensing drivers, and processing payments for traffic citations in Massachusetts. You can complete more than 60 transactions online by visiting the registry\u2019s Online Service Center.",
+      "mg_online_contact_url": "[{\"name\":\"Ask the RMV\",\"url\":\"https:\\/\\/www.mass.gov\\/info-details\\/ask-the-rmv\"}]",
+      "mobileoptimized": "width",
+      "mg_labels": "massgovchatbot,dotsecchatbot,rmvorgchatbot,rmvnullservchatbot,rmvcrawlchatbot,rmvvirtualassistant,virtualassistant",
+      "mg_address": "PO Box 55889 Boston, MA 02205 United States",
+      "og:url": "https://www.mass.gov/orgs/massachusetts-registry-of-motor-vehicles",
+      "mg_directions_url": "https://maps.google.com/?q=PO+Box+55889%2C+Boston%2C+MA+02205",
+      "category": "state-organizations"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Transfer your driver's license from a foreign country | Mass.gov",
+   "htmlTitle": "Transfer your <b>driver&#39;s license</b> from a foreign country | Mass.gov",
+   "link": "https://www.mass.gov/how-to/transfer-your-drivers-license-from-a-foreign-country",
+   "displayLink": "www.mass.gov",
+   "snippet": "Certain countries allow former licensed residents to convert their driver's license without testing. These countries include:.",
+   "htmlSnippet": "Certain countries allow former licensed residents to convert their <b>driver&#39;s license</b> without testing. These countries include:.",
+   "formattedUrl": "https://www.mass.gov/.../transfer-your-drivers-license-from-a-foreign-coun...",
+   "htmlFormattedUrl": "https://www.mass.gov/.../transfer-your-<b>drivers-license</b>-from-a-foreign-coun...",
+   "pagemap": {
+    "metatags": [
+     {
+      "mg_title": "Transfer your driver's license from a foreign country",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Transfer your driver's license from a foreign country",
+      "og:site_name": "Mass.gov",
+      "twitter:site:id": "16264003",
+      "mg_body_preview": "Some countries have established arrangements allowing licensed residents to convert their driver's licenses. Upon becoming a Massachusetts resident, valid license holders can do this without a written or road test.",
+      "handheldfriendly": "true",
+      "twitter:url": "https://www.mass.gov/how-to/transfer-your-drivers-license-from-a-foreign-country",
+      "mg_parent_org": "massachusettsdepartmentoftransportation",
+      "mg_short_description": "Some countries have established arrangements allowing licensed residents to convert their driver's licenses. Upon becoming a Massachusetts resident, valid license holders can do this without a written or road test.",
+      "og:title": "Transfer your driver's license from a foreign country",
+      "og:description": "Some countries have established arrangements allowing licensed residents to convert their driver's licenses. Upon becoming a Massachusetts resident, valid license holders can do this without a written or road test.",
+      "mg_url": "https://www.mass.gov/how-to/transfer-your-drivers-license-from-a-foreign-country",
+      "twitter:site": "@massgov",
+      "mg_key_actions": "[{\"name\":\"Start your application online\",\"url\":\"https:\\/\\/atlas-myrmv.massdot.state.ma.us\\/myrmv\\/?Link=NewToMassachusetts\"}]",
+      "mg_organization": "massachusettsregistryofmotorvehicles",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Some countries have established arrangements allowing licensed residents to convert their driver's licenses. Upon becoming a Massachusetts resident, valid license holders can do this without a written or road test.",
+      "mobileoptimized": "width",
+      "mg_labels": "reviewmultipleparents,massgovchatbot,dotsecchatbot,rmvorgchatbot,rmvlicenseservchatbot,rmvcrawlchatbot,rmvvirtualassistant,virtualassistant",
+      "og:url": "https://www.mass.gov/how-to/transfer-your-drivers-license-from-a-foreign-country",
+      "category": "services"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver's license renewals and replacements for military and their ...",
+   "htmlTitle": "<b>Driver&#39;s license</b> renewals and replacements for military and their ...",
+   "link": "https://www.mass.gov/info-details/drivers-license-renewals-and-replacements-for-military-and-their-spousesdependents",
+   "displayLink": "www.mass.gov",
+   "snippet": "Driver's license renewal. If you are active military, you are not required to renew your Massachusetts driver's license during your active military service.",
+   "htmlSnippet": "<b>Driver&#39;s license</b> renewal. If you are active military, you are not required to renew your Massachusetts <b>driver&#39;s license</b> during your active military service.",
+   "formattedUrl": "https://www.mass.gov/.../drivers-license-renewals-and-replacements-for-mil...",
+   "htmlFormattedUrl": "https://www.mass.gov/.../<b>drivers-license</b>-renewals-and-replacements-for-mil...",
+   "pagemap": {
+    "metatags": [
+     {
+      "mg_title": "Driver's license renewals and replacements for military and their spouses/dependents",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Driver's license renewals and replacements for military and their spouses/dependents",
+      "og:site_name": "Mass.gov",
+      "twitter:site:id": "16264003",
+      "handheldfriendly": "true",
+      "twitter:url": "https://www.mass.gov/info-details/drivers-license-renewals-and-replacements-for-military-and-their-spousesdependents",
+      "mg_parent_org": "massachusettsdepartmentoftransportation",
+      "og:title": "Driver's license renewals and replacements for military and their spouses/dependents",
+      "og:description": "The Registry of Motor Vehicles makes certain exceptions from regular licensing procedures for members of the military and their spouses and dependents.",
+      "mg_url": "https://www.mass.gov/info-details/drivers-license-renewals-and-replacements-for-military-and-their-spousesdependents",
+      "twitter:site": "@massgov",
+      "mg_organization": "massachusettsregistryofmotorvehicles",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "The Registry of Motor Vehicles makes certain exceptions from regular licensing procedures for members of the military and their spouses and dependents.",
+      "mobileoptimized": "width",
+      "mg_labels": "reviewmultipleparents,massgovchatbot,dotsecchatbot,rmvorgchatbot,rmvlicenseservchatbot,rmvcrawlchatbot,rmvvirtualassistant,virtualassistant",
+      "og:url": "https://www.mass.gov/info-details/drivers-license-renewals-and-replacements-for-military-and-their-spousesdependents",
+      "category": "services"
+     }
+    ]
+   }
+  }
+ ]
+}

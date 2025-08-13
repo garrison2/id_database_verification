@@ -1,0 +1,482 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://portal.ct.gov/dmv \"REAL ID\"",
+    "totalResults": "248",
+    "searchTerms": "site:https://portal.ct.gov/dmv \"REAL ID\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://portal.ct.gov/dmv \"REAL ID\"",
+    "totalResults": "248",
+    "searchTerms": "site:https://portal.ct.gov/dmv \"REAL ID\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.113044,
+  "formattedSearchTime": "0.11",
+  "totalResults": "248",
+  "formattedTotalResults": "248"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Learn how to get a REAL ID | CT.gov",
+   "htmlTitle": "Learn how to get a <b>REAL ID</b> | CT.gov",
+   "link": "https://portal.ct.gov/dmv/licenses-permits-ids/get-real-id",
+   "displayLink": "portal.ct.gov",
+   "snippet": "Learn what you need to get your REAL ID in Connecticut in order to board domestic flights and enter federal buildings.",
+   "htmlSnippet": "Learn what you need to get your <b>REAL ID</b> in Connecticut in order to board domestic flights and enter federal buildings.",
+   "formattedUrl": "https://portal.ct.gov/dmv/licenses-permits-ids/get-real-id",
+   "htmlFormattedUrl": "https://portal.ct.gov/dmv/licenses-permits-ids/get-<b>real-id</b>",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4HqIMhnE1gXDDXil0PpENoc_Ws7o_yrQ6kVw4NFGCEntqODUn9f94teE&s",
+      "width": "282",
+      "height": "179"
+     }
+    ],
+    "PageData": [
+     {
+      "metatitle": "Learn how to get a REAL ID | CT.gov\u00a0",
+      "type": "webpages"
+     }
+    ],
+    "metatags": [
+     {
+      "pagetype": "webpages",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "twitter:title": "Learn how to get a REAL ID | CT.gov\u00a0",
+      "og:site_name": "CT.gov",
+      "twitter:url": "https://portal.ct.gov/dmv/licenses-permits-ids/get-real-id",
+      "og:title": "Learn how to get a REAL ID | CT.gov\u00a0",
+      "og:description": "Learn what you need to get your REAL ID in Connecticut in order to board domestic flights and enter federal buildings.",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Learn what you need to get your REAL ID in Connecticut in order to board domestic flights and enter federal buildings.",
+      "apple-mobile-web-app-capable": "yes",
+      "og:locale": "en",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://portal.ct.gov/dmv/licenses-permits-ids/get-real-id"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://portal.ct.gov/dmv/-/media/dmv/images/real-id.jpg?rev=72711eba37b94a80a838e494b2d3c403&sc_lang=en&h=1059&w=1664&la=en&hash=DFF60A337723400D4A05076118FA776A"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Real ID Deadline",
+   "htmlTitle": "<b>Real ID</b> Deadline",
+   "link": "https://portal.ct.gov/dmv/resources/dmv-news/real-id-deadline-april-2025",
+   "displayLink": "portal.ct.gov",
+   "snippet": "Apr 9, 2025 ... What is a Real ID? In 2005, Congress passed the REAL ID Act to combat identity fraud and create a more secure verification standard for citizens\u00a0...",
+   "htmlSnippet": "Apr 9, 2025 <b>...</b> What is a <b>Real ID</b>? In 2005, Congress passed the <b>REAL ID</b> Act to combat identity fraud and create a more secure verification standard for citizens&nbsp;...",
+   "formattedUrl": "https://portal.ct.gov/dmv/resources/dmv-news/real-id-deadline-april-2025",
+   "htmlFormattedUrl": "https://portal.ct.gov/dmv/resources/dmv-news/<b>real-id</b>-deadline-april-2025",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBt9gcQ2Ra367W94tJCb3HtGD5WXwUUgnclQyhLf3dOISw12z_xAl7hbg&s",
+      "width": "539",
+      "height": "93"
+     }
+    ],
+    "PageData": [
+     {
+      "metatitle": "Real ID Deadline",
+      "type": "webpages"
+     }
+    ],
+    "metatags": [
+     {
+      "pagetype": "webpages",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "twitter:title": "Real ID Deadline",
+      "og:site_name": "CT.gov",
+      "twitter:url": "https://portal.ct.gov/dmv/resources/dmv-news/real-id-deadline-april-2025",
+      "og:title": "Real ID Deadline",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "og:locale": "en",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://portal.ct.gov/dmv/resources/dmv-news/real-id-deadline-april-2025"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://portal.ct.gov/dmv/-/media/dmv/images/news/press-release_new-logo.jpg?h=139&w=800&rev=3338b437428d4aad967a93f838c3dfe8&sc_lang=en&hash=07C60868566C9C000ACD365B015EC2BC"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Connecticut DMV | CT.gov",
+   "htmlTitle": "Connecticut DMV | CT.gov",
+   "link": "https://portal.ct.gov/dmv",
+   "displayLink": "portal.ct.gov",
+   "snippet": "Learn more about Connecticut Department of Motor Vehicle's 's services: REAL ID requirements, making an appointment at CT DMV, getting a driver's manual,\u00a0...",
+   "htmlSnippet": "Learn more about Connecticut Department of Motor Vehicle&#39;s &#39;s services: <b>REAL ID</b> requirements, making an appointment at CT DMV, getting a driver&#39;s manual,&nbsp;...",
+   "formattedUrl": "https://portal.ct.gov/dmv",
+   "htmlFormattedUrl": "https://portal.ct.gov/dmv",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx6dO3Cw8qlxXEQatzqcZCfuMlW51_XbmIx2GFfm3dcoDlb6A24bTXQNs&s",
+      "width": "162",
+      "height": "30"
+     }
+    ],
+    "PageData": [
+     {
+      "metatitle": "Connecticut DMV\u00a0| CT.gov",
+      "type": "webpages"
+     }
+    ],
+    "metatags": [
+     {
+      "pagetype": "webpages",
+      "og:image": "https://portal.ct.gov/dmv/-/media/ctgov/feature/global/metadata/metadataimage.svg?rev=2f6dac64828841f18268fc6087823cce",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "twitter:title": "Connecticut DMV\u00a0| CT.gov",
+      "og:site_name": "CT.gov",
+      "twitter:url": "https://portal.ct.gov/dmv",
+      "og:title": "Connecticut DMV\u00a0| CT.gov",
+      "og:description": "Learn more about Connecticut Department of Motor Vehicle\u2019s \u2019s services: REAL ID requirements, making an appointment at CT DMV, getting a driver\u2019s manual, registering your vehicle, and more.",
+      "twitter:image": "https://portal.ct.gov/dmv/-/media/ctgov/feature/global/metadata/metadataimage.svg?rev=2f6dac64828841f18268fc6087823cce",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Learn more about Connecticut Department of Motor Vehicle\u2019s \u2019s services: REAL ID requirements, making an appointment at CT DMV, getting a driver\u2019s manual, registering your vehicle, and more.",
+      "apple-mobile-web-app-capable": "yes",
+      "og:locale": "en",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://portal.ct.gov/dmv"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://portal.ct.gov/dmv/-/media/ctgov/feature/global/metadata/metadataimage.svg?rev=2f6dac64828841f18268fc6087823cce"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "REAL ID additional hours",
+   "htmlTitle": "<b>REAL ID</b> additional hours",
+   "link": "https://portal.ct.gov/dmv/resources/dmv-news/real-id-additional-hours",
+   "displayLink": "portal.ct.gov",
+   "snippet": "The following DMV offices will open on Monday, May 12 from 7:30 am to 1 pm for appointments and walk-in REAL ID services.",
+   "htmlSnippet": "The following DMV offices will open on Monday, May 12 from 7:30 am to 1 pm for appointments and walk-in <b>REAL ID</b> services.",
+   "formattedUrl": "https://portal.ct.gov/dmv/resources/dmv-news/real-id-additional-hours",
+   "htmlFormattedUrl": "https://portal.ct.gov/dmv/resources/dmv-news/<b>real-id</b>-additional-hours",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV4sN4Rise_VMtZNxLHinc3XQ6sskgcFCGbcTBeGfpTuGab-9tghq8cb4&s",
+      "width": "539",
+      "height": "93"
+     }
+    ],
+    "PageData": [
+     {
+      "metatitle": "REAL ID additional hours",
+      "type": "webpages"
+     }
+    ],
+    "metatags": [
+     {
+      "pagetype": "webpages",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "twitter:title": "REAL ID additional hours",
+      "og:site_name": "CT.gov",
+      "twitter:url": "https://portal.ct.gov/dmv/resources/dmv-news/real-id-additional-hours",
+      "og:title": "REAL ID additional hours",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "og:locale": "en",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://portal.ct.gov/dmv/resources/dmv-news/real-id-additional-hours"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://portal.ct.gov/dmv/-/media/dmv/images/news/press-release_new-logo.jpg?h=104&w=598&rev=3338b437428d4aad967a93f838c3dfe8&sc_lang=en&hash=FB2772B4E8FCD08473CEEAFAAC369F50"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CT DMV Expands Access to REAL ID Services",
+   "htmlTitle": "CT DMV Expands Access to <b>REAL ID</b> Services",
+   "link": "https://portal.ct.gov/dmv/resources/dmv-news/ct-dmv-expands-access-to-real-id-services",
+   "displayLink": "portal.ct.gov",
+   "snippet": "Apr 28, 2025 ... Beginning May 7, 2025, TSA will require a REAL ID compliant form of identification before flying domestically. To better serve Connecticut\u00a0...",
+   "htmlSnippet": "Apr 28, 2025 <b>...</b> Beginning May 7, 2025, TSA will require a <b>REAL ID</b> compliant form of identification before flying domestically. To better serve Connecticut&nbsp;...",
+   "formattedUrl": "https://portal.ct.gov/dmv/.../dmv.../ct-dmv-expands-access-to-real-id-servic...",
+   "htmlFormattedUrl": "https://portal.ct.gov/dmv/.../dmv.../ct-dmv-expands-access-to-<b>real-id</b>-servic...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBt9gcQ2Ra367W94tJCb3HtGD5WXwUUgnclQyhLf3dOISw12z_xAl7hbg&s",
+      "width": "539",
+      "height": "93"
+     }
+    ],
+    "PageData": [
+     {
+      "metatitle": "CT DMV Expands Access to REAL ID Services",
+      "type": "webpages"
+     }
+    ],
+    "metatags": [
+     {
+      "pagetype": "webpages",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "twitter:title": "CT DMV Expands Access to REAL ID Services",
+      "og:site_name": "CT.gov",
+      "twitter:url": "https://portal.ct.gov/dmv/resources/dmv-news/ct-dmv-expands-access-to-real-id-services",
+      "og:title": "CT DMV Expands Access to REAL ID Services",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "og:locale": "en",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://portal.ct.gov/dmv/resources/dmv-news/ct-dmv-expands-access-to-real-id-services"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://portal.ct.gov/dmv/-/media/dmv/images/news/press-release_new-logo.jpg?h=139&w=800&rev=3338b437428d4aad967a93f838c3dfe8&sc_lang=en&hash=07C60868566C9C000ACD365B015EC2BC"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Get a non-driver ID | CT.gov",
+   "htmlTitle": "Get a non-driver ID | CT.gov",
+   "link": "https://portal.ct.gov/dmv/licenses-permits-ids/get-non-driver-id",
+   "displayLink": "portal.ct.gov",
+   "snippet": "If you already have a verified REAL ID license or permit, you don't need to re-apply or resubmit additional documentation. No fee renewal. If you are a blind\u00a0...",
+   "htmlSnippet": "If you already have a verified <b>REAL ID</b> license or permit, you don&#39;t need to re-apply or resubmit additional documentation. No fee renewal. If you are a blind&nbsp;...",
+   "formattedUrl": "https://portal.ct.gov/dmv/licenses-permits-ids/get-non-driver-id",
+   "htmlFormattedUrl": "https://portal.ct.gov/dmv/licenses-permits-ids/get-non-driver-id",
+   "pagemap": {
+    "PageData": [
+     {
+      "metatitle": "Get a non-driver ID | CT.gov",
+      "type": "webpages"
+     }
+    ],
+    "metatags": [
+     {
+      "pagetype": "webpages",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "twitter:title": "Get a non-driver ID | CT.gov",
+      "og:site_name": "CT.gov",
+      "twitter:url": "https://portal.ct.gov/dmv/licenses-permits-ids/get-non-driver-id",
+      "og:title": "Get a non-driver ID | CT.gov",
+      "og:description": "Get non-driver identification.",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Get non-driver identification.",
+      "apple-mobile-web-app-capable": "yes",
+      "og:locale": "en",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://portal.ct.gov/dmv/licenses-permits-ids/get-non-driver-id"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "How to renew driver's license | CT.gov",
+   "htmlTitle": "How to renew driver&#39;s license | CT.gov",
+   "link": "https://portal.ct.gov/dmv/licenses-permits-ids/renew-driver-license",
+   "displayLink": "portal.ct.gov",
+   "snippet": "Learn about the REAL ID Program - driver's license appointments, online license renewal, eligibility, required documents, and fees.",
+   "htmlSnippet": "Learn about the <b>REAL ID</b> Program - driver&#39;s license appointments, online license renewal, eligibility, required documents, and fees.",
+   "formattedUrl": "https://portal.ct.gov/dmv/licenses-permits-ids/renew-driver-license",
+   "htmlFormattedUrl": "https://portal.ct.gov/dmv/licenses-permits-ids/renew-driver-license",
+   "pagemap": {
+    "PageData": [
+     {
+      "metatitle": "How to renew driver\u2019s license | CT.gov",
+      "type": "webpages"
+     }
+    ],
+    "metatags": [
+     {
+      "pagetype": "webpages",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "twitter:title": "How to renew driver\u2019s license | CT.gov",
+      "og:site_name": "CT.gov",
+      "twitter:url": "https://portal.ct.gov/dmv/licenses-permits-ids/renew-driver-license",
+      "og:title": "How to renew driver\u2019s license | CT.gov",
+      "og:description": "Learn about the REAL ID Program - driver's license appointments, online license renewal, eligibility, required documents, and fees.",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Learn about the REAL ID Program - driver's license appointments, online license renewal, eligibility, required documents, and fees.",
+      "apple-mobile-web-app-capable": "yes",
+      "og:locale": "en",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://portal.ct.gov/dmv/licenses-permits-ids/renew-driver-license"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Make or change DMV appointment | CT.gov",
+   "htmlTitle": "Make or change DMV appointment | CT.gov",
+   "link": "https://portal.ct.gov/dmv/resources/make-change-appointment",
+   "displayLink": "portal.ct.gov",
+   "snippet": "Get a parking placard (Select one: disabled individuals or organizations who transport disabled individuals); Get a REAL ID (learn more) ... Make an appointment\u00a0...",
+   "htmlSnippet": "Get a parking placard (Select one: disabled individuals or organizations who transport disabled individuals); Get a <b>REAL ID</b> (learn more) ... Make an appointment&nbsp;...",
+   "formattedUrl": "https://portal.ct.gov/dmv/resources/make-change-appointment",
+   "htmlFormattedUrl": "https://portal.ct.gov/dmv/resources/make-change-appointment",
+   "pagemap": {
+    "PageData": [
+     {
+      "metatitle": "Make or change DMV appointment | CT.gov",
+      "type": "webpages"
+     }
+    ],
+    "metatags": [
+     {
+      "pagetype": "webpages",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "twitter:title": "Make or change DMV appointment | CT.gov",
+      "og:site_name": "CT.gov",
+      "twitter:url": "https://portal.ct.gov/dmv/resources/make-change-appointment",
+      "og:title": "Make or change DMV appointment | CT.gov",
+      "og:description": "Learn how to make, change, or cancel your DMV in-person appointment in Connecticut.",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Learn how to make, change, or cancel your DMV in-person appointment in Connecticut.",
+      "apple-mobile-web-app-capable": "yes",
+      "og:locale": "en",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://portal.ct.gov/dmv/resources/make-change-appointment"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Renew your non-driver ID | CT.gov",
+   "htmlTitle": "Renew your non-driver ID | CT.gov",
+   "link": "https://portal.ct.gov/dmv/licenses-permits-ids/renew-non-driver-id",
+   "displayLink": "portal.ct.gov",
+   "snippet": "Find out if you are eligible in the sections below, and to see other ways to renew. REAL ID is here. Since May 7, 2025, the U.S. federal government has required\u00a0...",
+   "htmlSnippet": "Find out if you are eligible in the sections below, and to see other ways to renew. <b>REAL ID</b> is here. Since May 7, 2025, the U.S. federal government has required&nbsp;...",
+   "formattedUrl": "https://portal.ct.gov/dmv/licenses-permits-ids/renew-non-driver-id",
+   "htmlFormattedUrl": "https://portal.ct.gov/dmv/licenses-permits-ids/renew-non-driver-id",
+   "pagemap": {
+    "PageData": [
+     {
+      "metatitle": "Renew your non-driver ID | CT.gov",
+      "type": "webpages"
+     }
+    ],
+    "metatags": [
+     {
+      "pagetype": "webpages",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "twitter:title": "Renew your non-driver ID | CT.gov",
+      "og:site_name": "CT.gov",
+      "twitter:url": "https://portal.ct.gov/dmv/licenses-permits-ids/renew-non-driver-id",
+      "og:title": "Renew your non-driver ID | CT.gov",
+      "og:description": "Renew your non driver ID in CT and change your address online, without having to wait in line.\u00a0\u00a0",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Renew your non driver ID in CT and change your address online, without having to wait in line.\u00a0\u00a0",
+      "apple-mobile-web-app-capable": "yes",
+      "og:locale": "en",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://portal.ct.gov/dmv/licenses-permits-ids/renew-non-driver-id"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Exchange Your License, Permit or Non-Driver ID | CT.gov",
+   "htmlTitle": "Exchange Your License, Permit or Non-Driver ID | CT.gov",
+   "link": "https://portal.ct.gov/dmv/licenses-permits-ids/exchange-license-permit-ct",
+   "displayLink": "portal.ct.gov",
+   "snippet": "Bring your non-driver ID card as your only required form of identification. You'll also have the option to have your identity verified through the REAL ID\u00a0...",
+   "htmlSnippet": "Bring your non-driver ID card as your only required form of identification. You&#39;ll also have the option to have your identity verified through the <b>REAL ID</b>&nbsp;...",
+   "formattedUrl": "https://portal.ct.gov/dmv/licenses-permits-ids/exchange-license-permit-ct",
+   "htmlFormattedUrl": "https://portal.ct.gov/dmv/licenses-permits-ids/exchange-license-permit-ct",
+   "pagemap": {
+    "PageData": [
+     {
+      "metatitle": "Exchange Your License, Permit or Non-Driver ID | CT.gov",
+      "type": "webpages"
+     }
+    ],
+    "metatags": [
+     {
+      "pagetype": "webpages",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "twitter:title": "Exchange Your License, Permit or Non-Driver ID | CT.gov",
+      "og:site_name": "CT.gov",
+      "twitter:url": "https://portal.ct.gov/dmv/licenses-permits-ids/exchange-license-permit-ct",
+      "og:title": "Exchange Your License, Permit or Non-Driver ID | CT.gov",
+      "og:description": "Exchange driving credentials at the Connecticut DMV. Learn about appointments, requirements, and more.",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Exchange driving credentials at the Connecticut DMV. Learn about appointments, requirements, and more.",
+      "apple-mobile-web-app-capable": "yes",
+      "og:locale": "en",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://portal.ct.gov/dmv/licenses-permits-ids/exchange-license-permit-ct"
+     }
+    ]
+   }
+  }
+ ]
+}

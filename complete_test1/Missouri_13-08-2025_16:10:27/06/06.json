@@ -1,0 +1,249 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:apps.apple.com \"Missouri\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "4",
+    "searchTerms": "site:apps.apple.com \"Missouri\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 4,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.134697,
+  "formattedSearchTime": "0.13",
+  "totalResults": "4",
+  "formattedTotalResults": "4"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "GET Mobile Verify on the App Store",
+   "htmlTitle": "GET Mobile Verify on the App Store",
+   "link": "https://apps.apple.com/us/app/get-mobile-verify/id1501552424",
+   "displayLink": "apps.apple.com",
+   "snippet": "Accept mDLs for your business! Read mDLs from Utah and any FINAL ISO 18013-5 mDL. May read Iowa (new!),Delaware, Arizona, Oklahoma, Missouri, Maryland, Florida,\u00a0...",
+   "htmlSnippet": "Accept mDLs for your business! Read mDLs from Utah and any FINAL ISO 18013-5 <b>mDL</b>. May read Iowa (new!),Delaware, Arizona, Oklahoma, <b>Missouri</b>, Maryland, Florida,&nbsp;...",
+   "formattedUrl": "https://apps.apple.com/us/app/get-mobile-verify/id1501552424",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/get-mobile-verify/id1501552424",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw8NStBPvu12_xvcuMB6wY3UlfYA3xcyNHU8gwUCiIAFXY_e3wqy_blZha&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/df/f2/07dff2cf-b1f4-fffa-d6c9-5dc21fe2340b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eGET Mobile Verify gives you quick, secure, acceptance of government issued digital identification - Mobile Driver's Licenses (mDL). Verify age or identity using fully compliant ISO 18013-5 cryptographical interaction modes triggered by a tap or scan.  NOT for reading physical card barcodes or detect\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/df/f2/07dff2cf-b1f4-fffa-d6c9-5dc21fe2340b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/df/f2/07dff2cf-b1f4-fffa-d6c9-5dc21fe2340b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222532.1.0%2B09273a9c%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "GET Mobile Verify on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "GET Mobile Verify on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eGET Mobile Verify",
+      "og:title": "\u200eGET Mobile Verify",
+      "og:image:height": "630",
+      "version": "2532.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eGET Mobile Verify gives you quick, secure, acceptance of government issued digital identification - Mobile Driver's Licenses (mDL). Verify age or identity using fully compliant ISO 18013-5 cryptographical interaction modes triggered by a tap or scan.  NOT for reading physical card barcodes or detect\u2026",
+      "og:locale": "en_US",
+      "apple:content_id": "1501552424",
+      "og:url": "https://apps.apple.com/us/app/get-mobile-verify/id1501552424"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/df/f2/07dff2cf-b1f4-fffa-d6c9-5dc21fe2340b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "GET Mobile Verify i App Store",
+   "htmlTitle": "GET Mobile Verify i App Store",
+   "link": "https://apps.apple.com/se/app/get-mobile-verify/id1501552424",
+   "displayLink": "apps.apple.com",
+   "snippet": "Mar 13, 2025 ... Accept mDLs for your business! Read mDLs from Utah and any FINAL ISO 18013-5 mDL. May read Iowa (new!),Delaware, Arizona, Oklahoma, Missouri,\u00a0...",
+   "htmlSnippet": "Mar 13, 2025 <b>...</b> Accept mDLs for your business! Read mDLs from Utah and any FINAL ISO 18013-5 <b>mDL</b>. May read Iowa (new!),Delaware, Arizona, Oklahoma, <b>Missouri</b>,&nbsp;...",
+   "formattedUrl": "https://apps.apple.com/se/app/get-mobile-verify/id1501552424",
+   "htmlFormattedUrl": "https://apps.apple.com/se/app/get-mobile-verify/id1501552424",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVLSaIuXUsAZwBbUjyl0KU9_Pxqa4ECFn2jpm7yUyJN_7Tty-mUQvta5Y9&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/df/f2/07dff2cf-b1f4-fffa-d6c9-5dc21fe2340b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App\u00a0Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eGET Mobile Verify gives you quick, secure, acceptance of government issued digital identification - Mobile Driver's Licenses (mDL). Verify age or identity using fully compliant ISO 18013-5 cryptographical interaction modes triggered by a tap or scan.  NOT for reading physical card barcodes or detect\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/df/f2/07dff2cf-b1f4-fffa-d6c9-5dc21fe2340b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/df/f2/07dff2cf-b1f4-fffa-d6c9-5dc21fe2340b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222520.0.0%2B019dd398%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "GET Mobile Verify i App Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "GET Mobile Verify i App Store",
+      "og:type": "website",
+      "twitter:title": "\u200eGET Mobile Verify",
+      "og:title": "\u200eGET Mobile Verify",
+      "og:image:height": "630",
+      "version": "2520.0.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eGET Mobile Verify gives you quick, secure, acceptance of government issued digital identification - Mobile Driver's Licenses (mDL). Verify age or identity using fully compliant ISO 18013-5 cryptographical interaction modes triggered by a tap or scan.  NOT for reading physical card barcodes or detect\u2026",
+      "og:locale": "sv_SE",
+      "apple:content_id": "1501552424",
+      "og:url": "https://apps.apple.com/se/app/get-mobile-verify/id1501552424"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/df/f2/07dff2cf-b1f4-fffa-d6c9-5dc21fe2340b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Bearcat Student Involvement on the App Store",
+   "htmlTitle": "Bearcat Student Involvement on the App Store",
+   "link": "https://apps.apple.com/us/app/bearcat-student-involvement/id1544121332",
+   "displayLink": "apps.apple.com",
+   "snippet": "Use the Northwest Missouri State University Events app to find out what ... Digital ID by Presence. Education. Eagle Engage. Education.",
+   "htmlSnippet": "Use the Northwest <b>Missouri</b> State University Events app to find out what ... <b>Digital ID</b> by Presence. Education. Eagle Engage. Education.",
+   "formattedUrl": "https://apps.apple.com/us/app/bearcat-student-involvement/id1544121332",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/bearcat-student-involvement/id1544121332",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlPqMFPprarKhllL4wnN1pUoztLmB390QXSEjDffb1P6rqf-RtAPcU_XhT&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/f3/11/af/f311afda-22d3-8720-85f5-e01aa49f8610/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eUse the Northwest Missouri State University Events app to find out what events are happening and find out how you can get involved on campus! \n\n\u2022 Sort by campus organizations hosting events\n\u2022 Find events tagged with your favorite activities\n\u2022 Add events to your calendar so you don\u2019t miss out!\n\nPower\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/f3/11/af/f311afda-22d3-8720-85f5-e01aa49f8610/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/f3/11/af/f311afda-22d3-8720-85f5-e01aa49f8610/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222532.1.0%2B09273a9c%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "Bearcat Student Involvement on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "Bearcat Student Involvement on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eBearcat Student Involvement",
+      "og:title": "\u200eBearcat Student Involvement",
+      "og:image:height": "630",
+      "version": "2532.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eUse the Northwest Missouri State University Events app to find out what events are happening and find out how you can get involved on campus! \n\n\u2022 Sort by campus organizations hosting events\n\u2022 Find events tagged with your favorite activities\n\u2022 Add events to your calendar so you don\u2019t miss out!\n\nPower\u2026",
+      "og:locale": "en_US",
+      "apple:content_id": "1544121332",
+      "og:url": "https://apps.apple.com/us/app/bearcat-student-involvement/id1544121332"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/f3/11/af/f311afda-22d3-8720-85f5-e01aa49f8610/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Iowa 511 Traffic Cameras on the App Store",
+   "htmlTitle": "Iowa 511 Traffic Cameras on the App Store",
+   "link": "https://apps.apple.com/us/app/iowa-511-traffic-cameras/id6446101272",
+   "displayLink": "apps.apple.com",
+   "snippet": "Iowa Mobile ID. Travel. Missouri Traveler. Travel. New Mexico Traveler. Travel. United States. Espa\u00f1ol (\u00a0...",
+   "htmlSnippet": "Iowa <b>Mobile ID</b>. Travel. <b>Missouri</b> Traveler. Travel. New Mexico Traveler. Travel. United States. Espa\u00f1ol (&nbsp;...",
+   "formattedUrl": "https://apps.apple.com/us/app/iowa-511-traffic-cameras/id6446101272",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/iowa-511-traffic-cameras/id6446101272",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGCqlYV3gOHcjpMJnutA4xpb7KOcS0Z_Bye-qumkgBbJJXjs-lYNUD0As&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/32/37/d6/3237d602-dd2f-f565-6c2f-1e84915de048/AppIcon-1x_U007emarketing-0-7-0-0-85-220.jpeg/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eThe best way to view Iowa 511 CCTV traffic cameras.\n\nMAIN FEATURES INCLUDE: \n  - Create custom camera groups\n  - Quickly view all cameras on your route\n  - Add camera widgets to your home screen\n  - Live stream video\n\nCREATE CUSTOM CCTV CAMERA GROUPS\nCreate custom groups of cameras based on your fre\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/32/37/d6/3237d602-dd2f-f565-6c2f-1e84915de048/AppIcon-1x_U007emarketing-0-7-0-0-85-220.jpeg/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/32/37/d6/3237d602-dd2f-f565-6c2f-1e84915de048/AppIcon-1x_U007emarketing-0-7-0-0-85-220.jpeg/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222532.1.0%2B09273a9c%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "Iowa 511 Traffic Cameras on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "Iowa 511 Traffic Cameras on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eIowa 511 Traffic Cameras",
+      "og:title": "\u200eIowa 511 Traffic Cameras",
+      "og:image:height": "630",
+      "version": "2532.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eThe best way to view Iowa 511 CCTV traffic cameras.\n\nMAIN FEATURES INCLUDE: \n  - Create custom camera groups\n  - Quickly view all cameras on your route\n  - Add camera widgets to your home screen\n  - Live stream video\n\nCREATE CUSTOM CCTV CAMERA GROUPS\nCreate custom groups of cameras based on your fre\u2026",
+      "og:locale": "en_US",
+      "apple:content_id": "6446101272",
+      "og:url": "https://apps.apple.com/us/app/iowa-511-traffic-cameras/id6446101272"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/32/37/d6/3237d602-dd2f-f565-6c2f-1e84915de048/AppIcon-1x_U007emarketing-0-7-0-0-85-220.jpeg/1200x630wa.png"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,377 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Illinois\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Illinois Compiled Statutes\"",
+    "totalResults": "228000",
+    "searchTerms": "\"Illinois\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Illinois Compiled Statutes\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Illinois\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Illinois Compiled Statutes\"",
+    "totalResults": "228000",
+    "searchTerms": "\"Illinois\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Illinois Compiled Statutes\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.205683,
+  "formattedSearchTime": "0.21",
+  "totalResults": "228000",
+  "formattedTotalResults": "228,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Illinois mDL",
+   "htmlTitle": "<b>Illinois mDL</b>",
+   "link": "https://www.ilsos.gov/mDL",
+   "displayLink": "www.ilsos.gov",
+   "snippet": "Illinois mDL. Illinois Mobile Driver's Licenses and State IDs. Illinois mobile driver's license. On January 1, 2025, the Secretary of State's office was\u00a0...",
+   "htmlSnippet": "<b>Illinois mDL</b>. <b>Illinois</b> Mobile Driver&#39;s Licenses and State IDs. <b>Illinois mobile driver&#39;s license</b>. On January 1, 2025, the Secretary of State&#39;s office was&nbsp;...",
+   "formattedUrl": "https://www.ilsos.gov/mDL",
+   "htmlFormattedUrl": "https://www.ilsos.gov/<b>mDL</b>",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQov97-MvQGY5pNDxZSx0LhGMN-JTZAWVmYz5gcfWpD83PCMMfD_IftsKY&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "google": "notranslate"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.ilsos.gov/images/mdl1.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "State of Illinois Digital ID Login",
+   "htmlTitle": "State of <b>Illinois Digital ID</b> Login",
+   "link": "https://chirp.isp.illinois.gov/chirp/login.action",
+   "displayLink": "chirp.isp.illinois.gov",
+   "snippet": "... law enforcement agencies or those with a User's Agreement with the Illinois State Police. ... Illinois Digital ID. Username: Password: Remember user name. Get a\u00a0...",
+   "htmlSnippet": "... <b>law</b> enforcement agencies or those with a User&#39;s Agreement with the <b>Illinois</b> State Police. ... <b>Illinois Digital ID</b>. Username: Password: Remember user name. Get a&nbsp;...",
+   "formattedUrl": "https://chirp.isp.illinois.gov/chirp/login.action",
+   "htmlFormattedUrl": "https://chirp.isp.<b>illinois</b>.gov/chirp/login.action"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "625 ILCS 5/6-101",
+   "htmlTitle": "625 ILCS 5/6-101",
+   "link": "https://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=062500050K6-101",
+   "displayLink": "www.ilga.gov",
+   "snippet": "(b) No person shall drive a motor vehicle unless the person holds a valid license or permit, an Illinois mobile driver's license, or a restricted driving permit\u00a0...",
+   "htmlSnippet": "(b) No person shall drive a motor vehicle unless the person holds a valid license or permit, an <b>Illinois mobile driver&#39;s license</b>, or a restricted driving permit&nbsp;...",
+   "formattedUrl": "https://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=062500050K6...",
+   "htmlFormattedUrl": "https://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=062500050K6..."
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Illinois bill would allow residents to carry digital driver's license : r ...",
+   "htmlTitle": "<b>Illinois bill</b> would allow residents to carry <b>digital driver&#39;s license</b> : r ...",
+   "link": "https://www.reddit.com/r/illinois/comments/11ub2d5/illinois_bill_would_allow_residents_to_carry/",
+   "displayLink": "www.reddit.com",
+   "snippet": "Mar 18, 2023 ... Obviously the Illinois app could be built completely differently, but I'm pretty sure I would have to unlock my phone to get to the digital ID.",
+   "htmlSnippet": "Mar 18, 2023 <b>...</b> Obviously the <b>Illinois</b> app could be built completely differently, but I&#39;m pretty sure I would have to unlock my phone to get to the <b>digital ID</b>.",
+   "formattedUrl": "https://www.reddit.com/.../illinois/.../illinois_bill_would_allow_residents_to...",
+   "htmlFormattedUrl": "https://www.reddit.com/.../<b>illinois</b>/.../<b>illinois</b>_<b>bill</b>_would_allow_residents_to...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS_0w0E9W90BgVk3YGD7gpD8S_3paSTmA8fkoPbX8AxiKjUZoimQ6Cx7Q&s",
+      "width": "281",
+      "height": "179"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://external-preview.redd.it/illinois-bill-would-allow-residents-to-carry-digital-v0-szIesKJCjt5ZbNOdAI_d4ukwt4e07_8XOQ97Ot-9MvM.jpg?auto=webp&s=d7e3f3c13e6910f4fa4921715b26c1416ad090dd",
+      "theme-color": "#000000",
+      "og:image:width": "739",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "r/illinois on Reddit: Illinois bill would allow residents to carry digital driver's license",
+      "og:site_name": "Reddit",
+      "og:title": "r/illinois on Reddit: Illinois bill would allow residents to carry digital driver's license",
+      "og:image:height": "471",
+      "msapplication-navbutton-color": "#000000",
+      "og:description": "Posted by u/[Deleted Account] - 464 votes and 89 comments",
+      "twitter:image": "https://external-preview.redd.it/illinois-bill-would-allow-residents-to-carry-digital-v0-szIesKJCjt5ZbNOdAI_d4ukwt4e07_8XOQ97Ot-9MvM.jpg?auto=webp&s=d7e3f3c13e6910f4fa4921715b26c1416ad090dd",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "twitter:site": "@reddit",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "apple-mobile-web-app-capable": "yes",
+      "og:ttl": "600",
+      "og:url": "https://www.reddit.com/r/illinois/comments/11ub2d5/illinois_bill_would_allow_residents_to_carry/?seeker-session=true"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://external-preview.redd.it/illinois-bill-would-allow-residents-to-carry-digital-v0-szIesKJCjt5ZbNOdAI_d4ukwt4e07_8XOQ97Ot-9MvM.jpg?auto=webp&s=d7e3f3c13e6910f4fa4921715b26c1416ad090dd"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Illinois Passes Law That Allows Residents To Carry Mobile IDs ...",
+   "htmlTitle": "<b>Illinois</b> Passes <b>Law</b> That Allows Residents To Carry Mobile IDs ...",
+   "link": "https://www.spiceworks.com/it-security/identity-access-management/news/illinois-passes-law-that-allows-residents-to-carry-mobile-ids/",
+   "displayLink": "www.spiceworks.com",
+   "snippet": "Aug 19, 2024 ... However, the measure in Illinois prohibits law enforcement officers from searching the phone's contents after viewing the mobile ID.",
+   "htmlSnippet": "Aug 19, 2024 <b>...</b> However, the measure in <b>Illinois</b> prohibits <b>law</b> enforcement officers from searching the phone&#39;s contents after viewing the <b>mobile ID</b>.",
+   "formattedUrl": "https://www.spiceworks.com/.../illinois-passes-law-that-allows-residents-to-c...",
+   "htmlFormattedUrl": "https://www.spiceworks.com/.../<b>illinois</b>-passes-<b>law</b>-that-allows-residents-to-c...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_7m6nfKYwIe5li71WX3dnd3YaFNl9jZEgI5tSS7-fl-erYEw_Sb5ROJO&s",
+      "width": "318",
+      "height": "159"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://zd-brightspot.s3.us-east-1.amazonaws.com/wp-content/uploads/2024/06/12133834/Digital-ID.jpg",
+      "og:type": "article",
+      "og:image:width": "800",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Spiceworks Inc",
+      "og:title": "Illinois Passes Law That Allows Residents To Carry Mobile IDs - Spiceworks",
+      "og:image:height": "400",
+      "twitter:label1": "Est. reading time",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://zd-brightspot.s3.us-east-1.amazonaws.com/wp-content/uploads/2024/07/02084556/spiceworks-logo-icon.jpg",
+      "og:description": "Illinois has passed a law allowing residents to show mobile driver's licenses and state IDs instead of physical ones. Learn more.",
+      "article:publisher": "https://www.facebook.com/SpiceworksNews/",
+      "twitter:data1": "4 minutes",
+      "zd_ptax_version": "zdb2bV1",
+      "twitter:site": "@SpiceworksNews",
+      "article:modified_time": "2024-08-19T14:37:35+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.spiceworks.com/it-security/identity-access-management/news/illinois-passes-law-that-allows-residents-to-carry-mobile-ids/",
+      "zd_ptax": "Identity & Access Management"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://zd-brightspot.s3.us-east-1.amazonaws.com/wp-content/uploads/2024/06/12133834/Digital-ID.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Illinois Governor Signs mDL Bill Into Law",
+   "htmlTitle": "<b>Illinois</b> Governor Signs <b>mDL Bill</b> Into <b>Law</b>",
+   "link": "https://mobileidworld.com/illinois-governor-signs-mdl-bill-into-law/",
+   "displayLink": "mobileidworld.com",
+   "snippet": "Aug 18, 2024 ... ... Illinois the 12th state to adopt mobile ID technology. Illinois Governor Signs mDL Bill Into Law. The digital ID will complement the physical\u00a0...",
+   "htmlSnippet": "Aug 18, 2024 <b>...</b> ... <b>Illinois</b> the 12th state to adopt <b>mobile ID</b> technology. <b>Illinois</b> Governor Signs <b>mDL Bill</b> Into <b>Law</b>. The <b>digital ID</b> will complement the physical&nbsp;...",
+   "formattedUrl": "https://mobileidworld.com/illinois-governor-signs-mdl-bill-into-law/",
+   "htmlFormattedUrl": "https://<b>mobileid</b>world.com/<b>illinois</b>-governor-signs-<b>mdl</b>-<b>bill</b>-into-<b>law</b>/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1",
+      "msapplication-tileimage": "https://mobileidworld.com/wp-content/uploads/favicon.png"
+     }
+    ],
+    "webpage": [
+     {
+      "url": "About Us"
+     }
+    ],
+    "creativework": [
+     {
+      "text": "Illinois Governor JB Pritzker has approved a new law allowing residents to access digital versions of their driver\u2019s licenses or state IDs, making Illinois the 12th state to adopt mobile...",
+      "headline": "Illinois Governor Signs mDL Bill Into Law"
+     }
+    ],
+    "wpheader": [
+     {
+      "description": "Identification Revolution",
+      "headline": "Mobile ID World"
+     }
+    ],
+    "sitenavigationelement": [
+     {
+      "name": "Our Services",
+      "url": "Our Services"
+     }
+    ],
+    "searchaction": [
+     {
+      "query-input": "name=s",
+      "target": "https://mobileidworld.com/?s={s}"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "How to get your Illinois driver's license on your phone",
+   "htmlTitle": "How to get your <b>Illinois</b> driver&#39;s license on your phone",
+   "link": "https://www.illinoispolicy.org/how-to-get-your-illinois-drivers-license-on-your-phone/",
+   "displayLink": "www.illinoispolicy.org",
+   "snippet": "Jul 18, 2024 ... Residents will need to download a unique app on their phones in order to access the digital ID. Illinois will soon join the majority of states that are in the\u00a0...",
+   "htmlSnippet": "Jul 18, 2024 <b>...</b> Residents will need to download a unique app on their phones in <b>order</b> to access the <b>digital ID</b>. <b>Illinois</b> will soon join the majority of states that are in the&nbsp;...",
+   "formattedUrl": "https://www.illinoispolicy.org/how-to-get-your-illinois-drivers-license-on-y...",
+   "htmlFormattedUrl": "https://www.<b>illinois</b>policy.org/how-to-get-your-<b>illinois</b>-drivers-license-on-y...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzNAcm-GuAEM94Qs26Ph-THvh4oEWE5atPOSrmzwz8AR_ej6wDgrfC6u8&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "p:domain_verify": "e8d80651b7c8a983e2a34153ebb953e3",
+      "og:image": "https://files.illinoispolicy.org/wp-content/uploads/2016/03/shutterstock_274062995-1024x576.jpg",
+      "og:type": "article",
+      "article:published_time": "2024-07-18T11:52:33-05:00",
+      "article:section": "Uncategorized",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Illinois Policy",
+      "og:title": "How to get your Illinois driver\u2019s license on your phone",
+      "og:publisher": "https://www.facebook.com/illinoispolicy",
+      "fb:pages": "56680318666",
+      "og:description": "Legislation allowing Illinois residents to carry a digital driver\u2019s license or ID on their smartphone will take effect in 2025.",
+      "article:tag": "drivers license",
+      "twitter:site": "@illinoispolicy",
+      "viewport": "width=device-width, initial-scale=1, user-scalable=no",
+      "og:locale": "en_US",
+      "og:url": "https://www.illinoispolicy.org/how-to-get-your-illinois-drivers-license-on-your-phone/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://files.illinoispolicy.org/wp-content/uploads/2016/03/shutterstock_274062995-1024x576.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Illinois mDL Sign Up",
+   "htmlTitle": "<b>Illinois mDL</b> Sign Up",
+   "link": "https://apps.ilsos.gov/ContactFormsWeb/mdl.jsp",
+   "displayLink": "apps.ilsos.gov",
+   "snippet": "Illinois Mobile Driver's License. First Name. Last Name. Email Address. Confirm Email Address. Seal of the State of Illinois. ilsos.gov. Office of the Secretary\u00a0...",
+   "htmlSnippet": "<b>Illinois Mobile Driver&#39;s License</b>. First Name. Last Name. Email Address. Confirm Email Address. Seal of the State of <b>Illinois</b>. ilsos.gov. Office of the Secretary&nbsp;...",
+   "formattedUrl": "https://apps.ilsos.gov/ContactFormsWeb/mdl.jsp",
+   "htmlFormattedUrl": "https://apps.ilsos.gov/ContactFormsWeb/<b>mdl</b>.jsp",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTddMjpYTjYNA55ytNxjTh0wIMcVxMobg36fuBCyA0qu3j8xeaWPWUCSK8&s",
+      "width": "223",
+      "height": "226"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "google": "notranslate"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.ilsos.gov/images/phase-2/header-left.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Illinois Enacts Insurance Data Security Law | Practical Law",
+   "htmlTitle": "<b>Illinois</b> Enacts Insurance Data Security <b>Law</b> | Practical <b>Law</b>",
+   "link": "https://content.next.westlaw.com/practical-law/document/Iefa9844d199c11ee8921fbef1a541940/Illinois-Enacts-Insurance-Data-Security-Law?viewType=FullText&transitionType=Default&contextData=(sc.Default)",
+   "displayLink": "content.next.westlaw.com",
+   "snippet": "Jul 3, 2023 ... ... Law (MDL-668). The law adopts most of the model law's provisions, requiring Illinois insurance licensees to develop and implement a written\u00a0...",
+   "htmlSnippet": "Jul 3, 2023 <b>...</b> ... <b>Law</b> (<b>MDL</b>-668). The <b>law</b> adopts most of the model <b>law&#39;s</b> provisions, requiring <b>Illinois</b> insurance licensees to develop and implement a written&nbsp;...",
+   "formattedUrl": "https://content.next.westlaw.com/...law/.../Illinois-Enacts-Insurance-Data-Se...",
+   "htmlFormattedUrl": "https://content.next.west<b>law</b>.com/...<b>law</b>/.../<b>Illinois</b>-Enacts-Insurance-Data-Se...",
+   "pagemap": {
+    "digitaldocument": [
+     {
+      "name": "Illinois Enacts Insurance Data Security Law | Practical Law",
+      "description": "Illinois has enacted HB 739, the Illinois Insurance Data Security Law, which is based on the National Association of Insurance Commissioners (NAIC) Insurance Data Security Model Law (MDL-668)....",
+      "headline": "Illinois Enacts Insurance Data Security Law | Practical Law",
+      "url": "https://content.next.westlaw.com/practical-law/document/Iefa9844d199c11ee8921fbef1a541940/Illinois-Enacts-Insurance-Data-Security-Law?viewType=FullText&transitionType=Default&contextData=(sc.Default)"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width",
+      "og:title": "Illinois Enacts Insurance Data Security Law | Practical Law",
+      "og:url": "https://content.next.westlaw.com/practical-law/document/Iefa9844d199c11ee8921fbef1a541940/Illinois-Enacts-Insurance-Data-Security-Law?viewType=FullText&transitionType=Default&contextData=(sc.Default)"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "State of Illinois - Digital ID - Privacy Policy",
+   "htmlTitle": "State of <b>Illinois</b> - <b>Digital ID</b> - Privacy Policy",
+   "link": "https://enroll.pki.illinois.gov/UserRegistration/en_US/soi_privacy.htm",
+   "displayLink": "enroll.pki.illinois.gov",
+   "snippet": "State of Illinois Digital ID Privacy Notice. Pursuant to the fundamental philosophy of the American constitutional form of government, it is declared to be\u00a0...",
+   "htmlSnippet": "State of <b>Illinois Digital ID</b> Privacy Notice. Pursuant to the fundamental philosophy of the American constitutional form of government, it is declared to be&nbsp;...",
+   "formattedUrl": "https://enroll.pki.illinois.gov/UserRegistration/en_US/soi_privacy.htm",
+   "htmlFormattedUrl": "https://enroll.pki.<b>illinois</b>.gov/UserRegistration/en_US/soi_privacy.htm",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsY7OY1JEV12UDoTk-Qtr-_3qe_xeyB6ZFE7efEMX1FIRhGppLU2_NDg&s",
+      "width": "190",
+      "height": "100"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://enroll.pki.illinois.gov/UserRegistration/en_US/images/sitelogo.png"
+     }
+    ]
+   }
+  }
+ ]
+}

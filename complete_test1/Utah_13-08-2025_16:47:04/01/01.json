@@ -1,0 +1,537 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Utah\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Utah Code\"",
+    "totalResults": "189000",
+    "searchTerms": "\"Utah\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Utah Code\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Utah\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Utah Code\"",
+    "totalResults": "189000",
+    "searchTerms": "\"Utah\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Utah Code\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.210304,
+  "formattedSearchTime": "0.21",
+  "totalResults": "189000",
+  "formattedTotalResults": "189,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Get Your mDL | Utah Driver License Division",
+   "htmlTitle": "Get Your <b>mDL</b> | <b>Utah</b> Driver License Division",
+   "link": "https://dld.utah.gov/mdl-registration/",
+   "displayLink": "dld.utah.gov",
+   "snippet": "Utah mDL Registration. Valid Utah driver license or Utah identification card is required. Download the app from the Apple Store, Google Play, or scan/click\u00a0...",
+   "htmlSnippet": "<b>Utah mDL</b> Registration. Valid <b>Utah</b> driver license or <b>Utah</b> identification card is required. Download the app from the Apple Store, Google Play, or scan/click&nbsp;...",
+   "formattedUrl": "https://dld.utah.gov/mdl-registration/",
+   "htmlFormattedUrl": "https://dld.<b>utah</b>.gov/<b>mdl</b>-registration/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-tileimage": "https://dld.utah.gov/wp-content/uploads/cropped-DLD-fav-icon-270x270.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "SB0260",
+   "htmlTitle": "SB0260",
+   "link": "https://le.utah.gov/~2025/bills/static/SB0260.html",
+   "displayLink": "le.utah.gov",
+   "snippet": "Feb 11, 2025 ... Individual Digital Identity Amendments 2025 GENERAL SESSION STATE OF UTAH Chief Sponsor: Kirk A. Cullimore House Sponsor: Paul A. Cutler.",
+   "htmlSnippet": "Feb 11, 2025 <b>...</b> Individual Digital Identity Amendments 2025 GENERAL SESSION STATE OF <b>UTAH</b> Chief Sponsor: Kirk A. Cullimore House Sponsor: Paul A. Cutler.",
+   "formattedUrl": "https://le.utah.gov/~2025/bills/static/SB0260.html",
+   "htmlFormattedUrl": "https://le.<b>utah</b>.gov/~2025/<b>bill</b>s/static/SB0260.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Utah Mobile Driver License (mDL) Program",
+   "htmlTitle": "<b>Utah</b> Mobile Driver License (<b>mDL</b>) Program",
+   "link": "https://dld.utah.gov/utah-mdl/",
+   "displayLink": "dld.utah.gov",
+   "snippet": "The optional Mobile Driver License (mDL) program is managed by the Utah Department of Public Safety's Driver License Division (DLD) and provides an official\u00a0...",
+   "htmlSnippet": "The optional Mobile Driver License (<b>mDL</b>) program is managed by the <b>Utah</b> Department of Public Safety&#39;s Driver License Division (DLD) and provides an official&nbsp;...",
+   "formattedUrl": "https://dld.utah.gov/utah-mdl/",
+   "htmlFormattedUrl": "https://dld.<b>utah</b>.gov/<b>utah</b>-<b>mdl</b>/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-tileimage": "https://dld.utah.gov/wp-content/uploads/cropped-DLD-fav-icon-270x270.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Utah governor signs blockchain digital ID pilot into law | StateScoop",
+   "htmlTitle": "<b>Utah</b> governor signs blockchain <b>digital ID</b> pilot into <b>law</b> | StateScoop",
+   "link": "https://statescoop.com/utah-governor-signs-blockchain-digital-id-pilot-into-law/",
+   "displayLink": "statescoop.com",
+   "snippet": "Apr 12, 2023 ... Utah governor signs blockchain digital ID pilot into law. Utah Gov. Spencer Cox signed a bill that will launch a pilot program for digital\u00a0...",
+   "htmlSnippet": "Apr 12, 2023 <b>...</b> <b>Utah</b> governor signs blockchain <b>digital ID</b> pilot into <b>law</b>. <b>Utah</b> Gov. Spencer Cox signed a <b>bill</b> that will launch a pilot program for digital&nbsp;...",
+   "formattedUrl": "https://statescoop.com/utah-governor-signs-blockchain-digital-id-pilot-into-...",
+   "htmlFormattedUrl": "https://statescoop.com/<b>utah</b>-governor-signs-blockchain-<b>digital-id</b>-pilot-into-...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfWDfXpr-FbGMaFbBb8lIRPul8OypHGD0aiH7m66T1ZmCrKBYgb-y3Xz4m&s",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "website": [
+     {
+      "query-input": "name=s value",
+      "target": "https://statescoop.com/?s={s}"
+     }
+    ],
+    "organization": [
+     {
+      "logo": "https://statescoop.com/wp-content/themes/scoopnewsgroup/dist/svg/logo-state.svg",
+      "url": "https://statescoop.com/"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://statescoop.com/wp-content/uploads/sites/6/2023/04/Spencer-Cox-Twitter-image.jpeg",
+      "og:type": "article",
+      "article:published_time": "2023-04-12T20:16:36+00:00",
+      "og:image:width": "1300",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "StateScoop",
+      "author": "Keely Quinlan",
+      "og:title": "Utah governor signs blockchain digital ID pilot into law | StateScoop",
+      "og:image:height": "867",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://statescoop.com/wp-content/uploads/sites/6/2023/01/cropped-ss_favicon.png?w=270",
+      "og:description": "Utah Gov. Spencer Cox signed a bill that will launch a pilot program for digital verifiable credentials built on blockchain technology.",
+      "twitter:creator": "@State_Scoop",
+      "article:publisher": "https://www.facebook.com/StateScoop/",
+      "twitter:site": "@State_Scoop",
+      "article:modified_time": "2023-04-12T21:17:20+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://statescoop.com/utah-governor-signs-blockchain-digital-id-pilot-into-law/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://statescoop.com/wp-content/uploads/sites/6/2023/04/Spencer-Cox-Twitter-image.jpeg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Utah's Digital ID Bill SB260 is the New Frontier for User-Controlled ...",
+   "htmlTitle": "<b>Utah&#39;s Digital ID Bill</b> SB260 is the New Frontier for User-Controlled ...",
+   "link": "https://blog.spruceid.com/utahs-digital-id-law-sb260-is-the-new-frontier-for-user-controlled-identity/",
+   "displayLink": "blog.spruceid.com",
+   "snippet": "Mar 11, 2025 ... Utah's SB260 establishes a user controlled and state endorsed framework for digital ID that enshrines individual autonomy, privacy, and security.",
+   "htmlSnippet": "Mar 11, 2025 <b>...</b> <b>Utah&#39;s</b> SB260 establishes a user controlled and state endorsed framework for <b>digital ID</b> that enshrines individual autonomy, privacy, and security.",
+   "formattedUrl": "https://blog.spruceid.com/utahs-digital-id-law-sb260-is-the-new-frontier-for...",
+   "htmlFormattedUrl": "https://blog.spruceid.com/<b>utah</b>s-<b>digital-id</b>-<b>law</b>-sb260-is-the-new-frontier-for...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqBRDFjjHeeDTRpABSdyO1EMQa0dq0aaZfSTE7lsl509thwo5g19RmI28&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://blog.spruceid.com/content/images/size/w1200/2025/03/FS-consumer-data--1--3.png",
+      "og:type": "article",
+      "article:published_time": "2025-03-11T20:57:36.000Z",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Utah\u2019s Digital ID Bill SB260 is the New Frontier for User-Controlled Identity",
+      "og:image:width": "1200",
+      "og:site_name": "SpruceID",
+      "twitter:url": "https://blog.spruceid.com/utahs-digital-id-law-sb260-is-the-new-frontier-for-user-controlled-identity/",
+      "og:title": "Utah\u2019s Digital ID Bill SB260 is the New Frontier for User-Controlled Identity",
+      "twitter:label1": "Written by",
+      "og:image:height": "675",
+      "twitter:label2": "Filed under",
+      "og:description": "Utah\u2019s SB260 establishes a user controlled and state endorsed framework for digital ID that enshrines individual autonomy, privacy, and security.",
+      "twitter:image": "https://blog.spruceid.com/content/images/size/w1200/2025/03/FS-consumer-data--1--3.png",
+      "twitter:data1": "Wayne Chang",
+      "article:tag": "Opinion",
+      "twitter:data2": "Opinion",
+      "referrer": "no-referrer-when-downgrade",
+      "twitter:site": "@spruceid",
+      "article:modified_time": "2025-03-11T21:07:27.000Z",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Utah\u2019s SB260 establishes a user controlled and state endorsed framework for digital ID that enshrines individual autonomy, privacy, and security.",
+      "og:url": "https://blog.spruceid.com/utahs-digital-id-law-sb260-is-the-new-frontier-for-user-controlled-identity/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://blog.spruceid.com/content/images/size/w1200/2025/03/FS-consumer-data--1--3.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "U Card - The University of Utah",
+   "htmlTitle": "U Card - The University of <b>Utah</b>",
+   "link": "https://ucard.utah.edu/",
+   "displayLink": "ucard.utah.edu",
+   "snippet": "For Access to Utah Transit Authority (UTA) Services, show your Mobile ID to UTA operators. No scanning required! UCARD PHOTO UPLOADER. To upload a new photo\u00a0...",
+   "htmlSnippet": "For Access to <b>Utah</b> Transit Authority (UTA) Services, show your <b>Mobile ID</b> to UTA operators. No scanning required! UCARD PHOTO UPLOADER. To upload a new photo&nbsp;...",
+   "formattedUrl": "https://ucard.utah.edu/",
+   "htmlFormattedUrl": "https://ucard.<b>utah</b>.edu/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOJGMC1sF0bIxD7sn4MDdS_iIKPcXJYHR2FSEnTdPbKPpbEhWZCKR5PYL8&s",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://ucard.utah.edu/_resources/images/unionNew.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile IDs No Longer Accepted at Utah Liquor Stores : r/Utah",
+   "htmlTitle": "Mobile IDs No Longer Accepted at <b>Utah</b> Liquor Stores : r/<b>Utah</b>",
+   "link": "https://www.reddit.com/r/Utah/comments/1ftctue/mobile_ids_no_longer_accepted_at_utah_liquor/",
+   "displayLink": "www.reddit.com",
+   "snippet": "Oct 1, 2024 ... Somehow I must have missed this: Utah Mobile ID is LIVE! 16 upvotes \u00b7 15 comments ... r/Utah - Utah governor signs online child safety law\u00a0...",
+   "htmlSnippet": "Oct 1, 2024 <b>...</b> Somehow I must have missed this: <b>Utah Mobile ID</b> is LIVE! 16 upvotes \u00b7 15 comments ... r/<b>Utah</b> - <b>Utah</b> governor signs online child safety <b>law</b>&nbsp;...",
+   "formattedUrl": "https://www.reddit.com/.../Utah/.../mobile_ids_no_longer_accepted_at_utah...",
+   "htmlFormattedUrl": "https://www.reddit.com/.../<b>Utah</b>/.../<b>mobile_id</b>s_no_longer_accepted_at_<b>utah</b>...",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:image": "https://share.redd.it/preview/post/1ftctue",
+      "theme-color": "#000000",
+      "og:image:width": "1200",
+      "og:type": "website",
+      "og:image:alt": "An image containing a preview of the post",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "r/Utah on Reddit: Mobile IDs No Longer Accepted at Utah Liquor Stores",
+      "og:site_name": "Reddit",
+      "og:title": "r/Utah on Reddit: Mobile IDs No Longer Accepted at Utah Liquor Stores",
+      "og:image:height": "630",
+      "msapplication-navbutton-color": "#000000",
+      "og:description": "Posted by u/Bit_Kitchen - 39 votes and 41 comments",
+      "twitter:image": "https://share.redd.it/preview/post/1ftctue",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "twitter:site": "@reddit",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "apple-mobile-web-app-capable": "yes",
+      "og:ttl": "600",
+      "og:url": "https://www.reddit.com/r/Utah/comments/1ftctue/mobile_ids_no_longer_accepted_at_utah_liquor/?seeker-session=true"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Participating States and Eligible Digital IDs | Transportation Security ...",
+   "htmlTitle": "Participating States and Eligible Digital IDs | Transportation Security ...",
+   "link": "https://www.tsa.gov/digital-id/participating-states",
+   "displayLink": "www.tsa.gov",
+   "snippet": "With a mobile driver's license (mDL) or ID pass stored in your phone's ... Utah \u00b7 GET Mobile App \u00b7 Virginia \u00b7 VA MiD app \u00b7 West Virginia \u00b7 WV MiD app and Samsung\u00a0...",
+   "htmlSnippet": "With a <b>mobile driver&#39;s license</b> (<b>mDL</b>) or ID pass stored in your phone&#39;s ... <b>Utah</b> &middot; GET Mobile App &middot; Virginia &middot; VA MiD app &middot; West Virginia &middot; WV MiD app and Samsung&nbsp;...",
+   "formattedUrl": "https://www.tsa.gov/digital-id/participating-states",
+   "htmlFormattedUrl": "https://www.tsa.gov/<b>digital-id</b>/participating-states",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPmfB7IVmgDmb3IDXSU12352SHrXv5e_5i8yycsOrPNmZwXMWtBL06Rg4&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.tsa.gov/sites/default/files/2025-03/21366_graphic_tsa_open_graph_image_1200x630.jpg",
+      "og:type": "website",
+      "og:image:width": "1200",
+      "og:site_name": "U.S. Department of Homeland Security Transportation Security Administration",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+      "og:title": "Participating States and Eligible Digital IDs | Transportation Security Administration",
+      "mobileoptimized": "width",
+      "og:image:height": "630",
+      "og:image:type": "image/jpg",
+      "og:url": "https://www.tsa.gov/digital-id/participating-states",
+      "og:description": "The TSA's digital ID program allows travelers from participating states to use mobile driver's licenses or state IDs at select TSA checkpoints. These digital IDs can be added to platforms like Apple Wallet, Google Wallet, or state-specific apps. The program aims to enhance security and streamline the identity verification process. However, travelers must still carry a physical ID as a backup. You can find more details on the TSA's official page."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.tsa.gov/sites/default/files/2025-03/21366_graphic_tsa_open_graph_image_1200x630.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Select Utah State Liquor Store Locations to Begin Accepting Mobile ...",
+   "htmlTitle": "Select <b>Utah</b> State Liquor Store Locations to Begin Accepting Mobile ...",
+   "link": "https://dpsnews.utah.gov/select-utah-state-liquor-store-locations-to-begin-accepting-mobile-drivers-licenses-to-confirm-legal-age-for-alcohol-purchases/",
+   "displayLink": "dpsnews.utah.gov",
+   "snippet": "Nov 1, 2021 ... A valid Utah driver's license is required for mDL registration. Utah is the first state in the U.S. to pilot an mDL that is fully compliant\u00a0...",
+   "htmlSnippet": "Nov 1, 2021 <b>...</b> A valid <b>Utah</b> driver&#39;s license is required for <b>mDL</b> registration. <b>Utah</b> is the first state in the U.S. to pilot an <b>mDL</b> that is fully compliant&nbsp;...",
+   "formattedUrl": "https://dpsnews.utah.gov/select-utah-state-liquor-store-locations-to-begin-ac...",
+   "htmlFormattedUrl": "https://dpsnews.<b>utah</b>.gov/select-<b>utah</b>-state-liquor-store-locations-to-begin-ac...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5QDrAmq6LQkxJbtQkWf9thLuXd2zhx2QWmMVu4JaPC4SZGdtKIKoqxtjC&s",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "thumbnail": [
+     {
+      "src": "https://dpsnews.utah.gov/wp-content/uploads/sites/37/2021/03/SUPERMARKET-UTAH-scaled.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://dpsnews.utah.gov/wp-content/uploads/sites/37/2021/03/SUPERMARKET-UTAH-scaled.jpg?689ae43b709e2",
+      "theme-color": "#ffffff",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Select Utah State Liquor Store Locations to Begin Accepting Mobile Driver\u2019s Licenses to Confirm Legal Age for Alcohol Purchases",
+      "thumbnail": "https://dpsnews.utah.gov/wp-content/uploads/sites/37/2021/03/SUPERMARKET-UTAH-scaled.jpg",
+      "og:title": "Select Utah State Liquor Store Locations to Begin Accepting Mobile Driver\u2019s Licenses to Confirm Legal Age for Alcohol Purchases",
+      "og:description": "Salt Lake City, Utah (November 1, 2021) \u2013\u00a0The Utah Driver License Division (DLD)\u00a0and the\u00a0Utah Department of Alcohol and Beverage Control (DABC)\u00a0jointly announced that DABC will begin accepting mobile driver\u2019s licenses (mDLs) as a legal form of ID for purchases at its Saratoga Springs and Farmington locations. DABC plans to expand to additional locations by the [\u2026]",
+      "twitter:creator": "@utahdps",
+      "twitter:image": "https://dpsnews.utah.gov/wp-content/uploads/sites/37/2021/03/SUPERMARKET-UTAH-scaled.jpg",
+      "twitter:site": "@utahdps",
+      "viewport": "width=device-width",
+      "twitter:description": "Posted November 01, 2021",
+      "og:url": "https://dpsnews.utah.gov/select-utah-state-liquor-store-locations-to-begin-accepting-mobile-drivers-licenses-to-confirm-legal-age-for-alcohol-purchases/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dpsnews.utah.gov/wp-content/uploads/sites/37/2021/03/SUPERMARKET-UTAH-scaled.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Students, Teachers, Counselors FAQ Page | Concurrent Enrollment ...",
+   "htmlTitle": "Students, Teachers, Counselors FAQ Page | Concurrent Enrollment ...",
+   "link": "https://concurrent.utahtech.edu/faq-page/",
+   "displayLink": "concurrent.utahtech.edu",
+   "snippet": "Students will need to complete both the application and registration process for Utah Tech University. ... order to obtain their Digital ID). The Help Desk can\u00a0...",
+   "htmlSnippet": "Students will need to complete both the application and registration process for <b>Utah</b> Tech University. ... <b>order</b> to obtain their <b>Digital ID</b>). The Help Desk can&nbsp;...",
+   "formattedUrl": "https://concurrent.utahtech.edu/faq-page/",
+   "htmlFormattedUrl": "https://concurrent.<b>utah</b>tech.edu/faq-page/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6yaCNLUo5U3PME2rBWECFJpblLHhTDRuqbwU4aF7GY3qiefCmuK9tIm2T&s",
+      "width": "318",
+      "height": "159"
+     }
+    ],
+    "question": [
+     {
+      "name": "What does the application and registration process look like?"
+     },
+     {
+      "name": "What courses are available to CE students?"
+     },
+     {
+      "name": "I don't know my Digital ID and/or Password. What do I do?"
+     },
+     {
+      "name": "When registering for a class, I'm getting an error. What do I do?"
+     },
+     {
+      "name": "How can students meet prerequisite requirements if they have not yet taken the ACT?"
+     },
+     {
+      "name": "How do my concurrent enrollment courses apply to my high school graduation requirements?"
+     },
+     {
+      "name": "Where can I find course descriptions?"
+     },
+     {
+      "name": "When and how can middle school students start preparing to take concurrent enrollment courses?"
+     },
+     {
+      "name": "What does the application and registration process look like?"
+     },
+     {
+      "name": "How do concurrent enrollment courses apply to high school graduation requirements?"
+     },
+     {
+      "name": "A student is trying to apply for concurrent enrollment, but their application is not going through. What do they do?"
+     },
+     {
+      "name": "What courses are available to CE students?"
+     },
+     {
+      "name": "When and how can middle school students start preparing to take concurrent enrollment courses?"
+     },
+     {
+      "name": "Who is qualified to teach a concurrent enrollment course?"
+     },
+     {
+      "name": "I've recently been approved to teach a concurrent course. What are the steps from here?"
+     },
+     {
+      "name": "Where can I find my CRN?"
+     },
+     {
+      "name": "Need help with Canvas?"
+     }
+    ],
+    "answer": [
+     {
+      "text": "Students will need to complete both the application and registration process for Utah Tech University. The application must be done 24-48 hours prior to registration. The first time a student..."
+     },
+     {
+      "text": "Utah Tech University currently has over 100 courses available to students through the concurrent enrollment program. Students can take courses at their high school, on UT main or branch campuses,..."
+     },
+     {
+      "text": "When students first sign-up for concurrent enrollment, Utah Tech will send them an email with their Digital ID and instructions to set-up their password. If they cannot find that email or have..."
+     },
+     {
+      "text": "Holds: Students are required to pay their concurrent enrollment tuition during the first few weeks of each semester. For students who do not pay their outstanding tuition, a financial hold..."
+     },
+     {
+      "text": "Not all concurrent enrollment classes have a prerequisite; however, for those that do, students will need to complete the perquisite prior to registering for the class. For students who have..."
+     },
+     {
+      "text": "General education courses (required by UT for associate and bachelor degrees) overlap with many of the high school graduation requirements. For example, a student may take an ENGL 1010 course..."
+     },
+     {
+      "text": "All concurrent enrollment courses and their description can be found on our Course Descriptions page. Course Descriptions"
+     },
+     {
+      "text": "While UT only requires a 3.0 GPA to participate in concurrent enrollment, individual schools may set a higher standard to ensure students are successful. Example: Some middle schools look specifica..."
+     },
+     {
+      "text": "Students will need to complete both the application and registration process for Utah Tech University. The application must be done 24-48 hours prior to registration. The first time a student..."
+     },
+     {
+      "text": "General education courses (required by UT for associate and bachelor degrees) overlap with many of the high school graduation requirements. For example, a student may take an ENGL 1010 course..."
+     },
+     {
+      "text": "Generally students run into problems with the state application when the information they\u2019re submitting on the application does not match what the state has on file for the students. Either..."
+     },
+     {
+      "text": "Utah Tech University currently has over 100 courses available to students through the concurrent enrollment program. Students can take courses at their high school, on UT main or branch campuses,..."
+     },
+     {
+      "text": "While UT only requires a 3.0 GPA to participate in concurrent enrollment, individual schools may set a higher standard to ensure students are successful. Example: Some middle schools look specifica..."
+     },
+     {
+      "text": "Counselors with an instructor interested in teaching concurrent enrollment courses should review the current requirements to teach various CE courses. These requirements can be found on our..."
+     },
+     {
+      "text": "Once you been approved to teach a new course, we\u2019ll need to get your Digital ID connected to your class. If they already have a Digital ID, please email it to Emma (emma.lunceford@utahtech.edu)...."
+     },
+     {
+      "text": "Instructors are able to view their CRNs on Canvas once classes have been built. If you still need to get access to Canvas, please reach out to your faculty supervisor from UT. If you are not..."
+     },
+     {
+      "text": "For help navigating and using Utah Tech University\u2019s learning management system, Canvas, please click here. Instructor Quickstart Guide"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffffff",
+      "og:image": "https://concurrent.utahtech.edu/wp-content/themes/dixie-state-university/assets/images/Open-Graph-copy.jpg",
+      "theme-color": "#881518",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Students, Teachers, Counselors FAQ Page | Concurrent Enrollment | Utah Tech University",
+      "twitter:domain": "https://concurrent.utahtech.edu",
+      "twitter:url": "https://concurrent.utahtech.edu/faq-page",
+      "og:title": "Students, Teachers, Counselors FAQ Page | Concurrent Enrollment | Utah Tech University",
+      "msapplication-tileimage": "https://concurrent.utahtech.edu/wp-content/themes/dixie-state-university/assets/media/favicons/ms-icon-144x144.png",
+      "msapplication-navbutton-color": "#881518",
+      "twitter:image": "https://concurrent.utahtech.edu/wp-content/themes/dixie-state-university/assets/images/Open-Graph-copy.jpg",
+      "facebook-domain-verification": "sdqxvhze2fdx5rdjnezanuhd3cd0ys",
+      "apple-mobile-web-app-status-bar-style": "#881518",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:url": "https://concurrent.utahtech.edu/faq-page"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://concurrent.utahtech.edu/wp-content/themes/dixie-state-university/assets/images/Open-Graph-copy.jpg"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "Home",
+      "name": "Home",
+      "position": "1"
+     },
+     {
+      "item": "Concurrent Enrollment",
+      "name": "Concurrent Enrollment",
+      "position": "2"
+     },
+     {
+      "item": "Students, Teachers, Counselors FAQ Page",
+      "name": "Students, Teachers, Counselors FAQ Page",
+      "position": "3"
+     }
+    ]
+   }
+  }
+ ]
+}

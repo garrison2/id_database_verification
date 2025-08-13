@@ -1,0 +1,474 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://oklahoma.gov/service \"driver's license\" OR \"identification card\"",
+    "totalResults": "26",
+    "searchTerms": "site:https://oklahoma.gov/service \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://oklahoma.gov/service \"driver's license\" OR \"identification card\"",
+    "totalResults": "26",
+    "searchTerms": "site:https://oklahoma.gov/service \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.116044,
+  "formattedSearchTime": "0.12",
+  "totalResults": "26",
+  "formattedTotalResults": "26"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Renew & Replace License & ID",
+   "htmlTitle": "Renew &amp; Replace License &amp; ID",
+   "link": "https://oklahoma.gov/service/popular-services/renew-replace.html",
+   "displayLink": "oklahoma.gov",
+   "snippet": "If you already have an Oklahoma Driver License or State Identification Card ... Bring your current driver's license as your primary form of identification.",
+   "htmlSnippet": "If you already have an Oklahoma Driver License or State <b>Identification Card</b> ... Bring your current <b>driver&#39;s license</b> as your primary form of identification.",
+   "formattedUrl": "https://oklahoma.gov/service/popular-services/renew-replace.html",
+   "htmlFormattedUrl": "https://oklahoma.gov/service/popular-services/renew-replace.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnuVZBs_EGC-0ePdnpbnZdnNnSLMpaddSd9nCnHCDOvcMmGtzEjmZtFLI&s",
+      "width": "339",
+      "height": "149"
+     }
+    ],
+    "imageobject": [
+     {
+      "contenturl": "https://oklahoma.gov/content/experience-fragments/service-oklahoma/us/en/site/header/master/_jcr_content/root/image.coreimg.svg/1667003920072/sok-logo.svg"
+     },
+     {
+      "contenturl": "https://oklahoma.gov/content/experience-fragments/service-oklahoma/us/en/site/footer/master/_jcr_content/root/image.coreimg.svg/1667003937029/sok-logo-white.svg"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "content-page",
+      "twitter:card": "summary",
+      "twitter:title": "Renew & Replace License & ID",
+      "og:type": "website",
+      "og:site_name": "Service Oklahoma",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "If you already have an Oklahoma Driver License (DL) or State Identification Card, you can renew or replace it online or in person at a Licensed Operator, or Service Oklahoma Licensing Office.",
+      "og:title": "Renew & Replace License & ID",
+      "og:locale": "en",
+      "og:description": "If you already have an Oklahoma Driver License (DL) or State Identification Card, you can renew or replace it online or in person at a Licensed Operator, or Service Oklahoma Licensing Office."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://oklahoma.gov/content/dam/service-oklahoma/Images/adult-driver-blue-2.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Commercial Driving CDL",
+   "htmlTitle": "Commercial Driving CDL",
+   "link": "https://oklahoma.gov/service/popular-services/cdl.html",
+   "displayLink": "oklahoma.gov",
+   "snippet": "Oklahoma requires a Commercial Driver's License (CDL). Note: Special endorsements may be required for certain vehicles or cargo.",
+   "htmlSnippet": "Oklahoma requires a Commercial <b>Driver&#39;s License</b> (CDL). Note: Special endorsements may be required for certain vehicles or cargo.",
+   "formattedUrl": "https://oklahoma.gov/service/popular-services/cdl.html",
+   "htmlFormattedUrl": "https://oklahoma.gov/service/popular-services/cdl.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt9lbj-PTTT5gsca1JAhuEul6QYZDw3D6RWeO8h3MtNYlrql9FnCfccDY&s",
+      "width": "343",
+      "height": "147"
+     }
+    ],
+    "imageobject": [
+     {
+      "contenturl": "https://oklahoma.gov/content/experience-fragments/service-oklahoma/us/en/site/header/master/_jcr_content/root/image.coreimg.svg/1667003920072/sok-logo.svg"
+     },
+     {
+      "contenturl": "https://oklahoma.gov/content/experience-fragments/service-oklahoma/us/en/site/footer/master/_jcr_content/root/image.coreimg.svg/1667003937029/sok-logo-white.svg"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "content-page",
+      "twitter:card": "summary",
+      "twitter:title": "Commercial Driving CDL",
+      "og:type": "website",
+      "og:site_name": "Service Oklahoma",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "If you plan to operate certain specialized types of vehicles such as buses, heavy oversized vehicles, or vehicles that carry multiple passengers, Oklahoma requires a Commercial Driver's License (CDL) .",
+      "og:title": "Commercial Driving CDL",
+      "og:locale": "en",
+      "og:description": "If you plan to operate certain specialized types of vehicles such as buses, heavy oversized vehicles, or vehicles that carry multiple passengers, Oklahoma requires a Commercial Driver's License (CDL) ."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://oklahoma.gov/content/dam/service-oklahoma/social-media-icons/real-id-teaser.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "New State ID Card",
+   "htmlTitle": "New State ID Card",
+   "link": "https://oklahoma.gov/service/all-pages/new-state-id.html",
+   "displayLink": "oklahoma.gov",
+   "snippet": "There are two ways to receive a State Identification card from the State of Oklahoma. You can visit a Licensed Operator or a Service Oklahoma Licensing Office\u00a0...",
+   "htmlSnippet": "There are two ways to receive a State <b>Identification card</b> from the State of Oklahoma. You can visit a Licensed Operator or a Service Oklahoma Licensing Office&nbsp;...",
+   "formattedUrl": "https://oklahoma.gov/service/all-pages/new-state-id.html",
+   "htmlFormattedUrl": "https://oklahoma.gov/service/all-pages/new-state-id.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy164bPIqhbg1Y8v74sD_h1rd3Q1tzhL159uOmv41Ds5Qy0EzvLP_xnR8&s",
+      "width": "250",
+      "height": "202"
+     }
+    ],
+    "imageobject": [
+     {
+      "contenturl": "https://oklahoma.gov/content/experience-fragments/service-oklahoma/us/en/site/header/master/_jcr_content/root/image.coreimg.svg/1667003920072/sok-logo.svg"
+     },
+     {
+      "contenturl": "https://oklahoma.gov/content/experience-fragments/service-oklahoma/us/en/site/footer/master/_jcr_content/root/image.coreimg.svg/1667003937029/sok-logo-white.svg"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "content-page",
+      "twitter:card": "summary",
+      "twitter:title": "New State ID Card",
+      "og:type": "website",
+      "og:site_name": "Service Oklahoma",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "There are two ways to receive a State Identification card from the State of Oklahoma. You can visit a Licensed Operator or a Service Oklahoma Licensing Office location.",
+      "og:title": "New State ID Card",
+      "og:locale": "en",
+      "og:description": "There are two ways to receive a State Identification card from the State of Oklahoma. You can visit a Licensed Operator or a Service Oklahoma Licensing Office location."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://oklahoma.gov/service/all-pages/new-state-id/_jcr_content/root/container/hero.coreimg.svg/1668730705487/state-id-new.svg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CDL First-Time Applicants",
+   "htmlTitle": "CDL First-Time Applicants",
+   "link": "https://oklahoma.gov/service/all-pages/cdl-first-time-applicants.html",
+   "displayLink": "oklahoma.gov",
+   "snippet": "Oklahoma requires a Commercial Driver's License (CDL) if you plan to operate certain specialized types of vehicles such as buses, heavy oversized vehicles,\u00a0...",
+   "htmlSnippet": "Oklahoma requires a Commercial <b>Driver&#39;s License</b> (CDL) if you plan to operate certain specialized types of vehicles such as buses, heavy oversized vehicles,&nbsp;...",
+   "formattedUrl": "https://oklahoma.gov/service/all-pages/cdl-first-time-applicants.html",
+   "htmlFormattedUrl": "https://oklahoma.gov/service/all-pages/cdl-first-time-applicants.html",
+   "pagemap": {
+    "imageobject": [
+     {
+      "contenturl": "https://oklahoma.gov/content/experience-fragments/service-oklahoma/us/en/site/header/master/_jcr_content/root/image.coreimg.svg/1667003920072/sok-logo.svg"
+     },
+     {
+      "contenturl": "https://oklahoma.gov/content/experience-fragments/service-oklahoma/us/en/site/footer/master/_jcr_content/root/image.coreimg.svg/1667003937029/sok-logo-white.svg"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "content-page",
+      "twitter:card": "summary",
+      "twitter:title": "CDL First-Time Applicants",
+      "og:type": "website",
+      "og:site_name": "Service Oklahoma",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Oklahoma requires a Commercial Driver's License (CDL) if you plan to operate certain specialized types of vehicles such as buses, heavy oversized vehicles, or vehicles that carry multiple passengers.",
+      "og:title": "CDL First-Time Applicants",
+      "og:locale": "en",
+      "og:description": "Oklahoma requires a Commercial Driver's License (CDL) if you plan to operate certain specialized types of vehicles such as buses, heavy oversized vehicles, or vehicles that carry multiple passengers."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Renew/Replace: Non-Driver Identification Card",
+   "htmlTitle": "Renew/Replace: Non-Driver <b>Identification Card</b>",
+   "link": "https://oklahoma.gov/service/sokonline/online-state-id-renewal.html",
+   "displayLink": "oklahoma.gov",
+   "snippet": "Careers Help \u00b7 All Services \u00b7 Driver Licenses & ID Cards \u00b7 Auto & Vehicle Services \u00b7 Health & Care \u00b7 Legal & Police Services \u00b7 Boating, Hunting, & Fishing\u00a0...",
+   "htmlSnippet": "Careers Help &middot; All Services &middot; Driver Licenses &amp; ID Cards &middot; Auto &amp; Vehicle Services &middot; Health &amp; Care &middot; Legal &amp; Police Services &middot; Boating, Hunting, &amp; Fishing&nbsp;...",
+   "formattedUrl": "https://oklahoma.gov/service/sokonline/online-state-id-renewal.html",
+   "htmlFormattedUrl": "https://oklahoma.gov/service/sokonline/online-state-id-renewal.html",
+   "pagemap": {
+    "imageobject": [
+     {
+      "contenturl": "https://oklahoma.gov/content/experience-fragments/service-oklahoma/us/en/site/header/master/_jcr_content/root/image.coreimg.svg/1667003920072/sok-logo.svg"
+     },
+     {
+      "contenturl": "https://oklahoma.gov/content/experience-fragments/service-oklahoma/us/en/site/footer/master/_jcr_content/root/image.coreimg.svg/1667003937029/sok-logo-white.svg"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "content-page",
+      "twitter:card": "summary",
+      "twitter:title": "Renew/Replace: Non-Driver Identification Card",
+      "og:type": "website",
+      "og:site_name": "Service Oklahoma",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "Renew/Replace: Non-Driver Identification Card",
+      "og:locale": "en"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Service Oklahoma",
+   "htmlTitle": "Service Oklahoma",
+   "link": "https://oklahoma.gov/service/sokonline/returned-mail-tracker.html",
+   "displayLink": "oklahoma.gov",
+   "snippet": "... Identification CardRenew/Replace: CDL. Tracker. Using the Tracker. 1Enter the required fields below to search for your returned item. 2Entering your credential\u00a0...",
+   "htmlSnippet": "... <b>Identification Card</b>Renew/Replace: CDL. Tracker. Using the Tracker. 1Enter the required fields below to search for your returned item. 2Entering your credential&nbsp;...",
+   "formattedUrl": "https://oklahoma.gov/service/sokonline/returned-mail-tracker.html",
+   "htmlFormattedUrl": "https://oklahoma.gov/service/sokonline/returned-mail-tracker.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV4uhN41n2_xf4oYozgjK4LYBe3MyhEeX-oKExf1CDWRvgfZsG7NWDFpte&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://app.service.ok.gov/_next/static/media/envelope-open.78537acc.svg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "REAL ID",
+   "htmlTitle": "REAL ID",
+   "link": "https://oklahoma.gov/service/popular-services/real-id-checklist.html",
+   "displayLink": "oklahoma.gov",
+   "snippet": "Can I get a REAL ID by renewing my current Driver License or Identification Card by mail or online? ... According to the TSA, a temporary driver's license or ID\u00a0...",
+   "htmlSnippet": "Can I get a REAL ID by renewing my current Driver License or <b>Identification Card</b> by mail or online? ... According to the TSA, a temporary <b>driver&#39;s license</b> or ID&nbsp;...",
+   "formattedUrl": "https://oklahoma.gov/service/popular-services/real-id-checklist.html",
+   "htmlFormattedUrl": "https://oklahoma.gov/service/popular-services/real-id-checklist.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrVGbZsLt1PwWLIeoK8p6XWoMOayQKSJAoM6_M64ZDO4dgg7wJX1XraDc&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "imageobject": [
+     {
+      "contenturl": "https://oklahoma.gov/content/experience-fragments/service-oklahoma/us/en/site/header/master/_jcr_content/root/image.coreimg.svg/1667003920072/sok-logo.svg"
+     },
+     {
+      "contenturl": "https://oklahoma.gov/service/popular-services/real-id-checklist/_jcr_content/root/container/container_1001156106/image_copy.coreimg.85.128.jpeg/1744664299784/real-id-0425-outdoor-1280x384-1.jpeg"
+     },
+     {
+      "contenturl": "https://oklahoma.gov/content/experience-fragments/service-oklahoma/us/en/site/footer/master/_jcr_content/root/image.coreimg.svg/1667003937029/sok-logo-white.svg"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "content-page",
+      "twitter:card": "summary",
+      "twitter:title": "REAL ID",
+      "og:type": "website",
+      "og:site_name": "Service Oklahoma",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Get ready for REAL ID with our comprehensive checklist of documents and information you'll need to bring to Service Oklahoma. Our guide covers everything from proof of identity to residency to make sure you have everything you need for a smooth application process.",
+      "og:title": "REAL ID",
+      "og:locale": "en",
+      "og:description": "Get ready for REAL ID with our comprehensive checklist of documents and information you'll need to bring to Service Oklahoma. Our guide covers everything from proof of identity to residency to make sure you have everything you need for a smooth application process."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://oklahoma.gov/service/popular-services/real-id-checklist/_jcr_content/root/container/container_2117176906/contentblock_1454728.coreimg.png/1745425805849/real-id-sample-valid-arrow-sqaure.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Military",
+   "htmlTitle": "Military",
+   "link": "https://oklahoma.gov/service/popular-services/military.html",
+   "displayLink": "oklahoma.gov",
+   "snippet": "... Identification Card (VHIC) from the U.S. Veteran Affairs. Out of State Resident Stationed in Oklahoma. Military service members and their families who live\u00a0...",
+   "htmlSnippet": "... <b>Identification Card</b> (VHIC) from the U.S. Veteran Affairs. Out of State Resident Stationed in Oklahoma. Military service members and their families who live&nbsp;...",
+   "formattedUrl": "https://oklahoma.gov/service/popular-services/military.html",
+   "htmlFormattedUrl": "https://oklahoma.gov/service/popular-services/military.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVFx87f-kpJAL-2uVCCFVNerFqr-wztv-exgq7wlD9ExjPok2IRbg7T9Y5&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "imageobject": [
+     {
+      "contenturl": "https://oklahoma.gov/content/experience-fragments/service-oklahoma/us/en/site/header/master/_jcr_content/root/image.coreimg.svg/1667003920072/sok-logo.svg"
+     },
+     {
+      "contenturl": "https://oklahoma.gov/content/experience-fragments/service-oklahoma/us/en/site/footer/master/_jcr_content/root/image.coreimg.svg/1667003937029/sok-logo-white.svg"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "content-page",
+      "twitter:card": "summary",
+      "twitter:title": "Military",
+      "og:type": "website",
+      "og:site_name": "Service Oklahoma",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "Military",
+      "og:locale": "en"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://oklahoma.gov/service/popular-services/military/_jcr_content/root/container/hero.coreimg.svg/1724873329352/flag-usa-solid.svg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CDL Renewal Replacement Online",
+   "htmlTitle": "CDL Renewal Replacement Online",
+   "link": "https://oklahoma.gov/service/all-pages/cdl-renewal-replacement-online-.html",
+   "displayLink": "oklahoma.gov",
+   "snippet": "... Driver's License (CDL). The TSA clearance is valid for five (5) years and must be renewed along with the CDL unless the remaining validity of the TSA\u00a0...",
+   "htmlSnippet": "... <b>Driver&#39;s License</b> (CDL). The TSA clearance is valid for five (5) years and must be renewed along with the CDL unless the remaining validity of the TSA&nbsp;...",
+   "formattedUrl": "https://oklahoma.gov/service/all.../cdl-renewal-replacement-online-.html",
+   "htmlFormattedUrl": "https://oklahoma.gov/service/all.../cdl-renewal-replacement-online-.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrCmURlsIyWCCYWq3_wfqv5IyLMSeMfZxjsD4ZJfLcKN2TflfyRlu3YIU&s",
+      "width": "250",
+      "height": "202"
+     }
+    ],
+    "imageobject": [
+     {
+      "contenturl": "https://oklahoma.gov/content/experience-fragments/service-oklahoma/us/en/site/header/master/_jcr_content/root/image.coreimg.svg/1667003920072/sok-logo.svg"
+     },
+     {
+      "contenturl": "https://oklahoma.gov/content/experience-fragments/service-oklahoma/us/en/site/footer/master/_jcr_content/root/image.coreimg.svg/1667003937029/sok-logo-white.svg"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "content-page",
+      "twitter:card": "summary",
+      "twitter:title": "CDL Renewal Replacement Online",
+      "og:type": "website",
+      "og:site_name": "Service Oklahoma",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "There are two ways to renew or replace your Commercial Driver License: online or in-person.",
+      "og:title": "CDL Renewal Replacement Online",
+      "og:locale": "en",
+      "og:description": "There are two ways to renew or replace your Commercial Driver License: online or in-person."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://oklahoma.gov/service/all-pages/cdl-renewal-replacement-online-/_jcr_content/root/container/container/hero.coreimg.png/1687356521762/id-card-7.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Careers",
+   "htmlTitle": "Careers",
+   "link": "https://oklahoma.gov/service/all-pages/careers.html",
+   "displayLink": "oklahoma.gov",
+   "snippet": "Auditor. OKLAHOMA CITY, OK. Field Auditor I. Oklahoma City - 6015 N Classen Blvd \u00b7 Driver License Examiners (Part Time). OKLAHOMA COUNTY. Driver's License\u00a0...",
+   "htmlSnippet": "Auditor. OKLAHOMA CITY, OK. Field Auditor I. Oklahoma City - 6015 N Classen Blvd &middot; Driver License Examiners (Part Time). OKLAHOMA COUNTY. <b>Driver&#39;s License</b>&nbsp;...",
+   "formattedUrl": "https://oklahoma.gov/service/all-pages/careers.html",
+   "htmlFormattedUrl": "https://oklahoma.gov/service/all-pages/careers.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuFmRa9OuFdLDcsecxCpJjklL50xFqt9Q6mwifisq6oWcfRBuGGVX2CuXp&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "imageobject": [
+     {
+      "contenturl": "https://oklahoma.gov/content/experience-fragments/service-oklahoma/us/en/site/header/master/_jcr_content/root/image.coreimg.svg/1667003920072/sok-logo.svg"
+     },
+     {
+      "contenturl": "https://oklahoma.gov/content/experience-fragments/service-oklahoma/us/en/site/footer/master/_jcr_content/root/image.coreimg.svg/1667003937029/sok-logo-white.svg"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "content-page",
+      "twitter:card": "summary",
+      "twitter:title": "Careers",
+      "og:type": "website",
+      "og:site_name": "Service Oklahoma",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Join our team of innovators and take part in work that is pivotal to your community by providing faster and simpler access to the services we all need.",
+      "og:title": "Careers",
+      "og:locale": "en",
+      "og:description": "Join our team of innovators and take part in work that is pivotal to your community by providing faster and simpler access to the services we all need."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://oklahoma.gov/service/all-pages/careers/_jcr_content/root/container/container_863888340/contentblock.coreimg.png/1721672666587/careers1.png"
+     }
+    ]
+   }
+  }
+ ]
+}

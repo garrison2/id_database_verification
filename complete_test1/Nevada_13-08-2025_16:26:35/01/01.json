@@ -1,0 +1,453 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Nevada\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Nevada Revised Statutes\"",
+    "totalResults": "151000",
+    "searchTerms": "\"Nevada\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Nevada Revised Statutes\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Nevada\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Nevada Revised Statutes\"",
+    "totalResults": "151000",
+    "searchTerms": "\"Nevada\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Nevada Revised Statutes\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.31235,
+  "formattedSearchTime": "0.31",
+  "totalResults": "151000",
+  "formattedTotalResults": "151,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Nevada Mobile ID Updates",
+   "htmlTitle": "<b>Nevada Mobile ID</b> Updates",
+   "link": "https://idscan.net/state-digital-id/nevada-mobile-id-updates/",
+   "displayLink": "idscan.net",
+   "snippet": "Mobile ID adoption in Nevada \u00b7 Nevada SB 204 \u00b7 Other Nevada mDL resources.",
+   "htmlSnippet": "<b>Mobile ID</b> adoption in <b>Nevada</b> &middot; <b>Nevada</b> SB 204 &middot; Other <b>Nevada mDL</b> resources.",
+   "formattedUrl": "https://idscan.net/state-digital-id/nevada-mobile-id-updates/",
+   "htmlFormattedUrl": "https://idscan.net/state-<b>digital-id</b>/<b>nevada</b>-<b>mobile-id</b>-updates/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdU2ZeC00pQZ_M3lpRD83zGnBaNrSuDV-j9UOZI01oMrMNMiKMSozQXMPL&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://idscan.net/wp-content/uploads/nevada-mobile-id.jpg?lm=66A7318E",
+      "og:type": "article",
+      "og:image:width": "1199",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "IDScan.net",
+      "og:title": "Nevada Mobile ID Updates",
+      "og:image:height": "631",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://idscan.net/wp-content/uploads/cropped-idscan-identity-verification-software-icon-1-270x270.png",
+      "og:description": "Nevada legalized the development of a mobile ID in 2021, but as of February 2025, an app still hasn't been made live for Nevada residents.",
+      "article:publisher": "https://www.facebook.com/idscannet",
+      "twitter:site": "@idscan_net",
+      "article:modified_time": "2025-02-19T21:31:33+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://idscan.net/state-digital-id/nevada-mobile-id-updates/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://idscan.net/wp-content/uploads/nevada-mobile-id.jpg?lm=66A7318E"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Nevada introduces digital ID scanning for tobacco purchases ...",
+   "htmlTitle": "<b>Nevada</b> introduces <b>digital ID</b> scanning for tobacco purchases ...",
+   "link": "https://www.biometricupdate.com/202301/nevada-introduces-digital-id-scanning-for-tobacco-purchases",
+   "displayLink": "www.biometricupdate.com",
+   "snippet": "Jan 5, 2023 ... Digital ID scanning is now mandatory for tobacco purchases in Nevada, according to an announcement from IDScan.net. Law AB 360 states that,\u00a0...",
+   "htmlSnippet": "Jan 5, 2023 <b>...</b> <b>Digital ID</b> scanning is now mandatory for tobacco purchases in <b>Nevada</b>, according to an announcement from IDScan.net. <b>Law</b> AB 360 states that,&nbsp;...",
+   "formattedUrl": "https://www.biometricupdate.com/.../nevada-introduces-digital-id-scanning-...",
+   "htmlFormattedUrl": "https://www.biometricupdate.com/.../<b>nevada</b>-introduces-<b>digital-id</b>-scanning-...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHTb3p5yEXADa2jM2kKlFhOFOiHTPDn7Wh4elQ6PtT5OePFMF8oP_bvZ0&s",
+      "width": "259",
+      "height": "194"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/01/05131214/tobacco-products-scaled.jpg",
+      "theme-color": "#ffffff",
+      "og:image:width": "2048",
+      "article:published_time": "2023-01-05T18:20:21+00:00",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Biometric Update | Biometrics News, Companies and Explainers",
+      "rating": "general",
+      "msapplication-tileimage": "/favicon/ms-icon-144x144.png",
+      "og:description": "As of January 1, 2023, retail locations selling tobacco or vape products in the state will be required to digitally scan the IDs of customers, to verify age.",
+      "twitter:creator": "@BiometricUpdate",
+      "og:image:secure_url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/01/05131214/tobacco-products-scaled.jpg",
+      "article:publisher": "https://www.facebook.com/BiometricUpdate",
+      "twitter:image": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/01/05131214/tobacco-products-scaled.jpg",
+      "twitter:site": "@BiometricUpdate",
+      "article:modified_time": "2024-05-26T21:13:34+00:00",
+      "msapplication-tilecolor": "#ffffff",
+      "og:type": "article",
+      "twitter:title": "Nevada introduces digital ID scanning for tobacco purchases | Biometric Update",
+      "msvalidate.01": "37DAF50D768AB3DDD4F101B413D98584",
+      "author": "Joel R. McConvey",
+      "og:title": "Nevada introduces digital ID scanning for tobacco purchases | Biometric Update",
+      "og:image:height": "1536",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "As of January 1, 2023, retail locations selling tobacco or vape products in the state will be required to digitally scan the IDs of customers, to verify age.",
+      "og:locale": "en_US",
+      "og:url": "https://www.biometricupdate.com/202301/nevada-introduces-digital-id-scanning-for-tobacco-purchases"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/01/05131214/tobacco-products-scaled.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Lombardo vetoes voter ID bill pitched as compromise with legislative ...",
+   "htmlTitle": "Lombardo vetoes voter ID <b>bill</b> pitched as compromise with legislative ...",
+   "link": "https://thenevadaindependent.com/article/lombardo-vetoes-voter-id-bill-pitched-as-compromise-with-legislative-democrats",
+   "displayLink": "thenevadaindependent.com",
+   "snippet": "Jun 13, 2025 ... The proposal was part of an apparent deal that would have brought voter ID to Nevada next year in exchange for increasing ballot drop boxes\u00a0...",
+   "htmlSnippet": "Jun 13, 2025 <b>...</b> The proposal was part of an apparent deal that would have brought voter ID to <b>Nevada</b> next year in exchange for increasing ballot drop boxes&nbsp;...",
+   "formattedUrl": "https://thenevadaindependent.com/.../lombardo-vetoes-voter-id-bill-pitched...",
+   "htmlFormattedUrl": "https://the<b>nevada</b>independent.com/.../lombardo-vetoes-voter-id-<b>bill</b>-pitched...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0F_vMcEWJp1tfxU1S1dfUX-_FB0Mt32Hg-UqSsT4008JXLGJ2rqBnhbQ&s",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://storage.googleapis.com/cdn.thenevadaindependent.com/2025/05/90844cf5-052925_nvleg_00715.jpg",
+      "og:image:alt": "The Nevada Independent Logo",
+      "twitter:card": "summary_large_image",
+      "og:type": "article",
+      "article:published_time": "2025-06-12T16:48:06",
+      "og:image:width": "2400",
+      "og:site_name": "The Nevada Independent",
+      "og:title": "Lombardo vetoes voter ID bill pitched as compromise with legislative Democrats - The Nevada Independent",
+      "og:image:height": "1600",
+      "twitter:creator": "@thenvindy",
+      "og:description": "Lombardo vetoes voter ID bill pitched as compromise with legislative Democrats. Read more from The Nevada Independent.",
+      "article:author": "https://thenevadaindependent.com/author/tabitha-mueller",
+      "next-head-count": "26",
+      "fb:app_id": "747074418806339",
+      "twitter:site": "@thenvindy",
+      "article:modified_time": "2025-06-13 10:00:00",
+      "viewport": "width=device-width, initial-scale=1.0,user-scalable=yes",
+      "og:url": "https://thenevadaindependent.com/article/lombardo-vetoes-voter-id-bill-pitched-as-compromise-with-legislative-democrats"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://storage.googleapis.com/cdn.thenevadaindependent.com/2025/05/90844cf5-052925_nvleg_00715.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Nevada Best Companies to Work for 2022 | Top Workplaces",
+   "htmlTitle": "<b>Nevada</b> Best Companies to Work for 2022 | Top Workplaces",
+   "link": "https://topworkplaces.com/award/nevada/2022/35-149/",
+   "displayLink": "topworkplaces.com",
+   "snippet": "Dimopoulos Injury Law is located in Las Vegas Nevada and services clients throughout the country. ... MDL Group. Nevada Top Workplaces 2022. 35-149 employees.",
+   "htmlSnippet": "Dimopoulos Injury <b>Law</b> is located in Las Vegas <b>Nevada</b> and services clients throughout the country. ... <b>MDL</b> Group. <b>Nevada</b> Top Workplaces 2022. 35-149 employees.",
+   "formattedUrl": "https://topworkplaces.com/award/nevada/2022/35-149/",
+   "htmlFormattedUrl": "https://topworkplaces.com/award/<b>nevada</b>/2022/35-149/",
+   "pagemap": {
+    "metatags": [
+     {
+      "next-head-count": "15",
+      "og:type": "website",
+      "og:site_name": "Top Workplaces",
+      "viewport": "width=device-width",
+      "og:title": "Nevada Best Companies to Work for 2022 | Top Workplaces",
+      "og:locale": "en_US",
+      "bingbot": "index, follow, max-snippet: -1, max-image-preview:large, max-video-preview: -1",
+      "og:url": "https://topworkplaces.com/award/nevada/2022/",
+      "og:description": "The Review-Journal and Business Press has recognized 56 Companies and Organizations in Nevada as Top Workplaces for 2022."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "New Notary Laws | NNA",
+   "htmlTitle": "New Notary Laws | NNA",
+   "link": "https://www.nationalnotary.org/knowledge-center/news/law-updates",
+   "displayLink": "www.nationalnotary.org",
+   "snippet": "CO House Bill 25-1076 - The Colorado General Assembly enacts a mobile driver's license ... NV Assembly Bill 72 - Assembly Bill 72 authorizes the Nevada Secretary\u00a0...",
+   "htmlSnippet": "CO House <b>Bill</b> 25-1076 - The Colorado General Assembly enacts a <b>mobile driver&#39;s license</b> ... NV Assembly <b>Bill</b> 72 - Assembly <b>Bill</b> 72 authorizes the <b>Nevada</b> Secretary&nbsp;...",
+   "formattedUrl": "https://www.nationalnotary.org/knowledge-center/news/law-updates",
+   "htmlFormattedUrl": "https://www.nationalnotary.org/knowledge-center/news/<b>law</b>-updates",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiP0PedQiFDsQXMnrZJlWDR_29U37eC4QQmYF88skdpuUBdbm_qLKNV0Y&s",
+      "width": "311",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.nationalnotary.org/Image%20Library/NNA/OpenGraph.jpg",
+      "og:type": "website",
+      "twitter:card": "summary",
+      "og:site_name": "National Notary Association",
+      "twitter:site": "@nationalnotary",
+      "viewport": "width=device-width,initial-scale=1,minimum-scale=1.0,maximum-scale=1.0",
+      "og:title": "New Notary Laws",
+      "y_key": "619dbc143431f814",
+      "og:url": "https://www.nationalnotary.org/knowledge-center/news/law-updates",
+      "og:description": "Stay abreast of Notary laws and rules that have passed or are in the process of becoming legislation here. Search by state"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.nationalnotary.org/Image%20Library/NNA/OpenGraph.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Nevada could lose access to $156M in solar funds in EPA clawback ...",
+   "htmlTitle": "<b>Nevada</b> could lose access to $156M in solar funds in EPA clawback ...",
+   "link": "https://www.newsfromthestates.com/article/nevada-could-lose-access-156m-solar-funds-epa-clawback",
+   "displayLink": "www.newsfromthestates.com",
+   "snippet": "6 days ago ... Nevada's solar industry is already facing strain after Trump's ... Civil liberties advocates warn of privacy risks with new digital ID law.",
+   "htmlSnippet": "6 days ago <b>...</b> <b>Nevada&#39;s</b> solar industry is already facing strain after Trump&#39;s ... Civil liberties advocates warn of privacy risks with new <b>digital ID law</b>.",
+   "formattedUrl": "https://www.newsfromthestates.com/.../nevada-could-lose-access-156m-sola...",
+   "htmlFormattedUrl": "https://www.newsfromthestates.com/.../<b>nevada</b>-could-lose-access-156m-sola...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXbApWS-zPD71OigQRivMQ32ddgFJo--z0P97hFky1c8aQTU_8kKHIwyke&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.newsfromthestates.com/s3/files/styles/social_large/s3/articles/feeds-state-90/wp-content/uploads/2025/08/solar-panels-worker-getty-1024x487-1-11754568225.jpg?h=7e470e3b&itok=dAQmlw-E",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Nevada could lose access to $156M in solar funds in EPA clawback",
+      "og:site_name": "News From The States",
+      "og:image:url": "https://www.newsfromthestates.com/s3/files/styles/social_large/s3/articles/feeds-state-90/wp-content/uploads/2025/08/solar-panels-worker-getty-1024x487-1-11754568225.jpg?h=7e470e3b&itok=dAQmlw-E",
+      "handheldfriendly": "true",
+      "og:title": "Nevada could lose access to $156M in solar funds in EPA clawback",
+      "abstract": "The Environmental Protection Agency is weighing the termination of its $7 billion Solar For All program, a move that would strip Nevada of millions of dollars in federal funding for residential solar development. Last year, the Nevada Clean Energy Fund \u2014 a nonprofit bank created by state legislation \u2014 was awarded a $156 million grant under the Solar for All program to finance community solar projects that would benefit low-income households.\u00a0",
+      "og:updated_time": "Thu, 08/07/2025 - 08:00",
+      "og:description": "The Environmental Protection Agency is weighing the termination of its $7 billion Solar For All program, a move that would strip Nevada of millions of dollars in federal funding for residential solar development. Last year, the Nevada Clean Energy Fund \u2014 a nonprofit bank created by state legislation \u2014 was awarded a $156 million grant under the Solar for All program to finance community solar projects that would benefit low-income households.\u00a0",
+      "twitter:image": "https://www.newsfromthestates.com/s3/files/styles/social_large/s3/articles/feeds-state-90/wp-content/uploads/2025/08/solar-panels-worker-getty-1024x487-1-11754568225.jpg?h=7e470e3b&itok=dAQmlw-E",
+      "referrer": "origin",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "twitter:description": "The Environmental Protection Agency is weighing the termination of its $7 billion Solar For All program, a move that would strip Nevada of millions of dollars in federal funding for residential solar development. Last year, the Nevada Clean Energy Fund \u2014 a nonprofit bank created by state legislation \u2014 was awarded a $156 million grant under the Solar for All program to finance community solar projects that would benefit low-income households.\u00a0",
+      "apple-mobile-web-app-capable": "yes",
+      "rights": "\u00a92025 News From The States. All rights reserved.",
+      "mobileoptimized": "width",
+      "og:url": "https://www.newsfromthestates.com/article/nevada-could-lose-access-156m-solar-funds-epa-clawback"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.newsfromthestates.com/s3/files/styles/social_large/s3/articles/feeds-state-90/wp-content/uploads/2025/08/solar-panels-worker-getty-1024x487-1-11754568225.jpg?h=7e470e3b&itok=dAQmlw-E"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Property Tax Center - Arkansas.gov",
+   "htmlTitle": "Property Tax Center - Arkansas.gov",
+   "link": "https://portal.arkansas.gov/service/property-tax-center/",
+   "displayLink": "portal.arkansas.gov",
+   "snippet": "Discover More. Business. Close Business Open Business. Mobile ID for Businesses ... nevada \u00b7 newton \u00b7 ouachita \u00b7 perry \u00b7 phillips \u00b7 pike \u00b7 poinsett \u00b7 polk \u00b7 pope\u00a0...",
+   "htmlSnippet": "Discover More. Business. Close Business Open Business. <b>Mobile ID</b> for Businesses ... <b>nevada</b> &middot; newton &middot; ouachita &middot; perry &middot; phillips &middot; pike &middot; poinsett &middot; polk &middot; pope&nbsp;...",
+   "formattedUrl": "https://portal.arkansas.gov/service/property-tax-center/",
+   "htmlFormattedUrl": "https://portal.arkansas.gov/service/property-tax-center/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhx5grJN0YCMauOkN0_3wn2rkdtuB3CYeqC_nfYEm4b27h0PwNtYFd9P30&s",
+      "width": "310",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://portal.arkansas.gov/wp-content/uploads/ar-co-personal-property-real-estate-tax-payments.jpg",
+      "og:type": "article",
+      "og:image:width": "916",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Arkansas.gov",
+      "og:title": "Property Tax Center - Arkansas.gov",
+      "og:image:height": "480",
+      "twitter:label1": "Est. reading time",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://portal.arkansas.gov/wp-content/uploads/1-AR_STATE-GOV-LOGO_COLOR_CMYK.svg",
+      "og:description": "Property Tax Payments for 2023 are due October 15. Property owners can pay their taxes online, in person at the county courthouse, or by mail. The amount of property tax owed is based on the assessed value of the property, which is determined by the county assessor. Property owners in Arkansas can also claim a [\u2026]",
+      "twitter:data1": "1 minute",
+      "article:modified_time": "2025-08-08T16:34:52+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "ina-man": "fw",
+      "og:url": "https://portal.arkansas.gov/service/property-tax-center/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://portal.arkansas.gov/wp-content/uploads/ar-co-personal-property-real-estate-tax-payments.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "When will we be able to add my Nevada dri\u2026 - Apple Community",
+   "htmlTitle": "When will we be able to add my <b>Nevada</b> dri\u2026 - Apple Community",
+   "link": "https://discussions.apple.com/thread/255615631",
+   "displayLink": "discussions.apple.com",
+   "snippet": "May 17, 2024 ... >>While the bill passed and is legal, Nevada has yet to develop/announce development of the mobile ID integration. There is no public\u00a0...",
+   "htmlSnippet": "May 17, 2024 <b>...</b> &gt;&gt;While the <b>bill</b> passed and is legal, <b>Nevada</b> has yet to develop/announce development of the <b>mobile ID</b> integration. There is no public&nbsp;...",
+   "formattedUrl": "https://discussions.apple.com/thread/255615631",
+   "htmlFormattedUrl": "https://discussions.apple.com/thread/255615631",
+   "pagemap": {
+    "metatags": [
+     {
+      "globalnav-search-field[action]": "https://support.apple.com/kb/index",
+      "globalnav-search-field[locale]": "en_US",
+      "globalnav-store-key": "S2A49YFKJF2JAT22K",
+      "viewport": "width=device-width, height=device-height, initial-scale=1, minimum-scale=1, viewport-fit=cover",
+      "globalnav-search-field[type]": "organic",
+      "globalnav-search-field[src]": "globalnav_support",
+      "globalnav-search-field[name]": "q",
+      "globalnav-search-field[page]": "search",
+      "globalnav-submenus-enabled": "false",
+      "globalnav-search-field[placeholder]": "Search Support"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Is a virtual ID acceptable if pulled over by the police? : r/maryland",
+   "htmlTitle": "Is a virtual ID acceptable if pulled over by the police? : r/maryland",
+   "link": "https://www.reddit.com/r/maryland/comments/16uqkaa/is_a_virtual_id_acceptable_if_pulled_over_by_the/",
+   "displayLink": "www.reddit.com",
+   "snippet": "Sep 28, 2023 ... \"No, Law Enforcement does not accept Maryland Mobile ID.\" \"Maryland ... r/Nevada. \u2022 2 yr. ago. Proper way to handle being pulled over by\u00a0...",
+   "htmlSnippet": "Sep 28, 2023 <b>...</b> &quot;No, <b>Law</b> Enforcement does not accept Maryland <b>Mobile ID</b>.&quot; &quot;Maryland ... r/<b>Nevada</b>. \u2022 2 yr. ago. Proper way to handle being pulled over by&nbsp;...",
+   "formattedUrl": "https://www.reddit.com/.../is_a_virtual_id_acceptable_if_pulled_over_by_t...",
+   "htmlFormattedUrl": "https://www.reddit.com/.../is_a_virtual_id_acceptable_if_pulled_over_by_t...",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:image": "https://share.redd.it/preview/post/16uqkaa",
+      "theme-color": "#000000",
+      "og:image:width": "1200",
+      "og:type": "website",
+      "og:image:alt": "An image containing a preview of the post",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "r/maryland on Reddit: Is a virtual ID acceptable if pulled over by the police?",
+      "og:site_name": "Reddit",
+      "og:title": "r/maryland on Reddit: Is a virtual ID acceptable if pulled over by the police?",
+      "og:image:height": "630",
+      "msapplication-navbutton-color": "#000000",
+      "og:description": "Posted by u/rand0m_task - 28 votes and 57 comments",
+      "twitter:image": "https://share.redd.it/preview/post/16uqkaa",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "twitter:site": "@reddit",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "apple-mobile-web-app-capable": "yes",
+      "og:ttl": "600",
+      "og:url": "https://www.reddit.com/r/maryland/comments/16uqkaa/is_a_virtual_id_acceptable_if_pulled_over_by_the/?seeker-session=true"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CURRENT STATUS OF STATE ADOPTION OF 2020 MDL 275 ...",
+   "htmlTitle": "CURRENT STATUS OF STATE ADOPTION OF 2020 <b>MDL</b> 275 ...",
+   "link": "https://nafa.com/wp-content/uploads/NAIC-Suitability-MDL-275-Adoption-Current-Status.pdf",
+   "displayLink": "nafa.com",
+   "snippet": "Apr 22, 2025 ... Nevada. Adopted. 11.15.24. November 15, 2024. NAC Chapter 688A (amended 2024) \u00b7 Appendix A \u00b7 Appendix B \u00b7 Appendix C \u00b7 NAFA comment \u00b7 12.11.23.",
+   "htmlSnippet": "Apr 22, 2025 <b>...</b> <b>Nevada</b>. Adopted. 11.15.24. November 15, 2024. NAC Chapter 688A (amended 2024) &middot; Appendix A &middot; Appendix B &middot; Appendix C &middot; NAFA comment &middot; 12.11.23.",
+   "formattedUrl": "https://nafa.com/.../NAIC-Suitability-MDL-275-Adoption-Current-Status.pd...",
+   "htmlFormattedUrl": "https://nafa.com/.../NAIC-Suitability-<b>MDL</b>-275-Adoption-Current-Status.pd...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW6Crn26jbqPoDsHBO4xJUF5wt0dfNyGsXOGIgG7oe_A_JeX-iLSGbPNG_&s",
+      "width": "197",
+      "height": "255"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20250422132503-05'00'",
+      "creationdate": "D:20250422132451-05'00'",
+      "creator": "Acrobat PDFMaker 25 for Word",
+      "sourcemodified": "D:20250422182419",
+      "author": "Lee Stiegemeier",
+      "producer": "Adobe PDF Library 25.1.211",
+      "contenttypeid": "0x0101000F436AE8FBEA664B9624BBA7315823EF"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///16671795e1a8b04fa3ce739ed1dd9f5a1ad28744858265eead63e37e9594a1cb"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

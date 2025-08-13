@@ -1,0 +1,412 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://transportation.wv.gov/dmv/ \"driver's license\" OR \"identification card\"",
+    "totalResults": "175",
+    "searchTerms": "site:https://transportation.wv.gov/dmv/ \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://transportation.wv.gov/dmv/ \"driver's license\" OR \"identification card\"",
+    "totalResults": "175",
+    "searchTerms": "site:https://transportation.wv.gov/dmv/ \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.107828,
+  "formattedSearchTime": "0.11",
+  "totalResults": "175",
+  "formattedTotalResults": "175"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "West Virginia Driver's License & ID Cards",
+   "htmlTitle": "West Virginia <b>Driver&#39;s License</b> &amp; ID Cards",
+   "link": "https://transportation.wv.gov/DMV/Drivers/Pages/Drivers-Licenses.aspx",
+   "displayLink": "transportation.wv.gov",
+   "snippet": "... driver's license issuance program, in compliance with the Real ID Act of 2005. Customers renewing or applying for a driver's license or identification card\u00a0...",
+   "htmlSnippet": "... <b>driver&#39;s license</b> issuance program, in compliance with the Real ID Act of 2005. Customers renewing or applying for a <b>driver&#39;s license</b> or <b>identification card</b>&nbsp;...",
+   "formattedUrl": "https://transportation.wv.gov/DMV/Drivers/Pages/Drivers-Licenses.aspx",
+   "htmlFormattedUrl": "https://transportation.wv.gov/DMV/Drivers/Pages/<b>Drivers-License</b>s.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLlAoDAolU1FYAYcSSSTtcTMR67qwk1fIfQIdW6Y2fUE6r1nI-j-DCGQ&s",
+      "width": "350",
+      "height": "144"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.wv.gov/images/homebkg.jpg",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Driver's Licenses and ID Cards",
+      "twitter:site": "@wvgov",
+      "viewport": "width=device-width",
+      "og:title": "Driver's Licenses and ID Cards",
+      "progid": "SharePoint.WebPartPage.Document"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.wv.gov/images/homebkg.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Application for a Driver's License or Identification Card",
+   "htmlTitle": "Application for a <b>Driver&#39;s License</b> or <b>Identification Card</b>",
+   "link": "https://transportation.wv.gov/DMV/DMVFormSearch/DMV-DS-23P_Application-for-a-Drivers-License-or-Photo-ID-Card-WF.pdf",
+   "displayLink": "transportation.wv.gov",
+   "snippet": "Eye Color. Do You Wear Corrective Lenses? Social Security Number. Daytime Phone (optional). Application for a Driver's License or Identification Card. Complete\u00a0...",
+   "htmlSnippet": "Eye Color. Do You Wear Corrective Lenses? Social Security Number. Daytime Phone (optional). Application for a <b>Driver&#39;s License</b> or <b>Identification Card</b>. Complete&nbsp;...",
+   "formattedUrl": "https://transportation.wv.gov/.../DMV-DS-23P_Application-for-a-Drivers-L...",
+   "htmlFormattedUrl": "https://transportation.wv.gov/.../DMV-DS-23P_Application-for-a-<b>Drivers-L</b>...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzz8l-bNE8xQ8mIuIIt6o8z3_kwbMVtSizfR4iBjaQuB28VV1DJtBuZ64&s",
+      "width": "201",
+      "height": "178"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20230106142105-05'00'",
+      "creationdate": "D:20180424110954-04'00'",
+      "creator": "Adobe Illustrator CC 22.0 (Macintosh)",
+      "author": "Typesetadmin",
+      "producer": "Adobe PDF library 15.00",
+      "title": "DMV-DS-23P_Application_for_DL_or_ID_-_10-16"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///fee39d91808d63a9d0321afebde0456d315b558836e5fa5ec482226f28e777c9"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "WV DMV Announces Online Driver's License Renewal",
+   "htmlTitle": "WV DMV Announces Online <b>Driver&#39;s License</b> Renewal",
+   "link": "https://transportation.wv.gov/DMV/News/Pages/WV-DMV-Announces-Online-Driver%E2%80%99s-License-Renewal.aspx",
+   "displayLink": "transportation.wv.gov",
+   "snippet": "Dec 16, 2016 ... DMV customers needing to renew their West Virginia driver's license may now do so in just a few minutes from the comfort and convenience of their own homes.",
+   "htmlSnippet": "Dec 16, 2016 <b>...</b> DMV customers needing to renew their West Virginia <b>driver&#39;s license</b> may now do so in just a few minutes from the comfort and convenience of their own homes.",
+   "formattedUrl": "https://transportation.wv.gov/.../WV-DMV-Announces-Online-Driver\u2019s-Lic...",
+   "htmlFormattedUrl": "https://transportation.wv.gov/.../WV-DMV-Announces-Online-Driver\u2019s-Lic...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLlAoDAolU1FYAYcSSSTtcTMR67qwk1fIfQIdW6Y2fUE6r1nI-j-DCGQ&s",
+      "width": "350",
+      "height": "144"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.wv.gov/images/homebkg.jpg",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "WV DMV Announces Online Driver\u2019s License Renewal",
+      "twitter:site": "@wvgov",
+      "viewport": "width=device-width",
+      "twitter:description": "Customers can \u201cSkip the Trip\u201d and renew their driver\u2019s license online",
+      "og:title": "WV DMV Announces Online Driver\u2019s License Renewal",
+      "progid": "SharePoint.WebPartPage.Document",
+      "og:description": "Customers can \u201cSkip the Trip\u201d and renew their driver\u2019s license online"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.wv.gov/images/homebkg.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "License and Renewal Fees",
+   "htmlTitle": "License and Renewal Fees",
+   "link": "https://transportation.wv.gov/DMV/Drivers/Pages/Renewal-Fees.aspx",
+   "displayLink": "transportation.wv.gov",
+   "snippet": "The DMV makes it easier for you to remember the expiration date of your driver's license or identification card. Under the \u201cDrive for Five\u201d program, all\u00a0...",
+   "htmlSnippet": "The DMV makes it easier for you to remember the expiration date of your <b>driver&#39;s license</b> or <b>identification card</b>. Under the \u201cDrive for Five\u201d program, all&nbsp;...",
+   "formattedUrl": "https://transportation.wv.gov/DMV/Drivers/Pages/Renewal-Fees.aspx",
+   "htmlFormattedUrl": "https://transportation.wv.gov/DMV/Drivers/Pages/Renewal-Fees.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLlAoDAolU1FYAYcSSSTtcTMR67qwk1fIfQIdW6Y2fUE6r1nI-j-DCGQ&s",
+      "width": "350",
+      "height": "144"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.wv.gov/images/homebkg.jpg",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "License and Renewal Fees",
+      "twitter:site": "@wvgov",
+      "viewport": "width=device-width",
+      "og:title": "License and Renewal Fees",
+      "progid": "SharePoint.WebPartPage.Document"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.wv.gov/images/homebkg.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "West Virginia Division of Motor Vehicles",
+   "htmlTitle": "West Virginia Division of Motor Vehicles",
+   "link": "https://transportation.wv.gov/DMV/Pages/default.aspx",
+   "displayLink": "transportation.wv.gov",
+   "snippet": "I Am ... \u00b7 I Drive ... \u00b7 Need to get your REAL ID driver's license? We can help! \u00b7 REAL IDs laws are now in effect. \u00b7 Latest News \u00b7 \u200bNew Registration Renewal\u00a0...",
+   "htmlSnippet": "I Am ... &middot; I Drive ... &middot; Need to get your REAL ID <b>driver&#39;s license</b>? We can help! &middot; REAL IDs laws are now in effect. &middot; Latest News &middot; \u200bNew Registration Renewal&nbsp;...",
+   "formattedUrl": "https://transportation.wv.gov/DMV/Pages/default.aspx",
+   "htmlFormattedUrl": "https://transportation.wv.gov/DMV/Pages/default.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLlAoDAolU1FYAYcSSSTtcTMR67qwk1fIfQIdW6Y2fUE6r1nI-j-DCGQ&s",
+      "width": "350",
+      "height": "144"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.wv.gov/images/homebkg.jpg",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "West Virginia Division of Motor Vehicles",
+      "twitter:site": "@wvgov",
+      "viewport": "width=device-width",
+      "og:title": "West Virginia Division of Motor Vehicles",
+      "progid": "SharePoint.WebPartPage.Document"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.wv.gov/images/homebkg.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Drivers",
+   "htmlTitle": "Drivers",
+   "link": "https://transportation.wv.gov/DMV/Drivers/Pages/default.aspx",
+   "displayLink": "transportation.wv.gov",
+   "snippet": "... driver's license...read more. How to Obtain Your Driving Record. Learn ... Organ Donor Registry. All driver's license and identification card applicants\u00a0...",
+   "htmlSnippet": "... <b>driver&#39;s license</b>...read more. How to Obtain Your Driving Record. Learn ... Organ Donor Registry. All <b>driver&#39;s license</b> and <b>identification card</b> applicants&nbsp;...",
+   "formattedUrl": "https://transportation.wv.gov/DMV/Drivers/Pages/default.aspx",
+   "htmlFormattedUrl": "https://transportation.wv.gov/DMV/Drivers/Pages/default.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLlAoDAolU1FYAYcSSSTtcTMR67qwk1fIfQIdW6Y2fUE6r1nI-j-DCGQ&s",
+      "width": "350",
+      "height": "144"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.wv.gov/images/homebkg.jpg",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Drivers",
+      "twitter:site": "@wvgov",
+      "viewport": "width=device-width",
+      "og:title": "Drivers",
+      "progid": "SharePoint.WebPartPage.Document"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.wv.gov/images/homebkg.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DMV Offers Driver's License Status Checks Online",
+   "htmlTitle": "DMV Offers <b>Driver&#39;s License</b> Status Checks Online",
+   "link": "https://transportation.wv.gov/DMV/News/Pages/DMV-Offers-Driver's-License-Status-Checks-Online.aspx",
+   "displayLink": "transportation.wv.gov",
+   "snippet": "DMV Offers Driver's License Status Checks Online ... CHARLESTON, W.Va.- Drivers in West Virginia may now check their license status online with the Division of\u00a0...",
+   "htmlSnippet": "DMV Offers <b>Driver&#39;s License</b> Status Checks Online ... CHARLESTON, W.Va.- Drivers in West Virginia may now check their license status online with the Division of&nbsp;...",
+   "formattedUrl": "https://transportation.wv.gov/.../DMV-Offers-Driver's-License-Status-Check...",
+   "htmlFormattedUrl": "https://transportation.wv.gov/.../DMV-Offers-<b>Driver&#39;s-License</b>-Status-Check...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLlAoDAolU1FYAYcSSSTtcTMR67qwk1fIfQIdW6Y2fUE6r1nI-j-DCGQ&s",
+      "width": "350",
+      "height": "144"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.wv.gov/images/homebkg.jpg",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "DMV Offers Driver's License Status Checks Online",
+      "twitter:site": "@wvgov",
+      "viewport": "width=device-width",
+      "twitter:description": "Drivers in West Virginia may now check their license status online with the Division of Motor Vehicles (DMV) at their convenience",
+      "og:title": "DMV Offers Driver's License Status Checks Online",
+      "progid": "SharePoint.WebPartPage.Document",
+      "og:description": "Drivers in West Virginia may now check their license status online with the Division of Motor Vehicles (DMV) at their convenience"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.wv.gov/images/homebkg.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DMV-123-VSL: Voluntary Surrender Letter",
+   "htmlTitle": "DMV-123-VSL: Voluntary Surrender Letter",
+   "link": "https://transportation.wv.gov/DMV/DMVFormSearch/DMV-123-VSL_Voluntary-Surrender-Letter-WF.pdf",
+   "displayLink": "transportation.wv.gov",
+   "snippet": "I surrender my Commercial Driver's License (CDL) to obtain a WV Identification Card (except as a secondary ID) and understand my driving.",
+   "htmlSnippet": "I surrender my Commercial <b>Driver&#39;s License</b> (CDL) to obtain a WV <b>Identification Card</b> (except as a secondary ID) and understand my driving.",
+   "formattedUrl": "https://transportation.wv.gov/.../DMV-123-VSL_Voluntary-Surrender-Lette...",
+   "htmlFormattedUrl": "https://transportation.wv.gov/.../DMV-123-VSL_Voluntary-Surrender-Lette...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1dok8lhmShxWyauDiW5imGKdh87nof14JKL90m4t1YPHM6IHxEh_moEk&s",
+      "width": "396",
+      "height": "127"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20230727131659-04'00'",
+      "creationdate": "D:20170928151040-04'00'",
+      "creator": "Adobe Illustrator CC 2017 (Macintosh)",
+      "subject": "Voluntary surrender of driver's license, permit, CDL, or ID card",
+      "producer": "Adobe PDF library 15.00",
+      "title": "DMV-123-VSL:  Voluntary Surrender Letter"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///2c609059a3134825b18bc142cc261d623a2371be25c5d2fc8fa3b1a48d5190c6"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "New Residents",
+   "htmlTitle": "New Residents",
+   "link": "https://transportation.wv.gov/DMV/Pages/New-Residents.aspx",
+   "displayLink": "transportation.wv.gov",
+   "snippet": "Upon obtaining a WV graduated driver's license, the driving record from the applicant's previous state or jurisdiction becomes part of their WV driving record.",
+   "htmlSnippet": "Upon obtaining a WV graduated <b>driver&#39;s license</b>, the driving record from the applicant&#39;s previous state or jurisdiction becomes part of their WV driving record.",
+   "formattedUrl": "https://transportation.wv.gov/DMV/Pages/New-Residents.aspx",
+   "htmlFormattedUrl": "https://transportation.wv.gov/DMV/Pages/New-Residents.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLlAoDAolU1FYAYcSSSTtcTMR67qwk1fIfQIdW6Y2fUE6r1nI-j-DCGQ&s",
+      "width": "350",
+      "height": "144"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.wv.gov/images/homebkg.jpg",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "New Residents",
+      "twitter:site": "@wvgov",
+      "viewport": "width=device-width",
+      "og:title": "New Residents",
+      "progid": "SharePoint.WebPartPage.Document"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.wv.gov/images/homebkg.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Military Service Member",
+   "htmlTitle": "Military Service Member",
+   "link": "https://transportation.wv.gov/DMV/Pages/veteran.aspx",
+   "displayLink": "transportation.wv.gov",
+   "snippet": "1)WV Code 17B-2-12 has language that reads \u201cThe driver's license of any person in the Armed Forces shall expire six months after the date on which the\u00a0...",
+   "htmlSnippet": "1)WV Code 17B-2-12 has language that reads \u201cThe <b>driver&#39;s license</b> of any person in the Armed Forces shall expire six months after the date on which the&nbsp;...",
+   "formattedUrl": "https://transportation.wv.gov/DMV/Pages/veteran.aspx",
+   "htmlFormattedUrl": "https://transportation.wv.gov/DMV/Pages/veteran.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLlAoDAolU1FYAYcSSSTtcTMR67qwk1fIfQIdW6Y2fUE6r1nI-j-DCGQ&s",
+      "width": "350",
+      "height": "144"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.wv.gov/images/homebkg.jpg",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Military Service Member",
+      "twitter:site": "@wvgov",
+      "viewport": "width=device-width",
+      "og:title": "Military Service Member",
+      "progid": "SharePoint.WebPartPage.Document"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.wv.gov/images/homebkg.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,295 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Arizona Revised Statutes\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "1550",
+    "searchTerms": "\"Arizona Revised Statutes\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Arizona Revised Statutes\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "1550",
+    "searchTerms": "\"Arizona Revised Statutes\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.174247,
+  "formattedSearchTime": "0.17",
+  "totalResults": "1550",
+  "formattedTotalResults": "1,550"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "HB2434 - 562R - I Ver",
+   "htmlTitle": "HB2434 - 562R - I Ver",
+   "link": "https://www.azleg.gov/legtext/56leg/2r/bills/hb2434p.htm",
+   "displayLink": "www.azleg.gov",
+   "snippet": "\"Highly restricted personal information\" means an individual's photograph or image, social security number, consular identification card number and medical or\u00a0...",
+   "htmlSnippet": "&quot;Highly restricted <b>personal information</b>&quot; <b>means</b> an individual&#39;s photograph or image, social security number, consular <b>identification card</b> number and medical or&nbsp;...",
+   "formattedUrl": "https://www.azleg.gov/legtext/56leg/2r/bills/hb2434p.htm",
+   "htmlFormattedUrl": "https://www.azleg.gov/legtext/56leg/2r/bills/hb2434p.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Department of Health Services: Bureau of Child Care ...",
+   "htmlTitle": "Arizona Department of Health Services: Bureau of Child Care ...",
+   "link": "https://www.azdhs.gov/documents/licensing/childcare-facilities/rules/bccl-child-care-facility-rules.pdf",
+   "displayLink": "www.azdhs.gov",
+   "snippet": "ARIZONA REVISED STATUTES ... \"Vehicle\" means motor vehicle as defined in A.R.S. \u00a7 28-101. 26\u00a0...",
+   "htmlSnippet": "<b>ARIZONA REVISED STATUTES</b> ... &quot;Vehicle&quot; <b>means</b> motor vehicle as <b>defined</b> in A.R.S. \u00a7 28-101. 26&nbsp;...",
+   "formattedUrl": "https://www.azdhs.gov/documents/.../bccl-child-care-facility-rules.pdf",
+   "htmlFormattedUrl": "https://www.azdhs.gov/documents/.../bccl-child-care-facility-rules.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20200805133244-07'00'",
+      "creationdate": "D:20200805133225-07'00'",
+      "creator": "Acrobat PDFMaker 20 for Word",
+      "sourcemodified": "D:20200805203211",
+      "author": "TSALOW",
+      "producer": "Adobe PDF Library 20.9.95",
+      "company": "ADHS",
+      "title": "ARTICLE 1"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Revised Statutes",
+   "htmlTitle": "<b>Arizona Revised Statutes</b>",
+   "link": "https://www.azleg.gov/arsDetail/?title=28",
+   "displayLink": "www.azleg.gov",
+   "snippet": "Nonresident daily commuter; identification card; fee ... Federal motor carrier safety administration commercial driver's license drug and alcohol clearinghouse;\u00a0...",
+   "htmlSnippet": "Nonresident daily commuter; <b>identification card</b>; fee ... Federal motor carrier safety administration commercial <b>driver&#39;s license</b> drug and alcohol clearinghouse;&nbsp;...",
+   "formattedUrl": "https://www.azleg.gov/arsDetail/?title=28",
+   "htmlFormattedUrl": "https://www.azleg.gov/arsDetail/?title=28",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ],
+    "webpage": [
+     {
+      "headline": "Arizona Revised Statutes"
+     }
+    ],
+    "wpheader": [
+     {
+      "headline": "Arizona Legislature"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ARIZONA Notary Public Reference Manual",
+   "htmlTitle": "ARIZONA Notary Public Reference Manual",
+   "link": "https://azsos.gov/sites/default/files/docs/Notary-Manual-2025-April.pdf",
+   "displayLink": "azsos.gov",
+   "snippet": "\u201cIdentification credential\u201d means an identification card or document that constitutes \u201csatisfactory evidence of identity\u201d as defined in A.R.S. \u00a7 41-255. 10\u00a0...",
+   "htmlSnippet": "\u201cIdentification credential\u201d <b>means</b> an <b>identification card</b> or document that constitutes \u201csatisfactory evidence of identity\u201d as <b>defined</b> in A.R.S. \u00a7 41-255. 10&nbsp;...",
+   "formattedUrl": "https://azsos.gov/sites/default/files/docs/Notary-Manual-2025-April.pdf",
+   "htmlFormattedUrl": "https://azsos.gov/sites/default/files/docs/Notary-Manual-2025-April.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsVfu57TEqvQZEwC6HnEQseCbWSLCJPq-xMzQF4Zi0vhKO6w1qbDJiOP5g&s",
+      "width": "225",
+      "height": "224"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20250516083104-07'00'",
+      "creationdate": "D:20250516083104-07'00'",
+      "creator": "Microsoft\u00ae Publisher for Microsoft 365",
+      "author": "Cancelosi, Scott",
+      "producer": "Microsoft\u00ae Publisher for Microsoft 365"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///5a4c1fd24d58ec3e4aeadb65546e612a899e21d3d1c41af41c09e6d076b86f88"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Revised Statutes",
+   "htmlTitle": "<b>Arizona Revised Statutes</b>",
+   "link": "https://www.azleg.gov/arsDetail/?title=13",
+   "displayLink": "www.azleg.gov",
+   "snippet": "Unlawful use of means of transportation; classification. 13-1804; Theft by ... Personal information on the internet; exception; classification; definitions.",
+   "htmlSnippet": "Unlawful use of <b>means</b> of transportation; classification. 13-1804; Theft by ... <b>Personal information</b> on the internet; exception; classification; definitions.",
+   "formattedUrl": "https://www.azleg.gov/arsDetail/?title=13",
+   "htmlFormattedUrl": "https://www.azleg.gov/arsDetail/?title=13",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ],
+    "webpage": [
+     {
+      "headline": "Arizona Revised Statutes"
+     }
+    ],
+    "wpheader": [
+     {
+      "headline": "Arizona Legislature"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Revised Statutes",
+   "htmlTitle": "<b>Arizona Revised Statutes</b>",
+   "link": "https://www.nationalnotary.org/file%20library/nna/reference-library/state-law-summaries/arizona.pdf",
+   "displayLink": "www.nationalnotary.org",
+   "snippet": "Jul 20, 2023 ... \u201cIdentification credential\u201d means an identification card or document that constitutes \u201csatisfactory evidence of identity\u201d as defined in A.R.S.\u00a0...",
+   "htmlSnippet": "Jul 20, 2023 <b>...</b> \u201cIdentification credential\u201d <b>means</b> an <b>identification card</b> or document that constitutes \u201csatisfactory evidence of identity\u201d as <b>defined</b> in A.R.S.&nbsp;...",
+   "formattedUrl": "https://www.nationalnotary.org/file%20library/nna/reference.../arizona.pdf",
+   "htmlFormattedUrl": "https://www.nationalnotary.org/file%20library/nna/reference.../arizona.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20230720073256-07'00'",
+      "creator": "Microsoft\u00ae Word for Microsoft 365",
+      "creationdate": "D:20230720073256-07'00'",
+      "author": "NNA NNA",
+      "producer": "Microsoft\u00ae Word for Microsoft 365",
+      "title": "Arizona Revised Statutes"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Revised Statutes",
+   "htmlTitle": "<b>Arizona Revised Statutes</b>",
+   "link": "https://www.azleg.gov/arsDetail/?title=32",
+   "displayLink": "www.azleg.gov",
+   "snippet": "Issuance of license and identification card; deadline for completing application; transfer of license prohibited ... License renewal; changes in personal\u00a0...",
+   "htmlSnippet": "Issuance of license and <b>identification card</b>; deadline for completing application; transfer of license prohibited ... License renewal; changes in <b>personal</b>&nbsp;...",
+   "formattedUrl": "https://www.azleg.gov/arsDetail/?title=32",
+   "htmlFormattedUrl": "https://www.azleg.gov/arsDetail/?title=32",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ],
+    "webpage": [
+     {
+      "headline": "Arizona Revised Statutes"
+     }
+    ],
+    "wpheader": [
+     {
+      "headline": "Arizona Legislature"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Section 7-205: Defensive Driving",
+   "htmlTitle": "Section 7-205: Defensive Driving",
+   "link": "https://govt.westlaw.com/azrules/Document/N3B8609609A1711EF9C6C8DC04BBC173B?viewType=FullText&originationContext=documenttoc&transitionType=DocumentItem&contextData=%28sc.Default%29",
+   "displayLink": "govt.westlaw.com",
+   "snippet": "\u201cIdentity verification questions\u201d means queries asked of a student throughout an ADM course presentation for personal information from the student participating\u00a0...",
+   "htmlSnippet": "\u201cIdentity verification questions\u201d <b>means</b> queries asked of a student throughout an ADM course presentation for <b>personal information</b> from the student participating&nbsp;...",
+   "formattedUrl": "https://govt.westlaw.com/.../N3B8609609A1711EF9C6C8DC04BBC173B?...",
+   "htmlFormattedUrl": "https://govt.westlaw.com/.../N3B8609609A1711EF9C6C8DC04BBC173B?...",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Revised Statutes Title 36. Public Health and Safety \u00a7 36 ...",
+   "htmlTitle": "<b>Arizona Revised Statutes</b> Title 36. Public Health and Safety \u00a7 36 ...",
+   "link": "https://codes.findlaw.com/az/title-36-public-health-and-safety/az-rev-st-sect-36-2801/",
+   "displayLink": "codes.findlaw.com",
+   "snippet": "(a) A violent crime as defined in \u00a7 13-901.03, subsection B, that was ... \u201cRegistry identification card\u201d means a document issued by the department\u00a0...",
+   "htmlSnippet": "(a) A violent crime as <b>defined</b> in \u00a7 13-901.03, subsection B, that was ... \u201cRegistry <b>identification card</b>\u201d <b>means</b> a document issued by the department&nbsp;...",
+   "formattedUrl": "https://codes.findlaw.com/az/title-36-public...and.../az-rev-st-sect-36-2801/",
+   "htmlFormattedUrl": "https://codes.findlaw.com/az/title-36-public...and.../az-rev-st-sect-36-2801/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuWtKEZ0kzYj6NSuZlgNrAF5XcYIi9XgsiqHcAgQHtxY18xcWZ1bDMaCM&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png",
+      "og:type": "article",
+      "og:site_name": "Findlaw",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Arizona Revised Statutes Title 36. Public Health and Safety \u00a7 36-2801 | FindLaw",
+      "apple-mobile-web-app-title": "FindLaw",
+      "og:url": "https://codes.findlaw.com/az/title-36-public-health-and-safety/az-rev-st-sect-36-2801/",
+      "og:description": "Arizona Revised Statutes Title 36. Public Health and Safety   Section 36-2801. Read the code on FindLaw"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona-2025-HB2671-Engrossed",
+   "htmlTitle": "Arizona-2025-HB2671-Engrossed",
+   "link": "https://legiscan.com/AZ/text/HB2671/id/3141664/Arizona-2025-HB2671-Engrossed.html",
+   "displayLink": "legiscan.com",
+   "snippet": "... means temporarily touching or holding a child's hand, wrist, arm, shoulder ... identification card and credit reports with assistance in interpreting\u00a0...",
+   "htmlSnippet": "... <b>means</b> temporarily touching or holding a child&#39;s hand, wrist, arm, shoulder ... <b>identification card</b> and credit reports with assistance in interpreting&nbsp;...",
+   "formattedUrl": "https://legiscan.com/AZ/text/.../id/.../Arizona-2025-HB2671-Engrossed.htm...",
+   "htmlFormattedUrl": "https://legiscan.com/AZ/text/.../id/.../Arizona-2025-HB2671-Engrossed.htm..."
+  }
+ ]
+}

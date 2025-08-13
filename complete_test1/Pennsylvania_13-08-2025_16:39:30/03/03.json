@@ -1,0 +1,694 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://www.pa.gov \"REAL ID\"",
+    "totalResults": "8980",
+    "searchTerms": "site:https://www.pa.gov \"REAL ID\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://www.pa.gov \"REAL ID\"",
+    "totalResults": "8980",
+    "searchTerms": "site:https://www.pa.gov \"REAL ID\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.137358,
+  "formattedSearchTime": "0.14",
+  "totalResults": "8980",
+  "formattedTotalResults": "8,980"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "REAL ID in Pennsylvania | Driver and Vehicle Services ...",
+   "htmlTitle": "<b>REAL ID</b> in Pennsylvania | Driver and Vehicle Services ...",
+   "link": "https://www.pa.gov/agencies/dmv/driver-services/real-id.html",
+   "displayLink": "www.pa.gov",
+   "snippet": "REAL ID is a federal law that affects how states issue driver's licenses and ID cards to be acceptable for federal purposes.",
+   "htmlSnippet": "<b>REAL ID</b> is a federal law that affects how states issue driver&#39;s licenses and ID cards to be acceptable for federal purposes.",
+   "formattedUrl": "https://www.pa.gov/agencies/dmv/driver-services/real-id.html",
+   "htmlFormattedUrl": "https://www.pa.gov/agencies/dmv/driver-services/<b>real-id</b>.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-N9jSOQzWHUvsIfZBCoEwCUW-8Pldus9zHUui_f7RpusjpkNMvcbemk7k&s",
+      "width": "279",
+      "height": "181"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "agency-content-template",
+      "og:image": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "REAL ID in Pennsylvania",
+      "copapwp-page-title": "REAL ID",
+      "twitter:url": "https://www.pa.gov/agencies/dmv/driver-services/real-id.html",
+      "copapwp-agency": "Driver and Vehicle Services",
+      "og:title": "REAL ID in Pennsylvania",
+      "og:description": "Find out what a REAL ID is, who needs one, and how to get it in Pennsylvania. Start here for everything you need to know \u2014 from eligibility to documents to how to apply.",
+      "twitter:image": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png",
+      "copapwp-description": "Find out what a REAL ID is, who needs one, and how to get it in Pennsylvania. Start here for everything you need to know \u2014 from eligibility to documents to how to apply.",
+      "copapwp-hero-description": "Starting May 7, 2025, a federally accepted form of identification \u2014 such as a REAL ID, U.S. passport, or military ID \u2014 will be required to board domestic flights and enter certain federal facilities.",
+      "twitter:site": "website",
+      "copapwp-badges": "Driver and Vehicle Services",
+      "viewport": "width=device-width, initial-scale=1",
+      "copapwp-content-type": "Agency Detail",
+      "twitter:description": "Find out what a REAL ID is, who needs one, and how to get it in Pennsylvania. Start here for everything you need to know \u2014 from eligibility to documents to how to apply.",
+      "og:url": "https://www.pa.gov/agencies/dmv/driver-services/real-id.html"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "Agencies",
+      "name": "Agencies",
+      "position": "1"
+     },
+     {
+      "item": "Driver and Vehicle Services",
+      "name": "Driver and Vehicle Services",
+      "position": "2"
+     },
+     {
+      "item": "Driver Services",
+      "name": "Driver Services",
+      "position": "3"
+     },
+     {
+      "name": "REAL ID",
+      "position": "4"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Apply for REAL ID | Commonwealth of Pennsylvania",
+   "htmlTitle": "Apply for <b>REAL ID</b> | Commonwealth of Pennsylvania",
+   "link": "https://www.pa.gov/services/dmv/apply-for-real-id.html",
+   "displayLink": "www.pa.gov",
+   "snippet": "Starting May 7, 2025, a REAL ID will be required to fly domestically or enter federal buildings. Learn how to get a Pennsylvania REAL ID and what documents\u00a0...",
+   "htmlSnippet": "Starting May 7, 2025, a <b>REAL ID</b> will be required to fly domestically or enter federal buildings. Learn how to get a Pennsylvania <b>REAL ID</b> and what documents&nbsp;...",
+   "formattedUrl": "https://www.pa.gov/services/dmv/apply-for-real-id.html",
+   "htmlFormattedUrl": "https://www.pa.gov/services/dmv/apply-for-<b>real-id</b>.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-N9jSOQzWHUvsIfZBCoEwCUW-8Pldus9zHUui_f7RpusjpkNMvcbemk7k&s",
+      "width": "279",
+      "height": "181"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "service-detail-template",
+      "og:image": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Apply for REAL ID",
+      "copapwp-service-category": "Driving & Transportation",
+      "copapwp-page-title": "Apply for REAL ID",
+      "twitter:url": "https://www.pa.gov/services/dmv/apply-for-real-id.html",
+      "copapwp-agency": "Driver and Vehicle Services",
+      "og:title": "Apply for REAL ID",
+      "copapwp-service-type": "License or Permit or Registration or Certification",
+      "og:description": "Starting May 7, 2025, a REAL ID will be required to fly domestically or enter federal buildings. Learn how to get a Pennsylvania REAL ID and what documents you need.",
+      "twitter:image": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png",
+      "copapwp-description": "Starting May 7, 2025, a REAL ID will be required to fly domestically or enter federal buildings. Learn how to get a Pennsylvania REAL ID and what documents you need.",
+      "copapwp-hero-description": "As of May 7, 2025, you need a REAL ID-compliant driver's license to fly on commercial flights within the country and to enter some federal buildings. There are specific requirements for requesting a R...",
+      "twitter:site": "website",
+      "copapwp-badges": "License or Permit or Registration or Certification;Driver and Vehicle Services;Driving & Transportation;",
+      "viewport": "width=device-width, initial-scale=1",
+      "copapwp-audience": "Driver;Resident",
+      "copapwp-content-type": "Service",
+      "twitter:description": "Starting May 7, 2025, a REAL ID will be required to fly domestically or enter federal buildings. Learn how to get a Pennsylvania REAL ID and what documents you need.",
+      "og:url": "https://www.pa.gov/services/dmv/apply-for-real-id.html"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "Services",
+      "name": "Services",
+      "position": "1"
+     },
+     {
+      "name": "Apply for REAL ID",
+      "position": "2"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "REAL ID Center Locations | Driver and Vehicle Services ...",
+   "htmlTitle": "<b>REAL ID</b> Center Locations | Driver and Vehicle Services ...",
+   "link": "https://www.pa.gov/agencies/dmv/find-a-location/real-id-center-locations.html",
+   "displayLink": "www.pa.gov",
+   "snippet": "REAL ID Centers are the fastest way to get your REAL ID. Your required documents will be verified in real-time, and your REAL ID will be issued same day.",
+   "htmlSnippet": "<b>REAL ID</b> Centers are the fastest way to get your <b>REAL ID</b>. Your required documents will be verified in real-time, and your <b>REAL ID</b> will be issued same day.",
+   "formattedUrl": "https://www.pa.gov/agencies/dmv/find-a.../real-id-center-locations.html",
+   "htmlFormattedUrl": "https://www.pa.gov/agencies/dmv/find-a.../<b>real-id</b>-center-locations.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-N9jSOQzWHUvsIfZBCoEwCUW-8Pldus9zHUui_f7RpusjpkNMvcbemk7k&s",
+      "width": "279",
+      "height": "181"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "agency-content-template",
+      "og:image": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "REAL ID Center Locations",
+      "copapwp-page-title": "Find a REAL ID Center",
+      "twitter:url": "https://www.pa.gov/agencies/dmv/find-a-location/real-id-center-locations.html",
+      "copapwp-agency": "Driver and Vehicle Services",
+      "og:title": "REAL ID Center Locations",
+      "og:description": "REAL ID Centers are the fastest way to get your REAL ID. Your required documents will be verified in real-time, and your REAL ID will be issued same day.",
+      "twitter:image": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png",
+      "copapwp-description": "REAL ID Centers are the fastest way to get your REAL ID. Your required documents will be verified in real-time, and your REAL ID will be issued same day.",
+      "copapwp-hero-description": "REAL ID Centers are the fastest way to get your REAL ID. Your required documents will be verified in real-time, and your REAL ID will be issued same day.",
+      "twitter:site": "website",
+      "copapwp-badges": "Driver and Vehicle Services",
+      "viewport": "width=device-width, initial-scale=1",
+      "copapwp-content-type": "Agency Detail",
+      "twitter:description": "REAL ID Centers are the fastest way to get your REAL ID. Your required documents will be verified in real-time, and your REAL ID will be issued same day.",
+      "og:url": "https://www.pa.gov/agencies/dmv/find-a-location/real-id-center-locations.html"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "Agencies",
+      "name": "Agencies",
+      "position": "1"
+     },
+     {
+      "item": "Driver and Vehicle Services",
+      "name": "Driver and Vehicle Services",
+      "position": "2"
+     },
+     {
+      "item": "Find a Location",
+      "name": "Find a Location",
+      "position": "3"
+     },
+     {
+      "name": "REAL ID Center Locations",
+      "position": "4"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "REAL ID Document Requirements | Driver and Vehicle Services ...",
+   "htmlTitle": "<b>REAL ID</b> Document Requirements | Driver and Vehicle Services ...",
+   "link": "https://www.pa.gov/agencies/dmv/driver-services/real-id/real-id-document-check.html",
+   "displayLink": "www.pa.gov",
+   "snippet": "If you want a REAL ID, you'll need to show documents that prove your identity, Social Security number, and Pennsylvania residency.",
+   "htmlSnippet": "If you want a <b>REAL ID</b>, you&#39;ll need to show documents that prove your identity, Social Security number, and Pennsylvania residency.",
+   "formattedUrl": "https://www.pa.gov/agencies/dmv/.../real-id/real-id-document-check.html",
+   "htmlFormattedUrl": "https://www.pa.gov/agencies/dmv/.../<b>real-id</b>/<b>real-id</b>-document-check.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-N9jSOQzWHUvsIfZBCoEwCUW-8Pldus9zHUui_f7RpusjpkNMvcbemk7k&s",
+      "width": "279",
+      "height": "181"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "agency-content-template",
+      "og:image": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "REAL ID Document Requirements",
+      "copapwp-page-title": "REAL ID Document Requirements",
+      "twitter:url": "https://www.pa.gov/agencies/dmv/driver-services/real-id/real-id-document-check.html",
+      "copapwp-agency": "Driver and Vehicle Services",
+      "og:title": "REAL ID Document Requirements",
+      "og:description": "If you want a REAL ID, you\u2019ll need to show documents that prove your identity, Social Security number, and Pennsylvania residency.",
+      "twitter:image": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png",
+      "copapwp-description": "If you want a REAL ID, you\u2019ll need to show documents that prove your identity, Social Security number, and Pennsylvania residency.",
+      "copapwp-hero-description": "REAL IDs are available in Pennsylvania. If you want a REAL ID, you\u2019ll need to show documents that prove your identity, Social Security number, and Pennsylvania residency. All documents must be origina...",
+      "twitter:site": "website",
+      "copapwp-badges": "Driver and Vehicle Services",
+      "viewport": "width=device-width, initial-scale=1",
+      "copapwp-content-type": "Agency Detail",
+      "twitter:description": "If you want a REAL ID, you\u2019ll need to show documents that prove your identity, Social Security number, and Pennsylvania residency.",
+      "og:url": "https://www.pa.gov/agencies/dmv/driver-services/real-id/real-id-document-check.html"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "Agencies",
+      "name": "Agencies",
+      "position": "1"
+     },
+     {
+      "item": "Driver and Vehicle Services",
+      "name": "Driver and Vehicle Services",
+      "position": "2"
+     },
+     {
+      "item": "Driver Services",
+      "name": "Driver Services",
+      "position": "3"
+     },
+     {
+      "item": "REAL ID",
+      "name": "REAL ID",
+      "position": "4"
+     },
+     {
+      "name": "Document Requirements",
+      "position": "5"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "REAL ID FAQs | Driver and Vehicle Services | Commonwealth of ...",
+   "htmlTitle": "<b>REAL ID</b> FAQs | Driver and Vehicle Services | Commonwealth of ...",
+   "link": "https://www.pa.gov/agencies/dmv/faqs/driver-licensing-faqs/real-id-faqs.html",
+   "displayLink": "www.pa.gov",
+   "snippet": "Starting May 7, 2025, a REAL ID, U.S. passport, or military ID will be required to board domestic flights and enter certain federal facilities.",
+   "htmlSnippet": "Starting May 7, 2025, a <b>REAL ID</b>, U.S. passport, or military ID will be required to board domestic flights and enter certain federal facilities.",
+   "formattedUrl": "https://www.pa.gov/agencies/dmv/faqs/driver-licensing.../real-id-faqs.html",
+   "htmlFormattedUrl": "https://www.pa.gov/agencies/dmv/faqs/driver-licensing.../<b>real-id</b>-faqs.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-N9jSOQzWHUvsIfZBCoEwCUW-8Pldus9zHUui_f7RpusjpkNMvcbemk7k&s",
+      "width": "279",
+      "height": "181"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "agency-content-template",
+      "og:image": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "REAL ID FAQs",
+      "copapwp-page-title": "REAL ID Frequently Asked Questions",
+      "twitter:url": "https://www.pa.gov/agencies/dmv/faqs/driver-licensing-faqs/real-id-faqs.html",
+      "copapwp-agency": "Driver and Vehicle Services",
+      "og:title": "REAL ID FAQs",
+      "og:description": "REAL ID FAQs",
+      "twitter:image": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png",
+      "copapwp-description": "Starting May 7, 2025, a REAL ID, U.S. passport, or military ID will be required to board domestic flights and enter certain federal facilities. But what does that mean for you? This page answers the m...",
+      "copapwp-hero-description": "Starting May 7, 2025, a REAL ID, U.S. passport, or military ID will be required to board domestic flights and enter certain federal facilities. But what does that mean for you? This page answers the m...",
+      "twitter:site": "website",
+      "copapwp-badges": "Driver and Vehicle Services",
+      "viewport": "width=device-width, initial-scale=1",
+      "copapwp-content-type": "Agency Detail",
+      "twitter:description": "REAL ID FAQs",
+      "og:url": "https://www.pa.gov/agencies/dmv/faqs/driver-licensing-faqs/real-id-faqs.html"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "Agencies",
+      "name": "Agencies",
+      "position": "1"
+     },
+     {
+      "item": "Driver and Vehicle Services",
+      "name": "Driver and Vehicle Services",
+      "position": "2"
+     },
+     {
+      "item": "Frequently Asked Questions",
+      "name": "Frequently Asked Questions",
+      "position": "3"
+     },
+     {
+      "item": "Driver, Licensing, and Photo ID Frequently Asked Questions",
+      "name": "Driver, Licensing, and Photo ID Frequently Asked Questions",
+      "position": "4"
+     },
+     {
+      "name": "REAL ID FAQs",
+      "position": "5"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Apply for REAL ID Pre-Verification | Commonwealth of Pennsylvania",
+   "htmlTitle": "Apply for <b>REAL ID</b> Pre-Verification | Commonwealth of Pennsylvania",
+   "link": "https://www.pa.gov/services/dmv/apply-for-real-id-pre-verification.html",
+   "displayLink": "www.pa.gov",
+   "snippet": "If you got your first PA license, permit, or ID after Sept. 2003, PennDOT may have your REAL ID documents on file. Use optional pre-verification to see if\u00a0...",
+   "htmlSnippet": "If you got your first PA license, permit, or ID after Sept. 2003, PennDOT may have your <b>REAL ID</b> documents on file. Use optional pre-verification to see if&nbsp;...",
+   "formattedUrl": "https://www.pa.gov/services/dmv/apply-for-real-id-pre-verification.html",
+   "htmlFormattedUrl": "https://www.pa.gov/services/dmv/apply-for-<b>real-id</b>-pre-verification.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-N9jSOQzWHUvsIfZBCoEwCUW-8Pldus9zHUui_f7RpusjpkNMvcbemk7k&s",
+      "width": "279",
+      "height": "181"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "service-detail-template",
+      "og:image": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Apply for REAL ID Pre-Verification",
+      "copapwp-service-category": "Driving & Transportation",
+      "copapwp-page-title": "Apply for REAL ID Pre-Verification",
+      "twitter:url": "https://www.pa.gov/services/dmv/apply-for-real-id-pre-verification.html",
+      "og:title": "Apply for REAL ID Pre-Verification",
+      "copapwp-service-type": "License or Permit or Registration or Certification",
+      "og:description": "If you got your first PA license, permit, or ID after Sept. 2003, PennDOT may have your REAL ID documents on file. Use optional pre-verification to see if you can order online.",
+      "twitter:image": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png",
+      "copapwp-description": "If you got your first PA license, permit, or ID after Sept. 2003, PennDOT may have your REAL ID documents on file. Use optional pre-verification to see if you can order online.",
+      "copapwp-hero-description": "If you received your first Pennsylvania driver\u2019s license, learner\u2019s permit, or photo ID card after September 2003, PennDOT may already have your required REAL ID documents on file. If your documents a...",
+      "twitter:site": "website",
+      "copapwp-badges": "License or Permit or Registration or Certification;Driving & Transportation;",
+      "viewport": "width=device-width, initial-scale=1",
+      "copapwp-audience": "Driver;Resident",
+      "copapwp-content-type": "Service",
+      "twitter:description": "If you got your first PA license, permit, or ID after Sept. 2003, PennDOT may have your REAL ID documents on file. Use optional pre-verification to see if you can order online.",
+      "og:url": "https://www.pa.gov/services/dmv/apply-for-real-id-pre-verification.html"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "Services",
+      "name": "Services",
+      "position": "1"
+     },
+     {
+      "name": "Apply for REAL ID Pre-Verification",
+      "position": "2"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver and Vehicle Services | Commonwealth of Pennsylvania",
+   "htmlTitle": "Driver and Vehicle Services | Commonwealth of Pennsylvania",
+   "link": "https://www.pa.gov/agencies/dmv.html",
+   "displayLink": "www.pa.gov",
+   "snippet": "Save Time: Online Options Available for Some Services. PennDOT reminds our customers that an increase in demand for REAL ID compliant products may result in\u00a0...",
+   "htmlSnippet": "Save Time: Online Options Available for Some Services. PennDOT reminds our customers that an increase in demand for <b>REAL ID</b> compliant products may result in&nbsp;...",
+   "formattedUrl": "https://www.pa.gov/agencies/dmv.html",
+   "htmlFormattedUrl": "https://www.pa.gov/agencies/dmv.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-N9jSOQzWHUvsIfZBCoEwCUW-8Pldus9zHUui_f7RpusjpkNMvcbemk7k&s",
+      "width": "279",
+      "height": "181"
+     }
+    ],
+    "imageobject": [
+     {
+      "contenturl": "https://s7d9.scene7.com/is/image/statepa/driver%20license%20center%20counter?ts=1731439281204&dpr=off"
+     },
+     {
+      "contenturl": "https://www.pa.gov/content/experience-fragments/copapwp-pagov/en/dmv/new-pa-license-plate/new-pa-license-plate/_jcr_content/root/container/columncontrol_1720854721/columControl2/image.coreimg.png/1752579699493/pa-new-license-plate-2025.png"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "agency-content-template",
+      "og:image": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Driver and Vehicle Services",
+      "copapwp-page-title": "Driver and Vehicle Services",
+      "twitter:url": "https://www.pa.gov/agencies/dmv.html",
+      "copapwp-agency": "Driver and Vehicle Services",
+      "og:title": "Driver and Vehicle Services",
+      "copapwp-agency-category": "Transportation",
+      "og:description": "Learn about Pennsylvania Driver and Vehicle Services.",
+      "twitter:image": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png",
+      "copapwp-description": "Learn about Pennsylvania Driver and Vehicle Services.",
+      "twitter:site": "website",
+      "copapwp-badges": "Transportation;Driver and Vehicle Services",
+      "featuredicon": "/content/dam/copapwp-pagov/en/agency-icons/penndot.svg",
+      "viewport": "width=device-width, initial-scale=1",
+      "copapwp-content-type": "Agency",
+      "twitter:description": "Learn about Pennsylvania Driver and Vehicle Services.",
+      "og:url": "https://www.pa.gov/agencies/dmv.html"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "Agencies",
+      "name": "Agencies",
+      "position": "1"
+     },
+     {
+      "name": "Driver and Vehicle Services",
+      "position": "2"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "PennDOT - REAL ID Document Checklist Fact Sheet",
+   "htmlTitle": "PennDOT - <b>REAL ID</b> Document Checklist Fact Sheet",
+   "link": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-fact-sheets/fs-ridc.pdf",
+   "displayLink": "www.pa.gov",
+   "snippet": "... REAL ID. The most common documents you can use to prove your identity are: If you are a U.S. citizen or lawful permanent resident, acceptable documents\u00a0...",
+   "htmlSnippet": "... <b>REAL ID</b>. The most common documents you can use to prove your identity are: If you are a U.S. citizen or lawful permanent resident, acceptable documents&nbsp;...",
+   "formattedUrl": "https://www.pa.gov/content/dam/copapwp-pagov/en/.../fs-ridc.pdf",
+   "htmlFormattedUrl": "https://www.pa.gov/content/dam/copapwp-pagov/en/.../fs-ridc.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcJRqPBmtt5_1_RCMtlh6PDP664POIFb491IjNsLYGzS1G_BU3yqmIi0fo&s",
+      "width": "197",
+      "height": "255"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20230607121750-04'00'",
+      "creationdate": "D:20230607091049-04'00'",
+      "creator": "Adobe InDesign 18.1 (Windows)",
+      "producer": "Adobe PDF Library 17.0",
+      "title": "PennDOT - REAL ID Document Checklist Fact Sheet"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///2d0d10b152f2fb8146460b40c9cd47cd3e7c72c9feb718576474b3295f1dede3"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "REAL ID Info for Non-U.S. Citizens | Driver and Vehicle Services ...",
+   "htmlTitle": "<b>REAL ID</b> Info for Non-U.S. Citizens | Driver and Vehicle Services ...",
+   "link": "https://www.pa.gov/agencies/dmv/driver-services/real-id/real-id-info-for-non-us-citizens.html",
+   "displayLink": "www.pa.gov",
+   "snippet": "If you are a lawfully present non-U.S. citizen, you are eligible to apply for a REAL ID driver's license or ID card. Read about the REAL ID application\u00a0...",
+   "htmlSnippet": "If you are a lawfully present non-U.S. citizen, you are eligible to apply for a <b>REAL ID</b> driver&#39;s license or ID card. Read about the <b>REAL ID</b> application&nbsp;...",
+   "formattedUrl": "https://www.pa.gov/agencies/.../real-id/real-id-info-for-non-us-citizens.html",
+   "htmlFormattedUrl": "https://www.pa.gov/agencies/.../<b>real-id</b>/<b>real-id</b>-info-for-non-us-citizens.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-N9jSOQzWHUvsIfZBCoEwCUW-8Pldus9zHUui_f7RpusjpkNMvcbemk7k&s",
+      "width": "279",
+      "height": "181"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "agency-content-template",
+      "og:image": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "REAL ID Info for Non-U.S. Citizens",
+      "copapwp-page-title": "REAL ID Info for Non-U.S. Citizens",
+      "twitter:url": "https://www.pa.gov/agencies/dmv/driver-services/real-id/real-id-info-for-non-us-citizens.html",
+      "copapwp-agency": "Driver and Vehicle Services",
+      "og:title": "REAL ID Info for Non-U.S. Citizens",
+      "og:description": "REAL ID Info for Non-U.S. Citizens",
+      "twitter:image": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png",
+      "copapwp-description": "If you are a lawfully present non-U.S. citizen, you are eligible to apply for a REAL ID driver's license or ID card. Read about the REAL ID application requirements for non-U.S. citizens, including ac...",
+      "copapwp-hero-description": "If you are a lawfully present non-U.S. citizen, you are eligible to apply for a REAL ID driver's license or ID card. Read about the REAL ID application requirements for non-U.S. citizens, including ac...",
+      "twitter:site": "website",
+      "copapwp-badges": "Driver and Vehicle Services",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "REAL ID Info for Non-U.S. Citizens",
+      "og:url": "https://www.pa.gov/agencies/dmv/driver-services/real-id/real-id-info-for-non-us-citizens.html"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "Agencies",
+      "name": "Agencies",
+      "position": "1"
+     },
+     {
+      "item": "Driver and Vehicle Services",
+      "name": "Driver and Vehicle Services",
+      "position": "2"
+     },
+     {
+      "item": "Driver Services",
+      "name": "Driver Services",
+      "position": "3"
+     },
+     {
+      "item": "REAL ID",
+      "name": "REAL ID",
+      "position": "4"
+     },
+     {
+      "name": "REAL ID Info for Non-U.S. Citizens",
+      "position": "5"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Renew a Driver's License | Commonwealth of Pennsylvania",
+   "htmlTitle": "Renew a Driver&#39;s License | Commonwealth of Pennsylvania",
+   "link": "https://www.pa.gov/services/dmv/renew-a-drivers-license.html",
+   "displayLink": "www.pa.gov",
+   "snippet": "On this page. On this page \u00b7 Are You In Need of REAL ID? \u00b7 Renew your license online \u00b7 In-person and by mail application process \u00b7 You will receive an invitation to\u00a0...",
+   "htmlSnippet": "On this page. On this page &middot; Are You In Need of <b>REAL ID</b>? &middot; Renew your license online &middot; In-person and by mail application process &middot; You will receive an invitation to&nbsp;...",
+   "formattedUrl": "https://www.pa.gov/services/dmv/renew-a-drivers-license.html",
+   "htmlFormattedUrl": "https://www.pa.gov/services/dmv/renew-a-drivers-license.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-N9jSOQzWHUvsIfZBCoEwCUW-8Pldus9zHUui_f7RpusjpkNMvcbemk7k&s",
+      "width": "279",
+      "height": "181"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "service-detail-template",
+      "og:image": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Renew a Driver's License",
+      "copapwp-service-category": "Driving & Transportation",
+      "copapwp-page-title": "Renew a Driver's License",
+      "twitter:url": "https://www.pa.gov/services/dmv/renew-a-drivers-license.html",
+      "copapwp-agency": "Driver and Vehicle Services",
+      "og:title": "Renew a Driver's License",
+      "copapwp-service-type": "License or Permit or Registration or Certification",
+      "og:description": "A Pennsylvania driver's license is valid for four years, expiring on the day after your birthday. PennDOT sends an invitation to renew three months prior to expiration. If there are no corrections or changes, other than a change of address, you can renew online.",
+      "twitter:image": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png",
+      "copapwp-description": "A Pennsylvania driver's license is valid for four years, expiring on the day after your birthday. PennDOT sends an invitation to renew three months prior to expiration. If there are no corrections or ...",
+      "copapwp-hero-description": "A Pennsylvania driver's license is valid for four years, expiring on the day after your birthday. PennDOT sends an invitation to renew three months prior to expiration. Residents who are 65 or older h...",
+      "twitter:site": "website",
+      "copapwp-badges": "License or Permit or Registration or Certification;Driver and Vehicle Services;Driving & Transportation;",
+      "viewport": "width=device-width, initial-scale=1",
+      "copapwp-audience": "Driver;Resident",
+      "copapwp-content-type": "Service",
+      "twitter:description": "A Pennsylvania driver's license is valid for four years, expiring on the day after your birthday. PennDOT sends an invitation to renew three months prior to expiration. If there are no corrections or changes, other than a change of address, you can renew online.",
+      "og:url": "https://www.pa.gov/services/dmv/renew-a-drivers-license.html"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "Services",
+      "name": "Services",
+      "position": "1"
+     },
+     {
+      "name": "Renew a Driver's License",
+      "position": "2"
+     }
+    ]
+   }
+  }
+ ]
+}

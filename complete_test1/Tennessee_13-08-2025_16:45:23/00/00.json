@@ -1,0 +1,515 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Tennessee\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "252000",
+    "searchTerms": "\"Tennessee\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Tennessee\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "252000",
+    "searchTerms": "\"Tennessee\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.206898,
+  "formattedSearchTime": "0.21",
+  "totalResults": "252000",
+  "formattedTotalResults": "252,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Tennessee could implement digital driver's licenses : r/nashville",
+   "htmlTitle": "<b>Tennessee</b> could implement digital driver&#39;s licenses : r/nashville",
+   "link": "https://www.reddit.com/r/nashville/comments/1ax9yi0/tennessee_could_implement_digital_drivers_licenses/",
+   "displayLink": "www.reddit.com",
+   "snippet": "Feb 22, 2024 ... CA is piloting a \"mobile driver's license\" (phone app for a digital ID) and it's open to the first 1.5mil CA residents who sign up. Soon you'll\u00a0...",
+   "htmlSnippet": "Feb 22, 2024 <b>...</b> CA is piloting a &quot;<b>mobile driver&#39;s license</b>&quot; (phone app for a <b>digital ID</b>) and it&#39;s open to the first 1.5mil CA residents who sign up. Soon you&#39;ll&nbsp;...",
+   "formattedUrl": "https://www.reddit.com/.../tennessee_could_implement_digital_drivers_lice...",
+   "htmlFormattedUrl": "https://www.reddit.com/.../<b>tennessee</b>_could_implement_<b>digital_drivers_lice</b>...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Q7BIfJfatWV1x9DSs92F_zqPz_K67RljA-i2USQ0_1qKoV5YT9LMpM2z&s",
+      "width": "318",
+      "height": "159"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://external-preview.redd.it/tennessee-could-implement-digital-drivers-licenses-v0-wAaVPQJ7khCQ5-jJ-IymDE6i6UGRl9lZvt4Z3gDXWxc.jpg?width=1080&crop=smart&auto=webp&s=4acdb959264ab555bc5b7d4a24b0c51a5a551b42",
+      "theme-color": "#000000",
+      "og:image:width": "1080",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "r/nashville on Reddit: Tennessee could implement digital driver\u2019s licenses",
+      "og:site_name": "Reddit",
+      "og:title": "r/nashville on Reddit: Tennessee could implement digital driver\u2019s licenses",
+      "og:image:height": "540",
+      "msapplication-navbutton-color": "#000000",
+      "og:description": "Posted by u/awesomo_prime - 90 votes and 49 comments",
+      "twitter:image": "https://external-preview.redd.it/tennessee-could-implement-digital-drivers-licenses-v0-wAaVPQJ7khCQ5-jJ-IymDE6i6UGRl9lZvt4Z3gDXWxc.jpg?width=1080&crop=smart&auto=webp&s=4acdb959264ab555bc5b7d4a24b0c51a5a551b42",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "twitter:site": "@reddit",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "apple-mobile-web-app-capable": "yes",
+      "og:ttl": "600",
+      "og:url": "https://www.reddit.com/r/nashville/comments/1ax9yi0/tennessee_could_implement_digital_drivers_licenses/?seeker-session=true"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://external-preview.redd.it/tennessee-could-implement-digital-drivers-licenses-v0-wAaVPQJ7khCQ5-jJ-IymDE6i6UGRl9lZvt4Z3gDXWxc.jpg?width=1080&crop=smart&auto=webp&s=4acdb959264ab555bc5b7d4a24b0c51a5a551b42"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Tennessee Mobile ID Updates",
+   "htmlTitle": "<b>Tennessee Mobile ID</b> Updates",
+   "link": "https://idscan.net/state-digital-id/tennessee-mobile-id-updates/",
+   "displayLink": "idscan.net",
+   "snippet": "These bills were proposed after the Tennessee Department of Safety began working on a mobile ID, so there may be a Tennessee digital ID rollout regardless of\u00a0...",
+   "htmlSnippet": "These bills were proposed after the <b>Tennessee</b> Department of Safety began working on a <b>mobile ID</b>, so there may be a <b>Tennessee digital ID</b> rollout regardless of&nbsp;...",
+   "formattedUrl": "https://idscan.net/state-digital-id/tennessee-mobile-id-updates/",
+   "htmlFormattedUrl": "https://idscan.net/state-<b>digital-id</b>/<b>tennessee</b>-<b>mobile-id</b>-updates/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE773kgrAvbswUkmflviHXd51XJLVEoilMAk5xVnlTs6aWo4u1jBwnfKE&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://idscan.net/wp-content/uploads/tennessee-mobile-id.jpg?lm=66A73196",
+      "og:type": "article",
+      "og:image:width": "1199",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "IDScan.net",
+      "og:title": "Tennessee Mobile ID Updates",
+      "og:image:height": "630",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://idscan.net/wp-content/uploads/cropped-idscan-identity-verification-software-icon-1-270x270.png",
+      "og:description": "Learn about the current status of the Tennessee mobile ID, and the Senate and House bills sponsored surrounding it.",
+      "article:publisher": "https://www.facebook.com/idscannet",
+      "twitter:site": "@idscan_net",
+      "article:modified_time": "2025-02-28T21:09:27+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://idscan.net/state-digital-id/tennessee-mobile-id-updates/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://idscan.net/wp-content/uploads/tennessee-mobile-id.jpg?lm=66A73196"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "IDs in Apple Wallet expected to come to Tennessee soon : r ...",
+   "htmlTitle": "IDs in Apple Wallet expected to come to <b>Tennessee</b> soon : r ...",
+   "link": "https://www.reddit.com/r/Tennessee/comments/1emnf45/ids_in_apple_wallet_expected_to_come_to_tennessee/",
+   "displayLink": "www.reddit.com",
+   "snippet": "Aug 7, 2024 ... i hope mDL's show up soon and replaces my photoshoot-declined-judgement-scene ... r/Tennessee - Tennessee doctors may soon be able to deny\u00a0...",
+   "htmlSnippet": "Aug 7, 2024 <b>...</b> i hope <b>mDL&#39;s</b> show up soon and replaces my photoshoot-declined-judgement-scene ... r/<b>Tennessee</b> - <b>Tennessee</b> doctors may soon be able to deny&nbsp;...",
+   "formattedUrl": "https://www.reddit.com/.../Tennessee/.../ids_in_apple_wallet_expected_to_c...",
+   "htmlFormattedUrl": "https://www.reddit.com/.../<b>Tennessee</b>/.../ids_in_apple_wallet_expected_to_c...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYLlwpXVX0AVrLh2bzRe3s2deVJMJ34MJ_88C6g8jrzOsKnQx676-J5Yf1&s",
+      "width": "311",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://external-preview.redd.it/ids-in-apple-wallet-expected-to-come-to-tennessee-soon-v0-yGZJ5yTzRbiaLE7qKJ7qwrOVbLEFhCQAQxaDQlBGe04.jpg?width=1080&crop=smart&auto=webp&s=c81833ff05babd0839d30330952ce9ec89a15f8c",
+      "theme-color": "#000000",
+      "og:image:width": "1080",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "r/Tennessee on Reddit: IDs in Apple Wallet expected to come to Tennessee soon",
+      "og:site_name": "Reddit",
+      "og:title": "r/Tennessee on Reddit: IDs in Apple Wallet expected to come to Tennessee soon",
+      "og:image:height": "565",
+      "msapplication-navbutton-color": "#000000",
+      "og:description": "Posted by u/stroll_on - 157 votes and 38 comments",
+      "twitter:image": "https://external-preview.redd.it/ids-in-apple-wallet-expected-to-come-to-tennessee-soon-v0-yGZJ5yTzRbiaLE7qKJ7qwrOVbLEFhCQAQxaDQlBGe04.jpg?width=1080&crop=smart&auto=webp&s=c81833ff05babd0839d30330952ce9ec89a15f8c",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "twitter:site": "@reddit",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "apple-mobile-web-app-capable": "yes",
+      "og:ttl": "600",
+      "og:url": "https://www.reddit.com/r/Tennessee/comments/1emnf45/ids_in_apple_wallet_expected_to_come_to_tennessee/?seeker-session=true"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://external-preview.redd.it/ids-in-apple-wallet-expected-to-come-to-tennessee-soon-v0-yGZJ5yTzRbiaLE7qKJ7qwrOVbLEFhCQAQxaDQlBGe04.jpg?width=1080&crop=smart&auto=webp&s=c81833ff05babd0839d30330952ce9ec89a15f8c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Tennessee - mDL Connection",
+   "htmlTitle": "<b>Tennessee</b> - <b>mDL</b> Connection",
+   "link": "https://www.mdlconnection.com/implementation-tracker-map/tennessee/",
+   "displayLink": "www.mdlconnection.com",
+   "snippet": "Tennessee. Status: Legislative and/or Study Activity. Short Description: Issued RFP is for an mDL product that complies with AAMVA guidelines and ISO/IEC\u00a0...",
+   "htmlSnippet": "<b>Tennessee</b>. Status: Legislative and/or Study Activity. Short Description: Issued RFP is for an <b>mDL</b> product that complies with AAMVA guidelines and ISO/IEC&nbsp;...",
+   "formattedUrl": "https://www.mdlconnection.com/implementation-tracker-map/tennessee/",
+   "htmlFormattedUrl": "https://www.<b>mdl</b>connection.com/implementation-tracker-map/<b>tennessee</b>/",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "mDL Connection",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "Tennessee - mDL Connection",
+      "og:locale": "en_US",
+      "twitter:label1": "Est. reading time",
+      "og:url": "https://www.mdlconnection.com/implementation-tracker-map/tennessee/",
+      "msapplication-tileimage": "https://www.mdlconnection.com/wp-content/uploads/2020/04/cropped-mDLConnection-icon@2x-270x270.png",
+      "twitter:data1": "1 minute"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "TN drivers license could soon go digital | localmemphis.com",
+   "htmlTitle": "TN drivers license could soon go digital | localmemphis.com",
+   "link": "https://www.localmemphis.com/article/money/consumer/what-is-going-into-a-new-department-of-safety-program-to-create-digital-drivers-license-in-tennessee/522-bbee1ce1-562e-43fb-b9e3-2b44a81df997",
+   "displayLink": "www.localmemphis.com",
+   "snippet": "Mar 13, 2024 ... You could soon store your drivers license on your phone, Tennessee to joins growing number of states with digital ID program. TN lawmakers\u00a0...",
+   "htmlSnippet": "Mar 13, 2024 <b>...</b> You could soon store your drivers license on your phone, <b>Tennessee</b> to joins growing number of states with <b>digital ID</b> program. TN lawmakers&nbsp;...",
+   "formattedUrl": "https://www.localmemphis.com/...digital-drivers-license...tennessee/522-bbe...",
+   "htmlFormattedUrl": "https://www.localmemphis.com/...<b>digital-drivers-license</b>...<b>tennessee</b>/522-bbe...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPZSC4dlHapKvKit-aDJ7RW6RSwK6tZ4Xxm56g1MnQkyGIuxahUN2Sn7vf&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "apple-itunes-app": "app-id=1496847369",
+      "og:image": "https://media.tegna-media.com/assets/WATN/images/b17f695d-dcda-4211-9d81-2170ce605154/b17f695d-dcda-4211-9d81-2170ce605154_1140x641.jpg",
+      "theme-color": "#d81f32",
+      "og:image:width": "1140",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "localmemphis.com",
+      "og:description": "TN lawmakers filed a bill requiring a digital license program, but emails with DOS show the bill wasn't needed, in fact a program is already in the works.",
+      "twitter:image": "https://media.tegna-media.com/assets/WATN/images/b17f695d-dcda-4211-9d81-2170ce605154/b17f695d-dcda-4211-9d81-2170ce605154_1140x641.jpg",
+      "twitter:site": "ABC24Memphis",
+      "article:content_tier": "free",
+      "og:type": "article",
+      "article:section": "localmemphis,money,consumer,local,news",
+      "twitter:title": "You could soon store your drivers license on your phone, Tennessee to joins growing number of states with digital ID program",
+      "twitter:domain": "www.localmemphis.com/",
+      "og:title": "You could soon store your drivers license on your phone, Tennessee to joins growing number of states with digital ID program",
+      "og:image:height": "641",
+      "og:article:published_time": "3/13/2024 11:49:20 AM",
+      "twitter:image:src": "https://media.tegna-media.com/assets/WATN/images/b17f695d-dcda-4211-9d81-2170ce605154/b17f695d-dcda-4211-9d81-2170ce605154_1140x641.jpg",
+      "site": "localmemphis.com",
+      "fb:app_id": "4113903171968852",
+      "viewport": "width=device-width",
+      "twitter:description": "TN lawmakers filed a bill requiring a digital license program, but emails with DOS show the bill wasn't needed, in fact a program is already in the works.",
+      "og:locale": "en_US",
+      "category": "money",
+      "og:url": "https://www.localmemphis.com/article/money/consumer/what-is-going-into-a-new-department-of-safety-program-to-create-digital-drivers-license-in-tennessee/522-bbee1ce1-562e-43fb-b9e3-2b44a81df997",
+      "article:opinion": "false"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://media.tegna-media.com/assets/WATN/images/b17f695d-dcda-4211-9d81-2170ce605154/b17f695d-dcda-4211-9d81-2170ce605154_1140x641.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Tennessee's proposed digital ID bill not necessary for mDL launch ...",
+   "htmlTitle": "<b>Tennessee&#39;s</b> proposed <b>digital ID</b> bill not necessary for <b>mDL</b> launch ...",
+   "link": "https://www.biometricupdate.com/202403/tennessees-proposed-digital-id-bill-not-necessary-for-mdl-launch",
+   "displayLink": "www.biometricupdate.com",
+   "snippet": "Mar 15, 2024 ... Article Topics. Apple | biometrics | digital ID | digital wallets | driver's license | legislation | mDL (mobile driver's license) | Tennessee\u00a0...",
+   "htmlSnippet": "Mar 15, 2024 <b>...</b> Article Topics. Apple | biometrics | <b>digital ID</b> | digital wallets | driver&#39;s license | legislation | <b>mDL</b> (<b>mobile driver&#39;s license</b>) | <b>Tennessee</b>&nbsp;...",
+   "formattedUrl": "https://www.biometricupdate.com/.../tennessees-proposed-digital-id-bill-not...",
+   "htmlFormattedUrl": "https://www.biometricupdate.com/.../<b>tennessee</b>s-proposed-<b>digital-id</b>-bill-not...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8Qmy_xtqi7R9XlKMY3X-ojyJ1uFmpF4zWkpOHyGvvKHB5ZAcibvezKac&s",
+      "width": "317",
+      "height": "159"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/06115457/mDL-mobile-drivers-license.png",
+      "theme-color": "#ffffff",
+      "og:image:width": "1024",
+      "article:published_time": "2024-03-15T19:03:45+00:00",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Biometric Update | Biometrics News, Companies and Explainers",
+      "rating": "general",
+      "msapplication-tileimage": "/favicon/ms-icon-144x144.png",
+      "og:description": "First proposed in the House and Senate earlier this year, digital ID bill SB 2661/HB 2792 may not be necessary because a program is already in motion.",
+      "twitter:creator": "@BiometricUpdate",
+      "og:image:secure_url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/06115457/mDL-mobile-drivers-license.png",
+      "article:publisher": "https://www.facebook.com/BiometricUpdate",
+      "twitter:image": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/06115457/mDL-mobile-drivers-license.png",
+      "twitter:site": "@BiometricUpdate",
+      "article:modified_time": "2024-03-15T19:11:37+00:00",
+      "msapplication-tilecolor": "#ffffff",
+      "og:type": "article",
+      "twitter:title": "Tennessee\u2019s proposed digital ID bill not necessary for mDL launch | Biometric Update",
+      "msvalidate.01": "37DAF50D768AB3DDD4F101B413D98584",
+      "author": "Bianca Gonzalez",
+      "og:title": "Tennessee\u2019s proposed digital ID bill not necessary for mDL launch | Biometric Update",
+      "og:image:height": "514",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "First proposed in the House and Senate earlier this year, digital ID bill SB 2661/HB 2792 may not be necessary because a program is already in motion.",
+      "og:locale": "en_US",
+      "og:url": "https://www.biometricupdate.com/202403/tennessees-proposed-digital-id-bill-not-necessary-for-mdl-launch"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/06115457/mDL-mobile-drivers-license.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Intestinal Inflammation Promotes MDL-1+ Osteoclast Precursor ...",
+   "htmlTitle": "Intestinal Inflammation Promotes <b>MDL</b>-1+ Osteoclast Precursor ...",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/35835390/",
+   "displayLink": "pubmed.ncbi.nlm.nih.gov",
+   "snippet": "Jul 12, 2022 ... ... MDL-1 in bone loss during IBD ... Tennessee; Veterans Affairs Tennessee Valley Healthcare System, Nashville, Tennessee.",
+   "htmlSnippet": "Jul 12, 2022 <b>...</b> ... <b>MDL</b>-1 in bone loss during IBD ... <b>Tennessee</b>; Veterans Affairs <b>Tennessee</b> Valley Healthcare System, Nashville, <b>Tennessee</b>.",
+   "formattedUrl": "https://pubmed.ncbi.nlm.nih.gov/35835390/",
+   "htmlFormattedUrl": "https://pubmed.ncbi.nlm.nih.gov/35835390/",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:image": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg",
+      "citation_publication_date": "2022",
+      "theme-color": "#20558a",
+      "twitter:card": "summary_large_image",
+      "citation_title": "Intestinal Inflammation Promotes MDL-1+ Osteoclast Precursor Expansion to Trigger Osteoclastogenesis and Bone Loss",
+      "citation_author_institution": "Department of Pathology, Microbiology, and Immunology, Vanderbilt University Medical Center, Nashville, Tennessee.",
+      "og:site_name": "PubMed",
+      "twitter:url": "https://pubmed.ncbi.nlm.nih.gov/35835390/",
+      "citation_publisher": "Cell Mol Gastroenterol Hepatol",
+      "citation_journal_title": "Cellular and molecular gastroenterology and hepatology",
+      "ncbi_pdid": "abstract",
+      "ncbi_phid": "95610001FE5DF8D500002C2D630A8277.1.m_4",
+      "og:description": "Collectively, these data implicate the pathologic expansion and altered function of OCPs expressing MDL-1 in bone loss during IBD.",
+      "ncbi_cost_center": "pubmed",
+      "og:image:secure_url": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg",
+      "twitter:image": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg",
+      "uid": "35835390",
+      "ncbi_db": "pubmed",
+      "ncbi_pinger_stat_url": "https://pubmed.ncbi.nlm.nih.gov/stat",
+      "log_category": "literature",
+      "ncbi_pinger_gtm_track": "true",
+      "citation_lastpage": "750",
+      "og:type": "website",
+      "twitter:title": "Intestinal Inflammation Promotes MDL-1+ Osteoclast Precursor Expansion to Trigger Osteoclastogenesis and Bone Loss - PubMed",
+      "handheldfriendly": "True",
+      "twitter:domain": "pubmed.ncbi.nlm.nih.gov",
+      "citation_journal_abbrev": "Cell Mol Gastroenterol Hepatol",
+      "ncbi_app": "pubmed",
+      "log_icons_present": "true",
+      "og:title": "Intestinal Inflammation Promotes MDL-1+ Osteoclast Precursor Expansion to Trigger Osteoclastogenesis and Bone Loss - PubMed",
+      "citation_author": "Christopher T Peek",
+      "log_op": "retrieve",
+      "citation_issue": "4",
+      "referrer": "origin-when-cross-origin",
+      "log_source_db": "pubmed,pmc",
+      "citation_firstpage": "731",
+      "log_displayeduids": "35835390",
+      "ncbi_uid": "35835390",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Collectively, these data implicate the pathologic expansion and altered function of OCPs expressing MDL-1 in bone loss during IBD.",
+      "mobileoptimized": "320",
+      "citation_volume": "14",
+      "og:url": "https://pubmed.ncbi.nlm.nih.gov/35835390/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Tennessee Department of Safety and Homeland Security's Driver ...",
+   "htmlTitle": "<b>Tennessee</b> Department of Safety and Homeland Security&#39;s Driver ...",
+   "link": "https://www.tn.gov/safety/news/2023/4/13/tennessee-department-of-safety-and-homeland-security-s-driver-services-mobile-units-receive-and-updated-look.html",
+   "displayLink": "www.tn.gov",
+   "snippet": "Apr 13, 2023 ... The Tennessee Department of Safety and Homeland Security's (TDOSHS) two mobile driver license units were recently rewrapped for a cleaner more, modern look.",
+   "htmlSnippet": "Apr 13, 2023 <b>...</b> The <b>Tennessee</b> Department of Safety and Homeland Security&#39;s (TDOSHS) two mobile driver license units were recently rewrapped for a cleaner more, modern look.",
+   "formattedUrl": "https://www.tn.gov/.../tennessee-department-of-safety-and-homeland-securi...",
+   "htmlFormattedUrl": "https://www.tn.gov/.../<b>tennessee</b>-department-of-safety-and-homeland-securi...",
+   "pagemap": {
+    "metatags": [
+     {
+      "pagetype": "news",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Tennessee Department of Safety and Homeland Security\u2019s Driver Services Mobile Units Receive and Updated Look",
+      "twitter:url": "https://www.tn.gov/safety/news/2023/4/13/tennessee-department-of-safety-and-homeland-security-s-driver-services-mobile-units-receive-and-updated-look.html",
+      "og:title": "Tennessee Department of Safety and Homeland Security\u2019s Driver Services Mobile Units Receive and Updated Look",
+      "newsdatetimestring": "Thursday, April 13, 2023|11:24am",
+      "filter_news": "tn:news/press-releases/safety-homeland-security",
+      "og:description": "The Tennessee Department of Safety and Homeland Security\u2019s (TDOSHS) two mobile driver license units were recently rewrapped for a cleaner more, modern look.",
+      "url": "https://www.tn.gov/safety/news/2023/4/13/tennessee-department-of-safety-and-homeland-security-s-driver-services-mobile-units-receive-and-updated-look.html",
+      "pagedepartment": "safety",
+      "pagepath": "/content/tn/safety/news/2023/4/13/tennessee-department-of-safety-and-homeland-security-s-driver-services-mobile-units-receive-and-updated-look",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "pagedivision": "news",
+      "lastmodified": "5 Jul 2023 16:18:41 CDT",
+      "twitter:description": "The Tennessee Department of Safety and Homeland Security\u2019s (TDOSHS) two mobile driver license units were recently rewrapped for a cleaner more, modern look.",
+      "og:url": "https://www.tn.gov/safety/news/2023/4/13/tennessee-department-of-safety-and-homeland-security-s-driver-services-mobile-units-receive-and-updated-look.html"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ID Card\u200b | BlueCross BlueShield of Tennessee",
+   "htmlTitle": "ID Card\u200b | BlueCross BlueShield of <b>Tennessee</b>",
+   "link": "https://member.myhealthtoolkittn.com/web/public/brands/tn/manage-your-plan/using-your-plan/id-card/",
+   "displayLink": "member.myhealthtoolkittn.com",
+   "snippet": "Your digital ID card is just as good as one you might order through the mail ... BlueCross BlueShield of Tennessee, Inc. is an independent licensee of\u00a0...",
+   "htmlSnippet": "Your <b>digital ID</b> card is just as good as one you might order through the mail ... BlueCross BlueShield of <b>Tennessee</b>, Inc. is an independent licensee of&nbsp;...",
+   "formattedUrl": "https://member.myhealthtoolkittn.com/web/public/brands/tn/.../id-card/",
+   "htmlFormattedUrl": "https://member.myhealthtoolkittn.com/web/public/brands/tn/.../id-card/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP-BQZGh2Bjo2pEYxz3r8rwhFkDNSDsEorPD_Z5AMxxMFlS1DZsCNWXbhj&s",
+      "width": "180",
+      "height": "180"
+     }
+    ],
+    "metatags": [
+     {
+      "smartbanner:button-url-apple": "https://itunes.apple.com/us/app/my-health-toolkit/id1318516799?mt=8",
+      "smartbanner:price": "FREE",
+      "smartbanner:price-suffix-google": "- In Google Play",
+      "smartbanner:button": "VIEW",
+      "smartbanner:button-url-google": "https://play.google.com/store/apps/details?id=com.bcbssc.myhealthtoolkit.mobile&hl=en",
+      "smartbanner:price-suffix-apple": "- On the App Store",
+      "branding": "tn",
+      "cobranding": "tn",
+      "smartbanner:enabled-platforms": "android,ios",
+      "smartbanner:title": "My Health Toolkit\u00ae",
+      "smartbanner:icon-google": "/web/public/resources/34beaf53-5d91-4bf1-8823-d05293b32539/mhtk-mobile-app-icon.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_J8HC1841O8UG50QSGO8C690083-34beaf53-5d91-4bf1-8823-d05293b32539-mQWo9yX",
+      "smartbanner:author": "My Health Toolkit, LLC",
+      "smartbanner:icon-apple": "/web/public/resources/34beaf53-5d91-4bf1-8823-d05293b32539/mhtk-mobile-app-icon.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_J8HC1841O8UG50QSGO8C690083-34beaf53-5d91-4bf1-8823-d05293b32539-mQWo9yX",
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://member.myhealthtoolkittn.com/web/public/resources/34beaf53-5d91-4bf1-8823-d05293b32539/mhtk-mobile-app-icon.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_J8HC1841O8UG50QSGO8C690083-34beaf53-5d91-4bf1-8823-d05293b32539-mQWo9yX"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Tennessee Proctor ID - Apps on Google Play",
+   "htmlTitle": "<b>Tennessee</b> Proctor ID - Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.tn&hl=en_US",
+   "displayLink": "play.google.com",
+   "snippet": "Proctor a Tennessee driving written test online from anywhere by using Tennessee's Proctor ID App. ... New York Mobile ID. Idemia R&D. 4.4star \u00b7 Thumbnail image.",
+   "htmlSnippet": "Proctor a <b>Tennessee</b> driving written test online from anywhere by using <b>Tennessee&#39;s</b> Proctor ID App. ... New York <b>Mobile ID</b>. Idemia R&amp;D. 4.4star &middot; Thumbnail image.",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.idemia.mobileid...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.idemia.<b>mobileid</b>...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.tn&rdid=com.idemia.mobileid.us.tn&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxxtrU_LN4pcUoYyypImI_wlhVwn9FeIk-3KDGrVsm7ESaUnrVZsN9QlPb&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/JQTnlc0unvg_usdfc1wF-LQ6xnjvQR0LKV05S9OryUINYBAoMsBiuNcSq_zxtc03MNk",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Tennessee Proctor ID - Apps on Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.tn&hl=en_US",
+      "appstore:developer_url": "https://idemia-mobile-id.com/help/proctorid/tn/android",
+      "og:title": "Tennessee Proctor ID - Apps on Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/JQTnlc0unvg_usdfc1wF-LQ6xnjvQR0LKV05S9OryUINYBAoMsBiuNcSq_zxtc03MNk=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.idemia.mobileid.us.tn",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.idemia.mobileid.us.tn",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "TN Proctor ID",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.tn&hl=en_US"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/JQTnlc0unvg_usdfc1wF-LQ6xnjvQR0LKV05S9OryUINYBAoMsBiuNcSq_zxtc03MNk"
+     }
+    ]
+   }
+  }
+ ]
+}

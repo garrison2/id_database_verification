@@ -1,0 +1,566 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:play.google.com \"Ohio\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "24",
+    "searchTerms": "site:play.google.com \"Ohio\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:play.google.com \"Ohio\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "24",
+    "searchTerms": "site:play.google.com \"Ohio\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.139615,
+  "formattedSearchTime": "0.14",
+  "totalResults": "24",
+  "formattedTotalResults": "24"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile ID Check by MD - Apps on Google Play",
+   "htmlTitle": "<b>Mobile ID</b> Check by MD - Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.mdot.mva.mobileidcheck",
+   "displayLink": "play.google.com",
+   "snippet": "Oct 17, 2024 ... ID and Digital ID Verifier App by MDOT MVA for mDL and Physical ID Verification ... \u2022 Ohio \u2022 Utah \u2022 Iowa \u2022 ...and many more as they become\u00a0...",
+   "htmlSnippet": "Oct 17, 2024 <b>...</b> ID and <b>Digital ID</b> Verifier App by MDOT MVA for <b>mDL</b> and Physical ID Verification ... \u2022 <b>Ohio</b> \u2022 Utah \u2022 Iowa \u2022 ...and many more as they become&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.mdot...mobileidcheck",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.mdot...<b>mobileid</b>check",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.mdot.mva.mobileidcheck&rdid=com.mdot.mva.mobileidcheck&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCsUar5K4Nq7816RR9WGPdIMRXjTZnDqGcXZIcqDYsn22DpvREigblp8Do&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/3ZeAj6zKj-fHfJA8mqvks57oooYgUTM5p8LJlw_MQwol42IanOImYSuH8GqoCHiYfQ",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Mobile ID Check by MD - Apps on Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.mdot.mva.mobileidcheck&hl=en_US",
+      "appstore:developer_url": "https://mva.maryland.gov/Pages/MDMobileIDBusiness.aspx",
+      "og:title": "Mobile ID Check by MD - Apps on Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/3ZeAj6zKj-fHfJA8mqvks57oooYgUTM5p8LJlw_MQwol42IanOImYSuH8GqoCHiYfQ=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.mdot.mva.mobileidcheck",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.mdot.mva.mobileidcheck",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "ID and Digital ID Verifier App by MDOT MVA for mDL and Physical ID Verification.",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.mdot.mva.mobileidcheck&hl=en_US"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/3ZeAj6zKj-fHfJA8mqvks57oooYgUTM5p8LJlw_MQwol42IanOImYSuH8GqoCHiYfQ"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "\u041f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u0432 Google Play \u2013 KOMO News Mobile",
+   "htmlTitle": "\u041f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u0432 Google Play \u2013 KOMO News Mobile",
+   "link": "https://play.google.com/store/apps/details/KOMO+News+Mobile?id=com.newssynergy.komo&hl=ru",
+   "displayLink": "play.google.com",
+   "snippet": "Jul 18, 2025 ... OHIO WX. Sinclair Broadcast Group Inc. 4,7star. \u041f\u043e\u0445\u043e\u0436\u0438\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f. arrow_forward. \u0421\u043a\u0440\u0438\u043d\u0448\u043e\u0442. Houston Chronicle News. Hearst Newspapers - LLC. 4,\u00a0...",
+   "htmlSnippet": "Jul 18, 2025 <b>...</b> <b>OHIO</b> WX. Sinclair Broadcast Group Inc. 4,7star. \u041f\u043e\u0445\u043e\u0436\u0438\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f. arrow_forward. \u0421\u043a\u0440\u0438\u043d\u0448\u043e\u0442. Houston Chronicle News. Hearst Newspapers - LLC. 4,&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details/KOMO+News+Mobile?id...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details/KOMO+News+<b>Mobile?id</b>...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.newssynergy.komo&rdid=com.newssynergy.komo&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToIehV5wmxzO9PlUl_2d4r6UiXzrH8WJMYUE9zmXa4rxViEXcJ75VuXN6e&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/7f1qjFdvSYznH8VeAZzHj1BFJLGo6bZBZsUGYOIdD94j4I5Uh90LqJKSupuKsIRQsVA",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "\u041f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u0432 Google Play \u2013 KOMO News Mobile",
+      "twitter:url": "https://play.google.com/store/apps/details/KOMO+News+Mobile?id=com.newssynergy.komo&hl=ru",
+      "appstore:developer_url": "http://www.komonews.com",
+      "og:title": "\u041f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u0432 Google Play \u2013 KOMO News Mobile",
+      "twitter:image": "https://play-lh.googleusercontent.com/7f1qjFdvSYznH8VeAZzHj1BFJLGo6bZBZsUGYOIdD94j4I5Uh90LqJKSupuKsIRQsVA=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.newssynergy.komo",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.newssynergy.komo",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "\u041f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 KOMO \u041d\u043e\u0432\u043e\u0441\u0442\u0438 Mobile \u043f\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 \u043d\u043e\u0432\u043e\u0441\u0442\u0438, \u043f\u0440\u043e\u0433\u043d\u043e\u0437 \u043f\u043e\u0433\u043e\u0434\u044b \u0438 \u0441\u043f\u043e\u0440\u0442\u0430 \u0432 \u043e\u0434\u043d\u043e \u043c\u0433\u043d\u043e\u0432\u0435\u043d\u0438\u0435.",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details/KOMO+News+Mobile?id=com.newssynergy.komo&hl=ru"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/7f1qjFdvSYznH8VeAZzHj1BFJLGo6bZBZsUGYOIdD94j4I5Uh90LqJKSupuKsIRQsVA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "KOMO News Mobile \u2013 Apps no Google Play",
+   "htmlTitle": "KOMO News Mobile \u2013 Apps no Google Play",
+   "link": "https://play.google.com/store/apps/details/KOMO+News+Mobile?id=com.newssynergy.komo&hl=pt",
+   "displayLink": "play.google.com",
+   "snippet": "OHIO WX. Sinclair Broadcast Group Inc. 4,7star. flagSinalizar como impr\u00f3prio. Google Play. Play Pass \u00b7 Play Points \u00b7 Vales de oferta \u00b7 Resgatar \u00b7 Pol\u00edtica de\u00a0...",
+   "htmlSnippet": "<b>OHIO</b> WX. Sinclair Broadcast Group Inc. 4,7star. flagSinalizar como impr\u00f3prio. Google Play. Play Pass &middot; Play Points &middot; Vales de oferta &middot; Resgatar &middot; Pol\u00edtica de&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details/KOMO+News+Mobile?id...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details/KOMO+News+<b>Mobile?id</b>...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.newssynergy.komo&rdid=com.newssynergy.komo&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToIehV5wmxzO9PlUl_2d4r6UiXzrH8WJMYUE9zmXa4rxViEXcJ75VuXN6e&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/7f1qjFdvSYznH8VeAZzHj1BFJLGo6bZBZsUGYOIdD94j4I5Uh90LqJKSupuKsIRQsVA",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "KOMO News Mobile \u2013 Apps no Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details/KOMO+News+Mobile?id=com.newssynergy.komo&hl=pt",
+      "appstore:developer_url": "http://www.komonews.com",
+      "og:title": "KOMO News Mobile \u2013 Apps no Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/7f1qjFdvSYznH8VeAZzHj1BFJLGo6bZBZsUGYOIdD94j4I5Uh90LqJKSupuKsIRQsVA=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.newssynergy.komo",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.newssynergy.komo",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "O aplicativo KOMO Mobile oferece not\u00edcias, tempo e esportes em um instante.",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details/KOMO+News+Mobile?id=com.newssynergy.komo&hl=pt"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/7f1qjFdvSYznH8VeAZzHj1BFJLGo6bZBZsUGYOIdD94j4I5Uh90LqJKSupuKsIRQsVA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "KOMO News Mobile - Google Play \u61c9\u7528\u7a0b\u5f0f",
+   "htmlTitle": "KOMO News Mobile - Google Play \u61c9\u7528\u7a0b\u5f0f",
+   "link": "https://play.google.com/store/apps/details/KOMO+News+Mobile?id=com.newssynergy.komo&hl=zh_TW",
+   "displayLink": "play.google.com",
+   "snippet": "Jul 18, 2025 ... OHIO WX. Sinclair Broadcast Group Inc. 4.6star. flag\u6aa2\u8209\u4e0d\u7576\u5167\u5bb9. Google Play. Play Pass \u00b7 Play Points \u00b7 \u79ae\u54c1\u5361 \u00b7 \u514c\u63db \u00b7 \u9000\u6b3e\u653f\u7b56. \u5152\u7ae5\u8207\u5408\u5bb6\u6b61.",
+   "htmlSnippet": "Jul 18, 2025 <b>...</b> <b>OHIO</b> WX. Sinclair Broadcast Group Inc. 4.6star. flag\u6aa2\u8209\u4e0d\u7576\u5167\u5bb9. Google Play. Play Pass &middot; Play Points &middot; \u79ae\u54c1\u5361 &middot; \u514c\u63db &middot; \u9000\u6b3e\u653f\u7b56. \u5152\u7ae5\u8207\u5408\u5bb6\u6b61.",
+   "formattedUrl": "https://play.google.com/store/apps/details/KOMO+News+Mobile?id...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details/KOMO+News+<b>Mobile?id</b>...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.newssynergy.komo&rdid=com.newssynergy.komo&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToIehV5wmxzO9PlUl_2d4r6UiXzrH8WJMYUE9zmXa4rxViEXcJ75VuXN6e&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/7f1qjFdvSYznH8VeAZzHj1BFJLGo6bZBZsUGYOIdD94j4I5Uh90LqJKSupuKsIRQsVA",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "KOMO News Mobile - Google Play \u61c9\u7528\u7a0b\u5f0f",
+      "twitter:url": "https://play.google.com/store/apps/details/KOMO+News+Mobile?id=com.newssynergy.komo&hl=zh_TW",
+      "appstore:developer_url": "http://www.komonews.com",
+      "og:title": "KOMO News Mobile - Google Play \u61c9\u7528\u7a0b\u5f0f",
+      "twitter:image": "https://play-lh.googleusercontent.com/7f1qjFdvSYznH8VeAZzHj1BFJLGo6bZBZsUGYOIdD94j4I5Uh90LqJKSupuKsIRQsVA=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.newssynergy.komo",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.newssynergy.komo",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "\u8a72KOMO\u65b0\u805e\u79fb\u52d5\u61c9\u7528\u7a0b\u5e8f\u63d0\u4f9b\u65b0\u805e\uff0c\u5929\u6c23\uff0c\u9ad4\u80b2\u5728\u77ac\u9593\u3002",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details/KOMO+News+Mobile?id=com.newssynergy.komo&hl=zh_TW"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/7f1qjFdvSYznH8VeAZzHj1BFJLGo6bZBZsUGYOIdD94j4I5Uh90LqJKSupuKsIRQsVA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "KOMO News Mobile \u2013 \u041f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u0432 Google Play",
+   "htmlTitle": "KOMO News Mobile \u2013 \u041f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u0432 Google Play",
+   "link": "https://play.google.com/store/apps/details/KOMO+News+Mobile?id=com.newssynergy.komo&hl=bg",
+   "displayLink": "play.google.com",
+   "snippet": "4,7star. \u041c\u0438\u043d\u0438\u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0435. OHIO WX. Sinclair Broadcast Group Inc. 4,7star. \u041f\u043e\u0434\u043e\u0431\u043d\u0438 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f. arrow_forward. \u041c\u0438\u043d\u0438\u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0435. Reno Gazette Journal. Gannett. 3\u00a0...",
+   "htmlSnippet": "4,7star. \u041c\u0438\u043d\u0438\u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0435. <b>OHIO</b> WX. Sinclair Broadcast Group Inc. 4,7star. \u041f\u043e\u0434\u043e\u0431\u043d\u0438 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f. arrow_forward. \u041c\u0438\u043d\u0438\u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0435. Reno Gazette Journal. Gannett. 3&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details/KOMO+News+Mobile?id...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details/KOMO+News+<b>Mobile?id</b>...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.newssynergy.komo&rdid=com.newssynergy.komo&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToIehV5wmxzO9PlUl_2d4r6UiXzrH8WJMYUE9zmXa4rxViEXcJ75VuXN6e&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/7f1qjFdvSYznH8VeAZzHj1BFJLGo6bZBZsUGYOIdD94j4I5Uh90LqJKSupuKsIRQsVA",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "KOMO News Mobile \u2013 \u041f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u0432 Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details/KOMO+News+Mobile?id=com.newssynergy.komo&hl=bg",
+      "appstore:developer_url": "http://www.komonews.com",
+      "og:title": "KOMO News Mobile \u2013 \u041f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u0432 Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/7f1qjFdvSYznH8VeAZzHj1BFJLGo6bZBZsUGYOIdD94j4I5Uh90LqJKSupuKsIRQsVA=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.newssynergy.komo",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.newssynergy.komo",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "\u041f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435\u0442\u043e \u041a\u041e\u041c\u041e News Mobile \u0434\u043e\u0441\u0442\u0430\u0432\u044f \u043d\u043e\u0432\u0438\u043d\u0438, \u0432\u0440\u0435\u043c\u0435\u0442\u043e \u0438 \u0441\u043f\u043e\u0440\u0442 \u0432 \u0435\u0434\u0438\u043d \u043c\u0438\u0433.",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details/KOMO+News+Mobile?id=com.newssynergy.komo&hl=bg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/7f1qjFdvSYznH8VeAZzHj1BFJLGo6bZBZsUGYOIdD94j4I5Uh90LqJKSupuKsIRQsVA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Tap2iD Mobile\u2122 - Apps on Google Play",
+   "htmlTitle": "Tap2iD Mobile\u2122 - Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.credenceid.phoneverifier",
+   "displayLink": "play.google.com",
+   "snippet": "Oct 26, 2024 ... Digital ID/mDL verifier app by CredenceID for mobile driver license verification. ... Ohio, and Utah. Why Tap2iD\u2122 Mobile is a Smart Choice\u00a0...",
+   "htmlSnippet": "Oct 26, 2024 <b>...</b> <b>Digital ID</b>/<b>mDL</b> verifier app by CredenceID for mobile driver license verification. ... <b>Ohio</b>, and Utah. Why Tap2iD\u2122 Mobile is a Smart Choice&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.credenceid...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.credenceid...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.credenceid.phoneverifier&rdid=com.credenceid.phoneverifier&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8qI42wxhgmVXWQyD_tb7e2DoR6II-CjRZxiZU9uIQkqlnBAi-kCbViCc&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/816pGMGCio9cvaTMv9s1TVBHuhWWdwSkLGoz_kEWRo2e92q7IrUVGP8ABOHmcfSAog",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Tap2iD Mobile\u2122 - Apps on Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.credenceid.phoneverifier&hl=en_US",
+      "appstore:developer_url": "https://www.credenceid.com/digital-id",
+      "og:title": "Tap2iD Mobile\u2122 - Apps on Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/816pGMGCio9cvaTMv9s1TVBHuhWWdwSkLGoz_kEWRo2e92q7IrUVGP8ABOHmcfSAog=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.credenceid.phoneverifier",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.credenceid.phoneverifier",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Digital ID/mDL verifier app by CredenceID for mobile driver license verification",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.credenceid.phoneverifier&hl=en_US"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/816pGMGCio9cvaTMv9s1TVBHuhWWdwSkLGoz_kEWRo2e92q7IrUVGP8ABOHmcfSAog"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "KOMO News Mobile - Google Play \uc571",
+   "htmlTitle": "KOMO News Mobile - Google Play \uc571",
+   "link": "https://play.google.com/store/apps/details/KOMO+News+Mobile?id=com.newssynergy.komo&hl=ko",
+   "displayLink": "play.google.com",
+   "snippet": "Sinclair Broadcast Group Inc\uc758 \uc571 \ub354\ubcf4\uae30 ; 3340 Weather \u00b7 4.3 ; WCYB StormTrack 5 \u00b7 4.8 ; OHIO WX \u00b7 4.7 ; WKRC WX \u00b7 4.8 ; FOX 11 Weather \u00b7 4.7\u00a0...",
+   "htmlSnippet": "Sinclair Broadcast Group Inc\uc758 \uc571 \ub354\ubcf4\uae30 ; 3340 Weather &middot; 4.3 ; WCYB StormTrack 5 &middot; 4.8 ; <b>OHIO</b> WX &middot; 4.7 ; WKRC WX &middot; 4.8 ; FOX 11 Weather &middot; 4.7&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details/KOMO+News+Mobile?id...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details/KOMO+News+<b>Mobile?id</b>...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.newssynergy.komo&rdid=com.newssynergy.komo&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToIehV5wmxzO9PlUl_2d4r6UiXzrH8WJMYUE9zmXa4rxViEXcJ75VuXN6e&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/7f1qjFdvSYznH8VeAZzHj1BFJLGo6bZBZsUGYOIdD94j4I5Uh90LqJKSupuKsIRQsVA",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "KOMO News Mobile - Google Play \uc571",
+      "twitter:url": "https://play.google.com/store/apps/details/KOMO+News+Mobile?id=com.newssynergy.komo&hl=ko",
+      "appstore:developer_url": "http://www.komonews.com",
+      "og:title": "KOMO News Mobile - Google Play \uc571",
+      "twitter:image": "https://play-lh.googleusercontent.com/7f1qjFdvSYznH8VeAZzHj1BFJLGo6bZBZsUGYOIdD94j4I5Uh90LqJKSupuKsIRQsVA=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.newssynergy.komo",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.newssynergy.komo",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "KOMO \ub274\uc2a4 \ubaa8\ubc14\uc77c \uc571\uc740 \uc21c\uc2dd\uac04\uc5d0 \ub274\uc2a4, \ub0a0\uc528, \uc2a4\ud3ec\uce20\ub97c \uc81c\uacf5\ud569\ub2c8\ub2e4.",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details/KOMO+News+Mobile?id=com.newssynergy.komo&hl=ko"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/7f1qjFdvSYznH8VeAZzHj1BFJLGo6bZBZsUGYOIdD94j4I5Uh90LqJKSupuKsIRQsVA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile ID Check by MD - Mga App sa Google Play",
+   "htmlTitle": "<b>Mobile ID</b> Check by MD - Mga App sa Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.mdot.mva.mobileidcheck&hl=fil",
+   "displayLink": "play.google.com",
+   "snippet": "Oct 17, 2024 ... \u2022 Ohio \u2022 Utah \u2022 Iowa \u2022 ...at marami pa kapag available na ang mga ... ID and Digital ID Verifier App by MDOT MVA for mDL and Physical ID\u00a0...",
+   "htmlSnippet": "Oct 17, 2024 <b>...</b> \u2022 <b>Ohio</b> \u2022 Utah \u2022 Iowa \u2022 ...at marami pa kapag available na ang mga ... ID and <b>Digital ID</b> Verifier App by MDOT MVA for <b>mDL</b> and Physical ID&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com...mobileidcheck&hl...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com...<b>mobileid</b>check&amp;hl...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.mdot.mva.mobileidcheck&rdid=com.mdot.mva.mobileidcheck&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCsUar5K4Nq7816RR9WGPdIMRXjTZnDqGcXZIcqDYsn22DpvREigblp8Do&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/3ZeAj6zKj-fHfJA8mqvks57oooYgUTM5p8LJlw_MQwol42IanOImYSuH8GqoCHiYfQ",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Mobile ID Check by MD - Mga App sa Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.mdot.mva.mobileidcheck&hl=fil",
+      "appstore:developer_url": "https://mva.maryland.gov/Pages/MDMobileIDBusiness.aspx",
+      "og:title": "Mobile ID Check by MD - Mga App sa Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/3ZeAj6zKj-fHfJA8mqvks57oooYgUTM5p8LJlw_MQwol42IanOImYSuH8GqoCHiYfQ=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.mdot.mva.mobileidcheck",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.mdot.mva.mobileidcheck",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "ID at Digital ID Verifier App ng MDOT MVA para sa mDL at Physical ID Verification.",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.mdot.mva.mobileidcheck&hl=fil"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/3ZeAj6zKj-fHfJA8mqvks57oooYgUTM5p8LJlw_MQwol42IanOImYSuH8GqoCHiYfQ"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "KOMO News Mobile \u2013 Aplikace na Google Play",
+   "htmlTitle": "KOMO News Mobile \u2013 Aplikace na Google Play",
+   "link": "https://play.google.com/store/apps/details/KOMO+News+Mobile?id=com.newssynergy.komo&hl=cs",
+   "displayLink": "play.google.com",
+   "snippet": "4,7star. Obr\u00e1zek miniatury. OHIO WX. Sinclair Broadcast Group Inc. 4,7star. Podobn\u00e9 aplikace. arrow_forward. Obr\u00e1zek miniatury. Houston Chronicle News. Hearst\u00a0...",
+   "htmlSnippet": "4,7star. Obr\u00e1zek miniatury. <b>OHIO</b> WX. Sinclair Broadcast Group Inc. 4,7star. Podobn\u00e9 aplikace. arrow_forward. Obr\u00e1zek miniatury. Houston Chronicle News. Hearst&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details/KOMO+News+Mobile?id...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details/KOMO+News+<b>Mobile?id</b>...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.newssynergy.komo&rdid=com.newssynergy.komo&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToIehV5wmxzO9PlUl_2d4r6UiXzrH8WJMYUE9zmXa4rxViEXcJ75VuXN6e&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/7f1qjFdvSYznH8VeAZzHj1BFJLGo6bZBZsUGYOIdD94j4I5Uh90LqJKSupuKsIRQsVA",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "KOMO News Mobile \u2013 Aplikace na Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details/KOMO+News+Mobile?id=com.newssynergy.komo&hl=cs",
+      "appstore:developer_url": "http://www.komonews.com",
+      "og:title": "KOMO News Mobile \u2013 Aplikace na Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/7f1qjFdvSYznH8VeAZzHj1BFJLGo6bZBZsUGYOIdD94j4I5Uh90LqJKSupuKsIRQsVA=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.newssynergy.komo",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.newssynergy.komo",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "KOMO News Mobile App p\u0159in\u00e1\u0161\u00ed zpr\u00e1vy, po\u010das\u00ed a sportu v jedin\u00e9m okam\u017eiku.",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details/KOMO+News+Mobile?id=com.newssynergy.komo&hl=cs"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/7f1qjFdvSYznH8VeAZzHj1BFJLGo6bZBZsUGYOIdD94j4I5Uh90LqJKSupuKsIRQsVA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "KOMO News Mobile - Google Play'de Uygulamalar",
+   "htmlTitle": "KOMO News Mobile - Google Play&#39;de Uygulamalar",
+   "link": "https://play.google.com/store/apps/details/KOMO+News+Mobile?id=com.newssynergy.komo&hl=tr",
+   "displayLink": "play.google.com",
+   "snippet": "4,7star. K\u00fc\u00e7\u00fck resim. OHIO WX. Sinclair Broadcast Group Inc. 4,7star. Benzer uygulamalar. arrow_forward. K\u00fc\u00e7\u00fck resim. Houston Chronicle News. Hearst Newspapers\u00a0...",
+   "htmlSnippet": "4,7star. K\u00fc\u00e7\u00fck resim. <b>OHIO</b> WX. Sinclair Broadcast Group Inc. 4,7star. Benzer uygulamalar. arrow_forward. K\u00fc\u00e7\u00fck resim. Houston Chronicle News. Hearst Newspapers&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details/KOMO+News+Mobile?id...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details/KOMO+News+<b>Mobile?id</b>...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.newssynergy.komo&rdid=com.newssynergy.komo&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToIehV5wmxzO9PlUl_2d4r6UiXzrH8WJMYUE9zmXa4rxViEXcJ75VuXN6e&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/7f1qjFdvSYznH8VeAZzHj1BFJLGo6bZBZsUGYOIdD94j4I5Uh90LqJKSupuKsIRQsVA",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "KOMO News Mobile - Google Play'de Uygulamalar",
+      "twitter:url": "https://play.google.com/store/apps/details/KOMO+News+Mobile?id=com.newssynergy.komo&hl=tr",
+      "appstore:developer_url": "http://www.komonews.com",
+      "og:title": "KOMO News Mobile - Google Play'de Uygulamalar",
+      "twitter:image": "https://play-lh.googleusercontent.com/7f1qjFdvSYznH8VeAZzHj1BFJLGo6bZBZsUGYOIdD94j4I5Uh90LqJKSupuKsIRQsVA=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.newssynergy.komo",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.newssynergy.komo",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "KOMO Haber Mobil uygulama an\u0131nda haber, hava durumu ve spor sunar.",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details/KOMO+News+Mobile?id=com.newssynergy.komo&hl=tr"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/7f1qjFdvSYznH8VeAZzHj1BFJLGo6bZBZsUGYOIdD94j4I5Uh90LqJKSupuKsIRQsVA"
+     }
+    ]
+   }
+  }
+ ]
+}

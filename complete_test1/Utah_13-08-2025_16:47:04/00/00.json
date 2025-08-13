@@ -1,0 +1,409 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Utah\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "285000",
+    "searchTerms": "\"Utah\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Utah\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "285000",
+    "searchTerms": "\"Utah\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.187729,
+  "formattedSearchTime": "0.19",
+  "totalResults": "285000",
+  "formattedTotalResults": "285,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Get Your mDL | Utah Driver License Division",
+   "htmlTitle": "Get Your <b>mDL</b> | <b>Utah</b> Driver License Division",
+   "link": "https://dld.utah.gov/mdl-registration/",
+   "displayLink": "dld.utah.gov",
+   "snippet": "Utah mDL Registration. Valid Utah driver license or Utah identification card is required. Download the app from the Apple Store, Google Play, or scan/click\u00a0...",
+   "htmlSnippet": "<b>Utah mDL</b> Registration. Valid <b>Utah</b> driver license or <b>Utah</b> identification card is required. Download the app from the Apple Store, Google Play, or scan/click&nbsp;...",
+   "formattedUrl": "https://dld.utah.gov/mdl-registration/",
+   "htmlFormattedUrl": "https://dld.<b>utah</b>.gov/<b>mdl</b>-registration/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-tileimage": "https://dld.utah.gov/wp-content/uploads/cropped-DLD-fav-icon-270x270.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "GET Mobile ID - Apps on Google Play",
+   "htmlTitle": "GET <b>Mobile ID</b> - Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.getgroupna.mdl.app.utah&hl=en_US",
+   "displayLink": "play.google.com",
+   "snippet": "Now live and in production! Utah Mobile Driver's License (mDL) in GET Mobile ID. Grab your free 6-month trial. Utah's mDL ecosystem is being built without\u00a0...",
+   "htmlSnippet": "Now live and in production! <b>Utah Mobile Driver&#39;s License</b> (<b>mDL</b>) in GET <b>Mobile ID</b>. Grab your free 6-month trial. <b>Utah&#39;s mDL</b> ecosystem is being built without&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com...mdl.app.utah&hl...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com...<b>mdl</b>.app.<b>utah</b>&amp;hl...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.getgroupna.mdl.app.utah&rdid=com.getgroupna.mdl.app.utah&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7glxYIUlaYRWNhbzycjQHwr0b6Qef3EbxURhHNPkWC81i9tqZPs2uLrs&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/SqkExWyUaNKU-BmFc0Dn1MNlc2W4G3uz4WGRbUNCEAS9J_09yUSC4nPZuyQWf1NBBg",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "GET Mobile ID - Apps on Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.getgroupna.mdl.app.utah&hl=en_US",
+      "appstore:developer_url": "https://mobiledl.us",
+      "og:title": "GET Mobile ID - Apps on Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/SqkExWyUaNKU-BmFc0Dn1MNlc2W4G3uz4WGRbUNCEAS9J_09yUSC4nPZuyQWf1NBBg=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.getgroupna.mdl.app.utah",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.getgroupna.mdl.app.utah",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Your Official Driver\u2019s License on your phone",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.getgroupna.mdl.app.utah&hl=en_US"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/SqkExWyUaNKU-BmFc0Dn1MNlc2W4G3uz4WGRbUNCEAS9J_09yUSC4nPZuyQWf1NBBg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Utah Mobile Driver License (mDL) Program",
+   "htmlTitle": "<b>Utah</b> Mobile Driver License (<b>mDL</b>) Program",
+   "link": "https://dld.utah.gov/utah-mdl/",
+   "displayLink": "dld.utah.gov",
+   "snippet": "The optional Mobile Driver License (mDL) program is managed by the Utah Department of Public Safety's Driver License Division (DLD) and provides an official\u00a0...",
+   "htmlSnippet": "The optional Mobile Driver License (<b>mDL</b>) program is managed by the <b>Utah</b> Department of Public Safety&#39;s Driver License Division (DLD) and provides an official&nbsp;...",
+   "formattedUrl": "https://dld.utah.gov/utah-mdl/",
+   "htmlFormattedUrl": "https://dld.<b>utah</b>.gov/<b>utah</b>-<b>mdl</b>/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-tileimage": "https://dld.utah.gov/wp-content/uploads/cropped-DLD-fav-icon-270x270.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Participating States and Eligible Digital IDs | Transportation Security ...",
+   "htmlTitle": "Participating States and Eligible Digital IDs | Transportation Security ...",
+   "link": "https://www.tsa.gov/digital-id/participating-states",
+   "displayLink": "www.tsa.gov",
+   "snippet": "With a mobile driver's license (mDL) or ID pass stored in your phone's ... Utah \u00b7 GET Mobile App \u00b7 Virginia \u00b7 VA MiD app \u00b7 West Virginia \u00b7 WV MiD app and Samsung\u00a0...",
+   "htmlSnippet": "With a <b>mobile driver&#39;s license</b> (<b>mDL</b>) or ID pass stored in your phone&#39;s ... <b>Utah</b> &middot; GET Mobile App &middot; Virginia &middot; VA MiD app &middot; West Virginia &middot; WV MiD app and Samsung&nbsp;...",
+   "formattedUrl": "https://www.tsa.gov/digital-id/participating-states",
+   "htmlFormattedUrl": "https://www.tsa.gov/<b>digital-id</b>/participating-states",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPmfB7IVmgDmb3IDXSU12352SHrXv5e_5i8yycsOrPNmZwXMWtBL06Rg4&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.tsa.gov/sites/default/files/2025-03/21366_graphic_tsa_open_graph_image_1200x630.jpg",
+      "og:type": "website",
+      "og:image:width": "1200",
+      "og:site_name": "U.S. Department of Homeland Security Transportation Security Administration",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+      "og:title": "Participating States and Eligible Digital IDs | Transportation Security Administration",
+      "mobileoptimized": "width",
+      "og:image:height": "630",
+      "og:image:type": "image/jpg",
+      "og:url": "https://www.tsa.gov/digital-id/participating-states",
+      "og:description": "The TSA's digital ID program allows travelers from participating states to use mobile driver's licenses or state IDs at select TSA checkpoints. These digital IDs can be added to platforms like Apple Wallet, Google Wallet, or state-specific apps. The program aims to enhance security and streamline the identity verification process. However, travelers must still carry a physical ID as a backup. You can find more details on the TSA's official page."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.tsa.gov/sites/default/files/2025-03/21366_graphic_tsa_open_graph_image_1200x630.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile USU IDs | USU",
+   "htmlTitle": "Mobile USU IDs | USU",
+   "link": "https://www.usu.edu/card/mobile-id",
+   "displayLink": "www.usu.edu",
+   "snippet": "Utah State University sites use cookies. By continuing to use this site you ... Can I still use my physical USU ID once I have created my Mobile ID? No\u00a0...",
+   "htmlSnippet": "<b>Utah</b> State University sites use cookies. By continuing to use this site you ... Can I still use my physical USU ID once I have created my <b>Mobile ID</b>? No&nbsp;...",
+   "formattedUrl": "https://www.usu.edu/card/mobile-id",
+   "htmlFormattedUrl": "https://www.usu.edu/card/<b>mobile-id</b>",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNyOwzDfhUQlrunBqqhq4M4ENPAVaxtXRufJ7sThltmRtbwACFx51yvsEe&s",
+      "width": "198",
+      "height": "254"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "/card/images/iphone-mobile-credentials.png",
+      "og:type": "website",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "author": "Utah State University",
+      "og:title": "Mobile USU IDs",
+      "language": "en",
+      "og:url": "https://www.usu.edu/card/mobile-id",
+      "og:description": "The USU ID is available to all enrolled Logan campus students. Tap your iPhone, Apple Watch, Samsung Galaxy, or other eligible Android phones at readers across campus to conveniently use your USU ID. Your USU ID acts just like your physical card and now you can add it to your preferred digital wallet."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.usu.edu/card/images/iphone-mobile-credentials.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Apple wallet ID's coming to Utah? : r/Utah",
+   "htmlTitle": "Apple wallet ID&#39;s coming to <b>Utah</b>? : r/<b>Utah</b>",
+   "link": "https://www.reddit.com/r/Utah/comments/191bggy/apple_wallet_ids_coming_to_utah/",
+   "displayLink": "www.reddit.com",
+   "snippet": "Jan 8, 2024 ... \u201cIs Apple going to start offering a mDL in Utah? Apple has ... Utah GET mobile ID (not Apple Wallet) --. AND bars can only accept if\u00a0...",
+   "htmlSnippet": "Jan 8, 2024 <b>...</b> \u201cIs Apple going to start offering a <b>mDL</b> in <b>Utah</b>? Apple has ... <b>Utah</b> GET <b>mobile ID</b> (not Apple Wallet) --. AND bars can only accept if&nbsp;...",
+   "formattedUrl": "https://www.reddit.com/r/Utah/.../apple_wallet_ids_coming_to_utah/",
+   "htmlFormattedUrl": "https://www.reddit.com/r/<b>Utah</b>/.../apple_wallet_ids_coming_to_<b>utah</b>/",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:image": "https://share.redd.it/preview/post/191bggy",
+      "theme-color": "#000000",
+      "og:image:width": "1200",
+      "og:type": "website",
+      "og:image:alt": "An image containing a preview of the post",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "r/Utah on Reddit: Apple wallet ID\u2019s coming to Utah?",
+      "og:site_name": "Reddit",
+      "og:title": "r/Utah on Reddit: Apple wallet ID\u2019s coming to Utah?",
+      "og:image:height": "630",
+      "msapplication-navbutton-color": "#000000",
+      "og:description": "Posted by u/Person_reddit - 37 votes and 27 comments",
+      "twitter:image": "https://share.redd.it/preview/post/191bggy",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "twitter:site": "@reddit",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "apple-mobile-web-app-capable": "yes",
+      "og:ttl": "600",
+      "og:url": "https://www.reddit.com/r/Utah/comments/191bggy/apple_wallet_ids_coming_to_utah/?seeker-session=true"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "U Card - The University of Utah",
+   "htmlTitle": "U Card - The University of <b>Utah</b>",
+   "link": "https://ucard.utah.edu/",
+   "displayLink": "ucard.utah.edu",
+   "snippet": "For Access to Utah Transit Authority (UTA) Services, show your Mobile ID to UTA operators. No scanning required! UCARD PHOTO UPLOADER. To upload a new photo\u00a0...",
+   "htmlSnippet": "For Access to <b>Utah</b> Transit Authority (UTA) Services, show your <b>Mobile ID</b> to UTA operators. No scanning required! UCARD PHOTO UPLOADER. To upload a new photo&nbsp;...",
+   "formattedUrl": "https://ucard.utah.edu/",
+   "htmlFormattedUrl": "https://ucard.<b>utah</b>.edu/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOJGMC1sF0bIxD7sn4MDdS_iIKPcXJYHR2FSEnTdPbKPpbEhWZCKR5PYL8&s",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://ucard.utah.edu/_resources/images/unionNew.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile IDs No Longer Accepted at Utah Liquor Stores : r/Utah",
+   "htmlTitle": "Mobile IDs No Longer Accepted at <b>Utah</b> Liquor Stores : r/<b>Utah</b>",
+   "link": "https://www.reddit.com/r/Utah/comments/1ftctue/mobile_ids_no_longer_accepted_at_utah_liquor/",
+   "displayLink": "www.reddit.com",
+   "snippet": "Oct 1, 2024 ... Somehow I must have missed this: Utah Mobile ID is LIVE! 16 upvotes \u00b7 15 comments ... These new Utah laws take effect Wednesday \u00b7 r/Utah icon. r/\u00a0...",
+   "htmlSnippet": "Oct 1, 2024 <b>...</b> Somehow I must have missed this: <b>Utah Mobile ID</b> is LIVE! 16 upvotes \u00b7 15 comments ... These new <b>Utah</b> laws take effect Wednesday &middot; r/<b>Utah</b> icon. r/&nbsp;...",
+   "formattedUrl": "https://www.reddit.com/.../Utah/.../mobile_ids_no_longer_accepted_at_utah...",
+   "htmlFormattedUrl": "https://www.reddit.com/.../<b>Utah</b>/.../<b>mobile_id</b>s_no_longer_accepted_at_<b>utah</b>...",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:image": "https://share.redd.it/preview/post/1ftctue",
+      "theme-color": "#000000",
+      "og:image:width": "1200",
+      "og:type": "website",
+      "og:image:alt": "An image containing a preview of the post",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "r/Utah on Reddit: Mobile IDs No Longer Accepted at Utah Liquor Stores",
+      "og:site_name": "Reddit",
+      "og:title": "r/Utah on Reddit: Mobile IDs No Longer Accepted at Utah Liquor Stores",
+      "og:image:height": "630",
+      "msapplication-navbutton-color": "#000000",
+      "og:description": "Posted by u/Bit_Kitchen - 39 votes and 41 comments",
+      "twitter:image": "https://share.redd.it/preview/post/1ftctue",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "twitter:site": "@reddit",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "apple-mobile-web-app-capable": "yes",
+      "og:ttl": "600",
+      "og:url": "https://www.reddit.com/r/Utah/comments/1ftctue/mobile_ids_no_longer_accepted_at_utah_liquor/?seeker-session=true"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Digital-ID | Utah Tech University",
+   "htmlTitle": "<b>Digital-ID</b> | <b>Utah</b> Tech University",
+   "link": "https://utahtech.edu/dixie-id/",
+   "displayLink": "utahtech.edu",
+   "snippet": "Your Digital-ID is a \u201cD\u201d plus your Student ID or Employee ID. Example: D00123456; Use the same password you use for Utah Tech email, computers, or Wi-Fi. New\u00a0...",
+   "htmlSnippet": "Your <b>Digital-ID</b> is a \u201cD\u201d plus your Student ID or Employee ID. Example: D00123456; Use the same password you use for <b>Utah</b> Tech email, computers, or Wi-Fi. New&nbsp;...",
+   "formattedUrl": "https://utahtech.edu/dixie-id/",
+   "htmlFormattedUrl": "https://<b>utah</b>tech.edu/dixie-id/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKsTmeZWUgVtBGs4CuU4R_MSCVk5GrFy1bfmURWdC1VQG8g-mNAyNMkHQ&s",
+      "width": "318",
+      "height": "159"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffffff",
+      "og:image": "https://utahtech.edu/wp-content/themes/dixie-state-university/assets/images/Open-Graph-copy.jpg",
+      "theme-color": "#881518",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Digital-ID | Utah Tech University",
+      "twitter:domain": "https://utahtech.edu",
+      "twitter:url": "https://utahtech.edu/dixie-id",
+      "og:title": "Digital-ID | Utah Tech University",
+      "msapplication-tileimage": "https://utahtech.edu/wp-content/themes/dixie-state-university/assets/media/favicons/ms-icon-144x144.png",
+      "msapplication-navbutton-color": "#881518",
+      "twitter:image": "https://utahtech.edu/wp-content/themes/dixie-state-university/assets/images/Open-Graph-copy.jpg",
+      "facebook-domain-verification": "sdqxvhze2fdx5rdjnezanuhd3cd0ys",
+      "apple-mobile-web-app-status-bar-style": "#881518",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:url": "https://utahtech.edu/dixie-id"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://utahtech.edu/wp-content/themes/dixie-state-university/assets/images/Open-Graph-copy.jpg"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "Home",
+      "name": "Home",
+      "position": "1"
+     },
+     {
+      "item": "Digital-ID",
+      "name": "Digital-ID",
+      "position": "2"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Somehow I must have missed this: Utah Mobile ID is LIVE! : r/Utah",
+   "htmlTitle": "Somehow I must have missed this: <b>Utah Mobile ID</b> is LIVE! : r/<b>Utah</b>",
+   "link": "https://www.reddit.com/r/Utah/comments/10h871u/somehow_i_must_have_missed_this_utah_mobile_id_is/",
+   "displayLink": "www.reddit.com",
+   "snippet": "Jan 20, 2023 ... It costs $2/yr after a 6 month trial. It will allow you to select which information to share when a business scans it. Utah mDL Registration |\u00a0...",
+   "htmlSnippet": "Jan 20, 2023 <b>...</b> It costs $2/yr after a 6 month trial. It will allow you to select which information to share when a business scans it. <b>Utah mDL</b> Registration |&nbsp;...",
+   "formattedUrl": "https://www.reddit.com/.../Utah/.../somehow_i_must_have_missed_this_uta...",
+   "htmlFormattedUrl": "https://www.reddit.com/.../<b>Utah</b>/.../somehow_i_must_have_missed_this_<b>uta</b>...",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:image": "https://share.redd.it/preview/post/10h871u",
+      "theme-color": "#000000",
+      "og:image:width": "1200",
+      "og:type": "website",
+      "og:image:alt": "An image containing a preview of the post",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "r/Utah on Reddit: Somehow I must have missed this: Utah Mobile ID is LIVE!",
+      "og:site_name": "Reddit",
+      "og:title": "r/Utah on Reddit: Somehow I must have missed this: Utah Mobile ID is LIVE!",
+      "og:image:height": "630",
+      "msapplication-navbutton-color": "#000000",
+      "og:description": "Posted by u/nildeea - 16 votes and 15 comments",
+      "twitter:image": "https://share.redd.it/preview/post/10h871u",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "twitter:site": "@reddit",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "apple-mobile-web-app-capable": "yes",
+      "og:ttl": "600",
+      "og:url": "https://www.reddit.com/r/Utah/comments/10h871u/somehow_i_must_have_missed_this_utah_mobile_id_is/?seeker-session=true"
+     }
+    ]
+   }
+  }
+ ]
+}

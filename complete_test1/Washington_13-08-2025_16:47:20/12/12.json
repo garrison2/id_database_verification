@@ -1,0 +1,374 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Revised Code of Washington\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "totalResults": "6660",
+    "searchTerms": "\"Revised Code of Washington\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Revised Code of Washington\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "totalResults": "6660",
+    "searchTerms": "\"Revised Code of Washington\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.18545,
+  "formattedSearchTime": "0.19",
+  "totalResults": "6660",
+  "formattedTotalResults": "6,660"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Chapter 42.56 RCW: PUBLIC RECORDS ACT",
+   "htmlTitle": "Chapter 42.56 RCW: PUBLIC RECORDS ACT",
+   "link": "https://app.leg.wa.gov/rcw/default.aspx?cite=42.56&full=true",
+   "displayLink": "app.leg.wa.gov",
+   "snippet": "... Revised Code of Washington that contains laws pertaining to public records. ... (B) Driver's license number or Washington identification card number;. (C)\u00a0...",
+   "htmlSnippet": "... <b>Revised Code of Washington</b> that contains laws pertaining to public records. ... (B) <b>Driver&#39;s license</b> number or Washington <b>identification card</b> number;. (C)&nbsp;...",
+   "formattedUrl": "https://app.leg.wa.gov/rcw/default.aspx?cite=42.56&full=true",
+   "htmlFormattedUrl": "https://app.leg.wa.gov/rcw/default.aspx?cite=42.56&amp;full=true",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Washington State Notary Public Guide - Introduction",
+   "htmlTitle": "Washington State Notary Public Guide - Introduction",
+   "link": "https://dol.wa.gov/media/pdf/2188/notary-handbookpdf/download?inline",
+   "displayLink": "dol.wa.gov",
+   "snippet": "Jul 1, 2018 ... o Revised Code of Washington ... (i) A passport, driver's license, or government-issued nondriver identification card, which.",
+   "htmlSnippet": "Jul 1, 2018 <b>...</b> o <b>Revised Code of Washington</b> ... (i) A passport, <b>driver&#39;s license</b>, or government-issued nondriver <b>identification card</b>, which.",
+   "formattedUrl": "https://dol.wa.gov/media/pdf/2188/notary-handbookpdf/download?inline",
+   "htmlFormattedUrl": "https://dol.wa.gov/media/pdf/2188/notary-handbookpdf/download?inline",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8CD3uy6FihJz1nJkc8m7ic8GazkfVKoTvXV0hj2_6rBPLBUGuFv6cZcw&s",
+      "width": "266",
+      "height": "190"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20200106134553-08'00'",
+      "creator": "Microsoft\u00ae Word 2013",
+      "creationdate": "D:20200106134553-08'00'",
+      "author": "Weeks, Matthew (DOL)",
+      "producer": "Microsoft\u00ae Word 2013"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///ceb64fc3b9e2db3e94d8a92e667876b2bf719a056cbc3d487c537de72fb23a65"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Chapter 46.25 RCW: UNIFORM COMMERCIAL DRIVER'S LICENSE ...",
+   "htmlTitle": "Chapter 46.25 RCW: UNIFORM COMMERCIAL <b>DRIVER&#39;S LICENSE</b> ...",
+   "link": "https://app.leg.wa.gov/rcw/default.aspx?cite=46.25&full=true",
+   "displayLink": "app.leg.wa.gov",
+   "snippet": "... Revised Code of Washington. (16) \"Out-of-service order\" means a declaration ... maintain their commercial driver's license. The legislature finds that\u00a0...",
+   "htmlSnippet": "... <b>Revised Code of Washington</b>. (16) &quot;Out-of-service order&quot; means a declaration ... <b>maintain</b> their commercial <b>driver&#39;s license</b>. The legislature finds that&nbsp;...",
+   "formattedUrl": "https://app.leg.wa.gov/rcw/default.aspx?cite=46.25&full=true",
+   "htmlFormattedUrl": "https://app.leg.wa.gov/rcw/default.aspx?cite=46.25&amp;full=true",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ignition Interlock Program BAC Devices (WAC/RCW Booklet) (9-20 ...",
+   "htmlTitle": "Ignition Interlock Program BAC Devices (WAC/RCW Booklet) (9-20 ...",
+   "link": "https://www.wsp.wa.gov/wp-content/uploads/2020/09/Ignition_Interlock_Program_BAC_Devices_WAC_Booklet_9-20-1.pdf",
+   "displayLink": "www.wsp.wa.gov",
+   "snippet": "outlined under the Revised Code of Washington or this chapter. (b) The ... driver's license. The department, upon receipt of the prescribed fee and.",
+   "htmlSnippet": "outlined under the <b>Revised Code of Washington</b> or this chapter. (b) The ... <b>driver&#39;s license</b>. The department, upon receipt of the prescribed fee and.",
+   "formattedUrl": "https://www.wsp.wa.gov/.../Ignition_Interlock_Program_BAC_Devices_W...",
+   "htmlFormattedUrl": "https://www.wsp.wa.gov/.../Ignition_Interlock_Program_BAC_Devices_W...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTubXFLlqOLMN5mxFwN2mFHRUNktQNlyKi3WBQTbzE8fmGozUT8HlyRCO8&s",
+      "width": "192",
+      "height": "263"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20200928150236-07'00'",
+      "creationdate": "D:20170327145034-07'00'",
+      "creator": "PScript5.dll Version 5.2.2",
+      "author": "WSP Documents Manager",
+      "subject": "Washington State Patrol Impaired Driving Section",
+      "producer": "Acrobat Distiller 15.0 (Windows)",
+      "title": "Ignition Interlock Program BAC Devices (WAC/RCW Booklet) (9-20 for Web)"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///b9429f458d1f513cbeecaee19c46fbeefd8271ca70c49ed4216c759dbd3243c5"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Washington Military and Veterans Benefits | The Official Army ...",
+   "htmlTitle": "Washington Military and Veterans Benefits | The Official Army ...",
+   "link": "https://myarmybenefits.us.army.mil/benefit-library/state/territory-benefits/washington",
+   "displayLink": "myarmybenefits.us.army.mil",
+   "snippet": "Mar 24, 2025 ... Washington State driver's license or ID number; Names and mailing addresses for all employers during the past 18 months, including part-time and\u00a0...",
+   "htmlSnippet": "Mar 24, 2025 <b>...</b> Washington State <b>driver&#39;s license</b> or ID number; Names and mailing addresses for all employers during the past 18 months, including part-time and&nbsp;...",
+   "formattedUrl": "https://myarmybenefits.us.army.mil/benefit-library/state/.../washington",
+   "htmlFormattedUrl": "https://myarmybenefits.us.army.mil/benefit-library/state/.../washington",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1_4En7O1Vs2LGnmDY5yGf33pXzCFOxiikieLXDgLxpKKQvQC6kWoIrERx&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-config": "/Content/images/browserconfig.xml",
+      "theme-color": "#ffffff",
+      "og:type": "website",
+      "twitter:card": "summary",
+      "twitter:title": "Washington Military and Veterans Benefits",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Find Washington military and veterans benefits information on state taxes, education, employment, parks and recreation, and VA facility locations.",
+      "og:title": "Washington Military and Veterans Benefits",
+      "og:url": "https://myarmybenefits.us.army.mil/Benefit-Library/State/Territory-Benefits/Washington",
+      "og:description": "Find Washington military and veterans benefits information on state taxes, education, employment, parks and recreation, and VA facility locations."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://myarmybenefits.us.army.mil/images/Washington/WA%20Welcome.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CHAPTER 2: Background Check Central Unit (BCCU) - Overview",
+   "htmlTitle": "CHAPTER 2: Background Check Central Unit (BCCU) - Overview",
+   "link": "https://www.dshs.wa.gov/sites/default/files/ALTSA/rcs/documents/SOP/Chapter%202%20-%20Background%20Checks.pdf",
+   "displayLink": "www.dshs.wa.gov",
+   "snippet": "Dec 14, 2023 ... 3. Requestors must check the applicant's photo identification (e.g., driver's license, government identification card [ID], tribal ID, or\u00a0...",
+   "htmlSnippet": "Dec 14, 2023 <b>...</b> 3. Requestors must check the applicant&#39;s photo identification (e.g., <b>driver&#39;s license</b>, government <b>identification card</b> [ID], tribal ID, or&nbsp;...",
+   "formattedUrl": "https://www.dshs.wa.gov/.../Chapter%202%20-%20Background%20Checks...",
+   "htmlFormattedUrl": "https://www.dshs.wa.gov/.../Chapter%202%20-%20Background%20Checks...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrrFokt5lzGhL0CCESSasyDEXQcZFeJO6ntMTde8aYXoNi72JNd0LUjmkS&s",
+      "width": "281",
+      "height": "179"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20250114093053-08'00'",
+      "creationdate": "D:20250114093046-08'00'",
+      "creator": "Acrobat PDFMaker 20 for Word",
+      "author": "Crosby, Amber  (DSHS/ALTSA/RCS)",
+      "producer": "Adobe PDF Library 20.5.28",
+      "company": "DSHS ALTSA DDA",
+      "contenttypeid": "0x010100F35EB07B97E6D04BB74E0478459B0135",
+      "order": "10800.000000"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///08bc52c8ff33f8cdc7cf1c2447109a29bf852afbdebf671814613e0ae2fa2788"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driving Record",
+   "htmlTitle": "Driving Record",
+   "link": "https://burlingtonwa.gov/DocumentCenter/View/2106",
+   "displayLink": "burlingtonwa.gov",
+   "snippet": "4. United States citizenship or lawful permanent resident status is required for appointment. 5. A valid Washington State Driver's License is required prior to\u00a0...",
+   "htmlSnippet": "4. United States citizenship or lawful permanent resident status is required for appointment. 5. A valid Washington State <b>Driver&#39;s License</b> is required prior to&nbsp;...",
+   "formattedUrl": "https://burlingtonwa.gov/DocumentCenter/View/2106",
+   "htmlFormattedUrl": "https://burlingtonwa.gov/DocumentCenter/View/2106",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsdKuv9s-eYmS8apGx_l08NXmdl1f9h4-Nm2pQqeS_jI3VNBFxzwkv0Q&s",
+      "width": "92",
+      "height": "123"
+     }
+    ],
+    "metatags": [
+     {
+      "creationdate": "D:20200212224300",
+      "creator": "City of Burlington",
+      "author": "Preferred Customer",
+      "producer": "City of Burlington",
+      "title": "Driving Record"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///0e9daefa56bf21dedf08b9cf9736f7dd63892a5cf147ca73afd3afe008e4874b"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Spokane Municipal Code - Section 10.34A.050: For-Hire Driver ...",
+   "htmlTitle": "Spokane Municipal Code - Section 10.34A.050: For-Hire Driver ...",
+   "link": "https://my.spokanecity.org/smc/?Section=10.34A.050",
+   "displayLink": "my.spokanecity.org",
+   "snippet": "Driving while driver's license suspended or revoked (RCW 46.20.342 or 46.20.345);. Negligent driving \u2013 first degree (RCW 46.61.5249);.",
+   "htmlSnippet": "Driving while <b>driver&#39;s license</b> suspended or revoked (RCW 46.20.342 or 46.20.345);. Negligent driving \u2013 first degree (RCW 46.61.5249);.",
+   "formattedUrl": "https://my.spokanecity.org/smc/?Section=10.34A.050",
+   "htmlFormattedUrl": "https://my.spokanecity.org/smc/?Section=10.34A.050",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGG-_9EvatRa5j5xf6ZodzM275xMyCmiNKKO52cvU8ptiqNNdN5v4iXlVE&s",
+      "width": "284",
+      "height": "177"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://static.spokanecity.org/photos/2015/06/11/clock-tower-and-pavilion/16x10/Full/clock-tower-and-pavilion.jpg",
+      "article:published_time": "2025-08-08T13:51:18Z",
+      "og:image:width": "1920",
+      "og:title": "Municipal Code",
+      "og:image:height": "1200",
+      "og:url": "https://my.spokanecity.org/smc/?Section=10.34A.050",
+      "og:description": "No description is available."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://static.spokanecity.org/photos/2015/06/11/clock-tower-and-pavilion/16x10/Full/clock-tower-and-pavilion.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DOUGLAS COUNTY ADMINISTRATION & HUMAN RESOURCES ...",
+   "htmlTitle": "DOUGLAS COUNTY ADMINISTRATION &amp; HUMAN RESOURCES ...",
+   "link": "https://douglascountywa.net/DocumentCenter/View/8170",
+   "displayLink": "douglascountywa.net",
+   "snippet": "Valid Washington State Driver's License. \u2022 A background security check will be required if a job offer is made. CLOSING STATEMENT. This job description does not\u00a0...",
+   "htmlSnippet": "Valid Washington State <b>Driver&#39;s License</b>. \u2022 A background security check will be required if a job offer is made. CLOSING STATEMENT. This job description does not&nbsp;...",
+   "formattedUrl": "https://douglascountywa.net/DocumentCenter/View/8170",
+   "htmlFormattedUrl": "https://douglascountywa.net/DocumentCenter/View/8170",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlvxcBOnMsywFF2vzlbjS9fpYS-4tSyVgRNl1wacgN7KvvPMEKxzsGIts&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20240417084837-07'00'",
+      "creationdate": "D:20240417084837-07'00'",
+      "author": "Paige Scott (x6550)",
+      "producer": "Microsoft: Print To PDF",
+      "title": "Microsoft Word - Deputy Clerk of the Board"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///68ac1d5223a10cdefb66c3fba8d3607827b48a8b57f62c564fc9d6a83f4c97b7"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "FAQs \u2022 Are Jurors compensated?",
+   "htmlTitle": "FAQs \u2022 Are Jurors compensated?",
+   "link": "https://snohomishcountywa.gov/Faq.aspx?QID=1363",
+   "displayLink": "snohomishcountywa.gov",
+   "snippet": "... (Revised Code of Washington {RCW} 2.36.165). If you need jury service verification ... identification card holders' list. The law requires a fair cross\u00a0...",
+   "htmlSnippet": "... (<b>Revised Code of Washington</b> {RCW} 2.36.165). If you need jury service <b>verification</b> ... <b>identification card</b> holders&#39; list. The law requires a fair cross&nbsp;...",
+   "formattedUrl": "https://snohomishcountywa.gov/Faq.aspx?QID=1363",
+   "htmlFormattedUrl": "https://snohomishcountywa.gov/Faq.aspx?QID=1363",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaiXYIc9I34JshrvXQEevNDrqY56HUmZ1967jEYlM-I5wECf2S5J56mYk&s",
+      "width": "335",
+      "height": "150"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#f1f1f1",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://snohomishcountywa.gov/ImageRepository/Document?documentID=54781"
+     }
+    ]
+   }
+  }
+ ]
+}

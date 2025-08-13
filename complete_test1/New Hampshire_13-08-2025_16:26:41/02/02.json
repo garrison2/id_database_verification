@@ -1,0 +1,558 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://www.dmv.nh.gov/ \"driver's license\" OR \"identification card\"",
+    "totalResults": "237",
+    "searchTerms": "site:https://www.dmv.nh.gov/ \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://www.dmv.nh.gov/ \"driver's license\" OR \"identification card\"",
+    "totalResults": "237",
+    "searchTerms": "site:https://www.dmv.nh.gov/ \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.192095,
+  "formattedSearchTime": "0.19",
+  "totalResults": "237",
+  "formattedTotalResults": "237"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Apply For Your First Drivers License/Non Driver ID | NH Division of ...",
+   "htmlTitle": "Apply For Your First Drivers License/Non Driver ID | NH Division of ...",
+   "link": "https://www.dmv.nh.gov/drivers-licensenon-driver-ids/apply-your-first-drivers-licensenon-driver-id",
+   "displayLink": "www.dmv.nh.gov",
+   "snippet": "These fraudulent messages falsely claim that your New Hampshire driver's license will be suspended due to a traffic violation. ... You will be issued a 60-day,\u00a0...",
+   "htmlSnippet": "These fraudulent messages falsely claim that your New Hampshire <b>driver&#39;s license</b> will be suspended due to a traffic violation. ... You will be issued a 60-day,&nbsp;...",
+   "formattedUrl": "https://www.dmv.nh.gov/drivers-licensenon.../apply-your-first-drivers-licen...",
+   "htmlFormattedUrl": "https://www.dmv.nh.gov/<b>drivers-license</b>non.../apply-your-first-<b>drivers-licen</b>...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS_tCew8rCHwfMAJv28QqUaUYcCImPgIJMNhHEynzazA81G55y_iMz2cA&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "postaladdress": [
+     {
+      "telephone": "1-800-735-2964"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Apply For Your First Drivers License/Non Driver ID",
+      "theme-color": "#2f5a8e",
+      "og:site_name": "NH Division of Motor Vehicles",
+      "twitter:site:id": "908050104879370240",
+      "handheldfriendly": "true",
+      "twitter:url": "https://www.dmv.nh.gov/drivers-licensenon-driver-ids/apply-your-first-drivers-licensenon-driver-id",
+      "og:title": "Apply For Your First Drivers License/Non Driver ID",
+      "twitter:image": "https://www.dmv.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png",
+      "twitter:image:alt": "New Hampshire Department of Motor Vehicles",
+      "twitter:site": "@NH_DMV",
+      "news_keywords": "dmv, motor, vehicles, safety, new hampshire, nh",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width",
+      "og:url": "https://www.dmv.nh.gov/drivers-licensenon-driver-ids/apply-your-first-drivers-licensenon-driver-id"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Non-US Citizen | NH Division of Motor Vehicles",
+   "htmlTitle": "Non-US Citizen | NH Division of Motor Vehicles",
+   "link": "https://www.dmv.nh.gov/drivers-licensenon-driver-ids/non-us-citizen",
+   "displayLink": "www.dmv.nh.gov",
+   "snippet": "These fraudulent messages falsely claim that your New Hampshire driver's license will be suspended due to a traffic violation. ... Identification Card. If\u00a0...",
+   "htmlSnippet": "These fraudulent messages falsely claim that your New Hampshire <b>driver&#39;s license</b> will be suspended due to a traffic violation. ... <b>Identification Card</b>. If&nbsp;...",
+   "formattedUrl": "https://www.dmv.nh.gov/drivers-licensenon-driver-ids/non-us-citizen",
+   "htmlFormattedUrl": "https://www.dmv.nh.gov/<b>drivers-license</b>non-driver-ids/non-us-citizen",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS_tCew8rCHwfMAJv28QqUaUYcCImPgIJMNhHEynzazA81G55y_iMz2cA&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "postaladdress": [
+     {
+      "telephone": "1-800-735-2964"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Non-US Citizen",
+      "theme-color": "#2f5a8e",
+      "og:site_name": "NH Division of Motor Vehicles",
+      "twitter:site:id": "908050104879370240",
+      "handheldfriendly": "true",
+      "twitter:url": "https://www.dmv.nh.gov/drivers-licensenon-driver-ids/non-us-citizen",
+      "og:title": "Non-US Citizen",
+      "og:description": "Original Driver License or Non Driver Identification Requirements for an Original Driver License or Non Driver Identification will depend on the driver's status in the country and length of stay. Please see the tabs below for specific information for Permanent Residents, Asylees, Refugees, and Work Authorization Card Holders, as well as applicants Temporarily Residing in New Hampshire. All applicants should be aware of the following:",
+      "twitter:image": "https://www.dmv.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png",
+      "twitter:image:alt": "New Hampshire Department of Motor Vehicles",
+      "twitter:site": "@NH_DMV",
+      "news_keywords": "dmv, motor, vehicles, safety, new hampshire, nh",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Original Driver License or Non Driver Identification Requirements for an Original Driver License or Non Driver Identification will depend on the driver's status in the country and length of stay. Please see the tabs below for specific information for Permanent Residents, Asylees, Refugees, and Work Authorization Card Holders, as well as applicants Temporarily Residing in New Hampshire. All applicants should be aware of the following:",
+      "mobileoptimized": "width",
+      "og:url": "https://www.dmv.nh.gov/drivers-licensenon-driver-ids/non-us-citizen"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Update Personal Information | NH Division of Motor Vehicles",
+   "htmlTitle": "Update Personal Information | NH Division of Motor Vehicles",
+   "link": "https://www.dmv.nh.gov/drivers-licensenon-driver-ids/update-personal-information",
+   "displayLink": "www.dmv.nh.gov",
+   "snippet": "These fraudulent messages falsely claim that your New Hampshire driver's license will be suspended due to a traffic violation. ... Identification card may\u00a0...",
+   "htmlSnippet": "These fraudulent messages falsely claim that your New Hampshire <b>driver&#39;s license</b> will be suspended due to a traffic violation. ... <b>Identification card</b> may&nbsp;...",
+   "formattedUrl": "https://www.dmv.nh.gov/drivers-licensenon.../update-personal-information",
+   "htmlFormattedUrl": "https://www.dmv.nh.gov/<b>drivers-license</b>non.../update-personal-information",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS_tCew8rCHwfMAJv28QqUaUYcCImPgIJMNhHEynzazA81G55y_iMz2cA&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "postaladdress": [
+     {
+      "telephone": "1-800-735-2964"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Update Personal Information",
+      "theme-color": "#2f5a8e",
+      "og:site_name": "NH Division of Motor Vehicles",
+      "twitter:site:id": "908050104879370240",
+      "handheldfriendly": "true",
+      "twitter:url": "https://www.dmv.nh.gov/drivers-licensenon-driver-ids/update-personal-information",
+      "og:title": "Update Personal Information",
+      "twitter:image": "https://www.dmv.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png",
+      "twitter:image:alt": "New Hampshire Department of Motor Vehicles",
+      "twitter:site": "@NH_DMV",
+      "news_keywords": "dmv, motor, vehicles, safety, new hampshire, nh",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width",
+      "og:url": "https://www.dmv.nh.gov/drivers-licensenon-driver-ids/update-personal-information"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "State of New Hampshire Department of Safety Division of Motor ...",
+   "htmlTitle": "State of New Hampshire Department of Safety Division of Motor ...",
+   "link": "https://www.dmv.nh.gov/sites/g/files/ehbemt416/files/inline-documents/dsmv450.pdf",
+   "displayLink": "www.dmv.nh.gov",
+   "snippet": "expiration, or cancellation of a driver's license or identification card upon which an anatomical gift is indicated does not invalidate the gift. You may\u00a0...",
+   "htmlSnippet": "expiration, or cancellation of a <b>driver&#39;s license</b> or <b>identification card</b> upon which an anatomical gift is indicated does not invalidate the gift. You may&nbsp;...",
+   "formattedUrl": "https://www.dmv.nh.gov/sites/g/files/ehbemt416/files/inline.../dsmv450.pdf",
+   "htmlFormattedUrl": "https://www.dmv.nh.gov/sites/g/files/ehbemt416/files/inline.../dsmv450.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIjfMixhOoNONMcQCox8qOZyvjHcDbcBsR9H-yvEogRkgc8zOxhEzMwesZ&s",
+      "width": "197",
+      "height": "255"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20230718114757-04'00'",
+      "creationdate": "D:20180724155349-04'00'",
+      "creator": "Microsoft\u00ae Word 2010",
+      "author": "Bernard, Lauren",
+      "producer": "Microsoft\u00ae Word 2010"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///7d036f3529047b8672521e430b00dd808dc9f165468518ead0427de360314517"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "New Hampshire DMV Debuts New Driver's License Design | NH ...",
+   "htmlTitle": "New Hampshire DMV Debuts New <b>Driver&#39;s License</b> Design | NH ...",
+   "link": "https://www.dmv.nh.gov/news-and-media/new-hampshire-dmv-debuts-new-drivers-license-design",
+   "displayLink": "www.dmv.nh.gov",
+   "snippet": "Jan 23, 2025 ... These fraudulent messages falsely claim that your New Hampshire driver's license will be suspended due to a traffic violation. The NH DMV never\u00a0...",
+   "htmlSnippet": "Jan 23, 2025 <b>...</b> These fraudulent messages falsely claim that your New Hampshire <b>driver&#39;s license</b> will be suspended due to a traffic violation. The NH DMV never&nbsp;...",
+   "formattedUrl": "https://www.dmv.nh.gov/.../new-hampshire-dmv-debuts-new-drivers-licens...",
+   "htmlFormattedUrl": "https://www.dmv.nh.gov/.../new-hampshire-dmv-debuts-new-<b>drivers-licens</b>...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS_tCew8rCHwfMAJv28QqUaUYcCImPgIJMNhHEynzazA81G55y_iMz2cA&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "organization": [
+     {
+      "contactpoint": "Tyler Dumont,",
+      "telephone": "(603) 223-3641",
+      "department": "Public Information Officer",
+      "email": "PIO@dos.nh.gov"
+     }
+    ],
+    "postaladdress": [
+     {
+      "telephone": "1-800-735-2964"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "New Hampshire DMV Debuts New Driver's License Design",
+      "theme-color": "#2f5a8e",
+      "og:site_name": "NH Division of Motor Vehicles",
+      "twitter:site:id": "908050104879370240",
+      "handheldfriendly": "true",
+      "twitter:url": "https://www.dmv.nh.gov/news-and-media/new-hampshire-dmv-debuts-new-drivers-license-design",
+      "og:title": "New Hampshire DMV Debuts New Driver's License Design",
+      "og:description": "CONCORD, N.H. \u2013 New Hampshire driver\u2019s licenses have a new look, with depictions of state icons and historic landmarks in addition to enhanced security features. This week, the New Hampshire Department of Safety\u2019s Division of Motor Vehicles (DMV) debuted a new variation of state-issued driver\u2019s licenses and non-driver identification (ID) cards. Updated representations of the state flower, the purple lilac, as well as the Old Man of the Mountain are among the aesthetic revisions.",
+      "twitter:image": "https://www.dmv.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png",
+      "twitter:image:alt": "New Hampshire Department of Motor Vehicles",
+      "twitter:site": "@NH_DMV",
+      "news_keywords": "dmv, motor, vehicles, safety, new hampshire, nh",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "CONCORD, N.H. \u2013 New Hampshire driver\u2019s licenses have a new look, with depictions of state icons and historic landmarks in addition to enhanced security features. This week, the New Hampshire Department of Safety\u2019s Division of Motor Vehicles (DMV) debuted a new variation of state-issued driver\u2019s licenses and non-driver identification (ID) cards. Updated representations of the state flower, the purple lilac, as well as the Old Man of the Mountain are among the aesthetic revisions.",
+      "mobileoptimized": "width",
+      "og:url": "https://www.dmv.nh.gov/news-and-media/new-hampshire-dmv-debuts-new-drivers-license-design"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Welcome to the New Hampshire Division of Motor Vehicles | NH ...",
+   "htmlTitle": "Welcome to the New Hampshire Division of Motor Vehicles | NH ...",
+   "link": "https://www.dmv.nh.gov/",
+   "displayLink": "www.dmv.nh.gov",
+   "snippet": "These fraudulent messages falsely claim that your New Hampshire driver's license will be suspended due to a traffic violation. ... Identification Card, or\u00a0...",
+   "htmlSnippet": "These fraudulent messages falsely claim that your New Hampshire <b>driver&#39;s license</b> will be suspended due to a traffic violation. ... <b>Identification Card</b>, or&nbsp;...",
+   "formattedUrl": "https://www.dmv.nh.gov/",
+   "htmlFormattedUrl": "https://www.dmv.nh.gov/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS_tCew8rCHwfMAJv28QqUaUYcCImPgIJMNhHEynzazA81G55y_iMz2cA&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "postaladdress": [
+     {
+      "telephone": "1-800-735-2964"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Welcome to the New Hampshire Division of Motor Vehicles",
+      "theme-color": "#2f5a8e",
+      "og:site_name": "NH Division of Motor Vehicles",
+      "twitter:site:id": "908050104879370240",
+      "handheldfriendly": "true",
+      "twitter:url": "https://www.dmv.nh.gov/welcome",
+      "og:title": "Welcome to the New Hampshire Division of Motor Vehicles",
+      "og:description": "An official New Hampshire Government web site.",
+      "twitter:image": "https://www.dmv.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png",
+      "twitter:image:alt": "New Hampshire Department of Motor Vehicles",
+      "twitter:site": "@NH_DMV",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "An official New Hampshire Government web site.",
+      "mobileoptimized": "width",
+      "og:url": "https://www.dmv.nh.gov/welcome"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Renew a Driver License/CDL/Non Driver ID | NH Division of Motor ...",
+   "htmlTitle": "Renew a Driver License/CDL/Non Driver ID | NH Division of Motor ...",
+   "link": "https://www.dmv.nh.gov/drivers-licensenon-driver-ids/renew-driver-licensenon-driver-id",
+   "displayLink": "www.dmv.nh.gov",
+   "snippet": "These fraudulent messages falsely claim that your New Hampshire driver's license will be suspended due to a traffic violation. ... Driver's License Application (\u00a0...",
+   "htmlSnippet": "These fraudulent messages falsely claim that your New Hampshire <b>driver&#39;s license</b> will be suspended due to a traffic violation. ... <b>Driver&#39;s License</b> Application (&nbsp;...",
+   "formattedUrl": "https://www.dmv.nh.gov/drivers-licensenon.../renew-driver-licensenon-driv...",
+   "htmlFormattedUrl": "https://www.dmv.nh.gov/<b>drivers-license</b>non.../renew-driver-licensenon-driv...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS_tCew8rCHwfMAJv28QqUaUYcCImPgIJMNhHEynzazA81G55y_iMz2cA&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "postaladdress": [
+     {
+      "telephone": "1-800-735-2964"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Renew a Driver License/CDL/Non Driver ID",
+      "theme-color": "#2f5a8e",
+      "og:site_name": "NH Division of Motor Vehicles",
+      "twitter:site:id": "908050104879370240",
+      "handheldfriendly": "true",
+      "twitter:url": "https://www.dmv.nh.gov/drivers-licensenon-driver-ids/renew-driver-licensenon-driver-id",
+      "og:title": "Renew a Driver License/CDL/Non Driver ID",
+      "twitter:image": "https://www.dmv.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png",
+      "twitter:image:alt": "New Hampshire Department of Motor Vehicles",
+      "twitter:site": "@NH_DMV",
+      "news_keywords": "dmv, motor, vehicles, safety, new hampshire, nh",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width",
+      "og:url": "https://www.dmv.nh.gov/drivers-licensenon-driver-ids/renew-driver-licensenon-driver-id"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Commercial Driver Licenses | NH Division of Motor Vehicles",
+   "htmlTitle": "Commercial Driver Licenses | NH Division of Motor Vehicles",
+   "link": "https://www.dmv.nh.gov/drivers-licensenon-driver-ids/commercial-driver-licenses",
+   "displayLink": "www.dmv.nh.gov",
+   "snippet": "These fraudulent messages falsely claim that your New Hampshire driver's license will be suspended due to a traffic violation. ... Driver's License Application (\u00a0...",
+   "htmlSnippet": "These fraudulent messages falsely claim that your New Hampshire <b>driver&#39;s license</b> will be suspended due to a traffic violation. ... <b>Driver&#39;s License</b> Application (&nbsp;...",
+   "formattedUrl": "https://www.dmv.nh.gov/drivers-licensenon.../commercial-driver-licenses",
+   "htmlFormattedUrl": "https://www.dmv.nh.gov/<b>drivers-license</b>non.../commercial-driver-licenses",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS_tCew8rCHwfMAJv28QqUaUYcCImPgIJMNhHEynzazA81G55y_iMz2cA&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "postaladdress": [
+     {
+      "telephone": "1-800-735-2964"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Commercial Driver Licenses",
+      "theme-color": "#2f5a8e",
+      "og:site_name": "NH Division of Motor Vehicles",
+      "twitter:site:id": "908050104879370240",
+      "handheldfriendly": "true",
+      "twitter:url": "https://www.dmv.nh.gov/drivers-licensenon-driver-ids/commercial-driver-licenses",
+      "og:title": "Commercial Driver Licenses",
+      "og:description": "IMPORTANT NOTICE There are new Federal Requirements to obtain a CDL License. Information on Applying for a Commercial Driver License (CDL).",
+      "twitter:image": "https://www.dmv.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png",
+      "twitter:image:alt": "New Hampshire Department of Motor Vehicles",
+      "twitter:site": "@NH_DMV",
+      "news_keywords": "dmv, motor, vehicles, safety, new hampshire, nh",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "IMPORTANT NOTICE There are new Federal Requirements to obtain a CDL License. Information on Applying for a Commercial Driver License (CDL).",
+      "mobileoptimized": "width",
+      "og:url": "https://www.dmv.nh.gov/drivers-licensenon-driver-ids/commercial-driver-licenses"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "REAL ID | NH Division of Motor Vehicles",
+   "htmlTitle": "REAL ID | NH Division of Motor Vehicles",
+   "link": "https://www.dmv.nh.gov/drivers-licensenon-driver-ids/real-id",
+   "displayLink": "www.dmv.nh.gov",
+   "snippet": "These fraudulent messages falsely claim that your New Hampshire driver's license will be suspended due to a traffic violation. ... Identification Card, or\u00a0...",
+   "htmlSnippet": "These fraudulent messages falsely claim that your New Hampshire <b>driver&#39;s license</b> will be suspended due to a traffic violation. ... <b>Identification Card</b>, or&nbsp;...",
+   "formattedUrl": "https://www.dmv.nh.gov/drivers-licensenon-driver-ids/real-id",
+   "htmlFormattedUrl": "https://www.dmv.nh.gov/<b>drivers-license</b>non-driver-ids/real-id",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS_tCew8rCHwfMAJv28QqUaUYcCImPgIJMNhHEynzazA81G55y_iMz2cA&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "postaladdress": [
+     {
+      "telephone": "1-800-735-2964"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "REAL ID",
+      "theme-color": "#2f5a8e",
+      "og:site_name": "NH Division of Motor Vehicles",
+      "twitter:site:id": "908050104879370240",
+      "handheldfriendly": "true",
+      "twitter:url": "https://www.dmv.nh.gov/drivers-licensenon-driver-ids/real-id",
+      "og:title": "REAL ID",
+      "og:description": "What is REAL ID?",
+      "twitter:image": "https://www.dmv.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png",
+      "twitter:image:alt": "New Hampshire Department of Motor Vehicles",
+      "twitter:site": "@NH_DMV",
+      "news_keywords": "dmv, motor, vehicles, safety, new hampshire, nh",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "What is REAL ID?",
+      "mobileoptimized": "width",
+      "og:url": "https://www.dmv.nh.gov/drivers-licensenon-driver-ids/real-id"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Transfer License/Non Driver ID From Another State | NH Division of ...",
+   "htmlTitle": "Transfer License/Non Driver ID From Another State | NH Division of ...",
+   "link": "https://www.dmv.nh.gov/drivers-licensenon-driver-ids/transfer-license-another-state",
+   "displayLink": "www.dmv.nh.gov",
+   "snippet": "These fraudulent messages falsely claim that your New Hampshire driver's license will be suspended due to a traffic violation. ... New Hampshire offers a non-\u00a0...",
+   "htmlSnippet": "These fraudulent messages falsely claim that your New Hampshire <b>driver&#39;s license</b> will be suspended due to a traffic violation. ... New Hampshire offers a non-&nbsp;...",
+   "formattedUrl": "https://www.dmv.nh.gov/drivers-licensenon.../transfer-license-another-state",
+   "htmlFormattedUrl": "https://www.dmv.nh.gov/<b>drivers-license</b>non.../transfer-license-another-state",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS_tCew8rCHwfMAJv28QqUaUYcCImPgIJMNhHEynzazA81G55y_iMz2cA&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "postaladdress": [
+     {
+      "telephone": "1-800-735-2964"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Transfer License/Non Driver ID From Another State",
+      "theme-color": "#2f5a8e",
+      "og:site_name": "NH Division of Motor Vehicles",
+      "twitter:site:id": "908050104879370240",
+      "handheldfriendly": "true",
+      "twitter:url": "https://www.dmv.nh.gov/drivers-licensenon-driver-ids/transfer-license-another-state",
+      "og:title": "Transfer License/Non Driver ID From Another State",
+      "twitter:image": "https://www.dmv.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png",
+      "twitter:image:alt": "New Hampshire Department of Motor Vehicles",
+      "twitter:site": "@NH_DMV",
+      "news_keywords": "dmv, motor, vehicles, safety, new hampshire, nh",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width",
+      "og:url": "https://www.dmv.nh.gov/drivers-licensenon-driver-ids/transfer-license-another-state"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png"
+     }
+    ]
+   }
+  }
+ ]
+}

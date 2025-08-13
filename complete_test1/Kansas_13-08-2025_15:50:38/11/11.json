@@ -1,0 +1,327 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Kansas Statutes Annotated\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "233",
+    "searchTerms": "\"Kansas Statutes Annotated\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Kansas Statutes Annotated\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "233",
+    "searchTerms": "\"Kansas Statutes Annotated\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.138401,
+  "formattedSearchTime": "0.14",
+  "totalResults": "233",
+  "formattedTotalResults": "233"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "SENATE BILL No. 245",
+   "htmlTitle": "SENATE BILL No. 245",
+   "link": "https://www.kslegislature.gov/li/b2025_26/measures/documents/sb245_00_0000.pdf",
+   "displayLink": "www.kslegislature.gov",
+   "snippet": "(b) For purposes of this section, \"sex offense\" means rape, as defined in ... Kansas Statutes Annotated, or K.S.A. 21-6412(a)(6), and amendments.",
+   "htmlSnippet": "(b) For purposes of this section, &quot;sex offense&quot; <b>means</b> rape, as <b>defined</b> in ... <b>Kansas Statutes Annotated</b>, or K.S.A. 21-6412(a)(6), and amendments.",
+   "formattedUrl": "https://www.kslegislature.gov/li/b2025_26/measures/.../sb245_00_0000.pdf",
+   "htmlFormattedUrl": "https://www.kslegislature.gov/li/b2025_26/measures/.../sb245_00_0000.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "Writer",
+      "creationdate": "D:20250207133420-06'00'",
+      "producer": "OpenOffice.org 3.1"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Kansas Driver's ... - Johnson County criminal case law and statutes",
+   "htmlTitle": "Kansas Driver's ... - Johnson County criminal case law and statutes",
+   "link": "http://johnsoncountycriminalattorney.com/kansas_drivers_license__suspension_statutes",
+   "displayLink": "johnsoncountycriminalattorney.com",
+   "snippet": "(12) expired or current driver's license or identification card issued by ... (l) \"driver's license\" means any driver's license or any other license or\u00a0...",
+   "htmlSnippet": "(12) expired or current <b>driver&#39;s license</b> or <b>identification card</b> issued by ... (l) &quot;<b>driver&#39;s license</b>&quot; <b>means</b> any <b>driver&#39;s license</b> or any other license or&nbsp;...",
+   "formattedUrl": "http://johnsoncountycriminalattorney.com/kansas_drivers_license__suspens...",
+   "htmlFormattedUrl": "http://johnsoncountycriminalattorney.com/kansas_<b>drivers_license</b>__suspens..."
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2024 Statute",
+   "htmlTitle": "2024 Statute",
+   "link": "https://www.kslegislature.gov/li/b2023_24/statute/index/T/",
+   "displayLink": "www.kslegislature.gov",
+   "snippet": "... Kansas Statutes Annotated and the current printed volumes of the ... Suspension of a driver's license, defined, 8-1474. Tacks on highways, 8-1583.",
+   "htmlSnippet": "... <b>Kansas Statutes Annotated</b> and the current printed volumes of the ... Suspension of a <b>driver&#39;s license</b>, <b>defined</b>, 8-1474. Tacks on highways, 8-1583.",
+   "formattedUrl": "https://www.kslegislature.gov/li/b2023_24/statute/index/T/",
+   "htmlFormattedUrl": "https://www.kslegislature.gov/li/b2023_24/statute/index/T/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Session Laws of Kansas ... - Kansas Secretary of State | Publications",
+   "htmlTitle": "Session Laws of Kansas ... - Kansas Secretary of State | Publications",
+   "link": "https://www.sos.ks.gov/publications/sessionlaws/2024/Chapter-15-SB-491.html",
+   "displayLink": "www.sos.ks.gov",
+   "snippet": "... driver's license or nonresident commercial driver's license within 10 days. ... (e)(f) \u201cCaterer\u201d means the same as defined by K.S.A. 41-2601, and amendments\u00a0...",
+   "htmlSnippet": "... <b>driver&#39;s license</b> or nonresident commercial <b>driver&#39;s license</b> within 10 days. ... (e)(f) \u201cCaterer\u201d <b>means</b> the same as <b>defined</b> by K.S.A. 41-2601, and amendments&nbsp;...",
+   "formattedUrl": "https://www.sos.ks.gov/publications/sessionlaws/.../Chapter-15-SB-491.html",
+   "htmlFormattedUrl": "https://www.sos.ks.gov/publications/sessionlaws/.../Chapter-15-SB-491.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh0_1vQrX-6UjVEdUKQGF5zoDs3SWMTfNfCzrh7VluCqUqwCWpRRmppQ&s",
+      "width": "411",
+      "height": "122"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.sos.ks.gov/images/header/seal-name.svg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "KANSAS STATUTES ANNOTATED CHAPTER 16. CONTRACTS ...",
+   "htmlTitle": "<b>KANSAS STATUTES ANNOTATED</b> CHAPTER 16. CONTRACTS ...",
+   "link": "https://www.nationalnotary.org/file%20library/nna/reference-library/state-law-summaries/kansas.pdf",
+   "displayLink": "www.nationalnotary.org",
+   "snippet": "Dec 19, 2023 ... driver's license or government-issued nondriver identification card that is current or expired not ... personal information,\u201d as defined in K.S.A..",
+   "htmlSnippet": "Dec 19, 2023 <b>...</b> <b>driver&#39;s license</b> or government-issued nondriver <b>identification card</b> that is current or expired not ... <b>personal information</b>,\u201d as <b>defined</b> in K.S.A..",
+   "formattedUrl": "https://www.nationalnotary.org/file%20library/nna/reference.../kansas.pdf",
+   "htmlFormattedUrl": "https://www.nationalnotary.org/file%20library/nna/reference.../kansas.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20231219083548-08'00'",
+      "creator": "Microsoft\u00ae Word for Microsoft 365",
+      "creationdate": "D:20231219083548-08'00'",
+      "author": "NNA",
+      "producer": "Microsoft\u00ae Word for Microsoft 365",
+      "title": "53-101"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "kansas department of health and environment kansas laws and ...",
+   "htmlTitle": "kansas department of health and environment kansas laws and ...",
+   "link": "https://www.kdhe.ks.gov/DocumentCenter/View/15396/Preschools--Child-Care-Centers-Regulation-Book-PDF?bidId=",
+   "displayLink": "www.kdhe.ks.gov",
+   "snippet": "Aug 2, 2025 ... the Kansas Statutes Annotated, prior to their repeal ... (1) \u201cDay care home\u201d means a day care home as defined under Kansas administrative.",
+   "htmlSnippet": "Aug 2, 2025 <b>...</b> the <b>Kansas Statutes Annotated</b>, prior to their repeal ... (1) \u201cDay care home\u201d <b>means</b> a day care home as <b>defined</b> under Kansas administrative.",
+   "formattedUrl": "https://www.kdhe.ks.gov/.../Preschools--Child-Care-Centers-Regulation-Bo...",
+   "htmlFormattedUrl": "https://www.kdhe.ks.gov/.../Preschools--Child-Care-Centers-Regulation-Bo...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZe0OfDqlO4nFyav-X9eA8HdcuKC1icIGk_dyHZFFV2rI4FqAQh2hJrP4&s",
+      "width": "284",
+      "height": "178"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20240730100714-05'00'",
+      "creationdate": "D:20240701143027-05'00'",
+      "creator": "Acrobat PDFMaker 24 for Word",
+      "author": "Micah Ross",
+      "producer": "Adobe PDF Library 24.2.159",
+      "company": "KDHE"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///cf883d9e59f1ca8ef7d9f2e8d55bb6ce1b9dc50c08eb62600b789b5a35e44a70"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Kansas Incident Based Reporting System Handbook",
+   "htmlTitle": "Kansas Incident Based Reporting System Handbook",
+   "link": "https://www.kansas.gov/kbi/info/docs/pdf/KIBRS%20Handbook%202019.pdf",
+   "displayLink": "www.kansas.gov",
+   "snippet": "Jan 1, 2019 ... Kansas Statutes Annotated (K.S.A.) 21-2501a governing the ... defined in K.S.A. 2017 Supp. 21-5111, and amendments thereto, has been\u00a0...",
+   "htmlSnippet": "Jan 1, 2019 <b>...</b> <b>Kansas Statutes Annotated</b> (K.S.A.) 21-2501a governing the ... <b>defined</b> in K.S.A. 2017 Supp. 21-5111, and amendments thereto, has been&nbsp;...",
+   "formattedUrl": "https://www.kansas.gov/kbi/info/docs/.../KIBRS%20Handbook%202019.pd...",
+   "htmlFormattedUrl": "https://www.kansas.gov/kbi/info/docs/.../KIBRS%20Handbook%202019.pd...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT71g6yPltxK6OyL5r7M1HHPqjqbatEA1SgXAkjZppTMZ2j6UVt416Cx4Y&s",
+      "width": "234",
+      "height": "215"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20190222075030-06'00'",
+      "creationdate": "D:20190124094607-06'00'",
+      "creator": "Acrobat PDFMaker 17 for Word",
+      "sourcemodified": "D:20190124154151",
+      "author": "Shannon Domingo",
+      "producer": "Adobe PDF Library 15.0",
+      "company": "KBI"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///9061f3e3a1f8f87ff34cd9939d8ac9e85b61131d0790d4f7f93e6676d9209471"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Uniform Public Offense Code For Kansas Cities 38th Edition",
+   "htmlTitle": "Uniform Public Offense Code For Kansas Cities 38th Edition",
+   "link": "https://www.garden-city.org/DocumentCenter/View/1390",
+   "displayLink": "www.garden-city.org",
+   "snippet": "(g) Gaming Floor means the area of a lottery gaming facility or racetrack gaming facility, as those terms are defined in K.S.A. ... (3) Personal information means\u00a0...",
+   "htmlSnippet": "(g) Gaming Floor <b>means</b> the area of a lottery gaming facility or racetrack gaming facility, as those terms are <b>defined</b> in K.S.A. ... (3) <b>Personal information means</b>&nbsp;...",
+   "formattedUrl": "https://www.garden-city.org/DocumentCenter/View/1390",
+   "htmlFormattedUrl": "https://www.garden-city.org/DocumentCenter/View/1390",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnhKxl24VW7jTwJWykrPRh_X-XxG29SQvmTWk7RA0Dd1OxmOKOvAeMZvM&s",
+      "width": "202",
+      "height": "250"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20220718113604-05'00'",
+      "creationdate": "D:20220715105027-05'00'",
+      "creator": "Adobe InDesign 17.3 (Windows)",
+      "producer": "Adobe PDF Library 16.0.7"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///a1a6dd7ad4221c9ab2e65eb4c05e392ff998853df733023bdf7765653cc70acb"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dealer and Salesperson Handbook",
+   "htmlTitle": "Dealer and Salesperson Handbook",
+   "link": "https://www.ksrevenue.gov/pdf/dlrhb-complete.pdf",
+   "displayLink": "www.ksrevenue.gov",
+   "snippet": "(z) \"Farm trailer\" means every trailer as defined in subsection (h) of this section and ... Kansas Statutes Annotated, except that such term shall include micro\u00a0...",
+   "htmlSnippet": "(z) &quot;Farm trailer&quot; <b>means</b> every trailer as <b>defined</b> in subsection (h) of this section and ... <b>Kansas Statutes Annotated</b>, except that such term shall include micro&nbsp;...",
+   "formattedUrl": "https://www.ksrevenue.gov/pdf/dlrhb-complete.pdf",
+   "htmlFormattedUrl": "https://www.ksrevenue.gov/pdf/dlrhb-complete.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ8YNda6mnbuO1oTKociaCiug7efMsO2kBhkQMioF9JaR-83veYbv7PEU&s",
+      "width": "309",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20180618085248-05'00'",
+      "creator": "Microsoft\u00ae Word 2013",
+      "creationdate": "D:20180618085248-05'00'",
+      "author": "Elizabeth Carter",
+      "producer": "Microsoft\u00ae Word 2013",
+      "title": "Dealer and Salesperson Handbook"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///a4c271347f9df014a1178121837e611c9a4a5843e4d17e3530089a68f031e833"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "District Attorney Marc Bennett 18th Judicial District of Kansas For ...",
+   "htmlTitle": "District Attorney Marc Bennett 18th Judicial District of Kansas For ...",
+   "link": "https://www.sedgwickcounty.org/media/29878/west-kellogg-ois.pdf",
+   "displayLink": "www.sedgwickcounty.org",
+   "snippet": "Mar 31, 2017 ... Garner's driver's license. Mr. Garner began feeling his pockets and ... Immunity. Kansas Statutes Annotated 21-5231 (formerly 21-3219)\u00a0...",
+   "htmlSnippet": "Mar 31, 2017 <b>...</b> Garner&#39;s <b>driver&#39;s license</b>. Mr. Garner began feeling his pockets and ... Immunity. <b>Kansas Statutes Annotated</b> 21-5231 (formerly 21-3219)&nbsp;...",
+   "formattedUrl": "https://www.sedgwickcounty.org/media/29878/west-kellogg-ois.pdf",
+   "htmlFormattedUrl": "https://www.sedgwickcounty.org/media/29878/west-kellogg-ois.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdmWjev5NmL4oo0RQAYkxuRF6aMhUVkHfxr248CIWcu-2-8fgPok40W1k&s",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20170403090340-05'00'",
+      "creationdate": "D:20170331152054-05'00'",
+      "creator": "Microsoft\u00ae Word 2010",
+      "producer": "Microsoft\u00ae Word 2010"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///5406a2d8d2e88f6534eed2e3b2666dd66b506a54be9f28546194d9eb81172a3a"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

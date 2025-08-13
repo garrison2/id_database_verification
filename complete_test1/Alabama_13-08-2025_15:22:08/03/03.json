@@ -1,0 +1,108 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://www.alea.gov/dps/driver-license \"REAL ID\"",
+    "totalResults": "3",
+    "searchTerms": "site:https://www.alea.gov/dps/driver-license \"REAL ID\"",
+    "count": 3,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.077607,
+  "formattedSearchTime": "0.08",
+  "totalResults": "3",
+  "formattedTotalResults": "3"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Star ID | Alabama Law Enforcement Agency",
+   "htmlTitle": "Star ID | Alabama Law Enforcement Agency",
+   "link": "https://www.alea.gov/dps/driver-license/star-id",
+   "displayLink": "www.alea.gov",
+   "snippet": "The U.S. Department of Homeland Security is extending the enforcement deadline for the REAL ID (called STAR ID in Alabama) to May 7, 2025, in response to COVID-\u00a0...",
+   "htmlSnippet": "The U.S. Department of Homeland Security is extending the enforcement deadline for the <b>REAL ID</b> (called STAR ID in Alabama) to May 7, 2025, in response to COVID-&nbsp;...",
+   "formattedUrl": "https://www.alea.gov/dps/driver-license/star-id",
+   "htmlFormattedUrl": "https://www.alea.gov/dps/driver-license/star-id",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpKYMpf294u5jrEP1bwp_4jpP-TYeI1uzJXRUUZnnpNkLrUOEH2yv7Qdw&s",
+      "width": "250",
+      "height": "82"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msvalidate.01": "73CE5C647B27B08B8A8489B0E2F8226D",
+      "mobileoptimized": "width"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.alea.gov/sites/default/files/2018-10/Star%20ID.gif"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "STAR ID Frequently Asked Questions | Alabama Law Enforcement ...",
+   "htmlTitle": "STAR ID Frequently Asked Questions | Alabama Law Enforcement ...",
+   "link": "https://www.alea.gov/dps/driver-license/star-id/star-id-frequently-asked-questions",
+   "displayLink": "www.alea.gov",
+   "snippet": "In response to acts of terrorism committed against the United States, and in an effort to ensure the safety of citizens, Congress passed the REAL-ID Act of\u00a0...",
+   "htmlSnippet": "In response to acts of terrorism committed against the United States, and in an effort to ensure the safety of citizens, Congress passed the <b>REAL-ID</b> Act of&nbsp;...",
+   "formattedUrl": "https://www.alea.gov/dps/driver-license/.../star-id-frequently-asked-question...",
+   "htmlFormattedUrl": "https://www.alea.gov/dps/driver-license/.../star-id-frequently-asked-question...",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msvalidate.01": "73CE5C647B27B08B8A8489B0E2F8226D",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Private High School Driver & Traffic Safety Education Program ...",
+   "htmlTitle": "Private High School Driver &amp; Traffic Safety Education Program ...",
+   "link": "https://www.alea.gov/dps/driver-license/private-high-school-driver-traffic-safety-education-program",
+   "displayLink": "www.alea.gov",
+   "snippet": "... REAL-ID Act of 2005. Effective October 1, 2021, every air traveler will need a REAL ID compliant license/ID (STAR ID) or another form of identification for\u00a0...",
+   "htmlSnippet": "... <b>REAL-ID</b> Act of 2005. Effective October 1, 2021, every air traveler will need a <b>REAL ID</b> compliant license/ID (STAR ID) or another form of identification for&nbsp;...",
+   "formattedUrl": "https://www.alea.gov/.../private-high-school-driver-traffic-safety-education-...",
+   "htmlFormattedUrl": "https://www.alea.gov/.../private-high-school-driver-traffic-safety-education-...",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msvalidate.01": "73CE5C647B27B08B8A8489B0E2F8226D",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  }
+ ]
+}

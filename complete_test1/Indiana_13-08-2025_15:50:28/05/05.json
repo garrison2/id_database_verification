@@ -1,0 +1,477 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Indiana\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" vendor OR developer OR procurement",
+    "totalResults": "24800",
+    "searchTerms": "\"Indiana\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" vendor OR developer OR procurement",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Indiana\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" vendor OR developer OR procurement",
+    "totalResults": "24800",
+    "searchTerms": "\"Indiana\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" vendor OR developer OR procurement",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.216511,
+  "formattedSearchTime": "0.22",
+  "totalResults": "24800",
+  "formattedTotalResults": "24,800"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "IDOA: Procurement: Home",
+   "htmlTitle": "IDOA: <b>Procurement</b>: Home",
+   "link": "https://www.in.gov/idoa/procurement/",
+   "displayLink": "www.in.gov",
+   "snippet": "Bidder Opportunities \u00b7 PeopleSoft Financials Login \u00b7 Purchasing and Travel Credit Card Program \u00b7 Buy Indiana \u00b7 VENDORS & CONTRACTORS \u00b7 STATE & LOCAL GOV. \u00b7 PROGRAMS.",
+   "htmlSnippet": "Bidder Opportunities &middot; PeopleSoft Financials Login &middot; Purchasing and Travel Credit Card Program &middot; Buy <b>Indiana</b> &middot; VENDORS &amp; CONTRACTORS &middot; STATE &amp; LOCAL GOV. &middot; PROGRAMS.",
+   "formattedUrl": "https://www.in.gov/idoa/procurement/",
+   "htmlFormattedUrl": "https://www.in.gov/idoa/<b>procurement</b>/",
+   "pagemap": {
+    "metatags": [
+     {
+      "twitter:card": "summary",
+      "twitter:title": "Home",
+      "og:type": "website",
+      "article:published_time": "2020-11-19T14:21:28-05:00",
+      "og:site_name": "Procurement",
+      "dcterms.title": "Procurement",
+      "og:title": "Home",
+      "dcterms.creator": "Procurement",
+      "assetname": "Procurement",
+      "dcterms.created": "2020-11-19T14:07:31-05:00",
+      "dcterms.issued": "2020-11-19T14:21:28-05:00",
+      "dcterms.modified": "2024-07-10T10:58:28-04:00",
+      "article:modified_time": "2024-07-10T10:58:28-04:00",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "apple-mobile-web-app-capable": "yes",
+      "dcterms.format": "HTML",
+      "og:url": "https://www.in.gov/idoa/procurement/",
+      "dcterms.identifier": "https://www.in.gov/idoa/procurement",
+      "assettype": "site"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Indiana Enacts Insurance Data Security Law | Practical Law",
+   "htmlTitle": "<b>Indiana</b> Enacts Insurance Data Security Law | Practical Law",
+   "link": "https://content.next.westlaw.com/practical-law/document/I64f40bb36dd811ea80afece799150095/Indiana-Enacts-Insurance-Data-Security-Law?viewType=FullText&transitionType=Default&contextData=(sc.Default)",
+   "displayLink": "content.next.westlaw.com",
+   "snippet": "Mar 24, 2020 ... Indiana has enacted HB 1372 based on the National Association of Insurance Commissioners (NAIC) Insurance Data Security Model Law (MDL-668).",
+   "htmlSnippet": "Mar 24, 2020 <b>...</b> <b>Indiana</b> has enacted HB 1372 based on the National Association of Insurance Commissioners (NAIC) Insurance Data Security Model Law (<b>MDL</b>-668).",
+   "formattedUrl": "https://content.next.westlaw.com/.../Indiana-Enacts-Insurance-Data-Security...",
+   "htmlFormattedUrl": "https://content.next.westlaw.com/.../<b>Indiana</b>-Enacts-Insurance-Data-Security...",
+   "pagemap": {
+    "digitaldocument": [
+     {
+      "name": "Indiana Enacts Insurance Data Security Law | Practical Law",
+      "description": "Indiana has enacted HB 1372 based on the National Association of Insurance Commissioners (NAIC) Insurance Data Security Model Law (MDL-668). The law requires state-regulated insurance entities...",
+      "headline": "Indiana Enacts Insurance Data Security Law | Practical Law",
+      "url": "https://content.next.westlaw.com/practical-law/document/I64f40bb36dd811ea80afece799150095/Indiana-Enacts-Insurance-Data-Security-Law?viewType=FullText&transitionType=Default&contextData=(sc.Default)"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width",
+      "og:title": "Indiana Enacts Insurance Data Security Law | Practical Law",
+      "og:url": "https://content.next.westlaw.com/practical-law/document/I64f40bb36dd811ea80afece799150095/Indiana-Enacts-Insurance-Data-Security-Law?viewType=FullText&transitionType=Default&contextData=(sc.Default)"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "IDOA: Procurement: Award Recommendations",
+   "htmlTitle": "IDOA: <b>Procurement</b>: Award Recommendations",
+   "link": "https://www.in.gov/idoa/procurement/award-recommendations/",
+   "displayLink": "www.in.gov",
+   "snippet": "Which email address on the bidder profile can I use to sign into the Supplier Portal? More FAQs. Agency Logo. Indiana Department of Administration. I Want To.",
+   "htmlSnippet": "Which email address on the bidder profile can I use to sign into the Supplier Portal? More FAQs. Agency Logo. <b>Indiana</b> Department of Administration. I Want To.",
+   "formattedUrl": "https://www.in.gov/idoa/procurement/award-recommendations/",
+   "htmlFormattedUrl": "https://www.in.gov/idoa/<b>procurement</b>/award-recommendations/",
+   "pagemap": {
+    "metatags": [
+     {
+      "twitter:card": "summary",
+      "twitter:title": "Award Recommendations",
+      "og:type": "website",
+      "article:published_time": "2020-12-15T14:37:47-05:00",
+      "og:site_name": "Procurement",
+      "dcterms.title": "Award Recommendations",
+      "og:title": "Award Recommendations",
+      "dcterms.creator": "Procurement",
+      "assetname": "Award Recommendations",
+      "dcterms.created": "2020-11-18T16:34:42-05:00",
+      "dcterms.issued": "2020-12-15T14:37:47-05:00",
+      "dcterms.modified": "2024-07-01T10:43:46-04:00",
+      "article:modified_time": "2024-07-01T10:43:46-04:00",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "apple-mobile-web-app-capable": "yes",
+      "dcterms.format": "HTML",
+      "og:url": "https://www.in.gov/idoa/procurement/award-recommendations/",
+      "dcterms.identifier": "https://www.in.gov/idoa/procurement/award-recommendations",
+      "assettype": "page_standard"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Indiana Wesleyan University",
+   "htmlTitle": "<b>Indiana</b> Wesleyan University",
+   "link": "https://www.indwes.edu/",
+   "displayLink": "www.indwes.edu",
+   "snippet": "Since the beginning, Indiana Wesleyan University has been committed to changing the world by developing Christlike students who live with character,\u00a0...",
+   "htmlSnippet": "Since the beginning, <b>Indiana</b> Wesleyan University has been committed to changing the world by developing Christlike students who live with character,&nbsp;...",
+   "formattedUrl": "https://www.indwes.edu/",
+   "htmlFormattedUrl": "https://www.indwes.edu/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiuOUB2B7BYbu3LtG5q2MdupyA5zQchPNwIH0BYPj9GuxFWQuzDqcdXVI&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "application-name": "Indiana Wesleyan",
+      "msapplication-tilecolor": "#ab192a",
+      "msapplication-config": "site://Shared Resources/_files/images/favicons/browserconfig.xml?v=GvJKryKOzM",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-title": "Indiana Wesleyan",
+      "google": "notranslate",
+      "title": "Indiana Wesleyan University",
+      "msapplication-tileimage": "site://Shared Resources/_files/images/favicons/mstile-144x144.png?v=GvJKryKOzM"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.indwes.edu/_img/index/international-student-group.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "3PL, Cold Chain + Foreign Trade Zone | Indianapolis & Reno, NV",
+   "htmlTitle": "3PL, Cold Chain + Foreign Trade Zone | Indianapolis &amp; Reno, NV",
+   "link": "https://www.mdlogistics.com/",
+   "displayLink": "www.mdlogistics.com",
+   "snippet": "Located in Plainfield, Indiana, nine miles west of Indianapolis International Airport, Reno, Nevada, and Garner, North Carolina.",
+   "htmlSnippet": "Located in Plainfield, <b>Indiana</b>, nine miles west of Indianapolis International Airport, Reno, Nevada, and Garner, North Carolina.",
+   "formattedUrl": "https://www.mdlogistics.com/",
+   "htmlFormattedUrl": "https://www.<b>mdl</b>ogistics.com/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ_2zI9AqzrokSYUJCCVB-LN922OxBMe-2E_smykIa5-GmDOGGOhxQYNjn&s",
+      "width": "272",
+      "height": "185"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-tileimage": "https://www.mdlogistics.com/wp-content/uploads/2019/02/cropped-favicon-270x270.png"
+     }
+    ],
+    "webpage": [
+     {
+      "text": "MD Logistics is a third party logistics (3PL) company specializing in customized supply chain solutions. Each opportunity represents unique, client-specific challenges that are evaluated utilizing..."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://cdn-bkbcj.nitrocdn.com/xXGyDftZNTJakTYAyusNDmbcdztlQjmL/assets/images/optimized/rev-b162ad9/www.mdlogistics.com/wp-content/uploads/2019/03/Freight-Forwarding-and-Transportation-Services.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Indiana Mobile ID Updates",
+   "htmlTitle": "<b>Indiana Mobile ID</b> Updates",
+   "link": "https://idscan.net/state-digital-id/indiana-mobile-id-updates/",
+   "displayLink": "idscan.net",
+   "snippet": "The Indiana mDL program has been legal since 2021, but as of February 2025, there is still no timeline for an active Indiana mobile ID.",
+   "htmlSnippet": "The <b>Indiana mDL</b> program has been legal since 2021, but as of February 2025, there is still no timeline for an active <b>Indiana mobile ID</b>.",
+   "formattedUrl": "https://idscan.net/state-digital-id/indiana-mobile-id-updates/",
+   "htmlFormattedUrl": "https://idscan.net/state-<b>digital-id</b>/<b>indiana</b>-<b>mobile-id</b>-updates/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGttiZW_jqS5pTqOLNaKPDUV0KDnywO4Cei3_ypSr8RibEV7oacSV1kO4k&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://idscan.net/wp-content/uploads/indiana-mobile-drivers-license.jpg?lm=66A7317F",
+      "og:type": "article",
+      "og:image:width": "1199",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "IDScan.net",
+      "og:title": "Indiana Mobile ID Updates",
+      "og:image:height": "630",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://idscan.net/wp-content/uploads/cropped-idscan-identity-verification-software-icon-1-270x270.png",
+      "og:description": "The Indiana mDL program has been legal since 2021, but as of February 2025, there is still no timeline for an active Indiana mobile ID.",
+      "article:publisher": "https://www.facebook.com/idscannet",
+      "twitter:site": "@idscan_net",
+      "article:modified_time": "2025-02-27T21:42:36+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://idscan.net/state-digital-id/indiana-mobile-id-updates/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://idscan.net/wp-content/uploads/indiana-mobile-drivers-license.jpg?lm=66A7317F"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Residence Hall Move-in Guide: Move-in Guides: Events: IU Housing ...",
+   "htmlTitle": "Residence Hall Move-in Guide: Move-in Guides: Events: IU Housing ...",
+   "link": "https://housing.indiana.edu/events/mig/ResHallMig/index.html",
+   "displayLink": "housing.indiana.edu",
+   "snippet": "Mobile ID \u00b7 Parking \u00b7 Streaming \u00b7 Taking Care of Daily Business \u00b7 Wireless ... Bedloft is an approved vendor of Indiana University. Furniture set-ups can\u00a0...",
+   "htmlSnippet": "<b>Mobile ID</b> &middot; Parking &middot; Streaming &middot; Taking Care of Daily Business &middot; Wireless ... Bedloft is an approved <b>vendor</b> of <b>Indiana</b> University. Furniture set-ups can&nbsp;...",
+   "formattedUrl": "https://housing.indiana.edu/events/mig/ResHallMig/index.html",
+   "htmlFormattedUrl": "https://housing.<b>indiana</b>.edu/events/mig/ResHallMig/index.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSemmZ5lAUxQj2fYZ0R9Y3xmYuy1H29GVVjCIysg0UGwGZ7UbI7inGzLn4&s",
+      "width": "260",
+      "height": "194"
+     }
+    ],
+    "collegeoruniversity": [
+     {
+      "name": "Indiana University Bloomington"
+     },
+     {
+      "department": "IU Housing"
+     },
+     {
+      "name": "Indiana University",
+      "url": "Indiana University"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://housing.indiana.edu/images/housing-move-in-guide-banner-1222.jpg",
+      "og:type": "website",
+      "twitter:title": "Residence Hall Move-in Guide",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "IU Housing",
+      "og:title": "Residence Hall Move-in Guide",
+      "og:description": "Residence Hall Move-in Guide",
+      "twitter:image:src": "https://housing.indiana.edu/images/housing-move-in-guide-banner-1222.jpg",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Residence Hall Move-in Guide",
+      "og:locale": "en_US",
+      "id": "7f3fcbcf814f4e106798be0980af58e1",
+      "og:url": "https://housing.indiana.edu/events/mig/ResHallMig/index.html"
+     }
+    ],
+    "webpage": [
+     {
+      "image": "https://housing.indiana.edu/images/housing-move-in-guide-banner-1222.jpg",
+      "name": "Residence Hall Move-in Guide",
+      "description": "Residence Hall Move-in Guide",
+      "url": "https://housing.indiana.edu/events/mig/ResHallMig/index.html"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://housing.indiana.edu/images/updatedroompic.png"
+     }
+    ],
+    "sitenavigationelement": [
+     {
+      "name": "About",
+      "url": "About"
+     },
+     {
+      "name": "About",
+      "url": "About"
+     },
+     {
+      "name": "Calendar",
+      "url": "Calendar"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "Home",
+      "name": "Home",
+      "position": "1"
+     },
+     {
+      "item": "Events",
+      "name": "Events",
+      "position": "2"
+     },
+     {
+      "item": "Move-in Guides",
+      "name": "Move-in Guides",
+      "position": "3"
+     },
+     {
+      "name": "Residence Hall Move-in Guide",
+      "position": "4"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Indiana Bids, State Government Contracts & RFPs | BidNet Direct",
+   "htmlTitle": "<b>Indiana</b> Bids, State Government Contracts &amp; RFPs | BidNet Direct",
+   "link": "https://www.bidnetdirect.com/indiana/solicitations/closed-bids",
+   "displayLink": "www.bidnetdirect.com",
+   "snippet": "Vendor Registration. \u200b. Find Bids. Indiana Purchasing Group. Indiana government bids & RFPs. Indiana Purchasing Group. Welcome to the Indiana Purchasing Group!",
+   "htmlSnippet": "<b>Vendor</b> Registration. \u200b. Find Bids. <b>Indiana</b> Purchasing Group. <b>Indiana</b> government bids &amp; RFPs. <b>Indiana</b> Purchasing Group. Welcome to the <b>Indiana</b> Purchasing Group!",
+   "formattedUrl": "https://www.bidnetdirect.com/indiana/solicitations/closed-bids",
+   "htmlFormattedUrl": "https://www.bidnetdirect.com/<b>indiana</b>/solicitations/closed-bids",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1",
+      "_csrf_header": "X-CSRF-TOKEN",
+      "_csrf": "8F131E9D48E34770654BC3AF7707DCC0810BCA17BC08DE551E987703D8B069D7BAB0AE901FC91537744E98FE5384B546",
+      "format-detection": "telephone=no"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cybersecurity Funded, Now What? Indiana's CIO Shares 2024 Plan",
+   "htmlTitle": "Cybersecurity Funded, Now What? <b>Indiana&#39;s</b> CIO Shares 2024 Plan",
+   "link": "https://www.govtech.com/security/cybersecurity-funded-now-what-indianas-cio-shares-2024-plan",
+   "displayLink": "www.govtech.com",
+   "snippet": "Dec 13, 2023 ... For Indiana CIO Tracy Barnes, elevating cybersecurity, creating IT leadership ... digital ID program will take center stage in 2024.",
+   "htmlSnippet": "Dec 13, 2023 <b>...</b> For <b>Indiana</b> CIO Tracy Barnes, elevating cybersecurity, creating IT leadership ... <b>digital ID</b> program will take center stage in 2024.",
+   "formattedUrl": "https://www.govtech.com/.../cybersecurity-funded-now-what-indianas-cio-s...",
+   "htmlFormattedUrl": "https://www.govtech.com/.../cybersecurity-funded-now-what-<b>indiana</b>s-cio-s...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFQVdtPXbKg6CVovqvjrIqjTGxuI9qZ80aZan_ddlNrWxrVhe-k4psxfU&s",
+      "width": "322",
+      "height": "156"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://erepublic.brightspotcdn.com/dims4/default/809120d/2147483647/strip/true/crop/5472x2660+0+0/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2Fca%2F0b%2F6c1c8b004911ae39ce032b0f220a%2Ftracy-barnes-in-04.jpg",
+      "og:image:width": "1440",
+      "article:published_time": "2023-12-13T23:28:38.899",
+      "twitter:card": "summary_large_image",
+      "brightspot.cached": "false",
+      "og:site_name": "GovTech",
+      "og:image:type": "image/jpeg",
+      "og:description": "For Indiana CIO Tracy Barnes, elevating cybersecurity, creating IT leadership training, enacting AI policy and laying the framework for a statewide digital ID program will take center stage in 2024.",
+      "twitter:image": "https://erepublic.brightspotcdn.com/dims4/default/809120d/2147483647/strip/true/crop/5472x2660+0+0/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2Fca%2F0b%2F6c1c8b004911ae39ce032b0f220a%2Ftracy-barnes-in-04.jpg",
+      "twitter:image:alt": "Indiana Chief Information Officer Tracy Barnes",
+      "twitter:site": "@govtechnews",
+      "article:modified_time": "2023-12-14T18:45:07.089",
+      "brightspot.contentid": "0000018c-64fd-d257-a5cf-66fd51c40000",
+      "og:image:alt": "Indiana Chief Information Officer Tracy Barnes",
+      "og:type": "article",
+      "article:section": "Cybersecurity",
+      "twitter:title": "Cybersecurity Funded, Now What? Indiana\u2019s CIO Shares 2024 Plan",
+      "og:image:url": "https://erepublic.brightspotcdn.com/dims4/default/809120d/2147483647/strip/true/crop/5472x2660+0+0/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2Fca%2F0b%2F6c1c8b004911ae39ce032b0f220a%2Ftracy-barnes-in-04.jpg",
+      "og:title": "Cybersecurity Funded, Now What? Indiana\u2019s CIO Shares 2024 Plan",
+      "og:image:height": "700",
+      "article:author": "https://www.govtech.com/nikki-davidson",
+      "article:tag": "Cybersecurity",
+      "fb:app_id": "314190606794339",
+      "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=5",
+      "twitter:description": "For Indiana CIO Tracy Barnes, elevating cybersecurity, creating IT leadership training, enacting AI policy and laying the framework for a statewide digital ID program will take center stage in 2024.",
+      "og:url": "https://www.govtech.com/security/cybersecurity-funded-now-what-indianas-cio-shares-2024-plan"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://erepublic.brightspotcdn.com/dims4/default/809120d/2147483647/strip/true/crop/5472x2660+0+0/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2Fca%2F0b%2F6c1c8b004911ae39ce032b0f220a%2Ftracy-barnes-in-04.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Introduction To Statistical Inventory Reconciliation For Underground ...",
+   "htmlTitle": "Introduction To Statistical Inventory Reconciliation For Underground ...",
+   "link": "https://www.epa.gov/sites/default/files/2014-03/documents/sir.pdf",
+   "displayLink": "www.epa.gov",
+   "snippet": "... MDL' stuff all about?\u201d.................9. \u201cCan SIR be used as a monthly test ... Indiana Dept. of Env. Mgt. 317 233-6418. Iowa Dept. of Natural. Resources.",
+   "htmlSnippet": "... <b>MDL</b>&#39; stuff all about?\u201d.................9. \u201cCan SIR be used as a monthly test ... <b>Indiana</b> Dept. of Env. Mgt. 317 233-6418. Iowa Dept. of Natural. Resources.",
+   "formattedUrl": "https://www.epa.gov/sites/default/files/2014-03/documents/sir.pdf",
+   "htmlFormattedUrl": "https://www.epa.gov/sites/default/files/2014-03/documents/sir.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpEME6uaK9iDwCl6UtesKFsHYoryjKVGLw2JJrcLK2wrX5EfPiBGNg1mM5&s",
+      "width": "148",
+      "height": "192"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20150703114243-04'00'",
+      "creationdate": "Wednesday, May 12, 1999 9:02:25 AM",
+      "creator": "Microsoft Word",
+      "author": "US EPA, OSWER, Office Of Underground Storage Tanks",
+      "subject": "This booklet provides basic information on the method\u2014what it is, how it works,  factors that impact data quality\u2014to assist you in determining if SIR is  appropriate to your needs.",
+      "producer": "Acrobat PDFWriter 3.02 for Windows",
+      "creationdate__text": "Wednesday, May 12, 1999 9:02:25 AM",
+      "title": "Introduction To Statistical Inventory Reconciliation For Underground Storage Tanks"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///189474fa1e3bc1577d1d41c4db004554a07c7ea02c25057315e0410e2442ebf3"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

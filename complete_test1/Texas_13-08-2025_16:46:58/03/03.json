@@ -1,0 +1,291 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://www.dps.texas.gov/ \"REAL ID\"",
+    "totalResults": "61",
+    "searchTerms": "site:https://www.dps.texas.gov/ \"REAL ID\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://www.dps.texas.gov/ \"REAL ID\"",
+    "totalResults": "61",
+    "searchTerms": "site:https://www.dps.texas.gov/ \"REAL ID\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.104582,
+  "formattedSearchTime": "0.10",
+  "totalResults": "61",
+  "formattedTotalResults": "61"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Federal Real ID Act | Department of Public Safety",
+   "htmlTitle": "Federal <b>Real ID</b> Act | Department of Public Safety",
+   "link": "https://www.dps.texas.gov/section/driver-license/federal-real-id-act",
+   "displayLink": "www.dps.texas.gov",
+   "snippet": "Sep 29, 2020 ... Texas began issuing REAL ID compliant cards on October 10, 2016, and these cards are marked with a gold circle with an inset star located in the upper right-\u00a0...",
+   "htmlSnippet": "Sep 29, 2020 <b>...</b> Texas began issuing <b>REAL ID</b> compliant cards on October 10, 2016, and these cards are marked with a gold circle with an inset star located in the upper right-&nbsp;...",
+   "formattedUrl": "https://www.dps.texas.gov/section/driver-license/federal-real-id-act",
+   "htmlFormattedUrl": "https://www.dps.texas.gov/section/driver-license/federal-<b>real-id</b>-act",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRccfWtpjRk5NZuEBXWK0EvJ9Rxj-LySgtE1AKJwCyU08CXwiCBSeX4wTqF&s",
+      "width": "220",
+      "height": "229"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://cdn.www3.dps.texas.gov/cdn/ff/d53-FrLD9IemehvfDfYrY_jX_5vS7ZcIBS_EOe1jV5o/1601851551/public/inline-images/REALID.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "TxDPS-Real ID Document Check App",
+   "htmlTitle": "TxDPS-<b>Real ID</b> Document Check App",
+   "link": "https://www.dps.texas.gov/apps/DriverLicense/RealID",
+   "displayLink": "www.dps.texas.gov",
+   "snippet": "The driver license/identification card and REAL ID Checklist is an application that assists in preparing you for your Driver license office visit.",
+   "htmlSnippet": "The driver license/identification card and <b>REAL ID</b> Checklist is an application that assists in preparing you for your Driver license office visit.",
+   "formattedUrl": "https://www.dps.texas.gov/apps/DriverLicense/RealID",
+   "htmlFormattedUrl": "https://www.dps.texas.gov/apps/DriverLicense/<b>RealID</b>",
+   "pagemap": {
+    "metatags": [
+     {
+      "copyright": "Texas Department of Public Safety",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "google-translate-customization": "124407f13cc64fea-d9c097476878aa0b-ga65d73fba5ee9c15-11",
+      "author": "TxDPS",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "State to State (S2S) Program | Department of Public Safety",
+   "htmlTitle": "State to State (S2S) Program | Department of Public Safety",
+   "link": "https://www.dps.texas.gov/section/driver-license/state-state-s2s-program",
+   "displayLink": "www.dps.texas.gov",
+   "snippet": "Aug 10, 2023 ... This limits a person to one REAL ID compliant card. As of September 5, 2023, residents new to Texas that apply for a driver license or\u00a0...",
+   "htmlSnippet": "Aug 10, 2023 <b>...</b> This limits a person to one <b>REAL ID</b> compliant card. As of September 5, 2023, residents new to Texas that apply for a driver license or&nbsp;...",
+   "formattedUrl": "https://www.dps.texas.gov/section/driver-license/state-state-s2s-program",
+   "htmlFormattedUrl": "https://www.dps.texas.gov/section/driver-license/state-state-s2s-program",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver License Services \u2013 Appointments | Department of Public Safety",
+   "htmlTitle": "Driver License Services \u2013 Appointments | Department of Public Safety",
+   "link": "https://www.dps.texas.gov/section/driver-license/driver-license-services-appointments",
+   "displayLink": "www.dps.texas.gov",
+   "snippet": "Apr 15, 2021 ... Please note \u2013 REAL ID and Texas law only permits a person to hold a driver license or identification card, but not both (Texas\u00a0...",
+   "htmlSnippet": "Apr 15, 2021 <b>...</b> Please note \u2013 <b>REAL ID</b> and Texas law only permits a person to hold a driver license or identification card, but not both (Texas&nbsp;...",
+   "formattedUrl": "https://www.dps.texas.gov/section/.../driver-license-services-appointments",
+   "htmlFormattedUrl": "https://www.dps.texas.gov/section/.../driver-license-services-appointments",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "How to Apply for a Texas Identification Card | Department of Public ...",
+   "htmlTitle": "How to Apply for a Texas Identification Card | Department of Public ...",
+   "link": "https://www.dps.texas.gov/section/driver-license/how-apply-texas-identification-card",
+   "displayLink": "www.dps.texas.gov",
+   "snippet": "Sep 29, 2020 ... REAL ID Document Check Application to assist in preparing you for your Driver License Office Visit. Just follow the steps, and at the end\u00a0...",
+   "htmlSnippet": "Sep 29, 2020 <b>...</b> <b>REAL ID</b> Document Check Application to assist in preparing you for your Driver License Office Visit. Just follow the steps, and at the end&nbsp;...",
+   "formattedUrl": "https://www.dps.texas.gov/section/.../how-apply-texas-identification-card",
+   "htmlFormattedUrl": "https://www.dps.texas.gov/section/.../how-apply-texas-identification-card",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Requirements | Department of Public Safety",
+   "htmlTitle": "Requirements | Department of Public Safety",
+   "link": "https://www.dps.texas.gov/section/driver-license/requirements",
+   "displayLink": "www.dps.texas.gov",
+   "snippet": "Jan 31, 2025 ... To find out which documents you'll need for your driver license appointment, use our interactive checklist tool. REAL ID Checklist. The\u00a0...",
+   "htmlSnippet": "Jan 31, 2025 <b>...</b> To find out which documents you&#39;ll need for your driver license appointment, use our interactive checklist tool. <b>REAL ID</b> Checklist. The&nbsp;...",
+   "formattedUrl": "https://www.dps.texas.gov/section/driver-license/requirements",
+   "htmlFormattedUrl": "https://www.dps.texas.gov/section/driver-license/requirements",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Get to Know the Newly Redesigned Texas DL and ID Cards",
+   "htmlTitle": "Get to Know the Newly Redesigned Texas DL and ID Cards",
+   "link": "https://www.dps.texas.gov/internetforms/getForm.ashx?id=DL-73.pdf",
+   "displayLink": "www.dps.texas.gov",
+   "snippet": "REAL ID Compliant. REAL ID star indicates the card meets state and federal regulations. Tactile Text. Customer ID and name are laser engraved on the card\u00a0...",
+   "htmlSnippet": "<b>REAL ID</b> Compliant. <b>REAL ID</b> star indicates the card meets state and federal regulations. Tactile Text. Customer ID and name are laser engraved on the card&nbsp;...",
+   "formattedUrl": "https://www.dps.texas.gov/internetforms/getForm.ashx?id=DL-73.pdf",
+   "htmlFormattedUrl": "https://www.dps.texas.gov/internetforms/getForm.ashx?id=DL-73.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7nmhdXnQ6HSnp9kUPF5CAT0HR4fd4tU5TTpUPzZ8cA1I7fqEOOoBKcM2m&s",
+      "width": "264",
+      "height": "191"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20220223143912-06'00'",
+      "creationdate": "D:20220223143825-06'00'",
+      "creator": "Adobe InDesign 17.0 (Macintosh)",
+      "author": "TXDPS Graphics",
+      "subject": "2020 Redesigned Texas DL and ID Card Info Brochure",
+      "producer": "Adobe PDF Library 16.0.3",
+      "title": "DL-73 - 2020 Redesigned Texas DL and ID Card Info Brochure"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///b5bd5a30b7235c413222fa670e9dc55ebe5cde455ee800e9947bff2878699a24"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Apply for a Texas Driver License | Department of Public Safety",
+   "htmlTitle": "Apply for a Texas Driver License | Department of Public Safety",
+   "link": "https://www.dps.texas.gov/section/driver-license/apply-texas-driver-license",
+   "displayLink": "www.dps.texas.gov",
+   "snippet": "Nov 25, 2024 ... Before your driver license appointment, use the REAL ID Document Check tool. This quick online tool asks you questions and creates a\u00a0...",
+   "htmlSnippet": "Nov 25, 2024 <b>...</b> Before your driver license appointment, use the <b>REAL ID</b> Document Check tool. This quick online tool asks you questions and creates a&nbsp;...",
+   "formattedUrl": "https://www.dps.texas.gov/section/driver-license/apply-texas-driver-license",
+   "htmlFormattedUrl": "https://www.dps.texas.gov/section/driver-license/apply-texas-driver-license",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Texas Increases Security Features, Unveils New Design for Driver ...",
+   "htmlTitle": "Texas Increases Security Features, Unveils New Design for Driver ...",
+   "link": "https://www.dps.texas.gov/news/texas-increases-security-features-unveils-new-design-driver-licenseid-and-license-carry-cards",
+   "displayLink": "www.dps.texas.gov",
+   "snippet": "Feb 26, 2020 ... 1, 2020, you'll need a valid passport, U.S. military ID or a REAL ID compliant driver license (one with the gold star) to travel on commercial\u00a0...",
+   "htmlSnippet": "Feb 26, 2020 <b>...</b> 1, 2020, you&#39;ll need a valid passport, U.S. military ID or a <b>REAL ID</b> compliant driver license (one with the gold star) to travel on commercial&nbsp;...",
+   "formattedUrl": "https://www.dps.texas.gov/.../texas-increases-security-features-unveils-new-...",
+   "htmlFormattedUrl": "https://www.dps.texas.gov/.../texas-increases-security-features-unveils-new-...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxmivwde8ttzi2pnrdxyCEF0VgamsDU6DsdsrYmLdm2Z1X7oh9-UhoKDGH&s",
+      "width": "336",
+      "height": "150"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dps.texas.gov/sites/default/files/import/pressReleases/2020/0227a/image1Sm.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "How Can We Help? | Department of Public Safety",
+   "htmlTitle": "How Can We Help? | Department of Public Safety",
+   "link": "https://www.dps.texas.gov/section/driver-license/how-can-we-help",
+   "displayLink": "www.dps.texas.gov",
+   "snippet": "Nov 13, 2020 ... Federal REAL ID Act and Checklist \u00b7 Tell us how we are doing. If the information above does not answer your questions, please visit our\u00a0...",
+   "htmlSnippet": "Nov 13, 2020 <b>...</b> Federal <b>REAL ID</b> Act and Checklist &middot; Tell us how we are doing. If the information above does not answer your questions, please visit our&nbsp;...",
+   "formattedUrl": "https://www.dps.texas.gov/section/driver-license/how-can-we-help",
+   "htmlFormattedUrl": "https://www.dps.texas.gov/section/driver-license/how-can-we-help",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  }
+ ]
+}

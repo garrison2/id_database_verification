@@ -1,0 +1,326 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://dmv.colorado.gov/ \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "30",
+    "searchTerms": "site:https://dmv.colorado.gov/ \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://dmv.colorado.gov/ \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "30",
+    "searchTerms": "site:https://dmv.colorado.gov/ \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.211773,
+  "formattedSearchTime": "0.21",
+  "totalResults": "30",
+  "formattedTotalResults": "30"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Colorado ID on iPhone and Apple Watch | Department of Revenue ...",
+   "htmlTitle": "Colorado ID on iPhone and Apple Watch | Department of Revenue ...",
+   "link": "https://dmv.colorado.gov/applewallet",
+   "displayLink": "dmv.colorado.gov",
+   "snippet": "... mobile ID readers and in select apps that require identity or age verification. ... The app's Colorado Digital ID\u2122 feature allows Coloradans to create and\u00a0...",
+   "htmlSnippet": "... <b>mobile ID</b> readers and in select apps that require identity or age verification. ... The app&#39;s Colorado <b>Digital ID</b>\u2122 feature allows Coloradans to create and&nbsp;...",
+   "formattedUrl": "https://dmv.colorado.gov/applewallet",
+   "htmlFormattedUrl": "https://dmv.colorado.gov/applewallet",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZuZXML8_25D5D3Ixur_2waZAeUw8kLL3hE4ZeTCmAjfATMlPEl0v0f4Q&s",
+      "width": "198",
+      "height": "255"
+     }
+    ],
+    "WebPage": [
+     {
+      "name": "Colorado ID on iPhone and Apple Watch"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.colorado.gov/sites/dmv/files/styles/original_size/public/iphoneapplewallet2-screen_0.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Colorado ID on Your Phone | Department of Revenue - Motor Vehicle",
+   "htmlTitle": "Colorado ID on Your Phone | Department of Revenue - Motor Vehicle",
+   "link": "https://dmv.colorado.gov/colorado-id-on-your-phone",
+   "displayLink": "dmv.colorado.gov",
+   "snippet": "a more streamlined verification process at eligible TSA security checkpoints and beyond! Apple Wallet. Front of an iphone with the Colorado mobile ID\u00a0...",
+   "htmlSnippet": "a more streamlined verification process at eligible TSA security checkpoints and beyond! Apple Wallet. Front of an iphone with the Colorado <b>mobile ID</b>&nbsp;...",
+   "formattedUrl": "https://dmv.colorado.gov/colorado-id-on-your-phone",
+   "htmlFormattedUrl": "https://dmv.colorado.gov/colorado-id-on-your-phone",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZuZXML8_25D5D3Ixur_2waZAeUw8kLL3hE4ZeTCmAjfATMlPEl0v0f4Q&s",
+      "width": "198",
+      "height": "255"
+     }
+    ],
+    "WebPage": [
+     {
+      "name": "Colorado ID on Your Phone",
+      "text": "Digital ResourcesBy adding your ID or driver\u2019s license to the designated wallet, you can enjoy a more streamlined verification process at eligible TSA security checkpoints and beyond!"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.colorado.gov/sites/dmv/files/styles/original_size/public/iphoneapplewallet2-screen_0.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Colorado ID in Google Wallet | Department of Revenue - Motor Vehicle",
+   "htmlTitle": "Colorado ID in Google Wallet | Department of Revenue - Motor Vehicle",
+   "link": "https://dmv.colorado.gov/colorado-id-in-google-wallet",
+   "displayLink": "dmv.colorado.gov",
+   "snippet": "The app's Colorado Digital ID\u2122 feature allows Coloradans to create and store an electronic version of their Colorado driver license or state-issued ID on their\u00a0...",
+   "htmlSnippet": "The app&#39;s Colorado <b>Digital ID</b>\u2122 feature allows Coloradans to create and store an electronic version of their Colorado driver license or state-issued ID on their&nbsp;...",
+   "formattedUrl": "https://dmv.colorado.gov/colorado-id-in-google-wallet",
+   "htmlFormattedUrl": "https://dmv.colorado.gov/colorado-id-in-google-wallet",
+   "pagemap": {
+    "WebPage": [
+     {
+      "name": "Colorado ID in Google Wallet"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Colorado ID in Samsung Wallet | Department of Revenue - Motor ...",
+   "htmlTitle": "Colorado ID in Samsung Wallet | Department of Revenue - Motor ...",
+   "link": "https://dmv.colorado.gov/colorado-id-in-samsung-wallet",
+   "displayLink": "dmv.colorado.gov",
+   "snippet": "Colorado Mobile ID is a voluntary, secure, digitized version of your state ... The Digital ID in myColorado app cannot be used at TSA PreCheck\u00ae security\u00a0...",
+   "htmlSnippet": "Colorado <b>Mobile ID</b> is a voluntary, secure, digitized version of your state ... The <b>Digital ID</b> in myColorado app cannot be used at TSA PreCheck\u00ae security&nbsp;...",
+   "formattedUrl": "https://dmv.colorado.gov/colorado-id-in-samsung-wallet",
+   "htmlFormattedUrl": "https://dmv.colorado.gov/colorado-id-in-samsung-wallet",
+   "pagemap": {
+    "WebPage": [
+     {
+      "name": "Colorado ID in Samsung Wallet"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Google Wallet Terms and Conditions | Department of Revenue ...",
+   "htmlTitle": "Google Wallet Terms and Conditions | Department of Revenue ...",
+   "link": "https://dmv.colorado.gov/google-wallet-terms-and-conditions",
+   "displayLink": "dmv.colorado.gov",
+   "snippet": "Aug 16, 2023 ... If the mDL has already been added to the Digital Wallet, CDOR DMV may remove the mDL if your credential has expired for more than one (1) year\u00a0...",
+   "htmlSnippet": "Aug 16, 2023 <b>...</b> If the <b>mDL</b> has already been added to the Digital Wallet, CDOR DMV may remove the <b>mDL</b> if your credential has expired for more than one (1) year&nbsp;...",
+   "formattedUrl": "https://dmv.colorado.gov/google-wallet-terms-and-conditions",
+   "htmlFormattedUrl": "https://dmv.colorado.gov/google-wallet-terms-and-conditions",
+   "pagemap": {
+    "WebPage": [
+     {
+      "name": "Google Wallet Terms and Conditions",
+      "text": "Colorado ID in Wallet Terms and Conditions Download the Google Wallet Terms and Conditions PDF here These Terms and Conditions apply when you add a Driver License or Identification Card issued..."
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Temporary Driver License and Identification | Department of ...",
+   "htmlTitle": "Temporary Driver License and Identification | Department of ...",
+   "link": "https://dmv.colorado.gov/temporary-driver-license-and-identification",
+   "displayLink": "dmv.colorado.gov",
+   "snippet": "You can utilize the MyColorado digital ID for most in-state purposes (not valid for TSA). Schedule an appointment to come into a DMV office to receive a paper\u00a0...",
+   "htmlSnippet": "You can utilize the MyColorado <b>digital ID</b> for most in-state purposes (not valid for TSA). Schedule an appointment to come into a DMV office to receive a paper&nbsp;...",
+   "formattedUrl": "https://dmv.colorado.gov/temporary-driver-license-and-identification",
+   "htmlFormattedUrl": "https://dmv.colorado.gov/temporary-driver-license-and-identification",
+   "pagemap": {
+    "WebPage": [
+     {
+      "name": "Temporary Driver License and Identification",
+      "text": "If you need a temporary driver license or ID, there are several options:If you renew your driver license online, your receipt and expired credential will act as your temporary credential.You..."
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver Credentials by Age Group | Department of Revenue - Motor ...",
+   "htmlTitle": "Driver Credentials by Age Group | Department of Revenue - Motor ...",
+   "link": "https://dmv.colorado.gov/driver-credentials-by-age-group",
+   "displayLink": "dmv.colorado.gov",
+   "snippet": "If you need to schedule a drive test, please reference our Colorado driving schools list. Colorado Digital ID \u00b7 General Information \u00b7 Replace Lost or Stolen\u00a0...",
+   "htmlSnippet": "If you need to schedule a drive test, please reference our Colorado driving schools list. Colorado <b>Digital ID</b> &middot; General Information &middot; Replace Lost or Stolen&nbsp;...",
+   "formattedUrl": "https://dmv.colorado.gov/driver-credentials-by-age-group",
+   "htmlFormattedUrl": "https://dmv.colorado.gov/driver-credentials-by-age-group",
+   "pagemap": {
+    "WebPage": [
+     {
+      "name": "Driver Credentials by Age Group",
+      "text": "<< Return to Driver License and ID Services Home Page"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DMV Anywhere. Yes, Anywhere! | Department of Revenue - Motor ...",
+   "htmlTitle": "DMV Anywhere. Yes, Anywhere! | Department of Revenue - Motor ...",
+   "link": "https://dmv.colorado.gov/anywhere",
+   "displayLink": "dmv.colorado.gov",
+   "snippet": "Colorado ID on Your Phone ... Colorado's ID on Your Phone is a free, secure, and convenient digital ID. By adding your ID or driver's license to the Apple, Google\u00a0...",
+   "htmlSnippet": "Colorado ID on Your Phone ... Colorado&#39;s ID on Your Phone is a free, secure, and convenient <b>digital ID</b>. By adding your ID or driver&#39;s license to the Apple, Google&nbsp;...",
+   "formattedUrl": "https://dmv.colorado.gov/anywhere",
+   "htmlFormattedUrl": "https://dmv.colorado.gov/anywhere",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4KtHmyTnRZDnUcQ0nRjNq3FOFYXl0z1rVilmO5gPFb8aEIXvHw9jtAuL0&s",
+      "width": "220",
+      "height": "220"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.colorado.gov/sites/dmv/files/styles/medium/public/0402-MyDMV-1.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Directory | Department of Revenue - Motor Vehicle",
+   "htmlTitle": "Directory | Department of Revenue - Motor Vehicle",
+   "link": "https://dmv.colorado.gov/directory",
+   "displayLink": "dmv.colorado.gov",
+   "snippet": "Digital ID on Phone \u00b7 Disability (Persons with) \u00b7 Disability Placards ... Mobile ID on Phone \u00b7 Motorcycle Endorsement \u00b7 Motor Vehicle Record \u00b7 MyColorado\u00a0...",
+   "htmlSnippet": "<b>Digital ID</b> on Phone &middot; Disability (Persons with) &middot; Disability Placards ... <b>Mobile ID</b> on Phone &middot; Motorcycle Endorsement &middot; Motor Vehicle Record &middot; MyColorado&nbsp;...",
+   "formattedUrl": "https://dmv.colorado.gov/directory",
+   "htmlFormattedUrl": "https://dmv.colorado.gov/directory",
+   "pagemap": {
+    "WebPage": [
+     {
+      "name": "Directory"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Now Coloradans can add their Driver License and State ID to ...",
+   "htmlTitle": "Now Coloradans can add their Driver License and State ID to ...",
+   "link": "https://dmv.colorado.gov/press-release/now-coloradans-can-add-their-driver-license-and-state-id-to-samsung-wallet",
+   "displayLink": "dmv.colorado.gov",
+   "snippet": "Nov 20, 2024 ... To learn more about how to save your ID on Samsung Wallet, visit https://www.samsung.com/us/apps/samsung-wallet/digital-id/. ###. Recent\u00a0...",
+   "htmlSnippet": "Nov 20, 2024 <b>...</b> To learn more about how to save your ID on Samsung Wallet, visit https://www.samsung.com/us/apps/samsung-wallet/<b>digital-id</b>/. ###. Recent&nbsp;...",
+   "formattedUrl": "https://dmv.colorado.gov/.../now-coloradans-can-add-their-driver-license-a...",
+   "htmlFormattedUrl": "https://dmv.colorado.gov/.../now-coloradans-can-add-their-driver-license-a...",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  }
+ ]
+}

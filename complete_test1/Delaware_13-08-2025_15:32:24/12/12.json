@@ -1,0 +1,349 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Delaware Code\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "totalResults": "8020",
+    "searchTerms": "\"Delaware Code\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Delaware Code\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "totalResults": "8020",
+    "searchTerms": "\"Delaware Code\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.21934,
+  "formattedSearchTime": "0.22",
+  "totalResults": "8020",
+  "formattedTotalResults": "8,020"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Delaware Code Online",
+   "htmlTitle": "<b>Delaware Code</b> Online",
+   "link": "https://delcode.delaware.gov/title21/c086/index.html",
+   "displayLink": "delcode.delaware.gov",
+   "snippet": "... retain, or fails to provide the information required by \u00a7 8606 of this ... Driver's license verification and data retention. (a) A peer-to-peer car\u00a0...",
+   "htmlSnippet": "... <b>retain</b>, or fails to provide the information required by \u00a7 8606 of this ... <b>Driver&#39;s license verification</b> and data <b>retention</b>. (a) A peer-to-peer car&nbsp;...",
+   "formattedUrl": "https://delcode.delaware.gov/title21/c086/index.html",
+   "htmlFormattedUrl": "https://delcode.delaware.gov/title21/c086/index.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width,initial-scale=1,maximum-scale=1.0",
+      "author": "Delaware Legislature"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Delaware Regulations - Regulation",
+   "htmlTitle": "Delaware Regulations - Regulation",
+   "link": "https://regulations.delaware.gov/register/april2017/final/20%20DE%20Reg%20830%2004-01-17.htm",
+   "displayLink": "regulations.delaware.gov",
+   "snippet": "... driver license or identification card, if such requirements exist. \"SAVE\" means the Department of Homeland Security's Systematic Alien Verification for\u00a0...",
+   "htmlSnippet": "... <b>driver license</b> or <b>identification card</b>, if such requirements exist. &quot;SAVE&quot; means the Department of Homeland Security&#39;s Systematic Alien <b>Verification</b> for&nbsp;...",
+   "formattedUrl": "https://regulations.delaware.gov/.../20%20DE%20Reg%20830%2004-01-1...",
+   "htmlFormattedUrl": "https://regulations.delaware.gov/.../20%20DE%20Reg%20830%2004-01-1...",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Legislation Document",
+   "htmlTitle": "Legislation Document",
+   "link": "https://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=141462&legislationTypeId=1&docTypeId=2&legislationName=HB416",
+   "displayLink": "legis.delaware.gov",
+   "snippet": "\u2014 All persons operating a low-speed vehicle on the highways of this State shall hold a valid driver's license. ... verification. Upon registration and\u00a0...",
+   "htmlSnippet": "\u2014 All persons operating a low-speed vehicle on the highways of this State shall hold a valid <b>driver&#39;s license</b>. ... <b>verification</b>. Upon registration and&nbsp;...",
+   "formattedUrl": "https://legis.delaware.gov/json/.../GenerateHtmlDocument?...1...2...",
+   "htmlFormattedUrl": "https://legis.delaware.gov/json/.../GenerateHtmlDocument?...1...2...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOHbmQEJh3aMtKbuaEiPH__HE66cCLRhHM30Y2AujrSSlLrWyQwMNT6w&s",
+      "width": "105",
+      "height": "100"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://legis.delaware.gov/Content/images/embedded/image002.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "July 2024",
+   "htmlTitle": "July 2024",
+   "link": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+   "displayLink": "dmv.de.gov",
+   "snippet": "Share a ride, conserve your trips or try public transit. ... The veteran indicator on a driver license/identification card can be obtained at all DMV locations.",
+   "htmlSnippet": "<b>Share</b> a ride, conserve your trips or try public transit. ... The veteran indicator on a <b>driver license</b>/<b>identification card</b> can be obtained at all DMV locations.",
+   "formattedUrl": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+   "htmlFormattedUrl": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmzUmhocmci_7-hluCd6JZCxyUnO4pCGFuofKaKWDLkEj_lhoJluXMcCw&s",
+      "width": "248",
+      "height": "203"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20240711204226-04'00'",
+      "creationdate": "D:20240711203637-04'00'",
+      "creator": "Adobe InDesign 19.4 (Macintosh)",
+      "producer": "Adobe PDF Library 17.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///ef6e900ac1f7c5dc83a97201e332da0bc0b0f6c038e9a0b6e6c8f27a8c52e10f"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Untitled",
+   "htmlTitle": "Untitled",
+   "link": "https://legis.delaware.gov/json/BillDetail/GetHtmlDocument?fileAttachmentId=27010",
+   "displayLink": "legis.delaware.gov",
+   "snippet": "Driver's License Requirement. All persons operating a low-speed vehicle on ... verification. Upon registration and renewal of a low-speed vehicle's\u00a0...",
+   "htmlSnippet": "<b>Driver&#39;s License</b> Requirement. All persons operating a low-speed vehicle on ... <b>verification</b>. Upon registration and renewal of a low-speed vehicle&#39;s&nbsp;...",
+   "formattedUrl": "https://legis.delaware.gov/json/BillDetail/GetHtmlDocument?...27010",
+   "htmlFormattedUrl": "https://legis.delaware.gov/json/BillDetail/GetHtmlDocument?...27010",
+   "pagemap": {
+    "metatags": [
+     {
+      "originator": "Microsoft Word 10",
+      "progid": "Word.Document"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "California Code, Civil Code - CIV \u00a7 1798.90.1 | FindLaw",
+   "htmlTitle": "California Code, Civil Code - CIV \u00a7 1798.90.1 | FindLaw",
+   "link": "https://codes.findlaw.com/ca/civil-code/civ-sect-1798-90-1/",
+   "displayLink": "codes.findlaw.com",
+   "snippet": "(A) To verify age or the authenticity of the driver's license or identification card. ... (B) Prior to scanning or swiping a driver's license or identification\u00a0...",
+   "htmlSnippet": "(A) To <b>verify</b> age or the authenticity of the <b>driver&#39;s license</b> or <b>identification card</b>. ... (B) Prior to <b>scanning</b> or <b>swiping</b> a <b>driver&#39;s license</b> or <b>identification</b>&nbsp;...",
+   "formattedUrl": "https://codes.findlaw.com/ca/civil-code/civ-sect-1798-90-1/",
+   "htmlFormattedUrl": "https://codes.findlaw.com/ca/civil-code/civ-sect-1798-90-1/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuWtKEZ0kzYj6NSuZlgNrAF5XcYIi9XgsiqHcAgQHtxY18xcWZ1bDMaCM&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png",
+      "og:type": "article",
+      "og:site_name": "Findlaw",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "California Code, Civil Code - CIV \u00a7 1798.90.1 | FindLaw",
+      "apple-mobile-web-app-title": "FindLaw",
+      "og:url": "https://codes.findlaw.com/ca/civil-code/civ-sect-1798-90-1/",
+      "og:description": "California Civil Code CIV CA CIVIL  Section 1798.90.1. Read the code on FindLaw"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Engrossment",
+   "htmlTitle": "Engrossment",
+   "link": "https://legis.delaware.gov/json/BillDetail/GenerateHtmlDocumentEngrossment?engrossmentId=37586&docTypeId=6",
+   "displayLink": "legis.delaware.gov",
+   "snippet": "... DELAWARE CODE RELATING TO ... scan, and retain as proof of age verification, the required State issued driver's license or State issued identification card.",
+   "htmlSnippet": "... <b>DELAWARE CODE</b> RELATING TO ... <b>scan</b>, and <b>retain</b> as proof of age <b>verification</b>, the required State issued <b>driver&#39;s license</b> or State issued <b>identification card</b>.",
+   "formattedUrl": "https://legis.delaware.gov/json/.../GenerateHtmlDocumentEngrossment?...",
+   "htmlFormattedUrl": "https://legis.delaware.gov/json/.../GenerateHtmlDocumentEngrossment?...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOHbmQEJh3aMtKbuaEiPH__HE66cCLRhHM30Y2AujrSSlLrWyQwMNT6w&s",
+      "width": "105",
+      "height": "100"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://legis.delaware.gov/Content/images/embedded/image002.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "21 Delaware Code \u00a7 2760 (2024) - Duplication, reproduction ...",
+   "htmlTitle": "21 <b>Delaware Code</b> \u00a7 2760 (2024) - Duplication, reproduction ...",
+   "link": "https://law.justia.com/codes/delaware/title-21/chapter-27/subchapter-iv/section-2760/",
+   "displayLink": "law.justia.com",
+   "snippet": "Driver's License Subchapter IV. Penalties \u00a7 2760. Duplication ... driver license or identification card. If the Division of Motor Vehicles has\u00a0...",
+   "htmlSnippet": "<b>Driver&#39;s License</b> Subchapter IV. Penalties \u00a7 2760. Duplication ... <b>driver license</b> or <b>identification card</b>. If the Division of Motor Vehicles has&nbsp;...",
+   "formattedUrl": "https://law.justia.com/codes/delaware/title-21/chapter-27/.../section-2760/",
+   "htmlFormattedUrl": "https://law.justia.com/codes/delaware/title-21/chapter-27/.../section-2760/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPP2ksOfM4IyWL7PTxPyS5N80Or-jyXZZLgeH1kYuOtXk5YU597YCxGszS&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "og:site_name": "Justia Law",
+      "og:title": "2024 Delaware Code :: Title 21 - Motor Vehicles :: Chapter 27. Driver\u2019s License :: Subchapter IV. Penalties :: &sect; 2760. Duplication, reproduction, manufacture and sale, altering, or counterfeiting of driver licenses or identification cards; presenting fraudulent identification and driving authority source documents.",
+      "og:app_id": "119529808075661",
+      "trigger-ga": "1",
+      "og:description": "Justia Free Databases of U.S. Laws, Codes & Statutes",
+      "og:admins": "656268335,686786921,25900864",
+      "referrer": "unsafe-url",
+      "twitter:site": "@JustiaCom",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "page-type": "Law: Codes Document Page (Current Year)",
+      "is-li": "0",
+      "og:url": "https://law.justia.com/codes/delaware/title-21/chapter-27/subchapter-iv/section-2760/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Frequently Asked Questions - Delaware Notary Public - State of ...",
+   "htmlTitle": "Frequently Asked Questions - Delaware Notary Public - State of ...",
+   "link": "https://notary.delaware.gov/faqs/",
+   "displayLink": "notary.delaware.gov",
+   "snippet": "Effective August 1, 2023, All Notaries commissioned are required to maintain a journal. ... transmit the journal to the Delaware Notary Administrator. What\u00a0...",
+   "htmlSnippet": "Effective August 1, 2023, All Notaries commissioned are required to <b>maintain</b> a journal. ... <b>transmit</b> the journal to the Delaware Notary Administrator. What&nbsp;...",
+   "formattedUrl": "https://notary.delaware.gov/faqs/",
+   "htmlFormattedUrl": "https://notary.delaware.gov/faqs/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZjw4EskX1ZoyeRaYCvJ32q2HK5cu6h2vKo4BfB7KQHNH3tSMCd_roiwBx&s",
+      "width": "225",
+      "height": "224"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffffff",
+      "theme-color": "#ffffff",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Delaware Notary Public - State of Delaware",
+      "og:title": "Frequently Asked Questions - Delaware Notary Public - State of Delaware",
+      "twitter:label1": "Est. reading time",
+      "msapplication-tileimage": "https://notary.delaware.gov/wp-content/themes/dosgic_NOTARY_theme/img/ms-icon-144x144.png",
+      "og:description": "The State of Delaware is not issuing electronic notary commissions at this time. The questions and answers below pertain to traditional paper notaries only.",
+      "twitter:data1": "13 minutes",
+      "article:modified_time": "2024-11-20T11:35:20+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "domain": "notary",
+      "og:locale": "en_US",
+      "published_at": "2024-11-20",
+      "og:url": "https://notary.delaware.gov/faqs/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://notary.delaware.gov/wp-content/themes/dosgic_NOTARY_theme/img/notary-badge.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "VOTER REGISTRATION FAQS",
+   "htmlTitle": "VOTER REGISTRATION FAQS",
+   "link": "https://elections.delaware.gov/voter/pdfs/VoterRegistrationFAQs.pdf",
+   "displayLink": "elections.delaware.gov",
+   "snippet": "32 states and District of Columbia that securely share information regarding individuals who have registered to vote or to obtain a driver's license or state ID\u00a0...",
+   "htmlSnippet": "32 states and District of Columbia that securely <b>share</b> information regarding individuals who have registered to vote or to obtain a <b>driver&#39;s license</b> or state ID&nbsp;...",
+   "formattedUrl": "https://elections.delaware.gov/voter/pdfs/VoterRegistrationFAQs.pdf",
+   "htmlFormattedUrl": "https://elections.delaware.gov/voter/pdfs/VoterRegistrationFAQs.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDCuQFklEsC8aSDd1O5fq5zo20EF3PKLs3-LlvhhSPWbZuQKApqob5Ez0&s",
+      "width": "220",
+      "height": "229"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20230303121231-05'00'",
+      "creationdate": "D:20230303121231-05'00'",
+      "author": "Cathleen.Carter",
+      "producer": "Microsoft: Print To PDF",
+      "title": "Microsoft PowerPoint - Voter Registration FAQs"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///d350cd7813e9b616a8ba1913e7fe79c2e89d3dfe60f5b85386e192ece6b389cc"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

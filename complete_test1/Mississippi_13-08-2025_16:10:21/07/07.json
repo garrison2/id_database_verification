@@ -1,0 +1,566 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:play.google.com \"Mississippi\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "975",
+    "searchTerms": "site:play.google.com \"Mississippi\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:play.google.com \"Mississippi\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "975",
+    "searchTerms": "site:play.google.com \"Mississippi\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.153411,
+  "formattedSearchTime": "0.15",
+  "totalResults": "975",
+  "formattedTotalResults": "975"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Mississippi Mobile ID - Apps on Google Play",
+   "htmlTitle": "<b>Mississippi Mobile ID</b> - Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.ms",
+   "displayLink": "play.google.com",
+   "snippet": "Including layers of security and privacy controls, Mississippi Mobile ID is a contactless, convenient way to verify your identity from your phone.",
+   "htmlSnippet": "Including layers of security and privacy controls, <b>Mississippi Mobile ID</b> is a contactless, convenient way to verify your identity from your phone.",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.ms",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.idemia.<b>mobileid</b>.us.ms",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.ms&rdid=com.idemia.mobileid.us.ms&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5nzY-MsxW7UimEIfjhv6Pb9us56u93e1-go6lQCR-g75T10jl1S8At7U&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/1QQMe4orkZQXtyDsK73euWSRjqpS7mDNDdB2ehb0OF1Q-pt8gegJXVdqkOS4Hfam2bo",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Mississippi Mobile ID - Apps on Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.ms&hl=en_US",
+      "appstore:developer_url": "https://idemia-mobile-id.com/help/en-us/mid",
+      "og:title": "Mississippi Mobile ID - Apps on Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/1QQMe4orkZQXtyDsK73euWSRjqpS7mDNDdB2ehb0OF1Q-pt8gegJXVdqkOS4Hfam2bo=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.idemia.mobileid.us.ms",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.idemia.mobileid.us.ms",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "MS official digital ID",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.ms&hl=en_US"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/1QQMe4orkZQXtyDsK73euWSRjqpS7mDNDdB2ehb0OF1Q-pt8gegJXVdqkOS4Hfam2bo"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mississippi Mobile ID \u2013 Apps on Google Play",
+   "htmlTitle": "<b>Mississippi Mobile ID</b> \u2013 Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details/Mississippi_Mobile_ID?id=com.idemia.mobileid.us.ms&hl=en_ZA",
+   "displayLink": "play.google.com",
+   "snippet": "Including layers of security and privacy controls, Mississippi Mobile ID is a contactless, convenient way to verify your identity from your phone.",
+   "htmlSnippet": "Including layers of security and privacy controls, <b>Mississippi Mobile ID</b> is a contactless, convenient way to verify your identity from your phone.",
+   "formattedUrl": "https://play.google.com/store/.../Mississippi_Mobile_ID?id...mobileid.us...",
+   "htmlFormattedUrl": "https://play.google.com/store/.../<b>Mississippi</b>_<b>Mobile_ID</b>?id...<b>mobileid</b>.us...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.ms&rdid=com.idemia.mobileid.us.ms&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5nzY-MsxW7UimEIfjhv6Pb9us56u93e1-go6lQCR-g75T10jl1S8At7U&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/1QQMe4orkZQXtyDsK73euWSRjqpS7mDNDdB2ehb0OF1Q-pt8gegJXVdqkOS4Hfam2bo",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Mississippi Mobile ID \u2013 Apps on Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details/Mississippi_Mobile_ID?id=com.idemia.mobileid.us.ms&hl=en_ZA",
+      "appstore:developer_url": "https://idemia-mobile-id.com/help/en-us/mid",
+      "og:title": "Mississippi Mobile ID \u2013 Apps on Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/1QQMe4orkZQXtyDsK73euWSRjqpS7mDNDdB2ehb0OF1Q-pt8gegJXVdqkOS4Hfam2bo=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.idemia.mobileid.us.ms",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.idemia.mobileid.us.ms",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "MS official digital ID",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details/Mississippi_Mobile_ID?id=com.idemia.mobileid.us.ms&hl=en_ZA"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/1QQMe4orkZQXtyDsK73euWSRjqpS7mDNDdB2ehb0OF1Q-pt8gegJXVdqkOS4Hfam2bo"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mississippi Mobile ID - Apps en Google Play",
+   "htmlTitle": "<b>Mississippi Mobile ID</b> - Apps en Google Play",
+   "link": "https://play.google.com/store/apps/details/Mississippi_Mobile_ID?id=com.idemia.mobileid.us.ms&hl=es_UY",
+   "displayLink": "play.google.com",
+   "snippet": "Con capas de controles de seguridad y privacidad, Mississippi Mobile ID es una forma conveniente y sin contacto de verificar su identidad desde su tel\u00e9fono.",
+   "htmlSnippet": "Con capas de controles de seguridad y privacidad, <b>Mississippi Mobile ID</b> es una forma conveniente y sin contacto de verificar su identidad desde su tel\u00e9fono.",
+   "formattedUrl": "https://play.google.com/store/.../Mississippi_Mobile_ID?id...mobileid.us...",
+   "htmlFormattedUrl": "https://play.google.com/store/.../<b>Mississippi</b>_<b>Mobile_ID</b>?id...<b>mobileid</b>.us...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.ms&rdid=com.idemia.mobileid.us.ms&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5nzY-MsxW7UimEIfjhv6Pb9us56u93e1-go6lQCR-g75T10jl1S8At7U&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/1QQMe4orkZQXtyDsK73euWSRjqpS7mDNDdB2ehb0OF1Q-pt8gegJXVdqkOS4Hfam2bo",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Mississippi Mobile ID - Apps en Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details/Mississippi_Mobile_ID?id=com.idemia.mobileid.us.ms&hl=es_UY",
+      "appstore:developer_url": "https://idemia-mobile-id.com/help/en-us/mid",
+      "og:title": "Mississippi Mobile ID - Apps en Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/1QQMe4orkZQXtyDsK73euWSRjqpS7mDNDdB2ehb0OF1Q-pt8gegJXVdqkOS4Hfam2bo=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.idemia.mobileid.us.ms",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.idemia.mobileid.us.ms",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Identificaci\u00f3n digital oficial de MS",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details/Mississippi_Mobile_ID?id=com.idemia.mobileid.us.ms&hl=es_UY"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/1QQMe4orkZQXtyDsK73euWSRjqpS7mDNDdB2ehb0OF1Q-pt8gegJXVdqkOS4Hfam2bo"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mississippi Mobile ID - Aplikasi di Google Play",
+   "htmlTitle": "<b>Mississippi Mobile ID</b> - Aplikasi di Google Play",
+   "link": "https://play.google.com/store/apps/details/Mississippi_Mobile_ID?id=com.idemia.mobileid.us.ms&hl=id",
+   "displayLink": "play.google.com",
+   "snippet": "Termasuk lapisan kontrol keamanan dan privasi, Mississippi Mobile ID adalah cara tanpa kontak dan nyaman untuk memverifikasi identitas Anda dari ponsel Anda\u00a0...",
+   "htmlSnippet": "Termasuk lapisan kontrol keamanan dan privasi, <b>Mississippi Mobile ID</b> adalah cara tanpa kontak dan nyaman untuk memverifikasi identitas Anda dari ponsel Anda&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/.../Mississippi_Mobile_ID?...mobileid...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/.../<b>Mississippi</b>_<b>Mobile_ID</b>?...<b>mobileid</b>...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.ms&rdid=com.idemia.mobileid.us.ms&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5nzY-MsxW7UimEIfjhv6Pb9us56u93e1-go6lQCR-g75T10jl1S8At7U&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/1QQMe4orkZQXtyDsK73euWSRjqpS7mDNDdB2ehb0OF1Q-pt8gegJXVdqkOS4Hfam2bo",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Mississippi Mobile ID - Aplikasi di Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details/Mississippi_Mobile_ID?id=com.idemia.mobileid.us.ms&hl=id",
+      "appstore:developer_url": "https://idemia-mobile-id.com/help/en-us/mid",
+      "og:title": "Mississippi Mobile ID - Aplikasi di Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/1QQMe4orkZQXtyDsK73euWSRjqpS7mDNDdB2ehb0OF1Q-pt8gegJXVdqkOS4Hfam2bo=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.idemia.mobileid.us.ms",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.idemia.mobileid.us.ms",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "ID digital resmi MS",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details/Mississippi_Mobile_ID?id=com.idemia.mobileid.us.ms&hl=id"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/1QQMe4orkZQXtyDsK73euWSRjqpS7mDNDdB2ehb0OF1Q-pt8gegJXVdqkOS4Hfam2bo"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mississippi Mobile ID - Google Play \u4e0a\u7684\u5e94\u7528",
+   "htmlTitle": "<b>Mississippi Mobile ID</b> - Google Play \u4e0a\u7684\u5e94\u7528",
+   "link": "https://play.google.com/store/apps/details/Mississippi_Mobile_ID?id=com.idemia.mobileid.us.ms&hl=zh",
+   "displayLink": "play.google.com",
+   "snippet": "Jul 8, 2025 ... Mississippi Mobile ID \u5305\u62ec\u591a\u5c42\u5b89\u5168\u548c\u9690\u79c1\u63a7\u5236\uff0c\u662f\u4e00\u79cd\u901a\u8fc7\u624b\u673a\u9a8c\u8bc1\u60a8\u8eab\u4efd\u7684\u975e\u63a5\u89e6\u5f0f\u4fbf\u6377\u65b9\u5f0f\u3002 Mississippi Mobile ID \u5141\u8bb8\u60a8\u63a7\u5236\u5728\u4ea4\u6613\u671f\u95f4\u5171\u4eab\u7684\u00a0...",
+   "htmlSnippet": "Jul 8, 2025 <b>...</b> <b>Mississippi Mobile ID</b> \u5305\u62ec\u591a\u5c42\u5b89\u5168\u548c\u9690\u79c1\u63a7\u5236\uff0c\u662f\u4e00\u79cd\u901a\u8fc7\u624b\u673a\u9a8c\u8bc1\u60a8\u8eab\u4efd\u7684\u975e\u63a5\u89e6\u5f0f\u4fbf\u6377\u65b9\u5f0f\u3002 <b>Mississippi Mobile ID</b> \u5141\u8bb8\u60a8\u63a7\u5236\u5728\u4ea4\u6613\u671f\u95f4\u5171\u4eab\u7684&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/.../Mississippi_Mobile_ID?...mobileid...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/.../<b>Mississippi</b>_<b>Mobile_ID</b>?...<b>mobileid</b>...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.ms&rdid=com.idemia.mobileid.us.ms&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5nzY-MsxW7UimEIfjhv6Pb9us56u93e1-go6lQCR-g75T10jl1S8At7U&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/1QQMe4orkZQXtyDsK73euWSRjqpS7mDNDdB2ehb0OF1Q-pt8gegJXVdqkOS4Hfam2bo",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Mississippi Mobile ID - Google Play \u4e0a\u7684\u5e94\u7528",
+      "twitter:url": "https://play.google.com/store/apps/details/Mississippi_Mobile_ID?id=com.idemia.mobileid.us.ms&hl=zh",
+      "appstore:developer_url": "https://idemia-mobile-id.com/help/en-us/mid",
+      "og:title": "Mississippi Mobile ID - Google Play \u4e0a\u7684\u5e94\u7528",
+      "twitter:image": "https://play-lh.googleusercontent.com/1QQMe4orkZQXtyDsK73euWSRjqpS7mDNDdB2ehb0OF1Q-pt8gegJXVdqkOS4Hfam2bo=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.idemia.mobileid.us.ms",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.idemia.mobileid.us.ms",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "MS\u5b98\u65b9\u6570\u5b57\u8eab\u4efd\u8bc1",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details/Mississippi_Mobile_ID?id=com.idemia.mobileid.us.ms&hl=zh"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/1QQMe4orkZQXtyDsK73euWSRjqpS7mDNDdB2ehb0OF1Q-pt8gegJXVdqkOS4Hfam2bo"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mississippi Mobile ID - Google Play \u61c9\u7528\u7a0b\u5f0f",
+   "htmlTitle": "<b>Mississippi Mobile ID</b> - Google Play \u61c9\u7528\u7a0b\u5f0f",
+   "link": "https://play.google.com/store/apps/details/Mississippi_Mobile_ID?id=com.idemia.mobileid.us.ms&hl=zh_HK",
+   "displayLink": "play.google.com",
+   "snippet": "Nov 21, 2024 ... Mississippi Mobile ID \u5305\u62ec\u591a\u5c64\u5b89\u5168\u548c\u96b1\u79c1\u63a7\u5236\uff0c\u662f\u4e00\u7a2e\u901a\u904e\u624b\u6a5f\u9a57\u8b49\u60a8\u8eab\u4efd\u7684\u975e\u63a5\u89f8\u5f0f\u4fbf\u6377\u65b9\u5f0f\u3002 Mississippi Mobile ID \u5141\u8a31\u60a8\u63a7\u5236\u5728\u4ea4\u6613\u671f\u9593\u5171\u4eab\u7684\u00a0...",
+   "htmlSnippet": "Nov 21, 2024 <b>...</b> <b>Mississippi Mobile ID</b> \u5305\u62ec\u591a\u5c64\u5b89\u5168\u548c\u96b1\u79c1\u63a7\u5236\uff0c\u662f\u4e00\u7a2e\u901a\u904e\u624b\u6a5f\u9a57\u8b49\u60a8\u8eab\u4efd\u7684\u975e\u63a5\u89f8\u5f0f\u4fbf\u6377\u65b9\u5f0f\u3002 <b>Mississippi Mobile ID</b> \u5141\u8a31\u60a8\u63a7\u5236\u5728\u4ea4\u6613\u671f\u9593\u5171\u4eab\u7684&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/.../Mississippi_Mobile_ID?id...mobileid.us...",
+   "htmlFormattedUrl": "https://play.google.com/store/.../<b>Mississippi</b>_<b>Mobile_ID</b>?id...<b>mobileid</b>.us...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.ms&rdid=com.idemia.mobileid.us.ms&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5nzY-MsxW7UimEIfjhv6Pb9us56u93e1-go6lQCR-g75T10jl1S8At7U&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/1QQMe4orkZQXtyDsK73euWSRjqpS7mDNDdB2ehb0OF1Q-pt8gegJXVdqkOS4Hfam2bo",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Mississippi Mobile ID - Google Play \u61c9\u7528\u7a0b\u5f0f",
+      "twitter:url": "https://play.google.com/store/apps/details/Mississippi_Mobile_ID?id=com.idemia.mobileid.us.ms&hl=zh_HK",
+      "appstore:developer_url": "https://idemia-mobile-id.com/help/en-us/mid",
+      "og:title": "Mississippi Mobile ID - Google Play \u61c9\u7528\u7a0b\u5f0f",
+      "twitter:image": "https://play-lh.googleusercontent.com/1QQMe4orkZQXtyDsK73euWSRjqpS7mDNDdB2ehb0OF1Q-pt8gegJXVdqkOS4Hfam2bo=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.idemia.mobileid.us.ms",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.idemia.mobileid.us.ms",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "MS\u5b98\u65b9\u6578\u5b57\u8eab\u4efd\u8b49",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details/Mississippi_Mobile_ID?id=com.idemia.mobileid.us.ms&hl=zh_HK"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/1QQMe4orkZQXtyDsK73euWSRjqpS7mDNDdB2ehb0OF1Q-pt8gegJXVdqkOS4Hfam2bo"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mississippi Mobile ID \u2013 \u201eGoogle Play\u201c programos",
+   "htmlTitle": "<b>Mississippi Mobile ID</b> \u2013 \u201eGoogle Play\u201c programos",
+   "link": "https://play.google.com/store/apps/details/Mississippi_Mobile_ID?id=com.idemia.mobileid.us.ms&hl=lt",
+   "displayLink": "play.google.com",
+   "snippet": "Mississippi Mobile ID \u2013 \u201eGoogle Play\u201c programos. \u017daidimai \u00b7 Programos \u00b7 Filmai ir televizija \u00b7 Knygos \u00b7 Vaikai \u00b7 google_logo Play. \u017daidimai.",
+   "htmlSnippet": "<b>Mississippi Mobile ID</b> \u2013 \u201eGoogle Play\u201c programos. \u017daidimai &middot; Programos &middot; Filmai ir televizija &middot; Knygos &middot; Vaikai &middot; google_logo Play. \u017daidimai.",
+   "formattedUrl": "https://play.google.com/store/apps/.../Mississippi_Mobile_ID?...mobileid...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/.../<b>Mississippi</b>_<b>Mobile_ID</b>?...<b>mobileid</b>...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.ms&rdid=com.idemia.mobileid.us.ms&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5nzY-MsxW7UimEIfjhv6Pb9us56u93e1-go6lQCR-g75T10jl1S8At7U&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/1QQMe4orkZQXtyDsK73euWSRjqpS7mDNDdB2ehb0OF1Q-pt8gegJXVdqkOS4Hfam2bo",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Mississippi Mobile ID \u2013 \u201eGoogle Play\u201c programos",
+      "twitter:url": "https://play.google.com/store/apps/details/Mississippi_Mobile_ID?id=com.idemia.mobileid.us.ms&hl=lt",
+      "appstore:developer_url": "https://idemia-mobile-id.com/help/en-us/mid",
+      "og:title": "Mississippi Mobile ID \u2013 \u201eGoogle Play\u201c programos",
+      "twitter:image": "https://play-lh.googleusercontent.com/1QQMe4orkZQXtyDsK73euWSRjqpS7mDNDdB2ehb0OF1Q-pt8gegJXVdqkOS4Hfam2bo=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.idemia.mobileid.us.ms",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.idemia.mobileid.us.ms",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "MS oficialus skaitmeninis ID",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details/Mississippi_Mobile_ID?id=com.idemia.mobileid.us.ms&hl=lt"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/1QQMe4orkZQXtyDsK73euWSRjqpS7mDNDdB2ehb0OF1Q-pt8gegJXVdqkOS4Hfam2bo"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mississippi Mobile ID \u2013 Aplikace na Google Play",
+   "htmlTitle": "<b>Mississippi Mobile ID</b> \u2013 Aplikace na Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.ms&hl=cs",
+   "displayLink": "play.google.com",
+   "snippet": "Mississippi Mobile ID, v\u010detn\u011b vrstev zabezpe\u010den\u00ed a ochrany soukrom\u00ed, je bezkontaktn\u00ed a pohodln\u00fd zp\u016fsob, jak ov\u011b\u0159it va\u0161i identitu z telefonu.",
+   "htmlSnippet": "<b>Mississippi Mobile ID</b>, v\u010detn\u011b vrstev zabezpe\u010den\u00ed a ochrany soukrom\u00ed, je bezkontaktn\u00ed a pohodln\u00fd zp\u016fsob, jak ov\u011b\u0159it va\u0161i identitu z telefonu.",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.idemia.<b>mobileid</b>.us...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.ms&rdid=com.idemia.mobileid.us.ms&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5nzY-MsxW7UimEIfjhv6Pb9us56u93e1-go6lQCR-g75T10jl1S8At7U&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/1QQMe4orkZQXtyDsK73euWSRjqpS7mDNDdB2ehb0OF1Q-pt8gegJXVdqkOS4Hfam2bo",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Mississippi Mobile ID \u2013 Aplikace na Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.ms&hl=cs",
+      "appstore:developer_url": "https://idemia-mobile-id.com/help/en-us/mid",
+      "og:title": "Mississippi Mobile ID \u2013 Aplikace na Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/1QQMe4orkZQXtyDsK73euWSRjqpS7mDNDdB2ehb0OF1Q-pt8gegJXVdqkOS4Hfam2bo=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.idemia.mobileid.us.ms",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.idemia.mobileid.us.ms",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Ofici\u00e1ln\u00ed digit\u00e1ln\u00ed ID MS",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.ms&hl=cs"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/1QQMe4orkZQXtyDsK73euWSRjqpS7mDNDdB2ehb0OF1Q-pt8gegJXVdqkOS4Hfam2bo"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mississippi Mobile ID - Google Play \u0aaa\u0ab0 \u0a8d\u0aaa\u0acd\u0ab2\u0abf\u0a95\u0ac7\u0ab6\u0aa8\u0acb",
+   "htmlTitle": "<b>Mississippi Mobile ID</b> - Google Play \u0aaa\u0ab0 \u0a8d\u0aaa\u0acd\u0ab2\u0abf\u0a95\u0ac7\u0ab6\u0aa8\u0acb",
+   "link": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.ms&hl=gu",
+   "displayLink": "play.google.com",
+   "snippet": "Mississippi Mobile ID \u00b7 \u0a86 \u0a8d\u0aaa\u0aa8\u0ac1\u0a82 \u0ab5\u0ab0\u0acd\u0aa3\u0aa8 \u00b7 \u0aa1\u0ac7\u0a9f\u0abe \u0ab8\u0ab2\u0abe\u0aae\u0aa4\u0ac0 \u00b7 \u0ab0\u0ac7\u0a9f\u0abf\u0a82\u0a97 \u0a85\u0aa8\u0ac7 \u0ab0\u0abf\u0ab5\u0acd\u0aaf\u0ac2 \u00b7 \u0aa8\u0ab5\u0ac1\u0a82 \u0ab6\u0ac1\u0a82 \u0a9b\u0ac7 \u00b7 \u0a8d\u0aaa \u0ab8\u0aaa\u0acb\u0ab0\u0acd\u0a9f \u00b7 Idemia R&D \u0aa6\u0acd\u0ab5\u0abe\u0ab0\u0abe \u0ab5\u0aa7\u0ac1 \u00b7 \u0ab8\u0aae\u0abe\u0aa8 \u0a8d\u0aaa\u0acd\u0ab2\u0abf\u0a95\u0ac7\u0ab6\u0aa8\u0acb.",
+   "htmlSnippet": "<b>Mississippi Mobile ID</b> &middot; \u0a86 \u0a8d\u0aaa\u0aa8\u0ac1\u0a82 \u0ab5\u0ab0\u0acd\u0aa3\u0aa8 &middot; \u0aa1\u0ac7\u0a9f\u0abe \u0ab8\u0ab2\u0abe\u0aae\u0aa4\u0ac0 &middot; \u0ab0\u0ac7\u0a9f\u0abf\u0a82\u0a97 \u0a85\u0aa8\u0ac7 \u0ab0\u0abf\u0ab5\u0acd\u0aaf\u0ac2 &middot; \u0aa8\u0ab5\u0ac1\u0a82 \u0ab6\u0ac1\u0a82 \u0a9b\u0ac7 &middot; \u0a8d\u0aaa \u0ab8\u0aaa\u0acb\u0ab0\u0acd\u0a9f &middot; Idemia R&amp;D \u0aa6\u0acd\u0ab5\u0abe\u0ab0\u0abe \u0ab5\u0aa7\u0ac1 &middot; \u0ab8\u0aae\u0abe\u0aa8 \u0a8d\u0aaa\u0acd\u0ab2\u0abf\u0a95\u0ac7\u0ab6\u0aa8\u0acb.",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.idemia.<b>mobileid</b>.us...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.ms&rdid=com.idemia.mobileid.us.ms&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5nzY-MsxW7UimEIfjhv6Pb9us56u93e1-go6lQCR-g75T10jl1S8At7U&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/1QQMe4orkZQXtyDsK73euWSRjqpS7mDNDdB2ehb0OF1Q-pt8gegJXVdqkOS4Hfam2bo",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Mississippi Mobile ID - Google Play \u0aaa\u0ab0 \u0a8d\u0aaa\u0acd\u0ab2\u0abf\u0a95\u0ac7\u0ab6\u0aa8\u0acb",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.ms&hl=gu",
+      "appstore:developer_url": "https://idemia-mobile-id.com/help/en-us/mid",
+      "og:title": "Mississippi Mobile ID - Google Play \u0aaa\u0ab0 \u0a8d\u0aaa\u0acd\u0ab2\u0abf\u0a95\u0ac7\u0ab6\u0aa8\u0acb",
+      "twitter:image": "https://play-lh.googleusercontent.com/1QQMe4orkZQXtyDsK73euWSRjqpS7mDNDdB2ehb0OF1Q-pt8gegJXVdqkOS4Hfam2bo=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.idemia.mobileid.us.ms",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.idemia.mobileid.us.ms",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "MS \u0ab8\u0aa4\u0acd\u0aa4\u0abe\u0ab5\u0abe\u0ab0 \u0aa1\u0abf\u0a9c\u0abf\u0a9f\u0ab2 ID",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.ms&hl=gu"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/1QQMe4orkZQXtyDsK73euWSRjqpS7mDNDdB2ehb0OF1Q-pt8gegJXVdqkOS4Hfam2bo"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mississippi Mobile ID - Google Play \u09a4\u09c7 \u0985\u09cd\u09af\u09be\u09aa",
+   "htmlTitle": "<b>Mississippi Mobile ID</b> - Google Play \u09a4\u09c7 \u0985\u09cd\u09af\u09be\u09aa",
+   "link": "https://play.google.com/store/apps/details/Mississippi_Mobile_ID?id=com.idemia.mobileid.us.ms&hl=bn",
+   "displayLink": "play.google.com",
+   "snippet": "Mississippi Mobile ID \u00b7 \u098f\u0987 \u0985\u09cd\u09af\u09be\u09aa \u09b8\u09ae\u09cd\u09aa\u09b0\u09cd\u0995\u09c7 \u00b7 \u09a1\u09c7\u099f\u09be \u09b8\u09c1\u09b0\u0995\u09cd\u09b7\u09be \u00b7 \u09b0\u09c7\u099f\u09bf\u0982 \u0993 \u09aa\u09b0\u09cd\u09af\u09be\u09b2\u09cb\u099a\u09a8\u09be\u0997\u09c1\u09b2\u09bf \u00b7 \u09a8\u09a4\u09c1\u09a8 \u0995\u09c0 \u0986\u099b\u09c7 \u00b7 \u0985\u09cd\u09af\u09be\u09aa \u09b8\u09b9\u09be\u09af\u09bc\u09a4\u09be \u00b7 Idemia R&D-\u098f\u09b0 \u09a5\u09c7\u0995\u09c7 \u0986\u09b0\u0993 \u00b7 \u098f\u0995\u0987 \u09a7\u09b0\u09a8\u09c7\u09b0 \u0985\u09cd\u09af\u09be\u09aa.",
+   "htmlSnippet": "<b>Mississippi Mobile ID</b> &middot; \u098f\u0987 \u0985\u09cd\u09af\u09be\u09aa \u09b8\u09ae\u09cd\u09aa\u09b0\u09cd\u0995\u09c7 &middot; \u09a1\u09c7\u099f\u09be \u09b8\u09c1\u09b0\u0995\u09cd\u09b7\u09be &middot; \u09b0\u09c7\u099f\u09bf\u0982 \u0993 \u09aa\u09b0\u09cd\u09af\u09be\u09b2\u09cb\u099a\u09a8\u09be\u0997\u09c1\u09b2\u09bf &middot; \u09a8\u09a4\u09c1\u09a8 \u0995\u09c0 \u0986\u099b\u09c7 &middot; \u0985\u09cd\u09af\u09be\u09aa \u09b8\u09b9\u09be\u09af\u09bc\u09a4\u09be &middot; Idemia R&amp;D-\u098f\u09b0 \u09a5\u09c7\u0995\u09c7 \u0986\u09b0\u0993 &middot; \u098f\u0995\u0987 \u09a7\u09b0\u09a8\u09c7\u09b0 \u0985\u09cd\u09af\u09be\u09aa.",
+   "formattedUrl": "https://play.google.com/store/apps/.../Mississippi_Mobile_ID?...mobileid...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/.../<b>Mississippi</b>_<b>Mobile_ID</b>?...<b>mobileid</b>...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.ms&rdid=com.idemia.mobileid.us.ms&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5nzY-MsxW7UimEIfjhv6Pb9us56u93e1-go6lQCR-g75T10jl1S8At7U&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/1QQMe4orkZQXtyDsK73euWSRjqpS7mDNDdB2ehb0OF1Q-pt8gegJXVdqkOS4Hfam2bo",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Mississippi Mobile ID - Google Play \u09a4\u09c7 \u0985\u09cd\u09af\u09be\u09aa",
+      "twitter:url": "https://play.google.com/store/apps/details/Mississippi_Mobile_ID?id=com.idemia.mobileid.us.ms&hl=bn",
+      "appstore:developer_url": "https://idemia-mobile-id.com/help/en-us/mid",
+      "og:title": "Mississippi Mobile ID - Google Play \u09a4\u09c7 \u0985\u09cd\u09af\u09be\u09aa",
+      "twitter:image": "https://play-lh.googleusercontent.com/1QQMe4orkZQXtyDsK73euWSRjqpS7mDNDdB2ehb0OF1Q-pt8gegJXVdqkOS4Hfam2bo=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.idemia.mobileid.us.ms",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.idemia.mobileid.us.ms",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "\u098f\u09ae\u098f\u09b8 \u0985\u09ab\u09bf\u09b8\u09bf\u09af\u09bc\u09be\u09b2 \u09a1\u09bf\u099c\u09bf\u099f\u09be\u09b2 \u0986\u0987\u09a1\u09bf",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details/Mississippi_Mobile_ID?id=com.idemia.mobileid.us.ms&hl=bn"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/1QQMe4orkZQXtyDsK73euWSRjqpS7mDNDdB2ehb0OF1Q-pt8gegJXVdqkOS4Hfam2bo"
+     }
+    ]
+   }
+  }
+ ]
+}

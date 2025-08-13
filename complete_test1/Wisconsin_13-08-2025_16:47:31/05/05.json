@@ -1,0 +1,428 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Wisconsin\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" vendor OR developer OR procurement",
+    "totalResults": "20200",
+    "searchTerms": "\"Wisconsin\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" vendor OR developer OR procurement",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Wisconsin\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" vendor OR developer OR procurement",
+    "totalResults": "20200",
+    "searchTerms": "\"Wisconsin\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" vendor OR developer OR procurement",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.297831,
+  "formattedSearchTime": "0.30",
+  "totalResults": "20200",
+  "formattedTotalResults": "20,200"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Wisconsin Department of Transportation Online driver license/ID ...",
+   "htmlTitle": "<b>Wisconsin</b> Department of Transportation Online driver license/ID ...",
+   "link": "https://wisconsindot.gov/Pages/online-srvcs/DLID-Services.aspx",
+   "displayLink": "wisconsindot.gov",
+   "snippet": "SCAM ALERT \u2013 Individuals are reporting receiving text/email messages from WisDOT or Wisconsin DMV demanding payment for missed tolls or unpaid tickets.",
+   "htmlSnippet": "SCAM ALERT \u2013 Individuals are reporting receiving text/email messages from WisDOT or <b>Wisconsin</b> DMV demanding payment for missed tolls or unpaid tickets.",
+   "formattedUrl": "https://wisconsindot.gov/Pages/online-srvcs/DLID-Services.aspx",
+   "htmlFormattedUrl": "https://<b>wisconsin</b>dot.gov/Pages/online-srvcs/DLID-Services.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0fmrtVA9ArQxOIkqZ3GZb2gz1L9wxLYGbjtD99dWpCz1KdtDi3RVinQ&s",
+      "width": "125",
+      "height": "125"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#da532c",
+      "msapplication-config": "/_catalogs/masterpage/SharePointNext/images/favicon/browserconfig.xml",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://wisconsindot.gov/_catalogs/masterpage/SharePointNext/images/DOT.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Contracts Open for Bid - Public Works Contracts - City of Madison ...",
+   "htmlTitle": "Contracts Open for Bid - Public Works Contracts - City of Madison ...",
+   "link": "https://www.cityofmadison.com/business/pw/contracts/openforbid.cfm",
+   "displayLink": "www.cityofmadison.com",
+   "snippet": "... Digital ID. PLAN HOLDERS LISTS. To ... This is typically done once a day or every other day. City of Madison, Wisconsin logo, copyright City of Madison.",
+   "htmlSnippet": "... <b>Digital ID</b>. PLAN HOLDERS LISTS. To ... This is typically done once a day or every other day. City of Madison, <b>Wisconsin</b> logo, copyright City of Madison.",
+   "formattedUrl": "https://www.cityofmadison.com/business/pw/contracts/openforbid.cfm",
+   "htmlFormattedUrl": "https://www.cityofmadison.com/business/pw/contracts/openforbid.cfm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wisconsin Mobile ID Updates",
+   "htmlTitle": "<b>Wisconsin Mobile ID</b> Updates",
+   "link": "https://idscan.net/state-digital-id/wisconsin-mobile-id-updates/",
+   "displayLink": "idscan.net",
+   "snippet": "Wisconsin remains one of the few states with no plans to implement a mobile ID. Hopefully as mobile ID use grows, they will consider an mDL.",
+   "htmlSnippet": "<b>Wisconsin</b> remains one of the few states with no plans to implement a <b>mobile ID</b>. Hopefully as <b>mobile ID</b> use grows, they will consider an <b>mDL</b>.",
+   "formattedUrl": "https://idscan.net/state-digital-id/wisconsin-mobile-id-updates/",
+   "htmlFormattedUrl": "https://idscan.net/state-<b>digital-id</b>/<b>wisconsin</b>-<b>mobile-id</b>-updates/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeN6IkRUJ43OzjL48zD7cG1jHjyDv_rarRBlO3iJA4GpTSUN7LUaTgX6s&s",
+      "width": "311",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://idscan.net/wp-content/uploads/wisconsin-mobile-id.jpg?lm=67E5AE86",
+      "og:type": "article",
+      "og:image:width": "1198",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "IDScan.net",
+      "og:title": "Wisconsin Mobile ID Updates",
+      "og:image:height": "627",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://idscan.net/wp-content/uploads/cropped-idscan-identity-verification-software-icon-1-270x270.png",
+      "og:description": "Wisconsin remains one of the few states with no plans to implement a mobile ID. Hopefully as mobile ID use grows, they will consider an mDL.",
+      "article:publisher": "https://www.facebook.com/idscannet",
+      "twitter:site": "@idscan_net",
+      "article:modified_time": "2025-03-26T19:40:26+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://idscan.net/state-digital-id/wisconsin-mobile-id-updates/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://idscan.net/wp-content/uploads/wisconsin-mobile-id.jpg?lm=67E5AE86"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Introduction To Statistical Inventory Reconciliation For Underground ...",
+   "htmlTitle": "Introduction To Statistical Inventory Reconciliation For Underground ...",
+   "link": "https://www.epa.gov/sites/default/files/2014-03/documents/sir.pdf",
+   "displayLink": "www.epa.gov",
+   "snippet": "... MDL' stuff all about?\u201d.................9. \u201cCan SIR be used as a monthly test ... Wisconsin Dept. of. Industry, Labor & Human. Relations. 608 267-7605.",
+   "htmlSnippet": "... <b>MDL</b>&#39; stuff all about?\u201d.................9. \u201cCan SIR be used as a monthly test ... <b>Wisconsin</b> Dept. of. Industry, Labor &amp; Human. Relations. 608 267-7605.",
+   "formattedUrl": "https://www.epa.gov/sites/default/files/2014-03/documents/sir.pdf",
+   "htmlFormattedUrl": "https://www.epa.gov/sites/default/files/2014-03/documents/sir.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpEME6uaK9iDwCl6UtesKFsHYoryjKVGLw2JJrcLK2wrX5EfPiBGNg1mM5&s",
+      "width": "148",
+      "height": "192"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20150703114243-04'00'",
+      "creationdate": "Wednesday, May 12, 1999 9:02:25 AM",
+      "creator": "Microsoft Word",
+      "author": "US EPA, OSWER, Office Of Underground Storage Tanks",
+      "subject": "This booklet provides basic information on the method\u2014what it is, how it works,  factors that impact data quality\u2014to assist you in determining if SIR is  appropriate to your needs.",
+      "producer": "Acrobat PDFWriter 3.02 for Windows",
+      "creationdate__text": "Wednesday, May 12, 1999 9:02:25 AM",
+      "title": "Introduction To Statistical Inventory Reconciliation For Underground Storage Tanks"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///189474fa1e3bc1577d1d41c4db004554a07c7ea02c25057315e0410e2442ebf3"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Are Digital ID's Valid? : r/FortCollins",
+   "htmlTitle": "Are <b>Digital ID&#39;s</b> Valid? : r/FortCollins",
+   "link": "https://www.reddit.com/r/FortCollins/comments/uk5lmn/are_digital_ids_valid/",
+   "displayLink": "www.reddit.com",
+   "snippet": "May 7, 2022 ... Also, it is still up to the vendor to accept the digital Id.. so ... Do I have it? r/wisconsin icon. r/wisconsin. \u2022 4 mo. ago. Wisconsin\u00a0...",
+   "htmlSnippet": "May 7, 2022 <b>...</b> Also, it is still up to the <b>vendor</b> to accept the <b>digital Id</b>.. so ... Do I have it? r/<b>wisconsin</b> icon. r/<b>wisconsin</b>. \u2022 4 mo. ago. <b>Wisconsin</b>&nbsp;...",
+   "formattedUrl": "https://www.reddit.com/r/FortCollins/comments/.../are_digital_ids_valid/",
+   "htmlFormattedUrl": "https://www.reddit.com/r/FortCollins/comments/.../are_<b>digital_id</b>s_valid/",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:image": "https://share.redd.it/preview/post/uk5lmn",
+      "theme-color": "#000000",
+      "og:image:width": "1200",
+      "og:type": "website",
+      "og:image:alt": "An image containing a preview of the post",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "r/FortCollins on Reddit: Are Digital ID's Valid?",
+      "og:site_name": "Reddit",
+      "og:title": "r/FortCollins on Reddit: Are Digital ID's Valid?",
+      "og:image:height": "630",
+      "msapplication-navbutton-color": "#000000",
+      "og:description": "Posted by u/SnooRabbits2734 - 3 votes and 19 comments",
+      "twitter:image": "https://share.redd.it/preview/post/uk5lmn",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "twitter:site": "@reddit",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "apple-mobile-web-app-capable": "yes",
+      "og:ttl": "600",
+      "og:url": "https://www.reddit.com/r/FortCollins/comments/uk5lmn/are_digital_ids_valid/?seeker-session=true"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "3.2.9 Disregarded Income 3.2.9.1 Disregarded Income 3.2.9.2 ...",
+   "htmlTitle": "3.2.9 Disregarded Income 3.2.9.1 Disregarded Income 3.2.9.2 ...",
+   "link": "https://www.dhs.wisconsin.gov/dms/memos/ops/dms-ops-2021-j5attachment.pdf",
+   "displayLink": "www.dhs.wisconsin.gov",
+   "snippet": "Reverse Mortgage Loan Proceeds (1993 Wisconsin Act 88): Payments made to ... MDL No. 381 (EDNY)\". Apply this disregard retroactively to January 1,. 1989\u00a0...",
+   "htmlSnippet": "Reverse Mortgage Loan Proceeds (1993 <b>Wisconsin</b> Act 88): Payments made to ... <b>MDL</b> No. 381 (EDNY)&quot;. Apply this disregard retroactively to January 1,. 1989&nbsp;...",
+   "formattedUrl": "https://www.dhs.wisconsin.gov/dms/.../ops/dms-ops-2021-j5attachment.pdf",
+   "htmlFormattedUrl": "https://www.dhs.<b>wisconsin</b>.gov/dms/.../ops/dms-ops-2021-j5attachment.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20211215172248Z",
+      "creationdate": "D:20211215172248Z",
+      "creator": "Acrobat PDFMaker 21 for Word",
+      "sourcemodified": "D:20211215172246",
+      "author": "Purcell, Maureen - DCF",
+      "producer": "Adobe PDF Library 21.1.174"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "W-9 \u2013 Request for Taxpayer Identification Number and Certification ...",
+   "htmlTitle": "W-9 \u2013 Request for Taxpayer Identification Number and Certification ...",
+   "link": "https://businessservices.wisc.edu/documents/w-9-request-for-taxpayer-identification-number-and-certification/",
+   "displayLink": "businessservices.wisc.edu",
+   "snippet": "The UW will only accept current versions of any Internal Revenue Service (IRS) or Wisconsin Department of Revenue forms. \u00b7 Use of a non-current form will delay\u00a0...",
+   "htmlSnippet": "The UW will only accept current versions of any Internal Revenue Service (IRS) or <b>Wisconsin</b> Department of Revenue forms. &middot; Use of a non-current form will delay&nbsp;...",
+   "formattedUrl": "https://businessservices.wisc.edu/.../w-9-request-for-taxpayer-identification-...",
+   "htmlFormattedUrl": "https://businessservices.wisc.edu/.../w-9-request-for-taxpayer-identification-...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbQJiDnqUOpOP4OyleagnWMJZ11oaOxhdIgZsZ19WpNjBwmLcG_Cs8zXwF&s",
+      "width": "236",
+      "height": "213"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#c5050c",
+      "msapplication-config": "https://businessservices.wisc.edu/wp-content/themes/uw-theme/dist/images/favicons/browserconfig.xml",
+      "og:type": "article",
+      "article:published_time": "July 2, 2019",
+      "twitter:card": "summary",
+      "twitter:title": "W-9 \u2013 Request for Taxpayer Identification Number and Certification",
+      "theme-color": "#ffffff",
+      "og:site_name": "Division of Business Services",
+      "og:title": "W-9 \u2013 Request for Taxpayer Identification Number and Certification",
+      "og:description": "The W-9 is an Internal Revenue Service (IRS) form in which a taxpayer provides their correct taxpayer identification number (TIN) to an individual or entity (Form W-9 requester) who is required to file an information return to report the amount paid to a payee, or other amount reportable on an information return.",
+      "article:modified_time": "November 21, 2024",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "The W-9 is an Internal Revenue Service (IRS) form in which a taxpayer provides their correct taxpayer identification number (TIN) to an individual or entity (Form W-9 requester) who is required to file an information return to report the amount paid to a payee, or other amount reportable on an information return.",
+      "og:url": "https://businessservices.wisc.edu/documents/w-9-request-for-taxpayer-identification-number-and-certification/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://businessservices.wisc.edu/wp-content/uploads/sites/546/2019/07/Adobe-DocuSign-validated-digital-signature-examples-300x271.png"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "Home",
+      "name": "Home",
+      "position": "1"
+     },
+     {
+      "item": "Documents Page",
+      "name": "Documents Page",
+      "position": "2"
+     },
+     {
+      "item": "Tax",
+      "name": "Tax",
+      "position": "3"
+     },
+     {
+      "item": "W-9 \u2013 Request for Taxpayer Identification Number and Certification",
+      "name": "W-9 \u2013 Request for Taxpayer Identification Number and Certification",
+      "position": "4"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DHS Provides Update on Distribution of Latest Opioid Settlement ...",
+   "htmlTitle": "DHS Provides Update on Distribution of Latest Opioid Settlement ...",
+   "link": "https://www.dhs.wisconsin.gov/news/releases/010925.htm",
+   "displayLink": "www.dhs.wisconsin.gov",
+   "snippet": "Jan 9, 2025 ... The Wisconsin Department of Health Services (DHS) awarded agencies ... MDL 2804. Payments from the distributors will continue for 14\u00a0...",
+   "htmlSnippet": "Jan 9, 2025 <b>...</b> The <b>Wisconsin</b> Department of Health Services (DHS) awarded agencies ... <b>MDL</b> 2804. Payments from the distributors will continue for 14&nbsp;...",
+   "formattedUrl": "https://www.dhs.wisconsin.gov/news/releases/010925.htm",
+   "htmlFormattedUrl": "https://www.dhs.<b>wisconsin</b>.gov/news/releases/010925.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:type": "Article",
+      "article:published_time": "2025-01-03T15:54:12-06:00",
+      "og:site_name": "Wisconsin Department of Health Services",
+      "article:modified_time": "2025-06-12T15:37:32-05:00",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "DHS Provides Update on Distribution of Latest Opioid Settlement Funds",
+      "mobileoptimized": "width",
+      "og:url": "https://www.dhs.wisconsin.gov/news/releases/010925.htm",
+      "og:updated_time": "2025-06-12T15:37:32-05:00",
+      "og:description": "The Wisconsin Department of Health Services (DHS) awarded agencies in communities across the state more than $21 million from the state\u2019s latest share of opioid settlement funds from October through December of 2024, the largest amount awarded in a quarterly period since Wisconsin began receiving funds in 2022 from the national litigation against pharmaceutical manufacturers, pharmaceutical distributors, and pharmacy chains."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Exact Sciences: Careers",
+   "htmlTitle": "Exact Sciences: Careers",
+   "link": "https://careers.exactsciences.com/",
+   "displayLink": "careers.exactsciences.com",
+   "snippet": "Headquartered IN MADISON, WISCONSIN; fighting cancer globally. We aim to eradicate cancer and the suffering it causes through tests that help prevent cancer\u00a0...",
+   "htmlSnippet": "Headquartered IN MADISON, <b>WISCONSIN</b>; fighting cancer globally. We aim to eradicate cancer and the suffering it causes through tests that help prevent cancer&nbsp;...",
+   "formattedUrl": "https://careers.exactsciences.com/",
+   "htmlFormattedUrl": "https://careers.exactsciences.com/",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:image": "https://careers.exactsciences.com-/media/project/exactcore/careers/images/pages/home/careers-devirese-teams.jpg?rev=eacdcb1eca1845c192367fc18d83f2e5",
+      "og:image:width": "900",
+      "twitter:title": "Careers | Exact Sciences",
+      "twitter:card": "summary_large_image",
+      "og:title": "Careers | Exact Sciences",
+      "og:image:height": "625",
+      "og:description": "Join one of Exact Sciences' diverse teams and help us advance the fight against cancer",
+      "twitter:image": "https://careers.exactsciences.com-/media/project/exactcore/careers/images/pages/home/careers-devirese-teams.jpg?rev=eacdcb1eca1845c192367fc18d83f2e5",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Join one of Exact Sciences' diverse teams and help us advance the fight against cancer",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://careers.exactsciences.com/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://careers.exactsciences.com-/media/project/exactcore/careers/images/pages/home/careers-devirese-teams.jpg?rev=eacdcb1eca1845c192367fc18d83f2e5"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "W-8BEN \u2013 Certificate of Foreign Status of Beneficial Owner for ...",
+   "htmlTitle": "W-8BEN \u2013 Certificate of Foreign Status of Beneficial Owner for ...",
+   "link": "https://businessservices.wisc.edu/documents/w-8ben-certificate-of-foreign-status-of-beneficial-owner-for-united-states-tax-withholding-and-reporting-individuals/",
+   "displayLink": "businessservices.wisc.edu",
+   "snippet": "Form W-8BEN and instructions. Important: The UW will only accept current versions of any Internal Revenue Service (IRS) or Wisconsin Department of Revenue forms\u00a0...",
+   "htmlSnippet": "Form W-8BEN and instructions. Important: The UW will only accept current versions of any Internal Revenue Service (IRS) or <b>Wisconsin</b> Department of Revenue forms&nbsp;...",
+   "formattedUrl": "https://businessservices.wisc.edu/.../w-8ben-certificate-of-foreign-status-of-...",
+   "htmlFormattedUrl": "https://businessservices.wisc.edu/.../w-8ben-certificate-of-foreign-status-of-...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbQJiDnqUOpOP4OyleagnWMJZ11oaOxhdIgZsZ19WpNjBwmLcG_Cs8zXwF&s",
+      "width": "236",
+      "height": "213"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#c5050c",
+      "msapplication-config": "https://businessservices.wisc.edu/wp-content/themes/uw-theme/dist/images/favicons/browserconfig.xml",
+      "og:type": "article",
+      "article:published_time": "July 5, 2019",
+      "twitter:card": "summary",
+      "twitter:title": "W-8BEN \u2013 Certificate of Foreign Status of Beneficial Owner for United States Tax Withholding and Reporting (Individuals)",
+      "theme-color": "#ffffff",
+      "og:site_name": "Division of Business Services",
+      "og:title": "W-8BEN \u2013 Certificate of Foreign Status of Beneficial Owner for United States Tax Withholding and Reporting (Individuals)",
+      "og:description": "The W-8BEN is an IRS mandated form to collect correct Nonresident Alien (NRA) taxpayer information for individuals for reporting purposes and to document their status for tax reporting purpose.",
+      "article:modified_time": "November 21, 2024",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "The W-8BEN is an IRS mandated form to collect correct Nonresident Alien (NRA) taxpayer information for individuals for reporting purposes and to document their status for tax reporting purpose.",
+      "og:url": "https://businessservices.wisc.edu/documents/w-8ben-certificate-of-foreign-status-of-beneficial-owner-for-united-states-tax-withholding-and-reporting-individuals/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://businessservices.wisc.edu/wp-content/uploads/sites/546/2019/07/Adobe-DocuSign-validated-digital-signature-examples-300x271.png"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "Home",
+      "name": "Home",
+      "position": "1"
+     },
+     {
+      "item": "Documents Page",
+      "name": "Documents Page",
+      "position": "2"
+     },
+     {
+      "item": "Tax",
+      "name": "Tax",
+      "position": "3"
+     },
+     {
+      "item": "W-8BEN \u2013 Certificate of Foreign Status of Beneficial Owner for United States Tax Withholding and Reporting (Individuals)",
+      "name": "W-8BEN \u2013 Certificate of Foreign Status of Beneficial Owner for United States Tax Withholding and Reporting (Individuals)",
+      "position": "4"
+     }
+    ]
+   }
+  }
+ ]
+}

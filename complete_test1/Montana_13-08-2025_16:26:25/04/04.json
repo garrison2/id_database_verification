@@ -1,0 +1,110 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://mvdmt.gov/ \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "2",
+    "searchTerms": "site:https://mvdmt.gov/ \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 2,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.103522,
+  "formattedSearchTime": "0.10",
+  "totalResults": "2",
+  "formattedTotalResults": "2"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Butte Silver Bow Government \u2013 MT Motor Vehicle Division",
+   "htmlTitle": "Butte Silver Bow Government \u2013 MT Motor Vehicle Division",
+   "link": "https://mvdmt.gov/portfolio-item/butte-silver-bow-government/",
+   "displayLink": "mvdmt.gov",
+   "snippet": "Sales of this plate support community improvement projects including the lights and flags on top of the headframes, as well as the hanging flower pots.",
+   "htmlSnippet": "Sales of this plate support community improvement projects including the lights and flags on top of the headframes, as well as the hanging flower pots.",
+   "formattedUrl": "https://mvdmt.gov/portfolio-item/butte-silver-bow-government/",
+   "htmlFormattedUrl": "https://mvdmt.gov/portfolio-item/butte-silver-bow-government/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIj-IhkmSTA5QPp0jBnpU7npQV37kbBxCn1QFnpZQgV22tZV_v4U5zXXU&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://mvdmt.gov/wp-content/uploads/2025/03/mvd_white_600x.png",
+      "og:type": "article",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+      "og:title": "Butte Silver Bow Government",
+      "og:url": "https://mvdmt.gov/portfolio-item/butte-silver-bow-government/",
+      "msapplication-tileimage": "https://mvdmt.gov/wp-content/uploads/2023/05/mvd_logo_NT_512x512-300x300.png",
+      "og:description": "What does this plate support? Sales of this plate support community improvement projects including the lights and flags on top of the headframes, as well as [\u2026]",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://mvdmt.gov/wp-content/uploads/2025/03/mvd_white_600x.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Getting a Montana Driver License \u2013 MT Motor Vehicle Division",
+   "htmlTitle": "Getting a Montana Driver License \u2013 MT Motor Vehicle Division",
+   "link": "https://mvdmt.gov/new-driver-license/",
+   "displayLink": "mvdmt.gov",
+   "snippet": "Pre-apply for your license. Filling out required information before your appointment is easy and convenient with our online service.",
+   "htmlSnippet": "Pre-apply for your license. Filling out required information before your appointment is easy and convenient with our online service.",
+   "formattedUrl": "https://mvdmt.gov/new-driver-license/",
+   "htmlFormattedUrl": "https://mvdmt.gov/new-driver-license/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIj-IhkmSTA5QPp0jBnpU7npQV37kbBxCn1QFnpZQgV22tZV_v4U5zXXU&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://mvdmt.gov/wp-content/uploads/2025/03/mvd_white_600x.png",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+      "msapplication-tileimage": "https://mvdmt.gov/wp-content/uploads/2023/05/mvd_logo_NT_512x512-300x300.png",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "webpage": [
+     {
+      "maincontentofpage": "Find out if you qualify to Pre-Apply Save yourself some time, pre-apply for your license. Filling out required information before your appointment is easy and convenient with our online service...."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://mvdmt.gov/wp-content/uploads/2025/03/mvd_white_600x.png"
+     }
+    ]
+   }
+  }
+ ]
+}

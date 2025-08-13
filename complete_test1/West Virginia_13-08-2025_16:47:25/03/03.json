@@ -1,0 +1,415 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://transportation.wv.gov/dmv/ \"REAL ID\"",
+    "totalResults": "36",
+    "searchTerms": "site:https://transportation.wv.gov/dmv/ \"REAL ID\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://transportation.wv.gov/dmv/ \"REAL ID\"",
+    "totalResults": "36",
+    "searchTerms": "site:https://transportation.wv.gov/dmv/ \"REAL ID\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.083903,
+  "formattedSearchTime": "0.08",
+  "totalResults": "36",
+  "formattedTotalResults": "36"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "West Virginia Driver's License & ID Cards",
+   "htmlTitle": "West Virginia Driver&#39;s License &amp; ID Cards",
+   "link": "https://transportation.wv.gov/DMV/Drivers/Pages/Drivers-Licenses.aspx",
+   "displayLink": "transportation.wv.gov",
+   "snippet": "\u200bThere are TWO types Driver's Licenses & ID Cards. You have the choice between a Not For Federal Use driver's license or ID card, or a REAL ID/For Federal\u00a0...",
+   "htmlSnippet": "\u200bThere are TWO types Driver&#39;s Licenses &amp; ID Cards. You have the choice between a Not For Federal Use driver&#39;s license or ID card, or a <b>REAL ID</b>/For Federal&nbsp;...",
+   "formattedUrl": "https://transportation.wv.gov/DMV/Drivers/Pages/Drivers-Licenses.aspx",
+   "htmlFormattedUrl": "https://transportation.wv.gov/DMV/Drivers/Pages/Drivers-Licenses.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLlAoDAolU1FYAYcSSSTtcTMR67qwk1fIfQIdW6Y2fUE6r1nI-j-DCGQ&s",
+      "width": "350",
+      "height": "144"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.wv.gov/images/homebkg.jpg",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Driver's Licenses and ID Cards",
+      "twitter:site": "@wvgov",
+      "viewport": "width=device-width",
+      "og:title": "Driver's Licenses and ID Cards",
+      "progid": "SharePoint.WebPartPage.Document"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.wv.gov/images/homebkg.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What is Real ID?",
+   "htmlTitle": "What is <b>Real ID</b>?",
+   "link": "https://transportation.wv.gov/DMV/realid/Pages/default.aspx",
+   "displayLink": "transportation.wv.gov",
+   "snippet": "May 7, 2025 ... One is a driver's license. WV DMV does offer a REAL ID-compliant credential, often called a \u201cFor Federal\u201d or \u201cgold star\u201d license or ID card.",
+   "htmlSnippet": "May 7, 2025 <b>...</b> One is a driver&#39;s license. WV DMV does offer a <b>REAL ID</b>-compliant credential, often called a \u201cFor Federal\u201d or \u201cgold star\u201d license or ID card.",
+   "formattedUrl": "https://transportation.wv.gov/DMV/realid/Pages/default.aspx",
+   "htmlFormattedUrl": "https://transportation.wv.gov/DMV/<b>realid</b>/Pages/default.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLlAoDAolU1FYAYcSSSTtcTMR67qwk1fIfQIdW6Y2fUE6r1nI-j-DCGQ&s",
+      "width": "350",
+      "height": "144"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.wv.gov/images/homebkg.jpg",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "What is REAL ID?",
+      "twitter:site": "@wvgov",
+      "viewport": "width=device-width",
+      "og:title": "What is REAL ID?",
+      "progid": "SharePoint.WebPartPage.Document"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.wv.gov/images/homebkg.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "West Virginia DMV launches new digital service: REAL ID Headstart",
+   "htmlTitle": "West Virginia DMV launches new digital service: <b>REAL ID</b> Headstart",
+   "link": "https://transportation.wv.gov/DMV/News/Pages/West-Virginia-DMV-launches-new-digital-service-REAL-ID-Headstart.aspx",
+   "displayLink": "transportation.wv.gov",
+   "snippet": "Aug 11, 2022 ... UPDATE 12/6/2022: WASHINGTON \u2013 REAL ID ENFORCEMENT DATE IS NOW MAY 7, 2025. \u200bCHARLESTON, WV \u2013 The West Virginia Division of Motor Vehicles (DMV)\u00a0...",
+   "htmlSnippet": "Aug 11, 2022 <b>...</b> UPDATE 12/6/2022: WASHINGTON \u2013 <b>REAL ID</b> ENFORCEMENT DATE IS NOW MAY 7, 2025. \u200bCHARLESTON, WV \u2013 The West Virginia Division of Motor Vehicles (DMV)&nbsp;...",
+   "formattedUrl": "https://transportation.wv.gov/.../West-Virginia-DMV-launches-new-digital-s...",
+   "htmlFormattedUrl": "https://transportation.wv.gov/.../West-Virginia-DMV-launches-new-digital-s...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLlAoDAolU1FYAYcSSSTtcTMR67qwk1fIfQIdW6Y2fUE6r1nI-j-DCGQ&s",
+      "width": "350",
+      "height": "144"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.wv.gov/images/homebkg.jpg",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "West Virginia DMV launches new digital service: REAL ID Headstart",
+      "twitter:site": "@wvgov",
+      "viewport": "width=device-width",
+      "twitter:description": "REAL ID Headstart offers convenient, time-saving pre-enrollment features",
+      "og:title": "West Virginia DMV launches new digital service: REAL ID Headstart",
+      "progid": "SharePoint.WebPartPage.Document",
+      "og:description": "REAL ID Headstart offers convenient, time-saving pre-enrollment features"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.wv.gov/images/homebkg.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DMV reminds customers about REAL ID and Driver's License ...",
+   "htmlTitle": "DMV reminds customers about <b>REAL ID</b> and Driver&#39;s License ...",
+   "link": "https://transportation.wv.gov/DMV/News/Pages/DMV-reminds-customers-about-REAL-ID-and-Driver%E2%80%99s-License-differences.aspx",
+   "displayLink": "transportation.wv.gov",
+   "snippet": "Apr 5, 2021 ... WV DMV does offer a REAL ID-compliant credential, often called a \u201cFor Federal\u201d or \u201cgold star\u201d license or ID card. Currently, there are two\u00a0...",
+   "htmlSnippet": "Apr 5, 2021 <b>...</b> WV DMV does offer a <b>REAL ID</b>-compliant credential, often called a \u201cFor Federal\u201d or \u201cgold star\u201d license or ID card. Currently, there are two&nbsp;...",
+   "formattedUrl": "https://transportation.wv.gov/.../DMV-reminds-customers-about-REAL-ID-...",
+   "htmlFormattedUrl": "https://transportation.wv.gov/.../DMV-reminds-customers-about-<b>REAL-ID</b>-...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLlAoDAolU1FYAYcSSSTtcTMR67qwk1fIfQIdW6Y2fUE6r1nI-j-DCGQ&s",
+      "width": "350",
+      "height": "144"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.wv.gov/images/homebkg.jpg",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "DMV reminds customers about REAL ID and Driver\u2019s License differences",
+      "twitter:site": "@wvgov",
+      "viewport": "width=device-width",
+      "twitter:description": "License with \u201cNot for Real ID Purposes\u201d still a valid license",
+      "og:title": "DMV reminds customers about REAL ID and Driver\u2019s License differences",
+      "progid": "SharePoint.WebPartPage.Document",
+      "og:description": "License with \u201cNot for Real ID Purposes\u201d still a valid license"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.wv.gov/images/homebkg.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "West Virginia Division of Motor Vehicles",
+   "htmlTitle": "West Virginia Division of Motor Vehicles",
+   "link": "https://transportation.wv.gov/DMV/Pages/default.aspx",
+   "displayLink": "transportation.wv.gov",
+   "snippet": "I Am ... \u00b7 I Drive ... \u00b7 Need to get your REAL ID driver's license? We can help! \u00b7 REAL IDs laws are now in effect. \u00b7 Latest News \u00b7 \u200bNew Registration Renewal\u00a0...",
+   "htmlSnippet": "I Am ... &middot; I Drive ... &middot; Need to get your <b>REAL ID</b> driver&#39;s license? We can help! &middot; REAL IDs laws are now in effect. &middot; Latest News &middot; \u200bNew Registration Renewal&nbsp;...",
+   "formattedUrl": "https://transportation.wv.gov/DMV/Pages/default.aspx",
+   "htmlFormattedUrl": "https://transportation.wv.gov/DMV/Pages/default.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLlAoDAolU1FYAYcSSSTtcTMR67qwk1fIfQIdW6Y2fUE6r1nI-j-DCGQ&s",
+      "width": "350",
+      "height": "144"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.wv.gov/images/homebkg.jpg",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "West Virginia Division of Motor Vehicles",
+      "twitter:site": "@wvgov",
+      "viewport": "width=device-width",
+      "og:title": "West Virginia Division of Motor Vehicles",
+      "progid": "SharePoint.WebPartPage.Document"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.wv.gov/images/homebkg.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Secure Licensing FAQ",
+   "htmlTitle": "Secure Licensing FAQ",
+   "link": "https://transportation.wv.gov/DMV/Drivers/Pages/SLFAQ.aspx",
+   "displayLink": "transportation.wv.gov",
+   "snippet": "A: DMV has always required these documents when you first obtain a license or photo ID card. However, due to the passage of the REAL ID Act of 2005 by the\u00a0...",
+   "htmlSnippet": "A: DMV has always required these documents when you first obtain a license or photo ID card. However, due to the passage of the <b>REAL ID</b> Act of 2005 by the&nbsp;...",
+   "formattedUrl": "https://transportation.wv.gov/DMV/Drivers/Pages/SLFAQ.aspx",
+   "htmlFormattedUrl": "https://transportation.wv.gov/DMV/Drivers/Pages/SLFAQ.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLlAoDAolU1FYAYcSSSTtcTMR67qwk1fIfQIdW6Y2fUE6r1nI-j-DCGQ&s",
+      "width": "350",
+      "height": "144"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.wv.gov/images/homebkg.jpg",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Secure Licensing FAQ",
+      "twitter:site": "@wvgov",
+      "viewport": "width=device-width",
+      "og:title": "Secure Licensing FAQ",
+      "progid": "SharePoint.WebPartPage.Document"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.wv.gov/images/homebkg.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DMV encouraging customers to obtain the Federal REAL ID driver's ...",
+   "htmlTitle": "DMV encouraging customers to obtain the Federal <b>REAL ID</b> driver&#39;s ...",
+   "link": "https://transportation.wv.gov/DMV/News/Pages/DMV-encouraging-customers-to-obtain-the-Federal-REAL-ID-driver%E2%80%99s-license-or-ID-card-as-soon-as-possible.aspx",
+   "displayLink": "transportation.wv.gov",
+   "snippet": "Oct 16, 2019 ... The West Virginia Division of Motor Vehicles is encouraging DMV customers to obtain the REAL ID license or card as soon as possible.",
+   "htmlSnippet": "Oct 16, 2019 <b>...</b> The West Virginia Division of Motor Vehicles is encouraging DMV customers to obtain the <b>REAL ID</b> license or card as soon as possible.",
+   "formattedUrl": "https://transportation.wv.gov/.../DMV-encouraging-customers-to-obtain-the...",
+   "htmlFormattedUrl": "https://transportation.wv.gov/.../DMV-encouraging-customers-to-obtain-the...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLlAoDAolU1FYAYcSSSTtcTMR67qwk1fIfQIdW6Y2fUE6r1nI-j-DCGQ&s",
+      "width": "350",
+      "height": "144"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.wv.gov/images/homebkg.jpg",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "DMV encouraging customers to obtain the Federal REAL ID driver\u2019s license or ID card as soon as possible",
+      "twitter:site": "@wvgov",
+      "viewport": "width=device-width",
+      "twitter:description": "National Transportation Security Administration announces one year countdown to October 1, 2020 deadline",
+      "og:title": "DMV encouraging customers to obtain the Federal REAL ID driver\u2019s license or ID card as soon as possible",
+      "progid": "SharePoint.WebPartPage.Document",
+      "og:description": "National Transportation Security Administration announces one year countdown to October 1, 2020 deadline"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.wv.gov/images/homebkg.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DMV to Issue \u201cNot for Federal Use\u201d Driver's Licenses and ID Cards ...",
+   "htmlTitle": "DMV to Issue \u201cNot for Federal Use\u201d Driver&#39;s Licenses and ID Cards ...",
+   "link": "https://transportation.wv.gov/DMV/News/Pages/DMV-to-Issue-%E2%80%9CNot-for-Federal-Use%E2%80%9D-Driver%E2%80%99s-Licenses-and-ID-Cards-from-Central-Facility-Due-to-Supply-Shortage.aspx",
+   "displayLink": "transportation.wv.gov",
+   "snippet": "Sep 12, 2019 ... DMV offices across West Virginia will employ a single central issuance process for both Real ID compliant driver's licenses and identification cards and \u201cNot\u00a0...",
+   "htmlSnippet": "Sep 12, 2019 <b>...</b> DMV offices across West Virginia will employ a single central issuance process for both <b>Real ID</b> compliant driver&#39;s licenses and identification cards and \u201cNot&nbsp;...",
+   "formattedUrl": "https://transportation.wv.gov/.../DMV-to-Issue-\u201cNot-for-Federal-Use\u201d-Driv...",
+   "htmlFormattedUrl": "https://transportation.wv.gov/.../DMV-to-Issue-\u201cNot-for-Federal-Use\u201d-Driv...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLlAoDAolU1FYAYcSSSTtcTMR67qwk1fIfQIdW6Y2fUE6r1nI-j-DCGQ&s",
+      "width": "350",
+      "height": "144"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.wv.gov/images/homebkg.jpg",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "DMV to Issue \u201cNot for Federal Use\u201d Driver\u2019s Licenses and ID Cards from Central Facility Due to Supply Shortage",
+      "twitter:site": "@wvgov",
+      "viewport": "width=device-width",
+      "twitter:description": "Perfect time for customers to obtain a \u201cREAL ID\u201d",
+      "og:title": "DMV to Issue \u201cNot for Federal Use\u201d Driver\u2019s Licenses and ID Cards from Central Facility Due to Supply Shortage",
+      "progid": "SharePoint.WebPartPage.Document",
+      "og:description": "Perfect time for customers to obtain a \u201cREAL ID\u201d"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.wv.gov/images/homebkg.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "West Virginia Driver's Licenses & ID Cards",
+   "htmlTitle": "West Virginia Driver&#39;s Licenses &amp; ID Cards",
+   "link": "https://transportation.wv.gov/DMV/DMVFormSearch/Drivers_Licenses_REAL_ID_cards_brochure.pdf",
+   "displayLink": "transportation.wv.gov",
+   "snippet": "and a representative will be happy to answer any of your DMV questions. FOR Federal. Identification Cards. \u2022 REAL ID Compliant License and ID's are marked with\u00a0...",
+   "htmlSnippet": "and a representative will be happy to answer any of your DMV questions. FOR Federal. Identification Cards. \u2022 <b>REAL ID</b> Compliant License and ID&#39;s are marked with&nbsp;...",
+   "formattedUrl": "https://transportation.wv.gov/.../Drivers_Licenses_REAL_ID_cards_brochu...",
+   "htmlFormattedUrl": "https://transportation.wv.gov/.../Drivers_Licenses_<b>REAL_ID</b>_cards_brochu...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFgdC7ZVad1lSJ_yGXUhI6iA-d9zNObnLbkYE9AIy_-e1j3PULioel97Ad&s",
+      "width": "242",
+      "height": "208"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20230524084322-04'00'",
+      "creationdate": "D:20230524084319-04'00'",
+      "creator": "Adobe InDesign 18.2 (Macintosh)",
+      "subject": "Informational brochure for Driver's Licenses, Identification Cards, REAL ID, residency, and identification documents",
+      "producer": "Adobe PDF Library 17.0",
+      "title": "West Virginia Driver's Licenses & ID Cards"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///aaa3a8735a1022f709eef7dcc38575e3ad71341b9d61484f8456350d5f04d253"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Frequently Asked Questions",
+   "htmlTitle": "Frequently Asked Questions",
+   "link": "https://transportation.wv.gov/DMV/About/Pages/Call-Center.aspx",
+   "displayLink": "transportation.wv.gov",
+   "snippet": "However, due to the passage of the REAL ID Act of 2005 by the federal government, a new level of security for obtaining licenses and ID cards is required. DMV\u00a0...",
+   "htmlSnippet": "However, due to the passage of the <b>REAL ID</b> Act of 2005 by the federal government, a new level of security for obtaining licenses and ID cards is required. DMV&nbsp;...",
+   "formattedUrl": "https://transportation.wv.gov/DMV/About/Pages/Call-Center.aspx",
+   "htmlFormattedUrl": "https://transportation.wv.gov/DMV/About/Pages/Call-Center.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLlAoDAolU1FYAYcSSSTtcTMR67qwk1fIfQIdW6Y2fUE6r1nI-j-DCGQ&s",
+      "width": "350",
+      "height": "144"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.wv.gov/images/homebkg.jpg",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Frequently Asked Questions",
+      "twitter:site": "@wvgov",
+      "viewport": "width=device-width",
+      "og:title": "Frequently Asked Questions",
+      "progid": "SharePoint.WebPartPage.Document"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.wv.gov/images/homebkg.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

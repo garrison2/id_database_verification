@@ -1,0 +1,304 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Vermont Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "totalResults": "624",
+    "searchTerms": "\"Vermont Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Vermont Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "totalResults": "624",
+    "searchTerms": "\"Vermont Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.201601,
+  "formattedSearchTime": "0.20",
+  "totalResults": "624",
+  "formattedTotalResults": "624"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "The Vermont Statutes Online",
+   "htmlTitle": "The <b>Vermont Statutes</b> Online",
+   "link": "https://legislature.vermont.gov/statutes/fullchapter/23/039",
+   "displayLink": "legislature.vermont.gov",
+   "snippet": "(c) To maintain a medical certification status of \u201ccertified,\u201d the holder of a commercial driver's license or commercial learner's permit who certifies that he\u00a0...",
+   "htmlSnippet": "(c) To <b>maintain</b> a medical certification status of \u201ccertified,\u201d the holder of a commercial <b>driver&#39;s license</b> or commercial learner&#39;s permit who certifies that he&nbsp;...",
+   "formattedUrl": "https://legislature.vermont.gov/statutes/fullchapter/23/039",
+   "htmlFormattedUrl": "https://legislature.vermont.gov/statutes/fullchapter/23/039",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Voter Registration - Vermont Secretary of State",
+   "htmlTitle": "Voter Registration - Vermont Secretary of State",
+   "link": "https://sos.vermont.gov/elections/voters/registration/",
+   "displayLink": "sos.vermont.gov",
+   "snippet": "Before they are counted, election officials vigorously verify the validity of every mail ballot submission. ... Vermont statutes. Your Vote is Your Voice\u00a0...",
+   "htmlSnippet": "Before they are counted, election officials vigorously <b>verify</b> the validity of every mail ballot submission. ... <b>Vermont statutes</b>. Your Vote is Your Voice&nbsp;...",
+   "formattedUrl": "https://sos.vermont.gov/elections/voters/registration/",
+   "htmlFormattedUrl": "https://sos.vermont.gov/elections/voters/registration/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Vermont Statutes Online",
+   "htmlTitle": "The <b>Vermont Statutes</b> Online",
+   "link": "https://legislature.vermont.gov/statutes/fullchapter/09/062",
+   "displayLink": "legislature.vermont.gov",
+   "snippet": "(ii) a driver license or nondriver State identification card number ... Internal verification includes the sharing of information for internal verification\u00a0...",
+   "htmlSnippet": "(ii) a <b>driver license</b> or nondriver State <b>identification card</b> number ... Internal <b>verification</b> includes the sharing of information for internal <b>verification</b>&nbsp;...",
+   "formattedUrl": "https://legislature.vermont.gov/statutes/fullchapter/09/062",
+   "htmlFormattedUrl": "https://legislature.vermont.gov/statutes/fullchapter/09/062",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Frequently Asked Questions - Voter Registration - Vermont ...",
+   "htmlTitle": "Frequently Asked Questions - Voter Registration - Vermont ...",
+   "link": "https://sos.vermont.gov/elections/voters/voter-faqs/voter-registration-faqs/",
+   "displayLink": "sos.vermont.gov",
+   "snippet": "When completing your application, you must include your Vermont driver's license number on the form. ... maintain a principal dwelling place in the town\u00a0...",
+   "htmlSnippet": "When completing your application, you must include your Vermont <b>driver&#39;s license</b> number on the form. ... <b>maintain</b> a principal dwelling place in the town&nbsp;...",
+   "formattedUrl": "https://sos.vermont.gov/elections/voters/voter-faqs/voter-registration-faqs/",
+   "htmlFormattedUrl": "https://sos.vermont.gov/elections/voters/voter-faqs/voter-registration-faqs/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Vermont Statutes Online",
+   "htmlTitle": "The <b>Vermont Statutes</b> Online",
+   "link": "https://legislature.vermont.gov/statutes/fullchapter/26/103",
+   "displayLink": "legislature.vermont.gov",
+   "snippet": "(23) \u201cVerification on oath or affirmation\u201d means a declaration, made by an individual on oath or affirmation before a notary public, that a statement in a\u00a0...",
+   "htmlSnippet": "(23) \u201c<b>Verification</b> on oath or affirmation\u201d means a declaration, made by an individual on oath or affirmation before a notary public, that a statement in a&nbsp;...",
+   "formattedUrl": "https://legislature.vermont.gov/statutes/fullchapter/26/103",
+   "htmlFormattedUrl": "https://legislature.vermont.gov/statutes/fullchapter/26/103",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Vermont Statutes Title 23. Motor Vehicles, \u00a7 203 | FindLaw",
+   "htmlTitle": "<b>Vermont Statutes</b> Title 23. Motor Vehicles, \u00a7 203 | FindLaw",
+   "link": "https://codes.findlaw.com/vt/title-23-motor-vehicles/vt-st-tit-23-sect-203/",
+   "displayLink": "codes.findlaw.com",
+   "snippet": "... identification card, insurance identification card, or operator's license or ... Please verify the status of the code you are researching with the\u00a0...",
+   "htmlSnippet": "... <b>identification card</b>, insurance <b>identification card</b>, or operator&#39;s license or ... Please <b>verify</b> the status of the code you are researching with the&nbsp;...",
+   "formattedUrl": "https://codes.findlaw.com/vt/title-23-motor-vehicles/vt-st-tit-23-sect-203/",
+   "htmlFormattedUrl": "https://codes.findlaw.com/vt/title-23-motor-vehicles/vt-st-tit-23-sect-203/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuWtKEZ0kzYj6NSuZlgNrAF5XcYIi9XgsiqHcAgQHtxY18xcWZ1bDMaCM&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png",
+      "og:type": "article",
+      "og:site_name": "Findlaw",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Vermont Statutes Title 23. Motor Vehicles, \u00a7 203 | FindLaw",
+      "og:url": "https://codes.findlaw.com/vt/title-23-motor-vehicles/vt-st-tit-23-sect-203/",
+      "og:description": "Vermont Title 23. Motor Vehicles VT ST T. 23  Section 203. Read the code on FindLaw"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "VERMONT STATUTES TITLE 8. BANKING AND INSURANCE PART ...",
+   "htmlTitle": "<b>VERMONT STATUTES</b> TITLE 8. BANKING AND INSURANCE PART ...",
+   "link": "https://www.nationalnotary.org/file%20library/nna/reference-library/state-law-summaries/vermont.pdf",
+   "displayLink": "www.nationalnotary.org",
+   "snippet": "May 20, 2025 ... (A) a passport, driver's license, or government-issued nondriver identification card ... Verification methods and credentials used to verify the\u00a0...",
+   "htmlSnippet": "May 20, 2025 <b>...</b> (A) a passport, <b>driver&#39;s license</b>, or government-issued nondriver <b>identification card</b> ... <b>Verification</b> methods and credentials used to <b>verify</b> the&nbsp;...",
+   "formattedUrl": "https://www.nationalnotary.org/file%20library/nna/.../state.../vermont.pdf",
+   "htmlFormattedUrl": "https://www.nationalnotary.org/file%20library/nna/.../state.../vermont.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20250520153645-07'00'",
+      "creator": "Microsoft\u00ae Word for Microsoft 365",
+      "creationdate": "D:20250520153645-07'00'",
+      "author": "William Anderson",
+      "producer": "Microsoft\u00ae Word for Microsoft 365"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "STATE OF VERMONT CANNABIS CONTROL BOARD RULE 2 ...",
+   "htmlTitle": "STATE OF VERMONT CANNABIS CONTROL BOARD RULE 2 ...",
+   "link": "https://ccb.vermont.gov/sites/ccb/files/2021-11/Proposed%20Rule%202%20-%20Regulation%20of%20Cannabis%20Establishments.pdf",
+   "displayLink": "ccb.vermont.gov",
+   "snippet": "\u00a7 884 and who has a valid driver's license. (c) \u201cGreenhouse\u201d means a structure or a thermally isolated area of a building that maintains a specialized sunlit\u00a0...",
+   "htmlSnippet": "\u00a7 884 and who has a valid <b>driver&#39;s license</b>. (c) \u201cGreenhouse\u201d means a structure or a thermally isolated area of a building that maintains a specialized sunlit&nbsp;...",
+   "formattedUrl": "https://ccb.vermont.gov/.../Proposed%20Rule%202%20-%20Regulation%2...",
+   "htmlFormattedUrl": "https://ccb.vermont.gov/.../Proposed%20Rule%202%20-%20Regulation%2...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScjzdwxdqgaVV8lT2MIvDbDaQpu-mgTKg0ROGn1X36qBZA0Gb8SWP1B4-6&s",
+      "width": "193",
+      "height": "261"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20211123155354-05'00'",
+      "creator": "Microsoft\u00ae Word for Microsoft 365",
+      "creationdate": "D:20211123155354-05'00'",
+      "author": "Scherr, David",
+      "producer": "Microsoft\u00ae Word for Microsoft 365"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///b4c0359e358d4a1a9dec797218790ac8f07bd3085328cd159662bcef0d3bd21f"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "17 Vermont Statutes Annotated \u00a7 2103. (2024) - Definitions :: 2024 ...",
+   "htmlTitle": "17 <b>Vermont Statutes</b> Annotated \u00a7 2103. (2024) - Definitions :: 2024 ...",
+   "link": "https://law.justia.com/codes/vermont/title-17/chapter-41/section-2103/",
+   "displayLink": "law.justia.com",
+   "snippet": "... driver's license application approved by the Secretary of State under ... (43) \u201cVote tabulator\u201d means a machine that registers and counts paper ballots and\u00a0...",
+   "htmlSnippet": "... <b>driver&#39;s license</b> application approved by the Secretary of State under ... (43) \u201cVote tabulator\u201d means a machine that registers and counts paper ballots and&nbsp;...",
+   "formattedUrl": "https://law.justia.com/codes/vermont/title-17/chapter-41/section-2103/",
+   "htmlFormattedUrl": "https://law.justia.com/codes/vermont/title-17/chapter-41/section-2103/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPP2ksOfM4IyWL7PTxPyS5N80Or-jyXZZLgeH1kYuOtXk5YU597YCxGszS&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "og:site_name": "Justia Law",
+      "og:title": "2024 Vermont Statutes :: Title 17 - Elections :: Chapter 41 - Purposes, Short Title, Definitions :: \u00a7 2103. Definitions",
+      "og:app_id": "119529808075661",
+      "trigger-ga": "1",
+      "og:description": "Justia Free Databases of U.S. Laws, Codes & Statutes",
+      "og:admins": "656268335,686786921,25900864",
+      "referrer": "unsafe-url",
+      "twitter:site": "@JustiaCom",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "page-type": "Law: Codes Document Page (Current Year)",
+      "is-li": "0",
+      "og:url": "https://law.justia.com/codes/vermont/title-17/chapter-41/section-2103/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "SORNA Substantial Implementation Review: State of Vermont",
+   "htmlTitle": "SORNA Substantial Implementation Review: State of Vermont",
+   "link": "https://smart.ojp.gov/sites/g/files/xyckuh231/files/media/document/vermont-sorna-substantial-implementation-review.pdf",
+   "displayLink": "smart.ojp.gov",
+   "snippet": "Oct 1, 2016 ... person verification (unless they meet the lifetime registrant ... 10-year registrants, who are required to report to local law enforcement each\u00a0...",
+   "htmlSnippet": "Oct 1, 2016 <b>...</b> person <b>verification</b> (unless they meet the lifetime registrant ... 10-year registrants, who are required to report to local law enforcement each&nbsp;...",
+   "formattedUrl": "https://smart.ojp.gov/.../vermont-sorna-substantial-implementation-review.p...",
+   "htmlFormattedUrl": "https://smart.ojp.gov/.../vermont-sorna-substantial-implementation-review.p...",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20200819153059-04'00'",
+      "creationdate": "D:20170428070025-04'00'",
+      "creator": "Acrobat PDFMaker 17 for Word",
+      "sourcemodified": "D:20170415154441",
+      "author": "U.S. Department of Justice, Office of Justice Programs, Office of Sex Offender Sentencing, Monitoring, Apprehending, Registering, and Tracking",
+      "subject": "SORNA Implementation Review",
+      "producer": "Adobe PDF Library 15.0",
+      "company": "OJP",
+      "title": "SORNA Substantial Implementation Review: State of Vermont"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

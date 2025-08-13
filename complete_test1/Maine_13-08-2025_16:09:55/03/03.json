@@ -1,0 +1,246 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://www.maine.gov/sos/bmv \"REAL ID\"",
+    "totalResults": "170",
+    "searchTerms": "site:https://www.maine.gov/sos/bmv \"REAL ID\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://www.maine.gov/sos/bmv \"REAL ID\"",
+    "totalResults": "170",
+    "searchTerms": "site:https://www.maine.gov/sos/bmv \"REAL ID\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.101454,
+  "formattedSearchTime": "0.10",
+  "totalResults": "170",
+  "formattedTotalResults": "170"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Real ID | SOS",
+   "htmlTitle": "<b>Real ID</b> | SOS",
+   "link": "https://www.maine.gov/sos/bmv/driver-licenses-and-ids/real-id",
+   "displayLink": "www.maine.gov",
+   "snippet": "Beginning May 7, 2025, those with non-REAL ID licenses will need to produce a passport or other acceptable identity document for federal purposes that require\u00a0...",
+   "htmlSnippet": "Beginning May 7, 2025, those with non-<b>REAL ID</b> licenses will need to produce a passport or other acceptable identity document for federal purposes that require&nbsp;...",
+   "formattedUrl": "https://www.maine.gov/sos/bmv/driver-licenses-and-ids/real-id",
+   "htmlFormattedUrl": "https://www.maine.gov/sos/bmv/driver-licenses-and-ids/<b>real-id</b>",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Bureau of Motor Vehicles | SOS",
+   "htmlTitle": "Bureau of Motor Vehicles | SOS",
+   "link": "https://www.maine.gov/sos/bmv",
+   "displayLink": "www.maine.gov",
+   "snippet": "... Real ID credentials. Branch locations may also limit walk-in traffic when capacity is reached. Check your specific branch location HERE for more information\u00a0...",
+   "htmlSnippet": "... <b>Real ID</b> credentials. Branch locations may also limit walk-in traffic when capacity is reached. Check your specific branch location HERE for more information&nbsp;...",
+   "formattedUrl": "https://www.maine.gov/sos/bmv",
+   "htmlFormattedUrl": "https://www.maine.gov/sos/bmv",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Drivers License and Examination Fees | SOS",
+   "htmlTitle": "Drivers License and Examination Fees | SOS",
+   "link": "https://www.maine.gov/sos/bmv/driver-licenses-and-ids/drivers-license-and-examination-fees",
+   "displayLink": "www.maine.gov",
+   "snippet": "REAL ID Class C - Age 65 or Older - 4 Year License, $40. Commercial License ... REAL ID Commercial License - Under Age 65 - 5 year license, $59. Commercial\u00a0...",
+   "htmlSnippet": "<b>REAL ID</b> Class C - Age 65 or Older - 4 Year License, $40. Commercial License ... <b>REAL ID</b> Commercial License - Under Age 65 - 5 year license, $59. Commercial&nbsp;...",
+   "formattedUrl": "https://www.maine.gov/sos/bmv/.../drivers-license-and-examination-fees",
+   "htmlFormattedUrl": "https://www.maine.gov/sos/bmv/.../drivers-license-and-examination-fees",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Motor Vehicle Branch Office Locations",
+   "htmlTitle": "Motor Vehicle Branch Office Locations",
+   "link": "https://www.maine.gov/sos/bmv/visit-your-bmv-branch/find-your-local-branch",
+   "displayLink": "www.maine.gov",
+   "snippet": "Temporary Office Hours Change. NOTE: Some branch offices are closing at 4:00 p.m. due to increased customer demand for Real ID credentials. Branch locations may\u00a0...",
+   "htmlSnippet": "Temporary Office Hours Change. NOTE: Some branch offices are closing at 4:00 p.m. due to increased customer demand for <b>Real ID</b> credentials. Branch locations may&nbsp;...",
+   "formattedUrl": "https://www.maine.gov/sos/bmv/visit-your-bmv.../find-your-local-branch",
+   "htmlFormattedUrl": "https://www.maine.gov/sos/bmv/visit-your-bmv.../find-your-local-branch",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver Licenses and IDs | SOS",
+   "htmlTitle": "Driver Licenses and IDs | SOS",
+   "link": "https://www.maine.gov/sos/bmv/driver-licenses-and-ids",
+   "displayLink": "www.maine.gov",
+   "snippet": "Providing Proof of Legal Presence \u00b7 Providing Proof of Maine Residency \u00b7 Real ID and ME \u00b7 Renewing a Driver's License \u00b7 Renewing a Driver's License FAQs\u00a0...",
+   "htmlSnippet": "Providing Proof of Legal Presence &middot; Providing Proof of Maine Residency &middot; <b>Real ID</b> and ME &middot; Renewing a Driver&#39;s License &middot; Renewing a Driver&#39;s License FAQs&nbsp;...",
+   "formattedUrl": "https://www.maine.gov/sos/bmv/driver-licenses-and-ids",
+   "htmlFormattedUrl": "https://www.maine.gov/sos/bmv/driver-licenses-and-ids",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ID: Obtaining an Identification Card | SOS",
+   "htmlTitle": "ID: Obtaining an Identification Card | SOS",
+   "link": "https://www.maine.gov/sos/bmv/driver-licenses-and-ids/id",
+   "displayLink": "www.maine.gov",
+   "snippet": "The initial REAL ID license/ID card must be completed in person. Identification cards will be mailed within two-to-three weeks from the date ordered. Renewal of\u00a0...",
+   "htmlSnippet": "The initial <b>REAL ID</b> license/ID card must be completed in person. Identification cards will be mailed within two-to-three weeks from the date ordered. Renewal of&nbsp;...",
+   "formattedUrl": "https://www.maine.gov/sos/bmv/driver-licenses-and-ids/id",
+   "htmlFormattedUrl": "https://www.maine.gov/sos/bmv/driver-licenses-and-ids/id",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "How to Prove Your Identity | SOS",
+   "htmlTitle": "How to Prove Your Identity | SOS",
+   "link": "https://www.maine.gov/sos/bmv/visit-your-bmv-branch/how-to-prove-your-identity",
+   "displayLink": "www.maine.gov",
+   "snippet": "Note: These are all identity documents for a standard credential but only those with an (*) are acceptable to use for the issuance of a REAL ID credential. This\u00a0...",
+   "htmlSnippet": "Note: These are all identity documents for a standard credential but only those with an (*) are acceptable to use for the issuance of a <b>REAL ID</b> credential. This&nbsp;...",
+   "formattedUrl": "https://www.maine.gov/sos/bmv/visit-your.../how-to-prove-your-identity",
+   "htmlFormattedUrl": "https://www.maine.gov/sos/bmv/visit-your.../how-to-prove-your-identity",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "How to Prove Maine Residency | SOS",
+   "htmlTitle": "How to Prove Maine Residency | SOS",
+   "link": "https://www.maine.gov/sos/bmv/visit-your-bmv-branch/how-to-prove-maine-residency",
+   "displayLink": "www.maine.gov",
+   "snippet": "For a non-Real ID License or ID Card, you need only one document proving your residence. For Real ID, you will need two. These include but are not limited\u00a0...",
+   "htmlSnippet": "For a non-<b>Real ID</b> License or ID Card, you need only one document proving your residence. For <b>Real ID</b>, you will need two. These include but are not limited&nbsp;...",
+   "formattedUrl": "https://www.maine.gov/sos/bmv/visit.../how-to-prove-maine-residency",
+   "htmlFormattedUrl": "https://www.maine.gov/sos/bmv/visit.../how-to-prove-maine-residency",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "I Need a Replacement (Duplicate) License/Identification Card | SOS",
+   "htmlTitle": "I Need a Replacement (Duplicate) License/Identification Card | SOS",
+   "link": "https://www.maine.gov/sos/bmv/driver-licenses-and-ids/update-my-current-license/replacement-duplicate-license-identification-card",
+   "displayLink": "www.maine.gov",
+   "snippet": "Real ID \u00b7 I Moved to/from a Different State \u00b7 I Have a Medical Restriction \u00b7 I Need to Update My Current License \u00b7 I Need a Replacement (Duplicate) License\u00a0...",
+   "htmlSnippet": "<b>Real ID</b> &middot; I Moved to/from a Different State &middot; I Have a Medical Restriction &middot; I Need to Update My Current License &middot; I Need a Replacement (Duplicate) License&nbsp;...",
+   "formattedUrl": "https://www.maine.gov/.../replacement-duplicate-license-identification-card",
+   "htmlFormattedUrl": "https://www.maine.gov/.../replacement-duplicate-license-identification-card",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "I Need to Renew My License | SOS",
+   "htmlTitle": "I Need to Renew My License | SOS",
+   "link": "https://www.maine.gov/sos/bmv/driver-licenses-and-ids/update-my-current-license/renew-my-license",
+   "displayLink": "www.maine.gov",
+   "snippet": "To learn how to obtain a Real ID during your renewal, click here! Your vote matters! During your license renewal, you are able to register to vote at any\u00a0...",
+   "htmlSnippet": "To learn how to obtain a <b>Real ID</b> during your renewal, click here! Your vote matters! During your license renewal, you are able to register to vote at any&nbsp;...",
+   "formattedUrl": "https://www.maine.gov/sos/bmv/driver-licenses-and.../renew-my-license",
+   "htmlFormattedUrl": "https://www.maine.gov/sos/bmv/driver-licenses-and.../renew-my-license",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  }
+ ]
+}

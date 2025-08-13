@@ -1,0 +1,417 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Illinois\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "340000",
+    "searchTerms": "\"Illinois\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Illinois\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "340000",
+    "searchTerms": "\"Illinois\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.116204,
+  "formattedSearchTime": "0.12",
+  "totalResults": "340000",
+  "formattedTotalResults": "340,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Illinois mDL",
+   "htmlTitle": "<b>Illinois mDL</b>",
+   "link": "https://www.ilsos.gov/mDL",
+   "displayLink": "www.ilsos.gov",
+   "snippet": "Illinois mDL. Illinois Mobile Driver's Licenses and State IDs. Illinois mobile driver's license. On January 1, 2025, the Secretary of State's office was\u00a0...",
+   "htmlSnippet": "<b>Illinois mDL</b>. <b>Illinois</b> Mobile Driver&#39;s Licenses and State IDs. <b>Illinois mobile driver&#39;s license</b>. On January 1, 2025, the Secretary of State&#39;s office was&nbsp;...",
+   "formattedUrl": "https://www.ilsos.gov/mDL",
+   "htmlFormattedUrl": "https://www.ilsos.gov/<b>mDL</b>",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQov97-MvQGY5pNDxZSx0LhGMN-JTZAWVmYz5gcfWpD83PCMMfD_IftsKY&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "google": "notranslate"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.ilsos.gov/images/mdl1.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "State of Illinois Digital ID Login",
+   "htmlTitle": "State of <b>Illinois Digital ID</b> Login",
+   "link": "https://accounts.pki.illinois.gov/",
+   "displayLink": "accounts.pki.illinois.gov",
+   "snippet": "The State of Illinois Digital ID/ PKI provides an enterprise-wide infrastructure to facilitate electronic government services.",
+   "htmlSnippet": "The State of <b>Illinois Digital ID</b>/ PKI provides an enterprise-wide infrastructure to facilitate electronic government services.",
+   "formattedUrl": "https://accounts.pki.illinois.gov/",
+   "htmlFormattedUrl": "https://accounts.pki.<b>illinois</b>.gov/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKf3F2vL-KmBlkB5uwbvo_425PPnuoqEOW4UZVdBJDq8RDyXSx7PKJzw&s",
+      "width": "190",
+      "height": "100"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://accounts.pki.illinois.gov/IdentityGuardAuth/Images/SiteLogo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "PKI Digital ID Registration and Recovery",
+   "htmlTitle": "PKI <b>Digital ID</b> Registration and Recovery",
+   "link": "https://enroll.pki.illinois.gov/",
+   "displayLink": "enroll.pki.illinois.gov",
+   "snippet": "The registration process for State of Illinois PKI Digital ID begins here for all users, both Illinois residents and out-of-state users.",
+   "htmlSnippet": "The registration process for State of <b>Illinois</b> PKI <b>Digital ID</b> begins here for all users, both <b>Illinois</b> residents and out-of-state users.",
+   "formattedUrl": "https://enroll.pki.illinois.gov/",
+   "htmlFormattedUrl": "https://enroll.pki.<b>illinois</b>.gov/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsY7OY1JEV12UDoTk-Qtr-_3qe_xeyB6ZFE7efEMX1FIRhGppLU2_NDg&s",
+      "width": "190",
+      "height": "100"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://enroll.pki.illinois.gov/UserRegistration/en_US/images/sitelogo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "When will the Illinois Digital Drivers license be available? : r/illinois",
+   "htmlTitle": "When will the <b>Illinois</b> Digital Drivers license be available? : r/<b>illinois</b>",
+   "link": "https://www.reddit.com/r/illinois/comments/1hrdqlk/when_will_the_illinois_digital_drivers_license_be/",
+   "displayLink": "www.reddit.com",
+   "snippet": "Jan 1, 2025 ... Illinois drivers can expect digital ID processing to begin January 1. 2025. Heres what you/article_45961cf2-c70c-11ef-bef9-9bdda91d3455.html",
+   "htmlSnippet": "Jan 1, 2025 <b>...</b> <b>Illinois</b> drivers can expect <b>digital ID</b> processing to begin January 1. 2025. Heres what you/article_45961cf2-c70c-11ef-bef9-9bdda91d3455.html",
+   "formattedUrl": "https://www.reddit.com/.../illinois/.../when_will_the_illinois_digital_drivers...",
+   "htmlFormattedUrl": "https://www.reddit.com/.../<b>illinois</b>/.../when_will_the_<b>illinois</b>_<b>digital_drivers</b>...",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:image": "https://share.redd.it/preview/post/1hrdqlk",
+      "theme-color": "#000000",
+      "og:image:width": "1200",
+      "og:type": "website",
+      "og:image:alt": "An image containing a preview of the post",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "r/illinois on Reddit: When will the Illinois Digital Drivers license be available?",
+      "og:site_name": "Reddit",
+      "og:title": "r/illinois on Reddit: When will the Illinois Digital Drivers license be available?",
+      "og:image:height": "630",
+      "msapplication-navbutton-color": "#000000",
+      "og:description": "Posted by u/SovietFreeMarket - 99 votes and 68 comments",
+      "twitter:image": "https://share.redd.it/preview/post/1hrdqlk",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "twitter:site": "@reddit",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "apple-mobile-web-app-capable": "yes",
+      "og:ttl": "600",
+      "og:url": "https://www.reddit.com/r/illinois/comments/1hrdqlk/when_will_the_illinois_digital_drivers_license_be/?seeker-session=true"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Illinois mDL Sign Up",
+   "htmlTitle": "<b>Illinois mDL</b> Sign Up",
+   "link": "https://apps.ilsos.gov/ContactFormsWeb/mdl.jsp",
+   "displayLink": "apps.ilsos.gov",
+   "snippet": "Illinois Mobile Driver's License. First Name. Last Name. Email Address. Confirm Email Address. Seal of the State of Illinois. ilsos.gov. Office of the Secretary\u00a0...",
+   "htmlSnippet": "<b>Illinois Mobile Driver&#39;s License</b>. First Name. Last Name. Email Address. Confirm Email Address. Seal of the State of <b>Illinois</b>. ilsos.gov. Office of the Secretary&nbsp;...",
+   "formattedUrl": "https://apps.ilsos.gov/ContactFormsWeb/mdl.jsp",
+   "htmlFormattedUrl": "https://apps.ilsos.gov/ContactFormsWeb/<b>mdl</b>.jsp",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTddMjpYTjYNA55ytNxjTh0wIMcVxMobg36fuBCyA0qu3j8xeaWPWUCSK8&s",
+      "width": "223",
+      "height": "226"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "google": "notranslate"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.ilsos.gov/images/phase-2/header-left.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Illinois - mDL Connection",
+   "htmlTitle": "<b>Illinois</b> - <b>mDL</b> Connection",
+   "link": "https://www.mdlconnection.com/implementation-tracker-map/illinois/",
+   "displayLink": "www.mdlconnection.com",
+   "snippet": "Contributing to mDL Connection \u00b7 Get Involved. Implementation Tracker Map. Illinois. Status:Legislative and/or Study Activity. Short Description: An Electronic\u00a0...",
+   "htmlSnippet": "Contributing to <b>mDL</b> Connection &middot; Get Involved. Implementation Tracker Map. <b>Illinois</b>. Status:Legislative and/or Study Activity. Short Description: An Electronic&nbsp;...",
+   "formattedUrl": "https://www.mdlconnection.com/implementation-tracker-map/illinois/",
+   "htmlFormattedUrl": "https://www.<b>mdl</b>connection.com/implementation-tracker-map/<b>illinois</b>/",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "mDL Connection",
+      "article:modified_time": "2024-03-06T13:25:53+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "Illinois - mDL Connection",
+      "og:locale": "en_US",
+      "twitter:label1": "Est. reading time",
+      "og:url": "https://www.mdlconnection.com/implementation-tracker-map/illinois/",
+      "msapplication-tileimage": "https://www.mdlconnection.com/wp-content/uploads/2020/04/cropped-mDLConnection-icon@2x-270x270.png",
+      "twitter:data1": "1 minute"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "State of Illinois Digital ID",
+   "htmlTitle": "State of <b>Illinois Digital ID</b>",
+   "link": "https://doit.illinois.gov/services/catalog/security/digital-id.html",
+   "displayLink": "doit.illinois.gov",
+   "snippet": "State of Illinois Digital ID. The State of Illinois Digital Signature offers a comprehensive infrastructure for supporting electronic government services.",
+   "htmlSnippet": "State of <b>Illinois Digital ID</b>. The State of <b>Illinois</b> Digital Signature offers a comprehensive infrastructure for supporting electronic government services.",
+   "formattedUrl": "https://doit.illinois.gov/services/catalog/security/digital-id.html",
+   "htmlFormattedUrl": "https://doit.<b>illinois</b>.gov/services/catalog/security/<b>digital-id</b>.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "template": "Left Navigation Page",
+      "twitter:card": "summary",
+      "twitter:title": "Digital ID",
+      "og:type": "agency-left-navigation-page",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:url": "https://doit.illinois.gov/services/catalog/security/digital-id.html",
+      "twitter:description": "The State of Illinois Digital Signature offers a comprehensive infrastructure for supporting electronic government services. Public Key Infrastructure (PKI) employs public key cryptography and digital signatures, coupled with certificate management software",
+      "og:title": "Digital ID",
+      "og:locale": "en",
+      "google": "notranslate",
+      "og:url": "https://doit.illinois.gov/services/catalog/security/digital-id.html",
+      "og:description": "The State of Illinois Digital Signature offers a comprehensive infrastructure for supporting electronic government services. Public Key Infrastructure (PKI) employs public key cryptography and digital signatures, coupled with certificate management software"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "Home",
+      "name": "Home",
+      "position": "1"
+     },
+     {
+      "item": "Services",
+      "name": "Services",
+      "position": "2"
+     },
+     {
+      "item": "Catalog",
+      "name": "Catalog",
+      "position": "3"
+     },
+     {
+      "item": "Security",
+      "name": "Security",
+      "position": "4"
+     },
+     {
+      "item": "Digital ID",
+      "name": "Digital ID",
+      "position": "5"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Digital IDs in Illinois: Who will be able to get one and when? \u2013 NBC ...",
+   "htmlTitle": "Digital IDs in <b>Illinois</b>: Who will be able to get one and when? \u2013 NBC ...",
+   "link": "https://www.nbcchicago.com/news/local/officials-update-on-digital-ids-in-illinois-who-can-get-one-and-when/3644735/",
+   "displayLink": "www.nbcchicago.com",
+   "snippet": "Jan 13, 2025 ... The TSA does accept mobile ID's in many situations, but it notes that \"if a digital ID cannot be verified at the TSA security checkpoint, a\u00a0...",
+   "htmlSnippet": "Jan 13, 2025 <b>...</b> The TSA does accept <b>mobile ID&#39;s</b> in many situations, but it notes that &quot;if a <b>digital ID</b> cannot be verified at the TSA security checkpoint, a&nbsp;...",
+   "formattedUrl": "https://www.nbcchicago.com/news/...on-digital-ids...illinois.../3644735/",
+   "htmlFormattedUrl": "https://www.nbcchicago.com/news/...on-<b>digital-id</b>s...<b>illinois</b>.../3644735/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ISN6zygqeTdJX-D3qHKmfmz-eYCF-0zwFzFJxWLMwtEZlXpc4tq1ye_p&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://media.nbcchicago.com/2024/08/mobile-id.png?resize=1200%2C675&quality=85&strip=all",
+      "twitter:card": "summary_large_image",
+      "og:image:width": "1200",
+      "og:site_name": "NBC Chicago",
+      "sailthru.tags": "Transportation",
+      "twitter:url": "https://www.nbcchicago.com/news/local/officials-update-on-digital-ids-in-illinois-who-can-get-one-and-when/3644735/",
+      "parsely-author": "NBC Chicago",
+      "msapplication-tileimage": "https://media.nbcchicago.com/2019/09/cropped-NBC_Chicago.png?fit=270%2C270&quality=85&strip=all",
+      "twitter:creator": "@nbcchicago",
+      "og:description": "Digital IDs and driver's licenses will be available in Illinois for 2025, but only for some residents, the Illinois Secretary of State's office announced Monday, offering a first look at timing for the highly anticipated virtual IDs.",
+      "article:publisher": "http://www.facebook.com/nbcchicago",
+      "twitter:image": "https://media.nbcchicago.com/2024/08/mobile-id.png?resize=1200%2C675&quality=85&strip=all",
+      "parsely-type": "post",
+      "twitter:site": "@nbcchicago",
+      "parsely-link": "http://www.nbcchicago.com/news/local/officials-update-on-digital-ids-in-illinois-who-can-get-one-and-when/3644735/",
+      "sailthru.title": "Digital IDs in Illinois: Who will be able to get one and when?",
+      "parsely-image-url": "https://media.nbcchicago.com/2024/08/mobile-id.png?resize=218%2C123&quality=85&strip=all",
+      "parsely-section": "Chicago Politics",
+      "article:content_tier": "free",
+      "sailthru.type": "article",
+      "sailthru.date": "2025-01-13T11:48:40+00:00",
+      "og:type": "article",
+      "twitter:title": "Officials update on digital IDs in Illinois: Who will be able to get one first and when?",
+      "og:title": "Officials update on digital IDs in Illinois: Who will be able to get one first and when?",
+      "og:image:height": "675",
+      "parsely-title": "Officials update on digital IDs in Illinois: Who can get one and when?",
+      "parsely-pub-date": "2025-01-13T17:48:40Z",
+      "parsely-tags": "transportation",
+      "fb:app_id": "187516345314",
+      "sailthru.description": "Digital IDs and driver's licenses will be available in Illinois for 2025, but only for some residents, the Illinois Secretary of State's office announced...",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Digital IDs and driver's licenses will be available in Illinois for 2025, but only for some residents, the Illinois Secretary of State's office announced Monday, offering a first look at timing for the highly anticipated virtual IDs.",
+      "taboola_lead": "video",
+      "og:url": "https://www.nbcchicago.com/news/local/officials-update-on-digital-ids-in-illinois-who-can-get-one-and-when/3644735/",
+      "article:opinion": "false"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://media.nbcchicago.com/2024/08/mobile-id.png?resize=1200%2C675&quality=85&strip=all"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "State of Illinois Digital ID Login",
+   "htmlTitle": "State of <b>Illinois Digital ID</b> Login",
+   "link": "https://chirp.isp.illinois.gov/chirp/login.action",
+   "displayLink": "chirp.isp.illinois.gov",
+   "snippet": "... Illinois State Police. WHY DIGITAL ENCRYPTION? All criminal ... Please enter the user name and password associated with your State of Illinois Digital ID.",
+   "htmlSnippet": "... <b>Illinois</b> State Police. WHY DIGITAL ENCRYPTION? All criminal ... Please enter the user name and password associated with your State of <b>Illinois Digital ID</b>.",
+   "formattedUrl": "https://chirp.isp.illinois.gov/chirp/login.action",
+   "htmlFormattedUrl": "https://chirp.isp.<b>illinois</b>.gov/chirp/login.action"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "PKI FAQ - Security",
+   "htmlTitle": "PKI FAQ - Security",
+   "link": "https://doit.illinois.gov/services/catalog/security/pki-faqs.html",
+   "displayLink": "doit.illinois.gov",
+   "snippet": "By establishing a Digital ID authorized by the State of Illinois, you gain entry to various systems within the state government.",
+   "htmlSnippet": "By establishing a <b>Digital ID</b> authorized by the State of <b>Illinois</b>, you gain entry to various systems within the state government.",
+   "formattedUrl": "https://doit.illinois.gov/services/catalog/security/pki-faqs.html",
+   "htmlFormattedUrl": "https://doit.<b>illinois</b>.gov/services/catalog/security/pki-faqs.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "template": "Left Navigation Page",
+      "twitter:card": "summary",
+      "twitter:title": "PKI FAQ - Security",
+      "og:type": "agency-left-navigation-page",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:url": "https://doit.illinois.gov/services/catalog/security/pki-faqs.html",
+      "og:title": "PKI FAQ - Security",
+      "og:locale": "en",
+      "google": "notranslate",
+      "og:url": "https://doit.illinois.gov/services/catalog/security/pki-faqs.html"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "Home",
+      "name": "Home",
+      "position": "1"
+     },
+     {
+      "item": "Services",
+      "name": "Services",
+      "position": "2"
+     },
+     {
+      "item": "Catalog",
+      "name": "Catalog",
+      "position": "3"
+     },
+     {
+      "item": "Security",
+      "name": "Security",
+      "position": "4"
+     },
+     {
+      "item": "PKI FAQ - Security",
+      "name": "PKI FAQ - Security",
+      "position": "5"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,436 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://mvdmt.gov/ \"driver's license\" OR \"identification card\"",
+    "totalResults": "324",
+    "searchTerms": "site:https://mvdmt.gov/ \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://mvdmt.gov/ \"driver's license\" OR \"identification card\"",
+    "totalResults": "324",
+    "searchTerms": "site:https://mvdmt.gov/ \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.121304,
+  "formattedSearchTime": "0.12",
+  "totalResults": "324",
+  "formattedTotalResults": "324"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Suspensions, Revocations, and Reinstatements \u2013 MT Motor Vehicle ...",
+   "htmlTitle": "Suspensions, Revocations, and Reinstatements \u2013 MT Motor Vehicle ...",
+   "link": "https://mvdmt.gov/suspensions-revocations/",
+   "displayLink": "mvdmt.gov",
+   "snippet": "Falsifying a date of birth on a driver's license application; Altering a driver's license or identification card to obtain alcohol; Authorizing another person\u00a0...",
+   "htmlSnippet": "Falsifying a date of birth on a <b>driver&#39;s license</b> application; Altering a <b>driver&#39;s license</b> or <b>identification card</b> to obtain alcohol; Authorizing another person&nbsp;...",
+   "formattedUrl": "https://mvdmt.gov/suspensions-revocations/",
+   "htmlFormattedUrl": "https://mvdmt.gov/suspensions-revocations/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIj-IhkmSTA5QPp0jBnpU7npQV37kbBxCn1QFnpZQgV22tZV_v4U5zXXU&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://mvdmt.gov/wp-content/uploads/2025/03/mvd_white_600x.png",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+      "msapplication-tileimage": "https://mvdmt.gov/wp-content/uploads/2023/05/mvd_logo_NT_512x512-300x300.png",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "webpage": [
+     {
+      "maincontentofpage": "Want to know the status of your Driver License?We have an app for that. Not only can you check the status - you can pay fees and upload reinstatement documents. All online.Click Here for Online..."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://mvdmt.gov/wp-content/uploads/2025/03/mvd_white_600x.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Replacing Your License / ID \u2013 MT Motor Vehicle Division",
+   "htmlTitle": "Replacing Your License / ID \u2013 MT Motor Vehicle Division",
+   "link": "https://mvdmt.gov/replace-license-id/",
+   "displayLink": "mvdmt.gov",
+   "snippet": "MVD recommends reporting your stolen driver license or identification card to local law enforcement. See associated fees for replacement cost. Something to\u00a0...",
+   "htmlSnippet": "MVD recommends reporting your stolen driver license or <b>identification card</b> to local law enforcement. See associated fees for replacement cost. Something to&nbsp;...",
+   "formattedUrl": "https://mvdmt.gov/replace-license-id/",
+   "htmlFormattedUrl": "https://mvdmt.gov/replace-license-id/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIj-IhkmSTA5QPp0jBnpU7npQV37kbBxCn1QFnpZQgV22tZV_v4U5zXXU&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://mvdmt.gov/wp-content/uploads/2025/03/mvd_white_600x.png",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+      "msapplication-tileimage": "https://mvdmt.gov/wp-content/uploads/2023/05/mvd_logo_NT_512x512-300x300.png",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "webpage": [
+     {
+      "maincontentofpage": "Save Time and Do This Online! Replacing a lost license (non-commercial and CDL) or an ID can be done through our online service.Go to Online Services If you need to replace your driver license,..."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://mvdmt.gov/wp-content/uploads/2025/03/mvd_white_600x.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Forms & Manuals: Driver Licensing \u2013 MT Motor Vehicle Division",
+   "htmlTitle": "Forms &amp; Manuals: Driver Licensing \u2013 MT Motor Vehicle Division",
+   "link": "https://mvdmt.gov/forms-driver-license/",
+   "displayLink": "mvdmt.gov",
+   "snippet": "FOR IN-PERSON APPOINTMENTS - Used when applying for a standard Montana driver license or identification card. May be filled out before arriving at the MVD\u00a0...",
+   "htmlSnippet": "FOR IN-PERSON APPOINTMENTS - Used when applying for a standard Montana driver license or <b>identification card</b>. May be filled out before arriving at the MVD&nbsp;...",
+   "formattedUrl": "https://mvdmt.gov/forms-driver-license/",
+   "htmlFormattedUrl": "https://mvdmt.gov/forms-driver-license/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIj-IhkmSTA5QPp0jBnpU7npQV37kbBxCn1QFnpZQgV22tZV_v4U5zXXU&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://mvdmt.gov/wp-content/uploads/2025/03/mvd_white_600x.png",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+      "msapplication-tileimage": "https://mvdmt.gov/wp-content/uploads/2023/05/mvd_logo_NT_512x512-300x300.png",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "webpage": [
+     {
+      "maincontentofpage": "Most Motor Vehicle forms must be printed, filled out manually, and delivered or mailed to the address indicated on the form. Forms cannot be submitted online unless indicated. Be sure to sign..."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://mvdmt.gov/wp-content/uploads/2025/03/mvd_white_600x.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Identification Card \u2013 MT Motor Vehicle Division",
+   "htmlTitle": "<b>Identification Card</b> \u2013 MT Motor Vehicle Division",
+   "link": "https://mvdmt.gov/id-card/",
+   "displayLink": "mvdmt.gov",
+   "snippet": "Once that is complete, you must schedule an in-person appointment at a Driver Exam Station. An applicant's full legal name is required on an identification card\u00a0...",
+   "htmlSnippet": "Once that is complete, you must schedule an in-person appointment at a Driver Exam Station. An applicant&#39;s full legal name is required on an <b>identification card</b>&nbsp;...",
+   "formattedUrl": "https://mvdmt.gov/id-card/",
+   "htmlFormattedUrl": "https://mvdmt.gov/id-card/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIj-IhkmSTA5QPp0jBnpU7npQV37kbBxCn1QFnpZQgV22tZV_v4U5zXXU&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://mvdmt.gov/wp-content/uploads/2025/03/mvd_white_600x.png",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+      "msapplication-tileimage": "https://mvdmt.gov/wp-content/uploads/2023/05/mvd_logo_NT_512x512-300x300.png",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "webpage": [
+     {
+      "maincontentofpage": "Are you a Montana Resident? You qualify for a Montana ID card.Montana ID cards require an in-person visit to an MVD Driver Exam Station. Mail in processes are NOT available for identification..."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://mvdmt.gov/wp-content/uploads/2025/03/mvd_white_600x.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Licensing Fees \u2013 MT Motor Vehicle Division",
+   "htmlTitle": "Licensing Fees \u2013 MT Motor Vehicle Division",
+   "link": "https://mvdmt.gov/licensing-fees/",
+   "displayLink": "mvdmt.gov",
+   "snippet": "The fees include all admin costs and applies to obtaining an Identification Card. Fee, With REAL ID Total. ID Card, $17.00, $42.23. Replacement ID Card, $10.30\u00a0...",
+   "htmlSnippet": "The fees include all admin costs and applies to obtaining an <b>Identification Card</b>. Fee, With REAL ID Total. ID Card, $17.00, $42.23. Replacement ID Card, $10.30&nbsp;...",
+   "formattedUrl": "https://mvdmt.gov/licensing-fees/",
+   "htmlFormattedUrl": "https://mvdmt.gov/licensing-fees/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIj-IhkmSTA5QPp0jBnpU7npQV37kbBxCn1QFnpZQgV22tZV_v4U5zXXU&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://mvdmt.gov/wp-content/uploads/2025/03/mvd_white_600x.png",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+      "msapplication-tileimage": "https://mvdmt.gov/wp-content/uploads/2023/05/mvd_logo_NT_512x512-300x300.png",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "webpage": [
+     {
+      "maincontentofpage": "The various driver license fees are listed below. The total fee if you add a REAL ID is included in the table. Please note the following acronyms are used:NCL = Non-commercial License ME =..."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://mvdmt.gov/wp-content/uploads/2025/03/mvd_white_600x.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Changing your Address \u2013 MT Motor Vehicle Division",
+   "htmlTitle": "Changing your Address \u2013 MT Motor Vehicle Division",
+   "link": "https://mvdmt.gov/address-change/",
+   "displayLink": "mvdmt.gov",
+   "snippet": "Updating your Driver License, MT Identification Card, or vehicle registration address can be done online. ... You must notify the MVD's Driver Services Bureau\u00a0...",
+   "htmlSnippet": "Updating your Driver License, MT <b>Identification Card</b>, or vehicle registration address can be done online. ... You must notify the MVD&#39;s Driver Services Bureau&nbsp;...",
+   "formattedUrl": "https://mvdmt.gov/address-change/",
+   "htmlFormattedUrl": "https://mvdmt.gov/address-change/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIj-IhkmSTA5QPp0jBnpU7npQV37kbBxCn1QFnpZQgV22tZV_v4U5zXXU&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://mvdmt.gov/wp-content/uploads/2025/03/mvd_white_600x.png",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+      "msapplication-tileimage": "https://mvdmt.gov/wp-content/uploads/2023/05/mvd_logo_NT_512x512-300x300.png",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "webpage": [
+     {
+      "maincontentofpage": "Save Time and Do This Online! Updating your Driver License, MT Identification Card, or vehicle registration address can be done online.Go to Online Services You must notify the MVD\u2019s Driver..."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://mvdmt.gov/wp-content/uploads/2025/03/mvd_white_600x.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Required Documents for Driver Licenses / IDs \u2013 MT Motor Vehicle ...",
+   "htmlTitle": "Required Documents for Driver Licenses / IDs \u2013 MT Motor Vehicle ...",
+   "link": "https://mvdmt.gov/required-documents/",
+   "displayLink": "mvdmt.gov",
+   "snippet": "New resident driver license transfers (standard or CDL); All identification card applicants; Renewing OR replacing lost, stolen, or destroyed Montana\u00a0...",
+   "htmlSnippet": "New resident driver license transfers (standard or CDL); All <b>identification card</b> applicants; Renewing OR replacing lost, stolen, or destroyed Montana&nbsp;...",
+   "formattedUrl": "https://mvdmt.gov/required-documents/",
+   "htmlFormattedUrl": "https://mvdmt.gov/required-documents/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIj-IhkmSTA5QPp0jBnpU7npQV37kbBxCn1QFnpZQgV22tZV_v4U5zXXU&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://mvdmt.gov/wp-content/uploads/2025/03/mvd_white_600x.png",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+      "msapplication-tileimage": "https://mvdmt.gov/wp-content/uploads/2023/05/mvd_logo_NT_512x512-300x300.png",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "webpage": [
+     {
+      "maincontentofpage": "Time to dig through the files (piles?)Most services require hard-copy documents for proof of identity, proof of authorized presence, and proof of Montana residency. Make sure you have the documenta..."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://mvdmt.gov/wp-content/uploads/2025/03/mvd_white_600x.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Getting a Montana Driver License \u2013 MT Motor Vehicle Division",
+   "htmlTitle": "Getting a Montana Driver License \u2013 MT Motor Vehicle Division",
+   "link": "https://mvdmt.gov/new-driver-license/",
+   "displayLink": "mvdmt.gov",
+   "snippet": "Identification Card \u00b7 Real ID \u00b7 Forms & Manuals: Licensing / ID. Title & Registration. Vehicle Registration \u00b7 Vehicle Title Information \u00b7 License Plate\u00a0...",
+   "htmlSnippet": "<b>Identification Card</b> &middot; Real ID &middot; Forms &amp; Manuals: Licensing / ID. Title &amp; Registration. Vehicle Registration &middot; Vehicle Title Information &middot; License Plate&nbsp;...",
+   "formattedUrl": "https://mvdmt.gov/new-driver-license/",
+   "htmlFormattedUrl": "https://mvdmt.gov/new-driver-license/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIj-IhkmSTA5QPp0jBnpU7npQV37kbBxCn1QFnpZQgV22tZV_v4U5zXXU&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://mvdmt.gov/wp-content/uploads/2025/03/mvd_white_600x.png",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+      "msapplication-tileimage": "https://mvdmt.gov/wp-content/uploads/2023/05/mvd_logo_NT_512x512-300x300.png",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "webpage": [
+     {
+      "maincontentofpage": "Find out if you qualify to Pre-Apply Save yourself some time, pre-apply for your license. Filling out required information before your appointment is easy and convenient with our online service...."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://mvdmt.gov/wp-content/uploads/2025/03/mvd_white_600x.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MT Motor Vehicle Division \u2013 Driver & Vehicle Services Made Easy",
+   "htmlTitle": "MT Motor Vehicle Division \u2013 Driver &amp; Vehicle Services Made Easy",
+   "link": "https://mvdmt.gov/",
+   "displayLink": "mvdmt.gov",
+   "snippet": "Identification Card \u00b7 REAL ID \u00b7 Important Questions to Consider when getting your License / ID. Vehicle Title and Registration. Vehicle Registration \u00b7 Vehicle\u00a0...",
+   "htmlSnippet": "<b>Identification Card</b> &middot; REAL ID &middot; Important Questions to Consider when getting your License / ID. Vehicle Title and Registration. Vehicle Registration &middot; Vehicle&nbsp;...",
+   "formattedUrl": "https://mvdmt.gov/",
+   "htmlFormattedUrl": "https://mvdmt.gov/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIj-IhkmSTA5QPp0jBnpU7npQV37kbBxCn1QFnpZQgV22tZV_v4U5zXXU&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://mvdmt.gov/wp-content/uploads/2025/03/mvd_white_600x.png",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+      "msapplication-tileimage": "https://mvdmt.gov/wp-content/uploads/2023/05/mvd_logo_NT_512x512-300x300.png",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "webpage": [
+     {
+      "maincontentofpage": "Montana Motor Vehicle Division Driver Licenses and ID Cards Standard Driver License Commercial Driver License Identification Card REAL ID Important Questions to Consider when getting your License..."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://mvdmt.gov/wp-content/uploads/2025/03/mvd_white_600x.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Changing Your Name on Your License / ID \u2013 MT Motor Vehicle ...",
+   "htmlTitle": "Changing Your Name on Your License / ID \u2013 MT Motor Vehicle ...",
+   "link": "https://mvdmt.gov/changing-your-name/",
+   "displayLink": "mvdmt.gov",
+   "snippet": "Driver License & ID. Standard Driver License \u00b7 Commercial Driver License \u00b7 Identification Card \u00b7 Real ID \u00b7 Forms & Manuals: Licensing / ID. Title & Registration.",
+   "htmlSnippet": "Driver License &amp; ID. Standard Driver License &middot; Commercial Driver License &middot; <b>Identification Card</b> &middot; Real ID &middot; Forms &amp; Manuals: Licensing / ID. Title &amp; Registration.",
+   "formattedUrl": "https://mvdmt.gov/changing-your-name/",
+   "htmlFormattedUrl": "https://mvdmt.gov/changing-your-name/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIj-IhkmSTA5QPp0jBnpU7npQV37kbBxCn1QFnpZQgV22tZV_v4U5zXXU&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://mvdmt.gov/wp-content/uploads/2025/03/mvd_white_600x.png",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+      "msapplication-tileimage": "https://mvdmt.gov/wp-content/uploads/2023/05/mvd_logo_NT_512x512-300x300.png",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "webpage": [
+     {
+      "maincontentofpage": "Have you updated your name with the Social Security Administration?Your name must be changed through Social Security before you change your name on your driver license. When you apply for a..."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://mvdmt.gov/wp-content/uploads/2025/03/mvd_white_600x.png"
+     }
+    ]
+   }
+  }
+ ]
+}

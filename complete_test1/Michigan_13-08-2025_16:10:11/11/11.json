@@ -1,0 +1,289 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Michigan Compiled Laws\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "611",
+    "searchTerms": "\"Michigan Compiled Laws\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Michigan Compiled Laws\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "611",
+    "searchTerms": "\"Michigan Compiled Laws\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.139889,
+  "formattedSearchTime": "0.14",
+  "totalResults": "611",
+  "formattedTotalResults": "611"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "MCL - Section 445.63 - Michigan Legislature",
+   "htmlTitle": "MCL - Section 445.63 - Michigan Legislature",
+   "link": "https://legislature.mi.gov/Laws/MCL?objectName=MCL-445-63",
+   "displayLink": "legislature.mi.gov",
+   "snippet": "(d) \"Credit card\" means that term as defined in section 157m of the ... (r) \"Personal information\" means the first name or first initial and last\u00a0...",
+   "htmlSnippet": "(d) &quot;Credit card&quot; <b>means</b> that term as <b>defined</b> in section 157m of the ... (r) &quot;<b>Personal information</b>&quot; <b>means</b> the first name or first initial and last&nbsp;...",
+   "formattedUrl": "https://legislature.mi.gov/Laws/MCL?objectName=MCL-445-63",
+   "htmlFormattedUrl": "https://legislature.mi.gov/Laws/MCL?objectName=MCL-445-63",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MCL - Section 28.291a - Michigan Legislature",
+   "htmlTitle": "MCL - Section 28.291a - Michigan Legislature",
+   "link": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-28-291a",
+   "displayLink": "www.legislature.mi.gov",
+   "snippet": "... identification card under section 1. ... means that term as defined in section 3 of the address confidentiality program act. (b) \"Personal information\" means\u00a0...",
+   "htmlSnippet": "... <b>identification card</b> under section 1. ... <b>means</b> that term as <b>defined</b> in section 3 of the address confidentiality program act. (b) &quot;<b>Personal information</b>&quot; <b>means</b>&nbsp;...",
+   "formattedUrl": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-28-291a",
+   "htmlFormattedUrl": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-28-291a",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Michigan Compiled Laws Chapter 445 \u2013 Trade and Commerce ...",
+   "htmlTitle": "<b>Michigan Compiled Laws</b> Chapter 445 \u2013 Trade and Commerce ...",
+   "link": "https://www.dwt.com/files/uploads/documents/Publications/Michigan%20Security%20Breach.pdf",
+   "displayLink": "www.dwt.com",
+   "snippet": "... means that term as defined in section 157m of the Michigan penal code,. 1931 PA 328, MCL 750.157m. (e) \"Data\" means computerized personal information. (f)\u00a0...",
+   "htmlSnippet": "... <b>means</b> that term as <b>defined</b> in section 157m of the Michigan penal code,. 1931 PA 328, MCL 750.157m. (e) &quot;Data&quot; <b>means</b> computerized <b>personal information</b>. (f)&nbsp;...",
+   "formattedUrl": "https://www.dwt.com/files/uploads/.../Michigan%20Security%20Breach.pdf",
+   "htmlFormattedUrl": "https://www.dwt.com/files/uploads/.../Michigan%20Security%20Breach.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20070730101608-04'00'",
+      "creationdate": "D:20070730101608-04'00'",
+      "creator": "PScript5.dll Version 5.2",
+      "author": "beth",
+      "producer": "Acrobat Distiller 6.0 (Windows)",
+      "title": "Microsoft Word - Michigan Security Breach.doc"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "STATE PERSONAL IDENTIFICATION CARD Act 222 of 1972 AN ...",
+   "htmlTitle": "STATE PERSONAL <b>IDENTIFICATION CARD</b> Act 222 of 1972 AN ...",
+   "link": "https://www.legislature.mi.gov/documents/mcl/archive/2020/August/mcl-Act-222-of-1972.pdf",
+   "displayLink": "www.legislature.mi.gov",
+   "snippet": "As used in this subdivision, \"temporary lawful status\" means that term as defined in 6 CFR 37.3. (c) An indication that the identification card contains 1 or\u00a0...",
+   "htmlSnippet": "As used in this subdivision, &quot;temporary lawful status&quot; <b>means</b> that term as <b>defined</b> in 6 CFR 37.3. (c) An indication that the <b>identification card</b> contains 1 or&nbsp;...",
+   "formattedUrl": "https://www.legislature.mi.gov/documents/mcl/.../mcl-Act-222-of-1972.pdf",
+   "htmlFormattedUrl": "https://www.legislature.mi.gov/documents/mcl/.../mcl-Act-222-of-1972.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ9PJtNIinN_yTWU-cnkP_3_LKkVSMQyHymKvrvO4d-yKdhmr-LtiUIQA&s",
+      "width": "276",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20200801235309-04'00'",
+      "creationdate": "D:20200727103036",
+      "producer": "TallPDF.NET 3.0.31.0 Professional; modified using iTextSharp\u2122 5.5.0 \u00a92000-2013 iText Group NV (AGPL-version)"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///5d5e3a2fc25cc5de7e83b2744f05cfcef628ccc11ffc4ca69452c70e89da306c"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Committee Bill Records 2019-2020 Ways and Means",
+   "htmlTitle": "Committee Bill Records 2019-2020 Ways and <b>Means</b>",
+   "link": "https://renderpdf.legislature.mi.gov/Committees/CBR?printerFriendly=true&committeeID=44&orderBy=Meetings&sortOrder=ASC&inCommittee=True",
+   "displayLink": "renderpdf.legislature.mi.gov",
+   "snippet": "Trade: business practices; collection of personal information by ... driver's license or state-issued identification card; regulate. Amends sec\u00a0...",
+   "htmlSnippet": "Trade: business practices; collection of <b>personal information</b> by ... <b>driver&#39;s license</b> or state-issued <b>identification card</b>; regulate. Amends sec&nbsp;...",
+   "formattedUrl": "https://renderpdf.legislature.mi.gov/Committees/CBR?...true...",
+   "htmlFormattedUrl": "https://renderpdf.legislature.mi.gov/Committees/CBR?...true..."
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MCL - Section 28.304 - Michigan Legislature",
+   "htmlTitle": "MCL - Section 28.304 - Michigan Legislature",
+   "link": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-28-304",
+   "displayLink": "www.legislature.mi.gov",
+   "snippet": "... identification card or an enhanced driver license or enhanced official state personal identification card. ... (b) \"Designated address\" means that term as defined\u00a0...",
+   "htmlSnippet": "... <b>identification card</b> or an enhanced driver license or enhanced official state personal <b>identification card</b>. ... (b) &quot;Designated address&quot; <b>means</b> that term as <b>defined</b>&nbsp;...",
+   "formattedUrl": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-28-304",
+   "htmlFormattedUrl": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-28-304",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "STATE OF MICHIGAN - Sentencing Guidelines Manual",
+   "htmlTitle": "STATE OF MICHIGAN - Sentencing Guidelines Manual",
+   "link": "https://www.courts.michigan.gov/49c1ed/siteassets/offices/mji/felony-sentencing-online-resources/sgm.pdf",
+   "displayLink": "www.courts.michigan.gov",
+   "snippet": "Oct 23, 2024 ... ... defined in MCL 769.12(6)(a), and the offender is convicted of ... Michigan Compiled Laws as set forth in sections 11a to 11e of this\u00a0...",
+   "htmlSnippet": "Oct 23, 2024 <b>...</b> ... <b>defined</b> in MCL 769.12(6)(a), and the offender is convicted of ... <b>Michigan Compiled Laws</b> as set forth in sections 11a to 11e of this&nbsp;...",
+   "formattedUrl": "https://www.courts.michigan.gov/49c1ed/siteassets/offices/mji/.../sgm.pdf",
+   "htmlFormattedUrl": "https://www.courts.michigan.gov/49c1ed/siteassets/offices/mji/.../sgm.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsRaYWv_94AvpZCx6Svg0f0Gp5quH4EZwy6NKmiRY_Wny9LRShKwsdVmo&s",
+      "width": "144",
+      "height": "176"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20250528114156-04'00'",
+      "creationdate": "D:20250528093901Z",
+      "creator": "FrameMaker 2015.1",
+      "producer": "Acrobat Distiller 25.0 (Windows)",
+      "title": "Sentencing Guidelines Manual"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///9918ddbdb1c0598ac9e633140660fb63f575da3c8d99206ab26af3adc9760f5f"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2025 CITY OF LIVONIA GUIDELINES FOR POVERTY EXEMPTION",
+   "htmlTitle": "2025 CITY OF LIVONIA GUIDELINES FOR POVERTY EXEMPTION",
+   "link": "https://livonia.gov/DocumentCenter/View/4301/Hardship-Application-2025-PDF",
+   "displayLink": "livonia.gov",
+   "snippet": "Poverty Exemption as defined by the Michigan Compiled Laws: Section 211.7u ... PART 1: PERSONAL INFORMATION \u2014 Petitioner must list all required personal\u00a0...",
+   "htmlSnippet": "Poverty Exemption as <b>defined</b> by the <b>Michigan Compiled Laws</b>: Section 211.7u ... PART 1: <b>PERSONAL INFORMATION</b> \u2014 Petitioner must list all required <b>personal</b>&nbsp;...",
+   "formattedUrl": "https://livonia.gov/DocumentCenter/View/.../Hardship-Application-2025-P...",
+   "htmlFormattedUrl": "https://livonia.gov/DocumentCenter/View/.../Hardship-Application-2025-P...",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20241218144003-05'00'",
+      "creationdate": "D:20241218143947-05'00'",
+      "creator": "Adobe Acrobat Standard 2020 20.5.30748",
+      "author": "Boggus, Christopher",
+      "producer": "Adobe Acrobat Standard 2020 20.5.30748"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CHAPTER 552. DIVORCE REVISED STATUTES OF 1846 ...",
+   "htmlTitle": "CHAPTER 552. DIVORCE REVISED STATUTES OF 1846 ...",
+   "link": "https://capitol.legislature.mi.gov/documents/mcl/pdf/mcl-chap552.pdf",
+   "displayLink": "capitol.legislature.mi.gov",
+   "snippet": "Sep 30, 2001 ... (h) \"Driver's license\" means license as that term is defined in section 25 of the Michigan vehicle code,. 1949 PA 300, MCL 257.25. (i)\u00a0...",
+   "htmlSnippet": "Sep 30, 2001 <b>...</b> (h) &quot;<b>Driver&#39;s license</b>&quot; <b>means</b> license as that term is <b>defined</b> in section 25 of the Michigan vehicle code,. 1949 PA 300, MCL 257.25. (i)&nbsp;...",
+   "formattedUrl": "https://capitol.legislature.mi.gov/documents/mcl/pdf/mcl-chap552.pdf",
+   "htmlFormattedUrl": "https://capitol.legislature.mi.gov/documents/mcl/pdf/mcl-chap552.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20250707085355",
+      "creationdate": "D:20250707085355",
+      "producer": "TallPDF.NET 3.0.31.0 Professional"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Licensing Rules for Family and Group Child Care Homes",
+   "htmlTitle": "Licensing Rules for Family and Group Child Care Homes",
+   "link": "https://www.michigan.gov/-/media/Project/Websites/mileap/Documents/Early-Childhood-Education/CCLB/lara_BCAL_PUB-724_0715.pdf?rev=64ae3cd12116446e9aa413895784d6c0",
+   "displayLink": "www.michigan.gov",
+   "snippet": "(z) \u201cIneligible\u201d means that term as defined in section 1(n) of the act, MCL ... of the Michigan Compiled Laws. (c) \"Noncompliance\" means a violation of\u00a0...",
+   "htmlSnippet": "(z) \u201cIneligible\u201d <b>means</b> that term as <b>defined</b> in section 1(n) of the act, MCL ... of the <b>Michigan Compiled Laws</b>. (c) &quot;Noncompliance&quot; <b>means</b> a violation of&nbsp;...",
+   "formattedUrl": "https://www.michigan.gov/-/media/.../lara_BCAL_PUB-724_0715.pdf?...",
+   "htmlFormattedUrl": "https://www.michigan.gov/-/media/.../lara_BCAL_PUB-724_0715.pdf?...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaYHmEn-9zRrPf4YOZenTJFvSf-vItfkO2erjwQ-Wx0T2Zc0KPjipAXXWu&s",
+      "width": "379",
+      "height": "133"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20200506133046-04'00'",
+      "creator": "Microsoft\u00ae Word for Office 365",
+      "creationdate": "D:20200506133046-04'00'",
+      "author": "nelsonc7",
+      "producer": "Microsoft\u00ae Word for Office 365",
+      "title": "BCAL PUB 724 (1_16).indd"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///436fab3810644aefd34630018ae281cda8491290941aa249e83fe28f95cc6dab"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

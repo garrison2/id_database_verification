@@ -1,0 +1,428 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Michigan\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Michigan Compiled Laws\"",
+    "totalResults": "222000",
+    "searchTerms": "\"Michigan\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Michigan Compiled Laws\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Michigan\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Michigan Compiled Laws\"",
+    "totalResults": "222000",
+    "searchTerms": "\"Michigan\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Michigan Compiled Laws\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.244808,
+  "formattedSearchTime": "0.24",
+  "totalResults": "222000",
+  "formattedTotalResults": "222,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Bill introduced to enable digital licenses, Benson calls it a priority ...",
+   "htmlTitle": "<b>Bill</b> introduced to enable digital licenses, Benson calls it a priority ...",
+   "link": "https://michiganadvance.com/2023/08/08/bill-introduced-to-enable-digital-licenses-benson-calls-it-a-priority/",
+   "displayLink": "michiganadvance.com",
+   "snippet": "By: Andrew Roth - August 8, 2023 4:46 am. Michigan Advance graphic with ... their own digital ID apps but have not yet integrated them into Apple Wallet.",
+   "htmlSnippet": "By: Andrew Roth - August 8, 2023 4:46 am. <b>Michigan</b> Advance graphic with ... their own <b>digital ID</b> apps but have not yet integrated them into Apple Wallet.",
+   "formattedUrl": "https://michiganadvance.com/.../bill-introduced-to-enable-digital-licenses-b...",
+   "htmlFormattedUrl": "https://<b>michigan</b>advance.com/.../<b>bill</b>-introduced-to-enable-digital-licenses-b...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvJ0bX67AtD97iwB71g1RpxK4KKGuzXgl4sIus9TLawGyi33HzcWmoIjLu&s",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://michiganadvance.com/wp-content/uploads/2023/08/driv5.png",
+      "og:type": "article",
+      "article:published_time": "2023-08-08T08:46:35+00:00",
+      "twitter:card": "summary_large_image",
+      "og:image:width": "1024",
+      "og:site_name": "Michigan Advance",
+      "author": "Andrew Roth",
+      "og:title": "Bill introduced to enable digital licenses, Benson calls it a priority \u2022 Michigan Advance",
+      "twitter:label1": "Written by",
+      "twitter:label2": "Est. reading time",
+      "msapplication-tileimage": "https://michiganadvance.com/wp-content/uploads/2018/11/cropped-Asset-16-270x270.png",
+      "og:description": "Michigan could become the fifth state to enable residents to add a digital state ID to their phone under a package of bills recently introduced in the Michigan Legislature. Senate Bill 459, sponsored by state Sen. Sarah Anthony (D-Lansing), would allow the Michigan secretary of state to issue a digitized version of a state identification [\u2026]",
+      "twitter:creator": "@https://twitter.com/RothTheReporter",
+      "article:publisher": "https://www.facebook.com/michiganadvance",
+      "twitter:data1": "Andrew Roth",
+      "twitter:data2": "4 minutes",
+      "twitter:site": "@michiganadvance",
+      "article:modified_time": "2023-08-08T08:49:55+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://michiganadvance.com/2023/08/08/bill-introduced-to-enable-digital-licenses-benson-calls-it-a-priority/",
+      "sn_version": "v1.86.4"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://michiganadvance.com/wp-content/uploads/2023/08/driv5.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "SB0459: SUMMARY OF BILL REPORTED FROM COMMITTEE ...",
+   "htmlTitle": "SB0459: SUMMARY OF <b>BILL</b> REPORTED FROM COMMITTEE ...",
+   "link": "https://www.legislature.mi.gov/documents/2023-2024/billanalysis/Senate/htm/2023-SFA-0459-F.htm",
+   "displayLink": "www.legislature.mi.gov",
+   "snippet": "Nov 27, 2024 ... [1] Nine more were piloting development programs, while 13 more were considering mDL legislation. ... Michigan also provide for mDLs.",
+   "htmlSnippet": "Nov 27, 2024 <b>...</b> [1] Nine more were piloting development programs, while 13 more were considering <b>mDL</b> legislation. ... <b>Michigan</b> also provide for mDLs.",
+   "formattedUrl": "https://www.legislature.mi.gov/.../2023.../billanalysis/.../2023-SFA-0459-F....",
+   "htmlFormattedUrl": "https://www.legislature.mi.gov/.../2023.../<b>bill</b>analysis/.../2023-SFA-0459-F....",
+   "pagemap": {
+    "metatags": [
+     {
+      "bill": "SB0459,SB0460,SB0461,SB0894",
+      "title": "SUMMARY OF BILL REPORTED FROM COMMITTEE (Date Completed: 11-27-24)"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Digital ID : r/Michigan",
+   "htmlTitle": "<b>Digital ID</b> : r/<b>Michigan</b>",
+   "link": "https://www.reddit.com/r/Michigan/comments/1iw74ub/digital_id/",
+   "displayLink": "www.reddit.com",
+   "snippet": "Feb 23, 2025 ... Skip to main content Digital ID : r/Michigan. Close search. r/Michigan Current search is within r/Michigan",
+   "htmlSnippet": "Feb 23, 2025 <b>...</b> Skip to main content <b>Digital ID</b> : r/<b>Michigan</b>. Close search. r/<b>Michigan</b> Current search is within r/<b>Michigan</b>",
+   "formattedUrl": "https://www.reddit.com/r/Michigan/comments/1iw74ub/digital_id/",
+   "htmlFormattedUrl": "https://www.reddit.com/r/<b>Michigan</b>/comments/1iw74ub/<b>digital_id</b>/",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:image": "https://share.redd.it/preview/post/1iw74ub",
+      "theme-color": "#000000",
+      "og:image:width": "1200",
+      "og:type": "website",
+      "og:image:alt": "An image containing a preview of the post",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "r/Michigan on Reddit: Digital ID",
+      "og:site_name": "Reddit",
+      "og:title": "r/Michigan on Reddit: Digital ID",
+      "og:image:height": "630",
+      "msapplication-navbutton-color": "#000000",
+      "og:description": "Posted by u/themiracy - 1 vote and 31 comments",
+      "twitter:image": "https://share.redd.it/preview/post/1iw74ub",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "twitter:site": "@reddit",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "apple-mobile-web-app-capable": "yes",
+      "og:ttl": "600",
+      "og:url": "https://www.reddit.com/r/Michigan/comments/1iw74ub/digital_id/?seeker-session=true"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "AO_No._1993-2_ ...",
+   "htmlTitle": "AO_No._1993-2_ ...",
+   "link": "https://www.courts.michigan.gov/siteassets/rules-instructions-administrative-orders/administrative-orders/aos-responsive-html5.zip/AOs/Administrative_Orders/AO_No._1993-2_%E2%80%94_In_re_Silicone_Gel_Implant_Product_Liability_Litigation.htm?rhtocid=_51",
+   "displayLink": "www.courts.michigan.gov",
+   "snippet": "... Michigan courts other than the Third Judicial Circuit. ... If the motion is granted, the further deposition of the MDL witness may cover only those subjects\u00a0...",
+   "htmlSnippet": "... <b>Michigan</b> courts other than the Third Judicial Circuit. ... If the motion is granted, the further deposition of the <b>MDL</b> witness may cover only those subjects&nbsp;...",
+   "formattedUrl": "https://www.courts.michigan.gov/...orders/...orders/...Orders/AO_No._1993...",
+   "htmlFormattedUrl": "https://www.courts.<b>michigan</b>.gov/...<b>order</b>s/...<b>order</b>s/...<b>Order</b>s/AO_No._1993...",
+   "pagemap": {
+    "metatags": [
+     {
+      "title_original": "AO No. 1993-2 \u2014 In re Silicone Gel Implant Product Liability Litigation"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Michigan Mobile ID Updates",
+   "htmlTitle": "<b>Michigan Mobile ID</b> Updates",
+   "link": "https://idscan.net/state-digital-id/michigan-mobile-id-updates/",
+   "displayLink": "idscan.net",
+   "snippet": "State of Michigan mobile ID. Introduced by Senator Sarah Anthony, Senate Bill 460 would allow for the creation of a Michigan digital ID. It was initially\u00a0...",
+   "htmlSnippet": "State of <b>Michigan mobile ID</b>. Introduced by Senator Sarah Anthony, Senate <b>Bill</b> 460 would allow for the creation of a <b>Michigan digital ID</b>. It was initially&nbsp;...",
+   "formattedUrl": "https://idscan.net/state-digital-id/michigan-mobile-id-updates/",
+   "htmlFormattedUrl": "https://idscan.net/state-<b>digital-id</b>/<b>michigan</b>-<b>mobile-id</b>-updates/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-SXKz38st_ItioTO9IRJk1JUmxTvYCexRahY_BewXKtZJHVWxSet3Hvw&s",
+      "width": "312",
+      "height": "161"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://idscan.net/wp-content/uploads/michigan-mobile-id.jpg?lm=67E5AEE3",
+      "og:type": "article",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "IDScan.net",
+      "og:title": "Michigan Mobile ID Updates",
+      "og:image:height": "622",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://idscan.net/wp-content/uploads/cropped-idscan-identity-verification-software-icon-1-270x270.png",
+      "og:description": "Michigan introduced SB 460 in late 2023 which would have allowed for the creation of a mobile ID. It has since died in committee.",
+      "article:publisher": "https://www.facebook.com/idscannet",
+      "twitter:site": "@idscan_net",
+      "article:modified_time": "2025-03-26T16:10:15+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://idscan.net/state-digital-id/michigan-mobile-id-updates/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://idscan.net/wp-content/uploads/michigan-mobile-id.jpg?lm=67E5AEE3"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MDL Orders \u2013 National Opioids Settlement",
+   "htmlTitle": "<b>MDL</b> Orders \u2013 National Opioids Settlement",
+   "link": "https://nationalopioidsettlement.com/mdl-orders/",
+   "displayLink": "nationalopioidsettlement.com",
+   "snippet": "MDL Orders ; Order, July 24, 2023, Fee Panel Order No. 25 Regarding Back-Stop Funds in the State of Michigan ; Order, July 6, 2023, Order Regarding 7.5% Common\u00a0...",
+   "htmlSnippet": "<b>MDL</b> Orders ; <b>Order</b>, July 24, 2023, Fee Panel <b>Order</b> No. 25 Regarding Back-Stop Funds in the State of <b>Michigan</b> ; <b>Order</b>, July 6, 2023, <b>Order</b> Regarding 7.5% Common&nbsp;...",
+   "formattedUrl": "https://nationalopioidsettlement.com/mdl-orders/",
+   "htmlFormattedUrl": "https://nationalopioidsettlement.com/<b>mdl</b>-<b>order</b>s/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Michigan Voter ID Information \u2022 In Person or By Mail \u2022 VoteRiders",
+   "htmlTitle": "<b>Michigan</b> Voter ID Information \u2022 In Person or By Mail \u2022 VoteRiders",
+   "link": "https://www.voteriders.org/states/michigan/",
+   "displayLink": "www.voteriders.org",
+   "snippet": "Michigan. Michigan asks you to show photo ID to vote in person. If you don't ... You cannot use an image, copy, or digital ID when you are voting in person.",
+   "htmlSnippet": "<b>Michigan</b>. <b>Michigan</b> asks you to show photo ID to vote in person. If you don&#39;t ... You cannot use an image, copy, or <b>digital ID</b> when you are voting in person.",
+   "formattedUrl": "https://www.voteriders.org/states/michigan/",
+   "htmlFormattedUrl": "https://www.voteriders.org/states/<b>michigan</b>/",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "VoteRiders",
+      "og:title": "Michigan",
+      "twitter:label1": "Est. reading time",
+      "msapplication-tileimage": "https://www.voteriders.org/wp-content/uploads/2020/07/cropped-favicon-3-270x270.png",
+      "og:description": "Michigan asks you to show photo ID to vote in person. If you don\u2019t have an accepted ID, there is another way to confirm your identity. Most voters do not need a copy of their ID to vote by mail.",
+      "article:publisher": "https://www.facebook.com/VoteRiders",
+      "twitter:data1": "3 minutes",
+      "twitter:site": "@voteriders",
+      "article:modified_time": "2025-03-24T21:37:12+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.voteriders.org/states/michigan/"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Bulletin No. 89-03",
+   "htmlTitle": "Bulletin No. 89-03",
+   "link": "https://www.michigan.gov/difs/legal/bulletins/insurance-bulletins-1984---1989/bulletin-no-89-03",
+   "displayLink": "www.michigan.gov",
+   "snippet": "... (MDL 337) which has been properly filed with the Bureau of Workers ... Michigan's New Auto Insurance Law \u00b7 Health Insurance \u00b7 Homeowners Insurance\u00a0...",
+   "htmlSnippet": "... (<b>MDL</b> 337) which has been properly filed with the Bureau of Workers ... <b>Michigan&#39;s</b> New Auto Insurance <b>Law</b> &middot; Health Insurance &middot; Homeowners Insurance&nbsp;...",
+   "formattedUrl": "https://www.michigan.gov/difs/legal/bulletins/...1984.../bulletin-no-89-03",
+   "htmlFormattedUrl": "https://www.<b>michigan</b>.gov/difs/legal/bulletins/...1984.../bulletin-no-89-03",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPX-0eRxEkXgd0ZlSDiy4-Oi92RNiCwT71aH11t6mqF0Mqab9UJL-pWfkG&s",
+      "width": "250",
+      "height": "202"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#277c78",
+      "msapplication-config": "/difs/-/media/Project/Websites/shared/Browser-Icon/browserconfig.xml?rev=15a1c884ffca4409bb27fcec7eef109e&hash=6148D9054B182D34F2DFF03C16E8ABD8",
+      "page-breadcrumb": "Department of Insurance and Financial Services|Regulatory & Legal|Bulletins|Insurance Bulletins 1984 - 1989|Bulletin No. 89-03",
+      "og:image": "https://www.michigan.gov/difs/-/media/Project/Websites/difs/Banner/OpenGraph/DIFS-Logo-OpenGraph.jpg?rev=7d4f98f354e54e978a5e7f1fbb277644&hash=AEEF6C27C70DCFF7A2E8713B4C0EF0C9",
+      "theme-color": "#ffffff",
+      "site-name": "Department of Insurance and Financial Services",
+      "twitter:title": "Bulletin No. 89-03",
+      "twitter:card": "summary_large_image",
+      "site-logo": "/difs/-/media/Images/Logos/difs.svg?rev=b98d97aa274d4e0ea1d06945343b3464&hash=9BAB888080B64456C5E7745815ED18BB",
+      "site-agency": "DIFS",
+      "og:title": "Bulletin No. 89-03",
+      "grouped-item-type": "Webpages",
+      "item-type": "Page",
+      "viewport": "width=device-width, initial-scale=1",
+      "page-template": "Page",
+      "site-agency-name": "Department of Insurance and Financial Services",
+      "site-hierarchy": "Department of Insurance and Financial Services|Department of Insurance and Financial Services",
+      "og:url": "https://www.michigan.gov/difs/legal/bulletins/insurance-bulletins-1984---1989/bulletin-no-89-03",
+      "page-hasformcomponent": "false",
+      "site-path": "difs"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.michigan.gov/difs/-/media/Project/Websites/difs/Banner/OpenGraph/DIFS-Logo-OpenGraph.jpg?rev=7d4f98f354e54e978a5e7f1fbb277644&hash=AEEF6C27C70DCFF7A2E8713B4C0EF0C9"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Your Michigan driver's license could move from your wallet to your ...",
+   "htmlTitle": "Your <b>Michigan</b> driver&#39;s license could move from your wallet to your ...",
+   "link": "https://www.mlive.com/politics/2023/07/your-michigan-drivers-license-could-move-from-your-wallet-to-your-smartphone.html",
+   "displayLink": "www.mlive.com",
+   "snippet": "Jul 28, 2023 ... A Michigan bill would allow users to pull up their ID virtually on ... The previous bill laid out specifics of the mobile ID system. It\u00a0...",
+   "htmlSnippet": "Jul 28, 2023 <b>...</b> A <b>Michigan bill</b> would allow users to pull up their ID virtually on ... The previous <b>bill</b> laid out specifics of the <b>mobile ID</b> system. It&nbsp;...",
+   "formattedUrl": "https://www.mlive.com/.../your-michigan-drivers-license-could-move-from...",
+   "htmlFormattedUrl": "https://www.mlive.com/.../your-<b>michigan</b>-drivers-license-could-move-from...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1hd3F2XJEoZ3-mSalVefrXJf--_7UYX_jjbeK010ZKWzxgAtFG2_3BNk&s",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.mlive.com/resizer/v2/G42UPQ6YEBDXNDJQFXDHL3REHY.jpg?auth=118b79e436f44aff22feae6f07d7810e0c88bf48e97abf97b05a7187d0aa53b6&width=1280&quality=90",
+      "article:published_time": "2023-07-28T13:45:00.327Z",
+      "twitter:card": "summary_large_image",
+      "og:image:width": "1280",
+      "og:site_name": "mlive",
+      "sailthru.tags": "politics & elections,michigan state police,gretchen whitmer,people,state,michigan,house,senate",
+      "machine_tags": "@mlive-river,@gr-river,@sa-river,@aa-river,@jx-river,@kz-river,@fl-river",
+      "trackonomics.author": "Alyssa Burr",
+      "title": "Your Michigan driver\u2019s license could move from your wallet to your smartphone",
+      "og:description": "A Michigan bill would allow users to pull up their ID virtually on their phones with all their information, similar to a plastic ID.",
+      "twitter:image": "https://www.mlive.com/resizer/v2/G42UPQ6YEBDXNDJQFXDHL3REHY.jpg?auth=118b79e436f44aff22feae6f07d7810e0c88bf48e97abf97b05a7187d0aa53b6&width=1280&quality=90",
+      "subsections": "Saginaw and Bay City News,Muskegon,Kalamazoo,Jackson,Grand Rapids,Flint,Ann Arbor,News,Public Interest",
+      "twitter:site": "@mlive",
+      "article_author": "Alyssa Burr | aburr@mlive.com",
+      "article:modified_time": "2023-07-29T03:07:29.413Z",
+      "trackonomics.section": "Politics & Elections",
+      "sailthru.title": "Your Michigan driver\u2019s license could move from your wallet to your smartphone",
+      "fb:admins": "100000302287435",
+      "byline": "Alyssa Burr|aburr@mlive.com",
+      "sailthru.date": "Friday, July 28, 2023, 09:45 AM",
+      "og:type": "article",
+      "article:section": "Politics & Elections",
+      "twitter:title": "Your Michigan driver\u2019s license could move from your wallet to your smartphone",
+      "article_date_original": "Friday, July 28, 2023, 09:45 AM",
+      "og:title": "Your Michigan driver\u2019s license could move from your wallet to your smartphone",
+      "article_date_updated": "Friday, July 28, 2023, 11:07 PM",
+      "article_publication_name": "https://www.mlive.com/politics/2023/07/your-michigan-drivers-license-could-move-from-your-wallet-to-your-smartphone.html",
+      "isarticlebeta": "true",
+      "sections": "politics,news/saginaw-bay-city,news/muskegon,news/kalamazoo,news/jackson,news/grand-rapids,news/flint,news/ann-arbor,news,public-interest",
+      "article:tag": "@mlive-river,@gr-river,@sa-river,@aa-river,@jx-river,@kz-river,@fl-river",
+      "fb:app_id": "132720883409479",
+      "sailthru.description": "A Michigan bill would allow users to pull up their ID virtually on their phones with all their information, similar to a plastic ID.",
+      "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+      "twitter:description": "A Michigan bill would allow users to pull up their ID virtually on their phones with all their information, similar to a plastic ID.",
+      "subscriber_only": "false",
+      "og:url": "https://www.mlive.com/politics/2023/07/your-michigan-drivers-license-could-move-from-your-wallet-to-your-smartphone.html",
+      "sailthru.author": "aburr"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.mlive.com/resizer/v2/G42UPQ6YEBDXNDJQFXDHL3REHY.jpg?auth=118b79e436f44aff22feae6f07d7810e0c88bf48e97abf97b05a7187d0aa53b6&width=1280&quality=90"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Asked & Answered with V&E's Quentin Smith: Morehouse, Michigan ...",
+   "htmlTitle": "Asked &amp; Answered with V&amp;E&#39;s Quentin Smith: Morehouse, <b>Michigan</b> ...",
+   "link": "https://texaslawbook.net/asked-answered-with-ves-quentin-smith-morehouse-michigan-and-mdl-the-making-of-a-texas-litigator/",
+   "displayLink": "texaslawbook.net",
+   "snippet": "Asked & Answered with V&E's Quentin Smith: Morehouse, Michigan and MDL \u2014 the Making of a Texas Litigator. August 13, 2025 Alexa Shrake. Asked & Answered is\u00a0...",
+   "htmlSnippet": "Asked &amp; Answered with V&amp;E&#39;s Quentin Smith: Morehouse, <b>Michigan</b> and <b>MDL</b> \u2014 the Making of a Texas Litigator. August 13, 2025 Alexa Shrake. Asked &amp; Answered is&nbsp;...",
+   "formattedUrl": "https://texaslawbook.net/asked-answered-with-ves-quentin-smith-morehous...",
+   "htmlFormattedUrl": "https://texas<b>law</b>book.net/asked-answered-with-ves-quentin-smith-morehous...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwnQzOjK6yQEZkxWaAzWV3eUPy-wyVRE8tVlqeGA4zx56Ue1kpSyIxrMY&s",
+      "width": "194",
+      "height": "259"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://texaslawbook.net/wp-content/uploads/2025/08/Quentin_Smith_I-scaled.jpg",
+      "og:type": "article",
+      "article:published_time": "2025-08-13T17:30:06+00:00",
+      "og:image:width": "1920",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "The Texas Lawbook",
+      "author": "Alexa Shrake",
+      "og:title": "Asked & Answered with V&E\u2019s Quentin Smith: Morehouse, Michigan and MDL \u2014 the Making of a Texas Litigator - The Texas Lawbook",
+      "og:image:height": "2560",
+      "twitter:label1": "Written by",
+      "twitter:label2": "Est. reading time",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://texaslawbook.net/wp-content/uploads/2018/10/cropped-favicon-2-270x270.png",
+      "og:description": "Asked & Answered is a new standing feature\u00a0The Texas Lawbook\u00a0will bring readers twice a month, highlighting the work of leading Texas lawyers and offering insight into their lives outside the courtroom. In this edition, Alexa Shrake sits down with Vinson & Elkins partner Quentin Smith, who discussed securing an $80 million breach of contract verdict for Huntsman Chemicals in Louisiana and representing Oncor Electric in litigation stemming from Winter Storm Uri \u2014 as well as the only brand of jelly beans worthy of the war room.",
+      "twitter:data1": "Alexa Shrake",
+      "twitter:data2": "7 minutes",
+      "article:modified_time": "2025-08-13T17:30:14+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://texaslawbook.net/asked-answered-with-ves-quentin-smith-morehouse-michigan-and-mdl-the-making-of-a-texas-litigator/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://texaslawbook.net/wp-content/uploads/2025/08/Quentin_Smith_I-scaled.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

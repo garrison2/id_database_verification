@@ -1,0 +1,402 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Louisiana Revised Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "totalResults": "2700",
+    "searchTerms": "\"Louisiana Revised Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Louisiana Revised Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "totalResults": "2700",
+    "searchTerms": "\"Louisiana Revised Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.21328,
+  "formattedSearchTime": "0.21",
+  "totalResults": "2700",
+  "formattedTotalResults": "2,700"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Louisiana Laws - Louisiana State Legislature",
+   "htmlTitle": "Louisiana Laws - Louisiana State Legislature",
+   "link": "https://legis.la.gov/Legis/Law.aspx?d=84850",
+   "displayLink": "legis.la.gov",
+   "snippet": "A person shall verify age by submitting a driver's license, selective ... identification card, a valid military identification card, or a valid passport.",
+   "htmlSnippet": "A person shall <b>verify</b> age by submitting a <b>driver&#39;s license</b>, selective ... <b>identification card</b>, a valid military <b>identification card</b>, or a valid passport.",
+   "formattedUrl": "https://legis.la.gov/Legis/Law.aspx?d=84850",
+   "htmlFormattedUrl": "https://legis.la.gov/Legis/Law.aspx?d=84850"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Louisiana Laws - Louisiana State Legislature",
+   "htmlTitle": "Louisiana Laws - Louisiana State Legislature",
+   "link": "https://www.legis.la.gov/legis/Law.aspx?p=y&d=88392",
+   "displayLink": "www.legis.la.gov",
+   "snippet": "(f) Cited for failure to maintain compulsory security. (2) An arresting officer may retain the driver's license of an operator when the operator was\u00a0...",
+   "htmlSnippet": "(f) Cited for failure to <b>maintain</b> compulsory security. (2) An arresting officer may <b>retain</b> the <b>driver&#39;s license</b> of an operator when the operator was&nbsp;...",
+   "formattedUrl": "https://www.legis.la.gov/legis/Law.aspx?p=y&d=88392",
+   "htmlFormattedUrl": "https://www.legis.la.gov/legis/Law.aspx?p=y&amp;d=88392"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ACT No. 277",
+   "htmlTitle": "ACT No. 277",
+   "link": "https://legis.la.gov/legis/ViewDocument.aspx?d=1182354",
+   "displayLink": "legis.la.gov",
+   "snippet": "primary basis in order to book a shared vehicle. 8. \u00a71300.11. Driver's license verification; data retention. 9. A. A peer-to-peer car sharing program shall not\u00a0...",
+   "htmlSnippet": "primary basis in order to book a shared vehicle. 8. \u00a71300.11. <b>Driver&#39;s license verification</b>; data <b>retention</b>. 9. A. A peer-to-peer car sharing program shall not&nbsp;...",
+   "formattedUrl": "https://legis.la.gov/legis/ViewDocument.aspx?d=1182354",
+   "htmlFormattedUrl": "https://legis.la.gov/legis/ViewDocument.aspx?d=1182354",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRqZmUBQdyvVbro6rXQWapdxprAyZLC0HKRnm68RrZNxFuagef5ZZl3wY&s",
+      "width": "175",
+      "height": "288"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20200616144735Z",
+      "creationdate": "D:20200616144735Z",
+      "creator": "PrintServer170",
+      "producer": "Corel PDF Engine Version 17.0.0.337"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///f7ed6bcef53c44a6767d9c605635406a28185c779bf4c662c6f7226e39138178"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Louisiana Revised Statutes \u00a7 26:26:90 - Acts prohibited on licensed ...",
+   "htmlTitle": "<b>Louisiana Revised Statutes</b> \u00a7 26:26:90 - Acts prohibited on licensed ...",
+   "link": "https://law.justia.com/codes/louisiana/revised-statutes/title-26/rs-26-90/",
+   "displayLink": "law.justia.com",
+   "snippet": "... driver's license. (ii) A valid, current, driver's ... In addition, an educational institution identification card, check cashing identification card\u00a0...",
+   "htmlSnippet": "... <b>driver&#39;s license</b>. (ii) A valid, current, <b>driver&#39;s</b> ... In addition, an educational institution <b>identification card</b>, check cashing <b>identification card</b>&nbsp;...",
+   "formattedUrl": "https://law.justia.com/codes/louisiana/revised-statutes/title-26/rs-26-90/",
+   "htmlFormattedUrl": "https://law.justia.com/codes/<b>louisiana/revised-statutes</b>/title-26/rs-26-90/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1T7J4J9_zji4ctdICPBRMkgtrJKQh2nbiWr4O-uvZxOnwIHVxwjotaYM&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://justatic.com/v/20250801112819/shared/images/social-media/law.jpg",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "og:site_name": "Justia Law",
+      "og:title": "2024 Louisiana Laws :: Revised Statutes :: Title 26 - Liquors-Alcoholic Beverages :: \u00a726:90. Acts prohibited on licensed premises; suspension or revocation of permits",
+      "og:app_id": "119529808075661",
+      "trigger-ga": "1",
+      "og:description": "Justia Free Databases of U.S. Laws, Codes & Statutes",
+      "og:admins": "656268335,686786921,25900864",
+      "referrer": "unsafe-url",
+      "twitter:site": "@JustiaCom",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "page-type": "Law: Codes Document Page (Current Year)",
+      "is-li": "0",
+      "og:url": "https://law.justia.com/codes/louisiana/revised-statutes/title-26/rs-26-90/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://justatic.com/v/20250801112819/shared/images/social-media/law.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Louisiana Revised Statutes Tit. 40, \u00a7 1321 | FindLaw",
+   "htmlTitle": "<b>Louisiana Revised Statutes</b> Tit. 40, \u00a7 1321 | FindLaw",
+   "link": "https://codes.findlaw.com/la/revised-statutes/la-rev-stat-tit-40-sect-1321/",
+   "displayLink": "codes.findlaw.com",
+   "snippet": "A person who is issued a REAL ID compliant special identification card shall not be issued a REAL ID compliant driver's license. ... scan or maintain a copy of\u00a0...",
+   "htmlSnippet": "A person who is issued a REAL ID compliant special <b>identification card</b> shall not be issued a REAL ID compliant <b>driver&#39;s license</b>. ... <b>scan</b> or <b>maintain</b> a copy of&nbsp;...",
+   "formattedUrl": "https://codes.findlaw.com/la/revised-statutes/la-rev-stat-tit-40-sect-1321/",
+   "htmlFormattedUrl": "https://codes.findlaw.com/la/revised-statutes/la-rev-stat-tit-40-sect-1321/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuWtKEZ0kzYj6NSuZlgNrAF5XcYIi9XgsiqHcAgQHtxY18xcWZ1bDMaCM&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png",
+      "og:type": "article",
+      "og:site_name": "Findlaw",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Louisiana Revised Statutes Tit. 40, \u00a7 1321 | FindLaw",
+      "apple-mobile-web-app-title": "FindLaw",
+      "og:url": "https://codes.findlaw.com/la/revised-statutes/la-rev-stat-tit-40-sect-1321/",
+      "og:description": "Louisiana Revised Statutes Tit. 40,  Section 1321. Read the code on FindLaw"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Louisiana Revised Statutes \u00a7 40:40:1321 - State identification cards ...",
+   "htmlTitle": "<b>Louisiana Revised Statutes</b> \u00a7 40:40:1321 - State identification cards ...",
+   "link": "https://law.justia.com/codes/louisiana/revised-statutes/title-40/rs-40-1321/",
+   "displayLink": "law.justia.com",
+   "snippet": "A person who is issued a REAL ID compliant special identification card shall not be issued a REAL ID compliant driver's license. ... scan or maintain a copy of\u00a0...",
+   "htmlSnippet": "A person who is issued a REAL ID compliant special <b>identification card</b> shall not be issued a REAL ID compliant <b>driver&#39;s license</b>. ... <b>scan</b> or <b>maintain</b> a copy of&nbsp;...",
+   "formattedUrl": "https://law.justia.com/codes/louisiana/revised-statutes/title-40/rs-40-1321/",
+   "htmlFormattedUrl": "https://law.justia.com/codes/<b>louisiana/revised-statutes</b>/title-40/rs-40-1321/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi2IuCOl8nDGpLJ5TCnpNo5r319M4-lZdt1Y-krezP7aOAmGJhj94RXA7H&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://justatic.com/v/20250811145411/shared/images/social-media/law.jpg",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "og:site_name": "Justia Law",
+      "og:title": "2024 Louisiana Laws :: Revised Statutes :: Title 40 - Public Health and Safety :: \u00a740:1321. State identification cards; special identification cards; issuance; veteran designation; disabled veteran designation; university logo; \"I'm a Cajun\" designation; needs accommodation designation; autism spectrum disorder designation; fees; expiration and renewal; exceptions; promulgation of rules; promotion of use; persons less than twenty-one years of age; the Protect and Save our Children Program; Selective Service Registration",
+      "og:app_id": "119529808075661",
+      "trigger-ga": "1",
+      "og:description": "Justia Free Databases of U.S. Laws, Codes & Statutes",
+      "og:admins": "656268335,686786921,25900864",
+      "referrer": "unsafe-url",
+      "twitter:site": "@JustiaCom",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "page-type": "Law: Codes Document Page (Current Year)",
+      "is-li": "0",
+      "og:url": "https://law.justia.com/codes/louisiana/revised-statutes/title-40/rs-40-1321/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://justatic.com/v/20250811145411/shared/images/social-media/law.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Louisiana Revised Statutes Tit. 32, \u00a7 415.3 | FindLaw",
+   "htmlTitle": "<b>Louisiana Revised Statutes</b> Tit. 32, \u00a7 415.3 | FindLaw",
+   "link": "https://codes.findlaw.com/la/revised-statutes/la-rev-stat-tit-32-sect-415-3/",
+   "displayLink": "codes.findlaw.com",
+   "snippet": "Louisiana Revised Statutes Tit. 32, \u00a7 415.3. Ex-offender provisional driver's license. Current as of January 01, 2023 | Updated by FindLaw\u00a0...",
+   "htmlSnippet": "<b>Louisiana Revised Statutes</b> Tit. 32, \u00a7 415.3. Ex-offender provisional <b>driver&#39;s license</b>. Current as of January 01, 2023 | Updated by FindLaw&nbsp;...",
+   "formattedUrl": "https://codes.findlaw.com/la/revised-statutes/la-rev-stat-tit-32-sect-415-3/",
+   "htmlFormattedUrl": "https://codes.findlaw.com/la/revised-statutes/la-rev-stat-tit-32-sect-415-3/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuWtKEZ0kzYj6NSuZlgNrAF5XcYIi9XgsiqHcAgQHtxY18xcWZ1bDMaCM&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png",
+      "og:type": "article",
+      "og:site_name": "Findlaw",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Louisiana Revised Statutes Tit. 32, \u00a7 415.3 | FindLaw",
+      "apple-mobile-web-app-title": "FindLaw",
+      "og:url": "https://codes.findlaw.com/la/revised-statutes/la-rev-stat-tit-32-sect-415-3/",
+      "og:description": "Louisiana Revised Statutes Tit. 32,  Section 415.3. Read the code on FindLaw"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Louisiana Revised Statutes \u00a7 32:32:410 - Form of license ...",
+   "htmlTitle": "<b>Louisiana Revised Statutes</b> \u00a7 32:32:410 - Form of license ...",
+   "link": "https://law.justia.com/codes/louisiana/revised-statutes/title-32/rs-32-410/",
+   "displayLink": "law.justia.com",
+   "snippet": "... identification card ... If the person has elected not to apply for a REAL ID compliant driver's license, the department shall not copy, scan, maintain, or share a\u00a0...",
+   "htmlSnippet": "... <b>identification card</b> ... If the person has elected not to apply for a REAL ID compliant <b>driver&#39;s license</b>, the department shall not copy, <b>scan</b>, <b>maintain</b>, or <b>share</b> a&nbsp;...",
+   "formattedUrl": "https://law.justia.com/codes/louisiana/revised-statutes/title-32/rs-32-410/",
+   "htmlFormattedUrl": "https://law.justia.com/codes/<b>louisiana/revised-statutes</b>/title-32/rs-32-410/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPP2ksOfM4IyWL7PTxPyS5N80Or-jyXZZLgeH1kYuOtXk5YU597YCxGszS&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "og:site_name": "Justia Law",
+      "og:title": "2024 Louisiana Laws :: Revised Statutes :: Title 32 - Motor Vehicles and Traffic Regulation :: \u00a732:410. Form of license; photograph, signature of licensee, anatomical gift statement, declaration of life-sustaining procedures, and additional information on license",
+      "og:app_id": "119529808075661",
+      "trigger-ga": "1",
+      "og:description": "Justia Free Databases of U.S. Laws, Codes & Statutes",
+      "og:admins": "656268335,686786921,25900864",
+      "referrer": "unsafe-url",
+      "twitter:site": "@JustiaCom",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "page-type": "Law: Codes Document Page (Current Year)",
+      "is-li": "0",
+      "og:url": "https://law.justia.com/codes/louisiana/revised-statutes/title-32/rs-32-410/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ELECTION CODE",
+   "htmlTitle": "ELECTION CODE",
+   "link": "https://www.sos.la.gov/electionsandvoting/publisheddocuments/electioncode.pdf",
+   "displayLink": "www.sos.la.gov",
+   "snippet": "Aug 30, 1983 ... ... Louisiana Revised Statutes. As Amended Through the 2024 Third ... verification system\u00a0...",
+   "htmlSnippet": "Aug 30, 1983 <b>...</b> ... <b>Louisiana Revised Statutes</b>. As Amended Through the 2024 Third ... <b>verification</b> system&nbsp;...",
+   "formattedUrl": "https://www.sos.la.gov/electionsandvoting/.../electioncode.pdf",
+   "htmlFormattedUrl": "https://www.sos.la.gov/electionsandvoting/.../electioncode.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCVf4O85WtL_DCrcQaHPIgBlVmLmiYjXiKI1JJu44YY4gFmnuDeOfPQAU&s",
+      "width": "224",
+      "height": "226"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20250313151156-05'00'",
+      "creationdate": "D:20250313150958-05'00'",
+      "creator": "Adobe Acrobat Pro (32-bit) 25.1.20432",
+      "author": "LASOS",
+      "producer": "Adobe Acrobat Pro (32-bit) 25.1.20432"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///f3a310aeb2fa2975bfa951f7984b4d7a6e96d0ca9a313a8dbebf58dd4841872f"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Age Verification Legalization in The USA | Veriff",
+   "htmlTitle": "Age <b>Verification</b> Legalization in The USA | Veriff",
+   "link": "https://www.veriff.com/fraud/learn/age-verification-legalization-in-the-united-states-of-america",
+   "displayLink": "www.veriff.com",
+   "snippet": "Implement reasonable age verification method through the use of: A digitized identification card or; A system that allows to verify the age through the\u00a0...",
+   "htmlSnippet": "Implement reasonable age <b>verification</b> method through the use of: A digitized <b>identification card</b> or; A system that allows to <b>verify</b> the age through the&nbsp;...",
+   "formattedUrl": "https://www.veriff.com/.../age-verification-legalization-in-the-united-states-...",
+   "htmlFormattedUrl": "https://www.veriff.com/.../age-<b>verification</b>-legalization-in-the-united-states-...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTebv1E9ah8wlcaT6dGlYBBnjQZPvLYw_iWlvVkCO6B4u3l19ujztT9Xgnm&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.veriff.com/wp-content/uploads/2025/04/cc4e0287-d22b-4afa-8bcc-7f981ec96efd_Age-Check_Header-US1.jpeg",
+      "og:image:width": "1920",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Veriff",
+      "apple-mobile-web-app-title": "Veriff -",
+      "twitter:label1": "Est. reading time",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://www.veriff.com/wp-content/uploads/2025/04/UI-Icon_Veriff-tick.svg",
+      "og:description": "Age Verification Regulations: Learn about the age verification legal landscape in The USA, ensuring your business meets the necessary standards.",
+      "twitter:data1": "40 minutes",
+      "og:image:secure_url": "https://www.veriff.com/wp-content/uploads/2025/04/cc4e0287-d22b-4afa-8bcc-7f981ec96efd_Age-Check_Header-US1.jpeg",
+      "twitter:image": "https://www.veriff.com/wp-content/uploads/2025/04/cc4e0287-d22b-4afa-8bcc-7f981ec96efd_Age-Check_Header-US1.jpeg",
+      "article:modified_time": "2025-06-05T22:32:17+00:00",
+      "og:type": "article",
+      "article:section": "Fraud",
+      "og:image:alt": "Header image",
+      "twitter:title": "Age Verification Legalization in The USA | Veriff",
+      "og:title": "Age Verification Legalization in The USA | Veriff",
+      "og:image:height": "1080",
+      "og:updated_time": "2025-06-05T22:32:17+03:00",
+      "url": "https://www.veriff.com/fraud/learn/age-verification-legalization-in-the-united-states-of-america",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "twitter:description": "Age Verification Regulations: Learn about the age verification legal landscape in The USA, ensuring your business meets the necessary standards.",
+      "apple-mobile-web-app-capable": "yes",
+      "og:locale": "en_US",
+      "mobile-web-app-capable": "yes",
+      "position": "1",
+      "og:url": "https://www.veriff.com/fraud/learn/age-verification-legalization-in-the-united-states-of-america"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.veriff.com/wp-content/uploads/2025/04/cc4e0287-d22b-4afa-8bcc-7f981ec96efd_Age-Check_Header-US1.jpeg"
+     }
+    ]
+   }
+  }
+ ]
+}

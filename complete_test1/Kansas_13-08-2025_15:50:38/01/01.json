@@ -1,0 +1,502 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Kansas\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Kansas Statutes Annotated\"",
+    "totalResults": "290000",
+    "searchTerms": "\"Kansas\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Kansas Statutes Annotated\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Kansas\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Kansas Statutes Annotated\"",
+    "totalResults": "290000",
+    "searchTerms": "\"Kansas\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Kansas Statutes Annotated\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.214558,
+  "formattedSearchTime": "0.21",
+  "totalResults": "290000",
+  "formattedTotalResults": "290,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "\"MDL Cartography: Mapping the Five Stages of a Federal MDL\" by ...",
+   "htmlTitle": "&quot;<b>MDL</b> Cartography: Mapping the Five Stages of a Federal <b>MDL</b>&quot; by ...",
+   "link": "https://irlaw.umkc.edu/faculty_works/281/",
+   "displayLink": "irlaw.umkc.edu",
+   "snippet": "Publication Title. University of Missouri Kansas City Law Review. Volume. 89. Issue. 4. Recommended Citation. Ryan Hudson, Rex Sharp & Nancy Levit, MDL\u00a0...",
+   "htmlSnippet": "Publication Title. University of Missouri <b>Kansas</b> City <b>Law</b> Review. Volume. 89. Issue. 4. Recommended Citation. Ryan Hudson, Rex Sharp &amp; Nancy Levit, <b>MDL</b>&nbsp;...",
+   "formattedUrl": "https://irlaw.umkc.edu/faculty_works/281/",
+   "htmlFormattedUrl": "https://ir<b>law</b>.umkc.edu/faculty_works/281/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfS8W5_sH4eqTYnnIneSaDcUunatrseIJvLVYXBcyj_afa_DQQ4rHrBg7n&s",
+      "width": "324",
+      "height": "155"
+     }
+    ],
+    "metatags": [
+     {
+      "bepress_citation_journal_title": "University of Missouri Kansas City Law Review",
+      "bepress_citation_author_institution": "University of Missouri - Kansas City, School of Law",
+      "twitter:title": "MDL Cartography: Mapping the Five Stages of a Federal MDL",
+      "twitter:card": "summary",
+      "og:type": "article",
+      "og:site_name": "UMKC School of Law Institutional Repository",
+      "bepress_citation_volume": "89",
+      "author": "Ryan Hudson",
+      "bepress_citation_pdf_url": "https://irlaw.umkc.edu/cgi/viewcontent.cgi?article=1274&context=faculty_works",
+      "og:title": "MDL Cartography: Mapping the Five Stages of a Federal MDL",
+      "bepress_citation_firstpage": "801",
+      "bepress_citation_date": "2021",
+      "bepress_citation_abstract_html_url": "https://irlaw.umkc.edu/faculty_works/281",
+      "og:description": "By Ryan Hudson, Rex Sharp, and Nancy Levit, Published on 01/01/21",
+      "article:author": "Ryan Hudson",
+      "bepress_citation_issue": "4",
+      "viewport": "width=device-width",
+      "bepress_citation_title": "MDL Cartography: Mapping the Five Stages of a Federal MDL",
+      "twitter:description": "By Ryan Hudson, Rex Sharp, and Nancy Levit, Published on 01/01/21",
+      "bepress_is_article_cover_page": "1",
+      "bepress_citation_author": "Hudson, Ryan",
+      "og:url": "https://irlaw.umkc.edu/faculty_works/281",
+      "bepress_citation_online_date": "2022/2/10"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://irlaw.umkc.edu/assets/md5images/2b9a660bd11e0111843dc88a686da7ca.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Kansas launches country's 'first' mobile driver's license renewal app ...",
+   "htmlTitle": "<b>Kansas</b> launches country&#39;s &#39;first&#39; <b>mobile driver&#39;s license</b> renewal app ...",
+   "link": "https://statescoop.com/kansas-launches-countrys-first-mobile-drivers-license-renewal-app/",
+   "displayLink": "statescoop.com",
+   "snippet": "Oct 24, 2018 ... Kansas launches country's 'first' mobile driver's license renewal app ... Phil Murphy signs law creating digital ID program. The law will\u00a0...",
+   "htmlSnippet": "Oct 24, 2018 <b>...</b> <b>Kansas</b> launches country&#39;s &#39;first&#39; <b>mobile driver&#39;s license</b> renewal app ... Phil Murphy signs <b>law</b> creating <b>digital ID</b> program. The <b>law</b> will&nbsp;...",
+   "formattedUrl": "https://statescoop.com/kansas-launches-countrys-first-mobile-drivers-license...",
+   "htmlFormattedUrl": "https://statescoop.com/<b>kansas</b>-launches-countrys-first-<b>mobile-drivers-license</b>...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDOLOzKT5fLGVO5ea1giPeFAwzTJ3_KH0Fhi056A2o5jMphherS42sJfs&s",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "website": [
+     {
+      "query-input": "name=s value",
+      "target": "https://statescoop.com/?s={s}"
+     }
+    ],
+    "organization": [
+     {
+      "logo": "https://statescoop.com/wp-content/themes/scoopnewsgroup/dist/svg/logo-state.svg",
+      "url": "https://statescoop.com/"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://statescoop.com/wp-content/uploads/sites/6/2018/10/woman-using-gray-phone-getty.jpg",
+      "og:type": "article",
+      "article:published_time": "2018-10-24T15:09:00+00:00",
+      "og:image:width": "2121",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "StateScoop",
+      "author": "Ryan Johnston",
+      "og:title": "Kansas launches country's 'first' mobile driver's license renewal app | StateScoop",
+      "og:image:height": "1414",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://statescoop.com/wp-content/uploads/sites/6/2023/01/cropped-ss_favicon.png?w=270",
+      "og:description": "A new feature added to the state&#39s citizen services app provides functionality officials say isn&#39t available anywhere else.",
+      "twitter:creator": "@RCJ__96",
+      "article:publisher": "https://www.facebook.com/StateScoop/",
+      "twitter:site": "@State_Scoop",
+      "article:modified_time": "2021-09-03T13:14:29+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://statescoop.com/kansas-launches-countrys-first-mobile-drivers-license-renewal-app/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://statescoop.com/wp-content/uploads/sites/6/2018/10/woman-using-gray-phone-getty.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "When are we going to have digital drivers licenses? : r/kansas",
+   "htmlTitle": "When are we going to have digital drivers licenses? : r/<b>kansas</b>",
+   "link": "https://www.reddit.com/r/kansas/comments/1dmmhvt/when_are_we_going_to_have_digital_drivers_licenses/",
+   "displayLink": "www.reddit.com",
+   "snippet": "Jun 23, 2024 ... There was a bill introduced on it in the Kansas Legislature this year actually. ... Kansas as we don't have digital ID yet. I really hope that\u00a0...",
+   "htmlSnippet": "Jun 23, 2024 <b>...</b> There was a <b>bill</b> introduced on it in the <b>Kansas</b> Legislature this year actually. ... <b>Kansas</b> as we don&#39;t have <b>digital ID</b> yet. I really hope that&nbsp;...",
+   "formattedUrl": "https://www.reddit.com/.../kansas/.../when_are_we_going_to_have_digital_...",
+   "htmlFormattedUrl": "https://www.reddit.com/.../<b>kansas</b>/.../when_are_we_going_to_have_<b>digital_</b>...",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:image": "https://share.redd.it/preview/post/1dmmhvt",
+      "theme-color": "#000000",
+      "og:image:width": "1200",
+      "og:type": "website",
+      "og:image:alt": "An image containing a preview of the post",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "r/kansas on Reddit: When are we going to have digital drivers licenses?",
+      "og:site_name": "Reddit",
+      "og:title": "r/kansas on Reddit: When are we going to have digital drivers licenses?",
+      "og:image:height": "630",
+      "msapplication-navbutton-color": "#000000",
+      "og:description": "Posted by u/f00dl3 - 0 votes and 94 comments",
+      "twitter:image": "https://share.redd.it/preview/post/1dmmhvt",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "twitter:site": "@reddit",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "apple-mobile-web-app-capable": "yes",
+      "og:ttl": "600",
+      "og:url": "https://www.reddit.com/r/kansas/comments/1dmmhvt/when_are_we_going_to_have_digital_drivers_licenses/?seeker-session=true"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "\"Taking a Second Look at MDL Product Liability Settlements ...",
+   "htmlTitle": "&quot;Taking a Second Look at <b>MDL</b> Product Liability Settlements ...",
+   "link": "https://scholar.law.colorado.edu/faculty-articles/700/",
+   "displayLink": "scholar.law.colorado.edu",
+   "snippet": "This Article examines the forces that lead to the settlement of product liability cases gathered under the MDL statute for pretrial ... The University of Kansas\u00a0...",
+   "htmlSnippet": "This Article examines the forces that lead to the settlement of product liability cases gathered under the <b>MDL</b> statute for pretrial ... The University of <b>Kansas</b>&nbsp;...",
+   "formattedUrl": "https://scholar.law.colorado.edu/faculty-articles/700/",
+   "htmlFormattedUrl": "https://scholar.<b>law</b>.colorado.edu/faculty-articles/700/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgUmTyXXeKMwxhfJC3rjQyAS_QgTXi7_A23XSGo0b8dVjhDbbOQj3SBWs&s",
+      "width": "280",
+      "height": "105"
+     }
+    ],
+    "metatags": [
+     {
+      "bepress_citation_journal_title": "The University of Kansas Law Review",
+      "bepress_citation_author_institution": "University of Colorado Law School",
+      "twitter:title": "Taking a Second Look at MDL Product Liability Settlements: Somebody Needs to Do It",
+      "twitter:card": "summary",
+      "og:type": "article",
+      "og:site_name": "Colorado Law Scholarly Commons",
+      "author": "Christopher B. Mueller",
+      "bepress_citation_pdf_url": "https://scholar.law.colorado.edu/cgi/viewcontent.cgi?article=1734&context=faculty-articles",
+      "og:title": "Taking a Second Look at MDL Product Liability Settlements: Somebody Needs to Do It",
+      "bepress_citation_date": "2017",
+      "bepress_citation_abstract_html_url": "https://scholar.law.colorado.edu/faculty-articles/700",
+      "og:description": "This Article examines the forces that lead to the settlement of product liability cases gathered under the MDL statute for pretrial. The MDL procedure is ill-suited to this use, and does not envision the gathering of the underlying cases as a means of finally resolving them. Motivational factors affecting judges and lawyers have produced these settlements, and the conditions out of which they arise do not give confidence that they are fair or adequate. This Article concedes that MDL settlements are likely here to stay, and argues that we need a mechanism to check such settlements for fairness and adequacy. The best way to do so is to allow collateral review of such settlements in suits brought by dissatisfied claimants.",
+      "article:author": "Christopher B. Mueller",
+      "viewport": "width=device-width",
+      "bepress_citation_title": "Taking a Second Look at MDL Product Liability Settlements: Somebody Needs to Do It",
+      "twitter:description": "This Article examines the forces that lead to the settlement of product liability cases gathered under the MDL statute for pretrial. The MDL procedure is ill-suited to this use, and does not envision the gathering of the underlying cases as a means of finally resolving them. Motivational factors affecting judges and lawyers have produced these settlements, and the conditions out of which they arise do not give confidence that they are fair or adequate. This Article concedes that MDL settlements are likely here to stay, and argues that we need a mechanism to check such settlements for fairness and adequacy. The best way to do so is to allow collateral review of such settlements in suits brought by dissatisfied claimants.",
+      "bepress_is_article_cover_page": "1",
+      "bepress_citation_author": "Mueller, Christopher B.",
+      "og:url": "https://scholar.law.colorado.edu/faculty-articles/700",
+      "bepress_citation_online_date": "2017/7/19"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://scholar.law.colorado.edu/assets/md5images/3924fcb415a8681aaa9a8dd0f9cea216.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ID Card\u200b | Blue Cross and Blue Shield of Kansas",
+   "htmlTitle": "ID Card\u200b | Blue Cross and Blue Shield of <b>Kansas</b>",
+   "link": "https://member.myhealthtoolkitks.com/web/public/brands/ks/manage-your-plan/using-your-plan/id-card/",
+   "displayLink": "member.myhealthtoolkitks.com",
+   "snippet": "Your digital ID card is just as good as one you might order through the mail ... Blue Cross and Blue Shield of Kansas is an independent licensee of the Blue Cross\u00a0...",
+   "htmlSnippet": "Your <b>digital ID</b> card is just as good as one you might <b>order</b> through the mail ... Blue Cross and Blue Shield of <b>Kansas</b> is an independent licensee of the Blue Cross&nbsp;...",
+   "formattedUrl": "https://member.myhealthtoolkitks.com/web/public/brands/ks/.../id-card/",
+   "htmlFormattedUrl": "https://member.myhealthtoolkitks.com/web/public/brands/ks/.../id-card/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHCfNfMdAVq7PuXbwI663GJNanj1q41x7-NOu6LoiVNCHEqAGQkg5CKYQ&s",
+      "width": "180",
+      "height": "180"
+     }
+    ],
+    "metatags": [
+     {
+      "smartbanner:button-url-apple": "https://itunes.apple.com/us/app/my-health-toolkit/id1318516799?mt=8",
+      "smartbanner:price": "FREE",
+      "twitter:card": "summary",
+      "twitter:title": "ID Card",
+      "smartbanner:price-suffix-google": "- In Google Play",
+      "smartbanner:button": "VIEW",
+      "smartbanner:button-url-google": "https://play.google.com/store/apps/details?id=com.bcbssc.myhealthtoolkit.mobile&hl=en",
+      "smartbanner:price-suffix-apple": "- On the App Store",
+      "branding": "ks",
+      "og:title": "ID Card",
+      "cobranding": "ks",
+      "smartbanner:enabled-platforms": "android,ios",
+      "smartbanner:title": "My Health Toolkit\u00ae",
+      "smartbanner:icon-google": "/web/public/resources/34beaf53-5d91-4bf1-8823-d05293b32539/mhtk-mobile-app-icon.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_J8HC1841O8UG50QSGO8C690083-34beaf53-5d91-4bf1-8823-d05293b32539-mQWo9yX",
+      "smartbanner:author": "My Health Toolkit, LLC",
+      "smartbanner:icon-apple": "/web/public/resources/34beaf53-5d91-4bf1-8823-d05293b32539/mhtk-mobile-app-icon.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_J8HC1841O8UG50QSGO8C690083-34beaf53-5d91-4bf1-8823-d05293b32539-mQWo9yX",
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://member.myhealthtoolkitks.com/web/public/resources/34beaf53-5d91-4bf1-8823-d05293b32539/mhtk-mobile-app-icon.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_J8HC1841O8UG50QSGO8C690083-34beaf53-5d91-4bf1-8823-d05293b32539-mQWo9yX"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Accessing your digital ID card \u00bb You + Blue",
+   "htmlTitle": "Accessing your <b>digital ID</b> card \u00bb You + Blue",
+   "link": "https://blog.bcbsks.com/2021/03/10/accessing-your-digital-id-card/",
+   "displayLink": "blog.bcbsks.com",
+   "snippet": "Mar 10, 2021 ... If you are on your mobile device, click on the \u201cOrder/View Digital ID Card' button. ... Blue Cross and Blue Shield of Kansas serves all counties\u00a0...",
+   "htmlSnippet": "Mar 10, 2021 <b>...</b> If you are on your mobile device, click on the \u201c<b>Order</b>/View <b>Digital ID</b> Card&#39; button. ... Blue Cross and Blue Shield of <b>Kansas</b> serves all counties&nbsp;...",
+   "formattedUrl": "https://blog.bcbsks.com/2021/03/10/accessing-your-digital-id-card/",
+   "htmlFormattedUrl": "https://blog.bcbsks.com/2021/03/10/accessing-your-<b>digital-id</b>-card/",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Larry S Cargal",
+      "photo": "https://secure.gravatar.com/avatar/7787b87efefe54438902f8a1ab30d3ee4a262126ee28242b940bc55efe6dd01f?s=60&d=mm&r=g"
+     },
+     {
+      "fn": "Marilyn Brown",
+      "photo": "https://secure.gravatar.com/avatar/87351f130f4b82ebd6f11ff2a825c0158e2d626ab366d9b5ba2dbd5cabc544d6?s=60&d=mm&r=g"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThFMuxg763Wqb6nKiszZiDPJjjskpIW2lnPSM_UunWqzLO8C7m3AGLpT7K&s",
+      "width": "261",
+      "height": "193"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://blog.bcbsks.com/wp-content/uploads/2021/03/blueaccess-mockup-1024x760.jpg",
+      "og:type": "article",
+      "article:published_time": "2021-03-10T14:00:00+00:00",
+      "twitter:card": "summary",
+      "twitter:title": "Accessing your digital ID card \u00bb You + Blue",
+      "og:image:width": "1024",
+      "og:site_name": "You + Blue \u00bb",
+      "author": "Blue Cross and Blue Shield of Kansas",
+      "og:title": "Accessing your digital ID card \u00bb You + Blue",
+      "og:image:height": "760",
+      "twitter:label1": "Written by",
+      "twitter:label2": "Est. reading time",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://i0.wp.com/blog.bcbsks.com/wp-content/uploads/2022/03/bcbsks_iconsq.png?fit=270%2C270&ssl=1",
+      "og:description": "Have you ever walked into a doctor\u2019s office to realize you don\u2019t have your insurance card? Maybe you left it on the counter at home or forgot to switch it to the new wallet you got for Christmas. Even if your insurance plan hasn\u2019t changed since the last time you were seen, it is still Have you ever walked into a doctor\u2019s office to realize you don\u2019t have your insurance card? Maybe you left it on the counter at home or forgot to switch it to the new wallet you got for Christmas. Even if your insurance plan hasn\u2019t changed since the last time you were seen, it is still Health Insurance Education https://blog.bcbsks.com/2021/03/10/accessing-your-digital-id-card/",
+      "twitter:data1": "Blue Cross and Blue Shield of Kansas",
+      "twitter:data2": "1 minute",
+      "article:modified_time": "2025-02-07T16:36:12+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Have you ever walked into a doctor\u2019s office to realize you don\u2019t have your insurance card? Maybe you left it on the counter at home or forgot to switch it to the new wallet you got for Christmas. Even if your insurance plan hasn\u2019t changed since the last time you were seen, it is still Have you ever walked into a doctor\u2019s office to realize you don\u2019t have your insurance card? Maybe you left it on the counter at home or forgot to switch it to the new wallet you got for Christmas. Even if your insurance plan hasn\u2019t changed since the last time you were seen, it is still Health Insurance Education https://blog.bcbsks.com/2021/03/10/accessing-your-digital-id-card/",
+      "og:locale": "en_US",
+      "og:url": "https://blog.bcbsks.com/2021/03/10/accessing-your-digital-id-card/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://blog.bcbsks.com/wp-content/uploads/2021/03/blueaccess-mockup-1024x760.jpg"
+     }
+    ],
+    "hatomfeed": [
+     {}
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Kansas Department of Insurance",
+   "htmlTitle": "<b>Kansas</b> Department of Insurance",
+   "link": "https://insurance.kansas.gov/",
+   "displayLink": "insurance.kansas.gov",
+   "snippet": "The Kansas Insurance Department's mission is to: Regulate, Educate, and Advocate. While insurance and securities have changed over the years,\u00a0...",
+   "htmlSnippet": "The <b>Kansas</b> Insurance Department&#39;s mission is to: Regulate, Educate, and Advocate. While insurance and securities have changed over the years,&nbsp;...",
+   "formattedUrl": "https://insurance.kansas.gov/",
+   "htmlFormattedUrl": "https://insurance.<b>kansas</b>.gov/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf1KerrS2zUcpzEg84gJ8MD-hNHakoDVH5QgY_nKmchJtebHrRIxjOJcc&s",
+      "width": "201",
+      "height": "251"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-tileimage": "https://insurance.kansas.gov/wp-content/uploads/2023/06/Favicon-kid.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://insurance.kansas.gov/wp-content/uploads/2023/02/Schmidt053_wkd_crop.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "\u203c\ufe0f ANNOUNCEMENT \u203c\ufe0f The Kansas Department of Revenue is ...",
+   "htmlTitle": "\u203c\ufe0f ANNOUNCEMENT \u203c\ufe0f The <b>Kansas</b> Department of Revenue is ...",
+   "link": "https://www.facebook.com/KansasDepartmentofRevenue/posts/%EF%B8%8F-announcement-%EF%B8%8Fthe-kansas-department-of-revenue-is-expanding-its-partnership-wi/958696436299821/",
+   "displayLink": "www.facebook.com",
+   "snippet": "Sep 3, 2024 ... ANNOUNCEMENT \u203c\ufe0f The Kansas Department of Revenue is expanding its partnership with AAA Kansas! Beginning September ... Mobile Driver's License Unit\u00a0...",
+   "htmlSnippet": "Sep 3, 2024 <b>...</b> ANNOUNCEMENT \u203c\ufe0f The <b>Kansas</b> Department of Revenue is expanding its partnership with AAA <b>Kansas</b>! Beginning September ... <b>Mobile Driver&#39;s License</b> Unit&nbsp;...",
+   "formattedUrl": "https://www.facebook.com/KansasDepartmentofRevenue/...kansas.../95869...",
+   "htmlFormattedUrl": "https://www.facebook.com/<b>Kansas</b>DepartmentofRevenue/...<b>kansas</b>.../95869...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAO8s47M3pCQ6TDasgRoEzawl2_CcJPiEnATAW6-z5841U1rZABkftGdI&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=958696022966529",
+      "theme-color": "#FFFFFF",
+      "og:type": "video.other",
+      "og:image:alt": "Kansas Department of Revenue",
+      "twitter:card": "summary",
+      "twitter:title": "Kansas Department of Revenue",
+      "og:title": "Kansas Department of Revenue",
+      "google": "notranslate",
+      "og:description": "\u203c\ufe0f ANNOUNCEMENT \u203c\ufe0f\n\nThe Kansas Department of Revenue is expanding its partnership with AAA Kansas!\n\nBeginning September 10, 2024, KDOR\u2019s Mobile Driver\u2019s License Unit will start offering driver\u2019s...",
+      "twitter:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=958696022966529",
+      "referrer": "origin-when-crossorigin",
+      "twitter:image:alt": "Kansas Department of Revenue",
+      "twitter:site": "@facebookapp",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "\u203c\ufe0f ANNOUNCEMENT \u203c\ufe0f\n\nThe Kansas Department of Revenue is expanding its partnership with AAA Kansas!\n\nBeginning September 10, 2024, KDOR\u2019s Mobile Driver\u2019s License Unit will start offering driver\u2019s...",
+      "og:locale": "en_US",
+      "fb-version": "473.0.0.0.34:2889",
+      "og:url": "https://www.facebook.com/KansasDepartmentofRevenue/posts/%EF%B8%8F-announcement-%EF%B8%8Fthe-kansas-department-of-revenue-is-expanding-its-partnership-wi/958696436299821/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=958696022966529"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "To: House Committee on Transportation From: David Harper ...",
+   "htmlTitle": "To: House Committee on Transportation From: David Harper ...",
+   "link": "https://www.kslegislature.gov/li_2024/b2023_24/committees/ctte_h_trnsprt_1/documents/testimony/20240215_06.pdf",
+   "displayLink": "www.kslegislature.gov",
+   "snippet": "Feb 15, 2024 ... begin the process of implementing mobile driver's license and identification cards in Kansas. The 2023 Appropriations Senate Bill 25\u00a0...",
+   "htmlSnippet": "Feb 15, 2024 <b>...</b> begin the process of implementing <b>mobile driver&#39;s license</b> and identification cards in <b>Kansas</b>. The 2023 Appropriations Senate <b>Bill</b> 25&nbsp;...",
+   "formattedUrl": "https://www.kslegislature.gov/li_2024/b2023...h.../20240215_06.pdf",
+   "htmlFormattedUrl": "https://www.kslegislature.gov/li_2024/b2023...h.../20240215_06.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6uziey4nhcBUvBrQijyHuxkAOmjUPO2n2-3FHgEjzecgcbeNXzAm9SXk&s",
+      "width": "297",
+      "height": "169"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20240214090509-06'00'",
+      "creator": "Microsoft\u00ae Word for Microsoft 365",
+      "creationdate": "D:20240214090509-06'00'",
+      "author": "Bert Miller",
+      "producer": "Microsoft\u00ae Word for Microsoft 365"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///0496339f13d9ee2e0f455f4bae737cc6b3f22199a8d338549c4f2330259f7462"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Blue Cross and Blue Shield of Kansas: Home",
+   "htmlTitle": "Blue Cross and Blue Shield of <b>Kansas</b>: Home",
+   "link": "https://www.bcbsks.com/",
+   "displayLink": "www.bcbsks.com",
+   "snippet": "Blue Cross and Blue Shield of Kansas offers a variety of health and dental insurance plans for individuals, families and employers located in Kansas.",
+   "htmlSnippet": "Blue Cross and Blue Shield of <b>Kansas</b> offers a variety of health and dental insurance plans for individuals, families and employers located in <b>Kansas</b>.",
+   "formattedUrl": "https://www.bcbsks.com/",
+   "htmlFormattedUrl": "https://www.bcbsks.com/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm0BjDg0ZMMkEt5wmhF-QCfKHMyT7MgqvyNFbEFXLatOeRtnKls5JJMczU&s",
+      "width": "311",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.bcbsks.com/images/ogpng",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "silktide-cms": "+qw60vzo+K6lU3a3zsa7NSMOFjaKEANgfGFcsRA06NMm4jBCRLeEWDkV8MkMosyXofO+eF79RSEtegoUWSQaDA5qokZo3QHqiIfIgrM/ZEnLPgkkaNVWNJLqVTt+zfJcgc+AQwPj7CIDNxBG+LlFcg==",
+      "mobileoptimized": "width",
+      "twitter:image": "https://www.bcbsks.com/images/ogpng"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.bcbsks.com/images/ogpng"
+     }
+    ]
+   }
+  }
+ ]
+}

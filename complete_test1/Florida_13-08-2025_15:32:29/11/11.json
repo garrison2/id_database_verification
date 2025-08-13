@@ -1,0 +1,329 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Florida Statutes\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "8920",
+    "searchTerms": "\"Florida Statutes\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Florida Statutes\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "8920",
+    "searchTerms": "\"Florida Statutes\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.189098,
+  "formattedSearchTime": "0.19",
+  "totalResults": "8920",
+  "formattedTotalResults": "8,920"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "The 2024 Florida Statutes (including 2025 Special Session C)",
+   "htmlTitle": "The 2024 <b>Florida Statutes</b> (including 2025 Special Session C)",
+   "link": "http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0322/Sections/0322.143.html",
+   "displayLink": "www.leg.state.fl.us",
+   "snippet": "\u201cPersonal information\u201d means an individual's name, address, date of birth, driver license number, or identification card number. (b) \u201cPrivate entity\u201d means\u00a0...",
+   "htmlSnippet": "\u201c<b>Personal information</b>\u201d <b>means</b> an individual&#39;s name, address, date of birth, driver license number, or <b>identification card</b> number. (b) \u201cPrivate entity\u201d <b>means</b>&nbsp;...",
+   "formattedUrl": "http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display...",
+   "htmlFormattedUrl": "http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display..."
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Chapter 322 Section 143 - 2013 Florida Statutes - The Florida Senate",
+   "htmlTitle": "Chapter 322 Section 143 - 2013 <b>Florida Statutes</b> - The Florida Senate",
+   "link": "https://www.flsenate.gov/laws/statutes/2013/322.143",
+   "displayLink": "www.flsenate.gov",
+   "snippet": "2013 Florida Statutes \u00b7 (a) \u201cPersonal information\u201d means an individual's name, address, date of birth, driver license number, or identification card number. \u00b7 (b)\u00a0...",
+   "htmlSnippet": "2013 <b>Florida Statutes</b> &middot; (a) \u201c<b>Personal information</b>\u201d <b>means</b> an individual&#39;s name, address, date of birth, driver license number, or <b>identification card</b> number. &middot; (b)&nbsp;...",
+   "formattedUrl": "https://www.flsenate.gov/laws/statutes/2013/322.143",
+   "htmlFormattedUrl": "https://www.flsenate.gov/laws/statutes/2013/322.143"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Motor Vehicle Records--Driver's Privacy Protection Act | My Florida ...",
+   "htmlTitle": "Motor Vehicle Records--Driver&#39;s Privacy Protection Act | My Florida ...",
+   "link": "https://www.myfloridalegal.com/ag-opinions/motor-vehicle-records-drivers-privacy-protection-act",
+   "displayLink": "www.myfloridalegal.com",
+   "snippet": "Apr 12, 2010 ... ... Florida Statutes, a driver's license ... (b) Personal information, including highly restricted personal information as defined in 18 U.S.C.\u00a0...",
+   "htmlSnippet": "Apr 12, 2010 <b>...</b> ... <b>Florida Statutes</b>, a <b>driver&#39;s license</b> ... (b) <b>Personal information</b>, including highly restricted <b>personal information</b> as <b>defined</b> in 18 U.S.C.&nbsp;...",
+   "formattedUrl": "https://www.myfloridalegal.com/.../motor-vehicle-records-drivers-privacy-...",
+   "htmlFormattedUrl": "https://www.myfloridalegal.com/.../motor-vehicle-records-drivers-privacy-...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNeB3McSsPqzb2o93lQixsGexZDRDDXf-oI9IPdUbZ0TeLVpaQpvBCQg&s",
+      "width": "170",
+      "height": "170"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.myfloridalegal.com/img/logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Request to Withhold Personal Information",
+   "htmlTitle": "Request to Withhold <b>Personal Information</b>",
+   "link": "https://www.flhsmv.gov/pdf/forms/96020.pdf",
+   "displayLink": "www.flhsmv.gov",
+   "snippet": "The information required to complete this form is located on the Florida driver license or identification card of the requester. ... defined in s.",
+   "htmlSnippet": "The information required to complete this form is located on the Florida driver license or <b>identification card</b> of the requester. ... <b>defined</b> in s.",
+   "formattedUrl": "https://www.flhsmv.gov/pdf/forms/96020.pdf",
+   "htmlFormattedUrl": "https://www.flhsmv.gov/pdf/forms/96020.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20240719155528-04'00'",
+      "creationdate": "D:20240719154523-04'00'",
+      "creator": "Acrobat PDFMaker 20 for Word",
+      "lastsaved": "D:20240401",
+      "author": "FLHSMV - BOR",
+      "created": "D:20230627",
+      "subject": "PII",
+      "producer": "Adobe Acrobat Pro 2020 20 Paper Capture Plug-in",
+      "title": "Request to Withhold Personal Information"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Law Enforcement & Servicemember Blocks \u2013 Manatee County Tax ...",
+   "htmlTitle": "Law Enforcement &amp; Servicemember Blocks \u2013 Manatee County Tax ...",
+   "link": "https://helpcenter.taxcollector.com/hc/en-us/articles/27681525122189-Law-Enforcement-Servicemember-Blocks",
+   "displayLink": "helpcenter.taxcollector.com",
+   "snippet": "Your personal information contained in your motor vehicle or driver license/identification card records are blocked (withheld) from the public. As defined\u00a0...",
+   "htmlSnippet": "Your <b>personal information</b> contained in your motor vehicle or driver license/<b>identification card</b> records are blocked (withheld) from the public. As <b>defined</b>&nbsp;...",
+   "formattedUrl": "https://helpcenter.taxcollector.com/.../27681525122189-Law-Enforcement-...",
+   "htmlFormattedUrl": "https://helpcenter.taxcollector.com/.../27681525122189-Law-Enforcement-...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhl9_ubm-fLctiIS2SD1hIeG18eYU6BwuiauigB0bLeSpon8_kxAxgvVQ&s",
+      "width": "200",
+      "height": "72"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://helpcenter.taxcollector.com/hc/theming_assets/01J2CG11GE1DDK9THAR475YQPJ",
+      "og:type": "website",
+      "og:site_name": "Manatee County Tax Collector | Help Center",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Law Enforcement & Servicemember Blocks",
+      "og:url": "https://helpcenter.taxcollector.com/hc/en-us/articles/27681525122189-Law-Enforcement-Servicemember-Blocks",
+      "og:description": "1. WHAT IS A LAW ENFORCEMENT/SERVICEMEMBER BLOCK?\nYour personal information contained in your motor vehicle or driver license/identification card records are blocked (withheld) from the public.\u00a0 As..."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://helpcenter.taxcollector.com/hc/theming_assets/01J2CG11GE1DDK9THAR475YQPJ"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Request to Withhold Personal Information",
+   "htmlTitle": "Request to Withhold <b>Personal Information</b>",
+   "link": "https://www.flhsmv.gov/pdf/forms/96030.pdf",
+   "displayLink": "www.flhsmv.gov",
+   "snippet": "In all cases, the date of birth must match the date of birth on the Florida driver license or identification card record. ... 119.071, Florida Statutes.",
+   "htmlSnippet": "In all cases, the date of birth must match the date of birth on the Florida driver license or <b>identification card</b> record. ... 119.071, <b>Florida Statutes</b>.",
+   "formattedUrl": "https://www.flhsmv.gov/pdf/forms/96030.pdf",
+   "htmlFormattedUrl": "https://www.flhsmv.gov/pdf/forms/96030.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20250702140018-04'00'",
+      "creationdate": "D:20250702135135-04'00'",
+      "creator": "Acrobat PDFMaker 20 for Word",
+      "lastsaved": "D:20250529",
+      "author": "FLHSMV - BOR",
+      "created": "D:20240718",
+      "subject": "PII",
+      "producer": "Adobe Acrobat Pro 2020 20 Paper Capture Plug-in",
+      "title": "Request to Withhold Personal Information"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Florida Statutes Title XXIII. Motor Vehicles \u00a7 322.143 | FindLaw",
+   "htmlTitle": "<b>Florida Statutes</b> Title XXIII. Motor Vehicles \u00a7 322.143 | FindLaw",
+   "link": "https://codes.findlaw.com/fl/title-xxiii-motor-vehicles/fl-st-sect-322-143/",
+   "displayLink": "codes.findlaw.com",
+   "snippet": "Personal information\u201d means an individual's name, address, date of birth, driver license number, or identification card number. (b) \u201cPrivate entity\u201d means\u00a0...",
+   "htmlSnippet": "<b>Personal information</b>\u201d <b>means</b> an individual&#39;s name, address, date of birth, driver license number, or <b>identification card</b> number. (b) \u201cPrivate entity\u201d <b>means</b>&nbsp;...",
+   "formattedUrl": "https://codes.findlaw.com/fl/title-xxiii-motor-vehicles/fl-st-sect-322-143/",
+   "htmlFormattedUrl": "https://codes.findlaw.com/fl/title-xxiii-motor-vehicles/fl-st-sect-322-143/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuWtKEZ0kzYj6NSuZlgNrAF5XcYIi9XgsiqHcAgQHtxY18xcWZ1bDMaCM&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png",
+      "og:type": "article",
+      "og:site_name": "Findlaw",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Florida Statutes Title XXIII. Motor Vehicles \u00a7 322.143 | FindLaw",
+      "apple-mobile-web-app-title": "FindLaw",
+      "og:url": "https://codes.findlaw.com/fl/title-xxiii-motor-vehicles/fl-st-sect-322-143/",
+      "og:description": "Florida Title XXIII. Motor Vehicles   Section 322.143. Read the code on FindLaw"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Florida Statutes \u00a7 501.171 (2024) - Security of confidential personal ...",
+   "htmlTitle": "<b>Florida Statutes</b> \u00a7 501.171 (2024) - Security of confidential <b>personal</b> ...",
+   "link": "https://law.justia.com/codes/florida/title-xxxiii/chapter-501/part-i/section-501-171/",
+   "displayLink": "law.justia.com",
+   "snippet": "\u201cPersonal information\u201d means either of the following: a. An individual's ... defined in the Fair Credit Reporting Act, 15 U.S.C. s. 1681a(p), of the\u00a0...",
+   "htmlSnippet": "\u201c<b>Personal information</b>\u201d <b>means</b> either of the following: a. An individual&#39;s ... <b>defined</b> in the Fair Credit Reporting Act, 15 U.S.C. s. 1681a(p), of the&nbsp;...",
+   "formattedUrl": "https://law.justia.com/codes/florida/title-xxxiii/chapter.../section-501-171/",
+   "htmlFormattedUrl": "https://law.justia.com/codes/florida/title-xxxiii/chapter.../section-501-171/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPP2ksOfM4IyWL7PTxPyS5N80Or-jyXZZLgeH1kYuOtXk5YU597YCxGszS&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "og:site_name": "Justia Law",
+      "og:title": "2024 Florida Statutes :: Title XXXIII - Regulation of Trade, Commerce, Investments, and Solicitations :: Chapter 501 - Consumer Protection :: Part I - General Provisions (Ss. 501.001-501.1738) :: 501.171 - Security of confidential personal information.",
+      "og:app_id": "119529808075661",
+      "trigger-ga": "1",
+      "og:description": "Justia Free Databases of U.S. Laws, Codes & Statutes",
+      "og:admins": "656268335,686786921,25900864",
+      "referrer": "unsafe-url",
+      "twitter:site": "@JustiaCom",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "page-type": "Law: Codes Document Page (Current Year)",
+      "is-li": "0",
+      "og:url": "https://law.justia.com/codes/florida/title-xxxiii/chapter-501/part-i/section-501-171/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Chapter 322 - 2021 Florida Statutes - The Florida Senate",
+   "htmlTitle": "Chapter 322 - 2021 <b>Florida Statutes</b> - The Florida Senate",
+   "link": "https://flsenate.gov/Laws/Statutes/2021/Chapter322/All",
+   "displayLink": "flsenate.gov",
+   "snippet": "(47) \u201cTemporary driver license\u201d or \u201ctemporary identification card\u201d means a ... (a) \u201cPersonal information\u201d means an individual's name, address, date of\u00a0...",
+   "htmlSnippet": "(47) \u201cTemporary driver license\u201d or \u201ctemporary <b>identification card</b>\u201d <b>means</b> a ... (a) \u201c<b>Personal information</b>\u201d <b>means</b> an individual&#39;s name, address, date of&nbsp;...",
+   "formattedUrl": "https://flsenate.gov/Laws/Statutes/2021/Chapter322/All",
+   "htmlFormattedUrl": "https://flsenate.gov/Laws/Statutes/2021/Chapter322/All"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DHSMV Suspensions for Obtaining a Driver License by Fraud",
+   "htmlTitle": "DHSMV Suspensions for Obtaining a Driver License by Fraud",
+   "link": "https://criminaldefenseattorneytampa.com/white-collar-crime/fraud/obtaning-a-driver-license-by-fraud/",
+   "displayLink": "criminaldefenseattorneytampa.com",
+   "snippet": "Complaints of driver's license and identification card ... Personal information, including highly restricted personal information as defined in 18 U.S.C.\u00a0...",
+   "htmlSnippet": "Complaints of <b>driver&#39;s license</b> and <b>identification card</b> ... <b>Personal information</b>, including highly restricted <b>personal information</b> as <b>defined</b> in 18 U.S.C.&nbsp;...",
+   "formattedUrl": "https://criminaldefenseattorneytampa.com/.../obtaning-a-driver-license-by-f...",
+   "htmlFormattedUrl": "https://criminaldefenseattorneytampa.com/.../obtaning-a-driver-license-by-f...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkj9aVBFS_hMsnqUkSWqyYsspliTqId_0RYvi3h_6QVE7wSilfyZjENX4&s",
+      "width": "239",
+      "height": "211"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://criminaldefenseattorneytampa.com//wp-content/uploads/2018/11/florida-driver-license-new-real-id-compliant-facial-recognition.png.png",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Sammis Law Firm",
+      "og:title": "DHSMV Suspensions for Obtaining a Driver License by Fraud",
+      "twitter:label1": "Est. reading time",
+      "msapplication-tileimage": "https://criminaldefenseattorneytampa.com/wp-content/uploads/2023/10/SLF-Logo-300x300.png",
+      "og:description": "Attorneys explain the DHSMV suspension for Obtaining a Driver License by Fraud and how to request an administrative hearing.",
+      "article:publisher": "https://www.facebook.com/TampaCriminalDefenseLawyer",
+      "twitter:data1": "21 minutes",
+      "twitter:site": "@sammislaw",
+      "article:modified_time": "2024-08-11T16:19:52+00:00",
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=5, user-scalable=yes",
+      "og:locale": "en_US",
+      "og:url": "https://criminaldefenseattorneytampa.com/white-collar-crime/fraud/obtaning-a-driver-license-by-fraud/",
+      "format-detection": "telephone=no,email=no,url=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://criminaldefenseattorneytampa.com//wp-content/uploads/2018/11/florida-driver-license-new-real-id-compliant-facial-recognition.png.png"
+     }
+    ]
+   }
+  }
+ ]
+}

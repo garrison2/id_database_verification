@@ -1,0 +1,502 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Maine\" \"privacy act\" OR \"privacy law\"",
+    "totalResults": "4490000",
+    "searchTerms": "\"Maine\" \"privacy act\" OR \"privacy law\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Maine\" \"privacy act\" OR \"privacy law\"",
+    "totalResults": "4490000",
+    "searchTerms": "\"Maine\" \"privacy act\" OR \"privacy law\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.161325,
+  "formattedSearchTime": "0.16",
+  "totalResults": "4490000",
+  "formattedTotalResults": "4,490,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Maine Privacy Law Guide",
+   "htmlTitle": "<b>Maine Privacy Law</b> Guide",
+   "link": "https://iapp.org/resources/article/maine-privacy-law-guide/",
+   "displayLink": "iapp.org",
+   "snippet": "This guide, provided by Termageddon, outlines the Maine internet service provider/consumer protection privacy law.",
+   "htmlSnippet": "This guide, provided by Termageddon, outlines the <b>Maine</b> internet service provider/consumer protection <b>privacy law</b>.",
+   "formattedUrl": "https://iapp.org/resources/article/maine-privacy-law-guide/",
+   "htmlFormattedUrl": "https://iapp.org/resources/article/<b>maine</b>-<b>privacy-law</b>-guide/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7t_xZHF71y3kJC33e56b-Fm4WUuzaywGUoiHfYoyRA-qleF9gD-3Ev5A&s",
+      "width": "200",
+      "height": "200"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffffff",
+      "og:image": "https://iapp.org/wp-content/themes/iapp/static/img/iapp_logo_fb.png",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0, user-scalable=0",
+      "og:title": "Maine Privacy Law Guide",
+      "msapplication-tileimage": "/ms-icon-144x144.png",
+      "og:description": "This guide, provided by Termageddon, outlines the Maine internet service provider/consumer protection privacy law."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://iapp.org/wp-content/themes/iapp/static/img/iapp_logo_fb.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Legislature rejects paths to a comprehensive data privacy law in ...",
+   "htmlTitle": "Legislature rejects paths to a comprehensive data <b>privacy law</b> in ...",
+   "link": "https://mainemorningstar.com/2024/04/18/legislature-rejects-paths-to-a-comprehensive-data-privacy-law-in-maine/",
+   "displayLink": "mainemorningstar.com",
+   "snippet": "Apr 18, 2024 ... Maine will not be enacting a comprehensive data privacy law for the foreseeable future after the Legislature killed two competing proposals.",
+   "htmlSnippet": "Apr 18, 2024 <b>...</b> <b>Maine</b> will not be enacting a comprehensive data <b>privacy law</b> for the foreseeable future after the Legislature killed two competing proposals.",
+   "formattedUrl": "https://mainemorningstar.com/.../legislature-rejects-paths-to-a-comprehensi...",
+   "htmlFormattedUrl": "https://<b>maine</b>morningstar.com/.../legislature-rejects-paths-to-a-comprehensi...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbeVntUbZv2JCQMABPohHW2QibUgQJScH5G_5SLwYIb9wrDiziwdGbXCg&s",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://mainemorningstar.com/wp-content/uploads/2024/03/survellience-camera-2048x1365.jpeg",
+      "og:type": "article",
+      "article:published_time": "2024-04-18T15:15:18+00:00",
+      "twitter:card": "summary_large_image",
+      "og:image:width": "2048",
+      "og:site_name": "Maine Morning Star",
+      "author": "Emma Davis",
+      "og:title": "Legislature rejects paths to a comprehensive data privacy law in Maine \u2022 Maine Morning Star",
+      "twitter:label1": "Written by",
+      "twitter:label2": "Est. reading time",
+      "msapplication-tileimage": "https://mainemorningstar.com/wp-content/uploads/2023/08/cropped-ME-MS-Icon-2-270x270.png",
+      "og:description": "Maine will not be enacting a comprehensive data privacy law for the foreseeable future after the Legislature killed two competing proposals on the last day of session that lawmakers had spent 12 public meetings and countless hours behind-the-scenes throughout the past year trying to get over the finish line.\u00a0 One of the proposals, from Rep. [\u2026]",
+      "twitter:creator": "@byemmadavis",
+      "article:publisher": "https://www.facebook.com/MaineMorningStar",
+      "twitter:data1": "Emma Davis",
+      "twitter:data2": "6 minutes",
+      "twitter:site": "@mainemorninstar",
+      "article:modified_time": "2024-04-18T15:23:40+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://mainemorningstar.com/2024/04/18/legislature-rejects-paths-to-a-comprehensive-data-privacy-law-in-maine/",
+      "sn_version": "v1.86.4"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://mainemorningstar.com/wp-content/uploads/2024/03/survellience-camera-2048x1365.jpeg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "An Overview of Maine Privacy Law - Verrill",
+   "htmlTitle": "An Overview of <b>Maine Privacy Law</b> - Verrill",
+   "link": "https://www.verrill-law.com/news/an-overview-of-maine-privacy-law/",
+   "displayLink": "www.verrill-law.com",
+   "snippet": "Jan 28, 2025 ... An Overview of Maine Privacy Law ... Maine has expressly incorporated into state law the federal Family Educational Rights and Privacy Act\u00a0...",
+   "htmlSnippet": "Jan 28, 2025 <b>...</b> An Overview of <b>Maine Privacy Law</b> ... <b>Maine</b> has expressly incorporated into state law the federal Family Educational Rights and <b>Privacy Act</b>&nbsp;...",
+   "formattedUrl": "https://www.verrill-law.com/news/an-overview-of-maine-privacy-law/",
+   "htmlFormattedUrl": "https://www.verrill-law.com/news/an-overview-of-<b>maine</b>-<b>privacy-law</b>/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbSf_JGnF_cJkq-JxU6pCqfquEFYOnZGm3wjG_I6oZ7BnTwL4hWXNN9qM&s",
+      "width": "321",
+      "height": "157"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.verrill-law.com/wp-content/uploads/2025/06/Verrill.png",
+      "og:type": "article",
+      "og:image:width": "958",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Verrill",
+      "geo.region": "United States (US)",
+      "og:title": "An Overview of Maine Privacy Law",
+      "og:image:height": "469",
+      "twitter:label1": "Est. reading time",
+      "og:image:type": "image/png",
+      "geo.position": "43.6564224;-70.2561882",
+      "msapplication-tileimage": "https://www.verrill-law.com/wp-content/uploads/2025/06/cropped-favicon-270x270.jpg",
+      "og:description": "Introduction Verrill\u2019s Data Protection and Privacy attorneys have created this resource as a comprehensive overview of key privacy laws in Maine. This article reflects the laws as of mid-2024 and may be updated periodically. Readers should be aware that it does not aim to cover every law that is typically considered a \u201cprivacy\u201d law. We hope it serves as a valuable summary of the topics addressed, and we welcome any feedback or questions at any time. Contact Adam Nyhan at anyhan@verrill-law.com. Adam Nyhan is a Partner in Verrill\u2019s Portland, Maine office. He has represented technology companies in privacy, intellectual property, advertising, and corporate matters since 2004. Privacy Under the Maine State Constitution The Constitution of the State of Maine (\u201cMaine Constitution\u201d) does not establish a general privacy right. Section 5 of the Maine Constitution, which generally mirrors the Fourth Amendment to the Constitution of the United States (\u201cU.S. Constitution\u201d), provides that \u201c[t]he people ",
+      "twitter:data1": "50 minutes",
+      "article:modified_time": "2025-05-09T19:03:42+00:00",
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+      "og:locale": "en_US",
+      "og:url": "https://www.verrill-law.com/news/an-overview-of-maine-privacy-law/",
+      "geo.placename": "Portland"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.verrill-law.com/wp-content/uploads/2025/06/Verrill.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Maine could have strongest data privacy law in nation if bill passes ...",
+   "htmlTitle": "<b>Maine</b> could have strongest data <b>privacy law</b> in nation if bill passes ...",
+   "link": "https://statescoop.com/maine-strongest-data-privacy-law-2024/",
+   "displayLink": "statescoop.com",
+   "snippet": "Feb 7, 2024 ... Maine could have strongest data privacy law in nation if bill passes ... Privacy Act, the bill's sponsor has been working on expanding data\u00a0...",
+   "htmlSnippet": "Feb 7, 2024 <b>...</b> <b>Maine</b> could have strongest data <b>privacy law</b> in nation if bill passes ... <b>Privacy Act</b>, the bill&#39;s sponsor has been working on expanding data&nbsp;...",
+   "formattedUrl": "https://statescoop.com/maine-strongest-data-privacy-law-2024/",
+   "htmlFormattedUrl": "https://statescoop.com/<b>maine</b>-strongest-data-<b>privacy-law</b>-2024/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFs5DljluX7Ej4ndu0m_pR-PXDTDyKG-oEf5L-V6qh6A8uvGIgPg4y7sU&s",
+      "width": "258",
+      "height": "195"
+     }
+    ],
+    "website": [
+     {
+      "query-input": "name=s value",
+      "target": "https://statescoop.com/?s={s}"
+     }
+    ],
+    "organization": [
+     {
+      "logo": "https://statescoop.com/wp-content/themes/scoopnewsgroup/dist/svg/logo-state.svg",
+      "url": "https://statescoop.com/"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://statescoop.com/wp-content/uploads/sites/6/2024/02/GettyImages-137358265.jpg",
+      "og:type": "article",
+      "article:published_time": "2024-02-07T20:28:55+00:00",
+      "og:image:width": "1394",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "StateScoop",
+      "author": "Keely Quinlan",
+      "og:title": "Maine could have strongest data privacy law in nation if bill passes\u00a0 | StateScoop",
+      "og:image:height": "1054",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://statescoop.com/wp-content/uploads/sites/6/2023/01/cropped-ss_favicon.png?w=270",
+      "og:description": "Maine lawmakers are debating between legislation with strong consumer data protections and a weaker bill favored by industry.",
+      "twitter:creator": "@State_Scoop",
+      "article:publisher": "https://www.facebook.com/StateScoop/",
+      "twitter:site": "@State_Scoop",
+      "article:modified_time": "2025-07-31T17:56:27+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://statescoop.com/maine-strongest-data-privacy-law-2024/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://statescoop.com/wp-content/uploads/sites/6/2024/02/GettyImages-137358265.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Information Privacy Law - Admissions - University of Maine School of ...",
+   "htmlTitle": "Information <b>Privacy Law</b> - Admissions - University of <b>Maine</b> School of ...",
+   "link": "https://mainelaw.maine.edu/admissions/information-privacy-law/",
+   "displayLink": "mainelaw.maine.edu",
+   "snippet": "Maine Law has one of the top rated privacy law programs in the country. The privacy field has exploded with opportunity. Around the world, in virtually\u00a0...",
+   "htmlSnippet": "<b>Maine</b> Law has one of the top rated <b>privacy law</b> programs in the country. The privacy field has exploded with opportunity. Around the world, in virtually&nbsp;...",
+   "formattedUrl": "https://mainelaw.maine.edu/admissions/information-privacy-law/",
+   "htmlFormattedUrl": "https://<b>maine</b>law.<b>maine</b>.edu/admissions/information-<b>privacy-law</b>/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF-g8-jPMwbMcG7eERgeKQcHENjbp3MhB2yLsbXkElmIh3CEi8b6-NbTs&s",
+      "width": "438",
+      "height": "115"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://mainelaw.maine.edu/admissions/wp-content/uploads/sites/2/information-privacy-certificate.png",
+      "og:image:width": "1140",
+      "twitter:card": "summary",
+      "og:site_name": "Admissions",
+      "msapplication-tileimage": "https://mainelaw.maine.edu/admissions/wp-content/uploads/sites/2/favicon.png",
+      "og:description": "Maine Law has one of the top rated privacy law programs in the country. The privacy field has exploded with opportunity. Around the world, in virtually every industry, protecting personal information has become a vital concern. Consequently, the need for qualified, highly trained attorneys with a heightened knowledge of privacy\u2026",
+      "twitter:creator": "umainelaw",
+      "article:publisher": "https://www.facebook.com/umainelaw",
+      "og:image:secure_url": "https://mainelaw.maine.edu/admissions/wp-content/uploads/sites/2/information-privacy-certificate.png",
+      "twitter:image": "https://mainelaw.maine.edu/admissions/wp-content/uploads/sites/2/information-privacy-certificate-1024x269.png",
+      "twitter:site": "umainelaw",
+      "dc.source": "https://mainelaw.maine.edu/admissions/",
+      "dc.description": "Maine Law has one of the top rated privacy law programs in the country. The privacy field has exploded with opportunity. Around the world, in virtually every industry, protecting personal information has become a vital concern. Consequently, the need for qualified, highly trained attorneys with a heightened knowledge of privacy\u2026",
+      "og:type": "article",
+      "og:image:alt": "information-privacy-certificate",
+      "twitter:title": "Information Privacy Law - Admissions - University of Maine School of Law",
+      "og:title": "Information Privacy Law - Admissions - University of Maine School of Law",
+      "og:image:height": "300",
+      "fb:pages": "216303875518722",
+      "article:author": "https://www.facebook.com/umainelaw",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Maine Law has one of the top rated privacy law programs in the country. The privacy field has exploded with opportunity. Around the world, in virtually every industry, protecting personal information has become a vital concern. Consequently, the need for qualified, highly trained attorneys with a heightened knowledge of privacy\u2026",
+      "dc.relation": "https://mainelaw.maine.edu/admissions/information-privacy-law/",
+      "dc.title": "Information Privacy Law - Admissions - University of Maine School of Law",
+      "og:locale": "en_US",
+      "dc.language": "en_US",
+      "og:url": "https://mainelaw.maine.edu/admissions/information-privacy-law/"
+     }
+    ],
+    "webpage": [
+     {
+      "maincontentofpage": "Maine Law has one of the top rated privacy law programs in the country. The privacy field has exploded with opportunity. Around the world, in virtually every industry, protecting personal informati...",
+      "name": "Information Privacy Law"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://mainelaw.maine.edu/admissions/wp-content/uploads/sites/2/information-privacy-certificate.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Maine fails to pass ambitious consumer data privacy act | StateScoop",
+   "htmlTitle": "<b>Maine</b> fails to pass ambitious consumer data <b>privacy act</b> | StateScoop",
+   "link": "https://statescoop.com/maine-consumer-data-privacy-bill-fails-2024/",
+   "displayLink": "statescoop.com",
+   "snippet": "Apr 17, 2024 ... Maine fails to pass ambitious consumer data privacy act. A vote ... privacy law \u00b7 Maine \u00b7 state data privacy. Share. Facebook \u00b7 LinkedIn \u00b7 Twitter",
+   "htmlSnippet": "Apr 17, 2024 <b>...</b> <b>Maine</b> fails to pass ambitious consumer data <b>privacy act</b>. A vote ... <b>privacy law</b> &middot; <b>Maine</b> &middot; state data privacy. Share. Facebook &middot; LinkedIn &middot; Twitter",
+   "formattedUrl": "https://statescoop.com/maine-consumer-data-privacy-bill-fails-2024/",
+   "htmlFormattedUrl": "https://statescoop.com/<b>maine</b>-consumer-data-privacy-bill-fails-2024/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfp22vwXZMkcIKumsF9-fuK1Ku31HGcKw4MBUxEBE-AgNfGuay1ZbiU7E&s",
+      "width": "274",
+      "height": "184"
+     }
+    ],
+    "website": [
+     {
+      "query-input": "name=s value",
+      "target": "https://statescoop.com/?s={s}"
+     }
+    ],
+    "organization": [
+     {
+      "logo": "https://statescoop.com/wp-content/themes/scoopnewsgroup/dist/svg/logo-state.svg",
+      "url": "https://statescoop.com/"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://statescoop.com/wp-content/uploads/sites/6/2020/04/GettyImages-181436588-1.jpg",
+      "og:type": "article",
+      "article:published_time": "2024-04-17T20:49:04+00:00",
+      "og:image:width": "2000",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "StateScoop",
+      "author": "Keely Quinlan",
+      "og:title": "Maine fails to pass ambitious consumer data privacy act | StateScoop",
+      "og:image:height": "1339",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://statescoop.com/wp-content/uploads/sites/6/2023/01/cropped-ss_favicon.png?w=270",
+      "og:description": "A vote by the Maine Senate on the\u00a0Data Privacy and Protection Act ends the chance of passage for what would have been the nation's strongest data privacy law.",
+      "twitter:creator": "@State_Scoop",
+      "article:publisher": "https://www.facebook.com/StateScoop/",
+      "twitter:site": "@State_Scoop",
+      "article:modified_time": "2025-07-31T17:55:24+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://statescoop.com/maine-consumer-data-privacy-bill-fails-2024/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://statescoop.com/wp-content/uploads/sites/6/2020/04/GettyImages-181436588-1.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Certificate in Information Privacy Law - Academics - University of ...",
+   "htmlTitle": "Certificate in Information <b>Privacy Law</b> - Academics - University of ...",
+   "link": "https://mainelaw.maine.edu/academics/academic-program/certificate-information-privacy-law/",
+   "displayLink": "mainelaw.maine.edu",
+   "snippet": "Maine Law also has the Center for Law + Innovation Privacy Law Fellow Program offered in partnership with the International Association of Privacy Professionals\u00a0...",
+   "htmlSnippet": "<b>Maine</b> Law also has the Center for Law + Innovation <b>Privacy Law</b> Fellow Program offered in partnership with the International Association of Privacy Professionals&nbsp;...",
+   "formattedUrl": "https://mainelaw.maine.edu/academics/.../certificate-information-privacy-la...",
+   "htmlFormattedUrl": "https://<b>maine</b>law.<b>maine</b>.edu/academics/.../certificate-information-<b>privacy-la</b>...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh55EmXahb1FQ6Y2SoxfcsHFv8nNIrNtsjRzidH1SIdudw8juRxX3LY5A&s",
+      "width": "408",
+      "height": "123"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://mainelaw.maine.edu/academics/wp-content/uploads/sites/3/2024-Institute-Course-Registration-Header.jpg",
+      "og:image:width": "1140",
+      "twitter:card": "summary",
+      "og:site_name": "Academics",
+      "msapplication-tileimage": "https://mainelaw.maine.edu/academics/wp-content/uploads/sites/3/favicon.png",
+      "og:description": "To receive the Certificate in Information Privacy Law you must complete required coursework, paper and experiential learning.",
+      "twitter:creator": "umainelaw",
+      "article:publisher": "https://www.facebook.com/umainelaw",
+      "og:image:secure_url": "https://mainelaw.maine.edu/academics/wp-content/uploads/sites/3/2024-Institute-Course-Registration-Header.jpg",
+      "twitter:image": "https://mainelaw.maine.edu/academics/wp-content/uploads/sites/3/2024-Institute-Course-Registration-Header-1024x311.jpg",
+      "twitter:site": "umainelaw",
+      "dc.source": "https://mainelaw.maine.edu/academics/",
+      "dc.description": "To receive the Certificate in Information Privacy Law you must complete required coursework, paper and experiential learning.",
+      "og:type": "article",
+      "og:image:alt": "Information Privacy Institute",
+      "twitter:title": "Certificate in Information Privacy Law - Academics - University of Maine School of Law",
+      "og:title": "Certificate in Information Privacy Law - Academics - University of Maine School of Law",
+      "og:image:height": "346",
+      "fb:pages": "216303875518722",
+      "article:author": "https://www.facebook.com/umainelaw",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "To receive the Certificate in Information Privacy Law you must complete required coursework, paper and experiential learning.",
+      "dc.relation": "https://mainelaw.maine.edu/academics/academic-program/certificate-information-privacy-law/",
+      "dc.title": "Certificate in Information Privacy Law - Academics - University of Maine School of Law",
+      "og:locale": "en_US",
+      "dc.language": "en_US",
+      "og:url": "https://mainelaw.maine.edu/academics/academic-program/certificate-information-privacy-law/"
+     }
+    ],
+    "webpage": [
+     {
+      "maincontentofpage": "The Certificate in Information Privacy Law is designed to prepare students for careers in the fast-growing fields of information privacy and cybersecurity law. The program is open to current...",
+      "name": "Certificate in Information Privacy Law"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://mainelaw.maine.edu/academics/wp-content/uploads/sites/3/2024-Institute-Course-Registration-Header.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "LD 1088, HP 710 - Maine Legislature - Maine.gov",
+   "htmlTitle": "LD 1088, HP 710 - <b>Maine</b> Legislature - <b>Maine</b>.gov",
+   "link": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=1088&snum=132",
+   "displayLink": "legislature.maine.gov",
+   "snippet": "Mar 14, 2025 ... An Act to Enact the Maine Consumer Data Privacy Act. Search Committee Work Legislative Records Documents and Disposition Text LD 1088 HP 710",
+   "htmlSnippet": "Mar 14, 2025 <b>...</b> An Act to Enact the <b>Maine</b> Consumer Data <b>Privacy Act</b>. Search Committee Work Legislative Records Documents and Disposition Text LD 1088 HP 710",
+   "formattedUrl": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=1088&snum...",
+   "htmlFormattedUrl": "https://legislature.<b>maine</b>.gov/legis/bills/display_ps.asp?LD=1088&amp;snum..."
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Maine | Jurisdictions | DataGuidance",
+   "htmlTitle": "<b>Maine</b> | Jurisdictions | DataGuidance",
+   "link": "https://www.dataguidance.com/jurisdictions/maine",
+   "displayLink": "www.dataguidance.com",
+   "snippet": "AGs sue USDA over SNAP data sharing, citing privacy law violations. News ... Maine: Bill for the Maine Consumer Privacy Act ordered to Senate. The Maine\u00a0...",
+   "htmlSnippet": "AGs sue USDA over SNAP data sharing, citing <b>privacy law</b> violations. News ... <b>Maine</b>: Bill for the <b>Maine</b> Consumer <b>Privacy Act</b> ordered to Senate. The <b>Maine</b>&nbsp;...",
+   "formattedUrl": "https://www.dataguidance.com/jurisdictions/maine",
+   "htmlFormattedUrl": "https://www.dataguidance.com/jurisdictions/<b>maine</b>",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:type": "website",
+      "twitter:title": "Maine | Jurisdictions | DataGuidance",
+      "twitter:card": "summary",
+      "og:site_name": "DataGuidance",
+      "twitter:url": "https://www.dataguidance.com/jurisdictions/maine",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "Maine | Jurisdictions | DataGuidance",
+      "og:url": "https://www.dataguidance.com/jurisdictions/maine"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Maine Legislature Fails to Enact Privacy Law \u2013 EPIC \u2013 Electronic ...",
+   "htmlTitle": "<b>Maine</b> Legislature Fails to Enact <b>Privacy Law</b> \u2013 EPIC \u2013 Electronic ...",
+   "link": "https://epic.org/maine-legislature-fails-to-enact-privacy-law/",
+   "displayLink": "epic.org",
+   "snippet": "Maine Legislature Fails to Enact Privacy Law. April 18, 2024. The Maine Data Privacy and Protection Act, LD1977, passed the Maine House of Representatives\u00a0...",
+   "htmlSnippet": "<b>Maine</b> Legislature Fails to Enact <b>Privacy Law</b>. April 18, 2024. The <b>Maine</b> Data Privacy and Protection Act, LD1977, passed the <b>Maine</b> House of Representatives&nbsp;...",
+   "formattedUrl": "https://epic.org/maine-legislature-fails-to-enact-privacy-law/",
+   "htmlFormattedUrl": "https://epic.org/<b>maine</b>-legislature-fails-to-enact-<b>privacy-law</b>/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz-e5YYqlnm8l0C-y491J0wqfPibC9RCsjlgHj05y_tN97QWESOWsbjjpB&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#57b748",
+      "og:image": "https://epic.org/wp-content/uploads/fly-images/34885/maine-state-capitol-building-1200x630-c.jpg",
+      "msapplication-config": "/wp-content/uploads/fbrfg/browserconfig.xml?v=1",
+      "theme-color": "#ffffff",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "EPIC - Electronic Privacy Information Center",
+      "twitter:site": "@EPICprivacy",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "og:title": "Maine Legislature Fails to Enact Privacy Law",
+      "og:url": "https://epic.org/maine-legislature-fails-to-enact-privacy-law/",
+      "og:description": "<p>The Maine Data Privacy and Protection Act, LD1977, passed the Maine House of Representatives yesterday before being defeated in the Senate on a 15-18 vote. </p>"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://epic.org/wp-content/uploads/fly-images/34885/maine-state-capitol-building-1200x630-c.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

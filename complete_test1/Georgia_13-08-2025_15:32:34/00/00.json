@@ -1,0 +1,459 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Georgia\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "31700000",
+    "searchTerms": "\"Georgia\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Georgia\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "31700000",
+    "searchTerms": "\"Georgia\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.228011,
+  "formattedSearchTime": "0.23",
+  "totalResults": "31700000",
+  "formattedTotalResults": "31,700,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "GA Digital ID | Georgia Department of Driver Services",
+   "htmlTitle": "GA <b>Digital ID</b> | <b>Georgia</b> Department of Driver Services",
+   "link": "https://dds.georgia.gov/georgia-licenseid/ga-digital-id",
+   "displayLink": "dds.georgia.gov",
+   "snippet": "GA Digital ID \u00b7 Georgia Digital Driver's License and ID \u00b7 Available On Apple and Android Devices \u00b7 mDL Introduction \u00b7 Apple Wallet \u00b7 Google Wallet \u00b7 Samsung Wallet.",
+   "htmlSnippet": "GA <b>Digital ID</b> &middot; <b>Georgia Digital Driver&#39;s License</b> and ID &middot; Available On Apple and Android Devices &middot; <b>mDL</b> Introduction &middot; Apple Wallet &middot; Google Wallet &middot; Samsung Wallet.",
+   "formattedUrl": "https://dds.georgia.gov/georgia-licenseid/ga-digital-id",
+   "htmlFormattedUrl": "https://dds.<b>georgia</b>.gov/<b>georgia</b>-licenseid/ga-<b>digital-id</b>",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcHMDQGJKWYJoTADqCjGRbWZH4Bfp-WrnxenByqI-NT2yj0rgn6l2eHx7C&s",
+      "width": "310",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffc40d",
+      "og:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "og:image:width": "1201",
+      "twitter:card": "summary",
+      "twitter:title": "GA Digital ID",
+      "theme-color": "#ffffff",
+      "og:site_name": "Georgia Department of Driver Services",
+      "handheldfriendly": "true",
+      "og:title": "GA Digital ID",
+      "og:image:height": "629",
+      "og:description": "Introducing Georgia Digital Driver's License and ID on both Apple and Android platforms.",
+      "twitter:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "twitter:site": "@georgiadds",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Introducing Georgia Digital Driver's License and ID on both Apple and Android platforms.",
+      "mobileoptimized": "width",
+      "og:url": "https://dds.georgia.gov/georgia-licenseid/ga-digital-id",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "TSA enables Georgia residents to use mobile driver's license or ...",
+   "htmlTitle": "TSA enables <b>Georgia</b> residents to use <b>mobile driver&#39;s license</b> or ...",
+   "link": "https://www.tsa.gov/news/press/releases/2023/05/18/tsa-enables-georgia-residents-use-mobile-drivers-license-or-state-id",
+   "displayLink": "www.tsa.gov",
+   "snippet": "May 18, 2023 ... TSA enables Georgia residents to use mobile driver's license or state ID for verification at ATL \u00b7 ATLANTA \u2013 The Transportation Security\u00a0...",
+   "htmlSnippet": "May 18, 2023 <b>...</b> TSA enables <b>Georgia</b> residents to use <b>mobile driver&#39;s license</b> or state ID for verification at ATL &middot; ATLANTA \u2013 The Transportation Security&nbsp;...",
+   "formattedUrl": "https://www.tsa.gov/.../tsa-enables-georgia-residents-use-mobile-drivers-lice...",
+   "htmlFormattedUrl": "https://www.tsa.gov/.../tsa-enables-<b>georgia</b>-residents-use-<b>mobile-drivers-lice</b>...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPmfB7IVmgDmb3IDXSU12352SHrXv5e_5i8yycsOrPNmZwXMWtBL06Rg4&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.tsa.gov/sites/default/files/2025-03/21366_graphic_tsa_open_graph_image_1200x630.jpg",
+      "og:type": "website",
+      "og:image:width": "1200",
+      "og:site_name": "U.S. Department of Homeland Security Transportation Security Administration",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+      "og:title": "TSA enables Georgia residents to use mobile driver\u2019s license or state ID for verification at ATL | Transportation Security Administration",
+      "mobileoptimized": "width",
+      "og:image:height": "630",
+      "og:image:type": "image/jpg",
+      "og:url": "https://www.tsa.gov/news/press/releases/2023/05/18/tsa-enables-georgia-residents-use-mobile-drivers-license-or-state-id",
+      "og:description": "ATLANTA \u2013 The Transportation Security Administration (TSA), in collaboration with the State of Georgia and Apple, deployed a new technology that allows airline passengers to use their Georgia-issued mobile driver\u2019s license or ID card in Apple Wallet to safely and seamlessly present and verify their identity for airport security screening purposes at Hartsfield-Jackson Atlanta International Airport (ATL)."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.tsa.gov/sites/default/files/2025-03/21366_graphic_tsa_open_graph_image_1200x630.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "mDL FAQs | Georgia Department of Driver Services",
+   "htmlTitle": "<b>mDL</b> FAQs | <b>Georgia</b> Department of Driver Services",
+   "link": "https://dds.georgia.gov/mdl-faqs",
+   "displayLink": "dds.georgia.gov",
+   "snippet": "GA Digital Driver's License for iPhone & Apple Watch FAQs: What is Georgia Digital ID on iPhone and Apple Watch? What do I need to use the Georgia Digital ID\u00a0...",
+   "htmlSnippet": "GA <b>Digital Driver&#39;s License</b> for iPhone &amp; Apple Watch FAQs: What is <b>Georgia Digital ID</b> on iPhone and Apple Watch? What do I need to use the <b>Georgia Digital ID</b>&nbsp;...",
+   "formattedUrl": "https://dds.georgia.gov/mdl-faqs",
+   "htmlFormattedUrl": "https://dds.<b>georgia</b>.gov/<b>mdl</b>-faqs",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcHMDQGJKWYJoTADqCjGRbWZH4Bfp-WrnxenByqI-NT2yj0rgn6l2eHx7C&s",
+      "width": "310",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffc40d",
+      "og:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "og:image:width": "1201",
+      "twitter:card": "summary",
+      "twitter:title": "GA Digital Driver's License for iPhone & Apple Watch FAQs",
+      "theme-color": "#ffffff",
+      "og:site_name": "Georgia Department of Driver Services",
+      "handheldfriendly": "true",
+      "og:title": "GA Digital Driver's License for iPhone & Apple Watch FAQs",
+      "og:image:height": "629",
+      "twitter:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "twitter:site": "@georgiadds",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width",
+      "og:url": "https://dds.georgia.gov/mdl-faqs",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Georgia law permits digital IDs for traffic stops | 13wmaz.com",
+   "htmlTitle": "<b>Georgia</b> law permits digital IDs for traffic stops | 13wmaz.com",
+   "link": "https://www.13wmaz.com/article/news/local/new-georgia-law-lets-drivers-use-digital-ids-during-traffic-stops/93-6ad8e6a4-a312-4b77-aed8-c9b641bae77b",
+   "displayLink": "www.13wmaz.com",
+   "snippet": "Jun 27, 2025 ... MACON, Ga. \u2014 A new Georgia law taking effect next month will allow drivers to use a digital ID on their phones during traffic stops,\u00a0...",
+   "htmlSnippet": "Jun 27, 2025 <b>...</b> MACON, Ga. \u2014 A new <b>Georgia</b> law taking effect next month will allow drivers to use a <b>digital ID</b> on their phones during traffic stops,&nbsp;...",
+   "formattedUrl": "https://www.13wmaz.com/...georgia...digital-ids.../93-6ad8e6a4-a312-4b77...",
+   "htmlFormattedUrl": "https://www.13wmaz.com/...<b>georgia</b>...<b>digital-id</b>s.../93-6ad8e6a4-a312-4b77...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTofgws2JesX9Il1eM-AHJd2LjNH23sa3FjB5jLrKlzOWfNXfhX0xLJ8ec&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "apple-itunes-app": "app-id=467460140",
+      "og:image": "https://media.13wmaz.com/assets/WMAZ/images/7745965f-c5c5-4ef8-aa76-b9f957e1ab7a/20250505T123633/7745965f-c5c5-4ef8-aa76-b9f957e1ab7a_1140x641.jpg",
+      "theme-color": "#045ea8",
+      "og:image:width": "1140",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "WMAZ",
+      "og:description": "Starting July 1, Georgia drivers can use digital IDs on their phones during traffic stops, offering a modern alternative to physical licenses.",
+      "twitter:image": "https://media.13wmaz.com/assets/WMAZ/images/7745965f-c5c5-4ef8-aa76-b9f957e1ab7a/20250505T123633/7745965f-c5c5-4ef8-aa76-b9f957e1ab7a_1140x641.jpg",
+      "twitter:site": "13WMAZNEWS",
+      "article:content_tier": "free",
+      "og:type": "article",
+      "article:section": "13wmaz,news,local",
+      "twitter:title": "New Georgia law lets drivers use digital IDs during traffic stops | Here's how it works",
+      "twitter:domain": "www.13wmaz.com/",
+      "og:title": "New Georgia law lets drivers use digital IDs during traffic stops | Here's how it works",
+      "og:image:height": "641",
+      "og:article:published_time": "6/27/2025 5:53:49 PM",
+      "twitter:image:src": "https://media.13wmaz.com/assets/WMAZ/images/7745965f-c5c5-4ef8-aa76-b9f957e1ab7a/20250505T123633/7745965f-c5c5-4ef8-aa76-b9f957e1ab7a_1140x641.jpg",
+      "site": "13wmaz.com",
+      "fb:app_id": "382982778820044",
+      "viewport": "width=device-width",
+      "twitter:description": "Starting July 1, Georgia drivers can use digital IDs on their phones during traffic stops, offering a modern alternative to physical licenses.",
+      "og:locale": "en_US",
+      "category": "news",
+      "og:url": "https://www.13wmaz.com/article/news/local/new-georgia-law-lets-drivers-use-digital-ids-during-traffic-stops/93-6ad8e6a4-a312-4b77-aed8-c9b641bae77b",
+      "article:opinion": "false"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://media.13wmaz.com/assets/WMAZ/images/7745965f-c5c5-4ef8-aa76-b9f957e1ab7a/20250505T123633/7745965f-c5c5-4ef8-aa76-b9f957e1ab7a_1140x641.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "GA Digital Driver's License and ID | Georgia Department of Driver ...",
+   "htmlTitle": "GA <b>Digital Driver&#39;s License</b> and ID | <b>Georgia</b> Department of Driver ...",
+   "link": "https://dds.georgia.gov/georgia-licenseid/ga-digital-id/ga-digital-drivers-license-and-id",
+   "displayLink": "dds.georgia.gov",
+   "snippet": "GA Digital Driver's License for iPhone & Apple Watch FAQs. Get answers to your questions about Georgia's Digital ID for iPhone and Apple Watch. Explore FAQs.",
+   "htmlSnippet": "GA <b>Digital Driver&#39;s License</b> for iPhone &amp; Apple Watch FAQs. Get answers to your questions about <b>Georgia&#39;s Digital ID</b> for iPhone and Apple Watch. Explore FAQs.",
+   "formattedUrl": "https://dds.georgia.gov/georgia...digital-id/ga-digital-drivers-license-and-id",
+   "htmlFormattedUrl": "https://dds.<b>georgia</b>.gov/<b>georgia</b>...<b>digital-id</b>/ga-<b>digital-drivers-license</b>-and-id",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcHMDQGJKWYJoTADqCjGRbWZH4Bfp-WrnxenByqI-NT2yj0rgn6l2eHx7C&s",
+      "width": "310",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffc40d",
+      "og:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "og:image:width": "1201",
+      "twitter:card": "summary",
+      "twitter:title": "GA Digital Driver's License and ID",
+      "theme-color": "#ffffff",
+      "og:site_name": "Georgia Department of Driver Services",
+      "handheldfriendly": "true",
+      "og:title": "GA Digital Driver's License and ID",
+      "og:image:height": "629",
+      "og:description": "What is Georgia ID on iPhone and Apple Watch?Georgia ID on iPhone and Apple Watch is a voluntary, secure, digitized version of your Georgia-issued driver's license (DL) or identification card (ID) available in the Apple Wallet app on your iPhone and Apple Watch.",
+      "twitter:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "twitter:site": "@georgiadds",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "What is Georgia ID on iPhone and Apple Watch?Georgia ID on iPhone and Apple Watch is a voluntary, secure, digitized version of your Georgia-issued driver's license (DL) or identification card (ID) available in the Apple Wallet app on your iPhone and Apple Watch.",
+      "mobileoptimized": "width",
+      "og:url": "https://dds.georgia.gov/georgia-licenseid/ga-digital-id/ga-digital-drivers-license-and-id",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Georgia Digital ID : r/Georgia",
+   "htmlTitle": "<b>Georgia Digital ID</b> : r/<b>Georgia</b>",
+   "link": "https://www.reddit.com/r/Georgia/comments/17e88zr/georgia_digital_id/",
+   "displayLink": "www.reddit.com",
+   "snippet": "Oct 23, 2023 ... Skip to main content Georgia Digital ID : r/Georgia. Close search ... Georgia Digital ID. Question. How exactly does it work? I mean, I have\u00a0...",
+   "htmlSnippet": "Oct 23, 2023 <b>...</b> Skip to main content <b>Georgia Digital ID</b> : r/<b>Georgia</b>. Close search ... <b>Georgia Digital ID</b>. Question. How exactly does it work? I mean, I have&nbsp;...",
+   "formattedUrl": "https://www.reddit.com/r/Georgia/comments/17e88zr/georgia_digital_id/",
+   "htmlFormattedUrl": "https://www.reddit.com/r/<b>Georgia</b>/comments/17e88zr/<b>georgia</b>_<b>digital_id</b>/",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:image": "https://share.redd.it/preview/post/17e88zr",
+      "theme-color": "#000000",
+      "og:image:width": "1200",
+      "og:type": "website",
+      "og:image:alt": "An image containing a preview of the post",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "r/Georgia on Reddit: Georgia Digital ID",
+      "og:site_name": "Reddit",
+      "og:title": "r/Georgia on Reddit: Georgia Digital ID",
+      "og:image:height": "630",
+      "msapplication-navbutton-color": "#000000",
+      "og:description": "Posted by u/praguer56 - 7 votes and 8 comments",
+      "twitter:image": "https://share.redd.it/preview/post/17e88zr",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "twitter:site": "@reddit",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "apple-mobile-web-app-capable": "yes",
+      "og:ttl": "600",
+      "og:url": "https://www.reddit.com/r/Georgia/comments/17e88zr/georgia_digital_id/?seeker-session=true"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "digital id google wallet | Georgia Department of Driver Services",
+   "htmlTitle": "<b>digital id</b> google wallet | <b>Georgia</b> Department of Driver Services",
+   "link": "https://dds.georgia.gov/georgia-licenseid/ga-digital-id/digital-id-google-wallet",
+   "displayLink": "dds.georgia.gov",
+   "snippet": "GA Digital Driver's License for Google Wallet FAQs. Get answers to your questions about Georgia's Digital ID for Google Wallet. Explore FAQs \u00b7 Georgia\u00a0...",
+   "htmlSnippet": "GA <b>Digital Driver&#39;s License</b> for Google Wallet FAQs. Get answers to your questions about <b>Georgia&#39;s Digital ID</b> for Google Wallet. Explore FAQs &middot; <b>Georgia</b>&nbsp;...",
+   "formattedUrl": "https://dds.georgia.gov/georgia-licenseid/...digital-id/digital-id-google-walle...",
+   "htmlFormattedUrl": "https://dds.<b>georgia</b>.gov/<b>georgia</b>-licenseid/...<b>digital-id</b>/<b>digital-id</b>-google-walle...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcHMDQGJKWYJoTADqCjGRbWZH4Bfp-WrnxenByqI-NT2yj0rgn6l2eHx7C&s",
+      "width": "310",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffc40d",
+      "og:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "og:image:width": "1201",
+      "twitter:card": "summary",
+      "twitter:title": "Digital Driver's License and ID in Google Wallet",
+      "theme-color": "#ffffff",
+      "og:site_name": "Georgia Department of Driver Services",
+      "handheldfriendly": "true",
+      "og:title": "Digital Driver's License and ID in Google Wallet",
+      "og:image:height": "629",
+      "og:description": "Georgia Digital Driver's License and ID in Google Wallet.",
+      "twitter:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "twitter:site": "@georgiadds",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Georgia Digital Driver's License and ID in Google Wallet.",
+      "mobileoptimized": "width",
+      "og:url": "https://dds.georgia.gov/georgia-licenseid/ga-digital-id/digital-id-google-wallet",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Georgia's journey to mobile driver's license (mDL)",
+   "htmlTitle": "<b>Georgia&#39;s</b> journey to <b>mobile driver&#39;s license</b> (<b>mDL</b>)",
+   "link": "https://events.afcea.org/FedID22/Custom/Handout/Speaker151677_Session9648_1.pdf",
+   "displayLink": "events.afcea.org",
+   "snippet": "Mobile/Digital Driver's License (mDL). Digital representation of state record ... Georgia's road to mDL. Card issuance only. In-person transactions. Online.",
+   "htmlSnippet": "Mobile/<b>Digital Driver&#39;s License</b> (<b>mDL</b>). Digital representation of state record ... <b>Georgia&#39;s</b> road to <b>mDL</b>. Card issuance only. In-person transactions. Online.",
+   "formattedUrl": "https://events.afcea.org/FedID22/.../Speaker151677_Session9648_1.pdf",
+   "htmlFormattedUrl": "https://events.afcea.org/FedID22/.../Speaker151677_Session9648_1.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGPtbYmOTn6cmuhIOfHKAow9tpV65UCbyepVNsxJkg8a41MiGSHfgZCbY&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20220908235633-04'00'",
+      "creationdate": "D:20220908234736-04'00'",
+      "creator": "Acrobat PDFMaker 22 for PowerPoint",
+      "author": "Mcclendon, Angelique",
+      "producer": "Adobe PDF Library 22.2.223",
+      "title": "PowerPoint Presentation",
+      "contenttypeid": "0x0101000ECF2F8FB2F2574FAD8A3D5115EA6BD0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///d4c982f0c56d3d0aba6fb579caf42aec70d5aa5c7d72c3eea379f34661b60a03"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Digital Driver's License : r/Georgia",
+   "htmlTitle": "<b>Digital Driver&#39;s License</b> : r/<b>Georgia</b>",
+   "link": "https://www.reddit.com/r/Georgia/comments/1fak9t2/digital_drivers_license/",
+   "displayLink": "www.reddit.com",
+   "snippet": "Sep 6, 2024 ... r/apple - Georgia Digital Driver's License or ID on iPhone and Apple Watch now. georgia. 416 upvotes \u00b7 107 comments. Renewing Drivers License\u00a0...",
+   "htmlSnippet": "Sep 6, 2024 <b>...</b> r/apple - <b>Georgia Digital Driver&#39;s License</b> or ID on iPhone and Apple Watch now. <b>georgia</b>. 416 upvotes \u00b7 107 comments. Renewing Drivers License&nbsp;...",
+   "formattedUrl": "https://www.reddit.com/r/Georgia/comments/.../digital_drivers_license/",
+   "htmlFormattedUrl": "https://www.reddit.com/r/<b>Georgia</b>/comments/.../<b>digital_drivers_license</b>/",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:image": "https://share.redd.it/preview/post/1fak9t2",
+      "theme-color": "#000000",
+      "og:image:width": "1200",
+      "og:type": "website",
+      "og:image:alt": "An image containing a preview of the post",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "r/Georgia on Reddit: Digital Driver's License",
+      "og:site_name": "Reddit",
+      "og:title": "r/Georgia on Reddit: Digital Driver's License",
+      "og:image:height": "630",
+      "msapplication-navbutton-color": "#000000",
+      "og:description": "Posted by u/Drew2Read - 5 votes and 18 comments",
+      "twitter:image": "https://share.redd.it/preview/post/1fak9t2",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "twitter:site": "@reddit",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "apple-mobile-web-app-capable": "yes",
+      "og:ttl": "600",
+      "og:url": "https://www.reddit.com/r/Georgia/comments/1fak9t2/digital_drivers_license/?seeker-session=true"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Plant Molecular Diagnostic Lab (MDL)",
+   "htmlTitle": "Plant Molecular Diagnostic Lab (<b>MDL</b>)",
+   "link": "https://site.caes.uga.edu/mdl/",
+   "displayLink": "site.caes.uga.edu",
+   "snippet": "The Plant Molecular Diagnostic Laboratory (MDL), located at the University of Georgia Tifton campus, is a fee-based service lab provided by the Department of\u00a0...",
+   "htmlSnippet": "The Plant Molecular Diagnostic Laboratory (<b>MDL</b>), located at the University of <b>Georgia</b> Tifton campus, is a fee-based service lab provided by the Department of&nbsp;...",
+   "formattedUrl": "https://site.caes.uga.edu/mdl/",
+   "htmlFormattedUrl": "https://site.caes.uga.edu/<b>mdl</b>/",
+   "pagemap": {
+    "metatags": [
+     {
+      "twitter:title": "Plant Molecular Diagnostic Lab (MDL)",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "Plant Molecular Diagnostic Lab (MDL)",
+      "og:url": "https://site.caes.uga.edu/mdl/"
+     }
+    ]
+   }
+  }
+ ]
+}

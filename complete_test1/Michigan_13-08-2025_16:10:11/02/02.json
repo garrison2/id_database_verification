@@ -1,0 +1,536 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://www.michigan.gov/sos \"driver's license\" OR \"identification card\"",
+    "totalResults": "726",
+    "searchTerms": "site:https://www.michigan.gov/sos \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://www.michigan.gov/sos \"driver's license\" OR \"identification card\"",
+    "totalResults": "726",
+    "searchTerms": "site:https://www.michigan.gov/sos \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.129327,
+  "formattedSearchTime": "0.13",
+  "totalResults": "726",
+  "formattedTotalResults": "726"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "License and ID information",
+   "htmlTitle": "License and ID information",
+   "link": "https://www.michigan.gov/sos/license-id/license-and-id",
+   "displayLink": "www.michigan.gov",
+   "snippet": "State ID. Standard photo identification card used to verify identity as a Michigan resident. \u00b7 Driver's license. Standard photo identification card that allows a\u00a0...",
+   "htmlSnippet": "State ID. Standard photo <b>identification card</b> used to verify identity as a Michigan resident. &middot; <b>Driver&#39;s license</b>. Standard photo <b>identification card</b> that allows a&nbsp;...",
+   "formattedUrl": "https://www.michigan.gov/sos/license-id/license-and-id",
+   "htmlFormattedUrl": "https://www.michigan.gov/sos/license-id/license-and-id",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnVLF7JuYdMS0N97N5FeDniRHQZ_ghPXWsKhBS1FUnr2wGG7UPU_KtT68n&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#277c78",
+      "msapplication-config": "/sos/-/media/Project/Websites/shared/Browser-Icon/browserconfig.xml?rev=15a1c884ffca4409bb27fcec7eef109e&hash=369751F3709513B9A31158C415829AF1",
+      "page-breadcrumb": "Michigan Secretary of State|License & ID|License and ID information",
+      "og:image": "https://www.michigan.gov/sos/-/media/Project/Websites/SOM/Images/Global-SOM/Michigangov-OG-Image.png?rev=04d34972184442b1bd24b5efb46cd150&hash=93E0981B47D161E64232A339C5563129",
+      "theme-color": "#ffffff",
+      "site-name": "Michigan Department of State",
+      "twitter:title": "License and ID information",
+      "twitter:card": "summary_large_image",
+      "site-logo": "/sos/-/media/Images/Logos/sos.svg?rev=df41028bd3784c92a9b1633d8f15ecb9&hash=33673105B52071B2DA56ABB49E2852DC",
+      "site-agency": "SOS",
+      "og:title": "License and ID information",
+      "grouped-item-type": "Webpages",
+      "item-type": "Page",
+      "viewport": "width=device-width, initial-scale=1",
+      "page-template": "Page",
+      "site-agency-name": "Department of State - Secretary of State",
+      "site-hierarchy": "Department of State - Secretary of State|Michigan Department of State",
+      "og:url": "https://www.michigan.gov/sos/license-id/license-and-id",
+      "page-hasformcomponent": "false",
+      "site-path": "sos"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.michigan.gov/sos/-/media/Project/Websites/SOM/Images/Global-SOM/Michigangov-OG-Image.png?rev=04d34972184442b1bd24b5efb46cd150&hash=93E0981B47D161E64232A339C5563129"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "License or ID renewal",
+   "htmlTitle": "License or ID renewal",
+   "link": "https://www.michigan.gov/sos/all-services/license-or-id-renewal",
+   "displayLink": "www.michigan.gov",
+   "snippet": "Do I have to apply for a REAL ID-compliant driver's license or identification card when I renew my driver's license or state ID card? No. Michigan will\u00a0...",
+   "htmlSnippet": "Do I have to apply for a REAL ID-compliant <b>driver&#39;s license</b> or <b>identification card</b> when I renew my <b>driver&#39;s license</b> or state ID card? No. Michigan will&nbsp;...",
+   "formattedUrl": "https://www.michigan.gov/sos/all-services/license-or-id-renewal",
+   "htmlFormattedUrl": "https://www.michigan.gov/sos/all-services/license-or-id-renewal",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnVLF7JuYdMS0N97N5FeDniRHQZ_ghPXWsKhBS1FUnr2wGG7UPU_KtT68n&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#277c78",
+      "msapplication-config": "/sos/-/media/Project/Websites/shared/Browser-Icon/browserconfig.xml?rev=15a1c884ffca4409bb27fcec7eef109e&hash=369751F3709513B9A31158C415829AF1",
+      "page-breadcrumb": "Michigan Secretary of State|License or ID renewal",
+      "og:image": "https://www.michigan.gov/sos/-/media/Project/Websites/SOM/Images/Global-SOM/Michigangov-OG-Image.png?rev=04d34972184442b1bd24b5efb46cd150&hash=93E0981B47D161E64232A339C5563129",
+      "theme-color": "#ffffff",
+      "site-name": "Michigan Department of State",
+      "twitter:title": "License or ID renewal",
+      "twitter:card": "summary_large_image",
+      "site-logo": "/sos/-/media/Images/Logos/sos.svg?rev=df41028bd3784c92a9b1633d8f15ecb9&hash=33673105B52071B2DA56ABB49E2852DC",
+      "site-agency": "SOS",
+      "og:title": "License or ID renewal",
+      "grouped-item-type": "Webpages",
+      "item-type": "Page",
+      "viewport": "width=device-width, initial-scale=1",
+      "page-template": "Page",
+      "site-agency-name": "Department of State - Secretary of State",
+      "site-hierarchy": "Department of State - Secretary of State|Michigan Department of State",
+      "og:url": "https://www.michigan.gov/sos/all-services/license-or-id-renewal",
+      "page-hasformcomponent": "false",
+      "site-path": "sos"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.michigan.gov/sos/-/media/Project/Websites/SOM/Images/Global-SOM/Michigangov-OG-Image.png?rev=04d34972184442b1bd24b5efb46cd150&hash=93E0981B47D161E64232A339C5563129"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Out of State Resident Drivers License or Reinstatement Form",
+   "htmlTitle": "Out of State Resident Drivers License or Reinstatement Form",
+   "link": "https://www.michigan.gov/sos/-/media/Project/Websites/sos/28lawensn/BDVR162__0903.pdf",
+   "displayLink": "www.michigan.gov",
+   "snippet": "Duplicate driver's license or state ID: A temporary operator permit may be printed up to 60 days after your request is processed by visiting.",
+   "htmlSnippet": "Duplicate <b>driver&#39;s license</b> or state ID: A temporary operator permit may be printed up to 60 days after your request is processed by visiting.",
+   "formattedUrl": "https://www.michigan.gov/sos/-/media/Project/.../BDVR162__0903.pdf",
+   "htmlFormattedUrl": "https://www.michigan.gov/sos/-/media/Project/.../BDVR162__0903.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Yd_agXJnHSi-8eVFAJLglDR86woMT88JEPDx-zGA7ySnRGplQRpYCyM&s",
+      "width": "359",
+      "height": "122"
+     }
+    ],
+    "metatags": [
+     {
+      "creationdate": "D:20250718112140-04'00'",
+      "creator": "Acrobat PDFMaker 25 for Word",
+      "msip_label_3a2fed65_62e7_46ea_af74_187e0c17143a_enabled": "true",
+      "msip_label_3a2fed65_62e7_46ea_af74_187e0c17143a_contentbits": "0",
+      "author": "Michigan Department of State",
+      "msip_label_3a2fed65_62e7_46ea_af74_187e0c17143a_name": "3a2fed65-62e7-46ea-af74-187e0c17143a",
+      "msip_label_3a2fed65_62e7_46ea_af74_187e0c17143a_siteid": "d5fb7087-3777-42ad-966a-892ef47225d1",
+      "msip_label_3a2fed65_62e7_46ea_af74_187e0c17143a_setdate": "2025-04-24T18:10:55Z",
+      "title": "Out of State Resident Drivers License or Reinstatement Form",
+      "msip_label_3a2fed65_62e7_46ea_af74_187e0c17143a_actionid": "03db0080-851e-42a8-b99d-def46a232618",
+      "moddate": "D:20250723155632-04'00'",
+      "producer": "Adobe PDF Library 25.1.51",
+      "msip_label_3a2fed65_62e7_46ea_af74_187e0c17143a_tag": "10, 0, 1, 1",
+      "msip_label_3a2fed65_62e7_46ea_af74_187e0c17143a_method": "Privileged"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///adc73738984a59e838653796e5a159824769b3915b190c3f986641c822cc0cff"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Address change",
+   "htmlTitle": "Address change",
+   "link": "https://www.michigan.gov/sos/all-services/change-of-address",
+   "displayLink": "www.michigan.gov",
+   "snippet": "If the post office doesn't have your correct address in its systems, you may not receive you driver's license/ID, vehicle tabs, or renewal notices in the mail.",
+   "htmlSnippet": "If the post office doesn&#39;t have your correct address in its systems, you may not receive you <b>driver&#39;s license</b>/ID, vehicle tabs, or renewal notices in the mail.",
+   "formattedUrl": "https://www.michigan.gov/sos/all-services/change-of-address",
+   "htmlFormattedUrl": "https://www.michigan.gov/sos/all-services/change-of-address",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnVLF7JuYdMS0N97N5FeDniRHQZ_ghPXWsKhBS1FUnr2wGG7UPU_KtT68n&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#277c78",
+      "msapplication-config": "/sos/-/media/Project/Websites/shared/Browser-Icon/browserconfig.xml?rev=15a1c884ffca4409bb27fcec7eef109e&hash=369751F3709513B9A31158C415829AF1",
+      "page-breadcrumb": "Michigan Secretary of State|Change address",
+      "og:image": "https://www.michigan.gov/sos/-/media/Project/Websites/SOM/Images/Global-SOM/Michigangov-OG-Image.png?rev=04d34972184442b1bd24b5efb46cd150&hash=93E0981B47D161E64232A339C5563129",
+      "theme-color": "#ffffff",
+      "site-name": "Michigan Department of State",
+      "twitter:title": "Address change",
+      "twitter:card": "summary_large_image",
+      "site-logo": "/sos/-/media/Images/Logos/sos.svg?rev=df41028bd3784c92a9b1633d8f15ecb9&hash=33673105B52071B2DA56ABB49E2852DC",
+      "site-agency": "SOS",
+      "og:title": "Address change",
+      "grouped-item-type": "Webpages",
+      "item-type": "Page",
+      "viewport": "width=device-width, initial-scale=1",
+      "page-template": "Page",
+      "site-agency-name": "Department of State - Secretary of State",
+      "site-hierarchy": "Department of State - Secretary of State|Michigan Department of State",
+      "og:url": "https://www.michigan.gov/sos/all-services/change-of-address",
+      "page-hasformcomponent": "false",
+      "site-path": "sos"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.michigan.gov/sos/-/media/Project/Websites/SOM/Images/Global-SOM/Michigangov-OG-Image.png?rev=04d34972184442b1bd24b5efb46cd150&hash=93E0981B47D161E64232A339C5563129"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Enhanced license and ID",
+   "htmlTitle": "Enhanced license and ID",
+   "link": "https://www.michigan.gov/sos/all-services/enhanced-license-and-id",
+   "displayLink": "www.michigan.gov",
+   "snippet": "Frequently asked questions (FAQs) \u00b7 What are the fees associated with an enhanced driver's license or state ID card? \u00b7 How do I renew my enhanced license or ID?",
+   "htmlSnippet": "Frequently asked questions (FAQs) &middot; What are the fees associated with an enhanced <b>driver&#39;s license</b> or state ID card? &middot; How do I renew my enhanced license or ID?",
+   "formattedUrl": "https://www.michigan.gov/sos/all-services/enhanced-license-and-id",
+   "htmlFormattedUrl": "https://www.michigan.gov/sos/all-services/enhanced-license-and-id",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnVLF7JuYdMS0N97N5FeDniRHQZ_ghPXWsKhBS1FUnr2wGG7UPU_KtT68n&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#277c78",
+      "msapplication-config": "/sos/-/media/Project/Websites/shared/Browser-Icon/browserconfig.xml?rev=15a1c884ffca4409bb27fcec7eef109e&hash=369751F3709513B9A31158C415829AF1",
+      "page-breadcrumb": "Michigan Secretary of State|Enhanced license and ID",
+      "og:image": "https://www.michigan.gov/sos/-/media/Project/Websites/SOM/Images/Global-SOM/Michigangov-OG-Image.png?rev=04d34972184442b1bd24b5efb46cd150&hash=93E0981B47D161E64232A339C5563129",
+      "theme-color": "#ffffff",
+      "site-name": "Michigan Department of State",
+      "twitter:title": "Enhanced license and ID",
+      "twitter:card": "summary_large_image",
+      "site-logo": "/sos/-/media/Images/Logos/sos.svg?rev=df41028bd3784c92a9b1633d8f15ecb9&hash=33673105B52071B2DA56ABB49E2852DC",
+      "site-agency": "SOS",
+      "og:title": "Enhanced license and ID",
+      "grouped-item-type": "Webpages",
+      "item-type": "Page",
+      "viewport": "width=device-width, initial-scale=1",
+      "page-template": "Page",
+      "site-agency-name": "Department of State - Secretary of State",
+      "site-hierarchy": "Department of State - Secretary of State|Michigan Department of State",
+      "og:url": "https://www.michigan.gov/sos/all-services/enhanced-license-and-id",
+      "page-hasformcomponent": "false",
+      "site-path": "sos"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.michigan.gov/sos/-/media/Project/Websites/SOM/Images/Global-SOM/Michigangov-OG-Image.png?rev=04d34972184442b1bd24b5efb46cd150&hash=93E0981B47D161E64232A339C5563129"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "License, ID or permit replacement",
+   "htmlTitle": "License, ID or permit replacement",
+   "link": "https://www.michigan.gov/sos/all-services/license-id-or-permit-replacement",
+   "displayLink": "www.michigan.gov",
+   "snippet": "If your state identification card, driver's license or permit has been stolen, you should report it to your local law enforcement agency. Then you should go to\u00a0...",
+   "htmlSnippet": "If your state <b>identification card</b>, <b>driver&#39;s license</b> or permit has been stolen, you should report it to your local law enforcement agency. Then you should go to&nbsp;...",
+   "formattedUrl": "https://www.michigan.gov/sos/all-services/license-id-or-permit-replacement",
+   "htmlFormattedUrl": "https://www.michigan.gov/sos/all-services/license-id-or-permit-replacement",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnVLF7JuYdMS0N97N5FeDniRHQZ_ghPXWsKhBS1FUnr2wGG7UPU_KtT68n&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#277c78",
+      "msapplication-config": "/sos/-/media/Project/Websites/shared/Browser-Icon/browserconfig.xml?rev=15a1c884ffca4409bb27fcec7eef109e&hash=369751F3709513B9A31158C415829AF1",
+      "page-breadcrumb": "Michigan Secretary of State|License, ID or permit replacement",
+      "og:image": "https://www.michigan.gov/sos/-/media/Project/Websites/SOM/Images/Global-SOM/Michigangov-OG-Image.png?rev=04d34972184442b1bd24b5efb46cd150&hash=93E0981B47D161E64232A339C5563129",
+      "theme-color": "#ffffff",
+      "site-name": "Michigan Department of State",
+      "twitter:title": "License, ID or permit replacement",
+      "twitter:card": "summary_large_image",
+      "site-logo": "/sos/-/media/Images/Logos/sos.svg?rev=df41028bd3784c92a9b1633d8f15ecb9&hash=33673105B52071B2DA56ABB49E2852DC",
+      "site-agency": "SOS",
+      "og:title": "License, ID or permit replacement",
+      "grouped-item-type": "Webpages",
+      "item-type": "Page",
+      "viewport": "width=device-width, initial-scale=1",
+      "page-template": "Page",
+      "site-agency-name": "Department of State - Secretary of State",
+      "site-hierarchy": "Department of State - Secretary of State|Michigan Department of State",
+      "og:url": "https://www.michigan.gov/sos/all-services/license-id-or-permit-replacement",
+      "page-hasformcomponent": "false",
+      "site-path": "sos"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.michigan.gov/sos/-/media/Project/Websites/SOM/Images/Global-SOM/Michigangov-OG-Image.png?rev=04d34972184442b1bd24b5efb46cd150&hash=93E0981B47D161E64232A339C5563129"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "First-time license or ID",
+   "htmlTitle": "First-time license or ID",
+   "link": "https://www.michigan.gov/sos/all-services/first-time-license-or-id",
+   "displayLink": "www.michigan.gov",
+   "snippet": "New 2024 Michigan driver's license. Michigan driver's licenses and IDs ... When applying for a driver's license or ID, can I provide a photocopy of my\u00a0...",
+   "htmlSnippet": "New 2024 Michigan <b>driver&#39;s license</b>. Michigan driver&#39;s licenses and IDs ... When applying for a <b>driver&#39;s license</b> or ID, can I provide a photocopy of my&nbsp;...",
+   "formattedUrl": "https://www.michigan.gov/sos/all-services/first-time-license-or-id",
+   "htmlFormattedUrl": "https://www.michigan.gov/sos/all-services/first-time-license-or-id",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnVLF7JuYdMS0N97N5FeDniRHQZ_ghPXWsKhBS1FUnr2wGG7UPU_KtT68n&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#277c78",
+      "msapplication-config": "/sos/-/media/Project/Websites/shared/Browser-Icon/browserconfig.xml?rev=15a1c884ffca4409bb27fcec7eef109e&hash=369751F3709513B9A31158C415829AF1",
+      "page-breadcrumb": "Michigan Secretary of State|First-time license or ID",
+      "og:image": "https://www.michigan.gov/sos/-/media/Project/Websites/SOM/Images/Global-SOM/Michigangov-OG-Image.png?rev=04d34972184442b1bd24b5efb46cd150&hash=93E0981B47D161E64232A339C5563129",
+      "theme-color": "#ffffff",
+      "site-name": "Michigan Department of State",
+      "twitter:title": "First-time license or ID",
+      "twitter:card": "summary_large_image",
+      "site-logo": "/sos/-/media/Images/Logos/sos.svg?rev=df41028bd3784c92a9b1633d8f15ecb9&hash=33673105B52071B2DA56ABB49E2852DC",
+      "sxa-tags": "Vehicle Renewal|By mail|Online",
+      "site-agency": "SOS",
+      "og:title": "First-time license or ID",
+      "grouped-item-type": "Webpages",
+      "item-type": "Page",
+      "viewport": "width=device-width, initial-scale=1",
+      "page-template": "Page",
+      "site-agency-name": "Department of State - Secretary of State",
+      "site-hierarchy": "Department of State - Secretary of State|Michigan Department of State",
+      "og:url": "https://www.michigan.gov/sos/all-services/first-time-license-or-id",
+      "page-hasformcomponent": "false",
+      "site-path": "sos"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.michigan.gov/sos/-/media/Project/Websites/SOM/Images/Global-SOM/Michigangov-OG-Image.png?rev=04d34972184442b1bd24b5efb46cd150&hash=93E0981B47D161E64232A339C5563129"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Renewing your Commercial Driver's License (CDL)",
+   "htmlTitle": "Renewing your Commercial <b>Driver&#39;s License</b> (CDL)",
+   "link": "https://www.michigan.gov/sos/all-services/commercial-drivers-license",
+   "displayLink": "www.michigan.gov",
+   "snippet": "Renewing your Commercial Driver's License (CDL) \u00b7 How can I apply for or renew my CDL endorsement(s)? \u00b7 What do I need to add a CDL endorsement to my license? (\u00a0...",
+   "htmlSnippet": "Renewing your Commercial <b>Driver&#39;s License</b> (CDL) &middot; How can I apply for or renew my CDL endorsement(s)? &middot; What do I need to add a CDL endorsement to my license? (&nbsp;...",
+   "formattedUrl": "https://www.michigan.gov/sos/all-services/commercial-drivers-license",
+   "htmlFormattedUrl": "https://www.michigan.gov/sos/all-services/commercial-<b>drivers-license</b>",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnVLF7JuYdMS0N97N5FeDniRHQZ_ghPXWsKhBS1FUnr2wGG7UPU_KtT68n&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#277c78",
+      "msapplication-config": "/sos/-/media/Project/Websites/shared/Browser-Icon/browserconfig.xml?rev=15a1c884ffca4409bb27fcec7eef109e&hash=369751F3709513B9A31158C415829AF1",
+      "page-breadcrumb": "Michigan Secretary of State|CDL - Renewing",
+      "og:image": "https://www.michigan.gov/sos/-/media/Project/Websites/SOM/Images/Global-SOM/Michigangov-OG-Image.png?rev=04d34972184442b1bd24b5efb46cd150&hash=93E0981B47D161E64232A339C5563129",
+      "theme-color": "#ffffff",
+      "site-name": "Michigan Department of State",
+      "twitter:title": "Renewing your Commercial Driver's License (CDL)",
+      "twitter:card": "summary_large_image",
+      "site-logo": "/sos/-/media/Images/Logos/sos.svg?rev=df41028bd3784c92a9b1633d8f15ecb9&hash=33673105B52071B2DA56ABB49E2852DC",
+      "site-agency": "SOS",
+      "og:title": "Renewing your Commercial Driver's License (CDL)",
+      "grouped-item-type": "Webpages",
+      "item-type": "Page",
+      "viewport": "width=device-width, initial-scale=1",
+      "page-template": "Page",
+      "site-agency-name": "Department of State - Secretary of State",
+      "site-hierarchy": "Department of State - Secretary of State|Michigan Department of State",
+      "og:url": "https://www.michigan.gov/sos/all-services/commercial-drivers-license",
+      "page-hasformcomponent": "false",
+      "site-path": "sos"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.michigan.gov/sos/-/media/Project/Websites/SOM/Images/Global-SOM/Michigangov-OG-Image.png?rev=04d34972184442b1bd24b5efb46cd150&hash=93E0981B47D161E64232A339C5563129"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "REAL ID",
+   "htmlTitle": "REAL ID",
+   "link": "https://www.michigan.gov/sos/license-id/real-id",
+   "displayLink": "www.michigan.gov",
+   "snippet": "To convert to a REAL ID driver's license or state ID, visit a Secretary of State office and provide the following documents: Your current Michigan driver's\u00a0...",
+   "htmlSnippet": "To convert to a REAL ID <b>driver&#39;s license</b> or state ID, visit a Secretary of State office and provide the following documents: Your current Michigan <b>driver&#39;s</b>&nbsp;...",
+   "formattedUrl": "https://www.michigan.gov/sos/license-id/real-id",
+   "htmlFormattedUrl": "https://www.michigan.gov/sos/license-id/real-id",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnVLF7JuYdMS0N97N5FeDniRHQZ_ghPXWsKhBS1FUnr2wGG7UPU_KtT68n&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#277c78",
+      "msapplication-config": "/sos/-/media/Project/Websites/shared/Browser-Icon/browserconfig.xml?rev=15a1c884ffca4409bb27fcec7eef109e&hash=369751F3709513B9A31158C415829AF1",
+      "page-breadcrumb": "Michigan Secretary of State|License & ID|REAL ID",
+      "og:image": "https://www.michigan.gov/sos/-/media/Project/Websites/SOM/Images/Global-SOM/Michigangov-OG-Image.png?rev=04d34972184442b1bd24b5efb46cd150&hash=93E0981B47D161E64232A339C5563129",
+      "theme-color": "#ffffff",
+      "site-name": "Michigan Department of State",
+      "twitter:title": "REAL ID",
+      "twitter:card": "summary_large_image",
+      "site-logo": "/sos/-/media/Images/Logos/sos.svg?rev=df41028bd3784c92a9b1633d8f15ecb9&hash=33673105B52071B2DA56ABB49E2852DC",
+      "sxa-tags": "Secretary of State",
+      "site-agency": "SOS",
+      "og:title": "REAL ID",
+      "grouped-item-type": "Webpages",
+      "item-type": "Page",
+      "viewport": "width=device-width, initial-scale=1",
+      "page-template": "Page",
+      "site-agency-name": "Department of State - Secretary of State",
+      "site-hierarchy": "Department of State - Secretary of State|Michigan Department of State",
+      "og:url": "https://www.michigan.gov/sos/license-id/real-id",
+      "page-hasformcomponent": "false",
+      "site-path": "sos",
+      "page-image": "/sos/-/media/Project/Websites/sos/License-and-ID/REAL-ID/REALID_Hero.jpg?rev=b8bb64e61c3744369e5e2f9ada4a6657&hash=48E746423BD80AEDA66002C401C4E871"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.michigan.gov/sos/-/media/Project/Websites/SOM/Images/Global-SOM/Michigangov-OG-Image.png?rev=04d34972184442b1bd24b5efb46cd150&hash=93E0981B47D161E64232A339C5563129"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "License or ID name correction",
+   "htmlTitle": "License or ID name correction",
+   "link": "https://www.michigan.gov/sos/all-services/license-or-id-name-correction",
+   "displayLink": "www.michigan.gov",
+   "snippet": "What do I need to change my name on my driver's license or ID? (Choose tab) \u00b7 To correct your name at a Secretary of State office, you will need to provide: \u00b7 You\u00a0...",
+   "htmlSnippet": "What do I need to change my name on my <b>driver&#39;s license</b> or ID? (Choose tab) &middot; To correct your name at a Secretary of State office, you will need to provide: &middot; You&nbsp;...",
+   "formattedUrl": "https://www.michigan.gov/sos/all-services/license-or-id-name-correction",
+   "htmlFormattedUrl": "https://www.michigan.gov/sos/all-services/license-or-id-name-correction",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnVLF7JuYdMS0N97N5FeDniRHQZ_ghPXWsKhBS1FUnr2wGG7UPU_KtT68n&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#277c78",
+      "msapplication-config": "/sos/-/media/Project/Websites/shared/Browser-Icon/browserconfig.xml?rev=15a1c884ffca4409bb27fcec7eef109e&hash=369751F3709513B9A31158C415829AF1",
+      "page-breadcrumb": "Michigan Secretary of State|License or ID name correction",
+      "og:image": "https://www.michigan.gov/sos/-/media/Project/Websites/SOM/Images/Global-SOM/Michigangov-OG-Image.png?rev=04d34972184442b1bd24b5efb46cd150&hash=93E0981B47D161E64232A339C5563129",
+      "theme-color": "#ffffff",
+      "site-name": "Michigan Department of State",
+      "twitter:title": "License or ID name correction",
+      "twitter:card": "summary_large_image",
+      "site-logo": "/sos/-/media/Images/Logos/sos.svg?rev=df41028bd3784c92a9b1633d8f15ecb9&hash=33673105B52071B2DA56ABB49E2852DC",
+      "sxa-tags": "Vehicle Renewal|By mail|Online",
+      "site-agency": "SOS",
+      "og:title": "License or ID name correction",
+      "grouped-item-type": "Webpages",
+      "item-type": "Page",
+      "viewport": "width=device-width, initial-scale=1",
+      "page-template": "Page",
+      "site-agency-name": "Department of State - Secretary of State",
+      "site-hierarchy": "Department of State - Secretary of State|Michigan Department of State",
+      "og:url": "https://www.michigan.gov/sos/all-services/license-or-id-name-correction",
+      "page-hasformcomponent": "false",
+      "site-path": "sos"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.michigan.gov/sos/-/media/Project/Websites/SOM/Images/Global-SOM/Michigangov-OG-Image.png?rev=04d34972184442b1bd24b5efb46cd150&hash=93E0981B47D161E64232A339C5563129"
+     }
+    ]
+   }
+  }
+ ]
+}

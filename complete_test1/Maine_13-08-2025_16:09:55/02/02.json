@@ -1,0 +1,246 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://www.maine.gov/sos/bmv \"driver's license\" OR \"identification card\"",
+    "totalResults": "169",
+    "searchTerms": "site:https://www.maine.gov/sos/bmv \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://www.maine.gov/sos/bmv \"driver's license\" OR \"identification card\"",
+    "totalResults": "169",
+    "searchTerms": "site:https://www.maine.gov/sos/bmv \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.100099,
+  "formattedSearchTime": "0.10",
+  "totalResults": "169",
+  "formattedTotalResults": "169"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Driver Licenses and IDs | SOS",
+   "htmlTitle": "Driver Licenses and IDs | SOS",
+   "link": "https://www.maine.gov/sos/bmv/driver-licenses-and-ids",
+   "displayLink": "www.maine.gov",
+   "snippet": "Obtaining a Driver's License \u00b7 Obtaining a Replacement Social Security Card \u00b7 Obtaining a Veteran Designation \u00b7 Obtaining an Identification Card \u00b7 Providing\u00a0...",
+   "htmlSnippet": "Obtaining a <b>Driver&#39;s License</b> &middot; Obtaining a Replacement Social Security Card &middot; Obtaining a Veteran Designation &middot; Obtaining an <b>Identification Card</b> &middot; Providing&nbsp;...",
+   "formattedUrl": "https://www.maine.gov/sos/bmv/driver-licenses-and-ids",
+   "htmlFormattedUrl": "https://www.maine.gov/sos/bmv/driver-licenses-and-ids",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ID: Obtaining an Identification Card | SOS",
+   "htmlTitle": "ID: Obtaining an <b>Identification Card</b> | SOS",
+   "link": "https://www.maine.gov/sos/bmv/driver-licenses-and-ids/id",
+   "displayLink": "www.maine.gov",
+   "snippet": "Renewal of your identification card follows the same process as driver's license renewal, and is available through the online service or in-person at the BMV.",
+   "htmlSnippet": "Renewal of your <b>identification card</b> follows the same process as <b>driver&#39;s license</b> renewal, and is available through the online service or in-person at the BMV.",
+   "formattedUrl": "https://www.maine.gov/sos/bmv/driver-licenses-and-ids/id",
+   "htmlFormattedUrl": "https://www.maine.gov/sos/bmv/driver-licenses-and-ids/id",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Real ID | SOS",
+   "htmlTitle": "Real ID | SOS",
+   "link": "https://www.maine.gov/sos/bmv/driver-licenses-and-ids/real-id",
+   "displayLink": "www.maine.gov",
+   "snippet": "What is the difference between a REAL ID compliant and a non-compliant driver's license or identification card?",
+   "htmlSnippet": "What is the difference between a REAL ID compliant and a non-compliant <b>driver&#39;s license</b> or <b>identification card</b>?",
+   "formattedUrl": "https://www.maine.gov/sos/bmv/driver-licenses-and-ids/real-id",
+   "htmlFormattedUrl": "https://www.maine.gov/sos/bmv/driver-licenses-and-ids/real-id",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BMV Forms and Applications",
+   "htmlTitle": "BMV Forms and Applications",
+   "link": "https://www.maine.gov/sos/bmv/bmv-forms-and-applications",
+   "displayLink": "www.maine.gov",
+   "snippet": "Request for a Duplicate Driver's License, Identification Card, or Learner's Permit (PDF) \u00b7 Special Restricted Driver's License Application for 15-year-olds (PDF)\u00a0...",
+   "htmlSnippet": "Request for a Duplicate <b>Driver&#39;s License</b>, <b>Identification Card</b>, or Learner&#39;s Permit (PDF) &middot; Special Restricted <b>Driver&#39;s License</b> Application for 15-year-olds (PDF)&nbsp;...",
+   "formattedUrl": "https://www.maine.gov/sos/bmv/bmv-forms-and-applications",
+   "htmlFormattedUrl": "https://www.maine.gov/sos/bmv/bmv-forms-and-applications",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Bureau of Motor Vehicles | SOS",
+   "htmlTitle": "Bureau of Motor Vehicles | SOS",
+   "link": "https://www.maine.gov/sos/bmv",
+   "displayLink": "www.maine.gov",
+   "snippet": "I Need a Replacement (Duplicate) License/Identification Card \u00b7 I ... Using online services, for example, Maine motorists may renew their driver's license\u00a0...",
+   "htmlSnippet": "I Need a Replacement (Duplicate) License/<b>Identification Card</b> &middot; I ... Using online services, for example, Maine motorists may renew their <b>driver&#39;s license</b>&nbsp;...",
+   "formattedUrl": "https://www.maine.gov/sos/bmv",
+   "htmlFormattedUrl": "https://www.maine.gov/sos/bmv",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cancelling Your Driver's License | SOS",
+   "htmlTitle": "Cancelling Your <b>Driver&#39;s License</b> | SOS",
+   "link": "https://www.maine.gov/sos/bmv/driver-licenses-and-ids/medical-restriction/cancelling-your-drivers-license",
+   "displayLink": "www.maine.gov",
+   "snippet": "To cancel your driver's license you must submit a Cancellation Request Form (PDF) ... You may purchase a State of Maine Identification Card that can be used for\u00a0...",
+   "htmlSnippet": "To cancel your <b>driver&#39;s license</b> you must submit a Cancellation Request Form (PDF) ... You may purchase a State of Maine <b>Identification Card</b> that can be used for&nbsp;...",
+   "formattedUrl": "https://www.maine.gov/sos/bmv/driver.../cancelling-your-drivers-license",
+   "htmlFormattedUrl": "https://www.maine.gov/sos/bmv/driver.../cancelling-your-<b>drivers-license</b>",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver License Manual and Maine Motorist Handbook and Study ...",
+   "htmlTitle": "Driver License Manual and Maine Motorist Handbook and Study ...",
+   "link": "https://www.maine.gov/sos/bmv/driver-licenses-and-ids/car-license/driver-license-manual-and-Maine-motorist-handbook-and-study-guide",
+   "displayLink": "www.maine.gov",
+   "snippet": "... Driver's License Manual (PDF) ... I Need a Replacement (Duplicate) License/Identification Card \u00b7 I Need to Renew My\u00a0...",
+   "htmlSnippet": "... <b>Driver&#39;s License</b> Manual (PDF) ... I Need a Replacement (Duplicate) License/<b>Identification Card</b> &middot; I Need to Renew My&nbsp;...",
+   "formattedUrl": "https://www.maine.gov/.../driver-license-manual-and-Maine-motorist-hand...",
+   "htmlFormattedUrl": "https://www.maine.gov/.../driver-license-manual-and-Maine-motorist-hand...",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "I Want to Get a Veteran Designation | SOS",
+   "htmlTitle": "I Want to Get a Veteran Designation | SOS",
+   "link": "https://www.maine.gov/sos/bmv/driver-licenses-and-ids/update-my-current-license/get-a-veteran-designation",
+   "displayLink": "www.maine.gov",
+   "snippet": "Maine Driver's License Manual \u00b7 How to Obtain a License \u00b7 License ... I Need a Replacement (Duplicate) License/Identification Card \u00b7 I Need to Renew\u00a0...",
+   "htmlSnippet": "Maine <b>Driver&#39;s License</b> Manual &middot; How to Obtain a License &middot; License ... I Need a Replacement (Duplicate) License/<b>Identification Card</b> &middot; I Need to Renew&nbsp;...",
+   "formattedUrl": "https://www.maine.gov/sos/bmv/driver...and.../get-a-veteran-designation",
+   "htmlFormattedUrl": "https://www.maine.gov/sos/bmv/driver...and.../get-a-veteran-designation",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "How to Obtain a License | SOS",
+   "htmlTitle": "How to Obtain a License | SOS",
+   "link": "https://www.maine.gov/sos/bmv/driver-licenses-and-ids/car-license/how-to-obtain-a-license",
+   "displayLink": "www.maine.gov",
+   "snippet": "I Need a Replacement (Duplicate) License/Identification Card \u00b7 I Need to ... Maine Driver's License Manual \u00b7 How to Obtain a License \u00b7 License Endorsement\u00a0...",
+   "htmlSnippet": "I Need a Replacement (Duplicate) License/<b>Identification Card</b> &middot; I Need to ... Maine <b>Driver&#39;s License</b> Manual &middot; How to Obtain a License &middot; License Endorsement&nbsp;...",
+   "formattedUrl": "https://www.maine.gov/sos/bmv/driver-licenses.../how-to-obtain-a-license",
+   "htmlFormattedUrl": "https://www.maine.gov/sos/bmv/driver-licenses.../how-to-obtain-a-license",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "I Need a Replacement (Duplicate) License/Identification Card | SOS",
+   "htmlTitle": "I Need a Replacement (Duplicate) License/<b>Identification Card</b> | SOS",
+   "link": "https://www.maine.gov/sos/bmv/driver-licenses-and-ids/update-my-current-license/replacement-duplicate-license-identification-card",
+   "displayLink": "www.maine.gov",
+   "snippet": "There are three ways you can obtain a duplicate driver's license or identification card. ... This is available to many Maine licensed drivers with an active\u00a0...",
+   "htmlSnippet": "There are three ways you can obtain a duplicate <b>driver&#39;s license</b> or <b>identification card</b>. ... This is available to many Maine licensed drivers with an active&nbsp;...",
+   "formattedUrl": "https://www.maine.gov/.../replacement-duplicate-license-identification-card",
+   "htmlFormattedUrl": "https://www.maine.gov/.../replacement-duplicate-license-<b>identification-card</b>",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,274 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://dol.wa.gov/ \"REAL ID\"",
+    "totalResults": "1360",
+    "searchTerms": "site:https://dol.wa.gov/ \"REAL ID\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://dol.wa.gov/ \"REAL ID\"",
+    "totalResults": "1360",
+    "searchTerms": "site:https://dol.wa.gov/ \"REAL ID\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.132121,
+  "formattedSearchTime": "0.13",
+  "totalResults": "1360",
+  "formattedTotalResults": "1,360"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "REAL ID | Washington State Department of Licensing",
+   "htmlTitle": "<b>REAL ID</b> | Washington State Department of Licensing",
+   "link": "https://dol.wa.gov/id-cards/real-id",
+   "displayLink": "dol.wa.gov",
+   "snippet": "The REAL ID Act establishes minimum security standards for state-issued driver licenses and ID cards. Starting May 7, 2025, anyone traveling by airplane or\u00a0...",
+   "htmlSnippet": "The <b>REAL ID</b> Act establishes minimum security standards for state-issued driver licenses and ID cards. Starting May 7, 2025, anyone traveling by airplane or&nbsp;...",
+   "formattedUrl": "https://dol.wa.gov/id-cards/real-id",
+   "htmlFormattedUrl": "https://dol.wa.gov/id-cards/<b>real-id</b>",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Enhanced driver license (EDL) | Washington State Department of ...",
+   "htmlTitle": "Enhanced driver license (EDL) | Washington State Department of ...",
+   "link": "https://dol.wa.gov/driver-licenses-and-permits/enhanced-driver-license-edl",
+   "displayLink": "dol.wa.gov",
+   "snippet": "New scam messages request payment, provide REAL ID misinformation. Separate scam text messages ask for money and information. Learn about current scams\u00a0...",
+   "htmlSnippet": "New scam messages request payment, provide <b>REAL ID</b> misinformation. Separate scam text messages ask for money and information. Learn about current scams&nbsp;...",
+   "formattedUrl": "https://dol.wa.gov/driver-licenses-and-permits/enhanced-driver-license-edl",
+   "htmlFormattedUrl": "https://dol.wa.gov/driver-licenses-and-permits/enhanced-driver-license-edl",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Washington State Department of Licensing: Home",
+   "htmlTitle": "Washington State Department of Licensing: Home",
+   "link": "https://dol.wa.gov/",
+   "displayLink": "dol.wa.gov",
+   "snippet": "Did you know you can renew your vehicle tabs and driver license, schedule an appointment, and more online? Get it done online. REAL ID. New ID requirements for\u00a0...",
+   "htmlSnippet": "Did you know you can renew your vehicle tabs and driver license, schedule an appointment, and more online? Get it done online. <b>REAL ID</b>. New ID requirements for&nbsp;...",
+   "formattedUrl": "https://dol.wa.gov/",
+   "htmlFormattedUrl": "https://dol.wa.gov/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAX1IlR0SXrwe8pkQ897UyReNqO7eRvEubw4o2tTAGlLVdvzeXkk8yJw&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dol.wa.gov/sites/default/files/styles/max_650x650/public/2022-10/homepage-renew-tabs%5B1%5D.png?itok=WLk1OhZb"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver licensing fees | Washington State Department of Licensing",
+   "htmlTitle": "Driver licensing fees | Washington State Department of Licensing",
+   "link": "https://dol.wa.gov/driver-licenses-and-permits/driver-licensing-fees",
+   "displayLink": "dol.wa.gov",
+   "snippet": "New scam messages request payment, provide REAL ID misinformation. Separate scam text messages ask for money and information. Learn about current scams\u00a0...",
+   "htmlSnippet": "New scam messages request payment, provide <b>REAL ID</b> misinformation. Separate scam text messages ask for money and information. Learn about current scams&nbsp;...",
+   "formattedUrl": "https://dol.wa.gov/driver-licenses-and-permits/driver-licensing-fees",
+   "htmlFormattedUrl": "https://dol.wa.gov/driver-licenses-and-permits/driver-licensing-fees",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Appointments and locations | Washington State Department of ...",
+   "htmlTitle": "Appointments and locations | Washington State Department of ...",
+   "link": "https://dol.wa.gov/appointments-and-locations",
+   "displayLink": "dol.wa.gov",
+   "snippet": "New scam messages request payment, provide REAL ID misinformation. Separate scam text messages ask for money and information. Learn about current scams\u00a0...",
+   "htmlSnippet": "New scam messages request payment, provide <b>REAL ID</b> misinformation. Separate scam text messages ask for money and information. Learn about current scams&nbsp;...",
+   "formattedUrl": "https://dol.wa.gov/appointments-and-locations",
+   "htmlFormattedUrl": "https://dol.wa.gov/appointments-and-locations",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Get an enhanced driver license (EDL) | Washington State ...",
+   "htmlTitle": "Get an enhanced driver license (EDL) | Washington State ...",
+   "link": "https://dol.wa.gov/driver-licenses-and-permits/enhanced-driver-license-edl/get-enhanced-driver-license-edl",
+   "displayLink": "dol.wa.gov",
+   "snippet": "Your EDL also serves as your driver license and is an acceptable REAL ID document to use for air travel within the United States. Need more help? Here's\u00a0...",
+   "htmlSnippet": "Your EDL also serves as your driver license and is an acceptable <b>REAL ID</b>   document to use for air travel within the United States. Need more help? Here&#39;s&nbsp;...",
+   "formattedUrl": "https://dol.wa.gov/driver-licenses-and.../get-enhanced-driver-license-edl",
+   "htmlFormattedUrl": "https://dol.wa.gov/driver-licenses-and.../get-enhanced-driver-license-edl",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DOL REAL ID FAQ",
+   "htmlTitle": "DOL <b>REAL ID</b> FAQ",
+   "link": "https://dol.wa.gov/media/pdf/2405/real-id-faqpdf/download?inline",
+   "displayLink": "dol.wa.gov",
+   "snippet": "Aug 8, 2023 ... The REAL ID Act establishes minimum security standards for state-issued driver licenses and ID cards. The federal act will require anyone\u00a0...",
+   "htmlSnippet": "Aug 8, 2023 <b>...</b> The <b>REAL ID</b> Act establishes minimum security standards for state-issued driver licenses and ID cards. The federal act will require anyone&nbsp;...",
+   "formattedUrl": "https://dol.wa.gov/media/pdf/2405/real-id-faqpdf/download?inline",
+   "htmlFormattedUrl": "https://dol.wa.gov/media/pdf/2405/<b>real-id</b>-faqpdf/download?inline",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYabtosppQ6HOePiESvWCNAYP83KbrRc0r8Fav0PYn_9sJVTLxQ2bM3Q&s",
+      "width": "332",
+      "height": "111"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20230825150558-07'00'",
+      "creator": "Microsoft\u00ae Word for Microsoft 365",
+      "creationdate": "D:20230825150558-07'00'",
+      "author": "Malvin Harrison",
+      "producer": "Microsoft\u00ae Word for Microsoft 365"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///66a35b046bd6f0ba24d369b5dffc1a9730e7d8ee658bc8899189a9375ac49689"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Get an ID card | Washington State Department of Licensing",
+   "htmlTitle": "Get an ID card | Washington State Department of Licensing",
+   "link": "https://dol.wa.gov/id-cards/get-id-card",
+   "displayLink": "dol.wa.gov",
+   "snippet": "New scam messages request payment, provide REAL ID misinformation. Separate scam text messages ask for money and information. Learn about current scams\u00a0...",
+   "htmlSnippet": "New scam messages request payment, provide <b>REAL ID</b> misinformation. Separate scam text messages ask for money and information. Learn about current scams&nbsp;...",
+   "formattedUrl": "https://dol.wa.gov/id-cards/get-id-card",
+   "htmlFormattedUrl": "https://dol.wa.gov/id-cards/get-id-card",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Get an Enhanced ID card (EID) | Washington State Department of ...",
+   "htmlTitle": "Get an Enhanced ID card (EID) | Washington State Department of ...",
+   "link": "https://dol.wa.gov/id-cards/enhanced-id-card-eid/get-enhanced-id-card-eid",
+   "displayLink": "dol.wa.gov",
+   "snippet": "REAL ID. Young person holding an I.D. card. REAL ID is a federal law passed in 2005. It sets minimum standards for driver licenses and ID cards. Learn about\u00a0...",
+   "htmlSnippet": "<b>REAL ID</b>. Young person holding an I.D. card. <b>REAL ID</b> is a federal law passed in 2005. It sets minimum standards for driver licenses and ID cards. Learn about&nbsp;...",
+   "formattedUrl": "https://dol.wa.gov/id-cards/enhanced-id-card.../get-enhanced-id-card-eid",
+   "htmlFormattedUrl": "https://dol.wa.gov/id-cards/enhanced-id-card.../get-enhanced-id-card-eid",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver licensing offices | Washington State Department of Licensing",
+   "htmlTitle": "Driver licensing offices | Washington State Department of Licensing",
+   "link": "https://dol.wa.gov/driver-licenses-and-permits/driver-licensing-offices",
+   "displayLink": "dol.wa.gov",
+   "snippet": "New scam messages request payment, provide REAL ID misinformation. Separate scam text messages ask for money and information. Learn about current scams\u00a0...",
+   "htmlSnippet": "New scam messages request payment, provide <b>REAL ID</b> misinformation. Separate scam text messages ask for money and information. Learn about current scams&nbsp;...",
+   "formattedUrl": "https://dol.wa.gov/driver-licenses-and-permits/driver-licensing-offices",
+   "htmlFormattedUrl": "https://dol.wa.gov/driver-licenses-and-permits/driver-licensing-offices",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  }
+ ]
+}

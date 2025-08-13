@@ -1,0 +1,235 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:apps.apple.com \"Nevada\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "4",
+    "searchTerms": "site:apps.apple.com \"Nevada\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 4,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.137511,
+  "formattedSearchTime": "0.14",
+  "totalResults": "4",
+  "formattedTotalResults": "4"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Mercury Insurance: Car & Home \u0639\u0644\u0649 App Store",
+   "htmlTitle": "Mercury Insurance: Car &amp; Home \u0639\u0644\u0649 App Store",
+   "link": "https://apps.apple.com/us/app/mercury-insurance-car-home/id1538025662?l=ar",
+   "displayLink": "apps.apple.com",
+   "snippet": "Download the Mercury Insurance app to instantly view your digital ID card ... Mercury writes auto insurance in Arizona, Georgia, Illinois, Nevada, New\u00a0...",
+   "htmlSnippet": "Download the Mercury Insurance app to instantly view your <b>digital ID</b> card ... Mercury writes auto insurance in Arizona, Georgia, Illinois, <b>Nevada</b>, New&nbsp;...",
+   "formattedUrl": "https://apps.apple.com/us/app/mercury-insurance-car.../id1538025662?l...",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/mercury-insurance-car.../id1538025662?l...",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/29/a2/7329a2c6-2a4e-467b-57b4-d9a34572a533/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App\u00a0Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eGet quick, easy access to your home and car insurance policies and ID cards, pay your bills, make changes to your policy, call roadside assistance, and more! Mercury Insurance makes life a little easier, and our app provides you with peace of mind knowing we're always here to help.\r\n\r\nWherever life\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/29/a2/7329a2c6-2a4e-467b-57b4-d9a34572a533/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/29/a2/7329a2c6-2a4e-467b-57b4-d9a34572a533/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222532.1.0%2B09273a9c%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "Mercury Insurance: Car & Home \u0639\u0644\u0649 App Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "Mercury Insurance: Car & Home \u0639\u0644\u0649 App Store",
+      "og:type": "website",
+      "twitter:title": "\u200eMercury Insurance: Car & Home",
+      "og:title": "\u200eMercury Insurance: Car & Home",
+      "og:image:height": "630",
+      "version": "2532.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eGet quick, easy access to your home and car insurance policies and ID cards, pay your bills, make changes to your policy, call roadside assistance, and more! Mercury Insurance makes life a little easier, and our app provides you with peace of mind knowing we're always here to help.\r\n\r\nWherever life\u2026",
+      "og:locale": "ar_SA",
+      "apple:content_id": "1538025662",
+      "og:url": "https://apps.apple.com/us/app/mercury-insurance-car-home/id1538025662?l=ar"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/29/a2/7329a2c6-2a4e-467b-57b4-d9a34572a533/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Treker on the App Store",
+   "htmlTitle": "Treker on the App Store",
+   "link": "https://apps.apple.com/us/app/treker/id6448933000",
+   "displayLink": "apps.apple.com",
+   "snippet": "Jul 30, 2025 ... You Might Also Like. See All \u00b7 Delaware Mobile ID ... Nevada 511 Road Conditions. Navigation.",
+   "htmlSnippet": "Jul 30, 2025 <b>...</b> You Might Also Like. See All &middot; Delaware <b>Mobile ID</b> ... <b>Nevada</b> 511 Road Conditions. Navigation.",
+   "formattedUrl": "https://apps.apple.com/us/app/treker/id6448933000",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/treker/id6448933000",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHbb73ngfuJfucIDiAZeyoYuVM-6lZgD1u0WZJmGpq21z2y8-4MBx-KM8&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/bd/d6/7abdd629-4cd8-9a04-6158-20d726d94b7a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eThe Treker app provides real-time school bus and student ridership GPS tracking. \n\nThe Treker apps solution tracks and displays real-time bus locations, provides in-app alert for bus arrivals and records students on boarding and off boarding the bus. Parents and school administrators have real-time\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/bd/d6/7abdd629-4cd8-9a04-6158-20d726d94b7a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/bd/d6/7abdd629-4cd8-9a04-6158-20d726d94b7a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222532.1.0%2B09273a9c%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "Treker on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "Treker on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eTreker",
+      "og:title": "\u200eTreker",
+      "og:image:height": "630",
+      "version": "2532.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eThe Treker app provides real-time school bus and student ridership GPS tracking. \n\nThe Treker apps solution tracks and displays real-time bus locations, provides in-app alert for bus arrivals and records students on boarding and off boarding the bus. Parents and school administrators have real-time\u2026",
+      "og:locale": "en_US",
+      "apple:content_id": "6448933000",
+      "og:url": "https://apps.apple.com/us/app/treker/id6448933000"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/bd/d6/7abdd629-4cd8-9a04-6158-20d726d94b7a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mercury Insurance: Car & Home en App Store",
+   "htmlTitle": "Mercury Insurance: Car &amp; Home en App Store",
+   "link": "https://apps.apple.com/us/app/mercury-insurance-car-home/id1538025662?l=es-MX",
+   "displayLink": "apps.apple.com",
+   "snippet": "Download the Mercury Insurance app to instantly view your digital ID card ... Mercury writes auto insurance in Arizona, Georgia, Illinois, Nevada, New\u00a0...",
+   "htmlSnippet": "Download the Mercury Insurance app to instantly view your <b>digital ID</b> card ... Mercury writes auto insurance in Arizona, Georgia, Illinois, <b>Nevada</b>, New&nbsp;...",
+   "formattedUrl": "https://apps.apple.com/us/app/mercury-insurance-car.../id1538025662?l...",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/mercury-insurance-car.../id1538025662?l...",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/29/a2/7329a2c6-2a4e-467b-57b4-d9a34572a533/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App\u00a0Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eGet quick, easy access to your home and car insurance policies and ID cards, pay your bills, make changes to your policy, call roadside assistance, and more! Mercury Insurance makes life a little easier, and our app provides you with peace of mind knowing we're always here to help.\r\n\r\nWherever life\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/29/a2/7329a2c6-2a4e-467b-57b4-d9a34572a533/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/29/a2/7329a2c6-2a4e-467b-57b4-d9a34572a533/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222532.1.0%2B09273a9c%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "Mercury Insurance: Car & Home en App Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "Mercury Insurance: Car & Home en App Store",
+      "og:type": "website",
+      "twitter:title": "\u200eMercury Insurance: Car & Home",
+      "og:title": "\u200eMercury Insurance: Car & Home",
+      "og:image:height": "630",
+      "version": "2532.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eGet quick, easy access to your home and car insurance policies and ID cards, pay your bills, make changes to your policy, call roadside assistance, and more! Mercury Insurance makes life a little easier, and our app provides you with peace of mind knowing we're always here to help.\r\n\r\nWherever life\u2026",
+      "og:locale": "es_MX",
+      "apple:content_id": "1538025662",
+      "og:url": "https://apps.apple.com/us/app/mercury-insurance-car-home/id1538025662?l=es-MX"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/29/a2/7329a2c6-2a4e-467b-57b4-d9a34572a533/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Treker en App Store",
+   "htmlTitle": "Treker en App Store",
+   "link": "https://apps.apple.com/us/app/treker/id6448933000?l=es-MX",
+   "displayLink": "apps.apple.com",
+   "snippet": "Feb 7, 2025 ... Nevada 511 Road Conditions. Navegaci\u00f3n. Estados Unidos (Espa\u00f1ol M\u00e9xico). \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u00b7 \u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u00b7 \u7b80\u4f53\u4e2d\u6587 \u00b7 Fran\u00e7ais (France)\u00a0...",
+   "htmlSnippet": "Feb 7, 2025 <b>...</b> <b>Nevada</b> 511 Road Conditions. Navegaci\u00f3n. Estados Unidos (Espa\u00f1ol M\u00e9xico). \u0627\u0644\u0639\u0631\u0628\u064a\u0629 &middot; \u0420\u0443\u0441\u0441\u043a\u0438\u0439 &middot; \u7b80\u4f53\u4e2d\u6587 &middot; Fran\u00e7ais (France)&nbsp;...",
+   "formattedUrl": "https://apps.apple.com/us/app/treker/id6448933000?l=es-MX",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/treker/id6448933000?l=es-MX",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0iyF1oOcv5_ElQ7dKZFt9TH7VGbjOGR-Pmz75XqY_QKtQpun3uDqrHXGn&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/03/4f/28034f92-a620-8ee7-ccfb-12ff8113a1e0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App\u00a0Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eThe Treker app provides real-time school bus and student ridership GPS tracking. \n\nThe Treker apps solution tracks and displays real-time bus locations, provides in-app alert for bus arrivals and records students on boarding and off boarding the bus. Parents and school administrators have real-time\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/03/4f/28034f92-a620-8ee7-ccfb-12ff8113a1e0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/03/4f/28034f92-a620-8ee7-ccfb-12ff8113a1e0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222530.1.0%2Bdd954829%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "Treker en App Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "Treker en App Store",
+      "og:type": "website",
+      "twitter:title": "\u200eTreker",
+      "og:title": "\u200eTreker",
+      "og:image:height": "630",
+      "version": "2530.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eThe Treker app provides real-time school bus and student ridership GPS tracking. \n\nThe Treker apps solution tracks and displays real-time bus locations, provides in-app alert for bus arrivals and records students on boarding and off boarding the bus. Parents and school administrators have real-time\u2026",
+      "og:locale": "es_MX",
+      "apple:content_id": "6448933000",
+      "og:url": "https://apps.apple.com/us/app/treker/id6448933000?l=es-MX"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/03/4f/28034f92-a620-8ee7-ccfb-12ff8113a1e0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  }
+ ]
+}

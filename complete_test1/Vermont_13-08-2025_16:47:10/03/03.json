@@ -1,0 +1,307 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://dmv.vermont.gov/ \"REAL ID\"",
+    "totalResults": "12",
+    "searchTerms": "site:https://dmv.vermont.gov/ \"REAL ID\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://dmv.vermont.gov/ \"REAL ID\"",
+    "totalResults": "12",
+    "searchTerms": "site:https://dmv.vermont.gov/ \"REAL ID\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.073389,
+  "formattedSearchTime": "0.07",
+  "totalResults": "12",
+  "formattedTotalResults": "12"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Can I upgrade from REAL ID to an EDL online? | Department of ...",
+   "htmlTitle": "Can I upgrade from <b>REAL ID</b> to an EDL online? | Department of ...",
+   "link": "https://dmv.vermont.gov/faq/can-i-upgrade-from-real-id-to-an-edl-online",
+   "displayLink": "dmv.vermont.gov",
+   "snippet": "Jul 2, 2024 ... Can I upgrade from REAL ID to an EDL online? No. You must visit a DMV office with all of the required documents to upgrade to an EDL.",
+   "htmlSnippet": "Jul 2, 2024 <b>...</b> Can I upgrade from <b>REAL ID</b> to an EDL online? No. You must visit a DMV office with all of the required documents to upgrade to an EDL.",
+   "formattedUrl": "https://dmv.vermont.gov/faq/can-i-upgrade-from-real-id-to-an-edl-online",
+   "htmlFormattedUrl": "https://dmv.vermont.gov/faq/can-i-upgrade-from-<b>real-id</b>-to-an-edl-online",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Non-Driver Identification | Department of Motor Vehicles",
+   "htmlTitle": "Non-Driver Identification | Department of Motor Vehicles",
+   "link": "https://dmv.vermont.gov/licenses/types-of-licenses-ids/non-driver-identification",
+   "displayLink": "dmv.vermont.gov",
+   "snippet": "May 21, 2024 ... However, you may only hold one (1) Real ID compliant document at a time. Therefore if you wish to have a valid license and a valid Non\u00a0...",
+   "htmlSnippet": "May 21, 2024 <b>...</b> However, you may only hold one (1) <b>Real ID</b> compliant document at a time. Therefore if you wish to have a valid license and a valid Non&nbsp;...",
+   "formattedUrl": "https://dmv.vermont.gov/licenses/types-of...ids/non-driver-identification",
+   "htmlFormattedUrl": "https://dmv.vermont.gov/licenses/types-of...ids/non-driver-identification",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ],
+    "Document": [
+     {
+      "title": "Non-Driver Identification",
+      "encoded": "A Non-Driver Identification Card for individuals who do not drive. Any applicant for a Vermont Non-Driver Identification Card must be a Vermont resident. All Vermont residents, regardless of..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Does a Driver's License or ID card marked \u201climited term\u201d have ...",
+   "htmlTitle": "Does a Driver&#39;s License or ID card marked \u201climited term\u201d have ...",
+   "link": "https://dmv.vermont.gov/faq/does-a-drivers-license-or-id-card-marked-limited-term-have-different-or-lesser-privileges",
+   "displayLink": "dmv.vermont.gov",
+   "snippet": "Aug 4, 2022 ... Real ID \u00b7 Driver's License \u00b7 Junior Driver's License \u00b7 Learner's Permit. Contact Us. Vermont Department of Motor Vehicles 120 State Street",
+   "htmlSnippet": "Aug 4, 2022 <b>...</b> <b>Real ID</b> &middot; Driver&#39;s License &middot; Junior Driver&#39;s License &middot; Learner&#39;s Permit. Contact Us. Vermont Department of Motor Vehicles 120 State Street",
+   "formattedUrl": "https://dmv.vermont.gov/.../does-a-drivers-license-or-id-card-marked-limite...",
+   "htmlFormattedUrl": "https://dmv.vermont.gov/.../does-a-drivers-license-or-id-card-marked-limite...",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Non-Driver ID | Department of Motor Vehicles",
+   "htmlTitle": "Non-Driver ID | Department of Motor Vehicles",
+   "link": "https://dmv.vermont.gov/tags/non-driver-id",
+   "displayLink": "dmv.vermont.gov",
+   "snippet": "Jun 21, 2024 ... If you have a valid license in any other state, you cannot have a Vermont Non-Driver Identification Card. A Non-Driver ID can be Real ID\u00a0...",
+   "htmlSnippet": "Jun 21, 2024 <b>...</b> If you have a valid license in any other state, you cannot have a Vermont Non-Driver Identification Card. A Non-Driver ID can be <b>Real ID</b>&nbsp;...",
+   "formattedUrl": "https://dmv.vermont.gov/tags/non-driver-id",
+   "htmlFormattedUrl": "https://dmv.vermont.gov/tags/non-driver-id",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ],
+    "Document": [
+     {
+      "title": "DMV Forms Translated",
+      "encoded": "Vermont Driver's License, Learner's Permit, Non-Driver Identification applications, and the Vermont Residency Certification form are all available in"
+     },
+     {
+      "title": "Non-Driver Identification",
+      "encoded": "A Non-Driver ID is an identification card without driver privileges. Any Vermont resident, regardless of age can get a Non-Driver ID. If you have a valid license in any other state, you cannot..."
+     }
+    ],
+    "Thing": [
+     {
+      "name": "Non-Driver ID"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver's License | Department of Motor Vehicles",
+   "htmlTitle": "Driver&#39;s License | Department of Motor Vehicles",
+   "link": "https://dmv.vermont.gov/tags/drivers-license?page=1",
+   "displayLink": "dmv.vermont.gov",
+   "snippet": "What is REAL ID? Passed by Congress in 2005, the REAL ID Act enacted the 9/11 Commission's recommendation that the Federal Government \u201cset standards for the\u00a0...",
+   "htmlSnippet": "What is <b>REAL ID</b>? Passed by Congress in 2005, the <b>REAL ID</b> Act enacted the 9/11 Commission&#39;s recommendation that the Federal Government \u201cset standards for the&nbsp;...",
+   "formattedUrl": "https://dmv.vermont.gov/tags/drivers-license?page=1",
+   "htmlFormattedUrl": "https://dmv.vermont.gov/tags/drivers-license?page=1",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ],
+    "Document": [
+     {
+      "title": "Self-Designated Descriptors",
+      "encoded": "The following are self-designated descriptors for a Vermont Driver\u2019s License or Non-Driver Identification card. Height Weight Eye color Gender Applicants are not required under Vermont or..."
+     },
+     {
+      "title": "Driver's License, Restrictions",
+      "encoded": "Below are restrictions in use since July 2019. For restrictions in use before July 2019, see License Restrictions Old."
+     },
+     {
+      "title": "Driver's License, Address Change",
+      "encoded": "You are required by law to notify the Vermont Department of Motor Vehicles within 30 days of any change to your address or name."
+     },
+     {
+      "title": "License Restrictions (2013 - 2019)",
+      "encoded": "The restrictions below were in use from 2013 until July 2019. For current restrictions (July 2019 forward), see License Restrictions"
+     },
+     {
+      "title": "Compromised ID/License Number",
+      "encoded": "The Vermont Department of Motor Vehicles has a process for customers whose license numbers have been compromised. A compromised license number can occur due to a breach in a computer system..."
+     }
+    ],
+    "Thing": [
+     {
+      "name": "Driver's License",
+      "description": "A Driver's License is an official document permitting a specific individual to operate one or more types of motorized vehicles, such as a motorcycle, car, truck, or bus on a public road."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "License Comparison | Department of Motor Vehicles",
+   "htmlTitle": "License Comparison | Department of Motor Vehicles",
+   "link": "https://dmv.vermont.gov/document/license-comparison",
+   "displayLink": "dmv.vermont.gov",
+   "snippet": "Jul 26, 2022 ... This includes Enhanced Driver's License (EDL), Commercial Driver's License (CDL), Real ID & Driver's Privilege Card (DPC). It also includes\u00a0...",
+   "htmlSnippet": "Jul 26, 2022 <b>...</b> This includes Enhanced Driver&#39;s License (EDL), Commercial Driver&#39;s License (CDL), <b>Real ID</b> &amp; Driver&#39;s Privilege Card (DPC). It also includes&nbsp;...",
+   "formattedUrl": "https://dmv.vermont.gov/document/license-comparison",
+   "htmlFormattedUrl": "https://dmv.vermont.gov/document/license-comparison",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What is a Driver's Privilege Card? | Department of Motor Vehicles",
+   "htmlTitle": "What is a Driver&#39;s Privilege Card? | Department of Motor Vehicles",
+   "link": "https://dmv.vermont.gov/faq/what-is-a-drivers-privilege-card",
+   "displayLink": "dmv.vermont.gov",
+   "snippet": "Nov 21, 2024 ... A Driver Privilege Card is a Vermont license or permit that is NOT Real ID compliant. The Driver Privilege Card is available to anyone who is a Vermont\u00a0...",
+   "htmlSnippet": "Nov 21, 2024 <b>...</b> A Driver Privilege Card is a Vermont license or permit that is NOT <b>Real ID</b> compliant. The Driver Privilege Card is available to anyone who is a Vermont&nbsp;...",
+   "formattedUrl": "https://dmv.vermont.gov/faq/what-is-a-drivers-privilege-card",
+   "htmlFormattedUrl": "https://dmv.vermont.gov/faq/what-is-a-drivers-privilege-card",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Drug and Alcohol Clearinghouse (DACH) | Department of Motor ...",
+   "htmlTitle": "Drug and Alcohol Clearinghouse (DACH) | Department of Motor ...",
+   "link": "https://dmv.vermont.gov/licenses/types-of-licenses-ids/commercial-drivers-license-cdl/drug-and-alcohol-clearinghouse-dach",
+   "displayLink": "dmv.vermont.gov",
+   "snippet": "Aug 20, 2024 ... What is REAL ID? Passed by Congress in 2005, the REAL ID Act enacted the 9/11 Commission's recommendation that the Federal Government \u201cset\u00a0...",
+   "htmlSnippet": "Aug 20, 2024 <b>...</b> What is <b>REAL ID</b>? Passed by Congress in 2005, the <b>REAL ID</b> Act enacted the 9/11 Commission&#39;s recommendation that the Federal Government \u201cset&nbsp;...",
+   "formattedUrl": "https://dmv.vermont.gov/...of.../drug-and-alcohol-clearinghouse-dach",
+   "htmlFormattedUrl": "https://dmv.vermont.gov/...of.../drug-and-alcohol-clearinghouse-dach",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ],
+    "Document": [
+     {
+      "title": "Drug and Alcohol Clearinghouse (DACH)",
+      "encoded": "The Drug and Alcohol Clearinghouse (DACH) is a secure online database operated by the Federal Motor Carrier Safety Administration (FMCSA). DACH provides employers, state driver licensing agencies,..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Restricted Driver's Licenses (RDL) | Department of Motor Vehicles",
+   "htmlTitle": "Restricted Driver&#39;s Licenses (RDL) | Department of Motor Vehicles",
+   "link": "https://dmv.vermont.gov/licenses/types-of-licenses-ids/drivers-license/restricted-drivers-licenses",
+   "displayLink": "dmv.vermont.gov",
+   "snippet": "Dec 18, 2023 ... Real ID \u00b7 Driver's License \u00b7 Restricted Driver's Licenses (RDL) \u00b7 Enhanced Driver's License (EDL) \u00b7 Junior Driver's License \u00b7 Commercial\u00a0...",
+   "htmlSnippet": "Dec 18, 2023 <b>...</b> <b>Real ID</b> &middot; Driver&#39;s License &middot; Restricted Driver&#39;s Licenses (RDL) &middot; Enhanced Driver&#39;s License (EDL) &middot; Junior Driver&#39;s License &middot; Commercial&nbsp;...",
+   "formattedUrl": "https://dmv.vermont.gov/licenses/types-of.../restricted-drivers-licenses",
+   "htmlFormattedUrl": "https://dmv.vermont.gov/licenses/types-of.../restricted-drivers-licenses",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ],
+    "Document": [
+     {
+      "title": "Restricted Driver's Licenses (RDL)",
+      "encoded": "An Ignition Interlock Device Restricted License (RDL) allows you to drive non-commercial vehicles equipped with an Ignition Interlock Device (IID) while your Vermont license is suspended or..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "I lost my renewal PIN, can DMV provide it for me? | Department of ...",
+   "htmlTitle": "I lost my renewal PIN, can DMV provide it for me? | Department of ...",
+   "link": "https://dmv.vermont.gov/faq/i-lost-my-renewal-pin-can-dmv-provide-it-for-me",
+   "displayLink": "dmv.vermont.gov",
+   "snippet": "Feb 7, 2022 ... Endorsements and restrictions cannot be removed or changed online. Can I upgrade from REAL ID to an EDL online? No. You must visit a DMV office\u00a0...",
+   "htmlSnippet": "Feb 7, 2022 <b>...</b> Endorsements and restrictions cannot be removed or changed online. Can I upgrade from <b>REAL ID</b> to an EDL online? No. You must visit a DMV office&nbsp;...",
+   "formattedUrl": "https://dmv.vermont.gov/.../i-lost-my-renewal-pin-can-dmv-provide-it-for-...",
+   "htmlFormattedUrl": "https://dmv.vermont.gov/.../i-lost-my-renewal-pin-can-dmv-provide-it-for-...",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  }
+ ]
+}

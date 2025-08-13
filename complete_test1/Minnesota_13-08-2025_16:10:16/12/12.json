@@ -1,0 +1,318 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Minnesota Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "totalResults": "14400",
+    "searchTerms": "\"Minnesota Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Minnesota Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "totalResults": "14400",
+    "searchTerms": "\"Minnesota Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.167659,
+  "formattedSearchTime": "0.17",
+  "totalResults": "14400",
+  "formattedTotalResults": "14,400"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Sec. 171.07 MN Statutes",
+   "htmlTitle": "Sec. 171.07 MN Statutes",
+   "link": "https://www.revisor.mn.gov/statutes/cite/171.07",
+   "displayLink": "www.revisor.mn.gov",
+   "snippet": "... store data on the license or Minnesota ... driver's license or identification card record within seven years after transmission to the department.",
+   "htmlSnippet": "... <b>store</b> data on the license or Minnesota ... <b>driver&#39;s license</b> or <b>identification card</b> record within seven years after <b>transmission</b> to the department.",
+   "formattedUrl": "https://www.revisor.mn.gov/statutes/cite/171.07",
+   "htmlFormattedUrl": "https://www.revisor.mn.gov/statutes/cite/171.07",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Licenses & vehicle registrations | Minnesota DNR",
+   "htmlTitle": "Licenses &amp; vehicle registrations | Minnesota DNR",
+   "link": "https://www.dnr.state.mn.us/licenses/index.html",
+   "displayLink": "www.dnr.state.mn.us",
+   "snippet": "Your name, addresses, date of birth, and driver's license number collected under Minnesota Statutes ... retention, and training certification and verification.",
+   "htmlSnippet": "Your name, addresses, date of birth, and <b>driver&#39;s license</b> number collected under <b>Minnesota Statutes</b> ... <b>retention</b>, and training certification and <b>verification</b>.",
+   "formattedUrl": "https://www.dnr.state.mn.us/licenses/index.html",
+   "htmlFormattedUrl": "https://www.dnr.state.mn.us/licenses/index.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "dc.modified": "2021-04-19T13:04:24-5:00",
+      "editingpage": "https://www.dnr.state.mn.us/node/5862/edit",
+      "dc.description": "Links to regulations, licenses and registration information for hunting, fishing, skiing, watercraft, snowmobiles, all-terrain vehicles, off-road vehicles and off-highway motorcycles.",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Minnesota Department of Natural Resources",
+      "handheldfriendly": "true",
+      "msvalidate.01": "82EF45F5DF2089463CEE911FF4671E4B",
+      "og:title": "Licenses & vehicle registrations",
+      "og:updated_time": "2021-04-19T13:04:24-5:00",
+      "og:description": "Links to regulations, licenses and registration information for hunting, fishing, skiing, watercraft, snowmobiles, all-terrain vehicles, off-road vehicles and off-highway motorcycles.",
+      "dc.created": "2018-11-01T14:11:39-5:00",
+      "twitter:site": "@mndnr",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width",
+      "dc.title": "Licenses & vehicle registrations",
+      "og:url": "https://www.dnr.state.mn.us/licenses/index.html"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Sec. 171.12 MN Statutes",
+   "htmlTitle": "Sec. 171.12 MN Statutes",
+   "link": "https://www.revisor.mn.gov/statutes/cite/171.12",
+   "displayLink": "www.revisor.mn.gov",
+   "snippet": "... verify compliance with this subdivision. The results of ... (1) notify a driver's license or identification card applicant of the retention procedure; and.",
+   "htmlSnippet": "... <b>verify</b> compliance with this subdivision. The results of ... (1) notify a <b>driver&#39;s license</b> or <b>identification card</b> applicant of the <b>retention</b> procedure; and.",
+   "formattedUrl": "https://www.revisor.mn.gov/statutes/cite/171.12",
+   "htmlFormattedUrl": "https://www.revisor.mn.gov/statutes/cite/171.12",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Where to buy a license | Minnesota DNR",
+   "htmlTitle": "Where to buy a license | Minnesota DNR",
+   "link": "https://www.dnr.state.mn.us/licenses/agents.html",
+   "displayLink": "www.dnr.state.mn.us",
+   "snippet": "Your name, addresses, date of birth, and driver's license number collected under Minnesota Statutes ... retention, and training certification and verification.",
+   "htmlSnippet": "Your name, addresses, date of birth, and <b>driver&#39;s license</b> number collected under <b>Minnesota Statutes</b> ... <b>retention</b>, and training certification and <b>verification</b>.",
+   "formattedUrl": "https://www.dnr.state.mn.us/licenses/agents.html",
+   "htmlFormattedUrl": "https://www.dnr.state.mn.us/licenses/agents.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "dc.modified": "2025-03-26T15:03:32-5:00",
+      "editingpage": "https://www.dnr.state.mn.us/node/5852/edit",
+      "dc.description": "Links to regulations, licenses and registration information for hunting, fishing, skiing, watercraft, snowmobiles, all-terrain vehicles, off-road vehicles and off-highway motorcycles.",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Minnesota Department of Natural Resources",
+      "handheldfriendly": "true",
+      "msvalidate.01": "82EF45F5DF2089463CEE911FF4671E4B",
+      "og:title": "Where to buy a license",
+      "og:updated_time": "2025-03-26T15:03:32-5:00",
+      "og:description": "Links to regulations, licenses and registration information for hunting, fishing, skiing, watercraft, snowmobiles, all-terrain vehicles, off-road vehicles and off-highway motorcycles.",
+      "dc.created": "2018-10-08T18:10:36-5:00",
+      "twitter:site": "@mndnr",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width",
+      "dc.title": "Where to buy a license",
+      "og:url": "https://www.dnr.state.mn.us/licenses/agents.html"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Sec. 609.652 MN Statutes",
+   "htmlTitle": "Sec. 609.652 MN Statutes",
+   "link": "https://www.revisor.mn.gov/statutes/cite/609.652",
+   "displayLink": "www.revisor.mn.gov",
+   "snippet": "2024 Minnesota Statutes. Authenticate \u00b7 PDF. Resources. Search Minnesota ... driver's license or identification card with intent to sell is guilty of a crime.",
+   "htmlSnippet": "2024 <b>Minnesota Statutes</b>. Authenticate &middot; PDF. Resources. Search <b>Minnesota</b> ... <b>driver&#39;s license</b> or <b>identification card</b> with intent to <b>sell</b> is guilty of a crime.",
+   "formattedUrl": "https://www.revisor.mn.gov/statutes/cite/609.652",
+   "htmlFormattedUrl": "https://www.revisor.mn.gov/statutes/cite/609.652",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Minnesota Secretary Of State - Notary FAQ",
+   "htmlTitle": "Minnesota Secretary Of State - Notary FAQ",
+   "link": "https://www.sos.mn.gov/notary-apostille/notary-help/notary-faq/",
+   "displayLink": "www.sos.mn.gov",
+   "snippet": "Can I certify a copy of a passport or a driver's license? Under Minnesota Statutes 359.085 states in certifying or attesting a copy of a document or other item,\u00a0...",
+   "htmlSnippet": "Can I certify a copy of a passport or a <b>driver&#39;s license</b>? Under <b>Minnesota Statutes</b> 359.085 states in certifying or attesting a copy of a document or other item,&nbsp;...",
+   "formattedUrl": "https://www.sos.mn.gov/notary-apostille/notary-help/notary-faq/",
+   "htmlFormattedUrl": "https://www.sos.mn.gov/notary-apostille/notary-help/notary-faq/",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:type": "website",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Office of the State Of Minnesota Secretary of State",
+      "og:url": "http://www.sos.mn.gov/notary-apostille/notary-help/notary-faq/",
+      "og:description": "Office of the State Of Minnesota Secretary of State"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Overview / Office of Cannabis Management",
+   "htmlTitle": "Overview / Office of Cannabis Management",
+   "link": "https://mn.gov/ocm/businesses/cannabinoid-products/overview.jsp",
+   "displayLink": "mn.gov",
+   "snippet": "... identification card, passport, instructional permit, or Canadian driver's license. ... sell hemp-derived products under Minnesota Statutes, section 151.72.",
+   "htmlSnippet": "... <b>identification card</b>, passport, instructional permit, or Canadian <b>driver&#39;s license</b>. ... <b>sell</b> hemp-derived products under <b>Minnesota Statutes</b>, section 151.72.",
+   "formattedUrl": "https://mn.gov/ocm/businesses/cannabinoid-products/overview.jsp",
+   "htmlFormattedUrl": "https://mn.gov/ocm/businesses/cannabinoid-products/overview.jsp",
+   "pagemap": {
+    "metatags": [
+     {
+      "dc.modified": "2025-07-02T19:56:41.9295681Z",
+      "dc.description": "An overview of hemp-derived cannabinoid product information for businesses.",
+      "dc.created": "2024-06-27T18:57:04.1030000Z",
+      "og:site_name": "Office of Cannabis Management",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "dc.title": "Overview",
+      "pageid": "tcm:1202-630147-64",
+      "dc.language": "eng,"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Your social security number and your driver's license or ID card ...",
+   "htmlTitle": "Your social security number and your <b>driver&#39;s license</b> or ID card ...",
+   "link": "https://dps.mn.gov/divisions/dvs/license-and-id/dl-and-id-card-information/your-social-security-number-and-your-dl-id-card",
+   "displayLink": "dps.mn.gov",
+   "snippet": "We use the SSA Social Security Online Verification service to verify your SSN, name and date of birth. ... driver's license or commercial learner's permit\u00a0...",
+   "htmlSnippet": "We use the SSA Social Security Online <b>Verification</b> service to <b>verify</b> your SSN, name and date of birth. ... <b>driver&#39;s license</b> or commercial learner&#39;s permit&nbsp;...",
+   "formattedUrl": "https://dps.mn.gov/.../your-social-security-number-and-your-dl-id-card",
+   "htmlFormattedUrl": "https://dps.mn.gov/.../your-social-security-number-and-your-dl-id-card",
+   "pagemap": {
+    "metatags": [
+     {
+      "division": "Driver and Vehicle Services",
+      "next-head-count": "14",
+      "twitter:title": "Your social security number and your driver's license or ID card | Minnesota Department of Public Safety",
+      "previewimage": "none",
+      "viewport": "width=device-width",
+      "msvalidate.01": "F8C86ED3475C69B084260A1429B8220D",
+      "twitter:description": "Why do I need to provide my Social Security Number? Do I need a Social Security number?",
+      "og:title": "Your social security number and your driver's license or ID card | Minnesota Department of Public Safety",
+      "body": "Why do I need to provide my Social Security Number? Do I need a Social Security number?",
+      "type": "Page",
+      "og:description": "Why do I need to provide my Social Security Number? Do I need a Social Security number?"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Background Checks - Policies - MnDOT",
+   "htmlTitle": "Background Checks - Policies - MnDOT",
+   "link": "https://www.dot.state.mn.us/policy/hr/wf017.html",
+   "displayLink": "www.dot.state.mn.us",
+   "snippet": "The enterprise policy requires that agencies that conduct background checks, other than employment reference checks, employment records checks, driver's license\u00a0...",
+   "htmlSnippet": "The enterprise policy requires that agencies that conduct background checks, other than employment reference checks, employment records checks, <b>driver&#39;s license</b>&nbsp;...",
+   "formattedUrl": "https://www.dot.state.mn.us/policy/hr/wf017.html",
+   "htmlFormattedUrl": "https://www.dot.state.mn.us/policy/hr/wf017.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQIOEm0l5mQqM_GDkysyQbcC0zvtxkgES8O2KPj-723D-5D9tQHxEqysQ&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-config": "/browserconfig.xml",
+      "og:image": "https://www.dot.state.mn.us/images/16templates/template/DOT-Logo-Facebook-Medium-V1.png",
+      "theme-color": "#003660",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:site": "@mndot",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:fb:app_id": "2962457693857133",
+      "twitter:image": "https://www.dot.state.mn.us/images/16templates/template/DOT-Logo-Facebook-Medium-V1.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dot.state.mn.us/images/16templates/template/DOT-Logo-Facebook-Medium-V1.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Minnesota Statutes Transportation (Ch. 160-174A) \u00a7 171.12 | FindLaw",
+   "htmlTitle": "<b>Minnesota Statutes</b> Transportation (Ch. 160-174A) \u00a7 171.12 | FindLaw",
+   "link": "https://codes.findlaw.com/mn/transportation-ch-160-174a/mn-st-sect-171-12",
+   "displayLink": "codes.findlaw.com",
+   "snippet": "... maintain suitable indices containing, in alphabetical order: (1) all ... driver's license or identification card applicant of the retention procedure; and.",
+   "htmlSnippet": "... <b>maintain</b> suitable indices containing, in alphabetical order: (1) all ... <b>driver&#39;s license</b> or <b>identification card</b> applicant of the <b>retention</b> procedure; and.",
+   "formattedUrl": "https://codes.findlaw.com/mn/transportation-ch-160.../mn-st-sect-171-12",
+   "htmlFormattedUrl": "https://codes.findlaw.com/mn/transportation-ch-160.../mn-st-sect-171-12",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuWtKEZ0kzYj6NSuZlgNrAF5XcYIi9XgsiqHcAgQHtxY18xcWZ1bDMaCM&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png",
+      "og:type": "article",
+      "og:site_name": "Findlaw",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Minnesota Statutes Transportation (Ch. 160-174A) \u00a7 171.12 | FindLaw",
+      "og:url": "https://codes.findlaw.com/mn/transportation-ch-160-174a/mn-st-sect-171-12/",
+      "og:description": "Minnesota Statutes Transportation (Ch. 160-174A)   Section 171.12. Read the code on FindLaw"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png"
+     }
+    ]
+   }
+  }
+ ]
+}

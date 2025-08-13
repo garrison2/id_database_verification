@@ -1,0 +1,329 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://www.nj.gov/mvc \"REAL ID\"",
+    "totalResults": "465",
+    "searchTerms": "site:https://www.nj.gov/mvc \"REAL ID\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://www.nj.gov/mvc \"REAL ID\"",
+    "totalResults": "465",
+    "searchTerms": "site:https://www.nj.gov/mvc \"REAL ID\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.164997,
+  "formattedSearchTime": "0.16",
+  "totalResults": "465",
+  "formattedTotalResults": "465"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "REAL ID NJ is Coming May 7, 2025 | NJMVC REAL ID",
+   "htmlTitle": "<b>REAL ID</b> NJ is Coming May 7, 2025 | NJMVC <b>REAL ID</b>",
+   "link": "https://www.nj.gov/mvc/realid/",
+   "displayLink": "www.nj.gov",
+   "snippet": "Are you REAL ID ready? On May 7, 2025, U.S. travelers must be REAL ID compliant to board domestic flights and access certain federal facilities. Find out if\u00a0...",
+   "htmlSnippet": "Are you <b>REAL ID</b> ready? On May 7, 2025, U.S. travelers must be <b>REAL ID</b> compliant to board domestic flights and access certain federal facilities. Find out if&nbsp;...",
+   "formattedUrl": "https://www.nj.gov/mvc/realid/",
+   "htmlFormattedUrl": "https://www.nj.gov/mvc/<b>realid</b>/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnpJcArY_KI4jexiWhzj3bgzN-cF1yCMjrBTZMmpgBNs2FxHcj-rtSTpIY&s",
+      "width": "256",
+      "height": "197"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "link to image",
+      "og:image:width": "1200",
+      "og:type": "website",
+      "twitter:card": "summary",
+      "twitter:title": "REAL ID NJ is Coming May 7, 2025 | NJMVC REAL ID",
+      "og:title": "REAL ID NJ is Coming May 7, 2025 | NJMVC REAL ID",
+      "og:image:height": "630",
+      "og:description": "The official NJMVC site for NJ REAL ID. Learn more about if you need REAL ID, how to get it and what to bring. Are you ready for May 7, 2025?",
+      "twitter:image": "link to image",
+      "fb:app_id": "erase if not connected to fb app",
+      "twitter:site": "@twitterhandle",
+      "viewport": "width=device-width,initial-scale=1",
+      "twitter:description": "The official NJMVC site for NJ REAL ID. Learn more about if you need REAL ID, how to get it and what to bring. Are you ready for May 7, 2025?",
+      "og:url": "put url here"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.nj.gov/mvc/realid/img/home-6-1.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "REAL ID NJ is Coming May 7, 2025 | NJMVC REAL ID",
+   "htmlTitle": "<b>REAL ID</b> NJ is Coming May 7, 2025 | NJMVC <b>REAL ID</b>",
+   "link": "https://www.nj.gov/mvc/realid/faq.html",
+   "displayLink": "www.nj.gov",
+   "snippet": "What is the difference between a REAL ID driver license or non-driver ID\u00a0...",
+   "htmlSnippet": "What is the difference between a <b>REAL ID</b> driver license or non-driver ID&nbsp;...",
+   "formattedUrl": "https://www.nj.gov/mvc/realid/faq.html",
+   "htmlFormattedUrl": "https://www.nj.gov/mvc/<b>realid</b>/faq.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:image": "link to image",
+      "og:image:width": "1200",
+      "og:type": "website",
+      "twitter:card": "summary",
+      "twitter:title": "Real ID FAQ",
+      "og:title": "Real ID FAQ",
+      "og:image:height": "630",
+      "og:description": "The official NJMVC site for NJ REAL ID. Learn more about if you need REAL ID, how to get it and what to bring. Are you ready for May 3, 2023?",
+      "twitter:image": "link to image",
+      "fb:app_id": "erase if not connected to fb app",
+      "twitter:site": "@NJ_MVC",
+      "viewport": "width=device-width,initial-scale=1",
+      "twitter:description": "he official NJMVC site for NJ REAL ID. Learn more about if you need REAL ID, how to get it and what to bring. Are you ready for May 3, 2023?",
+      "og:url": "www.realidnj.gov"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "link to image"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "REAL ID NJ is Coming May 3, 2023 | NJMVC REAL ID",
+   "htmlTitle": "<b>REAL ID</b> NJ is Coming May 3, 2023 | NJMVC <b>REAL ID</b>",
+   "link": "https://www.nj.gov/mvc/realid/selector.html",
+   "displayLink": "www.nj.gov",
+   "snippet": "Use this tool to help decide which documents you will need to bring with you. All your documents will be scanned for you to get a REAL ID.",
+   "htmlSnippet": "Use this tool to help decide which documents you will need to bring with you. All your documents will be scanned for you to get a <b>REAL ID</b>.",
+   "formattedUrl": "https://www.nj.gov/mvc/realid/selector.html",
+   "htmlFormattedUrl": "https://www.nj.gov/mvc/<b>realid</b>/selector.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLho8Gr-vUSkuD3EiiIhntAufzd7auctntRg7_FP_4kEPbCymAcWVWkbPU&s",
+      "width": "292",
+      "height": "149"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "link to image",
+      "og:image:width": "1200",
+      "og:type": "website",
+      "twitter:card": "summary",
+      "twitter:title": "Document Selector",
+      "og:title": "Document Selector",
+      "og:image:height": "630",
+      "og:description": "The official NJMVC site for NJ REAL ID. Learn more about if you need REAL ID, how to get it and what to bring. Are you ready for May 3, 2023?",
+      "twitter:image": "link to image",
+      "fb:app_id": "erase if not connected to fb app",
+      "twitter:site": "@NJ_MVC",
+      "viewport": "width=device-width,initial-scale=1",
+      "twitter:description": "The official NJMVC site for NJ REAL ID. Learn more about if you need REAL ID, how to get it and what to bring. Are you ready for May 3, 2023?",
+      "og:url": "www.realidnj.com"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.nj.gov/mvc/realid/img/caution.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NJMVC Launches REAL ID Emergency Issuance Program to ...",
+   "htmlTitle": "NJMVC Launches <b>REAL ID</b> Emergency Issuance Program to ...",
+   "link": "https://www.nj.gov/mvc/press/archives/2025/042125.htm",
+   "displayLink": "www.nj.gov",
+   "snippet": "Apr 21, 2025 ... The New Jersey Motor Vehicle Commission (NJMVC) will be launching a REAL ID emergency issuance program for qualified customers who need to board a domestic\u00a0...",
+   "htmlSnippet": "Apr 21, 2025 <b>...</b> The New Jersey Motor Vehicle Commission (NJMVC) will be launching a <b>REAL ID</b> emergency issuance program for qualified customers who need to board a domestic&nbsp;...",
+   "formattedUrl": "https://www.nj.gov/mvc/press/archives/2025/042125.htm",
+   "htmlFormattedUrl": "https://www.nj.gov/mvc/press/archives/2025/042125.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "REAL ID",
+   "htmlTitle": "<b>REAL ID</b>",
+   "link": "https://www.nj.gov/mvc/realid/pdf/26.pdf",
+   "displayLink": "www.nj.gov",
+   "snippet": "\u2022 Unexpired REAL ID driver license, non-driver identification card, or probationary license from any state, US territory and the District of Columbia.",
+   "htmlSnippet": "\u2022 Unexpired <b>REAL ID</b> driver license, non-driver identification card, or probationary license from any state, US territory and the District of Columbia.",
+   "formattedUrl": "https://www.nj.gov/mvc/realid/pdf/26.pdf",
+   "htmlFormattedUrl": "https://www.nj.gov/mvc/<b>realid</b>/pdf/26.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnDD-N0oNCEN5hBhlAOg1b8EQF0FG0KmDPXjSuarqnxRJein9vsFaZT2gZ&s",
+      "width": "255",
+      "height": "197"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20220609143024-04'00'",
+      "creationdate": "D:20220606150147-04'00'",
+      "creator": "Adobe InDesign 17.1 (Windows)",
+      "producer": "Adobe PDF Library 16.0.5"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///1433aad615e713c165cec7a31ffa257dfdd39f3305dde4cee3272cafcc099813"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NJ MVC | REAL ID Emergency Issuance",
+   "htmlTitle": "NJ MVC | <b>REAL ID</b> Emergency Issuance",
+   "link": "https://www.nj.gov/mvc/license/realidemergency.htm",
+   "displayLink": "www.nj.gov",
+   "snippet": "REAL ID Emergency Issuance Program. Program Overview. The total time to get a Driver License or Non-Driver ID includes processing and\u00a0...",
+   "htmlSnippet": "<b>REAL ID</b> Emergency Issuance Program. Program Overview. The total time to get a Driver License or Non-Driver ID includes processing and&nbsp;...",
+   "formattedUrl": "https://www.nj.gov/mvc/license/realidemergency.htm",
+   "htmlFormattedUrl": "https://www.nj.gov/mvc/license/<b>realid</b>emergency.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Governor Murphy and Acting NJMVC Chief Administrator Littles ...",
+   "htmlTitle": "Governor Murphy and Acting NJMVC Chief Administrator Littles ...",
+   "link": "https://www.nj.gov/mvc/press/archives/2025/050225.htm",
+   "displayLink": "www.nj.gov",
+   "snippet": "May 2, 2025 ... TRENTON \u2014 Building on the success of \u201cREAL ID Thursdays,\u201d Governor Phil Murphy and New Jersey Motor Vehicle Commission (NJMVC) Acting Chief\u00a0...",
+   "htmlSnippet": "May 2, 2025 <b>...</b> TRENTON \u2014 Building on the success of \u201c<b>REAL ID</b> Thursdays,\u201d Governor Phil Murphy and New Jersey Motor Vehicle Commission (NJMVC) Acting Chief&nbsp;...",
+   "formattedUrl": "https://www.nj.gov/mvc/press/archives/2025/050225.htm",
+   "htmlFormattedUrl": "https://www.nj.gov/mvc/press/archives/2025/050225.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NJMVC Launches 'REAL ID Thursdays' to Expand Access to REAL ID",
+   "htmlTitle": "NJMVC Launches &#39;<b>REAL ID</b> Thursdays&#39; to Expand Access to <b>REAL ID</b>",
+   "link": "https://www.nj.gov/mvc/press/archives/2025/News%20Release%20-%20NJMVC%20Launches%20%E2%80%98REAL%20ID%20Thursdays%E2%80%99%20to%20Expand%20Access%20to%20REAL%20ID.pdf",
+   "displayLink": "www.nj.gov",
+   "snippet": "Mar 4, 2025 ... TRENTON \u2014 With the federal enforcement of REAL ID set to begin on May 7, 2025, the New Jersey Motor Vehicle Commission (NJMVC) today announced\u00a0...",
+   "htmlSnippet": "Mar 4, 2025 <b>...</b> TRENTON \u2014 With the federal enforcement of <b>REAL ID</b> set to begin on May 7, 2025, the New Jersey Motor Vehicle Commission (NJMVC) today announced&nbsp;...",
+   "formattedUrl": "https://www.nj.gov/.../News%20Release%20-%20NJMVC%20Launches%2...",
+   "htmlFormattedUrl": "https://www.nj.gov/.../News%20Release%20-%20NJMVC%20Launches%2...",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20250304142858-05'00'",
+      "creator": "Microsoft\u00ae Word for Microsoft 365",
+      "creationdate": "D:20250304142858-05'00'",
+      "author": "Connolly, William",
+      "producer": "Microsoft\u00ae Word for Microsoft 365"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NJ MVC | License Renewal",
+   "htmlTitle": "NJ MVC | License Renewal",
+   "link": "https://www.nj.gov/mvc/license/licrenew.htm",
+   "displayLink": "www.nj.gov",
+   "snippet": "REAL ID is coming. Click to visit. REALID.nj.gov.",
+   "htmlSnippet": "<b>REAL ID</b> is coming. Click to visit. REALID.nj.gov.",
+   "formattedUrl": "https://www.nj.gov/mvc/license/licrenew.htm",
+   "htmlFormattedUrl": "https://www.nj.gov/mvc/license/licrenew.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NJ Motor Vehicle Commission",
+   "htmlTitle": "NJ Motor Vehicle Commission",
+   "link": "https://www.nj.gov/mvc/",
+   "displayLink": "www.nj.gov",
+   "snippet": "Are you REAL ID ready? On May 7, 2025, U.S. travelers must be REAL ID compliant to board domestic flights and access certain federal facilities. Find out if\u00a0...",
+   "htmlSnippet": "Are you <b>REAL ID</b> ready? On May 7, 2025, U.S. travelers must be <b>REAL ID</b> compliant to board domestic flights and access certain federal facilities. Find out if&nbsp;...",
+   "formattedUrl": "https://www.nj.gov/mvc/",
+   "htmlFormattedUrl": "https://www.nj.gov/mvc/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5tMw9B2nJrWYQjb6iHR1520CzJratQ1ExSm3kD3Tyjp6avcrqQPoD61xV&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.nj.gov/mvc/images/custadc.png"
+     }
+    ]
+   }
+  }
+ ]
+}

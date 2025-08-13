@@ -1,0 +1,370 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"New Mexico Statutes Annotated\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "47",
+    "searchTerms": "\"New Mexico Statutes Annotated\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"New Mexico Statutes Annotated\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "47",
+    "searchTerms": "\"New Mexico Statutes Annotated\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.307269,
+  "formattedSearchTime": "0.31",
+  "totalResults": "47",
+  "formattedTotalResults": "47"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "TRD Publication 18.18 & 18.19 NMAC Regulations Pertaining to the ...",
+   "htmlTitle": "TRD Publication 18.18 &amp; 18.19 NMAC Regulations Pertaining to the ...",
+   "link": "https://realfile.tax.newmexico.gov/Motor%20Vehicle%20Code.pdf",
+   "displayLink": "realfile.tax.newmexico.gov",
+   "snippet": "... personal information. 66-2-7.2. ROYALTIES--COMMERCIAL USERS OF MOTOR VEHICLE ... IDENTIFICATION CARD. 66-3-4. APPLICATION FOR REGISTRATION AND CERTIFCATE\u00a0...",
+   "htmlSnippet": "... <b>personal information</b>. 66-2-7.2. ROYALTIES--COMMERCIAL USERS OF MOTOR VEHICLE ... <b>IDENTIFICATION CARD</b>. 66-3-4. APPLICATION FOR REGISTRATION AND CERTIFCATE&nbsp;...",
+   "formattedUrl": "https://realfile.tax.newmexico.gov/Motor%20Vehicle%20Code.pdf",
+   "htmlFormattedUrl": "https://realfile.tax.newmexico.gov/Motor%20Vehicle%20Code.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20250506121026-06'00'",
+      "creationdate": "D:20250506120909-06'00'",
+      "creator": "Acrobat PDFMaker 25 for Word",
+      "sourcemodified": "D:20250506180814",
+      "author": "TAXINFO2",
+      "subject": "Draft TRD Rule MVC 593",
+      "producer": "Adobe PDF Library 25.1.250",
+      "company": "Taxation & Revenue Dept.",
+      "title": "18 NMAC 18/19  MVC [PUB]"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "New Mexico Statutes Annotated",
+   "htmlTitle": "<b>New Mexico Statutes Annotated</b>",
+   "link": "https://www.nationalnotary.org/file%20library/nna/reference-library/state-law-summaries/new_mexico.pdf",
+   "displayLink": "www.nationalnotary.org",
+   "snippet": "Dec 20, 2024 ... (1) by means of: (a) a passport, driver's license or government-issued nondriver identification card, which is current or expired not more\u00a0...",
+   "htmlSnippet": "Dec 20, 2024 <b>...</b> (1) by <b>means</b> of: (a) a passport, <b>driver&#39;s license</b> or government-issued nondriver <b>identification card</b>, which is current or expired not more&nbsp;...",
+   "formattedUrl": "https://www.nationalnotary.org/file%20library/nna/.../new_mexico.pdf",
+   "htmlFormattedUrl": "https://www.nationalnotary.org/file%20library/nna/.../new_mexico.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20241220065314-08'00'",
+      "creator": "Microsoft\u00ae Word for Microsoft 365",
+      "creationdate": "D:20241220065314-08'00'",
+      "author": "NNA NNA",
+      "producer": "Microsoft\u00ae Word for Microsoft 365",
+      "title": "New Mexico Statutes Annotated"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "FOREWORD",
+   "htmlTitle": "FOREWORD",
+   "link": "https://nmml.org/DocumentCenter/View/226/Pocket-Guide-for-New-Mexico-Municipal-Officials-PDF",
+   "displayLink": "nmml.org",
+   "snippet": "It is not intended to substitute for referral to the complete New Mexico Statutes Annotated 1978 and it ... of this Act, \"limited personnel matters\" means the.",
+   "htmlSnippet": "It is not intended to substitute for referral to the complete <b>New Mexico Statutes Annotated</b> 1978 and it ... of this Act, &quot;limited personnel matters&quot; <b>means</b> the.",
+   "formattedUrl": "https://nmml.org/.../Pocket-Guide-for-New-Mexico-Municipal-Officials-PD...",
+   "htmlFormattedUrl": "https://nmml.org/.../Pocket-Guide-for-New-Mexico-Municipal-Officials-PD...",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20160308162732-07'00'",
+      "creationdate": "D:20160308162732-07'00'",
+      "creator": "PScript5.dll Version 5.2.2",
+      "author": "rmakin",
+      "producer": "Acrobat Distiller 8.1.0 (Windows)",
+      "title": "Microsoft Word - introduction2016_revised"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NEW MEXICO INSPECTION OF PUBLIC RECORDS ACT",
+   "htmlTitle": "NEW MEXICO INSPECTION OF PUBLIC RECORDS ACT",
+   "link": "https://www.nmag.gov/wp-content/uploads/2021/11/Inspection-of-Public-Records-Compliance-Guide-2015-Edit.pdf",
+   "displayLink": "www.nmag.gov",
+   "snippet": "Disclosure of personal information about drivers obtained by the Motor Vehicle Division is unlawful, with limited exceptions. \u00a7 66-5-6. Driver's license\u00a0...",
+   "htmlSnippet": "Disclosure of <b>personal information</b> about drivers obtained by the Motor Vehicle Division is unlawful, with limited exceptions. \u00a7 66-5-6. <b>Driver&#39;s license</b>&nbsp;...",
+   "formattedUrl": "https://www.nmag.gov/.../Inspection-of-Public-Records-Compliance-Guide-...",
+   "htmlFormattedUrl": "https://www.nmag.gov/.../Inspection-of-Public-Records-Compliance-Guide-...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXekFroAGxYGltEoZgonZN3JG_lHKrpNaJQ_P32K7xivnNgBxWyL0_3w&s",
+      "width": "422",
+      "height": "119"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20230818105429-06'00'",
+      "creationdate": "D:20180209153320-07'00'",
+      "creator": "Adobe Acrobat Pro 10.1.16",
+      "producer": "Adobe Acrobat Pro 10.1.16"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///7183cd9e4508fd607bb7e35e451198527a8accefcaa18af5cbb2b8717b38ed61"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Untitled",
+   "htmlTitle": "Untitled",
+   "link": "https://www.nmlegis.gov/handouts/CCJ%20102915%20Item%201%20Administrative%20Office%20of%20the%20Courts%20Report.pdf",
+   "displayLink": "www.nmlegis.gov",
+   "snippet": "Sep 28, 2015 ... person's driver's license is suspended or ... order to follow up on the defendant's personal information and other related court documents.",
+   "htmlSnippet": "Sep 28, 2015 <b>...</b> person&#39;s <b>driver&#39;s license</b> is suspended or ... order to follow up on the defendant&#39;s <b>personal information</b> and other related court documents.",
+   "formattedUrl": "https://www.nmlegis.gov/.../CCJ%20102915%20Item%201%20Administrat...",
+   "htmlFormattedUrl": "https://www.nmlegis.gov/.../CCJ%20102915%20Item%201%20Administrat...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTilbNnxeXW2EVnXfUpChlo4E1WSOyYFKBZY2i7R-gFkkf24AIi_aZF_mk&s",
+      "width": "197",
+      "height": "255"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "Thu Oct  1 07:05:36 2015",
+      "creator": "Xerox D110 Copier-Printer",
+      "creationdate": "Thu Oct  1 06:48:38 2015",
+      "producer": "Xerox D110 Copier-Printer"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///855b6cc3dfba9059fbcc0f888bf603ea908925e89280b18686d75a9d579a622a"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "New Mexico Traffic Laws - FindLaw",
+   "htmlTitle": "New Mexico Traffic Laws - FindLaw",
+   "link": "https://www.findlaw.com/state/new-mexico-law/new-mexico-traffic-laws.html",
+   "displayLink": "www.findlaw.com",
+   "snippet": "You can find most driving laws in Chapter 66 of the New Mexico Statutes Annotated (NMSA 1978). ... Agreeing to pay the penalty assessment means you can't fight\u00a0...",
+   "htmlSnippet": "You can find most driving laws in Chapter 66 of the <b>New Mexico Statutes Annotated</b> (NMSA 1978). ... Agreeing to pay the penalty assessment <b>means</b> you can&#39;t fight&nbsp;...",
+   "formattedUrl": "https://www.findlaw.com/state/new-mexico.../new-mexico-traffic-laws.html",
+   "htmlFormattedUrl": "https://www.findlaw.com/state/new-mexico.../new-mexico-traffic-laws.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDCUrLHI1t3a_-mSG-Id90GG73cgs2cJwlCFm8yXeIvdFGVHKmSViVbDPe&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png",
+      "og:type": "article",
+      "og:site_name": "Findlaw",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "New Mexico Traffic Laws - FindLaw",
+      "apple-mobile-web-app-title": "FindLaw",
+      "og:url": "https://www.findlaw.com/state/new-mexico-law/new-mexico-traffic-laws.html",
+      "og:description": "While driving in New Mexico, it's important to know the laws and codes so you won't have any issues. Learn about online services, the DMV, and much more at FindLaw.com."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CIVIL RULES GUIDE",
+   "htmlTitle": "CIVIL RULES GUIDE",
+   "link": "https://www.sheriffs.org/sites/default/files/Civil%20Rules%20Guide%202017%20Redux.pdf",
+   "displayLink": "www.sheriffs.org",
+   "snippet": "officer as defined in s. ... The expenses of such person may be assessed as costs only if they are reasonable and if service by mail or other public means cannot\u00a0...",
+   "htmlSnippet": "officer as <b>defined</b> in s. ... The expenses of such person may be assessed as costs only if they are reasonable and if service by mail or other public <b>means</b> cannot&nbsp;...",
+   "formattedUrl": "https://www.sheriffs.org/.../Civil%20Rules%20Guide%202017%20Redux.p...",
+   "htmlFormattedUrl": "https://www.sheriffs.org/.../Civil%20Rules%20Guide%202017%20Redux.p...",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20170607085254-04'00'",
+      "creationdate": "D:20170208111236-08'00'",
+      "creator": "Microsoft\u00ae Word 2013",
+      "author": "Alan H. Crowe",
+      "producer": "Microsoft\u00ae Word 2013",
+      "title": "Alabama"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "How to File Bankruptcy in New Mexico (NM)",
+   "htmlTitle": "How to File Bankruptcy in New Mexico (NM)",
+   "link": "https://www.nolo.com/legal-encyclopedia/how-to-file-bankruptcy-in-new-mexico.html",
+   "displayLink": "www.nolo.com",
+   "snippet": "Compare the figure to the income charts on the U.S. Trustee's website (select \"Means Testing Information\"). ... defined benefit plans and traditional and\u00a0...",
+   "htmlSnippet": "Compare the figure to the income charts on the U.S. Trustee&#39;s website (select &quot;<b>Means</b> Testing Information&quot;). ... <b>defined</b> benefit plans and traditional and&nbsp;...",
+   "formattedUrl": "https://www.nolo.com/legal.../how-to-file-bankruptcy-in-new-mexico.html",
+   "htmlFormattedUrl": "https://www.nolo.com/legal.../how-to-file-bankruptcy-in-new-mexico.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBdY1ldsRbLCWcCwn0syYJasqaEAGVfokC-wmsg-HoNliHOrJKuYtYGDA&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#2b5797",
+      "msapplication-config": "/themes/default/favicon/browserconfig.xml",
+      "og:image": "https://www.nolo.com/files/logo/nolo-logo-OG.png",
+      "theme-color": "#01314c",
+      "og:type": "article",
+      "og:site_name": "www.nolo.com",
+      "og:title": "Filing for Bankruptcy in New Mexico (NM)",
+      "msapplication-tileimage": "/themes/default/favicon/mstile-144x144.png",
+      "title": "How to File Bankruptcy in New Mexico (NM)",
+      "og:description": "Learn about qualifying and filing a New Mexico bankruptcy, protecting property with bankruptcy exemptions, needed financial documents, and hiring a lawyer.",
+      "facebook-domain-verification": "gpucniew5yhm9jlx8gm9j8y658wwc1",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:url": "https://www.nolo.com/legal-encyclopedia/how-to-file-bankruptcy-in-new-mexico.html",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.nolo.com/files/logo/nolo-logo-OG.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "State of New Mexico Human Services Department Medicaid ...",
+   "htmlTitle": "State of New Mexico Human Services Department Medicaid ...",
+   "link": "https://www.hsd.state.nm.us/wp-content/uploads/BCBS-2.0-Contract-PSC-18-630-8000-0033-A5.pdf",
+   "displayLink": "www.hsd.state.nm.us",
+   "snippet": "Dec 27, 2021 ... Excluded Services means services that are not Covered Services as defined in this Agreement. ... NMSA means New Mexico Statutes Annotated. Non-\u00a0...",
+   "htmlSnippet": "Dec 27, 2021 <b>...</b> Excluded Services <b>means</b> services that are not Covered Services as <b>defined</b> in this Agreement. ... NMSA <b>means New Mexico Statutes Annotated</b>. Non-&nbsp;...",
+   "formattedUrl": "https://www.hsd.state.nm.us/.../BCBS-2.0-Contract-PSC-18-630-8000-0033...",
+   "htmlFormattedUrl": "https://www.hsd.state.nm.us/.../BCBS-2.0-Contract-PSC-18-630-8000-0033...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAMVI7dhpZDetB1s9xuJnqc_nDtapCwmu7PSlhC6I4E_HBf6bnmGdsbzO6&s",
+      "width": "348",
+      "height": "145"
+     }
+    ],
+    "metatags": [
+     {
+      "docusignconversioncorrelationtoken": "957f5e04-a228-476c-8095-ce48358b03d0",
+      "moddate": "D:20211227090810-08'00'",
+      "creationdate": "D:20211217060642-08'00'",
+      "author": "Melodee S. Koehler",
+      "producer": "PDFKit.NET 21.4.5.28079 DMV6",
+      "aptkver": "2017.1.1.18220 Pro Production-32"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///038117ff78b36f994fc3023100829906fc20d1f4dd64ad92cfd3933be00efa13"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "State of New Mexico Human Services Department Medicaid ...",
+   "htmlTitle": "State of New Mexico Human Services Department Medicaid ...",
+   "link": "https://www.hca.nm.gov/wp-content/uploads/PHP_A2-Completed.pdf",
+   "displayLink": "www.hca.nm.gov",
+   "snippet": "Sep 1, 2017 ... Excluded Services means services that are not Covered Services as defined in this Agreement. ... NMSA means New Mexico Statutes Annotated. Non-\u00a0...",
+   "htmlSnippet": "Sep 1, 2017 <b>...</b> Excluded Services <b>means</b> services that are not Covered Services as <b>defined</b> in this Agreement. ... NMSA <b>means New Mexico Statutes Annotated</b>. Non-&nbsp;...",
+   "formattedUrl": "https://www.hca.nm.gov/wp-content/uploads/PHP_A2-Completed.pdf",
+   "htmlFormattedUrl": "https://www.hca.nm.gov/wp-content/uploads/PHP_A2-Completed.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAMVI7dhpZDetB1s9xuJnqc_nDtapCwmu7PSlhC6I4E_HBf6bnmGdsbzO6&s",
+      "width": "348",
+      "height": "145"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20200407092944-07'00'",
+      "creationdate": "D:20200407092940-07'00'",
+      "producer": "PDFKit.NET 20.1.100.12070; modified using iTextSharp\u2122 5.5.13-SNAPSHOT \u00a92000-2017 iText Group NV (DocuSign, Inc.; licensed version)"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///038117ff78b36f994fc3023100829906fc20d1f4dd64ad92cfd3933be00efa13"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

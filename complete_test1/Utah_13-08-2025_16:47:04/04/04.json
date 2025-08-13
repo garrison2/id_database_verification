@@ -1,0 +1,244 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://dld.utah.gov/ \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "10",
+    "searchTerms": "site:https://dld.utah.gov/ \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.090946,
+  "formattedSearchTime": "0.09",
+  "totalResults": "10",
+  "formattedTotalResults": "10"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Get Your mDL | Utah Driver License Division",
+   "htmlTitle": "Get Your <b>mDL</b> | Utah Driver License Division",
+   "link": "https://dld.utah.gov/mdl-registration/",
+   "displayLink": "dld.utah.gov",
+   "snippet": "Valid Utah driver license or Utah identification card is required. Download the app from the Apple Store, Google Play, or scan/click the QR code to the left.",
+   "htmlSnippet": "Valid Utah driver license or Utah identification card is required. Download the app from the Apple Store, Google Play, or scan/click the QR code to the left.",
+   "formattedUrl": "https://dld.utah.gov/mdl-registration/",
+   "htmlFormattedUrl": "https://dld.utah.gov/<b>mdl</b>-registration/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-tileimage": "https://dld.utah.gov/wp-content/uploads/cropped-DLD-fav-icon-270x270.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Utah Mobile Driver License (mDL) Program",
+   "htmlTitle": "Utah Mobile Driver License (<b>mDL</b>) Program",
+   "link": "https://dld.utah.gov/utah-mdl/",
+   "displayLink": "dld.utah.gov",
+   "snippet": "The optional Mobile Driver License (mDL) program is managed by the Utah Department of Public Safety's Driver License Division (DLD) and provides an official\u00a0...",
+   "htmlSnippet": "The optional Mobile Driver License (<b>mDL</b>) program is managed by the Utah Department of Public Safety&#39;s Driver License Division (DLD) and provides an official&nbsp;...",
+   "formattedUrl": "https://dld.utah.gov/utah-mdl/",
+   "htmlFormattedUrl": "https://dld.utah.gov/utah-<b>mdl</b>/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-tileimage": "https://dld.utah.gov/wp-content/uploads/cropped-DLD-fav-icon-270x270.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "mDL Locations | Utah Driver License Division",
+   "htmlTitle": "<b>mDL</b> Locations | Utah Driver License Division",
+   "link": "https://dld.utah.gov/mdl-usage/",
+   "displayLink": "dld.utah.gov",
+   "snippet": "You can see a list of locations that accept contactless IDs on this map. As of March 2023, the mDL is accepted as an official ID at the following locations.",
+   "htmlSnippet": "You can see a list of locations that accept contactless IDs on this map. As of March 2023, the <b>mDL</b> is accepted as an official ID at the following locations.",
+   "formattedUrl": "https://dld.utah.gov/mdl-usage/",
+   "htmlFormattedUrl": "https://dld.utah.gov/<b>mdl</b>-usage/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-tileimage": "https://dld.utah.gov/wp-content/uploads/cropped-DLD-fav-icon-270x270.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "mDL FAQs | Utah Driver License Division (DLD) Web Site",
+   "htmlTitle": "<b>mDL</b> FAQs | Utah Driver License Division (DLD) Web Site",
+   "link": "https://dld.utah.gov/mdl-faqs/",
+   "displayLink": "dld.utah.gov",
+   "snippet": "The GET Mobile ID application will require you to scan your physical driver license, confirm your phone number, and take a live selfie inside the app. Please\u00a0...",
+   "htmlSnippet": "The GET <b>Mobile ID</b> application will require you to scan your physical driver license, confirm your phone number, and take a live selfie inside the app. Please&nbsp;...",
+   "formattedUrl": "https://dld.utah.gov/mdl-faqs/",
+   "htmlFormattedUrl": "https://dld.utah.gov/<b>mdl</b>-faqs/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-tileimage": "https://dld.utah.gov/wp-content/uploads/cropped-DLD-fav-icon-270x270.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Interact with mDL | Utah Driver License Division",
+   "htmlTitle": "Interact with <b>mDL</b> | Utah Driver License Division",
+   "link": "https://dld.utah.gov/mdl-verifiers/",
+   "displayLink": "dld.utah.gov",
+   "snippet": "... Mobile Driver's License (mDL) and Ecosystem. Tap & Go. With NFC terminals at ... mDL application (GET Mobile ID) for transferring data. Distance: Check\u00a0...",
+   "htmlSnippet": "... <b>Mobile Driver&#39;s License</b> (<b>mDL</b>) and Ecosystem. Tap &amp; Go. With NFC terminals at ... <b>mDL</b> application (GET <b>Mobile ID</b>) for transferring data. Distance: Check&nbsp;...",
+   "formattedUrl": "https://dld.utah.gov/mdl-verifiers/",
+   "htmlFormattedUrl": "https://dld.utah.gov/<b>mdl</b>-verifiers/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-tileimage": "https://dld.utah.gov/wp-content/uploads/cropped-DLD-fav-icon-270x270.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Accepting mDL | Utah Driver License Division",
+   "htmlTitle": "Accepting <b>mDL</b> | Utah Driver License Division",
+   "link": "https://dld.utah.gov/mdl-for-business/",
+   "displayLink": "dld.utah.gov",
+   "snippet": "To accept the mDL, you must check the digital signature using a standard verifier application to ensure authenticity.",
+   "htmlSnippet": "To accept the <b>mDL</b>, you must check the digital signature using a standard verifier application to ensure authenticity.",
+   "formattedUrl": "https://dld.utah.gov/mdl-for-business/",
+   "htmlFormattedUrl": "https://dld.utah.gov/<b>mdl</b>-for-business/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-tileimage": "https://dld.utah.gov/wp-content/uploads/cropped-DLD-fav-icon-270x270.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Types of Licenses | Utah Driver License Division",
+   "htmlTitle": "Types of Licenses | Utah Driver License Division",
+   "link": "https://dld.utah.gov/types-of-licenses/",
+   "displayLink": "dld.utah.gov",
+   "snippet": "Mobile driver license (mDL) \u00b7 Taxi endorsement. Follow us online. DPS Logo appears next to text \"Department of Public Safety\". Utah Driver License Division.",
+   "htmlSnippet": "Mobile driver license (<b>mDL</b>) &middot; Taxi endorsement. Follow us online. DPS Logo appears next to text &quot;Department of Public Safety&quot;. Utah Driver License Division.",
+   "formattedUrl": "https://dld.utah.gov/types-of-licenses/",
+   "htmlFormattedUrl": "https://dld.utah.gov/types-of-licenses/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-tileimage": "https://dld.utah.gov/wp-content/uploads/cropped-DLD-fav-icon-270x270.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MANUAL DEL CONDUCTO R DE UTAH 2024-2025",
+   "htmlTitle": "MANUAL DEL CONDUCTO R DE UTAH 2024-2025",
+   "link": "https://dld.utah.gov/wp-content/uploads/MANUAL-DEL-CONDUCTOR-DE-UTAH-2024.pdf",
+   "displayLink": "dld.utah.gov",
+   "snippet": "La mDL no est\u00e1 destinada a reemplazar ... Para presentar su licencia o identificaci\u00f3n, desbloquee la aplicaci\u00f3n GET Mobile ID con su PIN seguro o un dato.",
+   "htmlSnippet": "La <b>mDL</b> no est\u00e1 destinada a reemplazar ... Para presentar su licencia o identificaci\u00f3n, desbloquee la aplicaci\u00f3n GET <b>Mobile ID</b> con su PIN seguro o un dato.",
+   "formattedUrl": "https://dld.utah.gov/.../MANUAL-DEL-CONDUCTOR-DE-UTAH-2024.pd...",
+   "htmlFormattedUrl": "https://dld.utah.gov/.../MANUAL-DEL-CONDUCTOR-DE-UTAH-2024.pd...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_zNaAqtSDU_lPDKdkpwyz0DN-lK2UkTbDegNhvpsC2F5ssrK3Zvy7Io_O&s",
+      "width": "234",
+      "height": "216"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20241105170203-07'00'",
+      "creationdate": "D:20241105170118-07'00'",
+      "creator": "Acrobat PDFMaker 24 for Word",
+      "lastsaved": "D:20240827",
+      "sourcemodified": "D:20241105235854",
+      "author": "Michelle Bennett",
+      "created": "D:20240626",
+      "grammarlydocumentid": "e582f8e3c0b83775b17fe28d2bf465f300cff6fe13f80a2bd53ee9b4a0261241",
+      "producer": "Adobe PDF Library 24.3.212"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///6a121954336141177c200b61e44554d7de23a54f5d25487e10c94a8a2350d60e"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Fees",
+   "htmlTitle": "Fees",
+   "link": "https://dld.utah.gov/fees/",
+   "displayLink": "dld.utah.gov",
+   "snippet": "Learner Permit, $19.00 ; Regular Adult Driver License (Class D) (online renewal fee $42.00), $52.00 ; Regular Adult Driver License (Class D 65+) (\u00a0...",
+   "htmlSnippet": "Learner Permit, $19.00 ; Regular Adult Driver License (Class D) (online renewal fee $42.00), $52.00 ; Regular Adult Driver License (Class D 65+) (&nbsp;...",
+   "formattedUrl": "https://dld.utah.gov/fees/",
+   "htmlFormattedUrl": "https://dld.utah.gov/fees/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-tileimage": "https://dld.utah.gov/wp-content/uploads/cropped-DLD-fav-icon-270x270.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driving Record | Utah Driver License Division",
+   "htmlTitle": "Driving Record | Utah Driver License Division",
+   "link": "https://dld.utah.gov/mvr/",
+   "displayLink": "dld.utah.gov",
+   "snippet": "An MVR will display citations, arrests, suspensions, and revocations. Most information is displayed for three (3) years; however, DUI or drug-related charges\u00a0...",
+   "htmlSnippet": "An MVR will display citations, arrests, suspensions, and revocations. Most information is displayed for three (3) years; however, DUI or drug-related charges&nbsp;...",
+   "formattedUrl": "https://dld.utah.gov/mvr/",
+   "htmlFormattedUrl": "https://dld.utah.gov/mvr/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-tileimage": "https://dld.utah.gov/wp-content/uploads/cropped-DLD-fav-icon-270x270.png"
+     }
+    ]
+   }
+  }
+ ]
+}

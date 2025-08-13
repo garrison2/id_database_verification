@@ -1,0 +1,320 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://www.dmv.virginia.gov/ \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"  \"privacy policy\" OR \"privacy notice\" OR \"privacy statement\" OR \"terms of service\" OR \"terms and conditions\"",
+    "totalResults": "8",
+    "searchTerms": "site:https://www.dmv.virginia.gov/ \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"  \"privacy policy\" OR \"privacy notice\" OR \"privacy statement\" OR \"terms of service\" OR \"terms and conditions\"",
+    "count": 8,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.153176,
+  "formattedSearchTime": "0.15",
+  "totalResults": "8",
+  "formattedTotalResults": "8"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile ID Terms and Conditions | Virginia Department of Motor ...",
+   "htmlTitle": "<b>Mobile ID Terms and Conditions</b> | Virginia Department of Motor ...",
+   "link": "https://www.dmv.virginia.gov/licenses-ids/mobile-id/terms",
+   "displayLink": "www.dmv.virginia.gov",
+   "snippet": "Mobile ID Terms and Conditions. NOTE: We are currently test driving Virginia ... privacy policy given to you by the Digital Wallet provider. By\u00a0...",
+   "htmlSnippet": "<b>Mobile ID Terms and Conditions</b>. NOTE: We are currently test driving Virginia ... <b>privacy policy</b> given to you by the Digital Wallet provider. By&nbsp;...",
+   "formattedUrl": "https://www.dmv.virginia.gov/licenses-ids/mobile-id/terms",
+   "htmlFormattedUrl": "https://www.dmv.virginia.gov/licenses-ids/<b>mobile-id</b>/terms",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrdzU_br5_YiI8EoVeeqQ5dyWirS6kSf6gMmItyunE0eSSImAMJzSfuNQ&s",
+      "width": "224",
+      "height": "224"
+     }
+    ],
+    "metatags": [
+     {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Mobile ID Terms and Conditions",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Mobile ID Terms and Conditions",
+      "mobileoptimized": "width",
+      "og:description": "These Terms and Conditions apply when you, an applicant, add a Driver's License or Identification Card (\"Credential\") issued by the Virginia Department of Motor Vehicles (\"DMV\") to an application (\"Digital Wallet\") that will allow you to present the digital or mobile form of your Credential (\"Mobile ID\") to verify your identity, demographics, and driving privileges with merchants, government entities, law enforcement, and other requesters instead of presenting your physical state-issued credential according to Virginia law. DMV reserves the right to update these Terms at any time and without notice as permitted by law, and your continued use of this mobile ID constitutes agreement to all such changes. You may elect to add a digital or electronic version of your physical Credential to the Digital Wallet.",
+      "twitter:creator": "@VirginiaDMV"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.developer.virginia.gov/media/developer/assets/img/close_icon.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile ID Privacy Policy | Virginia Department of Motor Vehicles",
+   "htmlTitle": "<b>Mobile ID Privacy Policy</b> | Virginia Department of Motor Vehicles",
+   "link": "https://www.dmv.virginia.gov/licenses-ids/mobile-id/privacy",
+   "displayLink": "www.dmv.virginia.gov",
+   "snippet": "Mobile ID Privacy Policy. NOTE: We are currently test driving Virginia Mobile ID. DMV agrees without reservation\u00a0...",
+   "htmlSnippet": "<b>Mobile ID Privacy Policy</b>. NOTE: We are currently test driving Virginia <b>Mobile ID</b>. DMV agrees without reservation&nbsp;...",
+   "formattedUrl": "https://www.dmv.virginia.gov/licenses-ids/mobile-id/privacy",
+   "htmlFormattedUrl": "https://www.dmv.virginia.gov/licenses-ids/<b>mobile-id</b>/privacy",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrdzU_br5_YiI8EoVeeqQ5dyWirS6kSf6gMmItyunE0eSSImAMJzSfuNQ&s",
+      "width": "224",
+      "height": "224"
+     }
+    ],
+    "metatags": [
+     {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Mobile ID Privacy Policy",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Mobile ID Privacy Policy",
+      "mobileoptimized": "width",
+      "og:description": "DMV agrees without reservation or qualification that it and its officers, employees, agents, and/or authorized users shall comply with, and be subject to the penalties for violations of, all laws and regulations, whether federal or state, pertaining to the access, use, and/or dissemination of information, including but not limited to, the Federal Driver\u2019s Privacy Protection Act of 1994, 18 U.S.C. \u00a7 2721 et seq.; the Federal Fair Credit Reporting Act, 15 U.S.C.",
+      "twitter:creator": "@VirginiaDMV"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.developer.virginia.gov/media/developer/assets/img/close_icon.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile ID Frequently Asked Questions (FAQs) | Virginia Department ...",
+   "htmlTitle": "<b>Mobile ID</b> Frequently Asked Questions (FAQs) | Virginia Department ...",
+   "link": "https://www.dmv.virginia.gov/licenses-ids/mobile-id/faq",
+   "displayLink": "www.dmv.virginia.gov",
+   "snippet": "What are mID's Terms and Conditions? See our Terms and Conditions. How do I remove the mID from my device? If you wish to remove the ... Privacy Policy.",
+   "htmlSnippet": "What are mID&#39;s <b>Terms and Conditions</b>? See our <b>Terms and Conditions</b>. How do I remove the mID from my device? If you wish to remove the ... <b>Privacy Policy</b>.",
+   "formattedUrl": "https://www.dmv.virginia.gov/licenses-ids/mobile-id/faq",
+   "htmlFormattedUrl": "https://www.dmv.virginia.gov/licenses-ids/<b>mobile-id</b>/faq",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrdzU_br5_YiI8EoVeeqQ5dyWirS6kSf6gMmItyunE0eSSImAMJzSfuNQ&s",
+      "width": "224",
+      "height": "224"
+     }
+    ],
+    "metatags": [
+     {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Mobile ID Frequently Asked Questions (FAQs)",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Mobile ID Frequently Asked Questions (FAQs)",
+      "mobileoptimized": "width",
+      "twitter:creator": "@VirginiaDMV"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.developer.virginia.gov/media/developer/assets/img/close_icon.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile ID Participating Locations | Virginia Department of Motor ...",
+   "htmlTitle": "<b>Mobile ID</b> Participating Locations | Virginia Department of Motor ...",
+   "link": "https://www.dmv.virginia.gov/licenses-ids/mobile-id/locations",
+   "displayLink": "www.dmv.virginia.gov",
+   "snippet": "Mobile ID Participating Locations. NOTE: We are currently test driving Virginia Mobile ID. Use Virginia Mobile ID at more than 230 ... Privacy Policy.",
+   "htmlSnippet": "<b>Mobile ID</b> Participating Locations. NOTE: We are currently test driving Virginia <b>Mobile ID</b>. Use Virginia <b>Mobile ID</b> at more than 230 ... <b>Privacy Policy</b>.",
+   "formattedUrl": "https://www.dmv.virginia.gov/licenses-ids/mobile-id/locations",
+   "htmlFormattedUrl": "https://www.dmv.virginia.gov/licenses-ids/<b>mobile-id</b>/locations",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrdzU_br5_YiI8EoVeeqQ5dyWirS6kSf6gMmItyunE0eSSImAMJzSfuNQ&s",
+      "width": "224",
+      "height": "224"
+     }
+    ],
+    "metatags": [
+     {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Mobile ID Participating Locations",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Mobile ID Participating Locations",
+      "mobileoptimized": "width",
+      "twitter:creator": "@VirginiaDMV"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.developer.virginia.gov/media/developer/assets/img/close_icon.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Licenses & IDs | Virginia Department of Motor Vehicles",
+   "htmlTitle": "Licenses &amp; IDs | Virginia Department of Motor Vehicles",
+   "link": "https://www.dmv.virginia.gov/licenses-ids",
+   "displayLink": "www.dmv.virginia.gov",
+   "snippet": "... Vehicles (Superior Service | Secure Credentials | Saving Lives). \u00a92025 Virginia Department of Motor Vehicles. All Rights Reserved. Privacy Policy.",
+   "htmlSnippet": "... Vehicles (Superior Service | Secure Credentials | Saving Lives). \u00a92025 Virginia Department of Motor Vehicles. All Rights Reserved. <b>Privacy Policy</b>.",
+   "formattedUrl": "https://www.dmv.virginia.gov/licenses-ids",
+   "htmlFormattedUrl": "https://www.dmv.virginia.gov/licenses-ids",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrdzU_br5_YiI8EoVeeqQ5dyWirS6kSf6gMmItyunE0eSSImAMJzSfuNQ&s",
+      "width": "224",
+      "height": "224"
+     }
+    ],
+    "metatags": [
+     {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Licenses & IDs",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Licenses & IDs",
+      "mobileoptimized": "width",
+      "og:description": "Getting your license or ID can seem like a daunting task but Virginia DMV strives to make the experience as seamless as possible.",
+      "twitter:creator": "@VirginiaDMV"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.developer.virginia.gov/media/developer/assets/img/close_icon.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DMV Studies | Virginia Department of Motor Vehicles",
+   "htmlTitle": "DMV Studies | Virginia Department of Motor Vehicles",
+   "link": "https://www.dmv.virginia.gov/about/studies",
+   "displayLink": "www.dmv.virginia.gov",
+   "snippet": "Mobile Driver's License Study \u00b7 Non-Conventional Vehicles - Committee Report \u00b7 Property Carriers in Virginia \u00b7 Salvage Study \u00b7 Transportation ... Privacy Policy.",
+   "htmlSnippet": "<b>Mobile Driver&#39;s License</b> Study &middot; Non-Conventional Vehicles - Committee Report &middot; Property Carriers in Virginia &middot; Salvage Study &middot; Transportation ... <b>Privacy Policy</b>.",
+   "formattedUrl": "https://www.dmv.virginia.gov/about/studies",
+   "htmlFormattedUrl": "https://www.dmv.virginia.gov/about/studies",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrdzU_br5_YiI8EoVeeqQ5dyWirS6kSf6gMmItyunE0eSSImAMJzSfuNQ&s",
+      "width": "224",
+      "height": "224"
+     }
+    ],
+    "metatags": [
+     {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "DMV Studies",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "DMV Studies",
+      "mobileoptimized": "width",
+      "twitter:creator": "@VirginiaDMV"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.developer.virginia.gov/media/developer/assets/img/close_icon.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Home | Virginia Department of Motor Vehicles",
+   "htmlTitle": "Home | Virginia Department of Motor Vehicles",
+   "link": "https://www.dmv.virginia.gov/",
+   "displayLink": "www.dmv.virginia.gov",
+   "snippet": "... Vehicles (Superior Service | Secure Credentials | Saving Lives). \u00a92025 Virginia Department of Motor Vehicles. All Rights Reserved. Privacy Policy.",
+   "htmlSnippet": "... Vehicles (Superior Service | Secure Credentials | Saving Lives). \u00a92025 Virginia Department of Motor Vehicles. All Rights Reserved. <b>Privacy Policy</b>.",
+   "formattedUrl": "https://www.dmv.virginia.gov/",
+   "htmlFormattedUrl": "https://www.dmv.virginia.gov/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrdzU_br5_YiI8EoVeeqQ5dyWirS6kSf6gMmItyunE0eSSImAMJzSfuNQ&s",
+      "width": "224",
+      "height": "224"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.developer.virginia.gov/media/developer/assets/img/close_icon.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver's License | Virginia Department of Motor Vehicles",
+   "htmlTitle": "Driver&#39;s License | Virginia Department of Motor Vehicles",
+   "link": "https://www.dmv.virginia.gov/licenses-ids/license",
+   "displayLink": "www.dmv.virginia.gov",
+   "snippet": "... Vehicles (Superior Service | Secure Credentials | Saving Lives). \u00a92025 Virginia Department of Motor Vehicles. All Rights Reserved. Privacy Policy.",
+   "htmlSnippet": "... Vehicles (Superior Service | Secure Credentials | Saving Lives). \u00a92025 Virginia Department of Motor Vehicles. All Rights Reserved. <b>Privacy Policy</b>.",
+   "formattedUrl": "https://www.dmv.virginia.gov/licenses-ids/license",
+   "htmlFormattedUrl": "https://www.dmv.virginia.gov/licenses-ids/license",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrdzU_br5_YiI8EoVeeqQ5dyWirS6kSf6gMmItyunE0eSSImAMJzSfuNQ&s",
+      "width": "224",
+      "height": "224"
+     }
+    ],
+    "metatags": [
+     {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Driver's License",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Driver's License",
+      "mobileoptimized": "width",
+      "twitter:creator": "@VirginiaDMV"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.developer.virginia.gov/media/developer/assets/img/close_icon.png"
+     }
+    ]
+   }
+  }
+ ]
+}

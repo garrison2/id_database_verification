@@ -1,0 +1,558 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://www.dmv.nh.gov/ \"REAL ID\"",
+    "totalResults": "212",
+    "searchTerms": "site:https://www.dmv.nh.gov/ \"REAL ID\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://www.dmv.nh.gov/ \"REAL ID\"",
+    "totalResults": "212",
+    "searchTerms": "site:https://www.dmv.nh.gov/ \"REAL ID\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.138815,
+  "formattedSearchTime": "0.14",
+  "totalResults": "212",
+  "formattedTotalResults": "212"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "REAL ID | NH Division of Motor Vehicles",
+   "htmlTitle": "<b>REAL ID</b> | NH Division of Motor Vehicles",
+   "link": "https://www.dmv.nh.gov/drivers-licensenon-driver-ids/real-id",
+   "displayLink": "www.dmv.nh.gov",
+   "snippet": "What is REAL ID? Effective May 7, 2025, a federally compliant Driver License or Non-Driver Identification Card, or a Passport is required to board an\u00a0...",
+   "htmlSnippet": "What is <b>REAL ID</b>? Effective May 7, 2025, a federally compliant Driver License or Non-Driver Identification Card, or a Passport is required to board an&nbsp;...",
+   "formattedUrl": "https://www.dmv.nh.gov/drivers-licensenon-driver-ids/real-id",
+   "htmlFormattedUrl": "https://www.dmv.nh.gov/drivers-licensenon-driver-ids/<b>real-id</b>",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS_tCew8rCHwfMAJv28QqUaUYcCImPgIJMNhHEynzazA81G55y_iMz2cA&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "postaladdress": [
+     {
+      "telephone": "1-800-735-2964"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "REAL ID",
+      "theme-color": "#2f5a8e",
+      "og:site_name": "NH Division of Motor Vehicles",
+      "twitter:site:id": "908050104879370240",
+      "handheldfriendly": "true",
+      "twitter:url": "https://www.dmv.nh.gov/drivers-licensenon-driver-ids/real-id",
+      "og:title": "REAL ID",
+      "og:description": "What is REAL ID?",
+      "twitter:image": "https://www.dmv.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png",
+      "twitter:image:alt": "New Hampshire Department of Motor Vehicles",
+      "twitter:site": "@NH_DMV",
+      "news_keywords": "dmv, motor, vehicles, safety, new hampshire, nh",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "What is REAL ID?",
+      "mobileoptimized": "width",
+      "og:url": "https://www.dmv.nh.gov/drivers-licensenon-driver-ids/real-id"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Welcome to the New Hampshire Division of Motor Vehicles | NH ...",
+   "htmlTitle": "Welcome to the New Hampshire Division of Motor Vehicles | NH ...",
+   "link": "https://www.dmv.nh.gov/",
+   "displayLink": "www.dmv.nh.gov",
+   "snippet": "What is REAL ID? Effective May 7, 2025, a REAL ID Driver License or Non-Driver Identification Card, or a Passport is required to board an airplane\u00a0...",
+   "htmlSnippet": "What is <b>REAL ID</b>? Effective May 7, 2025, a <b>REAL ID</b> Driver License or Non-Driver Identification Card, or a Passport is required to board an airplane&nbsp;...",
+   "formattedUrl": "https://www.dmv.nh.gov/",
+   "htmlFormattedUrl": "https://www.dmv.nh.gov/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS_tCew8rCHwfMAJv28QqUaUYcCImPgIJMNhHEynzazA81G55y_iMz2cA&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "postaladdress": [
+     {
+      "telephone": "1-800-735-2964"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Welcome to the New Hampshire Division of Motor Vehicles",
+      "theme-color": "#2f5a8e",
+      "og:site_name": "NH Division of Motor Vehicles",
+      "twitter:site:id": "908050104879370240",
+      "handheldfriendly": "true",
+      "twitter:url": "https://www.dmv.nh.gov/welcome",
+      "og:title": "Welcome to the New Hampshire Division of Motor Vehicles",
+      "og:description": "An official New Hampshire Government web site.",
+      "twitter:image": "https://www.dmv.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png",
+      "twitter:image:alt": "New Hampshire Department of Motor Vehicles",
+      "twitter:site": "@NH_DMV",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "An official New Hampshire Government web site.",
+      "mobileoptimized": "width",
+      "og:url": "https://www.dmv.nh.gov/welcome"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "IDENTITY AND RESIDENCY REQUIREMENTS (Federally compliant)",
+   "htmlTitle": "IDENTITY AND RESIDENCY REQUIREMENTS (Federally compliant)",
+   "link": "https://www.dmv.nh.gov/sites/g/files/ehbemt416/files/inline-documents/sonh/dsmv634a.pdf",
+   "displayLink": "www.dmv.nh.gov",
+   "snippet": "An important part in getting your REAL ID is ensuring that the documents you are using to prove your identity and your NH residency all reflect your current\u00a0...",
+   "htmlSnippet": "An important part in getting your <b>REAL ID</b> is ensuring that the documents you are using to prove your identity and your NH residency all reflect your current&nbsp;...",
+   "formattedUrl": "https://www.dmv.nh.gov/sites/g/files/ehbemt416/files/.../dsmv634a.pdf",
+   "htmlFormattedUrl": "https://www.dmv.nh.gov/sites/g/files/ehbemt416/files/.../dsmv634a.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8PafEjaznS_uUZYAlicXmRvydG0M-8Zjm8s15OeEmXK1uBKM7MZqhCKH9&s",
+      "width": "155",
+      "height": "146"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20230815124300-04'00'",
+      "creationdate": "D:20200309115403-04'00'",
+      "creator": "Microsoft\u00ae Word 2016",
+      "author": "Buckman, Maria",
+      "producer": "Microsoft\u00ae Word 2016"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///1d662b3dee85ef8382a921bdf2bd5a824e587114ae68603cf86cdd3c4465ce63"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What is REAL ID? | NH Division of Motor Vehicles",
+   "htmlTitle": "What is <b>REAL ID</b>? | NH Division of Motor Vehicles",
+   "link": "https://www.dmv.nh.gov/informational-item/what-real-id",
+   "displayLink": "www.dmv.nh.gov",
+   "snippet": "A REAL ID Driver License or Non-Driver Identification Card, or a Passport is required to board an airplane for domestic flights or enter a secure federal\u00a0...",
+   "htmlSnippet": "A <b>REAL ID</b> Driver License or Non-Driver Identification Card, or a Passport is required to board an airplane for domestic flights or enter a secure federal&nbsp;...",
+   "formattedUrl": "https://www.dmv.nh.gov/informational-item/what-real-id",
+   "htmlFormattedUrl": "https://www.dmv.nh.gov/informational-item/what-<b>real-id</b>",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS_tCew8rCHwfMAJv28QqUaUYcCImPgIJMNhHEynzazA81G55y_iMz2cA&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "postaladdress": [
+     {
+      "telephone": "1-800-735-2964"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "What is REAL ID?",
+      "theme-color": "#2f5a8e",
+      "og:site_name": "NH Division of Motor Vehicles",
+      "twitter:site:id": "908050104879370240",
+      "handheldfriendly": "true",
+      "twitter:url": "https://www.dmv.nh.gov/informational-item/what-real-id",
+      "og:title": "What is REAL ID?",
+      "og:description": "Effective May 7, 2025, a REAL ID Driver License or Non-Driver Identification Card, or a Passport is required to board an airplane for domestic flights or enter a secure federal facility.\u00a0 REAL ID Driver Licenses or Non-Driver Identification Cards are marked with a star in the top right corner to indicate it may be used for federal identification. For more information, please visit our Real ID page.",
+      "twitter:image": "https://www.dmv.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png",
+      "twitter:image:alt": "New Hampshire Department of Motor Vehicles",
+      "twitter:site": "@NH_DMV",
+      "news_keywords": "dmv, motor, vehicles, safety, new hampshire, nh",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Effective May 7, 2025, a REAL ID Driver License or Non-Driver Identification Card, or a Passport is required to board an airplane for domestic flights or enter a secure federal facility.\u00a0 REAL ID Driver Licenses or Non-Driver Identification Cards are marked with a star in the top right corner to indicate it may be used for federal identification. For more information, please visit our Real ID page.",
+      "mobileoptimized": "width",
+      "og:url": "https://www.dmv.nh.gov/informational-item/what-real-id"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Some New Hampshire DMV Branches To Open This Saturday For ...",
+   "htmlTitle": "Some New Hampshire DMV Branches To Open This Saturday For ...",
+   "link": "https://www.dmv.nh.gov/news-and-media/some-new-hampshire-dmv-branches-open-saturday-real-id-transactions",
+   "displayLink": "www.dmv.nh.gov",
+   "snippet": "Apr 28, 2025 ... A REAL ID driver's license or non-driver identification card will be marked with a star in the top right corner to indicate it may be used for\u00a0...",
+   "htmlSnippet": "Apr 28, 2025 <b>...</b> A <b>REAL ID</b> driver&#39;s license or non-driver identification card will be marked with a star in the top right corner to indicate it may be used for&nbsp;...",
+   "formattedUrl": "https://www.dmv.nh.gov/.../some-new-hampshire-dmv-branches-open-satu...",
+   "htmlFormattedUrl": "https://www.dmv.nh.gov/.../some-new-hampshire-dmv-branches-open-satu...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS_tCew8rCHwfMAJv28QqUaUYcCImPgIJMNhHEynzazA81G55y_iMz2cA&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "organization": [
+     {
+      "contactpoint": "DMV Customer Service,",
+      "department": "(603) 227-4000"
+     }
+    ],
+    "postaladdress": [
+     {
+      "telephone": "1-800-735-2964"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Some New Hampshire DMV Branches To Open This Saturday For REAL ID Transactions",
+      "theme-color": "#2f5a8e",
+      "og:site_name": "NH Division of Motor Vehicles",
+      "twitter:site:id": "908050104879370240",
+      "handheldfriendly": "true",
+      "twitter:url": "https://www.dmv.nh.gov/news-and-media/some-new-hampshire-dmv-branches-open-saturday-real-id-transactions",
+      "og:title": "Some New Hampshire DMV Branches To Open This Saturday For REAL ID Transactions",
+      "og:description": "CONCORD, N.H. \u2013 The New Hampshire Division of Motor Vehicles (DMV) announces multiple branches will open this weekend to accommodate demands for REAL ID-compliant driver\u2019s licenses and non-driver identification cards. On Saturday, May 3, 2025, DMV branches in Concord, Manchester and Twin Mountain will offer appointments and walk-in services from 9 a.m. to 3 p.m. Transactions will be limited to REAL ID services only. Appointments can be made online now through the DMV\u2019s website.",
+      "twitter:image": "https://www.dmv.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png",
+      "twitter:image:alt": "New Hampshire Department of Motor Vehicles",
+      "twitter:site": "@NH_DMV",
+      "news_keywords": "dmv, motor, vehicles, safety, new hampshire, nh",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "CONCORD, N.H. \u2013 The New Hampshire Division of Motor Vehicles (DMV) announces multiple branches will open this weekend to accommodate demands for REAL ID-compliant driver\u2019s licenses and non-driver identification cards. On Saturday, May 3, 2025, DMV branches in Concord, Manchester and Twin Mountain will offer appointments and walk-in services from 9 a.m. to 3 p.m. Transactions will be limited to REAL ID services only. Appointments can be made online now through the DMV\u2019s website.",
+      "mobileoptimized": "width",
+      "og:url": "https://www.dmv.nh.gov/news-and-media/some-new-hampshire-dmv-branches-open-saturday-real-id-transactions"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "New Hampshire DMV Announces a New Phone Number for REAL ...",
+   "htmlTitle": "New Hampshire DMV Announces a New Phone Number for <b>REAL</b> ...",
+   "link": "https://www.dmv.nh.gov/news-and-media/new-hampshire-dmv-announces-new-phone-number-real-id-information",
+   "displayLink": "www.dmv.nh.gov",
+   "snippet": "Feb 13, 2020 ... Customers can call 603-4-REALID to learn more about REAL ID and the required documents needed to get a REAL ID before they visit the DMV. \u201cThe\u00a0...",
+   "htmlSnippet": "Feb 13, 2020 <b>...</b> Customers can call 603-4-REALID to learn more about <b>REAL ID</b> and the required documents needed to get a <b>REAL ID</b> before they visit the DMV. \u201cThe&nbsp;...",
+   "formattedUrl": "https://www.dmv.nh.gov/.../new-hampshire-dmv-announces-new-phone-nu...",
+   "htmlFormattedUrl": "https://www.dmv.nh.gov/.../new-hampshire-dmv-announces-new-phone-nu...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS_tCew8rCHwfMAJv28QqUaUYcCImPgIJMNhHEynzazA81G55y_iMz2cA&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "organization": [
+     {
+      "contactpoint": "Larry Crowe,",
+      "telephone": "(603) 227-4200",
+      "department": "DMV PIO"
+     }
+    ],
+    "postaladdress": [
+     {
+      "telephone": "1-800-735-2964"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "New Hampshire DMV Announces a New Phone Number for REAL ID Information",
+      "theme-color": "#2f5a8e",
+      "og:site_name": "NH Division of Motor Vehicles",
+      "twitter:site:id": "908050104879370240",
+      "handheldfriendly": "true",
+      "twitter:url": "https://www.dmv.nh.gov/news-and-media/new-hampshire-dmv-announces-new-phone-number-real-id-information",
+      "og:title": "New Hampshire DMV Announces a New Phone Number for REAL ID Information",
+      "og:description": "Concord NH - The New Hampshire Division of Motor Vehicles is pleased to announce a new phone number available to assist customers with REAL ID questions and information, 603-4-REALID (603-473-2543). Customers can call 603-4-REALID to learn more about REAL ID and the required documents needed to get a REAL ID before they visit the DMV.",
+      "twitter:image": "https://www.dmv.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png",
+      "twitter:image:alt": "New Hampshire Department of Motor Vehicles",
+      "twitter:site": "@NH_DMV",
+      "news_keywords": "dmv, motor, vehicles, safety, new hampshire, nh",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Concord NH - The New Hampshire Division of Motor Vehicles is pleased to announce a new phone number available to assist customers with REAL ID questions and information, 603-4-REALID (603-473-2543). Customers can call 603-4-REALID to learn more about REAL ID and the required documents needed to get a REAL ID before they visit the DMV.",
+      "mobileoptimized": "width",
+      "og:url": "https://www.dmv.nh.gov/news-and-media/new-hampshire-dmv-announces-new-phone-number-real-id-information"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Upgrade to REAL ID | NH Division of Motor Vehicles",
+   "htmlTitle": "Upgrade to <b>REAL ID</b> | NH Division of Motor Vehicles",
+   "link": "https://www.dmv.nh.gov/faq/upgrade-real-id",
+   "displayLink": "www.dmv.nh.gov",
+   "snippet": ".pdf Icon (DSMV 450); Proof of Identity and Proof of Residency. Please review our Required Documents: REAL ID compliant\u00a0...",
+   "htmlSnippet": ".pdf Icon (DSMV 450); Proof of Identity and Proof of Residency. Please review our Required Documents: <b>REAL ID</b> compliant&nbsp;...",
+   "formattedUrl": "https://www.dmv.nh.gov/faq/upgrade-real-id",
+   "htmlFormattedUrl": "https://www.dmv.nh.gov/faq/upgrade-<b>real-id</b>",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS_tCew8rCHwfMAJv28QqUaUYcCImPgIJMNhHEynzazA81G55y_iMz2cA&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "postaladdress": [
+     {
+      "telephone": "1-800-735-2964"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Upgrade to REAL ID",
+      "theme-color": "#2f5a8e",
+      "og:site_name": "NH Division of Motor Vehicles",
+      "twitter:site:id": "908050104879370240",
+      "handheldfriendly": "true",
+      "twitter:url": "https://www.dmv.nh.gov/faq/upgrade-real-id",
+      "og:title": "Upgrade to REAL ID",
+      "twitter:image": "https://www.dmv.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png",
+      "twitter:image:alt": "New Hampshire Department of Motor Vehicles",
+      "twitter:site": "@NH_DMV",
+      "news_keywords": "dmv, motor, vehicles, safety, new hampshire, nh",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width",
+      "og:url": "https://www.dmv.nh.gov/faq/upgrade-real-id"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Online Renewals | NH Division of Motor Vehicles",
+   "htmlTitle": "Online Renewals | NH Division of Motor Vehicles",
+   "link": "https://www.dmv.nh.gov/online-services/online-renewals",
+   "displayLink": "www.dmv.nh.gov",
+   "snippet": "What you need to know to renew your Driver License or Non Driver Identification Card online. REAL ID: If you do not currently have a REAL ID compliant\u00a0...",
+   "htmlSnippet": "What you need to know to renew your Driver License or Non Driver Identification Card online. <b>REAL ID</b>: If you do not currently have a <b>REAL ID</b> compliant&nbsp;...",
+   "formattedUrl": "https://www.dmv.nh.gov/online-services/online-renewals",
+   "htmlFormattedUrl": "https://www.dmv.nh.gov/online-services/online-renewals",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS_tCew8rCHwfMAJv28QqUaUYcCImPgIJMNhHEynzazA81G55y_iMz2cA&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "postaladdress": [
+     {
+      "telephone": "1-800-735-2964"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Online Renewals",
+      "theme-color": "#2f5a8e",
+      "og:site_name": "NH Division of Motor Vehicles",
+      "twitter:site:id": "908050104879370240",
+      "handheldfriendly": "true",
+      "twitter:url": "https://www.dmv.nh.gov/online-services/online-renewals",
+      "og:title": "Online Renewals",
+      "twitter:image": "https://www.dmv.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png",
+      "twitter:image:alt": "New Hampshire Department of Motor Vehicles",
+      "twitter:site": "@NH_DMV",
+      "news_keywords": "dmv, motor, vehicles, safety, new hampshire, nh",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width",
+      "og:url": "https://www.dmv.nh.gov/online-services/online-renewals"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "State of New Hampshire Department of Safety Division of Motor ...",
+   "htmlTitle": "State of New Hampshire Department of Safety Division of Motor ...",
+   "link": "https://www.dmv.nh.gov/sites/g/files/ehbemt416/files/inline-documents/dsmv450.pdf",
+   "displayLink": "www.dmv.nh.gov",
+   "snippet": "(Does not apply to REAL ID). I wish to have my legal address appear on the back of my driver license or ID card. (Required on REAL ID). I am 18 years old\u00a0...",
+   "htmlSnippet": "(Does not apply to <b>REAL ID</b>). I wish to have my legal address appear on the back of my driver license or ID card. (Required on <b>REAL ID</b>). I am 18 years old&nbsp;...",
+   "formattedUrl": "https://www.dmv.nh.gov/sites/g/files/ehbemt416/files/inline.../dsmv450.pdf",
+   "htmlFormattedUrl": "https://www.dmv.nh.gov/sites/g/files/ehbemt416/files/inline.../dsmv450.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIjfMixhOoNONMcQCox8qOZyvjHcDbcBsR9H-yvEogRkgc8zOxhEzMwesZ&s",
+      "width": "197",
+      "height": "255"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20230718114757-04'00'",
+      "creationdate": "D:20180724155349-04'00'",
+      "creator": "Microsoft\u00ae Word 2010",
+      "author": "Bernard, Lauren",
+      "producer": "Microsoft\u00ae Word 2010"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///7d036f3529047b8672521e430b00dd808dc9f165468518ead0427de360314517"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DMV Locations Adding Saturday Hours For REAL ID Transactions ...",
+   "htmlTitle": "DMV Locations Adding Saturday Hours For <b>REAL ID</b> Transactions ...",
+   "link": "https://www.dmv.nh.gov/news-and-media/dmv-locations-adding-saturday-hours-real-id-transactions",
+   "displayLink": "www.dmv.nh.gov",
+   "snippet": "Oct 29, 2018 ... New Hampshire Division of Motor Vehicles (DMV) offers REAL ID driver licenses and non-driver identification cards that are fully compliant with\u00a0...",
+   "htmlSnippet": "Oct 29, 2018 <b>...</b> New Hampshire Division of Motor Vehicles (DMV) offers <b>REAL ID</b> driver licenses and non-driver identification cards that are fully compliant with&nbsp;...",
+   "formattedUrl": "https://www.dmv.nh.gov/.../dmv-locations-adding-saturday-hours-real-id-tr...",
+   "htmlFormattedUrl": "https://www.dmv.nh.gov/.../dmv-locations-adding-saturday-hours-<b>real-id</b>-tr...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS_tCew8rCHwfMAJv28QqUaUYcCImPgIJMNhHEynzazA81G55y_iMz2cA&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "organization": [
+     {
+      "contactpoint": "Larry Crowe,",
+      "telephone": "(603) 227-4200",
+      "department": "DMV PIO",
+      "email": "Sununu.Press@nh.gov"
+     }
+    ],
+    "postaladdress": [
+     {
+      "telephone": "1-800-735-2964"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "DMV Locations Adding Saturday Hours For REAL ID Transactions",
+      "theme-color": "#2f5a8e",
+      "og:site_name": "NH Division of Motor Vehicles",
+      "twitter:site:id": "908050104879370240",
+      "handheldfriendly": "true",
+      "twitter:url": "https://www.dmv.nh.gov/news-and-media/dmv-locations-adding-saturday-hours-real-id-transactions",
+      "og:title": "DMV Locations Adding Saturday Hours For REAL ID Transactions",
+      "og:description": "Concord NH \u2013 Will your license FLY? Soon, federally compliant identification will be required to board domestic flights and enter some federal facilities. New Hampshire Division of Motor Vehicles (DMV) offers REAL ID driver licenses and non-driver identification cards that are fully compliant with the federal requirements.",
+      "twitter:image": "https://www.dmv.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png",
+      "twitter:image:alt": "New Hampshire Department of Motor Vehicles",
+      "twitter:site": "@NH_DMV",
+      "news_keywords": "dmv, motor, vehicles, safety, new hampshire, nh",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Concord NH \u2013 Will your license FLY? Soon, federally compliant identification will be required to board domestic flights and enter some federal facilities. New Hampshire Division of Motor Vehicles (DMV) offers REAL ID driver licenses and non-driver identification cards that are fully compliant with the federal requirements.",
+      "mobileoptimized": "width",
+      "og:url": "https://www.dmv.nh.gov/news-and-media/dmv-locations-adding-saturday-hours-real-id-transactions"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.nh.gov/sites/g/files/ehbemt301/files/2020-05/default_social_card.png"
+     }
+    ]
+   }
+  }
+ ]
+}

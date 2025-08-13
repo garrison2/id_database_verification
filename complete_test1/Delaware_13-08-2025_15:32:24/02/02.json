@@ -1,0 +1,470 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://dmv.de.gov/ \"driver's license\" OR \"identification card\"",
+    "totalResults": "190",
+    "searchTerms": "site:https://dmv.de.gov/ \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://dmv.de.gov/ \"driver's license\" OR \"identification card\"",
+    "totalResults": "190",
+    "searchTerms": "site:https://dmv.de.gov/ \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.106341,
+  "formattedSearchTime": "0.11",
+  "totalResults": "190",
+  "formattedTotalResults": "190"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Real ID/Drivers License/Identification Cards - Division of Motor ...",
+   "htmlTitle": "Real ID/Drivers License/Identification Cards - Division of Motor ...",
+   "link": "https://dmv.de.gov/DriverServices/drivers_license/secureID/index.shtml",
+   "displayLink": "dmv.de.gov",
+   "snippet": "Driver's License Exam \u00b7 DMV Photograph Image Procedures \u00b7 Point and Speed ... identification card. The Delaware DMV is offering federally compliant driver\u00a0...",
+   "htmlSnippet": "<b>Driver&#39;s License</b> Exam &middot; DMV Photograph Image Procedures &middot; Point and Speed ... <b>identification card</b>. The Delaware DMV is offering federally compliant driver&nbsp;...",
+   "formattedUrl": "https://dmv.de.gov/DriverServices/drivers_license/secureID/index.shtml",
+   "htmlFormattedUrl": "https://dmv.de.gov/DriverServices/<b>drivers_license</b>/secureID/index.shtml",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7v29_OtCarXbOfq5dROQ2T4acZv-R9Bi2QZy_3koeRjKSr33ho18ZzaI&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffffff",
+      "og:image": "https://dmv.de.gov/CLF4/agency/img/logo/agencyLogoCircle.svg",
+      "og:type": "website",
+      "twitter:card": "summary",
+      "twitter:title": "Real ID/Drivers License/Identification Cards",
+      "theme-color": "#ffffff",
+      "og:site_name": "Division of Motor Vehicles",
+      "author": "The State of Delaware - Division of Motor Vehicles",
+      "og:title": "Real ID/Drivers License/Identification Cards",
+      "msapplication-tileimage": "/CLF4/agency/img/ms-icon-144x144.png",
+      "twitter:image": "https://dmv.de.gov/CLF4/agency/img/logo/agencyLogoCircle.svg",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:locale": "en_US",
+      "og:url": "https://dmv.de.gov/DriverServices/drivers_license/secureID/index.shtml"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.de.gov/CLF4/agency/img/logo/agencyLogoCircle.svg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Delaware driver license",
+   "htmlTitle": "Delaware driver license",
+   "link": "https://dmv.de.gov/DriverServices/drivers_license/index.shtml?dc=dr_lic_gen_req",
+   "displayLink": "dmv.de.gov",
+   "snippet": "... identification card(s) that have previously been issued to you will be ... driver's license from the United States State Department; Immigration status\u00a0...",
+   "htmlSnippet": "... <b>identification card</b>(s) that have previously been issued to you will be ... <b>driver&#39;s license</b> from the United States State Department; Immigration status&nbsp;...",
+   "formattedUrl": "https://dmv.de.gov/DriverServices/drivers_license/index.shtml?dc=dr...",
+   "htmlFormattedUrl": "https://dmv.de.gov/DriverServices/<b>drivers_license</b>/index.shtml?dc=dr...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7v29_OtCarXbOfq5dROQ2T4acZv-R9Bi2QZy_3koeRjKSr33ho18ZzaI&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffffff",
+      "og:image": "https://dmv.de.gov/CLF4/agency/img/logo/agencyLogoCircle.svg",
+      "og:type": "website",
+      "twitter:card": "summary",
+      "twitter:title": "Drivers License/Identification Cards",
+      "theme-color": "#ffffff",
+      "og:site_name": "Division of Motor Vehicles",
+      "author": "The State of Delaware - Division of Motor Vehicles",
+      "og:title": "Drivers License/Identification Cards",
+      "msapplication-tileimage": "/CLF4/agency/img/ms-icon-144x144.png",
+      "twitter:image": "https://dmv.de.gov/CLF4/agency/img/logo/agencyLogoCircle.svg",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:locale": "en_US",
+      "og:url": "https://dmv.de.gov/DriverServices/drivers_license/index.shtml?dc=dr_lic_gen_req"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.de.gov/CLF4/agency/img/logo/agencyLogoCircle.svg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Delaware Driver's License Renewal",
+   "htmlTitle": "Delaware <b>Driver&#39;s License</b> Renewal",
+   "link": "https://dmv.de.gov/DriverServices/drivers_license/index.shtml?dc=dr_lic_renewals",
+   "displayLink": "dmv.de.gov",
+   "snippet": "Driver License and Identification Card Application Procedures \u00b7 Gender ... Driver's License Instruction. INFORMATION. Director's Message \u00b7 About the Agency\u00a0...",
+   "htmlSnippet": "Driver License and <b>Identification Card</b> Application Procedures &middot; Gender ... <b>Driver&#39;s License</b> Instruction. INFORMATION. Director&#39;s Message &middot; About the Agency&nbsp;...",
+   "formattedUrl": "https://dmv.de.gov/DriverServices/drivers_license/index.shtml?dc=dr_lic...",
+   "htmlFormattedUrl": "https://dmv.de.gov/DriverServices/<b>drivers_license</b>/index.shtml?dc=dr_lic...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7v29_OtCarXbOfq5dROQ2T4acZv-R9Bi2QZy_3koeRjKSr33ho18ZzaI&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffffff",
+      "og:image": "https://dmv.de.gov/CLF4/agency/img/logo/agencyLogoCircle.svg",
+      "og:type": "website",
+      "twitter:card": "summary",
+      "twitter:title": "Drivers License/Identification Cards",
+      "theme-color": "#ffffff",
+      "og:site_name": "Division of Motor Vehicles",
+      "author": "The State of Delaware - Division of Motor Vehicles",
+      "og:title": "Drivers License/Identification Cards",
+      "msapplication-tileimage": "/CLF4/agency/img/ms-icon-144x144.png",
+      "twitter:image": "https://dmv.de.gov/CLF4/agency/img/logo/agencyLogoCircle.svg",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:locale": "en_US",
+      "og:url": "https://dmv.de.gov/DriverServices/drivers_license/index.shtml?dc=dr_lic_renewals"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.de.gov/CLF4/agency/img/logo/agencyLogoCircle.svg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "General Information - Division of Motor Vehicles",
+   "htmlTitle": "General Information - Division of Motor Vehicles",
+   "link": "https://dmv.de.gov/DriverServices/other/index.shtml?dc=dr_oth_replacement",
+   "displayLink": "dmv.de.gov",
+   "snippet": "Duplicate Identification card replacement fee is $5.00. *If you are under ... (See Required Document Table.) Sample of Forms: Driver's License Instructions\u00a0...",
+   "htmlSnippet": "Duplicate <b>Identification card</b> replacement fee is $5.00. *If you are under ... (See Required Document Table.) Sample of Forms: <b>Driver&#39;s License</b> Instructions&nbsp;...",
+   "formattedUrl": "https://dmv.de.gov/DriverServices/other/index.shtml?dc=dr_oth...",
+   "htmlFormattedUrl": "https://dmv.de.gov/DriverServices/other/index.shtml?dc=dr_oth...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7v29_OtCarXbOfq5dROQ2T4acZv-R9Bi2QZy_3koeRjKSr33ho18ZzaI&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffffff",
+      "og:image": "https://dmv.de.gov/CLF4/agency/img/logo/agencyLogoCircle.svg",
+      "og:type": "website",
+      "twitter:card": "summary",
+      "twitter:title": "General Information",
+      "theme-color": "#ffffff",
+      "og:site_name": "Division of Motor Vehicles",
+      "author": "The State of Delaware - Division of Motor Vehicles",
+      "og:title": "General Information",
+      "msapplication-tileimage": "/CLF4/agency/img/ms-icon-144x144.png",
+      "twitter:image": "https://dmv.de.gov/CLF4/agency/img/logo/agencyLogoCircle.svg",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:locale": "en_US",
+      "og:url": "https://dmv.de.gov/DriverServices/other/index.shtml?dc=dr_oth_replacement"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.de.gov/CLF4/agency/img/logo/agencyLogoCircle.svg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Fees - Division of Motor Vehicles",
+   "htmlTitle": "Fees - Division of Motor Vehicles",
+   "link": "https://dmv.de.gov/Common/DMVFees/index.shtml",
+   "displayLink": "dmv.de.gov",
+   "snippet": "Motor Vehicle Fees ; Photo Identification Card, $40.00 ; Duplicate Photo ID Card, $5.00 ; Driver's License Record, $25.00 ; Certified DL Affidavit, $30.00 ; DL\u00a0...",
+   "htmlSnippet": "Motor Vehicle Fees ; Photo <b>Identification Card</b>, $40.00 ; Duplicate Photo ID Card, $5.00 ; <b>Driver&#39;s License</b> Record, $25.00 ; Certified DL Affidavit, $30.00 ; DL&nbsp;...",
+   "formattedUrl": "https://dmv.de.gov/Common/DMVFees/index.shtml",
+   "htmlFormattedUrl": "https://dmv.de.gov/Common/DMVFees/index.shtml",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7v29_OtCarXbOfq5dROQ2T4acZv-R9Bi2QZy_3koeRjKSr33ho18ZzaI&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffffff",
+      "og:image": "https://dmv.de.gov/CLF4/agency/img/logo/agencyLogoCircle.svg",
+      "og:type": "website",
+      "twitter:card": "summary",
+      "twitter:title": "Fees",
+      "theme-color": "#ffffff",
+      "og:site_name": "Division of Motor Vehicles",
+      "author": "The State of Delaware - Division of Motor Vehicles",
+      "og:title": "Fees",
+      "msapplication-tileimage": "/CLF4/agency/img/ms-icon-144x144.png",
+      "twitter:image": "https://dmv.de.gov/CLF4/agency/img/logo/agencyLogoCircle.svg",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:locale": "en_US",
+      "og:url": "https://dmv.de.gov/Common/DMVFees/index.shtml"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.de.gov/CLF4/agency/img/logo/agencyLogoCircle.svg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Checklist to Obtain a FEDERALLY COMPLIANT Driver License or ...",
+   "htmlTitle": "Checklist to Obtain a FEDERALLY COMPLIANT Driver License or ...",
+   "link": "https://dmv.de.gov/DriverServices/drivers_license/secureID/pdfs/Driver_License_ID_Checklist.pdf",
+   "displayLink": "dmv.de.gov",
+   "snippet": "PHOTOCOPIES WILL NOT BE ACCEPTED. The following documents are REQUIRED to obtain a Federally Compliant Driver License and Identification Card. \u25a1 Original or\u00a0...",
+   "htmlSnippet": "PHOTOCOPIES WILL NOT BE ACCEPTED. The following documents are REQUIRED to obtain a Federally Compliant Driver License and <b>Identification Card</b>. \u25a1 Original or&nbsp;...",
+   "formattedUrl": "https://dmv.de.gov/.../drivers_license/.../Driver_License_ID_Checklist.pdf",
+   "htmlFormattedUrl": "https://dmv.de.gov/.../<b>drivers_license</b>/.../Driver_License_ID_Checklist.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx-_OkLG0gGuaYbLrf9Ywdc4kf3wyTpEjFyHxnruveno6z46nFahK0Q5g&s",
+      "width": "200",
+      "height": "200"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20230522124539-04'00'",
+      "creationdate": "D:20161014141917-04'00'",
+      "creator": "Microsoft\u00ae Word 2010",
+      "author": "summer.beauchamp",
+      "producer": "Microsoft\u00ae Word 2010",
+      "title": "ATTENTION:"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///80f7413a27d576cc6bc251ede130de84f44e24cff862d4fec152e41edd276ef3"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Drivers License/Identification Cards - Division of Motor Vehicles",
+   "htmlTitle": "Drivers License/Identification Cards - Division of Motor Vehicles",
+   "link": "https://dmv.de.gov/DriverServices/drivers_license/index.shtml?dc=dr_lic_trsfr_ov18",
+   "displayLink": "dmv.de.gov",
+   "snippet": "Driver License and Identification Card Application Procedures \u00b7 Gender ... You must turn in your previously issued out-of-state driver's license or\u00a0...",
+   "htmlSnippet": "Driver License and <b>Identification Card</b> Application Procedures &middot; Gender ... You must turn in your previously issued out-of-state <b>driver&#39;s license</b> or&nbsp;...",
+   "formattedUrl": "https://dmv.de.gov/DriverServices/drivers_license/index.shtml?dc=dr...",
+   "htmlFormattedUrl": "https://dmv.de.gov/DriverServices/<b>drivers_license</b>/index.shtml?dc=dr...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7v29_OtCarXbOfq5dROQ2T4acZv-R9Bi2QZy_3koeRjKSr33ho18ZzaI&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffffff",
+      "og:image": "https://dmv.de.gov/CLF4/agency/img/logo/agencyLogoCircle.svg",
+      "og:type": "website",
+      "twitter:card": "summary",
+      "twitter:title": "Drivers License/Identification Cards",
+      "theme-color": "#ffffff",
+      "og:site_name": "Division of Motor Vehicles",
+      "author": "The State of Delaware - Division of Motor Vehicles",
+      "og:title": "Drivers License/Identification Cards",
+      "msapplication-tileimage": "/CLF4/agency/img/ms-icon-144x144.png",
+      "twitter:image": "https://dmv.de.gov/CLF4/agency/img/logo/agencyLogoCircle.svg",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:locale": "en_US",
+      "og:url": "https://dmv.de.gov/DriverServices/drivers_license/index.shtml?dc=dr_lic_trsfr_ov18"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.de.gov/CLF4/agency/img/logo/agencyLogoCircle.svg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Veteran Indicator on Driver License or Identification Card",
+   "htmlTitle": "Veteran Indicator on Driver License or <b>Identification Card</b>",
+   "link": "https://dmv.de.gov/DriverServices/drivers_license/index.shtml?dc=dr_lic_vet_idcard",
+   "displayLink": "dmv.de.gov",
+   "snippet": "Driver's License Exam \u00b7 DMV Photograph Image Procedures \u00b7 Point and Speed System ... The Delaware Division of Motor Vehicles will, upon submission of satisfactory\u00a0...",
+   "htmlSnippet": "<b>Driver&#39;s License</b> Exam &middot; DMV Photograph Image Procedures &middot; Point and Speed System ... The Delaware Division of Motor Vehicles will, upon submission of satisfactory&nbsp;...",
+   "formattedUrl": "https://dmv.de.gov/DriverServices/drivers_license/index.shtml?dc=dr...",
+   "htmlFormattedUrl": "https://dmv.de.gov/DriverServices/<b>drivers_license</b>/index.shtml?dc=dr...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7v29_OtCarXbOfq5dROQ2T4acZv-R9Bi2QZy_3koeRjKSr33ho18ZzaI&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffffff",
+      "og:image": "https://dmv.de.gov/CLF4/agency/img/logo/agencyLogoCircle.svg",
+      "og:type": "website",
+      "twitter:card": "summary",
+      "twitter:title": "Drivers License/Identification Cards",
+      "theme-color": "#ffffff",
+      "og:site_name": "Division of Motor Vehicles",
+      "author": "The State of Delaware - Division of Motor Vehicles",
+      "og:title": "Drivers License/Identification Cards",
+      "msapplication-tileimage": "/CLF4/agency/img/ms-icon-144x144.png",
+      "twitter:image": "https://dmv.de.gov/CLF4/agency/img/logo/agencyLogoCircle.svg",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:locale": "en_US",
+      "og:url": "https://dmv.de.gov/DriverServices/drivers_license/index.shtml?dc=dr_lic_vet_idcard"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.de.gov/CLF4/agency/img/logo/agencyLogoCircle.svg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Frequently Asked Questions (FAQ's) - Division of Motor Vehicles",
+   "htmlTitle": "Frequently Asked Questions (FAQ&#39;s) - Division of Motor Vehicles",
+   "link": "https://dmv.de.gov/DriverServices/faqs/index.shtml?dc=dr_faq_idchanges",
+   "displayLink": "dmv.de.gov",
+   "snippet": "Driver's License and ID Requests/Changes. Q. How do I change my address on a ... How do I get an identification card? A: The fee for an identification\u00a0...",
+   "htmlSnippet": "<b>Driver&#39;s License</b> and ID Requests/Changes. Q. How do I change my address on a ... How do I get an <b>identification card</b>? A: The fee for an <b>identification</b>&nbsp;...",
+   "formattedUrl": "https://dmv.de.gov/DriverServices/faqs/index.shtml?dc=dr_faq...",
+   "htmlFormattedUrl": "https://dmv.de.gov/DriverServices/faqs/index.shtml?dc=dr_faq...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7v29_OtCarXbOfq5dROQ2T4acZv-R9Bi2QZy_3koeRjKSr33ho18ZzaI&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffffff",
+      "og:image": "https://dmv.de.gov/CLF4/agency/img/logo/agencyLogoCircle.svg",
+      "og:type": "website",
+      "twitter:card": "summary",
+      "twitter:title": "Frequently Asked Questions (FAQ's)",
+      "theme-color": "#ffffff",
+      "og:site_name": "Division of Motor Vehicles",
+      "author": "The State of Delaware - Division of Motor Vehicles",
+      "og:title": "Frequently Asked Questions (FAQ's)",
+      "msapplication-tileimage": "/CLF4/agency/img/ms-icon-144x144.png",
+      "twitter:image": "https://dmv.de.gov/CLF4/agency/img/logo/agencyLogoCircle.svg",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:locale": "en_US",
+      "og:url": "https://dmv.de.gov/DriverServices/faqs/index.shtml?dc=dr_faq_idchanges"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.de.gov/CLF4/agency/img/logo/agencyLogoCircle.svg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Graduated Driver License",
+   "htmlTitle": "Graduated Driver License",
+   "link": "https://dmv.de.gov/DriverServices/drivers_license/index.shtml?dc=dr_lic_grad_dl",
+   "displayLink": "dmv.de.gov",
+   "snippet": "Driver License and Identification Card Application Procedures \u00b7 Gender ... Driver's License Exam \u00b7 DMV Photograph Image Procedures \u00b7 Point and Speed System\u00a0...",
+   "htmlSnippet": "Driver License and <b>Identification Card</b> Application Procedures &middot; Gender ... <b>Driver&#39;s License</b> Exam &middot; DMV Photograph Image Procedures &middot; Point and Speed System&nbsp;...",
+   "formattedUrl": "https://dmv.de.gov/DriverServices/drivers_license/index.shtml?dc=dr...",
+   "htmlFormattedUrl": "https://dmv.de.gov/DriverServices/<b>drivers_license</b>/index.shtml?dc=dr...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7v29_OtCarXbOfq5dROQ2T4acZv-R9Bi2QZy_3koeRjKSr33ho18ZzaI&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffffff",
+      "og:image": "https://dmv.de.gov/CLF4/agency/img/logo/agencyLogoCircle.svg",
+      "og:type": "website",
+      "twitter:card": "summary",
+      "twitter:title": "Drivers License/Identification Cards",
+      "theme-color": "#ffffff",
+      "og:site_name": "Division of Motor Vehicles",
+      "author": "The State of Delaware - Division of Motor Vehicles",
+      "og:title": "Drivers License/Identification Cards",
+      "msapplication-tileimage": "/CLF4/agency/img/ms-icon-144x144.png",
+      "twitter:image": "https://dmv.de.gov/CLF4/agency/img/logo/agencyLogoCircle.svg",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:locale": "en_US",
+      "og:url": "https://dmv.de.gov/DriverServices/drivers_license/index.shtml?dc=dr_lic_grad_dl"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.de.gov/CLF4/agency/img/logo/agencyLogoCircle.svg"
+     }
+    ]
+   }
+  }
+ ]
+}

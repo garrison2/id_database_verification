@@ -1,0 +1,496 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://dds.georgia.gov/ \"REAL ID\"",
+    "totalResults": "226",
+    "searchTerms": "site:https://dds.georgia.gov/ \"REAL ID\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://dds.georgia.gov/ \"REAL ID\"",
+    "totalResults": "226",
+    "searchTerms": "site:https://dds.georgia.gov/ \"REAL ID\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.111352,
+  "formattedSearchTime": "0.11",
+  "totalResults": "226",
+  "formattedTotalResults": "226"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "REAL ID | Georgia Department of Driver Services",
+   "htmlTitle": "<b>REAL ID</b> | Georgia Department of Driver Services",
+   "link": "https://dds.georgia.gov/georgia-licenseid/general-license-topics/real-id",
+   "displayLink": "dds.georgia.gov",
+   "snippet": "All Georgia driver's licenses and IDs issued after 2012 are REAL ID-compliant and feature a gold or black star in the upper right-hand corner.",
+   "htmlSnippet": "All Georgia driver&#39;s licenses and IDs issued after 2012 are <b>REAL ID</b>-compliant and feature a gold or black star in the upper right-hand corner.",
+   "formattedUrl": "https://dds.georgia.gov/georgia-licenseid/general-license-topics/real-id",
+   "htmlFormattedUrl": "https://dds.georgia.gov/georgia-licenseid/general-license-topics/<b>real-id</b>",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcHMDQGJKWYJoTADqCjGRbWZH4Bfp-WrnxenByqI-NT2yj0rgn6l2eHx7C&s",
+      "width": "310",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffc40d",
+      "og:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "og:image:width": "1201",
+      "twitter:card": "summary",
+      "twitter:title": "Georgia REAL ID",
+      "theme-color": "#ffffff",
+      "og:site_name": "Georgia Department of Driver Services",
+      "handheldfriendly": "true",
+      "og:title": "Georgia REAL ID",
+      "og:image:height": "629",
+      "og:description": "REAL ID Documents you may be required to bring when visiting a Customer Service Center.\u00a0",
+      "twitter:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "twitter:site": "@georgiadds",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "REAL ID Documents you may be required to bring when visiting a Customer Service Center.\u00a0",
+      "mobileoptimized": "width",
+      "og:url": "https://dds.georgia.gov/georgia-licenseid/general-license-topics/real-id",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Real ID FAQs | Georgia Department of Driver Services",
+   "htmlTitle": "<b>Real ID</b> FAQs | Georgia Department of Driver Services",
+   "link": "https://dds.georgia.gov/real-id-faqs",
+   "displayLink": "dds.georgia.gov",
+   "snippet": "1. What is the Real ID program? 2. Why is the DDS enacting the Real ID program? 3. What if I reside in an assisted care facility and do not have two documents\u00a0...",
+   "htmlSnippet": "1. What is the <b>Real ID</b> program? 2. Why is the DDS enacting the <b>Real ID</b> program? 3. What if I reside in an assisted care facility and do not have two documents&nbsp;...",
+   "formattedUrl": "https://dds.georgia.gov/real-id-faqs",
+   "htmlFormattedUrl": "https://dds.georgia.gov/<b>real-id</b>-faqs",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcHMDQGJKWYJoTADqCjGRbWZH4Bfp-WrnxenByqI-NT2yj0rgn6l2eHx7C&s",
+      "width": "310",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffc40d",
+      "og:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "og:image:width": "1201",
+      "twitter:card": "summary",
+      "twitter:title": "Real ID FAQs",
+      "theme-color": "#ffffff",
+      "og:site_name": "Georgia Department of Driver Services",
+      "handheldfriendly": "true",
+      "og:title": "Real ID FAQs",
+      "og:image:height": "629",
+      "og:description": "What is Real ID? and How do I get a Real ID License?",
+      "twitter:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "twitter:site": "@georgiadds",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "What is Real ID? and How do I get a Real ID License?",
+      "mobileoptimized": "width",
+      "og:url": "https://dds.georgia.gov/real-id-faqs",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Georgians in Compliance with Real ID Ahead of Due Date | Georgia ...",
+   "htmlTitle": "Georgians in Compliance with <b>Real ID</b> Ahead of Due Date | Georgia ...",
+   "link": "https://dds.georgia.gov/press-releases/2024-11-26/georgians-compliance-real-id-ahead-due-date",
+   "displayLink": "dds.georgia.gov",
+   "snippet": "Nov 26, 2024 ... The Georgia Department of Driver Services (DDS) has recently announced that Georgians should not encounter issues when the Real ID Homeland Security Rules are\u00a0...",
+   "htmlSnippet": "Nov 26, 2024 <b>...</b> The Georgia Department of Driver Services (DDS) has recently announced that Georgians should not encounter issues when the <b>Real ID</b> Homeland Security Rules are&nbsp;...",
+   "formattedUrl": "https://dds.georgia.gov/...11.../georgians-compliance-real-id-ahead-due-dat...",
+   "htmlFormattedUrl": "https://dds.georgia.gov/...11.../georgians-compliance-<b>real-id</b>-ahead-due-dat...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcHMDQGJKWYJoTADqCjGRbWZH4Bfp-WrnxenByqI-NT2yj0rgn6l2eHx7C&s",
+      "width": "310",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffc40d",
+      "og:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "og:image:width": "1201",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Georgians in Compliance with Real ID Ahead of Due Date",
+      "theme-color": "#ffffff",
+      "og:site_name": "Georgia Department of Driver Services",
+      "handheldfriendly": "true",
+      "og:title": "Georgians in Compliance with Real ID Ahead of Due Date",
+      "og:image:height": "629",
+      "og:description": "The Georgia Department of Driver Services (DDS) has recently announced that Georgians should not encounter issues when the Real ID Homeland Security Rules are enacted on May 7, 2025.\u00a0 That is because 99.91% of valid Driver License/ID card holders are already Real ID compliant.",
+      "twitter:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "twitter:site": "@georgiadds",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "The Georgia Department of Driver Services (DDS) has recently announced that Georgians should not encounter issues when the Real ID Homeland Security Rules are enacted on May 7, 2025.\u00a0 That is because 99.91% of valid Driver License/ID card holders are already Real ID compliant.",
+      "mobileoptimized": "width",
+      "og:url": "https://dds.georgia.gov/press-releases/2024-11-26/georgians-compliance-real-id-ahead-due-date",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "REAL ID DOCUMENTS (FOR US CITIZENS)",
+   "htmlTitle": "<b>REAL ID</b> DOCUMENTS (FOR US CITIZENS)",
+   "link": "https://dds.georgia.gov/document/document/real-id-us-citizen/download",
+   "displayLink": "dds.georgia.gov",
+   "snippet": "REAL ID DOCUMENTS. (FOR U.S. CITIZENS). PROOF OF SOCIAL SECURITY NUMBER. *** ADDITIONAL DOCUMENTS MAY BE REQUIRED FOR YOUR LICENSE OR SERVICE. ***. PRIMARY\u00a0...",
+   "htmlSnippet": "<b>REAL ID</b> DOCUMENTS. (FOR U.S. CITIZENS). PROOF OF SOCIAL SECURITY NUMBER. *** ADDITIONAL DOCUMENTS MAY BE REQUIRED FOR YOUR LICENSE OR SERVICE. ***. PRIMARY&nbsp;...",
+   "formattedUrl": "https://dds.georgia.gov/document/document/real-id-us-citizen/download",
+   "htmlFormattedUrl": "https://dds.georgia.gov/document/document/<b>real-id</b>-us-citizen/download",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw7NKO_E4xvTohBsXHKbALJddjefFp1Bz9uYaUvJuy8cPAQ90YOcCJmAM&s",
+      "width": "197",
+      "height": "255"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20231116114837-05'00'",
+      "creator": "Microsoft\u00ae Word for Microsoft 365",
+      "creationdate": "D:20231116114837-05'00'",
+      "author": "Harris-Bailey, Sharonda",
+      "producer": "Microsoft\u00ae Word for Microsoft 365",
+      "title": "Real ID Non-U.S. Citizens"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///f6e7cde09fe24b75fce9328786888b656243a6ca0dcd8fab3b01df195f3ee0ea"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "REAL ID DOCUMENTS (FOR NON-US CITIZENS)",
+   "htmlTitle": "<b>REAL ID</b> DOCUMENTS (FOR NON-US CITIZENS)",
+   "link": "https://dds.georgia.gov/document/document/real-id-non-us-citizen/download",
+   "displayLink": "dds.georgia.gov",
+   "snippet": "REAL ID DOCUMENTS. (FOR NON-U.S. CITIZENS). PROOF OF SOCIAL SECURITY NUMBER. PRIMARY IDENTIFICATION (BRING 1 DOCUMENT). First Immigration Document. (For Proof\u00a0...",
+   "htmlSnippet": "<b>REAL ID</b> DOCUMENTS. (FOR NON-U.S. CITIZENS). PROOF OF SOCIAL SECURITY NUMBER. PRIMARY IDENTIFICATION (BRING 1 DOCUMENT). First Immigration Document. (For Proof&nbsp;...",
+   "formattedUrl": "https://dds.georgia.gov/document/document/real-id-non-us.../download",
+   "htmlFormattedUrl": "https://dds.georgia.gov/document/document/<b>real-id</b>-non-us.../download",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMhwjjyvulVcm3Rs9fvB6IOJPk6NcSNjJplVlploKujsFe4Ep2pLqU1PQ&s",
+      "width": "376",
+      "height": "134"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20230519155958-04'00'",
+      "creator": "Microsoft\u00ae Word for Microsoft 365",
+      "creationdate": "D:20230519155958-04'00'",
+      "author": "Harris-Bailey, Sharonda",
+      "producer": "Microsoft\u00ae Word for Microsoft 365",
+      "title": "Real ID Non-U.S. Citizens"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///2a560b1bebfd25de93239548dc87cad62ac2f20355b85aca79168237fbc1b2e6"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Georgia Department of Driver Services Clarifies REAL ID ...",
+   "htmlTitle": "Georgia Department of Driver Services Clarifies <b>REAL ID</b> ...",
+   "link": "https://dds.georgia.gov/press-releases/2025-03-18/gold-or-black-star-indicates-compliance",
+   "displayLink": "dds.georgia.gov",
+   "snippet": "Mar 18, 2025 ... If they have a gold star or a black star in the upper right corner of their Georgia driver's license or ID card, they have a REAL ID.",
+   "htmlSnippet": "Mar 18, 2025 <b>...</b> If they have a gold star or a black star in the upper right corner of their Georgia driver&#39;s license or ID card, they have a <b>REAL ID</b>.",
+   "formattedUrl": "https://dds.georgia.gov/press...03.../gold-or-black-star-indicates-compliance",
+   "htmlFormattedUrl": "https://dds.georgia.gov/press...03.../gold-or-black-star-indicates-compliance",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcHMDQGJKWYJoTADqCjGRbWZH4Bfp-WrnxenByqI-NT2yj0rgn6l2eHx7C&s",
+      "width": "310",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffc40d",
+      "og:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "og:image:width": "1201",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Georgia Department of Driver Services Clarifies REAL ID Compliance: Gold or Black Star Indicates Compliance",
+      "theme-color": "#ffffff",
+      "og:site_name": "Georgia Department of Driver Services",
+      "handheldfriendly": "true",
+      "og:title": "Georgia Department of Driver Services Clarifies REAL ID Compliance: Gold or Black Star Indicates Compliance",
+      "og:image:height": "629",
+      "og:description": "The Georgia Department of Driver Services (DDS) is reminding customers that if they have a gold star or a black star in the upper right corner of their Georgia driver\u2019s license or ID card, they have a REAL ID.",
+      "twitter:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "twitter:site": "@georgiadds",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "The Georgia Department of Driver Services (DDS) is reminding customers that if they have a gold star or a black star in the upper right corner of their Georgia driver\u2019s license or ID card, they have a REAL ID.",
+      "mobileoptimized": "width",
+      "og:url": "https://dds.georgia.gov/press-releases/2025-03-18/gold-or-black-star-indicates-compliance",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Renew a License or ID | Georgia Department of Driver Services",
+   "htmlTitle": "Renew a License or ID | Georgia Department of Driver Services",
+   "link": "https://dds.georgia.gov/georgia-licenseid/existing-licenseid/how-do-i-renew-license-or-id",
+   "displayLink": "dds.georgia.gov",
+   "snippet": "Georgia Real ID \u00b7 Licenses/ID FAQs \u00b7 Register My Vehicle \u00b7 Violations and ... Your current license, ID, or permit must be a GA Real ID document. (Have a gold\u00a0...",
+   "htmlSnippet": "Georgia <b>Real ID</b> &middot; Licenses/ID FAQs &middot; Register My Vehicle &middot; Violations and ... Your current license, ID, or permit must be a GA <b>Real ID</b> document. (Have a gold&nbsp;...",
+   "formattedUrl": "https://dds.georgia.gov/georgia-licenseid/.../how-do-i-renew-license-or-id",
+   "htmlFormattedUrl": "https://dds.georgia.gov/georgia-licenseid/.../how-do-i-renew-license-or-id",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcHMDQGJKWYJoTADqCjGRbWZH4Bfp-WrnxenByqI-NT2yj0rgn6l2eHx7C&s",
+      "width": "310",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffc40d",
+      "og:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "og:image:width": "1201",
+      "twitter:card": "summary",
+      "twitter:title": "Renew My License",
+      "theme-color": "#ffffff",
+      "og:site_name": "Georgia Department of Driver Services",
+      "handheldfriendly": "true",
+      "og:title": "Renew My License",
+      "og:image:height": "629",
+      "og:description": "Renewing your license in Georgia can be done online, in person at a center, or by mail.General Information:Your license can be renewed up to 150 days before the expiration date of your license. Allow up to 45 days for your permanent license to be delivered.\u00a0 Your renewed license will be valid for up to 8 years.If you have a digital Driver's License and ID it will automatically update when you renew/update your physical card as well as for birthdays and driver status changes; no action is required on your device.",
+      "twitter:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "twitter:site": "@georgiadds",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Renewing your license in Georgia can be done online, in person at a center, or by mail.General Information:Your license can be renewed up to 150 days before the expiration date of your license. Allow up to 45 days for your permanent license to be delivered.\u00a0 Your renewed license will be valid for up to 8 years.If you have a digital Driver's License and ID it will automatically update when you renew/update your physical card as well as for birthdays and driver status changes; no action is required on your device.",
+      "mobileoptimized": "width",
+      "og:url": "https://dds.georgia.gov/georgia-licenseid/existing-licenseid/how-do-i-renew-license-or-id",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DDS 2 GO Mobile App | Georgia Department of Driver Services",
+   "htmlTitle": "DDS 2 GO Mobile App | Georgia Department of Driver Services",
+   "link": "https://dds.georgia.gov/dds-2-go-mobile-app",
+   "displayLink": "dds.georgia.gov",
+   "snippet": "DDS 2 GO Account Information. \u2022 License Status \u2022 Real ID Status \u2022 Address on License \u2022 Existing Fees \u2022 Points \u2022 License/ID/Permit Details. driver history\u00a0...",
+   "htmlSnippet": "DDS 2 GO Account Information. \u2022 License Status \u2022 <b>Real ID</b> Status \u2022 Address on License \u2022 Existing Fees \u2022 Points \u2022 License/ID/Permit Details. driver history&nbsp;...",
+   "formattedUrl": "https://dds.georgia.gov/dds-2-go-mobile-app",
+   "htmlFormattedUrl": "https://dds.georgia.gov/dds-2-go-mobile-app",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcHMDQGJKWYJoTADqCjGRbWZH4Bfp-WrnxenByqI-NT2yj0rgn6l2eHx7C&s",
+      "width": "310",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffc40d",
+      "og:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "og:image:width": "1201",
+      "twitter:card": "summary",
+      "twitter:title": "DDS 2 GO",
+      "theme-color": "#ffffff",
+      "og:site_name": "Georgia Department of Driver Services",
+      "handheldfriendly": "true",
+      "og:title": "DDS 2 GO",
+      "og:image:height": "629",
+      "og:description": "Manage your License/ID conveniently and securely with the DDS 2 GO Mobile Services App.\u00a0 Get notifications, renew, and your license status through the App.",
+      "twitter:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "twitter:site": "@georgiadds",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Manage your License/ID conveniently and securely with the DDS 2 GO Mobile Services App.\u00a0 Get notifications, renew, and your license status through the App.",
+      "mobileoptimized": "width",
+      "og:url": "https://dds.georgia.gov/dds-2-go-mobile-app",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Fees and Terms | Georgia Department of Driver Services",
+   "htmlTitle": "Fees and Terms | Georgia Department of Driver Services",
+   "link": "https://dds.georgia.gov/georgia-licenseid/general-license-topics/fees-and-terms",
+   "displayLink": "dds.georgia.gov",
+   "snippet": "Georgia Real ID \u00b7 Licenses/ID FAQs \u00b7 Register My Vehicle \u00b7 Violations and Suspensions \u00b7 Georgia Digital License and ID Subnavigation toggle for Georgia Digital\u00a0...",
+   "htmlSnippet": "Georgia <b>Real ID</b> &middot; Licenses/ID FAQs &middot; Register My Vehicle &middot; Violations and Suspensions &middot; Georgia Digital License and ID Subnavigation toggle for Georgia Digital&nbsp;...",
+   "formattedUrl": "https://dds.georgia.gov/georgia-licenseid/general-license.../fees-and-terms",
+   "htmlFormattedUrl": "https://dds.georgia.gov/georgia-licenseid/general-license.../fees-and-terms",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcHMDQGJKWYJoTADqCjGRbWZH4Bfp-WrnxenByqI-NT2yj0rgn6l2eHx7C&s",
+      "width": "310",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffc40d",
+      "og:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "og:image:width": "1201",
+      "twitter:card": "summary",
+      "twitter:title": "Fees and Terms",
+      "theme-color": "#ffffff",
+      "og:site_name": "Georgia Department of Driver Services",
+      "handheldfriendly": "true",
+      "og:title": "Fees and Terms",
+      "og:image:height": "629",
+      "og:description": "Fees for getting your Georgia license and forms of payment.",
+      "twitter:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "twitter:site": "@georgiadds",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Fees for getting your Georgia license and forms of payment.",
+      "mobileoptimized": "width",
+      "og:url": "https://dds.georgia.gov/georgia-licenseid/general-license-topics/fees-and-terms",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ID Card | Georgia Department of Driver Services",
+   "htmlTitle": "ID Card | Georgia Department of Driver Services",
+   "link": "https://dds.georgia.gov/how-do-i-id-card",
+   "displayLink": "dds.georgia.gov",
+   "snippet": "Please refer to Real ID Requirements for more information. You must surrender any out-of-state driver's license, permit, or ID Card. If you were issued a\u00a0...",
+   "htmlSnippet": "Please refer to <b>Real ID</b> Requirements for more information. You must surrender any out-of-state driver&#39;s license, permit, or ID Card. If you were issued a&nbsp;...",
+   "formattedUrl": "https://dds.georgia.gov/how-do-i-id-card",
+   "htmlFormattedUrl": "https://dds.georgia.gov/how-do-i-id-card",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcHMDQGJKWYJoTADqCjGRbWZH4Bfp-WrnxenByqI-NT2yj0rgn6l2eHx7C&s",
+      "width": "310",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffc40d",
+      "og:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "og:image:width": "1201",
+      "twitter:card": "summary",
+      "twitter:title": "Get a Georgia State ID Card",
+      "theme-color": "#ffffff",
+      "og:site_name": "Georgia Department of Driver Services",
+      "handheldfriendly": "true",
+      "og:title": "Get a Georgia State ID Card",
+      "og:image:height": "629",
+      "og:description": "Applying for a Georgia ID Card.",
+      "twitter:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "twitter:site": "@georgiadds",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Applying for a Georgia ID Card.",
+      "mobileoptimized": "width",
+      "og:url": "https://dds.georgia.gov/how-do-i-id-card",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png"
+     }
+    ]
+   }
+  }
+ ]
+}

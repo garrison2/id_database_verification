@@ -1,0 +1,361 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"South Carolina Code of Laws\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "894",
+    "searchTerms": "\"South Carolina Code of Laws\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"South Carolina Code of Laws\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "894",
+    "searchTerms": "\"South Carolina Code of Laws\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.175545,
+  "formattedSearchTime": "0.18",
+  "totalResults": "894",
+  "formattedTotalResults": "894"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "South Carolina Code of Laws Unannotated",
+   "htmlTitle": "<b>South Carolina Code of Laws</b> Unannotated",
+   "link": "https://www.scstatehouse.gov/code/t56c001.php",
+   "displayLink": "www.scstatehouse.gov",
+   "snippet": "... defined on the driver's license or special identification card. (B) In ... (28) \"Seasonal restricted commercial driver's license\" means a commercial driver's\u00a0...",
+   "htmlSnippet": "... <b>defined</b> on the <b>driver&#39;s license</b> or special <b>identification card</b>. (B) In ... (28) &quot;Seasonal restricted commercial <b>driver&#39;s license</b>&quot; <b>means</b> a commercial <b>driver&#39;s</b>&nbsp;...",
+   "formattedUrl": "https://www.scstatehouse.gov/code/t56c001.php",
+   "htmlFormattedUrl": "https://www.scstatehouse.gov/code/t56c001.php",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "EVR-8",
+   "htmlTitle": "EVR-8",
+   "link": "https://www.scdmvonline.com/-/media/Forms/EVR-8.ashx",
+   "displayLink": "www.scdmvonline.com",
+   "snippet": "issuing the person a driver's license or special identification card. The ... 1) personal information, as defined in 18 U.S.C. 2725 (3), about any\u00a0...",
+   "htmlSnippet": "issuing the person a <b>driver&#39;s license</b> or special <b>identification card</b>. The ... 1) <b>personal information</b>, as <b>defined</b> in 18 U.S.C. 2725 (3), about any&nbsp;...",
+   "formattedUrl": "https://www.scdmvonline.com/-/media/Forms/EVR-8.ashx",
+   "htmlFormattedUrl": "https://www.scdmvonline.com/-/media/Forms/EVR-8.ashx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEsCI1kj3ykLuszJckTg7zRPdCNkEBfnpR5P7BhxbWEudQWmXdhGvYnEE&s",
+      "width": "160",
+      "height": "160"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20190520110949-04'00'",
+      "creationdate": "D:20190508190353Z",
+      "creator": "Microsoft\u00ae Word 2013",
+      "author": "SC Department of Motor Vehicles",
+      "subject": "EVR Data Users Acknowledge of Duty of Non-Disclossure and Due Diligence",
+      "producer": "Microsoft\u00ae Word 2013",
+      "title": "EVR-8"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///df53ea30f89fe7c549c3b63e0dc90ab296a2db0319a1b33582c049eb03c47f6e"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "South Carolina Code of Laws Unannotated",
+   "htmlTitle": "<b>South Carolina Code of Laws</b> Unannotated",
+   "link": "https://www.scstatehouse.gov/code/t30c002.php",
+   "displayLink": "www.scstatehouse.gov",
+   "snippet": "(1) \"Personal information\" means information that identifies or describes an ... defined in or required to comply with the Federal Gramm-Leach-Bliley\u00a0...",
+   "htmlSnippet": "(1) &quot;<b>Personal information</b>&quot; <b>means</b> information that identifies or describes an ... <b>defined</b> in or required to comply with the Federal Gramm-Leach-Bliley&nbsp;...",
+   "formattedUrl": "https://www.scstatehouse.gov/code/t30c002.php",
+   "htmlFormattedUrl": "https://www.scstatehouse.gov/code/t30c002.php",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "South Carolina Code Section 37-1-310 (2024) - Child online safety ...",
+   "htmlTitle": "South Carolina Code Section 37-1-310 (2024) - Child online safety ...",
+   "link": "https://law.justia.com/codes/south-carolina/title-37/chapter-1/section-37-1-310/",
+   "displayLink": "law.justia.com",
+   "snippet": "(4) \"Digitized identification card\" means a data file available on any ... (a) use of a digitized identification card as defined in this subsection;. (b)\u00a0...",
+   "htmlSnippet": "(4) &quot;Digitized <b>identification card</b>&quot; <b>means</b> a data file available on any ... (a) use of a digitized <b>identification card</b> as <b>defined</b> in this subsection;. (b)&nbsp;...",
+   "formattedUrl": "https://law.justia.com/codes/south-carolina/title-37/...1/section-37-1-310/",
+   "htmlFormattedUrl": "https://law.justia.com/codes/south-carolina/title-37/...1/section-37-1-310/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUsEXFeYBuAPfcBBVPIyUzrZ_CJMY-G1UQkbVgeLAo7QKw91U8LPjTVlwN&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://justatic.com/v/20250617153813/shared/images/social-media/law.jpg",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "og:site_name": "Justia Law",
+      "og:title": "2024 South Carolina Code of Laws :: Title 37 - Consumer Protection Code :: Chapter 1 - General Provisions And Definitions :: Section 37-1-310. Child online safety.",
+      "og:app_id": "119529808075661",
+      "trigger-ga": "1",
+      "og:description": "Justia Free Databases of U.S. Laws, Codes & Statutes",
+      "og:admins": "656268335,686786921,25900864",
+      "referrer": "unsafe-url",
+      "twitter:site": "@JustiaCom",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "page-type": "Law: Codes Document Page (Current Year)",
+      "is-li": "0",
+      "og:url": "https://law.justia.com/codes/south-carolina/title-37/chapter-1/section-37-1-310/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://justatic.com/v/20250617153813/shared/images/social-media/law.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "South Carolina Department of Motor Vehicles",
+   "htmlTitle": "South Carolina Department of Motor Vehicles",
+   "link": "https://apps.sceis.sc.gov/SCSolicitationWeb/attachmentDisplay.do?attachName=Attachment+4&attachType=PDF&phioClass=BBP_P_DOC&phioObject=005056AC75401EED98A2D6EE8ABD2C28&type=S&solicitNumber=5400024224&dateModified=11%2F10%2F2022+11%3A52%3A09+AM",
+   "displayLink": "apps.sceis.sc.gov",
+   "snippet": "a driver's license or special identification card. The department ... personal information, as defined in 18 U.S.C. 2725 (3), about any individual\u00a0...",
+   "htmlSnippet": "a <b>driver&#39;s license</b> or special <b>identification card</b>. The department ... <b>personal information</b>, as <b>defined</b> in 18 U.S.C. 2725 (3), about any individual&nbsp;...",
+   "formattedUrl": "https://apps.sceis.sc.gov/.../attachmentDisplay.do?...",
+   "htmlFormattedUrl": "https://apps.sceis.sc.gov/.../attachmentDisplay.do?...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7EMMqCqwh9lB7gtbVqTl3mxZADxNZkykvUlkqxRh9K8b0f34BD3kaizKE&s",
+      "width": "160",
+      "height": "160"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20221110093648-05'00'",
+      "creationdate": "D:20221110093647-05'00'",
+      "creator": "Acrobat PDFMaker 22 for Word",
+      "sourcemodified": "D:20221004174800",
+      "author": "SC Department of Motor Vehicles",
+      "subject": "CONTRACT PERSONNEL ACKNOWLEDGMENT OF DUTY OF NON-DISCLOSURE AND DUE DILIGENCE",
+      "producer": "Adobe PDF Library 22.3.39",
+      "company": "SCDMV",
+      "title": "HR-209B"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///fc80c9398e02b994366460cd1f022eee2f391c37d8981149bdb9d683a1e1acd0"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "South Carolina Code Section 56-5-2941 (2024) - Ignition interlock ...",
+   "htmlTitle": "South Carolina Code Section 56-5-2941 (2024) - Ignition interlock ...",
+   "link": "https://law.justia.com/codes/south-carolina/title-56/chapter-5/section-56-5-2941/",
+   "displayLink": "law.justia.com",
+   "snippet": "2024 South Carolina Code of Laws Title 56 - Motor Vehicles Chapter 5 - Uniform Act Regulating Traffic On Highways Section 56-5-2941. Ignition interlock device.",
+   "htmlSnippet": "2024 <b>South Carolina Code of Laws</b> Title 56 - Motor Vehicles Chapter 5 - Uniform Act Regulating Traffic On Highways Section 56-5-2941. Ignition interlock device.",
+   "formattedUrl": "https://law.justia.com/codes/south-carolina/title-56/.../section-56-5-2941/",
+   "htmlFormattedUrl": "https://law.justia.com/codes/south-carolina/title-56/.../section-56-5-2941/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPP2ksOfM4IyWL7PTxPyS5N80Or-jyXZZLgeH1kYuOtXk5YU597YCxGszS&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "og:site_name": "Justia Law",
+      "og:title": "2024 South Carolina Code of Laws :: Title 56 - Motor Vehicles :: Chapter 5 - Uniform Act Regulating Traffic On Highways :: Section 56-5-2941. Ignition interlock device.",
+      "og:app_id": "119529808075661",
+      "trigger-ga": "1",
+      "og:description": "Justia Free Databases of U.S. Laws, Codes & Statutes",
+      "og:admins": "656268335,686786921,25900864",
+      "referrer": "unsafe-url",
+      "twitter:site": "@JustiaCom",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "page-type": "Law: Codes Document Page (Current Year)",
+      "is-li": "0",
+      "og:url": "https://law.justia.com/codes/south-carolina/title-56/chapter-5/section-56-5-2941/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "SC S0371 | BillTrack50",
+   "htmlTitle": "SC S0371 | BillTrack50",
+   "link": "https://www.billtrack50.com/billdetail/1840074",
+   "displayLink": "www.billtrack50.com",
+   "snippet": "(1) \"Mobile driver's license\" means an electronic driver's license ... (3) \"Mobile special identification card\" means an electronic identification card\u00a0...",
+   "htmlSnippet": "(1) &quot;Mobile <b>driver&#39;s license</b>&quot; <b>means</b> an electronic <b>driver&#39;s license</b> ... (3) &quot;Mobile special <b>identification card</b>&quot; <b>means</b> an electronic <b>identification card</b>&nbsp;...",
+   "formattedUrl": "https://www.billtrack50.com/billdetail/1840074",
+   "htmlFormattedUrl": "https://www.billtrack50.com/billdetail/1840074",
+   "pagemap": {
+    "metatags": [
+     {
+      "twitter:card": "summary",
+      "og:type": "website",
+      "twitter:site": "@BillTrack50",
+      "og:site_name": "BillTrack50",
+      "viewport": "width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0",
+      "og:title": "SC - S0371",
+      "og:locale": "en_US",
+      "og:url": "https://www.billtrack50.com/billdetail/1840074",
+      "twitter:creator": "@BillTrack50",
+      "og:description": "Mobile Driver's License"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "South Carolina ELT Registration Form",
+   "htmlTitle": "South Carolina ELT Registration Form",
+   "link": "http://www.southcarolinaelt.com/south-carolina-ELT-dmv-application-form.pdf",
+   "displayLink": "www.southcarolinaelt.com",
+   "snippet": "issuing the person a driver's license or special identification card. The ... highly restricted personal information, as defined in 18 U.S.C. 2725 (4)\u00a0...",
+   "htmlSnippet": "issuing the person a <b>driver&#39;s license</b> or special <b>identification card</b>. The ... highly restricted <b>personal information</b>, as <b>defined</b> in 18 U.S.C. 2725 (4)&nbsp;...",
+   "formattedUrl": "http://www.southcarolinaelt.com/south-carolina-ELT-dmv-application-form...",
+   "htmlFormattedUrl": "http://www.southcarolinaelt.com/south-carolina-ELT-dmv-application-form...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1vOa5fRArdI07PC6E7JMic68zUTTiz0h5fQ5ujyqvszlbTSajyjU493dY&s",
+      "width": "160",
+      "height": "160"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20191223144333-05'00'",
+      "creationdate": "D:20170206142412-05'00'",
+      "creator": "Adobe Acrobat Pro 11.0.7",
+      "author": "USA ELT",
+      "subject": "South Carolina ELT registration form",
+      "producer": "Adobe Acrobat Pro 11.0.7",
+      "title": "South Carolina ELT Registration Form"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///2ecfde56abdce0690164d66e8f31d821536579f84d7face969cdc3f0f1d279b5"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "View/download a copy of the South Carolina Fleet Safety Program.",
+   "htmlTitle": "View/download a copy of the South Carolina Fleet Safety Program.",
+   "link": "https://www.admin.sc.gov/sites/admin/files/Documents/Fleet/FSM.docx",
+   "displayLink": "www.admin.sc.gov",
+   "snippet": "New state employees who have recently relocated to South Carolina may operate state vehicles using a valid driver's license ... South Carolina Code of Laws\u00a0...",
+   "htmlSnippet": "New state employees who have recently relocated to South Carolina may operate state vehicles using a valid <b>driver&#39;s license</b> ... <b>South Carolina Code of Laws</b>&nbsp;...",
+   "formattedUrl": "https://www.admin.sc.gov/sites/admin/files/Documents/Fleet/FSM.docx",
+   "htmlFormattedUrl": "https://www.admin.sc.gov/sites/admin/files/Documents/Fleet/FSM.docx",
+   "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "fileFormat": "Microsoft Word"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "THEFT THEFT",
+   "htmlTitle": "THEFT THEFT",
+   "link": "https://consumer.sc.gov/sites/consumer/files/Documents/FIFITPABrochure2019.pdf",
+   "displayLink": "consumer.sc.gov",
+   "snippet": "South Carolina Code of Laws. The complete Act may be found on the South ... \u2022 driver's license number or state identification card number. \u2022 financial\u00a0...",
+   "htmlSnippet": "<b>South Carolina Code of Laws</b>. The complete Act may be found on the South ... \u2022 <b>driver&#39;s license</b> number or state <b>identification card</b> number. \u2022 financial&nbsp;...",
+   "formattedUrl": "https://consumer.sc.gov/sites/consumer/files/.../FIFITPABrochure2019.pdf",
+   "htmlFormattedUrl": "https://consumer.sc.gov/sites/consumer/files/.../FIFITPABrochure2019.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgxOtpDGRx6WQ-bR38QBLkLOLwEhbLlBOi7Rk5qEUolAX2HkRs80HM6jU&s",
+      "width": "227",
+      "height": "222"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20190208132440-05'00'",
+      "creationdate": "D:20190208132437-05'00'",
+      "creator": "Adobe InDesign CC 14.0 (Windows)",
+      "producer": "Adobe PDF Library 15.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///44881fed83df10afad7ab11135e02369a2c2f4581ab1ae6218733587d3ac30fb"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

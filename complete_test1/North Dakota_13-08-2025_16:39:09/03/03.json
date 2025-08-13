@@ -1,0 +1,509 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://www.dot.nd.gov/ \"REAL ID\"",
+    "totalResults": "584",
+    "searchTerms": "site:https://www.dot.nd.gov/ \"REAL ID\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://www.dot.nd.gov/ \"REAL ID\"",
+    "totalResults": "584",
+    "searchTerms": "site:https://www.dot.nd.gov/ \"REAL ID\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.137018,
+  "formattedSearchTime": "0.14",
+  "totalResults": "584",
+  "formattedTotalResults": "584"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "REAL ID Information | NDDOT",
+   "htmlTitle": "<b>REAL ID</b> Information | NDDOT",
+   "link": "https://www.dot.nd.gov/driver/real-id-information",
+   "displayLink": "www.dot.nd.gov",
+   "snippet": "The REAL ID Act establishes minimum standards for state-issued driver licenses and identification cards. Under this legislation, you'll need a REAL\u00a0...",
+   "htmlSnippet": "The <b>REAL ID</b> Act establishes minimum standards for state-issued driver licenses and identification cards. Under this legislation, you&#39;ll need a <b>REAL</b>&nbsp;...",
+   "formattedUrl": "https://www.dot.nd.gov/driver/real-id-information",
+   "htmlFormattedUrl": "https://www.dot.nd.gov/driver/<b>real-id</b>-information",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQQmIfh4f4nIYeHQoDOB8ZPK1sOgDSsBKuE9rDy6b9SB-o6Jtt04PE0VPa&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "WebPage": [
+     {
+      "name": "REAL ID Information"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dot.nd.gov/sites/www/files/styles/facebook_share/public/documents/social/Capitol_Social_Share_0.jpg?itok=BIP2kp7W",
+      "og:type": "website",
+      "og:image:alt": "social share image",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "REAL ID Information",
+      "og:site_name": "NDDOT",
+      "og:image:url": "https://www.dot.nd.gov/sites/www/files/styles/facebook_share/public/documents/theme/Capitol_Social_Share.jpg",
+      "handheldfriendly": "true",
+      "og:title": "REAL ID Information",
+      "og:image:type": "image/jpeg",
+      "og:image:secure_url": "https://www.dot.nd.gov/sites/www/files/styles/facebook_share/public/documents/theme/Capitol_Social_Share.jpg",
+      "twitter:image": "https://www.dot.nd.gov/sites/www/files/styles/twitter_share/public/documents/social/Capitol_Social_Share_0.jpg?itok=Imd7eyhB",
+      "twitter:image:alt": "social share image",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width",
+      "og:url": "https://www.dot.nd.gov/driver/real-id-information"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dot.nd.gov/sites/www/files/styles/facebook_share/public/documents/social/Capitol_Social_Share_0.jpg?itok=BIP2kp7W"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "North Dakota Real ID",
+   "htmlTitle": "North Dakota <b>Real ID</b>",
+   "link": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/real-id-checklist.pdf?cb=0ac81af5",
+   "displayLink": "www.dot.nd.gov",
+   "snippet": "North Dakota does not offer Enhanced Driver Licenses. When do I need to have a REAL ID driver license? Your present license remains valid until its expired date\u00a0...",
+   "htmlSnippet": "North Dakota does not offer Enhanced Driver Licenses. When do I need to have a <b>REAL ID</b> driver license? Your present license remains valid until its expired date&nbsp;...",
+   "formattedUrl": "https://www.dot.nd.gov/sites/www/files/documents/.../real-id-checklist.pdf?...",
+   "htmlFormattedUrl": "https://www.dot.nd.gov/sites/www/files/documents/.../<b>real-id</b>-checklist.pdf?...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSmAlJpioAixKVdl_iWvKAZSCyk9lGiCArMS7mhxnAVDhrtxpmxmTeMg&s",
+      "width": "446",
+      "height": "113"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20230118140458-06'00'",
+      "creationdate": "D:20230117123314-06'00'",
+      "creator": "Acrobat PDFMaker 22 for Word",
+      "author": "Moore, Brie A.",
+      "producer": "Adobe PDF Library 22.3.86"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///41f1a1519edc17bc201d0966246002b2a543053e37e74449ebc187cb2bfa3120"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver License | NDDOT",
+   "htmlTitle": "Driver License | NDDOT",
+   "link": "https://www.dot.nd.gov/driver/driver-license",
+   "displayLink": "www.dot.nd.gov",
+   "snippet": "Learn more about obtaining a REAL ID or a REAL ID driver license. Driver Education. Information about education and training resources for North Dakota\u00a0...",
+   "htmlSnippet": "Learn more about obtaining a <b>REAL ID</b> or a <b>REAL ID</b> driver license. Driver Education. Information about education and training resources for North Dakota&nbsp;...",
+   "formattedUrl": "https://www.dot.nd.gov/driver/driver-license",
+   "htmlFormattedUrl": "https://www.dot.nd.gov/driver/driver-license",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQQmIfh4f4nIYeHQoDOB8ZPK1sOgDSsBKuE9rDy6b9SB-o6Jtt04PE0VPa&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "WebPage": [
+     {
+      "name": " Driver License"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dot.nd.gov/sites/www/files/styles/facebook_share/public/documents/social/Capitol_Social_Share_0.jpg?itok=BIP2kp7W",
+      "og:type": "website",
+      "og:image:alt": "social share image",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Driver License",
+      "og:site_name": "NDDOT",
+      "og:image:url": "https://www.dot.nd.gov/sites/www/files/styles/facebook_share/public/documents/theme/Capitol_Social_Share.jpg",
+      "handheldfriendly": "true",
+      "og:title": "Driver License",
+      "og:image:type": "image/jpeg",
+      "og:image:secure_url": "https://www.dot.nd.gov/sites/www/files/styles/facebook_share/public/documents/theme/Capitol_Social_Share.jpg",
+      "twitter:image": "https://www.dot.nd.gov/sites/www/files/styles/twitter_share/public/documents/social/Capitol_Social_Share_0.jpg?itok=Imd7eyhB",
+      "twitter:image:alt": "social share image",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width",
+      "og:url": "https://www.dot.nd.gov/driver/driver-license"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dot.nd.gov/sites/www/files/styles/facebook_share/public/documents/social/Capitol_Social_Share_0.jpg?itok=BIP2kp7W"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NDDOT: Home",
+   "htmlTitle": "NDDOT: Home",
+   "link": "https://www.dot.nd.gov/home",
+   "displayLink": "www.dot.nd.gov",
+   "snippet": "REAL ID. Need a REAL ID? Find out how to get one. CLICK HERE! 0. Road construction information banner. GET THE STATS! Keep your head in the game and stay up\u00a0...",
+   "htmlSnippet": "<b>REAL ID</b>. Need a <b>REAL ID</b>? Find out how to get one. CLICK HERE! 0. Road construction information banner. GET THE STATS! Keep your head in the game and stay up&nbsp;...",
+   "formattedUrl": "https://www.dot.nd.gov/home",
+   "htmlFormattedUrl": "https://www.dot.nd.gov/home",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQQmIfh4f4nIYeHQoDOB8ZPK1sOgDSsBKuE9rDy6b9SB-o6Jtt04PE0VPa&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dot.nd.gov/sites/www/files/styles/facebook_share/public/documents/social/Capitol_Social_Share_0.jpg?itok=BIP2kp7W",
+      "og:type": "website",
+      "og:image:alt": "social share image",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Home",
+      "og:site_name": "NDDOT",
+      "og:image:url": "https://www.dot.nd.gov/sites/www/files/styles/facebook_share/public/documents/theme/Capitol_Social_Share.jpg",
+      "handheldfriendly": "true",
+      "og:title": "Home",
+      "og:image:type": "image/jpeg",
+      "og:image:secure_url": "https://www.dot.nd.gov/sites/www/files/styles/facebook_share/public/documents/theme/Capitol_Social_Share.jpg",
+      "twitter:image": "https://www.dot.nd.gov/sites/www/files/styles/twitter_share/public/documents/social/Capitol_Social_Share_0.jpg?itok=Imd7eyhB",
+      "twitter:image:alt": "social share image",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width",
+      "og:url": "https://www.dot.nd.gov/home"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dot.nd.gov/sites/www/files/styles/facebook_share/public/documents/social/Capitol_Social_Share_0.jpg?itok=BIP2kp7W"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "real-id poster-letter size.cdr",
+   "htmlTitle": "<b>real-id</b> poster-letter size.cdr",
+   "link": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/Real-ID-Poster-Letter-Size.pdf",
+   "displayLink": "www.dot.nd.gov",
+   "snippet": "All documents must be original or certified copies only. If your North Dakota driver license or ID doesn't have a federally-required. REAL ID gold star by May 7\u00a0...",
+   "htmlSnippet": "All documents must be original or certified copies only. If your North Dakota driver license or ID doesn&#39;t have a federally-required. <b>REAL ID</b> gold star by May 7&nbsp;...",
+   "formattedUrl": "https://www.dot.nd.gov/sites/www/files/.../Real-ID-Poster-Letter-Size.pdf",
+   "htmlFormattedUrl": "https://www.dot.nd.gov/sites/www/files/.../<b>Real-ID</b>-Poster-Letter-Size.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCpN9dzStiRsrGVc9nB_p1FXcs2G2KuMjRqY217zaOs8GJcRB20JnXK9qP&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20230315153910-05'00'",
+      "creationdate": "D:20230315153910-05'00'",
+      "creator": "CorelDRAW 2020",
+      "author": "Sweeney;Skip C.",
+      "producer": "Corel PDF Engine Version 22.1.1.523",
+      "title": "real-id poster-letter size.cdr"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///d54574c6263c24272df1cbffea71d6137bb1c2fdcd1858675649c10c3199d960"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Replace a Lost, Stolen, or Damaged License | NDDOT",
+   "htmlTitle": "Replace a Lost, Stolen, or Damaged License | NDDOT",
+   "link": "https://www.dot.nd.gov/driver/replace-lost-stolen-or-damaged-license",
+   "displayLink": "www.dot.nd.gov",
+   "snippet": "See below for a list of acceptable identification documents. If you would like to obtain an initial Real ID document, you will need to present the required Real\u00a0...",
+   "htmlSnippet": "See below for a list of acceptable identification documents. If you would like to obtain an initial <b>Real ID</b> document, you will need to present the required <b>Real</b>&nbsp;...",
+   "formattedUrl": "https://www.dot.nd.gov/driver/replace-lost-stolen-or-damaged-license",
+   "htmlFormattedUrl": "https://www.dot.nd.gov/driver/replace-lost-stolen-or-damaged-license",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQQmIfh4f4nIYeHQoDOB8ZPK1sOgDSsBKuE9rDy6b9SB-o6Jtt04PE0VPa&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "WebPage": [
+     {
+      "name": "Replace a Lost, Stolen, or Damaged License"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dot.nd.gov/sites/www/files/styles/facebook_share/public/documents/social/Capitol_Social_Share_0.jpg?itok=BIP2kp7W",
+      "og:type": "website",
+      "og:image:alt": "social share image",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Replace a Lost, Stolen, or Damaged License",
+      "og:site_name": "NDDOT",
+      "og:image:url": "https://www.dot.nd.gov/sites/www/files/styles/facebook_share/public/documents/theme/Capitol_Social_Share.jpg",
+      "handheldfriendly": "true",
+      "og:title": "Replace a Lost, Stolen, or Damaged License",
+      "og:image:type": "image/jpeg",
+      "og:image:secure_url": "https://www.dot.nd.gov/sites/www/files/styles/facebook_share/public/documents/theme/Capitol_Social_Share.jpg",
+      "twitter:image": "https://www.dot.nd.gov/sites/www/files/styles/twitter_share/public/documents/social/Capitol_Social_Share_0.jpg?itok=Imd7eyhB",
+      "twitter:image:alt": "social share image",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width",
+      "og:url": "https://www.dot.nd.gov/driver/replace-lost-stolen-or-damaged-license"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dot.nd.gov/sites/www/files/styles/facebook_share/public/documents/social/Capitol_Social_Share_0.jpg?itok=BIP2kp7W"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver License and Non-Driver ID | NDDOT",
+   "htmlTitle": "Driver License and Non-Driver ID | NDDOT",
+   "link": "https://www.dot.nd.gov/driver/driver-license-and-non-driver-id",
+   "displayLink": "www.dot.nd.gov",
+   "snippet": "REAL ID - Under 18. Driver License \u00b7 REAL ID - 18 to 21. Commercial Driver License \u00b7 REAL ID - Under 18. Non-Driver Identification Card \u00b7 REAL ID - Under 18",
+   "htmlSnippet": "<b>REAL ID</b> - Under 18. Driver License &middot; <b>REAL ID</b> - 18 to 21. Commercial Driver License &middot; <b>REAL ID</b> - Under 18. Non-Driver Identification Card &middot; <b>REAL ID</b> - Under 18",
+   "formattedUrl": "https://www.dot.nd.gov/driver/driver-license-and-non-driver-id",
+   "htmlFormattedUrl": "https://www.dot.nd.gov/driver/driver-license-and-non-driver-id",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQQmIfh4f4nIYeHQoDOB8ZPK1sOgDSsBKuE9rDy6b9SB-o6Jtt04PE0VPa&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "WebPage": [
+     {
+      "name": "Driver License and Non-Driver ID"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dot.nd.gov/sites/www/files/styles/facebook_share/public/documents/social/Capitol_Social_Share_0.jpg?itok=BIP2kp7W",
+      "og:type": "website",
+      "og:image:alt": "social share image",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Driver License and Non-Driver ID",
+      "og:site_name": "NDDOT",
+      "og:image:url": "https://www.dot.nd.gov/sites/www/files/styles/facebook_share/public/documents/theme/Capitol_Social_Share.jpg",
+      "handheldfriendly": "true",
+      "og:title": "Driver License and Non-Driver ID",
+      "og:image:type": "image/jpeg",
+      "og:image:secure_url": "https://www.dot.nd.gov/sites/www/files/styles/facebook_share/public/documents/theme/Capitol_Social_Share.jpg",
+      "twitter:image": "https://www.dot.nd.gov/sites/www/files/styles/twitter_share/public/documents/social/Capitol_Social_Share_0.jpg?itok=Imd7eyhB",
+      "twitter:image:alt": "social share image",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width",
+      "og:url": "https://www.dot.nd.gov/driver/driver-license-and-non-driver-id"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dot.nd.gov/sites/www/files/styles/facebook_share/public/documents/social/Capitol_Social_Share_0.jpg?itok=BIP2kp7W"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver | NDDOT",
+   "htmlTitle": "Driver | NDDOT",
+   "link": "https://www.dot.nd.gov/driver",
+   "displayLink": "www.dot.nd.gov",
+   "snippet": "In this section you will find information about driving tests, requirements for obtaining your driver license or REAL ID, requesting copies of your driving\u00a0...",
+   "htmlSnippet": "In this section you will find information about driving tests, requirements for obtaining your driver license or <b>REAL ID</b>, requesting copies of your driving&nbsp;...",
+   "formattedUrl": "https://www.dot.nd.gov/driver",
+   "htmlFormattedUrl": "https://www.dot.nd.gov/driver",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQQmIfh4f4nIYeHQoDOB8ZPK1sOgDSsBKuE9rDy6b9SB-o6Jtt04PE0VPa&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dot.nd.gov/sites/www/files/styles/facebook_share/public/documents/social/Capitol_Social_Share_0.jpg?itok=BIP2kp7W",
+      "og:type": "website",
+      "og:image:alt": "social share image",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Driver",
+      "og:site_name": "NDDOT",
+      "og:image:url": "https://www.dot.nd.gov/sites/www/files/styles/facebook_share/public/documents/theme/Capitol_Social_Share.jpg",
+      "handheldfriendly": "true",
+      "og:title": "Driver",
+      "og:image:type": "image/jpeg",
+      "og:image:secure_url": "https://www.dot.nd.gov/sites/www/files/styles/facebook_share/public/documents/theme/Capitol_Social_Share.jpg",
+      "twitter:image": "https://www.dot.nd.gov/sites/www/files/styles/twitter_share/public/documents/social/Capitol_Social_Share_0.jpg?itok=Imd7eyhB",
+      "twitter:image:alt": "social share image",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width",
+      "og:url": "https://www.dot.nd.gov/driver"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dot.nd.gov/sites/www/files/styles/facebook_share/public/documents/social/Capitol_Social_Share_0.jpg?itok=BIP2kp7W"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Requirements for Transferring License | NDDOT",
+   "htmlTitle": "Requirements for Transferring License | NDDOT",
+   "link": "https://www.dot.nd.gov/driver/requirements-transferring-license",
+   "displayLink": "www.dot.nd.gov",
+   "snippet": "Transfer Requirements \u00b7 Proof of Identification \u00b7 Proof of Name Change \u00b7 Proof of Social Security Number (Only Required for REAL ID) \u00b7 Proof of North Dakota\u00a0...",
+   "htmlSnippet": "Transfer Requirements &middot; Proof of Identification &middot; Proof of Name Change &middot; Proof of Social Security Number (Only Required for <b>REAL ID</b>) &middot; Proof of North Dakota&nbsp;...",
+   "formattedUrl": "https://www.dot.nd.gov/driver/requirements-transferring-license",
+   "htmlFormattedUrl": "https://www.dot.nd.gov/driver/requirements-transferring-license",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQQmIfh4f4nIYeHQoDOB8ZPK1sOgDSsBKuE9rDy6b9SB-o6Jtt04PE0VPa&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "WebPage": [
+     {
+      "name": "Requirements for Transferring License"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dot.nd.gov/sites/www/files/styles/facebook_share/public/documents/social/Capitol_Social_Share_0.jpg?itok=BIP2kp7W",
+      "og:type": "website",
+      "og:image:alt": "social share image",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Requirements for Transferring License",
+      "og:site_name": "NDDOT",
+      "og:image:url": "https://www.dot.nd.gov/sites/www/files/styles/facebook_share/public/documents/theme/Capitol_Social_Share.jpg",
+      "handheldfriendly": "true",
+      "og:title": "Requirements for Transferring License",
+      "og:image:type": "image/jpeg",
+      "og:image:secure_url": "https://www.dot.nd.gov/sites/www/files/styles/facebook_share/public/documents/theme/Capitol_Social_Share.jpg",
+      "twitter:image": "https://www.dot.nd.gov/sites/www/files/styles/twitter_share/public/documents/social/Capitol_Social_Share_0.jpg?itok=Imd7eyhB",
+      "twitter:image:alt": "social share image",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width",
+      "og:url": "https://www.dot.nd.gov/driver/requirements-transferring-license"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dot.nd.gov/sites/www/files/styles/facebook_share/public/documents/social/Capitol_Social_Share_0.jpg?itok=BIP2kp7W"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ID Card Requirements | NDDOT",
+   "htmlTitle": "ID Card Requirements | NDDOT",
+   "link": "https://www.dot.nd.gov/driver/id-card-requirements",
+   "displayLink": "www.dot.nd.gov",
+   "snippet": "... REAL ID Information \u00b7 Education \u00b7 Commercial \u00b7 Motor Vehicle \u00b7 Motor Vehicle Dealer ... REAL ID Information \u00b7 Education \u203a. X; Back. \u2039 Education; Driver\u00a0...",
+   "htmlSnippet": "... <b>REAL ID</b> Information &middot; Education &middot; Commercial &middot; Motor Vehicle &middot; Motor Vehicle Dealer ... <b>REAL ID</b> Information &middot; Education \u203a. X; Back. \u2039 Education; Driver&nbsp;...",
+   "formattedUrl": "https://www.dot.nd.gov/driver/id-card-requirements",
+   "htmlFormattedUrl": "https://www.dot.nd.gov/driver/id-card-requirements",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQQmIfh4f4nIYeHQoDOB8ZPK1sOgDSsBKuE9rDy6b9SB-o6Jtt04PE0VPa&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "WebPage": [
+     {
+      "name": "ID Card Requirements"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dot.nd.gov/sites/www/files/styles/facebook_share/public/documents/social/Capitol_Social_Share_0.jpg?itok=BIP2kp7W",
+      "og:type": "website",
+      "og:image:alt": "social share image",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "ID Card Requirements",
+      "og:site_name": "NDDOT",
+      "og:image:url": "https://www.dot.nd.gov/sites/www/files/styles/facebook_share/public/documents/theme/Capitol_Social_Share.jpg",
+      "handheldfriendly": "true",
+      "og:title": "ID Card Requirements",
+      "og:image:type": "image/jpeg",
+      "og:image:secure_url": "https://www.dot.nd.gov/sites/www/files/styles/facebook_share/public/documents/theme/Capitol_Social_Share.jpg",
+      "twitter:image": "https://www.dot.nd.gov/sites/www/files/styles/twitter_share/public/documents/social/Capitol_Social_Share_0.jpg?itok=Imd7eyhB",
+      "twitter:image:alt": "social share image",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width",
+      "og:url": "https://www.dot.nd.gov/driver/id-card-requirements"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dot.nd.gov/sites/www/files/styles/facebook_share/public/documents/social/Capitol_Social_Share_0.jpg?itok=BIP2kp7W"
+     }
+    ]
+   }
+  }
+ ]
+}

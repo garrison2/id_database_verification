@@ -1,0 +1,416 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Nebraska\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Nebraska Revised Statutes\"",
+    "totalResults": "116000",
+    "searchTerms": "\"Nebraska\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Nebraska Revised Statutes\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Nebraska\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Nebraska Revised Statutes\"",
+    "totalResults": "116000",
+    "searchTerms": "\"Nebraska\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Nebraska Revised Statutes\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.152609,
+  "formattedSearchTime": "0.15",
+  "totalResults": "116000",
+  "formattedTotalResults": "116,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Browse Statutes by Chapter - Nebraska Legislature",
+   "htmlTitle": "Browse Statutes by Chapter - Nebraska Legislature",
+   "link": "https://nebraskalegislature.gov/laws/browse-statutes.php",
+   "displayLink": "nebraskalegislature.gov",
+   "snippet": "Nebraska Revised Statutes by Chapter ... To browse the contents of a specific chapter, simply click on the chapter number. To view the full chapter, click the \"\u00a0...",
+   "htmlSnippet": "<b>Nebraska Revised Statutes</b> by Chapter ... To browse the contents of a specific chapter, simply click on the chapter number. To view the full chapter, click the &quot;&nbsp;...",
+   "formattedUrl": "https://nebraskalegislature.gov/laws/browse-statutes.php",
+   "htmlFormattedUrl": "https://<b>nebraska</b>legislature.gov/<b>law</b>s/browse-statutes.php",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "author": "LTC"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Member Login | myNebraskaBlue | BCBSNE",
+   "htmlTitle": "Member Login | myNebraskaBlue | BCBSNE",
+   "link": "https://www.nebraskablue.com/member-login",
+   "displayLink": "www.nebraskablue.com",
+   "snippet": "Download your mobile ID card; Manage medications and see ... For on-the-go access to your ID card and member tools, download the myBlue Nebraska app today.",
+   "htmlSnippet": "Download your <b>mobile ID</b> card; Manage medications and see ... For on-the-go access to your ID card and member tools, download the myBlue <b>Nebraska</b> app today.",
+   "formattedUrl": "https://www.nebraskablue.com/member-login",
+   "htmlFormattedUrl": "https://www.<b>nebraska</b>blue.com/member-login",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Nebraska Mobile ID Updates",
+   "htmlTitle": "<b>Nebraska Mobile ID</b> Updates",
+   "link": "https://idscan.net/state-digital-id/nebraska-mobile-id-updates/",
+   "displayLink": "idscan.net",
+   "snippet": "Nebraska remains one of the few states with no plans to implement a mobile ID. Hopefully as mobile ID use grows, they will consider an mDL.",
+   "htmlSnippet": "<b>Nebraska</b> remains one of the few states with no plans to implement a <b>mobile ID</b>. Hopefully as <b>mobile ID</b> use grows, they will consider an <b>mDL</b>.",
+   "formattedUrl": "https://idscan.net/state-digital-id/nebraska-mobile-id-updates/",
+   "htmlFormattedUrl": "https://idscan.net/state-<b>digital-id</b>/<b>nebraska</b>-<b>mobile-id</b>-updates/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiH-R00TeOS5d9XKIy-Hz7l-iO5OsOdqP3FjDVryRfAX61Lrjos8jGkPBo&s",
+      "width": "311",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://idscan.net/wp-content/uploads/nebraska-mobile-id.jpg?lm=67E5AEC5",
+      "og:type": "article",
+      "og:image:width": "1198",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "IDScan.net",
+      "og:title": "Nebraska Mobile ID Updates",
+      "og:image:height": "625",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://idscan.net/wp-content/uploads/cropped-idscan-identity-verification-software-icon-1-270x270.png",
+      "og:description": "Nebraska remains one of the few states with no plans to implement a mobile ID. Hopefully as mobile ID use grows, they will consider an mDL.",
+      "article:publisher": "https://www.facebook.com/idscannet",
+      "twitter:site": "@idscan_net",
+      "article:modified_time": "2025-03-26T17:00:14+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://idscan.net/state-digital-id/nebraska-mobile-id-updates/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://idscan.net/wp-content/uploads/nebraska-mobile-id.jpg?lm=67E5AEC5"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Social media protections, student phone ban advance again in ...",
+   "htmlTitle": "Social media protections, student phone ban advance again in ...",
+   "link": "https://nebraskaexaminer.com/2025/04/09/social-media-protections-student-phone-ban-advance-again-in-nebraska-legislature/",
+   "displayLink": "nebraskaexaminer.com",
+   "snippet": "Apr 9, 2025 ... ... Nebraska Legislature. April 8, 2025. (Zach Wendling/Nebraska ... One method of age verification could be a digital ID card. Minors (up\u00a0...",
+   "htmlSnippet": "Apr 9, 2025 <b>...</b> ... <b>Nebraska</b> Legislature. April 8, 2025. (Zach Wendling/<b>Nebraska</b> ... One method of age verification could be a <b>digital ID</b> card. Minors (up&nbsp;...",
+   "formattedUrl": "https://nebraskaexaminer.com/.../social-media-protections-student-phone-ba...",
+   "htmlFormattedUrl": "https://<b>nebraska</b>examiner.com/.../social-media-protections-student-phone-ba...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLaiPU1N4jPVpmeEeyXyWQLue15yhURaNSFJ5fwtqfb9X1YBDzeGoejxg&s",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://nebraskaexaminer.com/wp-content/uploads/2025/04/bosn_ZJW_040825-03-e1744292771520.jpg",
+      "og:type": "article",
+      "article:published_time": "2025-04-09T22:08:36+00:00",
+      "twitter:card": "summary_large_image",
+      "og:image:width": "1900",
+      "og:site_name": "Nebraska Examiner",
+      "author": "Zach Wendling",
+      "og:title": "Social media protections, student phone ban advance again in Nebraska Legislature \u2022 Nebraska Examiner",
+      "twitter:label1": "Written by",
+      "twitter:label2": "Est. reading time",
+      "msapplication-tileimage": "https://nebraskaexaminer.com/wp-content/uploads/2022/01/Asset-2.png",
+      "og:description": "State lawmakers are one debate away from adopting two bills backed by the governor meant to increase online safety for minors.",
+      "twitter:creator": "@ZachWendling2",
+      "article:publisher": "https://www.facebook.com/Nebraska-Examiner-104678612100851",
+      "article:author": "https://www.facebook.com/zachwendlingofficial/",
+      "twitter:data1": "Zach Wendling",
+      "twitter:data2": "10 minutes",
+      "twitter:site": "@NE_Examiner",
+      "article:modified_time": "2025-04-10T13:46:16+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://nebraskaexaminer.com/2025/04/09/social-media-protections-student-phone-ban-advance-again-in-nebraska-legislature/",
+      "sn_version": "v1.86.4"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://nebraskaexaminer.com/wp-content/uploads/2025/04/bosn_ZJW_040825-03-e1744292771520.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Get Started",
+   "htmlTitle": "Get Started",
+   "link": "https://nebraska.edu/-/media/projects/unca/faculty-staff/health-benefits/unsget-started-guide3627611-101023final-002.pdf",
+   "displayLink": "nebraska.edu",
+   "snippet": "We're happy you are a member of Blue Cross and Blue. Shield of Nebraska. Use this guide to get started and help understand your health care and dental plans. We\u00a0...",
+   "htmlSnippet": "We&#39;re happy you are a member of Blue Cross and Blue. Shield of <b>Nebraska</b>. Use this guide to get started and help understand your health care and dental plans. We&nbsp;...",
+   "formattedUrl": "https://nebraska.edu/-/.../unsget-started-guide3627611-101023final-002.pd...",
+   "htmlFormattedUrl": "https://<b>nebraska</b>.edu/-/.../unsget-started-guide3627611-101023final-002.pd...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR99bfToiECy2RgnBmqgYPRAaSfVSIzV7ecS-zZd2EjCwcEsLz7L_u3Z0g&s",
+      "width": "232",
+      "height": "218"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20231109143514-06'00'",
+      "creationdate": "D:20231102150154-05'00'",
+      "creator": "Adobe InDesign 19.0 (Windows)",
+      "producer": "Adobe PDF Library 17.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///cea88c28f6f7ec7aa213cb12416ffb75eb1c1202486592372516db082b5d6233"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CHI Health | CHI Health",
+   "htmlTitle": "CHI Health | CHI Health",
+   "link": "https://www.chihealth.com/",
+   "displayLink": "www.chihealth.com",
+   "snippet": "CHI Health serves residents of Nebraska, southwest Iowa and northern Kansas.",
+   "htmlSnippet": "CHI Health serves residents of <b>Nebraska</b>, southwest Iowa and northern Kansas.",
+   "formattedUrl": "https://www.chihealth.com/",
+   "htmlFormattedUrl": "https://www.chihealth.com/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5-_CG88qiP0whpITIEn-0SOkNFWbFh9OQnRHRV5O1lpiNVR9yEvqbdHY&s",
+      "width": "332",
+      "height": "152"
+     }
+    ],
+    "organization": [
+     {
+      "url": "https://www.chihealth.com/"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "csh-aem-core-home-page-template",
+      "og:image": "https://www.chihealth.com/content/chihealthcom/en.thumb.800.480.png?ck=1749478306",
+      "twitter:title": "CHI Health | CHI Health",
+      "og:type": "WEBSITE",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "CHI Health",
+      "og:title": "CHI Health | CHI Health",
+      "locale": "en",
+      "og:description": "CHI Health serves residents of Nebraska, southwest Iowa and northern Kansas.",
+      "twitter:image": "https://www.chihealth.com/content/chihealthcom/en.thumb.800.480.png?ck=1749478306",
+      "twitter:site": "CHI Health",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "CHI Health serves residents of Nebraska, southwest Iowa and northern Kansas.",
+      "og:url": "https://www.chihealth.com/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.chihealth.com/content/dam/chihealthcom/images/Homepage-Couple.jpg/_jcr_content/renditions/cq5dam.web.1440.657.jpeg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ambetter Online Member Account Information | Ambetter",
+   "htmlTitle": "Ambetter Online Member Account Information | Ambetter",
+   "link": "https://www.ambetterhealth.com/ambetter-online-member-account.html",
+   "displayLink": "www.ambetterhealth.com",
+   "snippet": "Nebraska \u00b7 Nevada \u00b7 New Hampshire \u00b7 New Jersey \u00b7 New YorkExternal Link \u00b7 North ... Digital ID: Get your digital ID card anytimeExternal Link on your online\u00a0...",
+   "htmlSnippet": "<b>Nebraska</b> &middot; Nevada &middot; New Hampshire &middot; New Jersey &middot; New YorkExternal Link &middot; North ... <b>Digital ID</b>: Get your <b>digital ID</b> card anytimeExternal Link on your online&nbsp;...",
+   "formattedUrl": "https://www.ambetterhealth.com/ambetter-online-member-account.html",
+   "htmlFormattedUrl": "https://www.ambetterhealth.com/ambetter-online-member-account.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAW4FRgL4r3qm3mJ81kliwFnBAovrdDX_ftgMCAVTDZAjb--NGdY05Jn4&s",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1",
+      "author": "Ambetter",
+      "title": "Ambetter Online Member Account",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.ambetterhealth.com/content/dam/centene/Centene%20Corporate/web-images/ambetter/enrolling-882197556.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Digital IDs: Acceptable for notarizations? | NNA",
+   "htmlTitle": "Digital IDs: Acceptable for notarizations? | NNA",
+   "link": "https://www.nationalnotary.org/notary-bulletin/blog/2019/12/digital-ids-acceptable-for-notarizations",
+   "displayLink": "www.nationalnotary.org",
+   "snippet": "Feb 14, 2024 ... In July 2020, a Wyoming digital ID law took effect allowing ... Nebraska; Nevada; New Hampshire; New Jersey; New Mexico; New York; North\u00a0...",
+   "htmlSnippet": "Feb 14, 2024 <b>...</b> In July 2020, a Wyoming <b>digital ID law</b> took effect allowing ... <b>Nebraska</b>; Nevada; New Hampshire; New Jersey; New Mexico; New York; North&nbsp;...",
+   "formattedUrl": "https://www.nationalnotary.org/.../digital-ids-acceptable-for-notarizations",
+   "htmlFormattedUrl": "https://www.nationalnotary.org/.../<b>digital-id</b>s-acceptable-for-notarizations",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW_eIHQEElOI8jNGcSyC-cbkxTuJnz3wAez-HCNwY6dmmuTf2LybQ-H3y-&s",
+      "width": "285",
+      "height": "177"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.nationalnotary.org/Image%20Library/NNA/Bulletin/ColoradoIDsnippet2-resized.jpg",
+      "twitter:card": "summary",
+      "og:type": "article",
+      "article:published_time": "2019-12-12",
+      "twitter:site": "@nationalnotary",
+      "og:site_name": "National Notary Association",
+      "article:modified_time": "2024-02-14",
+      "viewport": "width=device-width,initial-scale=1,minimum-scale=1.0,maximum-scale=1.0",
+      "og:title": "Digital IDs: Acceptable for notarizations?",
+      "y_key": "619dbc143431f814",
+      "og:url": "https://www.nationalnotary.org/notary-bulletin/blog/2019/12/digital-ids-acceptable-for-notarizations",
+      "og:description": "Are digital IDs acceptable to Notaries as proof of a signer's identity? Here's what you need to know."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.nationalnotary.org/Image%20Library/NNA/Bulletin/ColoradoIDsnippet2-resized.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "New Ambetter Members | Ambetter from Nebraska Total Care",
+   "htmlTitle": "New Ambetter Members | Ambetter from <b>Nebraska</b> Total Care",
+   "link": "https://www.ambetterhealth.com/en/ne/resources/new-members/get-started/",
+   "displayLink": "www.ambetterhealth.com",
+   "snippet": "Download and save your digital ID card; View claims status, payment ... **Ambetter from Nebraska Total Care is underwritten by Nebraska Total Care, Inc\u00a0...",
+   "htmlSnippet": "Download and save your <b>digital ID</b> card; View claims status, payment ... **Ambetter from <b>Nebraska</b> Total Care is underwritten by <b>Nebraska</b> Total Care, Inc&nbsp;...",
+   "formattedUrl": "https://www.ambetterhealth.com/en/ne/resources/new.../get-started/",
+   "htmlFormattedUrl": "https://www.ambetterhealth.com/en/ne/resources/new.../get-started/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnRSqSbBheCOVRYy9cYPyQ7iQfIDS7Bif07erH4HqmV8ONjG6hf7YCgcA&s",
+      "width": "240",
+      "height": "85"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1",
+      "author": "BLUEPRINT",
+      "title": "Get Started",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.ambetterhealth.com/content/dam/centene/Nebraska/ambetter/logo/AMB_NE_Logo_Eng_Web.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Mill Coffee & Tea",
+   "htmlTitle": "The Mill Coffee &amp; Tea",
+   "link": "https://millcoffee.com/",
+   "displayLink": "millcoffee.com",
+   "snippet": "The Mill Coffee & Tea Locally owned coffee shop & roaster, now with four locations, in Lincoln, Nebraska Since 1975 ... Moldova (MDL L)\u00a0...",
+   "htmlSnippet": "The Mill Coffee &amp; Tea Locally owned coffee shop &amp; roaster, now with four locations, in Lincoln, <b>Nebraska</b> Since 1975 ... Moldova (<b>MDL</b> L)&nbsp;...",
+   "formattedUrl": "https://millcoffee.com/",
+   "htmlFormattedUrl": "https://millcoffee.com/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcUi-9D7w-dlgNRBdozyzdcqixL8SFavXmmck5s1n8hpRiEqiJeN0thWf9&s",
+      "width": "311",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "http://millcoffee.com/cdn/shop/files/The_Mill_Wordmark_No_Border_Logo_burg.png?height=628&pad_color=fdf4ed&v=1697644709&width=1200",
+      "theme-color": "#d6ae64",
+      "og:type": "website",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "The Mill Coffee & Tea",
+      "og:site_name": "Mill Coffee & Tea",
+      "og:title": "The Mill Coffee & Tea",
+      "og:image:height": "628",
+      "shopify-checkout-api-token": "a6eab4e111a290cbae54cbf6e66176f5",
+      "og:description": "The Mill Coffee & Tea Locally owned coffee shop & roaster, now with four locations, in Lincoln, Nebraska Since 1975!",
+      "og:image:secure_url": "https://millcoffee.com/cdn/shop/files/The_Mill_Wordmark_No_Border_Logo_burg.png?height=628&pad_color=fdf4ed&v=1697644709&width=1200",
+      "facebook-domain-verification": "awwgceqee2d16blk0ske695sdkgc7z",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "The Mill Coffee & Tea Locally owned coffee shop & roaster, now with four locations, in Lincoln, Nebraska Since 1975!",
+      "shopify-digital-wallet": "/25083772974/digital_wallets/dialog",
+      "og:url": "https://millcoffee.com/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "http://millcoffee.com/cdn/shop/files/The_Mill_Wordmark_No_Border_Logo_burg.png?height=628&pad_color=fdf4ed&v=1697644709&width=1200"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,336 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"North Dakota Century Code\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "totalResults": "1720",
+    "searchTerms": "\"North Dakota Century Code\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"North Dakota Century Code\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "totalResults": "1720",
+    "searchTerms": "\"North Dakota Century Code\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.184248,
+  "formattedSearchTime": "0.18",
+  "totalResults": "1720",
+  "formattedTotalResults": "1,720"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "North Dakota Century Code t19c24.1",
+   "htmlTitle": "<b>North Dakota Century Code</b> t19c24.1",
+   "link": "https://ndlegis.gov/cencode/t19c24-1.pdf",
+   "displayLink": "ndlegis.gov",
+   "snippet": "designated caregiver registry identification card, the department shall verify ... The facility will not store or maintain the registered qualifying patient's\u00a0...",
+   "htmlSnippet": "designated caregiver registry <b>identification card</b>, the department shall <b>verify</b> ... The facility will not <b>store</b> or <b>maintain</b> the registered qualifying patient&#39;s&nbsp;...",
+   "formattedUrl": "https://ndlegis.gov/cencode/t19c24-1.pdf",
+   "htmlFormattedUrl": "https://ndlegis.gov/cencode/t19c24-1.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "Writer",
+      "creationdate": "D:20250630181404-05'00'",
+      "producer": "OpenOffice.org 3.1",
+      "title": "North Dakota Century Code t19c24.1"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver License Manual",
+   "htmlTitle": "<b>Driver License</b> Manual",
+   "link": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+   "displayLink": "www.dot.nd.gov",
+   "snippet": "er identification card without proper iden- tification. Page 9. 5. Noncommercial Driver License Manual. Revised 2023. Applicants born in North Dakota may obtain\u00a0...",
+   "htmlSnippet": "er <b>identification card</b> without proper iden- tification. Page 9. 5. Noncommercial <b>Driver License</b> Manual. Revised 2023. Applicants born in North Dakota may obtain&nbsp;...",
+   "formattedUrl": "https://www.dot.nd.gov/sites/www/files/.../noncommercial-manual.pdf",
+   "htmlFormattedUrl": "https://www.dot.nd.gov/sites/www/files/.../noncommercial-manual.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg4zzEG6aoqAkgFsGZUQ_-F50f391ShEs61s2VV7OXx9QmI4kYuzst-vw&s",
+      "width": "246",
+      "height": "205"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20231023165714-05'00'",
+      "creationdate": "D:20230927092400-05'00'",
+      "creator": "Adobe InDesign 18.5 (Windows)",
+      "producer": "Adobe PDF Library 17.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///54a383cc1d02bf3b19b91ab703400cf86a8d1fe614accafff7cd15376f3b1165"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Enrolled SB 2262 - 2019 Regular Session (66th LA) - LC# 19.1089 ...",
+   "htmlTitle": "Enrolled SB 2262 - 2019 Regular Session (66th LA) - LC# 19.1089 ...",
+   "link": "https://ndlegis.gov/assembly/66-2019/documents/19-1089-02000.pdf",
+   "displayLink": "ndlegis.gov",
+   "snippet": "... store, information encoded on a computer chip or magnetic strip or stripe of a payment card, driver's license, or state- issued identification card. 4\u00a0...",
+   "htmlSnippet": "... <b>store</b>, information encoded on a computer chip or magnetic strip or stripe of a payment card, <b>driver&#39;s license</b>, or state- issued <b>identification card</b>. 4&nbsp;...",
+   "formattedUrl": "https://ndlegis.gov/assembly/66-2019/documents/19-1089-02000.pdf",
+   "htmlFormattedUrl": "https://ndlegis.gov/assembly/66-2019/documents/19-1089-02000.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "subdocumenttype": "Measure",
+      "lcnumber": "19.1089",
+      "year": "2019",
+      "assemblyid": "66",
+      "sessiontype": "Regular",
+      "lcversion": "02000",
+      "documenttype": "Session Document",
+      "title": "Enrolled SB 2262 - 2019 Regular Session (66th LA) - LC# 19.1089.02000",
+      "url": "https://www.ndlegis.gov/assembly/66-2019/documents/19-1089-02000.pdf",
+      "chamber": "Senate",
+      "billnumber": "2262",
+      "producer": "PyPDF2",
+      "modified": "2022-08-16T04:55:44.421147",
+      "biennium": "2019"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "House Bill No. 1561 - Sixty-ninth Legislative Assembly of North ...",
+   "htmlTitle": "House Bill No. 1561 - Sixty-ninth Legislative Assembly of North ...",
+   "link": "https://legiscan.com/ND/text/HB1561/id/3067786/North_Dakota-2025-HB1561-Introduced.pdf",
+   "displayLink": "legiscan.com",
+   "snippet": "A commercial entity or third party that performs the required age verification may not retain any identifying information of the individual after access has\u00a0...",
+   "htmlSnippet": "A commercial entity or third party that performs the required age <b>verification</b> may not <b>retain</b> any identifying information of the individual after access has&nbsp;...",
+   "formattedUrl": "https://legiscan.com/ND/text/.../North_Dakota-2025-HB1561-Introduced.p...",
+   "htmlFormattedUrl": "https://legi<b>scan</b>.com/ND/text/.../North_Dakota-2025-HB1561-Introduced.p...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKPwPP4XH7tAvYUNxKN3SxwWgMdhHA0Pp1bFlTsSDq6QKEcg8OfcKfz4M&s",
+      "width": "197",
+      "height": "255"
+     }
+    ],
+    "metatags": [
+     {
+      "creator": "Writer",
+      "creationdate": "D:20250120170624-06'00'",
+      "producer": "OpenOffice.org 3.1",
+      "title": "House Bill No. 1561 - Sixty-ninth Legislative Assembly of North Dakota - LC Number 25.0968.02000"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///dc401f5f80645381ac08e8212eef57a4a81648c441af0cacc54e48bb371808fa"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Chapter 33-44-01 Medical Marijuana",
+   "htmlTitle": "Chapter 33-44-01 Medical Marijuana",
+   "link": "https://ndlegis.gov/information/acdata/pdf/33-44-01.pdf",
+   "displayLink": "ndlegis.gov",
+   "snippet": "... share, give, sell, or ... The department shall maintain a computer information system for inventory control and registry identification card verification.",
+   "htmlSnippet": "... <b>share</b>, give, <b>sell</b>, or ... The department shall <b>maintain</b> a computer information system for inventory control and registry <b>identification card verification</b>.",
+   "formattedUrl": "https://ndlegis.gov/information/acdata/pdf/33-44-01.pdf",
+   "htmlFormattedUrl": "https://ndlegis.gov/information/acdata/pdf/33-44-01.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "Writer",
+      "creationdate": "D:20230927102707-05'00'",
+      "producer": "OpenOffice.org 3.1",
+      "title": "nd1.ac_web"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "North Dakota Century Code Title 39. Motor Vehicles \u00a7 39-06-40 ...",
+   "htmlTitle": "<b>North Dakota Century Code</b> Title 39. Motor Vehicles \u00a7 39-06-40 ...",
+   "link": "https://codes.findlaw.com/nd/title-39-motor-vehicles/nd-cent-code-sect-39-06-40.html",
+   "displayLink": "codes.findlaw.com",
+   "snippet": "... identification card. The director may set the period of revocation, not to ... Please verify the status of the code you are researching with the state\u00a0...",
+   "htmlSnippet": "... <b>identification card</b>. The director may set the period of revocation, not to ... Please <b>verify</b> the status of the code you are researching with the state&nbsp;...",
+   "formattedUrl": "https://codes.findlaw.com/nd/title-39.../nd-cent-code-sect-39-06-40.html",
+   "htmlFormattedUrl": "https://codes.findlaw.com/nd/title-39.../nd-cent-code-sect-39-06-40.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "U.S. Codes and Statutes",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "csrf-token": "f54d22ba0d",
+      "og:locale": "en_US"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "North Dakota Century Code t12.1c23",
+   "htmlTitle": "<b>North Dakota Century Code</b> t12.1c23",
+   "link": "https://ndlegis.gov/cencode/t12-1c23.pdf",
+   "displayLink": "ndlegis.gov",
+   "snippet": "access, read, scan, obtain, memorize, or store, information encoded on a computer ... driver's license, or state-issued identification card without the permission\u00a0...",
+   "htmlSnippet": "access, read, <b>scan</b>, obtain, memorize, or <b>store</b>, information encoded on a computer ... <b>driver&#39;s license</b>, or state-issued <b>identification card</b> without the permission&nbsp;...",
+   "formattedUrl": "https://ndlegis.gov/cencode/t12-1c23.pdf",
+   "htmlFormattedUrl": "https://ndlegis.gov/cencode/t12-1c23.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "Writer",
+      "creationdate": "D:20250630172012-05'00'",
+      "producer": "OpenOffice.org 3.1",
+      "title": "North Dakota Century Code t12.1c23"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DEALER HANDBOOK",
+   "htmlTitle": "DEALER HANDBOOK",
+   "link": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/Motor%20Vehicles/dealer-handbook.pdf",
+   "displayLink": "www.dot.nd.gov",
+   "snippet": "North Dakota Century Code ... evidenced by a valid state-issued driver's license, non-driver identification card, or any other.",
+   "htmlSnippet": "<b>North Dakota Century Code</b> ... evidenced by a valid state-issued <b>driver&#39;s license</b>, non-driver <b>identification card</b>, or any other.",
+   "formattedUrl": "https://www.dot.nd.gov/sites/www/files/documents/.../dealer-handbook.pdf",
+   "htmlFormattedUrl": "https://www.dot.nd.gov/sites/www/files/documents/.../dealer-handbook.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFV1MTcB-GMnz9wamZ5lBONXLlfaMq-FKUn_EEsNyxqcLsceBFE-f_jHAf&s",
+      "width": "230",
+      "height": "219"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20230801160416-05'00'",
+      "creationdate": "D:20230801160412-05'00'",
+      "creator": "Adobe InDesign 18.4 (Windows)",
+      "producer": "Adobe PDF Library 17.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///dc44e582fa0667a3f053469955d986ba6dd667bc06dcd12cb59f9aa680a2c9bf"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "North Dakota Century Code t39c06",
+   "htmlTitle": "<b>North Dakota Century Code</b> t39c06",
+   "link": "https://ndlegis.gov/cencode/t39c06.pdf",
+   "displayLink": "ndlegis.gov",
+   "snippet": "Driver license central identity management. 1 ... citizens who possess a nondriver photo identification card or driver's license using driver record data.",
+   "htmlSnippet": "<b>Driver license</b> central identity management. 1 ... citizens who possess a nondriver photo <b>identification card</b> or <b>driver&#39;s license</b> using driver record data.",
+   "formattedUrl": "https://ndlegis.gov/cencode/t39c06.pdf",
+   "htmlFormattedUrl": "https://ndlegis.gov/cencode/t39c06.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "Writer",
+      "creationdate": "D:20250630201131-05'00'",
+      "producer": "OpenOffice.org 3.1",
+      "title": "North Dakota Century Code t39c06"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Initiative FINAL as submitted with title",
+   "htmlTitle": "Initiative FINAL as submitted with title",
+   "link": "https://vip.sos.nd.gov/pdfs/Portals/petition-medical.pdf",
+   "displayLink": "vip.sos.nd.gov",
+   "snippet": "That the facility will not store or maintain the patient's supply of marijuana; ... The department shall establish and maintain a verification system for\u00a0...",
+   "htmlSnippet": "That the facility will not <b>store</b> or <b>maintain</b> the patient&#39;s supply of marijuana; ... The department shall establish and <b>maintain</b> a <b>verification</b> system for&nbsp;...",
+   "formattedUrl": "https://vip.sos.nd.gov/pdfs/Portals/petition-medical.pdf",
+   "htmlFormattedUrl": "https://vip.sos.nd.gov/pdfs/Portals/petition-medical.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZykLaV-pDrYa16wQqj7GSixYUO_n-rilvbjN49cm2jSIEffHJH2ud2w0&s",
+      "width": "197",
+      "height": "255"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20120531172251-05'00'",
+      "creationdate": "D:20120531221459Z",
+      "creator": "Microsoft Word",
+      "author": "Steve Fox",
+      "producer": "Mac OS X 10.6.8 Quartz PDFContext",
+      "title": "Initiative FINAL as submitted with title"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///e6c7789983d4def0cad4e7d508b975db149995302faa9b0d1564cee066781086"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

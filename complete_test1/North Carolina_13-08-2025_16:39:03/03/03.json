@@ -1,0 +1,376 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://www.ncdot.gov/dmv \"REAL ID\"",
+    "totalResults": "97",
+    "searchTerms": "site:https://www.ncdot.gov/dmv \"REAL ID\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://www.ncdot.gov/dmv \"REAL ID\"",
+    "totalResults": "97",
+    "searchTerms": "site:https://www.ncdot.gov/dmv \"REAL ID\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.109551,
+  "formattedSearchTime": "0.11",
+  "totalResults": "97",
+  "formattedTotalResults": "97"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Official NCDMV: N.C. REAL ID",
+   "htmlTitle": "Official NCDMV: N.C. <b>REAL ID</b>",
+   "link": "https://www.ncdot.gov/dmv/license-id/nc-real-id/Pages/default.aspx",
+   "displayLink": "www.ncdot.gov",
+   "snippet": "Jun 25, 2025 ... The N.C. REAL ID is a REAL ID Act-compliant driver license that is just like a traditional license or ID but has a star at the top.",
+   "htmlSnippet": "Jun 25, 2025 <b>...</b> The N.C. <b>REAL ID</b> is a <b>REAL ID</b> Act-compliant driver license that is just like a traditional license or ID but has a star at the top.",
+   "formattedUrl": "https://www.ncdot.gov/dmv/license-id/nc-real-id/Pages/default.aspx",
+   "htmlFormattedUrl": "https://www.ncdot.gov/dmv/license-id/nc-<b>real-id</b>/Pages/default.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfGgC_sc71h6JTZ2r0z7FdjR2WydSQd7n1InBjh6_vs1ytWZGntB1gjoWI&s",
+      "width": "277",
+      "height": "182"
+     }
+    ],
+    "metatags": [
+     {
+      "image": "https://www.ncdot.gov/Style%20Library/Images/NCDOT_Social_Image.jpg",
+      "og:image": "https://www.ncdot.gov/Style%20Library/Images/NCDOT_Social_Image.jpg",
+      "twitter:card": "summary",
+      "og:type": "website",
+      "twitter:site": "@NCDOT",
+      "og:site_name": "NCDOT",
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0",
+      "twitter:description": "NCDOT",
+      "twitter:creator": "@NCDOT",
+      "og:description": "NCDOT"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.ncdot.gov/news/RR_IMAGE_CATALOG/dmv/other/14_NC_O21_ID_Face%201.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Official NCDMV: N.C. REAL ID Requirements",
+   "htmlTitle": "Official NCDMV: N.C. <b>REAL ID</b> Requirements",
+   "link": "https://www.ncdot.gov/dmv/license-id/nc-real-id/Pages/requirements.aspx",
+   "displayLink": "www.ncdot.gov",
+   "snippet": "Jun 25, 2025 ... \u200bExamples of acceptable documents for each requirement are given shown below the table. \u200b\u200bRequirements, \u200bN.C. REAL ID Driver License\u200b\u200b, \u200bN.C.\u00a0...",
+   "htmlSnippet": "Jun 25, 2025 <b>...</b> \u200bExamples of acceptable documents for each requirement are given shown below the table. \u200b\u200bRequirements, \u200bN.C. <b>REAL ID</b> Driver License\u200b\u200b, \u200bN.C.&nbsp;...",
+   "formattedUrl": "https://www.ncdot.gov/dmv/license-id/nc-real-id/Pages/requirements.aspx",
+   "htmlFormattedUrl": "https://www.ncdot.gov/dmv/license-id/nc-<b>real-id</b>/Pages/requirements.aspx",
+   "pagemap": {
+    "metatags": [
+     {
+      "image": "https://www.ncdot.gov/Style%20Library/Images/NCDOT_Social_Image.jpg",
+      "og:image": "https://www.ncdot.gov/Style%20Library/Images/NCDOT_Social_Image.jpg",
+      "twitter:card": "summary",
+      "og:type": "website",
+      "twitter:site": "@NCDOT",
+      "og:site_name": "NCDOT",
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0",
+      "twitter:description": "NCDOT",
+      "twitter:creator": "@NCDOT",
+      "og:description": "NCDOT"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.ncdot.gov/Style%20Library/Images/NCDOT_Social_Image.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "REAL ID Document Checklist",
+   "htmlTitle": "<b>REAL ID</b> Document Checklist",
+   "link": "https://www.ncdot.gov/dmv/real-id-wizard/Pages/default.aspx",
+   "displayLink": "www.ncdot.gov",
+   "snippet": "Jun 13, 2025 ... DMV\u00bbREAL ID Document Wizard Expand. REAL ID Document Checklist. JavaScript must be enabled to use some features of this site. Please do one of\u00a0...",
+   "htmlSnippet": "Jun 13, 2025 <b>...</b> DMV\u00bb<b>REAL ID</b> Document Wizard Expand. <b>REAL ID</b> Document Checklist. JavaScript must be enabled to use some features of this site. Please do one of&nbsp;...",
+   "formattedUrl": "https://www.ncdot.gov/dmv/real-id-wizard/Pages/default.aspx",
+   "htmlFormattedUrl": "https://www.ncdot.gov/dmv/<b>real-id</b>-wizard/Pages/default.aspx",
+   "pagemap": {
+    "metatags": [
+     {
+      "image": "https://www.ncdot.gov/Style%20Library/Images/NCDOT_Social_Image.jpg",
+      "og:image": "https://www.ncdot.gov/Style%20Library/Images/NCDOT_Social_Image.jpg",
+      "twitter:card": "summary",
+      "og:type": "website",
+      "twitter:site": "@NCDOT",
+      "og:site_name": "NCDOT",
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0",
+      "twitter:description": "NCDOT",
+      "twitter:creator": "@NCDOT",
+      "og:description": "NCDOT"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.ncdot.gov/Style%20Library/Images/NCDOT_Social_Image.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Official NCDMV: Licenses & Fees",
+   "htmlTitle": "Official NCDMV: Licenses &amp; Fees",
+   "link": "https://www.ncdot.gov/dmv/license-id/driver-licenses/Pages/licenses-fees.aspx",
+   "displayLink": "www.ncdot.gov",
+   "snippet": "Apr 24, 2024 ... N.C. REAL ID \u00b7 Renewal & Replacement \u00b7 License Suspension & Restoration; Recent. Back to top. Contact. NCDMV Customer Service (919) 715-7000.",
+   "htmlSnippet": "Apr 24, 2024 <b>...</b> N.C. <b>REAL ID</b> &middot; Renewal &amp; Replacement &middot; License Suspension &amp; Restoration; Recent. Back to top. Contact. NCDMV Customer Service (919) 715-7000.",
+   "formattedUrl": "https://www.ncdot.gov/dmv/license-id/driver-licenses/.../licenses-fees.aspx",
+   "htmlFormattedUrl": "https://www.ncdot.gov/dmv/license-id/driver-licenses/.../licenses-fees.aspx",
+   "pagemap": {
+    "metatags": [
+     {
+      "image": "https://www.ncdot.gov/Style%20Library/Images/NCDOT_Social_Image.jpg",
+      "og:image": "https://www.ncdot.gov/Style%20Library/Images/NCDOT_Social_Image.jpg",
+      "twitter:card": "summary",
+      "og:type": "website",
+      "twitter:site": "@NCDOT",
+      "og:site_name": "NCDOT",
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0",
+      "twitter:description": "NCDOT",
+      "twitter:creator": "@NCDOT",
+      "og:description": "NCDOT"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.ncdot.gov/Style%20Library/Images/NCDOT_Social_Image.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NEW ID",
+   "htmlTitle": "NEW ID",
+   "link": "https://www.ncdot.gov/dmv/driver/realid/download/real-id-brochure.pdf",
+   "displayLink": "www.ncdot.gov",
+   "snippet": "Non-REAL IDs will not have the gold star and will be clearly noted \u201cNot for Federal. Identification\u201d. Without a REAL ID, you will need to contact. TSA and each\u00a0...",
+   "htmlSnippet": "Non-REAL IDs will not have the gold star and will be clearly noted \u201cNot for Federal. Identification\u201d. Without a <b>REAL ID</b>, you will need to contact. TSA and each&nbsp;...",
+   "formattedUrl": "https://www.ncdot.gov/dmv/driver/realid/download/real-id-brochure.pdf",
+   "htmlFormattedUrl": "https://www.ncdot.gov/dmv/driver/<b>realid</b>/download/<b>real-id</b>-brochure.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgDJpB1ISSZTVe6BjEE6weSsw5LFIjp-ldIwM2s2MPg-INAzrrF9rhbKk&s",
+      "width": "215",
+      "height": "235"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20180120162654Z",
+      "creationdate": "D:20180117114000-05'00'",
+      "creator": "Adobe InDesign CC 2017 (Macintosh)",
+      "producer": "3-Heights(TM) PDF Optimization Shell 4.8.25.2 (http://www.pdf-tools.com)"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///fb31d20a5cd511c00f0c523b988e55825e91c1b3390aedf250ea334d6f2bed82"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Official NCDMV: Driver License Office Appointments",
+   "htmlTitle": "Official NCDMV: Driver License Office Appointments",
+   "link": "https://www.ncdot.gov/dmv/license-id/driver-license-appointments/Pages/default.aspx",
+   "displayLink": "www.ncdot.gov",
+   "snippet": "Jun 25, 2025 ... N.C. REAL ID. If you are interested in getting a N.C. REAL ID enhancement for your North Carolina license or ID card, on the appointment\u00a0...",
+   "htmlSnippet": "Jun 25, 2025 <b>...</b> N.C. <b>REAL ID</b>. If you are interested in getting a N.C. <b>REAL ID</b> enhancement for your North Carolina license or ID card, on the appointment&nbsp;...",
+   "formattedUrl": "https://www.ncdot.gov/dmv/license-id/driver-license.../default.aspx",
+   "htmlFormattedUrl": "https://www.ncdot.gov/dmv/license-id/driver-license.../default.aspx",
+   "pagemap": {
+    "metatags": [
+     {
+      "image": "https://www.ncdot.gov/Style%20Library/Images/NCDOT_Social_Image.jpg",
+      "og:image": "https://www.ncdot.gov/Style%20Library/Images/NCDOT_Social_Image.jpg",
+      "twitter:card": "summary",
+      "og:type": "website",
+      "twitter:site": "@NCDOT",
+      "og:site_name": "NCDOT",
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0",
+      "twitter:description": "NCDOT",
+      "twitter:creator": "@NCDOT",
+      "og:description": "NCDOT"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.ncdot.gov/Style%20Library/Images/NCDOT_Social_Image.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Official NCDMV: License & ID Renewal",
+   "htmlTitle": "Official NCDMV: License &amp; ID Renewal",
+   "link": "https://www.ncdot.gov/dmv/license-id/Pages/license-renewal.aspx",
+   "displayLink": "www.ncdot.gov",
+   "snippet": "2 days ago ... N.C. REAL ID \u00b7 N.C. REAL ID Document Checklist \u00b7 N.C. REAL ID Requirements \u00b7 Frequently Asked Questions \u00b7 State-to-State Verification \u00b7 License\u00a0...",
+   "htmlSnippet": "2 days ago <b>...</b> N.C. <b>REAL ID</b> &middot; N.C. <b>REAL ID</b> Document Checklist &middot; N.C. <b>REAL ID</b> Requirements &middot; Frequently Asked Questions &middot; State-to-State Verification &middot; License&nbsp;...",
+   "formattedUrl": "https://www.ncdot.gov/dmv/license-id/Pages/license-renewal.aspx",
+   "htmlFormattedUrl": "https://www.ncdot.gov/dmv/license-id/Pages/license-renewal.aspx",
+   "pagemap": {
+    "metatags": [
+     {
+      "image": "https://www.ncdot.gov/Style%20Library/Images/NCDOT_Social_Image.jpg",
+      "og:image": "https://www.ncdot.gov/Style%20Library/Images/NCDOT_Social_Image.jpg",
+      "twitter:card": "summary",
+      "og:type": "website",
+      "twitter:site": "@NCDOT",
+      "og:site_name": "NCDOT",
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0",
+      "twitter:description": "NCDOT",
+      "twitter:creator": "@NCDOT",
+      "og:description": "NCDOT"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.ncdot.gov/Style%20Library/Images/NCDOT_Social_Image.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Official NCDMV: Proving Age & Identity",
+   "htmlTitle": "Official NCDMV: Proving Age &amp; Identity",
+   "link": "https://www.ncdot.gov/dmv/help/Pages/proving-identity.aspx",
+   "displayLink": "www.ncdot.gov",
+   "snippet": "Jan 20, 2021 ... \u200bREAL ID. A valid, unexpired REAL ID driver license or identification card issued from a REAL ID compliant state. \u200b. \u200bAcceptable for REAL ID.",
+   "htmlSnippet": "Jan 20, 2021 <b>...</b> \u200b<b>REAL ID</b>. A valid, unexpired <b>REAL ID</b> driver license or identification card issued from a <b>REAL ID</b> compliant state. \u200b. \u200bAcceptable for <b>REAL ID</b>.",
+   "formattedUrl": "https://www.ncdot.gov/dmv/help/Pages/proving-identity.aspx",
+   "htmlFormattedUrl": "https://www.ncdot.gov/dmv/help/Pages/proving-identity.aspx",
+   "pagemap": {
+    "metatags": [
+     {
+      "image": "https://www.ncdot.gov/Style%20Library/Images/NCDOT_Social_Image.jpg",
+      "og:image": "https://www.ncdot.gov/Style%20Library/Images/NCDOT_Social_Image.jpg",
+      "twitter:card": "summary",
+      "og:type": "website",
+      "twitter:site": "@NCDOT",
+      "og:site_name": "NCDOT",
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0",
+      "twitter:description": "NCDOT",
+      "twitter:creator": "@NCDOT",
+      "og:description": "NCDOT"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.ncdot.gov/Style%20Library/Images/NCDOT_Social_Image.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Official NCDMV: Replacement & Duplicate License",
+   "htmlTitle": "Official NCDMV: Replacement &amp; Duplicate License",
+   "link": "https://www.ncdot.gov/dmv/license-id/Pages/license-id-replacement.aspx",
+   "displayLink": "www.ncdot.gov",
+   "snippet": "Jul 10, 2025 ... Wants to get an N.C. REAL ID license. Name Changes. An individual has 60 days to notify the N.C. Division of Motor Vehicles of name changes\u00a0...",
+   "htmlSnippet": "Jul 10, 2025 <b>...</b> Wants to get an N.C. <b>REAL ID</b> license. Name Changes. An individual has 60 days to notify the N.C. Division of Motor Vehicles of name changes&nbsp;...",
+   "formattedUrl": "https://www.ncdot.gov/dmv/license-id/Pages/license-id-replacement.aspx",
+   "htmlFormattedUrl": "https://www.ncdot.gov/dmv/license-id/Pages/license-id-replacement.aspx",
+   "pagemap": {
+    "metatags": [
+     {
+      "image": "https://www.ncdot.gov/Style%20Library/Images/NCDOT_Social_Image.jpg",
+      "og:image": "https://www.ncdot.gov/Style%20Library/Images/NCDOT_Social_Image.jpg",
+      "twitter:card": "summary",
+      "og:type": "website",
+      "twitter:site": "@NCDOT",
+      "og:site_name": "NCDOT",
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0",
+      "twitter:description": "NCDOT",
+      "twitter:creator": "@NCDOT",
+      "og:description": "NCDOT"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.ncdot.gov/Style%20Library/Images/NCDOT_Social_Image.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Official NCDMV: Frequently Asked Questions",
+   "htmlTitle": "Official NCDMV: Frequently Asked Questions",
+   "link": "https://www.ncdot.gov/dmv/license-id/nc-real-id/Pages/frequently-asked-questions.aspx",
+   "displayLink": "www.ncdot.gov",
+   "snippet": "Sep 15, 2020 ... Do I have to get an N.C. REAL ID driver license or ID card? No. N.C. REAL ID licenses and ID cards are completely optional. Beginning May 7\u00a0...",
+   "htmlSnippet": "Sep 15, 2020 <b>...</b> Do I have to get an N.C. <b>REAL ID</b> driver license or ID card? No. N.C. <b>REAL ID</b> licenses and ID cards are completely optional. Beginning May 7&nbsp;...",
+   "formattedUrl": "https://www.ncdot.gov/dmv/...id/...real-id/.../frequently-asked-questions.asp...",
+   "htmlFormattedUrl": "https://www.ncdot.gov/dmv/...id/...<b>real-id</b>/.../frequently-asked-questions.asp...",
+   "pagemap": {
+    "metatags": [
+     {
+      "image": "https://www.ncdot.gov/Style%20Library/Images/NCDOT_Social_Image.jpg",
+      "og:image": "https://www.ncdot.gov/Style%20Library/Images/NCDOT_Social_Image.jpg",
+      "twitter:card": "summary",
+      "og:type": "website",
+      "twitter:site": "@NCDOT",
+      "og:site_name": "NCDOT",
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0",
+      "twitter:description": "NCDOT",
+      "twitter:creator": "@NCDOT",
+      "og:description": "NCDOT"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.ncdot.gov/Style%20Library/Images/NCDOT_Social_Image.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

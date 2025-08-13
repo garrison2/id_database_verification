@@ -1,0 +1,369 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://wisconsindot.gov \"REAL ID\"",
+    "totalResults": "104",
+    "searchTerms": "site:https://wisconsindot.gov \"REAL ID\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://wisconsindot.gov \"REAL ID\"",
+    "totalResults": "104",
+    "searchTerms": "site:https://wisconsindot.gov \"REAL ID\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.185325,
+  "formattedSearchTime": "0.19",
+  "totalResults": "104",
+  "formattedTotalResults": "104"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Wisconsin DMV Official Government Site - Real ID",
+   "htmlTitle": "Wisconsin DMV Official Government Site - <b>Real ID</b>",
+   "link": "https://wisconsindot.gov/Pages/dmv/license-drvs/how-to-apply/realid.aspx",
+   "displayLink": "wisconsindot.gov",
+   "snippet": "You only need a REAL ID if you plan to fly within the US, visit a military base or other federal buildings.",
+   "htmlSnippet": "You only need a <b>REAL ID</b> if you plan to fly within the US, visit a military base or other federal buildings.",
+   "formattedUrl": "https://wisconsindot.gov/Pages/dmv/license-drvs/how-to.../realid.aspx",
+   "htmlFormattedUrl": "https://wisconsindot.gov/Pages/dmv/license-drvs/how-to.../<b>realid</b>.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSMdr4Krni56kwBGaa2YhN3sZxSy2I_rJYU-fo6cJ5hqROmGwzTQmjCeI&s",
+      "width": "275",
+      "height": "180"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#da532c",
+      "msapplication-config": "/_catalogs/masterpage/SharePointNext/images/favicon/browserconfig.xml",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/dl-2022-o21.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wisconsin Department of Transportation REAL ID deadline: Majority ...",
+   "htmlTitle": "Wisconsin Department of Transportation <b>REAL ID</b> deadline: Majority ...",
+   "link": "https://wisconsindot.gov/Pages/about-wisdot/newsroom/news-rel/043025realid.aspx",
+   "displayLink": "wisconsindot.gov",
+   "snippet": "Apr 30, 2025 ... The most common form of acceptable identification is a driver license or ID card. Wisconsin DMV has been offering the option to have a REAL ID\u00a0...",
+   "htmlSnippet": "Apr 30, 2025 <b>...</b> The most common form of acceptable identification is a driver license or ID card. Wisconsin DMV has been offering the option to have a <b>REAL ID</b>&nbsp;...",
+   "formattedUrl": "https://wisconsindot.gov/Pages/about-wisdot/.../news.../043025realid.aspx",
+   "htmlFormattedUrl": "https://wisconsindot.gov/Pages/about-wisdot/.../news.../043025<b>realid</b>.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0fmrtVA9ArQxOIkqZ3GZb2gz1L9wxLYGbjtD99dWpCz1KdtDi3RVinQ&s",
+      "width": "125",
+      "height": "125"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#da532c",
+      "msapplication-config": "/_catalogs/masterpage/SharePointNext/images/favicon/browserconfig.xml",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://wisconsindot.gov/_catalogs/masterpage/SharePointNext/images/DOT.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wisconsin DMV Official Government Site - WI DL and ID",
+   "htmlTitle": "Wisconsin DMV Official Government Site - WI DL and ID",
+   "link": "https://wisconsindot.gov/Pages/dmv/license-drvs/how-to-apply/mailed.aspx",
+   "displayLink": "wisconsindot.gov",
+   "snippet": "Wisconsin DMV issues REAL ID compliant products (marked with a \u00b5) in accordance with the federal Real ID Act of 2005. If you plan to fly within the U.S., visit\u00a0...",
+   "htmlSnippet": "Wisconsin DMV issues <b>REAL ID</b> compliant products (marked with a \u00b5) in accordance with the federal <b>Real ID</b> Act of 2005. If you plan to fly within the U.S., visit&nbsp;...",
+   "formattedUrl": "https://wisconsindot.gov/Pages/dmv/license-drvs/how-to.../mailed.aspx",
+   "htmlFormattedUrl": "https://wisconsindot.gov/Pages/dmv/license-drvs/how-to.../mailed.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjo1vb2-kGsqbrs6udvbukwjxfCc__Cm6bSDOX2Cq7qdYaGyxw787Ik4zK&s",
+      "width": "220",
+      "height": "229"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#da532c",
+      "msapplication-config": "/_catalogs/masterpage/SharePointNext/images/favicon/browserconfig.xml",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/dl-id-receipt.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Online identification card application",
+   "htmlTitle": "Online identification card application",
+   "link": "https://wisconsindot.gov/Pages/online-srvcs/other-servs/duplicate-id.aspx",
+   "displayLink": "wisconsindot.gov",
+   "snippet": "Persons applying for a REAL ID-compliant ID card for the first time must visit a DMV customer service center. You are renewing your ID card and need to have the\u00a0...",
+   "htmlSnippet": "Persons applying for a <b>REAL ID</b>-compliant ID card for the first time must visit a DMV customer service center. You are renewing your ID card and need to have the&nbsp;...",
+   "formattedUrl": "https://wisconsindot.gov/Pages/online-srvcs/other-servs/duplicate-id.aspx",
+   "htmlFormattedUrl": "https://wisconsindot.gov/Pages/online-srvcs/other-servs/duplicate-id.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0fmrtVA9ArQxOIkqZ3GZb2gz1L9wxLYGbjtD99dWpCz1KdtDi3RVinQ&s",
+      "width": "125",
+      "height": "125"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#da532c",
+      "msapplication-config": "/_catalogs/masterpage/SharePointNext/images/favicon/browserconfig.xml",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://wisconsindot.gov/_catalogs/masterpage/SharePointNext/images/DOT.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Acceptable Documents for a Wisconsin Driver License or ID Card ...",
+   "htmlTitle": "Acceptable Documents for a Wisconsin Driver License or ID Card ...",
+   "link": "https://wisconsindot.gov/Documents/dmv/shared/bds316-english.pdf",
+   "displayLink": "wisconsindot.gov",
+   "snippet": "Proof of Wisconsin residency if you are 18 years of age or older (two proofs required for. REAL ID compliant card). \u2022 Provide Social Security number. \u00bb If\u00a0...",
+   "htmlSnippet": "Proof of Wisconsin residency if you are 18 years of age or older (two proofs required for. <b>REAL ID</b> compliant card). \u2022 Provide Social Security number. \u00bb If&nbsp;...",
+   "formattedUrl": "https://wisconsindot.gov/Documents/dmv/shared/bds316-english.pdf",
+   "htmlFormattedUrl": "https://wisconsindot.gov/Documents/dmv/shared/bds316-english.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20250714142502-05'00'",
+      "creationdate": "D:20240624103723-05'00'",
+      "creator": "Adobe InDesign 18.5 (Windows)",
+      "author": "WisDOT",
+      "subject": "Documents accepted when applying for a Wisconsin Driver License or ID Card  BDS316  Documentos que Se Aceptan para Solicitar una Licencia de Conducir o Tarjeta de Identificaci\u00f3n del Estado de Wisconsin, BDS316",
+      "producer": "Adobe PDF Library 17.0",
+      "title": "Acceptable Documents for a Wisconsin Driver License or ID Card application"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Sitio oficial del DMV del Estado de Wisconsin - REAL ID",
+   "htmlTitle": "Sitio oficial del DMV del Estado de Wisconsin - <b>REAL ID</b>",
+   "link": "https://wisconsindot.gov/Pages/dmv/license-drvs/how-to-apply/s-realid.aspx",
+   "displayLink": "wisconsindot.gov",
+   "snippet": "Acerca de REAL ID. Su usted piensa viajar por avi\u00f3n dentro de los Estados Unidos, visitar una base militar u alg\u00fan edificio del gobierno federal, el\u00a0...",
+   "htmlSnippet": "Acerca de <b>REAL ID</b>. Su usted piensa viajar por avi\u00f3n dentro de los Estados Unidos, visitar una base militar u alg\u00fan edificio del gobierno federal, el&nbsp;...",
+   "formattedUrl": "https://wisconsindot.gov/Pages/dmv/license-drvs/how-to.../s-realid.aspx",
+   "htmlFormattedUrl": "https://wisconsindot.gov/Pages/dmv/license-drvs/how-to.../s-<b>realid</b>.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0fmrtVA9ArQxOIkqZ3GZb2gz1L9wxLYGbjtD99dWpCz1KdtDi3RVinQ&s",
+      "width": "125",
+      "height": "125"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#da532c",
+      "msapplication-config": "/_catalogs/masterpage/SharePointNext/images/favicon/browserconfig.xml",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://wisconsindot.gov/_catalogs/masterpage/SharePointNext/images/DOT.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wisconsin Department of Transportation Countdown to REAL ID ...",
+   "htmlTitle": "Wisconsin Department of Transportation Countdown to <b>REAL ID</b> ...",
+   "link": "https://wisconsindot.gov/Pages/about-wisdot/newsroom/news-rel/031125realid.aspx",
+   "displayLink": "wisconsindot.gov",
+   "snippet": "Mar 11, 2025 ... When enforcement of the REAL ID Act begins May 7, 2025, the regular Wisconsin driver license or ID may no longer be accepted identification for domestic air\u00a0...",
+   "htmlSnippet": "Mar 11, 2025 <b>...</b> When enforcement of the <b>REAL ID</b> Act begins May 7, 2025, the regular Wisconsin driver license or ID may no longer be accepted identification for domestic air&nbsp;...",
+   "formattedUrl": "https://wisconsindot.gov/Pages/about-wisdot/.../news.../031125realid.aspx",
+   "htmlFormattedUrl": "https://wisconsindot.gov/Pages/about-wisdot/.../news.../031125<b>realid</b>.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0fmrtVA9ArQxOIkqZ3GZb2gz1L9wxLYGbjtD99dWpCz1KdtDi3RVinQ&s",
+      "width": "125",
+      "height": "125"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#da532c",
+      "msapplication-config": "/_catalogs/masterpage/SharePointNext/images/favicon/browserconfig.xml",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://wisconsindot.gov/_catalogs/masterpage/SharePointNext/images/DOT.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wisconsin DMV Official Government Site - Acceptable documents for ...",
+   "htmlTitle": "Wisconsin DMV Official Government Site - Acceptable documents for ...",
+   "link": "https://wisconsindot.gov/Pages/dmv/license-drvs/how-to-apply/identity.aspx",
+   "displayLink": "wisconsindot.gov",
+   "snippet": "For REAL ID compliant and non-compliant cards: A valid (or expired eight years or less) photo driver license or photo identification card issued by Wisconsin or\u00a0...",
+   "htmlSnippet": "For <b>REAL ID</b> compliant and non-compliant cards: A valid (or expired eight years or less) photo driver license or photo identification card issued by Wisconsin or&nbsp;...",
+   "formattedUrl": "https://wisconsindot.gov/Pages/dmv/license-drvs/how-to.../identity.aspx",
+   "htmlFormattedUrl": "https://wisconsindot.gov/Pages/dmv/license-drvs/how-to.../identity.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0fmrtVA9ArQxOIkqZ3GZb2gz1L9wxLYGbjtD99dWpCz1KdtDi3RVinQ&s",
+      "width": "125",
+      "height": "125"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#da532c",
+      "msapplication-config": "/_catalogs/masterpage/SharePointNext/images/favicon/browserconfig.xml",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://wisconsindot.gov/_catalogs/masterpage/SharePointNext/images/DOT.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wisconsin DMV Official Government Site - Proof name change",
+   "htmlTitle": "Wisconsin DMV Official Government Site - Proof name change",
+   "link": "https://wisconsindot.gov/Pages/dmv/license-drvs/rnew-and-chge/proof-name-change.aspx",
+   "displayLink": "wisconsindot.gov",
+   "snippet": "* Note to REAL ID driver license and ID card applicants: If you have a valid, unexpired U.S. Passport in your current name, you will not need to bring in\u00a0...",
+   "htmlSnippet": "* Note to <b>REAL ID</b> driver license and ID card applicants: If you have a valid, unexpired U.S. Passport in your current name, you will not need to bring in&nbsp;...",
+   "formattedUrl": "https://wisconsindot.gov/Pages/dmv/license.../proof-name-change.aspx",
+   "htmlFormattedUrl": "https://wisconsindot.gov/Pages/dmv/license.../proof-name-change.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0fmrtVA9ArQxOIkqZ3GZb2gz1L9wxLYGbjtD99dWpCz1KdtDi3RVinQ&s",
+      "width": "125",
+      "height": "125"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#da532c",
+      "msapplication-config": "/_catalogs/masterpage/SharePointNext/images/favicon/browserconfig.xml",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://wisconsindot.gov/_catalogs/masterpage/SharePointNext/images/DOT.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wisconsin Department of Transportation It's the last holiday travel ...",
+   "htmlTitle": "Wisconsin Department of Transportation It&#39;s the last holiday travel ...",
+   "link": "https://wisconsindot.gov/Pages/about-wisdot/newsroom/news-rel/121624realid.aspx",
+   "displayLink": "wisconsindot.gov",
+   "snippet": "Dec 16, 2024 ... When enforcement of the REAL ID Act begins May 7, 2025, the regular Wisconsin driver license or ID will no longer be accepted identification for domestic air\u00a0...",
+   "htmlSnippet": "Dec 16, 2024 <b>...</b> When enforcement of the <b>REAL ID</b> Act begins May 7, 2025, the regular Wisconsin driver license or ID will no longer be accepted identification for domestic air&nbsp;...",
+   "formattedUrl": "https://wisconsindot.gov/Pages/about-wisdot/.../news.../121624realid.aspx",
+   "htmlFormattedUrl": "https://wisconsindot.gov/Pages/about-wisdot/.../news.../121624<b>realid</b>.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0fmrtVA9ArQxOIkqZ3GZb2gz1L9wxLYGbjtD99dWpCz1KdtDi3RVinQ&s",
+      "width": "125",
+      "height": "125"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#da532c",
+      "msapplication-config": "/_catalogs/masterpage/SharePointNext/images/favicon/browserconfig.xml",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://wisconsindot.gov/_catalogs/masterpage/SharePointNext/images/DOT.png"
+     }
+    ]
+   }
+  }
+ ]
+}

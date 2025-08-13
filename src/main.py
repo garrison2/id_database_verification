@@ -5,18 +5,31 @@ import time
 import argparse
 
 from googleapiclient.discovery import build
+from googleapiclient.errors import HttpError
 
 API_KEY = os.getenv('CSE_KEY')
-QUERIES_PATH = os.getenv('QUERIES_PATH')
-STATES_PATH = os.getenv('STATES_PATH')
-RESULTS_PATH = os.getenv('RESULTS_PATH')
-MOBILE_ID_TERMS = os.getenv('MOBILE_ID_TERMS')
 LOGGING = os.getenv('LOGGING')
+MOBILE_ID_TERMS = os.getenv('MOBILE_ID_TERMS')
+SEARCHLIST_PATH = os.getenv('SEARCHLIST')
+
+if os.getenv("USE_TMP"):
+    QUERIES_PATH = os.getenv('TMP_QUERIES_PATH') or os.getenv('QUERIES_PATH')
+    STATES_PATH = os.getenv('TMP_STATES_PATH') or os.getenv('STATES_PATH')
+    RESULTS_PATH = os.getenv('TMP_RESULTS_PATH') or os.getenv('RESULTS_PATH')
+else:
+    QUERIES_PATH = os.getenv('QUERIES_PATH')
+    STATES_PATH = os.getenv('STATES_PATH')
+    RESULTS_PATH = os.getenv('RESULTS_PATH')
+
 
 with open(QUERIES_PATH, 'r') as file:
     QUERIES = json.load(file)
+
 with open(STATES_PATH, 'r') as file:
     STATES = json.load(file)
+
+with open(SEARCHLIST_PATH, 'r') as file:
+    SEARCHLIST = [s.strip() for s in file.readlines()]
 
 # ---------------------------- RESULTS DIRECTORY ------------------------------
 def make_rdir(state):
@@ -128,12 +141,27 @@ def view(state, query, selection):
 
 # ----------------------------------JSON API ----------------------------------
 def search(query, key):
-    service = build("customsearch", "v1", developerKey=key)
+    attempt = 0
+    while True:
+        try:
+            service = build("customsearch", "v1", developerKey=key)
 
-    s = service.cse().list(q=query,
-                           cx="3548decfb27244f8b"
-                          ).execute()
-    return s
+            s = service.cse().list(q=query,
+                                   cx="3548decfb27244f8b"
+                                  ).execute()
+            return s
+
+        except HttpError as e:
+            sleep_time = 45 * 2 ** attempt
+            print(f'Sleeping {sleep_time} seconds. (attempt {attempt})')
+            time.sleep(sleep_time)
+
+            if LOGGING:
+                with open(LOGGING, 'a') as file:
+                    time_str = time.strftime("%d-%m-%Y_%H:%M:%S")
+                    text = f'\n{time_str}query={query}\tattempt={attempt}\tsleep_time={sleep_time}'
+                    file.write(text)
+            attempt += 1
 
 def search_wrapper(state, query, state_dir = None):
     statute, dmv_website = STATES[state]
@@ -238,6 +266,8 @@ def main(args):
 
                 i = 0
                 for state in STATES:
+                    if state not in SEARCHLIST: continue
+                    print(state)
                     if confirm and i % confirm == 0:
                         print(f'{i} states searched.')
                         proceed()

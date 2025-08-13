@@ -1,0 +1,401 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"South Dakota Codified Laws\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "71",
+    "searchTerms": "\"South Dakota Codified Laws\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"South Dakota Codified Laws\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "71",
+    "searchTerms": "\"South Dakota Codified Laws\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.138537,
+  "formattedSearchTime": "0.14",
+  "totalResults": "71",
+  "formattedTotalResults": "71"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Untitled",
+   "htmlTitle": "Untitled",
+   "link": "https://dps.sd.gov/application/files/4416/2983/0279/new-manual-2021-with-gdl-updates.pdf",
+   "displayLink": "dps.sd.gov",
+   "snippet": "Identification Card (new, renewal or transfer from out of state) ... You can lose your driver's license for one year if you refuse to take a BAC test.",
+   "htmlSnippet": "<b>Identification Card</b> (new, renewal or transfer from out of state) ... You can lose your <b>driver&#39;s license</b> for one year if you refuse to take a BAC test.",
+   "formattedUrl": "https://dps.sd.gov/application/.../new-manual-2021-with-gdl-updates.pdf",
+   "htmlFormattedUrl": "https://dps.sd.gov/application/.../new-manual-2021-with-gdl-updates.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKsU3--jYmONEY1shNj-hbzZckjn4Y1pR9CsNfIlth2exiPQ02pI6zss4&s",
+      "width": "267",
+      "height": "189"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20210730144140-05'00'",
+      "creator": "Microsoft\u00ae Word for Microsoft 365",
+      "creationdate": "D:20210730144140-05'00'",
+      "author": "Olson, Heather",
+      "producer": "Microsoft\u00ae Word for Microsoft 365"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///2b1ba57fbeeb3ca288261f813fbfa0d8b82ea8297f99177c6fff9a2d0e9f7c8f"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Election Code",
+   "htmlTitle": "Election Code",
+   "link": "https://sdsos.gov/elections-voting/assets/2024%20Assets/2024ElectionCode.pdf",
+   "displayLink": "sdsos.gov",
+   "snippet": "Aug 21, 2024 ... to residency as defined in \u00a7 12-1-4 of each petition circulator. ... (1) A South Dakota driver's license or nondriver identification card;.",
+   "htmlSnippet": "Aug 21, 2024 <b>...</b> to residency as <b>defined</b> in \u00a7 12-1-4 of each petition circulator. ... (1) A South Dakota <b>driver&#39;s license</b> or nondriver <b>identification card</b>;.",
+   "formattedUrl": "https://sdsos.gov/elections-voting/assets/.../2024ElectionCode.pdf",
+   "htmlFormattedUrl": "https://sdsos.gov/elections-voting/assets/.../2024ElectionCode.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2plobi-ZqfHiX_PHnEPc3hQsYnKJemMJyqAojix3Brwdh6XXgaimAaDM&s",
+      "width": "272",
+      "height": "185"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20240919162424-05'00'",
+      "creator": "Microsoft\u00ae Word for Microsoft 365",
+      "creationdate": "D:20240919162424-05'00'",
+      "author": "Schmidt, Rachel",
+      "producer": "Microsoft\u00ae Word for Microsoft 365",
+      "title": "Election Code"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///dfe3acb79cf659e4f214bf42414be28e10c2eb1b4cf0fd69d2b0376c2c953a76"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "South Dakota Codified Laws Title 32, Chapter 12 (2024) - Driver ...",
+   "htmlTitle": "<b>South Dakota Codified Laws</b> Title 32, Chapter 12 (2024) - Driver ...",
+   "link": "https://law.justia.com/codes/south-dakota/title-32/chapter-12/",
+   "displayLink": "law.justia.com",
+   "snippet": "Section 32-12-17.4 - Unlawful use of nondriver identification card--Misdemeanor. ... personal information to Selective Service--Application deemed consent to\u00a0...",
+   "htmlSnippet": "Section 32-12-17.4 - Unlawful use of nondriver <b>identification card</b>--Misdemeanor. ... <b>personal information</b> to Selective Service--Application deemed consent to&nbsp;...",
+   "formattedUrl": "https://law.justia.com/codes/south-dakota/title-32/chapter-12/",
+   "htmlFormattedUrl": "https://law.justia.com/codes/south-dakota/title-32/chapter-12/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPP2ksOfM4IyWL7PTxPyS5N80Or-jyXZZLgeH1kYuOtXk5YU597YCxGszS&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "og:site_name": "Justia Law",
+      "og:title": "2024 South Dakota Codified Laws :: Title 32 - Motor Vehicles :: Chapter 12 - Driver Licenses And Permits",
+      "og:app_id": "119529808075661",
+      "trigger-ga": "1",
+      "og:description": "Justia Free Databases of U.S. Laws, Codes & Statutes",
+      "og:admins": "656268335,686786921,25900864",
+      "referrer": "unsafe-url",
+      "twitter:site": "@JustiaCom",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "page-type": "Law: Codes Listing Page (Current Year)",
+      "is-li": "0",
+      "og:url": "https://law.justia.com/codes/south-dakota/title-32/chapter-12/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Foster Parent Handbook South Dakota",
+   "htmlTitle": "Foster Parent Handbook South Dakota",
+   "link": "https://dss.sd.gov/formsandpubs/docs/adopfoster/foster_care_handbook.pdf",
+   "displayLink": "dss.sd.gov",
+   "snippet": "Where relevant, the topics below contain information on Division of Child. Protection Service (CPS) policies and procedures, South Dakota Codified Laws (SDCL),\u00a0...",
+   "htmlSnippet": "Where relevant, the topics below contain information on Division of Child. Protection Service (CPS) policies and procedures, <b>South Dakota Codified Laws</b> (SDCL),&nbsp;...",
+   "formattedUrl": "https://dss.sd.gov/formsandpubs/docs/adopfoster/foster_care_handbook.pdf",
+   "htmlFormattedUrl": "https://dss.sd.gov/formsandpubs/docs/adopfoster/foster_care_handbook.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlF0L4UhvmPjQBYwwep3c8EQHdA1jBodizglzKCOFYsFBDcjGn9fplB3py&s",
+      "width": "264",
+      "height": "191"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20240815091047-05'00'",
+      "creationdate": "D:20240815090933-05'00'",
+      "creator": "Adobe InDesign 19.0 (Windows)",
+      "producer": "Adobe PDF Library 17.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///9612b55167f838c8400fd5542550b4a0422185487ddc41498064f891e0d757db"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2025 - SD Legislature Senate Journal 2/25/2025 2:00:00 PM",
+   "htmlTitle": "2025 - SD Legislature Senate Journal 2/25/2025 2:00:00 PM",
+   "link": "https://mylrc.sdlegislature.gov/api/Documents/Journal/282992.pdf?Year=2025",
+   "displayLink": "mylrc.sdlegislature.gov",
+   "snippet": "Feb 25, 2025 ... individual must be a resident of this state, as defined in \u00a7 12-1-4. 11. Nothing prohibits an individual who does not meet the definition of a\u00a0...",
+   "htmlSnippet": "Feb 25, 2025 <b>...</b> individual must be a resident of this state, as <b>defined</b> in \u00a7 12-1-4. 11. Nothing prohibits an individual who does not meet the definition of a&nbsp;...",
+   "formattedUrl": "https://mylrc.sdlegislature.gov/api/Documents/Journal/282992.pdf?Year...",
+   "htmlFormattedUrl": "https://mylrc.sdlegislature.gov/api/Documents/Journal/282992.pdf?Year...",
+   "pagemap": {
+    "document": [
+     {
+      "date": "2025-02-25",
+      "last_update": "2025-05-02",
+      "description": "2/25/2025 Senate Journal",
+      "title": "2/25/2025 Senate Journal"
+     }
+    ],
+    "action": [
+     {
+      "label": "Download",
+      "class": "download",
+      "url": "https://mylrc.sdlegislature.gov/api/Documents/Journal/282992.pdf?Year=2025"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20250502085052-05'00'",
+      "creator": "Microsoft\u00ae Word for Microsoft 365",
+      "creationdate": "D:20250502085052-05'00'",
+      "subject": "2/25/2025 Senate Journal",
+      "producer": "Microsoft\u00ae Word for Microsoft 365",
+      "title": "2025 - SD Legislature Senate Journal 2/25/2025 2:00:00 PM"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DUI Under 21 Laws by State - FindLaw",
+   "htmlTitle": "DUI Under 21 Laws by State - FindLaw",
+   "link": "https://www.findlaw.com/dui/laws-resources/dui-under-21-laws-by-state.html",
+   "displayLink": "www.findlaw.com",
+   "snippet": "Nov 14, 2023 ... ... Driver's license suspended for two years. Two years of mandatory ... means of conveyance when the operator's blood alcohol concentration\u00a0...",
+   "htmlSnippet": "Nov 14, 2023 <b>...</b> ... <b>Driver&#39;s license</b> suspended for two years. Two years of mandatory ... <b>means</b> of conveyance when the operator&#39;s blood alcohol concentration&nbsp;...",
+   "formattedUrl": "https://www.findlaw.com/dui/laws.../dui-under-21-laws-by-state.html",
+   "htmlFormattedUrl": "https://www.findlaw.com/dui/laws.../dui-under-21-laws-by-state.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0nIB-ZmOO6KXmheNnwQGDu6TcRdap5m4hIbD_a3DkYVtGNtUBqL833vV2&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.findlaw.com/static/c/images/images/w_1200,c_limit,dpr_auto/f_auto,q_auto:eco/v1734519797/ability-legal/wp-qa/FindLaw_600x600/FindLaw_600x600.png",
+      "og:type": "article",
+      "og:site_name": "FindLaw",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "apple-mobile-web-app-title": "FindLaw",
+      "og:title": "DUI Under 21 Laws by State - FindLaw",
+      "og:url": "https://www.findlaw.com/dui/laws-resources/dui-under-21-laws-by-state.html",
+      "og:description": "FindLaw's state-specific guide details zero tolerance DUI laws for underage drivers and associated penalties."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.findlaw.com/static/c/images/images/w_1200,c_limit,dpr_auto/f_auto,q_auto:eco/v1734519797/ability-legal/wp-qa/FindLaw_600x600/FindLaw_600x600.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "collectively, the \" Parties\"). 3",
+   "htmlTitle": "collectively, the &quot; Parties&quot;). 3",
+   "link": "https://www.naag.org/wp-content/uploads/2021/10/625-2017.05.23-Multistate-Target-Assurance-of-Voluntary-Compliance.pdf",
+   "displayLink": "www.naag.org",
+   "snippet": "by employing other means to ensure confidentiality. B. State ... PERSONAL INFORMATION. PROTECTION ACTS. Alaska. Alaska Personal Information Protection Act,.",
+   "htmlSnippet": "by employing other <b>means</b> to ensure confidentiality. B. State ... <b>PERSONAL INFORMATION</b>. PROTECTION ACTS. Alaska. Alaska <b>Personal Information</b> Protection Act,.",
+   "formattedUrl": "https://www.naag.org/.../625-2017.05.23-Multistate-Target-Assurance-of-V...",
+   "htmlFormattedUrl": "https://www.naag.org/.../625-2017.05.23-Multistate-Target-Assurance-of-V...",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20211006153040+02'00'",
+      "creationdate": "D:20211006153040+02'00'",
+      "producer": "GPL Ghostscript 9.55.0"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "IN THE SUPREME COURT STATE OF SOUTH DAKOTA APPEAL ...",
+   "htmlTitle": "IN THE SUPREME COURT STATE OF SOUTH DAKOTA APPEAL ...",
+   "link": "https://ujs.sd.gov/media/pjyl20uj/30782_culhane_v_thovson_compressed.pdf",
+   "displayLink": "ujs.sd.gov",
+   "snippet": "completely defined by legal rules. The Rules simply provide a framework for ... means are ultimately going to be is the decision of Mr. Thovson. And\u00a0...",
+   "htmlSnippet": "completely <b>defined</b> by legal rules. The Rules simply provide a framework for ... <b>means</b> are ultimately going to be is the decision of Mr. Thovson. And&nbsp;...",
+   "formattedUrl": "https://ujs.sd.gov/media/.../30782_culhane_v_thovson_compressed.pdf",
+   "htmlFormattedUrl": "https://ujs.sd.gov/media/.../30782_culhane_v_thovson_compressed.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlMeikbjK-P4dwYlnpuSYlzKovQIfBM-x0u9RiyapDw51c-nmCMQ7fsH0&s",
+      "width": "197",
+      "height": "255"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20250218205759Z",
+      "creationdate": "D:20250102113941-06'00'",
+      "creator": "GdPicture Managed PDF Plugin",
+      "producer": "iLovePDF"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///fa5173e5e3de7a6b5180bfb136a6f5e1f1557752d069848305c06b6add66d27d"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "South Dakota Traffic Court Records | SouthDakotaCourtRecords.us",
+   "htmlTitle": "South Dakota Traffic Court Records | SouthDakotaCourtRecords.us",
+   "link": "https://southdakotacourtrecords.us/traffic-court-records/",
+   "displayLink": "southdakotacourtrecords.us",
+   "snippet": "SouthDakotaCourtRecords.us is not a consumer reporting agency as defined by the FCRA and does not provide consumer reports. ... South Dakota Codified Laws.",
+   "htmlSnippet": "SouthDakotaCourtRecords.us is not a consumer reporting agency as <b>defined</b> by the FCRA and does not provide consumer reports. ... <b>South Dakota Codified Laws</b>.",
+   "formattedUrl": "https://southdakotacourtrecords.us/traffic-court-records/",
+   "htmlFormattedUrl": "https://southdakotacourtrecords.us/traffic-court-records/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+      "csrf-token": "kiG8UPH4TOWPSDUnXuDMAXwzEHmR1j9BHvU7lOFg"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "South Dakota Court Records",
+      "name": "Court Records",
+      "position": "1"
+     },
+     {
+      "name": "Traffic Court Records",
+      "position": "2"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wyoming Sexual Assault Attorney \u2014 Serving WY and SD",
+   "htmlTitle": "Wyoming Sexual Assault Attorney \u2014 Serving WY and SD",
+   "link": "https://www.justcriminallaw.com/criminal-charges/sex-crimes/sexual-assault/",
+   "displayLink": "www.justcriminallaw.com",
+   "snippet": "... South Dakota Codified Laws Title 22, Chapter 22). These laws differentiate ... A conviction requires the prosecution to prove every element as defined by the\u00a0...",
+   "htmlSnippet": "... <b>South Dakota Codified Laws</b> Title 22, Chapter 22). These laws differentiate ... A conviction requires the prosecution to prove every element as <b>defined</b> by the&nbsp;...",
+   "formattedUrl": "https://www.justcriminallaw.com/criminal-charges/sex.../sexual-assault/",
+   "htmlFormattedUrl": "https://www.justcriminallaw.com/criminal-charges/sex.../sexual-assault/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_TPNDE_YLqaX4m59gJ0wZWAktxNFsWbxQFxAlEbFfO_74mJYpvCJ5tNuH&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.justcriminallaw.com/assets/Social-Share.jpg",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Just Criminal Law",
+      "viewport": "initial-scale=1",
+      "audio-eye-hash": "501fbfc48bdefb07c83ad8861147b160",
+      "og:url": "https://www.justcriminallaw.com/criminal-charges/sex-crimes/sexual-assault/",
+      "twitter:image": "https://www.justcriminallaw.com/assets/Social-Share.jpg",
+      "article:publisher": "https://www.facebook.com/williams.criminallaw/",
+      "facebook-domain-verification": "jm52tl7tzu7elvwm0r287x0lyy9kmh"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.justcriminallaw.com/assets/Social-Share.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

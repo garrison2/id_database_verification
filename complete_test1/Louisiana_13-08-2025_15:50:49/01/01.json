@@ -1,0 +1,414 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Louisiana\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Louisiana Revised Statutes\"",
+    "totalResults": "172000",
+    "searchTerms": "\"Louisiana\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Louisiana Revised Statutes\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Louisiana\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Louisiana Revised Statutes\"",
+    "totalResults": "172000",
+    "searchTerms": "\"Louisiana\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Louisiana Revised Statutes\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.198718,
+  "formattedSearchTime": "0.20",
+  "totalResults": "172000",
+  "formattedTotalResults": "172,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "LA Wallet",
+   "htmlTitle": "LA Wallet",
+   "link": "https://lawallet.com/",
+   "displayLink": "lawallet.com",
+   "snippet": "Louisiana's Digital Driver's License. Made for Apple iOS and Android, LA Wallet is Louisiana's (and the nation's) first mobile driver's license platform that\u00a0...",
+   "htmlSnippet": "<b>Louisiana&#39;s Digital Driver&#39;s License</b>. Made for Apple iOS and Android, LA Wallet is <b>Louisiana&#39;s</b> (and the nation&#39;s) first <b>mobile driver&#39;s license</b> platform that&nbsp;...",
+   "formattedUrl": "https://lawallet.com/",
+   "htmlFormattedUrl": "https://<b>law</b>allet.com/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRguPhTUo-JDDN2U52o19k7fejzwBtHA_kNZbV5gGtHTKOpmJkSGdELVw&s",
+      "width": "323",
+      "height": "156"
+     }
+    ],
+    "metatags": [
+     {
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+      "msapplication-tileimage": "https://lawallet.com/wp-content/uploads/2023/05/cropped-LAW-Favicon-1-270x270.png",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "webpage": [
+     {
+      "maincontentofpage": "Louisiana's Digital Driver's License Made for Apple iOS and Android, LA Wallet is Louisiana's (and the nation's) first mobile driver\u2019s license platform that allows users to carry a legal..."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://lawallet.com/wp-content/uploads/2023/05/Asset-4@3x.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Louisiana's New Digital Driver's License",
+   "htmlTitle": "<b>Louisiana&#39;s</b> New <b>Digital Driver&#39;s License</b>",
+   "link": "https://www.lba.org/LBA/LBA/Publications__News/Staff_Column/2018_July_Legal_Column.aspx",
+   "displayLink": "www.lba.org",
+   "snippet": "Louisiana's New Digital Driver's License. Written by David Boneno, LBA ... law enforcement officer in connection with a traffic stop or checkpoint in Louisiana.",
+   "htmlSnippet": "<b>Louisiana&#39;s</b> New <b>Digital Driver&#39;s License</b>. Written by David Boneno, LBA ... <b>law</b> enforcement officer in connection with a traffic stop or checkpoint in <b>Louisiana</b>.",
+   "formattedUrl": "https://www.lba.org/LBA/LBA/...News/.../2018_July_Legal_Column.aspx",
+   "htmlFormattedUrl": "https://www.lba.org/LBA/LBA/...News/.../2018_July_Legal_Column.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIkRimbAvPze9NylXans8Ce1qDzjpahrRZLraAHz2mI0yCZNvB5LLQnQg&s",
+      "width": "125",
+      "height": "156"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "2018 July Legal Column",
+      "og:description": "The Louisiana Office of Motor Vehicles has recently rolled out the new app for digitized driver\u2019s licenses and the financial industry will start to see customers wanting to use them as a form of identification when conducting banking business."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.lba.org/images/LBA/LBA-staff/david%20boneno%202012%20newsletter.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Louisiana - mDL Connection",
+   "htmlTitle": "<b>Louisiana</b> - <b>mDL</b> Connection",
+   "link": "https://www.mdlconnection.com/implementation-tracker-map/louisiana/",
+   "displayLink": "www.mdlconnection.com",
+   "snippet": "Recent/Relevant News: 1.5M in Louisiana carry an mDL, October 31, 2022 \u00b7 Louisiana Adds Vaccine Status to Digital Driver's License App, May 2021 \u00b7 Louisiana\u00a0...",
+   "htmlSnippet": "Recent/Relevant News: 1.5M in <b>Louisiana</b> carry an <b>mDL</b>, October 31, 2022 &middot; <b>Louisiana</b> Adds Vaccine Status to <b>Digital Driver&#39;s License</b> App, May 2021 &middot; <b>Louisiana</b>&nbsp;...",
+   "formattedUrl": "https://www.mdlconnection.com/implementation-tracker-map/louisiana/",
+   "htmlFormattedUrl": "https://www.<b>mdl</b>connection.com/implementation-tracker-map/<b>louisiana</b>/",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "mDL Connection",
+      "article:modified_time": "2025-07-09T18:37:07+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "Louisiana - mDL Connection",
+      "og:locale": "en_US",
+      "twitter:label1": "Est. reading time",
+      "og:url": "https://www.mdlconnection.com/implementation-tracker-map/louisiana/",
+      "msapplication-tileimage": "https://www.mdlconnection.com/wp-content/uploads/2020/04/cropped-mDLConnection-icon@2x-270x270.png",
+      "twitter:data1": "1 minute"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Vote on Election Day",
+   "htmlTitle": "Vote on Election Day",
+   "link": "https://www.sos.la.gov/electionsandvoting/vote/voteonelectionday/Pages/default.aspx",
+   "displayLink": "www.sos.la.gov",
+   "snippet": "a Louisiana Special ID;; LA Wallet digital driver's license;; a United States military identification card that contains your name and picture; or; some other\u00a0...",
+   "htmlSnippet": "a <b>Louisiana</b> Special ID;; LA Wallet <b>digital driver&#39;s license</b>;; a United States military identification card that contains your name and picture; or; some other&nbsp;...",
+   "formattedUrl": "https://www.sos.la.gov/electionsandvoting/vote/.../Pages/default.aspx",
+   "htmlFormattedUrl": "https://www.sos.la.gov/electionsandvoting/vote/.../Pages/default.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi-c6_qWZXaWbN9U6NLpxmk8LDj_m0HtZxmENg0UO2WFaNAmCdzRNeDHym&s",
+      "width": "150",
+      "height": "143"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.sos.la.gov/ElectionsAndVoting/PublishingImages/modavcadvantage.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Louisiana Mobile ID Updates",
+   "htmlTitle": "<b>Louisiana Mobile ID</b> Updates",
+   "link": "https://idscan.net/state-digital-id/louisiana-mobile-id-updates/",
+   "displayLink": "idscan.net",
+   "snippet": "How can businesses read/verify Louisiana mobile IDs? Other Louisiana mDL resources. LA Wallet app. Mobile ID rollout and adoption in Louisiana. Louisiana became\u00a0...",
+   "htmlSnippet": "How can businesses read/verify <b>Louisiana</b> mobile IDs? Other <b>Louisiana mDL</b> resources. LA Wallet app. <b>Mobile ID</b> rollout and adoption in <b>Louisiana</b>. <b>Louisiana</b> became&nbsp;...",
+   "formattedUrl": "https://idscan.net/state-digital-id/louisiana-mobile-id-updates/",
+   "htmlFormattedUrl": "https://idscan.net/state-<b>digital-id</b>/<b>louisiana</b>-<b>mobile-id</b>-updates/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsW3mhJFXecWBik3jHQVHOeUQQoeTMk2IekH5ku7OmTdsKvF4rcHILA5c&s",
+      "width": "311",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://idscan.net/wp-content/uploads/la-wallet.jpg?lm=66A73182",
+      "og:type": "article",
+      "og:image:width": "1199",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "IDScan.net",
+      "og:title": "Louisiana Mobile ID Updates",
+      "og:image:height": "626",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://idscan.net/wp-content/uploads/cropped-idscan-identity-verification-software-icon-1-270x270.png",
+      "og:description": "The Louisiana mobile ID is available for residents via the LA Wallet app and can be read by businesses using VeriScan.",
+      "article:publisher": "https://www.facebook.com/idscannet",
+      "twitter:site": "@idscan_net",
+      "article:modified_time": "2025-03-06T21:27:12+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://idscan.net/state-digital-id/louisiana-mobile-id-updates/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://idscan.net/wp-content/uploads/la-wallet.jpg?lm=66A73182"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Louisiana Enacts Insurance Data Security Law | Practical Law",
+   "htmlTitle": "<b>Louisiana</b> Enacts Insurance Data Security <b>Law</b> | Practical <b>Law</b>",
+   "link": "https://content.next.westlaw.com/practical-law/document/I8dc6c4adb16f11eabea3f0dc9fb69570/Louisiana-Enacts-Insurance-Data-Security-Law?viewType=FullText&transitionType=Default&contextData=(sc.Default)",
+   "displayLink": "content.next.westlaw.com",
+   "snippet": "Jun 18, 2020 ... Louisiana has enacted HB 614 based on the National Association of Insurance Commissioners (NAIC) Insurance Data Security Model Law (MDL-668)\u00a0...",
+   "htmlSnippet": "Jun 18, 2020 <b>...</b> <b>Louisiana</b> has enacted HB 614 based on the National Association of Insurance Commissioners (NAIC) Insurance Data Security Model <b>Law</b> (<b>MDL</b>-668)&nbsp;...",
+   "formattedUrl": "https://content.next.westlaw.com/...law/.../Louisiana-Enacts-Insurance-Data-...",
+   "htmlFormattedUrl": "https://content.next.west<b>law</b>.com/...<b>law</b>/.../<b>Louisiana</b>-Enacts-Insurance-Data-...",
+   "pagemap": {
+    "digitaldocument": [
+     {
+      "name": "Louisiana Enacts Insurance Data Security Law | Practical Law",
+      "description": "Louisiana has enacted HB 614 based on the National Association of Insurance Commissioners (NAIC) Insurance Data Security Model Law (MDL-668). The law requires Louisiana-licensed insurers to...",
+      "headline": "Louisiana Enacts Insurance Data Security Law | Practical Law",
+      "url": "https://content.next.westlaw.com/practical-law/document/I8dc6c4adb16f11eabea3f0dc9fb69570/Louisiana-Enacts-Insurance-Data-Security-Law?viewType=FullText&transitionType=Default&contextData=(sc.Default)"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width",
+      "og:title": "Louisiana Enacts Insurance Data Security Law | Practical Law",
+      "og:url": "https://content.next.westlaw.com/practical-law/document/I8dc6c4adb16f11eabea3f0dc9fb69570/Louisiana-Enacts-Insurance-Data-Security-Law?viewType=FullText&transitionType=Default&contextData=(sc.Default)"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Concealed Handgun Information - Louisiana State Police",
+   "htmlTitle": "Concealed Handgun Information - <b>Louisiana</b> State Police",
+   "link": "https://lsp.org/services/concealed-handgun-information/",
+   "displayLink": "lsp.org",
+   "snippet": "See \"Application\" link for CHP fingerprinting instructions. Concealed Handgun Permits can now be displayed on the LA Wallet Digital Driver's License App.",
+   "htmlSnippet": "See &quot;Application&quot; link for CHP fingerprinting instructions. Concealed Handgun Permits can now be displayed on the LA Wallet <b>Digital Driver&#39;s License</b> App.",
+   "formattedUrl": "https://lsp.org/services/concealed-handgun-information/",
+   "htmlFormattedUrl": "https://lsp.org/services/concealed-handgun-information/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwoV0URIx7soQ4UNaHhtyAMKYIv2kJNRVbH9xDNUOSG2ggbef0UtyM&s",
+      "width": "100",
+      "height": "100"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://lsp.org/media/2fmplr14/requirements.jpg?rmode=max&width=100&height=100"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Participating States and Eligible Digital IDs | Transportation Security ...",
+   "htmlTitle": "Participating States and Eligible Digital IDs | Transportation Security ...",
+   "link": "https://www.tsa.gov/digital-id/participating-states",
+   "displayLink": "www.tsa.gov",
+   "snippet": "With a mobile driver's license (mDL) or ID pass stored in your phone's ... Louisiana \u00b7 LA Wallet \u00b7 Maryland \u00b7 Apple Wallet, Google Wallet and Samsung Wallet.",
+   "htmlSnippet": "With a <b>mobile driver&#39;s license</b> (<b>mDL</b>) or ID pass stored in your phone&#39;s ... <b>Louisiana</b> &middot; LA Wallet &middot; Maryland &middot; Apple Wallet, Google Wallet and Samsung Wallet.",
+   "formattedUrl": "https://www.tsa.gov/digital-id/participating-states",
+   "htmlFormattedUrl": "https://www.tsa.gov/<b>digital-id</b>/participating-states",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPmfB7IVmgDmb3IDXSU12352SHrXv5e_5i8yycsOrPNmZwXMWtBL06Rg4&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.tsa.gov/sites/default/files/2025-03/21366_graphic_tsa_open_graph_image_1200x630.jpg",
+      "og:type": "website",
+      "og:image:width": "1200",
+      "og:site_name": "U.S. Department of Homeland Security Transportation Security Administration",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+      "og:title": "Participating States and Eligible Digital IDs | Transportation Security Administration",
+      "mobileoptimized": "width",
+      "og:image:height": "630",
+      "og:image:type": "image/jpg",
+      "og:url": "https://www.tsa.gov/digital-id/participating-states",
+      "og:description": "The TSA's digital ID program allows travelers from participating states to use mobile driver's licenses or state IDs at select TSA checkpoints. These digital IDs can be added to platforms like Apple Wallet, Google Wallet, or state-specific apps. The program aims to enhance security and streamline the identity verification process. However, travelers must still carry a physical ID as a backup. You can find more details on the TSA's official page."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.tsa.gov/sites/default/files/2025-03/21366_graphic_tsa_open_graph_image_1200x630.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Louisiana waives fee for digital driver's license app to slow virus ...",
+   "htmlTitle": "<b>Louisiana</b> waives fee for <b>digital driver&#39;s license</b> app to slow virus ...",
+   "link": "https://statescoop.com/louisiana-waives-fee-digital-drivers-license-app/",
+   "displayLink": "statescoop.com",
+   "snippet": "Mar 19, 2020 ... Louisiana waives fee for digital driver's license app to slow virus ... Phil Murphy signs law creating digital ID program. The law will make\u00a0...",
+   "htmlSnippet": "Mar 19, 2020 <b>...</b> <b>Louisiana</b> waives fee for <b>digital driver&#39;s license</b> app to slow virus ... Phil Murphy signs <b>law</b> creating <b>digital ID</b> program. The <b>law</b> will make&nbsp;...",
+   "formattedUrl": "https://statescoop.com/louisiana-waives-fee-digital-drivers-license-app/",
+   "htmlFormattedUrl": "https://statescoop.com/<b>louisiana</b>-waives-fee-<b>digital-drivers-license</b>-app/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh7QDxRu7QmsAMNXYyaztMEcYAzb_UYEWeIg26LffHEUQxedyQDROiEVs&s",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "website": [
+     {
+      "query-input": "name=s value",
+      "target": "https://statescoop.com/?s={s}"
+     }
+    ],
+    "organization": [
+     {
+      "logo": "https://statescoop.com/wp-content/themes/scoopnewsgroup/dist/svg/logo-state.svg",
+      "url": "https://statescoop.com/"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://statescoop.com/wp-content/uploads/sites/6/2019/07/john-bel-edwards.jpg",
+      "og:type": "article",
+      "article:published_time": "2020-03-19T23:00:27+00:00",
+      "og:image:width": "1428",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "StateScoop",
+      "author": "Colin Wood",
+      "og:title": "Louisiana waives fee for digital driver's license app to slow virus | StateScoop",
+      "og:image:height": "951",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://statescoop.com/wp-content/uploads/sites/6/2023/01/cropped-ss_favicon.png?w=270",
+      "og:description": "The current pandemic has led Louisiana Gov. John Bel Edwards to drop a small fee associated with registering the app in hopes of slowing the spread of COVID-19.",
+      "twitter:creator": "@State_Scoop",
+      "article:publisher": "https://www.facebook.com/StateScoop/",
+      "twitter:site": "@State_Scoop",
+      "article:modified_time": "2020-03-19T23:03:18+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://statescoop.com/louisiana-waives-fee-digital-drivers-license-app/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://statescoop.com/wp-content/uploads/sites/6/2019/07/john-bel-edwards.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "TSA expands acceptance of digital IDs to State of Louisiana ...",
+   "htmlTitle": "TSA expands acceptance of digital IDs to State of <b>Louisiana</b> ...",
+   "link": "https://www.tsa.gov/news/press/releases/2024/05/23/tsa-expands-acceptance-digital-ids-state-louisiana",
+   "displayLink": "www.tsa.gov",
+   "snippet": "May 23, 2024 ... The Transportation Security Administration (TSA) is now accepting Louisiana-issued mobile driver licenses (mDLs) at checkpoints with digital ID readers\u00a0...",
+   "htmlSnippet": "May 23, 2024 <b>...</b> The Transportation Security Administration (TSA) is now accepting <b>Louisiana</b>-issued mobile driver licenses (mDLs) at checkpoints with <b>digital ID</b> readers&nbsp;...",
+   "formattedUrl": "https://www.tsa.gov/.../tsa-expands-acceptance-digital-ids-state-louisiana",
+   "htmlFormattedUrl": "https://www.tsa.gov/.../tsa-expands-acceptance-<b>digital-id</b>s-state-<b>louisiana</b>",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPmfB7IVmgDmb3IDXSU12352SHrXv5e_5i8yycsOrPNmZwXMWtBL06Rg4&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.tsa.gov/sites/default/files/2025-03/21366_graphic_tsa_open_graph_image_1200x630.jpg",
+      "og:type": "website",
+      "og:image:width": "1200",
+      "og:site_name": "U.S. Department of Homeland Security Transportation Security Administration",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+      "og:title": "TSA expands acceptance of digital IDs to State of Louisiana | Transportation Security Administration",
+      "mobileoptimized": "width",
+      "og:image:height": "630",
+      "og:image:type": "image/jpg",
+      "og:url": "https://www.tsa.gov/news/press/releases/2024/05/23/tsa-expands-acceptance-digital-ids-state-louisiana",
+      "og:description": "NEW ORLEANS \u2013The Transportation Security Administration (TSA) is now accepting Louisiana-issued mobile driver licenses (mDLs) at checkpoints with digital ID readers nationwide."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.tsa.gov/sites/default/files/2025-03/21366_graphic_tsa_open_graph_image_1200x630.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

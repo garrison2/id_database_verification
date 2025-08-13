@@ -1,0 +1,334 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Michigan Compiled Laws\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "totalResults": "2630",
+    "searchTerms": "\"Michigan Compiled Laws\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Michigan Compiled Laws\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "totalResults": "2630",
+    "searchTerms": "\"Michigan Compiled Laws\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.18047,
+  "formattedSearchTime": "0.18",
+  "totalResults": "2630",
+  "formattedTotalResults": "2,630"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Section 257.307 - Michigan Legislature - MCL",
+   "htmlTitle": "Section 257.307 - Michigan Legislature - MCL",
+   "link": "https://legislature.mi.gov/doc.aspx?mcl-257-307",
+   "displayLink": "legislature.mi.gov",
+   "snippet": "... verify citizenship or identity and legal presence ... maintain a valid operator's or chauffeur's license or official state personal identification card.",
+   "htmlSnippet": "... <b>verify</b> citizenship or identity and legal presence ... <b>maintain</b> a valid operator&#39;s or chauffeur&#39;s license or official state personal <b>identification card</b>.",
+   "formattedUrl": "https://legislature.mi.gov/doc.aspx?mcl-257-307",
+   "htmlFormattedUrl": "https://legislature.mi.gov/doc.aspx?mcl-257-307",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MCL - Section 28.292 - Michigan Legislature",
+   "htmlTitle": "MCL - Section 28.292 - Michigan Legislature",
+   "link": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-28-292",
+   "displayLink": "www.legislature.mi.gov",
+   "snippet": "... retention and use of individual's digital ... maintain a valid operator's or chauffeur's license or official state personal identification card.",
+   "htmlSnippet": "... <b>retention</b> and use of individual&#39;s digital ... <b>maintain</b> a valid operator&#39;s or chauffeur&#39;s license or official state personal <b>identification card</b>.",
+   "formattedUrl": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-28-292",
+   "htmlFormattedUrl": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-28-292",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Office of the Auditor General Branch Operations Division",
+   "htmlTitle": "Office of the Auditor General Branch Operations Division",
+   "link": "https://audgen.michigan.gov/wp-content/uploads/2025/04/r231033324-91476.pdf",
+   "displayLink": "audgen.michigan.gov",
+   "snippet": "May 1, 2025 ... A state-issued enhanced driver's license and identification card is acceptable ... CARS, to securely scan and store SSN documentation for the.",
+   "htmlSnippet": "May 1, 2025 <b>...</b> A state-issued enhanced <b>driver&#39;s license</b> and <b>identification card</b> is acceptable ... CARS, to securely <b>scan</b> and <b>store</b> SSN documentation for the.",
+   "formattedUrl": "https://audgen.michigan.gov/wp-content/uploads/.../r231033324-91476.pd...",
+   "htmlFormattedUrl": "https://audgen.michigan.gov/wp-content/uploads/.../r231033324-91476.pd...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_4thIPIYDJZ5P50hqMgRvgUg5fgyFLCjjtQLUI-MnaciP0du4B9T_5a4&s",
+      "width": "372",
+      "height": "135"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20250429153633-04'00'",
+      "creationdate": "D:20250428114332-04'00'",
+      "creator": "Acrobat PDFMaker 25 for Word",
+      "sourcemodified": "D:20250428154306",
+      "author": "Carissa L. Hedley",
+      "producer": "Adobe PDF Library 25.1.234",
+      "company": "Office of the Auditor General",
+      "title": "Michigan"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///aaf7c20fe807a26c70f1c5ee4a6ea62137e917aaa416ede3cacbc66c8ee191f4"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MCL - Section 28.305 - Michigan Legislature",
+   "htmlTitle": "MCL - Section 28.305 - Michigan Legislature",
+   "link": "https://www.legislature.mi.gov/Laws/MCL?objectName=MCL-28-305",
+   "displayLink": "www.legislature.mi.gov",
+   "snippet": "(4) An enhanced driver license or enhanced official state personal identification card ... (9) The secretary of state shall not compile or maintain a database\u00a0...",
+   "htmlSnippet": "(4) An enhanced <b>driver license</b> or enhanced official state personal <b>identification card</b> ... (9) The secretary of state shall not <b>compile</b> or <b>maintain</b> a database&nbsp;...",
+   "formattedUrl": "https://www.legislature.mi.gov/Laws/MCL?objectName=MCL-28-305",
+   "htmlFormattedUrl": "https://www.legislature.mi.gov/Laws/MCL?objectName=MCL-28-305",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Pupil Transportation",
+   "htmlTitle": "Pupil Transportation",
+   "link": "https://www.michigan.gov/mde/services/health-safety/pt",
+   "displayLink": "www.michigan.gov",
+   "snippet": "(Sections 257.1801-257.1877 of the Michigan Compiled Laws). The Unit's major ... Michigan Commercial Driver License Manual. Related Resources. CDL Self\u00a0...",
+   "htmlSnippet": "(Sections 257.1801-257.1877 of the <b>Michigan Compiled Laws</b>). The Unit&#39;s major ... Michigan Commercial <b>Driver License</b> Manual. Related Resources. CDL Self&nbsp;...",
+   "formattedUrl": "https://www.michigan.gov/mde/services/health-safety/pt",
+   "htmlFormattedUrl": "https://www.michigan.gov/mde/services/health-safety/pt",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTfFs1B5-WAWToK_AiPJTT_QeRNxgWQToUPmjcA5qzDJAblJj5Rs9VJbw&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#277c78",
+      "msapplication-config": "/mde/-/media/Project/Websites/shared/Browser-Icon/browserconfig.xml?rev=15a1c884ffca4409bb27fcec7eef109e&hash=7450934D8089369BBC08FA1F7C5B190E",
+      "page-breadcrumb": "Michigan Department of Education|Services|Health & Safety|Pupil Transportation",
+      "og:image": "https://www.michigan.gov/mde/-/media/Project/Websites/SOM/Images/Global-SOM/Michigangov-OG-Image.png?rev=04d34972184442b1bd24b5efb46cd150&hash=7947FC7309668EF8847D8558B135F2DE",
+      "theme-color": "#ffffff",
+      "site-name": "Department of Education",
+      "twitter:title": "Pupil Transportation",
+      "twitter:card": "summary_large_image",
+      "site-logo": "/mde/-/media/Images/Logos/education.svg?rev=f9abd6237acc4775af843a17fadc650d&hash=7B8776439F3C65E4AC81D3B3D144BFF6",
+      "sxa-tags": "Department of Education",
+      "site-agency": "MDE",
+      "og:title": "Pupil Transportation",
+      "og:description": "Pupil Transportation",
+      "page-summary": "Pupil Transportation",
+      "grouped-item-type": "Webpages",
+      "item-type": "Page",
+      "viewport": "width=device-width, initial-scale=1",
+      "page-template": "Page",
+      "site-agency-name": "Department of Education",
+      "site-hierarchy": "Department of Education|Department of Education",
+      "og:url": "https://www.michigan.gov/mde/services/health-safety/pt",
+      "page-hasformcomponent": "false",
+      "site-path": "mde"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.michigan.gov/mde/-/media/Project/Websites/SOM/Images/Global-SOM/Michigangov-OG-Image.png?rev=04d34972184442b1bd24b5efb46cd150&hash=7947FC7309668EF8847D8558B135F2DE"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MCL - Act 23 of 2008 - Michigan Legislature",
+   "htmlTitle": "MCL - Act 23 of 2008 - Michigan Legislature",
+   "link": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-act-23-of-2008",
+   "displayLink": "www.legislature.mi.gov",
+   "snippet": "Enhanced driver license or enhanced official state personal identification card ... verification of application and other documentation; rejection of\u00a0...",
+   "htmlSnippet": "Enhanced <b>driver license</b> or enhanced official state personal <b>identification card</b> ... <b>verification</b> of application and other documentation; rejection of&nbsp;...",
+   "formattedUrl": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-act-23-of...",
+   "htmlFormattedUrl": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-act-23-of...",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver Education Live Scan Fingerprint Background Check Request",
+   "htmlTitle": "Driver Education Live <b>Scan</b> Fingerprint Background Check Request",
+   "link": "https://www.michigan.gov/-/media/Project/Websites/sos/02preston/Driver-Education-Live-Scan-Fingerprint-Background-Check-Request.pdf?rev=b3c81d9a3e0c44babaecfd03abd110b2",
+   "displayLink": "www.michigan.gov",
+   "snippet": "Fingerprint reason code LDE is pursuant to Michigan Compiled Laws (MCL) 256.631(2), ... Driver's License / State ID Number. 8. Issuing State. 9. Home Address. 10.",
+   "htmlSnippet": "Fingerprint reason code LDE is pursuant to <b>Michigan Compiled Laws</b> (MCL) 256.631(2), ... <b>Driver&#39;s License</b> / State ID Number. 8. Issuing State. 9. Home Address. 10.",
+   "formattedUrl": "https://www.michigan.gov/-/.../Driver-Education-Live-Scan-Fingerprint-Ba...",
+   "htmlFormattedUrl": "https://www.michigan.gov/-/.../Driver-Education-Live-<b>Scan</b>-Fingerprint-Ba...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGLCQ85jpQa8O2sX4mFiwMJDtZLLZ_6yO3pUmVnK5EAVI9W2BEscfoOQ&s",
+      "width": "265",
+      "height": "115"
+     }
+    ],
+    "metatags": [
+     {
+      "creationdate": "D:20210827152259-04'00'",
+      "creator": "Acrobat PDFMaker 21 for Word",
+      "msip_label_3a2fed65_62e7_46ea_af74_187e0c17143a_enabled": "true",
+      "msip_label_3a2fed65_62e7_46ea_af74_187e0c17143a_contentbits": "0",
+      "author": "Michigan Department of State",
+      "subject": "Driver Education",
+      "msip_label_3a2fed65_62e7_46ea_af74_187e0c17143a_name": "3a2fed65-62e7-46ea-af74-187e0c17143a",
+      "msip_label_3a2fed65_62e7_46ea_af74_187e0c17143a_siteid": "d5fb7087-3777-42ad-966a-892ef47225d1",
+      "msip_label_3a2fed65_62e7_46ea_af74_187e0c17143a_setdate": "2021-03-26T14:31:37Z",
+      "title": "Driver Education Live Scan Fingerprint Background Check Request",
+      "msip_label_3a2fed65_62e7_46ea_af74_187e0c17143a_actionid": "2a0ce7f4-a3ce-4922-b8ef-a02d18a2a8a3",
+      "moddate": "D:20241023134703-04'00'",
+      "sourcemodified": "D:20210827191931",
+      "producer": "Adobe PDF Library 21.5.92",
+      "company": "State of Michigan DMB",
+      "msip_label_3a2fed65_62e7_46ea_af74_187e0c17143a_method": "Privileged"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///ec950c80b87724e382c35ae158067749ace52e21f95fdf472299fbea6dbc4838"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MCL - Section 28.425b - Michigan Legislature",
+   "htmlTitle": "MCL - Section 28.425b - Michigan Legislature",
+   "link": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-28-425b",
+   "displayLink": "www.legislature.mi.gov",
+   "snippet": "... verification of requirements; determination; circumstances ... (n) The applicant has a valid state-issued driver license or personal identification card.",
+   "htmlSnippet": "... <b>verification</b> of requirements; determination; circumstances ... (n) The applicant has a valid state-issued <b>driver license</b> or personal <b>identification card</b>.",
+   "formattedUrl": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-28-425b",
+   "htmlFormattedUrl": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-28-425b",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Michigan Compiled Laws (MCL): Bicycles and the Law - League of ...",
+   "htmlTitle": "<b>Michigan Compiled Laws</b> (MCL): Bicycles and the Law - League of ...",
+   "link": "https://lmb.org/bike-mi/michigan-compiled-laws-mcl-bicycles-and-the-law/",
+   "displayLink": "lmb.org",
+   "snippet": "Therefore, the gutter is not considered part of the roadway. Does a bicyclist have to carry a driver's license? The law does not require you to carry a driver's\u00a0...",
+   "htmlSnippet": "Therefore, the gutter is not considered part of the roadway. Does a bicyclist have to carry a <b>driver&#39;s license</b>? The law does not require you to carry a <b>driver&#39;s</b>&nbsp;...",
+   "formattedUrl": "https://lmb.org/bike-mi/michigan-compiled-laws-mcl-bicycles-and-the-law/",
+   "htmlFormattedUrl": "https://lmb.org/bike-mi/<b>michigan-compiled-laws</b>-mcl-bicycles-and-the-law/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm_sbTjVpk6sERbQu9QNN4rj5n6_y9IbHSa29qwTuSNY0YzXGA8MtJNIo&s",
+      "width": "392",
+      "height": "128"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "article",
+      "article:published_time": "2019-07-12T20:27:13+00:00",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Michigan Compiled Laws (MCL): Bicycles and the Law - League of Michigan Bicyclists",
+      "og:site_name": "League of Michigan Bicyclists - Making Michigan Bicycling Better",
+      "og:title": "Michigan Compiled Laws (MCL): Bicycles and the Law - League of Michigan Bicyclists",
+      "msapplication-tileimage": "https://lmb.org/wp-content/uploads/2018/10/lmb_logo@2x.png",
+      "og:description": "Local ordinances generally may not supersede the MCL unless specified in state statute. Is a bicycle considered a vehicle in Michigan? No. MCL 257.79 defines a \u201cvehicle\u201d as: \u201cevery device in, upon, or by which any person or property is or may be transported or drawn upon a highway, except devices exclusively moved by human",
+      "article:modified_time": "2019-07-12T20:35:23+00:00",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Local ordinances generally may not supersede the MCL unless specified in state statute. Is a bicycle considered a vehicle in Michigan? No. MCL 257.79 defines a \u201cvehicle\u201d as: \u201cevery device in, upon, or by which any person or property is or may be transported or drawn upon a highway, except devices exclusively moved by human",
+      "og:locale": "en_US",
+      "og:url": "https://lmb.org/bike-mi/michigan-compiled-laws-mcl-bicycles-and-the-law/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://lmb.org/wp-content/themes/league-of-michigan-bicyclists/img/17361568_10154318067370143_6379953056749313740_n.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MCL - Section 436.1701 - Michigan Legislature",
+   "htmlTitle": "MCL - Section 436.1701 - Michigan Legislature",
+   "link": "https://www.legislature.mi.gov/mileg.aspx%3Fpage%3Dgetobject%26objectname%3Dmcl-436-1701",
+   "displayLink": "www.legislature.mi.gov",
+   "snippet": "(1) A person shall not sell or furnish alcoholic liquor to a minor. Except ... identification card, or other bona fide documentary evidence of the age\u00a0...",
+   "htmlSnippet": "(1) A person shall not <b>sell</b> or furnish alcoholic liquor to a minor. Except ... <b>identification card</b>, or other bona fide documentary evidence of the age&nbsp;...",
+   "formattedUrl": "https://www.legislature.mi.gov/mileg.aspx%3Fpage%3Dgetobject%26object...",
+   "htmlFormattedUrl": "https://www.legislature.mi.gov/mileg.aspx%3Fpage%3Dgetobject%26object...",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  }
+ ]
+}

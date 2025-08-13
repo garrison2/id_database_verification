@@ -1,0 +1,566 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:play.google.com \"Arizona\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "1250",
+    "searchTerms": "site:play.google.com \"Arizona\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:play.google.com \"Arizona\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "1250",
+    "searchTerms": "site:play.google.com \"Arizona\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.194008,
+  "formattedSearchTime": "0.19",
+  "totalResults": "1250",
+  "formattedTotalResults": "1,250"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Mobile ID - Apps on Google Play",
+   "htmlTitle": "<b>Arizona Mobile ID</b> - Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.az",
+   "displayLink": "play.google.com",
+   "snippet": "Including layers of security and privacy controls, Arizona Mobile ID is a contactless, convenient way to verify your identity from your phone.",
+   "htmlSnippet": "Including layers of security and privacy controls, <b>Arizona Mobile ID</b> is a contactless, convenient way to verify your identity from your phone.",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.az",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.idemia.<b>mobileid</b>.us.az",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.az&rdid=com.idemia.mobileid.us.az&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSggQOlqDP4rbMTORUlOksrympp4BCDLmFKiXUbeGwQBXgyZI4GBZElJvjk&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/oLKG-sGvxAelwfZvLWR-_UST30oxz6VN3eQcUZxrJ1R7qNp-TjsUasgWEiNdUqesz5g",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Arizona Mobile ID - Apps on Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.az&hl=en_US",
+      "appstore:developer_url": "about:invalid#navigation",
+      "og:title": "Arizona Mobile ID - Apps on Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/oLKG-sGvxAelwfZvLWR-_UST30oxz6VN3eQcUZxrJ1R7qNp-TjsUasgWEiNdUqesz5g=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.idemia.mobileid.us.az",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.idemia.mobileid.us.az",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "AZ\u2019s official digital ID",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.az&hl=en_US"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/oLKG-sGvxAelwfZvLWR-_UST30oxz6VN3eQcUZxrJ1R7qNp-TjsUasgWEiNdUqesz5g"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Mobile ID \u2013 Apps on Google Play",
+   "htmlTitle": "<b>Arizona Mobile ID</b> \u2013 Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details/Arizona_Mobile_ID?id=com.idemia.mobileid.us.az&hl=en_GB",
+   "displayLink": "play.google.com",
+   "snippet": "Including layers of security and privacy controls, Arizona Mobile ID is a contactless, convenient way to verify your identity from your phone.",
+   "htmlSnippet": "Including layers of security and privacy controls, <b>Arizona Mobile ID</b> is a contactless, convenient way to verify your identity from your phone.",
+   "formattedUrl": "https://play.google.com/store/apps/.../Arizona_Mobile_ID?id...mobileid...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/.../<b>Arizona</b>_<b>Mobile_ID</b>?id...<b>mobileid</b>...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.az&rdid=com.idemia.mobileid.us.az&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSggQOlqDP4rbMTORUlOksrympp4BCDLmFKiXUbeGwQBXgyZI4GBZElJvjk&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/oLKG-sGvxAelwfZvLWR-_UST30oxz6VN3eQcUZxrJ1R7qNp-TjsUasgWEiNdUqesz5g",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Arizona Mobile ID \u2013 Apps on Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details/Arizona_Mobile_ID?id=com.idemia.mobileid.us.az&hl=en_GB",
+      "appstore:developer_url": "about:invalid#navigation",
+      "og:title": "Arizona Mobile ID \u2013 Apps on Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/oLKG-sGvxAelwfZvLWR-_UST30oxz6VN3eQcUZxrJ1R7qNp-TjsUasgWEiNdUqesz5g=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.idemia.mobileid.us.az",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.idemia.mobileid.us.az",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "AZ\u2019s official digital ID",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details/Arizona_Mobile_ID?id=com.idemia.mobileid.us.az&hl=en_GB"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/oLKG-sGvxAelwfZvLWR-_UST30oxz6VN3eQcUZxrJ1R7qNp-TjsUasgWEiNdUqesz5g"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Mobile ID - Apps en Google Play",
+   "htmlTitle": "<b>Arizona Mobile ID</b> - Apps en Google Play",
+   "link": "https://play.google.com/store/apps/details/Arizona_Mobile_ID?id=com.idemia.mobileid.us.az&hl=es_MX",
+   "displayLink": "play.google.com",
+   "snippet": "Incluyendo capas de controles de seguridad y privacidad, Arizona Mobile ID es una forma conveniente y sin contacto de verificar su identidad desde su\u00a0...",
+   "htmlSnippet": "Incluyendo capas de controles de seguridad y privacidad, <b>Arizona Mobile ID</b> es una forma conveniente y sin contacto de verificar su identidad desde su&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/.../Arizona_Mobile_ID?id...mobileid...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/.../<b>Arizona</b>_<b>Mobile_ID</b>?id...<b>mobileid</b>...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.az&rdid=com.idemia.mobileid.us.az&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSggQOlqDP4rbMTORUlOksrympp4BCDLmFKiXUbeGwQBXgyZI4GBZElJvjk&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/oLKG-sGvxAelwfZvLWR-_UST30oxz6VN3eQcUZxrJ1R7qNp-TjsUasgWEiNdUqesz5g",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Arizona Mobile ID - Apps en Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details/Arizona_Mobile_ID?id=com.idemia.mobileid.us.az&hl=es_MX",
+      "appstore:developer_url": "about:invalid#navigation",
+      "og:title": "Arizona Mobile ID - Apps en Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/oLKG-sGvxAelwfZvLWR-_UST30oxz6VN3eQcUZxrJ1R7qNp-TjsUasgWEiNdUqesz5g=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.idemia.mobileid.us.az",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.idemia.mobileid.us.az",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "ID digital oficial de AZ",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details/Arizona_Mobile_ID?id=com.idemia.mobileid.us.az&hl=es_MX"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/oLKG-sGvxAelwfZvLWR-_UST30oxz6VN3eQcUZxrJ1R7qNp-TjsUasgWEiNdUqesz5g"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Mobile ID \u2013 Applications sur Google Play",
+   "htmlTitle": "<b>Arizona Mobile ID</b> \u2013 Applications sur Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.az&hl=fr",
+   "displayLink": "play.google.com",
+   "snippet": "Incluant plusieurs niveaux de contr\u00f4les de s\u00e9curit\u00e9 et de confidentialit\u00e9, Arizona Mobile ID est un moyen pratique et sans contact de v\u00e9rifier votre\u00a0...",
+   "htmlSnippet": "Incluant plusieurs niveaux de contr\u00f4les de s\u00e9curit\u00e9 et de confidentialit\u00e9, <b>Arizona Mobile ID</b> est un moyen pratique et sans contact de v\u00e9rifier votre&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.idemia.<b>mobileid</b>.us...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.az&rdid=com.idemia.mobileid.us.az&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSggQOlqDP4rbMTORUlOksrympp4BCDLmFKiXUbeGwQBXgyZI4GBZElJvjk&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/oLKG-sGvxAelwfZvLWR-_UST30oxz6VN3eQcUZxrJ1R7qNp-TjsUasgWEiNdUqesz5g",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Arizona Mobile ID \u2013 Applications sur Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.az&hl=fr",
+      "appstore:developer_url": "about:invalid#navigation",
+      "og:title": "Arizona Mobile ID \u2013 Applications sur Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/oLKG-sGvxAelwfZvLWR-_UST30oxz6VN3eQcUZxrJ1R7qNp-TjsUasgWEiNdUqesz5g=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.idemia.mobileid.us.az",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.idemia.mobileid.us.az",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Identification num\u00e9rique officielle d'AZ",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.az&hl=fr"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/oLKG-sGvxAelwfZvLWR-_UST30oxz6VN3eQcUZxrJ1R7qNp-TjsUasgWEiNdUqesz5g"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Mobile ID - App su Google Play",
+   "htmlTitle": "<b>Arizona Mobile ID</b> - App su Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.az&hl=it",
+   "displayLink": "play.google.com",
+   "snippet": "Comprendendo livelli di sicurezza e controlli sulla privacy, Arizona Mobile ID \u00e8 un modo comodo e senza contatto per verificare la tua identit\u00e0 dal tuo\u00a0...",
+   "htmlSnippet": "Comprendendo livelli di sicurezza e controlli sulla privacy, <b>Arizona Mobile ID</b> \u00e8 un modo comodo e senza contatto per verificare la tua identit\u00e0 dal tuo&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.idemia.<b>mobileid</b>.us...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.az&rdid=com.idemia.mobileid.us.az&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSggQOlqDP4rbMTORUlOksrympp4BCDLmFKiXUbeGwQBXgyZI4GBZElJvjk&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/oLKG-sGvxAelwfZvLWR-_UST30oxz6VN3eQcUZxrJ1R7qNp-TjsUasgWEiNdUqesz5g",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Arizona Mobile ID - App su Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.az&hl=it",
+      "appstore:developer_url": "about:invalid#navigation",
+      "og:title": "Arizona Mobile ID - App su Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/oLKG-sGvxAelwfZvLWR-_UST30oxz6VN3eQcUZxrJ1R7qNp-TjsUasgWEiNdUqesz5g=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.idemia.mobileid.us.az",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.idemia.mobileid.us.az",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "ID digitale ufficiale di AZ",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.az&hl=it"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/oLKG-sGvxAelwfZvLWR-_UST30oxz6VN3eQcUZxrJ1R7qNp-TjsUasgWEiNdUqesz5g"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Mobile ID - Aplikasi di Google Play",
+   "htmlTitle": "<b>Arizona Mobile ID</b> - Aplikasi di Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.az&hl=id",
+   "displayLink": "play.google.com",
+   "snippet": "Termasuk lapisan kontrol keamanan dan privasi, Arizona Mobile ID adalah cara yang nyaman dan tanpa kontak untuk memverifikasi identitas Anda dari ponsel\u00a0...",
+   "htmlSnippet": "Termasuk lapisan kontrol keamanan dan privasi, <b>Arizona Mobile ID</b> adalah cara yang nyaman dan tanpa kontak untuk memverifikasi identitas Anda dari ponsel&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.idemia.<b>mobileid</b>.us...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.az&rdid=com.idemia.mobileid.us.az&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSggQOlqDP4rbMTORUlOksrympp4BCDLmFKiXUbeGwQBXgyZI4GBZElJvjk&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/oLKG-sGvxAelwfZvLWR-_UST30oxz6VN3eQcUZxrJ1R7qNp-TjsUasgWEiNdUqesz5g",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Arizona Mobile ID - Aplikasi di Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.az&hl=id",
+      "appstore:developer_url": "about:invalid#navigation",
+      "og:title": "Arizona Mobile ID - Aplikasi di Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/oLKG-sGvxAelwfZvLWR-_UST30oxz6VN3eQcUZxrJ1R7qNp-TjsUasgWEiNdUqesz5g=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.idemia.mobileid.us.az",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.idemia.mobileid.us.az",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "ID digital resmi AZ",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.az&hl=id"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/oLKG-sGvxAelwfZvLWR-_UST30oxz6VN3eQcUZxrJ1R7qNp-TjsUasgWEiNdUqesz5g"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Mobile ID \u2013 Alkalmaz\u00e1sok a Google Playen",
+   "htmlTitle": "<b>Arizona Mobile ID</b> \u2013 Alkalmaz\u00e1sok a Google Playen",
+   "link": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.az&hl=hu",
+   "displayLink": "play.google.com",
+   "snippet": "Biztons\u00e1gi \u00e9s adatv\u00e9delmi ellen\u0151rz\u00e9seket mag\u00e1ban foglal\u00f3 Arizona Mobile ID egy \u00e9rint\u00e9s n\u00e9lk\u00fcli, k\u00e9nyelmes m\u00f3dszer szem\u00e9lyazonoss\u00e1g\u00e1nak telefonon t\u00f6rt\u00e9n\u0151\u00a0...",
+   "htmlSnippet": "Biztons\u00e1gi \u00e9s adatv\u00e9delmi ellen\u0151rz\u00e9seket mag\u00e1ban foglal\u00f3 <b>Arizona Mobile ID</b> egy \u00e9rint\u00e9s n\u00e9lk\u00fcli, k\u00e9nyelmes m\u00f3dszer szem\u00e9lyazonoss\u00e1g\u00e1nak telefonon t\u00f6rt\u00e9n\u0151&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.idemia.<b>mobileid</b>.us...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.az&rdid=com.idemia.mobileid.us.az&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSggQOlqDP4rbMTORUlOksrympp4BCDLmFKiXUbeGwQBXgyZI4GBZElJvjk&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/oLKG-sGvxAelwfZvLWR-_UST30oxz6VN3eQcUZxrJ1R7qNp-TjsUasgWEiNdUqesz5g",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Arizona Mobile ID \u2013 Alkalmaz\u00e1sok a Google Playen",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.az&hl=hu",
+      "appstore:developer_url": "about:invalid#navigation",
+      "og:title": "Arizona Mobile ID \u2013 Alkalmaz\u00e1sok a Google Playen",
+      "twitter:image": "https://play-lh.googleusercontent.com/oLKG-sGvxAelwfZvLWR-_UST30oxz6VN3eQcUZxrJ1R7qNp-TjsUasgWEiNdUqesz5g=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.idemia.mobileid.us.az",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.idemia.mobileid.us.az",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "AZ hivatalos digit\u00e1lis azonos\u00edt\u00f3ja",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.az&hl=hu"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/oLKG-sGvxAelwfZvLWR-_UST30oxz6VN3eQcUZxrJ1R7qNp-TjsUasgWEiNdUqesz5g"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Mobile ID - Google Play \u4e0a\u7684\u5e94\u7528",
+   "htmlTitle": "<b>Arizona Mobile ID</b> - Google Play \u4e0a\u7684\u5e94\u7528",
+   "link": "https://play.google.com/store/apps/details/Arizona_Mobile_ID?id=com.idemia.mobileid.us.az&hl=zh",
+   "displayLink": "play.google.com",
+   "snippet": "Jul 8, 2025 ... \u5305\u62ec\u5b89\u5168\u4fdd\u62a4\u5c42\u548c\u9690\u79c1\u63a7\u5236\u5c42\uff0cArizona Mobile ID\u662f\u4e00\u79cd\u975e\u63a5\u89e6\u5f0f\u4fbf\u6377\u65b9\u5f0f\uff0c\u53ef\u901a\u8fc7\u624b\u673a\u9a8c\u8bc1\u60a8\u7684\u8eab\u4efd\u3002 Arizona Mobile ID\u4f7f\u60a8\u53ef\u4ee5\u63a7\u5236\u5728\u4ea4\u6613\u671f\u95f4\u5171\u4eab\u54ea\u4e9b\u00a0...",
+   "htmlSnippet": "Jul 8, 2025 <b>...</b> \u5305\u62ec\u5b89\u5168\u4fdd\u62a4\u5c42\u548c\u9690\u79c1\u63a7\u5236\u5c42\uff0c<b>Arizona Mobile ID</b>\u662f\u4e00\u79cd\u975e\u63a5\u89e6\u5f0f\u4fbf\u6377\u65b9\u5f0f\uff0c\u53ef\u901a\u8fc7\u624b\u673a\u9a8c\u8bc1\u60a8\u7684\u8eab\u4efd\u3002 <b>Arizona Mobile ID</b>\u4f7f\u60a8\u53ef\u4ee5\u63a7\u5236\u5728\u4ea4\u6613\u671f\u95f4\u5171\u4eab\u54ea\u4e9b&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/.../Arizona_Mobile_ID?id...mobileid...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/.../<b>Arizona</b>_<b>Mobile_ID</b>?id...<b>mobileid</b>...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.az&rdid=com.idemia.mobileid.us.az&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSggQOlqDP4rbMTORUlOksrympp4BCDLmFKiXUbeGwQBXgyZI4GBZElJvjk&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/oLKG-sGvxAelwfZvLWR-_UST30oxz6VN3eQcUZxrJ1R7qNp-TjsUasgWEiNdUqesz5g",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Arizona Mobile ID - Google Play \u4e0a\u7684\u5e94\u7528",
+      "twitter:url": "https://play.google.com/store/apps/details/Arizona_Mobile_ID?id=com.idemia.mobileid.us.az&hl=zh",
+      "appstore:developer_url": "about:invalid#navigation",
+      "og:title": "Arizona Mobile ID - Google Play \u4e0a\u7684\u5e94\u7528",
+      "twitter:image": "https://play-lh.googleusercontent.com/oLKG-sGvxAelwfZvLWR-_UST30oxz6VN3eQcUZxrJ1R7qNp-TjsUasgWEiNdUqesz5g=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.idemia.mobileid.us.az",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.idemia.mobileid.us.az",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "AZ\u7684\u5b98\u65b9\u6570\u5b57\u8eab\u4efd\u8bc1",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details/Arizona_Mobile_ID?id=com.idemia.mobileid.us.az&hl=zh"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/oLKG-sGvxAelwfZvLWR-_UST30oxz6VN3eQcUZxrJ1R7qNp-TjsUasgWEiNdUqesz5g"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Mobile ID \u2013 Appar p\u00e5 Google Play",
+   "htmlTitle": "<b>Arizona Mobile ID</b> \u2013 Appar p\u00e5 Google Play",
+   "link": "https://play.google.com/store/apps/details/Arizona_Mobile_ID?id=com.idemia.mobileid.us.az&hl=sv",
+   "displayLink": "play.google.com",
+   "snippet": "Inklusive lager av s\u00e4kerhets- och sekretessregler \u00e4r Arizona Mobile ID ett kontaktl\u00f6st och bekv\u00e4mt s\u00e4tt att verifiera din identitet fr\u00e5n din telefon.",
+   "htmlSnippet": "Inklusive lager av s\u00e4kerhets- och sekretessregler \u00e4r <b>Arizona Mobile ID</b> ett kontaktl\u00f6st och bekv\u00e4mt s\u00e4tt att verifiera din identitet fr\u00e5n din telefon.",
+   "formattedUrl": "https://play.google.com/store/apps/.../Arizona_Mobile_ID?id...mobileid...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/.../<b>Arizona</b>_<b>Mobile_ID</b>?id...<b>mobileid</b>...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.az&rdid=com.idemia.mobileid.us.az&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSggQOlqDP4rbMTORUlOksrympp4BCDLmFKiXUbeGwQBXgyZI4GBZElJvjk&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/oLKG-sGvxAelwfZvLWR-_UST30oxz6VN3eQcUZxrJ1R7qNp-TjsUasgWEiNdUqesz5g",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Arizona Mobile ID \u2013 Appar p\u00e5 Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details/Arizona_Mobile_ID?id=com.idemia.mobileid.us.az&hl=sv",
+      "appstore:developer_url": "about:invalid#navigation",
+      "og:title": "Arizona Mobile ID \u2013 Appar p\u00e5 Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/oLKG-sGvxAelwfZvLWR-_UST30oxz6VN3eQcUZxrJ1R7qNp-TjsUasgWEiNdUqesz5g=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.idemia.mobileid.us.az",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.idemia.mobileid.us.az",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "AZ: s officiella digitala ID",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details/Arizona_Mobile_ID?id=com.idemia.mobileid.us.az&hl=sv"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/oLKG-sGvxAelwfZvLWR-_UST30oxz6VN3eQcUZxrJ1R7qNp-TjsUasgWEiNdUqesz5g"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Mobile ID \u2013 Aplik\u00e1cie v slu\u017ebe Google Play",
+   "htmlTitle": "<b>Arizona Mobile ID</b> \u2013 Aplik\u00e1cie v slu\u017ebe Google Play",
+   "link": "https://play.google.com/store/apps/details/Arizona_Mobile_ID?id=com.idemia.mobileid.us.az&hl=sk",
+   "displayLink": "play.google.com",
+   "snippet": "V\u010faka vrstv\u00e1m zabezpe\u010denia a ochrany s\u00fakromia je Arizona Mobile ID bezkontaktn\u00fdm a pohodln\u00fdm sp\u00f4sobom overenia va\u0161ej identity z telef\u00f3nu.",
+   "htmlSnippet": "V\u010faka vrstv\u00e1m zabezpe\u010denia a ochrany s\u00fakromia je <b>Arizona Mobile ID</b> bezkontaktn\u00fdm a pohodln\u00fdm sp\u00f4sobom overenia va\u0161ej identity z telef\u00f3nu.",
+   "formattedUrl": "https://play.google.com/store/apps/.../Arizona_Mobile_ID?id...mobileid...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/.../<b>Arizona</b>_<b>Mobile_ID</b>?id...<b>mobileid</b>...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.az&rdid=com.idemia.mobileid.us.az&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSggQOlqDP4rbMTORUlOksrympp4BCDLmFKiXUbeGwQBXgyZI4GBZElJvjk&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/oLKG-sGvxAelwfZvLWR-_UST30oxz6VN3eQcUZxrJ1R7qNp-TjsUasgWEiNdUqesz5g",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Arizona Mobile ID \u2013 Aplik\u00e1cie v slu\u017ebe Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details/Arizona_Mobile_ID?id=com.idemia.mobileid.us.az&hl=sk",
+      "appstore:developer_url": "about:invalid#navigation",
+      "og:title": "Arizona Mobile ID \u2013 Aplik\u00e1cie v slu\u017ebe Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/oLKG-sGvxAelwfZvLWR-_UST30oxz6VN3eQcUZxrJ1R7qNp-TjsUasgWEiNdUqesz5g=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.idemia.mobileid.us.az",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.idemia.mobileid.us.az",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Ofici\u00e1lny digit\u00e1lny identifik\u00e1tor AZ",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details/Arizona_Mobile_ID?id=com.idemia.mobileid.us.az&hl=sk"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/oLKG-sGvxAelwfZvLWR-_UST30oxz6VN3eQcUZxrJ1R7qNp-TjsUasgWEiNdUqesz5g"
+     }
+    ]
+   }
+  }
+ ]
+}

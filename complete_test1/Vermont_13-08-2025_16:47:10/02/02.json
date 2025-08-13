@@ -1,0 +1,351 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://dmv.vermont.gov/ \"driver's license\" OR \"identification card\"",
+    "totalResults": "54",
+    "searchTerms": "site:https://dmv.vermont.gov/ \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://dmv.vermont.gov/ \"driver's license\" OR \"identification card\"",
+    "totalResults": "54",
+    "searchTerms": "site:https://dmv.vermont.gov/ \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.130604,
+  "formattedSearchTime": "0.13",
+  "totalResults": "54",
+  "formattedTotalResults": "54"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Non-Driver Identification | Department of Motor Vehicles",
+   "htmlTitle": "Non-Driver Identification | Department of Motor Vehicles",
+   "link": "https://dmv.vermont.gov/licenses/types-of-licenses-ids/non-driver-identification",
+   "displayLink": "dmv.vermont.gov",
+   "snippet": "May 21, 2024 ... ... Identification Card. Applicants that hold a valid driver's license, permit or Non-Driver ID card from another state are only eligible for a\u00a0...",
+   "htmlSnippet": "May 21, 2024 <b>...</b> ... <b>Identification Card</b>. Applicants that hold a valid <b>driver&#39;s license</b>, permit or Non-Driver ID card from another state are only eligible for a&nbsp;...",
+   "formattedUrl": "https://dmv.vermont.gov/licenses/types-of...ids/non-driver-identification",
+   "htmlFormattedUrl": "https://dmv.vermont.gov/licenses/types-of...ids/non-driver-identification",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ],
+    "Document": [
+     {
+      "title": "Non-Driver Identification",
+      "encoded": "A Non-Driver Identification Card for individuals who do not drive. Any applicant for a Vermont Non-Driver Identification Card must be a Vermont resident. All Vermont residents, regardless of..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Does a Driver's License or ID card marked \u201climited term\u201d have ...",
+   "htmlTitle": "Does a <b>Driver&#39;s License</b> or ID card marked \u201climited term\u201d have ...",
+   "link": "https://dmv.vermont.gov/faq/does-a-drivers-license-or-id-card-marked-limited-term-have-different-or-lesser-privileges",
+   "displayLink": "dmv.vermont.gov",
+   "snippet": "Aug 4, 2022 ... Does a Driver's License or ID card marked \u201climited term\u201d have different or lesser privileges? No. The Driver's License or ID card remains fully\u00a0...",
+   "htmlSnippet": "Aug 4, 2022 <b>...</b> Does a <b>Driver&#39;s License</b> or ID card marked \u201climited term\u201d have different or lesser privileges? No. The <b>Driver&#39;s License</b> or ID card remains fully&nbsp;...",
+   "formattedUrl": "https://dmv.vermont.gov/.../does-a-drivers-license-or-id-card-marked-limite...",
+   "htmlFormattedUrl": "https://dmv.vermont.gov/.../does-a-<b>drivers-license</b>-or-id-card-marked-limite...",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Restricted Driver's Licenses (RDL) | Department of Motor Vehicles",
+   "htmlTitle": "Restricted Driver&#39;s Licenses (RDL) | Department of Motor Vehicles",
+   "link": "https://dmv.vermont.gov/licenses/types-of-licenses-ids/drivers-license/restricted-drivers-licenses",
+   "displayLink": "dmv.vermont.gov",
+   "snippet": "Dec 18, 2023 ... Junior Driver's License \u00b7 Commercial Driver's License (CDL) \u00b7 Driver's Privilege Card (DPC) \u00b7 Motorcycle Endorsement \u00b7 Non-Driver Identification\u00a0...",
+   "htmlSnippet": "Dec 18, 2023 <b>...</b> Junior <b>Driver&#39;s License</b> &middot; Commercial <b>Driver&#39;s License</b> (CDL) &middot; Driver&#39;s Privilege Card (DPC) &middot; Motorcycle Endorsement &middot; Non-Driver Identification&nbsp;...",
+   "formattedUrl": "https://dmv.vermont.gov/.../types.../drivers-license/restricted-drivers-license...",
+   "htmlFormattedUrl": "https://dmv.vermont.gov/.../types.../<b>drivers-license</b>/restricted-<b>drivers-license</b>...",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ],
+    "Document": [
+     {
+      "title": "Restricted Driver's Licenses (RDL)",
+      "encoded": "An Ignition Interlock Device Restricted License (RDL) allows you to drive non-commercial vehicles equipped with an Ignition Interlock Device (IID) while your Vermont license is suspended or..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver's License | Department of Motor Vehicles",
+   "htmlTitle": "<b>Driver&#39;s License</b> | Department of Motor Vehicles",
+   "link": "https://dmv.vermont.gov/tags/drivers-license?page=1",
+   "displayLink": "dmv.vermont.gov",
+   "snippet": "The following are self-designated descriptors for a Vermont Driver's License or Non-Driver Identification card. Height; Weight; Eye color; Gender. Applicants\u00a0...",
+   "htmlSnippet": "The following are self-designated descriptors for a Vermont <b>Driver&#39;s License</b> or Non-Driver <b>Identification card</b>. Height; Weight; Eye color; Gender. Applicants&nbsp;...",
+   "formattedUrl": "https://dmv.vermont.gov/tags/drivers-license?page=1",
+   "htmlFormattedUrl": "https://dmv.vermont.gov/tags/<b>drivers-license</b>?page=1",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ],
+    "Document": [
+     {
+      "title": "Self-Designated Descriptors",
+      "encoded": "The following are self-designated descriptors for a Vermont Driver\u2019s License or Non-Driver Identification card. Height Weight Eye color Gender Applicants are not required under Vermont or..."
+     },
+     {
+      "title": "Driver's License, Restrictions",
+      "encoded": "Below are restrictions in use since July 2019. For restrictions in use before July 2019, see License Restrictions Old."
+     },
+     {
+      "title": "Driver's License, Address Change",
+      "encoded": "You are required by law to notify the Vermont Department of Motor Vehicles within 30 days of any change to your address or name."
+     },
+     {
+      "title": "License Restrictions (2013 - 2019)",
+      "encoded": "The restrictions below were in use from 2013 until July 2019. For current restrictions (July 2019 forward), see License Restrictions"
+     },
+     {
+      "title": "Compromised ID/License Number",
+      "encoded": "The Vermont Department of Motor Vehicles has a process for customers whose license numbers have been compromised. A compromised license number can occur due to a breach in a computer system..."
+     }
+    ],
+    "Thing": [
+     {
+      "name": "Driver's License",
+      "description": "A Driver's License is an official document permitting a specific individual to operate one or more types of motorized vehicles, such as a motorcycle, car, truck, or bus on a public road."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Commercial Driver's License (CDL) | Department of Motor Vehicles",
+   "htmlTitle": "Commercial <b>Driver&#39;s License</b> (CDL) | Department of Motor Vehicles",
+   "link": "https://dmv.vermont.gov/tags/commercial-drivers-license-cdl?page=3",
+   "displayLink": "dmv.vermont.gov",
+   "snippet": "Drivers have been required to have a Commercial Driver's License (CDL) to drive certain Commercial Motor Vehicles (CMVs) since April 1, 1992.",
+   "htmlSnippet": "Drivers have been required to have a Commercial <b>Driver&#39;s License</b> (CDL) to drive certain Commercial Motor Vehicles (CMVs) since April 1, 1992.",
+   "formattedUrl": "https://dmv.vermont.gov/tags/commercial-drivers-license-cdl?page=3",
+   "htmlFormattedUrl": "https://dmv.vermont.gov/tags/commercial-<b>drivers-license</b>-cdl?page=3",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ],
+    "Document": [
+     {
+      "title": "CDL Exemptions",
+      "encoded": "The following vehicles are not considered commercial motor vehicles. Operators of these vehicles are exempt from Commercial Driver\u2019s License requirements:"
+     },
+     {
+      "title": "CDL Medical Requirements",
+      "encoded": "Physical Examinations If you are subject to the Federal Motor Carrier Safety Regulations, you must have a physical every two years. To have a hazardous materials endorsement, you must meet..."
+     },
+     {
+      "title": "Commercial Driver's License (CDL)",
+      "encoded": "Drivers have been required to have a Commercial Driver's License (CDL) to drive certain Commercial Motor Vehicles (CMVs) since April 1, 1992. The types of vehicles and operations requiring..."
+     },
+     {
+      "title": "\u200bAdministrative Rules",
+      "encoded": "Detailed explanations of DMV Administrative Rules"
+     },
+     {
+      "title": "HazMat Endorsements",
+      "encoded": "Federal requirements for Hazmat drivers include:"
+     },
+     {
+      "title": "Renewals, Transfers & Upgrades",
+      "encoded": "All CDL transactions must be processed in person. About one month before your Commercial Driver License (CDL) expires you should receive a renewal notice in the mail if we have your most current..."
+     },
+     {
+      "title": "CDL Skills Testing",
+      "encoded": "CDL Testing Location 15 Airport Road Springfield, VT Map"
+     },
+     {
+      "title": "CDL & Motorcycle Testing (Colchester)",
+      "encoded": "CDL & Motorcycle Testing Location 102 Tracy Road Colchester, VT Open by appointment only"
+     }
+    ],
+    "Thing": [
+     {
+      "name": "Commercial Driver's License (CDL)",
+      "description": "Required in order to drive certain commercial motor vehicles(CMVs)"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Address Change | Department of Motor Vehicles",
+   "htmlTitle": "Address Change | Department of Motor Vehicles",
+   "link": "https://dmv.vermont.gov/tags/address-change",
+   "displayLink": "dmv.vermont.gov",
+   "snippet": "Driver's License, Address Change \u00b7 You are required by law to notify the Vermont Department of Motor Vehicles within 30 days of any change to your address or\u00a0...",
+   "htmlSnippet": "<b>Driver&#39;s License</b>, Address Change &middot; You are required by law to notify the Vermont Department of Motor Vehicles within 30 days of any change to your address or&nbsp;...",
+   "formattedUrl": "https://dmv.vermont.gov/tags/address-change",
+   "htmlFormattedUrl": "https://dmv.vermont.gov/tags/address-change",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ],
+    "Document": [
+     {
+      "title": "Driver's License, Address Change",
+      "encoded": "You are required by law to notify the Vermont Department of Motor Vehicles within 30 days of any change to your address or name."
+     },
+     {
+      "title": "Registration, Address Change",
+      "encoded": "You are required by law to notify the Vermont Department of Motor Vehicles within 30 days of any change to your address or name."
+     },
+     {
+      "title": "Kiosks",
+      "encoded": "Kiosk services are available in the following DMV office locations:"
+     }
+    ],
+    "Thing": [
+     {
+      "name": "Address Change"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ignition Interlock Device | Department of Motor Vehicles",
+   "htmlTitle": "Ignition Interlock Device | Department of Motor Vehicles",
+   "link": "https://dmv.vermont.gov/licenses/suspensions/ignition-interlock-device",
+   "displayLink": "dmv.vermont.gov",
+   "snippet": "Aug 4, 2022 ... Application for an Ignition Interlock Device Restricted Driver's License (IID & RDL) must be made by contacting this Department at 802-828-2061.",
+   "htmlSnippet": "Aug 4, 2022 <b>...</b> Application for an Ignition Interlock Device Restricted <b>Driver&#39;s License</b> (IID &amp; RDL) must be made by contacting this Department at 802-828-2061.",
+   "formattedUrl": "https://dmv.vermont.gov/licenses/suspensions/ignition-interlock-device",
+   "htmlFormattedUrl": "https://dmv.vermont.gov/licenses/suspensions/ignition-interlock-device",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ],
+    "Document": [
+     {
+      "title": "Ignition Interlock Device",
+      "encoded": "An Ignition Interlock Device, referred to as an \"IID,\" is an after-market device which is installed in a vehicle. The IID is connected to the starter or ignition, or other onboard computer..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver's License Manual - Swahili | Department of Motor Vehicles",
+   "htmlTitle": "<b>Driver&#39;s License</b> Manual - Swahili | Department of Motor Vehicles",
+   "link": "https://dmv.vermont.gov/document/drivers-license-manual-foreign-language-swahili",
+   "displayLink": "dmv.vermont.gov",
+   "snippet": "Driver's License Manual - Swahili Foreign Language September 12, 2024 The driver's manual includes everything needed to obtain a learner permit.",
+   "htmlSnippet": "<b>Driver&#39;s License</b> Manual - Swahili Foreign Language September 12, 2024 The driver&#39;s manual includes everything needed to obtain a learner permit.",
+   "formattedUrl": "https://dmv.vermont.gov/.../drivers-license-manual-foreign-language-swahi...",
+   "htmlFormattedUrl": "https://dmv.vermont.gov/.../<b>drivers-license</b>-manual-foreign-language-swahi...",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver's License Manual - Ukraine | Department of Motor Vehicles",
+   "htmlTitle": "<b>Driver&#39;s License</b> Manual - Ukraine | Department of Motor Vehicles",
+   "link": "https://dmv.vermont.gov/document/drivers-license-manual-foreign-language-ukraine",
+   "displayLink": "dmv.vermont.gov",
+   "snippet": "Driver's License Manual - Ukraine. Foreign Language. September 12, 2024. The driver's manual includes everything needed to obtain a learner permit.",
+   "htmlSnippet": "<b>Driver&#39;s License</b> Manual - Ukraine. Foreign Language. September 12, 2024. The driver&#39;s manual includes everything needed to obtain a learner permit.",
+   "formattedUrl": "https://dmv.vermont.gov/.../drivers-license-manual-foreign-language-ukrai...",
+   "htmlFormattedUrl": "https://dmv.vermont.gov/.../<b>drivers-license</b>-manual-foreign-language-ukrai...",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver's License Manual - Nepali | Department of Motor Vehicles",
+   "htmlTitle": "<b>Driver&#39;s License</b> Manual - Nepali | Department of Motor Vehicles",
+   "link": "https://dmv.vermont.gov/document/drivers-license-manual-foreign-language-nepali",
+   "displayLink": "dmv.vermont.gov",
+   "snippet": "Driver's License Manual - Nepali Foreign Language September 12, 2024 The driver's manual includes everything needed to obtain a learner permit.",
+   "htmlSnippet": "<b>Driver&#39;s License</b> Manual - Nepali Foreign Language September 12, 2024 The driver&#39;s manual includes everything needed to obtain a learner permit.",
+   "formattedUrl": "https://dmv.vermont.gov/.../drivers-license-manual-foreign-language-nepali",
+   "htmlFormattedUrl": "https://dmv.vermont.gov/.../<b>drivers-license</b>-manual-foreign-language-nepali",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  }
+ ]
+}

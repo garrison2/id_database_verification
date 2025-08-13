@@ -1,0 +1,456 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Nevada\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "253000",
+    "searchTerms": "\"Nevada\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Nevada\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "253000",
+    "searchTerms": "\"Nevada\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.188045,
+  "formattedSearchTime": "0.19",
+  "totalResults": "253000",
+  "formattedTotalResults": "253,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "When will we be able to add my Nevada dri\u2026 - Apple Community",
+   "htmlTitle": "When will we be able to add my <b>Nevada</b> dri\u2026 - Apple Community",
+   "link": "https://discussions.apple.com/thread/255615631",
+   "displayLink": "discussions.apple.com",
+   "snippet": "May 17, 2024 ... >>While the bill passed and is legal, Nevada has yet to develop/announce development of the mobile ID integration. There is no public\u00a0...",
+   "htmlSnippet": "May 17, 2024 <b>...</b> &gt;&gt;While the bill passed and is legal, <b>Nevada</b> has yet to develop/announce development of the <b>mobile ID</b> integration. There is no public&nbsp;...",
+   "formattedUrl": "https://discussions.apple.com/thread/255615631",
+   "htmlFormattedUrl": "https://discussions.apple.com/thread/255615631",
+   "pagemap": {
+    "metatags": [
+     {
+      "globalnav-search-field[action]": "https://support.apple.com/kb/index",
+      "globalnav-search-field[locale]": "en_US",
+      "globalnav-store-key": "S2A49YFKJF2JAT22K",
+      "viewport": "width=device-width, height=device-height, initial-scale=1, minimum-scale=1, viewport-fit=cover",
+      "globalnav-search-field[type]": "organic",
+      "globalnav-search-field[src]": "globalnav_support",
+      "globalnav-search-field[name]": "q",
+      "globalnav-search-field[page]": "search",
+      "globalnav-submenus-enabled": "false",
+      "globalnav-search-field[placeholder]": "Search Support"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Nevada Mobile ID Updates",
+   "htmlTitle": "<b>Nevada Mobile ID</b> Updates",
+   "link": "https://idscan.net/state-digital-id/nevada-mobile-id-updates/",
+   "displayLink": "idscan.net",
+   "snippet": "Other Nevada mDL resources. Las Vegas strip in Nevada at night. Mobile ID ... Other Nevada mDL resources. Digital Driver's Licenses Could Come to Nevada\u00a0...",
+   "htmlSnippet": "Other <b>Nevada mDL</b> resources. Las Vegas strip in <b>Nevada</b> at night. <b>Mobile ID</b> ... Other <b>Nevada mDL</b> resources. Digital Driver&#39;s Licenses Could Come to <b>Nevada</b>&nbsp;...",
+   "formattedUrl": "https://idscan.net/state-digital-id/nevada-mobile-id-updates/",
+   "htmlFormattedUrl": "https://idscan.net/state-<b>digital-id</b>/<b>nevada</b>-<b>mobile-id</b>-updates/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdU2ZeC00pQZ_M3lpRD83zGnBaNrSuDV-j9UOZI01oMrMNMiKMSozQXMPL&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://idscan.net/wp-content/uploads/nevada-mobile-id.jpg?lm=66A7318E",
+      "og:type": "article",
+      "og:image:width": "1199",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "IDScan.net",
+      "og:title": "Nevada Mobile ID Updates",
+      "og:image:height": "631",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://idscan.net/wp-content/uploads/cropped-idscan-identity-verification-software-icon-1-270x270.png",
+      "og:description": "Nevada legalized the development of a mobile ID in 2021, but as of February 2025, an app still hasn't been made live for Nevada residents.",
+      "article:publisher": "https://www.facebook.com/idscannet",
+      "twitter:site": "@idscan_net",
+      "article:modified_time": "2025-02-19T21:31:33+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://idscan.net/state-digital-id/nevada-mobile-id-updates/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://idscan.net/wp-content/uploads/nevada-mobile-id.jpg?lm=66A7318E"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MDL Group Named a 2025 Nevada Top Workplaces Winner for 4th ...",
+   "htmlTitle": "<b>MDL</b> Group Named a 2025 <b>Nevada</b> Top Workplaces Winner for 4th ...",
+   "link": "https://www.mdlgroup.com/mdl-group-named-a-2025-nevada-top-workplaces-winner-for-4th-consecutive-year/",
+   "displayLink": "www.mdlgroup.com",
+   "snippet": "Jun 9, 2025 ... MDL Group has once again been recognized for its outstanding workplace culture on the 2025 Nevada Top Workplaces by Las Vegas\u00a0...",
+   "htmlSnippet": "Jun 9, 2025 <b>...</b> <b>MDL</b> Group has once again been recognized for its outstanding workplace culture on the 2025 <b>Nevada</b> Top Workplaces by Las Vegas&nbsp;...",
+   "formattedUrl": "https://www.mdlgroup.com/mdl-group-named-a-2025-nevada-top-workpla...",
+   "htmlFormattedUrl": "https://www.<b>mdl</b>group.com/<b>mdl</b>-group-named-a-2025-<b>nevada</b>-top-workpla...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2fC0Uyq-uXhJMd245G9J9UDFp_G7_rRXH2Xf5wz0mhDyj6N_Uy7zkemk&s",
+      "width": "259",
+      "height": "194"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.mdlgroup.com/wp-content/uploads/2025/06/option1.jpg",
+      "og:type": "article",
+      "article:published_time": "2025-06-09T21:26:20+00:00",
+      "og:image:width": "2560",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "MDL Group",
+      "author": "Ashley Kartchner",
+      "og:title": "MDL Group Named a 2025 Nevada Top Workplaces Winner for 4th Consecutive Year",
+      "og:image:height": "1920",
+      "twitter:label1": "Written by",
+      "twitter:label2": "Est. reading time",
+      "og:image:type": "image/jpeg",
+      "og:description": "MDL Group has once again been recognized for its outstanding workplace culture on the 2025 Nevada Top Workplaces by Las Vegas Review-Journal",
+      "twitter:creator": "@mdlgroup",
+      "article:publisher": "https://www.facebook.com/MDLGroupLV/",
+      "twitter:data1": "Ashley Kartchner",
+      "twitter:data2": "2 minutes",
+      "twitter:site": "@mdlgroup",
+      "article:modified_time": "2025-06-09T23:42:49+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.mdlgroup.com/mdl-group-named-a-2025-nevada-top-workplaces-winner-for-4th-consecutive-year/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.mdlgroup.com/wp-content/uploads/2025/06/option1.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MDL GROUP \u2013 Nevada General Construction",
+   "htmlTitle": "<b>MDL</b> GROUP \u2013 <b>Nevada</b> General Construction",
+   "link": "https://nevgen.com/mdl/",
+   "displayLink": "nevgen.com",
+   "snippet": "Established in 1989, MDL Group was founded as a commercial real estate ... \u00a9 2022 NEVADA GENERAL CONSTRUCTION - License: 031854 Unlimited |Privacy\u00a0...",
+   "htmlSnippet": "Established in 1989, <b>MDL</b> Group was founded as a commercial real estate ... \u00a9 2022 <b>NEVADA</b> GENERAL CONSTRUCTION - License: 031854 Unlimited |Privacy&nbsp;...",
+   "formattedUrl": "https://nevgen.com/mdl/",
+   "htmlFormattedUrl": "https://nevgen.com/<b>mdl</b>/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1",
+      "msapplication-tileimage": "https://nevgen.com/wp-content/uploads/2020/03/ngc-favicon.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "December 3, 2008 Mr. Mark Paris Ms. Susan Crowley Mr. Curt ...",
+   "htmlTitle": "December 3, 2008 Mr. Mark Paris Ms. Susan Crowley Mr. Curt ...",
+   "link": "https://ndep.nv.gov/uploads/documents/detection-limits-data-reporting.pdf",
+   "displayLink": "ndep.nv.gov",
+   "snippet": "Dec 3, 2008 ... Cindi Byrns, Olin Chlor Alkali, PO Box 86, Henderson, Nevada 89009 ... Report the MDL, SQL and PQL in the databases. NDEP notes that the\u00a0...",
+   "htmlSnippet": "Dec 3, 2008 <b>...</b> Cindi Byrns, Olin Chlor Alkali, PO Box 86, Henderson, <b>Nevada</b> 89009 ... Report the <b>MDL</b>, SQL and PQL in the databases. NDEP notes that the&nbsp;...",
+   "formattedUrl": "https://ndep.nv.gov/uploads/documents/detection-limits-data-reporting.pdf",
+   "htmlFormattedUrl": "https://ndep.nv.gov/uploads/documents/detection-limits-data-reporting.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20081203141839-08'00'",
+      "creationdate": "D:20081203141839-08'00'",
+      "creator": "PScript5.dll Version 5.2.2",
+      "author": "jwalker",
+      "producer": "Acrobat Distiller 8.1.0 (Windows)",
+      "title": "Microsoft Word - 081203 dl issues.doc"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Nevada introduces digital ID scanning for tobacco purchases ...",
+   "htmlTitle": "<b>Nevada</b> introduces <b>digital ID</b> scanning for tobacco purchases ...",
+   "link": "https://www.biometricupdate.com/202301/nevada-introduces-digital-id-scanning-for-tobacco-purchases",
+   "displayLink": "www.biometricupdate.com",
+   "snippet": "Jan 5, 2023 ... Digital ID scanning is now mandatory for tobacco purchases in Nevada, according to an announcement from IDScan.net. Law AB 360 states that,\u00a0...",
+   "htmlSnippet": "Jan 5, 2023 <b>...</b> <b>Digital ID</b> scanning is now mandatory for tobacco purchases in <b>Nevada</b>, according to an announcement from IDScan.net. Law AB 360 states that,&nbsp;...",
+   "formattedUrl": "https://www.biometricupdate.com/.../nevada-introduces-digital-id-scanning-...",
+   "htmlFormattedUrl": "https://www.biometricupdate.com/.../<b>nevada</b>-introduces-<b>digital-id</b>-scanning-...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHTb3p5yEXADa2jM2kKlFhOFOiHTPDn7Wh4elQ6PtT5OePFMF8oP_bvZ0&s",
+      "width": "259",
+      "height": "194"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/01/05131214/tobacco-products-scaled.jpg",
+      "theme-color": "#ffffff",
+      "og:image:width": "2048",
+      "article:published_time": "2023-01-05T18:20:21+00:00",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Biometric Update | Biometrics News, Companies and Explainers",
+      "rating": "general",
+      "msapplication-tileimage": "/favicon/ms-icon-144x144.png",
+      "og:description": "As of January 1, 2023, retail locations selling tobacco or vape products in the state will be required to digitally scan the IDs of customers, to verify age.",
+      "twitter:creator": "@BiometricUpdate",
+      "og:image:secure_url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/01/05131214/tobacco-products-scaled.jpg",
+      "article:publisher": "https://www.facebook.com/BiometricUpdate",
+      "twitter:image": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/01/05131214/tobacco-products-scaled.jpg",
+      "twitter:site": "@BiometricUpdate",
+      "article:modified_time": "2024-05-26T21:13:34+00:00",
+      "msapplication-tilecolor": "#ffffff",
+      "og:type": "article",
+      "twitter:title": "Nevada introduces digital ID scanning for tobacco purchases | Biometric Update",
+      "msvalidate.01": "37DAF50D768AB3DDD4F101B413D98584",
+      "author": "Joel R. McConvey",
+      "og:title": "Nevada introduces digital ID scanning for tobacco purchases | Biometric Update",
+      "og:image:height": "1536",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "As of January 1, 2023, retail locations selling tobacco or vape products in the state will be required to digitally scan the IDs of customers, to verify age.",
+      "og:locale": "en_US",
+      "og:url": "https://www.biometricupdate.com/202301/nevada-introduces-digital-id-scanning-for-tobacco-purchases"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/01/05131214/tobacco-products-scaled.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "William N. Pennington Health Sciences Building | University of ...",
+   "htmlTitle": "William N. Pennington Health Sciences Building | University of ...",
+   "link": "https://www.unr.edu/building-directory/william-n-pennington-health-sciences-building",
+   "displayLink": "www.unr.edu",
+   "snippet": "Learn more about William N. Pennington Health Sciences Building and its location at the University of Nevada, Reno.",
+   "htmlSnippet": "Learn more about William N. Pennington Health Sciences Building and its location at the University of <b>Nevada</b>, Reno.",
+   "formattedUrl": "https://www.unr.edu/building.../william-n-pennington-health-sciences-build...",
+   "htmlFormattedUrl": "https://www.unr.edu/building.../william-n-pennington-health-sciences-build...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCGAfdrG0EQi9XTD60cvPaakaGR4dLDfrVE1JCw_nw-WZUcQjA4ygGwPY&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "CivicStructure": [
+     {}
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#dfe5e9",
+      "editingpage": "https://cms.unr.edu/#/site/x2167/edit",
+      "og:image": "https://www.unr.edu/global/images/unr-stock/CampusImage-FB.jpg",
+      "theme-color": "#041E42",
+      "og:type": "website",
+      "og:image:alt": "University of Nevada, Reno Logo",
+      "og:image:width": "1200",
+      "twitter:title": "William N. Pennington Health Sciences Building",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "University of Nevada, Reno",
+      "og:title": "William N. Pennington Health Sciences Building",
+      "og:image:height": "630",
+      "og:description": "Learn more about William N. Pennington Health Sciences Building and its location at the University of Nevada, Reno.",
+      "og:image:secure_url": "https://www.unr.edu/global/images/unr-stock/CampusImage-FB.jpg",
+      "twitter:image": "https://www.unr.edu/global/images/unr-stock/CampusImage-FB.jpg",
+      "twitter:dnt": "on",
+      "twitter:image:alt": "University of Nevada, Reno Logo",
+      "fb:app_id": "1062885220401235",
+      "twitter:site": "@unevadareno",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Learn more about William N. Pennington Health Sciences Building and its location at the University of Nevada, Reno.",
+      "og:url": "https://www.unr.edu/building-directory/william-n-pennington-health-sciences-building",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.unr.edu/global/images/unr-stock/CampusImage-FB.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Nevada - Arkansas.gov",
+   "htmlTitle": "<b>Nevada</b> - Arkansas.gov",
+   "link": "https://portal.arkansas.gov/counties/nevada/",
+   "displayLink": "portal.arkansas.gov",
+   "snippet": "Arkansas Mobile ID offers businesses a secure and convenient way to validate ... Nevada. Home / County / Nevada. Phone: 870-887-3115. Address: 215 East\u00a0...",
+   "htmlSnippet": "Arkansas <b>Mobile ID</b> offers businesses a secure and convenient way to validate ... <b>Nevada</b>. Home / County / <b>Nevada</b>. Phone: 870-887-3115. Address: 215 East&nbsp;...",
+   "formattedUrl": "https://portal.arkansas.gov/counties/nevada/",
+   "htmlFormattedUrl": "https://portal.arkansas.gov/counties/<b>nevada</b>/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt_vPWMg6Iisi4HgGM22UfLgZFdhR1suBWjKDUhhNPpSl1RB4Qcy_HeI4&s",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://portal.arkansas.gov/wp-content/uploads/ar-arkansas-flag.jpg",
+      "og:type": "article",
+      "og:image:width": "724",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Arkansas.gov",
+      "og:title": "Nevada - Arkansas.gov",
+      "og:image:height": "483",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://portal.arkansas.gov/wp-content/uploads/1-AR_STATE-GOV-LOGO_COLOR_CMYK.svg",
+      "article:modified_time": "2023-04-28T18:50:07+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "ina-man": "fw",
+      "og:url": "https://portal.arkansas.gov/counties/nevada/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://portal.arkansas.gov/wp-content/uploads/ar-arkansas-flag.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Division of Mortgage Lending",
+   "htmlTitle": "Division of Mortgage Lending",
+   "link": "https://mld.nv.gov/",
+   "displayLink": "mld.nv.gov",
+   "snippet": "The Division is committed to promoting and growing Nevada's non-depository mortgage lending and related industries by fostering a regulatory environment.",
+   "htmlSnippet": "The Division is committed to promoting and growing <b>Nevada&#39;s</b> non-depository mortgage lending and related industries by fostering a regulatory environment.",
+   "formattedUrl": "https://mld.nv.gov/",
+   "htmlFormattedUrl": "https://mld.nv.gov/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN5fboXi1BLU3zZcVNeZfuYk2bu101ngkvwAldDV35Op5U5C7rkjp1_Nc&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1",
+      "google-translate-customization": "787229be2ed75f87-2f2bfae1d93f1919-g72955382bd6984f7-11"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://mld.nv.gov/uploadedImages/mldnvgov/content/home/features/Mortgage%20Lending%20Banner(2).jpg?n=1323"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Espen Hild - Future Las Vegas CRE Broker - Retail || MDL Group ...",
+   "htmlTitle": "Espen Hild - Future Las Vegas CRE Broker - Retail || <b>MDL</b> Group ...",
+   "link": "https://www.linkedin.com/in/espenhild",
+   "displayLink": "www.linkedin.com",
+   "snippet": "... Nevada-Las Vegas \u00b7 Location: Las Vegas \u00b7 500+ connections on LinkedIn ... MDL Group University of Nevada-Las Vegas. Las Vegas, Nevada, United States. 2K\u00a0...",
+   "htmlSnippet": "... <b>Nevada</b>-Las Vegas \u00b7 Location: Las Vegas \u00b7 500+ connections on LinkedIn ... <b>MDL</b> Group University of <b>Nevada</b>-Las Vegas. Las Vegas, <b>Nevada</b>, United States. 2K&nbsp;...",
+   "formattedUrl": "https://www.linkedin.com/in/espenhild",
+   "htmlFormattedUrl": "https://www.linkedin.com/in/espenhild",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThnoNkSz0exoUA94vH1P5JdscZ33tuUrb1ADTWcJkVSZDWrsluhadU1NE&s",
+      "width": "200",
+      "height": "200"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://media.licdn.com/dms/image/v2/D5603AQEv2z1SS3rzGg/profile-displayphoto-shrink_200_200/B56ZYs0wQxGUAY-/0/1744508749158?e=2147483647&v=beta&t=6OxT2_zKQVs_OopGlEYWRu2uBsZUgGt6pN2yRZMN1VU",
+      "twitter:card": "summary",
+      "linkedin:pagetag": "openToProvider",
+      "platform-worker": "https://static.licdn.com/aero-v1/sc/h/7nirg34a8ey4y2l4rw7xgwxx4",
+      "al:android:package": "com.linkedin.android",
+      "bingbot": "nocache",
+      "locale": "en_US",
+      "al:ios:url": "https://www.linkedin.com/in/espenhild",
+      "og:description": "Future Las Vegas CRE Broker - Retail || MDL Group - Retail Team || President - UNLV AMA || Executive Officer - UNLV AMA, REBS, RVF || Real Estate Major - UNLV Lee Business School \u00b7 Viva Las Vegas? For me, it\u2019s Viva ambition. \n\nI am Espen, a senior at UNLV majoring in Real Estate and minoring in Finance. As a transfer student from UNR, I bet on myself by moving to a city where I knew nobody, and I sure hit the jackpot here in Las Vegas by getting into commercial real estate. CRE is the perfect blend of helping businesses and having a tangible impact on my city, so why not get a degree in the field I&#39;m most excited about? I currently work as the Junior Team Coordinator for the Retail Team at MDL Group, where I have gained firsthand experience in the commercial real estate industry, particularly in the retail asset class.\n\nBack on campus, I get as involved as I can - serving as an executive officer on three large business clubs (all with over 40 members). I currently serve as the President of UNLV AMA (Am",
+      "al:ios:app_store_id": "288429040",
+      "platform": "https://static.licdn.com/aero-v1/sc/h/50rhhil0lpchs3iqo4twn4tk9",
+      "twitter:image": "https://media.licdn.com/dms/image/v2/D5603AQEv2z1SS3rzGg/profile-displayphoto-shrink_200_200/B56ZYs0wQxGUAY-/0/1744508749158?e=2147483647&v=beta&t=6OxT2_zKQVs_OopGlEYWRu2uBsZUgGt6pN2yRZMN1VU",
+      "profile:last_name": "Hild",
+      "twitter:site": "@Linkedin",
+      "litmsprofilename": "public-profile-frontend",
+      "profile:first_name": "Espen",
+      "og:type": "profile",
+      "twitter:title": "Espen Hild - Future Las Vegas CRE Broker - Retail || MDL Group - Retail Team || President - UNLV AMA || Executive Officer - UNLV AMA, REBS, RVF || Real Estate Major - UNLV Lee Business School | LinkedIn",
+      "al:ios:app_name": "LinkedIn",
+      "og:title": "Espen Hild - Future Las Vegas CRE Broker - Retail || MDL Group - Retail Team || President - UNLV AMA || Executive Officer - UNLV AMA, REBS, RVF || Real Estate Major - UNLV Lee Business School | LinkedIn",
+      "pagekey": "public_profile_v3_mobile",
+      "al:android:url": "https://www.linkedin.com/in/espenhild",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Future Las Vegas CRE Broker - Retail || MDL Group - Retail Team || President - UNLV AMA || Executive Officer - UNLV AMA, REBS, RVF || Real Estate Major - UNLV Lee Business School \u00b7 Viva Las Vegas? For me, it\u2019s Viva ambition. \n\nI am Espen, a senior at UNLV majoring in Real Estate and minoring in Finance. As a transfer student from UNR, I bet on myself by moving to a city where I knew nobody, and I sure hit the jackpot here in Las Vegas by getting into commercial real estate. CRE is the perfect blend of helping businesses and having a tangible impact on my city, so why not get a degree in the field I&#39;m most excited about? I currently work as the Junior Team Coordinator for the Retail Team at MDL Group, where I have gained firsthand experience in the commercial real estate industry, particularly in the retail asset class.\n\nBack on campus, I get as involved as I can - serving as an executive officer on three large business clubs (all with over 40 members). I currently serve as the President of UNLV AMA (Am",
+      "ubba": "https://static.licdn.com/aero-v1/sc/h/41b802ccd3dg7q90ypctzxybx",
+      "og:url": "https://www.linkedin.com/in/espenhild",
+      "al:android:app_name": "LinkedIn"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://media.licdn.com/dms/image/v2/D5603AQEv2z1SS3rzGg/profile-displayphoto-shrink_200_200/B56ZYs0wQxGUAY-/0/1744508749158?e=2147483647&v=beta&t=6OxT2_zKQVs_OopGlEYWRu2uBsZUgGt6pN2yRZMN1VU"
+     }
+    ],
+    "Person": [
+     {}
+    ]
+   }
+  }
+ ]
+}

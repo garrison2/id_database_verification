@@ -1,0 +1,468 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Hawaii\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "848000",
+    "searchTerms": "\"Hawaii\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Hawaii\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "848000",
+    "searchTerms": "\"Hawaii\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.177557,
+  "formattedSearchTime": "0.18",
+  "totalResults": "848000",
+  "formattedTotalResults": "848,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Highways | Mobile Driver License",
+   "htmlTitle": "Highways | Mobile Driver License",
+   "link": "https://hidot.hawaii.gov/highways/mobile-driver-license/",
+   "displayLink": "hidot.hawaii.gov",
+   "snippet": "Where can I use a mDL in Hawaii? Within Hawai\u02bbi, digital driver's licenses and state identification cards are currently accepted at the Transportation Security\u00a0...",
+   "htmlSnippet": "Where can I use a <b>mDL</b> in <b>Hawaii</b>? Within <b>Hawai\u02bbi</b>, digital driver&#39;s licenses and state identification cards are currently accepted at the Transportation Security&nbsp;...",
+   "formattedUrl": "https://hidot.hawaii.gov/highways/mobile-driver-license/",
+   "htmlFormattedUrl": "https://hidot.<b>hawaii</b>.gov/highways/mobile-driver-license/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8m-ECfkOQ2YsedhAczKL_IqkAvuE15QXALO-hEBNA3zRG9DiT7qHWAR0&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://hidot.hawaii.gov/highways/wp-content/themes/hic_state_template_parent/images/og-image.jpg",
+      "twitter:card": "summary",
+      "og:type": "website",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "og:title": "Mobile Driver License",
+      "og:url": "https://hidot.hawaii.gov/highways/mobile-driver-license/",
+      "og:description": "Your Hawai\u02bbi driver\u2019s license and state ID. Now on your mobile device. Hawai\u02bbi residents can choose to carry a digital version of their REAL ID-compliant Hawai\u02bbi driver\u2019s license or state identification card on their mobile device. An easy, safe and secure option for presenting your ID. Terms and Conditions Your Driver\u2019s License Goes Mobile Credit [\u2026]"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://hidot.hawaii.gov/highways/wp-content/themes/hic_state_template_parent/images/og-image.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "TSA now accepting Hawaii mobile driver licenses at HNL Makai ...",
+   "htmlTitle": "TSA now accepting <b>Hawaii</b> mobile driver licenses at HNL Makai ...",
+   "link": "https://www.tsa.gov/news/press/releases/2024/08/29/tsa-now-accepting-hawaii-mobile-driver-licenses-hnl-makai-security",
+   "displayLink": "www.tsa.gov",
+   "snippet": "Aug 29, 2024 ... Hawaii is the 11th state to offer its residents the option of using a digital ID for identity verification at select airports nationwide. \u201cWe\u00a0...",
+   "htmlSnippet": "Aug 29, 2024 <b>...</b> <b>Hawaii</b> is the 11th state to offer its residents the option of using a <b>digital ID</b> for identity verification at select airports nationwide. \u201cWe&nbsp;...",
+   "formattedUrl": "https://www.tsa.gov/.../tsa-now-accepting-hawaii-mobile-driver-licenses-hnl...",
+   "htmlFormattedUrl": "https://www.tsa.gov/.../tsa-now-accepting-<b>hawaii</b>-mobile-driver-licenses-hnl...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPmfB7IVmgDmb3IDXSU12352SHrXv5e_5i8yycsOrPNmZwXMWtBL06Rg4&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.tsa.gov/sites/default/files/2025-03/21366_graphic_tsa_open_graph_image_1200x630.jpg",
+      "og:type": "website",
+      "og:image:width": "1200",
+      "og:site_name": "U.S. Department of Homeland Security Transportation Security Administration",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+      "og:title": "TSA now accepting Hawaii mobile driver licenses at HNL Makai security checkpoint | Transportation Security Administration",
+      "mobileoptimized": "width",
+      "og:image:height": "630",
+      "og:image:type": "image/jpg",
+      "og:url": "https://www.tsa.gov/news/press/releases/2024/08/29/tsa-now-accepting-hawaii-mobile-driver-licenses-hnl-makai-security",
+      "og:description": "HONOLULU - The Transportation Security Administration (TSA) is now accepting Hawaii-issued digital driver licenses and identification cards from travelers who have added it to Apple Wallet. Hawaii is the 11th state to offer its residents the option of using a digital ID for identity verification at select airports nationwide."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.tsa.gov/sites/default/files/2025-03/21366_graphic_tsa_open_graph_image_1200x630.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hawai\u02bbi-Issued REAL IDs can be ... - Department of Transportation",
+   "htmlTitle": "Hawai\u02bbi-Issued REAL IDs can be ... - Department of Transportation",
+   "link": "https://hidot.hawaii.gov/blog/2024/08/28/hawai%CA%BBi-issued-real-ids-can-be-added-to-apple-wallet-beginning-august-28/",
+   "displayLink": "hidot.hawaii.gov",
+   "snippet": "Aug 28, 2024 ... Enabling digital ID acceptance for businesses. A variety of apps ... hawaii.gov/highways/mobile-driver-license/. * Requires iPhone 8 or\u00a0...",
+   "htmlSnippet": "Aug 28, 2024 <b>...</b> Enabling <b>digital ID</b> acceptance for businesses. A variety of apps ... <b>hawaii</b>.gov/highways/mobile-driver-license/. * Requires iPhone 8 or&nbsp;...",
+   "formattedUrl": "https://hidot.hawaii.gov/.../hawai\u02bbi-issued-real-ids-can-be-added-to-apple-w...",
+   "htmlFormattedUrl": "https://hidot.<b>hawaii</b>.gov/.../hawai\u02bbi-issued-real-ids-can-be-added-to-apple-w...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNY1g2rvpbCPfr9t19BQo1UYFIlsLlRjm4eFBlRE72GghL8z0tF72PN40-&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://hidot.hawaii.gov/wp-content/themes/hic_state_template_parent/images/og-image.jpg",
+      "twitter:card": "summary",
+      "og:type": "website",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "og:title": "Hawai\u02bbi-Issued REAL IDs can be added to Apple Wallet beginning August 28",
+      "og:url": "https://hidot.hawaii.gov/blog/2024/08/28/hawai%ca%bbi-issued-real-ids-can-be-added-to-apple-wallet-beginning-august-28/",
+      "og:description": "Residents must continue to carry their physical cards \u00a0 HONOLULU \u2013 REAL ID-compliant Hawai\u02bbi driver\u2019s licenses and state identification cards can be added to iPhone and Apple Watch as of August 28, 2024.* Within Hawai\u02bbi, digital driver\u2019s licenses and state identification cards are currently accepted at the Transportation Security Administration (TSA) checkpoint at the Terminal [\u2026]"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://hidot.hawaii.gov/wp-content/themes/hic_state_template_parent/images/og-image.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MDL HAWAII APRIL 2025 - Smoothcomp",
+   "htmlTitle": "<b>MDL HAWAII</b> APRIL 2025 - Smoothcomp",
+   "link": "https://mdl.smoothcomp.com/en/event/21585",
+   "displayLink": "mdl.smoothcomp.com",
+   "snippet": "MDL Muay Thai sparring scrimmage for all ages and levels for HAWAII is coming to the HONOLULU for 2025!",
+   "htmlSnippet": "<b>MDL</b> Muay Thai sparring scrimmage for all ages and levels for <b>HAWAII</b> is coming to the HONOLULU for 2025!",
+   "formattedUrl": "https://mdl.smoothcomp.com/en/event/21585",
+   "htmlFormattedUrl": "https://<b>mdl</b>.smoothcomp.com/en/event/21585",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZXIBkzsAv589SntT1uKFJg5LPQ366DaaIp3brhCYEriup1zOumoYkzxFw&s",
+      "width": "368",
+      "height": "137"
+     }
+    ],
+    "SportsEvent": [
+     {
+      "image": "https://smoothcomp.com/pictures/t/5351100-cijl/mdl-hawaii-april-2025.jpg",
+      "endDate": "2025-04-06T17:00:00-08:00",
+      "name": "MDL HAWAII APRIL 2025",
+      "description": "MDL HAWAII APRIL 2025",
+      "startDate": "2025-04-06T08:00:00-08:00",
+      "url": "https://mdl.smoothcomp.com/en/event/21585"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#000000",
+      "og:image": "https://smoothcomp.com/pictures/t/5351093-k28p/mdl-hawaii-april-2025.jpg",
+      "msapplication-config": "none",
+      "og:image:width": "1200",
+      "og:type": "website",
+      "theme-color": "#000000",
+      "og:site_name": "Smoothcomp",
+      "og:title": "MDL HAWAII APRIL 2025",
+      "og:image:height": "447",
+      "og:description": "MDL HAWAII APRIL 2025",
+      "viewport": "width=device-width, initial-scale=1",
+      "csrf-token": "U48FzKhG788aNEjOgpmtaZoqrBMopFCs77KWB3XS",
+      "og:url": "https://mdl.smoothcomp.com/en/event/21585"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://smoothcomp.com/pictures/t/5351093-k28p/mdl-hawaii-april-2025.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "You can now add your Hawaii driver's license, state ID to your ...",
+   "htmlTitle": "You can now add your <b>Hawaii</b> driver&#39;s license, state ID to your ...",
+   "link": "https://www.hawaiinewsnow.com/2024/08/28/you-can-now-add-your-hawaii-drivers-license-state-id-your-apple-wallet-heres-how/",
+   "displayLink": "www.hawaiinewsnow.com",
+   "snippet": "Aug 28, 2024 ... How to protect your device: \u00b7 How to add a Hawaii driver's license and state ID in Apple Wallet: \u00b7 How to present a digital ID: \u00b7 Enabling digital\u00a0...",
+   "htmlSnippet": "Aug 28, 2024 <b>...</b> How to protect your device: &middot; How to add a <b>Hawaii</b> driver&#39;s license and state ID in Apple Wallet: &middot; How to present a <b>digital ID</b>: &middot; Enabling <b>digital</b>&nbsp;...",
+   "formattedUrl": "https://www.hawaiinewsnow.com/.../you-can-now-add-your-hawaii-drivers...",
+   "htmlFormattedUrl": "https://www.<b>hawaii</b>newsnow.com/.../you-can-now-add-your-<b>hawaii</b>-drivers...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgdxrK4M1HfxRWiz2N6aZTjY2z4q4A4NIldLq0TAY02wQqCs1vO9XaIBs&s",
+      "width": "318",
+      "height": "159"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://gray-khnl-prod.gtv-cdn.com/resizer/v2/LBSWHAXFUJDMLHVBR5W3MFPTJA.jpg?auth=1c2bd041f9d5dad352472c4f74647aca2637128c6187d4bfa791d795dba01d33&width=1200&height=600&smart=true",
+      "apple-itunes-app": "app-id=450571908",
+      "copyright": "Copyright (c) 2025",
+      "twitter:card": "summary_large_image",
+      "article:published_time": "2024-08-28T20:50:28.109Z",
+      "og:site_name": "https://www.hawaiinewsnow.com",
+      "rating": "general",
+      "distribution": "global",
+      "og:description": "Credit cards, event tickets, airline boarding passes can be stored and easily accessed on your phone and now your Hawaii drivers license and state ID can be, too.",
+      "twitter:creator": "@hawaiinewsnow",
+      "article:sections_paths": "/news,/instagram,/news/top-story",
+      "article:publisher": "https://www.facebook.com/HawaiiNewsNow/",
+      "twitter:image": "https://gray-khnl-prod.gtv-cdn.com/resizer/v2/LBSWHAXFUJDMLHVBR5W3MFPTJA.jpg?auth=1c2bd041f9d5dad352472c4f74647aca2637128c6187d4bfa791d795dba01d33&width=1200&height=600&smart=true",
+      "twitter:site": "@hawaiinewsnow",
+      "article:modified_time": "2024-08-29T14:35:01.205Z",
+      "fb:admins": "644426401",
+      "article:has_video": "true",
+      "article:distributor_subcategory": "gray-original-content",
+      "og:type": "article",
+      "twitter:title": "You can now add your Hawaii driver\u2019s license, state ID to your phone. Here\u2019s how",
+      "article:section": "News",
+      "og:title": "You can now add your Hawaii driver\u2019s license, state ID to your phone. Here\u2019s how",
+      "googlebot-news": "index",
+      "fb:pages": "192156350478",
+      "fb:app_id": "211629172302975",
+      "apple-mobile-web-app-status-bar-style": "black-translucent",
+      "viewport": "width=device-width, minimum-scale=1, initial-scale=1, viewport-fit=cover",
+      "twitter:description": "Credit cards, event tickets, airline boarding passes can be stored and easily accessed on your phone and now your Hawaii drivers license and state ID can be, too.",
+      "og:locale": "en_US",
+      "article:distributor_category": "staff",
+      "article:distributor_name": "Gray TV Stations (English)",
+      "og:url": "https://www.hawaiinewsnow.com/2024/08/28/you-can-now-add-your-hawaii-drivers-license-state-id-your-apple-wallet-heres-how/",
+      "google-play-app": "app-id=com.raycom.hnn",
+      "taboola-section": "khnl",
+      "authors": "Annalisa Burgos,HNN Staff"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://gray-khnl-prod.gtv-cdn.com/resizer/v2/LBSWHAXFUJDMLHVBR5W3MFPTJA.jpg?auth=1c2bd041f9d5dad352472c4f74647aca2637128c6187d4bfa791d795dba01d33&width=1200&height=600&smart=true"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hawaii - mDL Connection",
+   "htmlTitle": "<b>Hawaii</b> - <b>mDL</b> Connection",
+   "link": "https://www.mdlconnection.com/implementation-tracker-map/hawaii/",
+   "displayLink": "www.mdlconnection.com",
+   "snippet": "Status: Interoperable Implementation in Progress. Short Description: mDL for Apple released August 2024. Resources: State's Web Page: Hawaii Mobile ID.",
+   "htmlSnippet": "Status: Interoperable Implementation in Progress. Short Description: <b>mDL</b> for Apple released August 2024. Resources: State&#39;s Web Page: <b>Hawaii Mobile ID</b>.",
+   "formattedUrl": "https://www.mdlconnection.com/implementation-tracker-map/hawaii/",
+   "htmlFormattedUrl": "https://www.<b>mdl</b>connection.com/implementation-tracker-map/<b>hawaii</b>/",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "mDL Connection",
+      "article:modified_time": "2025-07-09T18:33:54+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "Hawaii - mDL Connection",
+      "og:locale": "en_US",
+      "twitter:label1": "Est. reading time",
+      "og:url": "https://www.mdlconnection.com/implementation-tracker-map/hawaii/",
+      "msapplication-tileimage": "https://www.mdlconnection.com/wp-content/uploads/2020/04/cropped-mDLConnection-icon@2x-270x270.png",
+      "twitter:data1": "1 minute"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MDL Hawaii March 2023 - Smoothcomp",
+   "htmlTitle": "<b>MDL Hawaii</b> March 2023 - Smoothcomp",
+   "link": "https://smoothcomp.com/en/event/10786",
+   "displayLink": "smoothcomp.com",
+   "snippet": "Mar 25, 2025 ... Muay Thai Development League MDL Muay Thai sparring scrimmage for all ages and levels is back in Honolulu, Hawaii!",
+   "htmlSnippet": "Mar 25, 2025 <b>...</b> Muay Thai Development League <b>MDL</b> Muay Thai sparring scrimmage for all ages and levels is back in Honolulu, <b>Hawaii</b>!",
+   "formattedUrl": "https://smoothcomp.com/en/event/10786",
+   "htmlFormattedUrl": "https://smoothcomp.com/en/event/10786",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFyFqcTeCeMPbGF5jiB-5-vHshxlCVF9oxZzg8qeAeTYiDjVV7YCkn6Net&s",
+      "width": "368",
+      "height": "137"
+     }
+    ],
+    "SportsEvent": [
+     {
+      "image": "https://smoothcomp.com/pictures/t/2328119-ifm8/mdl-hawaii-march-2023.",
+      "endDate": "2023-03-25T20:00:00-10:00",
+      "name": "MDL Hawaii March 2023",
+      "description": "Muay Thai Development League MDL Muay Thai",
+      "startDate": "2023-03-25T08:00:00-10:00",
+      "url": "https://smoothcomp.com/en/event/10786"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#000000",
+      "og:image": "https://smoothcomp.com/pictures/t/2328102-89mm/mdl-hawaii-march-2023.",
+      "msapplication-config": "none",
+      "og:image:width": "1200",
+      "og:type": "website",
+      "theme-color": "#000000",
+      "og:site_name": "Smoothcomp",
+      "og:title": "MDL Hawaii March 2023",
+      "og:image:height": "447",
+      "og:description": "Muay Thai Development League MDL Muay Thai sparring scrimmage for all ages and levels is back in Honolulu, Hawaii!",
+      "viewport": "width=device-width, initial-scale=1",
+      "csrf-token": "ZpL7Ha0tPrRKISJLxo93asr9pWq7hYOMQuFeQVhA",
+      "og:url": "https://smoothcomp.com/en/event/10786"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://smoothcomp.com/pictures/t/2328102-89mm/mdl-hawaii-march-2023."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hawaii IDs Now Available in Apple Wallet : r/Hawaii",
+   "htmlTitle": "<b>Hawaii</b> IDs Now Available in Apple Wallet : r/<b>Hawaii</b>",
+   "link": "https://www.reddit.com/r/Hawaii/comments/1f3dj5i/hawaii_ids_now_available_in_apple_wallet/",
+   "displayLink": "www.reddit.com",
+   "snippet": "Aug 28, 2024 ... General TSA info on digital ID's https://www.tsa.gov/digital-id ... r/Hawaii - Apple Digital ID Verification. 8 upvotes \u00b7 20 comments. How\u00a0...",
+   "htmlSnippet": "Aug 28, 2024 <b>...</b> General TSA info on <b>digital ID&#39;s</b> https://www.tsa.gov/<b>digital-id</b> ... r/<b>Hawaii</b> - Apple <b>Digital ID</b> Verification. 8 upvotes \u00b7 20 comments. How&nbsp;...",
+   "formattedUrl": "https://www.reddit.com/.../Hawaii/.../hawaii_ids_now_available_in_apple_...",
+   "htmlFormattedUrl": "https://www.reddit.com/.../<b>Hawaii</b>/.../<b>hawaii</b>_ids_now_available_in_apple_...",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:image": "https://preview.redd.it/deleted-by-user-v0-13449mrs4fld1.png?width=1080&crop=smart&auto=webp&s=18949f60a7bfbf7d29d6990492a4071f85b3ecd7",
+      "theme-color": "#000000",
+      "og:image:width": "1080",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "r/Hawaii on Reddit: Hawaii IDs Now Available in Apple Wallet",
+      "og:site_name": "Reddit",
+      "og:title": "r/Hawaii on Reddit: Hawaii IDs Now Available in Apple Wallet",
+      "og:image:height": "2340",
+      "msapplication-navbutton-color": "#000000",
+      "og:description": "Posted by u/tytygh1010 - 251 votes and 114 comments",
+      "twitter:image": "https://preview.redd.it/deleted-by-user-v0-13449mrs4fld1.png?width=1080&crop=smart&auto=webp&s=18949f60a7bfbf7d29d6990492a4071f85b3ecd7",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "twitter:site": "@reddit",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "apple-mobile-web-app-capable": "yes",
+      "og:ttl": "600",
+      "og:url": "https://www.reddit.com/r/Hawaii/comments/1f3dj5i/hawaii_ids_now_available_in_apple_wallet/?seeker-session=true"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "UniCard Mobile ID",
+   "htmlTitle": "UniCard <b>Mobile ID</b>",
+   "link": "https://www.hpu.edu/registrar/uni-card/unicard-mobile-id.html",
+   "displayLink": "www.hpu.edu",
+   "snippet": "Mar 18, 2025 ... Remember, the Mobile ID is a privilege and benefit of being part of the Hawaii Pacific University ohana. Anyone found to be misusing their\u00a0...",
+   "htmlSnippet": "Mar 18, 2025 <b>...</b> Remember, the <b>Mobile ID</b> is a privilege and benefit of being part of the <b>Hawaii</b> Pacific University ohana. Anyone found to be misusing their&nbsp;...",
+   "formattedUrl": "https://www.hpu.edu/registrar/uni-card/unicard-mobile-id.html",
+   "htmlFormattedUrl": "https://www.hpu.edu/registrar/uni-card/unicard-<b>mobile-id</b>.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpCAKNlBVajRzArk13ZbqmuawjnLYxeSiNOvbEnoO-hzB7LKRz5wVfMP8&s",
+      "width": "380",
+      "height": "133"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.hpu.edu/_global/images/header-logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Apple Digital ID Verification : r/Hawaii",
+   "htmlTitle": "Apple <b>Digital ID</b> Verification : r/<b>Hawaii</b>",
+   "link": "https://www.reddit.com/r/Hawaii/comments/1fvp3a9/apple_digital_id_verification/",
+   "displayLink": "www.reddit.com",
+   "snippet": "Oct 4, 2024 ... Apple Digital ID Verification. r/Hawaii - Hawaii Enter\u00a0...",
+   "htmlSnippet": "Oct 4, 2024 <b>...</b> Apple <b>Digital ID</b> Verification. r/<b>Hawaii</b> - <b>Hawaii</b> Enter&nbsp;...",
+   "formattedUrl": "https://www.reddit.com/r/Hawaii/comments/.../apple_digital_id_verification...",
+   "htmlFormattedUrl": "https://www.reddit.com/r/<b>Hawaii</b>/comments/.../apple_<b>digital_id</b>_verification...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3WOfShafR8BB89f13bsAI9R8E91g5yWhz_ip3w0edybnE6-5KAmBXVWJH&s",
+      "width": "242",
+      "height": "209"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://preview.redd.it/apple-digital-id-verification-v0-676i9tjgjnsd1.jpeg?width=1080&crop=smart&auto=webp&s=d50d6133345a70a9e0f6a93f085f38e9d0f6eb7d",
+      "theme-color": "#000000",
+      "og:image:width": "1080",
+      "og:type": "website",
+      "og:image:alt": "Hawaii Enter Code Use the verification code you received from Hawaii DMV. Verification Code",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "r/Hawaii on Reddit: Apple Digital ID Verification",
+      "og:site_name": "Reddit",
+      "og:title": "r/Hawaii on Reddit: Apple Digital ID Verification",
+      "og:image:height": "933",
+      "msapplication-navbutton-color": "#000000",
+      "og:description": "Posted by u/Bes__ - 8 votes and 20 comments",
+      "twitter:image": "https://preview.redd.it/apple-digital-id-verification-v0-676i9tjgjnsd1.jpeg?width=1080&crop=smart&auto=webp&s=d50d6133345a70a9e0f6a93f085f38e9d0f6eb7d",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "twitter:site": "@reddit",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "apple-mobile-web-app-capable": "yes",
+      "og:ttl": "600",
+      "og:url": "https://www.reddit.com/r/Hawaii/comments/1fvp3a9/apple_digital_id_verification/?seeker-session=true"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://preview.redd.it/apple-digital-id-verification-v0-676i9tjgjnsd1.jpeg?width=1080&crop=smart&auto=webp&s=d50d6133345a70a9e0f6a93f085f38e9d0f6eb7d"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,541 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://www.pa.gov \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "30",
+    "searchTerms": "site:https://www.pa.gov \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://www.pa.gov \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "30",
+    "searchTerms": "site:https://www.pa.gov \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.104501,
+  "formattedSearchTime": "0.10",
+  "totalResults": "30",
+  "formattedTotalResults": "30"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Renew a Photo ID | Commonwealth of Pennsylvania",
+   "htmlTitle": "Renew a Photo ID | Commonwealth of Pennsylvania",
+   "link": "https://www.pa.gov/services/dmv/renew-a-photo-id.html",
+   "displayLink": "www.pa.gov",
+   "snippet": "Once you get your camera card, take it and your ID to any Photo Center for a new digital driver's license. ... digital ID. Return to top. Commonwealth of\u00a0...",
+   "htmlSnippet": "Once you get your camera card, take it and your ID to any Photo Center for a new <b>digital driver&#39;s license</b>. ... <b>digital ID</b>. Return to top. Commonwealth of&nbsp;...",
+   "formattedUrl": "https://www.pa.gov/services/dmv/renew-a-photo-id.html",
+   "htmlFormattedUrl": "https://www.pa.gov/services/dmv/renew-a-photo-id.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-N9jSOQzWHUvsIfZBCoEwCUW-8Pldus9zHUui_f7RpusjpkNMvcbemk7k&s",
+      "width": "279",
+      "height": "181"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "service-detail-template",
+      "og:image": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Renew a Photo ID",
+      "copapwp-service-category": "Driving & Transportation",
+      "copapwp-page-title": "Renew a Photo ID",
+      "twitter:url": "https://www.pa.gov/services/dmv/renew-a-photo-id.html",
+      "copapwp-agency": "Driver and Vehicle Services",
+      "og:title": "Renew a Photo ID",
+      "copapwp-service-type": "License or Permit or Registration or Certification",
+      "og:description": "You can renew a photo ID online or by going to a local online messenger service to have one processed.",
+      "twitter:image": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png",
+      "copapwp-description": "You can renew a photo ID online or by going to a local online messenger service to have one processed.",
+      "copapwp-hero-description": "You can renew a photo ID online, at a PennDOT driver license or photo center, or with a local online messenger service.",
+      "twitter:site": "website",
+      "copapwp-badges": "License or Permit or Registration or Certification;Driver and Vehicle Services;Driving & Transportation;",
+      "viewport": "width=device-width, initial-scale=1",
+      "copapwp-audience": "Driver;Resident",
+      "copapwp-content-type": "Service",
+      "twitter:description": "You can renew a photo ID online or by going to a local online messenger service to have one processed.",
+      "og:url": "https://www.pa.gov/services/dmv/renew-a-photo-id.html"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "Services",
+      "name": "Services",
+      "position": "1"
+     },
+     {
+      "name": "Renew a Photo ID",
+      "position": "2"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Instructions for Appeal: Act 48/Act 45",
+   "htmlTitle": "Instructions for Appeal: Act 48/Act 45",
+   "link": "https://www.pa.gov/content/dam/copapwp-pagov/en/education/documents/educators/certifications/fees-and-forms/pde%20338%20r-4.pdf",
+   "displayLink": "www.pa.gov",
+   "snippet": "Select \u201cSign.\u201d 8. After signing the form, save the PDF. If you do have an Adobe Digital ID, follow these steps: 1.",
+   "htmlSnippet": "Select \u201cSign.\u201d 8. After signing the form, save the PDF. If you do have an Adobe <b>Digital ID</b>, follow these steps: 1.",
+   "formattedUrl": "https://www.pa.gov/content/dam/copapwp.../pde%20338%20r-4.pdf",
+   "htmlFormattedUrl": "https://www.pa.gov/content/dam/copapwp.../pde%20338%20r-4.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20231128091709-05'00'",
+      "creationdate": "D:20171023094506-04'00'",
+      "creator": "Acrobat PDFMaker 17 for Word",
+      "itemretentionformula": "<formula id=\"Microsoft.Office.RecordsManagement.PolicyFeatures.Expiration.Formula.BuiltIn\"><number>1</number><property>Post_x0020_End_x0020_Date</property><propertyId>00000000-0000-0000-0000-000000000000</propertyId><period>days</period></formula>",
+      "sourcemodified": "D:20171023134459",
+      "_dlc_policyid": "/InsidePDE/Documents",
+      "author": "PA Department of Education",
+      "subject": "Request for Appeal",
+      "producer": "Adobe Acrobat Pro DC 17 Paper Capture Plug-in",
+      "company": "PA Department of Education",
+      "title": "PDE 338 R-4",
+      "contenttypeid": "0x010100545745096E880943ACB0FE4084512437"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Landscapes Features | Commonwealth of Pennsylvania",
+   "htmlTitle": "Landscapes Features | Commonwealth of Pennsylvania",
+   "link": "https://www.pa.gov/agencies/phmc/historic-preservation/education-outreach/pennsylvania-agricultural-history-project/field-guide-agricultural-resources/landscapes-features.html",
+   "displayLink": "www.pa.gov",
+   "snippet": "... Digital ID fsa8b14632. Contour Plowing: Contour Plowing follows the contours of hills and slopes of the terrain for the planting of crops. The technique was\u00a0...",
+   "htmlSnippet": "... <b>Digital ID</b> fsa8b14632. Contour Plowing: Contour Plowing follows the contours of hills and slopes of the terrain for the planting of crops. The technique was&nbsp;...",
+   "formattedUrl": "https://www.pa.gov/agencies/phmc/.../field.../landscapes-features.html",
+   "htmlFormattedUrl": "https://www.pa.gov/agencies/phmc/.../field.../landscapes-features.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-N9jSOQzWHUvsIfZBCoEwCUW-8Pldus9zHUui_f7RpusjpkNMvcbemk7k&s",
+      "width": "279",
+      "height": "181"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "agency-content-template",
+      "og:image": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Landscapes Features",
+      "copapwp-page-title": "Landscape Features",
+      "twitter:url": "https://www.pa.gov/agencies/phmc/historic-preservation/education-outreach/pennsylvania-agricultural-history-project/field-guide-agricultural-resources/landscapes-features.html",
+      "copapwp-agency": "Pennsylvania Historical and Museum Commission",
+      "og:title": "Landscapes Features",
+      "og:description": "Landscapes Features",
+      "twitter:image": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png",
+      "copapwp-description": "Landscape features are an important part of a farm's setting and often offer clues as to the agricultural practices, crop selection and specialization. The presence or absence of landscape features af...",
+      "copapwp-hero-description": "Landscape features are an important part of a farm's setting and often offer clues as to the agricultural practices, crop selection and specialization. The presence or absence of landscape features af...",
+      "twitter:site": "website",
+      "copapwp-badges": "Pennsylvania Historical and Museum Commission",
+      "viewport": "width=device-width, initial-scale=1",
+      "copapwp-content-type": "Agency Detail",
+      "twitter:description": "Landscapes Features",
+      "og:url": "https://www.pa.gov/agencies/phmc/historic-preservation/education-outreach/pennsylvania-agricultural-history-project/field-guide-agricultural-resources/landscapes-features.html"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "Agencies",
+      "name": "Agencies",
+      "position": "1"
+     },
+     {
+      "item": "Pennsylvania Historical and Museum Commission",
+      "name": "Pennsylvania Historical and Museum Commission",
+      "position": "2"
+     },
+     {
+      "item": "Pennsylvania State Historic Preservation Office",
+      "name": "Pennsylvania State Historic Preservation Office",
+      "position": "3"
+     },
+     {
+      "item": "Education and Outreach",
+      "name": "Education and Outreach",
+      "position": "4"
+     },
+     {
+      "item": "Pennsylvania Agricultural History Project",
+      "name": "Pennsylvania Agricultural History Project",
+      "position": "5"
+     },
+     {
+      "item": "Field Guide for Agricultural Resources",
+      "name": "Field Guide for Agricultural Resources",
+      "position": "6"
+     },
+     {
+      "name": "Landscapes Features",
+      "position": "7"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BEFORE THE INSURANCE DEPARTMENT OF THE ...",
+   "htmlTitle": "BEFORE THE INSURANCE DEPARTMENT OF THE ...",
+   "link": "https://www.pa.gov/content/dam/copapwp-pagov/en/insurance/documents/companies/industryactivity/corporatetransactionsofpublicinterest/documents/highmark-modification-2023/highmarksubmissionpid-5-22-24.pdf",
+   "displayLink": "www.pa.gov",
+   "snippet": "Cross Blue Shield Antitrust Litigation MDL 2406, N.D. Ala. Master File No. 2:13-cv-20000-RDP. As a point of clarification, however, Highmark is not making\u00a0...",
+   "htmlSnippet": "Cross Blue Shield Antitrust Litigation <b>MDL</b> 2406, N.D. Ala. Master File No. 2:13-cv-20000-RDP. As a point of clarification, however, Highmark is not making&nbsp;...",
+   "formattedUrl": "https://www.pa.gov/content/.../highmarksubmissionpid-5-22-24.pdf",
+   "htmlFormattedUrl": "https://www.pa.gov/content/.../highmarksubmissionpid-5-22-24.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20240522133135-04'00'",
+      "creationdate": "D:20240522124908-04'00'",
+      "creator": "Aspose Ltd.",
+      "producer": "Aspose.Pdf for .NET 17.8"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "TWS June 2025 Full Length Articles | Department of Military and ...",
+   "htmlTitle": "TWS June 2025 Full Length Articles | Department of Military and ...",
+   "link": "https://www.pa.gov/agencies/dmva/pennsylvania-veterans/forms-and-pubs/together-we-serve/together-we-serve---june-2025/tws-june-2025-full-length-articles.html",
+   "displayLink": "www.pa.gov",
+   "snippet": "Delaware Valley Veterans' Home, Gino J. Merli Veterans' Center, Pennsylvania Soldiers' and Sailors' Home, Southeastern Veterans' Center and Southwestern\u00a0...",
+   "htmlSnippet": "Delaware Valley Veterans&#39; Home, Gino J. Merli Veterans&#39; Center, Pennsylvania Soldiers&#39; and Sailors&#39; Home, Southeastern Veterans&#39; Center and Southwestern&nbsp;...",
+   "formattedUrl": "https://www.pa.gov/...we.../tws-june-2025-full-length-articles.html",
+   "htmlFormattedUrl": "https://www.pa.gov/...we.../tws-june-2025-full-length-articles.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-N9jSOQzWHUvsIfZBCoEwCUW-8Pldus9zHUui_f7RpusjpkNMvcbemk7k&s",
+      "width": "279",
+      "height": "181"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "agency-content-template",
+      "og:image": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "TWS June 2025 Full Length Articles",
+      "copapwp-page-title": "TWS June 2025 Full Length Articles",
+      "twitter:url": "https://www.pa.gov/agencies/dmva/pennsylvania-veterans/forms-and-pubs/together-we-serve/together-we-serve---june-2025/tws-june-2025-full-length-articles.html",
+      "copapwp-agency": "Department of Military and Veterans Affairs",
+      "og:title": "TWS June 2025 Full Length Articles",
+      "og:description": "TWS June 2025 Full Length Articles",
+      "twitter:image": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png",
+      "copapwp-description": "VA Announces $42 Million In Grants To Fight Veteran Homelessness",
+      "twitter:site": "website",
+      "copapwp-badges": "Department of Military and Veterans Affairs",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "TWS June 2025 Full Length Articles",
+      "og:url": "https://www.pa.gov/agencies/dmva/pennsylvania-veterans/forms-and-pubs/together-we-serve/together-we-serve---june-2025/tws-june-2025-full-length-articles.html"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "Agencies",
+      "name": "Agencies",
+      "position": "1"
+     },
+     {
+      "item": "Department of Military and Veterans Affairs",
+      "name": "Department of Military and Veterans Affairs",
+      "position": "2"
+     },
+     {
+      "item": "Veterans Affairs",
+      "name": "Veterans Affairs",
+      "position": "3"
+     },
+     {
+      "item": "Forms and Pubs",
+      "name": "Forms and Pubs",
+      "position": "4"
+     },
+     {
+      "item": "Together We Serve Archive",
+      "name": "Together We Serve Archive",
+      "position": "5"
+     },
+     {
+      "item": "Together We Serve - June 2025",
+      "name": "Together We Serve - June 2025",
+      "position": "6"
+     },
+     {
+      "name": "TWS June 2025 Full Length Articles",
+      "position": "7"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DCNR \u2013 Bendigo Complex",
+   "htmlTitle": "DCNR \u2013 Bendigo Complex",
+   "link": "https://www.pa.gov/content/dam/copapwp-pagov/en/dgs/documents/surplus/state/documents/dcnr/chapman.pdf",
+   "displayLink": "www.pa.gov",
+   "snippet": "Org code# Mfg/Make. Model #. Serial #. Item Description. Condition. 6104-001. Wayne Dalton MDL 822 22GA. ZZ14050468 (7'4\" x 9'5\"). Rolling garage door.",
+   "htmlSnippet": "Org code# Mfg/Make. Model #. Serial #. Item Description. Condition. 6104-001. Wayne Dalton <b>MDL</b> 822 22GA. ZZ14050468 (7&#39;4&quot; x 9&#39;5&quot;). Rolling garage door.",
+   "formattedUrl": "https://www.pa.gov/content/dam/copapwp-pagov/en/dgs/.../chapman.pdf",
+   "htmlFormattedUrl": "https://www.pa.gov/content/dam/copapwp-pagov/en/dgs/.../chapman.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjFc9gN6JTJ1wF8be9fRA6zgGnu8CRpBJ35Rlnls56uEmPh8uV-2i6Qrg&s",
+      "width": "259",
+      "height": "194"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20160414160003-04'00'",
+      "creationdate": "D:20160414160003-04'00'",
+      "creator": "Microsoft\u00ae PowerPoint\u00ae 2010",
+      "author": "Lebo, Kendra",
+      "producer": "Microsoft\u00ae PowerPoint\u00ae 2010",
+      "title": "DCNR \u2013 Bendigo Complex"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///ae0a3062b058971822aec62f13e6eb8be1d71281ebf1a7f2b04c239e6ec17f42"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Letter Health Consultation",
+   "htmlTitle": "Letter Health Consultation",
+   "link": "https://www.pa.gov/content/dam/copapwp-pagov/en/health/documents/topics/documents/environmental-health/PADOH%20Letter%20Health%20Consultation%20-%20Childcare%20Center%20Indoor%20Air%20VOCs.pdf",
+   "displayLink": "www.pa.gov",
+   "snippet": "Jan 17, 2024 ... For indoor air VOCs that 1) exceeded an ATSDR CV, 2) exceeded a Pennsylvania Department of. Environmental Protection (PADEP) screening value, or\u00a0...",
+   "htmlSnippet": "Jan 17, 2024 <b>...</b> For indoor air VOCs that 1) exceeded an ATSDR CV, 2) exceeded a Pennsylvania Department of. Environmental Protection (PADEP) screening value, or&nbsp;...",
+   "formattedUrl": "https://www.pa.gov/.../PADOH%20Letter%20Health%20Consultation%20-...",
+   "htmlFormattedUrl": "https://www.pa.gov/.../PADOH%20Letter%20Health%20Consultation%20-...",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20240125103637-05'00'",
+      "creator": "Microsoft\u00ae Word for Microsoft 365",
+      "creationdate": "D:20240125103637-05'00'",
+      "author": "McCray, Nathan",
+      "producer": "Microsoft\u00ae Word for Microsoft 365"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NPS Electronic Submission | Commonwealth of Pennsylvania",
+   "htmlTitle": "NPS Electronic Submission | Commonwealth of Pennsylvania",
+   "link": "https://www.pa.gov/agencies/phmc/historic-preservation/historic-tax-credits/nps-electronic-submission.html",
+   "displayLink": "www.pa.gov",
+   "snippet": "Application forms must include one of the following types of signature: Adobe digital ID(opens in a new tab) or an original signature that has been scanned as a\u00a0...",
+   "htmlSnippet": "Application forms must include one of the following types of signature: Adobe <b>digital ID</b>(opens in a new tab) or an original signature that has been scanned as a&nbsp;...",
+   "formattedUrl": "https://www.pa.gov/agencies/phmc/...tax.../nps-electronic-submission.html",
+   "htmlFormattedUrl": "https://www.pa.gov/agencies/phmc/...tax.../nps-electronic-submission.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-N9jSOQzWHUvsIfZBCoEwCUW-8Pldus9zHUui_f7RpusjpkNMvcbemk7k&s",
+      "width": "279",
+      "height": "181"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "agency-content-template",
+      "og:image": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "NPS Electronic Submission",
+      "copapwp-page-title": "NPS Electronic Submission",
+      "twitter:url": "https://www.pa.gov/agencies/phmc/historic-preservation/historic-tax-credits/nps-electronic-submission.html",
+      "copapwp-agency": "Pennsylvania Historical and Museum Commission",
+      "og:title": "NPS Electronic Submission",
+      "og:description": "NPS Electronic Submission",
+      "twitter:image": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png",
+      "copapwp-description": "Starting August 15, 2023, federal Historic Tax Credit (also known as Rehabilitation Investment Tax Credit) applications must be submitted to PA SHPO through PA-SHARE.",
+      "copapwp-hero-description": "Starting August 15, 2023, federal Historic Tax Credit (also known as Rehabilitation Investment Tax Credit) applications must be submitted to PA SHPO through PA-SHARE.",
+      "twitter:site": "website",
+      "copapwp-badges": "Pennsylvania Historical and Museum Commission",
+      "viewport": "width=device-width, initial-scale=1",
+      "copapwp-content-type": "Agency Detail",
+      "twitter:description": "NPS Electronic Submission",
+      "og:url": "https://www.pa.gov/agencies/phmc/historic-preservation/historic-tax-credits/nps-electronic-submission.html"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "Agencies",
+      "name": "Agencies",
+      "position": "1"
+     },
+     {
+      "item": "Pennsylvania Historical and Museum Commission",
+      "name": "Pennsylvania Historical and Museum Commission",
+      "position": "2"
+     },
+     {
+      "item": "Pennsylvania State Historic Preservation Office",
+      "name": "Pennsylvania State Historic Preservation Office",
+      "position": "3"
+     },
+     {
+      "item": "Historic Tax Credits",
+      "name": "Historic Tax Credits",
+      "position": "4"
+     },
+     {
+      "name": "NPS Electronic Submission",
+      "position": "5"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Executive Order 2023-08 \u2013 Bolstering Service Delivery through a ...",
+   "htmlTitle": "Executive Order 2023-08 \u2013 Bolstering Service Delivery through a ...",
+   "link": "https://www.pa.gov/content/dam/copapwp-pagov/en/oa/documents/policies/eo/2023-08.pdf",
+   "displayLink": "www.pa.gov",
+   "snippet": "Apr 25, 2023 ... Commonwealth that are available online. (2). Digitize Commonwealth services so that they are available to be included in a digital ID wallet.",
+   "htmlSnippet": "Apr 25, 2023 <b>...</b> Commonwealth that are available online. (2). Digitize Commonwealth services so that they are available to be included in a <b>digital ID</b> wallet.",
+   "formattedUrl": "https://www.pa.gov/content/dam/copapwp-pagov/en/oa/.../2023-08.pdf",
+   "htmlFormattedUrl": "https://www.pa.gov/content/dam/copapwp-pagov/en/oa/.../2023-08.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4WuJHgxtMhqCPqGul8O4s6qQa9_0kjrIrLfVDwx8ZRgLtWqJePO4f33o&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20230425165707-04'00'",
+      "creationdate": "D:20230425155413-04'00'",
+      "creator": "Acrobat PDFMaker 20 for Word",
+      "author": "Strom, Ellen",
+      "producer": "Adobe PDF Library 20.5.228",
+      "title": "2023-08 \u2013 Bolstering Service Delivery through a Digital Experience Strategy",
+      "contenttypeid": "0x010100F8B03EDA45A7724092F583276AD4820E"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///d6ce2a277cd7b7310f54e8d0c29bc33b3a1f9f8566f2338c12434678df497add"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "How to Interpret Water Test Results: A Guide for the Public",
+   "htmlTitle": "How to Interpret Water Test Results: A Guide for the Public",
+   "link": "https://www.pa.gov/content/dam/copapwp-pagov/en/health/documents/topics/documents/environmental-health/How%20to%20Interpret%20Water%20Test%20Results.pdf",
+   "displayLink": "www.pa.gov",
+   "snippet": "More than 3 million Pennsylvanians use private well water as their main water supply. To date, there are over 1 million private water wells in Pennsylvania\u00a0...",
+   "htmlSnippet": "More than 3 million Pennsylvanians use private well water as their main water supply. To date, there are over 1 million private water wells in Pennsylvania&nbsp;...",
+   "formattedUrl": "https://www.pa.gov/.../How%20to%20Interpret%20Water%20Test%20Resu...",
+   "htmlFormattedUrl": "https://www.pa.gov/.../How%20to%20Interpret%20Water%20Test%20Resu...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSapLPFWKdzmmJ4hhMrqrZALcoQ8Q1kTXO8wzWgoybiR_rXu5uT86uzXbBA&s",
+      "width": "197",
+      "height": "255"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20241018164046-04'00'",
+      "creationdate": "D:20241016163658-04'00'",
+      "creator": "Acrobat PDFMaker 24 for Word",
+      "_dlc_dociditemguid": "7a66619a-2aa0-4a55-acb3-c233d4df3506",
+      "author": "PA Department of Health",
+      "grammarlydocumentid": "1b2e0317ef772499a5eab347bfc46490c3ef8b77ab9376ebd4ca6773cc7f31eb",
+      "producer": "Adobe PDF Library 24.3.144",
+      "title": "How to Interpret Water Test Results: A Guide for the Public",
+      "contenttypeid": "0x01010002404473F52BA549A4D0ABD2A05A940C"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///5f3d58b2aafe1889543fde08cd934660a07a954879e533118f000a4bd85670da"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

@@ -1,0 +1,372 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://www.ncdot.gov/dmv \"driver's license\" OR \"identification card\"",
+    "totalResults": "64",
+    "searchTerms": "site:https://www.ncdot.gov/dmv \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://www.ncdot.gov/dmv \"driver's license\" OR \"identification card\"",
+    "totalResults": "64",
+    "searchTerms": "site:https://www.ncdot.gov/dmv \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.111747,
+  "formattedSearchTime": "0.11",
+  "totalResults": "64",
+  "formattedTotalResults": "64"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Official NCDMV: State IDs",
+   "htmlTitle": "Official NCDMV: State IDs",
+   "link": "https://www.ncdot.gov/dmv/license-id/identification/Pages/default.aspx",
+   "displayLink": "www.ncdot.gov",
+   "snippet": "Apr 16, 2025 ... \u200bNCDMV also offers an N.C. REAL ID identification card, which requires additional information and requirements. Applying for a North\u00a0...",
+   "htmlSnippet": "Apr 16, 2025 <b>...</b> \u200bNCDMV also offers an N.C. REAL ID <b>identification card</b>, which requires additional information and requirements. Applying for a North&nbsp;...",
+   "formattedUrl": "https://www.ncdot.gov/dmv/license-id/identification/Pages/default.aspx",
+   "htmlFormattedUrl": "https://www.ncdot.gov/dmv/license-id/identification/Pages/default.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS75Rs1GwS4obDVXdgqL3bTkh-lR2JTfsxNbWmjW996MOHWs8Qrc4Idupc&s",
+      "width": "358",
+      "height": "141"
+     }
+    ],
+    "metatags": [
+     {
+      "image": "https://www.ncdot.gov/Style%20Library/Images/NCDOT_Social_Image.jpg",
+      "og:image": "https://www.ncdot.gov/Style%20Library/Images/NCDOT_Social_Image.jpg",
+      "twitter:card": "summary",
+      "og:type": "website",
+      "twitter:site": "@NCDOT",
+      "og:site_name": "NCDOT",
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0",
+      "twitter:description": "NCDOT",
+      "twitter:creator": "@NCDOT",
+      "og:description": "NCDOT"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.ncdot.gov/news/RR_IMAGE_CATALOG/dmv/ren/ren-DMV33.jpg?RenditionID=17"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Official NCDMV: N.C. REAL ID",
+   "htmlTitle": "Official NCDMV: N.C. REAL ID",
+   "link": "https://www.ncdot.gov/dmv/license-id/nc-real-id/Pages/default.aspx",
+   "displayLink": "www.ncdot.gov",
+   "snippet": "Jun 25, 2025 ... You do not need a REAL ID driver license or identification card to do any of the following: Drive; Vote; Apply for or receive federal benefits\u00a0...",
+   "htmlSnippet": "Jun 25, 2025 <b>...</b> You do not need a REAL ID driver license or <b>identification card</b> to do any of the following: Drive; Vote; Apply for or receive federal benefits&nbsp;...",
+   "formattedUrl": "https://www.ncdot.gov/dmv/license-id/nc-real-id/Pages/default.aspx",
+   "htmlFormattedUrl": "https://www.ncdot.gov/dmv/license-id/nc-real-id/Pages/default.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfGgC_sc71h6JTZ2r0z7FdjR2WydSQd7n1InBjh6_vs1ytWZGntB1gjoWI&s",
+      "width": "277",
+      "height": "182"
+     }
+    ],
+    "metatags": [
+     {
+      "image": "https://www.ncdot.gov/Style%20Library/Images/NCDOT_Social_Image.jpg",
+      "og:image": "https://www.ncdot.gov/Style%20Library/Images/NCDOT_Social_Image.jpg",
+      "twitter:card": "summary",
+      "og:type": "website",
+      "twitter:site": "@NCDOT",
+      "og:site_name": "NCDOT",
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0",
+      "twitter:description": "NCDOT",
+      "twitter:creator": "@NCDOT",
+      "og:description": "NCDOT"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.ncdot.gov/news/RR_IMAGE_CATALOG/dmv/other/14_NC_O21_ID_Face%201.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Official NCDMV: Driving While Impaired",
+   "htmlTitle": "Official NCDMV: Driving While Impaired",
+   "link": "https://www.ncdot.gov/dmv/license-id/license-suspension/Pages/driving-while-impaired.aspx",
+   "displayLink": "www.ncdot.gov",
+   "snippet": "Apr 17, 2019 ... A driver's license will be revoked, at a minimum, for a year, if they are convicted of driving while impaired.",
+   "htmlSnippet": "Apr 17, 2019 <b>...</b> A <b>driver&#39;s license</b> will be revoked, at a minimum, for a year, if they are convicted of driving while impaired.",
+   "formattedUrl": "https://www.ncdot.gov/dmv/license-id/.../driving-while-impaired.aspx",
+   "htmlFormattedUrl": "https://www.ncdot.gov/dmv/license-id/.../driving-while-impaired.aspx",
+   "pagemap": {
+    "metatags": [
+     {
+      "image": "https://www.ncdot.gov/Style%20Library/Images/NCDOT_Social_Image.jpg",
+      "og:image": "https://www.ncdot.gov/Style%20Library/Images/NCDOT_Social_Image.jpg",
+      "twitter:card": "summary",
+      "og:type": "website",
+      "twitter:site": "@NCDOT",
+      "og:site_name": "NCDOT",
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0",
+      "twitter:description": "NCDOT",
+      "twitter:creator": "@NCDOT",
+      "og:description": "NCDOT"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.ncdot.gov/Style%20Library/Images/NCDOT_Social_Image.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DL-232 (02/17) APPLICATION FOR IDENTIFICATION CARD ...",
+   "htmlTitle": "DL-232 (02/17) APPLICATION FOR <b>IDENTIFICATION CARD</b> ...",
+   "link": "https://www.ncdot.gov/dmv/downloads/Documents/DL-232.pdf",
+   "displayLink": "www.ncdot.gov",
+   "snippet": "identification card FREE OF CHARGE. In order to obtain a free identification ... (1) Driver License or State-Issued. Identification Card from NC or another State,.",
+   "htmlSnippet": "<b>identification card</b> FREE OF CHARGE. In order to obtain a free <b>identification</b> ... (1) Driver License or State-Issued. <b>Identification Card</b> from NC or another State,.",
+   "formattedUrl": "https://www.ncdot.gov/dmv/downloads/Documents/DL-232.pdf",
+   "htmlFormattedUrl": "https://www.ncdot.gov/dmv/downloads/Documents/DL-232.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20170131172344-05'00'",
+      "creationdate": "D:20161013091230-04'00'",
+      "creator": "Microsoft\u00ae Word 2013",
+      "author": "Daniel Smith",
+      "producer": "Microsoft\u00ae Word 2013"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Official NCDMV: License Suspension",
+   "htmlTitle": "Official NCDMV: License Suspension",
+   "link": "https://www.ncdot.gov/dmv/license-id/license-suspension/Pages/default.aspx",
+   "displayLink": "www.ncdot.gov",
+   "snippet": "Mar 28, 2022 ... If a driver's license is suspended, their driving privilege is temporarily withdrawn for a specific period and may be reinstated once the terms of the\u00a0...",
+   "htmlSnippet": "Mar 28, 2022 <b>...</b> If a <b>driver&#39;s license</b> is suspended, their driving privilege is temporarily withdrawn for a specific period and may be reinstated once the terms of the&nbsp;...",
+   "formattedUrl": "https://www.ncdot.gov/dmv/license-id/license-suspension/.../default.aspx",
+   "htmlFormattedUrl": "https://www.ncdot.gov/dmv/license-id/license-suspension/.../default.aspx",
+   "pagemap": {
+    "metatags": [
+     {
+      "image": "https://www.ncdot.gov/Style%20Library/Images/NCDOT_Social_Image.jpg",
+      "og:image": "https://www.ncdot.gov/Style%20Library/Images/NCDOT_Social_Image.jpg",
+      "twitter:card": "summary",
+      "og:type": "website",
+      "twitter:site": "@NCDOT",
+      "og:site_name": "NCDOT",
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0",
+      "twitter:description": "NCDOT",
+      "twitter:creator": "@NCDOT",
+      "og:description": "NCDOT"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.ncdot.gov/Style%20Library/Images/NCDOT_Social_Image.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NORTH CAROLINA DIVISION OF MOTOR VEHICLES TEMPORARY ...",
+   "htmlTitle": "NORTH CAROLINA DIVISION OF MOTOR VEHICLES TEMPORARY ...",
+   "link": "https://www.ncdot.gov/dmv/downloads/Documents/out-of-state-renewal-packet.pdf",
+   "displayLink": "www.ncdot.gov",
+   "snippet": "driver's license issued by the Division to a person who meets any of the ... of-state driver license/identification card(s). Do you want to proceed\u00a0...",
+   "htmlSnippet": "<b>driver&#39;s license</b> issued by the Division to a person who meets any of the ... of-state driver license/<b>identification card</b>(s). Do you want to proceed&nbsp;...",
+   "formattedUrl": "https://www.ncdot.gov/dmv/downloads/.../out-of-state-renewal-packet.pdf",
+   "htmlFormattedUrl": "https://www.ncdot.gov/dmv/downloads/.../out-of-state-renewal-packet.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9FfTV-CkXJuV8KMoLe9dIP7AddwxoAuOCfqBg3GxO6_eBB-V8wtrkl0C&s",
+      "width": "191",
+      "height": "199"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20240703152546-04'00'",
+      "creationdate": "D:20210112151052-05'00'",
+      "creator": "Acrobat PDFMaker 20 for Word",
+      "lastsaved": "D:20200203",
+      "sourcemodified": "D:20210112195140",
+      "author": "DMV",
+      "created": "D:20190220",
+      "producer": "Adobe PDF Library 20.6.74"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///634a5882bc39a294c1fa2205f15d0dc54e658843b71dd0379471c088edc0af00"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "North Carolina Division of Motor Vehicles Sex Designation Form",
+   "htmlTitle": "North Carolina Division of Motor Vehicles Sex Designation Form",
+   "link": "https://www.ncdot.gov/dmv/downloads/Documents/DL-300.pdf",
+   "displayLink": "www.ncdot.gov",
+   "snippet": "Jan 28, 2019 ... I wish to designate or change the sex on my driver's license / identification card to read: Male. Female. (Circle One). I hereby certify under\u00a0...",
+   "htmlSnippet": "Jan 28, 2019 <b>...</b> I wish to designate or change the sex on my <b>driver&#39;s license</b> / <b>identification card</b> to read: Male. Female. (Circle One). I hereby certify under&nbsp;...",
+   "formattedUrl": "https://www.ncdot.gov/dmv/downloads/Documents/DL-300.pdf",
+   "htmlFormattedUrl": "https://www.ncdot.gov/dmv/downloads/Documents/DL-300.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20190129121408-05'00'",
+      "creationdate": "D:20190129115703-05'00'",
+      "creator": "PScript5.dll Version 5.2.2",
+      "author": "tlrice1",
+      "producer": "Acrobat Distiller 11.0 (Windows)",
+      "title": "Microsoft Word - Gender Designation Form.Final.2019-01-28.docx"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Official NCDMV: N.C. REAL ID Requirements",
+   "htmlTitle": "Official NCDMV: N.C. REAL ID Requirements",
+   "link": "https://www.ncdot.gov/dmv/license-id/nc-real-id/Pages/requirements.aspx",
+   "displayLink": "www.ncdot.gov",
+   "snippet": "Jun 25, 2025 ... \u200bA valid, unexpired REAL ID driver license or identification card issued from a REAL ID compliant state, \u200b. Social Security Number. Requirement\u00a0...",
+   "htmlSnippet": "Jun 25, 2025 <b>...</b> \u200bA valid, unexpired REAL ID driver license or <b>identification card</b> issued from a REAL ID compliant state, \u200b. Social Security Number. Requirement&nbsp;...",
+   "formattedUrl": "https://www.ncdot.gov/dmv/license-id/nc-real-id/.../requirements.aspx",
+   "htmlFormattedUrl": "https://www.ncdot.gov/dmv/license-id/nc-real-id/.../requirements.aspx",
+   "pagemap": {
+    "metatags": [
+     {
+      "image": "https://www.ncdot.gov/Style%20Library/Images/NCDOT_Social_Image.jpg",
+      "og:image": "https://www.ncdot.gov/Style%20Library/Images/NCDOT_Social_Image.jpg",
+      "twitter:card": "summary",
+      "og:type": "website",
+      "twitter:site": "@NCDOT",
+      "og:site_name": "NCDOT",
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0",
+      "twitter:description": "NCDOT",
+      "twitter:creator": "@NCDOT",
+      "og:description": "NCDOT"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.ncdot.gov/Style%20Library/Images/NCDOT_Social_Image.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Official NCDMV: Payment Methods",
+   "htmlTitle": "Official NCDMV: Payment Methods",
+   "link": "https://www.ncdot.gov/dmv/help/Pages/payment-methods.aspx",
+   "displayLink": "www.ncdot.gov",
+   "snippet": "Mar 14, 2025 ... Be made payable to NCDMV; Be accompanied by a valid driver license or identification card, U.S. Passport, or U.S. Military ID; Be written in\u00a0...",
+   "htmlSnippet": "Mar 14, 2025 <b>...</b> Be made payable to NCDMV; Be accompanied by a valid driver license or <b>identification card</b>, U.S. Passport, or U.S. Military ID; Be written in&nbsp;...",
+   "formattedUrl": "https://www.ncdot.gov/dmv/help/Pages/payment-methods.aspx",
+   "htmlFormattedUrl": "https://www.ncdot.gov/dmv/help/Pages/payment-methods.aspx",
+   "pagemap": {
+    "metatags": [
+     {
+      "image": "https://www.ncdot.gov/Style%20Library/Images/NCDOT_Social_Image.jpg",
+      "og:image": "https://www.ncdot.gov/Style%20Library/Images/NCDOT_Social_Image.jpg",
+      "twitter:card": "summary",
+      "og:type": "website",
+      "twitter:site": "@NCDOT",
+      "og:site_name": "NCDOT",
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0",
+      "twitter:description": "NCDOT",
+      "twitter:creator": "@NCDOT",
+      "og:description": "NCDOT"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.ncdot.gov/Style%20Library/Images/NCDOT_Social_Image.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Official NCDMV: Proving Age & Identity",
+   "htmlTitle": "Official NCDMV: Proving Age &amp; Identity",
+   "link": "https://www.ncdot.gov/dmv/help/Pages/proving-identity.aspx",
+   "displayLink": "www.ncdot.gov",
+   "snippet": "Jan 20, 2021 ... A valid, unexpired REAL ID driver license or identification card issued from a REAL ID compliant state. \u200b. \u200bAcceptable for REAL ID. \u200bMotor\u00a0...",
+   "htmlSnippet": "Jan 20, 2021 <b>...</b> A valid, unexpired REAL ID driver license or <b>identification card</b> issued from a REAL ID compliant state. \u200b. \u200bAcceptable for REAL ID. \u200bMotor&nbsp;...",
+   "formattedUrl": "https://www.ncdot.gov/dmv/help/Pages/proving-identity.aspx",
+   "htmlFormattedUrl": "https://www.ncdot.gov/dmv/help/Pages/proving-identity.aspx",
+   "pagemap": {
+    "metatags": [
+     {
+      "image": "https://www.ncdot.gov/Style%20Library/Images/NCDOT_Social_Image.jpg",
+      "og:image": "https://www.ncdot.gov/Style%20Library/Images/NCDOT_Social_Image.jpg",
+      "twitter:card": "summary",
+      "og:type": "website",
+      "twitter:site": "@NCDOT",
+      "og:site_name": "NCDOT",
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0",
+      "twitter:description": "NCDOT",
+      "twitter:creator": "@NCDOT",
+      "og:description": "NCDOT"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.ncdot.gov/Style%20Library/Images/NCDOT_Social_Image.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

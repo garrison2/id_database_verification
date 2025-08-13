@@ -1,0 +1,395 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Washington\" \"data breach\" law",
+    "totalResults": "575000",
+    "searchTerms": "\"Washington\" \"data breach\" law",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Washington\" \"data breach\" law",
+    "totalResults": "575000",
+    "searchTerms": "\"Washington\" \"data breach\" law",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.205121,
+  "formattedSearchTime": "0.21",
+  "totalResults": "575000",
+  "formattedTotalResults": "575,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Washington's Data Breach Notification Laws | Washington State",
+   "htmlTitle": "<b>Washington&#39;s Data Breach Notification</b> Laws | Washington State",
+   "link": "https://www.atg.wa.gov/washington-s-data-breach-notification-laws",
+   "displayLink": "www.atg.wa.gov",
+   "snippet": "Washington has two data breach notification laws: RCW 19.255 applies to individuals and businesses; and RCW 42.56.590 applies to local and state agencies.",
+   "htmlSnippet": "<b>Washington</b> has two <b>data breach notification laws</b>: RCW 19.255 applies to individuals and businesses; and RCW 42.56.590 applies to local and state agencies.",
+   "formattedUrl": "https://www.atg.wa.gov/washington-s-data-breach-notification-laws",
+   "htmlFormattedUrl": "https://www.atg.wa.gov/<b>washington</b>-s-<b>data-breach</b>-notification-<b>law</b>s",
+   "pagemap": {
+    "WebPage": [
+     {
+      "name": "Washington\u2019s Data Breach Notification Laws",
+      "text": "Washington has two data breach notification laws: RCW 19.255 applies to individuals and businesses; and RCW 42.56.590 applies to local and state agencies. The two laws, originally enacted in..."
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "RCW 19.255.010: Personal information\u2014Notice of security breaches.",
+   "htmlTitle": "RCW 19.255.010: Personal information\u2014Notice of security breaches.",
+   "link": "https://app.leg.wa.gov/rcw/default.aspx?cite=19.255.010",
+   "displayLink": "app.leg.wa.gov",
+   "snippet": "The legislature intends to strengthen the data breach notification requirements to better safeguard personal information, prevent identity theft, and ensure\u00a0...",
+   "htmlSnippet": "The legislature intends to strengthen the <b>data breach notification</b> requirements to better safeguard personal information, prevent identity theft, and ensure&nbsp;...",
+   "formattedUrl": "https://app.leg.wa.gov/rcw/default.aspx?cite=19.255.010",
+   "htmlFormattedUrl": "https://app.leg.wa.gov/rcw/default.aspx?cite=19.255.010",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Data Breach Notifications Directory | Washington State",
+   "htmlTitle": "<b>Data Breach</b> Notifications Directory | <b>Washington</b> State",
+   "link": "https://www.atg.wa.gov/data-breach-notifications",
+   "displayLink": "www.atg.wa.gov",
+   "snippet": "Washington State Data Breach Notification Law \u00b7 Data Breach Reports \u00b7 Data Breach Resources \u00b7 Data Breach Notification Form: Electronically report a data breach.",
+   "htmlSnippet": "<b>Washington</b> State <b>Data Breach Notification Law</b> &middot; <b>Data Breach</b> Reports &middot; <b>Data Breach</b> Resources &middot; <b>Data Breach Notification</b> Form: Electronically report a <b>data breach</b>.",
+   "formattedUrl": "https://www.atg.wa.gov/data-breach-notifications",
+   "htmlFormattedUrl": "https://www.atg.wa.gov/<b>data-breach</b>-notifications",
+   "pagemap": {
+    "WebPage": [
+     {
+      "name": "Data Breach Notifications Directory",
+      "text": "Data breach notices submitted to our office in accordance with RCW 19.255 and RCW 42.56.590 are published in the table below for public education purposes. To read a notice, click on the name..."
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Washington Data Breach Notification Statute Summary",
+   "htmlTitle": "<b>Washington Data Breach Notification</b> Statute Summary",
+   "link": "https://lewisbrisbois.com/privacy/US/Washington/data-breach",
+   "displayLink": "lewisbrisbois.com",
+   "snippet": "Established in 1979, Lewis Brisbois Bisgaard & Smith LLP is a full-service AmLaw 100 law firm with offices across the U.S.. ... Washington Data Breach\u00a0...",
+   "htmlSnippet": "Established in 1979, Lewis Brisbois Bisgaard &amp; Smith LLP is a full-service AmLaw 100 <b>law</b> firm with offices across the U.S.. ... <b>Washington Data Breach</b>&nbsp;...",
+   "formattedUrl": "https://lewisbrisbois.com/privacy/US/Washington/data-breach",
+   "htmlFormattedUrl": "https://lewisbrisbois.com/privacy/US/<b>Washington</b>/<b>data-breach</b>",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJvpGPwzWodYMXmW-GJ3HdC0fBCWsfTzvgxD8XMclqUM4vDqbL6iZ18Q&s",
+      "width": "200",
+      "height": "108"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "initial-scale=1, user-scalable=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://lewisbrisbois.com/assets/images/LB-Logo-new.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Requirements of the District's Data Breach Notification Law ...",
+   "htmlTitle": "Requirements of the District&#39;s <b>Data Breach Notification Law</b> ...",
+   "link": "https://oag.dc.gov/about-oag/laws-legal-opinions/requirements-districts-data-breach-notification",
+   "displayLink": "oag.dc.gov",
+   "snippet": "... data breach notification law. The law now covers a person's first name ... Monday to Friday, 8:30 a.m. to 5:00 p.m.. 400 6th Street, NW, Washington, DC\u00a0...",
+   "htmlSnippet": "... <b>data breach notification law</b>. The <b>law</b> now covers a person&#39;s first name ... Monday to Friday, 8:30 a.m. to 5:00 p.m.. 400 6th Street, NW, <b>Washington</b>, DC&nbsp;...",
+   "formattedUrl": "https://oag.dc.gov/.../laws.../requirements-districts-data-breach-notification",
+   "htmlFormattedUrl": "https://oag.dc.gov/.../<b>law</b>s.../requirements-districts-<b>data-breach</b>-notification",
+   "pagemap": {
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#2b5797",
+      "msapplication-config": "/browserconfig.xml",
+      "twitter:card": "summary",
+      "twitter:title": "Requirements of the District\u2019s Data Breach Notification Law",
+      "theme-color": "#ffffff",
+      "twitter:site": "@DCAttorneyGen",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width",
+      "twitter:image": "https://oag.dc.gov/themes/custom/oagdc/logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Washington | Summary of U.S. State Data Breach Notification ...",
+   "htmlTitle": "<b>Washington</b> | Summary of U.S. State <b>Data Breach Notification</b> ...",
+   "link": "https://www.dwt.com/gcp/states/washington",
+   "displayLink": "www.dwt.com",
+   "snippet": "... data breach notification laws o. ... notify the Washington Attorney General (see Reporting to Government or Regulatory Agencies):.",
+   "htmlSnippet": "... <b>data breach notification laws</b> o. ... notify the <b>Washington</b> Attorney General (see Reporting to Government or Regulatory Agencies):.",
+   "formattedUrl": "https://www.dwt.com/gcp/states/washington",
+   "htmlFormattedUrl": "https://www.dwt.com/gcp/states/<b>washington</b>",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQArxVtHGmElmy7pYzBi0oqdsRhl3SCW0y6FnetFev3MUQPWH0yvLtp-2x5&s",
+      "width": "311",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dwt.com/-/media/images/general/2024_dwt_social-card_d.png?rev=3cbd51c0d23947028213d6c4b8a58f87&hash=B31D8C503C79D862B4D05F5FD7895D5D",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Washington | Summary of U.S. State Data Breach Notification Statutes | Davis Wright Tremaine",
+      "og:title": "Washington | Summary of U.S. State Data Breach Notification Statutes | Davis Wright Tremaine",
+      "oni_itemid": "efa057b4-3a66-42bd-9929-1e02cf3861b1",
+      "oni_name": "Washington",
+      "title": "Washington | Summary of U.S. State Data Breach Notification Statutes",
+      "og:description": "This summary is for informational purposes only. It provides general information and not legal advice or opinions regarding specific facts. Additional requirements or conditions may apply to any or all provisions referenced herein. For more information about the state data breach notification laws o",
+      "twitter:image:src": "https://www.dwt.com/-/media/images/general/2024_dwt_social-card_d.png?rev=3cbd51c0d23947028213d6c4b8a58f87&hash=B31D8C503C79D862B4D05F5FD7895D5D",
+      "oni_language": "en",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "This summary is for informational purposes only. It provides general information and not legal advice or opinions regarding specific facts. Additional requirements or conditions may apply to any or all provisions referenced herein. For more information about the state data breach notification laws o",
+      "oni_section": "other",
+      "og:url": "https://www.dwt.com/gcp/states/washington"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dwt.com/-/media/images/general/2024_dwt_social-card_d.png?rev=3cbd51c0d23947028213d6c4b8a58f87&hash=B31D8C503C79D862B4D05F5FD7895D5D"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Data Breach Notifications Affecting Washington Residents (Personal ...",
+   "htmlTitle": "<b>Data Breach</b> Notifications Affecting <b>Washington</b> Residents (Personal ...",
+   "link": "https://catalog.data.gov/dataset/data-breach-notifications-affecting-washington-residents-personal-information-breakdown",
+   "displayLink": "catalog.data.gov",
+   "snippet": "Washington law requires entities impacted by a data breach to notify the Attorney General's Office (AGO) when more than 500 Washingtonians personal\u00a0...",
+   "htmlSnippet": "<b>Washington law</b> requires entities impacted by a <b>data breach</b> to notify the Attorney General&#39;s Office (AGO) when more than 500 Washingtonians personal&nbsp;...",
+   "formattedUrl": "https://catalog.data.gov/.../data-breach-notifications-affecting-washington-r...",
+   "htmlFormattedUrl": "https://catalog.data.gov/.../<b>data-breach</b>-notifications-affecting-<b>washington</b>-r...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Jb9IzF2s5Dodr9wJH_ZSDWglk6_Pd6tcYUWQytLSDKM6x8GjVY3CVBA&s",
+      "width": "227",
+      "height": "222"
+     }
+    ],
+    "person": [
+     {
+      "email": "Imamura, Kaya (ATG)"
+     }
+    ],
+    "organization": [
+     {
+      "name": "data.wa.gov"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://s3-us-gov-west-1.amazonaws.com/cg-0817d6e3-93c4-4de8-8b32-da6919464e61/hero-image-bg.png",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "State of Washington - Data Breach Notifications Affecting Washington Residents (Personal Information Breakdown)",
+      "twitter:domain": "data.gov",
+      "twitter:url": "https://data.gov",
+      "og:title": "State of Washington - Data Breach Notifications Affecting Washington Residents (Personal Information Breakdown)",
+      "_csrf_token": "IjYyZjhlOWRhY2MyNTZiMWNiMDQyYzgwMWZhNDg5MzJkYmM2ODk1M2Ui.aJLCIw.0wEGN80EUU4j5UAWNYawJwkdcOw",
+      "og:description": "Washington law requires entities impacted by a data breach to notify the Attorney General\u2019s Office (AGO) when more than 500 Washingtonians personal information was compromised...",
+      "twitter:image": "https://s3-us-gov-west-1.amazonaws.com/cg-0817d6e3-93c4-4de8-8b32-da6919464e61/hero-image-bg.png",
+      "csrf_field_name": "_csrf_token",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Washington law requires entities impacted by a data breach to notify the Attorney General\u2019s Office (AGO) when more than 500 Washingtonians personal information was compromised...",
+      "og:url": "https://data.gov"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://s3-us-gov-west-1.amazonaws.com/cg-0817d6e3-93c4-4de8-8b32-da6919464e61/hero-image-bg.png"
+     }
+    ],
+    "dataset": [
+     {
+      "datemodified": "August 2, 2025",
+      "name": "Data Breach Notifications Affecting Washington Residents (Personal Information Breakdown)",
+      "description": "Washington law requires entities impacted by a data breach to notify the Attorney General\u2019s Office (AGO) when more than 500 Washingtonians personal information was compromised as a result..."
+     }
+    ],
+    "datadownload": [
+     {
+      "contenturl": "Comma Separated Values FileCSV"
+     },
+     {
+      "contenturl": "RDF FileRDF"
+     },
+     {
+      "contenturl": "JSON FileJSON"
+     },
+     {
+      "contenturl": "XML FileXML"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Washington Data Breach Notification Law (HB 1071): Key ...",
+   "htmlTitle": "<b>Washington Data Breach Notification</b> Law (HB 1071): Key ...",
+   "link": "https://hyperproof.io/washington-data-breach-notification-law-hb1017/",
+   "displayLink": "hyperproof.io",
+   "snippet": "Passed in 2019, Washington state's new data breach notification law, known as \u201cHB 1071\u201d, expands the circumstances in which organization must disclose certain\u00a0...",
+   "htmlSnippet": "Passed in 2019, <b>Washington</b> state&#39;s new <b>data breach notification law</b>, known as \u201cHB 1071\u201d, expands the circumstances in which organization must disclose certain&nbsp;...",
+   "formattedUrl": "https://hyperproof.io/washington-data-breach-notification-law-hb1017/",
+   "htmlFormattedUrl": "https://hyperproof.io/<b>washington</b>-<b>data-breach</b>-notification-<b>law</b>-hb1017/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR7Y642F00fNTT6g9VCzwziaIk3MS0KyOgJuvgspZlwbROpjjmg2PajlM&s",
+      "width": "303",
+      "height": "166"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://hyperproof.io/wp-content/uploads/2023/06/framework-resource_thumbnail_WA_Data_Breach.png",
+      "og:type": "article",
+      "og:image:width": "953",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Hyperproof",
+      "og:title": "Washington Data Breach Notification Law (HB 1071)",
+      "og:image:height": "525",
+      "twitter:label1": "Est. reading time",
+      "og:image:type": "image/png",
+      "msapplication-tileimage": "https://hyperproof.io/wp-content/uploads/2023/07/cropped-logomark-hyperproof-2013-270x270.png",
+      "og:description": "HB 1071 expands the circumstances in which Washington-based organizations must disclose certain data security incidents. See what your business needs to do to comply.",
+      "article:publisher": "https://business.facebook.com/hyperproof/",
+      "twitter:data1": "7 minutes",
+      "formguard-verify": "b029e689ebbce3ef5cd28536e9c84c9fa704507e5268eac2",
+      "twitter:site": "@hyperproof",
+      "article:modified_time": "2024-09-25T16:59:19+00:00",
+      "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://hyperproof.io/washington-data-breach-notification-law-hb1017/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://hyperproof.io/wp-content/uploads/2023/06/framework-resource_thumbnail_WA_Data_Breach.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Data Breach Notifications Affecting Washington Residents | Data.WA ...",
+   "htmlTitle": "<b>Data Breach</b> Notifications Affecting <b>Washington</b> Residents | Data.WA ...",
+   "link": "https://data.wa.gov/Consumer-Protection/Data-Breach-Notifications-Affecting-Washington-Res/sb4j-ca4h",
+   "displayLink": "data.wa.gov",
+   "snippet": "... Data Breach Notifications Affecting Washington Residents. Consumer Protection. Washington law requires entities impacted by a data breach to notify the\u00a0...",
+   "htmlSnippet": "... <b>Data Breach</b> Notifications Affecting <b>Washington</b> Residents. Consumer Protection. <b>Washington law</b> requires entities impacted by a <b>data breach</b> to notify the&nbsp;...",
+   "formattedUrl": "https://data.wa.gov/Consumer.../Data-Breach...Washington-Res/sb4j-ca4h",
+   "htmlFormattedUrl": "https://data.wa.gov/Consumer.../<b>Data-Breach</b>...<b>Washington</b>-Res/sb4j-ca4h",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0",
+      "csrf-token": "Zz6eu5o39QcaQ0lNMLfac8ie5xEjo71jj-Q-D0Z83sBpVbk8BwUsqLAGAMVbNE_ZKyVkZCE2QwRlKXcZz1V94g",
+      "page_name": "Primer",
+      "csrf-param": "authenticity_token"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "WASHINGTON STATE ATTORNEY GENERAL'S OFFICE",
+   "htmlTitle": "<b>WASHINGTON</b> STATE ATTORNEY GENERAL&#39;S OFFICE",
+   "link": "https://agportal-s3bucket.s3.amazonaws.com/DBR2022%20v5.pdf",
+   "displayLink": "agportal-s3bucket.s3.amazonaws.com",
+   "snippet": "Previous reports included recommendations for strengthening Washington's data breach laws. I proposed several of these recommendations as Attorney General\u00a0...",
+   "htmlSnippet": "Previous reports included recommendations for strengthening <b>Washington&#39;s data breach laws</b>. I proposed several of these recommendations as Attorney General&nbsp;...",
+   "formattedUrl": "https://agportal-s3bucket.s3.amazonaws.com/DBR2022%20v5.pdf",
+   "htmlFormattedUrl": "https://agportal-s3bucket.s3.amazonaws.com/DBR2022%20v5.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkcfmjYT-YtlDKZkxmgZF0JljxLuM41zDkZEcbz_2BWW9GO8oAfQQ_6q3g&s",
+      "width": "261",
+      "height": "193"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20221103164148-07'00'",
+      "creationdate": "D:20221103164013-07'00'",
+      "creator": "Adobe InDesign 17.2 (Windows)",
+      "producer": "Adobe PDF Library 16.0.7"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///ad855f8529ac02d937b71921013ff43e71ccb288462c8ec4675b8fe4b96c4b3e"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

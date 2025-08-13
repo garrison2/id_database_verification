@@ -1,0 +1,386 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Oregon Revised Statutes\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "1110",
+    "searchTerms": "\"Oregon Revised Statutes\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Oregon Revised Statutes\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "1110",
+    "searchTerms": "\"Oregon Revised Statutes\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.134376,
+  "formattedSearchTime": "0.13",
+  "totalResults": "1110",
+  "formattedTotalResults": "1,110"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "ORS 802.175 to 802.191",
+   "htmlTitle": "ORS 802.175 to 802.191",
+   "link": "https://www.oregonlegislature.gov/bills_laws/ors/ors802.html",
+   "displayLink": "www.oregonlegislature.gov",
+   "snippet": "(1) \u201cMotor vehicle record\u201d means any record that pertains to a grant of driving privileges, an identification card issued by the Department of Transportation, a\u00a0...",
+   "htmlSnippet": "(1) \u201cMotor vehicle record\u201d <b>means</b> any record that pertains to a grant of driving privileges, an <b>identification card</b> issued by the Department of Transportation, a&nbsp;...",
+   "formattedUrl": "https://www.oregonlegislature.gov/bills_laws/ors/ors802.html",
+   "htmlFormattedUrl": "https://www.oregonlegislature.gov/bills_laws/ors/ors802.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ORS 802.175 \u2013 Definitions for ORS 802.175 to 802.191",
+   "htmlTitle": "ORS 802.175 \u2013 Definitions for ORS 802.175 to 802.191",
+   "link": "https://oregon.public.law/statutes/ors_802.175",
+   "displayLink": "oregon.public.law",
+   "snippet": "(3). \u201cPersonal information\u201d means the following information that identifies an individual: (a). Driver license, driver permit or identification card number;\u00a0...",
+   "htmlSnippet": "(3). \u201c<b>Personal information</b>\u201d <b>means</b> the following information that identifies an individual: (a). Driver license, driver permit or <b>identification card</b> number;&nbsp;...",
+   "formattedUrl": "https://oregon.public.law/statutes/ors_802.175",
+   "htmlFormattedUrl": "https://oregon.public.law/statutes/ors_802.175",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvX-hCUJSvOnYxwK0gpR0JymRYP3YZvjlsizWXNx6v8dbg0i4LaS34Y8o&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:determiner": "the",
+      "og:image": "https://oregon.public.law/assets/jurisdiction/256x256/oregon-178e7f7dd689fa81d78879372c59764dd65e7a08331c87f39f8232d2a004a913.png",
+      "twitter:card": "summary",
+      "og:image:width": "256",
+      "og:site_name": "OregonLaws",
+      "msapplication-wide310x150logo": "https://oregon.public.law/assets/favicon/mstile-310x150-ae54f5e235f629e5bbc1b3787980a0a0c790ccaaf7e6153f46e35480b9460a78.png",
+      "og:image:type": "image/png",
+      "title": "ORS 802.175 \u2013 Definitions for ORS 802.175 to 802.191",
+      "msapplication-tileimage": "https://oregon.public.law/assets/favicon/mstile-144x144-1ff51a60a42438151b0aa8d2b8ecdaa867d9af9ede744983626c8263eb9051c5.png",
+      "og:description": "As used in ORS 802.175 (Definitions for ORS 802.175 to 802.191) to 802.191 (Civil action for violation of ORS 802.175 to 802.187),\u2026",
+      "twitter:image": "https://oregon.public.law/assets/jurisdiction/oregon-c954d87af14b523b19b292236af483242aa1ca9007e0b96080fd9afcd3928858.png",
+      "twitter:image:alt": "Oregon icon",
+      "twitter:site": "@law_is_code",
+      "msapplication-square310x310logo": "https://oregon.public.law/assets/favicon/mstile-310x310-c954d87af14b523b19b292236af483242aa1ca9007e0b96080fd9afcd3928858.png",
+      "msapplication-tilecolor": "#FFFFFF",
+      "twitter:title": "ORS 802.175 \u2013 Definitions for ORS 802.175 to 802.191",
+      "og:type": "article",
+      "article:section": "Utilities, Vehicle Code, Watercraft, Aviation",
+      "og:image:alt": "Oregon icon",
+      "og:title": "ORS 802.175 \u2013 Definitions for ORS 802.175 to 802.191",
+      "og:image:height": "256",
+      "article:author": "OR Legislature",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "twitter:description": "As used in ORS 802.175 (Definitions for ORS 802.175 to 802.191) to 802.191 (Civil action for violation of ORS 802.175 to 802.187),\u2026",
+      "og:url": "https://oregon.public.law/statutes/ors_802.175"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://oregon.public.law/assets/jurisdiction/256x256/oregon-178e7f7dd689fa81d78879372c59764dd65e7a08331c87f39f8232d2a004a913.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ORS Chapter 192 \u2014 Records; Public Reports and Meetings",
+   "htmlTitle": "ORS Chapter 192 \u2014 Records; Public Reports and Meetings",
+   "link": "https://www.oregonlegislature.gov/bills_laws/ors/ors192.html",
+   "displayLink": "www.oregonlegislature.gov",
+   "snippet": "(C) \u201cPersonally identifiable information\u201d means all information relating to ... However, personally identifiable information, as defined in ORS 339.329\u00a0...",
+   "htmlSnippet": "(C) \u201c<b>Personally identifiable information</b>\u201d <b>means</b> all information relating to ... However, <b>personally identifiable information</b>, as <b>defined</b> in ORS 339.329&nbsp;...",
+   "formattedUrl": "https://www.oregonlegislature.gov/bills_laws/ors/ors192.html",
+   "htmlFormattedUrl": "https://www.oregonlegislature.gov/bills_laws/ors/ors192.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "originator": "Microsoft Word 15",
+      "progid": "Word.Document"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Oregon Revised Statutes \u00a7 802.175 (2017) - Definitions for ORS ...",
+   "htmlTitle": "<b>Oregon Revised Statutes</b> \u00a7 802.175 (2017) - Definitions for ORS ...",
+   "link": "https://law.justia.com/codes/oregon/2017/volume-17/chapter-802/section-802.175/",
+   "displayLink": "law.justia.com",
+   "snippet": "(3) \"Personal information\" means the following information that identifies an individual: (a) Driver license, driver permit or identification card number;.",
+   "htmlSnippet": "(3) &quot;<b>Personal information</b>&quot; <b>means</b> the following information that identifies an individual: (a) Driver license, driver permit or <b>identification card</b> number;.",
+   "formattedUrl": "https://law.justia.com/codes/oregon/2017/volume-17/.../section-802.175/",
+   "htmlFormattedUrl": "https://law.justia.com/codes/oregon/2017/volume-17/.../section-802.175/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPP2ksOfM4IyWL7PTxPyS5N80Or-jyXZZLgeH1kYuOtXk5YU597YCxGszS&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "og:site_name": "Justia Law",
+      "og:title": "2017 Oregon Revised Statutes :: Volume : 17 - Utilities, Vehicle Code, Watercraft, Aviation, Constitutions :: Chapter 802 - Administrative Provisions :: Section 802.175 - Definitions for ORS 802.175 to 802.191.",
+      "og:app_id": "119529808075661",
+      "trigger-ga": "1",
+      "og:description": "Justia Free Databases of U.S. Laws, Codes & Statutes",
+      "og:admins": "656268335,686786921,25900864",
+      "referrer": "unsafe-url",
+      "twitter:site": "@JustiaCom",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "page-type": "Law: Codes Document Page (Current Year)",
+      "is-li": "0",
+      "og:url": "https://law.justia.com/codes/oregon/2017/volume-17/chapter-802/section-802.175/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Chapter 807 \u2014 Driving Privileges and Identification Cards",
+   "htmlTitle": "Chapter 807 \u2014 Driving Privileges and Identification Cards",
+   "link": "https://www.oregonlegislature.gov/bills_laws/ors/ors807.html",
+   "displayLink": "www.oregonlegislature.gov",
+   "snippet": "(c) \u201cIdentification card\u201d means the card issued under ORS 807.400 or a comparable provision in another state. (d) \u201cPersonal information\u201d means an\u00a0...",
+   "htmlSnippet": "(c) \u201c<b>Identification card</b>\u201d <b>means</b> the card issued under ORS 807.400 or a comparable provision in another state. (d) \u201c<b>Personal information</b>\u201d <b>means</b> an&nbsp;...",
+   "formattedUrl": "https://www.oregonlegislature.gov/bills_laws/ors/ors807.html",
+   "htmlFormattedUrl": "https://www.oregonlegislature.gov/bills_laws/ors/ors807.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Oregon Revised Statutes Oregon Vehicle Code \u00a7 807.750 | FindLaw",
+   "htmlTitle": "<b>Oregon Revised Statutes</b> Oregon Vehicle Code \u00a7 807.750 | FindLaw",
+   "link": "https://codes.findlaw.com/or/title-59-oregon-vehicle-code/or-rev-st-sect-807-750/",
+   "displayLink": "codes.findlaw.com",
+   "snippet": "(c) \u201cPersonal information\u201d means an individual's name, address ... personal information collected from swiping the driver license or identification card.",
+   "htmlSnippet": "(c) \u201c<b>Personal information</b>\u201d <b>means</b> an individual&#39;s name, address ... <b>personal information</b> collected from swiping the driver license or <b>identification card</b>.",
+   "formattedUrl": "https://codes.findlaw.com/or/title-59-oregon.../or-rev-st-sect-807-750/",
+   "htmlFormattedUrl": "https://codes.findlaw.com/or/title-59-oregon.../or-rev-st-sect-807-750/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuWtKEZ0kzYj6NSuZlgNrAF5XcYIi9XgsiqHcAgQHtxY18xcWZ1bDMaCM&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png",
+      "og:type": "article",
+      "og:site_name": "Findlaw",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Oregon Revised Statutes Oregon Vehicle Code \u00a7 807.750 | FindLaw",
+      "apple-mobile-web-app-title": "FindLaw",
+      "og:url": "https://codes.findlaw.com/or/title-59-oregon-vehicle-code/or-rev-st-sect-807-750/",
+      "og:description": "Title 59. Oregon Vehicle Code OR ST  Section 807.750. Read the code on FindLaw"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Oregon Revised Statutes \u00a7 646A.602 (2023) - Definitions for ORS ...",
+   "htmlTitle": "<b>Oregon Revised Statutes</b> \u00a7 646A.602 (2023) - Definitions for ORS ...",
+   "link": "https://law.justia.com/codes/oregon/volume-16/chapter-646a/section-646a-602/",
+   "displayLink": "law.justia.com",
+   "snippet": "... defined in ORS 174.109. (12)(a) \"Personal information\" means: (A) A ... identification card number, passport number or other number issued by the\u00a0...",
+   "htmlSnippet": "... <b>defined</b> in ORS 174.109. (12)(a) &quot;<b>Personal information</b>&quot; <b>means</b>: (A) A ... <b>identification card</b> number, passport number or other number issued by the&nbsp;...",
+   "formattedUrl": "https://law.justia.com/codes/oregon/volume-16/chapter.../section-646a-602/",
+   "htmlFormattedUrl": "https://law.justia.com/codes/oregon/volume-16/chapter.../section-646a-602/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPP2ksOfM4IyWL7PTxPyS5N80Or-jyXZZLgeH1kYuOtXk5YU597YCxGszS&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "og:site_name": "Justia Law",
+      "og:title": "2023 Oregon Revised Statutes :: Volume : 16 - Trade Practices, Labor and Employment :: Chapter 646A - Trade Regulation :: Section 646A.602 - Definitions for ORS 646A.600 to 646A.628.",
+      "og:app_id": "119529808075661",
+      "trigger-ga": "1",
+      "og:description": "Justia Free Databases of U.S. Laws, Codes & Statutes",
+      "og:admins": "656268335,686786921,25900864",
+      "referrer": "unsafe-url",
+      "twitter:site": "@JustiaCom",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "page-type": "Law: Codes Document Page (Current Year)",
+      "is-li": "0",
+      "og:url": "https://law.justia.com/codes/oregon/volume-16/chapter-646a/section-646a-602/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "GUIDE TO OREGON DRIVING RECORDS 2022",
+   "htmlTitle": "GUIDE TO OREGON DRIVING RECORDS 2022",
+   "link": "https://www.oregon.gov/odot/forms/dmv/6665.pdf",
+   "displayLink": "www.oregon.gov",
+   "snippet": "driver's personal information and (2) a version that has the driver's personal information removed ... ID. Identification Card - Does not grant driving privileges\u00a0...",
+   "htmlSnippet": "driver&#39;s <b>personal information</b> and (2) a version that has the driver&#39;s <b>personal information</b> removed ... ID. <b>Identification Card</b> - Does not grant driving privileges&nbsp;...",
+   "formattedUrl": "https://www.oregon.gov/odot/forms/dmv/6665.pdf",
+   "htmlFormattedUrl": "https://www.oregon.gov/odot/forms/dmv/6665.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3zs8ZIvi7v5EH2xGcgsnSsxtUhrNC4uIEugw0btczfE-Ii2tDyTUzrs&s",
+      "width": "199",
+      "height": "253"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20220322094101-07'00'",
+      "creationdate": "D:20220322094101-07'00'",
+      "creator": "Acrobat PDFMaker 7.0 for Word",
+      "subject": "Guide To Oregon Driving Records & Standard Conviction Abbreviation Manual - 2021",
+      "author": "ODOT/DMV",
+      "producer": "Acrobat Distiller 22.0 (Windows)",
+      "title": "735-6665"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///a810a54fa94d278df4749265f7c4b9f66394bde829ab0e4ca3b864b4be792e88"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Oregon Notary Public Guide",
+   "htmlTitle": "Oregon Notary Public Guide",
+   "link": "https://sos.oregon.gov/business/documents/notary-guide/notary-guide.pdf",
+   "displayLink": "sos.oregon.gov",
+   "snippet": "This means that if a notary is successfully sued, the notary has the right ... impossible to retrieve personal information (burning or shredding, for example).",
+   "htmlSnippet": "This <b>means</b> that if a notary is successfully sued, the notary has the right ... impossible to retrieve <b>personal information</b> (burning or shredding, for example).",
+   "formattedUrl": "https://sos.oregon.gov/business/documents/notary-guide/notary-guide.pdf",
+   "htmlFormattedUrl": "https://sos.oregon.gov/business/documents/notary-guide/notary-guide.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8WvvXnMrOutfJrZuWLnZJsj7ulygQjuTGfDDdkhrjFyECmAM6M22PoBuc&s",
+      "width": "197",
+      "height": "255"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20250707091452-07'00'",
+      "creationdate": "D:20250707085530-07'00'",
+      "creator": "Acrobat PDFMaker 25 for Word",
+      "comments": "Oregon Notary Public Guide",
+      "sourcemodified": "D:20250707155456",
+      "author": "SOS",
+      "subject": "Oregon Notary Public Guide",
+      "producer": "Adobe PDF Library 25.1.51",
+      "company": "Oregon Secretary of State Corporation Division",
+      "category": "Oregon Notary Public Guide",
+      "title": "Oregon Notary Public Guide",
+      "contenttypeid": "0x01010049182F93C53E45499EC0689ED379E5AC"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///5fd85581ab9b22d9a0f5eb66fcb0acda486f23ecd011d134add8d280989011e7"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Written Information Security Program",
+   "htmlTitle": "Written Information Security Program",
+   "link": "https://www.stthomas.edu/about/departments/general-counsel/policy-pdfs/written-information-security-program.pdf",
+   "displayLink": "www.stthomas.edu",
+   "snippet": "Dec 19, 2022 ... 210, Oregon Revised Statutes \u00a7 646A.622, Rhode ... For purposes of this WISP, \u201cpersonal information\u201d means either a person's first and last.",
+   "htmlSnippet": "Dec 19, 2022 <b>...</b> 210, <b>Oregon Revised Statutes</b> \u00a7 646A.622, Rhode ... For purposes of this WISP, \u201c<b>personal information</b>\u201d <b>means</b> either a person&#39;s first and last.",
+   "formattedUrl": "https://www.stthomas.edu/.../written-information-security-program.pdf",
+   "htmlFormattedUrl": "https://www.stthomas.edu/.../written-information-security-program.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs5yZz3K_uWuqsI-cLpAEolgNBocNCRNTsEVXTn0QrWmQqMxEv50h8rRO8&s",
+      "width": "352",
+      "height": "143"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20221216121332-06'00'",
+      "creationdate": "D:20221216121013-06'00'",
+      "creator": "Acrobat PDFMaker 22 for Word",
+      "author": "Written Information Security Program",
+      "subject": "defining, documenting, and supporting implementation and maintenance of the administrative, technical, and physical safeguards St. Thomas has selected to protect the personal information",
+      "producer": "Adobe PDF Library 22.3.58",
+      "title": "Written Information Security Program",
+      "contenttypeid": "0x01010011B42028E6471648AF8BBFCAC2DDDB22"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///1105615bd5114640add1dee9bcdec769dcd51c463373d2d93be7f1cba6b7e8f7"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

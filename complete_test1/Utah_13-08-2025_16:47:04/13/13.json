@@ -1,0 +1,331 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Utah Code\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\" -\"apply\" -\"application\"",
+    "totalResults": "360",
+    "searchTerms": "\"Utah Code\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\" -\"apply\" -\"application\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Utah Code\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\" -\"apply\" -\"application\"",
+    "totalResults": "360",
+    "searchTerms": "\"Utah Code\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\" -\"apply\" -\"application\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.171611,
+  "formattedSearchTime": "0.17",
+  "totalResults": "360",
+  "formattedTotalResults": "360"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Vehicle Insurance Requirements - DMV",
+   "htmlTitle": "Vehicle Insurance Requirements - DMV",
+   "link": "https://dmv.utah.gov/register/insurance/",
+   "displayLink": "dmv.utah.gov",
+   "snippet": "Under such circumstances, a non-resident owner must maintain no-fault insurance while the vehicle remains in the state. ... Insurance Verification. The law\u00a0...",
+   "htmlSnippet": "Under such circumstances, a non-resident owner must <b>maintain</b> no-fault insurance while the vehicle remains in the state. ... Insurance <b>Verification</b>. The law&nbsp;...",
+   "formattedUrl": "https://dmv.utah.gov/register/insurance/",
+   "htmlFormattedUrl": "https://dmv.utah.gov/register/insurance/",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "DMV",
+      "article:modified_time": "2025-08-11T19:58:04+00:00",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Vehicle Insurance Requirements - DMV",
+      "og:locale": "en_US",
+      "twitter:label1": "Est. reading time",
+      "og:url": "https://dmv.utah.gov/register/insurance/",
+      "og:description": "Online ServicesDMV HomeRegister and Renew OverviewVehicle Insurance RequirementsVehicle Insurance RequirementsVehicle Insurance Requirements FAQGeneral Information Per Utah Code Ann. \u00a731A-22-302, a current policy of insurance that includes No-Fault, bodily injury, and property damage liability coverage must be maintained on all vehicles throughout the vehicle\u2019s registration period in the following circumstances: The owner/operator is a Utah resident. The owner/operator is a non-resident ... Read More",
+      "twitter:data1": "7 minutes"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "Home",
+      "name": "Home",
+      "position": "1"
+     },
+     {
+      "item": "Register and Renew Overview",
+      "name": "Register and Renew Overview",
+      "position": "2"
+     },
+     {
+      "item": "Vehicle Insurance Requirements",
+      "name": "Vehicle Insurance Requirements",
+      "position": "3"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ignition Interlock Device | Utah Driver License Division",
+   "htmlTitle": "Ignition Interlock Device | Utah <b>Driver License</b> Division",
+   "link": "https://dld.utah.gov/iid/",
+   "displayLink": "dld.utah.gov",
+   "snippet": "All restricted drivers will need to have this completed by October 31, 2024 to maintain compliance with the updated rules. ... IID Offense Types with Utah Code.",
+   "htmlSnippet": "All restricted drivers will need to have this completed by October 31, 2024 to <b>maintain</b> compliance with the updated rules. ... IID Offense Types with <b>Utah Code</b>.",
+   "formattedUrl": "https://dld.utah.gov/iid/",
+   "htmlFormattedUrl": "https://dld.utah.gov/iid/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-tileimage": "https://dld.utah.gov/wp-content/uploads/cropped-DLD-fav-icon-270x270.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Utah Code Part 41-6a-5",
+   "htmlTitle": "<b>Utah Code</b> Part 41-6a-5",
+   "link": "https://le.utah.gov/xcode/Title41/Chapter6A/41-6a-P5.html",
+   "displayLink": "le.utah.gov",
+   "snippet": "Driver license suspension or revocation for a driving under the influence violation. ... Acceptance of plea of guilty to DUI -- Restrictions -- Verification\u00a0...",
+   "htmlSnippet": "<b>Driver license</b> suspension or revocation for a driving under the influence violation. ... Acceptance of plea of guilty to DUI -- Restrictions -- <b>Verification</b>&nbsp;...",
+   "formattedUrl": "https://le.utah.gov/xcode/Title41/Chapter6A/41-6a-P5.html",
+   "htmlFormattedUrl": "https://le.utah.gov/xcode/Title41/Chapter6A/41-6a-P5.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "I have a question about your drivers licenses : r/Utah",
+   "htmlTitle": "I have a question about your drivers licenses : r/Utah",
+   "link": "https://www.reddit.com/r/Utah/comments/1hzf8uv/i_have_a_question_about_your_drivers_licenses/",
+   "displayLink": "www.reddit.com",
+   "snippet": "Jan 12, 2025 ... It's probably written deep into the Utah code or something. ... Since when has driver's license renewals required an appointment and\u00a0...",
+   "htmlSnippet": "Jan 12, 2025 <b>...</b> It&#39;s probably written deep into the <b>Utah code</b> or something. ... Since when has <b>driver&#39;s license</b> renewals required an appointment and&nbsp;...",
+   "formattedUrl": "https://www.reddit.com/r/.../i_have_a_question_about_your_drivers_licens...",
+   "htmlFormattedUrl": "https://www.reddit.com/r/.../i_have_a_question_about_your_<b>drivers_licens</b>...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLYjaMckOOZL8pHIYJjPRJ7_zwAoFnk_3xCMVm1QP2y1oUDlVMACcENy_z&s",
+      "width": "285",
+      "height": "177"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://share.redd.it/preview/post/1hzf8uv",
+      "theme-color": "#000000",
+      "og:image:width": "1200",
+      "og:type": "website",
+      "og:image:alt": "An image containing a preview of the post",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "r/Utah on Reddit: I have a question about your drivers licenses",
+      "og:site_name": "Reddit",
+      "og:title": "r/Utah on Reddit: I have a question about your drivers licenses",
+      "og:image:height": "630",
+      "msapplication-navbutton-color": "#000000",
+      "og:description": "Posted by u/Afuryinheaven - 49 votes and 51 comments",
+      "twitter:image": "https://share.redd.it/preview/post/1hzf8uv",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "twitter:site": "@reddit",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "apple-mobile-web-app-capable": "yes",
+      "og:ttl": "600",
+      "og:url": "https://www.reddit.com/r/Utah/comments/1hzf8uv/i_have_a_question_about_your_drivers_licenses/?seeker-session=true"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://preview.redd.it/i-have-a-question-about-your-drivers-licenses-v0-w3fuayzh0nce1.jpeg?width=1080&format=pjpg&auto=webp&s=6604fc65efc163c363367539b1a6eaba32492295"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Utah Code Section 53-3-220",
+   "htmlTitle": "<b>Utah Code</b> Section 53-3-220",
+   "link": "https://le.utah.gov/xcode/Title53/Chapter3/53-3-S220.html",
+   "displayLink": "le.utah.gov",
+   "snippet": "... driver license suspension is likely to reduce recidivism and is in the ... sell, or transfer any substance that is prohibited under the acts described\u00a0...",
+   "htmlSnippet": "... <b>driver license</b> suspension is likely to reduce recidivism and is in the ... <b>sell</b>, or transfer any substance that is prohibited under the acts described&nbsp;...",
+   "formattedUrl": "https://le.utah.gov/xcode/Title53/Chapter3/53-3-S220.html",
+   "htmlFormattedUrl": "https://le.utah.gov/xcode/Title53/Chapter3/53-3-S220.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ParkUT Digital Permit Help Videos",
+   "htmlTitle": "ParkUT Digital Permit Help Videos",
+   "link": "https://www.utahparkingauthority.com/help",
+   "displayLink": "www.utahparkingauthority.com",
+   "snippet": "Keep track of the permit's expiration date and ensure timely renewals to maintain an active status. ... How to add, delete, & download your Driver's License and\u00a0...",
+   "htmlSnippet": "Keep track of the permit&#39;s expiration date and ensure timely renewals to <b>maintain</b> an active status. ... How to add, <b>delete</b>, &amp; download your <b>Driver&#39;s License</b> and&nbsp;...",
+   "formattedUrl": "https://www.utahparkingauthority.com/help",
+   "htmlFormattedUrl": "https://www.utahparkingauthority.com/help",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT48AZukw_CLY0EJzl9i4Kro4s72-M6RIkGgeucBKCbHGMnNIhvawyRZ64U&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://static.wixstatic.com/media/06ad79_0cc58afcbb67434a90bb04ea960a5b48~mv2.jpg/v1/fill/w_1280,h_720,al_c/06ad79_0cc58afcbb67434a90bb04ea960a5b48~mv2.jpg",
+      "og:image:width": "1280",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "ParkUT Digital Permit Help Videos",
+      "og:site_name": "UTAH PARKING",
+      "skype_toolbar": "skype_toolbar_parser_compatible",
+      "og:title": "ParkUT Digital Permit Help Videos",
+      "og:image:height": "720",
+      "og:description": "You can now access your parking permits from anywhere, anytime on the ParkUT mobile app!",
+      "twitter:image": "https://static.wixstatic.com/media/06ad79_0cc58afcbb67434a90bb04ea960a5b48~mv2.jpg/v1/fill/w_1280,h_720,al_c/06ad79_0cc58afcbb67434a90bb04ea960a5b48~mv2.jpg",
+      "fb_admins_meta_tag": "utahparking",
+      "viewport": "width=320, user-scalable=yes",
+      "twitter:description": "You can now access your parking permits from anywhere, anytime on the ParkUT mobile app!",
+      "fb:admins": "utahparking",
+      "og:url": "https://www.utahparkingauthority.com/help",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://static.wixstatic.com/media/06ad79_0cc58afcbb67434a90bb04ea960a5b48~mv2.jpg/v1/fill/w_1280,h_720,al_c/06ad79_0cc58afcbb67434a90bb04ea960a5b48~mv2.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Utah Code Section 20A-3a-401",
+   "htmlTitle": "<b>Utah Code</b> Section 20A-3a-401",
+   "link": "https://le.utah.gov/xcode/Title20A/Chapter3A/20A-3a-S401.html",
+   "displayLink": "le.utah.gov",
+   "snippet": "(i), that the return envelope contains the last four digits of the voter's Utah driver license number, Utah state identification card number, or social security\u00a0...",
+   "htmlSnippet": "(i), that the return envelope contains the last four digits of the voter&#39;s Utah <b>driver license</b> number, Utah state <b>identification card</b> number, or social security&nbsp;...",
+   "formattedUrl": "https://le.utah.gov/xcode/Title20A/Chapter3A/20A-3a-S401.html",
+   "htmlFormattedUrl": "https://le.utah.gov/xcode/Title20A/Chapter3A/20A-3a-S401.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Report a Breach",
+   "htmlTitle": "Report a Breach",
+   "link": "https://cybercenter.utah.gov/Report-a-Breach",
+   "displayLink": "cybercenter.utah.gov",
+   "snippet": "Share sensitive information only on secure official Utah.gov websites. An ... Utah Code \u00a713-44-202. It will be used for the purposes set forth in the\u00a0...",
+   "htmlSnippet": "<b>Share</b> sensitive information only on secure official Utah.gov websites. An ... <b>Utah Code</b> \u00a713-44-202. It will be used for the purposes set forth in the&nbsp;...",
+   "formattedUrl": "https://cybercenter.utah.gov/Report-a-Breach",
+   "htmlFormattedUrl": "https://cybercenter.utah.gov/Report-a-Breach",
+   "pagemap": {
+    "metatags": [
+     {
+      "web-speech-cognitive-services": "version=7.1.3",
+      "botframework-webchat:api": "version=4.18.0; build-tool=tsup; module-format=esmodules",
+      "botframework-webchat:bundle:variant": "full",
+      "botframework-webchat:core": "version=4.18.0; build-tool=tsup; module-format=esmodules",
+      "botframework-webchat:component": "version=4.18.0; build-tool=tsup; module-format=esmodules",
+      "botframework-directlinespeech": "version=4.18.0; build_tool=tsup; format=esmodules",
+      "botframework-webchat:core:version": "4.18.0",
+      "botframework-webchat:bundle:version": "4.18.0",
+      "botframework-directlinespeech:version": "4.18.0",
+      "botframework-webchat:ui:version": "4.18.0",
+      "botframework-webchat:bundle": "version=4.18.0; variant=full; build-tool=tsup; module-format=esmodules",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "react-scroll-to-bottom:version": "4.2.0",
+      "react-film": "version=3.1.1-main.df870ea"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Utah Legislature said NO to REAL ID\u2014So Why is the State Now ...",
+   "htmlTitle": "The Utah Legislature said NO to REAL ID\u2014So Why is the State Now ...",
+   "link": "https://libertas.institute/personal-freedom/the-utah-legislature-said-no-to-real-id-so-why-is-the-state-now-fully-compliant/",
+   "displayLink": "libertas.institute",
+   "snippet": "Jan 5, 2016 ... ... verification and State-to-State (S2S) driver's license verification. ... Utah Code. May 2010: A legislative performance audit of the\u00a0...",
+   "htmlSnippet": "Jan 5, 2016 <b>...</b> ... <b>verification</b> and State-to-State (S2S) <b>driver&#39;s license verification</b>. ... <b>Utah Code</b>. May 2010: A legislative performance audit of the&nbsp;...",
+   "formattedUrl": "https://libertas.institute/.../the-utah-legislature-said-no-to-real-id-so-why-is-t...",
+   "htmlFormattedUrl": "https://libertas.institute/.../the-utah-legislature-said-no-to-real-id-so-why-is-t...",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:type": "article",
+      "article:published_time": "2016-01-05T19:41:17+00:00",
+      "twitter:card": "summary",
+      "twitter:title": "The Utah Legislature said NO to REAL ID\u2014So Why is the State Now Fully Compliant? - Libertas Institute",
+      "og:site_name": "Libertas Institute - Changing hearts, minds, and laws to create a freer future",
+      "author": "Josh Daniels",
+      "og:title": "The Utah Legislature said NO to REAL ID\u2014So Why is the State Now Fully Compliant? - Libertas Institute",
+      "msapplication-tileimage": "https://libertas.institute/wp-content/uploads/2025/01/FAVICON.ico",
+      "og:description": "On two occasions the Utah legislature passed a bill in opposition to REAL ID. But now, the state is fully compliant with the identification program. Why?",
+      "article:modified_time": "2016-01-05T20:45:48+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "On two occasions the Utah legislature passed a bill in opposition to REAL ID. But now, the state is fully compliant with the identification program. Why?",
+      "og:locale": "en_US",
+      "og:url": "https://libertas.institute/personal-freedom/the-utah-legislature-said-no-to-real-id-so-why-is-the-state-now-fully-compliant/"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "26643 - Employment eligibility verification (Form I-9)",
+   "htmlTitle": "26643 - Employment eligibility <b>verification</b> (Form I-9)",
+   "link": "https://axaemarchives.utah.gov/cgi-bin/appxretcget.cgi?WEBINPUT_RUNWHAT=HTML_1SERIES&WEBINPUT_BIBLGRPC_RID=26643&A=B",
+   "displayLink": "axaemarchives.utah.gov",
+   "snippet": "Paper records for transferred employees are forwarded to the receiving agency's human resource office. RETENTION. Retain for 3 year(s) after date of hire or for\u00a0...",
+   "htmlSnippet": "Paper records for transferred employees are forwarded to the receiving agency&#39;s human resource office. <b>RETENTION</b>. <b>Retain</b> for 3 year(s) after date of hire or for&nbsp;...",
+   "formattedUrl": "https://axaemarchives.utah.gov/cgi-bin/appxretcget.cgi?...RID...",
+   "htmlFormattedUrl": "https://axaemarchives.utah.gov/cgi-bin/appxretcget.cgi?...RID..."
+  }
+ ]
+}

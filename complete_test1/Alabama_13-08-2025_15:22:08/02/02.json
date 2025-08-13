@@ -1,0 +1,204 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://www.alea.gov/dps/driver-license \"driver's license\" OR \"identification card\"",
+    "totalResults": "7",
+    "searchTerms": "site:https://www.alea.gov/dps/driver-license \"driver's license\" OR \"identification card\"",
+    "count": 7,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.111809,
+  "formattedSearchTime": "0.11",
+  "totalResults": "7",
+  "formattedTotalResults": "7"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "License and ID Cards | Alabama Law Enforcement Agency",
+   "htmlTitle": "License and ID Cards | Alabama Law Enforcement Agency",
+   "link": "https://www.alea.gov/dps/driver-license/license-and-id-cards",
+   "displayLink": "www.alea.gov",
+   "snippet": "Non-Driver Identification Card. One document from the primary list which verifies name and date of birth. Social Security card. *; Third form of\u00a0...",
+   "htmlSnippet": "Non-Driver <b>Identification Card</b>. One document from the primary list which verifies name and date of birth. Social Security card. *; Third form of&nbsp;...",
+   "formattedUrl": "https://www.alea.gov/dps/driver-license/license-and-id-cards",
+   "htmlFormattedUrl": "https://www.alea.gov/dps/driver-license/license-and-id-cards",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msvalidate.01": "73CE5C647B27B08B8A8489B0E2F8226D",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Star ID | Alabama Law Enforcement Agency",
+   "htmlTitle": "Star ID | Alabama Law Enforcement Agency",
+   "link": "https://www.alea.gov/dps/driver-license/star-id",
+   "displayLink": "www.alea.gov",
+   "snippet": "STAR ID is a step beyond an ordinary Alabama driver's license or non-driver identification card and it meets all the requirements of federal law.",
+   "htmlSnippet": "STAR ID is a step beyond an ordinary Alabama <b>driver&#39;s license</b> or non-driver <b>identification card</b> and it meets all the requirements of federal law.",
+   "formattedUrl": "https://www.alea.gov/dps/driver-license/star-id",
+   "htmlFormattedUrl": "https://www.alea.gov/dps/driver-license/star-id",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpKYMpf294u5jrEP1bwp_4jpP-TYeI1uzJXRUUZnnpNkLrUOEH2yv7Qdw&s",
+      "width": "250",
+      "height": "82"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msvalidate.01": "73CE5C647B27B08B8A8489B0E2F8226D",
+      "mobileoptimized": "width"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.alea.gov/sites/default/files/2018-10/Star%20ID.gif"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver License Forms | Alabama Law Enforcement Agency",
+   "htmlTitle": "Driver License Forms | Alabama Law Enforcement Agency",
+   "link": "https://www.alea.gov/dps/driver-license/driver-license-forms",
+   "displayLink": "www.alea.gov",
+   "snippet": "Application for a Renewal or Duplicate Alabama Driver License / Non-Driver Identification Card for Alabama Drivers who are Temporarily Out of State for\u00a0...",
+   "htmlSnippet": "Application for a Renewal or Duplicate Alabama Driver License / Non-Driver <b>Identification Card</b> for Alabama Drivers who are Temporarily Out of State for&nbsp;...",
+   "formattedUrl": "https://www.alea.gov/dps/driver-license/driver-license-forms",
+   "htmlFormattedUrl": "https://www.alea.gov/dps/driver-license/driver-license-forms",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msvalidate.01": "73CE5C647B27B08B8A8489B0E2F8226D",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Document Requirements And Fees | Alabama Law Enforcement ...",
+   "htmlTitle": "Document Requirements And Fees | Alabama Law Enforcement ...",
+   "link": "https://www.alea.gov/dps/driver-license/document-requirements-and-fees",
+   "displayLink": "www.alea.gov",
+   "snippet": "Non-Driver Identification Card. One document from the primary list which ... Alabama identification card; Alabama driver license; Certificate of\u00a0...",
+   "htmlSnippet": "Non-Driver <b>Identification Card</b>. One document from the primary list which ... Alabama <b>identification card</b>; Alabama driver license; Certificate of&nbsp;...",
+   "formattedUrl": "https://www.alea.gov/dps/driver-license/document-requirements-and-fees",
+   "htmlFormattedUrl": "https://www.alea.gov/dps/driver-license/document-requirements-and-fees",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msvalidate.01": "73CE5C647B27B08B8A8489B0E2F8226D",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "STAR ID Document List | Alabama Law Enforcement Agency",
+   "htmlTitle": "STAR ID Document List | Alabama Law Enforcement Agency",
+   "link": "https://www.alea.gov/dps/driver-license/star-id/star-id-document-list",
+   "displayLink": "www.alea.gov",
+   "snippet": "Applicants must verify their address of principal residence by providing any two of the following documents: Valid Alabama Driver License or Identification Card\u00a0...",
+   "htmlSnippet": "Applicants must verify their address of principal residence by providing any two of the following documents: Valid Alabama Driver License or <b>Identification Card</b>&nbsp;...",
+   "formattedUrl": "https://www.alea.gov/dps/driver-license/star-id/star-id-document-list",
+   "htmlFormattedUrl": "https://www.alea.gov/dps/driver-license/star-id/star-id-document-list",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msvalidate.01": "73CE5C647B27B08B8A8489B0E2F8226D",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "STAR ID Frequently Asked Questions | Alabama Law Enforcement ...",
+   "htmlTitle": "STAR ID Frequently Asked Questions | Alabama Law Enforcement ...",
+   "link": "https://www.alea.gov/dps/driver-license/star-id/star-id-frequently-asked-questions",
+   "displayLink": "www.alea.gov",
+   "snippet": "Will I be able to have both a STAR ID driver license and a STAR ID identification card? No, the final rule specifies that each individual can hold either a\u00a0...",
+   "htmlSnippet": "Will I be able to have both a STAR ID driver license and a STAR ID <b>identification card</b>? No, the final rule specifies that each individual can hold either a&nbsp;...",
+   "formattedUrl": "https://www.alea.gov/dps/driver-license/.../star-id-frequently-asked-question...",
+   "htmlFormattedUrl": "https://www.alea.gov/dps/driver-license/.../star-id-frequently-asked-question...",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msvalidate.01": "73CE5C647B27B08B8A8489B0E2F8226D",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Sex Offender Driver License Designation | Alabama Law ...",
+   "htmlTitle": "Sex Offender Driver License Designation | Alabama Law ...",
+   "link": "https://www.alea.gov/dps/driver-license/license-and-id-cards/sex-offender-driver-license-designation",
+   "displayLink": "www.alea.gov",
+   "snippet": "Any registered sex offender is required to always have in possession a valid driver license or identification card issued by ALEA designating to law\u00a0...",
+   "htmlSnippet": "Any registered sex offender is required to always have in possession a valid driver license or <b>identification card</b> issued by ALEA designating to law&nbsp;...",
+   "formattedUrl": "https://www.alea.gov/dps/driver.../sex-offender-driver-license-designation",
+   "htmlFormattedUrl": "https://www.alea.gov/dps/driver.../sex-offender-driver-license-designation",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdKUnaC9A0f3rYaVqCV9yeGJjqtL9GlbUWlZ_XX_rUtt7ydIpYyAA0jUFT&s",
+      "width": "128",
+      "height": "132"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msvalidate.01": "73CE5C647B27B08B8A8489B0E2F8226D",
+      "mobileoptimized": "width"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.alea.gov/themes/custom/alea/img/alea-seal.png"
+     }
+    ]
+   }
+  }
+ ]
+}

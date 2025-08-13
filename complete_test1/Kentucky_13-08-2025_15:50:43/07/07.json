@@ -1,0 +1,415 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:play.google.com \"Kentucky\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "2",
+    "searchTerms": "site:play.google.com \"Kentucky\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 2,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.112693,
+  "formattedSearchTime": "0.11",
+  "totalResults": "2",
+  "formattedTotalResults": "2"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "House Hunters International: Temporada 69 - TV en Google Play",
+   "htmlTitle": "House Hunters International: Temporada 69 - TV en Google Play",
+   "link": "https://play.google.com/store/tv/show/House_Hunters_International?cdid=tvseason-m_PU87j-Jkg9YDQPgaPKNw&gdid=tvepisode-GiECFWdmYZ0&id=VDnIPc04FIE&hl=es_NI",
+   "displayLink": "play.google.com",
+   "snippet": "Newlyweds from Louisville, Kentucky, move to Brisbane, Australia. 3 Ecua-Do or Ecua-Don't. 31/7/14. $1.99. A good-hearted couple moves to Ecuador for non\u00a0...",
+   "htmlSnippet": "Newlyweds from Louisville, <b>Kentucky</b>, move to Brisbane, Australia. 3 Ecua-Do or Ecua-Don&#39;t. 31/7/14. $1.99. A good-hearted couple moves to Ecuador for non&nbsp;...",
+   "formattedUrl": "https://play.google.com/.../House_Hunters_International?cdid...",
+   "htmlFormattedUrl": "https://play.google.com/.../House_Hunters_International?cdid...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "$19.99",
+      "url": "https://play.google.com?rdid=tvseason-m_PU87j-Jkg9YDQPgaPKNw&feature=md&offerId=39b30a4000000000"
+     },
+     {
+      "price": "$1.99",
+      "url": "https://play.google.com?rdid=tvepisode-KarOjN0hLs8&feature=md&offerId=56f7d68000000000"
+     },
+     {
+      "price": "$2.99",
+      "url": "https://play.google.com?rdid=tvepisode-KarOjN0hLs8&feature=md&offerId=d6f7d68000000000"
+     },
+     {
+      "price": "$1.99",
+      "url": "https://play.google.com?rdid=tvepisode-R9PK3VX1WTA&feature=md&offerId=8d950a4000000000"
+     },
+     {
+      "price": "$2.99",
+      "url": "https://play.google.com?rdid=tvepisode-R9PK3VX1WTA&feature=md&offerId=4d950a4000000000"
+     },
+     {
+      "price": "$1.99",
+      "url": "https://play.google.com?rdid=tvepisode-jtbEdFfUSes&feature=md&offerId=c377d68000000000"
+     },
+     {
+      "price": "$2.99",
+      "url": "https://play.google.com?rdid=tvepisode-jtbEdFfUSes&feature=md&offerId=4377d68000000000"
+     },
+     {
+      "price": "$1.99",
+      "url": "https://play.google.com?rdid=tvepisode-9mBWSu8jbO0&feature=md&offerId=992d0a4000000000"
+     },
+     {
+      "price": "$2.99",
+      "url": "https://play.google.com?rdid=tvepisode-9mBWSu8jbO0&feature=md&offerId=592d0a4000000000"
+     },
+     {
+      "price": "$1.99",
+      "url": "https://play.google.com?rdid=tvepisode-tHyaIbcctpc&feature=md&offerId=c0830a4000000000"
+     },
+     {
+      "price": "$2.99",
+      "url": "https://play.google.com?rdid=tvepisode-tHyaIbcctpc&feature=md&offerId=20830a4000000000"
+     },
+     {
+      "price": "$1.99",
+      "url": "https://play.google.com?rdid=tvepisode-ixkyQnTOj9g&feature=md&offerId=7c0d0a4000000000"
+     },
+     {
+      "price": "$2.99",
+      "url": "https://play.google.com?rdid=tvepisode-ixkyQnTOj9g&feature=md&offerId=bc0d0a4000000000"
+     },
+     {
+      "price": "$1.99",
+      "url": "https://play.google.com?rdid=tvepisode-GiECFWdmYZ0&feature=md&offerId=f7efd68000000000"
+     },
+     {
+      "price": "$2.99",
+      "url": "https://play.google.com?rdid=tvepisode-GiECFWdmYZ0&feature=md&offerId=77efd68000000000"
+     },
+     {
+      "price": "$1.99",
+      "url": "https://play.google.com?rdid=tvepisode-nHRhiUqfCCA&feature=md&offerId=a14fd68000000000"
+     },
+     {
+      "price": "$2.99",
+      "url": "https://play.google.com?rdid=tvepisode-nHRhiUqfCCA&feature=md&offerId=214fd68000000000"
+     },
+     {
+      "price": "$1.99",
+      "url": "https://play.google.com?rdid=tvepisode-Ezxortb3W-o&feature=md&offerId=5da7d68000000000"
+     },
+     {
+      "price": "$2.99",
+      "url": "https://play.google.com?rdid=tvepisode-Ezxortb3W-o&feature=md&offerId=dda7d68000000000"
+     },
+     {
+      "price": "$1.99",
+      "url": "https://play.google.com?rdid=tvepisode-oj42OBmPwq4&feature=md&offerId=a9030a4000000000"
+     },
+     {
+      "price": "$2.99",
+      "url": "https://play.google.com?rdid=tvepisode-oj42OBmPwq4&feature=md&offerId=29030a4000000000"
+     },
+     {
+      "price": "$1.99",
+      "url": "https://play.google.com?rdid=tvepisode-AyBuhcXgLEM&feature=md&offerId=447bd68000000000"
+     },
+     {
+      "price": "$2.99",
+      "url": "https://play.google.com?rdid=tvepisode-AyBuhcXgLEM&feature=md&offerId=847bd68000000000"
+     },
+     {
+      "price": "$1.99",
+      "url": "https://play.google.com?rdid=tvepisode-pD-Lj3bfgOU&feature=md&offerId=0bf90a4000000000"
+     },
+     {
+      "price": "$2.99",
+      "url": "https://play.google.com?rdid=tvepisode-pD-Lj3bfgOU&feature=md&offerId=8bf90a4000000000"
+     },
+     {
+      "price": "$1.99",
+      "url": "https://play.google.com?rdid=tvepisode--muV5Jbnpnw&feature=md&offerId=3817d68000000000"
+     },
+     {
+      "price": "$2.99",
+      "url": "https://play.google.com?rdid=tvepisode--muV5Jbnpnw&feature=md&offerId=d817d68000000000"
+     }
+    ],
+    "tvseries": [
+     {
+      "contentrating": "TV-14",
+      "numberofseasons": "176",
+      "name": "House Hunters International",
+      "genre": "Telerrealidad y concursos",
+      "url": "https://play.google.com/store/tv/show/House_Hunters_International?cdid=tvseason-m_PU87j-Jkg9YDQPgaPKNw&gdid=tvepisode-GiECFWdmYZ0&id=VDnIPc04FIE&hl=es_NI"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf2Y-kVL472kQJT-lL-pypmzJmdbjmx7gVv-y5w07XinqG3UtIIKZI0Nqn&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "aggregaterating": [
+     {
+      "ratingvalue": "4.529411792755127",
+      "reviewcount": "136"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/Mdl-X6SXKHJBrv_53PUvfQGMUhh5bkMLwPGpjMgb19BHr2B9l1aE4sxNJThH1Frq0_vwzbI_dTP-X7qMhw",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "House Hunters International: Temporada 69 - TV en Google Play",
+      "twitter:url": "https://play.google.com/store/tv/show/House_Hunters_International?cdid=tvseason-m_PU87j-Jkg9YDQPgaPKNw&gdid=tvepisode-GiECFWdmYZ0&id=VDnIPc04FIE&hl=es_NI",
+      "og:title": "House Hunters International: Temporada 69 - TV en Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/Mdl-X6SXKHJBrv_53PUvfQGMUhh5bkMLwPGpjMgb19BHr2B9l1aE4sxNJThH1Frq0_vwzbI_dTP-X7qMhw=w600-h300-pc0xffffff-pd",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Compra House Hunters International: Temporada 69 en Google Play y, luego, mira ese contenido en tu PC y dispositivos Android o iOS. Desc\u00e1rgalo para verlo sin conexi\u00f3n o disfr\u00fatalo en pantalla grande con Chromecast.",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/tv/show/House_Hunters_International?cdid=tvseason-m_PU87j-Jkg9YDQPgaPKNw&gdid=tvepisode-GiECFWdmYZ0&id=VDnIPc04FIE&hl=es_NI"
+     }
+    ],
+    "moviereview": [
+     {
+      "ratingstars": "4.5",
+      "ratingcount": "136",
+      "name": "House Hunters International",
+      "genre": "Telerrealidad y concursos",
+      "originalrating": "4.529411792755127"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/Mdl-X6SXKHJBrv_53PUvfQGMUhh5bkMLwPGpjMgb19BHr2B9l1aE4sxNJThH1Frq0_vwzbI_dTP-X7qMhw"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "House Hunters International: 142 sezonas \u2013 TV \u201eGoogle Play\u201c",
+   "htmlTitle": "House Hunters International: 142 sezonas \u2013 TV \u201eGoogle Play\u201c",
+   "link": "https://play.google.com/store/tv/show/House_Hunters_International?cdid=tvseason-E0vrWlrCYp1qBkJsfr_xSQ&id=VDnIPc04FIE&hl=lt",
+   "displayLink": "play.google.com",
+   "snippet": "Young newlyweds move from Kentucky to her hometown of Chiang Rai, Thailand. 13 New Hope in Bogota. 20-02-15. Tik sezonas. After a fire destroyed her house, a\u00a0...",
+   "htmlSnippet": "Young newlyweds move from <b>Kentucky</b> to her hometown of Chiang Rai, Thailand. 13 New Hope in Bogota. 20-02-15. Tik sezonas. After a fire destroyed her house, a&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/tv/.../House_Hunters_International?...lt",
+   "htmlFormattedUrl": "https://play.google.com/store/tv/.../House_Hunters_International?...lt",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "12,99 USD",
+      "url": "https://play.google.com?rdid=tvseason-E0vrWlrCYp1qBkJsfr_xSQ&feature=md&offerId=a2b30a4000000000"
+     },
+     {
+      "price": "14,99 USD",
+      "url": "https://play.google.com?rdid=tvseason-E0vrWlrCYp1qBkJsfr_xSQ&feature=md&offerId=62b30a4000000000"
+     },
+     {
+      "price": "1,99 USD",
+      "url": "https://play.google.com?rdid=tvepisode-5gI_Tlb4oBU&feature=md&offerId=b2950a4000000000"
+     },
+     {
+      "price": "2,99 USD",
+      "url": "https://play.google.com?rdid=tvepisode-5gI_Tlb4oBU&feature=md&offerId=72950a4000000000"
+     },
+     {
+      "price": "1,99 USD",
+      "url": "https://play.google.com?rdid=tvepisode-UlsrjyzZxxA&feature=md&offerId=01fbd68000000000"
+     },
+     {
+      "price": "2,99 USD",
+      "url": "https://play.google.com?rdid=tvepisode-UlsrjyzZxxA&feature=md&offerId=81fbd68000000000"
+     },
+     {
+      "price": "1,99 USD",
+      "url": "https://play.google.com?rdid=tvepisode-qK_BAMdgt5U&feature=md&offerId=4befd68000000000"
+     },
+     {
+      "price": "2,99 USD",
+      "url": "https://play.google.com?rdid=tvepisode-qK_BAMdgt5U&feature=md&offerId=cbefd68000000000"
+     },
+     {
+      "price": "1,99 USD",
+      "url": "https://play.google.com?rdid=tvepisode-0DR9QF_PgNQ&feature=md&offerId=e9cd0a4000000000"
+     },
+     {
+      "price": "2,99 USD",
+      "url": "https://play.google.com?rdid=tvepisode-0DR9QF_PgNQ&feature=md&offerId=69cd0a4000000000"
+     },
+     {
+      "price": "1,99 USD",
+      "url": "https://play.google.com?rdid=tvepisode-dVtXfsbVF9I&feature=md&offerId=b957d68000000000"
+     },
+     {
+      "price": "2,99 USD",
+      "url": "https://play.google.com?rdid=tvepisode-dVtXfsbVF9I&feature=md&offerId=3957d68000000000"
+     },
+     {
+      "price": "1,99 USD",
+      "url": "https://play.google.com?rdid=tvepisode-fXPiVXR8v4Y&feature=md&offerId=f877d68000000000"
+     },
+     {
+      "price": "2,99 USD",
+      "url": "https://play.google.com?rdid=tvepisode-fXPiVXR8v4Y&feature=md&offerId=7877d68000000000"
+     },
+     {
+      "price": "1,99 USD",
+      "url": "https://play.google.com?rdid=tvepisode-u6Q__JDaS7o&feature=md&offerId=2bf90a4000000000"
+     },
+     {
+      "price": "2,99 USD",
+      "url": "https://play.google.com?rdid=tvepisode-u6Q__JDaS7o&feature=md&offerId=abf90a4000000000"
+     },
+     {
+      "price": "1,99 USD",
+      "url": "https://play.google.com?rdid=tvepisode-sNbkWT-aBw8&feature=md&offerId=1cc60a4000000000"
+     },
+     {
+      "price": "2,99 USD",
+      "url": "https://play.google.com?rdid=tvepisode-sNbkWT-aBw8&feature=md&offerId=ecc60a4000000000"
+     },
+     {
+      "price": "1,99 USD",
+      "url": "https://play.google.com?rdid=tvepisode-muArSmcQEow&feature=md&offerId=cddbd68000000000"
+     },
+     {
+      "price": "2,99 USD",
+      "url": "https://play.google.com?rdid=tvepisode-muArSmcQEow&feature=md&offerId=2ddbd68000000000"
+     },
+     {
+      "price": "1,99 USD",
+      "url": "https://play.google.com?rdid=tvepisode-YuiIiHNSPps&feature=md&offerId=f1cd0a4000000000"
+     },
+     {
+      "price": "2,99 USD",
+      "url": "https://play.google.com?rdid=tvepisode-YuiIiHNSPps&feature=md&offerId=71cd0a4000000000"
+     },
+     {
+      "price": "1,99 USD",
+      "url": "https://play.google.com?rdid=tvepisode-3VfR__ZID34&feature=md&offerId=caefd68000000000"
+     },
+     {
+      "price": "2,99 USD",
+      "url": "https://play.google.com?rdid=tvepisode-3VfR__ZID34&feature=md&offerId=2aefd68000000000"
+     },
+     {
+      "price": "1,99 USD",
+      "url": "https://play.google.com?rdid=tvepisode-dgcnA_74N-E&feature=md&offerId=b4c60a4000000000"
+     },
+     {
+      "price": "2,99 USD",
+      "url": "https://play.google.com?rdid=tvepisode-dgcnA_74N-E&feature=md&offerId=74c60a4000000000"
+     },
+     {
+      "price": "1,99 USD",
+      "url": "https://play.google.com?rdid=tvepisode-9fytXeChPYA&feature=md&offerId=4f97d68000000000"
+     },
+     {
+      "price": "2,99 USD",
+      "url": "https://play.google.com?rdid=tvepisode-9fytXeChPYA&feature=md&offerId=8f97d68000000000"
+     },
+     {
+      "price": "1,99 USD",
+      "url": "https://play.google.com?rdid=tvepisode-2HwXxlhTkio&feature=md&offerId=1defd68000000000"
+     },
+     {
+      "price": "2,99 USD",
+      "url": "https://play.google.com?rdid=tvepisode-2HwXxlhTkio&feature=md&offerId=9defd68000000000"
+     },
+     {
+      "price": "1,99 USD",
+      "url": "https://play.google.com?rdid=tvepisode-Tru-Plc0Qj8&feature=md&offerId=0f97d68000000000"
+     },
+     {
+      "price": "2,99 USD",
+      "url": "https://play.google.com?rdid=tvepisode-Tru-Plc0Qj8&feature=md&offerId=f797d68000000000"
+     },
+     {
+      "price": "1,99 USD",
+      "url": "https://play.google.com?rdid=tvepisode-lDMl_3_XMDY&feature=md&offerId=e35bd68000000000"
+     },
+     {
+      "price": "2,99 USD",
+      "url": "https://play.google.com?rdid=tvepisode-lDMl_3_XMDY&feature=md&offerId=135bd68000000000"
+     }
+    ],
+    "tvseries": [
+     {
+      "contentrating": "TV-14",
+      "numberofseasons": "176",
+      "name": "House Hunters International",
+      "genre": "Realyb\u0117s \u0161ou ir \u017eaidim\u0173 laidos",
+      "url": "https://play.google.com/store/tv/show/House_Hunters_International?cdid=tvseason-E0vrWlrCYp1qBkJsfr_xSQ&id=VDnIPc04FIE&hl=lt"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf2Y-kVL472kQJT-lL-pypmzJmdbjmx7gVv-y5w07XinqG3UtIIKZI0Nqn&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "aggregaterating": [
+     {
+      "ratingvalue": "4.529411792755127",
+      "reviewcount": "136"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/Mdl-X6SXKHJBrv_53PUvfQGMUhh5bkMLwPGpjMgb19BHr2B9l1aE4sxNJThH1Frq0_vwzbI_dTP-X7qMhw",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "House Hunters International: 142 sezonas \u2013 TV \u201eGoogle Play\u201c",
+      "twitter:url": "https://play.google.com/store/tv/show/House_Hunters_International?cdid=tvseason-E0vrWlrCYp1qBkJsfr_xSQ&id=VDnIPc04FIE&hl=lt",
+      "og:title": "House Hunters International: 142 sezonas \u2013 TV \u201eGoogle Play\u201c",
+      "twitter:image": "https://play-lh.googleusercontent.com/Mdl-X6SXKHJBrv_53PUvfQGMUhh5bkMLwPGpjMgb19BHr2B9l1aE4sxNJThH1Frq0_vwzbI_dTP-X7qMhw=w600-h300-pc0xffffff-pd",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "\u012esigykite \u201eHouse Hunters International: 142 sezonas\u201c sistemoje \u201eGoogle Play\u201c, o tada \u017ei\u016br\u0117kite asmeniniame kompiuteryje, \u201eAndroid\u201c ar \u201eiOS\u201c \u012frenginiuose. Atsisi\u0173skite, kad gal\u0117tum\u0117te \u017ei\u016br\u0117ti neprisijung\u0119 ir net dideliame ekrane naudodami \u201eChromecast\u201c \u012frengin\u012f.",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/tv/show/House_Hunters_International?cdid=tvseason-E0vrWlrCYp1qBkJsfr_xSQ&id=VDnIPc04FIE&hl=lt"
+     }
+    ],
+    "moviereview": [
+     {
+      "ratingstars": "4.5",
+      "ratingcount": "136",
+      "name": "House Hunters International",
+      "genre": "Realyb\u0117s \u0161ou ir \u017eaidim\u0173 laidos",
+      "originalrating": "4.529411792755127"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/Mdl-X6SXKHJBrv_53PUvfQGMUhh5bkMLwPGpjMgb19BHr2B9l1aE4sxNJThH1Frq0_vwzbI_dTP-X7qMhw"
+     }
+    ]
+   }
+  }
+ ]
+}

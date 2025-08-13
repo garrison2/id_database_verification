@@ -1,0 +1,514 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://dds.georgia.gov/ \"driver's license\" OR \"identification card\"",
+    "totalResults": "1010",
+    "searchTerms": "site:https://dds.georgia.gov/ \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://dds.georgia.gov/ \"driver's license\" OR \"identification card\"",
+    "totalResults": "1010",
+    "searchTerms": "site:https://dds.georgia.gov/ \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.145703,
+  "formattedSearchTime": "0.15",
+  "totalResults": "1010",
+  "formattedTotalResults": "1,010"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "New License/ID | Georgia Department of Driver Services",
+   "htmlTitle": "New License/ID | Georgia Department of Driver Services",
+   "link": "https://dds.georgia.gov/georgia-licenseid/new-licenseid",
+   "displayLink": "dds.georgia.gov",
+   "snippet": "Your Georgia Driver's License - Everything you need to know about getting a Georgia License including rules, fees, and information on your license document.",
+   "htmlSnippet": "Your Georgia <b>Driver&#39;s License</b> - Everything you need to know about getting a Georgia License including rules, fees, and information on your license document.",
+   "formattedUrl": "https://dds.georgia.gov/georgia-licenseid/new-licenseid",
+   "htmlFormattedUrl": "https://dds.georgia.gov/georgia-licenseid/new-licenseid",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcHMDQGJKWYJoTADqCjGRbWZH4Bfp-WrnxenByqI-NT2yj0rgn6l2eHx7C&s",
+      "width": "310",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffc40d",
+      "og:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "og:image:width": "1201",
+      "twitter:card": "summary",
+      "twitter:title": "New License/ID",
+      "theme-color": "#ffffff",
+      "og:site_name": "Georgia Department of Driver Services",
+      "handheldfriendly": "true",
+      "og:title": "New License/ID",
+      "og:image:height": "629",
+      "og:description": "Your Georgia Driver's License - Everything you need to know about getting a Georgia License including rules, fees, and information on your license document.",
+      "twitter:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "twitter:site": "@georgiadds",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Your Georgia Driver's License - Everything you need to know about getting a Georgia License including rules, fees, and information on your license document.",
+      "mobileoptimized": "width",
+      "og:url": "https://dds.georgia.gov/georgia-licenseid/new-licenseid",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Georgia Department of Driver Services",
+   "htmlTitle": "Georgia Department of Driver Services",
+   "link": "https://dds.georgia.gov/",
+   "displayLink": "dds.georgia.gov",
+   "snippet": "This law allows drivers to opt in for electronic reminders for state issued ID and/or driver's license renewal(s). Drivers will receive timely notifications via\u00a0...",
+   "htmlSnippet": "This law allows drivers to opt in for electronic reminders for state issued ID and/or <b>driver&#39;s license</b> renewal(s). Drivers will receive timely notifications via&nbsp;...",
+   "formattedUrl": "https://dds.georgia.gov/",
+   "htmlFormattedUrl": "https://dds.georgia.gov/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcHMDQGJKWYJoTADqCjGRbWZH4Bfp-WrnxenByqI-NT2yj0rgn6l2eHx7C&s",
+      "width": "310",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffc40d",
+      "og:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "og:image:width": "1201",
+      "twitter:card": "summary",
+      "twitter:title": "Georgia Department of Driver Services",
+      "theme-color": "#ffffff",
+      "og:site_name": "Georgia Department of Driver Services",
+      "handheldfriendly": "true",
+      "og:title": "Georgia Department of Driver Services",
+      "og:image:height": "629",
+      "twitter:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "twitter:site": "@georgiadds",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Our Mission at DDS is to provide secure driver and identity credentials to our customers with excellence and respect.",
+      "mobileoptimized": "width",
+      "og:url": "https://dds.georgia.gov/",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver's License or ID",
+   "htmlTitle": "<b>Driver&#39;s License</b> or ID",
+   "link": "https://dds.georgia.gov/your-georgia-drivers-license",
+   "displayLink": "dds.georgia.gov",
+   "snippet": "Driver's License - Information on obtaining your GA License or ID, reinstating your license, suspensions, and Licensing FAQs.",
+   "htmlSnippet": "<b>Driver&#39;s License</b> - Information on obtaining your GA License or ID, reinstating your license, suspensions, and Licensing FAQs.",
+   "formattedUrl": "https://dds.georgia.gov/your-georgia-drivers-license",
+   "htmlFormattedUrl": "https://dds.georgia.gov/your-georgia-<b>drivers-license</b>",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcHMDQGJKWYJoTADqCjGRbWZH4Bfp-WrnxenByqI-NT2yj0rgn6l2eHx7C&s",
+      "width": "310",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffc40d",
+      "og:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "og:image:width": "1201",
+      "twitter:card": "summary",
+      "twitter:title": "Your Georgia Driver's License",
+      "theme-color": "#ffffff",
+      "og:site_name": "Georgia Department of Driver Services",
+      "handheldfriendly": "true",
+      "og:title": "Your Georgia Driver's License",
+      "og:image:height": "629",
+      "og:description": "List of Georgia Driver's License popular topics including license types and appointment link.\u00a0",
+      "twitter:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "twitter:site": "@georgiadds",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "List of Georgia Driver's License popular topics including license types and appointment link.\u00a0",
+      "mobileoptimized": "width",
+      "og:url": "https://dds.georgia.gov/your-georgia-drivers-license",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Renew a License or ID | Georgia Department of Driver Services",
+   "htmlTitle": "Renew a License or ID | Georgia Department of Driver Services",
+   "link": "https://dds.georgia.gov/georgia-licenseid/existing-licenseid/how-do-i-renew-license-or-id",
+   "displayLink": "dds.georgia.gov",
+   "snippet": "If you have a digital Driver's License and ID it will automatically update when you renew/update your physical card as well as for birthdays and driver status\u00a0...",
+   "htmlSnippet": "If you have a digital <b>Driver&#39;s License</b> and ID it will automatically update when you renew/update your physical card as well as for birthdays and driver status&nbsp;...",
+   "formattedUrl": "https://dds.georgia.gov/georgia-licenseid/.../how-do-i-renew-license-or-id",
+   "htmlFormattedUrl": "https://dds.georgia.gov/georgia-licenseid/.../how-do-i-renew-license-or-id",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcHMDQGJKWYJoTADqCjGRbWZH4Bfp-WrnxenByqI-NT2yj0rgn6l2eHx7C&s",
+      "width": "310",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffc40d",
+      "og:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "og:image:width": "1201",
+      "twitter:card": "summary",
+      "twitter:title": "Renew My License",
+      "theme-color": "#ffffff",
+      "og:site_name": "Georgia Department of Driver Services",
+      "handheldfriendly": "true",
+      "og:title": "Renew My License",
+      "og:image:height": "629",
+      "og:description": "Renewing your license in Georgia can be done online, in person at a center, or by mail.General Information:Your license can be renewed up to 150 days before the expiration date of your license. Allow up to 45 days for your permanent license to be delivered.\u00a0 Your renewed license will be valid for up to 8 years.If you have a digital Driver's License and ID it will automatically update when you renew/update your physical card as well as for birthdays and driver status changes; no action is required on your device.",
+      "twitter:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "twitter:site": "@georgiadds",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Renewing your license in Georgia can be done online, in person at a center, or by mail.General Information:Your license can be renewed up to 150 days before the expiration date of your license. Allow up to 45 days for your permanent license to be delivered.\u00a0 Your renewed license will be valid for up to 8 years.If you have a digital Driver's License and ID it will automatically update when you renew/update your physical card as well as for birthdays and driver status changes; no action is required on your device.",
+      "mobileoptimized": "width",
+      "og:url": "https://dds.georgia.gov/georgia-licenseid/existing-licenseid/how-do-i-renew-license-or-id",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Update License | Georgia Department of Driver Services",
+   "htmlTitle": "Update License | Georgia Department of Driver Services",
+   "link": "https://dds.georgia.gov/georgia-licenseid/existing-licenseid/how-do-i-update-license",
+   "displayLink": "dds.georgia.gov",
+   "snippet": "Customers are allowed one free name or address change during the term of their original driver's license/permit/ID card.",
+   "htmlSnippet": "Customers are allowed one free name or address change during the term of their original <b>driver&#39;s license</b>/permit/ID card.",
+   "formattedUrl": "https://dds.georgia.gov/georgia-licenseid/existing.../how-do-i-update-licens...",
+   "htmlFormattedUrl": "https://dds.georgia.gov/georgia-licenseid/existing.../how-do-i-update-licens...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcHMDQGJKWYJoTADqCjGRbWZH4Bfp-WrnxenByqI-NT2yj0rgn6l2eHx7C&s",
+      "width": "310",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffc40d",
+      "og:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "og:image:width": "1201",
+      "twitter:card": "summary",
+      "twitter:title": "Update/Change License Information",
+      "theme-color": "#ffffff",
+      "og:site_name": "Georgia Department of Driver Services",
+      "handheldfriendly": "true",
+      "og:title": "Update/Change License Information",
+      "og:image:height": "629",
+      "og:description": "Customers are allowed one free name or address change during the term of their original driver's license/permit/ID card.To change your address a second time or subsequent time, there will be a $10 fee. If you are within 150 days of the expiration date of your license, you will be required to renew your license.If you have a digital Driver's License and ID it will automatically update when you renew/update your physical card as well as for birthdays and driver status changes; no action is required on your device.",
+      "twitter:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "twitter:site": "@georgiadds",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Customers are allowed one free name or address change during the term of their original driver's license/permit/ID card.To change your address a second time or subsequent time, there will be a $10 fee. If you are within 150 days of the expiration date of your license, you will be required to renew your license.If you have a digital Driver's License and ID it will automatically update when you renew/update your physical card as well as for birthdays and driver status changes; no action is required on your device.",
+      "mobileoptimized": "width",
+      "og:url": "https://dds.georgia.gov/georgia-licenseid/existing-licenseid/how-do-i-update-license",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Apply for an ID Card | Georgia Department of Driver Services",
+   "htmlTitle": "Apply for an ID Card | Georgia Department of Driver Services",
+   "link": "https://dds.georgia.gov/georgia-licenseid/new-licenseid/apply-id-card",
+   "displayLink": "dds.georgia.gov",
+   "snippet": "License/ID \u00b7 Apply for a Commercial (CDL) License (Class A, B, C) \u00b7 Apply for a Commercial Permit (Class AP or BP) \u00b7 Renew a Commercial Driver's License (CDL).",
+   "htmlSnippet": "License/ID &middot; Apply for a Commercial (CDL) License (Class A, B, C) &middot; Apply for a Commercial Permit (Class AP or BP) &middot; Renew a Commercial <b>Driver&#39;s License</b> (CDL).",
+   "formattedUrl": "https://dds.georgia.gov/georgia-licenseid/new-licenseid/apply-id-card",
+   "htmlFormattedUrl": "https://dds.georgia.gov/georgia-licenseid/new-licenseid/apply-id-card",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcHMDQGJKWYJoTADqCjGRbWZH4Bfp-WrnxenByqI-NT2yj0rgn6l2eHx7C&s",
+      "width": "310",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffc40d",
+      "og:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "og:image:width": "1201",
+      "twitter:card": "summary",
+      "twitter:title": "Apply for an ID Card",
+      "theme-color": "#ffffff",
+      "og:site_name": "Georgia Department of Driver Services",
+      "handheldfriendly": "true",
+      "og:title": "Apply for an ID Card",
+      "og:image:height": "629",
+      "og:description": "Georgia ID Cards",
+      "twitter:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "twitter:site": "@georgiadds",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Georgia ID Cards",
+      "mobileoptimized": "width",
+      "og:url": "https://dds.georgia.gov/georgia-licenseid/new-licenseid/apply-id-card",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Georgia License/ID | Georgia Department of Driver Services",
+   "htmlTitle": "Georgia License/ID | Georgia Department of Driver Services",
+   "link": "https://dds.georgia.gov/georgia-licenseid",
+   "displayLink": "dds.georgia.gov",
+   "snippet": "Your Georgia Driver's License - Everything you need to know about getting a Georgia Driver's License including the rules for each license type.",
+   "htmlSnippet": "Your Georgia <b>Driver&#39;s License</b> - Everything you need to know about getting a Georgia <b>Driver&#39;s License</b> including the rules for each license type.",
+   "formattedUrl": "https://dds.georgia.gov/georgia-licenseid",
+   "htmlFormattedUrl": "https://dds.georgia.gov/georgia-licenseid",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcHMDQGJKWYJoTADqCjGRbWZH4Bfp-WrnxenByqI-NT2yj0rgn6l2eHx7C&s",
+      "width": "310",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffc40d",
+      "og:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "og:image:width": "1201",
+      "twitter:card": "summary",
+      "twitter:title": "Georgia License/ID",
+      "theme-color": "#ffffff",
+      "og:site_name": "Georgia Department of Driver Services",
+      "handheldfriendly": "true",
+      "og:title": "Georgia License/ID",
+      "og:image:height": "629",
+      "og:description": "Your Georgia Driver's License - Everything you need to know about getting a Georgia Driver's License including the rules for each license type.",
+      "twitter:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "twitter:site": "@georgiadds",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Your Georgia Driver's License - Everything you need to know about getting a Georgia Driver's License including the rules for each license type.",
+      "mobileoptimized": "width",
+      "og:url": "https://dds.georgia.gov/georgia-licenseid",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Evans | Georgia Department of Driver Services",
+   "htmlTitle": "Evans | Georgia Department of Driver Services",
+   "link": "https://dds.georgia.gov/locations/evans",
+   "displayLink": "dds.georgia.gov",
+   "snippet": "Commercial Driver's License (CDL) Program \u00b7 Georgia Motorcycle Safety Program (GMSP) \u00b7 Georgia Applicant Processing System (GAPS) \u00b7 Applications \u00b7 Forms/Manuals",
+   "htmlSnippet": "Commercial <b>Driver&#39;s License</b> (CDL) Program &middot; Georgia Motorcycle Safety Program (GMSP) &middot; Georgia Applicant Processing System (GAPS) &middot; Applications &middot; Forms/Manuals",
+   "formattedUrl": "https://dds.georgia.gov/locations/evans",
+   "htmlFormattedUrl": "https://dds.georgia.gov/locations/evans",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcHMDQGJKWYJoTADqCjGRbWZH4Bfp-WrnxenByqI-NT2yj0rgn6l2eHx7C&s",
+      "width": "310",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffc40d",
+      "og:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "og:image:width": "1201",
+      "twitter:card": "summary",
+      "twitter:title": "Evans",
+      "theme-color": "#ffffff",
+      "og:site_name": "Georgia Department of Driver Services",
+      "handheldfriendly": "true",
+      "og:title": "Evans",
+      "openinghours": "Tu-Fr 08:00-18:00",
+      "og:image:height": "629",
+      "twitter:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "twitter:site": "@georgiadds",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width",
+      "og:url": "https://dds.georgia.gov/locations/evans",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Apply For A New GA License | Georgia Department of Driver Services",
+   "htmlTitle": "Apply For A New GA License | Georgia Department of Driver Services",
+   "link": "https://dds.georgia.gov/georgia-licenseid/new-licenseid/apply-new-ga-license",
+   "displayLink": "dds.georgia.gov",
+   "snippet": "You must apply for a Georgia Driver's License within 30 days of becoming a Georgia resident. All Customer Service Centers can transfer an out-of-state license.",
+   "htmlSnippet": "You must apply for a Georgia <b>Driver&#39;s License</b> within 30 days of becoming a Georgia resident. All Customer Service Centers can transfer an out-of-state license.",
+   "formattedUrl": "https://dds.georgia.gov/georgia-licenseid/new.../apply-new-ga-license",
+   "htmlFormattedUrl": "https://dds.georgia.gov/georgia-licenseid/new.../apply-new-ga-license",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcHMDQGJKWYJoTADqCjGRbWZH4Bfp-WrnxenByqI-NT2yj0rgn6l2eHx7C&s",
+      "width": "310",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffc40d",
+      "og:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "og:image:width": "1201",
+      "twitter:card": "summary",
+      "twitter:title": "Apply For A New GA License",
+      "theme-color": "#ffffff",
+      "og:site_name": "Georgia Department of Driver Services",
+      "handheldfriendly": "true",
+      "og:title": "Apply For A New GA License",
+      "og:image:height": "629",
+      "og:description": "You must apply for a Georgia Driver's License within 30 days of becoming a Georgia resident.\u00a0",
+      "twitter:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "twitter:site": "@georgiadds",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "You must apply for a Georgia Driver's License within 30 days of becoming a Georgia resident.\u00a0",
+      "mobileoptimized": "width",
+      "og:url": "https://dds.georgia.gov/georgia-licenseid/new-licenseid/apply-new-ga-license",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ID Card | Georgia Department of Driver Services",
+   "htmlTitle": "ID Card | Georgia Department of Driver Services",
+   "link": "https://dds.georgia.gov/how-do-i-id-card",
+   "displayLink": "dds.georgia.gov",
+   "snippet": "Get the required documents \u00b7 If you were issued a driver's license/permit/ID card in another state, and that card has been lost or stolen: \u00b7 Applicants under age\u00a0...",
+   "htmlSnippet": "Get the required documents &middot; If you were issued a <b>driver&#39;s license</b>/permit/ID card in another state, and that card has been lost or stolen: &middot; Applicants under age&nbsp;...",
+   "formattedUrl": "https://dds.georgia.gov/how-do-i-id-card",
+   "htmlFormattedUrl": "https://dds.georgia.gov/how-do-i-id-card",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcHMDQGJKWYJoTADqCjGRbWZH4Bfp-WrnxenByqI-NT2yj0rgn6l2eHx7C&s",
+      "width": "310",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffc40d",
+      "og:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "og:image:width": "1201",
+      "twitter:card": "summary",
+      "twitter:title": "Get a Georgia State ID Card",
+      "theme-color": "#ffffff",
+      "og:site_name": "Georgia Department of Driver Services",
+      "handheldfriendly": "true",
+      "og:title": "Get a Georgia State ID Card",
+      "og:image:height": "629",
+      "og:description": "Applying for a Georgia ID Card.",
+      "twitter:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "twitter:site": "@georgiadds",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Applying for a Georgia ID Card.",
+      "mobileoptimized": "width",
+      "og:url": "https://dds.georgia.gov/how-do-i-id-card",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png"
+     }
+    ]
+   }
+  }
+ ]
+}

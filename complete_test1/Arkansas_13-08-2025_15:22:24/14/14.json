@@ -1,0 +1,465 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Arkansas\" \"privacy act\" OR \"privacy law\"",
+    "totalResults": "4560000",
+    "searchTerms": "\"Arkansas\" \"privacy act\" OR \"privacy law\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Arkansas\" \"privacy act\" OR \"privacy law\"",
+    "totalResults": "4560000",
+    "searchTerms": "\"Arkansas\" \"privacy act\" OR \"privacy law\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.239818,
+  "formattedSearchTime": "0.24",
+  "totalResults": "4560000",
+  "formattedTotalResults": "4,560,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Privacy in Arkansas: Is Arkansas ready for a consumer privacy law ...",
+   "htmlTitle": "Privacy in <b>Arkansas</b>: Is <b>Arkansas</b> ready for a consumer <b>privacy law</b> ...",
+   "link": "https://iapp.org/news/a/privacy-in-arkansas-is-arkansas-ready-for-a-consumer-privacy-law-",
+   "displayLink": "iapp.org",
+   "snippet": "Nov 15, 2024 ... Joshua Bryant looks at Arkansas' actions on privacy issues and whether the state could be ready to pass a comprehensive data privacy law.",
+   "htmlSnippet": "Nov 15, 2024 <b>...</b> Joshua Bryant looks at <b>Arkansas</b>&#39; actions on privacy issues and whether the state could be ready to pass a comprehensive data <b>privacy law</b>.",
+   "formattedUrl": "https://iapp.org/.../privacy-in-arkansas-is-arkansas-ready-for-a-consumer-pr...",
+   "htmlFormattedUrl": "https://iapp.org/.../privacy-in-<b>arkansas</b>-is-<b>arkansas</b>-ready-for-a-consumer-<b>pr</b>...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShfg8YBoOMhoCy4zZH7uooYDKU3ZogDku1n8koaG4BAM7Kr5hXtlrKH4eH&s",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://images.contentstack.io/v3/assets/bltd4dd5b2d705252bc/bltc89f7594fd77eecb/67325ca0dec4ef2d067ce760/arkansas-littlerock-capitol-chandelier-us-111124.jpg",
+      "theme-color": "#000000",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Privacy in Arkansas: Is Arkansas ready for a consumer privacy law?",
+      "og:title": "Privacy in Arkansas: Is Arkansas ready for a consumer privacy law?",
+      "iapp": "IAPP: Policy neutral, we are the world\u2019s largest information privacy organization.",
+      "og:description": "Joshua Bryant looks at Arkansas' actions on privacy issues and whether the state could be ready to pass a comprehensive data privacy law.",
+      "twitter:image": "https://images.contentstack.io/v3/assets/bltd4dd5b2d705252bc/bltc89f7594fd77eecb/67325ca0dec4ef2d067ce760/arkansas-littlerock-capitol-chandelier-us-111124.jpg",
+      "twitter:site": "@IAPP",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Joshua Bryant looks at Arkansas' actions on privacy issues and whether the state could be ready to pass a comprehensive data privacy law.",
+      "og:locale": "en_US",
+      "og:url": "https://iapp.org/news/a/privacy-in-arkansas-is-arkansas-ready-for-a-consumer-privacy-law-"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://images.contentstack.io/v3/assets/bltd4dd5b2d705252bc/bltc89f7594fd77eecb/67325ca0dec4ef2d067ce760/arkansas-littlerock-capitol-chandelier-us-111124.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arkansas Online Privacy Act Expands Privacy Protections for ...",
+   "htmlTitle": "<b>Arkansas</b> Online <b>Privacy Act</b> Expands Privacy Protections for ...",
+   "link": "https://www.wilmerhale.com/en/insights/blogs/wilmerhale-privacy-and-cybersecurity-law/20250521-arkansas-online-privacy-act-expands-privacy-protections-for-children-and-teens",
+   "displayLink": "www.wilmerhale.com",
+   "snippet": "May 21, 2025 ... Arkansas Online Privacy Act Expands Privacy Protections for Children and Teens ... 6501\u20136505) and a proposed federal bill to amend COPPA (\u201cCOPPA\u00a0...",
+   "htmlSnippet": "May 21, 2025 <b>...</b> <b>Arkansas</b> Online <b>Privacy Act</b> Expands Privacy Protections for Children and Teens ... 6501\u20136505) and a proposed federal bill to amend COPPA (\u201cCOPPA&nbsp;...",
+   "formattedUrl": "https://www.wilmerhale.com/.../20250521-arkansas-online-privacy-act-exp...",
+   "htmlFormattedUrl": "https://www.wilmerhale.com/.../20250521-<b>arkansas</b>-online-<b>privacy-act</b>-exp...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-d8buN08b-44akRST6rguzeSI-p74mTo6RmYl8u9IB43vnHJz_FLC5Fg&s",
+      "width": "318",
+      "height": "159"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.wilmerhale.com/-/media/053ba1838ee44d41b5019c73964a96bd.jpg",
+      "twitter:card": "summary_large_image",
+      "og:type": "website",
+      "twitter:site": "@WilmerHale",
+      "viewport": "initial-scale=1.0, maximum-scale=1, width=device-width, user-scalable=no",
+      "og:title": "Arkansas Online Privacy Act Expands Privacy Protections for Children and Teens",
+      "og:url": "https://www.wilmerhale.com/en/insights/blogs/wilmerhale-privacy-and-cybersecurity-law/20250521-arkansas-online-privacy-act-expands-privacy-protections-for-children-and-teens",
+      "og:description": "Arkansas's Governor signed HB 1717 into law, which will prohibit the collection of personal information of children or teens for the purposes of targeted advertising.",
+      "twitter:image": "https://www.wilmerhale.com/-/media/053ba1838ee44d41b5019c73964a96bd.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.wilmerhale.com/-/media/053ba1838ee44d41b5019c73964a96bd.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "HB1148 Bill Information - Arkansas State Legislature",
+   "htmlTitle": "HB1148 Bill Information - <b>Arkansas</b> State Legislature",
+   "link": "https://arkleg.state.ar.us/Bills/Detail?id=HB1148&ddBienniumSession=2025%2F2025R",
+   "displayLink": "arkleg.state.ar.us",
+   "snippet": "HB1148 - To create the Arkansas privacy act; and to address certain images captured by unmanned aircraft systems.",
+   "htmlSnippet": "HB1148 - To create the <b>Arkansas privacy act</b>; and to address certain images captured by unmanned aircraft systems.",
+   "formattedUrl": "https://arkleg.state.ar.us/Bills/Detail?id=HB1148&ddBienniumSession...",
+   "htmlFormattedUrl": "https://arkleg.state.ar.us/Bills/Detail?id=HB1148&amp;ddBienniumSession...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyVxkFCdPGvd_BVS4ZMsfNzgBp0wDAD1QBUairc6zjXkGQHcrgdvfdMIo&s",
+      "width": "194",
+      "height": "259"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://arkleg.state.ar.us/Images/mp/arsl_mainpage_hero_mobile-tablet.jpg",
+      "og:type": "website",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "og:title": "HB1148 Bill Information",
+      "og:url": "https://arkleg.state.ar.us/Bills/Detail",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://arkleg.state.ar.us/Images/mp/arsl_mainpage_hero_mobile-tablet.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arkansas | Jurisdictions | DataGuidance",
+   "htmlTitle": "<b>Arkansas</b> | Jurisdictions | DataGuidance",
+   "link": "https://www.dataguidance.com/jurisdictions/arkansas",
+   "displayLink": "www.dataguidance.com",
+   "snippet": "Arkansas. Law: Personal Information Protection Act ('the ... Additional privacy legislation includes the Arkansas Consumer Telephone Privacy Act under Ark.",
+   "htmlSnippet": "<b>Arkansas</b>. Law: Personal Information Protection Act (&#39;the ... Additional privacy legislation includes the <b>Arkansas</b> Consumer Telephone <b>Privacy Act</b> under Ark.",
+   "formattedUrl": "https://www.dataguidance.com/jurisdictions/arkansas",
+   "htmlFormattedUrl": "https://www.dataguidance.com/jurisdictions/<b>arkansas</b>",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:type": "website",
+      "twitter:title": "Arkansas | Jurisdictions | DataGuidance",
+      "twitter:card": "summary",
+      "og:site_name": "DataGuidance",
+      "twitter:url": "https://www.dataguidance.com/jurisdictions/arkansas",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "Arkansas | Jurisdictions | DataGuidance",
+      "og:url": "https://www.dataguidance.com/jurisdictions/arkansas"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arkansas Adopts Privacy Law To Extend COPPA-Like Protections to ...",
+   "htmlTitle": "<b>Arkansas</b> Adopts <b>Privacy Law</b> To Extend COPPA-Like Protections to ...",
+   "link": "https://www.dwt.com/blogs/privacy--security-law-blog/2025/06/arkansas-children-privacy-law-coppa",
+   "displayLink": "www.dwt.com",
+   "snippet": "Arkansas Adopts Privacy Law To Extend COPPA-Like Protections to Teens. The ... Privacy Act by using the toggle switch. Enabling privacy controls on your\u00a0...",
+   "htmlSnippet": "<b>Arkansas</b> Adopts <b>Privacy Law</b> To Extend COPPA-Like Protections to Teens. The ... <b>Privacy Act</b> by using the toggle switch. Enabling privacy controls on your&nbsp;...",
+   "formattedUrl": "https://www.dwt.com/blogs/...law.../arkansas-children-privacy-law-coppa",
+   "htmlFormattedUrl": "https://www.dwt.com/blogs/...law.../<b>arkansas</b>-children-<b>privacy-law</b>-coppa",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8_MU5qWarPjxnX_IZVwJPgd4nz2aP2IYqidAjjkWjlniYnZ5N7UIG5vA&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dwt.com/-/media/images/blogs/ai-law-advisor/2022/social-media/headers/header_blog_socialmedia_cell.jpg?rev=75c408ef8ba340918e32b2484c92f88d&hash=755BD6FBD160873259B89933D8B2D8E0",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Arkansas Adopts Privacy Law To Extend COPPA-Like Protections to Teens | Davis Wright Tremaine",
+      "og:title": "Arkansas Adopts Privacy Law To Extend COPPA-Like Protections to Teens | Davis Wright Tremaine",
+      "oni_itemid": "80f1c25e-1bd2-4ca2-b826-d99f1b364633",
+      "oni_name": "Arkansas Adopts Privacy Law To Extend COPPA-Like Protections to Teens",
+      "title": "Arkansas Adopts Privacy Law To Extend COPPA-Like Protections to Teens",
+      "og:description": "Arkansas Governor Huckabee Sanders has signed the Arkansas Children and Teens' Online Privacy Protection Act, which  prohibits operators of websites,",
+      "oni_entitytype": "Insights",
+      "twitter:image:src": "https://www.dwt.com/-/media/images/blogs/ai-law-advisor/2022/social-media/headers/header_blog_socialmedia_cell.jpg?rev=75c408ef8ba340918e32b2484c92f88d&hash=755BD6FBD160873259B89933D8B2D8E0",
+      "oni_language": "en",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Arkansas Governor Huckabee Sanders has signed the Arkansas Children and Teens' Online Privacy Protection Act, which  prohibits operators of websites,",
+      "oni_section": "insights",
+      "oni_attachedfilters": "57c591cae2a6405cbc6be7829d668997",
+      "og:url": "https://www.dwt.com/blogs/privacy--security-law-blog/2025/06/arkansas-children-privacy-law-coppa"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dwt.com/-/media/images/blogs/ai-law-advisor/2022/social-media/headers/header_blog_socialmedia_cell.jpg?rev=75c408ef8ba340918e32b2484c92f88d&hash=755BD6FBD160873259B89933D8B2D8E0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arkansas Privacy Law - Centraleyes",
+   "htmlTitle": "<b>Arkansas Privacy Law</b> - Centraleyes",
+   "link": "https://www.centraleyes.com/privacy-laws/arkansas/",
+   "displayLink": "www.centraleyes.com",
+   "snippet": "The Arkansas state privacy act requires social media sites like Facebook and ... Arkansas Biometric Privacy Law. According to Arkansas law\u00a0...",
+   "htmlSnippet": "The <b>Arkansas</b> state <b>privacy act</b> requires social media sites like Facebook and ... <b>Arkansas</b> Biometric <b>Privacy Law</b>. According to <b>Arkansas</b> law&nbsp;...",
+   "formattedUrl": "https://www.centraleyes.com/privacy-laws/arkansas/",
+   "htmlFormattedUrl": "https://www.centraleyes.com/<b>privacy-law</b>s/<b>arkansas</b>/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiRLJXPWEH57Et6-WkpyDV2nJ_ukvd3jVjqSovJ7V-k4CGOMXa5zkmZacA&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.centraleyes.com/wp-content/uploads/2022/08/url_image.png",
+      "og:type": "article",
+      "og:image:width": "2500",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Centraleyes",
+      "og:title": "Arkansas Privacy Law - Centraleyes",
+      "og:image:height": "1313",
+      "twitter:label1": "Est. reading time",
+      "og:image:type": "image/png",
+      "msapplication-tileimage": "https://www.centraleyes.com/wp-content/uploads/2021/07/cropped-centraleyes-favicon-270x270.png",
+      "og:description": "Arkansas is one of a shrinking number of states that do not currently have a comprehensive data privacy law in effect.",
+      "twitter:data1": "3 minutes",
+      "article:modified_time": "2023-12-21T10:48:27+00:00",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:locale": "en_US",
+      "og:url": "https://www.centraleyes.com/privacy-laws/arkansas/",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.centraleyes.com/wp-content/uploads/2022/08/url_image.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Part 1. Federal Driver's Privacy Act - Code of Arkansas Rules",
+   "htmlTitle": "Part 1. Federal Driver&#39;s <b>Privacy Act</b> - Code of <b>Arkansas</b> Rules",
+   "link": "https://codeofarrules.arkansas.gov/Rules/Rule?levelType=part&titleID=27&chapterID=34&subChapterID=273&partID=1002&subPartID=&sectionID=",
+   "displayLink": "codeofarrules.arkansas.gov",
+   "snippet": "Part 1. Federal Driver's Privacy Act ... DISCLAIMER: The inclusion of a rule in the Code of Arkansas Rules shall not be construed to represent an expression that\u00a0...",
+   "htmlSnippet": "Part 1. Federal Driver&#39;s <b>Privacy Act</b> ... DISCLAIMER: The inclusion of a rule in the Code of <b>Arkansas</b> Rules shall not be construed to represent an expression that&nbsp;...",
+   "formattedUrl": "https://codeofarrules.arkansas.gov/Rules/Rule?levelType...",
+   "htmlFormattedUrl": "https://codeofarrules.<b>arkansas</b>.gov/Rules/Rule?levelType...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjkY4Ysk6UVl9e9zIT8PvcfRCtva4le3BDsNBgDfyjliShUf7HTryDD2Nd&s",
+      "width": "172",
+      "height": "172"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://codeofarrules.arkansas.gov/img/seal_of_arkansas.gif"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Family Educational Privacy Act (FERPA) | Registrar | Southern ...",
+   "htmlTitle": "Family Educational <b>Privacy Act</b> (FERPA) | Registrar | Southern ...",
+   "link": "https://web.saumag.edu/registrar/ferpa/",
+   "displayLink": "web.saumag.edu",
+   "snippet": "Family Educational Privacy Act (FERPA). The Family Educational Rights and ... Southern Arkansas University is accredited by The Higher Learning Commission.",
+   "htmlSnippet": "Family Educational <b>Privacy Act</b> (FERPA). The Family Educational Rights and ... Southern <b>Arkansas</b> University is accredited by The Higher Learning Commission.",
+   "formattedUrl": "https://web.saumag.edu/registrar/ferpa/",
+   "htmlFormattedUrl": "https://web.saumag.edu/registrar/ferpa/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQkR6YrNu8xxaoUY7Vxy4w2HOYOGW2ueCVF1NqEEZjY6JaTWtN6pMEOo8Z&s",
+      "width": "312",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Family Educational Privacy Act (FERPA) | Registrar | Southern Arkansas University",
+      "og:site_name": "Registrar | Southern Arkansas University",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "The Family Educational Rights and Privacy Act of 1984, also known as the Buckley Amendment, helps protect the privacy of student records. The Act provides for students the right to inspect and review\u2026",
+      "og:title": "Family Educational Privacy Act (FERPA) | Registrar | Southern Arkansas University",
+      "og:locale": "en_US",
+      "og:url": "https://web.saumag.edu/registrar/ferpa/",
+      "og:description": "The Family Educational Rights and Privacy Act of 1984, also known as the Buckley Amendment, helps protect the privacy of student records. The Act provides for students the right to inspect and review\u2026"
+     }
+    ],
+    "creativework": [
+     {
+      "text": "The Family Educational Rights and Privacy Act of 1984, also known as the Buckley Amendment, helps protect the privacy of student records. The Act provides for students the right to inspect..."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://web-9635.kxcdn.com/wp-content/themes/sau-cce2/images/sau-logo.webp"
+     }
+    ],
+    "sitenavigationelement": [
+     {
+      "name": "About",
+      "url": "About"
+     },
+     {
+      "name": "Transcripts",
+      "url": "Transcripts"
+     }
+    ],
+    "wpsidebar": [
+     {
+      "url": "Academic Advising & Assistance"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "Home",
+      "name": "Home",
+      "position": "1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Family Educational Rights and Privacy Act | Student Accountability ...",
+   "htmlTitle": "Family Educational Rights and <b>Privacy Act</b> | Student Accountability ...",
+   "link": "https://accountability.uark.edu/policies/ferpa.php",
+   "displayLink": "accountability.uark.edu",
+   "snippet": "The University of Arkansas has taken the stance that parents can serve as effective partners in the reduction, prevention and education of students regarding\u00a0...",
+   "htmlSnippet": "The University of <b>Arkansas</b> has taken the stance that parents can serve as effective partners in the reduction, prevention and education of students regarding&nbsp;...",
+   "formattedUrl": "https://accountability.uark.edu/policies/ferpa.php",
+   "htmlFormattedUrl": "https://accountability.uark.edu/policies/ferpa.php",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFmxSldHbfi9AB-jDgotfjGUIDn8lzCbHrUxbC0nKSxP5lc9HHv7lwVdY&s",
+      "width": "150",
+      "height": "205"
+     }
+    ],
+    "metatags": [
+     {
+      "application-name": "UARK",
+      "og:type": "website",
+      "theme-color": "#fff",
+      "og:site_name": "Student Accountability",
+      "apple-mobile-web-app-status-bar-style": "black-translucent",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "apple-mobile-web-app-capable": "yes",
+      "og:title": "Family Educational Rights and Privacy Act",
+      "apple-mobile-web-app-title": "UARK",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://accountability.uark.edu/",
+      "searchcrawler:sectiontype": "UARK"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://includes.uark.edu/assets/tower-grey.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arkansas Advances Children and Teen Privacy Laws | Inside Privacy",
+   "htmlTitle": "<b>Arkansas</b> Advances Children and Teen Privacy Laws | Inside Privacy",
+   "link": "https://www.insideprivacy.com/state-privacy/arkansas-advances-children-and-teen-privacy-laws/",
+   "displayLink": "www.insideprivacy.com",
+   "snippet": "Apr 25, 2025 ... Arkansas Children and Teens' Online Privacy Act (HB 1717) is modeled after the proposed expansion of the Children's Online Privacy Protection\u00a0...",
+   "htmlSnippet": "Apr 25, 2025 <b>...</b> <b>Arkansas</b> Children and Teens&#39; Online <b>Privacy Act</b> (HB 1717) is modeled after the proposed expansion of the Children&#39;s Online Privacy Protection&nbsp;...",
+   "formattedUrl": "https://www.insideprivacy.com/.../arkansas-advances-children-and-teen-pri...",
+   "htmlFormattedUrl": "https://www.insideprivacy.com/.../<b>arkansas</b>-advances-children-and-teen-<b>pri</b>...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdbPCyYQ7280zvnhllpuV3W3ZC2ElkhcfeLjsCeEBMZmyqm04GumSFEbg&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.insideprivacy.com/wp-content/uploads/sites/51/2024/09/Inside-Privacy_Social-Media-Preview-Asset-1.jpg",
+      "og:type": "article",
+      "article:published_time": "2025-04-25T20:15:02+00:00",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Inside Privacy",
+      "author": "Lindsey Tonsager, Natalie Maas, Divya Bhat, Bryan Ramirez",
+      "og:title": "Arkansas Advances Children and Teen Privacy Laws",
+      "og:image:height": "675",
+      "twitter:label1": "Written by",
+      "twitter:label2": "Est. reading time",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://www.insideprivacy.com/wp-content/uploads/sites/51/2021/07/cropped-cropped-cropped-favicon-3-2-270x270.png",
+      "og:description": "On April 21, 2025, Arkansas Governor Sarah Huckabee Sanders signed three laws expanding privacy protections for children and teens. The Content Creation",
+      "twitter:data1": "Lindsey Tonsager, Natalie Maas, Divya Bhat, Bryan Ramirez",
+      "twitter:data2": "7 minutes",
+      "article:modified_time": "2025-04-29T14:56:31+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.insideprivacy.com/state-privacy/arkansas-advances-children-and-teen-privacy-laws/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.insideprivacy.com/wp-content/uploads/sites/51/2024/09/Inside-Privacy_Social-Media-Preview-Asset-1.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,430 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://oklahoma.gov/service \"REAL ID\"",
+    "totalResults": "404",
+    "searchTerms": "site:https://oklahoma.gov/service \"REAL ID\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://oklahoma.gov/service \"REAL ID\"",
+    "totalResults": "404",
+    "searchTerms": "site:https://oklahoma.gov/service \"REAL ID\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.125582,
+  "formattedSearchTime": "0.13",
+  "totalResults": "404",
+  "formattedTotalResults": "404"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "REAL ID",
+   "htmlTitle": "<b>REAL ID</b>",
+   "link": "https://oklahoma.gov/service/popular-services/real-id-checklist.html",
+   "displayLink": "oklahoma.gov",
+   "snippet": "A REAL ID is a Driver License or State ID with a gold star in the top right corner indicating it meets a federal minimum security standards.",
+   "htmlSnippet": "A <b>REAL ID</b> is a Driver License or State ID with a gold star in the top right corner indicating it meets a federal minimum security standards.",
+   "formattedUrl": "https://oklahoma.gov/service/popular-services/real-id-checklist.html",
+   "htmlFormattedUrl": "https://oklahoma.gov/service/popular-services/<b>real-id</b>-checklist.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrVGbZsLt1PwWLIeoK8p6XWoMOayQKSJAoM6_M64ZDO4dgg7wJX1XraDc&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "imageobject": [
+     {
+      "contenturl": "https://oklahoma.gov/content/experience-fragments/service-oklahoma/us/en/site/header/master/_jcr_content/root/image.coreimg.svg/1667003920072/sok-logo.svg"
+     },
+     {
+      "contenturl": "https://oklahoma.gov/service/popular-services/real-id-checklist/_jcr_content/root/container/container_1001156106/image_copy.coreimg.85.128.jpeg/1744664299784/real-id-0425-outdoor-1280x384-1.jpeg"
+     },
+     {
+      "contenturl": "https://oklahoma.gov/content/experience-fragments/service-oklahoma/us/en/site/footer/master/_jcr_content/root/image.coreimg.svg/1667003937029/sok-logo-white.svg"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "content-page",
+      "twitter:card": "summary",
+      "twitter:title": "REAL ID",
+      "og:type": "website",
+      "og:site_name": "Service Oklahoma",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Get ready for REAL ID with our comprehensive checklist of documents and information you'll need to bring to Service Oklahoma. Our guide covers everything from proof of identity to residency to make sure you have everything you need for a smooth application process.",
+      "og:title": "REAL ID",
+      "og:locale": "en",
+      "og:description": "Get ready for REAL ID with our comprehensive checklist of documents and information you'll need to bring to Service Oklahoma. Our guide covers everything from proof of identity to residency to make sure you have everything you need for a smooth application process."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://oklahoma.gov/service/popular-services/real-id-checklist/_jcr_content/root/container/container_2117176906/contentblock_1454728.coreimg.png/1745425805849/real-id-sample-valid-arrow-sqaure.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "REAL ID Checklist",
+   "htmlTitle": "<b>REAL ID</b> Checklist",
+   "link": "https://oklahoma.gov/service/sokonline/online-real-id-checklist.html",
+   "displayLink": "oklahoma.gov",
+   "snippet": "Access our digital checklist to learn which documents are required for your visit to obtain a Real ID.",
+   "htmlSnippet": "Access our digital checklist to learn which documents are required for your visit to obtain a <b>Real ID</b>.",
+   "formattedUrl": "https://oklahoma.gov/service/sokonline/online-real-id-checklist.html",
+   "htmlFormattedUrl": "https://oklahoma.gov/service/sokonline/online-<b>real-id</b>-checklist.html",
+   "pagemap": {
+    "imageobject": [
+     {
+      "contenturl": "https://oklahoma.gov/content/experience-fragments/service-oklahoma/us/en/site/header/master/_jcr_content/root/image.coreimg.svg/1667003920072/sok-logo.svg"
+     },
+     {
+      "contenturl": "https://oklahoma.gov/content/experience-fragments/service-oklahoma/us/en/site/footer/master/_jcr_content/root/image.coreimg.svg/1667003937029/sok-logo-white.svg"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "content-page",
+      "twitter:card": "summary",
+      "twitter:title": "REAL ID Checklist",
+      "og:type": "website",
+      "og:site_name": "Service Oklahoma",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Access our digital checklist to learn which documents are required for your visit to obtain a Real ID",
+      "og:title": "REAL ID Checklist",
+      "og:locale": "en",
+      "og:description": "Access our digital checklist to learn which documents are required for your visit to obtain a Real ID"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Required Documents",
+   "htmlTitle": "Required Documents",
+   "link": "https://oklahoma.gov/service/all-pages/required-documents.html",
+   "displayLink": "oklahoma.gov",
+   "snippet": "Primary ID Documents \u00b7 Valid, unexpired Oklahoma Driver License or State ID Card (not applicable for original REAL ID or original CDL issuance) \u00b7 A Birth\u00a0...",
+   "htmlSnippet": "Primary ID Documents &middot; Valid, unexpired Oklahoma Driver License or State ID Card (not applicable for original <b>REAL ID</b> or original CDL issuance) &middot; A Birth&nbsp;...",
+   "formattedUrl": "https://oklahoma.gov/service/all-pages/required-documents.html",
+   "htmlFormattedUrl": "https://oklahoma.gov/service/all-pages/required-documents.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkveGyi7gkpYIVlIQSk5Eqsu_8DvG4dN-SL_Ji4nhATCiJ7eEUpDyRrdQ&s",
+      "width": "250",
+      "height": "202"
+     }
+    ],
+    "imageobject": [
+     {
+      "contenturl": "https://oklahoma.gov/content/experience-fragments/service-oklahoma/us/en/site/header/master/_jcr_content/root/image.coreimg.svg/1667003920072/sok-logo.svg"
+     },
+     {
+      "contenturl": "https://oklahoma.gov/content/experience-fragments/service-oklahoma/us/en/site/footer/master/_jcr_content/root/image.coreimg.svg/1667003937029/sok-logo-white.svg"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "content-page",
+      "twitter:card": "summary",
+      "twitter:title": "Required Documents",
+      "og:type": "website",
+      "og:site_name": "Service Oklahoma",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Depending on the service that you are looking to complete, you will be required to provide acceptable documents, including but not limited to identity documents, proof of Oklahoma residency, name change documents, and proof of veteran status.",
+      "og:title": "Required Documents",
+      "og:locale": "en",
+      "og:description": "Depending on the service that you are looking to complete, you will be required to provide acceptable documents, including but not limited to identity documents, proof of Oklahoma residency, name change documents, and proof of veteran status."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://oklahoma.gov/service/all-pages/required-documents/_jcr_content/root/container/hero_copy.coreimg.svg/1668730715134/required-documents.svg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "PR: REAL ID Enforcement Begins: Service Oklahoma Continues to ...",
+   "htmlTitle": "PR: <b>REAL ID</b> Enforcement Begins: Service Oklahoma Continues to ...",
+   "link": "https://oklahoma.gov/service/newsroom/real-id-enforcement-begins.html",
+   "displayLink": "oklahoma.gov",
+   "snippet": "May 6, 2025 ... Starting tomorrow, travelers nationwide must present a REAL ID-compliant license or another TSA-accepted form of identification to board domestic flights or\u00a0...",
+   "htmlSnippet": "May 6, 2025 <b>...</b> Starting tomorrow, travelers nationwide must present a <b>REAL ID</b>-compliant license or another TSA-accepted form of identification to board domestic flights or&nbsp;...",
+   "formattedUrl": "https://oklahoma.gov/service/newsroom/real-id-enforcement-begins.html",
+   "htmlFormattedUrl": "https://oklahoma.gov/service/newsroom/<b>real-id</b>-enforcement-begins.html",
+   "pagemap": {
+    "imageobject": [
+     {
+      "contenturl": "https://oklahoma.gov/content/experience-fragments/service-oklahoma/us/en/site/header/master/_jcr_content/root/image.coreimg.svg/1667003920072/sok-logo.svg"
+     },
+     {
+      "contenturl": "https://oklahoma.gov/content/experience-fragments/service-oklahoma/us/en/site/footer/master/_jcr_content/root/image.coreimg.svg/1667003937029/sok-logo-white.svg"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "content-page",
+      "twitter:card": "summary",
+      "twitter:title": "PR: REAL ID Enforcement Begins: Service Oklahoma Continues to Support Travelers",
+      "og:type": "website",
+      "og:site_name": "Service Oklahoma",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "PR: REAL ID Enforcement Begins: Service Oklahoma Continues to Support Travelers",
+      "og:locale": "en"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "PR: SOK Launches REAL ID Mondays and Wednesdays for After ...",
+   "htmlTitle": "PR: SOK Launches <b>REAL ID</b> Mondays and Wednesdays for After ...",
+   "link": "https://oklahoma.gov/service/newsroom/sok-launches-realid-after-hours-appointments.html",
+   "displayLink": "oklahoma.gov",
+   "snippet": "Apr 3, 2025 ... OKLAHOMA CITY \u2013 With the May 7, 2025, federal REAL ID deadline approaching, Service Oklahoma is expanding access to ensure more Oklahomans\u00a0...",
+   "htmlSnippet": "Apr 3, 2025 <b>...</b> OKLAHOMA CITY \u2013 With the May 7, 2025, federal <b>REAL ID</b> deadline approaching, Service Oklahoma is expanding access to ensure more Oklahomans&nbsp;...",
+   "formattedUrl": "https://oklahoma.gov/.../sok-launches-realid-after-hours-appointments.html",
+   "htmlFormattedUrl": "https://oklahoma.gov/.../sok-launches-<b>realid</b>-after-hours-appointments.html",
+   "pagemap": {
+    "imageobject": [
+     {
+      "contenturl": "https://oklahoma.gov/content/experience-fragments/service-oklahoma/us/en/site/header/master/_jcr_content/root/image.coreimg.svg/1667003920072/sok-logo.svg"
+     },
+     {
+      "contenturl": "https://oklahoma.gov/content/experience-fragments/service-oklahoma/us/en/site/footer/master/_jcr_content/root/image.coreimg.svg/1667003937029/sok-logo-white.svg"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "content-page",
+      "twitter:card": "summary",
+      "twitter:title": "PR: SOK Launches REAL ID Mondays and Wednesdays for After-Hours Appointments",
+      "og:type": "website",
+      "og:site_name": "Service Oklahoma",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "PR: SOK Launches REAL ID Mondays and Wednesdays for After-Hours Appointments",
+      "og:locale": "en"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Renew & Replace License & ID",
+   "htmlTitle": "Renew &amp; Replace License &amp; ID",
+   "link": "https://oklahoma.gov/service/popular-services/renew-replace.html",
+   "displayLink": "oklahoma.gov",
+   "snippet": "Renewals & Replacements \u00b7 Which are you renewing or replacing? \u00b7 Are You REAL ID Ready? \u00b7 Introducing Miles: Your Virtual Assistant \u00b7 Miles \u00b7 Frequently Asked\u00a0...",
+   "htmlSnippet": "Renewals &amp; Replacements &middot; Which are you renewing or replacing? &middot; Are You <b>REAL ID</b> Ready? &middot; Introducing Miles: Your Virtual Assistant &middot; Miles &middot; Frequently Asked&nbsp;...",
+   "formattedUrl": "https://oklahoma.gov/service/popular-services/renew-replace.html",
+   "htmlFormattedUrl": "https://oklahoma.gov/service/popular-services/renew-replace.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnuVZBs_EGC-0ePdnpbnZdnNnSLMpaddSd9nCnHCDOvcMmGtzEjmZtFLI&s",
+      "width": "339",
+      "height": "149"
+     }
+    ],
+    "imageobject": [
+     {
+      "contenturl": "https://oklahoma.gov/content/experience-fragments/service-oklahoma/us/en/site/header/master/_jcr_content/root/image.coreimg.svg/1667003920072/sok-logo.svg"
+     },
+     {
+      "contenturl": "https://oklahoma.gov/content/experience-fragments/service-oklahoma/us/en/site/footer/master/_jcr_content/root/image.coreimg.svg/1667003937029/sok-logo-white.svg"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "content-page",
+      "twitter:card": "summary",
+      "twitter:title": "Renew & Replace License & ID",
+      "og:type": "website",
+      "og:site_name": "Service Oklahoma",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "If you already have an Oklahoma Driver License (DL) or State Identification Card, you can renew or replace it online or in person at a Licensed Operator, or Service Oklahoma Licensing Office.",
+      "og:title": "Renew & Replace License & ID",
+      "og:locale": "en",
+      "og:description": "If you already have an Oklahoma Driver License (DL) or State Identification Card, you can renew or replace it online or in person at a Licensed Operator, or Service Oklahoma Licensing Office."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://oklahoma.gov/content/dam/service-oklahoma/Images/adult-driver-blue-2.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "PR: Oklahomans Urged to Plan Ahead for REAL ID Before May 7 ...",
+   "htmlTitle": "PR: Oklahomans Urged to Plan Ahead for <b>REAL ID</b> Before May 7 ...",
+   "link": "https://oklahoma.gov/service/newsroom/oklahomans-urged-to-plan-realid.html",
+   "displayLink": "oklahoma.gov",
+   "snippet": "Apr 25, 2025 ... With federal enforcement of REAL ID requirements starting May 7, 2025, Service Oklahoma is reminding travelers that waiting too long to apply could disrupt\u00a0...",
+   "htmlSnippet": "Apr 25, 2025 <b>...</b> With federal enforcement of <b>REAL ID</b> requirements starting May 7, 2025, Service Oklahoma is reminding travelers that waiting too long to apply could disrupt&nbsp;...",
+   "formattedUrl": "https://oklahoma.gov/service/.../oklahomans-urged-to-plan-realid.html",
+   "htmlFormattedUrl": "https://oklahoma.gov/service/.../oklahomans-urged-to-plan-<b>realid</b>.html",
+   "pagemap": {
+    "imageobject": [
+     {
+      "contenturl": "https://oklahoma.gov/content/experience-fragments/service-oklahoma/us/en/site/header/master/_jcr_content/root/image.coreimg.svg/1667003920072/sok-logo.svg"
+     },
+     {
+      "contenturl": "https://oklahoma.gov/content/experience-fragments/service-oklahoma/us/en/site/footer/master/_jcr_content/root/image.coreimg.svg/1667003937029/sok-logo-white.svg"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "content-page",
+      "twitter:card": "summary",
+      "twitter:title": "PR: Oklahomans Urged to Plan Ahead for REAL ID Before May 7 Enforcement Begins",
+      "og:type": "website",
+      "og:site_name": "Service Oklahoma",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "PR: Oklahomans Urged to Plan Ahead for REAL ID Before May 7 Enforcement Begins",
+      "og:locale": "en"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "PR: More After-Hours and Weekend Appointments Now Available",
+   "htmlTitle": "PR: More After-Hours and Weekend Appointments Now Available",
+   "link": "https://oklahoma.gov/service/newsroom/more-after-hours-weekend-appointments.html",
+   "displayLink": "oklahoma.gov",
+   "snippet": "May 1, 2025 ... OKLAHOMA CITY \u2014With federal enforcement of REAL ID requirements starting May 7, Service Oklahoma is reminding residents to plan ahead for\u00a0...",
+   "htmlSnippet": "May 1, 2025 <b>...</b> OKLAHOMA CITY \u2014With federal enforcement of <b>REAL ID</b> requirements starting May 7, Service Oklahoma is reminding residents to plan ahead for&nbsp;...",
+   "formattedUrl": "https://oklahoma.gov/service/.../more-after-hours-weekend-appointments.ht...",
+   "htmlFormattedUrl": "https://oklahoma.gov/service/.../more-after-hours-weekend-appointments.ht...",
+   "pagemap": {
+    "imageobject": [
+     {
+      "contenturl": "https://oklahoma.gov/content/experience-fragments/service-oklahoma/us/en/site/header/master/_jcr_content/root/image.coreimg.svg/1667003920072/sok-logo.svg"
+     },
+     {
+      "contenturl": "https://oklahoma.gov/content/experience-fragments/service-oklahoma/us/en/site/footer/master/_jcr_content/root/image.coreimg.svg/1667003937029/sok-logo-white.svg"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "content-page",
+      "twitter:card": "summary",
+      "twitter:title": "PR: More After-Hours and Weekend Appointments Now Available",
+      "og:type": "website",
+      "og:site_name": "Service Oklahoma",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "PR: More After-Hours and Weekend Appointments Now Available",
+      "og:locale": "en"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "PR: Service Oklahoma Launches the REAL ID Tracker and ...",
+   "htmlTitle": "PR: Service Oklahoma Launches the <b>REAL ID</b> Tracker and ...",
+   "link": "https://oklahoma.gov/service/newsroom/sok-ok-launches-real-id-tracker.html",
+   "displayLink": "oklahoma.gov",
+   "snippet": "Oct 1, 2024 ... The Oklahoma REAL ID Tracker shows a real-time estimate of how many REAL IDs have been added throughout the week, while also featuring a timer.",
+   "htmlSnippet": "Oct 1, 2024 <b>...</b> The Oklahoma <b>REAL ID</b> Tracker shows a real-time estimate of how many REAL IDs have been added throughout the week, while also featuring a timer.",
+   "formattedUrl": "https://oklahoma.gov/service/.../sok-ok-launches-real-id-tracker.html",
+   "htmlFormattedUrl": "https://oklahoma.gov/service/.../sok-ok-launches-<b>real-id</b>-tracker.html",
+   "pagemap": {
+    "imageobject": [
+     {
+      "contenturl": "https://oklahoma.gov/content/experience-fragments/service-oklahoma/us/en/site/header/master/_jcr_content/root/image.coreimg.svg/1667003920072/sok-logo.svg"
+     },
+     {
+      "contenturl": "https://oklahoma.gov/service/newsroom/sok-ok-launches-real-id-tracker/_jcr_content/root/container/container/image.coreimg.85.128.png/1727794219038/realid-timer.png"
+     },
+     {
+      "contenturl": "https://oklahoma.gov/service/newsroom/sok-ok-launches-real-id-tracker/_jcr_content/root/container/container/image_1482527059.coreimg.85.1024.png/1727795064757/real-id-2.png",
+      "caption": "Click on graphic to download the REAL ID graphic."
+     },
+     {
+      "contenturl": "https://oklahoma.gov/content/experience-fragments/service-oklahoma/us/en/site/footer/master/_jcr_content/root/image.coreimg.svg/1667003937029/sok-logo-white.svg"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "content-page",
+      "twitter:card": "summary",
+      "twitter:title": "PR: Service Oklahoma Launches the REAL ID Tracker and Countdown Timer",
+      "og:type": "website",
+      "og:site_name": "Service Oklahoma",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "PR: Service Oklahoma Launches the REAL ID Tracker and Countdown Timer",
+      "og:locale": "en"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "PR: Tis' the Season to Apply for a REAL ID",
+   "htmlTitle": "PR: Tis&#39; the Season to Apply for a <b>REAL ID</b>",
+   "link": "https://oklahoma.gov/service/newsroom/sok-real-id-season.html",
+   "displayLink": "oklahoma.gov",
+   "snippet": "Dec 5, 2024 ... Oklahomans can easily fit applying for their REAL ID into their schedule by getting in line remotely while tackling other tasks on their holiday to-do list.",
+   "htmlSnippet": "Dec 5, 2024 <b>...</b> Oklahomans can easily fit applying for their <b>REAL ID</b> into their schedule by getting in line remotely while tackling other tasks on their holiday to-do list.",
+   "formattedUrl": "https://oklahoma.gov/service/newsroom/sok-real-id-season.html",
+   "htmlFormattedUrl": "https://oklahoma.gov/service/newsroom/sok-<b>real-id</b>-season.html",
+   "pagemap": {
+    "imageobject": [
+     {
+      "contenturl": "https://oklahoma.gov/content/experience-fragments/service-oklahoma/us/en/site/header/master/_jcr_content/root/image.coreimg.svg/1667003920072/sok-logo.svg"
+     },
+     {
+      "contenturl": "https://oklahoma.gov/content/experience-fragments/service-oklahoma/us/en/site/footer/master/_jcr_content/root/image.coreimg.svg/1667003937029/sok-logo-white.svg"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "content-page",
+      "twitter:card": "summary",
+      "twitter:title": "PR: Tis\u2019 the Season to Apply for a REAL ID",
+      "og:type": "website",
+      "og:site_name": "Service Oklahoma",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "PR: Tis\u2019 the Season to Apply for a REAL ID",
+      "og:locale": "en"
+     }
+    ]
+   }
+  }
+ ]
+}

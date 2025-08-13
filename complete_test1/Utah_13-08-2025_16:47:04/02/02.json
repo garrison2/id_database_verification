@@ -1,0 +1,301 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://dld.utah.gov/ \"driver's license\" OR \"identification card\"",
+    "totalResults": "47",
+    "searchTerms": "site:https://dld.utah.gov/ \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://dld.utah.gov/ \"driver's license\" OR \"identification card\"",
+    "totalResults": "47",
+    "searchTerms": "site:https://dld.utah.gov/ \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.095186,
+  "formattedSearchTime": "0.10",
+  "totalResults": "47",
+  "formattedTotalResults": "47"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Fees",
+   "htmlTitle": "Fees",
+   "link": "https://dld.utah.gov/fees/",
+   "displayLink": "dld.utah.gov",
+   "snippet": "Identification Card (5-year expiration), $23.00. Identification Card for a Person with a Disability (5-year expiration), $17.00. Driver License\u00a0...",
+   "htmlSnippet": "<b>Identification Card</b> (5-year expiration), $23.00. <b>Identification Card</b> for a Person with a Disability (5-year expiration), $17.00. Driver License&nbsp;...",
+   "formattedUrl": "https://dld.utah.gov/fees/",
+   "htmlFormattedUrl": "https://dld.utah.gov/fees/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-tileimage": "https://dld.utah.gov/wp-content/uploads/cropped-DLD-fav-icon-270x270.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Where's My License / ID Card | Utah Driver License Division",
+   "htmlTitle": "Where&#39;s My License / ID Card | Utah Driver License Division",
+   "link": "https://dld.utah.gov/production-status/",
+   "displayLink": "dld.utah.gov",
+   "snippet": "If you have recently applied for a Utah driver license or identification card, processing and mailing can take 6-8 weeks. If it has been more than four\u00a0...",
+   "htmlSnippet": "If you have recently applied for a Utah driver license or <b>identification card</b>, processing and mailing can take 6-8 weeks. If it has been more than four&nbsp;...",
+   "formattedUrl": "https://dld.utah.gov/production-status/",
+   "htmlFormattedUrl": "https://dld.utah.gov/production-status/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhnVUvgzY_It1oQa2I8JM8QFR-yin8Ny3nR8H3Uf25ZbYbC6ZK6UL9fE4&s",
+      "width": "269",
+      "height": "88"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-tileimage": "https://dld.utah.gov/wp-content/uploads/cropped-DLD-fav-icon-270x270.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dld.utah.gov/wp-content/uploads/DPS-Agency-Logo-Footer-1.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Invisible Condition | Utah Driver License Division",
+   "htmlTitle": "Invisible Condition | Utah Driver License Division",
+   "link": "https://dld.utah.gov/invisible-condition/",
+   "displayLink": "dld.utah.gov",
+   "snippet": "This voluntary program allows a symbol \u201csticker\u201d to be placed on your driver license or identification card upon request.",
+   "htmlSnippet": "This voluntary program allows a symbol \u201csticker\u201d to be placed on your driver license or <b>identification card</b> upon request.",
+   "formattedUrl": "https://dld.utah.gov/invisible-condition/",
+   "htmlFormattedUrl": "https://dld.utah.gov/invisible-condition/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-tileimage": "https://dld.utah.gov/wp-content/uploads/cropped-DLD-fav-icon-270x270.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Name Change Sort | Utah Driver License Division",
+   "htmlTitle": "Name Change Sort | Utah Driver License Division",
+   "link": "https://dld.utah.gov/name-change-sort/",
+   "displayLink": "dld.utah.gov",
+   "snippet": "If you were recently married/divorced, or the name on your driver license or identification card doesn't match the name on your birth certificate, amended\u00a0...",
+   "htmlSnippet": "If you were recently married/divorced, or the name on your driver license or <b>identification card</b> doesn&#39;t match the name on your birth certificate, amended&nbsp;...",
+   "formattedUrl": "https://dld.utah.gov/name-change-sort/",
+   "htmlFormattedUrl": "https://dld.utah.gov/name-change-sort/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-tileimage": "https://dld.utah.gov/wp-content/uploads/cropped-DLD-fav-icon-270x270.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Forms and Publications | Utah Driver License Division",
+   "htmlTitle": "Forms and Publications | Utah Driver License Division",
+   "link": "https://dld.utah.gov/forms-resources/",
+   "displayLink": "dld.utah.gov",
+   "snippet": "Driver License / Identification Card. Brochure of Different Utah Licenses \u00b7 DLD Application Affidavit Form \u00b7 Driver License Status List \u00b7 Required Documents\u00a0...",
+   "htmlSnippet": "Driver License / <b>Identification Card</b>. Brochure of Different Utah Licenses &middot; DLD Application Affidavit Form &middot; Driver License Status List &middot; Required Documents&nbsp;...",
+   "formattedUrl": "https://dld.utah.gov/forms-resources/",
+   "htmlFormattedUrl": "https://dld.utah.gov/forms-resources/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-tileimage": "https://dld.utah.gov/wp-content/uploads/cropped-DLD-fav-icon-270x270.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Adult Original Driving Privilege Card (DPC) | DPS \u2013 Driver License",
+   "htmlTitle": "Adult Original Driving Privilege Card (DPC) | DPS \u2013 Driver License",
+   "link": "https://dld.utah.gov/adult-dpc-original/",
+   "displayLink": "dld.utah.gov",
+   "snippet": "Driving privilege card holders are not eligible for a commercial driver license (CDL) or identification card. Step 1: Apply for your Utah learner permit if\u00a0...",
+   "htmlSnippet": "Driving privilege card holders are not eligible for a commercial driver license (CDL) or <b>identification card</b>. Step 1: Apply for your Utah learner permit if&nbsp;...",
+   "formattedUrl": "https://dld.utah.gov/adult-dpc-original/",
+   "htmlFormattedUrl": "https://dld.utah.gov/adult-dpc-original/",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:type": "website",
+      "og:site_name": "DPS \u2013 Driver License",
+      "viewport": "width=device-width",
+      "og:description": "Adult Original Driving Privilege Card (DPC)"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Required documents to obtain a Utah license or identification card",
+   "htmlTitle": "Required documents to obtain a Utah license or <b>identification card</b>",
+   "link": "https://dld.utah.gov/wp-content/uploads/DLD-335-English-REV-4.23-.pdf",
+   "displayLink": "dld.utah.gov",
+   "snippet": "Permit, Identification Card, or Commercial Driver License. Utah Department of Public Safety. Driver License Division. Jess Anderson, Commissioner. Christopher\u00a0...",
+   "htmlSnippet": "Permit, <b>Identification Card</b>, or Commercial Driver License. Utah Department of Public Safety. Driver License Division. Jess Anderson, Commissioner. Christopher&nbsp;...",
+   "formattedUrl": "https://dld.utah.gov/wp-content/uploads/DLD-335-English-REV-4.23-.pdf",
+   "htmlFormattedUrl": "https://dld.utah.gov/wp-content/uploads/DLD-335-English-REV-4.23-.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtWtMAfv4DNEhP-xp4kwFsYR2O4aO0er0PHTmjunJTqHpyJEc00_mZFMY&s",
+      "width": "230",
+      "height": "219"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20230411072029-06'00'",
+      "creationdate": "D:20230411072026-06'00'",
+      "creator": "Acrobat PDFMaker 23 for Word",
+      "lastsaved": "D:20190728",
+      "sourcemodified": "D:20230411132003",
+      "author": "NROLFE",
+      "created": "D:20160512",
+      "grammarlydocumentid": "23b975802fde5debaac2bfbb547db791a938cf1378566581f62465dc4b7624c0",
+      "producer": "Adobe PDF Library 23.1.125",
+      "company": "State of Utah",
+      "title": "Applying for a Utah License or Identification Card"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///92b95ccbc683502c3cc5cd59183fb44c8607d42f2dcc5fd418674eef1dbb67b9"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What is a Driving Privilege Card (DPC)? | DPS \u2013 Driver License",
+   "htmlTitle": "What is a Driving Privilege Card (DPC)? | DPS \u2013 Driver License",
+   "link": "https://dld.utah.gov/what-is-a-dpc/",
+   "displayLink": "dld.utah.gov",
+   "snippet": "Individuals meeting these requirements would not be eligible to obtain a commercial driver license or identification card. You are a resident of Utah. When\u00a0...",
+   "htmlSnippet": "Individuals meeting these requirements would not be eligible to obtain a commercial driver license or <b>identification card</b>. You are a resident of Utah. When&nbsp;...",
+   "formattedUrl": "https://dld.utah.gov/what-is-a-dpc/",
+   "htmlFormattedUrl": "https://dld.utah.gov/what-is-a-dpc/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb6EQUDlestDqdjxWMpfyO65JHgRsKf91niQXRSkFdXw3UuJZF-EkFW9or&s",
+      "width": "142",
+      "height": "152"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "website",
+      "og:site_name": "DPS \u2013 Driver License",
+      "viewport": "width=device-width",
+      "og:description": "What is a Driving Privilege Card (DPC)?"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dld.utah.gov/wp-content/themes/publicsafety/images/header-dps-logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Get Your mDL | Utah Driver License Division",
+   "htmlTitle": "Get Your mDL | Utah Driver License Division",
+   "link": "https://dld.utah.gov/mdl-registration/",
+   "displayLink": "dld.utah.gov",
+   "snippet": "Valid Utah driver license or Utah identification card is required. Download the app from the Apple Store, Google Play, or scan/click the QR code to the left.",
+   "htmlSnippet": "Valid Utah driver license or Utah <b>identification card</b> is required. Download the app from the Apple Store, Google Play, or scan/click the QR code to the left.",
+   "formattedUrl": "https://dld.utah.gov/mdl-registration/",
+   "htmlFormattedUrl": "https://dld.utah.gov/mdl-registration/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-tileimage": "https://dld.utah.gov/wp-content/uploads/cropped-DLD-fav-icon-270x270.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Adult Advance Parolee, Humanitarian Parolee, and Parolee | DPS ...",
+   "htmlTitle": "Adult Advance Parolee, Humanitarian Parolee, and Parolee | DPS ...",
+   "link": "https://dld.utah.gov/adult-advance-parolee-humanitarian-parolee-and-parolee/",
+   "displayLink": "dld.utah.gov",
+   "snippet": "... identification card. Those individuals were paroled into the United States as a Covered Humanitarian (Afghanistan) Parolee. Pub. L. 117-43, Div. C, Title V\u00a0...",
+   "htmlSnippet": "... <b>identification card</b>. Those individuals were paroled into the United States as a Covered Humanitarian (Afghanistan) Parolee. Pub. L. 117-43, Div. C, Title V&nbsp;...",
+   "formattedUrl": "https://dld.utah.gov/adult-advance-parolee-humanitarian-parolee-and-parol...",
+   "htmlFormattedUrl": "https://dld.utah.gov/adult-advance-parolee-humanitarian-parolee-and-parol...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb6EQUDlestDqdjxWMpfyO65JHgRsKf91niQXRSkFdXw3UuJZF-EkFW9or&s",
+      "width": "142",
+      "height": "152"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "website",
+      "og:site_name": "DPS \u2013 Driver License",
+      "viewport": "width=device-width",
+      "og:description": "Adult Advance Parolee, Humanitarian Parolee, and Parolee"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dld.utah.gov/wp-content/themes/publicsafety/images/header-dps-logo.png"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,382 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Official Code of Georgia Annotated\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "812",
+    "searchTerms": "\"Official Code of Georgia Annotated\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Official Code of Georgia Annotated\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "812",
+    "searchTerms": "\"Official Code of Georgia Annotated\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.15228,
+  "formattedSearchTime": "0.15",
+  "totalResults": "812",
+  "formattedTotalResults": "812"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Resources",
+   "htmlTitle": "Resources",
+   "link": "https://dps.georgia.gov/ask-us/resources",
+   "displayLink": "dps.georgia.gov",
+   "snippet": "The Official Code of Georgia Annotated (40-8-90 through 96) prescribes the ... Driver's License. All driver's license needs are handled by the Georgia\u00a0...",
+   "htmlSnippet": "The <b>Official Code of Georgia Annotated</b> (40-8-90 through 96) prescribes the ... <b>Driver&#39;s License</b>. All <b>driver&#39;s license</b> needs are handled by the Georgia&nbsp;...",
+   "formattedUrl": "https://dps.georgia.gov/ask-us/resources",
+   "htmlFormattedUrl": "https://dps.georgia.gov/ask-us/resources",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDrLZHjB8GOO93vJ7VILSmkXVG3a6tcdU3A1Bb9pWS_yKR_vKzhY1Lg87&s",
+      "width": "310",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffc40d",
+      "og:image": "https://dps.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "og:image:width": "1201",
+      "twitter:card": "summary",
+      "twitter:title": "Resources",
+      "theme-color": "#ffffff",
+      "og:site_name": "Georgia Department of Public Safety",
+      "handheldfriendly": "true",
+      "og:title": "Resources",
+      "og:image:height": "629",
+      "og:description": "LexisNexis\u00a0- This is a link to an electronic version of the Georgia Code (O.C.G.A.).",
+      "twitter:image": "https://dps.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "twitter:site": "@ga_dps",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "LexisNexis\u00a0- This is a link to an electronic version of the Georgia Code (O.C.G.A.).",
+      "mobileoptimized": "width",
+      "og:url": "https://dps.georgia.gov/ask-us/resources",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dps.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Get Unemployment Assistance | Georgia Department of Labor",
+   "htmlTitle": "Get Unemployment Assistance | Georgia Department of Labor",
+   "link": "https://dol.georgia.gov/get-unemployment-assistance",
+   "displayLink": "dol.georgia.gov",
+   "snippet": "The DDS validates the identity of individuals who indicate they have a Georgia-issued driver's license or identification card. The GDOL will notify if you\u00a0...",
+   "htmlSnippet": "The DDS validates the identity of individuals who indicate they have a Georgia-issued <b>driver&#39;s license</b> or <b>identification card</b>. The GDOL will notify if you&nbsp;...",
+   "formattedUrl": "https://dol.georgia.gov/get-unemployment-assistance",
+   "htmlFormattedUrl": "https://dol.georgia.gov/get-unemployment-assistance",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo6mNGQAdNWgCTPOAkYlq-CPHUJQtAIn6B9fSg88Z_McNuo9Hrd0JnjB-z&s",
+      "width": "310",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffc40d",
+      "og:image": "https://dol.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "og:image:width": "1201",
+      "twitter:card": "summary",
+      "twitter:title": "Get Unemployment Assistance",
+      "theme-color": "#ffffff",
+      "og:site_name": "Georgia Department of Labor",
+      "handheldfriendly": "true",
+      "og:title": "Get Unemployment Assistance",
+      "og:image:height": "629",
+      "og:description": "What is Unemployment Insurance?The Unemployment Insurance (UI) program provides temporary income for workers who are unemployed through no fault of their own. Eligibility for benefits is based on past wages, reason for job separation, availability and job search requirements. Claims are effective on the date they are filed and are not retroactive to the last day worked.",
+      "twitter:image": "https://dol.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "twitter:site": "@GeorgiaDOL",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "What is Unemployment Insurance?The Unemployment Insurance (UI) program provides temporary income for workers who are unemployed through no fault of their own. Eligibility for benefits is based on past wages, reason for job separation, availability and job search requirements. Claims are effective on the date they are filed and are not retroactive to the last day worked.",
+      "mobileoptimized": "width",
+      "og:url": "https://dol.georgia.gov/get-unemployment-assistance",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dol.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "07 SB236/AP 236 - 1 - Senate Bill 236 By: Senators Rogers of the ...",
+   "htmlTitle": "07 SB236/AP 236 - 1 - Senate Bill 236 By: Senators Rogers of the ...",
+   "link": "https://www.legis.ga.gov/api/legislation/document/20072008/75800",
+   "displayLink": "www.legis.ga.gov",
+   "snippet": "(5)(6) 'Personal information' means an individual\u00b4s first name or first initial and last ... consumers on a nation-wide basis, as defined by 15 U.S.C. Section\u00a0...",
+   "htmlSnippet": "(5)(6) &#39;<b>Personal information</b>&#39; <b>means</b> an individual\u00b4s first name or first initial and last ... consumers on a nation-wide basis, as <b>defined</b> by 15 U.S.C. Section&nbsp;...",
+   "formattedUrl": "https://www.legis.ga.gov/api/legislation/document/20072008/75800",
+   "htmlFormattedUrl": "https://www.legis.ga.gov/api/legislation/document/20072008/75800",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20110108060945-05'00'",
+      "creationdate": "D:20110108060945-05'00'",
+      "creator": "PScript5.dll Version 5.2.2",
+      "author": "LMSTask.Service",
+      "producer": "Acrobat Distiller 9.0.0 (Windows)",
+      "title": "C:\\pdf\\75800.wpd"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Georgia Code \u00a7 40-5-1 (2024) - Definitions :: 2024 Georgia Code ...",
+   "htmlTitle": "Georgia Code \u00a7 40-5-1 (2024) - Definitions :: 2024 Georgia Code ...",
+   "link": "https://law.justia.com/codes/georgia/title-40/chapter-5/article-1/section-40-5-1/",
+   "displayLink": "law.justia.com",
+   "snippet": "(3) \"Cancellation of driver's license\" means the annulment or termination by ... (13.5) \"Personal information\" means any information that identifies a\u00a0...",
+   "htmlSnippet": "(3) &quot;Cancellation of <b>driver&#39;s license</b>&quot; <b>means</b> the annulment or termination by ... (13.5) &quot;<b>Personal information</b>&quot; <b>means</b> any information that identifies a&nbsp;...",
+   "formattedUrl": "https://law.justia.com/codes/georgia/title-40/chapter-5/.../section-40-5-1/",
+   "htmlFormattedUrl": "https://law.justia.com/codes/georgia/title-40/chapter-5/.../section-40-5-1/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPP2ksOfM4IyWL7PTxPyS5N80Or-jyXZZLgeH1kYuOtXk5YU597YCxGszS&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "og:site_name": "Justia Law",
+      "og:title": "2024 CODE OF GEORGIA :: Title 40 - MOTOR VEHICLES AND TRAFFIC (\u00a7\u00a7 40-1-1 \u2014 40-16-8) :: Chapter 5 - DRIVERS' LICENSES (\u00a7\u00a7 40-5-1 \u2014 40-5-179) :: Article 1 - GENERAL PROVISIONS (\u00a7\u00a7 40-5-1 \u2014 40-5-10) :: Section 40-5-1 - Definitions",
+      "og:app_id": "119529808075661",
+      "trigger-ga": "1",
+      "og:description": "Justia Free Databases of U.S. Laws, Codes & Statutes",
+      "og:admins": "656268335,686786921,25900864",
+      "referrer": "unsafe-url",
+      "twitter:site": "@JustiaCom",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "page-type": "Law: Codes Document Page (Current Year)",
+      "is-li": "0",
+      "og:url": "https://law.justia.com/codes/georgia/title-40/chapter-5/article-1/section-40-5-1/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "05 SB230/AP S. B. 230 - 1 - Senate Bill 230 By: Senators Hamrick of ...",
+   "htmlTitle": "05 SB230/AP S. B. 230 - 1 - Senate Bill 230 By: Senators Hamrick of ...",
+   "link": "https://eits.uga.edu/access_and_security/infosec/pols_regs/docs/0506regsession_sb230.pdf",
+   "displayLink": "eits.uga.edu",
+   "snippet": "of personal information of such individual maintained by an information broker. ... (2) 'Information broker' means any person or entity who, for monetary fees or\u00a0...",
+   "htmlSnippet": "of <b>personal information</b> of such individual maintained by an information broker. ... (2) &#39;Information broker&#39; <b>means</b> any person or entity who, for monetary fees or&nbsp;...",
+   "formattedUrl": "https://eits.uga.edu/access_and_security/.../0506regsession_sb230.pdf",
+   "htmlFormattedUrl": "https://eits.uga.edu/access_and_security/.../0506regsession_sb230.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20170126150314-05'00'",
+      "creationdate": "D:20110113175430-05'00'",
+      "creator": "PScript5.dll Version 5.2.2",
+      "author": "LMSTask.Service",
+      "producer": "Acrobat Distiller 9.0.0 (Windows)",
+      "title": "C:\\pdf\\52588.wpd"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "O.C.G.A. References | Georgia Department of Veterans Service",
+   "htmlTitle": "O.C.G.A. References | Georgia Department of Veterans Service",
+   "link": "https://veterans.georgia.gov/ocga-references",
+   "displayLink": "veterans.georgia.gov",
+   "snippet": "The following are references to the specific sections of the Official Code of Georgia Annotated ... Driving Licenses/ID Cards. Veteran's Driver's License.",
+   "htmlSnippet": "The following are references to the specific sections of the <b>Official Code of Georgia Annotated</b> ... Driving Licenses/ID Cards. Veteran&#39;s <b>Driver&#39;s License</b>.",
+   "formattedUrl": "https://veterans.georgia.gov/ocga-references",
+   "htmlFormattedUrl": "https://veterans.georgia.gov/ocga-references",
+   "pagemap": {
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffc40d",
+      "og:image:width": "1201",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "O.C.G.A. References",
+      "theme-color": "#ffffff",
+      "og:site_name": "Georgia Department of Veterans Service",
+      "handheldfriendly": "true",
+      "og:title": "O.C.G.A. References",
+      "og:image:height": "629",
+      "og:description": "The following are references to the specific sections of the Official Code of Georgia Annotated wherein the relevant law may be found: e.g., the law pertaining to Veterans Driving Licenses is found in Title 40, Chapter 5, Article 2, abbreviated as: O.C.G.A. 40-5-36.",
+      "twitter:site": "@gavetsvc",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "The following are references to the specific sections of the Official Code of Georgia Annotated wherein the relevant law may be found: e.g., the law pertaining to Veterans Driving Licenses is found in Title 40, Chapter 5, Article 2, abbreviated as: O.C.G.A. 40-5-36.",
+      "mobileoptimized": "width",
+      "og:url": "https://veterans.georgia.gov/ocga-references",
+      "format-detection": "telephone=no"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Subject 375-3-8 ACCESS FOR MOTOR VEHICLE ... - GA R&R - GAC",
+   "htmlTitle": "Subject 375-3-8 ACCESS FOR MOTOR VEHICLE ... - GA R&R - GAC",
+   "link": "https://rules.sos.ga.gov/gac/375-3-8",
+   "displayLink": "rules.sos.ga.gov",
+   "snippet": "... driver's license number. The Department shall not release any driving record ... Official Code of Georgia Annotated unless otherwise defined in the\u00a0...",
+   "htmlSnippet": "... <b>driver&#39;s license</b> number. The Department shall not release any driving record ... <b>Official Code of Georgia Annotated</b> unless otherwise <b>defined</b> in the&nbsp;...",
+   "formattedUrl": "https://rules.sos.ga.gov/gac/375-3-8",
+   "htmlFormattedUrl": "https://rules.sos.ga.gov/gac/375-3-8"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "96-13 | Office of the Attorney General",
+   "htmlTitle": "96-13 | Office of the Attorney General",
+   "link": "https://law.georgia.gov/opinions/96-13",
+   "displayLink": "law.georgia.gov",
+   "snippet": "... driver's license of the victim to determine the victim's wishes concerning organ donation. ... Official Code of Georgia Annotated \u00a7 45-16-24 provides the\u00a0...",
+   "htmlSnippet": "... <b>driver&#39;s license</b> of the victim to determine the victim&#39;s wishes concerning organ donation. ... <b>Official Code of Georgia Annotated</b> \u00a7 45-16-24 provides the&nbsp;...",
+   "formattedUrl": "https://law.georgia.gov/opinions/96-13",
+   "htmlFormattedUrl": "https://law.georgia.gov/opinions/96-13",
+   "pagemap": {
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffc40d",
+      "og:image:width": "1201",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "96-13",
+      "theme-color": "#ffffff",
+      "og:site_name": "Office of the Attorney General",
+      "handheldfriendly": "true",
+      "og:title": "96-13",
+      "og:image:height": "629",
+      "og:description": "This is in response to your letter dated May 22, 1996. In this letter you ask this office to review the newly enacted provisions of O.C.G.A. \u00a7 17-6-11(b.1) regarding organ donations, in light of the provisions in the Georgia Death Investigation Act, O.C.G.A. \u00a7\u00a7 45-16-24 and 25.",
+      "twitter:site": "@georgia_ag",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "This is in response to your letter dated May 22, 1996. In this letter you ask this office to review the newly enacted provisions of O.C.G.A. \u00a7 17-6-11(b.1) regarding organ donations, in light of the provisions in the Georgia Death Investigation Act, O.C.G.A. \u00a7\u00a7 45-16-24 and 25.",
+      "mobileoptimized": "width",
+      "og:url": "https://law.georgia.gov/opinions/96-13",
+      "format-detection": "telephone=no"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Contents | Georgia Department of Driver Services",
+   "htmlTitle": "Contents | Georgia Department of Driver Services",
+   "link": "https://dds.georgia.gov/contents",
+   "displayLink": "dds.georgia.gov",
+   "snippet": "The Departments primary statutory responsibilities are set forth in Title 40 of the Official Code of Georgia annotated (O.C.G.A.) ... That means never\u00a0...",
+   "htmlSnippet": "The Departments primary statutory responsibilities are set forth in Title 40 of the <b>Official Code of Georgia annotated</b> (O.C.G.A.) ... That <b>means</b> never&nbsp;...",
+   "formattedUrl": "https://dds.georgia.gov/contents",
+   "htmlFormattedUrl": "https://dds.georgia.gov/contents",
+   "pagemap": {
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffc40d",
+      "og:image:width": "1201",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Contents",
+      "theme-color": "#ffffff",
+      "og:site_name": "Georgia Department of Driver Services",
+      "handheldfriendly": "true",
+      "og:title": "Contents",
+      "og:image:height": "629",
+      "og:description": "DDS",
+      "twitter:site": "@georgiadds",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "DDS",
+      "mobileoptimized": "width",
+      "og:url": "https://dds.georgia.gov/contents",
+      "format-detection": "telephone=no"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "GA House Bill 1292 | NNA",
+   "htmlTitle": "GA House Bill 1292 | NNA",
+   "link": "https://www.nationalnotary.org/knowledge-center/news/law-updates/ga-house-bill-1292",
+   "displayLink": "www.nationalnotary.org",
+   "snippet": "May 2, 2024 ... Amends Sections 44-2-2, 44-2-39, and 45-17-8 of the Official Code of Georgia Annotated. Changes. Defines \u201cself-filer\u201d to mean means any\u00a0...",
+   "htmlSnippet": "May 2, 2024 <b>...</b> Amends Sections 44-2-2, 44-2-39, and 45-17-8 of the <b>Official Code of Georgia Annotated</b>. Changes. Defines \u201cself-filer\u201d to mean <b>means</b> any&nbsp;...",
+   "formattedUrl": "https://www.nationalnotary.org/knowledge-center/.../ga-house-bill-1292",
+   "htmlFormattedUrl": "https://www.nationalnotary.org/knowledge-center/.../ga-house-bill-1292",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiP0PedQiFDsQXMnrZJlWDR_29U37eC4QQmYF88skdpuUBdbm_qLKNV0Y&s",
+      "width": "311",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.nationalnotary.org/Image%20Library/NNA/OpenGraph.jpg",
+      "og:type": "website",
+      "twitter:card": "summary",
+      "og:site_name": "National Notary Association",
+      "twitter:site": "@nationalnotary",
+      "viewport": "width=device-width,initial-scale=1,minimum-scale=1.0,maximum-scale=1.0",
+      "og:title": "GA House Bill 1292",
+      "y_key": "619dbc143431f814",
+      "og:url": "https://www.nationalnotary.org/knowledge-center/news/law-updates/ga-house-bill-1292"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.nationalnotary.org/Image%20Library/NNA/OpenGraph.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

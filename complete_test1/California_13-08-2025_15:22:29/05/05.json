@@ -1,0 +1,526 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"California\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" vendor OR developer OR procurement",
+    "totalResults": "172000",
+    "searchTerms": "\"California\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" vendor OR developer OR procurement",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"California\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" vendor OR developer OR procurement",
+    "totalResults": "172000",
+    "searchTerms": "\"California\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" vendor OR developer OR procurement",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.251078,
+  "formattedSearchTime": "0.25",
+  "totalResults": "172000",
+  "formattedTotalResults": "172,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "mDL for Technology Developers - California DMV",
+   "htmlTitle": "<b>mDL</b> for Technology Developers - <b>California</b> DMV",
+   "link": "https://www.dmv.ca.gov/portal/ca-dmv-wallet/mdl-for-technology-developers/",
+   "displayLink": "www.dmv.ca.gov",
+   "snippet": "mDL for Californians. California's mobile driver's license / identification card is a free, secure, and convenient digital ID carried on your smartphone. Learn\u00a0...",
+   "htmlSnippet": "<b>mDL</b> for Californians. <b>California&#39;s mobile driver&#39;s license</b> / identification card is a free, secure, and convenient <b>digital ID</b> carried on your smartphone. Learn&nbsp;...",
+   "formattedUrl": "https://www.dmv.ca.gov/portal/ca-dmv.../mdl-for-technology-developers/",
+   "htmlFormattedUrl": "https://www.dmv.ca.gov/portal/ca-dmv.../<b>mdl</b>-for-technology-<b>developer</b>s/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQpawcfp9dU8--4YIjseMo9ZqPTHw7cZ9DWkj2g0KGmsCchymNZiKLyGSa&s",
+      "width": "347",
+      "height": "145"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.ca.gov/portal/uploads/2024/04/MDL_1200_578_Wbanner_3.jpg",
+      "og:type": "article",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "California DMV",
+      "og:title": "mDL for Technology Developers - California DMV",
+      "og:image:height": "502",
+      "twitter:label1": "Est. reading time",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://www.dmv.ca.gov/portal/uploads/2020/02/cropped-dmv_favicon_Final_png-1-270x270.png",
+      "og:description": "The mDL for technology developers provides a major upgrade from traditional physical credentials that can be lost, stolen, damaged, or outdated.",
+      "article:publisher": "https://www.facebook.com/CADMV",
+      "twitter:data1": "7 minutes",
+      "twitter:site": "@ca_dmv",
+      "article:modified_time": "2025-04-14T20:49:11+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.dmv.ca.gov/portal/ca-dmv-wallet/mdl-for-technology-developers/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.ca.gov/portal/uploads/2024/04/MDL_1200_578_Wbanner_3.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Decoding the California DMV's Mobile Driver's License | Electronic ...",
+   "htmlTitle": "Decoding the <b>California</b> DMV&#39;s <b>Mobile Driver&#39;s License</b> | Electronic ...",
+   "link": "https://www.eff.org/deeplinks/2024/03/decoding-california-dmvs-mobile-drivers-license",
+   "displayLink": "www.eff.org",
+   "snippet": "Mar 18, 2024 ... The State of California is currently rolling out a \u201cmobile driver's license\u201d (mDL), a form of digital identification that raises significant\u00a0...",
+   "htmlSnippet": "Mar 18, 2024 <b>...</b> The State of <b>California</b> is currently rolling out a \u201c<b>mobile driver&#39;s license</b>\u201d (<b>mDL</b>), a form of digital identification that raises significant&nbsp;...",
+   "formattedUrl": "https://www.eff.org/.../03/decoding-california-dmvs-mobile-drivers-license",
+   "htmlFormattedUrl": "https://www.eff.org/.../03/decoding-<b>california</b>-dmvs-<b>mobile-drivers-license</b>",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFt0pKvRsNu-Tf_gqe_ec1Wuge92hZtHEkNeUDtujCIKW3gLFGNgOeFB0z&s",
+      "width": "318",
+      "height": "159"
+     }
+    ],
+    "xfn": [
+     {}
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.eff.org/files/banner_library/digitallicense_mobileid.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "article:published_time": "2024-03-18T18:16:20-07:00",
+      "og:site_name": "Electronic Frontier Foundation",
+      "twitter:image:height": "600",
+      "og:image:type": "image/png",
+      "og:description": "The State of California is currently rolling out a \u201cmobile driver\u2019s license\u201d (mDL), a form of digital identification that raises significant privacy and equity concerns. This post explains the new smartphone application, explores the risks, and calls on the state and its vendor to focus more on...",
+      "og:image:secure_url": "https://www.eff.org/files/banner_library/digitallicense_mobileid.png",
+      "twitter:image": "https://www.eff.org/files/banner_library/digitallicense_mobileid.png",
+      "article:publisher": "https://www.facebook.com/eff",
+      "twitter:site": "@eff",
+      "twitter:image:width": "1200",
+      "article:modified_time": "2024-09-19T21:12:50-07:00",
+      "og:type": "article",
+      "twitter:title": "Decoding the California DMV's Mobile Driver's License",
+      "handheldfriendly": "true",
+      "og:image:url": "https://www.eff.org/files/banner_library/digitallicense_mobileid.png",
+      "author": "Alexis Hancock",
+      "og:title": "Decoding the California DMV's Mobile Driver's License",
+      "og:image:height": "600",
+      "og:updated_time": "2024-09-19T21:12:50-07:00",
+      "referrer": "never",
+      "viewport": "width=device-width",
+      "twitter:description": "The State of California is currently rolling out a \u201cmobile driver\u2019s license\u201d (mDL), a form of digital identification that raises significant privacy and equity concerns. This post explains the new",
+      "mobileoptimized": "width",
+      "og:url": "https://www.eff.org/deeplinks/2024/03/decoding-california-dmvs-mobile-drivers-license"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.eff.org/files/banner_library/digitallicense_mobileid.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "mDL Q&A - California DMV",
+   "htmlTitle": "<b>mDL</b> Q&amp;A - <b>California</b> DMV",
+   "link": "https://www.dmv.ca.gov/portal/ca-dmv-wallet/mdl-faqs/",
+   "displayLink": "www.dmv.ca.gov",
+   "snippet": "DMV's mDL Terms and Conditions can be found at California DMV Mobile Driver's License Software Terms Of Use. mDL in Google Wallet. How do I add my CA DL/ID\u00a0...",
+   "htmlSnippet": "DMV&#39;s <b>mDL</b> Terms and Conditions can be found at <b>California</b> DMV <b>Mobile Driver&#39;s License</b> Software Terms Of Use. <b>mDL</b> in Google Wallet. How do I add my CA DL/ID&nbsp;...",
+   "formattedUrl": "https://www.dmv.ca.gov/portal/ca-dmv-wallet/mdl-faqs/",
+   "htmlFormattedUrl": "https://www.dmv.ca.gov/portal/ca-dmv-wallet/<b>mdl</b>-faqs/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd3osFQsmHJOqQe2chX-2YEKoc4kFsmOR9YoqpyngDSIsry-jeZQ7jq6wR&s",
+      "width": "155",
+      "height": "325"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.ca.gov/portal/uploads/2024/03/MyDMV_Wallet_Mobile_Home.png",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "California DMV",
+      "og:title": "mDL Q&A - California DMV",
+      "twitter:label1": "Est. reading time",
+      "msapplication-tileimage": "https://www.dmv.ca.gov/portal/uploads/2020/02/cropped-dmv_favicon_Final_png-1-270x270.png",
+      "og:description": "Get answers to Frequently Asked Questions (FAQs) about the CA DMV Wallet, where and how to use the mDL, privacy and security, and troubleshooting tips.",
+      "article:publisher": "https://www.facebook.com/CADMV",
+      "twitter:data1": "32 minutes",
+      "twitter:site": "@ca_dmv",
+      "article:modified_time": "2025-05-27T23:27:30+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.dmv.ca.gov/portal/ca-dmv-wallet/mdl-faqs/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.ca.gov/portal/uploads/2024/03/MyDMV_Wallet_Mobile_Home.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "California State Digital ID Strategy",
+   "htmlTitle": "<b>California</b> State <b>Digital ID</b> Strategy",
+   "link": "https://digitalidstrategy.cdt.ca.gov/",
+   "displayLink": "digitalidstrategy.cdt.ca.gov",
+   "snippet": "CDT leads all aspects of the California Digital ID Framework \u2014 a system of data and services allowing for digital identity and program eligibility\u00a0...",
+   "htmlSnippet": "CDT leads all aspects of the <b>California Digital ID</b> Framework \u2014 a system of data and services allowing for digital identity and program eligibility&nbsp;...",
+   "formattedUrl": "https://digitalidstrategy.cdt.ca.gov/",
+   "htmlFormattedUrl": "https://<b>digitalid</b>strategy.cdt.ca.gov/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSro9pIgLWkzePrBnryAkrPbBevh2wLchOeF4Wod_YciyiNZ1FQ04IA--M&s",
+      "width": "255",
+      "height": "197"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://digitalidstrategy.cdt.ca.govimages/lightrail-share.png",
+      "twitter:title": "California State Digital ID Strategy",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "handheldfriendly": "True",
+      "twitter:url": "https://digitalidstrategy.cdt.ca.gov/",
+      "author": "State of California",
+      "og:title": "California State Digital ID Strategy",
+      "title": "California State Digital ID Strategy",
+      "og:description": "CDT leads all aspects of the California Digital ID Framework \u2014 a system of data and services allowing for digital identity and program eligibility verification.",
+      "twitter:image": "https://digitalidstrategy.cdt.ca.govimages/lightrail-share.png",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "twitter:description": "CDT leads all aspects of the California Digital ID Framework \u2014 a system of data and services allowing for digital identity and program eligibility verification.",
+      "mobileoptimized": "320",
+      "og:url": "https://digitalidstrategy.cdt.ca.gov/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://digitalidstrategy.cdt.ca.gov/images/digital-id-framework-v2.svg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "SpruceID Partners with California DMV on the Mobile Driver's License",
+   "htmlTitle": "SpruceID Partners with <b>California</b> DMV on the <b>Mobile Driver&#39;s License</b>",
+   "link": "https://blog.spruceid.com/spruceid-partners-with-ca-dmv-on-mdl/",
+   "displayLink": "blog.spruceid.com",
+   "snippet": "Oct 25, 2023 ... Images of the California Mobile Driver's License (mDL) in the California DMV mobile app. ... vendor lock-in, and provide transparency. Our\u00a0...",
+   "htmlSnippet": "Oct 25, 2023 <b>...</b> Images of the <b>California Mobile Driver&#39;s License</b> (<b>mDL</b>) in the <b>California</b> DMV mobile app. ... <b>vendor</b> lock-in, and provide transparency. Our&nbsp;...",
+   "formattedUrl": "https://blog.spruceid.com/spruceid-partners-with-ca-dmv-on-mdl/",
+   "htmlFormattedUrl": "https://blog.spruceid.com/spruceid-partners-with-ca-dmv-on-<b>mdl</b>/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY7Eqh7zuAaB0XTz0OMxey77BrTFn0kwh2NcX448KHrp6AlcVe6Khjcak&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://blog.spruceid.com/content/images/size/w1200/2024/07/Partnering-with-California-DMV-on-mDL.png",
+      "og:type": "article",
+      "article:published_time": "2023-10-25T18:11:03.000Z",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "SpruceID Partners with California DMV on the Mobile Driver\u2019s License",
+      "og:image:width": "1200",
+      "og:site_name": "SpruceID",
+      "twitter:url": "https://blog.spruceid.com/spruceid-partners-with-ca-dmv-on-mdl/",
+      "og:title": "SpruceID Partners with California DMV on the Mobile Driver\u2019s License",
+      "twitter:label1": "Written by",
+      "og:image:height": "675",
+      "twitter:label2": "Filed under",
+      "og:description": "SpruceID has partnered with the State of California Department of Motor Vehicles (DMV) to bring mobile driver's licenses to residents of California.",
+      "twitter:image": "https://blog.spruceid.com/content/images/size/w1200/2024/07/Partnering-with-California-DMV-on-mDL.png",
+      "twitter:data1": "SpruceID",
+      "article:tag": "Company Updates",
+      "twitter:data2": "Company Updates",
+      "referrer": "no-referrer-when-downgrade",
+      "twitter:site": "@spruceid",
+      "article:modified_time": "2024-07-31T21:16:17.000Z",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "SpruceID has partnered with the State of California Department of Motor Vehicles (DMV) to bring mobile driver's licenses to residents of California.",
+      "og:url": "https://blog.spruceid.com/spruceid-partners-with-ca-dmv-on-mdl/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://blog.spruceid.com/content/images/size/w1200/2024/07/Partnering-with-California-DMV-on-mDL.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "California couldn't find the right vendor, so it bootstrapped its mDL ...",
+   "htmlTitle": "<b>California</b> couldn&#39;t find the right <b>vendor</b>, so it bootstrapped its <b>mDL</b> ...",
+   "link": "https://www.biometricupdate.com/202312/california-couldnt-find-the-right-vendor-so-it-bootstrapped-its-mdl",
+   "displayLink": "www.biometricupdate.com",
+   "snippet": "California couldn't find the right vendor, so it bootstrapped its mDL. SpruceID supplies digital wallet. Dec 18, 2023, 12:06 pm EST | Jim Nash.",
+   "htmlSnippet": "<b>California</b> couldn&#39;t find the right <b>vendor</b>, so it bootstrapped its <b>mDL</b>. SpruceID supplies digital wallet. Dec 18, 2023, 12:06 pm EST | Jim Nash.",
+   "formattedUrl": "https://www.biometricupdate.com/.../california-couldnt-find-the-right-vend...",
+   "htmlFormattedUrl": "https://www.biometricupdate.com/.../<b>california</b>-couldnt-find-the-right-<b>vend</b>...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPgJo5Pd0wgW-rwxeSnSxrd18woofhwe7V7cy_Zfqb63D8o5V0zeJfsYch&s",
+      "width": "218",
+      "height": "231"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/12/18120402/cali-mdl.png",
+      "theme-color": "#ffffff",
+      "og:image:width": "1090",
+      "article:published_time": "2023-12-18T17:06:28+00:00",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Biometric Update | Biometrics News, Companies and Explainers",
+      "rating": "general",
+      "msapplication-tileimage": "/favicon/ms-icon-144x144.png",
+      "og:description": "In the forever war between build and buy, build largely won in the state of California when elected leaders decided to get serious about mobile identity.",
+      "twitter:creator": "@BiometricUpdate",
+      "og:image:secure_url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/12/18120402/cali-mdl.png",
+      "article:publisher": "https://www.facebook.com/BiometricUpdate",
+      "twitter:image": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/12/18120402/cali-mdl.png",
+      "twitter:site": "@BiometricUpdate",
+      "article:modified_time": "2023-12-18T17:06:28+00:00",
+      "msapplication-tilecolor": "#ffffff",
+      "og:type": "article",
+      "twitter:title": "California couldn\u2019t find the right vendor, so it bootstrapped its mDL | Biometric Update",
+      "msvalidate.01": "37DAF50D768AB3DDD4F101B413D98584",
+      "author": "Jim Nash",
+      "og:title": "California couldn\u2019t find the right vendor, so it bootstrapped its mDL | Biometric Update",
+      "og:image:height": "1152",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "In the forever war between build and buy, build largely won in the state of California when elected leaders decided to get serious about mobile identity.",
+      "og:locale": "en_US",
+      "og:url": "https://www.biometricupdate.com/202312/california-couldnt-find-the-right-vendor-so-it-bootstrapped-its-mdl"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/12/18120402/cali-mdl.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "California expands digital ID program to Google, Apple wallets ...",
+   "htmlTitle": "<b>California</b> expands <b>digital ID</b> program to Google, Apple wallets ...",
+   "link": "https://statescoop.com/california-digital-id-google-apple-wallet/",
+   "displayLink": "statescoop.com",
+   "snippet": "Aug 16, 2024 ... In This Story. California \u00b7 mobile drivers license \u00b7 Gov. Gavin Newsom \u00b7 Digital ID \u00b7 Mobile ID. Share ... procurement \u00b7 Maryland launches six new\u00a0...",
+   "htmlSnippet": "Aug 16, 2024 <b>...</b> In This Story. <b>California</b> &middot; mobile drivers license &middot; Gov. Gavin Newsom &middot; <b>Digital ID</b> &middot; <b>Mobile ID</b>. Share ... <b>procurement</b> &middot; Maryland launches six new&nbsp;...",
+   "formattedUrl": "https://statescoop.com/california-digital-id-google-apple-wallet/",
+   "htmlFormattedUrl": "https://statescoop.com/<b>california</b>-<b>digital-id</b>-google-apple-wallet/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLsqM22_ZO83kc2EUjxRlWus9zQ4JUdCU2pd94AUhqlPmaabc5ScRf4Ok&s",
+      "width": "286",
+      "height": "176"
+     }
+    ],
+    "website": [
+     {
+      "query-input": "name=s value",
+      "target": "https://statescoop.com/?s={s}"
+     }
+    ],
+    "organization": [
+     {
+      "logo": "https://statescoop.com/wp-content/themes/scoopnewsgroup/dist/svg/logo-state.svg",
+      "url": "https://statescoop.com/"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://statescoop.com/wp-content/uploads/sites/6/2024/08/California-MDL-Apple.jpg",
+      "og:type": "article",
+      "article:published_time": "2024-08-16T14:55:59+00:00",
+      "og:image:width": "1072",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "StateScoop",
+      "author": "Keely Quinlan",
+      "og:title": "California expands digital ID program to Google, Apple wallets | StateScoop",
+      "og:image:height": "660",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://statescoop.com/wp-content/uploads/sites/6/2023/01/cropped-ss_favicon.png?w=270",
+      "og:description": "California announced it will expand its digital ID program to the Google Wallet and Apple Wallet platforms.",
+      "twitter:creator": "@State_Scoop",
+      "article:publisher": "https://www.facebook.com/StateScoop/",
+      "twitter:site": "@State_Scoop",
+      "article:modified_time": "2024-08-16T17:12:35+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://statescoop.com/california-digital-id-google-apple-wallet/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://statescoop.com/wp-content/uploads/sites/6/2024/08/California-MDL-Apple.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Reflections on the California mDL Hackathons",
+   "htmlTitle": "Reflections on the <b>California mDL</b> Hackathons",
+   "link": "https://openid.net/driving-innovation-and-adoption-reflections-california-mdl-hackathons/",
+   "displayLink": "openid.net",
+   "snippet": "Dec 16, 2024 ... Two groundbreaking hackathons aimed at advancing digital identity through California's mobile Driver's License (mDL).",
+   "htmlSnippet": "Dec 16, 2024 <b>...</b> Two groundbreaking hackathons aimed at advancing digital identity through <b>California&#39;s mobile Driver&#39;s License</b> (<b>mDL</b>).",
+   "formattedUrl": "https://openid.net/driving-innovation-and-adoption-reflections-california-m...",
+   "htmlFormattedUrl": "https://openid.net/driving-innovation-and-adoption-reflections-<b>california</b>-<b>m</b>...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0KMj1rUO1WiUSQLnf_g23pwjHNGqAKpyuzQU0DXIWYP_NwIo5Yzu73ok&s",
+      "width": "259",
+      "height": "194"
+     }
+    ],
+    "BreadcrumbList": [
+     {}
+    ],
+    "metatags": [
+     {
+      "og:image": "https://openid.net/wp-content/uploads/2024/12/IMG_9260-scaled.jpg",
+      "og:type": "article",
+      "og:image:width": "2560",
+      "article:published_time": "2024-12-16T18:27:24+00:00",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Reflections on the California mDL Hackathons",
+      "og:site_name": "OpenID Foundation - Helping people assert their identity wherever they choose",
+      "author": "Elizabeth Garber",
+      "og:title": "Reflections on the California mDL Hackathons",
+      "og:image:height": "1920",
+      "msapplication-tileimage": "https://openid.net/wp-content/uploads/2022/11/favicon_23-300x300.jpg",
+      "og:description": "The California DMV and the OpenID Foundation recently hosted two to advance digital identity through California\u2019s mobile Driver\u2019s License (mDL).",
+      "twitter:creator": "@openid",
+      "og:image:secure_url": "https://openid.net/wp-content/uploads/2024/12/IMG_9260-scaled.jpg",
+      "twitter:image": "https://openid.net/wp-content/uploads/2023/06/OG.jpg",
+      "twitter:site": "@openid",
+      "article:modified_time": "2024-12-16T18:30:42+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "The California DMV and the OpenID Foundation recently hosted two to advance digital identity through California\u2019s mobile Driver\u2019s License (mDL).",
+      "og:locale": "en_US",
+      "position": "1",
+      "og:url": "https://openid.net/driving-innovation-and-adoption-reflections-california-mdl-hackathons/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://openid.net/wp-content/uploads/2024/12/IMG_9260-scaled.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CAL ID Mobile ID Policy - Riverside County Sheriff",
+   "htmlTitle": "CAL ID <b>Mobile ID</b> Policy - Riverside County Sheriff",
+   "link": "https://www.riversidesheriff.org/DocumentCenter/View/7994/Cal-ID-Mobile-ID-Policy",
+   "displayLink": "www.riversidesheriff.org",
+   "snippet": "Oct 16, 2024 ... technology services to CALID, and private vendors, will comply with this Mobile ID Policy. ... California Department of Justice's (DOJ)\u00a0...",
+   "htmlSnippet": "Oct 16, 2024 <b>...</b> technology services to CALID, and private vendors, will comply with this <b>Mobile ID</b> Policy. ... <b>California</b> Department of Justice&#39;s (DOJ)&nbsp;...",
+   "formattedUrl": "https://www.riversidesheriff.org/DocumentCenter/.../Cal-ID-Mobile-ID-Poli...",
+   "htmlFormattedUrl": "https://www.riversidesheriff.org/DocumentCenter/.../Cal-ID-<b>Mobile-ID</b>-Poli...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkSS6fYdeiwyIhvku4m2umib-XhwkAO-UjgLCLXCDTPSjfypruw7QaUY6-&s",
+      "width": "214",
+      "height": "235"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20241016144645-07'00'",
+      "creationdate": "D:20241016144643-07'00'",
+      "creator": "Acrobat PDFMaker 17 for Word",
+      "sourcemodified": "D:20241016214607",
+      "author": "Dolfi, Mark A.",
+      "producer": "Adobe PDF Library 17.11.238"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///7364eb16e4d839aa603bafe58824a88c70bb98c8214caf966b1b55ad6e229c5b"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "PAL IT project proposal tracking - CDT",
+   "htmlTitle": "PAL IT project proposal tracking - CDT",
+   "link": "https://cdt.ca.gov/project-delivery/pal-it-project-proposal-tracking/",
+   "displayLink": "cdt.ca.gov",
+   "snippet": "2740-231, Mobile Driver's License Pilot (mDL), Not Available, Medium, Stage 1. EPA, Water Resources Control Board, State, 3940-105, WaterTAP (WT), 07/01/2025\u00a0...",
+   "htmlSnippet": "2740-231, <b>Mobile Driver&#39;s License</b> Pilot (<b>mDL</b>), Not Available, Medium, Stage 1. EPA, Water Resources Control Board, State, 3940-105, WaterTAP (WT), 07/01/2025&nbsp;...",
+   "formattedUrl": "https://cdt.ca.gov/project-delivery/pal-it-project-proposal-tracking/",
+   "htmlFormattedUrl": "https://cdt.ca.gov/project-delivery/pal-it-project-proposal-tracking/",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "PAL IT project proposal tracking",
+      "og:site_name": "CDT",
+      "handheldfriendly": "True",
+      "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0",
+      "author": "State of California",
+      "mobileoptimized": "320",
+      "og:title": "PAL IT project proposal tracking",
+      "og:locale": "en_US",
+      "og:url": "https://cdt.ca.gov/project-delivery/pal-it-project-proposal-tracking/"
+     }
+    ]
+   }
+  }
+ ]
+}

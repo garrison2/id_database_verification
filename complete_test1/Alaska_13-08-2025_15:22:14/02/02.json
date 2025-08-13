@@ -1,0 +1,367 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://dmv.alaska.gov \"driver's license\" OR \"identification card\"",
+    "totalResults": "121",
+    "searchTerms": "site:https://dmv.alaska.gov \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://dmv.alaska.gov \"driver's license\" OR \"identification card\"",
+    "totalResults": "121",
+    "searchTerms": "site:https://dmv.alaska.gov \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.222722,
+  "formattedSearchTime": "0.22",
+  "totalResults": "121",
+  "formattedTotalResults": "121"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "YOUR FIRST ALASKA DRIVER'S LICENSE, Division of Motor ...",
+   "htmlTitle": "YOUR FIRST ALASKA <b>DRIVER&#39;S LICENSE</b>, Division of Motor ...",
+   "link": "https://dmv.alaska.gov/credential-services/your-first-alaska-drivers-license/",
+   "displayLink": "dmv.alaska.gov",
+   "snippet": "YOUR FIRST ALASKA DRIVER'S LICENSE. Search. Logo link to home; Online Services \u00b7 Locations ... An Alaska instruction permit or Alaska State Identification card.",
+   "htmlSnippet": "YOUR FIRST ALASKA <b>DRIVER&#39;S LICENSE</b>. Search. Logo link to home; Online Services &middot; Locations ... An Alaska instruction permit or Alaska State <b>Identification card</b>.",
+   "formattedUrl": "https://dmv.alaska.gov/credential-services/your-first-alaska-drivers-license/",
+   "htmlFormattedUrl": "https://dmv.alaska.gov/credential-services/your-first-alaska-<b>drivers-license</b>/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9aTTY6xZkK7FLMT9J7izZ2KRBuFpgWiRyTJatwd_xg7_JcojTeGxlttdF&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.alaska.gov/media/xgeh52lz/dmv-logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Identification Card, Division of Motor Vehicles, State of Alaska",
+   "htmlTitle": "<b>Identification Card</b>, Division of Motor Vehicles, State of Alaska",
+   "link": "https://dmv.alaska.gov/credential-services/identification-card/",
+   "displayLink": "dmv.alaska.gov",
+   "snippet": "Identification Card. ALASKA IDENTIFICATION (ID) CARD. Anyone living in the State of Alaska can get an identification card, even children. Your ID card will be\u00a0...",
+   "htmlSnippet": "<b>Identification Card</b>. ALASKA IDENTIFICATION (ID) CARD. Anyone living in the State of Alaska can get an <b>identification card</b>, even children. Your ID card will be&nbsp;...",
+   "formattedUrl": "https://dmv.alaska.gov/credential-services/identification-card/",
+   "htmlFormattedUrl": "https://dmv.alaska.gov/credential-services/<b>identification-card</b>/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CHANGING IDENTIFICATION DETAILS, Division of Motor Vehicles ...",
+   "htmlTitle": "CHANGING IDENTIFICATION DETAILS, Division of Motor Vehicles ...",
+   "link": "https://dmv.alaska.gov/credential-services/changing-identification-details/",
+   "displayLink": "dmv.alaska.gov",
+   "snippet": "Submit application form Application for Driver License, Permit or State Identification Card (Form D1) ... driver's license. Be aware: No notification will\u00a0...",
+   "htmlSnippet": "Submit application form Application for Driver License, Permit or State <b>Identification Card</b> (Form D1) ... <b>driver&#39;s license</b>. Be aware: No notification will&nbsp;...",
+   "formattedUrl": "https://dmv.alaska.gov/credential-services/changing-identification-details/",
+   "htmlFormattedUrl": "https://dmv.alaska.gov/credential-services/changing-identification-details/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9aTTY6xZkK7FLMT9J7izZ2KRBuFpgWiRyTJatwd_xg7_JcojTeGxlttdF&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.alaska.gov/media/xgeh52lz/dmv-logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "UPGRADED DRIVER'S LICENSE SECURITY, Division of Motor ...",
+   "htmlTitle": "UPGRADED <b>DRIVER&#39;S LICENSE</b> SECURITY, Division of Motor ...",
+   "link": "https://dmv.alaska.gov/general-information/upgraded-driver-s-license-security/",
+   "displayLink": "dmv.alaska.gov",
+   "snippet": "Alaskans who wish to obtain an updated card prior to their expiration may do so by paying the standard $15.00 duplicate fee. The new Alaska driver's license and\u00a0...",
+   "htmlSnippet": "Alaskans who wish to obtain an updated card prior to their expiration may do so by paying the standard $15.00 duplicate fee. The new Alaska <b>driver&#39;s license</b> and&nbsp;...",
+   "formattedUrl": "https://dmv.alaska.gov/general.../upgraded-driver-s-license-security/",
+   "htmlFormattedUrl": "https://dmv.alaska.gov/general.../upgraded-driver-s-license-security/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIt1Az17NjNkubJkg-aHhktoYyUpoQJ4w7neXZZ-UgtkVl70NtLLDjzwlP&s",
+      "width": "282",
+      "height": "179"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.alaska.gov/media/zcqpjpkz/newdl.png?rmode=max&width=459&height=292"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "UPGRADED DRIVER'S LICENSE SECURITY, Division of Motor ...",
+   "htmlTitle": "UPGRADED <b>DRIVER&#39;S LICENSE</b> SECURITY, Division of Motor ...",
+   "link": "https://dmv.alaska.gov/home/news/upgraded-driver-s-license-security/",
+   "displayLink": "dmv.alaska.gov",
+   "snippet": "Sep 9, 2024 ... Alaska residents will be the first in the United States to use translucent polycarbonate driver's license and identification (ID) cards.",
+   "htmlSnippet": "Sep 9, 2024 <b>...</b> Alaska residents will be the first in the United States to use translucent polycarbonate <b>driver&#39;s license</b> and identification (ID) cards.",
+   "formattedUrl": "https://dmv.alaska.gov/home/news/upgraded-driver-s-license-security/",
+   "htmlFormattedUrl": "https://dmv.alaska.gov/home/news/upgraded-driver-s-license-security/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9aTTY6xZkK7FLMT9J7izZ2KRBuFpgWiRyTJatwd_xg7_JcojTeGxlttdF&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.alaska.gov/media/xgeh52lz/dmv-logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MILITARY & VETERAN SERVICES, Division of Motor Vehicles, State ...",
+   "htmlTitle": "MILITARY &amp; VETERAN SERVICES, Division of Motor Vehicles, State ...",
+   "link": "https://dmv.alaska.gov/credential-services/military-veteran-services/",
+   "displayLink": "dmv.alaska.gov",
+   "snippet": "... driver's license issued to that person's spouse who is also a resident of ... A valid military identification card that identifies yourself as a\u00a0...",
+   "htmlSnippet": "... <b>driver&#39;s license</b> issued to that person&#39;s spouse who is also a resident of ... A valid military <b>identification card</b> that identifies yourself as a&nbsp;...",
+   "formattedUrl": "https://dmv.alaska.gov/credential-services/military-veteran-services/",
+   "htmlFormattedUrl": "https://dmv.alaska.gov/credential-services/military-veteran-services/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9aTTY6xZkK7FLMT9J7izZ2KRBuFpgWiRyTJatwd_xg7_JcojTeGxlttdF&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.alaska.gov/media/xgeh52lz/dmv-logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DMV Duplicate DL/ID - State of Alaska",
+   "htmlTitle": "DMV Duplicate DL/ID - State of Alaska",
+   "link": "https://online.dmv.alaska.gov/DMVDuplicateDLID/index.aspx",
+   "displayLink": "online.dmv.alaska.gov",
+   "snippet": "The last time you obtained a duplicate of your Driver's license or ID you must have obtained the card in person at a DMV office. A name change must be done in\u00a0...",
+   "htmlSnippet": "The last time you obtained a duplicate of your <b>Driver&#39;s license</b> or ID you must have obtained the card in person at a DMV office. A name change must be done in&nbsp;...",
+   "formattedUrl": "https://online.dmv.alaska.gov/DMVDuplicateDLID/index.aspx",
+   "htmlFormattedUrl": "https://online.dmv.alaska.gov/DMVDuplicateDLID/index.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPyw6A7ovaGqybCbbBjKWv0YkzZkkxJc5Frs6c2gqKex4r8zfj0cxMuSY&s",
+      "width": "282",
+      "height": "179"
+     }
+    ],
+    "organization": [
+     {
+      "name": "Division of Motor Vehicles",
+      "alternatename": "DMV",
+      "email": "Email"
+     }
+    ],
+    "postaladdress": [
+     {
+      "addresslocality": "Anchorage",
+      "postalcode": "99503",
+      "addressregion": "Alaska",
+      "streetaddress": "4001 Ingra Street, Suite 101"
+     }
+    ],
+    "contactpoint": [
+     {
+      "areaserved": "Anchorage Area",
+      "telephone": "269-5551"
+     },
+     {
+      "areaserved": "Alaska",
+      "telephone": "(855)269-5551",
+      "contactoption": "Toll-Free"
+     },
+     {
+      "areaserved": "Outside of Alaska",
+      "telephone": "(907)269-5551"
+     }
+    ],
+    "metatags": [
+     {
+      "division": "Motor Vehicles DMV",
+      "review_date": "01/07/2010",
+      "release_date": "01/07/2010",
+      "author": "DMV",
+      "program": "DMV",
+      "creation_date": "12/28/2010",
+      "department": "Admin."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://online.dmv.alaska.gov/DMVDuplicateDLID/Images/REAL-ID-Non-Compliant-O21.JPG"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Form D1 (Rev: 10/01/2023) STATE OF ALASKA DIVISION OF ...",
+   "htmlTitle": "Form D1 (Rev: 10/01/2023) STATE OF ALASKA DIVISION OF ...",
+   "link": "https://dmv.alaska.gov/media/tskk4urs/d1.pdf",
+   "displayLink": "dmv.alaska.gov",
+   "snippet": "Oct 1, 2023 ... DRIVER LICENSE, PERMIT OR IDENTIFICATION CARD TRANSACTION APPLICATION ... IDENTIFICATION CARD: \u25a1 Standard \u25a1 REAL ID. DRIVING CREDENTIAL\u00a0...",
+   "htmlSnippet": "Oct 1, 2023 <b>...</b> DRIVER LICENSE, PERMIT OR <b>IDENTIFICATION CARD</b> TRANSACTION APPLICATION ... <b>IDENTIFICATION CARD</b>: \u25a1 Standard \u25a1 REAL ID. DRIVING CREDENTIAL&nbsp;...",
+   "formattedUrl": "https://dmv.alaska.gov/media/tskk4urs/d1.pdf",
+   "htmlFormattedUrl": "https://dmv.alaska.gov/media/tskk4urs/d1.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20231002170223-08'00'",
+      "creationdate": "D:20230919145607-08'00'",
+      "creator": "Acrobat PDFMaker 23 for Word",
+      "lastsaved": "D:20220825",
+      "author": "Frizzell, Jeff (DOA)",
+      "created": "D:20220825",
+      "producer": "Adobe PDF Library 23.6.96",
+      "contenttypeid": "0x0101006ABEBC7DCA6C7B4FB3784AC3EF8D7992"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "INTERNATIONAL DRIVING PERMIT, Division of Motor Vehicles ...",
+   "htmlTitle": "INTERNATIONAL DRIVING PERMIT, Division of Motor Vehicles ...",
+   "link": "https://dmv.alaska.gov/credential-services/international-driving-permit/",
+   "displayLink": "dmv.alaska.gov",
+   "snippet": "You may drive in Alaska with your out-of-country driver's license for up to 90 days. Please carry a translation of your driver's license if it isn't in English.",
+   "htmlSnippet": "You may drive in Alaska with your out-of-country <b>driver&#39;s license</b> for up to 90 days. Please carry a translation of your <b>driver&#39;s license</b> if it isn&#39;t in English.",
+   "formattedUrl": "https://dmv.alaska.gov/credential-services/international-driving-permit/",
+   "htmlFormattedUrl": "https://dmv.alaska.gov/credential-services/international-driving-permit/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9aTTY6xZkK7FLMT9J7izZ2KRBuFpgWiRyTJatwd_xg7_JcojTeGxlttdF&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.alaska.gov/media/xgeh52lz/dmv-logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "REINSTATE YOUR DRIVING PRIVILEGES, Division of Motor ...",
+   "htmlTitle": "REINSTATE YOUR DRIVING PRIVILEGES, Division of Motor ...",
+   "link": "https://dmv.alaska.gov/driver-services-adjudication/reinstate-your-driving-privileges/",
+   "displayLink": "dmv.alaska.gov",
+   "snippet": "When you take the steps needed to get your license back, you are reinstating your driver's license or privilege to drive. The process for reinstating your\u00a0...",
+   "htmlSnippet": "When you take the steps needed to get your license back, you are reinstating your <b>driver&#39;s license</b> or privilege to drive. The process for reinstating your&nbsp;...",
+   "formattedUrl": "https://dmv.alaska.gov/driver-services.../reinstate-your-driving-privileges/",
+   "htmlFormattedUrl": "https://dmv.alaska.gov/driver-services.../reinstate-your-driving-privileges/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9aTTY6xZkK7FLMT9J7izZ2KRBuFpgWiRyTJatwd_xg7_JcojTeGxlttdF&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.alaska.gov/media/xgeh52lz/dmv-logo.png"
+     }
+    ]
+   }
+  }
+ ]
+}

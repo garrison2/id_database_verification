@@ -1,0 +1,426 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Florida\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Florida Statutes\"",
+    "totalResults": "416000",
+    "searchTerms": "\"Florida\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Florida Statutes\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Florida\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Florida Statutes\"",
+    "totalResults": "416000",
+    "searchTerms": "\"Florida\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Florida Statutes\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.243037,
+  "formattedSearchTime": "0.24",
+  "totalResults": "416000",
+  "formattedTotalResults": "416,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Florida - mDL Connection",
+   "htmlTitle": "<b>Florida</b> - <b>mDL</b> Connection",
+   "link": "https://www.mdlconnection.com/implementation-tracker-map/florida/",
+   "displayLink": "www.mdlconnection.com",
+   "snippet": "Florida \u00b7 Florida Statutes 322.15 and 322.032. \u00b7 Florida Smart ID: Apple Store \u00b7 Florida Smart ID: Google Play \u00b7 Florida Smart ID Verifier: Apple Store \u00b7 Florida\u00a0...",
+   "htmlSnippet": "<b>Florida</b> &middot; <b>Florida Statutes</b> 322.15 and 322.032. &middot; <b>Florida</b> Smart ID: Apple Store &middot; <b>Florida</b> Smart ID: Google Play &middot; <b>Florida</b> Smart ID Verifier: Apple Store &middot; <b>Florida</b>&nbsp;...",
+   "formattedUrl": "https://www.mdlconnection.com/implementation-tracker-map/florida/",
+   "htmlFormattedUrl": "https://www.<b>mdl</b>connection.com/implementation-tracker-map/<b>florida</b>/",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "mDL Connection",
+      "article:modified_time": "2024-07-12T16:26:42+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "Florida - mDL Connection",
+      "og:locale": "en_US",
+      "twitter:label1": "Est. reading time",
+      "og:url": "https://www.mdlconnection.com/implementation-tracker-map/florida/",
+      "msapplication-tileimage": "https://www.mdlconnection.com/wp-content/uploads/2020/04/cropped-mDLConnection-icon@2x-270x270.png",
+      "twitter:data1": "2 minutes"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Florida Mobile ID Updates",
+   "htmlTitle": "<b>Florida Mobile ID</b> Updates",
+   "link": "https://idscan.net/state-digital-id/florida-mobile-id-updates/",
+   "displayLink": "idscan.net",
+   "snippet": "State of mobile ID in Florida \u00b7 Other Florida mDL resources.",
+   "htmlSnippet": "State of <b>mobile ID</b> in <b>Florida</b> &middot; Other <b>Florida mDL</b> resources.",
+   "formattedUrl": "https://idscan.net/state-digital-id/florida-mobile-id-updates/",
+   "htmlFormattedUrl": "https://idscan.net/state-<b>digital-id</b>/<b>florida</b>-<b>mobile-id</b>-updates/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7RU3DkJRwKciLF9zDoDTlBt9dUkl8FViZikuIQK_SmpUBNJiyr9yWwLI&s",
+      "width": "267",
+      "height": "189"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://idscan.net/wp-content/uploads/florida-smartid-digital-id.png?lm=66A73175",
+      "og:type": "article",
+      "og:image:width": "916",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "IDScan.net",
+      "og:title": "Florida Mobile ID Updates",
+      "og:image:height": "648",
+      "og:image:type": "image/png",
+      "msapplication-tileimage": "https://idscan.net/wp-content/uploads/cropped-idscan-identity-verification-software-icon-1-270x270.png",
+      "og:description": "Florida has ended their SmartID by Thales app, and asked users to delete the app. Its back to the drawing board for a Florida mobile ID.",
+      "article:publisher": "https://www.facebook.com/idscannet",
+      "twitter:site": "@idscan_net",
+      "article:modified_time": "2025-02-26T21:18:37+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://idscan.net/state-digital-id/florida-mobile-id-updates/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://idscan.net/wp-content/uploads/florida-smartid-digital-id.png?lm=66A73175"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Framing Success: University of Florida College of Law w/Mdl, Blue ...",
+   "htmlTitle": "Framing Success: University of <b>Florida</b> College of <b>Law</b> w/<b>Mdl</b>, Blue ...",
+   "link": "https://www.framingsuccess.com/product/detail/productID/444189",
+   "displayLink": "www.framingsuccess.com",
+   "snippet": "... Florida College of Law w/Mdl, Blue/Orange Mat, Moulding. 1. Moulding ... order frame. facebook pinterest twitter youtube. \u00a92025 Herff Jones, All Rights\u00a0...",
+   "htmlSnippet": "... <b>Florida</b> College of <b>Law</b> w/<b>Mdl</b>, Blue/Orange Mat, Moulding. 1. Moulding ... <b>order</b> frame. facebook pinterest twitter youtube. \u00a92025 Herff Jones, All Rights&nbsp;...",
+   "formattedUrl": "https://www.framingsuccess.com/product/detail/productID/444189",
+   "htmlFormattedUrl": "https://www.framingsuccess.com/product/detail/productID/444189",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO0toc6mkTsdtn7wuL5qfD3XJsGguUGJ_wD91OFAcsjEBv-6TWlgeynPw&s",
+      "width": "240",
+      "height": "210"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://media1.herffjones.com/apps/framingsuccess/img1-millennium_lg.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CFO Jimmy Patronis Statement on Passage of Fraud Prevention Bill ...",
+   "htmlTitle": "CFO Jimmy Patronis Statement on Passage of Fraud Prevention <b>Bill</b> ...",
+   "link": "https://myfloridacfo.com/news/pressreleases/prior-press-releases/archive-patronis/2023/09/20/cfo-jimmy-patronis-statement-on-passage-of-fraud-prevention-bill-from-house-subcommittee",
+   "displayLink": "myfloridacfo.com",
+   "snippet": "Feb 15, 2022 ... ... law; will combat ... Florida policyholders by ensuring digital insurance applications will communicate with the digital driver's license.",
+   "htmlSnippet": "Feb 15, 2022 <b>...</b> ... <b>law</b>; will combat ... <b>Florida</b> policyholders by ensuring digital insurance applications will communicate with the <b>digital driver&#39;s license</b>.",
+   "formattedUrl": "https://myfloridacfo.com/.../cfo-jimmy-patronis-statement-on-passage-of-fr...",
+   "htmlFormattedUrl": "https://my<b>florida</b>cfo.com/.../cfo-jimmy-patronis-statement-on-passage-of-fr...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR3uQICYz5WyVQht-U-9uD0KcCyq1cn8zEQ1f6sGtqfJ9EtpF66a5tRw&s",
+      "width": "100",
+      "height": "100"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "article",
+      "og:site_name": "News",
+      "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes",
+      "og:title": "CFO Jimmy Patronis Statement on Passage of Fraud Prevention Bill from House Subcommittee",
+      "og:url": "http://myfloridacfo.com/news/newsletter/past-issues/newsletter-archive-details/2023/09/20/cfo-jimmy-patronis-statement-on-passage-of-fraud-prevention-bill-from-house-subcommittee"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://myfloridacfo.com/sitefinity-images/default-source/assets/cfo_gold.png?sfvrsn=80d16a28_3"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Has anyone actually tried to use the Florida Highway Safety and ...",
+   "htmlTitle": "Has anyone actually tried to use the <b>Florida</b> Highway Safety and ...",
+   "link": "https://www.reddit.com/r/florida/comments/1aejl3j/has_anyone_actually_tried_to_use_the_florida/",
+   "displayLink": "www.reddit.com",
+   "snippet": "Jan 30, 2024 ... Mobile IDs are coming to North Carolina \u00b7 r/NorthCarolina \u00b7 6 days ago ; Getting mobile ID in suomi \u00b7 r/Finland \u00b7 5 yr. ago ; ND Digital ID \u00b7 r/\u00a0...",
+   "htmlSnippet": "Jan 30, 2024 <b>...</b> Mobile IDs are coming to North Carolina &middot; r/NorthCarolina &middot; 6 days ago ; Getting <b>mobile ID</b> in suomi &middot; r/Finland &middot; 5 yr. ago ; ND <b>Digital ID</b> &middot; r/&nbsp;...",
+   "formattedUrl": "https://www.reddit.com/.../florida/.../has_anyone_actually_tried_to_use_the...",
+   "htmlFormattedUrl": "https://www.reddit.com/.../<b>florida</b>/.../has_anyone_actually_tried_to_use_the...",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:image": "https://share.redd.it/preview/post/1aejl3j",
+      "theme-color": "#000000",
+      "og:image:width": "1200",
+      "og:type": "website",
+      "og:image:alt": "An image containing a preview of the post",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "r/florida on Reddit: Has anyone actually tried to use the Florida Highway Safety and Motor Vehicles Smart ID app to purchase an age restricted item in FL?",
+      "og:site_name": "Reddit",
+      "og:title": "r/florida on Reddit: Has anyone actually tried to use the Florida Highway Safety and Motor Vehicles Smart ID app to purchase an age restricted item in FL?",
+      "og:image:height": "630",
+      "msapplication-navbutton-color": "#000000",
+      "og:description": "Posted by u/madcatzplayer5 - 12 votes and 34 comments",
+      "twitter:image": "https://share.redd.it/preview/post/1aejl3j",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "twitter:site": "@reddit",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "apple-mobile-web-app-capable": "yes",
+      "og:ttl": "600",
+      "og:url": "https://www.reddit.com/r/florida/comments/1aejl3j/has_anyone_actually_tried_to_use_the_florida/?seeker-session=true"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MDL or Frankenstein's laboratory? \u00bb College of Dentistry ...",
+   "htmlTitle": "<b>MDL</b> or Frankenstein&#39;s laboratory? \u00bb College of Dentistry ...",
+   "link": "https://dental.ufl.edu/2007/02/12/mdl-or-frankensteins-laboratory/",
+   "displayLink": "dental.ufl.edu",
+   "snippet": "Feb 12, 2007 ... MDL. The name alone probably conjures up memories of long hours of study for many UFCD grads ... \u00a9 2025 University of Florida Health.",
+   "htmlSnippet": "Feb 12, 2007 <b>...</b> <b>MDL</b>. The name alone probably conjures up memories of long hours of study for many UFCD grads ... \u00a9 2025 University of <b>Florida</b> Health.",
+   "formattedUrl": "https://dental.ufl.edu/2007/02/12/mdl-or-frankensteins-laboratory/",
+   "htmlFormattedUrl": "https://dental.ufl.edu/2007/02/12/<b>mdl</b>-or-frankensteins-laboratory/",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:type": "article",
+      "twitter:site": "@UFDentistry",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "MDL or Frankenstein\u2019s laboratory? \u00bb  College of Dentistry \u00bb University of Florida",
+      "og:url": "https://dental.ufl.edu/2007/02/12/mdl-or-frankensteins-laboratory/",
+      "og:description": "MDL. The name alone probably conjures up memories of long hours of study for many UFCD grads. Opened in the early 1970s with the completion of the Communicore Building, the college\u2019s two MDLs, short for multidisciplinary teaching laboratories, remained unchanged for decades\u2014stuck in that \u201870s groove. Expansion of the Health Science Center\u2019s computer testing area\u2026"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Florida has temporarily suspended support for its digital driver's ...",
+   "htmlTitle": "<b>Florida</b> has temporarily suspended support for its <b>digital driver&#39;s</b> ...",
+   "link": "https://www.reddit.com/r/apple/comments/1e07yvy/florida_has_temporarily_suspended_support_for_its/",
+   "displayLink": "www.reddit.com",
+   "snippet": "Jul 10, 2024 ... Florida has abruptly removed its digital driver's license application from the iOS and Android app stores, forcing digital ID holders to rely on physical cards\u00a0...",
+   "htmlSnippet": "Jul 10, 2024 <b>...</b> <b>Florida</b> has abruptly removed its <b>digital driver&#39;s license</b> application from the iOS and Android app stores, forcing <b>digital ID</b> holders to rely on physical cards&nbsp;...",
+   "formattedUrl": "https://www.reddit.com/.../florida_has_temporarily_suspended_support_for...",
+   "htmlFormattedUrl": "https://www.reddit.com/.../<b>florida</b>_has_temporarily_suspended_support_for...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOi072pCdxYitV6fXvnKd4nXlhNOcYovUK7yNYCJzMFOHxBEF9rEqhqSE&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://external-preview.redd.it/florida-has-temporarily-suspended-support-for-its-digital-v0-SxskfWHoE_tQzKVwxQcuGulYXL6xATgE4zcRI05pFho.jpg?width=1080&crop=smart&auto=webp&s=6dafe82caf2fe42c7b153a9ca874ad18cba65f00",
+      "theme-color": "#000000",
+      "og:image:width": "1080",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "r/apple on Reddit: Florida has temporarily suspended support for its digital driver's license app",
+      "og:site_name": "Reddit",
+      "og:title": "r/apple on Reddit: Florida has temporarily suspended support for its digital driver's license app",
+      "og:image:height": "607",
+      "msapplication-navbutton-color": "#000000",
+      "og:description": "Posted by u/chrisdh79 - 464 votes and 80 comments",
+      "twitter:image": "https://external-preview.redd.it/florida-has-temporarily-suspended-support-for-its-digital-v0-SxskfWHoE_tQzKVwxQcuGulYXL6xATgE4zcRI05pFho.jpg?width=1080&crop=smart&auto=webp&s=6dafe82caf2fe42c7b153a9ca874ad18cba65f00",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "twitter:site": "@reddit",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "apple-mobile-web-app-capable": "yes",
+      "og:ttl": "600",
+      "og:url": "https://www.reddit.com/r/apple/comments/1e07yvy/florida_has_temporarily_suspended_support_for_its/?seeker-session=true"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://external-preview.redd.it/florida-has-temporarily-suspended-support-for-its-digital-v0-SxskfWHoE_tQzKVwxQcuGulYXL6xATgE4zcRI05pFho.jpg?width=1080&crop=smart&auto=webp&s=6dafe82caf2fe42c7b153a9ca874ad18cba65f00"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "FTX Promoters Seek Dismissal in Florida MDL | Law.com International",
+   "htmlTitle": "FTX Promoters Seek Dismissal in <b>Florida MDL</b> | <b>Law</b>.com International",
+   "link": "https://www.linkedin.com/posts/lawdotcomintl_ftx-promoters-seek-dismissal-in-florida-mdl-activity-7355861926578454528-GQ5B",
+   "displayLink": "www.linkedin.com",
+   "snippet": "Jul 29, 2025 ... FTX Promoters Seek Dismissal in Florida MDL | Law.com law.com \u00b7 Like Comment. Share. Copy",
+   "htmlSnippet": "Jul 29, 2025 <b>...</b> FTX Promoters Seek Dismissal in <b>Florida MDL</b> | <b>Law</b>.com <b>law</b>.com &middot; Like Comment. Share. Copy",
+   "formattedUrl": "https://www.linkedin.com/.../lawdotcomintl_ftx-promoters-seek-dismissal-i...",
+   "htmlFormattedUrl": "https://www.linkedin.com/.../<b>law</b>dotcomintl_ftx-promoters-seek-dismissal-i...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe0D3kpuGaR1znZczlPbjKP7bmKg95gfMYGuv-z67v9A_hN1mAiIJ1fa8c&s",
+      "width": "277",
+      "height": "182"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://media.licdn.com/dms/image/v2/D4E10AQF4nAUEFWerbg/image-shrink_800/B4EZhVFcezGUAc-/0/1753774148404?e=2147483647&v=beta&t=k7gqLNbl7CKs3bFjZJHWdbm9NHFYS1sU42wlBS6iKQg",
+      "twitter:title": "FTX Promoters Seek Dismissal in Florida MDL | Law.com International",
+      "twitter:card": "summary_large_image",
+      "og:type": "article",
+      "al:ios:app_name": "LinkedIn",
+      "twitter:url": "https://www.linkedin.com/posts/lawdotcomintl_ftx-promoters-seek-dismissal-in-florida-mdl-activity-7355861926578454528-GQ5B",
+      "og:title": "FTX Promoters Seek Dismissal in Florida MDL | Law.com International",
+      "al:android:package": "com.linkedin.android",
+      "pagekey": "p_public_post",
+      "locale": "en_US",
+      "al:ios:url": "https://www.linkedin.com/posts/lawdotcomintl_ftx-promoters-seek-dismissal-in-florida-mdl-activity-7355861926578454528-GQ5B",
+      "og:description": "FTX Promoters Seek Dismissal in Florida MDL",
+      "al:ios:app_store_id": "288429040",
+      "twitter:image": "https://media.licdn.com/dms/image/v2/D4E10AQF4nAUEFWerbg/image-shrink_800/B4EZhVFcezGUAc-/0/1753774148404?e=2147483647&v=beta&t=k7gqLNbl7CKs3bFjZJHWdbm9NHFYS1sU42wlBS6iKQg",
+      "al:android:url": "https://www.linkedin.com/posts/lawdotcomintl_ftx-promoters-seek-dismissal-in-florida-mdl-activity-7355861926578454528-GQ5B",
+      "lnkd:url": "https://www.linkedin.com/feed/update/urn:li:activity:7355861926578454528",
+      "twitter:site": "@linkedin",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "FTX Promoters Seek Dismissal in Florida MDL",
+      "og:url": "https://www.linkedin.com/posts/lawdotcomintl_ftx-promoters-seek-dismissal-in-florida-mdl-activity-7355861926578454528-GQ5B",
+      "al:android:app_name": "LinkedIn"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://media.licdn.com/dms/image/v2/D4E10AQF4nAUEFWerbg/image-shrink_800/B4EZhVFcezGUAc-/0/1753774148404?e=2147483647&v=beta&t=k7gqLNbl7CKs3bFjZJHWdbm9NHFYS1sU42wlBS6iKQg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Apply for GATORONE - Business Services Business Services",
+   "htmlTitle": "Apply for GATORONE - Business Services Business Services",
+   "link": "https://businessservices.ufl.edu/services/gator-1-card/gator-1-card-homepage/",
+   "displayLink": "businessservices.ufl.edu",
+   "snippet": "All students will receive the Mobile ID unless their phone is not compatible ... University of Florida UF Bookstore & Welcome Center PO Box 112450",
+   "htmlSnippet": "All students will receive the <b>Mobile ID</b> unless their phone is not compatible ... University of <b>Florida</b> UF Bookstore &amp; Welcome Center PO Box 112450",
+   "formattedUrl": "https://businessservices.ufl.edu/services/gator-1.../gator-1-card-homepage/",
+   "htmlFormattedUrl": "https://businessservices.ufl.edu/services/gator-1.../gator-1-card-homepage/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStWveION9EKNdZ_7zg4GV6GlsJmkDSgnthjjuyNJUpsUPKq2KcD3dYvwd0&s",
+      "width": "328",
+      "height": "154"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://businessservices.ufl.edu/wp-content/uploads/2023/08/Retiree-3.png",
+      "og:type": "article",
+      "og:image:width": "2680",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Business Services",
+      "og:title": "Apply for GATORONE - Business Services",
+      "og:image:height": "1260",
+      "twitter:label1": "Est. reading time",
+      "og:image:type": "image/png",
+      "og:description": "We encourage all Gators to submit the application for GATORONE online at myBSD portal. All students are encouraged to get the Mobile ID unless their phone is not compatible or they need access to door readers that have not yet been upgraded. Set-Up Your Mobile GATORONE \u00a0 Photo Requirements A submitted photo must follow the [\u2026]",
+      "twitter:data1": "5 minutes",
+      "article:modified_time": "2025-06-09T20:55:33+00:00",
+      "viewport": "width=device-width,initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://businessservices.ufl.edu/services/gator-1-card/gator-1-card-homepage/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://businessservices.ufl.edu/wp-content/uploads/2023/08/Retiree-3.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Rapid ID for Real-Time Mobile ID Verification for Law Enforcement",
+   "htmlTitle": "Rapid ID for Real-Time <b>Mobile ID</b> Verification for <b>Law</b> Enforcement",
+   "link": "https://blog.hidglobal.com/how-florida-law-enforcement-can-tap-rapid-id-greater-efficiency",
+   "displayLink": "blog.hidglobal.com",
+   "snippet": "Oct 21, 2024 ... Learn how Florida law enforcement uses HID's Rapid ID for real-time mobile ID verification, ensuring quick and secure identity checks in the\u00a0...",
+   "htmlSnippet": "Oct 21, 2024 <b>...</b> Learn how <b>Florida law</b> enforcement uses HID&#39;s Rapid ID for real-time <b>mobile ID</b> verification, ensuring quick and secure identity checks in the&nbsp;...",
+   "formattedUrl": "https://blog.hidglobal.com/how-florida-law-enforcement-can-tap-rapid-id-g...",
+   "htmlFormattedUrl": "https://blog.hidglobal.com/how-<b>florida</b>-<b>law</b>-enforcement-can-tap-rapid-id-g...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-m7VhZbib4G6tE3JqzbVYdEORXAG-1WTmocGnK1U1bVXgHYOKIB59qyLS&s",
+      "width": "313",
+      "height": "161"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://blog.hidglobal.com/sites/default/files/2024-10/blog-florida.jpg",
+      "og:type": "article",
+      "article:section": "Secure Identity Solutions",
+      "article:published_time": "2024-10-21T09:00:00-0500",
+      "og:site_name": "HID Global Blog",
+      "handheldfriendly": "true",
+      "og:title": "How Florida Law Enforcement Can \"Tap\" Into Rapid ID for Greater Efficiency",
+      "og:description": "Learn how Florida law enforcement uses HID's Rapid ID for real-time mobile ID verification, ensuring quick and secure identity checks in the field.",
+      "article:author": "Mark Lindsay",
+      "article:publisher": "https://www.facebook.com/HIDGlobal/",
+      "article:tag": "Biometrics",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width",
+      "og:url": "https://blog.hidglobal.com/how-florida-law-enforcement-can-tap-rapid-id-greater-efficiency"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://blog.hidglobal.com/sites/default/files/2024-10/blog-florida.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

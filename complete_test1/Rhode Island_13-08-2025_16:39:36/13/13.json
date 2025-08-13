@@ -1,0 +1,290 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Rhode Island General Laws\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\" -\"apply\" -\"application\"",
+    "totalResults": "9",
+    "searchTerms": "\"Rhode Island General Laws\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\" -\"apply\" -\"application\"",
+    "count": 9,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.142366,
+  "formattedSearchTime": "0.14",
+  "totalResults": "9",
+  "formattedTotalResults": "9"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Untitled",
+   "htmlTitle": "Untitled",
+   "link": "https://dmv.ri.gov/media/2006/download?language=en",
+   "displayLink": "dmv.ri.gov",
+   "snippet": "Feb 5, 2023 ... Verification System (RIIVS) in order to verify automobile liability insurance for vehicles registered in ... driver's license and obtain or\u00a0...",
+   "htmlSnippet": "Feb 5, 2023 <b>...</b> <b>Verification</b> System (RIIVS) in order to <b>verify</b> automobile liability insurance for vehicles registered in ... <b>driver&#39;s license</b> and obtain or&nbsp;...",
+   "formattedUrl": "https://dmv.ri.gov/media/2006/download?language=en",
+   "htmlFormattedUrl": "https://dmv.ri.gov/media/2006/download?language=en",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "Tue Apr 25 07:48:23 2023",
+      "creationdate": "Tue Apr 25 07:48:23 2023",
+      "creator": "Microsoft\u00ae Word 2016",
+      "author": "Tracy Laws Corson",
+      "producer": "Microsoft\u00ae Word 2016"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Rhode Island General Laws Title 31. Motor and Other Vehicles ...",
+   "htmlTitle": "<b>Rhode Island General Laws</b> Title 31. Motor and Other Vehicles ...",
+   "link": "https://codes.findlaw.com/ri/title-31-motor-and-other-vehicles/",
+   "displayLink": "codes.findlaw.com",
+   "snippet": "... Driver's License Act \u00b7 Chapter 10.4. Driver Privilege Cards and Permits; State ... Please verify the status of the code you are researching with the\u00a0...",
+   "htmlSnippet": "... <b>Driver&#39;s License</b> Act &middot; Chapter 10.4. Driver Privilege Cards and Permits; State ... Please <b>verify</b> the status of the code you are researching with the&nbsp;...",
+   "formattedUrl": "https://codes.findlaw.com/ri/title-31-motor-and-other-vehicles/",
+   "htmlFormattedUrl": "https://codes.findlaw.com/ri/title-31-motor-and-other-vehicles/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuWtKEZ0kzYj6NSuZlgNrAF5XcYIi9XgsiqHcAgQHtxY18xcWZ1bDMaCM&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png",
+      "og:type": "article",
+      "og:site_name": "Findlaw",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Rhode Island General Laws Title 31. Motor and Other Vehicles | FindLaw",
+      "og:url": "https://codes.findlaw.com/ri/title-31-motor-and-other-vehicles/",
+      "og:description": "Browse all sections of Rhode Island Title 31. Motor and Other Vehicles in Findlaw's database"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DIVISION OF MOTOR VEHICLES",
+   "htmlTitle": "DIVISION OF MOTOR VEHICLES",
+   "link": "https://dmv.ri.gov/sites/g/files/xkgbur556/files/documents/insurance/Insurance-Verification-Letter.pdf",
+   "displayLink": "dmv.ri.gov",
+   "snippet": "Verification System (RllVS) in order to verify ... Chapters 31-47 and 31-47.4 of the Rhode Island General Laws require that you maintain liability.",
+   "htmlSnippet": "<b>Verification</b> System (RllVS) in order to <b>verify</b> ... Chapters 31-47 and 31-47.4 of the <b>Rhode Island General Laws</b> require that you <b>maintain</b> liability.",
+   "formattedUrl": "https://dmv.ri.gov/sites/g/files/.../files/.../Insurance-Verification-Letter.pdf",
+   "htmlFormattedUrl": "https://dmv.ri.gov/sites/g/files/.../files/.../Insurance-<b>Verification</b>-Letter.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20210615092142-04'00'",
+      "creationdate": "D:20210615092142-04'00'",
+      "creator": "Acrobat PDFMaker 11 for Word",
+      "lastsaved": "D:20210614",
+      "sourcemodified": "D:20210615132137",
+      "created": "D:20150706",
+      "producer": "Adobe PDF Library 11.0"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "RHODE ISLAND DEPARTMENT OF CORRECTIONS POLICY AND ...",
+   "htmlTitle": "RHODE ISLAND DEPARTMENT OF CORRECTIONS POLICY AND ...",
+   "link": "https://doc.ri.gov/sites/g/files/xkgbur681/files/documents/policies/2.17-5-DOC.pdf",
+   "displayLink": "doc.ri.gov",
+   "snippet": "Mar 3, 2014 ... (b). Driver's license (with photo);. (c). Picture bus pass;. ( d). Court or parole release papers. (3). If a released inmate does not have an\u00a0...",
+   "htmlSnippet": "Mar 3, 2014 <b>...</b> (b). <b>Driver&#39;s license</b> (with photo);. (c). Picture bus pass;. ( d). Court or parole release papers. (3). If a released inmate does not have an&nbsp;...",
+   "formattedUrl": "https://doc.ri.gov/sites/g/files/xkgbur681/files/.../policies/2.17-5-DOC.pdf",
+   "htmlFormattedUrl": "https://doc.ri.gov/sites/g/files/xkgbur681/files/.../policies/2.17-5-DOC.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20180419154150-04'00'",
+      "creationdate": "D:20021228200253Z"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Rhode Island Military Legislation & Policies | Military State Policy",
+   "htmlTitle": "Rhode Island Military Legislation &amp; Policies | Military State Policy",
+   "link": "https://statepolicy.militaryonesource.mil/state/RI",
+   "displayLink": "statepolicy.militaryonesource.mil",
+   "snippet": "Remote Driver's License and Vehicle Registration Renewal2/2 Sub-priorities passed ... My Military OneSource Google Play Store \u00b7 My Military OneSource iOS App\u00a0...",
+   "htmlSnippet": "Remote <b>Driver&#39;s License</b> and Vehicle Registration Renewal2/2 Sub-priorities passed ... My Military OneSource Google Play <b>Store</b> &middot; My Military OneSource iOS App&nbsp;...",
+   "formattedUrl": "https://statepolicy.militaryonesource.mil/state/RI",
+   "htmlFormattedUrl": "https://statepolicy.militaryonesource.mil/state/RI",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "RHODE ISLAND DEPARTMENT OF CORRECTIONS",
+   "htmlTitle": "RHODE ISLAND DEPARTMENT OF CORRECTIONS",
+   "link": "https://doc.ri.gov/media/1306/download?language=en",
+   "displayLink": "doc.ri.gov",
+   "snippet": "(b) Driver's license (with photo);. (c) Picture bus pass;. (d) Court or parole release papers. (3) If a released inmate does not have an inmate identification.",
+   "htmlSnippet": "(b) <b>Driver&#39;s license</b> (with photo);. (c) Picture bus pass;. (d) Court or parole release papers. (3) If a released inmate does not have an inmate identification.",
+   "formattedUrl": "https://doc.ri.gov/media/1306/download?language=en",
+   "htmlFormattedUrl": "https://doc.ri.gov/media/1306/download?language=en",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-UWqMjgbDLzDbsJ6Ohwz0Ah0CcA8lqPbiQmaVuTtVee3L1Z0a1dK9yuRm&s",
+      "width": "227",
+      "height": "222"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20240123094606-05'00'",
+      "creationdate": "D:20240123094604-05'00'",
+      "creator": "Acrobat PDFMaker 17 for Word",
+      "sourcemodified": "D:20240123144556",
+      "author": "co'connell",
+      "producer": "Adobe PDF Library 17.11.238",
+      "company": "RIDOC",
+      "title": "RHODE ISLAND DEPARTMENT OF CORRECTIONS"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///9d20352d5fbf433730417e79df5b60a495aed7c6109719af560b0326cb48440f"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "REQUEST FOR PROPOSALS",
+   "htmlTitle": "REQUEST FOR PROPOSALS",
+   "link": "https://www.rihousing.com/wp-content/uploads/RFP-LeadSafe-Homes-Lab-Services-FInal-3.6.25.pdf",
+   "displayLink": "www.rihousing.com",
+   "snippet": "Mar 6, 2025 ... Chapter 2 of Title 38 of the Rhode Island General Laws ... numbers, account numbers, social security numbers, driver's license or identification\u00a0...",
+   "htmlSnippet": "Mar 6, 2025 <b>...</b> Chapter 2 of Title 38 of the <b>Rhode Island General Laws</b> ... numbers, account numbers, social security numbers, <b>driver&#39;s license</b> or <b>identification</b>&nbsp;...",
+   "formattedUrl": "https://www.rihousing.com/.../RFP-LeadSafe-Homes-Lab-Services-FInal-3....",
+   "htmlFormattedUrl": "https://www.rihousing.com/.../RFP-LeadSafe-Homes-Lab-Services-FInal-3....",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_jgComqHzlvzUoVXxJzwwt35uuBP0WAcjlyv8Vsq-1vrFVGXDjwscshPE&s",
+      "width": "197",
+      "height": "255"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20250305152937-05'00'",
+      "creationdate": "D:20250305152930-05'00'",
+      "creator": "Acrobat PDFMaker 24 for Word",
+      "sourcemodified": "D:20250305202850",
+      "author": "Microsoft Office User",
+      "grammarlydocumentid": "1870ebb1bf231dedc175094d96ec1751efe551449f87d10aab2cf415f6e8319c",
+      "producer": "Adobe PDF Library 24.5.197",
+      "contenttypeid": "0x010100C0BA6CEF993CA04FBC861BABD861E725"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///d504fc5314b6897b57f18614926c66c7376ac2de38a4ac3607cd0c291982602b"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "PayARSPrivacy Policy",
+   "htmlTitle": "PayARSPrivacy Policy",
+   "link": "https://www.payars.com/ExternalMessage/PrivacyPolicy",
+   "displayLink": "www.payars.com",
+   "snippet": "Oct 8, 2024 ... A consumer's social security, driver's license, state identification card, or passport number. ... Undertaking activities to verify or maintain\u00a0...",
+   "htmlSnippet": "Oct 8, 2024 <b>...</b> A consumer&#39;s social security, <b>driver&#39;s license</b>, state <b>identification card</b>, or passport number. ... Undertaking activities to <b>verify</b> or <b>maintain</b>&nbsp;...",
+   "formattedUrl": "https://www.payars.com/ExternalMessage/PrivacyPolicy",
+   "htmlFormattedUrl": "https://www.payars.com/ExternalMessage/PrivacyPolicy",
+   "pagemap": {
+    "metatags": [
+     {
+      "skype_toolbar": "SKYPE_TOOLBAR_PARSER_COMPATIBLE",
+      "viewport": "width=device-width, initial-scale=1, user-scalable=no"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Rhode Island Car Insurance Laws, Types, Requirements and More",
+   "htmlTitle": "Rhode Island Car Insurance Laws, Types, Requirements and More",
+   "link": "https://rhodeislandvehicle.org/car-insurance",
+   "displayLink": "rhodeislandvehicle.org",
+   "snippet": "... Verification letter to the vehicle owner. Vehicle owners ... Additionally, the RIIVS helps to verify that all registered vehicles in the state maintain\u00a0...",
+   "htmlSnippet": "... <b>Verification</b> letter to the vehicle owner. Vehicle owners ... Additionally, the RIIVS helps to <b>verify</b> that all registered vehicles in the state <b>maintain</b>&nbsp;...",
+   "formattedUrl": "https://rhodeislandvehicle.org/car-insurance",
+   "htmlFormattedUrl": "https://rhodeislandvehicle.org/car-insurance",
+   "pagemap": {
+    "metatags": [
+     {
+      "twitter:card": "summary",
+      "twitter:title": "Rhode Island Car Insurance Laws, Types, Requirements and More",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Explore Rhode Island  car insurance laws, types, and filing requirements how your driving record impacts costs and more.",
+      "og:title": "Rhode Island Car Insurance Laws, Types, Requirements and More",
+      "og:url": "https://rhodeislandvehicle.org/car-insurance",
+      "og:description": "Explore Rhode Island  car insurance laws, types, and filing requirements how your driving record impacts costs and more."
+     }
+    ],
+    "listitem": [
+     {
+      "item": "Home",
+      "name": "Home",
+      "position": "1"
+     },
+     {
+      "name": "Car Insurance",
+      "position": "2"
+     }
+    ]
+   }
+  }
+ ]
+}

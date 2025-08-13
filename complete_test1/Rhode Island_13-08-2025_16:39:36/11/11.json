@@ -1,0 +1,381 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Rhode Island General Laws\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "437",
+    "searchTerms": "\"Rhode Island General Laws\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Rhode Island General Laws\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "437",
+    "searchTerms": "\"Rhode Island General Laws\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.169627,
+  "formattedSearchTime": "0.17",
+  "totalResults": "437",
+  "formattedTotalResults": "437"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "General Laws of Rhode Island Section 27-49-3.1. (2024 ...",
+   "htmlTitle": "General Laws of Rhode Island Section 27-49-3.1. (2024 ...",
+   "link": "https://law.justia.com/codes/rhode-island/title-27/chapter-27-49/section-27-49-3-1/",
+   "displayLink": "law.justia.com",
+   "snippet": "Justia \u203a U.S. Law \u203a U.S. Codes and Statutes \u203a Rhode Island General Laws \u203a 2024 Rhode Island General Laws ... (3) \u201cPersonal information\u201d means information that\u00a0...",
+   "htmlSnippet": "Justia \u203a U.S. Law \u203a U.S. Codes and Statutes \u203a <b>Rhode Island General Laws</b> \u203a 2024 <b>Rhode Island General Laws</b> ... (3) \u201c<b>Personal information</b>\u201d <b>means</b> information that&nbsp;...",
+   "formattedUrl": "https://law.justia.com/codes/rhode-island/title-27/.../section-27-49-3-1/",
+   "htmlFormattedUrl": "https://law.justia.com/codes/rhode-island/title-27/.../section-27-49-3-1/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPP2ksOfM4IyWL7PTxPyS5N80Or-jyXZZLgeH1kYuOtXk5YU597YCxGszS&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "og:site_name": "Justia Law",
+      "og:title": "2024 Rhode Island General Laws :: Title 27 - Insurance :: Chapter 27-49 - Motor Vehicle Theft and Motor Vehicle Insurance Fraud Reporting \u2014 Immunity Act :: Section 27-49-3.1. - Disclosure of personal information obtained in connection with motor vehicle records.",
+      "og:app_id": "119529808075661",
+      "trigger-ga": "1",
+      "og:description": "Justia Free Databases of U.S. Laws, Codes & Statutes",
+      "og:admins": "656268335,686786921,25900864",
+      "referrer": "unsafe-url",
+      "twitter:site": "@JustiaCom",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "page-type": "Law: Codes Document Page (Current Year)",
+      "is-li": "0",
+      "og:url": "https://law.justia.com/codes/rhode-island/title-27/chapter-27-49/section-27-49-3-1/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Untitled",
+   "htmlTitle": "Untitled",
+   "link": "https://webserver.rilegislature.gov/Lawrevision/annrep/annrep2023.htm",
+   "displayLink": "webserver.rilegislature.gov",
+   "snippet": "Aviation Administration or the Rhode Island general laws. ... (14) \u201cTotal service\u201d means prior service as defined in subdivision (6) of this section, plus.",
+   "htmlSnippet": "Aviation Administration or the <b>Rhode Island general laws</b>. ... (14) \u201cTotal service\u201d <b>means</b> prior service as <b>defined</b> in subdivision (6) of this section, plus.",
+   "formattedUrl": "https://webserver.rilegislature.gov/Lawrevision/annrep/annrep2023.htm",
+   "htmlFormattedUrl": "https://webserver.rilegislature.gov/Lawrevision/annrep/annrep2023.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "General Laws of Rhode Island Section 11-49.3-3. (2024) - Definitions.",
+   "htmlTitle": "General Laws of Rhode Island Section 11-49.3-3. (2024) - Definitions.",
+   "link": "https://law.justia.com/codes/rhode-island/title-11/chapter-11-49-3/section-11-49-3-3/",
+   "displayLink": "law.justia.com",
+   "snippet": "(10) \u201cPersonal information\u201d means an individual's first name or first ... (ii) Driver's license number, Rhode Island identification card number, or tribal\u00a0...",
+   "htmlSnippet": "(10) \u201c<b>Personal information</b>\u201d <b>means</b> an individual&#39;s first name or first ... (ii) <b>Driver&#39;s license</b> number, Rhode Island <b>identification card</b> number, or tribal&nbsp;...",
+   "formattedUrl": "https://law.justia.com/codes/rhode-island/title-11/.../section-11-49-3-3/",
+   "htmlFormattedUrl": "https://law.justia.com/codes/rhode-island/title-11/.../section-11-49-3-3/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPP2ksOfM4IyWL7PTxPyS5N80Or-jyXZZLgeH1kYuOtXk5YU597YCxGszS&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "og:site_name": "Justia Law",
+      "og:title": "2024 Rhode Island General Laws :: Title 11 - Criminal Offenses :: Chapter 11-49.3 - Identity Theft Protection Act of 2015 :: Section 11-49.3-3. - Definitions.",
+      "og:app_id": "119529808075661",
+      "trigger-ga": "1",
+      "og:description": "Justia Free Databases of U.S. Laws, Codes & Statutes",
+      "og:admins": "656268335,686786921,25900864",
+      "referrer": "unsafe-url",
+      "twitter:site": "@JustiaCom",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "page-type": "Law: Codes Document Page (Current Year)",
+      "is-li": "0",
+      "og:url": "https://law.justia.com/codes/rhode-island/title-11/chapter-11-49-3/section-11-49-3-3/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Rhode Island General Laws",
+   "htmlTitle": "<b>Rhode Island General Laws</b>",
+   "link": "https://www.nationalnotary.org/file%20library/nna/reference-library/state-law-summaries/rhode_island.pdf",
+   "displayLink": "www.nationalnotary.org",
+   "snippet": "Jun 27, 2025 ... (1) By means of: (i) A passport, driver's license, or government-issued, non-driver identification card, which that is current or expired\u00a0...",
+   "htmlSnippet": "Jun 27, 2025 <b>...</b> (1) By <b>means</b> of: (i) A passport, <b>driver&#39;s license</b>, or government-issued, non-driver <b>identification card</b>, which that is current or expired&nbsp;...",
+   "formattedUrl": "https://www.nationalnotary.org/file%20library/nna/.../rhode_island.pdf",
+   "htmlFormattedUrl": "https://www.nationalnotary.org/file%20library/nna/.../rhode_island.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20250627154415-07'00'",
+      "creator": "Microsoft\u00ae Word for Microsoft 365",
+      "creationdate": "D:20250627154415-07'00'",
+      "author": "NNA NNA",
+      "producer": "Microsoft\u00ae Word for Microsoft 365",
+      "title": "Rhode Island General Laws"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2025 -- H 5076 STATE OF RHODE ISLAND",
+   "htmlTitle": "2025 -- H 5076 STATE OF RHODE ISLAND",
+   "link": "https://webserver.rilegislature.gov/BillText/BillText25/HouseText25/H5076.pdf",
+   "displayLink": "webserver.rilegislature.gov",
+   "snippet": "Jan 16, 2025 ... (3) \u201cCannabidiol\u201d or \u201cCBD\u201d means cannabidiol (CBD) derived from a hemp plant as. 16 defined in \u00a7 2-26-3, not including products derived from\u00a0...",
+   "htmlSnippet": "Jan 16, 2025 <b>...</b> (3) \u201cCannabidiol\u201d or \u201cCBD\u201d <b>means</b> cannabidiol (CBD) derived from a hemp plant as. 16 <b>defined</b> in \u00a7 2-26-3, not including products derived from&nbsp;...",
+   "formattedUrl": "https://webserver.rilegislature.gov/BillText/BillText25/.../H5076.pdf",
+   "htmlFormattedUrl": "https://webserver.rilegislature.gov/BillText/BillText25/.../H5076.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20250116160027-05'00'",
+      "creator": "Microsoft\u00ae Word 2019",
+      "creationdate": "D:20250116160027-05'00'",
+      "author": "Jennifer Lainez",
+      "producer": "Microsoft\u00ae Word 2019"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Rhode Island General Laws Title 3. Alcoholic Beverages \u00a7 3-8-6 ...",
+   "htmlTitle": "<b>Rhode Island General Laws</b> Title 3. Alcoholic Beverages \u00a7 3-8-6 ...",
+   "link": "https://codes.findlaw.com/ri/title-3-alcoholic-beverages/ri-gen-laws-sect-3-8-6/",
+   "displayLink": "codes.findlaw.com",
+   "snippet": "Rhode Island General Laws Title 3. Alcoholic Beverages \u00a7 3-8-6 ... (iii) A Rhode Island identification card, as defined in subsection (b), for\u00a0...",
+   "htmlSnippet": "<b>Rhode Island General Laws</b> Title 3. Alcoholic Beverages \u00a7 3-8-6 ... (iii) A Rhode Island <b>identification card</b>, as <b>defined</b> in subsection (b), for&nbsp;...",
+   "formattedUrl": "https://codes.findlaw.com/ri/title-3-alcoholic.../ri-gen-laws-sect-3-8-6/",
+   "htmlFormattedUrl": "https://codes.findlaw.com/ri/title-3-alcoholic.../ri-gen-laws-sect-3-8-6/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuWtKEZ0kzYj6NSuZlgNrAF5XcYIi9XgsiqHcAgQHtxY18xcWZ1bDMaCM&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png",
+      "og:type": "article",
+      "og:site_name": "Findlaw",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Rhode Island General Laws Title 3. Alcoholic Beverages \u00a7 3-8-6 | FindLaw",
+      "apple-mobile-web-app-title": "FindLaw",
+      "og:url": "https://codes.findlaw.com/ri/title-3-alcoholic-beverages/ri-gen-laws-sect-3-8-6/",
+      "og:description": "Rhode Island Title 3. Alcoholic Beverages RI ST  Section 3-8-6. Read the code on FindLaw"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "RHODE ISLAND OFFICE OF REHABILITATION SERVICES",
+   "htmlTitle": "RHODE ISLAND OFFICE OF REHABILITATION SERVICES",
+   "link": "https://ors.ri.gov/sites/g/files/xkgbur441/files/Forms/VENDOR-APPLICATION-%26-APPROVAL-PROCESS-.9.2018.pdf",
+   "displayLink": "ors.ri.gov",
+   "snippet": "Information (as defined in 45 C.F.R. \u00a7 164.402) for Covered Entity, it shall ... confidential and \u201cpersonal information.\u201d Personal information means an.",
+   "htmlSnippet": "Information (as <b>defined</b> in 45 C.F.R. \u00a7 164.402) for Covered Entity, it shall ... confidential and \u201c<b>personal information</b>.\u201d <b>Personal information means</b> an.",
+   "formattedUrl": "https://ors.ri.gov/.../VENDOR-APPLICATION-%26-APPROVAL-PROCES...",
+   "htmlFormattedUrl": "https://ors.ri.gov/.../VENDOR-APPLICATION-%26-APPROVAL-PROCES...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpmRo7WUul3MMmSRMVT54dkIwlIc4G67svkU06QZD_1GnZ7vjHdbHSn_b0&s",
+      "width": "197",
+      "height": "255"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20201112142031-05'00'",
+      "creationdate": "D:20200312133524-04'00'",
+      "creator": "Microsoft\u00ae Word for Office 365",
+      "author": "ORS",
+      "producer": "Microsoft\u00ae Word for Office 365",
+      "title": "RHODE ISLAND OFFICE OF REHABILITATION SERVICES"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///3a82e281974f0536b861789f065c7888516728d8ad956d37889e36334cbc4b2c"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "An Introduction to Rhode Island Paternity and Child Support Laws",
+   "htmlTitle": "An Introduction to Rhode Island Paternity and Child Support Laws",
+   "link": "https://ocss.ri.gov/sites/g/files/xkgbur511/files/documents/RICS-2018.pdf",
+   "displayLink": "ocss.ri.gov",
+   "snippet": "Dec 31, 2024 ... Driver's License Suspension- Pursuant to R.I.G.L. Section 15-11.1-1 ... to Rhode Island General Laws, Section 15-22-1 the Rhode Island\u00a0...",
+   "htmlSnippet": "Dec 31, 2024 <b>...</b> <b>Driver&#39;s License</b> Suspension- Pursuant to R.I.G.L. Section 15-11.1-1 ... to <b>Rhode Island General Laws</b>, Section 15-22-1 the Rhode Island&nbsp;...",
+   "formattedUrl": "https://ocss.ri.gov/sites/g/files/xkgbur511/files/documents/RICS-2018.pdf",
+   "htmlFormattedUrl": "https://ocss.ri.gov/sites/g/files/xkgbur511/files/documents/RICS-2018.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ0NaorKRpcx5XgDFb1UhBrqzWRdZRJYXYRnzbRKNSzhFG70faaMreHcJg&s",
+      "width": "281",
+      "height": "179"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20180302144029-05'00'",
+      "creator": "Microsoft\u00ae Word 2016",
+      "creationdate": "D:20180302144029-05'00'",
+      "author": "Sharon A. Santilli, Esq.",
+      "producer": "Microsoft\u00ae Word 2016",
+      "title": "An Introduction to Rhode Island Paternity and Child Support Laws"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///4f31044aba172fbe1572f61f4e072b6a0dc08afc0336574deb5b8030a5b82019"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2025 SERVICE EMPLOYEE APPLICATION",
+   "htmlTitle": "2025 SERVICE EMPLOYEE APPLICATION",
+   "link": "https://dbr.ri.gov/sites/g/files/xkgbur696/files/2024-10/GA_2025ServiceApplication%20-%20GFE-S_0_0%20-.pdf",
+   "displayLink": "dbr.ri.gov",
+   "snippet": "Current and valid photo driver's license. \u2022 Current and valid US military identification card. \u2022 Current and valid U.S. passport or Certificate of\u00a0...",
+   "htmlSnippet": "Current and valid photo <b>driver&#39;s license</b>. \u2022 Current and valid US military <b>identification card</b>. \u2022 Current and valid U.S. passport or Certificate of&nbsp;...",
+   "formattedUrl": "https://dbr.ri.gov/.../GA_2025ServiceApplication%20-%20GFE-S_0_0%20...",
+   "htmlFormattedUrl": "https://dbr.ri.gov/.../GA_2025ServiceApplication%20-%20GFE-S_0_0%20...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrmTa4-gwtKnGrv7ic7g1mB3vV1CV42IqupiWad1ogCvovcPr6jUWLfIk&s",
+      "width": "345",
+      "height": "146"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20240827141459-04'00'",
+      "creationdate": "D:20230713092348-04'00'",
+      "creator": "Acrobat PDFMaker 23 for Word",
+      "lastsaved": "D:20230628",
+      "author": "Tobiasz, Christina (DBR)",
+      "created": "D:20211208",
+      "producer": "Adobe PDF Library 23.3.247"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///9284150b3b26002e146feaa92b792166d2e89ce8ccb2a0b2c80a0609150aafd3"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "REQUEST FOR QUALIFICATION REO CONTRACTOR SERVICES ...",
+   "htmlTitle": "REQUEST FOR QUALIFICATION REO CONTRACTOR SERVICES ...",
+   "link": "https://www.rihousing.com/wp-content/uploads/Contractor-RFQ-FINAL-6.22.23.pdf",
+   "displayLink": "www.rihousing.com",
+   "snippet": "Jun 23, 2023 ... Chapter 2 of Title 38 of the Rhode Island General Laws ... of the Personal Information, and the purpose for which the Personal Information was.",
+   "htmlSnippet": "Jun 23, 2023 <b>...</b> Chapter 2 of Title 38 of the <b>Rhode Island General Laws</b> ... of the <b>Personal Information</b>, and the purpose for which the <b>Personal Information</b> was.",
+   "formattedUrl": "https://www.rihousing.com/wp.../Contractor-RFQ-FINAL-6.22.23.pdf",
+   "htmlFormattedUrl": "https://www.rihousing.com/wp.../Contractor-RFQ-FINAL-6.22.23.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPGEV4W4ekChnagr27VJeg2u7eWnq5FcmCaGU6FNazPQW3luWWFrzK7jg&s",
+      "width": "337",
+      "height": "149"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20230622165902-04'00'",
+      "creationdate": "D:20230622165721-04'00'",
+      "creator": "Acrobat PDFMaker 23 for Word",
+      "sourcemodified": "D:20230622205716",
+      "author": "Microsoft Office User",
+      "producer": "Adobe PDF Library 23.1.206",
+      "contenttypeid": "0x010100C0BA6CEF993CA04FBC861BABD861E725"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///c6d4a72c1e619f1acae2cbbeb2f0a06e7b20c3a7f3694970559c1d44f57b946d"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

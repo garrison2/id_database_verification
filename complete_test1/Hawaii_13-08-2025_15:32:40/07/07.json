@@ -1,0 +1,566 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:play.google.com \"Hawaii\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "24",
+    "searchTerms": "site:play.google.com \"Hawaii\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:play.google.com \"Hawaii\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "24",
+    "searchTerms": "site:play.google.com \"Hawaii\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.171623,
+  "formattedSearchTime": "0.17",
+  "totalResults": "24",
+  "formattedTotalResults": "24"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "HRewards - Apps on Google Play",
+   "htmlTitle": "HRewards - Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.fanmaker.hawaii",
+   "displayLink": "play.google.com",
+   "snippet": "Nov 9, 2023 ... HRewards is the official student rewards program for Hawaii Athletics and the BowZos, student section. ... What's new. Ability to add digital ID\u00a0...",
+   "htmlSnippet": "Nov 9, 2023 <b>...</b> HRewards is the official student rewards program for <b>Hawaii</b> Athletics and the BowZos, student section. ... What&#39;s new. Ability to add <b>digital ID</b>&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.fanmaker.hawaii",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.fanmaker.<b>hawaii</b>",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.fanmaker.hawaii&rdid=com.fanmaker.hawaii&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1-dL-Yvzm-lHIO25LBrTyKISmPEEK98gUluLnLnSzGxHX6R3C7g_qvgvb&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/6vrlhrKEd23SlKYk6RJLhQoLgSryzW9Sbs5HpAUtXNZsa8wy8PzAxejT-AE0wYONs9ay",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "HRewards - Apps on Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.fanmaker.hawaii&hl=en_US",
+      "appstore:developer_url": "https://uhawaiirewards.com",
+      "og:title": "HRewards - Apps on Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/6vrlhrKEd23SlKYk6RJLhQoLgSryzW9Sbs5HpAUtXNZsa8wy8PzAxejT-AE0wYONs9ay=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.fanmaker.hawaii",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.fanmaker.hawaii",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "HRewards is the official rewards program for Hawaii Athletics and the BowZos",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.fanmaker.hawaii&hl=en_US"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/6vrlhrKEd23SlKYk6RJLhQoLgSryzW9Sbs5HpAUtXNZsa8wy8PzAxejT-AE0wYONs9ay"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile ID Check by MD - Apps on Google Play",
+   "htmlTitle": "<b>Mobile ID</b> Check by MD - Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.mdot.mva.mobileidcheck",
+   "displayLink": "play.google.com",
+   "snippet": "Oct 17, 2024 ... ID and Digital ID Verifier App by MDOT MVA for mDL and Physical ID Verification ... \u2022 Hawaii \u2022 New York \u2022 Ohio \u2022 Utah \u2022 Iowa \u2022 ...and many more as\u00a0...",
+   "htmlSnippet": "Oct 17, 2024 <b>...</b> ID and <b>Digital ID</b> Verifier App by MDOT MVA for <b>mDL</b> and Physical ID Verification ... \u2022 <b>Hawaii</b> \u2022 New York \u2022 Ohio \u2022 Utah \u2022 Iowa \u2022 ...and many more as&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.mdot...mobileidcheck",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.mdot...<b>mobileid</b>check",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.mdot.mva.mobileidcheck&rdid=com.mdot.mva.mobileidcheck&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCsUar5K4Nq7816RR9WGPdIMRXjTZnDqGcXZIcqDYsn22DpvREigblp8Do&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/3ZeAj6zKj-fHfJA8mqvks57oooYgUTM5p8LJlw_MQwol42IanOImYSuH8GqoCHiYfQ",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Mobile ID Check by MD - Apps on Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.mdot.mva.mobileidcheck&hl=en_US",
+      "appstore:developer_url": "https://mva.maryland.gov/Pages/MDMobileIDBusiness.aspx",
+      "og:title": "Mobile ID Check by MD - Apps on Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/3ZeAj6zKj-fHfJA8mqvks57oooYgUTM5p8LJlw_MQwol42IanOImYSuH8GqoCHiYfQ=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.mdot.mva.mobileidcheck",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.mdot.mva.mobileidcheck",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "ID and Digital ID Verifier App by MDOT MVA for mDL and Physical ID Verification.",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.mdot.mva.mobileidcheck&hl=en_US"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/3ZeAj6zKj-fHfJA8mqvks57oooYgUTM5p8LJlw_MQwol42IanOImYSuH8GqoCHiYfQ"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mississippi Mobile ID - Google Play \u0aaa\u0ab0 \u0a8d\u0aaa\u0acd\u0ab2\u0abf\u0a95\u0ac7\u0ab6\u0aa8\u0acb",
+   "htmlTitle": "Mississippi <b>Mobile ID</b> - Google Play \u0aaa\u0ab0 \u0a8d\u0aaa\u0acd\u0ab2\u0abf\u0a95\u0ac7\u0ab6\u0aa8\u0acb",
+   "link": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.ms&hl=gu",
+   "displayLink": "play.google.com",
+   "snippet": "Mississippi Mobile ID - Google Play \u0aaa\u0ab0 \u0a8d\u0aaa\u0acd\u0ab2\u0abf\u0a95\u0ac7\u0ab6\u0aa8\u0acb. \u0a97\u0ac7\u0aae ... Bank Of Hawaii Mobile App. Bank of Hawaii. 4.7star \u00b7 flag\u0a85\u0aa8\u0ac1\u0a9a\u0abf\u0aa4 \u0aa4\u0ab0\u0ac0\u0a95\u0ac7\u00a0...",
+   "htmlSnippet": "Mississippi <b>Mobile ID</b> - Google Play \u0aaa\u0ab0 \u0a8d\u0aaa\u0acd\u0ab2\u0abf\u0a95\u0ac7\u0ab6\u0aa8\u0acb. \u0a97\u0ac7\u0aae ... Bank Of <b>Hawaii</b> Mobile App. Bank of <b>Hawaii</b>. 4.7star &middot; flag\u0a85\u0aa8\u0ac1\u0a9a\u0abf\u0aa4 \u0aa4\u0ab0\u0ac0\u0a95\u0ac7&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.idemia.<b>mobileid</b>.us...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.ms&rdid=com.idemia.mobileid.us.ms&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5nzY-MsxW7UimEIfjhv6Pb9us56u93e1-go6lQCR-g75T10jl1S8At7U&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/1QQMe4orkZQXtyDsK73euWSRjqpS7mDNDdB2ehb0OF1Q-pt8gegJXVdqkOS4Hfam2bo",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Mississippi Mobile ID - Google Play \u0aaa\u0ab0 \u0a8d\u0aaa\u0acd\u0ab2\u0abf\u0a95\u0ac7\u0ab6\u0aa8\u0acb",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.ms&hl=gu",
+      "appstore:developer_url": "https://idemia-mobile-id.com/help/en-us/mid",
+      "og:title": "Mississippi Mobile ID - Google Play \u0aaa\u0ab0 \u0a8d\u0aaa\u0acd\u0ab2\u0abf\u0a95\u0ac7\u0ab6\u0aa8\u0acb",
+      "twitter:image": "https://play-lh.googleusercontent.com/1QQMe4orkZQXtyDsK73euWSRjqpS7mDNDdB2ehb0OF1Q-pt8gegJXVdqkOS4Hfam2bo=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.idemia.mobileid.us.ms",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.idemia.mobileid.us.ms",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "MS \u0ab8\u0aa4\u0acd\u0aa4\u0abe\u0ab5\u0abe\u0ab0 \u0aa1\u0abf\u0a9c\u0abf\u0a9f\u0ab2 ID",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.ms&hl=gu"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/1QQMe4orkZQXtyDsK73euWSRjqpS7mDNDdB2ehb0OF1Q-pt8gegJXVdqkOS4Hfam2bo"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile ID Verify \u2013 Apps on Google Play",
+   "htmlTitle": "<b>Mobile ID</b> Verify \u2013 Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.idemia.idverify.android&hl=en_ZA",
+   "displayLink": "play.google.com",
+   "snippet": "Data is deleted and no data is stored on the verifier's device. Key Features: * Scan and verify digital Mobile ID (mID/mDL) credentials * ... Bank Of Hawaii\u00a0...",
+   "htmlSnippet": "Data is deleted and no data is stored on the verifier&#39;s device. Key Features: * Scan and verify digital <b>Mobile ID</b> (mID/<b>mDL</b>) credentials * ... Bank Of <b>Hawaii</b>&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.idemia.idverify...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.idemia.idverify...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.idemia.idverify.android&rdid=com.idemia.idverify.android&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5PNHxY0qASd-FneZoQHI4lJ-9I_wCyPeBWgwfJU2Gp_fTEUNJ5AUDoPU&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/DlT2RJssuAvdpXSa9ajg8iUgshJXtgvqf-GF_fEFAe-GM3wsowAQvzvZOrK-D9ksDw",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Mobile ID Verify \u2013 Apps on Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.idemia.idverify.android&hl=en_ZA",
+      "appstore:developer_url": "https://www.idemia-mobile-id.com/",
+      "og:title": "Mobile ID Verify \u2013 Apps on Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/DlT2RJssuAvdpXSa9ajg8iUgshJXtgvqf-GF_fEFAe-GM3wsowAQvzvZOrK-D9ksDw=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.idemia.idverify.android",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.idemia.idverify.android",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Scan & verify mobile IDs (mDL) digital credentials.",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.idemia.idverify.android&hl=en_ZA"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/DlT2RJssuAvdpXSa9ajg8iUgshJXtgvqf-GF_fEFAe-GM3wsowAQvzvZOrK-D9ksDw"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile ID Verify - \u0e41\u0e2d\u0e1b\u0e1e\u0e25\u0e34\u0e40\u0e04\u0e0a\u0e31\u0e19\u0e43\u0e19 Google Play",
+   "htmlTitle": "<b>Mobile ID</b> Verify - \u0e41\u0e2d\u0e1b\u0e1e\u0e25\u0e34\u0e40\u0e04\u0e0a\u0e31\u0e19\u0e43\u0e19 Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.idemia.idverify.android&hl=th",
+   "displayLink": "play.google.com",
+   "snippet": "Mobile ID Verify by IDEMIA \u0e08\u0e30\u0e2a\u0e41\u0e01\u0e19\u0e41\u0e25\u0e30\u0e15\u0e23\u0e27\u0e08\u0e2a\u0e2d\u0e1a\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e1b\u0e23\u0e30\u0e08\u0e33\u0e15\u0e31\u0e27\u0e14\u0e34\u0e08\u0e34\u0e17\u0e31\u0e25 \u0e40\u0e0a\u0e48\u0e19 \u0e43\u0e1a\u0e02\u0e31\u0e1a\u0e02\u0e35\u0e48\u0e21\u0e37\u0e2d\u0e16\u0e37\u0e2d (mDL) \u0e41\u0e25\u0e30 Mobile ID \u0e17\u0e35\u0e48\u0e23\u0e31\u0e10\u0e2d\u0e2d\u0e01\u0e43\u0e2b\u0e49 (mID) ... Bank Of Hawaii Mobile App. Bank of Hawaii. 4.7star.",
+   "htmlSnippet": "<b>Mobile ID</b> Verify by IDEMIA \u0e08\u0e30\u0e2a\u0e41\u0e01\u0e19\u0e41\u0e25\u0e30\u0e15\u0e23\u0e27\u0e08\u0e2a\u0e2d\u0e1a\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e1b\u0e23\u0e30\u0e08\u0e33\u0e15\u0e31\u0e27\u0e14\u0e34\u0e08\u0e34\u0e17\u0e31\u0e25 \u0e40\u0e0a\u0e48\u0e19 \u0e43\u0e1a\u0e02\u0e31\u0e1a\u0e02\u0e35\u0e48\u0e21\u0e37\u0e2d\u0e16\u0e37\u0e2d (<b>mDL</b>) \u0e41\u0e25\u0e30 <b>Mobile ID</b> \u0e17\u0e35\u0e48\u0e23\u0e31\u0e10\u0e2d\u0e2d\u0e01\u0e43\u0e2b\u0e49 (mID) ... Bank Of <b>Hawaii</b> Mobile App. Bank of <b>Hawaii</b>. 4.7star.",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.idemia.idverify...hl...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.idemia.idverify...hl...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.idemia.idverify.android&rdid=com.idemia.idverify.android&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5PNHxY0qASd-FneZoQHI4lJ-9I_wCyPeBWgwfJU2Gp_fTEUNJ5AUDoPU&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/DlT2RJssuAvdpXSa9ajg8iUgshJXtgvqf-GF_fEFAe-GM3wsowAQvzvZOrK-D9ksDw",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Mobile ID Verify - \u0e41\u0e2d\u0e1b\u0e1e\u0e25\u0e34\u0e40\u0e04\u0e0a\u0e31\u0e19\u0e43\u0e19 Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.idemia.idverify.android&hl=th",
+      "appstore:developer_url": "https://www.idemia-mobile-id.com/",
+      "og:title": "Mobile ID Verify - \u0e41\u0e2d\u0e1b\u0e1e\u0e25\u0e34\u0e40\u0e04\u0e0a\u0e31\u0e19\u0e43\u0e19 Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/DlT2RJssuAvdpXSa9ajg8iUgshJXtgvqf-GF_fEFAe-GM3wsowAQvzvZOrK-D9ksDw=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.idemia.idverify.android",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.idemia.idverify.android",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "\u0e2a\u0e41\u0e01\u0e19\u0e41\u0e25\u0e30\u0e15\u0e23\u0e27\u0e08\u0e2a\u0e2d\u0e1a ID \u0e21\u0e37\u0e2d\u0e16\u0e37\u0e2d (mDL) \u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e1b\u0e23\u0e30\u0e08\u0e33\u0e15\u0e31\u0e27\u0e14\u0e34\u0e08\u0e34\u0e17\u0e31\u0e25",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.idemia.idverify.android&hl=th"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/DlT2RJssuAvdpXSa9ajg8iUgshJXtgvqf-GF_fEFAe-GM3wsowAQvzvZOrK-D9ksDw"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile ID, Aplikacije na Google Playu",
+   "htmlTitle": "<b>Mobile ID</b>, Aplikacije na Google Playu",
+   "link": "https://play.google.com/store/apps/details?id=com.swisscom.mobileid&hl=hr",
+   "displayLink": "play.google.com",
+   "snippet": "Jul 28, 2025 ... Mobile ID, Aplikacije na Google Playu. Igre \u00b7 Aplikacije \u00b7 Filmovi i ... Bank of Hawaii. 4,7star. Slika minijature. Smart-ID. SK ID Solutions AS.",
+   "htmlSnippet": "Jul 28, 2025 <b>...</b> <b>Mobile ID</b>, Aplikacije na Google Playu. Igre &middot; Aplikacije &middot; Filmovi i ... Bank of <b>Hawaii</b>. 4,7star. Slika minijature. Smart-ID. SK ID Solutions AS.",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.swisscom.mobileid...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.swisscom.<b>mobileid</b>...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.swisscom.mobileid&rdid=com.swisscom.mobileid&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs_1KzcfQRx3C2jnK2bWEjT-F_T2Sza_R2y_ZZaFQkIC6qodr5ja13yg-i&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/rTbklTaxGC_RVWiPk1OUzMnxgxeWpvfkP81pp1Xph08CzyfSTzE8pzHnYNUdK-_l4BRI",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Mobile ID, Aplikacije na Google Playu",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.swisscom.mobileid&hl=hr",
+      "appstore:developer_url": "https://www.mobileid.ch",
+      "og:title": "Mobile ID, Aplikacije na Google Playu",
+      "twitter:image": "https://play-lh.googleusercontent.com/rTbklTaxGC_RVWiPk1OUzMnxgxeWpvfkP81pp1Xph08CzyfSTzE8pzHnYNUdK-_l4BRI=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.swisscom.mobileid",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.swisscom.mobileid",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Sigurna i jednostavna dvostruka provjera autenti\u010dnosti",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.swisscom.mobileid&hl=hr"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/rTbklTaxGC_RVWiPk1OUzMnxgxeWpvfkP81pp1Xph08CzyfSTzE8pzHnYNUdK-_l4BRI"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "IDEMIA ID Screen Web Launcher \u2013 Aplik\u00e1cie v slu\u017ebe Google Play",
+   "htmlTitle": "IDEMIA ID Screen Web Launcher \u2013 Aplik\u00e1cie v slu\u017ebe Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.idemia.webenrollment.capturehelper12172021&hl=sk",
+   "displayLink": "play.google.com",
+   "snippet": "Obr\u00e1zok miniat\u00fary. Iowa Mobile ID. Idemia R&D. 4,7star. Podobn\u00e9 aplik\u00e1cie. arrow_forward. Obr\u00e1zok miniat\u00fary. Bank Of Hawaii Mobile App. Bank of Hawaii. 4,7star.",
+   "htmlSnippet": "Obr\u00e1zok miniat\u00fary. Iowa <b>Mobile ID</b>. Idemia R&amp;D. 4,7star. Podobn\u00e9 aplik\u00e1cie. arrow_forward. Obr\u00e1zok miniat\u00fary. Bank Of <b>Hawaii</b> Mobile App. Bank of <b>Hawaii</b>. 4,7star.",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.idemia...hl=sk",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.idemia...hl=sk",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.idemia.webenrollment.capturehelper12172021&rdid=com.idemia.webenrollment.capturehelper12172021&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzr_H6gHTFjjpWMkagZRepeEDNPtWh1KRfhDXcnfPOlLgOyMe5b5igL1i9&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/J3MpsMarg-xRBP6BvEof2oHW9juBRjvBaSG2qgRrCLAFdC4ZUHJuRwYGHIAuStJTxg",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "IDEMIA ID Screen Web Launcher \u2013 Aplik\u00e1cie v slu\u017ebe Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.idemia.webenrollment.capturehelper12172021&hl=sk",
+      "appstore:developer_url": "https://www.idemia.com/",
+      "og:title": "IDEMIA ID Screen Web Launcher \u2013 Aplik\u00e1cie v slu\u017ebe Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/J3MpsMarg-xRBP6BvEof2oHW9juBRjvBaSG2qgRrCLAFdC4ZUHJuRwYGHIAuStJTxg=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.idemia.webenrollment.capturehelper12172021",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.idemia.webenrollment.capturehelper12172021",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Pom\u00f4cka, ktor\u00fa pou\u017e\u00edvaj\u00fa partneri IDEMIA na pr\u00edstup k cloudov\u00fdm registra\u010dn\u00fdm aplik\u00e1ci\u00e1m.",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.idemia.webenrollment.capturehelper12172021&hl=sk"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/J3MpsMarg-xRBP6BvEof2oHW9juBRjvBaSG2qgRrCLAFdC4ZUHJuRwYGHIAuStJTxg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MitID - Apps on Google Play",
+   "htmlTitle": "MitID - Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details?id=dk.mitid.app.android",
+   "displayLink": "play.google.com",
+   "snippet": "MitID is your digital ID. You use it when you want to log in, sign ... Bank Of Hawaii Mobile App. Bank of Hawaii. 4.7star \u00b7 flagFlag as inappropriate.",
+   "htmlSnippet": "MitID is your <b>digital ID</b>. You use it when you want to log in, sign ... Bank Of <b>Hawaii</b> Mobile App. Bank of <b>Hawaii</b>. 4.7star &middot; flagFlag as inappropriate.",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=dk.mitid.app.android",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=dk.mitid.app.android",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=dk.mitid.app.android&rdid=dk.mitid.app.android&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIlcV09TehHcDhKnz3zXT7O2EFC3pI9SRkORNemwhOxoKeY6XfAHdW8JvA&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/MomynmYmULd_P3kyk8jRlpJGF1Z2ROJSeJRIg6caxM7o9SravT8bfiXuXUs0dcy1CYY",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "MitID - Apps on Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=dk.mitid.app.android&hl=en_US",
+      "appstore:developer_url": "about:invalid#navigation",
+      "og:title": "MitID - Apps on Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/MomynmYmULd_P3kyk8jRlpJGF1Z2ROJSeJRIg6caxM7o9SravT8bfiXuXUs0dcy1CYY=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "dk.mitid.app.android",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "dk.mitid.app.android",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Approve, log in or sign digitally",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=dk.mitid.app.android&hl=en_US"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/MomynmYmULd_P3kyk8jRlpJGF1Z2ROJSeJRIg6caxM7o9SravT8bfiXuXUs0dcy1CYY"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "GIR Mobile ID \u2013 Applications sur Google Play",
+   "htmlTitle": "GIR <b>Mobile ID</b> \u2013 Applications sur Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.klervi.mobileid&hl=fr",
+   "displayLink": "play.google.com",
+   "snippet": "Apr 17, 2023 ... GIR Mobile ID. klervi. 1 k+. T\u00e9l\u00e9chargements. Classification du ... Bank Of Hawaii Mobile App. Bank of Hawaii. 4,7star. Image miniature.",
+   "htmlSnippet": "Apr 17, 2023 <b>...</b> GIR <b>Mobile ID</b>. klervi. 1 k+. T\u00e9l\u00e9chargements. Classification du ... Bank Of <b>Hawaii</b> Mobile App. Bank of <b>Hawaii</b>. 4,7star. Image miniature.",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.klervi.mobileid&hl...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.klervi.<b>mobileid</b>&amp;hl...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.klervi.mobileid&rdid=com.klervi.mobileid&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4YpsM1qke-0W0F8T6l7hoHbiMhloPvxH7QFiGBrN8NnhycnfbMkBG4pjV&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/m2WqPNbtSIUofDlH1h345S7_RxHmjLmSS3-nDxN-p_UQ9bX1Awtr25nt_oTWP5aXV5E",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "GIR Mobile ID \u2013 Applications sur Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.klervi.mobileid&hl=fr",
+      "appstore:developer_url": "about:invalid#navigation",
+      "og:title": "GIR Mobile ID \u2013 Applications sur Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/m2WqPNbtSIUofDlH1h345S7_RxHmjLmSS3-nDxN-p_UQ9bX1Awtr25nt_oTWP5aXV5E=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.klervi.mobileid",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.klervi.mobileid",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Authentifiez-vous avec votre smartphone.",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.klervi.mobileid&hl=fr"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/m2WqPNbtSIUofDlH1h345S7_RxHmjLmSS3-nDxN-p_UQ9bX1Awtr25nt_oTWP5aXV5E"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Amathus Harbour - Apps on Google Play",
+   "htmlTitle": "Amathus Harbour - Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.mdl.andikat",
+   "displayLink": "play.google.com",
+   "snippet": "Jul 7, 2022 ... mdl-lab@frederick.ac.cy. Cyprus. undefined. More by Frederick University ... Oahu Hawaii Audio Tour Guide. Shaka Guide. 4.7star. flagFlag as\u00a0...",
+   "htmlSnippet": "Jul 7, 2022 <b>...</b> <b>mdl</b>-lab@frederick.ac.cy. Cyprus. undefined. More by Frederick University ... Oahu <b>Hawaii</b> Audio Tour Guide. Shaka Guide. 4.7star. flagFlag as&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.mdl.andikat",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.<b>mdl</b>.andikat",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.mdl.andikat&rdid=com.mdl.andikat&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_vrhlZHxqsvFG0irige27ISgZpEkr4w7x9wq7G2xZUkpvrU0FQpJ7-mc&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/YOUew6Gh7rpWkBwt4y9G4YPFLNOICmG0virYmc2VZ1ADZkYV45L45vbrnk_7-stPdQ",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Amathus Harbour - Apps on Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.mdl.andikat&hl=en_US",
+      "appstore:developer_url": "about:invalid#navigation",
+      "og:title": "Amathus Harbour - Apps on Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/YOUew6Gh7rpWkBwt4y9G4YPFLNOICmG0virYmc2VZ1ADZkYV45L45vbrnk_7-stPdQ=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.mdl.andikat",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.mdl.andikat",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "The app enables on-site tours and facilitates remote digital tours of the site.",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.mdl.andikat&hl=en_US"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/YOUew6Gh7rpWkBwt4y9G4YPFLNOICmG0virYmc2VZ1ADZkYV45L45vbrnk_7-stPdQ"
+     }
+    ]
+   }
+  }
+ ]
+}

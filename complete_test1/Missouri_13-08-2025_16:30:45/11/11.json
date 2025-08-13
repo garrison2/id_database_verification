@@ -1,0 +1,414 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Missouri Revised Statutes\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "495",
+    "searchTerms": "\"Missouri Revised Statutes\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Missouri Revised Statutes\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "495",
+    "searchTerms": "\"Missouri Revised Statutes\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.13984,
+  "formattedSearchTime": "0.14",
+  "totalResults": "495",
+  "formattedTotalResults": "495"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Driving Records",
+   "htmlTitle": "Driving Records",
+   "link": "https://dor.mo.gov/driver-license/resources/records.html",
+   "displayLink": "dor.mo.gov",
+   "snippet": "You may request a driver record containing non-personal information in one of the following ways: ... driver's license (CDL). Authorized representative or\u00a0...",
+   "htmlSnippet": "You may request a driver record containing non-<b>personal information</b> in one of the following ways: ... <b>driver&#39;s license</b> (CDL). Authorized representative or&nbsp;...",
+   "formattedUrl": "https://dor.mo.gov/driver-license/resources/records.html",
+   "htmlFormattedUrl": "https://dor.mo.gov/driver-license/resources/records.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2WgsGW6-w6MRj7eofQ5pe7IR8Hn9jEQ7tkDc8eqTcTH7Z_w7SIgMtiA4P&s",
+      "width": "226",
+      "height": "223"
+     }
+    ],
+    "metatags": [
+     {
+      "theme-color": "#3a5170",
+      "apple-mobile-web-app-status-bar-style": "#3a5170",
+      "viewport": "width=device-width, initial-scale=1",
+      "msapplication-navbutton-color": "#3a5170"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dor.mo.gov/chatbox/inc/assets/DORA_Bot_Icon.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Missouri Revised Statutes \u00a7 407.1500 (2024) - Definitions \u2014 notice ...",
+   "htmlTitle": "<b>Missouri Revised Statutes</b> \u00a7 407.1500 (2024) - Definitions \u2014 notice ...",
+   "link": "https://law.justia.com/codes/missouri/title-xxvi/chapter-407/section-407-1500/",
+   "displayLink": "law.justia.com",
+   "snippet": "... personal information maintained in computerized form by a person that ... driver's license number, state identification card number, or account number\u00a0...",
+   "htmlSnippet": "... <b>personal information</b> maintained in computerized form by a person that ... <b>driver&#39;s license</b> number, state <b>identification card</b> number, or account number&nbsp;...",
+   "formattedUrl": "https://law.justia.com/codes/missouri/title-xxvi/chapter.../section-407-1500/",
+   "htmlFormattedUrl": "https://law.justia.com/codes/missouri/title-xxvi/chapter.../section-407-1500/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUsEXFeYBuAPfcBBVPIyUzrZ_CJMY-G1UQkbVgeLAo7QKw91U8LPjTVlwN&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://justatic.com/v/20250617153813/shared/images/social-media/law.jpg",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "og:site_name": "Justia Law",
+      "og:title": "2024 Missouri Revised Statutes :: Title XXVI - Trade and Commerce :: Chapter 407 - Merchandising Practices :: Section 407.1500 - Definitions \u2014 notice to consumer for breach of security, procedure \u2014 attorney general may bring action for damages.",
+      "og:app_id": "119529808075661",
+      "trigger-ga": "1",
+      "og:description": "Justia Free Databases of U.S. Laws, Codes & Statutes",
+      "og:admins": "656268335,686786921,25900864",
+      "referrer": "unsafe-url",
+      "twitter:site": "@JustiaCom",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "page-type": "Law: Codes Document Page (Current Year)",
+      "is-li": "0",
+      "og:url": "https://law.justia.com/codes/missouri/title-xxvi/chapter-407/section-407-1500/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://justatic.com/v/20250617153813/shared/images/social-media/law.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Missouri REAL ID Information",
+   "htmlTitle": "Missouri REAL ID Information",
+   "link": "https://dor.mo.gov/driver-license/issuance/real-id/",
+   "displayLink": "dor.mo.gov",
+   "snippet": "As a reminder, the REAL ID Act applies when an individual presents a state-issued driver's license or identification card to a federal agency for an \u201cofficial\u00a0...",
+   "htmlSnippet": "As a reminder, the REAL ID Act applies when an individual presents a state-issued <b>driver&#39;s license</b> or <b>identification card</b> to a federal agency for an \u201cofficial&nbsp;...",
+   "formattedUrl": "https://dor.mo.gov/driver-license/issuance/real-id/",
+   "htmlFormattedUrl": "https://dor.mo.gov/driver-license/issuance/real-id/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZCoQLZLgEdcUWlOlj9U6qsu7Y8u7BLEWP6pjXpvF370HUVmhAaY5Rb4TS&s",
+      "width": "343",
+      "height": "147"
+     }
+    ],
+    "metatags": [
+     {
+      "theme-color": "#3a5170",
+      "apple-mobile-web-app-status-bar-style": "#3a5170",
+      "viewport": "width=device-width, initial-scale=1",
+      "msapplication-navbutton-color": "#3a5170"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dor.mo.gov/img/slides/Live-Agent.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Missouri Traffic Violations and Infractions | MissouriCourtRecords.us",
+   "htmlTitle": "Missouri Traffic Violations and Infractions | MissouriCourtRecords.us",
+   "link": "https://missouricourtrecords.us/traffic-court-records/violations/",
+   "displayLink": "missouricourtrecords.us",
+   "snippet": "... personal information on these records should be restricted. This means that an individual may only access personal information on a Missouri driving record\u00a0...",
+   "htmlSnippet": "... <b>personal information</b> on these records should be restricted. This <b>means</b> that an individual may only access <b>personal information</b> on a Missouri driving record&nbsp;...",
+   "formattedUrl": "https://missouricourtrecords.us/traffic-court-records/violations/",
+   "htmlFormattedUrl": "https://missouricourtrecords.us/traffic-court-records/violations/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+      "csrf-token": "YF75iLJsAXexRgJSkH9He5e8Oxj6Hi1A6Fj2jk2Y"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "https://missouricourtrecords.us/",
+      "name": "Court Records",
+      "position": "1"
+     },
+     {
+      "item": "Missouri Traffic Court Records",
+      "name": "Missouri Traffic Court Records",
+      "position": "2"
+     },
+     {
+      "name": "Traffic Violations and Infractions",
+      "position": "3"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Missouri Concealed Carry Gun Laws: CCW & Reciprocity Map ...",
+   "htmlTitle": "Missouri Concealed Carry Gun Laws: CCW &amp; Reciprocity Map ...",
+   "link": "https://www.usconcealedcarry.com/resources/ccw_reciprocity_map/mo-gun-laws/",
+   "displayLink": "www.usconcealedcarry.com",
+   "snippet": "Apr 8, 2025 ... ... means of one or more signs displayed in a conspicuous place of a ... DRIVER'S LICENSE LINKED TO Carry Permit? Is my Missouri driver's\u00a0...",
+   "htmlSnippet": "Apr 8, 2025 <b>...</b> ... <b>means</b> of one or more signs displayed in a conspicuous place of a ... <b>DRIVER&#39;S LICENSE</b> LINKED TO Carry Permit? Is my Missouri <b>driver&#39;s</b>&nbsp;...",
+   "formattedUrl": "https://www.usconcealedcarry.com/resources/ccw...map/mo-gun-laws/",
+   "htmlFormattedUrl": "https://www.usconcealedcarry.com/resources/ccw...map/mo-gun-laws/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTZsGYCpT--d89dtaNz2jKkIf3V9A1aGJXkIKxTW_1RYKtvCbLI1fU0Ehx&s",
+      "width": "281",
+      "height": "180"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.usconcealedcarry.com/resources/reciprocity-assets/amp-maps/Missouri-map.webp",
+      "next-head-count": "20",
+      "twitter:card": "summary",
+      "og:type": "article",
+      "og:site_name": "USCCA",
+      "article:modified_time": "2025-04-08T00:00:00Z",
+      "viewport": "width=device-width",
+      "og:title": "Missouri Concealed Carry Gun Laws: CCW & Reciprocity Map | USCCA",
+      "og:url": "https://www.usconcealedcarry.com/resources/ccw_reciprocity_map/mo-gun-laws/",
+      "og:description": "Last updated 2025-04-08. Concealed carry is legal with a CCW permit. Find Missouri Gun Laws, Concealed Carry Permits & Reciprocity Map"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.usconcealedcarry.com/resources/reciprocity-assets/amp-maps/Missouri-map.webp"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CJIS - NCJ Policy Manual",
+   "htmlTitle": "CJIS - NCJ Policy Manual",
+   "link": "https://www.mshp.dps.missouri.gov/MSHPWeb/Publications/Handbooks-Manuals/documents/SHP-186.pdf",
+   "displayLink": "www.mshp.dps.missouri.gov",
+   "snippet": "State Identification Card (if the state's identification card standards are the same as the driver's license);. \u2022 State Government Issued Certificate Of Birth;.",
+   "htmlSnippet": "State <b>Identification Card</b> (if the state&#39;s <b>identification card</b> standards are the same as the <b>driver&#39;s license</b>);. \u2022 State Government Issued Certificate Of Birth;.",
+   "formattedUrl": "https://www.mshp.dps.missouri.gov/MSHPWeb/Publications/.../SHP-186.pd...",
+   "htmlFormattedUrl": "https://www.mshp.dps.missouri.gov/MSHPWeb/Publications/.../SHP-186.pd...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZc9_q1rxlvFp2wla7HDdo3_sHgF8EWwUicHb9oGlkrXtXofVP3MOCJz0&s",
+      "width": "414",
+      "height": "121"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20230810131409-05'00'",
+      "creationdate": "D:20230810115851-05'00'",
+      "creator": "Adobe InDesign 18.5 (Windows)",
+      "producer": "Adobe PDF Library 17.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///64c07010b3fe5677cb87d6cd1ccb7b46f7ab9190cbbcc9a12e3e50fdb7c78247"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "REQUEST FOR PROPOSALS FOR TAXI TRANSPORTATION ...",
+   "htmlTitle": "REQUEST FOR PROPOSALS FOR TAXI TRANSPORTATION ...",
+   "link": "https://www.umsystem.edu/sites/default/files/2025-07/MUHC%20RFP%20Taxi%20Transportation%20Services.pdf",
+   "displayLink": "www.umsystem.edu",
+   "snippet": "Jul 2, 2025 ... Personal Information: If Respondent provides any \"personal information\" as defined in \u00a7105.1500, RSMo concerning an entity exempt from\u00a0...",
+   "htmlSnippet": "Jul 2, 2025 <b>...</b> <b>Personal Information</b>: If Respondent provides any &quot;<b>personal information</b>&quot; as <b>defined</b> in \u00a7105.1500, RSMo concerning an entity exempt from&nbsp;...",
+   "formattedUrl": "https://www.umsystem.edu/.../MUHC%20RFP%20Taxi%20Transportation...",
+   "htmlFormattedUrl": "https://www.umsystem.edu/.../MUHC%20RFP%20Taxi%20Transportation...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw5JidjtfjgiAZyC1ue5E1q5HTPV1DuJJ_N_V-DLtpsC1YfdC9iuFwCfDE&s",
+      "width": "197",
+      "height": "255"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20250702162849-05'00'",
+      "creationdate": "D:20250702162845-05'00'",
+      "creator": "Acrobat PDFMaker 25 for Word",
+      "lastsaved": "D:20240311",
+      "sourcemodified": "D:20230501124640",
+      "author": "Darla Higgins",
+      "created": "D:20240204",
+      "grammarlydocumentid": "a2f4df9ef8111cf1e5833cdf09485bda61645b9bd0cbf2e83f9e85da5010a886",
+      "producer": "Adobe PDF Library 25.1.51",
+      "company": "Division of IT - University of Missouri",
+      "contenttypeid": "0x010100732D1D3234FE614BA7B674B2A524920E"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///f66c22ac2c41aa0f42487d1fd90b95583c9c4c99a64d8c47b123918560c6622d"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "State technical College of Missouri ANNUAL CAMPUS SECURITY ...",
+   "htmlTitle": "State technical College of Missouri ANNUAL CAMPUS SECURITY ...",
+   "link": "https://statetechmo.edu/wp-content/uploads/2024/09/2024-Clery-Report.pdf",
+   "displayLink": "statetechmo.edu",
+   "snippet": "Oct 1, 2024 ... Definitions. Words used in this policy will have those meanings defined herein and if not defined herein will be ... weapon or means likely to\u00a0...",
+   "htmlSnippet": "Oct 1, 2024 <b>...</b> Definitions. Words used in this policy will have those meanings <b>defined</b> herein and if not <b>defined</b> herein will be ... weapon or <b>means</b> likely to&nbsp;...",
+   "formattedUrl": "https://statetechmo.edu/wp-content/uploads/2024/.../2024-Clery-Report.pdf",
+   "htmlFormattedUrl": "https://statetechmo.edu/wp-content/uploads/2024/.../2024-Clery-Report.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE-IBeWF2ZsEeZewN46mwPbbGHueZEy4BVFhgFIVSrjPCpCv2ZWkdG4A&s",
+      "width": "172",
+      "height": "120"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20240930124401-07'00'",
+      "creator": "Microsoft Word",
+      "creationdate": "D:20240930124401-07'00'",
+      "author": "Becca Mehmert",
+      "subject": "October 1, 2021",
+      "title": "State technical College of Missouri   ANNUAL CAMPUS SECURITY & FIRE SAFETY REPORT"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///adca0ac3a637a750b2b65ad0ce414e73f7df80b0b2877527bae2f01dfc6afc26"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Glossary | Missouri Department of Corrections",
+   "htmlTitle": "Glossary | Missouri Department of Corrections",
+   "link": "https://doc.mo.gov/glossary",
+   "displayLink": "doc.mo.gov",
+   "snippet": "Acute Hazardous Waste A list of chemicals defined in a table frequently updated by the Environment Protection Agency. ... sharing personal information. (8\u00a0...",
+   "htmlSnippet": "Acute Hazardous Waste A list of chemicals <b>defined</b> in a table frequently updated by the Environment Protection Agency. ... sharing <b>personal information</b>. (8&nbsp;...",
+   "formattedUrl": "https://doc.mo.gov/glossary",
+   "htmlFormattedUrl": "https://doc.mo.gov/glossary",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0exutm4n5ZqJ5HpmXXwv6iZQmDq67O4lXtooV3DUbG1XpOdLd4WK0rQ&s",
+      "width": "164",
+      "height": "92"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://doc.mo.gov/sites/doc/files/styles/thumbnail/public/2018-03/Programs_megamenu_photo.jpg?itok=Hbgeo0qy"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Nursing Practice Act and Rules",
+   "htmlTitle": "Nursing Practice Act and Rules",
+   "link": "http://www.moval.edu/wp-content/uploads/2018/03/npa.pdf",
+   "displayLink": "www.moval.edu",
+   "snippet": "providing inpatient care service in hospitals as defined in chapter 197 or population-based public health services as defined by ... person or by such other means\u00a0...",
+   "htmlSnippet": "providing inpatient care service in hospitals as <b>defined</b> in chapter 197 or population-based public health services as <b>defined</b> by ... person or by such other <b>means</b>&nbsp;...",
+   "formattedUrl": "http://www.moval.edu/wp-content/uploads/2018/03/npa.pdf",
+   "htmlFormattedUrl": "http://www.moval.edu/wp-content/uploads/2018/03/npa.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI6aF-5IbhVMVYB32JhMOpK8sSwnW3Uzh5OOwMKr3iRsXIAQdo4ThKZOo&s",
+      "width": "320",
+      "height": "158"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20180306100426-06'00'",
+      "creationdate": "D:20180306100404-06'00'",
+      "creator": "Acrobat PDFMaker 17 for Word",
+      "sourcemodified": "D:20171116140803",
+      "author": "Willard, Elizabeth",
+      "producer": "Adobe PDF Library 15.0",
+      "company": "State of Missouri"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///aecd844e4f413a94f1518561ab66c1e5a79c3991f23d72f8240fbec7508a1217"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

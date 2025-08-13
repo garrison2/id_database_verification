@@ -1,0 +1,410 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Minnesota\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Minnesota Statutes\"",
+    "totalResults": "176000",
+    "searchTerms": "\"Minnesota\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Minnesota Statutes\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Minnesota\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Minnesota Statutes\"",
+    "totalResults": "176000",
+    "searchTerms": "\"Minnesota\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Minnesota Statutes\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.20006,
+  "formattedSearchTime": "0.20",
+  "totalResults": "176000",
+  "formattedTotalResults": "176,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Digital driver's licenses? House lawmakers consider bill to put IDs ...",
+   "htmlTitle": "Digital driver&#39;s licenses? House lawmakers consider <b>bill</b> to put IDs ...",
+   "link": "https://www.house.mn.gov/sessiondaily/Story/18658",
+   "displayLink": "www.house.mn.gov",
+   "snippet": "Mar 26, 2025 ... Within the mobile ID infrastructure, it's designed in a way that ... Minnesota House of Representatives \u00b7 658 Cedar St. Saint Paul, MN\u00a0...",
+   "htmlSnippet": "Mar 26, 2025 <b>...</b> Within the <b>mobile ID</b> infrastructure, it&#39;s designed in a way that ... <b>Minnesota</b> House of Representatives \u00b7 658 Cedar St. Saint Paul, MN&nbsp;...",
+   "formattedUrl": "https://www.house.mn.gov/sessiondaily/Story/18658",
+   "htmlFormattedUrl": "https://www.house.mn.gov/sessiondaily/Story/18658",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRyCqiLXxfxflc059dOY1HuSizSQQ2RZwF__xK_kFQNfFZ7N214YYszLMV&s",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.house.mn.gov/SessionDaily/VSDImagesFull/032625-PHOTO-transportation-MJ.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MDL celebrates 20 years of preserving history, including a 1722 bill ...",
+   "htmlTitle": "<b>MDL</b> celebrates 20 years of preserving history, including a 1722 <b>bill</b> ...",
+   "link": "https://minitex.umn.edu/news/minnesota-digital-library/2025-05/mdl-celebrates-20-years-preserving-history-including-1722",
+   "displayLink": "minitex.umn.edu",
+   "snippet": "May 2, 2025 ... The Minnesota Digital Library (MDL) is proud to celebrate 20 years preserving and sharing Minnesota's rich culture and history.",
+   "htmlSnippet": "May 2, 2025 <b>...</b> The <b>Minnesota</b> Digital Library (<b>MDL</b>) is proud to celebrate 20 years preserving and sharing <b>Minnesota&#39;s</b> rich culture and history.",
+   "formattedUrl": "https://minitex.umn.edu/.../minnesota.../mdl-celebrates-20-years-preserving...",
+   "htmlFormattedUrl": "https://minitex.umn.edu/.../<b>minnesota</b>.../<b>mdl</b>-celebrates-20-years-preserving...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7U0R-paym-YWS-ZjDMSKLqobQJ8U6xTrPBFE0xT8ecTlaM5GgYhKtHU&s",
+      "width": "244",
+      "height": "207"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://minitex.umn.edu/sites/default/files/images/2025-05/1722%20Bill%20of%20Sale.png",
+      "og:type": "news",
+      "og:image:alt": "The bill of sale",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "MDL celebrates 20 years of preserving history, including a 1722 bill of sale for an enslaved man that found its way to Minneapolis",
+      "og:site_name": "Minitex",
+      "handheldfriendly": "true",
+      "og:title": "MDL celebrates 20 years of preserving history, including a 1722 bill of sale for an enslaved man that found its way to Minneapolis",
+      "og:description": "The Minnesota Digital Library began its work sharing and preserving Minnesota's digital legacy twenty years ago, in 2005. Since that time, the collection has grown to 60,000 unique items shared by 205 organizations in 72 of Minnesota's 87 counties.",
+      "twitter:image": "https://minitex.umn.edu/sites/default/files/images/2025-05/1722%20Bill%20of%20Sale.png",
+      "twitter:image:alt": "The bill of sale",
+      "twitter:site": "@minitexmn",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "The Minnesota Digital Library began its work sharing and preserving Minnesota's digital legacy twenty years ago, in 2005. Since that time, the collection has grown to 60,000 unique items shared by 205 organizations in 72 of Minnesota's 87 counties.",
+      "mobileoptimized": "width",
+      "og:url": "https://minitex.umn.edu/news/minnesota-digital-library/2025-05/mdl-celebrates-20-years-preserving-history-including-1722"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://minitex.umn.edu/sites/default/files/images/2025-05/1722%20Bill%20of%20Sale.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Minnesota Digital Library",
+   "htmlTitle": "<b>Minnesota</b> Digital Library",
+   "link": "https://mndigital.org/",
+   "displayLink": "mndigital.org",
+   "snippet": "Recommendations for searching and browsing the collection. The St. Cloud State College Marching Band performs at Met Stadium, Bloomington, Minnesota. Join MDL.",
+   "htmlSnippet": "Recommendations for searching and browsing the collection. The St. Cloud State College Marching Band performs at Met Stadium, Bloomington, <b>Minnesota</b>. Join <b>MDL</b>.",
+   "formattedUrl": "https://mndigital.org/",
+   "htmlFormattedUrl": "https://mndigital.org/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOTimT5JcXaXshProVEm0E51nkDp8Lf1UYSNU7Dpsd4T4kzFwmuludS3g&s",
+      "width": "355",
+      "height": "142"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://mndigital.org/themes/custom/mndigital/logo.svg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Learn Minnesota history through new MDL timelines | Minitex",
+   "htmlTitle": "Learn <b>Minnesota</b> history through new <b>MDL</b> timelines | Minitex",
+   "link": "https://minitex.umn.edu/news/minnesota-digital-library/2024-08/learn-minnesota-history-through-new-mdl-timelines",
+   "displayLink": "minitex.umn.edu",
+   "snippet": "Jan 18, 2024 ... Learn Minnesota history through new MDL timelines. Jump to News ... Order Promotional Materials \u00b7 Minnesota Office of Higher Education\u00a0...",
+   "htmlSnippet": "Jan 18, 2024 <b>...</b> Learn <b>Minnesota</b> history through new <b>MDL</b> timelines. Jump to News ... <b>Order</b> Promotional Materials &middot; <b>Minnesota</b> Office of Higher Education&nbsp;...",
+   "formattedUrl": "https://minitex.umn.edu/.../minnesota.../learn-minnesota-history-through-ne...",
+   "htmlFormattedUrl": "https://minitex.umn.edu/.../<b>minnesota</b>.../learn-<b>minnesota</b>-history-through-ne...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnKpQUMSBX-mI0w1uKUDZrQV03rsYR-tP9YBVPj3MJiFBN8O2EOWADMlup&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://minitex.umn.edu/sites/default/files/images/2024-01/Atlas%20crop.png",
+      "og:type": "news",
+      "og:image:alt": "Illustrated Historical Atlas of Minnesota",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Learn Minnesota history through new MDL timelines",
+      "og:site_name": "Minitex",
+      "handheldfriendly": "true",
+      "og:title": "Learn Minnesota history through new MDL timelines",
+      "og:description": "The Minnesota Digital Library has created a two-part timeline on Minnesota history featuring materials from our digital collections. These timelines explore significant moments in the history and development of the state. We encourage you to learn how local history connects with major world events in these timelines.",
+      "twitter:image": "https://minitex.umn.edu/sites/default/files/images/2024-01/Atlas%20crop.png",
+      "twitter:image:alt": "Illustrated Historical Atlas of Minnesota",
+      "twitter:site": "@minitexmn",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "The Minnesota Digital Library has created a two-part timeline on Minnesota history featuring materials from our digital collections. These timelines explore significant moments in the history and development of the state. We encourage you to learn how local history connects with major world events in these timelines.",
+      "mobileoptimized": "width",
+      "og:url": "https://minitex.umn.edu/news/minnesota-digital-library/2024-08/learn-minnesota-history-through-new-mdl-timelines"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://minitex.umn.edu/sites/default/files/images/2024-01/Atlas%20crop.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "State lawmakers consider allowing digital driver's licenses - KSTP ...",
+   "htmlTitle": "State lawmakers consider allowing digital driver&#39;s licenses - KSTP ...",
+   "link": "https://kstp.com/kstp-news/top-news/state-lawmakers-consider-allowing-digital-drivers-licenses/",
+   "displayLink": "kstp.com",
+   "snippet": "Mar 28, 2025 ... The bill would require entities to accept both digital and physical IDs and mobile ID users to carry a hard copy ready if law enforcement asks\u00a0...",
+   "htmlSnippet": "Mar 28, 2025 <b>...</b> The <b>bill</b> would require entities to accept both digital and physical IDs and <b>mobile ID</b> users to carry a hard copy ready if <b>law</b> enforcement asks&nbsp;...",
+   "formattedUrl": "https://kstp.com/.../state-lawmakers-consider-allowing-digital-drivers-licens...",
+   "htmlFormattedUrl": "https://kstp.com/.../state-<b>law</b>makers-consider-allowing-<b>digital-drivers-licens</b>...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVNPzZO5OHJVYpZvAr7cLVpj5gCtR6tjhn2D8v1Cfwo0YiFRQc9wgiUQo&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "apple-itunes-app": "app-id=546024067",
+      "og:image": "https://kstp.com/wp-content/uploads/2025/03/MOBILE-ID-PLANS_PKG_00.00.16.44.jpg",
+      "article:published_time": "2025-03-29T04:03:25+00:00",
+      "og:image:width": "1280",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "KSTP.com 5 Eyewitness News",
+      "sailthru.tags": ",Callan Gray,Legislation,Transportation,Top News",
+      "is-page": "0",
+      "ad-category": "top-news",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://kstp.com/wp-content/uploads/2022/10/cropped-5abc_1024x1024-270x270.jpg",
+      "og:description": "Proposed legislation at the State Capitol explores using technology to change the way you carry your license. Lawmakers are considering authorizing electronic driver\u2019s licenses and identification cards.",
+      "twitter:creator": "@KSTP",
+      "article:publisher": "https://www.facebook.com/KSTPTV/",
+      "twitter:site": "@KSTP",
+      "is-category": "0",
+      "article:modified_time": "2025-03-29T04:22:45+00:00",
+      "sailthru.title": "State lawmakers consider allowing digital driver\u2019s licenses",
+      "is-tag": "0",
+      "sailthru.date": "2025-03-28 23:03:25",
+      "is-single": "1",
+      "og:type": "article",
+      "author": "Cory Knudsen",
+      "og:title": "State lawmakers consider allowing digital driver's licenses",
+      "og:image:height": "720",
+      "sailthru.image.thumb": "https://kstp.com/wp-content/uploads/2025/03/MOBILE-ID-PLANS_PKG_00.00.16.44-50x28.jpg",
+      "is-fpage": "0",
+      "sailthru.description": "Proposed legislation at the State Capitol explores using technology to change the way you carry your license. Lawmakers are considering authorizing electronic driver\u2019s licenses and identification cards.",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "og:locale": "en_US",
+      "og:url": "https://kstp.com/kstp-news/top-news/state-lawmakers-consider-allowing-digital-drivers-licenses/",
+      "google-play-app": "app-id=com.doapps.android.mln.MLN_fe2672296a661b7acdf9fe36f27e7a55",
+      "sailthru.author": "Cory Knudsen",
+      "sailthru.image.full": "https://kstp.com/wp-content/uploads/2025/03/MOBILE-ID-PLANS_PKG_00.00.16.44.jpg",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://kstp.com/wp-content/uploads/2025/03/MOBILE-ID-PLANS_PKG_00.00.16.44.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hawaii and Minnesota Enact Insurance Data Security Laws ...",
+   "htmlTitle": "Hawaii and <b>Minnesota</b> Enact Insurance Data Security Laws ...",
+   "link": "https://content.next.westlaw.com/practical-law/document/I3e5385dad9b511ebbea4f0dc9fb69570/Hawaii-and-Minnesota-Enact-Insurance-Data-Security-Laws?viewType=FullText&transitionType=Default&contextData=(sc.Default)",
+   "displayLink": "content.next.westlaw.com",
+   "snippet": "Jul 1, 2021 ... ... Law (MDL-668). The laws require entities licensed under each state's ... The law takes effect August 1, 2021 and gives Minnesota's relevant\u00a0...",
+   "htmlSnippet": "Jul 1, 2021 <b>...</b> ... <b>Law</b> (<b>MDL</b>-668). The laws require entities licensed under each state&#39;s ... The <b>law</b> takes effect August 1, 2021 and gives <b>Minnesota&#39;s</b> relevant&nbsp;...",
+   "formattedUrl": "https://content.next.westlaw.com/...law/.../Hawaii-and-Minnesota-Enact-Ins...",
+   "htmlFormattedUrl": "https://content.next.west<b>law</b>.com/...<b>law</b>/.../Hawaii-and-<b>Minnesota</b>-Enact-Ins...",
+   "pagemap": {
+    "digitaldocument": [
+     {
+      "name": "Hawaii and Minnesota Enact Insurance Data Security Laws | Practical Law",
+      "description": "Hawaii has enacted SB 1100 and Minnesota has enacted HF 6, becoming the most recent states to pass laws based on the National Association of Insurance Commissioners (NAIC) Insurance Data Security...",
+      "headline": "Hawaii and Minnesota Enact Insurance Data Security Laws | Practical Law",
+      "url": "https://content.next.westlaw.com/practical-law/document/I3e5385dad9b511ebbea4f0dc9fb69570/Hawaii-and-Minnesota-Enact-Insurance-Data-Security-Laws?viewType=FullText&transitionType=Default&contextData=(sc.Default)"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width",
+      "og:title": "Hawaii and Minnesota Enact Insurance Data Security Laws | Practical Law",
+      "og:url": "https://content.next.westlaw.com/practical-law/document/I3e5385dad9b511ebbea4f0dc9fb69570/Hawaii-and-Minnesota-Enact-Insurance-Data-Security-Laws?viewType=FullText&transitionType=Default&contextData=(sc.Default)"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MN HF4900 | BillTrack50",
+   "htmlTitle": "MN HF4900 | BillTrack50",
+   "link": "https://www.billtrack50.com/billdetail/1722660",
+   "displayLink": "www.billtrack50.com",
+   "snippet": "... law in Minnesota Statutes, chapter 171. AI Summary. This bill authorizes the ... Mobile Driver's License Implementation Guidelines and the ISO/IEC 18013-5\u00a0...",
+   "htmlSnippet": "... <b>law</b> in <b>Minnesota Statutes</b>, chapter 171. AI Summary. This <b>bill</b> authorizes the ... <b>Mobile Driver&#39;s License</b> Implementation Guidelines and the ISO/IEC 18013-5&nbsp;...",
+   "formattedUrl": "https://www.billtrack50.com/billdetail/1722660",
+   "htmlFormattedUrl": "https://www.<b>bill</b>track50.com/<b>bill</b>detail/1722660",
+   "pagemap": {
+    "metatags": [
+     {
+      "twitter:card": "summary",
+      "og:type": "website",
+      "twitter:site": "@BillTrack50",
+      "og:site_name": "BillTrack50",
+      "viewport": "width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0",
+      "og:title": "MN - HF4900",
+      "og:locale": "en_US",
+      "og:url": "https://www.billtrack50.com/billdetail/1722660",
+      "twitter:creator": "@BillTrack50",
+      "og:description": "Electronic drivers' licenses authorized, and rulemaking authorized."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Minimum wage in Minnesota | Minnesota Department of Labor and ...",
+   "htmlTitle": "Minimum wage in <b>Minnesota</b> | <b>Minnesota</b> Department of Labor and ...",
+   "link": "https://www.dli.mn.gov/minwage",
+   "displayLink": "www.dli.mn.gov",
+   "snippet": "Workplace notices and posters: Required to be displayed for employees and updated when Minnesota law changes. For more information. Contact us at dli.",
+   "htmlSnippet": "Workplace notices and posters: Required to be displayed for employees and updated when <b>Minnesota law</b> changes. For more information. Contact us at dli.",
+   "formattedUrl": "https://www.dli.mn.gov/minwage",
+   "htmlFormattedUrl": "https://www.dli.mn.gov/minwage",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Digital Driver's License? : r/minnesota",
+   "htmlTitle": "<b>Digital Driver&#39;s License</b>? : r/<b>minnesota</b>",
+   "link": "https://www.reddit.com/r/minnesota/comments/1bvrmvo/digital_drivers_license/",
+   "displayLink": "www.reddit.com",
+   "snippet": "Apr 4, 2024 ... Digital Driver's License? Discussion. When will Minnesota adopt a digital drivers license option to add to an Apple wallet? ... law for a\u00a0...",
+   "htmlSnippet": "Apr 4, 2024 <b>...</b> <b>Digital Driver&#39;s License</b>? Discussion. When will <b>Minnesota</b> adopt a digital drivers license option to add to an Apple wallet? ... <b>law</b> for a&nbsp;...",
+   "formattedUrl": "https://www.reddit.com/r/minnesota/comments/.../digital_drivers_license/",
+   "htmlFormattedUrl": "https://www.reddit.com/r/<b>minnesota</b>/comments/.../<b>digital_drivers_license</b>/",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:image": "https://share.redd.it/preview/post/1bvrmvo",
+      "theme-color": "#000000",
+      "og:image:width": "1200",
+      "og:type": "website",
+      "og:image:alt": "An image containing a preview of the post",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "r/minnesota on Reddit: Digital Driver\u2019s License?",
+      "og:site_name": "Reddit",
+      "og:title": "r/minnesota on Reddit: Digital Driver\u2019s License?",
+      "og:image:height": "630",
+      "msapplication-navbutton-color": "#000000",
+      "og:description": "Posted by u/shawnp2 - 0 votes and 34 comments",
+      "twitter:image": "https://share.redd.it/preview/post/1bvrmvo",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "twitter:site": "@reddit",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "apple-mobile-web-app-capable": "yes",
+      "og:ttl": "600",
+      "og:url": "https://www.reddit.com/r/minnesota/comments/1bvrmvo/digital_drivers_license/?seeker-session=true"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MINNESOTA OPIOID LITIGATION BACKSTOP FUND FEE ...",
+   "htmlTitle": "<b>MINNESOTA</b> OPIOID LITIGATION BACKSTOP FUND FEE ...",
+   "link": "https://www.ag.state.mn.us/Opioids/Backstop/Files/CruegerDickinson_Application.pdf",
+   "displayLink": "www.ag.state.mn.us",
+   "snippet": "Mar 13, 2024 ... their collective representation of Anoka County, Minnesota. The Opioid MDL has been notable for at least three reasons. First, the size and.",
+   "htmlSnippet": "Mar 13, 2024 <b>...</b> their collective representation of Anoka County, <b>Minnesota</b>. The Opioid <b>MDL</b> has been notable for at least three reasons. First, the size and.",
+   "formattedUrl": "https://www.ag.state.mn.us/Opioids/.../CruegerDickinson_Application.pdf",
+   "htmlFormattedUrl": "https://www.ag.state.mn.us/Opioids/.../CruegerDickinson_Application.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYgI8JY1GMGCWtWsuFPVMV-oNSbDeJwHjjSEhUvHRk8njicHcQEsI4Y0Y&s",
+      "width": "197",
+      "height": "255"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20240313131352-05'00'",
+      "creationdate": "D:20240207131137-06'00'",
+      "creator": "Acrobat PDFMaker 23 for Word",
+      "sourcemodified": "D:20240202164225",
+      "author": "O'Neill III, Pat",
+      "producer": "Adobe PDF Library 23.8.246"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///7ca9f40c6a66a1c8a68f306f4d6b2adbc8c61d19a7285053cbcf43f28a296bd2"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

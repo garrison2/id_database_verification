@@ -1,0 +1,437 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"California Code\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "totalResults": "65200",
+    "searchTerms": "\"California Code\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"California Code\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "totalResults": "65200",
+    "searchTerms": "\"California Code\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.199299,
+  "formattedSearchTime": "0.20",
+  "totalResults": "65200",
+  "formattedTotalResults": "65,200"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "California Code, Civil Code - CIV \u00a7 1798.90.1 | FindLaw",
+   "htmlTitle": "<b>California Code</b>, Civil Code - CIV \u00a7 1798.90.1 | FindLaw",
+   "link": "https://codes.findlaw.com/ca/civil-code/civ-sect-1798-90-1/",
+   "displayLink": "codes.findlaw.com",
+   "snippet": "(A) To verify age or the authenticity of the driver's license or identification card. ... (B) Prior to scanning or swiping a driver's license or identification\u00a0...",
+   "htmlSnippet": "(A) To <b>verify</b> age or the authenticity of the <b>driver&#39;s license</b> or <b>identification card</b>. ... (B) Prior to <b>scanning</b> or <b>swiping</b> a <b>driver&#39;s license</b> or <b>identification</b>&nbsp;...",
+   "formattedUrl": "https://codes.findlaw.com/ca/civil-code/civ-sect-1798-90-1/",
+   "htmlFormattedUrl": "https://codes.findlaw.com/ca/civil-code/civ-sect-1798-90-1/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuWtKEZ0kzYj6NSuZlgNrAF5XcYIi9XgsiqHcAgQHtxY18xcWZ1bDMaCM&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png",
+      "og:type": "article",
+      "og:site_name": "Findlaw",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "California Code, Civil Code - CIV \u00a7 1798.90.1 | FindLaw",
+      "apple-mobile-web-app-title": "FindLaw",
+      "og:url": "https://codes.findlaw.com/ca/civil-code/civ-sect-1798-90-1/",
+      "og:description": "California Civil Code CIV CA CIVIL  Section 1798.90.1. Read the code on FindLaw"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Title 1.81.2. Confidentiality Of Driver's License Information :: Civil ...",
+   "htmlTitle": "Title 1.81.2. Confidentiality Of <b>Driver&#39;s License</b> Information :: Civil ...",
+   "link": "https://law.justia.com/codes/california/2010/civ/1798.90.1.html",
+   "displayLink": "law.justia.com",
+   "snippet": "... verify age or the authenticity of the driver's license or identification card. (B) To comply with a legal requirement to record, retain, or transmit that\u00a0...",
+   "htmlSnippet": "... <b>verify</b> age or the authenticity of the <b>driver&#39;s license</b> or <b>identification card</b>. (B) To comply with a legal requirement to record, <b>retain</b>, or <b>transmit</b> that&nbsp;...",
+   "formattedUrl": "https://law.justia.com/codes/california/2010/civ/1798.90.1.html",
+   "htmlFormattedUrl": "https://law.justia.com/codes/california/2010/civ/1798.90.1.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF6tMvFPbIJqGnmnTW6XkFdDjhl5MmPOj8MHuFjo38QgKyMeeQBDgDYts&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://justatic.com/v/20250804101307/shared/images/social-media/law.jpg",
+      "og:type": "article",
+      "fb:app_id": "119529808075661",
+      "og:site_name": "Justia Law",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "page-type": "Law: Codes Page (Current Year)",
+      "og:title": "2010 California Code ::  Civil Code ::  Title 1.81.2. Confidentiality Of Driver's License Information",
+      "is-logged-in": "0",
+      "fb:admins": "656268335,686786921,25900864",
+      "trigger-ga": "1",
+      "og:url": "https://law.justia.com/codes/california/2010/civ/1798.90.1.html"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://justatic.com/v/20250804101307/shared/images/social-media/law.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Frequently Asked Questions | State of California - Department of ...",
+   "htmlTitle": "Frequently Asked Questions | State of California - Department of ...",
+   "link": "https://oag.ca.gov/firearms/dlrfaqs",
+   "displayLink": "oag.ca.gov",
+   "snippet": "Can I initiate a DROS at a gun show without a computer? Why do I have to swipe the CA Driver's License/Identification card prior to delivery of a firearm sold\u00a0...",
+   "htmlSnippet": "Can I initiate a DROS at a gun show without a computer? Why do I have to <b>swipe</b> the CA <b>Driver&#39;s License</b>/<b>Identification card</b> prior to delivery of a firearm sold&nbsp;...",
+   "formattedUrl": "https://oag.ca.gov/firearms/dlrfaqs",
+   "htmlFormattedUrl": "https://oag.ca.gov/firearms/dlrfaqs",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt13Gj3QIR7Gu-wsjBLabPFxi4LVpjTwOR-p5T1yMr4qKWyXI8wrzmJoO3&s",
+      "width": "311",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://oag.ca.gov/sites/default/files/oag-opengraph.jpg",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Frequently Asked Questions",
+      "article:published_time": "2011-12-16T12:14:31-08:00",
+      "og:site_name": "State of California - Department of Justice - Office of the Attorney General",
+      "msvalidate.01": "677D5153D29C8072A80042A74C837F58",
+      "twitter:url": "https://oag.ca.gov/firearms/dlrfaqs",
+      "og:title": "Frequently Asked Questions",
+      "og:updated_time": "2025-05-16T14:36:37-07:00",
+      "og:description": "Firearms Dealers Links to Topics below  General FAQs  DROS Entry System (DES) Internet Process  AB 1872/2165/2699 Dealer FAQs  General FAQs What are California's licensing requirements for firearms dealers? How much is the annual Centralized List fee and when must it be paid? What is a California Firearms Dealer (CFD) number? Do I need to send copies of my dealer's Federal Firearms License and local firearms license(s) to DOJ? How is DROS information submitted? How do I get copies of the blank DROS worksheet? How can I correct or cancel a DROS submission?",
+      "twitter:image": "https://oag.ca.gov/sites/default/files/oag-opengraph.jpg",
+      "article:modified_time": "2025-05-16T14:36:37-07:00",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Firearms Dealers Links to Topics below  General FAQs  DROS Entry System (DES) Internet Process  AB 1872/2165/2699 Dealer FAQs  General FAQs What are California's licensing requirements for firearms",
+      "og:url": "https://oag.ca.gov/firearms/dlrfaqs"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://oag.ca.gov/sites/default/files/oag-opengraph.jpg"
+     }
+    ],
+    "Document": [
+     {
+      "num_replies": "0",
+      "title": "Frequently Asked Questions",
+      "encoded": "Firearms Dealers Links to Topics below General FAQs DROS Entry System (DES) Internet Process AB 1872/2165/2699 Dealer FAQs General FAQs What are California's licensing requirements for firearms..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Is it normal for driver license to be scanned at gas station for lotto? : r ...",
+   "htmlTitle": "Is it normal for <b>driver license</b> to be scanned at gas station for lotto? : r ...",
+   "link": "https://www.reddit.com/r/bayarea/comments/14yxj43/is_it_normal_for_driver_license_to_be_scanned_at/",
+   "displayLink": "www.reddit.com",
+   "snippet": "Jul 13, 2023 ... (A) To verify age or the authenticity of the driver's license or identification card. ... Why would a convenience store scan your drivers license?",
+   "htmlSnippet": "Jul 13, 2023 <b>...</b> (A) To <b>verify</b> age or the authenticity of the <b>driver&#39;s license</b> or <b>identification card</b>. ... Why would a convenience <b>store scan</b> your drivers license?",
+   "formattedUrl": "https://www.reddit.com/.../is_it_normal_for_driver_license_to_be_scanned...",
+   "htmlFormattedUrl": "https://www.reddit.com/.../is_it_normal_for_<b>driver_license</b>_to_be_<b>scan</b>ned...",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:image": "https://share.redd.it/preview/post/14yxj43",
+      "theme-color": "#000000",
+      "og:image:width": "1200",
+      "og:type": "website",
+      "og:image:alt": "An image containing a preview of the post",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "r/bayarea on Reddit: Is it normal for driver license to be scanned at gas station for lotto?",
+      "og:site_name": "Reddit",
+      "og:title": "r/bayarea on Reddit: Is it normal for driver license to be scanned at gas station for lotto?",
+      "og:image:height": "630",
+      "msapplication-navbutton-color": "#000000",
+      "og:description": "Posted by u/[Deleted Account] - 16 votes and 10 comments",
+      "twitter:image": "https://share.redd.it/preview/post/14yxj43",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "twitter:site": "@reddit",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "apple-mobile-web-app-capable": "yes",
+      "og:ttl": "600",
+      "og:url": "https://www.reddit.com/r/bayarea/comments/14yxj43/is_it_normal_for_driver_license_to_be_scanned_at/?seeker-session=true"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver License Certificates and Endorsements - California DMV",
+   "htmlTitle": "<b>Driver License</b> Certificates and Endorsements - California DMV",
+   "link": "https://www.dmv.ca.gov/portal/driver-education-and-safety/dmv-safety-guidelines-actions/driver-license-certificates-and-endorsements/",
+   "displayLink": "www.dmv.ca.gov",
+   "snippet": "Automatic transmission; Hydraulic brakes only; Type 2 bus only ... Share Screen. \u00d7. Google\u2122 Translate Disclaimer. The Department of Motor Vehicles\u00a0...",
+   "htmlSnippet": "Automatic <b>transmission</b>; Hydraulic brakes only; Type 2 bus only ... <b>Share</b> Screen. \u00d7. Google\u2122 Translate Disclaimer. The Department of Motor Vehicles&nbsp;...",
+   "formattedUrl": "https://www.dmv.ca.gov/.../driver-license-certificates-and-endorsements/",
+   "htmlFormattedUrl": "https://www.dmv.ca.gov/.../<b>driver-license</b>-certificates-and-endorsements/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu1CncnGPr7i_CpSdehYf9W8kOo4yocch0014LrFVFGRKxXMAF2_OIgWU&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.ca.gov/portal/uploads/2022/06/DMV_Logo.png",
+      "og:type": "article",
+      "og:image:width": "1920",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "California DMV",
+      "og:title": "Driver License Certificates and Endorsements - California DMV",
+      "og:image:height": "1080",
+      "twitter:label1": "Est. reading time",
+      "og:image:type": "image/png",
+      "msapplication-tileimage": "https://www.dmv.ca.gov/portal/uploads/2020/02/cropped-dmv_favicon_Final_png-1-270x270.png",
+      "og:description": "The California DMV issues certificates and endorsements for motorists with additional requirements for the vehicles they operate or the cargo they carry.",
+      "article:publisher": "https://www.facebook.com/CADMV",
+      "twitter:data1": "19 minutes",
+      "twitter:site": "@ca_dmv",
+      "article:modified_time": "2023-05-31T20:43:20+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.dmv.ca.gov/portal/driver-education-and-safety/dmv-safety-guidelines-actions/driver-license-certificates-and-endorsements/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.ca.gov/portal/uploads/2022/06/DMV_Logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cal. Code Regs. Tit. 13, \u00a7 15.07 - Reduced Fee Identification Cards ...",
+   "htmlTitle": "Cal. Code Regs. Tit. 13, \u00a7 15.07 - Reduced Fee Identification Cards ...",
+   "link": "https://www.law.cornell.edu/regulations/california/13-CCR-15.07",
+   "displayLink": "www.law.cornell.edu",
+   "snippet": "California Code of Regulations \u00b7 Title 13 - Motor Vehicles \u00b7 Division 1 ... Identification Card Eligibility Verification, form DL 937 (Rev. 6/2023)\u00a0...",
+   "htmlSnippet": "<b>California Code</b> of Regulations &middot; Title 13 - Motor Vehicles &middot; Division 1 ... <b>Identification Card</b> Eligibility <b>Verification</b>, form DL 937 (Rev. 6/2023)&nbsp;...",
+   "formattedUrl": "https://www.law.cornell.edu/regulations/california/13-CCR-15.07",
+   "htmlFormattedUrl": "https://www.law.cornell.edu/regulations/california/13-CCR-15.07",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGcdwfPFrYUuDCq3KrLd2pdV3wLyOnciLGWSa5M5h-ZuqJJJGyLAiepQ&s",
+      "width": "232",
+      "height": "159"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.law.cornell.edu/images/liibracketlogo.gif",
+      "og:type": "website",
+      "twitter:card": "Cal. Code Regs. Tit. 13, \u00a7 15.07 - Reduced Fee Identification Cards",
+      "twitter:title": "Cal. Code Regs. Tit. 13, \u00a7 15.07 - Reduced Fee Identification Cards",
+      "og:site_name": "LII / Legal Information Institute",
+      "twitter:url": "https://www.law.cornell.edu/regulations/california/13-CCR-15.07",
+      "og:title": "Cal. Code Regs. Tit. 13, \u00a7 15.07 - Reduced Fee Identification Cards",
+      "dcterms.title": "Cal. Code Regs. Tit. 13, \u00a7 15.07 - Reduced Fee Identification Cards",
+      "version": "v10.17.0",
+      "twitter:image": "https://www.law.cornell.edu/images/liibracketlogo.gif",
+      "twitter:site": "@LIICornell",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:url": "https://www.law.cornell.edu/regulations/california/13-CCR-15.07"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.law.cornell.edu/images/liibracketlogo.gif"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Section 1: Introduction - California DMV",
+   "htmlTitle": "Section 1: Introduction - California DMV",
+   "link": "https://www.dmv.ca.gov/portal/handbook/commercial-driver-handbook/section-1-introduction/",
+   "displayLink": "www.dmv.ca.gov",
+   "snippet": "... driver license (CDL). ... For the purpose of the skills test and restriction, an automatic transmission includes any transmission not operating fully on the\u00a0...",
+   "htmlSnippet": "... <b>driver license</b> (CDL). ... For the purpose of the skills test and restriction, an automatic <b>transmission</b> includes any <b>transmission</b> not operating fully on the&nbsp;...",
+   "formattedUrl": "https://www.dmv.ca.gov/portal/handbook/...driver.../section-1-introduction/",
+   "htmlFormattedUrl": "https://www.dmv.ca.gov/portal/handbook/...driver.../section-1-introduction/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYkK8-WH3niGND24LP3siWqGz-eSRl5KB855RXC24lNWMK0wLDgk1fu50&s",
+      "width": "267",
+      "height": "189"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.ca.gov/portal/uploads/2021/11/type_license_passenger-1024x725.png",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "California DMV",
+      "og:title": "Section 1: Introduction - California DMV",
+      "twitter:label1": "Est. reading time",
+      "msapplication-tileimage": "https://www.dmv.ca.gov/portal/uploads/2020/02/cropped-dmv_favicon_Final_png-1-270x270.png",
+      "og:description": "There is a federal requirement that each state have minimum standards for licensing of commercial drivers. The California Commercial Motor Vehicle Safety Program was enacted to improve traffic safety on our roadways. As a result, California has developed licensing and testing requirements for drivers of commercial vehicles that equals or exceeds federal standards. This handbook [\u2026]",
+      "article:publisher": "https://www.facebook.com/CADMV",
+      "twitter:data1": "67 minutes",
+      "twitter:site": "@ca_dmv",
+      "article:modified_time": "2023-02-15T17:55:31+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.dmv.ca.gov/portal/handbook/commercial-driver-handbook/section-1-introduction/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.ca.gov/portal/uploads/2021/11/type_license_passenger-1024x725.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Statewide Voter Registration System :: California Secretary of State",
+   "htmlTitle": "Statewide Voter Registration System :: California Secretary of State",
+   "link": "https://www.sos.ca.gov/administration/regulations/current-regulations/elections/statewide-voter-registration-system",
+   "displayLink": "www.sos.ca.gov",
+   "snippet": "... store, and transmit voter registration data. The county election management ... A verified California driver license or state identification number shall\u00a0...",
+   "htmlSnippet": "... <b>store</b>, and <b>transmit</b> voter registration data. The county election management ... A verified California <b>driver license</b> or state identification number shall&nbsp;...",
+   "formattedUrl": "https://www.sos.ca.gov/administration/.../statewide-voter-registration-system",
+   "htmlFormattedUrl": "https://www.sos.ca.gov/administration/.../statewide-voter-registration-system",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Pharmacy Technician Application and Instructions (Rev. 7/2020)",
+   "htmlTitle": "Pharmacy Technician Application and Instructions (Rev. 7/2020)",
+   "link": "https://www.pharmacy.ca.gov/forms/tch_app_pkt.pdf",
+   "displayLink": "www.pharmacy.ca.gov",
+   "snippet": "The name on each form must be EXACTLY THE SAME as the name on your state driver's license or state-issued identification card. Your name must be the same on\u00a0...",
+   "htmlSnippet": "The name on each form must be EXACTLY THE SAME as the name on your state <b>driver&#39;s license</b> or state-issued <b>identification card</b>. Your name must be the same on&nbsp;...",
+   "formattedUrl": "https://www.pharmacy.ca.gov/forms/tch_app_pkt.pdf",
+   "htmlFormattedUrl": "https://www.pharmacy.ca.gov/forms/tch_app_pkt.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW2wgTMbf7Kqm6XcSVvR7PUMqdq02_eT62ww27yEXlkD0fY0SeOVKflGc0&s",
+      "width": "144",
+      "height": "144"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20250107125015-08'00'",
+      "creationdate": "D:20200702134534-07'00'",
+      "creator": "Microsoft\u00ae Word for Office 365",
+      "author": "California State Board of Pharmacy",
+      "subject": "Pharmacy Technician Application and Instructions (Rev. 7/2020)",
+      "producer": "Microsoft\u00ae Word for Office 365",
+      "title": "Pharmacy Technician Application and Instructions (Rev. 7/2020)"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///f1f19661649c42d8e26619a5b4e791899d0bccedf2da72c26e09ee9593ac7a61"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Non-California Resident CCW Applicants | Nevada County, CA",
+   "htmlTitle": "Non-California Resident CCW Applicants | Nevada County, CA",
+   "link": "https://www.nevadacountyca.gov/4101/Non-California-Resident-CCW-Applicants",
+   "displayLink": "www.nevadacountyca.gov",
+   "snippet": "If the driver's license or identification card does not set forth the ... If not obtained in another manner, the California licensing authority should maintain a\u00a0...",
+   "htmlSnippet": "If the <b>driver&#39;s license</b> or <b>identification card</b> does not set forth the ... If not obtained in another manner, the California licensing authority should <b>maintain</b> a&nbsp;...",
+   "formattedUrl": "https://www.nevadacountyca.gov/.../Non-California-Resident-CCW-Applica...",
+   "htmlFormattedUrl": "https://www.nevadacountyca.gov/.../Non-California-Resident-CCW-Applica...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9AmpOJB0UM1-dA6GliuT6L5zPNWmECcKrsdrd3Q211cX_kAlb-2Kcy2U&s",
+      "width": "304",
+      "height": "166"
+     }
+    ],
+    "metatags": [
+     {
+      "category2": "Departments S - Z",
+      "category3": "Sheriff",
+      "category4": "Services",
+      "theme-color": "#233b14",
+      "category5": "Non-California Resident CCW Applicants",
+      "viewport": "width=device-width, initial-scale=1",
+      "category0": "Home",
+      "category1": "Departments"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.nevadacountyca.gov/ImageRepository/Document?documentID=43115"
+     }
+    ]
+   }
+  }
+ ]
+}

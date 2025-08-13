@@ -1,0 +1,416 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://www.mass.gov \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "90",
+    "searchTerms": "site:https://www.mass.gov \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://www.mass.gov \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "90",
+    "searchTerms": "site:https://www.mass.gov \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.140541,
+  "formattedSearchTime": "0.14",
+  "totalResults": "90",
+  "formattedTotalResults": "90"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "and Polyfluoroalkyl Substances (PFAS) Report - How to Interpret my ...",
+   "htmlTitle": "and Polyfluoroalkyl Substances (PFAS) Report - How to Interpret my ...",
+   "link": "https://www.mass.gov/doc/how-to-interpret-my-pfas-laboratory-report/download",
+   "displayLink": "www.mass.gov",
+   "snippet": "In the example above, PFOA was detected at 7.5 ng/L and PFHxS was not detected, meaning PFHxS was not present in the sample above the MDL. Analyte.",
+   "htmlSnippet": "In the example above, PFOA was detected at 7.5 ng/L and PFHxS was not detected, meaning PFHxS was not present in the sample above the <b>MDL</b>. Analyte.",
+   "formattedUrl": "https://www.mass.gov/doc/how-to-interpret-my-pfas...report/download",
+   "htmlFormattedUrl": "https://www.mass.gov/doc/how-to-interpret-my-pfas...report/download",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx_6A8Swr2z_ojxAr5iVQi_mbL7WwmCYkBvxXxSnWc8FksaH7Pwgi-gIzy&s",
+      "width": "317",
+      "height": "159"
+     }
+    ],
+    "metatags": [
+     {
+      "mg_title": "How to Interpret my PFAS Laboratory Report",
+      "mg_organization": "massachusettsdepartmentofenvironmentalprotection",
+      "mg_date": "20190830",
+      "mg_file_type": "application/pdf",
+      "mg_file_size": "1114985"
+     },
+     {
+      "moddate": "D:20210505234900-04'00'",
+      "creationdate": "D:20210505234900-04'00'",
+      "author": "MFinn",
+      "producer": "Microsoft: Print To PDF",
+      "title": "Microsoft Word - How to Interpret my PFAS Laboratory Report 5-5-21"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///c3843d65eeb4cbf35d937eaa41cf7d8a0de1851ffe5e99cc0a3854946030e6d8"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Frequently Asked Questions for OPSI Digital Licenses | Mass.gov",
+   "htmlTitle": "Frequently Asked Questions for OPSI Digital Licenses | Mass.gov",
+   "link": "https://www.mass.gov/info-details/frequently-asked-questions-for-opsi-digital-licenses",
+   "displayLink": "www.mass.gov",
+   "snippet": "FAQs for viewing or printing a new, duplicate or renewed OPSI license.",
+   "htmlSnippet": "FAQs for viewing or printing a new, duplicate or renewed OPSI license.",
+   "formattedUrl": "https://www.mass.gov/.../frequently-asked-questions-for-opsi-digital-license...",
+   "htmlFormattedUrl": "https://www.mass.gov/.../frequently-asked-questions-for-opsi-digital-license...",
+   "pagemap": {
+    "metatags": [
+     {
+      "mg_title": "Frequently Asked Questions for OPSI Digital Licenses",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Frequently Asked Questions for OPSI Digital Licenses",
+      "og:site_name": "Mass.gov",
+      "twitter:site:id": "16264003",
+      "handheldfriendly": "true",
+      "twitter:url": "https://www.mass.gov/info-details/frequently-asked-questions-for-opsi-digital-licenses",
+      "mg_parent_org": "divisionofoccupationallicensure,officeofconsumeraffairsandbusinessregulation,executiveofficeofeconomicdevelopment",
+      "og:title": "Frequently Asked Questions for OPSI Digital Licenses",
+      "og:description": "FAQs for viewing or printing a new, duplicate or renewed OPSI license.",
+      "mg_url": "https://www.mass.gov/info-details/frequently-asked-questions-for-opsi-digital-licenses",
+      "twitter:site": "@massgov",
+      "mg_organization": "officeofpublicsafetyandinspections,divisionofoccupationallicensure",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "FAQs for viewing or printing a new, duplicate or renewed OPSI license.",
+      "mobileoptimized": "width",
+      "og:url": "https://www.mass.gov/info-details/frequently-asked-questions-for-opsi-digital-licenses",
+      "category": "services"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BidExpress Account Registration",
+   "htmlTitle": "BidExpress Account Registration",
+   "link": "https://www.mass.gov/doc/bidexpress-account-registration-guide/download",
+   "displayLink": "www.mass.gov",
+   "snippet": "Solicitations will either require an electronic signature or an Infotech Digital ID for bid submission. If the agency requires a Digital ID, you will be.",
+   "htmlSnippet": "Solicitations will either require an electronic signature or an Infotech <b>Digital ID</b> for bid submission. If the agency requires a <b>Digital ID</b>, you will be.",
+   "formattedUrl": "https://www.mass.gov/doc/bidexpress-account-registration.../download",
+   "htmlFormattedUrl": "https://www.mass.gov/doc/bidexpress-account-registration.../download",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpeTDSiONCljT1aaWpCsoCz_-WnC4dpMFvIRMXONMP30bLhiWPneTQgmY&s",
+      "width": "283",
+      "height": "178"
+     }
+    ],
+    "metatags": [
+     {
+      "mg_title": "BidExpress Account Registration Guide",
+      "mg_organization": "divisionofcapitalassetmanagementandmaintenance",
+      "mg_date": "20200214",
+      "mg_file_type": "application/pdf",
+      "mg_file_size": "223096"
+     },
+     {
+      "moddate": "D:20250605130957-04'00'",
+      "creationdate": "D:20191107100534-05'00'",
+      "creator": "PScript5.dll Version 5.2.2",
+      "author": "gayles",
+      "producer": "Adobe Acrobat (64-bit) 25 Paper Capture Plug-in",
+      "title": "BidExpress Account Registration"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///f1177fd922080c8afb347dc1943ef1ffacac32ae7c3b412c1470e6e9b6bd600d"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MassDEP Drinking Water Program - PFAS QC Guidance",
+   "htmlTitle": "MassDEP Drinking Water Program - PFAS QC Guidance",
+   "link": "https://www.mass.gov/doc/pfas-qc-guidance-data-report-content-for-edep/download",
+   "displayLink": "www.mass.gov",
+   "snippet": "Use default value of 2.0 ng/L for MDL/MRL eDEP fields. \u2022 MDL (required by MassDEP) for all target analytes. The report must make it clear how Field. Reagent\u00a0...",
+   "htmlSnippet": "Use default value of 2.0 ng/L for <b>MDL</b>/MRL eDEP fields. \u2022 <b>MDL</b> (required by MassDEP) for all target analytes. The report must make it clear how Field. Reagent&nbsp;...",
+   "formattedUrl": "https://www.mass.gov/doc/pfas-qc-guidance-data-report.../download",
+   "htmlFormattedUrl": "https://www.mass.gov/doc/pfas-qc-guidance-data-report.../download",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7xRHRbyiJkqWIcpSrXnGNUmW64SNZMwzUIjYCb7uoNHyge0W2SkDDTz4&s",
+      "width": "387",
+      "height": "130"
+     }
+    ],
+    "metatags": [
+     {
+      "mg_title": "PFAS QC Guidance - Data Report Content for eDEP",
+      "mg_organization": "massachusettsdepartmentofenvironmentalprotection",
+      "mg_date": "20220105",
+      "mg_file_type": "application/pdf",
+      "mg_file_size": "411690"
+     },
+     {
+      "moddate": "D:20220105105042-05'00'",
+      "creationdate": "D:20220105105035-05'00'",
+      "creator": "Acrobat PDFMaker 20 for Word",
+      "author": "Hutcheson, Michael (DEP)",
+      "producer": "Adobe PDF Library 20.9.95",
+      "company": "EOEEA",
+      "contenttypeid": "0x010100D7ABE31071780243B2E68C5BEE851FF0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///643bd8615dd190d2371a8d3b50cd2d152afa42cf1df0d8ceebdbe82224d12dec"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Untitled",
+   "htmlTitle": "Untitled",
+   "link": "https://www.mass.gov/doc/instructions-to-create-an-electronic-signature/download",
+   "displayLink": "www.mass.gov",
+   "snippet": "IN THE FILLABLE FORM, CLICK THE SIGNATURE FIELD. 2. CLICK \u201cCONFIGURE DIGITAL ID\u201d IN THE POPUP WINDOW.",
+   "htmlSnippet": "IN THE FILLABLE FORM, CLICK THE SIGNATURE FIELD. 2. CLICK \u201cCONFIGURE <b>DIGITAL ID</b>\u201d IN THE POPUP WINDOW.",
+   "formattedUrl": "https://www.mass.gov/doc/instructions-to-create-an-electronic.../download",
+   "htmlFormattedUrl": "https://www.mass.gov/doc/instructions-to-create-an-electronic.../download",
+   "pagemap": {
+    "metatags": [
+     {
+      "mg_title": "Instructions to create an electronic signature",
+      "mg_organization": "departmentofpublichealth",
+      "mg_date": "20180924",
+      "mg_file_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "mg_file_size": "697001"
+     }
+    ]
+   },
+   "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "fileFormat": "Microsoft Word"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Submit a Request for Official Proposal Form (R109) | Mass.gov",
+   "htmlTitle": "Submit a Request for Official Proposal Form (R109) | Mass.gov",
+   "link": "https://www.mass.gov/how-to/submit-a-request-for-official-proposal-form-r109",
+   "displayLink": "www.mass.gov",
+   "snippet": "Firms should get their Digital ID from Bid Express at least two weeks before the project bid opening date. Contact Bid Express to register for a Digital ID\u00a0...",
+   "htmlSnippet": "Firms should get their <b>Digital ID</b> from Bid Express at least two weeks before the project bid opening date. Contact Bid Express to register for a <b>Digital ID</b>&nbsp;...",
+   "formattedUrl": "https://www.mass.gov/how.../submit-a-request-for-official-proposal-form-r...",
+   "htmlFormattedUrl": "https://www.mass.gov/how.../submit-a-request-for-official-proposal-form-r...",
+   "pagemap": {
+    "metatags": [
+     {
+      "mg_title": "Submit a Request for Official Proposal Form (R109)",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Submit a Request for Official Proposal Form (R109)",
+      "og:site_name": "Mass.gov",
+      "twitter:site:id": "16264003",
+      "mg_body_preview": "To make an official project proposal for a MassDOT project, fill out the R109 form. The form will be reviewed by the Prequalification Program.",
+      "handheldfriendly": "true",
+      "twitter:url": "https://www.mass.gov/how-to/submit-a-request-for-official-proposal-form-r109",
+      "mg_short_description": "To make an official project proposal for a MassDOT project, fill out the R109 form. The form will be reviewed by the Prequalification Program.",
+      "og:title": "Submit a Request for Official Proposal Form (R109)",
+      "og:description": "To make an official project proposal for a MassDOT project, fill out the R109 form. The form will be reviewed by the Prequalification Program.",
+      "mg_url": "https://www.mass.gov/how-to/submit-a-request-for-official-proposal-form-r109",
+      "twitter:site": "@massgov",
+      "mg_key_actions": "[]",
+      "mg_organization": "massachusettsdepartmentoftransportation",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "To make an official project proposal for a MassDOT project, fill out the R109 form. The form will be reviewed by the Prequalification Program.",
+      "mobileoptimized": "width",
+      "og:url": "https://www.mass.gov/how-to/submit-a-request-for-official-proposal-form-r109",
+      "category": "services",
+      "mg_parent_service": "[{\"name\":\"DCAMM Contractor Certification\",\"url\":\"https:\\/\\/www.mass.gov\\/dcamm-contractor-certification\"}]"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "METHOD FOR THE DETERMINATION OF VOLATILE PETROLEUM ...",
+   "htmlTitle": "METHOD FOR THE DETERMINATION OF VOLATILE PETROLEUM ...",
+   "link": "https://www.mass.gov/doc/massdep-vph-method-by-gcms/download",
+   "displayLink": "www.mass.gov",
+   "snippet": "Jan 1, 2017 ... An MDL may be established for Target VPH Analytes and hydrocarbon ranges either analytically using the 40 CFR. 136 approach or by the\u00a0...",
+   "htmlSnippet": "Jan 1, 2017 <b>...</b> An <b>MDL</b> may be established for Target VPH Analytes and hydrocarbon ranges either analytically using the 40 CFR. 136 approach or by the&nbsp;...",
+   "formattedUrl": "https://www.mass.gov/doc/massdep-vph-method-by-gcms/download",
+   "htmlFormattedUrl": "https://www.mass.gov/doc/massdep-vph-method-by-gcms/download",
+   "pagemap": {
+    "metatags": [
+     {
+      "mg_title": "MassDEP VPH Method by GC/MS",
+      "mg_organization": "massachusettsdepartmentofenvironmentalprotection",
+      "mg_date": "20171221",
+      "mg_file_type": "application/pdf",
+      "mg_file_size": "1293456"
+     },
+     {
+      "moddate": "D:20170125160033-05'00'",
+      "creationdate": "D:20170125160017-05'00'",
+      "creator": "Acrobat PDFMaker 11 for Word",
+      "sourcemodified": "D:20170125205925",
+      "author": "Rick Hawkins",
+      "producer": "Adobe PDF Library 11.0",
+      "company": "DEP"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "METHOD FOR THE DETERMINATION OF EXTRACTABLE ...",
+   "htmlTitle": "METHOD FOR THE DETERMINATION OF EXTRACTABLE ...",
+   "link": "https://www.mass.gov/doc/massdep-eph-method-0/download",
+   "displayLink": "www.mass.gov",
+   "snippet": "Dec 1, 2019 ... The determination of MDL for the MassDEP EPH Method is optional. The RL for the method is defined as the lowest calibration standard.",
+   "htmlSnippet": "Dec 1, 2019 <b>...</b> The determination of <b>MDL</b> for the MassDEP EPH Method is optional. The RL for the method is defined as the lowest calibration standard.",
+   "formattedUrl": "https://www.mass.gov/doc/massdep-eph-method-0/download",
+   "htmlFormattedUrl": "https://www.mass.gov/doc/massdep-eph-method-0/download",
+   "pagemap": {
+    "metatags": [
+     {
+      "mg_title": "MassDEP EPH Method",
+      "mg_organization": "massachusettsdepartmentofenvironmentalprotection",
+      "mg_date": "20191216",
+      "mg_file_type": "application/pdf",
+      "mg_file_size": "1915714"
+     },
+     {
+      "moddate": "D:20191216154245-05'00'",
+      "creator": "Microsoft\u00ae Word 2010",
+      "creationdate": "D:20191216154245-05'00'",
+      "producer": "Microsoft\u00ae Word 2010"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Investigation of PFAS Levels in Freshwater Fish at Selected Rivers ...",
+   "htmlTitle": "Investigation of PFAS Levels in Freshwater Fish at Selected Rivers ...",
+   "link": "https://www.mass.gov/doc/investigation-of-pfas-levels-in-freshwater-fish-at-selected-rivers-and-lakes-in-ma/download",
+   "displayLink": "www.mass.gov",
+   "snippet": "Apr 1, 2022 ... \u2265 5 times the MDL, the RPD must be \u2264 40 percent. If the ... Detected results between the MDL and RL will be reported as detected values and \u201cJ\u201d\u00a0...",
+   "htmlSnippet": "Apr 1, 2022 <b>...</b> \u2265 5 times the <b>MDL</b>, the RPD must be \u2264 40 percent. If the ... Detected results between the <b>MDL</b> and RL will be reported as detected values and \u201cJ\u201d&nbsp;...",
+   "formattedUrl": "https://www.mass.gov/doc/investigation-of-pfas-levels.../download",
+   "htmlFormattedUrl": "https://www.mass.gov/doc/investigation-of-pfas-levels.../download",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfAO7ATOPlqh396PC5JdjO7UzsV11Z4iCs5_8P7W3uzhJYnEiw26QWDLEi&s",
+      "width": "282",
+      "height": "166"
+     }
+    ],
+    "metatags": [
+     {
+      "mg_title": "Investigation of PFAS Levels in Freshwater Fish at Selected Rivers and Lakes in MA",
+      "mg_organization": "massachusettsdepartmentofenvironmentalprotection",
+      "mg_date": "20231220",
+      "mg_file_type": "application/pdf",
+      "mg_file_size": "1271563"
+     },
+     {
+      "moddate": "D:20230914140547-04'00'",
+      "creationdate": "D:20230914140445-04'00'",
+      "creator": "Acrobat PDFMaker 23 for Word",
+      "sourcemodified": "D:20230914180402",
+      "author": "Andrew Shapero",
+      "producer": "Adobe PDF Library 23.6.96",
+      "contenttypeid": "0x010100E139F8547F41A04F95F47097EFC98C9C"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///09e1d9630f74464f3a5d435f596f7c164985f348fd9e24eba2493e81006d885d"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "FISH MERCURY DISTRIBUTION IN MASSACHUSETTS, USA LAKES",
+   "htmlTitle": "FISH MERCURY DISTRIBUTION IN MASSACHUSETTS, USA LAKES",
+   "link": "https://www.mass.gov/doc/fish-mercury-distribution-in-massachusetts-lakes-published-research-paper-1999-posted-with/download",
+   "displayLink": "www.mass.gov",
+   "snippet": "The method detection limit (MDL) for mercury analysis in fish tissue of 0.020 mg/kg was experimentally de- termined using the conventional U.S. EPA procedure [\u00a0...",
+   "htmlSnippet": "The method detection limit (<b>MDL</b>) for mercury analysis in fish tissue of 0.020 mg/kg was experimentally de- termined using the conventional U.S. EPA procedure [&nbsp;...",
+   "formattedUrl": "https://www.mass.gov/doc/fish-mercury-distribution-in.../download",
+   "htmlFormattedUrl": "https://www.mass.gov/doc/fish-mercury-distribution-in.../download",
+   "pagemap": {
+    "metatags": [
+     {
+      "mg_title": "Fish Mercury Distribution in Massachusetts Lakes: Published Research Paper, 1999  (Posted with permission. Copyright \u00a9 SETAC, Pensacola, FL)",
+      "mg_organization": "massachusettsdepartmentofenvironmentalprotection",
+      "mg_date": "20170827",
+      "mg_file_type": "application/pdf",
+      "mg_file_size": "133646"
+     },
+     {
+      "moddate": "D:19990528034054-05'00'",
+      "creationdate": "D:19990527131321",
+      "creator": "Penta Systems International Inc.",
+      "producer": "Acrobat Distiller Daemon 3.01 for Solaris 2.3 and later (SPARC)",
+      "title": "entc_18_714.1370_1379"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

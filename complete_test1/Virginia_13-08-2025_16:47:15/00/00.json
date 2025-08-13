@@ -1,0 +1,481 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Virginia\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "2350000",
+    "searchTerms": "\"Virginia\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Virginia\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "2350000",
+    "searchTerms": "\"Virginia\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.243824,
+  "formattedSearchTime": "0.24",
+  "totalResults": "2350000",
+  "formattedTotalResults": "2,350,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile ID Frequently Asked Questions (FAQs) | Virginia Department ...",
+   "htmlTitle": "<b>Mobile ID</b> Frequently Asked Questions (FAQs) | <b>Virginia</b> Department ...",
+   "link": "https://www.dmv.virginia.gov/licenses-ids/mobile-id/faq",
+   "displayLink": "www.dmv.virginia.gov",
+   "snippet": "Virginia Mobile ID (mID) is a voluntary, secure and digital version of your Virginia-issued driver's license or identification card available in the App Store\u00a0...",
+   "htmlSnippet": "<b>Virginia Mobile ID</b> (mID) is a voluntary, secure and digital version of your <b>Virginia</b>-issued driver&#39;s license or identification card available in the App Store&nbsp;...",
+   "formattedUrl": "https://www.dmv.virginia.gov/licenses-ids/mobile-id/faq",
+   "htmlFormattedUrl": "https://www.dmv.<b>virginia</b>.gov/licenses-ids/<b>mobile-id</b>/faq",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrdzU_br5_YiI8EoVeeqQ5dyWirS6kSf6gMmItyunE0eSSImAMJzSfuNQ&s",
+      "width": "224",
+      "height": "224"
+     }
+    ],
+    "metatags": [
+     {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Mobile ID Frequently Asked Questions (FAQs)",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Mobile ID Frequently Asked Questions (FAQs)",
+      "mobileoptimized": "width",
+      "twitter:creator": "@VirginiaDMV"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.developer.virginia.gov/media/developer/assets/img/close_icon.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Virginia mID on the App Store",
+   "htmlTitle": "<b>Virginia</b> mID on the App Store",
+   "link": "https://apps.apple.com/us/app/virginia-mid/id6480013606",
+   "displayLink": "apps.apple.com",
+   "snippet": "Virginia's Mobile ID (mID) is a voluntary, secure, and digital version of your Virginia-issued driver's license or ID card that you carry in an app on your\u00a0...",
+   "htmlSnippet": "<b>Virginia&#39;s Mobile ID</b> (mID) is a voluntary, secure, and digital version of your <b>Virginia</b>-issued driver&#39;s license or ID card that you carry in an app on your&nbsp;...",
+   "formattedUrl": "https://apps.apple.com/us/app/virginia-mid/id6480013606",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/<b>virginia</b>-mid/id6480013606",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROhSg6xGkyzoNW18JtocFDyzBT-8OD3HEwrH2NKgmdZzM9pztjIQuzi9E&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/9f/4f/179f4f83-87d5-ddbb-2121-5a3aab93539d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eVirginia\u2019s Mobile ID (mID) is a voluntary, secure, and digital version of your Virginia-issued driver\u2019s license or ID card that you carry in an app on your smartphone. Because the mID is a new technology, you should continue to carry your physical ID with you because not all entities are able to ver\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/9f/4f/179f4f83-87d5-ddbb-2121-5a3aab93539d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/9f/4f/179f4f83-87d5-ddbb-2121-5a3aab93539d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222532.1.0%2B09273a9c%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "Virginia mID on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "Virginia mID on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eVirginia mID",
+      "og:title": "\u200eVirginia mID",
+      "og:image:height": "630",
+      "version": "2532.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eVirginia\u2019s Mobile ID (mID) is a voluntary, secure, and digital version of your Virginia-issued driver\u2019s license or ID card that you carry in an app on your smartphone. Because the mID is a new technology, you should continue to carry your physical ID with you because not all entities are able to ver\u2026",
+      "og:locale": "en_US",
+      "apple:content_id": "6480013606",
+      "og:url": "https://apps.apple.com/us/app/virginia-mid/id6480013606"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/9f/4f/179f4f83-87d5-ddbb-2121-5a3aab93539d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile ID Participating Locations | Virginia Department of Motor ...",
+   "htmlTitle": "<b>Mobile ID</b> Participating Locations | <b>Virginia</b> Department of Motor ...",
+   "link": "https://www.dmv.virginia.gov/licenses-ids/mobile-id/locations",
+   "displayLink": "www.dmv.virginia.gov",
+   "snippet": "Use Virginia Mobile ID at more than 230 airports nationwide, including six in Virginia: In time, you will be able to use mID at participating businesses or\u00a0...",
+   "htmlSnippet": "Use <b>Virginia Mobile ID</b> at more than 230 airports nationwide, including six in <b>Virginia</b>: In time, you will be able to use mID at participating businesses or&nbsp;...",
+   "formattedUrl": "https://www.dmv.virginia.gov/licenses-ids/mobile-id/locations",
+   "htmlFormattedUrl": "https://www.dmv.<b>virginia</b>.gov/licenses-ids/<b>mobile-id</b>/locations",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrdzU_br5_YiI8EoVeeqQ5dyWirS6kSf6gMmItyunE0eSSImAMJzSfuNQ&s",
+      "width": "224",
+      "height": "224"
+     }
+    ],
+    "metatags": [
+     {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Mobile ID Participating Locations",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Mobile ID Participating Locations",
+      "mobileoptimized": "width",
+      "twitter:creator": "@VirginiaDMV"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.developer.virginia.gov/media/developer/assets/img/close_icon.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "West Virginia Mobile ID",
+   "htmlTitle": "West <b>Virginia Mobile ID</b>",
+   "link": "https://transportation.wv.gov/DMV/MiD/Pages/default.aspx",
+   "displayLink": "transportation.wv.gov",
+   "snippet": "West Virginia Mobile ID \u00b7 \u200bConvenience- Carry your ID in an app on your phone. Prove your identity and pay for your purchase from the same device at\u00a0...",
+   "htmlSnippet": "West <b>Virginia Mobile ID</b> &middot; \u200bConvenience- Carry your ID in an app on your phone. Prove your identity and pay for your purchase from the same device at&nbsp;...",
+   "formattedUrl": "https://transportation.wv.gov/DMV/MiD/Pages/default.aspx",
+   "htmlFormattedUrl": "https://transportation.wv.gov/DMV/MiD/Pages/default.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLlAoDAolU1FYAYcSSSTtcTMR67qwk1fIfQIdW6Y2fUE6r1nI-j-DCGQ&s",
+      "width": "350",
+      "height": "144"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.wv.gov/images/homebkg.jpg",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "West Virginia Mobile ID",
+      "twitter:site": "@wvgov",
+      "viewport": "width=device-width",
+      "og:title": "West Virginia Mobile ID",
+      "progid": "SharePoint.WebPartPage.Document"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.wv.gov/images/homebkg.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Virginia Mobile IDs have launched : r/nova",
+   "htmlTitle": "<b>Virginia</b> Mobile IDs have launched : r/nova",
+   "link": "https://www.reddit.com/r/nova/comments/1ck2pg8/virginia_mobile_ids_have_launched/",
+   "displayLink": "www.reddit.com",
+   "snippet": "May 4, 2024 ... This is from the splash page when installing the app on an iPhone \u201cWelcome to the Virginia Mobile ID Test Drive! Participation in the Mobile ID\u00a0...",
+   "htmlSnippet": "May 4, 2024 <b>...</b> This is from the splash page when installing the app on an iPhone \u201cWelcome to the <b>Virginia Mobile ID</b> Test Drive! Participation in the <b>Mobile ID</b>&nbsp;...",
+   "formattedUrl": "https://www.reddit.com/r/nova/.../virginia_mobile_ids_have_launched/",
+   "htmlFormattedUrl": "https://www.reddit.com/r/nova/.../<b>virginia</b>_<b>mobile_id</b>s_have_launched/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC-MET6Zp1tUp5U6pUWL8nhI5uRjBJBO430ii5soEYDCRywsLVctPHOqY_&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://i.redd.it/o0h58lzmax6a1.png",
+      "theme-color": "#000000",
+      "og:image:width": "1200",
+      "og:type": "website",
+      "og:image:alt": "Reddit logo",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "r/nova on Reddit: Virginia Mobile IDs have launched",
+      "og:site_name": "Reddit",
+      "og:title": "r/nova on Reddit: Virginia Mobile IDs have launched",
+      "og:image:height": "630",
+      "msapplication-navbutton-color": "#000000",
+      "og:description": "Posted by u/walktall - 183 votes and 112 comments",
+      "twitter:image": "https://i.redd.it/o0h58lzmax6a1.png",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "twitter:site": "@reddit",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "apple-mobile-web-app-capable": "yes",
+      "og:ttl": "600",
+      "og:url": "https://www.reddit.com/r/nova/comments/1ck2pg8/virginia_mobile_ids_have_launched/?seeker-session=true"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://i.redd.it/o0h58lzmax6a1.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Participating States and Eligible Digital IDs | Transportation Security ...",
+   "htmlTitle": "Participating States and Eligible Digital IDs | Transportation Security ...",
+   "link": "https://www.tsa.gov/digital-id/participating-states",
+   "displayLink": "www.tsa.gov",
+   "snippet": "With a mobile driver's license (mDL) or ID pass stored in your phone's ... Virginia \u00b7 VA MiD app \u00b7 West Virginia \u00b7 WV MiD app and Samsung Wallet \u00b7 TSA\u00a0...",
+   "htmlSnippet": "With a <b>mobile driver&#39;s license</b> (<b>mDL</b>) or ID pass stored in your phone&#39;s ... <b>Virginia</b> &middot; VA MiD app &middot; West <b>Virginia</b> &middot; WV MiD app and Samsung Wallet &middot; TSA&nbsp;...",
+   "formattedUrl": "https://www.tsa.gov/digital-id/participating-states",
+   "htmlFormattedUrl": "https://www.tsa.gov/<b>digital-id</b>/participating-states",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPmfB7IVmgDmb3IDXSU12352SHrXv5e_5i8yycsOrPNmZwXMWtBL06Rg4&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.tsa.gov/sites/default/files/2025-03/21366_graphic_tsa_open_graph_image_1200x630.jpg",
+      "og:type": "website",
+      "og:image:width": "1200",
+      "og:site_name": "U.S. Department of Homeland Security Transportation Security Administration",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+      "og:title": "Participating States and Eligible Digital IDs | Transportation Security Administration",
+      "mobileoptimized": "width",
+      "og:image:height": "630",
+      "og:image:type": "image/jpg",
+      "og:url": "https://www.tsa.gov/digital-id/participating-states",
+      "og:description": "The TSA's digital ID program allows travelers from participating states to use mobile driver's licenses or state IDs at select TSA checkpoints. These digital IDs can be added to platforms like Apple Wallet, Google Wallet, or state-specific apps. The program aims to enhance security and streamline the identity verification process. However, travelers must still carry a physical ID as a backup. You can find more details on the TSA's official page."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.tsa.gov/sites/default/files/2025-03/21366_graphic_tsa_open_graph_image_1200x630.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MDL VIRGINIA FEBRUARY 2025 - Smoothcomp",
+   "htmlTitle": "<b>MDL VIRGINIA</b> FEBRUARY 2025 - Smoothcomp",
+   "link": "https://smoothcomp.com/en/event/21097",
+   "displayLink": "smoothcomp.com",
+   "snippet": "Feb 23, 2025 ... Muay Thai Development League MDL Muay Thai sparring scrimmage for all ages and levels is coming to Virginia.",
+   "htmlSnippet": "Feb 23, 2025 <b>...</b> Muay Thai Development League <b>MDL</b> Muay Thai sparring scrimmage for all ages and levels is coming to <b>Virginia</b>.",
+   "formattedUrl": "https://smoothcomp.com/en/event/21097",
+   "htmlFormattedUrl": "https://smoothcomp.com/en/event/21097",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR766EFACMlJT8KnLFEMUDgZsFaOb2DOLBRZzGndBzXb_q-QNHTaX4AhSkp&s",
+      "width": "368",
+      "height": "137"
+     }
+    ],
+    "SportsEvent": [
+     {
+      "image": "https://smoothcomp.com/pictures/t/5285888-lx32/mdl-virginia-january-2025.jpg",
+      "endDate": "2025-02-23T17:00:00-08:00",
+      "name": "MDL VIRGINIA FEBRUARY 2025",
+      "description": "Muay Thai Development League MDL Muay Thai",
+      "startDate": "2025-02-23T08:00:00-08:00",
+      "url": "https://smoothcomp.com/en/event/21097"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#000000",
+      "og:image": "https://smoothcomp.com/pictures/t/5285885-k54k/mdl-virginia-january-2025.jpg",
+      "msapplication-config": "none",
+      "og:image:width": "1200",
+      "og:type": "website",
+      "theme-color": "#000000",
+      "og:site_name": "Smoothcomp",
+      "og:title": "MDL VIRGINIA FEBRUARY 2025",
+      "og:image:height": "447",
+      "og:description": "Muay Thai Development League MDL Muay Thai sparring scrimmage for all ages and levels is coming to Virginia.",
+      "viewport": "width=device-width, initial-scale=1",
+      "csrf-token": "2N64TpuB2OreI6Ep74tYBwUae4iri92YKEulRdkz",
+      "og:url": "https://smoothcomp.com/en/event/21097"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://smoothcomp.com/pictures/t/5285885-k54k/mdl-virginia-january-2025.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Virginia mID \u2013 Apps on Google Play",
+   "htmlTitle": "<b>Virginia</b> mID \u2013 Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.cbnco.idsys.digid.virginia.mdl&hl=en_IE",
+   "displayLink": "play.google.com",
+   "snippet": "Virginia's Mobile ID (mID) is a voluntary, secure, and digital version of ... The single benefit this could have had is to have a backup digital ID but it's too\u00a0...",
+   "htmlSnippet": "<b>Virginia&#39;s Mobile ID</b> (mID) is a voluntary, secure, and digital version of ... The single benefit this could have had is to have a backup <b>digital ID</b> but it&#39;s too&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com...virginia.mdl&hl...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com...<b>virginia</b>.<b>mdl</b>&amp;hl...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.cbnco.idsys.digid.virginia.mdl&rdid=com.cbnco.idsys.digid.virginia.mdl&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNYyeaIL2X7LkwdC4xiGFDsF7yL60WOXlf29gSv2b4BDQ6VizvxGMHRqU&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/jegzQOy2zv4gqUBmkGIFZIDguI-hOmqBTge-arP6qCD0w3TYHZpedahUAqn8Z1FSUA",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Virginia mID \u2013 Apps on Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.cbnco.idsys.digid.virginia.mdl&hl=en_IE",
+      "appstore:developer_url": "about:invalid#navigation",
+      "og:title": "Virginia mID \u2013 Apps on Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/jegzQOy2zv4gqUBmkGIFZIDguI-hOmqBTge-arP6qCD0w3TYHZpedahUAqn8Z1FSUA=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.cbnco.idsys.digid.virginia.mdl",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.cbnco.idsys.digid.virginia.mdl",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Virginia\u2019s mID is a voluntary, secure, and digital version of your VA DL or ID",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.cbnco.idsys.digid.virginia.mdl&hl=en_IE"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/jegzQOy2zv4gqUBmkGIFZIDguI-hOmqBTge-arP6qCD0w3TYHZpedahUAqn8Z1FSUA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DMV Introduces Virginia Mobile ID on Your Smartphone - Virginia ...",
+   "htmlTitle": "DMV Introduces <b>Virginia Mobile ID</b> on Your Smartphone - <b>Virginia</b> ...",
+   "link": "https://www.vachiefs.org/news/dmv-introduces-virginia-mobile-id-on-your-smartphone",
+   "displayLink": "www.vachiefs.org",
+   "snippet": "Jun 23, 2025 ... As technology continues to reshape our daily lives, the Department of Motor Vehicles (DMV) is excited to introduce the Virginia Mobile ID\u00a0...",
+   "htmlSnippet": "Jun 23, 2025 <b>...</b> As technology continues to reshape our daily lives, the Department of Motor Vehicles (DMV) is excited to introduce the <b>Virginia Mobile ID</b>&nbsp;...",
+   "formattedUrl": "https://www.vachiefs.org/.../dmv-introduces-virginia-mobile-id-on-your-sm...",
+   "htmlFormattedUrl": "https://www.vachiefs.org/.../dmv-introduces-<b>virginia</b>-<b>mobile-id</b>-on-your-sm...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpfh9Mmia1M34ojPSueyzMCaIBeAitIk9b9xEjdsm88N7yPf1-fAGlkQPc&s",
+      "width": "159",
+      "height": "316"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1",
+      "og:url": "https://www.vachiefs.org/news/dmv-introduces-virginia-mobile-id-on-your-smartphone"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://assets.noviams.com/novi-file-uploads/vacp/images/MobileID.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Virginia adopted standards for electronic credentials years ago ...",
+   "htmlTitle": "<b>Virginia</b> adopted standards for electronic credentials years ago ...",
+   "link": "https://virginiamercury.com/2024/10/04/virginia-adopted-standards-for-electronic-credentials-years-ago-what-happened/",
+   "displayLink": "virginiamercury.com",
+   "snippet": "Oct 4, 2024 ... According to Jillian Cowherd, a spokeswoman with Virginia DMV, the agency has partnered with CBN Secure Technologies on its Virginia Mobile ID (\u00a0...",
+   "htmlSnippet": "Oct 4, 2024 <b>...</b> According to Jillian Cowherd, a spokeswoman with <b>Virginia</b> DMV, the agency has partnered with CBN Secure Technologies on its <b>Virginia Mobile ID</b> (&nbsp;...",
+   "formattedUrl": "https://virginiamercury.com/.../virginia-adopted-standards-for-electronic-cr...",
+   "htmlFormattedUrl": "https://<b>virginia</b>mercury.com/.../<b>virginia</b>-adopted-standards-for-electronic-cr...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWhhNqRklMhTufDlzZeyH6ix8lIOoRT6fDhktruUuFQSeJT0N2xNZ4V0B-&s",
+      "width": "259",
+      "height": "194"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://virginiamercury.com/wp-content/uploads/2024/10/photo-collage.png-3.png",
+      "og:type": "article",
+      "article:published_time": "2024-10-04T09:19:16+00:00",
+      "twitter:card": "summary_large_image",
+      "og:image:width": "1440",
+      "og:site_name": "Virginia Mercury",
+      "author": "Nathaniel Cline",
+      "og:title": "Virginia adopted standards for electronic credentials years ago. What happened? \u2022 Virginia Mercury",
+      "twitter:label1": "Written by",
+      "twitter:label2": "Est. reading time",
+      "msapplication-tileimage": "https://virginiamercury.com/wp-content/uploads/2019/10/cropped-virginiamercury-270x270.jpg",
+      "og:description": "In some states, smartphones can do more than help you pay for services, capture memorable moments, or instantly access your choice of media.",
+      "twitter:creator": "@nathanielcline",
+      "twitter:data1": "Nathaniel Cline",
+      "twitter:data2": "5 minutes",
+      "article:modified_time": "2024-10-04T09:23:30+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://virginiamercury.com/2024/10/04/virginia-adopted-standards-for-electronic-credentials-years-ago-what-happened/",
+      "sn_version": "v1.86.4"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://virginiamercury.com/wp-content/uploads/2024/10/photo-collage.png-3.png"
+     }
+    ]
+   }
+  }
+ ]
+}

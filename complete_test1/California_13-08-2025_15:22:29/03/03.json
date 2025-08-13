@@ -1,0 +1,503 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:www.dmv.ca.gov \"REAL ID\"",
+    "totalResults": "5000",
+    "searchTerms": "site:www.dmv.ca.gov \"REAL ID\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:www.dmv.ca.gov \"REAL ID\"",
+    "totalResults": "5000",
+    "searchTerms": "site:www.dmv.ca.gov \"REAL ID\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.146484,
+  "formattedSearchTime": "0.15",
+  "totalResults": "5000",
+  "formattedTotalResults": "5,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Apply for REAL ID - California DMV",
+   "htmlTitle": "Apply for <b>REAL ID</b> - California DMV",
+   "link": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/real-id/",
+   "displayLink": "www.dmv.ca.gov",
+   "snippet": "During the online REAL ID application process, you will be prompted to upload documents that prove identity (e.g., valid passport or birth certificate) and\u00a0...",
+   "htmlSnippet": "During the online <b>REAL ID</b> application process, you will be prompted to upload documents that prove identity (e.g., valid passport or birth certificate) and&nbsp;...",
+   "formattedUrl": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/real-id/",
+   "htmlFormattedUrl": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/<b>real-id</b>/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5BKduIi8k71n8eg-5NMOCDMeM4I5HF653FSCEGcmz_yHBBvYiJEtDGXU&s",
+      "width": "236",
+      "height": "213"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.ca.gov/portal/wp-content/themes/dmv/dist/images/illustrations/real_id_1.svg",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "California DMV",
+      "og:title": "Apply for REAL ID - California DMV",
+      "twitter:label1": "Est. reading time",
+      "msapplication-tileimage": "https://www.dmv.ca.gov/portal/uploads/2020/02/cropped-dmv_favicon_Final_png-1-270x270.png",
+      "og:description": "Need a REAL ID driver's license or ID card? Here's how!",
+      "article:publisher": "https://www.facebook.com/CADMV",
+      "twitter:data1": "1 minute",
+      "twitter:site": "@ca_dmv",
+      "article:modified_time": "2025-06-25T16:11:17+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/real-id/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.ca.gov/portal/wp-content/themes/dmv/dist/images/illustrations/real_id_1.svg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "REAL ID Checklist - California DMV",
+   "htmlTitle": "<b>REAL ID</b> Checklist - California DMV",
+   "link": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/real-id/real-id-checklist/",
+   "displayLink": "www.dmv.ca.gov",
+   "snippet": "To apply for a REAL ID, you must present several documents, including ONE proof of identity document from the list below.",
+   "htmlSnippet": "To apply for a <b>REAL ID</b>, you must present several documents, including ONE proof of identity document from the list below.",
+   "formattedUrl": "https://www.dmv.ca.gov/portal/driver-licenses.../real-id/real-id-checklist/",
+   "htmlFormattedUrl": "https://www.dmv.ca.gov/portal/driver-licenses.../<b>real-id</b>/<b>real-id</b>-checklist/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGkdfxteCceWgbRnHNJ3KYuan9ejS4CxGDrc6mjWrpVKp-KQ93S6VNbm00&s",
+      "width": "219",
+      "height": "230"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.ca.gov/portal/wp-content/themes/dmv/dist/images/illustrations/real_id_2.svg",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "California DMV",
+      "og:title": "REAL ID Checklist - California DMV",
+      "twitter:label1": "Est. reading time",
+      "msapplication-tileimage": "https://www.dmv.ca.gov/portal/uploads/2020/02/cropped-dmv_favicon_Final_png-1-270x270.png",
+      "og:description": "Here is a REAL ID checklist to help you gather the documents required to apply for a REAL ID.",
+      "article:publisher": "https://www.facebook.com/CADMV",
+      "twitter:data1": "1 minute",
+      "twitter:site": "@ca_dmv",
+      "article:modified_time": "2023-05-08T17:24:18+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/real-id/real-id-checklist/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.ca.gov/portal/wp-content/themes/dmv/dist/images/illustrations/real_id_2.svg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Apply Online for a Driver License or ID Card - California DMV",
+   "htmlTitle": "Apply Online for a Driver License or ID Card - California DMV",
+   "link": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/dl-id-online-app-edl-44/",
+   "displayLink": "www.dmv.ca.gov",
+   "snippet": "Driver's License / ID Card Application. Real ID 2. Not due for renewal but need your REAL ID? If you\u00a0...",
+   "htmlSnippet": "Driver&#39;s License / ID Card Application. <b>Real ID</b> 2. Not due for renewal but need your <b>REAL ID</b>? If you&nbsp;...",
+   "formattedUrl": "https://www.dmv.ca.gov/portal/driver-licenses.../dl-id-online-app-edl-44/",
+   "htmlFormattedUrl": "https://www.dmv.ca.gov/portal/driver-licenses.../dl-id-online-app-edl-44/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu1CncnGPr7i_CpSdehYf9W8kOo4yocch0014LrFVFGRKxXMAF2_OIgWU&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.ca.gov/portal/uploads/2022/06/DMV_Logo.png",
+      "og:type": "article",
+      "og:image:width": "1920",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "California DMV",
+      "og:title": "Apply Online for a Driver License or ID Card - California DMV",
+      "og:image:height": "1080",
+      "twitter:label1": "Est. reading time",
+      "og:image:type": "image/png",
+      "msapplication-tileimage": "https://www.dmv.ca.gov/portal/uploads/2020/02/cropped-dmv_favicon_Final_png-1-270x270.png",
+      "og:description": "The online driver's license and ID card application saves you time by letting you complete the application before visiting a DMV field office.",
+      "article:publisher": "https://www.facebook.com/CADMV",
+      "twitter:data1": "3 minutes",
+      "twitter:site": "@ca_dmv",
+      "article:modified_time": "2025-06-30T23:24:24+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/dl-id-online-app-edl-44/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.ca.gov/portal/uploads/2022/06/DMV_Logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What Is REAL ID? - California DMV",
+   "htmlTitle": "What Is <b>REAL ID</b>? - California DMV",
+   "link": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/real-id/what-is-real-id/",
+   "displayLink": "www.dmv.ca.gov",
+   "snippet": "A California issued REAL ID driver's license or identification card meets these new requirements and is marked with a golden bear and star.",
+   "htmlSnippet": "A California issued <b>REAL ID</b> driver&#39;s license or identification card meets these new requirements and is marked with a golden bear and star.",
+   "formattedUrl": "https://www.dmv.ca.gov/portal/driver-licenses.../real-id/what-is-real-id/",
+   "htmlFormattedUrl": "https://www.dmv.ca.gov/portal/driver-licenses.../<b>real-id</b>/what-is-<b>real-id</b>/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGkdfxteCceWgbRnHNJ3KYuan9ejS4CxGDrc6mjWrpVKp-KQ93S6VNbm00&s",
+      "width": "219",
+      "height": "230"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.ca.gov/portal/wp-content/themes/dmv/dist/images/illustrations/real_id_2.svg",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "California DMV",
+      "og:title": "What Is REAL ID? - California DMV",
+      "twitter:label1": "Est. reading time",
+      "msapplication-tileimage": "https://www.dmv.ca.gov/portal/uploads/2020/02/cropped-dmv_favicon_Final_png-1-270x270.png",
+      "og:description": "More About REAL ID",
+      "article:publisher": "https://www.facebook.com/CADMV",
+      "twitter:data1": "7 minutes",
+      "twitter:site": "@ca_dmv",
+      "article:modified_time": "2024-09-27T22:47:31+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/real-id/what-is-real-id/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.ca.gov/portal/wp-content/themes/dmv/dist/images/illustrations/real_id_2.svg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Appointments - Service selection",
+   "htmlTitle": "Appointments - Service selection",
+   "link": "https://www.dmv.ca.gov/portal/appointments/",
+   "displayLink": "www.dmv.ca.gov",
+   "snippet": "REAL ID \u00b7 Online Services; Translate; MyDMV. Vehicle Registration. Sub Menu ... REAL ID Application \u00b7 Reduced/No Fee ID Card Application \u00b7 Reinstate Driving\u00a0...",
+   "htmlSnippet": "<b>REAL ID</b> &middot; Online Services; Translate; MyDMV. Vehicle Registration. Sub Menu ... <b>REAL ID</b> Application &middot; Reduced/No Fee ID Card Application &middot; Reinstate Driving&nbsp;...",
+   "formattedUrl": "https://www.dmv.ca.gov/portal/appointments/",
+   "htmlFormattedUrl": "https://www.dmv.ca.gov/portal/appointments/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu1CncnGPr7i_CpSdehYf9W8kOo4yocch0014LrFVFGRKxXMAF2_OIgWU&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.ca.gov/portal/uploads/2022/06/DMV_Logo.png",
+      "og:type": "article",
+      "og:image:width": "1920",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "California DMV",
+      "og:title": "Schedule an Appointment - California DMV- California DMV",
+      "og:image:height": "1080",
+      "og:image:type": "image/png",
+      "msapplication-tileimage": "https://www.dmv.ca.gov/portal/uploads/2020/02/cropped-dmv_favicon_Final_png-1-270x270.png",
+      "og:description": "Schedule appointments",
+      "article:publisher": "https://www.facebook.com/CADMV",
+      "twitter:site": "@ca_dmv",
+      "article:modified_time": "2025-08-07T14:10:00+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.dmv.ca.gov/portal/appointments/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.ca.gov/portal/uploads/2022/06/DMV_Logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DMV Simplifies REAL ID Application Process - California DMV",
+   "htmlTitle": "DMV Simplifies <b>REAL ID</b> Application Process - California DMV",
+   "link": "https://www.dmv.ca.gov/portal/news-and-media/dmv-simplifies-real-id-application-process/",
+   "displayLink": "www.dmv.ca.gov",
+   "snippet": "May 19, 2021 ... To apply for a REAL ID, an applicant must provide a valid Social Security number, proof of identity and two proofs of California residency.",
+   "htmlSnippet": "May 19, 2021 <b>...</b> To apply for a <b>REAL ID</b>, an applicant must provide a valid Social Security number, proof of identity and two proofs of California residency.",
+   "formattedUrl": "https://www.dmv.ca.gov/portal/.../dmv-simplifies-real-id-application-proces...",
+   "htmlFormattedUrl": "https://www.dmv.ca.gov/portal/.../dmv-simplifies-<b>real-id</b>-application-proces...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu1CncnGPr7i_CpSdehYf9W8kOo4yocch0014LrFVFGRKxXMAF2_OIgWU&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.ca.gov/portal/uploads/2022/06/DMV_Logo.png",
+      "og:type": "article",
+      "og:image:width": "1920",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "California DMV",
+      "og:title": "DMV Simplifies REAL ID Application Process - California DMV",
+      "og:image:height": "1080",
+      "twitter:label1": "Est. reading time",
+      "og:image:type": "image/png",
+      "msapplication-tileimage": "https://www.dmv.ca.gov/portal/uploads/2020/02/cropped-dmv_favicon_Final_png-1-270x270.png",
+      "og:description": "FOR IMMEDIATE RELEASEMay 19, 2021 Document proving Social Security number no longer required after federal rule change Sacramento \u2013Californians applying for a REAL ID from the Department of Motor Vehicles now have one less document to provide during the application process. Following updated federal rules, the DMV no longer requires applicants to provide a Social [\u2026]",
+      "article:publisher": "https://www.facebook.com/CADMV",
+      "twitter:data1": "2 minutes",
+      "twitter:site": "@ca_dmv",
+      "article:modified_time": "2025-04-09T15:54:56+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.dmv.ca.gov/portal/news-and-media/dmv-simplifies-real-id-application-process/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.ca.gov/portal/uploads/2022/06/DMV_Logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Select DMV Offices Opening Early for REAL ID Appointments from ...",
+   "htmlTitle": "Select DMV Offices Opening Early for <b>REAL ID</b> Appointments from ...",
+   "link": "https://www.dmv.ca.gov/portal/news-and-media/select-dmv-offices-opening-early-for-real-id-appointments-from-april-14-to-june-27/",
+   "displayLink": "www.dmv.ca.gov",
+   "snippet": "Apr 7, 2025 ... Californians who still want to upgrade to a REAL ID, but already possess a federally approved document, such as a current U.S. passport, can\u00a0...",
+   "htmlSnippet": "Apr 7, 2025 <b>...</b> Californians who still want to upgrade to a <b>REAL ID</b>, but already possess a federally approved document, such as a current U.S. passport, can&nbsp;...",
+   "formattedUrl": "https://www.dmv.ca.gov/.../select-dmv-offices-opening-early-for-real-id-ap...",
+   "htmlFormattedUrl": "https://www.dmv.ca.gov/.../select-dmv-offices-opening-early-for-<b>real-id</b>-ap...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu1CncnGPr7i_CpSdehYf9W8kOo4yocch0014LrFVFGRKxXMAF2_OIgWU&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.ca.gov/portal/uploads/2022/06/DMV_Logo.png",
+      "og:type": "article",
+      "og:image:width": "1920",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "California DMV",
+      "og:title": "Select DMV Offices Opening Early for REAL ID Appointments from April 14 to June 27 - California DMV",
+      "og:image:height": "1080",
+      "twitter:label1": "Est. reading time",
+      "og:image:type": "image/png",
+      "msapplication-tileimage": "https://www.dmv.ca.gov/portal/uploads/2020/02/cropped-dmv_favicon_Final_png-1-270x270.png",
+      "og:description": "Contact: Office of Public Affairs2415 First AvenueSacramento, CA 95818(916) 657\u20136437 |\u00a0dmvpublicaffairs@dmv.ca.gov FOR IMMEDIATE RELEASEApril 7, 2025 Sacramento \u2013 The California Department of Motor Vehicles (DMV) today announced select offices will open an hour early by appointment only from April 14 to June 27, on Mondays, Tuesdays, Thursdays and Fridays, from 7:00 a.m. to 8:00 a.m. [\u2026]",
+      "article:publisher": "https://www.facebook.com/CADMV",
+      "twitter:data1": "2 minutes",
+      "twitter:site": "@ca_dmv",
+      "article:modified_time": "2025-04-22T16:58:09+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.dmv.ca.gov/portal/news-and-media/select-dmv-offices-opening-early-for-real-id-appointments-from-april-14-to-june-27/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.ca.gov/portal/uploads/2022/06/DMV_Logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver's License & ID Card Online Renewal - California DMV",
+   "htmlTitle": "Driver&#39;s License &amp; ID Card Online Renewal - California DMV",
+   "link": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/driver-license-id-card-online-renewal/",
+   "displayLink": "www.dmv.ca.gov",
+   "snippet": "Renew your driver's license or ID card, or upgrade to a REAL ID.",
+   "htmlSnippet": "Renew your driver&#39;s license or ID card, or upgrade to a <b>REAL ID</b>.",
+   "formattedUrl": "https://www.dmv.ca.gov/portal/.../driver-license-id-card-online-renewal/",
+   "htmlFormattedUrl": "https://www.dmv.ca.gov/portal/.../driver-license-id-card-online-renewal/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu1_hRlOI1Di-V9SDbelBRmOlX20DArN4aTLyhJ2CFDeAeH4jaPez06PtE&s",
+      "width": "308",
+      "height": "164"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.ca.gov/portal/uploads/2023/02/Golden_bear.png",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "California DMV",
+      "og:title": "Driver's License & ID Card Online Renewal - California DMV",
+      "twitter:label1": "Est. reading time",
+      "msapplication-tileimage": "https://www.dmv.ca.gov/portal/uploads/2020/02/cropped-dmv_favicon_Final_png-1-270x270.png",
+      "og:description": "Renew your driver's license or ID card, or upgrade to a REAL ID.",
+      "article:publisher": "https://www.facebook.com/CADMV",
+      "twitter:data1": "2 minutes",
+      "twitter:site": "@ca_dmv",
+      "article:modified_time": "2025-07-09T21:01:21+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/driver-license-id-card-online-renewal/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.ca.gov/portal/uploads/2023/02/Golden_bear.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Online Services Portal - California DMV",
+   "htmlTitle": "Online Services Portal - California DMV",
+   "link": "https://www.dmv.ca.gov/portal/dmv-online/",
+   "displayLink": "www.dmv.ca.gov",
+   "snippet": "Driver's License/ID Card Renewal \u00b7 Upgrade to REAL ID \u00b7 Commercial Driver's License Renewal \u00b7 Disabled Person Parking Placard Renewal \u00b7 Planned Nonoperation\u00a0...",
+   "htmlSnippet": "Driver&#39;s License/ID Card Renewal &middot; Upgrade to <b>REAL ID</b> &middot; Commercial Driver&#39;s License Renewal &middot; Disabled Person Parking Placard Renewal &middot; Planned Nonoperation&nbsp;...",
+   "formattedUrl": "https://www.dmv.ca.gov/portal/dmv-online/",
+   "htmlFormattedUrl": "https://www.dmv.ca.gov/portal/dmv-online/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu1CncnGPr7i_CpSdehYf9W8kOo4yocch0014LrFVFGRKxXMAF2_OIgWU&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.ca.gov/portal/uploads/2022/06/DMV_Logo.png",
+      "og:type": "article",
+      "og:image:width": "1920",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "California DMV",
+      "og:title": "Online Services Portal - California DMV",
+      "og:image:height": "1080",
+      "twitter:label1": "Est. reading time",
+      "og:image:type": "image/png",
+      "msapplication-tileimage": "https://www.dmv.ca.gov/portal/uploads/2020/02/cropped-dmv_favicon_Final_png-1-270x270.png",
+      "og:description": "DMV offers a variety of Online Services that make your DMV business easy and efficient.",
+      "article:publisher": "https://www.facebook.com/CADMV",
+      "twitter:image": "https://www.dmv.ca.gov/portal/uploads/2022/06/DMV_Logo.png",
+      "twitter:data1": "2 minutes",
+      "twitter:site": "@ca_dmv",
+      "article:modified_time": "2025-05-06T15:42:32+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.dmv.ca.gov/portal/dmv-online/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.ca.gov/portal/uploads/2022/06/DMV_Logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Start 2024 on the Right Foot \u2013 Get Your REAL ID Today - California ...",
+   "htmlTitle": "Start 2024 on the Right Foot \u2013 Get Your <b>REAL ID</b> Today - California ...",
+   "link": "https://www.dmv.ca.gov/portal/news-and-media/start-2024-on-the-right-foot-get-your-real-id-today/",
+   "displayLink": "www.dmv.ca.gov",
+   "snippet": "Jan 4, 2024 ... To apply for a REAL ID, Californians should visit REALID.dmv.ca.gov, fill out the online application and upload their documents.",
+   "htmlSnippet": "Jan 4, 2024 <b>...</b> To apply for a <b>REAL ID</b>, Californians should visit REALID.dmv.ca.gov, fill out the online application and upload their documents.",
+   "formattedUrl": "https://www.dmv.ca.gov/.../start-2024-on-the-right-foot-get-your-real-id-to...",
+   "htmlFormattedUrl": "https://www.dmv.ca.gov/.../start-2024-on-the-right-foot-get-your-<b>real-id</b>-to...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu1CncnGPr7i_CpSdehYf9W8kOo4yocch0014LrFVFGRKxXMAF2_OIgWU&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.ca.gov/portal/uploads/2022/06/DMV_Logo.png",
+      "og:type": "article",
+      "og:image:width": "1920",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "California DMV",
+      "og:title": "Start 2024 on the Right Foot \u2013 Get Your REAL ID Today - California DMV",
+      "og:image:height": "1080",
+      "twitter:label1": "Est. reading time",
+      "og:image:type": "image/png",
+      "msapplication-tileimage": "https://www.dmv.ca.gov/portal/uploads/2020/02/cropped-dmv_favicon_Final_png-1-270x270.png",
+      "og:description": "FOR IMMEDIATE RELEASEJanuary 4, 2024 Sacramento \u2013 Nearly 16.9 million Californians now have a REAL ID \u2013 an increase of 121,501 from the previous month \u2013 according to California Department of Motor Vehicles (DMV) data. \u201cResolving to get your REAL ID is one of the easiest goals you can set for 2024,\u201d said DMV Director [\u2026]",
+      "article:publisher": "https://www.facebook.com/CADMV",
+      "twitter:data1": "2 minutes",
+      "twitter:site": "@ca_dmv",
+      "article:modified_time": "2024-02-06T19:16:27+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.dmv.ca.gov/portal/news-and-media/start-2024-on-the-right-foot-get-your-real-id-today/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.ca.gov/portal/uploads/2022/06/DMV_Logo.png"
+     }
+    ]
+   }
+  }
+ ]
+}

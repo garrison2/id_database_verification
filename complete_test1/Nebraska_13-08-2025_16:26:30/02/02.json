@@ -1,0 +1,498 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://dmv.nebraska.gov/ \"driver's license\" OR \"identification card\"",
+    "totalResults": "1250",
+    "searchTerms": "site:https://dmv.nebraska.gov/ \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://dmv.nebraska.gov/ \"driver's license\" OR \"identification card\"",
+    "totalResults": "1250",
+    "searchTerms": "site:https://dmv.nebraska.gov/ \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.133523,
+  "formattedSearchTime": "0.13",
+  "totalResults": "1250",
+  "formattedTotalResults": "1,250"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Change of Address - Driver's License, Permit and State ID Cards ...",
+   "htmlTitle": "Change of Address - <b>Driver&#39;s License</b>, Permit and State ID Cards ...",
+   "link": "https://dmv.nebraska.gov/dl/change-address",
+   "displayLink": "dmv.nebraska.gov",
+   "snippet": "You can also update your address at any Driver Licensing Office. To apply for a replacement Driver's License, Permit or State Identification Card, a resident\u00a0...",
+   "htmlSnippet": "You can also update your address at any Driver Licensing Office. To apply for a replacement <b>Driver&#39;s License</b>, Permit or State <b>Identification Card</b>, a resident&nbsp;...",
+   "formattedUrl": "https://dmv.nebraska.gov/dl/change-address",
+   "htmlFormattedUrl": "https://dmv.nebraska.gov/dl/change-address",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz2r0u5LExVLJlFzj4Xl4G0GXJpWvmtforDAOMdRUORw&s",
+      "width": "318",
+      "height": "159"
+     }
+    ],
+    "Item": [
+     {
+      "title": "Change of Address - Driver's License, Permit and State ID Cards"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://dmv.nebraska.gov/files/img/dmv-media-image.jpg",
+      "twitter:card": "The Official Nebraska Department of Motor Vehicles (DMV) Government Website.",
+      "og:type": "website",
+      "og:site_name": "Nebraska Department of Motor Vehicles (DMV)",
+      "_meta_keywords": "update your address, update my address, change my address",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "google-translate-customization": "33cef3e37966dc74-463e7b3c1b67e30d-g55f3fff9c95afa58-15",
+      "_meta_title": "Change of Address - Driver's License, Permit and State ID Cards",
+      "twitter:description": "The Official Nebraska Department of Motor Vehicles (DMV) Government Website.",
+      "og:locale": "en_US",
+      "og:description": "The Official Nebraska Department of Motor Vehicles (DMV) Government Website.",
+      "twitter:image:src": "https://dmv.nebraska.gov/files/img/dmv-media-image.jpg"
+     }
+    ],
+    "cse_image": [
+     {}
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Welcome | Nebraska Department of Motor Vehicles",
+   "htmlTitle": "Welcome | Nebraska Department of Motor Vehicles",
+   "link": "https://dmv.nebraska.gov/",
+   "displayLink": "dmv.nebraska.gov",
+   "snippet": "Renew Your Motor Vehicle Registration Online \u00b7 Driver's License, ID & Permits \u00b7 Commercial Driver's License \u00b7 DUI Interlock Device \u00b7 Points, Suspensions, &\u00a0...",
+   "htmlSnippet": "Renew Your Motor Vehicle Registration Online &middot; <b>Driver&#39;s License</b>, ID &amp; Permits &middot; Commercial <b>Driver&#39;s License</b> &middot; DUI Interlock Device &middot; Points, Suspensions, &amp;&nbsp;...",
+   "formattedUrl": "https://dmv.nebraska.gov/",
+   "htmlFormattedUrl": "https://dmv.nebraska.gov/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC2lq2UEobtx34IlB6RfjZVefajDtiyjANYzimkVgE59V0g9fUZYOA9g&s",
+      "width": "402",
+      "height": "125"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://dmv.nebraska.gov/files/img/dmv-media-image.jpg",
+      "twitter:card": "The Official Nebraska Department of Motor Vehicles (DMV) Government Website.",
+      "og:type": "website",
+      "og:site_name": "Nebraska Department of Motor Vehicles (DMV)",
+      "_meta_title": "Nebraska Department of Motor Vehicles (DMV)",
+      "og:description": "The Official Nebraska Department of Motor Vehicles (DMV) Government Website.",
+      "twitter:image:src": "https://dmv.nebraska.gov/files/img/dmv-media-image.jpg",
+      "_meta_keywords": "DMV, clickDMV, NE DMV, Nebraska DMV, Nebraska Department of Motor Vehicles",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "google-translate-customization": "33cef3e37966dc74-463e7b3c1b67e30d-g55f3fff9c95afa58-15",
+      "twitter:description": "The Official Nebraska Department of Motor Vehicles (DMV) Government Website.",
+      "og:locale": "en_US",
+      "_meta_description": "The official Nebraska Department of Motor Vehicle (DMV) government website."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.nebraska.gov/sites/default/files/styles/slider_image/public/slider/img/Mail%20Image.jpg?itok=jVl1k9YE"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Name Change - Driver's License, Motorcycle and State ID ...",
+   "htmlTitle": "Name Change - <b>Driver&#39;s License</b>, Motorcycle and State ID ...",
+   "link": "https://dmv.nebraska.gov/dl/name-change",
+   "displayLink": "dmv.nebraska.gov",
+   "snippet": "Apply at any Driver Licensing Office if you have had a name change. To apply for a replacement Driver's License, Permit or State Identification Card, a resident\u00a0...",
+   "htmlSnippet": "Apply at any Driver Licensing Office if you have had a name change. To apply for a replacement <b>Driver&#39;s License</b>, Permit or State <b>Identification Card</b>, a resident&nbsp;...",
+   "formattedUrl": "https://dmv.nebraska.gov/dl/name-change",
+   "htmlFormattedUrl": "https://dmv.nebraska.gov/dl/name-change",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz2r0u5LExVLJlFzj4Xl4G0GXJpWvmtforDAOMdRUORw&s",
+      "width": "318",
+      "height": "159"
+     }
+    ],
+    "Item": [
+     {
+      "title": "Name Change - Driver's License, Motorcycle and State ID"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://dmv.nebraska.gov/files/img/dmv-media-image.jpg",
+      "twitter:card": "The Official Nebraska Department of Motor Vehicles (DMV) Government Website.",
+      "og:type": "website",
+      "og:site_name": "Nebraska Department of Motor Vehicles (DMV)",
+      "_meta_keywords": "name change, change my name",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "google-translate-customization": "33cef3e37966dc74-463e7b3c1b67e30d-g55f3fff9c95afa58-15",
+      "_meta_title": "Need to change my name on my license, ID or Permit",
+      "twitter:description": "The Official Nebraska Department of Motor Vehicles (DMV) Government Website.",
+      "og:locale": "en_US",
+      "og:description": "The Official Nebraska Department of Motor Vehicles (DMV) Government Website.",
+      "twitter:image:src": "https://dmv.nebraska.gov/files/img/dmv-media-image.jpg"
+     }
+    ],
+    "cse_image": [
+     {}
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "State Identification Card (ID) | Nebraska Department of Motor Vehicles",
+   "htmlTitle": "State <b>Identification Card</b> (ID) | Nebraska Department of Motor Vehicles",
+   "link": "https://dmv.nebraska.gov/dl/state-identification-card",
+   "displayLink": "dmv.nebraska.gov",
+   "snippet": "If the applicant does not have a current Nebraska driver's license or state identification card for the purpose of voting they may be eligible for this no\u00a0...",
+   "htmlSnippet": "If the applicant does not have a current Nebraska <b>driver&#39;s license</b> or state <b>identification card</b> for the purpose of voting they may be eligible for this no&nbsp;...",
+   "formattedUrl": "https://dmv.nebraska.gov/dl/state-identification-card",
+   "htmlFormattedUrl": "https://dmv.nebraska.gov/dl/state-<b>identification-card</b>",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFLAAl1RXPRFhxv0A4eY8wBdeZV-ZToZ4asCA2ZL8HeGseS-_L2RgM2JY&s",
+      "width": "279",
+      "height": "180"
+     }
+    ],
+    "Item": [
+     {
+      "title": "State Identification Card (ID)"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://dmv.nebraska.gov/files/img/dmv-media-image.jpg",
+      "twitter:card": "The Official Nebraska Department of Motor Vehicles (DMV) Government Website.",
+      "og:type": "website",
+      "og:site_name": "Nebraska Department of Motor Vehicles (DMV)",
+      "_meta_title": "Nebraska State Identification Card",
+      "og:description": "The Official Nebraska Department of Motor Vehicles (DMV) Government Website.",
+      "twitter:image:src": "https://dmv.nebraska.gov/files/img/dmv-media-image.jpg",
+      "_meta_keywords": "Nebraska ID, Nebraska Identification Card",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "google-translate-customization": "33cef3e37966dc74-463e7b3c1b67e30d-g55f3fff9c95afa58-15",
+      "twitter:description": "The Official Nebraska Department of Motor Vehicles (DMV) Government Website.",
+      "og:locale": "en_US",
+      "_meta_description": "Any person who is a resident of the state of Nebraska may obtain a State Identification (ID) card with a color photograph of the person included."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.nebraska.gov/sites/default/files/img/NE%20D100%20PR_ADULT_ID_300dpi.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver's License (Class O) | Nebraska Department of Motor Vehicles",
+   "htmlTitle": "<b>Driver&#39;s License</b> (Class O) | Nebraska Department of Motor Vehicles",
+   "link": "https://dmv.nebraska.gov/dl/driver-license",
+   "displayLink": "dmv.nebraska.gov",
+   "snippet": "An Operator's License (Class O) Driver's License authorizes a license holder to operate any motor vehicle, including a moped, All-Terrain Vehicle (ATV) and\u00a0...",
+   "htmlSnippet": "An Operator&#39;s License (Class O) <b>Driver&#39;s License</b> authorizes a license holder to operate any motor vehicle, including a moped, All-Terrain Vehicle (ATV) and&nbsp;...",
+   "formattedUrl": "https://dmv.nebraska.gov/dl/driver-license",
+   "htmlFormattedUrl": "https://dmv.nebraska.gov/dl/driver-license",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWQWCL1CNZ_6wnPse3aA3-KeTdqp18NZYVFGwzSGIaDqqkp6HyCbMgYmSV&s",
+      "width": "282",
+      "height": "178"
+     }
+    ],
+    "Item": [
+     {
+      "title": "Driver's License (Class O)"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://dmv.nebraska.gov/files/img/dmv-media-image.jpg",
+      "twitter:card": "The Official Nebraska Department of Motor Vehicles (DMV) Government Website.",
+      "og:type": "website",
+      "og:site_name": "Nebraska Department of Motor Vehicles (DMV)",
+      "_meta_title": "Nebraska Operator's License",
+      "og:description": "The Official Nebraska Department of Motor Vehicles (DMV) Government Website.",
+      "twitter:image:src": "https://dmv.nebraska.gov/files/img/dmv-media-image.jpg",
+      "_meta_keywords": "class O license, standard license, Nebraska Driver's license, Nebraska drivers license",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "google-translate-customization": "33cef3e37966dc74-463e7b3c1b67e30d-g55f3fff9c95afa58-15",
+      "twitter:description": "The Official Nebraska Department of Motor Vehicles (DMV) Government Website.",
+      "og:locale": "en_US",
+      "_meta_description": "The Nebraska Operator's License is the standard license required in Nebraska to operate a motor vehicle."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.nebraska.gov/sites/dmv.nebraska.gov/files/img/Adult%20DL%20image.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver Licensing Services | Nebraska Department of Motor Vehicles",
+   "htmlTitle": "Driver Licensing Services | Nebraska Department of Motor Vehicles",
+   "link": "https://dmv.nebraska.gov/dl/driver-licensing-services",
+   "displayLink": "dmv.nebraska.gov",
+   "snippet": "... Identification card. It is also our goal to provide service to the public in ... Commercial Driver's License (CDL) \u00b7 Restricted CDL (RCDL) \u00b7 Farm Husbandry\u00a0...",
+   "htmlSnippet": "... <b>Identification card</b>. It is also our goal to provide service to the public in ... Commercial <b>Driver&#39;s License</b> (CDL) &middot; Restricted CDL (RCDL) &middot; Farm Husbandry&nbsp;...",
+   "formattedUrl": "https://dmv.nebraska.gov/dl/driver-licensing-services",
+   "htmlFormattedUrl": "https://dmv.nebraska.gov/dl/driver-licensing-services",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz2r0u5LExVLJlFzj4Xl4G0GXJpWvmtforDAOMdRUORw&s",
+      "width": "318",
+      "height": "159"
+     }
+    ],
+    "Item": [
+     {
+      "title": "Driver Licensing Services"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://dmv.nebraska.gov/files/img/dmv-media-image.jpg",
+      "twitter:card": "The Official Nebraska Department of Motor Vehicles (DMV) Government Website.",
+      "og:type": "website",
+      "og:site_name": "Nebraska Department of Motor Vehicles (DMV)",
+      "_meta_title": "Driver Licensing Services",
+      "og:description": "The Official Nebraska Department of Motor Vehicles (DMV) Government Website.",
+      "twitter:image:src": "https://dmv.nebraska.gov/files/img/dmv-media-image.jpg",
+      "_meta_keywords": "Nebraska DMV driver licensing division, driver licensing services",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "google-translate-customization": "33cef3e37966dc74-463e7b3c1b67e30d-g55f3fff9c95afa58-15",
+      "twitter:description": "The Official Nebraska Department of Motor Vehicles (DMV) Government Website.",
+      "og:locale": "en_US",
+      "_meta_description": "The goal of the Driver Licensing Services division is to ensure that persons who meet Nebraska licensing standards and requirements are issued an operator\u2019s license and those meeting Identification requirements are issued a state Identification card."
+     }
+    ],
+    "cse_image": [
+     {}
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Veterans' Designation | Nebraska Department of Motor Vehicles",
+   "htmlTitle": "Veterans&#39; Designation | Nebraska Department of Motor Vehicles",
+   "link": "https://dmv.nebraska.gov/dl/veterans-designation",
+   "displayLink": "dmv.nebraska.gov",
+   "snippet": "Individuals. Renew Your Vehicle Registration \u00b7 Renew/Replace Your Driver's License \u00b7 Get a Commercial Driver's License (CDL) \u00b7 Get a Specialty Plate \u00b7 Get a\u00a0...",
+   "htmlSnippet": "Individuals. Renew Your Vehicle Registration &middot; Renew/Replace Your <b>Driver&#39;s License</b> &middot; Get a Commercial <b>Driver&#39;s License</b> (CDL) &middot; Get a Specialty Plate &middot; Get a&nbsp;...",
+   "formattedUrl": "https://dmv.nebraska.gov/dl/veterans-designation",
+   "htmlFormattedUrl": "https://dmv.nebraska.gov/dl/veterans-designation",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjTNG8HfKDOHHs1eFKiFXYHaUKKpdjvKpaher6RMj_YP54-wos94kzg-Q&s",
+      "width": "281",
+      "height": "179"
+     }
+    ],
+    "Item": [
+     {
+      "title": "Veterans' Designation"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://dmv.nebraska.gov/files/img/dmv-media-image.jpg",
+      "twitter:card": "The Official Nebraska Department of Motor Vehicles (DMV) Government Website.",
+      "og:type": "website",
+      "og:site_name": "Nebraska Department of Motor Vehicles (DMV)",
+      "_meta_title": "Veterans' Designation on Nebraska License or ID",
+      "og:description": "The Official Nebraska Department of Motor Vehicles (DMV) Government Website.",
+      "twitter:image:src": "https://dmv.nebraska.gov/files/img/dmv-media-image.jpg",
+      "_meta_keywords": "army, air force, coast guard, national guard, navy, marines, marine corps, nebraska veteran license",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "google-translate-customization": "33cef3e37966dc74-463e7b3c1b67e30d-g55f3fff9c95afa58-15",
+      "twitter:description": "The Official Nebraska Department of Motor Vehicles (DMV) Government Website.",
+      "og:locale": "en_US",
+      "_meta_description": "Are you a veteran or on active duty in the United States Armed Forces? Order Nebraska Military Honor license plates or get a veterans' designation on your license today!"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.nebraska.gov/sites/dmv.nebraska.gov/files/img/sample-DL-Vet_0.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Nebraska DMV County Locations | Nebraska Department of Motor ...",
+   "htmlTitle": "Nebraska DMV County Locations | Nebraska Department of Motor ...",
+   "link": "https://dmv.nebraska.gov/locations",
+   "displayLink": "dmv.nebraska.gov",
+   "snippet": "You can obtain a driver's license in any Nebraska DMV driver licensing office. Vehicle titles and registrations are issued in the county where you reside.",
+   "htmlSnippet": "You can obtain a <b>driver&#39;s license</b> in any Nebraska DMV driver licensing office. Vehicle titles and registrations are issued in the county where you reside.",
+   "formattedUrl": "https://dmv.nebraska.gov/locations",
+   "htmlFormattedUrl": "https://dmv.nebraska.gov/locations",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTopQtskwu3Wr3BN0CNCRA5ikm0RXx_iAyq8jp9HOa8lg-ffKQMOEJTIGCW&s",
+      "width": "318",
+      "height": "159"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://dmv.nebraska.gov/files/img/dmv-media-image.jpg",
+      "twitter:card": "The Official Nebraska Department of Motor Vehicles (DMV) Government Website.",
+      "og:type": "website",
+      "og:site_name": "Nebraska Department of Motor Vehicles (DMV)",
+      "_meta_title": "Nebraska DMV County Locations",
+      "og:description": "The Official Nebraska Department of Motor Vehicles (DMV) Government Website.",
+      "twitter:image:src": "https://dmv.nebraska.gov/files/img/dmv-media-image.jpg",
+      "_meta_keywords": "Driver Licensing Office, County Treasurer, Contact County Treasurer, Local Nebraska DMV office, Nebraska County DMV office",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "google-translate-customization": "33cef3e37966dc74-463e7b3c1b67e30d-g55f3fff9c95afa58-15",
+      "twitter:description": "The Official Nebraska Department of Motor Vehicles (DMV) Government Website.",
+      "og:locale": "en_US",
+      "_meta_description": "Find your local Nebraska DMV office contact information, hours, and closings."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.nebraska.gov/sites/dmv.nebraska.gov/files/doc/dvr/plates/specialty-plate.png"
+     }
+    ],
+    "Document": [
+     {
+      "title": "Nebraska DMV County Locations"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Online Services | Nebraska Department of Motor Vehicles",
+   "htmlTitle": "Online Services | Nebraska Department of Motor Vehicles",
+   "link": "https://dmv.nebraska.gov/services",
+   "displayLink": "dmv.nebraska.gov",
+   "snippet": "The Nebraska Department of Motor Vehicles Online Applications are listed below. Driver License. Driver's License New/Renew/Replace, credit card icon.",
+   "htmlSnippet": "The Nebraska Department of Motor Vehicles Online Applications are listed below. Driver License. <b>Driver&#39;s License</b> New/Renew/Replace, credit card icon.",
+   "formattedUrl": "https://dmv.nebraska.gov/services",
+   "htmlFormattedUrl": "https://dmv.nebraska.gov/services",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTopQtskwu3Wr3BN0CNCRA5ikm0RXx_iAyq8jp9HOa8lg-ffKQMOEJTIGCW&s",
+      "width": "318",
+      "height": "159"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://dmv.nebraska.gov/files/img/dmv-media-image.jpg",
+      "twitter:card": "The Official Nebraska Department of Motor Vehicles (DMV) Government Website.",
+      "og:type": "website",
+      "og:site_name": "Nebraska Department of Motor Vehicles (DMV)",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "google-translate-customization": "33cef3e37966dc74-463e7b3c1b67e30d-g55f3fff9c95afa58-15",
+      "twitter:description": "The Official Nebraska Department of Motor Vehicles (DMV) Government Website.",
+      "og:locale": "en_US",
+      "og:description": "The Official Nebraska Department of Motor Vehicles (DMV) Government Website.",
+      "twitter:image:src": "https://dmv.nebraska.gov/files/img/dmv-media-image.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.nebraska.gov/sites/dmv.nebraska.gov/files/doc/dvr/plates/specialty-plate.png"
+     }
+    ],
+    "Document": [
+     {
+      "title": "Online Services"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "License Cancellation | Nebraska Department of Motor Vehicles",
+   "htmlTitle": "License Cancellation | Nebraska Department of Motor Vehicles",
+   "link": "https://dmv.nebraska.gov/dl/license-cancellation",
+   "displayLink": "dmv.nebraska.gov",
+   "snippet": "Renew/Replace Your Driver's License \u00b7 Get a Commercial Driver's License (CDL) \u00b7 Get a Specialty Plate \u00b7 Get a Driving Record \u00b7 Reinstate Your License\u00a0...",
+   "htmlSnippet": "Renew/Replace Your <b>Driver&#39;s License</b> &middot; Get a Commercial <b>Driver&#39;s License</b> (CDL) &middot; Get a Specialty Plate &middot; Get a Driving Record &middot; Reinstate Your License&nbsp;...",
+   "formattedUrl": "https://dmv.nebraska.gov/dl/license-cancellation",
+   "htmlFormattedUrl": "https://dmv.nebraska.gov/dl/license-cancellation",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz2r0u5LExVLJlFzj4Xl4G0GXJpWvmtforDAOMdRUORw&s",
+      "width": "318",
+      "height": "159"
+     }
+    ],
+    "Item": [
+     {
+      "title": "License Cancellation"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://dmv.nebraska.gov/files/img/dmv-media-image.jpg",
+      "twitter:card": "The Official Nebraska Department of Motor Vehicles (DMV) Government Website.",
+      "og:type": "website",
+      "og:site_name": "Nebraska Department of Motor Vehicles (DMV)",
+      "_meta_title": "License Cancellation",
+      "og:description": "The Official Nebraska Department of Motor Vehicles (DMV) Government Website.",
+      "twitter:image:src": "https://dmv.nebraska.gov/files/img/dmv-media-image.jpg",
+      "_meta_keywords": "cancelled drivers license, revoked drivers license, suspended license, revoked license, suspended drivers license",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "google-translate-customization": "33cef3e37966dc74-463e7b3c1b67e30d-g55f3fff9c95afa58-15",
+      "twitter:description": "The Official Nebraska Department of Motor Vehicles (DMV) Government Website.",
+      "og:locale": "en_US",
+      "_meta_description": "A license suspension is the temporary removal of the valid license and driving privilege from a licensee. Revocation is the removal of the license privilege and taking of a license from a licensee for a specific period of time."
+     }
+    ],
+    "cse_image": [
+     {}
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,566 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:play.google.com \"Indiana\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "31",
+    "searchTerms": "site:play.google.com \"Indiana\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:play.google.com \"Indiana\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "31",
+    "searchTerms": "site:play.google.com \"Indiana\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.270516,
+  "formattedSearchTime": "0.27",
+  "totalResults": "31",
+  "formattedTotalResults": "31"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "IU Mobile \u2013 Apps on Google Play",
+   "htmlTitle": "IU Mobile \u2013 Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details/IU+Mobile?id=iu.android&hl=en_IE",
+   "displayLink": "play.google.com",
+   "snippet": "IU Mobile is a digital gateway for Indiana University students. It pulls together information and services from multiple systems to help current students\u00a0...",
+   "htmlSnippet": "IU Mobile is a digital gateway for <b>Indiana</b> University students. It pulls together information and services from multiple systems to help current students&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details/IU+Mobile?id=iu.android...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details/IU+<b>Mobile?id</b>=iu.android...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=iu.android&rdid=iu.android&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJVSZHdPfzMCRI46t5A4SR_QmhdQywKdtUKZAULWHOLQXEFCDYN4Jqkdg&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/NJ_z6yl4vcqcQya4agrOtCeZvDqWJvBm_WnjuwCkBIaX98XsWC58_pGyleNdxGzd0Q",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "IU Mobile \u2013 Apps on Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details/IU+Mobile?id=iu.android&hl=en_IE",
+      "appstore:developer_url": "https://one.iu.edu/",
+      "og:title": "IU Mobile \u2013 Apps on Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/NJ_z6yl4vcqcQya4agrOtCeZvDqWJvBm_WnjuwCkBIaX98XsWC58_pGyleNdxGzd0Q=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "iu.android",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "iu.android",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "IU Mobile is a digital gateway to Indiana University.",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details/IU+Mobile?id=iu.android&hl=en_IE"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/NJ_z6yl4vcqcQya4agrOtCeZvDqWJvBm_WnjuwCkBIaX98XsWC58_pGyleNdxGzd0Q"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "IU Mobile - Apps en Google Play",
+   "htmlTitle": "IU Mobile - Apps en Google Play",
+   "link": "https://play.google.com/store/apps/details/IU+Mobile?id=iu.android&hl=es_DO",
+   "displayLink": "play.google.com",
+   "snippet": "IU Mobile es un portal digital para estudiantes de la Universidad de Indiana. Re\u00fane informaci\u00f3n y servicios de m\u00faltiples sistemas para ayudar a los\u00a0...",
+   "htmlSnippet": "IU Mobile es un portal digital para estudiantes de la Universidad de <b>Indiana</b>. Re\u00fane informaci\u00f3n y servicios de m\u00faltiples sistemas para ayudar a los&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details/IU+Mobile?id=iu.android...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details/IU+<b>Mobile?id</b>=iu.android...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=iu.android&rdid=iu.android&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJVSZHdPfzMCRI46t5A4SR_QmhdQywKdtUKZAULWHOLQXEFCDYN4Jqkdg&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/NJ_z6yl4vcqcQya4agrOtCeZvDqWJvBm_WnjuwCkBIaX98XsWC58_pGyleNdxGzd0Q",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "IU Mobile - Apps en Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details/IU+Mobile?id=iu.android&hl=es_DO",
+      "appstore:developer_url": "https://one.iu.edu/",
+      "og:title": "IU Mobile - Apps en Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/NJ_z6yl4vcqcQya4agrOtCeZvDqWJvBm_WnjuwCkBIaX98XsWC58_pGyleNdxGzd0Q=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "iu.android",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "iu.android",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "IU Mobile es una puerta de entrada digital a la Universidad de Indiana.",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details/IU+Mobile?id=iu.android&hl=es_DO"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/NJ_z6yl4vcqcQya4agrOtCeZvDqWJvBm_WnjuwCkBIaX98XsWC58_pGyleNdxGzd0Q"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "IU Mobile \u2013 Google Play ilovalari",
+   "htmlTitle": "IU Mobile \u2013 Google Play ilovalari",
+   "link": "https://play.google.com/store/apps/details/IU+Mobile?id=iu.android&hl=uz",
+   "displayLink": "play.google.com",
+   "snippet": "IU Mobile is a digital gateway for Indiana University students. It pulls together information and services from multiple systems to help current students\u00a0...",
+   "htmlSnippet": "IU Mobile is a digital gateway for <b>Indiana</b> University students. It pulls together information and services from multiple systems to help current students&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details/IU+Mobile?id=iu.android...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details/IU+<b>Mobile?id</b>=iu.android...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=iu.android&rdid=iu.android&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJVSZHdPfzMCRI46t5A4SR_QmhdQywKdtUKZAULWHOLQXEFCDYN4Jqkdg&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/NJ_z6yl4vcqcQya4agrOtCeZvDqWJvBm_WnjuwCkBIaX98XsWC58_pGyleNdxGzd0Q",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "IU Mobile \u2013 Google Play ilovalari",
+      "twitter:url": "https://play.google.com/store/apps/details/IU+Mobile?id=iu.android&hl=uz",
+      "appstore:developer_url": "https://one.iu.edu/",
+      "og:title": "IU Mobile \u2013 Google Play ilovalari",
+      "twitter:image": "https://play-lh.googleusercontent.com/NJ_z6yl4vcqcQya4agrOtCeZvDqWJvBm_WnjuwCkBIaX98XsWC58_pGyleNdxGzd0Q=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "iu.android",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "iu.android",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "IU Mobile is a digital gateway to Indiana University.",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details/IU+Mobile?id=iu.android&hl=uz"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/NJ_z6yl4vcqcQya4agrOtCeZvDqWJvBm_WnjuwCkBIaX98XsWC58_pGyleNdxGzd0Q"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "IU Mobile - Google Play \u306e\u30a2\u30d7\u30ea",
+   "htmlTitle": "IU Mobile - Google Play \u306e\u30a2\u30d7\u30ea",
+   "link": "https://play.google.com/store/apps/details/IU+Mobile?id=iu.android&hl=ja",
+   "displayLink": "play.google.com",
+   "snippet": "\u3053\u306e\u30a2\u30d7\u30ea\u306b\u3064\u3044\u3066 \u00b7 \u30c7\u30fc\u30bf \u30bb\u30fc\u30d5\u30c6\u30a3 \u00b7 \u8a55\u4fa1\u3068\u30ec\u30d3\u30e5\u30fc \u00b7 \u65b0\u6a5f\u80fd \u00b7 \u30a2\u30d7\u30ea\u306e\u30b5\u30dd\u30fc\u30c8 \u00b7 \u300cIndiana University\u300d\u306e\u305d\u306e\u4ed6\u306e\u30a2\u30a4\u30c6\u30e0.",
+   "htmlSnippet": "\u3053\u306e\u30a2\u30d7\u30ea\u306b\u3064\u3044\u3066 &middot; \u30c7\u30fc\u30bf \u30bb\u30fc\u30d5\u30c6\u30a3 &middot; \u8a55\u4fa1\u3068\u30ec\u30d3\u30e5\u30fc &middot; \u65b0\u6a5f\u80fd &middot; \u30a2\u30d7\u30ea\u306e\u30b5\u30dd\u30fc\u30c8 &middot; \u300c<b>Indiana</b> University\u300d\u306e\u305d\u306e\u4ed6\u306e\u30a2\u30a4\u30c6\u30e0.",
+   "formattedUrl": "https://play.google.com/store/apps/details/IU+Mobile?id=iu.android...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details/IU+<b>Mobile?id</b>=iu.android...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=iu.android&rdid=iu.android&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJVSZHdPfzMCRI46t5A4SR_QmhdQywKdtUKZAULWHOLQXEFCDYN4Jqkdg&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/NJ_z6yl4vcqcQya4agrOtCeZvDqWJvBm_WnjuwCkBIaX98XsWC58_pGyleNdxGzd0Q",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "IU Mobile - Google Play \u306e\u30a2\u30d7\u30ea",
+      "twitter:url": "https://play.google.com/store/apps/details/IU+Mobile?id=iu.android&hl=ja",
+      "appstore:developer_url": "https://one.iu.edu/",
+      "og:title": "IU Mobile - Google Play \u306e\u30a2\u30d7\u30ea",
+      "twitter:image": "https://play-lh.googleusercontent.com/NJ_z6yl4vcqcQya4agrOtCeZvDqWJvBm_WnjuwCkBIaX98XsWC58_pGyleNdxGzd0Q=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "iu.android",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "iu.android",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "IU Mobile\u306f\u30a4\u30f3\u30c7\u30a3\u30a2\u30ca\u5927\u5b66\u3078\u306e\u30c7\u30b8\u30bf\u30eb\u30b2\u30fc\u30c8\u30a6\u30a7\u30a4\u3067\u3059\u3002",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details/IU+Mobile?id=iu.android&hl=ja"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/NJ_z6yl4vcqcQya4agrOtCeZvDqWJvBm_WnjuwCkBIaX98XsWC58_pGyleNdxGzd0Q"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "IU Mobile \u2013 Applications sur Google Play",
+   "htmlTitle": "IU Mobile \u2013 Applications sur Google Play",
+   "link": "https://play.google.com/store/apps/details/IU+Mobile?id=iu.android&hl=fr",
+   "displayLink": "play.google.com",
+   "snippet": "Aug 4, 2025 ... IU Mobile est une passerelle num\u00e9rique pour les \u00e9tudiants de l'Universit\u00e9 de l'Indiana. Il rassemble des informations et des services \u00e0\u00a0...",
+   "htmlSnippet": "Aug 4, 2025 <b>...</b> IU Mobile est une passerelle num\u00e9rique pour les \u00e9tudiants de l&#39;Universit\u00e9 de l&#39;<b>Indiana</b>. Il rassemble des informations et des services \u00e0&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details/IU+Mobile?id=iu.android...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details/IU+<b>Mobile?id</b>=iu.android...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=iu.android&rdid=iu.android&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJVSZHdPfzMCRI46t5A4SR_QmhdQywKdtUKZAULWHOLQXEFCDYN4Jqkdg&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/NJ_z6yl4vcqcQya4agrOtCeZvDqWJvBm_WnjuwCkBIaX98XsWC58_pGyleNdxGzd0Q",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "IU Mobile \u2013 Applications sur Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details/IU+Mobile?id=iu.android&hl=fr",
+      "appstore:developer_url": "https://one.iu.edu/",
+      "og:title": "IU Mobile \u2013 Applications sur Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/NJ_z6yl4vcqcQya4agrOtCeZvDqWJvBm_WnjuwCkBIaX98XsWC58_pGyleNdxGzd0Q=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "iu.android",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "iu.android",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "IU Mobile est une passerelle num\u00e9rique vers l'Universit\u00e9 de l'Indiana.",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details/IU+Mobile?id=iu.android&hl=fr"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/NJ_z6yl4vcqcQya4agrOtCeZvDqWJvBm_WnjuwCkBIaX98XsWC58_pGyleNdxGzd0Q"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "IU Mobile \u2013 Apps bei Google Play",
+   "htmlTitle": "IU Mobile \u2013 Apps bei Google Play",
+   "link": "https://play.google.com/store/apps/details/IU+Mobile?id=iu.android&hl=de",
+   "displayLink": "play.google.com",
+   "snippet": "IU Mobile ist ein digitales Gateway f\u00fcr Studenten der Indiana University. Es fasst Informationen und Dienste aus mehreren Systemen zusammen, um aktuellen\u00a0...",
+   "htmlSnippet": "IU Mobile ist ein digitales Gateway f\u00fcr Studenten der <b>Indiana</b> University. Es fasst Informationen und Dienste aus mehreren Systemen zusammen, um aktuellen&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details/IU+Mobile?id=iu.android...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details/IU+<b>Mobile?id</b>=iu.android...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=iu.android&rdid=iu.android&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJVSZHdPfzMCRI46t5A4SR_QmhdQywKdtUKZAULWHOLQXEFCDYN4Jqkdg&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/NJ_z6yl4vcqcQya4agrOtCeZvDqWJvBm_WnjuwCkBIaX98XsWC58_pGyleNdxGzd0Q",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "IU Mobile \u2013 Apps bei Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details/IU+Mobile?id=iu.android&hl=de",
+      "appstore:developer_url": "https://one.iu.edu/",
+      "og:title": "IU Mobile \u2013 Apps bei Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/NJ_z6yl4vcqcQya4agrOtCeZvDqWJvBm_WnjuwCkBIaX98XsWC58_pGyleNdxGzd0Q=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "iu.android",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "iu.android",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "IU Mobile ist ein digitales Gateway zur Indiana University.",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details/IU+Mobile?id=iu.android&hl=de"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/NJ_z6yl4vcqcQya4agrOtCeZvDqWJvBm_WnjuwCkBIaX98XsWC58_pGyleNdxGzd0Q"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "IU Mobile - Aplikasi di Google Play",
+   "htmlTitle": "IU Mobile - Aplikasi di Google Play",
+   "link": "https://play.google.com/store/apps/details/IU+Mobile?id=iu.android&hl=id",
+   "displayLink": "play.google.com",
+   "snippet": "IU Mobile adalah gerbang digital untuk mahasiswa Universitas Indiana. Ini mengumpulkan informasi dan layanan dari berbagai sistem untuk membantu siswa saat\u00a0...",
+   "htmlSnippet": "IU Mobile adalah gerbang digital untuk mahasiswa Universitas <b>Indiana</b>. Ini mengumpulkan informasi dan layanan dari berbagai sistem untuk membantu siswa saat&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details/IU+Mobile?id=iu.android...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details/IU+<b>Mobile?id</b>=iu.android...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=iu.android&rdid=iu.android&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJVSZHdPfzMCRI46t5A4SR_QmhdQywKdtUKZAULWHOLQXEFCDYN4Jqkdg&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/NJ_z6yl4vcqcQya4agrOtCeZvDqWJvBm_WnjuwCkBIaX98XsWC58_pGyleNdxGzd0Q",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "IU Mobile - Aplikasi di Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details/IU+Mobile?id=iu.android&hl=id",
+      "appstore:developer_url": "https://one.iu.edu/",
+      "og:title": "IU Mobile - Aplikasi di Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/NJ_z6yl4vcqcQya4agrOtCeZvDqWJvBm_WnjuwCkBIaX98XsWC58_pGyleNdxGzd0Q=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "iu.android",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "iu.android",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "IU Mobile adalah pintu gerbang digital ke Universitas Indiana.",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details/IU+Mobile?id=iu.android&hl=id"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/NJ_z6yl4vcqcQya4agrOtCeZvDqWJvBm_WnjuwCkBIaX98XsWC58_pGyleNdxGzd0Q"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "\u041f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u0432 Google Play \u2013 IU Mobile",
+   "htmlTitle": "\u041f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u0432 Google Play \u2013 IU Mobile",
+   "link": "https://play.google.com/store/apps/details/IU+Mobile?id=iu.android&hl=ru",
+   "displayLink": "play.google.com",
+   "snippet": "6 days ago ... IU Mobile \u00b7 \u041e\u043f\u0438\u0441\u0430\u043d\u0438\u0435 \u00b7 \u0411\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c \u0434\u0430\u043d\u043d\u044b\u0445 \u00b7 \u041e\u0446\u0435\u043d\u043a\u0438 \u0438 \u043e\u0442\u0437\u044b\u0432\u044b \u00b7 \u041d\u043e\u0432\u043e\u0435 \u0432 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0438 \u00b7 \u041f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u00b7 Indiana University: \u0434\u0440\u0443\u0433\u0438\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f.",
+   "htmlSnippet": "6 days ago <b>...</b> IU Mobile &middot; \u041e\u043f\u0438\u0441\u0430\u043d\u0438\u0435 &middot; \u0411\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c \u0434\u0430\u043d\u043d\u044b\u0445 &middot; \u041e\u0446\u0435\u043d\u043a\u0438 \u0438 \u043e\u0442\u0437\u044b\u0432\u044b &middot; \u041d\u043e\u0432\u043e\u0435 \u0432 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0438 &middot; \u041f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f &middot; <b>Indiana</b> University: \u0434\u0440\u0443\u0433\u0438\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f.",
+   "formattedUrl": "https://play.google.com/store/apps/details/IU+Mobile?id=iu.android...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details/IU+<b>Mobile?id</b>=iu.android...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=iu.android&rdid=iu.android&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJVSZHdPfzMCRI46t5A4SR_QmhdQywKdtUKZAULWHOLQXEFCDYN4Jqkdg&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/NJ_z6yl4vcqcQya4agrOtCeZvDqWJvBm_WnjuwCkBIaX98XsWC58_pGyleNdxGzd0Q",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "\u041f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u0432 Google Play \u2013 IU Mobile",
+      "twitter:url": "https://play.google.com/store/apps/details/IU+Mobile?id=iu.android&hl=ru",
+      "appstore:developer_url": "https://one.iu.edu/",
+      "og:title": "\u041f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u0432 Google Play \u2013 IU Mobile",
+      "twitter:image": "https://play-lh.googleusercontent.com/NJ_z6yl4vcqcQya4agrOtCeZvDqWJvBm_WnjuwCkBIaX98XsWC58_pGyleNdxGzd0Q=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "iu.android",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "iu.android",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "IU Mobile - \u044d\u0442\u043e \u0446\u0438\u0444\u0440\u043e\u0432\u043e\u0439 \u043f\u043e\u0440\u0442\u0430\u043b \u0432 \u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0418\u043d\u0434\u0438\u0430\u043d\u044b.",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details/IU+Mobile?id=iu.android&hl=ru"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/NJ_z6yl4vcqcQya4agrOtCeZvDqWJvBm_WnjuwCkBIaX98XsWC58_pGyleNdxGzd0Q"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "IU Mobile - \u1ee8ng d\u1ee5ng tr\u00ean Google Play",
+   "htmlTitle": "IU Mobile - \u1ee8ng d\u1ee5ng tr\u00ean Google Play",
+   "link": "https://play.google.com/store/apps/details/IU+Mobile?id=iu.android&hl=vi",
+   "displayLink": "play.google.com",
+   "snippet": "IU Mobile l\u00e0 m\u1ed9t c\u1ed5ng k\u1ef9 thu\u1eadt s\u1ed1 cho sinh vi\u00ean \u0110\u1ea1i h\u1ecdc Indiana. N\u00f3 k\u1ebft h\u1ee3p th\u00f4ng tin v\u00e0 d\u1ecbch v\u1ee5 t\u1eeb nhi\u1ec1u h\u1ec7 th\u1ed1ng \u0111\u1ec3 gi\u00fap sinh vi\u00ean hi\u1ec7n t\u1ea1i \u0111i\u1ec1u h\u01b0\u1edbng\u00a0...",
+   "htmlSnippet": "IU Mobile l\u00e0 m\u1ed9t c\u1ed5ng k\u1ef9 thu\u1eadt s\u1ed1 cho sinh vi\u00ean \u0110\u1ea1i h\u1ecdc <b>Indiana</b>. N\u00f3 k\u1ebft h\u1ee3p th\u00f4ng tin v\u00e0 d\u1ecbch v\u1ee5 t\u1eeb nhi\u1ec1u h\u1ec7 th\u1ed1ng \u0111\u1ec3 gi\u00fap sinh vi\u00ean hi\u1ec7n t\u1ea1i \u0111i\u1ec1u h\u01b0\u1edbng&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details/IU+Mobile?id=iu.android...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details/IU+<b>Mobile?id</b>=iu.android...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=iu.android&rdid=iu.android&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJVSZHdPfzMCRI46t5A4SR_QmhdQywKdtUKZAULWHOLQXEFCDYN4Jqkdg&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/NJ_z6yl4vcqcQya4agrOtCeZvDqWJvBm_WnjuwCkBIaX98XsWC58_pGyleNdxGzd0Q",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "IU Mobile - \u1ee8ng d\u1ee5ng tr\u00ean Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details/IU+Mobile?id=iu.android&hl=vi",
+      "appstore:developer_url": "https://one.iu.edu/",
+      "og:title": "IU Mobile - \u1ee8ng d\u1ee5ng tr\u00ean Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/NJ_z6yl4vcqcQya4agrOtCeZvDqWJvBm_WnjuwCkBIaX98XsWC58_pGyleNdxGzd0Q=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "iu.android",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "iu.android",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "IU Mobile l\u00e0 m\u1ed9t c\u1ed5ng k\u1ef9 thu\u1eadt s\u1ed1 \u0111\u1ebfn \u0110\u1ea1i h\u1ecdc Indiana.",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details/IU+Mobile?id=iu.android&hl=vi"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/NJ_z6yl4vcqcQya4agrOtCeZvDqWJvBm_WnjuwCkBIaX98XsWC58_pGyleNdxGzd0Q"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "IU Mobile - Aplicacions a Google Play",
+   "htmlTitle": "IU Mobile - Aplicacions a Google Play",
+   "link": "https://play.google.com/store/apps/details/IU+Mobile?id=iu.android&hl=ca",
+   "displayLink": "play.google.com",
+   "snippet": "IU Mobile \u00e9s una porta d'entrada digital per a estudiants de la Universitat de Indiana. Agrupa informaci\u00f3 i serveis de diversos sistemes per ajudar els\u00a0...",
+   "htmlSnippet": "IU Mobile \u00e9s una porta d&#39;entrada digital per a estudiants de la Universitat de <b>Indiana</b>. Agrupa informaci\u00f3 i serveis de diversos sistemes per ajudar els&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details/IU+Mobile?id=iu.android...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details/IU+<b>Mobile?id</b>=iu.android...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=iu.android&rdid=iu.android&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJVSZHdPfzMCRI46t5A4SR_QmhdQywKdtUKZAULWHOLQXEFCDYN4Jqkdg&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/NJ_z6yl4vcqcQya4agrOtCeZvDqWJvBm_WnjuwCkBIaX98XsWC58_pGyleNdxGzd0Q",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "IU Mobile - Aplicacions a Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details/IU+Mobile?id=iu.android&hl=ca",
+      "appstore:developer_url": "https://one.iu.edu/",
+      "og:title": "IU Mobile - Aplicacions a Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/NJ_z6yl4vcqcQya4agrOtCeZvDqWJvBm_WnjuwCkBIaX98XsWC58_pGyleNdxGzd0Q=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "iu.android",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "iu.android",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "IU Mobile \u00e9s una porta d\u2019entrada digital a la Universitat d\u2019Indiana.",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details/IU+Mobile?id=iu.android&hl=ca"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/NJ_z6yl4vcqcQya4agrOtCeZvDqWJvBm_WnjuwCkBIaX98XsWC58_pGyleNdxGzd0Q"
+     }
+    ]
+   }
+  }
+ ]
+}

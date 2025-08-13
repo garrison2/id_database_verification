@@ -1,0 +1,366 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Wyoming Statutes\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "116",
+    "searchTerms": "\"Wyoming Statutes\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Wyoming Statutes\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "116",
+    "searchTerms": "\"Wyoming Statutes\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.223517,
+  "formattedSearchTime": "0.22",
+  "totalResults": "116",
+  "formattedTotalResults": "116"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "1-1 Wyoming Department of Transportation Driver's Licenses ...",
+   "htmlTitle": "1-1 Wyoming Department of Transportation Driver&#39;s Licenses ...",
+   "link": "https://wyoleg.gov/ARULES/2009/AR09-008dot.pdf",
+   "displayLink": "wyoleg.gov",
+   "snippet": "information on a person's application for a driver's license or identification card ... (xiv)(xv) \u201cPersonal information\u201d means information that identifies a\u00a0...",
+   "htmlSnippet": "information on a person&#39;s application for a <b>driver&#39;s license</b> or <b>identification card</b> ... (xiv)(xv) \u201c<b>Personal information</b>\u201d <b>means</b> information that identifies a&nbsp;...",
+   "formattedUrl": "https://wyoleg.gov/ARULES/2009/AR09-008dot.pdf",
+   "htmlFormattedUrl": "https://wyoleg.gov/ARULES/2009/AR09-008dot.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20090126125026-07'00'",
+      "creationdate": "D:20090120101348Z",
+      "creator": "Print Server 110",
+      "producer": "Corel PDF Engine Version 11.300"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1-1 CHAPTER 1 REGULATION GOVERNING ACCESS TO ...",
+   "htmlTitle": "1-1 CHAPTER 1 REGULATION GOVERNING ACCESS TO ...",
+   "link": "https://wgfd.wyo.gov/sites/default/files/content/Final%20Regs/December_REGULATIONS_CH1.pdf",
+   "displayLink": "wgfd.wyo.gov",
+   "snippet": "(b). \u201cPersonally Identifiable Information\u201d means a person's name, address, electronic mail address, date of birth, telephone number, driver's license number\u00a0...",
+   "htmlSnippet": "(b). \u201c<b>Personally Identifiable Information</b>\u201d <b>means</b> a person&#39;s name, address, electronic mail address, date of birth, telephone number, <b>driver&#39;s license</b> number&nbsp;...",
+   "formattedUrl": "https://wgfd.wyo.gov/sites/default/.../December_REGULATIONS_CH1.pdf",
+   "htmlFormattedUrl": "https://wgfd.wyo.gov/sites/default/.../December_REGULATIONS_CH1.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20201215065915-07'00'",
+      "creator": "Microsoft\u00ae Word 2016",
+      "creationdate": "D:20201215065915-07'00'",
+      "author": "Terri Weinhandl",
+      "producer": "Microsoft\u00ae Word 2016"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "WYOMING DEPARTMENT OF TRANSPORTATION STATEMENT OF ...",
+   "htmlTitle": "WYOMING DEPARTMENT OF TRANSPORTATION STATEMENT OF ...",
+   "link": "https://wyoleg.gov/ARules/2012%20Emergency%20Rules%20-%20PDF/ERR12-012.pdf",
+   "displayLink": "wyoleg.gov",
+   "snippet": "(xvii) \u201cPersonal information\u201d means information that identifies a person, ... liability policy as required and defined by Wyoming statutes. Section 17\u00a0...",
+   "htmlSnippet": "(xvii) \u201c<b>Personal information</b>\u201d <b>means</b> information that identifies a person, ... liability policy as required and <b>defined</b> by <b>Wyoming statutes</b>. Section 17&nbsp;...",
+   "formattedUrl": "https://wyoleg.gov/ARules/...%20PDF/ERR12-012.pdf",
+   "htmlFormattedUrl": "https://wyoleg.gov/ARules/...%20PDF/ERR12-012.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNY2jG4SS1VAnFZKh0_QgNhrITEYcUc276Jxwe3Kpo2iko_PvWDJpjydDU&s",
+      "width": "197",
+      "height": "255"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20120608124317-06'00'",
+      "creationdate": "D:20120608103745-06'00'"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///9c2a73825796a0df98b0ceb3c003863e6d80bfd70d8545b9006455cee9d6a22d"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wyoming Statutes Title 22. Elections \u00a7 22-1-102 | FindLaw",
+   "htmlTitle": "<b>Wyoming Statutes</b> Title 22. Elections \u00a7 22-1-102 | FindLaw",
+   "link": "https://codes.findlaw.com/wy/title-22-elections/wy-st-sect-22-1-102/",
+   "displayLink": "codes.findlaw.com",
+   "snippet": "(xv) \u201cEnvelope\u201d means any type of container used to contain or hold election documents; ... (VI) A driver's license or identification card issued by any state or\u00a0...",
+   "htmlSnippet": "(xv) \u201cEnvelope\u201d <b>means</b> any type of container used to contain or hold election documents; ... (VI) A <b>driver&#39;s license</b> or <b>identification card</b> issued by any state or&nbsp;...",
+   "formattedUrl": "https://codes.findlaw.com/wy/title-22-elections/wy-st-sect-22-1-102/",
+   "htmlFormattedUrl": "https://codes.findlaw.com/wy/title-22-elections/wy-st-sect-22-1-102/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuWtKEZ0kzYj6NSuZlgNrAF5XcYIi9XgsiqHcAgQHtxY18xcWZ1bDMaCM&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png",
+      "og:type": "article",
+      "og:site_name": "Findlaw",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Wyoming Statutes Title 22. Elections \u00a7 22-1-102 | FindLaw",
+      "og:url": "https://codes.findlaw.com/wy/title-22-elections/wy-st-sect-22-1-102/",
+      "og:description": "Wyoming Title 22. Elections   Section 22-1-102. Read the code on FindLaw"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Title 31 Motor Vehicles",
+   "htmlTitle": "Title 31 Motor Vehicles",
+   "link": "https://wyoleg.gov/statutes/compress/title31.pdf",
+   "displayLink": "wyoleg.gov",
+   "snippet": "The term includes the following vehicles as hereafter defined: Page 3. (A) \"Antique\" means any motor vehicle which is at least twenty-five (25) years old and\u00a0...",
+   "htmlSnippet": "The term includes the following vehicles as hereafter <b>defined</b>: Page 3. (A) &quot;Antique&quot; <b>means</b> any motor vehicle which is at least twenty-five (25) years old and&nbsp;...",
+   "formattedUrl": "https://wyoleg.gov/statutes/compress/title31.pdf",
+   "htmlFormattedUrl": "https://wyoleg.gov/statutes/compress/title31.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20250418092727-06'00'",
+      "creator": "Acrobat PDFMaker 25 for Word",
+      "author": "Sameer Bhandari",
+      "msip_label_7a6f78ad_3edc_47bd_93f0_0540a4407c4a_setdate": "2025-04-09T21:37:16Z",
+      "msip_label_7a6f78ad_3edc_47bd_93f0_0540a4407c4a_name": "Joes Test label - name",
+      "title": "Title - 31.docx",
+      "contenttypeid": "0x010100F706CFD94CC4864F82AED1F63930354D",
+      "msip_label_7a6f78ad_3edc_47bd_93f0_0540a4407c4a_method": "Standard",
+      "moddate": "D:20250418092811-06'00'",
+      "msip_label_7a6f78ad_3edc_47bd_93f0_0540a4407c4a_enabled": "true",
+      "msip_label_7a6f78ad_3edc_47bd_93f0_0540a4407c4a_tag": "10, 3, 0, 1",
+      "msip_label_7a6f78ad_3edc_47bd_93f0_0540a4407c4a_actionid": "a2c1251e-c0aa-4f3a-9570-746be17989df",
+      "msip_label_7a6f78ad_3edc_47bd_93f0_0540a4407c4a_contentbits": "0",
+      "producer": "Adobe PDF Library 25.1.211",
+      "reportparameter": "Title 1",
+      "msip_label_7a6f78ad_3edc_47bd_93f0_0540a4407c4a_siteid": "0b34dedc-d491-40ac-bb13-8682decac482",
+      "order": "6776000.000000",
+      "wylsoreportname": "Titles"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Committee Bills",
+   "htmlTitle": "Committee Bills",
+   "link": "https://www.wyoleg.gov/Legislation/committeeBills/2021",
+   "displayLink": "www.wyoleg.gov",
+   "snippet": "This bill would implement the reorganization plan by amending, recreating, and renumbering Wyoming Statutes. ... This bill requires driver's license and\u00a0...",
+   "htmlSnippet": "This bill would implement the reorganization plan by amending, recreating, and renumbering <b>Wyoming Statutes</b>. ... This bill requires <b>driver&#39;s license</b> and&nbsp;...",
+   "formattedUrl": "https://www.wyoleg.gov/Legislation/committeeBills/2021",
+   "htmlFormattedUrl": "https://www.wyoleg.gov/Legislation/committeeBills/2021",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7SQ9MdHZ7Sx3hL2sFNrgWZR15uDy_kRX-ri6Eo76-VONyAcAavWzQh_c&s",
+      "width": "140",
+      "height": "130"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://wyoleg.gov/images/LegislativeLogo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Title 23 Game and Fish",
+   "htmlTitle": "Title 23 Game and Fish",
+   "link": "https://wyoleg.gov/statutes/compress/title23.pdf",
+   "displayLink": "wyoleg.gov",
+   "snippet": "(x) \"Protected bird\" means migratory birds as defined and protected ... (i) A Wyoming driver's license, identification card issued under title 31 of\u00a0...",
+   "htmlSnippet": "(x) &quot;Protected bird&quot; <b>means</b> migratory birds as <b>defined</b> and protected ... (i) A Wyoming <b>driver&#39;s license</b>, <b>identification card</b> issued under title 31 of&nbsp;...",
+   "formattedUrl": "https://wyoleg.gov/statutes/compress/title23.pdf",
+   "htmlFormattedUrl": "https://wyoleg.gov/statutes/compress/title23.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20250418091931-06'00'",
+      "creator": "Acrobat PDFMaker 25 for Word",
+      "author": "Sameer Bhandari",
+      "msip_label_7a6f78ad_3edc_47bd_93f0_0540a4407c4a_setdate": "2025-04-09T21:15:24Z",
+      "msip_label_7a6f78ad_3edc_47bd_93f0_0540a4407c4a_name": "Joes Test label - name",
+      "title": "Title - 23.docx",
+      "contenttypeid": "0x010100F706CFD94CC4864F82AED1F63930354D",
+      "msip_label_7a6f78ad_3edc_47bd_93f0_0540a4407c4a_method": "Standard",
+      "moddate": "D:20250418091940-06'00'",
+      "msip_label_7a6f78ad_3edc_47bd_93f0_0540a4407c4a_enabled": "true",
+      "msip_label_7a6f78ad_3edc_47bd_93f0_0540a4407c4a_tag": "10, 3, 0, 1",
+      "msip_label_7a6f78ad_3edc_47bd_93f0_0540a4407c4a_actionid": "81fcba03-6242-47cb-9e45-158b49363640",
+      "msip_label_7a6f78ad_3edc_47bd_93f0_0540a4407c4a_contentbits": "0",
+      "producer": "Adobe PDF Library 25.1.211",
+      "reportparameter": "Title 1",
+      "msip_label_7a6f78ad_3edc_47bd_93f0_0540a4407c4a_siteid": "0b34dedc-d491-40ac-bb13-8682decac482",
+      "order": "6777100.000000",
+      "wylsoreportname": "Titles"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wyoming Statutes \u00a7 31-7-119 (2024) - Expiration and Renewal ...",
+   "htmlTitle": "<b>Wyoming Statutes</b> \u00a7 31-7-119 (2024) - Expiration and Renewal ...",
+   "link": "https://law.justia.com/codes/wyoming/title-31/chapter-7/article-1/section-31-7-119/",
+   "displayLink": "law.justia.com",
+   "snippet": "Every driver's license shall expire on the licensee's birthday in the fifth year following the issuance of the license.",
+   "htmlSnippet": "Every <b>driver&#39;s license</b> shall expire on the licensee&#39;s birthday in the fifth year following the issuance of the license.",
+   "formattedUrl": "https://law.justia.com/codes/wyoming/title-31/chapter.../section-31-7-119/",
+   "htmlFormattedUrl": "https://law.justia.com/codes/wyoming/title-31/chapter.../section-31-7-119/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPP2ksOfM4IyWL7PTxPyS5N80Or-jyXZZLgeH1kYuOtXk5YU597YCxGszS&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "og:site_name": "Justia Law",
+      "og:title": "2024 Wyoming Statutes :: Title 31 - Motor Vehicles :: Chapter 7 - Driver's Licenses :: Article 1 - In General :: Section 31-7-119 - Expiration and Renewal; Required Tests; Extension.",
+      "og:app_id": "119529808075661",
+      "trigger-ga": "1",
+      "og:description": "Justia Free Databases of U.S. Laws, Codes & Statutes",
+      "og:admins": "656268335,686786921,25900864",
+      "referrer": "unsafe-url",
+      "twitter:site": "@JustiaCom",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "page-type": "Law: Codes Document Page (Current Year)",
+      "is-li": "0",
+      "og:url": "https://law.justia.com/codes/wyoming/title-31/chapter-7/article-1/section-31-7-119/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Title 14 Children",
+   "htmlTitle": "Title 14 Children",
+   "link": "https://wyoleg.gov/statutes/compress/title14.pdf",
+   "displayLink": "wyoleg.gov",
+   "snippet": "(i) \"Abuse\" means as defined by W.S. 14-3-202(a)(ii);. (ii) \"Authorized ... (A) A Wyoming driver's license as defined by. W.S. 31-7-102(a)(xxv);. (B) A\u00a0...",
+   "htmlSnippet": "(i) &quot;Abuse&quot; <b>means</b> as <b>defined</b> by W.S. 14-3-202(a)(ii);. (ii) &quot;Authorized ... (A) A Wyoming <b>driver&#39;s license</b> as <b>defined</b> by. W.S. 31-7-102(a)(xxv);. (B) A&nbsp;...",
+   "formattedUrl": "https://wyoleg.gov/statutes/compress/title14.pdf",
+   "htmlFormattedUrl": "https://wyoleg.gov/statutes/compress/title14.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20250418091015-06'00'",
+      "creator": "Acrobat PDFMaker 25 for Word",
+      "author": "Sameer Bhandari",
+      "msip_label_7a6f78ad_3edc_47bd_93f0_0540a4407c4a_setdate": "2025-04-09T20:19:25Z",
+      "msip_label_7a6f78ad_3edc_47bd_93f0_0540a4407c4a_name": "Joes Test label - name",
+      "title": "Title - 14.docx",
+      "contenttypeid": "0x010100F706CFD94CC4864F82AED1F63930354D",
+      "msip_label_7a6f78ad_3edc_47bd_93f0_0540a4407c4a_method": "Standard",
+      "moddate": "D:20250418091040-06'00'",
+      "msip_label_7a6f78ad_3edc_47bd_93f0_0540a4407c4a_enabled": "true",
+      "msip_label_7a6f78ad_3edc_47bd_93f0_0540a4407c4a_tag": "10, 3, 0, 1",
+      "msip_label_7a6f78ad_3edc_47bd_93f0_0540a4407c4a_actionid": "7818e259-2c48-4489-902d-81d1371a3b5b",
+      "msip_label_7a6f78ad_3edc_47bd_93f0_0540a4407c4a_contentbits": "0",
+      "producer": "Adobe PDF Library 25.1.211",
+      "reportparameter": "Title 1",
+      "msip_label_7a6f78ad_3edc_47bd_93f0_0540a4407c4a_siteid": "0b34dedc-d491-40ac-bb13-8682decac482",
+      "order": "6777900.000000",
+      "wylsoreportname": "Titles"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Untitled",
+   "htmlTitle": "Untitled",
+   "link": "https://wgfapps.wyo.gov/elsapplication/docs/Help.htm",
+   "displayLink": "wgfapps.wyo.gov",
+   "snippet": "This donation is in addition to other license fees. Voluntary Wildlife Damage Donation. Wyoming statutes provide for a voluntary donation\u00a0...",
+   "htmlSnippet": "This donation is in addition to other license fees. Voluntary Wildlife Damage Donation. <b>Wyoming statutes</b> provide for a voluntary donation&nbsp;...",
+   "formattedUrl": "https://wgfapps.wyo.gov/elsapplication/docs/Help.htm",
+   "htmlFormattedUrl": "https://wgfapps.wyo.gov/elsapplication/docs/Help.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "originator": "Microsoft Word 15",
+      "progid": "Word.Document"
+     }
+    ]
+   }
+  }
+ ]
+}

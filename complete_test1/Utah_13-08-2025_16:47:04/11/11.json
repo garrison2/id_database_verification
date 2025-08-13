@@ -1,0 +1,324 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Utah Code\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "3420",
+    "searchTerms": "\"Utah Code\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Utah Code\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "3420",
+    "searchTerms": "\"Utah Code\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.173903,
+  "formattedSearchTime": "0.17",
+  "totalResults": "3420",
+  "formattedTotalResults": "3,420"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Chapter 44 Protection of Personal Information Act Part 1 General ...",
+   "htmlTitle": "Chapter 44 Protection of <b>Personal Information</b> Act Part 1 General ...",
+   "link": "https://le.utah.gov/xcode/Title13/Chapter44/C13-44_1800010118000101.pdf",
+   "displayLink": "le.utah.gov",
+   "snippet": "(3) \"Financial institution\" means the same as that term is defined in 15 U.S.C. Sec. ... (iii) driver license number or state identification card number.",
+   "htmlSnippet": "(3) &quot;Financial institution&quot; <b>means</b> the same as that term is <b>defined</b> in 15 U.S.C. Sec. ... (iii) driver license number or state <b>identification card</b> number.",
+   "formattedUrl": "https://le.utah.gov/xcode/Title13/.../C13-44_1800010118000101.pdf",
+   "htmlFormattedUrl": "https://le.utah.gov/xcode/Title13/.../C13-44_1800010118000101.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "Apache FOP Version 2.1",
+      "creationdate": "D:20250507031225-06'00'",
+      "producer": "Apache FOP Version 2.1"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "UTAH DRIVER HANDBOOK 2024-2025",
+   "htmlTitle": "UTAH DRIVER HANDBOOK 2024-2025",
+   "link": "https://dld.utah.gov/wp-content/uploads/Driver-Handbook-2024-Compressed.pdf",
+   "displayLink": "dld.utah.gov",
+   "snippet": "Limited-Term Identification Card\u2014an identification card issued to a person who provided proof ... This means you cannot do certain things. Here are a few\u00a0...",
+   "htmlSnippet": "Limited-Term <b>Identification Card</b>\u2014an <b>identification card</b> issued to a person who provided proof ... This <b>means</b> you cannot do certain things. Here are a few&nbsp;...",
+   "formattedUrl": "https://dld.utah.gov/wp-content/.../Driver-Handbook-2024-Compressed.pdf",
+   "htmlFormattedUrl": "https://dld.utah.gov/wp-content/.../Driver-Handbook-2024-Compressed.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL3CI99_tKjM-rvh79-lbPTtsnrqY0n-ae9FBNwZCymMy4zwVL0UG-UME&s",
+      "width": "194",
+      "height": "184"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///2e2518273781d16b3fb84177af2f29a56795a5679c770af9ad65d362347908f4"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Utah Code 13-44-102(4)(a)",
+   "htmlTitle": "<b>Utah Code</b> 13-44-102(4)(a)",
+   "link": "https://le.utah.gov/xcode/Title13/Chapter44/13-44-S102.html",
+   "displayLink": "le.utah.gov",
+   "snippet": "\"Consumer\" means a natural person. (3), \"Financial institution\" means the same as that term is defined in 15 U.S.C. Sec. 6809. (4). (a), \"Personal information\"\u00a0...",
+   "htmlSnippet": "&quot;Consumer&quot; <b>means</b> a natural person. (3), &quot;Financial institution&quot; <b>means</b> the same as that term is <b>defined</b> in 15 U.S.C. Sec. 6809. (4). (a), &quot;<b>Personal information</b>&quot;&nbsp;...",
+   "formattedUrl": "https://le.utah.gov/xcode/Title13/Chapter44/13-44-S102.html",
+   "htmlFormattedUrl": "https://le.utah.gov/xcode/Title13/Chapter44/13-44-S102.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Utah Driver License",
+   "htmlTitle": "Utah Driver License",
+   "link": "https://ucjis-tac.utah.gov/wp-content/uploads/sites/38/2020/04/Utah-DL-Manual-04172020.pdf",
+   "displayLink": "ucjis-tac.utah.gov",
+   "snippet": "... identification card. The Driver License Division controls ... (3) \"personal information\" means information that identifies an individual, including an.",
+   "htmlSnippet": "... <b>identification card</b>. The Driver License Division controls ... (3) &quot;<b>personal information</b>&quot; <b>means</b> information that identifies an individual, including an.",
+   "formattedUrl": "https://ucjis-tac.utah.gov/wp-content/.../Utah-DL-Manual-04172020.pdf",
+   "htmlFormattedUrl": "https://ucjis-tac.utah.gov/wp-content/.../Utah-DL-Manual-04172020.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAY2EJB8NvXKWovGdNmSce4-9YvdZK3ZcA9oO1X1kye9YxwaFEU1ZKzcQ&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20200417125228-06'00'",
+      "creationdate": "D:20200413143532-06'00'",
+      "creator": "Acrobat PDFMaker 15 for Word",
+      "sourcemodified": "D:20200413203507",
+      "author": "Karen Kener",
+      "producer": "Adobe PDF Library 15.0",
+      "company": "State of Utah"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///6f4fbdd52455b3bd55f3dda0ceea5049a63ad494e2f767957b509339b3bf294b"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Utah Code Section 78B-3-1001",
+   "htmlTitle": "<b>Utah Code</b> Section 78B-3-1001",
+   "link": "https://le.utah.gov/xcode/Title78B/Chapter3/78B-3-S1001.html",
+   "displayLink": "le.utah.gov",
+   "snippet": "\"Digitized identification card\" means a data file available on any mobile ... personal information entered by the individual who is seeking access to\u00a0...",
+   "htmlSnippet": "&quot;Digitized <b>identification card</b>&quot; <b>means</b> a data file available on any mobile ... <b>personal information</b> entered by the individual who is seeking access to&nbsp;...",
+   "formattedUrl": "https://le.utah.gov/xcode/Title78B/Chapter3/78B-3-S1001.html",
+   "htmlFormattedUrl": "https://le.utah.gov/xcode/Title78B/Chapter3/78B-3-S1001.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Privacy Policy | Hurricane City, UT",
+   "htmlTitle": "Privacy Policy | Hurricane City, UT",
+   "link": "https://www.cityofhurricane.com/privacy",
+   "displayLink": "www.cityofhurricane.com",
+   "snippet": "May 1, 2024 ... For the purpose of this policy \u201cpersonally identifiable information\u201d means ... Driver's license information; Employer information; Emergency\u00a0...",
+   "htmlSnippet": "May 1, 2024 <b>...</b> For the purpose of this policy \u201c<b>personally identifiable information</b>\u201d <b>means</b> ... <b>Driver&#39;s license</b> information; Employer information; Emergency&nbsp;...",
+   "formattedUrl": "https://www.cityofhurricane.com/privacy",
+   "htmlFormattedUrl": "https://www.cityofhurricane.com/privacy",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsmz_zQwquzaKlcEBCEQ1QWr3Yzd8QBwYmcdVb0qpxt9EJnMYwSTjoKA&s",
+      "width": "398",
+      "height": "126"
+     }
+    ],
+    "metatags": [
+     {
+      "theme-color": "#263e42",
+      "viewport": "width=device-width, initial-scale=1",
+      "category0": "Feature Links",
+      "category1": "Privacy Policy"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.cityofhurricane.com/ImageRepository/Document?documentID=62"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Utah Code Section 13-45-102",
+   "htmlTitle": "<b>Utah Code</b> Section 13-45-102",
+   "link": "https://le.utah.gov/xcode/Title13/Chapter45/13-45-S102.html?v=C13-45-S102_2015051220160101",
+   "displayLink": "le.utah.gov",
+   "snippet": "... personal information other than publicly available information. (9). (a), \"Proper identification\" means the same as that term is defined in 15 U.S.C. Sec.",
+   "htmlSnippet": "... <b>personal information</b> other than publicly available information. (9). (a), &quot;Proper identification&quot; <b>means</b> the same as that term is <b>defined</b> in 15 U.S.C. Sec.",
+   "formattedUrl": "https://le.utah.gov/xcode/Title13/Chapter45/13-45-S102.html?v=C13...",
+   "htmlFormattedUrl": "https://le.utah.gov/xcode/Title13/Chapter45/13-45-S102.html?v=C13...",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Privacy Policy | Grand County, UT - Official Website",
+   "htmlTitle": "Privacy Policy | Grand County, UT - Official Website",
+   "link": "https://www.grandcountyutah.net/124/Privacy-Policy",
+   "displayLink": "www.grandcountyutah.net",
+   "snippet": "Personal information shall be defined consistent with Utah Code Ann. Section ... driver's license information, as determined necessary by our Grand County.",
+   "htmlSnippet": "<b>Personal information</b> shall be <b>defined</b> consistent with <b>Utah Code</b> Ann. Section ... <b>driver&#39;s license</b> information, as determined necessary by our Grand County.",
+   "formattedUrl": "https://www.grandcountyutah.net/124/Privacy-Policy",
+   "htmlFormattedUrl": "https://www.grandcountyutah.net/124/Privacy-Policy",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWNaB-J4D9uiROS12ANoXoDusBZhZIOUDSIzm3tbDGQM31_VXoxpGV7kEy&s",
+      "width": "209",
+      "height": "133"
+     }
+    ],
+    "metatags": [
+     {
+      "category2": "Privacy Policy",
+      "theme-color": "#4f7144",
+      "viewport": "width=device-width, initial-scale=1",
+      "category0": "CustomLinks_1",
+      "category1": "Feature Links"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.grandcountyutah.net/ImageRepository/Document?documentID=15532"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Report a Breach",
+   "htmlTitle": "Report a Breach",
+   "link": "https://cybercenter.utah.gov/Report-a-Breach",
+   "displayLink": "cybercenter.utah.gov",
+   "snippet": "The Protection of Personal Information Act, found at Utah Code 13-44-101, et ... Means by which access was gained to the system, computer, or network. *.",
+   "htmlSnippet": "The Protection of <b>Personal Information</b> Act, found at <b>Utah Code</b> 13-44-101, et ... <b>Means</b> by which access was gained to the system, computer, or network. *.",
+   "formattedUrl": "https://cybercenter.utah.gov/Report-a-Breach",
+   "htmlFormattedUrl": "https://cybercenter.utah.gov/Report-a-Breach",
+   "pagemap": {
+    "metatags": [
+     {
+      "web-speech-cognitive-services": "version=7.1.3",
+      "botframework-webchat:api": "version=4.18.0; build-tool=tsup; module-format=esmodules",
+      "botframework-webchat:bundle:variant": "full",
+      "botframework-webchat:core": "version=4.18.0; build-tool=tsup; module-format=esmodules",
+      "botframework-webchat:component": "version=4.18.0; build-tool=tsup; module-format=esmodules",
+      "botframework-directlinespeech": "version=4.18.0; build_tool=tsup; format=esmodules",
+      "botframework-webchat:core:version": "4.18.0",
+      "botframework-webchat:bundle:version": "4.18.0",
+      "botframework-directlinespeech:version": "4.18.0",
+      "botframework-webchat:ui:version": "4.18.0",
+      "botframework-webchat:bundle": "version=4.18.0; variant=full; build-tool=tsup; module-format=esmodules",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "react-scroll-to-bottom:version": "4.2.0",
+      "react-film": "version=3.1.1-main.df870ea"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Agency Staff Analysis and Recommended Position on Pending ...",
+   "htmlTitle": "Agency Staff Analysis and Recommended Position on Pending ...",
+   "link": "https://cppa.ca.gov/meetings/materials/20230714_item4.pdf",
+   "displayLink": "cppa.ca.gov",
+   "snippet": "Jul 14, 2023 ... information is currently defined as personal information that reveals a consumer's social security, driver's license, state identification\u00a0...",
+   "htmlSnippet": "Jul 14, 2023 <b>...</b> information is currently <b>defined</b> as <b>personal information</b> that reveals a consumer&#39;s social security, <b>driver&#39;s license</b>, state <b>identification</b>&nbsp;...",
+   "formattedUrl": "https://cppa.ca.gov/meetings/materials/20230714_item4.pdf",
+   "htmlFormattedUrl": "https://cppa.ca.gov/meetings/materials/20230714_item4.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqezcuq3EFhqjlf5uBcBq69yZs4PJF-bPnxgJR9fgEFRJLOtixB3FuMenA&s",
+      "width": "157",
+      "height": "150"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20230705083613-07'00'",
+      "creationdate": "D:20230630142011-07'00'",
+      "creator": "Acrobat PDFMaker 23 for Word",
+      "sourcemodified": "D:20230630171226",
+      "author": "California Privacy Protection Agency",
+      "subject": "Agency Staff Analysis and Recommended Position on Pending Legislation",
+      "producer": "Adobe PDF Library 23.1.206",
+      "title": "Agency Staff Analysis and Recommended Position on Pending Legislation"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///167ff4c90ea8ea85bb09d563fd4ba90702976f98f9e99c57ebee205725d950e3"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

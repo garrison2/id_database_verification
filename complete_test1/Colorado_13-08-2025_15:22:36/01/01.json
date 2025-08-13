@@ -1,0 +1,400 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Colorado\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Colorado Revised Statutes\"",
+    "totalResults": "294000",
+    "searchTerms": "\"Colorado\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Colorado Revised Statutes\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Colorado\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Colorado Revised Statutes\"",
+    "totalResults": "294000",
+    "searchTerms": "\"Colorado\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Colorado Revised Statutes\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.240672,
+  "formattedSearchTime": "0.24",
+  "totalResults": "294000",
+  "formattedTotalResults": "294,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Colorado Digital ID - myColorado",
+   "htmlTitle": "Colorado Digital ID - myColorado",
+   "link": "https://mycolorado.gov/colorado-digital-id",
+   "displayLink": "mycolorado.gov",
+   "snippet": "The contactless Colorado Digital ID\u2122 is a secure electronic version of your driver license or state-issued identification (ID) card for proof of identification,\u00a0...",
+   "htmlSnippet": "The contactless <b>Colorado Digital ID</b>\u2122 is a secure electronic version of your driver license or state-issued identification (ID) card for proof of identification,&nbsp;...",
+   "formattedUrl": "https://mycolorado.gov/colorado-digital-id",
+   "htmlFormattedUrl": "https://my<b>colorado</b>.gov/<b>colorado</b>-<b>digital-id</b>",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt-UeMIZToIijv10pLkzEd0qkDm-s-RrS0MlmKkV_EvnHWDDe6PMhKS_E&s",
+      "width": "254",
+      "height": "198"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin",
+      "og:image": "https://lh4.googleusercontent.com/AHIORtwLDpaERbKutS6AWMV7AGlURfC3TUP6wHE61G_kxgOhamzVmKFyz4UeehQEqa8Em4UE098vl3gi6tqdYokPdbfq5S8hwjOoqdrqZaN1HAebMZCEcu_Dg_GwBHVjIiVPLqO2WUA=w16383",
+      "og:type": "website",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "myColorado - Colorado Digital ID\u2122",
+      "og:url": "https://mycolorado.state.co.us/colorado-digital-id",
+      "og:description": "Digital ID Features"
+     }
+    ],
+    "webpage": [
+     {
+      "image": "https://lh4.googleusercontent.com/AHIORtwLDpaERbKutS6AWMV7AGlURfC3TUP6wHE61G_kxgOhamzVmKFyz4UeehQEqa8Em4UE098vl3gi6tqdYokPdbfq5S8hwjOoqdrqZaN1HAebMZCEcu_Dg_GwBHVjIiVPLqO2WUA=w16383",
+      "imageurl": "https://lh4.googleusercontent.com/AHIORtwLDpaERbKutS6AWMV7AGlURfC3TUP6wHE61G_kxgOhamzVmKFyz4UeehQEqa8Em4UE098vl3gi6tqdYokPdbfq5S8hwjOoqdrqZaN1HAebMZCEcu_Dg_GwBHVjIiVPLqO2WUA=w16383",
+      "name": "myColorado - Colorado Digital ID\u2122",
+      "description": "Digital ID Features",
+      "url": "https://mycolorado.state.co.us/colorado-digital-id",
+      "thumbnailurl": "https://lh4.googleusercontent.com/AHIORtwLDpaERbKutS6AWMV7AGlURfC3TUP6wHE61G_kxgOhamzVmKFyz4UeehQEqa8Em4UE098vl3gi6tqdYokPdbfq5S8hwjOoqdrqZaN1HAebMZCEcu_Dg_GwBHVjIiVPLqO2WUA=w16383"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://lh4.googleusercontent.com/AHIORtwLDpaERbKutS6AWMV7AGlURfC3TUP6wHE61G_kxgOhamzVmKFyz4UeehQEqa8Em4UE098vl3gi6tqdYokPdbfq5S8hwjOoqdrqZaN1HAebMZCEcu_Dg_GwBHVjIiVPLqO2WUA=w16383"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "FAQs - myColorado",
+   "htmlTitle": "FAQs - myColorado",
+   "link": "https://mycolorado.state.co.us/faqs",
+   "displayLink": "mycolorado.state.co.us",
+   "snippet": "30, 2019, Governor Jared Polis issued an Executive Order stating that beginning Dec. 1, 2019: Colorado Digital ID may be accepted as a legal form of personal\u00a0...",
+   "htmlSnippet": "30, 2019, Governor Jared Polis issued an Executive <b>Order</b> stating that beginning Dec. 1, 2019: <b>Colorado Digital ID</b> may be accepted as a legal form of personal&nbsp;...",
+   "formattedUrl": "https://mycolorado.state.co.us/faqs",
+   "htmlFormattedUrl": "https://my<b>colorado</b>.state.co.us/faqs",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "strict-origin-when-cross-origin",
+      "og:image": "https://lh3.googleusercontent.com/_Eu2nBGOVu62EPDVCOllrOVfXW_fk_T9ICm_z54Xi28_8-z93eqMdyT5vlV7ly7NmvYfEOAB5KbbiS9bfok58IJqUxsOggTA10C44eCY7NdeSG3TgQLSvRMs5Di8eC-LSLuwsYYm3aI=w16383",
+      "og:type": "website",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "myColorado - FAQs",
+      "og:url": "https://mycolorado.state.co.us/faqs",
+      "og:description": "Frequently Asked Questions"
+     }
+    ],
+    "webpage": [
+     {
+      "image": "https://lh3.googleusercontent.com/_Eu2nBGOVu62EPDVCOllrOVfXW_fk_T9ICm_z54Xi28_8-z93eqMdyT5vlV7ly7NmvYfEOAB5KbbiS9bfok58IJqUxsOggTA10C44eCY7NdeSG3TgQLSvRMs5Di8eC-LSLuwsYYm3aI=w16383",
+      "imageurl": "https://lh3.googleusercontent.com/_Eu2nBGOVu62EPDVCOllrOVfXW_fk_T9ICm_z54Xi28_8-z93eqMdyT5vlV7ly7NmvYfEOAB5KbbiS9bfok58IJqUxsOggTA10C44eCY7NdeSG3TgQLSvRMs5Di8eC-LSLuwsYYm3aI=w16383",
+      "name": "myColorado - FAQs",
+      "description": "Frequently Asked Questions",
+      "url": "https://mycolorado.state.co.us/faqs",
+      "thumbnailurl": "https://lh3.googleusercontent.com/_Eu2nBGOVu62EPDVCOllrOVfXW_fk_T9ICm_z54Xi28_8-z93eqMdyT5vlV7ly7NmvYfEOAB5KbbiS9bfok58IJqUxsOggTA10C44eCY7NdeSG3TgQLSvRMs5Di8eC-LSLuwsYYm3aI=w16383"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://lh3.googleusercontent.com/_Eu2nBGOVu62EPDVCOllrOVfXW_fk_T9ICm_z54Xi28_8-z93eqMdyT5vlV7ly7NmvYfEOAB5KbbiS9bfok58IJqUxsOggTA10C44eCY7NdeSG3TgQLSvRMs5Di8eC-LSLuwsYYm3aI=w16383"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Untitled",
+   "htmlTitle": "Untitled",
+   "link": "https://sbg.colorado.gov/sites/sbg/files/documents/2019-EO-ID_1.pdf",
+   "displayLink": "sbg.colorado.gov",
+   "snippet": "Oct 30, 2019 ... ... Order, and shall work with OIT to pilot Colorado Digital ID for ... Local law enforcement agencies are encouraged to accept Colorado Digital ID by.",
+   "htmlSnippet": "Oct 30, 2019 <b>...</b> ... <b>Order</b>, and shall work with OIT to pilot <b>Colorado Digital ID</b> for ... Local <b>law</b> enforcement agencies are encouraged to accept <b>Colorado Digital ID</b> by.",
+   "formattedUrl": "https://sbg.colorado.gov/sites/sbg/files/documents/2019-EO-ID_1.pdf",
+   "htmlFormattedUrl": "https://sbg.<b>colorado</b>.gov/sites/sbg/files/documents/2019-EO-ID_1.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "Thu Oct 31 03:09:49 2019",
+      "creator": "Xerox WorkCentre 7845",
+      "creationdate": "Wed Oct 30 05:09:09 2019",
+      "producer": "Xerox WorkCentre 7845"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Governor Polis Announces Growing List of Law Enforcement ...",
+   "htmlTitle": "Governor Polis Announces Growing List of <b>Law</b> Enforcement ...",
+   "link": "https://oit.colorado.gov/press-release/governor-polis-announces-growing-list-of-law-enforcement-agencies-accepting-colorado",
+   "displayLink": "oit.colorado.gov",
+   "snippet": "May 21, 2021 ... ... Order to authorize Digital ID as a legal form of identification in Colorado. The Denver Police Department has been accepting the Digital ID\u00a0...",
+   "htmlSnippet": "May 21, 2021 <b>...</b> ... <b>Order</b> to authorize <b>Digital ID</b> as a legal form of identification in <b>Colorado</b>. The Denver Police Department has been accepting the <b>Digital ID</b>&nbsp;...",
+   "formattedUrl": "https://oit.colorado.gov/.../governor-polis-announces-growing-list-of-law-e...",
+   "htmlFormattedUrl": "https://oit.<b>colorado</b>.gov/.../governor-polis-announces-growing-list-of-<b>law</b>-e...",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Colorado ID on iPhone and Apple Watch | Department of Revenue ...",
+   "htmlTitle": "<b>Colorado</b> ID on iPhone and Apple Watch | Department of Revenue ...",
+   "link": "https://dmv.colorado.gov/applewallet",
+   "displayLink": "dmv.colorado.gov",
+   "snippet": "The app's Colorado Digital ID\u2122 feature allows Coloradans to create and store an electronic version of their Colorado driver license or state-issued ID on their\u00a0...",
+   "htmlSnippet": "The app&#39;s <b>Colorado Digital ID</b>\u2122 feature allows Coloradans to create and store an electronic version of their <b>Colorado</b> driver license or state-issued ID on their&nbsp;...",
+   "formattedUrl": "https://dmv.colorado.gov/applewallet",
+   "htmlFormattedUrl": "https://dmv.<b>colorado</b>.gov/applewallet",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZuZXML8_25D5D3Ixur_2waZAeUw8kLL3hE4ZeTCmAjfATMlPEl0v0f4Q&s",
+      "width": "198",
+      "height": "255"
+     }
+    ],
+    "WebPage": [
+     {
+      "name": "Colorado ID on iPhone and Apple Watch"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.colorado.gov/sites/dmv/files/styles/original_size/public/iphoneapplewallet2-screen_0.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Possess Identification While Driving | Colorado General Assembly",
+   "htmlTitle": "Possess Identification While Driving | <b>Colorado</b> General Assembly",
+   "link": "https://leg.colorado.gov/bills/sb24-090",
+   "displayLink": "leg.colorado.gov",
+   "snippet": "The bill requires a person who has in the person's possession a digital driver's license ... Colorado Motor Vehicle Law Resource Book. Staff Publications.",
+   "htmlSnippet": "The <b>bill</b> requires a person who has in the person&#39;s possession a <b>digital driver&#39;s license</b> ... <b>Colorado</b> Motor Vehicle <b>Law</b> Resource Book. Staff Publications.",
+   "formattedUrl": "https://leg.colorado.gov/bills/sb24-090",
+   "htmlFormattedUrl": "https://leg.<b>colorado</b>.gov/<b>bill</b>s/sb24-090",
+   "pagemap": {
+    "Item": [
+     {
+      "title": "Possess Identification While Driving"
+     }
+    ],
+    "metatags": [
+     {
+      "application-name": "Colorado General Assembly",
+      "msapplication-tilecolor": "#FFFFFF",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width",
+      "mobileoptimized": "width",
+      "msapplication-tileimage": "https://leg.colorado.gov/sites/all/themes/themekit/images/favicons/mstile-144x144.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Colorado ID in Google Wallet | Department of Revenue - Motor Vehicle",
+   "htmlTitle": "<b>Colorado</b> ID in Google Wallet | Department of Revenue - Motor Vehicle",
+   "link": "https://dmv.colorado.gov/colorado-id-in-google-wallet",
+   "displayLink": "dmv.colorado.gov",
+   "snippet": "... Colorado-issued driver's license or ID card. \u200b \u200b. 6. Is digital ID in myColorado App the same as adding Colorado ID to Google Wallet? No, the Colorado Digital\u00a0...",
+   "htmlSnippet": "... <b>Colorado</b>-issued driver&#39;s license or ID card. \u200b \u200b. 6. Is <b>digital ID</b> in myColorado App the same as adding <b>Colorado</b> ID to Google Wallet? No, the <b>Colorado Digital</b>&nbsp;...",
+   "formattedUrl": "https://dmv.colorado.gov/colorado-id-in-google-wallet",
+   "htmlFormattedUrl": "https://dmv.<b>colorado</b>.gov/<b>colorado</b>-id-in-google-wallet",
+   "pagemap": {
+    "WebPage": [
+     {
+      "name": "Colorado ID in Google Wallet"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "\"Taking a Second Look at MDL Product Liability Settlements ...",
+   "htmlTitle": "&quot;Taking a Second Look at <b>MDL</b> Product Liability Settlements ...",
+   "link": "https://scholar.law.colorado.edu/faculty-articles/700/",
+   "displayLink": "scholar.law.colorado.edu",
+   "snippet": "... MDL statute for pretrial. The MDL procedure is ill-suited to this use ... 531 (2017), available at https://scholar.law.colorado.edu/faculty-articles/700.",
+   "htmlSnippet": "... <b>MDL</b> statute for pretrial. The <b>MDL</b> procedure is ill-suited to this use ... 531 (2017), available at https://scholar.<b>law</b>.<b>colorado</b>.edu/faculty-articles/700.",
+   "formattedUrl": "https://scholar.law.colorado.edu/faculty-articles/700/",
+   "htmlFormattedUrl": "https://scholar.<b>law</b>.<b>colorado</b>.edu/faculty-articles/700/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgUmTyXXeKMwxhfJC3rjQyAS_QgTXi7_A23XSGo0b8dVjhDbbOQj3SBWs&s",
+      "width": "280",
+      "height": "105"
+     }
+    ],
+    "metatags": [
+     {
+      "bepress_citation_journal_title": "The University of Kansas Law Review",
+      "bepress_citation_author_institution": "University of Colorado Law School",
+      "twitter:title": "Taking a Second Look at MDL Product Liability Settlements: Somebody Needs to Do It",
+      "twitter:card": "summary",
+      "og:type": "article",
+      "og:site_name": "Colorado Law Scholarly Commons",
+      "author": "Christopher B. Mueller",
+      "bepress_citation_pdf_url": "https://scholar.law.colorado.edu/cgi/viewcontent.cgi?article=1734&context=faculty-articles",
+      "og:title": "Taking a Second Look at MDL Product Liability Settlements: Somebody Needs to Do It",
+      "bepress_citation_date": "2017",
+      "bepress_citation_abstract_html_url": "https://scholar.law.colorado.edu/faculty-articles/700",
+      "og:description": "This Article examines the forces that lead to the settlement of product liability cases gathered under the MDL statute for pretrial. The MDL procedure is ill-suited to this use, and does not envision the gathering of the underlying cases as a means of finally resolving them. Motivational factors affecting judges and lawyers have produced these settlements, and the conditions out of which they arise do not give confidence that they are fair or adequate. This Article concedes that MDL settlements are likely here to stay, and argues that we need a mechanism to check such settlements for fairness and adequacy. The best way to do so is to allow collateral review of such settlements in suits brought by dissatisfied claimants.",
+      "article:author": "Christopher B. Mueller",
+      "viewport": "width=device-width",
+      "bepress_citation_title": "Taking a Second Look at MDL Product Liability Settlements: Somebody Needs to Do It",
+      "twitter:description": "This Article examines the forces that lead to the settlement of product liability cases gathered under the MDL statute for pretrial. The MDL procedure is ill-suited to this use, and does not envision the gathering of the underlying cases as a means of finally resolving them. Motivational factors affecting judges and lawyers have produced these settlements, and the conditions out of which they arise do not give confidence that they are fair or adequate. This Article concedes that MDL settlements are likely here to stay, and argues that we need a mechanism to check such settlements for fairness and adequacy. The best way to do so is to allow collateral review of such settlements in suits brought by dissatisfied claimants.",
+      "bepress_is_article_cover_page": "1",
+      "bepress_citation_author": "Mueller, Christopher B.",
+      "og:url": "https://scholar.law.colorado.edu/faculty-articles/700",
+      "bepress_citation_online_date": "2017/7/19"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://scholar.law.colorado.edu/assets/md5images/3924fcb415a8681aaa9a8dd0f9cea216.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Accepting Colorado Digital ID\u2122 as Proof of Identification",
+   "htmlTitle": "Accepting <b>Colorado Digital ID</b>\u2122 as Proof of Identification",
+   "link": "https://coloradowine.com/wp-content/uploads/2020/09/Colorado-Digital-ID%E2%84%A2-Training-for-Businesses.pdf",
+   "displayLink": "coloradowine.com",
+   "snippet": "Colorado Digital ID, available in the myColorado\u2122 mobile app Wallet, is a secure electronic version of a Colorado driver license or state identification card.",
+   "htmlSnippet": "<b>Colorado Digital ID</b>, available in the myColorado\u2122 mobile app Wallet, is a secure electronic version of a <b>Colorado</b> driver license or state identification card.",
+   "formattedUrl": "https://coloradowine.com/.../Colorado-Digital-ID\u2122-Training-for-Businesses...",
+   "htmlFormattedUrl": "https://<b>colorado</b>wine.com/.../<b>Colorado</b>-<b>Digital-ID</b>\u2122-Training-for-Businesses...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRX3Zb8Ne1Epn5UFDP7ztgWVmgFq965WOqQMGCowWy9k8_N0yWgOm-cgs&s",
+      "width": "281",
+      "height": "179"
+     }
+    ],
+    "metatags": [
+     {
+      "producer": "Skia/PDF m86"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///b1a50271a64ecec01a5771aedcdeb82a0edb7928c5bc73c37724e192eebaa463"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Colorado digital ID bill raises questions about personal privacy ...",
+   "htmlTitle": "<b>Colorado digital ID bill</b> raises questions about personal privacy ...",
+   "link": "https://www.9news.com/article/news/local/next/next-with-kyle-clark/phone-digital-id-privacy-bill/73-9070a67e-051a-45f5-8885-af6f71719e9e",
+   "displayLink": "www.9news.com",
+   "snippet": "Apr 1, 2024 ... Law enforcement agencies can see Colorado digital ID information without taking your phone. Lawmakers are moving forward with a bill that\u00a0...",
+   "htmlSnippet": "Apr 1, 2024 <b>...</b> <b>Law</b> enforcement agencies can see <b>Colorado digital ID</b> information without taking your phone. Lawmakers are moving forward with a <b>bill</b> that&nbsp;...",
+   "formattedUrl": "https://www.9news.com/...digital-id...bill/73-9070a67e-051a-45f5-8885-af...",
+   "htmlFormattedUrl": "https://www.9news.com/...<b>digital-id</b>...<b>bill</b>/73-9070a67e-051a-45f5-8885-af...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4JFEueSaR_RoWmp7nzsJ9wxYWazT2KzAYzkLwRFt3YhCic3Y2Dl4W0WU&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "apple-itunes-app": "app-id=568147279",
+      "og:image": "https://media.9news.com/assets/KUSA/images/1ecd4b39-8190-457f-b395-5fd16a90463b/1ecd4b39-8190-457f-b395-5fd16a90463b_1140x641.jpg",
+      "theme-color": "#045ea8",
+      "og:image:width": "1140",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "KUSA.com",
+      "og:description": "Lawmakers are moving forward with a bill that would make it legal to use your phone to show a digital ID as a legit form of identification.",
+      "twitter:image": "https://media.9news.com/assets/KUSA/images/1ecd4b39-8190-457f-b395-5fd16a90463b/1ecd4b39-8190-457f-b395-5fd16a90463b_1140x641.jpg",
+      "twitter:site": "9NEWS",
+      "article:content_tier": "free",
+      "og:type": "article",
+      "article:section": "9news,news,local,next,next-with-kyle-clark",
+      "twitter:title": "Law enforcement agencies can see Colorado digital ID information without taking your phone",
+      "twitter:domain": "www.9news.com/",
+      "og:title": "Law enforcement agencies can see Colorado digital ID information without taking your phone",
+      "og:image:height": "641",
+      "og:article:published_time": "4/1/2024 8:33:04 PM",
+      "twitter:image:src": "https://media.9news.com/assets/KUSA/images/1ecd4b39-8190-457f-b395-5fd16a90463b/1ecd4b39-8190-457f-b395-5fd16a90463b_1140x641.jpg",
+      "site": "9news.com",
+      "fb:app_id": "1760372210700146",
+      "viewport": "width=device-width",
+      "twitter:description": "Lawmakers are moving forward with a bill that would make it legal to use your phone to show a digital ID as a legit form of identification.",
+      "og:locale": "en_US",
+      "category": "news",
+      "og:url": "https://www.9news.com/article/news/local/next/next-with-kyle-clark/phone-digital-id-privacy-bill/73-9070a67e-051a-45f5-8885-af6f71719e9e",
+      "article:opinion": "false"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://media.9news.com/assets/KUSA/images/1ecd4b39-8190-457f-b395-5fd16a90463b/1ecd4b39-8190-457f-b395-5fd16a90463b_1140x641.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

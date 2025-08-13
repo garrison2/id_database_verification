@@ -1,0 +1,260 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://www.ilsos.gov/departments/drivers/ \"REAL ID\"",
+    "totalResults": "112",
+    "searchTerms": "site:https://www.ilsos.gov/departments/drivers/ \"REAL ID\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://www.ilsos.gov/departments/drivers/ \"REAL ID\"",
+    "totalResults": "112",
+    "searchTerms": "site:https://www.ilsos.gov/departments/drivers/ \"REAL ID\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.095637,
+  "formattedSearchTime": "0.10",
+  "totalResults": "112",
+  "formattedTotalResults": "112"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "DMV Appointments",
+   "htmlTitle": "DMV Appointments",
+   "link": "https://www.ilsos.gov/departments/drivers/appointments/",
+   "displayLink": "www.ilsos.gov",
+   "snippet": "Seniors may schedule an appointment by calling us at 800-252-8980 and pressing 2. Seniors can also visit one of our walk-in seniors only DMVs. Real ID Ready?",
+   "htmlSnippet": "Seniors may schedule an appointment by calling us at 800-252-8980 and pressing 2. Seniors can also visit one of our walk-in seniors only DMVs. <b>Real ID</b> Ready?",
+   "formattedUrl": "https://www.ilsos.gov/departments/drivers/appointments/",
+   "htmlFormattedUrl": "https://www.ilsos.gov/departments/drivers/appointments/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "google": "notranslate"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver's License/State ID Card Renewal",
+   "htmlTitle": "Driver&#39;s License/State ID Card Renewal",
+   "link": "https://www.ilsos.gov/departments/drivers/drivers_license/renewonline.html",
+   "displayLink": "www.ilsos.gov",
+   "snippet": "You want a REAL ID-compliant driver's license or ID card. You want to add a P.O. Box to your address. Fees. A valid credit/debit card (Visa, Mastercard\u00a0...",
+   "htmlSnippet": "You want a <b>REAL ID</b>-compliant driver&#39;s license or ID card. You want to add a P.O. Box to your address. Fees. A valid credit/debit card (Visa, Mastercard&nbsp;...",
+   "formattedUrl": "https://www.ilsos.gov/departments/drivers/drivers.../renewonline.html",
+   "htmlFormattedUrl": "https://www.ilsos.gov/departments/drivers/drivers.../renewonline.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "google": "notranslate"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver's License/State ID Card",
+   "htmlTitle": "Driver&#39;s License/State ID Card",
+   "link": "https://www.ilsos.gov/departments/drivers/drivers_license/drlicid.html",
+   "displayLink": "www.ilsos.gov",
+   "snippet": "Driver's License Application ... To obtain an Illinois Driver's License you must: ... If you wish to apply for a REAL ID ID Driver's License, visit REALID.ilsos.gov\u00a0...",
+   "htmlSnippet": "Driver&#39;s License Application ... To obtain an Illinois Driver&#39;s License you must: ... If you wish to apply for a <b>REAL ID</b> ID Driver&#39;s License, visit REALID.ilsos.gov&nbsp;...",
+   "formattedUrl": "https://www.ilsos.gov/departments/drivers/drivers_license/drlicid.html",
+   "htmlFormattedUrl": "https://www.ilsos.gov/departments/drivers/drivers_license/drlicid.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "google": "notranslate"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Duplicate Driver's License or ID Card",
+   "htmlTitle": "Duplicate Driver&#39;s License or ID Card",
+   "link": "https://www.ilsos.gov/departments/drivers/drivers_license/duplicate_drivers_license_or_ID_card/home.html",
+   "displayLink": "www.ilsos.gov",
+   "snippet": "Find it fast. Check If You Need a REAL ID \u00b7 Renew Your Driver's License or ID Card \u00b7 Find a DMV Facility \u00b7 Get a Replacement Driver's License or ID Card \u00b7 Pay\u00a0...",
+   "htmlSnippet": "Find it fast. Check If You Need a <b>REAL ID</b> &middot; Renew Your Driver&#39;s License or ID Card &middot; Find a DMV Facility &middot; Get a Replacement Driver&#39;s License or ID Card &middot; Pay&nbsp;...",
+   "formattedUrl": "https://www.ilsos.gov/departments/drivers/drivers...or.../home.html",
+   "htmlFormattedUrl": "https://www.ilsos.gov/departments/drivers/drivers...or.../home.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "google": "notranslate"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Central Issuance Driver's License/State ID Card",
+   "htmlTitle": "Central Issuance Driver&#39;s License/State ID Card",
+   "link": "https://www.ilsos.gov/departments/drivers/drivers_license/central_issuance/cifaq.html",
+   "displayLink": "www.ilsos.gov",
+   "snippet": "This new process allows the SOS to comply with many U.S. Department of Homeland Security (DHS) Real ID requirements. In addition, the changes increase the\u00a0...",
+   "htmlSnippet": "This new process allows the SOS to comply with many U.S. Department of Homeland Security (DHS) <b>Real ID</b> requirements. In addition, the changes increase the&nbsp;...",
+   "formattedUrl": "https://www.ilsos.gov/departments/drivers/drivers_license/.../cifaq.html",
+   "htmlFormattedUrl": "https://www.ilsos.gov/departments/drivers/drivers_license/.../cifaq.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "google": "notranslate"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Fees",
+   "htmlTitle": "Fees",
+   "link": "https://www.ilsos.gov/departments/drivers/basicfees.html",
+   "displayLink": "www.ilsos.gov",
+   "snippet": "Find it fast. Check If You Need a REAL ID \u00b7 Renew Your Driver's License or ID Card \u00b7 Find a DMV Facility \u00b7 Get a Replacement Driver's License or ID Card \u00b7 Pay\u00a0...",
+   "htmlSnippet": "Find it fast. Check If You Need a <b>REAL ID</b> &middot; Renew Your Driver&#39;s License or ID Card &middot; Find a DMV Facility &middot; Get a Replacement Driver&#39;s License or ID Card &middot; Pay&nbsp;...",
+   "formattedUrl": "https://www.ilsos.gov/departments/drivers/basicfees.html",
+   "htmlFormattedUrl": "https://www.ilsos.gov/departments/drivers/basicfees.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "google": "notranslate"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver's License/ID Card Acceptable Documents Checklist",
+   "htmlTitle": "Driver&#39;s License/ID Card Acceptable Documents Checklist",
+   "link": "https://www.ilsos.gov/departments/drivers/drivers_license/accept_id_checklist/home.html",
+   "displayLink": "www.ilsos.gov",
+   "snippet": "Real ID DL/ID \u00b7 Get a New Non-Real ID DL/ID \u00b7 Change my. Name/Address \u00b7 Replace my Driver's License/ID Card \u00b7 Get a New Instruction Permit. Seal of the State of\u00a0...",
+   "htmlSnippet": "<b>Real ID</b> DL/ID &middot; Get a New Non-<b>Real ID</b> DL/ID &middot; Change my. Name/Address &middot; Replace my Driver&#39;s License/ID Card &middot; Get a New Instruction Permit. Seal of the State of&nbsp;...",
+   "formattedUrl": "https://www.ilsos.gov/departments/drivers/drivers_license/.../home.html",
+   "htmlFormattedUrl": "https://www.ilsos.gov/departments/drivers/drivers_license/.../home.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "google": "notranslate"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Homebound State ID Card Program",
+   "htmlTitle": "Homebound State ID Card Program",
+   "link": "https://www.ilsos.gov/departments/drivers/drivers_license/homeboud_state_ID_card/home.html",
+   "displayLink": "www.ilsos.gov",
+   "snippet": "Find it fast. Check If You Need a REAL ID \u00b7 Renew Your Driver's License or ID Card \u00b7 Find a DMV Facility \u00b7 Get a Replacement Driver's License or ID Card \u00b7 Pay\u00a0...",
+   "htmlSnippet": "Find it fast. Check If You Need a <b>REAL ID</b> &middot; Renew Your Driver&#39;s License or ID Card &middot; Find a DMV Facility &middot; Get a Replacement Driver&#39;s License or ID Card &middot; Pay&nbsp;...",
+   "formattedUrl": "https://www.ilsos.gov/departments/drivers/drivers_license/.../home.html",
+   "htmlFormattedUrl": "https://www.ilsos.gov/departments/drivers/drivers_license/.../home.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTddMjpYTjYNA55ytNxjTh0wIMcVxMobg36fuBCyA0qu3j8xeaWPWUCSK8&s",
+      "width": "223",
+      "height": "226"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "google": "notranslate"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.ilsos.gov/images/phase-2/header-left.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Central Issuance Driver's License/State ID Card",
+   "htmlTitle": "Central Issuance Driver&#39;s License/State ID Card",
+   "link": "https://www.ilsos.gov/departments/drivers/drivers_license/central_issuance/home.html",
+   "displayLink": "www.ilsos.gov",
+   "snippet": "This new process, central issuance, meets REAL ID requirements mandated by DHS. Illinois is not the first state to transition to central issuance. In fact\u00a0...",
+   "htmlSnippet": "This new process, central issuance, meets <b>REAL ID</b> requirements mandated by DHS. Illinois is not the first state to transition to central issuance. In fact&nbsp;...",
+   "formattedUrl": "https://www.ilsos.gov/departments/drivers/drivers_license/.../home.html",
+   "htmlFormattedUrl": "https://www.ilsos.gov/departments/drivers/drivers_license/.../home.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgDO7295aCONlaU-jwAtLpzm38bUXSnBVxew-ACVQKqriY7AW1SF7r29h2&s",
+      "width": "187",
+      "height": "270"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "google": "notranslate"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.ilsos.gov/departments/drivers/drivers_license/central_issuance/cistate.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver Services",
+   "htmlTitle": "Driver Services",
+   "link": "https://www.ilsos.gov/departments/drivers/home.html",
+   "displayLink": "www.ilsos.gov",
+   "snippet": "REAL ID \u00b7 More Information. Traffic Safety Information. Child Safety Requirements \u00b7 Rules of the Road \u00b7 Teen Driver Safety \u00b7 More Information. Driver's\u00a0...",
+   "htmlSnippet": "<b>REAL ID</b> &middot; More Information. Traffic Safety Information. Child Safety Requirements &middot; Rules of the Road &middot; Teen Driver Safety &middot; More Information. Driver&#39;s&nbsp;...",
+   "formattedUrl": "https://www.ilsos.gov/departments/drivers/home.html",
+   "htmlFormattedUrl": "https://www.ilsos.gov/departments/drivers/home.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "google": "notranslate"
+     }
+    ]
+   }
+  }
+ ]
+}

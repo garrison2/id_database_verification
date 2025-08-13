@@ -1,0 +1,434 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Delaware\" \"privacy act\" OR \"privacy law\"",
+    "totalResults": "5320000",
+    "searchTerms": "\"Delaware\" \"privacy act\" OR \"privacy law\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Delaware\" \"privacy act\" OR \"privacy law\"",
+    "totalResults": "5320000",
+    "searchTerms": "\"Delaware\" \"privacy act\" OR \"privacy law\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.177785,
+  "formattedSearchTime": "0.18",
+  "totalResults": "5320000",
+  "formattedTotalResults": "5,320,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Delaware Personal Data Privacy Act",
+   "htmlTitle": "<b>Delaware</b> Personal Data <b>Privacy Act</b>",
+   "link": "https://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=140388&legislationTypeId=1&docTypeId=2&legislationName=HB154",
+   "displayLink": "legis.delaware.gov",
+   "snippet": "Chapter 12D. Delaware Personal Data Privacy Act. \u00a7 12D-101. Short title. This chapter shall be known and may be cited as\u00a0...",
+   "htmlSnippet": "Chapter 12D. <b>Delaware</b> Personal Data <b>Privacy Act</b>. \u00a7 12D-101. Short title. This chapter shall be known and may be cited as&nbsp;...",
+   "formattedUrl": "https://legis.delaware.gov/json/.../GenerateHtmlDocument?...1...2...",
+   "htmlFormattedUrl": "https://legis.<b>delaware</b>.gov/json/.../GenerateHtmlDocument?...1...2...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOHbmQEJh3aMtKbuaEiPH__HE66cCLRhHM30Y2AujrSSlLrWyQwMNT6w&s",
+      "width": "105",
+      "height": "100"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://legis.delaware.gov/Content/images/embedded/image002.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Delaware Enacts Comprehensive Data Privacy Law | White & Case ...",
+   "htmlTitle": "<b>Delaware</b> Enacts Comprehensive Data <b>Privacy Law</b> | White &amp; Case ...",
+   "link": "https://www.whitecase.com/insight-alert/delaware-comprehensive-data-privacy-law",
+   "displayLink": "www.whitecase.com",
+   "snippet": "Sep 15, 2023 ... 154 (\"Delaware Personal Data Privacy Act\"), Delaware's new state consumer privacy law, which will become effective January 1, 2025. Delaware now\u00a0...",
+   "htmlSnippet": "Sep 15, 2023 <b>...</b> 154 (&quot;<b>Delaware</b> Personal Data <b>Privacy Act</b>&quot;), <b>Delaware&#39;s</b> new state consumer <b>privacy law</b>, which will become effective January 1, 2025. <b>Delaware</b> now&nbsp;...",
+   "formattedUrl": "https://www.whitecase.com/.../delaware-comprehensive-data-privacy-law",
+   "htmlFormattedUrl": "https://www.whitecase.com/.../<b>delaware</b>-comprehensive-data-<b>privacy-law</b>",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWS5jFLvMViOHtbBRuXx5K1wwjsxaKZu6cFzw-XSmmu4f_NwgQ_DvU2GY&s",
+      "width": "367",
+      "height": "137"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.whitecase.com/sites/default/files/images/hero/2022/08/Client_Alerts_option_24_4000x1500.jpg",
+      "og:image:width": "1600",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Delaware Enacts Comprehensive Data Privacy Law",
+      "handheldfriendly": "true",
+      "og:title": "Delaware Enacts Comprehensive Data Privacy Law | White & Case LLP",
+      "og:image:height": "600",
+      "og:description": "On September 11, 2023, Delaware Governor John Carney signed into law House Bill No. 154 (\"Delaware Personal Data Privacy Act\"), Delaware's new state consumer privacy law, which will become effective January 1, 2025.",
+      "twitter:image": "https://www.whitecase.com/sites/default/files/images/hero/2022/08/Client_Alerts_option_24_4000x1500.jpg",
+      "twitter:site": "@WhiteCase",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "On September 11, 2023, Delaware Governor John Carney signed into law House Bill No. 154 (\"Delaware Personal Data Privacy Act\"), Delaware's new state consumer privacy law, which will become effective January 1, 2025.",
+      "mobileoptimized": "width",
+      "og:url": "https://www.whitecase.com/insight-alert/delaware-comprehensive-data-privacy-law"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.whitecase.com/sites/default/files/images/hero/2022/08/Client_Alerts_option_24_4000x1500.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Bill Detail - Delaware General Assembly",
+   "htmlTitle": "Bill Detail - <b>Delaware</b> General Assembly",
+   "link": "https://legis.delaware.gov/BillDetail/140388",
+   "displayLink": "legis.delaware.gov",
+   "snippet": "May 12, 2023 ... This bill creates the Delaware Personal Data Privacy Act. The Act delineates a consumer's personal data rights and provides that residents of this State will\u00a0...",
+   "htmlSnippet": "May 12, 2023 <b>...</b> This bill creates the <b>Delaware</b> Personal Data <b>Privacy Act</b>. The Act delineates a consumer&#39;s personal data rights and provides that residents of this State will&nbsp;...",
+   "formattedUrl": "https://legis.delaware.gov/BillDetail/140388",
+   "htmlFormattedUrl": "https://legis.<b>delaware</b>.gov/BillDetail/140388",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width,initial-scale=1,maximum-scale=1.0",
+      "author": "Delaware Legislature"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Delaware Data Protection Act: What Businesses Need to Know | Akin",
+   "htmlTitle": "<b>Delaware</b> Data Protection Act: What Businesses Need to Know | Akin",
+   "link": "https://www.akingump.com/en/insights/blogs/ag-data-dive/delaware-data-protection-act-what-businesses-need-to-know",
+   "displayLink": "www.akingump.com",
+   "snippet": "May 13, 2024 ... In September 2023, Delaware became the seventh state in 2023 to enact comprehensive privacy law with the Delaware Personal Data Privacy Act\u00a0...",
+   "htmlSnippet": "May 13, 2024 <b>...</b> In September 2023, <b>Delaware</b> became the seventh state in 2023 to enact comprehensive <b>privacy law</b> with the <b>Delaware</b> Personal Data <b>Privacy Act</b>&nbsp;...",
+   "formattedUrl": "https://www.akingump.com/.../delaware-data-protection-act-what-businesse...",
+   "htmlFormattedUrl": "https://www.akingump.com/.../<b>delaware</b>-data-protection-act-what-businesse...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFT_FDGLIz908NcbvBhZxqfJRKffQkgEPzxbOPI9BhZjqvz8U81ZJ5XGA&s",
+      "width": "311",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "application-name": "Akin Gump Strauss Hauer & Feld LLP",
+      "msapplication-tilecolor": "#002554",
+      "og:image": "https://www.akingump.com/a/web/fmYLEzwq3RAXs7qGxEQ1s/aa53Va/data-dive.png",
+      "theme-color": "#002554",
+      "twitter:card": "summary_large_image",
+      "og:image:alt": "Delaware Data Protection Act: What Businesses Need to Know",
+      "og:type": "website",
+      "og:site_name": "Akin - Delaware Data Protection Act: What Businesses Need to Know",
+      "apple-mobile-web-app-title": "Akin Gump Strauss Hauer & Feld LLP",
+      "og:title": "Delaware Data Protection Act: What Businesses Need to Know",
+      "google": "notranslate",
+      "msapplication-tileimage": "https://www.akingump.com/cached/40100/images/favicons/favicon.png",
+      "og:description": "In September 2023, Delaware became the seventh state in 2023 to enact comprehensive privacy law with the Delaware Personal Data Privacy Act (DPDPA), joining Indiana, Iowa, Montana, Oregon, Tennessee and Texas. The DPDPA will go into effect on January 1, 2025. \n Key Provisions \n \nController Requirements \u2013 obligations for controllers include: data minimization, data security, opt in consent for sensitive data, nondiscrimination, privacy notices, agreements with processors and data protection assessments. \n Processor Requirements \u2013 obligations for processors include: ensuring a duty of confidentiality for each person processing data, contracts with controllers, assisting controllers with consumer rights requests, data security, deleting or returning personal data after provision of services and conducting data protection assessments.",
+      "og:image:secure_url": "https://www.akingump.com/a/web/fmYLEzwq3RAXs7qGxEQ1s/aa53Va/data-dive.png",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:url": "https://www.akingump.com/en/insights/blogs/ag-data-dive/delaware-data-protection-act-what-businesses-need-to-know"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.akingump.com/a/web/fmYLEzwq3RAXs7qGxEQ1s/aa53Va/data-dive.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "AG Jennings announces new data privacy rights available to ...",
+   "htmlTitle": "AG Jennings announces new data privacy rights available to ...",
+   "link": "https://news.delaware.gov/2025/01/06/ag-jennings-announces-new-data-privacy-rights-available-to-delawareans/",
+   "displayLink": "news.delaware.gov",
+   "snippet": "Jan 6, 2025 ... Navy blue background featuring the Delaware state seal in the center. Delaware Personal Data Privacy Act now effective. Attorney General Kathy\u00a0...",
+   "htmlSnippet": "Jan 6, 2025 <b>...</b> Navy blue background featuring the <b>Delaware</b> state seal in the center. <b>Delaware</b> Personal Data <b>Privacy Act</b> now effective. Attorney General Kathy&nbsp;...",
+   "formattedUrl": "https://news.delaware.gov/.../ag-jennings-announces-new-data-privacy-righ...",
+   "htmlFormattedUrl": "https://news.<b>delaware</b>.gov/.../ag-jennings-announces-new-data-privacy-righ...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrxEkORtbLIauuOVvnBab6nv18-XwjsEyq62Uu6-ahqaV9qL8BRIGX6Lxq&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://news.delaware.gov/files/2021/01/News.Delaware.Gov-graphics-e1612815239649.jpg",
+      "theme-color": "#ffffff",
+      "article:published_time": "2025-01-06T14:00:44+00:00",
+      "og:image:width": "800",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "State of Delaware News",
+      "twitter:label1": "Written by",
+      "twitter:label2": "Est. reading time",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://news.delaware.gov/wp-content/themes/GIC-News-Theme-CLF4/img/ms-icon-144x144.png",
+      "og:description": "Delaware Personal Data Privacy Act now effective Attorney General Kathy Jennings announced today that important new personal data privacy rights are available to Delawareans thanks to the Delaware Personal Data Privacy Act. Passed in 2023, the new law went into effect at the beginning of this year \u2013 meaning Delawareans can now exercise their new [\u2026]",
+      "twitter:data1": "matthewmarshall",
+      "twitter:data2": "4 minutes",
+      "article:modified_time": "2025-07-07T16:31:19+00:00",
+      "published_at": "2025-07-07",
+      "msapplication-tilecolor": "#ffffff",
+      "og:type": "article",
+      "author": "matthewmarshall",
+      "og:title": "AG Jennings announces new data privacy rights available to Delawareans - State of Delaware News",
+      "og:image:height": "450",
+      "funnelbackcategory": "justice|prs",
+      "viewport": "width=device-width, initial-scale=1",
+      "domain": "news",
+      "og:locale": "en_US",
+      "og:url": "https://news.delaware.gov/2025/01/06/ag-jennings-announces-new-data-privacy-rights-available-to-delawareans/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://news.delaware.gov/files/2021/01/News.Delaware.Gov-graphics-e1612815239649.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What is the Delaware Personal Data Privacy Act (DPDPA): The ...",
+   "htmlTitle": "What is the <b>Delaware</b> Personal Data <b>Privacy Act</b> (DPDPA): The ...",
+   "link": "https://www.osano.com/articles/delaware-personal-data-privacy-act-dpdpa",
+   "displayLink": "www.osano.com",
+   "snippet": "Nov 17, 2023 ... Delaware's privacy act is being hailed as one of the strongest in the nation ... Delaware's privacy law requires controllers to limit the\u00a0...",
+   "htmlSnippet": "Nov 17, 2023 <b>...</b> <b>Delaware&#39;s privacy act</b> is being hailed as one of the strongest in the nation ... <b>Delaware&#39;s privacy law</b> requires controllers to limit the&nbsp;...",
+   "formattedUrl": "https://www.osano.com/articles/delaware-personal-data-privacy-act-dpdpa",
+   "htmlFormattedUrl": "https://www.osano.com/articles/<b>delaware</b>-personal-data-<b>privacy-act</b>-dpdpa",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToT6Uxd1sWLAtYhKWT7Yd6dkGNb4Ii4MNseW2-OtpZQ6ySdDjiZpryW8iQ&s",
+      "width": "318",
+      "height": "159"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "%23ffffff",
+      "og:image": "https://www.osano.com/hubfs/Delaware.png",
+      "twitter:title": "What is the Delaware Personal Data Privacy Act (DPDPA): The Basics",
+      "theme-color": "%23ffffff",
+      "og:image:width": "1024",
+      "og:image:alt": "map of Deleware",
+      "twitter:card": "summary_large_image",
+      "og:type": "article",
+      "twitter:domain": "www.osano.com",
+      "og:title": "What is the Delaware Personal Data Privacy Act (DPDPA): The Basics",
+      "og:image:height": "512",
+      "msapplication-tileimage": "https://www.osano.com/hubfs/v2/icons/favicon/ms-icon-144x144.png",
+      "og:description": "Delaware\u2019s privacy act is being hailed as one of the strongest in the nation. Learn what makes the Delaware Personal Data Privacy Act unique and how to comply.",
+      "twitter:image": "https://www.osano.com/hubfs/Delaware.png",
+      "referrer": "same-origin",
+      "twitter:image:alt": "map of Deleware",
+      "twitter:site": "@Osano",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Delaware\u2019s privacy act is being hailed as one of the strongest in the nation. Learn what makes the Delaware Personal Data Privacy Act unique and how to comply.",
+      "og:url": "https://www.osano.com/articles/delaware-personal-data-privacy-act-dpdpa"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.osano.com/hubfs/Delaware.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Delaware's New Personal Data Privacy Act | Davis Wright Tremaine",
+   "htmlTitle": "<b>Delaware&#39;s</b> New Personal Data <b>Privacy Act</b> | Davis Wright Tremaine",
+   "link": "https://www.dwt.com/blogs/privacy--security-law-blog/2023/09/delaware-personal-data-privacy-act-enacted",
+   "displayLink": "www.dwt.com",
+   "snippet": "Sep 13, 2023 ... The Delaware Personal Data Privacy Act (DPDPA) joins ... Delaware becomes the 13th state to enact a comprehensive consumer data privacy law.",
+   "htmlSnippet": "Sep 13, 2023 <b>...</b> The <b>Delaware</b> Personal Data <b>Privacy Act</b> (DPDPA) joins ... <b>Delaware</b> becomes the 13th state to enact a comprehensive consumer data <b>privacy law</b>.",
+   "formattedUrl": "https://www.dwt.com/blogs/.../delaware-personal-data-privacy-act-enacted",
+   "htmlFormattedUrl": "https://www.dwt.com/blogs/.../<b>delaware</b>-personal-data-<b>privacy-act</b>-enacted",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSQz_1yDpGqODiEX8sdbBpY_tQ_QydpPbrTgG9zXCaWMfCM5XgUSNJOMY&s",
+      "width": "376",
+      "height": "134"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dwt.com/-/media/images/blogs/privacy-security/2018-and-2019/headers/state_privacy.png?rev=0c8c3c46b0f14547814335a97a7687b9&hash=76C1E2B07F19E9732F139185AD702677",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Delaware's New Personal Data Privacy Act | Davis Wright Tremaine",
+      "og:title": "Delaware's New Personal Data Privacy Act | Davis Wright Tremaine",
+      "oni_itemid": "1688d166-fe69-4e4c-ad04-78b44790e86f",
+      "oni_name": "Delaware's New Personal Data Privacy Act",
+      "title": "Delaware's New Personal Data Privacy Act",
+      "og:description": "The Delaware Personal Data Privacy Act (DPDPA) joins 12 other state comprehensive consumer data privacy laws, with this one generally affecting HIPAA",
+      "oni_entitytype": "Insights",
+      "twitter:image:src": "https://www.dwt.com/-/media/images/blogs/privacy-security/2018-and-2019/headers/state_privacy.png?rev=0c8c3c46b0f14547814335a97a7687b9&hash=76C1E2B07F19E9732F139185AD702677",
+      "oni_language": "en",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "The Delaware Personal Data Privacy Act (DPDPA) joins 12 other state comprehensive consumer data privacy laws, with this one generally affecting HIPAA",
+      "oni_section": "insights",
+      "oni_attachedfilters": "57c591cae2a6405cbc6be7829d668997",
+      "og:url": "https://www.dwt.com/blogs/privacy--security-law-blog/2023/09/delaware-personal-data-privacy-act-enacted"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dwt.com/-/media/images/blogs/privacy-security/2018-and-2019/headers/state_privacy.png?rev=0c8c3c46b0f14547814335a97a7687b9&hash=76C1E2B07F19E9732F139185AD702677"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Delaware Data Privacy Law: An Overview",
+   "htmlTitle": "The <b>Delaware</b> Data <b>Privacy Law</b>: An Overview",
+   "link": "https://www.cliffordchance.com/insights/resources/blogs/talking-tech/en/articles/2023/12/the-delaware-data-privacy-law--an-overview.html",
+   "displayLink": "www.cliffordchance.com",
+   "snippet": "Dec 31, 2023 ... The Delaware Data Privacy Law: An Overview ... On September 11, 2023, Delaware governor John Carney signed the Delaware Personal Data Privacy Act\u00a0...",
+   "htmlSnippet": "Dec 31, 2023 <b>...</b> The <b>Delaware</b> Data <b>Privacy Law</b>: An Overview ... On September 11, 2023, <b>Delaware</b> governor John Carney signed the <b>Delaware</b> Personal Data <b>Privacy Act</b>&nbsp;...",
+   "formattedUrl": "https://www.cliffordchance.com/.../the-delaware-data-privacy-law--an-over...",
+   "htmlFormattedUrl": "https://www.cliffordchance.com/.../the-<b>delaware</b>-data-<b>privacy-law</b>--an-over...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvggEjupNXvBYeGbZc8Ih-UYE7PFw_xboaiZ_HWZa9usP_KgB6u7iKiew&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.cliffordchance.com/content/dam/microsites/talkingtech/Images-Socials/2024/delaware_1200x630px.jpg",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "The Delaware Data Privacy Law: An Overview | Clifford Chance",
+      "og:site_name": "Clifford Chance",
+      "twitter:site": "@Clifford_Chance",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "The Delaware Data Privacy Law: An Overview | Clifford Chance",
+      "og:url": "https://www.cliffordchance.com/content/cliffordchance/insights/resources/blogs/talking-tech/en/articles/2023/12/the-delaware-data-privacy-law--an-overview.html",
+      "twitter:image": "https://www.cliffordchance.com/content/dam/microsites/talkingtech/Images-Socials/2024/delaware_1200x630px.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.cliffordchance.com/content/dam/microsites/talkingtech/Images-Socials/2024/delaware_1200x630px.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Frequently Asked Questions - Delaware Department of Justice ...",
+   "htmlTitle": "Frequently Asked Questions - <b>Delaware</b> Department of Justice ...",
+   "link": "https://attorneygeneral.delaware.gov/fraud/personal-data-privacy-portal/frequently-asked-questions/",
+   "displayLink": "attorneygeneral.delaware.gov",
+   "snippet": "Is a Controller covered by the Delaware Personal Data Privacy Act obligated ... Statements such as \u201cyou may have rights\u201d or \u201cif your state has a data privacy law\u00a0...",
+   "htmlSnippet": "Is a Controller covered by the <b>Delaware</b> Personal Data <b>Privacy Act</b> obligated ... Statements such as \u201cyou may have rights\u201d or \u201cif your state has a data <b>privacy law</b>&nbsp;...",
+   "formattedUrl": "https://attorneygeneral.delaware.gov/fraud/.../frequently-asked-questions/",
+   "htmlFormattedUrl": "https://attorneygeneral.<b>delaware</b>.gov/fraud/.../frequently-asked-questions/",
+   "pagemap": {
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffffff",
+      "theme-color": "#ffffff",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Delaware Department of Justice - State of Delaware",
+      "og:title": "Frequently Asked Questions - Delaware Department of Justice - State of Delaware",
+      "twitter:label1": "Est. reading time",
+      "msapplication-tileimage": "https://attorneygeneral.delaware.gov/wp-content/themes/dosgic_AG_theme/img/ms-icon-144x144.png",
+      "og:description": "\u00a0",
+      "twitter:data1": "16 minutes",
+      "article:modified_time": "2025-02-13T15:30:22+00:00",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "domain": "attorneygeneral",
+      "og:locale": "en_US",
+      "published_at": "2025-02-13",
+      "og:url": "https://attorneygeneral.delaware.gov/fraud/personal-data-privacy-portal/frequently-asked-questions/"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Delaware Personal Data Privacy Act: What Businesses Need to ...",
+   "htmlTitle": "<b>Delaware</b> Personal Data <b>Privacy Act</b>: What Businesses Need to ...",
+   "link": "https://www.goodwinlaw.com/en/insights/blogs/2024/01/delaware-personal-data-privacy-act-what-businesses-need-to-know",
+   "displayLink": "www.goodwinlaw.com",
+   "snippet": "Jan 11, 2024 ... Delaware Personal Data Privacy Act: What Businesses Need to Know ... privacy law, joining California, Virginia, Colorado, Connecticut, Utah\u00a0...",
+   "htmlSnippet": "Jan 11, 2024 <b>...</b> <b>Delaware</b> Personal Data <b>Privacy Act</b>: What Businesses Need to Know ... <b>privacy law</b>, joining California, Virginia, Colorado, Connecticut, Utah&nbsp;...",
+   "formattedUrl": "https://www.goodwinlaw.com/.../delaware-personal-data-privacy-act-what-...",
+   "htmlFormattedUrl": "https://www.goodwinlaw.com/.../<b>delaware</b>-personal-data-<b>privacy-act</b>-what-...",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:type": "website",
+      "twitter:card": "summary",
+      "twitter:title": "Delaware Personal Data Privacy Act: What Businesses Need to Know | Insights & Resources | Goodwin",
+      "msvalidate.01": "77d76cb02ff14e9087836416e0bfb117",
+      "og:title": "Delaware Personal Data Privacy Act: What Businesses Need to Know | Insights & Resources | Goodwin",
+      "parsely-author": "Federica De Santis",
+      "title": "Delaware Personal Data Privacy Act: What Businesses Need to Know | Insights & Resources | Goodwin",
+      "parsely-title": "Delaware Personal Data Privacy Act: What Businesses Need to Know",
+      "og:description": "null",
+      "parsely-pub-date": "2024-01-11T20:00:38",
+      "next-head-count": "26",
+      "parsely-type": "post",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "parsely-link": "https://www.goodwinlaw.com/en/insights/blogs/2024/01/delaware-personal-data-privacy-act-what-businesses-need-to-know",
+      "twitter:description": "null",
+      "parsely-section": "Insights & Resources",
+      "sectiontitle": "Insights & Resources",
+      "pagetitle": "Delaware Personal Data Privacy Act: What Businesses Need to Know",
+      "og:url": "https://www.goodwinlaw.com/en/insights/blogs/2024/01/delaware-personal-data-privacy-act-what-businesses-need-to-know"
+     }
+    ]
+   }
+  }
+ ]
+}

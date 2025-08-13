@@ -1,0 +1,491 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Florida\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "1560000",
+    "searchTerms": "\"Florida\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Florida\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "1560000",
+    "searchTerms": "\"Florida\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.20534,
+  "formattedSearchTime": "0.21",
+  "totalResults": "1560000",
+  "formattedTotalResults": "1,560,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Florida - mDL Connection",
+   "htmlTitle": "<b>Florida</b> - <b>mDL</b> Connection",
+   "link": "https://www.mdlconnection.com/implementation-tracker-map/florida/",
+   "displayLink": "www.mdlconnection.com",
+   "snippet": "Recent/Relevant News: Florida Pulls Digital Drivers License Support for iPhone & Android, July 10, 2024 \u00b7 New Florida Digital ID Pilot Being Tested, June 20,\u00a0...",
+   "htmlSnippet": "Recent/Relevant News: <b>Florida</b> Pulls Digital Drivers License Support for iPhone &amp; Android, July 10, 2024 &middot; New <b>Florida Digital ID</b> Pilot Being Tested, June 20,&nbsp;...",
+   "formattedUrl": "https://www.mdlconnection.com/implementation-tracker-map/florida/",
+   "htmlFormattedUrl": "https://www.<b>mdl</b>connection.com/implementation-tracker-map/<b>florida</b>/",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "mDL Connection",
+      "article:modified_time": "2024-07-12T16:26:42+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "Florida - mDL Connection",
+      "og:locale": "en_US",
+      "twitter:label1": "Est. reading time",
+      "og:url": "https://www.mdlconnection.com/implementation-tracker-map/florida/",
+      "msapplication-tileimage": "https://www.mdlconnection.com/wp-content/uploads/2020/04/cropped-mDLConnection-icon@2x-270x270.png",
+      "twitter:data1": "2 minutes"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Florida abruptly ends support for digital driver's licenses on iPhone ...",
+   "htmlTitle": "<b>Florida</b> abruptly ends support for digital driver&#39;s licenses on iPhone ...",
+   "link": "https://www.reddit.com/r/florida/comments/1e0cvlo/florida_abruptly_ends_support_for_digital_drivers/",
+   "displayLink": "www.reddit.com",
+   "snippet": "Jul 11, 2024 ... Florida does not have a digital driver's license, it's only a State ID... and no one, except police, have the readers to validate the ID\u00a0...",
+   "htmlSnippet": "Jul 11, 2024 <b>...</b> <b>Florida</b> does not have a <b>digital driver&#39;s license</b>, it&#39;s only a State ID... and no one, except police, have the readers to validate the ID&nbsp;...",
+   "formattedUrl": "https://www.reddit.com/.../florida/.../florida_abruptly_ends_support_for_di...",
+   "htmlFormattedUrl": "https://www.reddit.com/.../<b>florida</b>/.../<b>florida</b>_abruptly_ends_support_for_di...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGSWxUe_TlMxwDoTXCFGh0KJ1QOIPh2saHOA7F3aMf_gvRby-f2TjNTMA&s",
+      "width": "311",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://external-preview.redd.it/florida-abruptly-ends-support-for-digital-drivers-licenses-v0-fI8r6RKe1cLRF5crgvtJ3ugn_uH_vupyVR8fBJ_Fgyg.jpg?width=1080&crop=smart&auto=webp&s=174ece0782b15413fe2961099ef755f8118c235f",
+      "theme-color": "#000000",
+      "og:image:width": "1080",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "r/florida on Reddit: Florida abruptly ends support for digital driver's licenses on iPhone and Android",
+      "og:site_name": "Reddit",
+      "og:title": "r/florida on Reddit: Florida abruptly ends support for digital driver's licenses on iPhone and Android",
+      "og:image:height": "565",
+      "msapplication-navbutton-color": "#000000",
+      "og:description": "Posted by u/brunnock - 359 votes and 116 comments",
+      "twitter:image": "https://external-preview.redd.it/florida-abruptly-ends-support-for-digital-drivers-licenses-v0-fI8r6RKe1cLRF5crgvtJ3ugn_uH_vupyVR8fBJ_Fgyg.jpg?width=1080&crop=smart&auto=webp&s=174ece0782b15413fe2961099ef755f8118c235f",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "twitter:site": "@reddit",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "apple-mobile-web-app-capable": "yes",
+      "og:ttl": "600",
+      "og:url": "https://www.reddit.com/r/florida/comments/1e0cvlo/florida_abruptly_ends_support_for_digital_drivers/?seeker-session=true"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://external-preview.redd.it/florida-abruptly-ends-support-for-digital-drivers-licenses-v0-fI8r6RKe1cLRF5crgvtJ3ugn_uH_vupyVR8fBJ_Fgyg.jpg?width=1080&crop=smart&auto=webp&s=174ece0782b15413fe2961099ef755f8118c235f"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Florida removes digital driver's license app. Here's why",
+   "htmlTitle": "<b>Florida</b> removes <b>digital driver&#39;s license</b> app. Here&#39;s why",
+   "link": "https://www.clickorlando.com/news/local/2024/07/11/florida-removes-digital-drivers-license-app-heres-why/",
+   "displayLink": "www.clickorlando.com",
+   "snippet": "Florida removes digital driver's license app. Here's why. App launched in 2022. Lisa Bell, Anchor. Published: July 11, 2024 at 11:36 AM Updated: July 11,\u00a0...",
+   "htmlSnippet": "<b>Florida</b> removes <b>digital driver&#39;s license</b> app. Here&#39;s why. App launched in 2022. Lisa Bell, Anchor. Published: July 11, 2024 at 11:36 AM Updated: July 11,&nbsp;...",
+   "formattedUrl": "https://www.clickorlando.com/.../florida-removes-digital-drivers-license-ap...",
+   "htmlFormattedUrl": "https://www.clickorlando.com/.../<b>florida</b>-removes-<b>digital-drivers-license</b>-ap...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRK7dy3YnYABLX4eanW7YxMw3VxBtCohT8RFylJ_gmJ-aFTV5UdUo8FpY&s",
+      "width": "299",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/anyclip/g2EidY8BnHikCJsC6tWy/1715657319570_1920x1080_thumbnail.jpg?_a=DATAg1eAZAA0",
+      "article:published_time": "2024-07-11T15:36:20.196Z",
+      "twitter:card": "summary_large_image",
+      "theme-color": "#23262b",
+      "og:site_name": "WKMG",
+      "al:android:package": "com.ibsys.app.pns_orlpn",
+      "type": "article",
+      "og:description": "Florida is one of only a handful of states that uses the technology.",
+      "twitter:image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/anyclip/g2EidY8BnHikCJsC6tWy/1715657319570_1920x1080_thumbnail.jpg?_a=DATAg1eAZAA0",
+      "al:ios:app_store_id": "426128464",
+      "content_restriction": "no_restrictions",
+      "twitter:site": "WKMG",
+      "article:modified_time": "2024-07-11T18:17:51.529Z",
+      "station": "WKMG",
+      "article:content_tier": "free",
+      "og:type": "article",
+      "article:section": "Local News",
+      "twitter:title": "Florida removes digital driver\u2019s license app. Here\u2019s why",
+      "twitter:domain": "https://www.clickorlando.com",
+      "al:ios:app_name": "clickorlando.com",
+      "content_id": "6UKXWECOYFEJBEI7JFGHSUUFZ4",
+      "author": "Lisa Bell",
+      "og:title": "Florida removes digital driver\u2019s license app. Here\u2019s why",
+      "coid": "6UKXWECOYFEJBEI7JFGHSUUFZ4",
+      "article:tag": "Florida,Tech,Consumer",
+      "fb:app_id": "398048186916440",
+      "vf:topic": "FLORIDA",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Florida is one of only a handful of states that uses the technology.",
+      "og:locale": "en_US",
+      "bsi": "96923605313",
+      "atdlayout": "article_local-news",
+      "section_path": "news/local",
+      "vf:container_id": "6UKXWECOYFEJBEI7JFGHSUUFZ4",
+      "og:url": "https://www.clickorlando.com/news/local/2024/07/11/florida-removes-digital-drivers-license-app-heres-why/",
+      "al:android:app_name": "clickorlando.com",
+      "article:opinion": "false"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/anyclip/g2EidY8BnHikCJsC6tWy/1715657319570_1920x1080_thumbnail.jpg?_a=DATAg1eAZAA0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Florida tosses mDL program into the Gulf | Biometric Update",
+   "htmlTitle": "<b>Florida</b> tosses <b>mDL</b> program into the Gulf | Biometric Update",
+   "link": "https://www.biometricupdate.com/202407/florida-tosses-mdl-program-into-the-gulf",
+   "displayLink": "www.biometricupdate.com",
+   "snippet": "Jul 12, 2024 ... Florida's mobile driver's license has been shut down, making the ... Florida's mDL app was made by Thales, but how the digital ID would\u00a0...",
+   "htmlSnippet": "Jul 12, 2024 <b>...</b> <b>Florida&#39;s mobile driver&#39;s license</b> has been shut down, making the ... <b>Florida&#39;s mDL</b> app was made by Thales, but how the <b>digital ID</b> would&nbsp;...",
+   "formattedUrl": "https://www.biometricupdate.com/.../florida-tosses-mdl-program-into-the-g...",
+   "htmlFormattedUrl": "https://www.biometricupdate.com/.../<b>florida</b>-tosses-<b>mdl</b>-program-into-the-g...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCAG0J7yYfeEuID5XDwFwaABhS5I8QuF9pEQxpN-yVXXyc86KpYtTVL24&s",
+      "width": "257",
+      "height": "196"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/07/12103046/florida-smart-id.jpg",
+      "theme-color": "#ffffff",
+      "og:image:width": "1495",
+      "article:published_time": "2024-07-12T14:31:44+00:00",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Biometric Update | Biometrics News, Companies and Explainers",
+      "rating": "general",
+      "msapplication-tileimage": "/favicon/ms-icon-144x144.png",
+      "og:description": "Florida\u2019s mobile driver\u2019s license has been shut down, making the state a place where the number of people with digital ID has actually decreased.",
+      "twitter:creator": "@BiometricUpdate",
+      "og:image:secure_url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/07/12103046/florida-smart-id.jpg",
+      "article:publisher": "https://www.facebook.com/BiometricUpdate",
+      "twitter:image": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/07/12103046/florida-smart-id.jpg",
+      "twitter:site": "@BiometricUpdate",
+      "article:modified_time": "2024-07-13T16:35:50+00:00",
+      "msapplication-tilecolor": "#ffffff",
+      "og:type": "article",
+      "twitter:title": "Florida tosses mDL program into the Gulf | Biometric Update",
+      "msvalidate.01": "37DAF50D768AB3DDD4F101B413D98584",
+      "author": "Chris Burt",
+      "og:title": "Florida tosses mDL program into the Gulf | Biometric Update",
+      "og:image:height": "1143",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Florida\u2019s mobile driver\u2019s license has been shut down, making the state a place where the number of people with digital ID has actually decreased.",
+      "og:locale": "en_US",
+      "og:url": "https://www.biometricupdate.com/202407/florida-tosses-mdl-program-into-the-gulf"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/07/12103046/florida-smart-id.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MDL or Frankenstein's laboratory? \u00bb College of Dentistry ...",
+   "htmlTitle": "<b>MDL</b> or Frankenstein&#39;s laboratory? \u00bb College of Dentistry ...",
+   "link": "https://dental.ufl.edu/2007/02/12/mdl-or-frankensteins-laboratory/",
+   "displayLink": "dental.ufl.edu",
+   "snippet": "Feb 12, 2007 ... MDL. The name alone probably conjures up memories of long hours of study for many UFCD grads ... \u00a9 2025 University of Florida Health.",
+   "htmlSnippet": "Feb 12, 2007 <b>...</b> <b>MDL</b>. The name alone probably conjures up memories of long hours of study for many UFCD grads ... \u00a9 2025 University of <b>Florida</b> Health.",
+   "formattedUrl": "https://dental.ufl.edu/2007/02/12/mdl-or-frankensteins-laboratory/",
+   "htmlFormattedUrl": "https://dental.ufl.edu/2007/02/12/<b>mdl</b>-or-frankensteins-laboratory/",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:type": "article",
+      "twitter:site": "@UFDentistry",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "MDL or Frankenstein\u2019s laboratory? \u00bb  College of Dentistry \u00bb University of Florida",
+      "og:url": "https://dental.ufl.edu/2007/02/12/mdl-or-frankensteins-laboratory/",
+      "og:description": "MDL. The name alone probably conjures up memories of long hours of study for many UFCD grads. Opened in the early 1970s with the completion of the Communicore Building, the college\u2019s two MDLs, short for multidisciplinary teaching laboratories, remained unchanged for decades\u2014stuck in that \u201870s groove. Expansion of the Health Science Center\u2019s computer testing area\u2026"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Florida Will Pull Digital ID App from Stores, Redo It",
+   "htmlTitle": "<b>Florida</b> Will Pull <b>Digital ID</b> App from Stores, Redo It",
+   "link": "https://www.govtech.com/transportation/florida-will-pull-digital-id-app-from-stores-redo-it",
+   "displayLink": "www.govtech.com",
+   "snippet": "Jul 12, 2024 ... Florida Will Pull Digital ID App from Stores, Redo It \u00b7 In an email Wednesday, the Florida Department of Highway Safety and Motor Vehicles said\u00a0...",
+   "htmlSnippet": "Jul 12, 2024 <b>...</b> <b>Florida</b> Will Pull <b>Digital ID</b> App from Stores, Redo It &middot; In an email Wednesday, the <b>Florida</b> Department of Highway Safety and Motor Vehicles said&nbsp;...",
+   "formattedUrl": "https://www.govtech.com/.../florida-will-pull-digital-id-app-from-stores-red...",
+   "htmlFormattedUrl": "https://www.govtech.com/.../<b>florida</b>-will-pull-<b>digital-id</b>-app-from-stores-red...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDdIgnhJFL7OV9pPpcx_3xTow4DjE7iV8bV3Y-hzPbozUp8WvG2AwkzXBm&s",
+      "width": "322",
+      "height": "156"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://erepublic.brightspotcdn.com/dims4/default/0e42558/2147483647/strip/true/crop/1125x547+0+0/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F61%2F7b%2F873e543c450baf055618c6a77df5%2Fimg-8468.jpg",
+      "og:image:width": "1440",
+      "article:published_time": "2024-07-12T22:03:06.538",
+      "twitter:card": "summary_large_image",
+      "brightspot.cached": "false",
+      "og:site_name": "GovTech",
+      "og:image:type": "image/jpeg",
+      "og:description": "In an email Wednesday, the Florida Department of Highway Safety and Motor Vehicles said it will revise the Florida Smart ID application, and asked users to delete it. The app has since been deactivated.",
+      "twitter:image": "https://erepublic.brightspotcdn.com/dims4/default/0e42558/2147483647/strip/true/crop/1125x547+0+0/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F61%2F7b%2F873e543c450baf055618c6a77df5%2Fimg-8468.jpg",
+      "twitter:image:alt": "The Florida Smart ID application is displayed on the Florida Department of Highway Safety and Motor Vehicles website.",
+      "twitter:site": "@govtechnews",
+      "article:modified_time": "2024-07-15T16:33:39.43",
+      "brightspot.contentid": "00000190-a829-d2ab-afd0-ede9343c0000",
+      "og:image:alt": "The Florida Smart ID application is displayed on the Florida Department of Highway Safety and Motor Vehicles website.",
+      "og:type": "article",
+      "article:section": "Transportation",
+      "twitter:title": "Florida Will Pull Digital ID App from Stores, Redo It",
+      "og:image:url": "https://erepublic.brightspotcdn.com/dims4/default/0e42558/2147483647/strip/true/crop/1125x547+0+0/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F61%2F7b%2F873e543c450baf055618c6a77df5%2Fimg-8468.jpg",
+      "og:title": "Florida Will Pull Digital ID App from Stores, Redo It",
+      "og:image:height": "700",
+      "article:author": "https://www.govtech.com/authors/Katya-Maruri.html",
+      "article:tag": "Florida",
+      "fb:app_id": "314190606794339",
+      "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=5",
+      "twitter:description": "In an email Wednesday, the Florida Department of Highway Safety and Motor Vehicles said it will revise the Florida Smart ID application, and asked users to delete it. The app has since been deactivated.",
+      "og:url": "https://www.govtech.com/transportation/florida-will-pull-digital-id-app-from-stores-redo-it"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://erepublic.brightspotcdn.com/dims4/default/0e42558/2147483647/strip/true/crop/1125x547+0+0/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F61%2F7b%2F873e543c450baf055618c6a77df5%2Fimg-8468.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Florida's digital ID app has suddenly disappeared | The Verge",
+   "htmlTitle": "<b>Florida&#39;s digital ID</b> app has suddenly disappeared | The Verge",
+   "link": "https://www.theverge.com/2024/7/10/24196044/florida-smart-id-digital-state-id-app-shut-down",
+   "displayLink": "www.theverge.com",
+   "snippet": "Jul 10, 2024 ... The Florida Department of Highway Safety and Motor Vehicles (FLHSMV) has shut down its digital ID app, Florida Smart ID, for iPhones and Android phones.",
+   "htmlSnippet": "Jul 10, 2024 <b>...</b> The <b>Florida</b> Department of Highway Safety and Motor Vehicles (FLHSMV) has shut down its <b>digital ID</b> app, <b>Florida</b> Smart ID, for iPhones and Android phones.",
+   "formattedUrl": "https://www.theverge.com/.../florida-smart-id-digital-state-id-app-shut-dow...",
+   "htmlFormattedUrl": "https://www.theverge.com/.../<b>florida</b>-smart-id-digital-state-id-app-shut-dow...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA3QkGPRi8x9jwqRq5cPx02twaS6MpwGouNraA7xzQR0yU-2hAhF9FieE&s",
+      "width": "312",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24020007/226270_iPHONE_14_PHO_akrales_0030.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "twitter:card": "summary_large_image",
+      "article:published_time": "2024-07-10T23:46:35+00:00",
+      "og:image:width": "1200",
+      "og:site_name": "The Verge",
+      "twitter:url": "https://www.theverge.com/2024/7/10/24196044/florida-smart-id-digital-state-id-app-shut-down",
+      "apple-mobile-web-app-title": "Verge",
+      "parsely-author": "Wes Davis",
+      "bingbot": "nocache",
+      "og:image:type": "image/jpeg",
+      "amazonbot": "noarchive",
+      "cse-authors": "Wes Davis",
+      "og:description": "Hope you didn\u2019t need your digital drivers\u2019 license.",
+      "twitter:image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24020007/226270_iPHONE_14_PHO_akrales_0030.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "next-head-count": "52",
+      "twitter:image:alt": "Nilay Patel holds an iPhone 14 Pro in his hands.",
+      "parsely-type": "post",
+      "twitter:site": "@verge",
+      "article:modified_time": "2024-07-10T23:46:35+00:00",
+      "parsely-link": "https://www.theverge.com/2024/7/10/24196044/florida-smart-id-digital-state-id-app-shut-down",
+      "parsely-image-url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24020007/226270_iPHONE_14_PHO_akrales_0030.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
+      "parsely-section": "apps",
+      "og:type": "article",
+      "og:image:alt": "Nilay Patel holds an iPhone 14 Pro in his hands.",
+      "twitter:title": "Florida\u2019s digital ID app has suddenly disappeared",
+      "cse-category": "Apps",
+      "author": "Wes Davis",
+      "cse-coral-id": "4aea131e-42b7-4b60-9685-8bee6f7c4534",
+      "og:title": "Florida\u2019s digital ID app has suddenly disappeared",
+      "og:image:height": "628",
+      "parsely-title": "Florida\u2019s digital ID app has suddenly disappeared",
+      "parsely-pub-date": "2024-07-10T23:46:35+00:00",
+      "fb:app_id": "549923288395304",
+      "parsely-tags": "theverge,pagetype:story,us-world,android,apple,apps,google,iphone,news,tech",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "twitter:description": "Hope you didn\u2019t need your digital drivers\u2019 license.",
+      "og:url": "https://www.theverge.com/2024/7/10/24196044/florida-smart-id-digital-state-id-app-shut-down"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24020007/226270_iPHONE_14_PHO_akrales_0030.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Florida Mobile ID Updates",
+   "htmlTitle": "<b>Florida Mobile ID</b> Updates",
+   "link": "https://idscan.net/state-digital-id/florida-mobile-id-updates/",
+   "displayLink": "idscan.net",
+   "snippet": "Florida mobile ID updates. State of mobile ID in Florida; Other Florida mDL resources. Florida Smart ID app. State of mobile ID in Florida. In July 2024,\u00a0...",
+   "htmlSnippet": "<b>Florida mobile ID</b> updates. State of <b>mobile ID</b> in <b>Florida</b>; Other <b>Florida mDL</b> resources. <b>Florida</b> Smart ID app. State of <b>mobile ID</b> in <b>Florida</b>. In July 2024,&nbsp;...",
+   "formattedUrl": "https://idscan.net/state-digital-id/florida-mobile-id-updates/",
+   "htmlFormattedUrl": "https://idscan.net/state-<b>digital-id</b>/<b>florida</b>-<b>mobile-id</b>-updates/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7RU3DkJRwKciLF9zDoDTlBt9dUkl8FViZikuIQK_SmpUBNJiyr9yWwLI&s",
+      "width": "267",
+      "height": "189"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://idscan.net/wp-content/uploads/florida-smartid-digital-id.png?lm=66A73175",
+      "og:type": "article",
+      "og:image:width": "916",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "IDScan.net",
+      "og:title": "Florida Mobile ID Updates",
+      "og:image:height": "648",
+      "og:image:type": "image/png",
+      "msapplication-tileimage": "https://idscan.net/wp-content/uploads/cropped-idscan-identity-verification-software-icon-1-270x270.png",
+      "og:description": "Florida has ended their SmartID by Thales app, and asked users to delete the app. Its back to the drawing board for a Florida mobile ID.",
+      "article:publisher": "https://www.facebook.com/idscannet",
+      "twitter:site": "@idscan_net",
+      "article:modified_time": "2025-02-26T21:18:37+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://idscan.net/state-digital-id/florida-mobile-id-updates/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://idscan.net/wp-content/uploads/florida-smartid-digital-id.png?lm=66A73175"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile ID Go - Hillsborough County Tax Collector",
+   "htmlTitle": "<b>Mobile ID</b> Go - Hillsborough County Tax Collector",
+   "link": "https://www.hillstaxfl.gov/mobile-id-go/",
+   "displayLink": "www.hillstaxfl.gov",
+   "snippet": "... Florida Identification card. Regardless of health conditions or special circumstances, everyone deserves access to essential services. With Mobile ID Go\u00a0...",
+   "htmlSnippet": "... <b>Florida</b> Identification card. Regardless of health conditions or special circumstances, everyone deserves access to essential services. With <b>Mobile ID</b> Go&nbsp;...",
+   "formattedUrl": "https://www.hillstaxfl.gov/mobile-id-go/",
+   "htmlFormattedUrl": "https://www.hillstaxfl.gov/<b>mobile-id</b>-go/",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Hillsborough County Tax Collector",
+      "article:modified_time": "2024-07-11T20:00:30+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "Mobile ID Go - Hillsborough County Tax Collector",
+      "og:locale": "en_US",
+      "og:url": "https://www.hillstaxfl.gov/mobile-id-go/",
+      "msapplication-tileimage": "https://www.hillstaxfl.gov/assets/uploads/2019/02/HCTC-icon-3.png",
+      "og:description": "Welcome to the Hillsborough County Tax Collector\u2019s online office, where we strive to provide Hillsborough County citizens with the best customer service possible."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "PantherOne | Florida Tech",
+   "htmlTitle": "PantherOne | <b>Florida</b> Tech",
+   "link": "https://www.fit.edu/pantherone/",
+   "displayLink": "www.fit.edu",
+   "snippet": "The Key To Campus \u2013 PantherOne Mobile ID. PantherOne is the official accepted Florida Tech University ID for students, employees, and affiliates.",
+   "htmlSnippet": "The Key To Campus \u2013 PantherOne <b>Mobile ID</b>. PantherOne is the official accepted <b>Florida</b> Tech University ID for students, employees, and affiliates.",
+   "formattedUrl": "https://www.fit.edu/pantherone/",
+   "htmlFormattedUrl": "https://www.fit.edu/pantherone/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfUXP3PB2FH0PeK_U2ZLrnWGQBxH_SeCWYPf2cYaLKKcB7-xYh7PFW-fmE&s",
+      "width": "389",
+      "height": "129"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#770000",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "msapplication-tileimage": "/media/content-type-creator/fit-redesign-images-01/favicons/144.png",
+      "facebook-domain-verification": "1axwn62nch2jygg19mytid7g1g67ef"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.fit.edu/media/site-specific/header-images/keuper3.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,361 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://drive.ky.gov \"REAL ID\"",
+    "totalResults": "170",
+    "searchTerms": "site:https://drive.ky.gov \"REAL ID\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://drive.ky.gov \"REAL ID\"",
+    "totalResults": "170",
+    "searchTerms": "site:https://drive.ky.gov \"REAL ID\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.11656,
+  "formattedSearchTime": "0.12",
+  "totalResults": "170",
+  "formattedTotalResults": "170"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "REAL ID - DRIVE",
+   "htmlTitle": "<b>REAL ID</b> - DRIVE",
+   "link": "https://drive.ky.gov/RealID/Pages/default.aspx",
+   "displayLink": "drive.ky.gov",
+   "snippet": "With federal REAL ID enforcement in effect as of May 7, 2025, Kentucky driver's licenses, permits or identification cards without a black star cannot be used at\u00a0...",
+   "htmlSnippet": "With federal <b>REAL ID</b> enforcement in effect as of May 7, 2025, Kentucky driver&#39;s licenses, permits or identification cards without a black star cannot be used at&nbsp;...",
+   "formattedUrl": "https://drive.ky.gov/RealID/Pages/default.aspx",
+   "htmlFormattedUrl": "https://drive.ky.gov/<b>RealID</b>/Pages/default.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1-DVsuYDzGbyT6CHZ2feGnRq8TYSHRIbVun3J-zMjoBYQG0qT3yqcRuI&s",
+      "width": "221",
+      "height": "228"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#da532c",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msvalidate.01": "6688D5607AD5EB2274EC21A212D9D29A",
+      "progid": "SharePoint.WebPartPage.Document",
+      "title": "REAL ID"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://drive.ky.gov/PublishingImages/REAL-ID.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Welcome - DRIVE",
+   "htmlTitle": "Welcome - DRIVE",
+   "link": "https://drive.ky.gov/Pages/index.aspx",
+   "displayLink": "drive.ky.gov",
+   "snippet": "PAY TO REINSTATE YOUR LICENSE ONLINE \u00b7 Are you. REAL ID ready? \u00b7 Kentucky Driver Licensing \u00b7 Graduated Driver Licensing Program.",
+   "htmlSnippet": "PAY TO REINSTATE YOUR LICENSE ONLINE &middot; Are you. <b>REAL ID</b> ready? &middot; Kentucky Driver Licensing &middot; Graduated Driver Licensing Program.",
+   "formattedUrl": "https://drive.ky.gov/Pages/index.aspx",
+   "htmlFormattedUrl": "https://drive.ky.gov/Pages/index.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpDCWM3ZBQIv9ijvVP_FcnUjaVkQAh7mvoHTxJ6wRhfpxi6-e21zGYYfc&s",
+      "width": "278",
+      "height": "181"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#da532c",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msvalidate.01": "6688D5607AD5EB2274EC21A212D9D29A",
+      "progid": "SharePoint.WebPartPage.Document",
+      "title": "Welcome"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://drive.ky.gov/PublishingImages/LICENSE-DLRO-IMAGE.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "valid proof documents",
+   "htmlTitle": "valid proof documents",
+   "link": "https://drive.ky.gov/Drivers/Documents/ValidProofDocuments.pdf",
+   "displayLink": "drive.ky.gov",
+   "snippet": "a REAL ID. June 26, 2024. Name Change Bring all that apply. Certified Marriage Certificate. Certified Divorce Decree. Must show that a name change was granted.",
+   "htmlSnippet": "a <b>REAL ID</b>. June 26, 2024. Name Change Bring all that apply. Certified Marriage Certificate. Certified Divorce Decree. Must show that a name change was granted.",
+   "formattedUrl": "https://drive.ky.gov/Drivers/Documents/ValidProofDocuments.pdf",
+   "htmlFormattedUrl": "https://drive.ky.gov/Drivers/Documents/ValidProofDocuments.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9HLEa6cdKoXtDWdcdXeDuRc6K3doLfcY_vpbJ0xmPVyajvUE9vFsfROY&s",
+      "width": "255",
+      "height": "197"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20240627113333-04'00'",
+      "creationdate": "D:20230313123536-04'00'",
+      "creator": "Adobe Illustrator 27.2 (Macintosh)",
+      "producer": "Adobe PDF library 17.00",
+      "title": "031323 Valid Documents-Letter-Horizontal"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///24448eafd794cce191a09f0ce8a40d9cdcf7aa8471d48ee27e99dd262323cebe"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "REAL ID vs Standard ID - DRIVE",
+   "htmlTitle": "<b>REAL ID</b> vs Standard ID - DRIVE",
+   "link": "https://drive.ky.gov/RealID/Pages/Difference_Between.aspx",
+   "displayLink": "drive.ky.gov",
+   "snippet": "REAL ID compliant cards in Kentucky are known as REAL ID s and have a star cutout in a black circle in the upper-right portion of the card.",
+   "htmlSnippet": "<b>REAL ID</b> compliant cards in Kentucky are known as <b>REAL ID</b> s and have a star cutout in a black circle in the upper-right portion of the card.",
+   "formattedUrl": "https://drive.ky.gov/RealID/Pages/Difference_Between.aspx",
+   "htmlFormattedUrl": "https://drive.ky.gov/<b>RealID</b>/Pages/Difference_Between.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCuXV3PKc0nlfTct3GZ5W9bi4DCJpVuNHAz1KHOIhUGfriMwu-UYpI1yk&s",
+      "width": "282",
+      "height": "179"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#da532c",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msvalidate.01": "6688D5607AD5EB2274EC21A212D9D29A",
+      "progid": "SharePoint.WebPartPage.Document",
+      "title": "REAL ID vs Standard ID"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://drive.ky.gov/RealID/PublishingImages/Standard-DL.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What Do I Need to Apply - DRIVE",
+   "htmlTitle": "What Do I Need to Apply - DRIVE",
+   "link": "https://drive.ky.gov/RealID/Pages/What-You-Need.aspx",
+   "displayLink": "drive.ky.gov",
+   "snippet": "A license is one of the most common ways you prove who you are. If you are a first-time applicant, applying for a REAL ID, or updating the information on\u00a0...",
+   "htmlSnippet": "A license is one of the most common ways you prove who you are. If you are a first-time applicant, applying for a <b>REAL ID</b>, or updating the information on&nbsp;...",
+   "formattedUrl": "https://drive.ky.gov/RealID/Pages/What-You-Need.aspx",
+   "htmlFormattedUrl": "https://drive.ky.gov/<b>RealID</b>/Pages/What-You-Need.aspx",
+   "pagemap": {
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#da532c",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msvalidate.01": "6688D5607AD5EB2274EC21A212D9D29A",
+      "progid": "SharePoint.WebPartPage.Document",
+      "title": "What Do I Need to Apply"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Can I Renew or Upgrade to a REAL ID? - DRIVE",
+   "htmlTitle": "Can I Renew or Upgrade to a <b>REAL ID</b>? - DRIVE",
+   "link": "https://drive.ky.gov/RealID/Pages/When-Can-I-Apply.aspx",
+   "displayLink": "drive.ky.gov",
+   "snippet": "If you request a REAL ID and your current license expires within six months of the date you apply, you may renew your license for either four or eight years.",
+   "htmlSnippet": "If you request a <b>REAL ID</b> and your current license expires within six months of the date you apply, you may renew your license for either four or eight years.",
+   "formattedUrl": "https://drive.ky.gov/RealID/Pages/When-Can-I-Apply.aspx",
+   "htmlFormattedUrl": "https://drive.ky.gov/<b>RealID</b>/Pages/When-Can-I-Apply.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5vLYpA8w2piCbDVB9j5_VuD4l-JyG2UmQGmLBQNSguCmm5cuNxSL3ow0&s",
+      "width": "421",
+      "height": "120"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#da532c",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msvalidate.01": "6688D5607AD5EB2274EC21A212D9D29A",
+      "progid": "SharePoint.WebPartPage.Document",
+      "title": "Can I Renew or Upgrade to a REAL ID?"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://drive.ky.gov/RealID/PublishingImages/REAL_ID_Banner.png?Height=320"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Renew, Replace, Update a Credential - DRIVE",
+   "htmlTitle": "Renew, Replace, Update a Credential - DRIVE",
+   "link": "https://drive.ky.gov/Drivers/Pages/Renew-Replace-Update.aspx",
+   "displayLink": "drive.ky.gov",
+   "snippet": "Renew a standard or REAL ID driver's license or permit. RENEW AN ID CARD. REPLACE LOST OR STOLEN CREDENTIAL. UPDATE NAME OR ADDRESS. Update the name or address\u00a0...",
+   "htmlSnippet": "Renew a standard or <b>REAL ID</b> driver&#39;s license or permit. RENEW AN ID CARD. REPLACE LOST OR STOLEN CREDENTIAL. UPDATE NAME OR ADDRESS. Update the name or address&nbsp;...",
+   "formattedUrl": "https://drive.ky.gov/Drivers/Pages/Renew-Replace-Update.aspx",
+   "htmlFormattedUrl": "https://drive.ky.gov/Drivers/Pages/Renew-Replace-Update.aspx",
+   "pagemap": {
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#da532c",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msvalidate.01": "6688D5607AD5EB2274EC21A212D9D29A",
+      "progid": "SharePoint.WebPartPage.Document",
+      "title": "Renew, Replace, Update a Credential"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Find an Office - DRIVE",
+   "htmlTitle": "Find an Office - DRIVE",
+   "link": "https://drive.ky.gov/Pages/Find-an-Office.aspx",
+   "displayLink": "drive.ky.gov",
+   "snippet": "REAL ID applicants need to bring two (2) proofs of residency. Name Change Documentation (if applicable): If your current legal name, date of birth, or\u00a0...",
+   "htmlSnippet": "<b>REAL ID</b> applicants need to bring two (2) proofs of residency. Name Change Documentation (if applicable): If your current legal name, date of birth, or&nbsp;...",
+   "formattedUrl": "https://drive.ky.gov/Pages/Find-an-Office.aspx",
+   "htmlFormattedUrl": "https://drive.ky.gov/Pages/Find-an-Office.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa3KmgVzEa7Cw402_yadWiptO2vJEn12ShzvoMS7jsdrNhKA9s0l6ioiM&s",
+      "width": "421",
+      "height": "120"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#da532c",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msvalidate.01": "6688D5607AD5EB2274EC21A212D9D29A",
+      "progid": "SharePoint.WebPartPage.Document",
+      "title": "Find an Office"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://drive.ky.gov/Drivers/PublishingImages/Renewal-Replacement-Banner.png?Height=320"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "IDocument Guide - DRIVE",
+   "htmlTitle": "IDocument Guide - DRIVE",
+   "link": "https://drive.ky.gov/Pages/IDocument-Guide.aspx",
+   "displayLink": "drive.ky.gov",
+   "snippet": "Answer a few short questions to create a personalized list of documents you can bring when you apply for a REAL ID or standard credential at any KYTC Driver\u00a0...",
+   "htmlSnippet": "Answer a few short questions to create a personalized list of documents you can bring when you apply for a <b>REAL ID</b> or standard credential at any KYTC Driver&nbsp;...",
+   "formattedUrl": "https://drive.ky.gov/Pages/IDocument-Guide.aspx",
+   "htmlFormattedUrl": "https://drive.ky.gov/Pages/IDocument-Guide.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJSQEyxbwotMQP46idBQir-P1vBbjTTuHaz44MHlOZaIaD58j50qEOBHAH&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#da532c",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msvalidate.01": "6688D5607AD5EB2274EC21A212D9D29A",
+      "progid": "SharePoint.WebPartPage.Document",
+      "title": "IDocument Guide"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://drive.ky.gov/Style%20Library/Images/cky-db-credentialselection.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What You Need to Apply for a REAL ID",
+   "htmlTitle": "What You Need to Apply for a <b>REAL ID</b>",
+   "link": "https://drive.ky.gov/RealID/Documents/021624-REAL_ID_FactSheet.pdf",
+   "displayLink": "drive.ky.gov",
+   "snippet": "Feb 16, 2024 ... The REAL ID Act is a federal law to enhance the security of state-issued driving credentials. Starting May 7, 2025, all Kentucky standard\u00a0...",
+   "htmlSnippet": "Feb 16, 2024 <b>...</b> The <b>REAL ID</b> Act is a federal law to enhance the security of state-issued driving credentials. Starting May 7, 2025, all Kentucky standard&nbsp;...",
+   "formattedUrl": "https://drive.ky.gov/RealID/Documents/021624-REAL_ID_FactSheet.pdf",
+   "htmlFormattedUrl": "https://drive.ky.gov/<b>RealID</b>/Documents/021624-<b>REAL_ID</b>_FactSheet.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20240218212604-05'00'",
+      "creationdate": "D:20240216162955-05'00'",
+      "creator": "Adobe InDesign 19.2 (Macintosh)",
+      "producer": "Adobe PDF Library 17.0"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

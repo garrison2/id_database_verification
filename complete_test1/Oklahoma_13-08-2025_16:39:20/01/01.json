@@ -1,0 +1,383 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Oklahoma\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Oklahoma Statutes\"",
+    "totalResults": "197000",
+    "searchTerms": "\"Oklahoma\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Oklahoma Statutes\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Oklahoma\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Oklahoma Statutes\"",
+    "totalResults": "197000",
+    "searchTerms": "\"Oklahoma\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Oklahoma Statutes\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.202779,
+  "formattedSearchTime": "0.20",
+  "totalResults": "197000",
+  "formattedTotalResults": "197,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "PR: OK Mobile ID App Decommissioned",
+   "htmlTitle": "PR: OK <b>Mobile ID</b> App Decommissioned",
+   "link": "https://oklahoma.gov/service/newsroom/ok-mobile-id-app-decommissioned.html",
+   "displayLink": "oklahoma.gov",
+   "snippet": "Feb 8, 2024 ... Service Oklahoma announced today that the OK Mobile ID App has officially been decommissioned. While there was a lack of use cases with the app.",
+   "htmlSnippet": "Feb 8, 2024 <b>...</b> Service <b>Oklahoma</b> announced today that the OK <b>Mobile ID</b> App has officially been decommissioned. While there was a lack of use cases with the app.",
+   "formattedUrl": "https://oklahoma.gov/service/.../ok-mobile-id-app-decommissioned.html",
+   "htmlFormattedUrl": "https://<b>oklahoma</b>.gov/service/.../ok-<b>mobile-id</b>-app-decommissioned.html",
+   "pagemap": {
+    "imageobject": [
+     {
+      "contenturl": "https://oklahoma.gov/content/experience-fragments/service-oklahoma/us/en/site/header/master/_jcr_content/root/image.coreimg.svg/1667003920072/sok-logo.svg"
+     },
+     {
+      "contenturl": "https://oklahoma.gov/content/experience-fragments/service-oklahoma/us/en/site/footer/master/_jcr_content/root/image.coreimg.svg/1667003937029/sok-logo-white.svg"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "content-page",
+      "twitter:card": "summary",
+      "twitter:title": "PR: OK Mobile ID App Decommissioned",
+      "og:type": "website",
+      "og:site_name": "Service Oklahoma",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Press Release: As the busy holiday season is in full swing, it\u2019s the perfect time to stop by a Service Oklahoma location for any driver license or motor vehicle service with little-to-no wait!",
+      "og:title": "PR: OK Mobile ID App Decommissioned",
+      "og:locale": "en",
+      "og:description": "Press Release: As the busy holiday season is in full swing, it\u2019s the perfect time to stop by a Service Oklahoma location for any driver license or motor vehicle service with little-to-no wait!"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Oklahoma Enacts Insurance Data Security Law | Practical Law",
+   "htmlTitle": "<b>Oklahoma</b> Enacts Insurance Data Security <b>Law</b> | Practical <b>Law</b>",
+   "link": "https://content.next.westlaw.com/practical-law/document/Icd96e7031de111ef8921fbef1a541940/Oklahoma-Enacts-Insurance-Data-Security-Law?viewType=FullText&transitionType=Default&contextData=(sc.Default)",
+   "displayLink": "content.next.westlaw.com",
+   "snippet": "May 29, 2024 ... ... Law (MDL-668). The law requires Oklahoma-licensed insurance entities to develop and implement a written information security program\u00a0...",
+   "htmlSnippet": "May 29, 2024 <b>...</b> ... <b>Law</b> (<b>MDL</b>-668). The <b>law</b> requires <b>Oklahoma</b>-licensed insurance entities to develop and implement a written information security program&nbsp;...",
+   "formattedUrl": "https://content.next.westlaw.com/...law/.../Oklahoma-Enacts-Insurance-Data...",
+   "htmlFormattedUrl": "https://content.next.west<b>law</b>.com/...<b>law</b>/.../<b>Oklahoma</b>-Enacts-Insurance-Data...",
+   "pagemap": {
+    "digitaldocument": [
+     {
+      "name": "Oklahoma Enacts Insurance Data Security Law | Practical Law",
+      "description": "Oklahoma has enacted SB 543, the Oklahoma Insurance Data Security Act, which is modeled after the National Association of Insurance Commissioners (NAIC) Insurance Data Security Model Law (MDL-668)....",
+      "headline": "Oklahoma Enacts Insurance Data Security Law | Practical Law",
+      "url": "https://content.next.westlaw.com/practical-law/document/Icd96e7031de111ef8921fbef1a541940/Oklahoma-Enacts-Insurance-Data-Security-Law?viewType=FullText&transitionType=Default&contextData=(sc.Default)"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width",
+      "og:title": "Oklahoma Enacts Insurance Data Security Law | Practical Law",
+      "og:url": "https://content.next.westlaw.com/practical-law/document/Icd96e7031de111ef8921fbef1a541940/Oklahoma-Enacts-Insurance-Data-Security-Law?viewType=FullText&transitionType=Default&contextData=(sc.Default)"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Oklahoma Releases Updated Mobile ID To Support Real ID ...",
+   "htmlTitle": "<b>Oklahoma</b> Releases Updated <b>Mobile ID</b> To Support Real ID ...",
+   "link": "https://oklahoma.gov/governor/newsroom/newsroom/2021/january/oklahoma-releases-updated-mobile-id-to-support-real-id-enrollmen.html",
+   "displayLink": "oklahoma.gov",
+   "snippet": "Jan 19, 2021 ... 19, 2021) \u2013 Governor Kevin Stitt announced today that the next version of the Oklahoma Mobile ID is now available. The app has been expanded to\u00a0...",
+   "htmlSnippet": "Jan 19, 2021 <b>...</b> 19, 2021) \u2013 Governor Kevin Stitt announced today that the next version of the <b>Oklahoma Mobile ID</b> is now available. The app has been expanded to&nbsp;...",
+   "formattedUrl": "https://oklahoma.gov/.../oklahoma-releases-updated-mobile-id-to-support-r...",
+   "htmlFormattedUrl": "https://<b>oklahoma</b>.gov/.../<b>oklahoma</b>-releases-updated-<b>mobile-id</b>-to-support-r...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpyxSyIO5rhb802_8XtldcxRRzAqSHejbX5zi0AnaJtTM6-EGnrYJ3-nsD&s",
+      "width": "311",
+      "height": "162"
+     }
+    ],
+    "imageobject": [
+     {
+      "contenturl": "https://oklahoma.gov/governor/newsroom/newsroom/2021/january/oklahoma-releases-updated-mobile-id-to-support-real-id-enrollmen/_jcr_content/responsivegrid/image.coreimg.100.2048.png/1631547927267/realid.png"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "Article Page",
+      "twitter:card": "summary",
+      "twitter:title": "Oklahoma Releases Updated Mobile ID To Support Real ID Enrollment",
+      "og:type": "article",
+      "og:site_name": "Governor J. Kevin Stitt",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:url": "https://oklahoma.gov/governor/newsroom/newsroom/2021/january/oklahoma-releases-updated-mobile-id-to-support-real-id-enrollmen.html",
+      "og:title": "Oklahoma Releases Updated Mobile ID To Support Real ID Enrollment",
+      "og:locale": "en",
+      "og:url": "https://oklahoma.gov/governor/newsroom/newsroom/2021/january/oklahoma-releases-updated-mobile-id-to-support-real-id-enrollmen.html"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://oklahoma.gov/governor/newsroom/newsroom/2021/january/oklahoma-releases-updated-mobile-id-to-support-real-id-enrollmen/_jcr_content/responsivegrid/image.coreimg.100.2048.png/1631547927267/realid.png"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "Newsroom",
+      "name": "Newsroom",
+      "position": "1"
+     },
+     {
+      "name": "Oklahoma Releases Updated Mobile ID To Support Real ID Enrollment",
+      "position": "2"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Does Oklahoma have a new digital ID app? : r/oklahoma",
+   "htmlTitle": "Does <b>Oklahoma</b> have a new <b>digital ID</b> app? : r/<b>oklahoma</b>",
+   "link": "https://www.reddit.com/r/oklahoma/comments/1j31s1v/does_oklahoma_have_a_new_digital_id_app/",
+   "displayLink": "www.reddit.com",
+   "snippet": "Mar 4, 2025 ... Issue creating Oklahoma Digital ID with OK Mobile ID app. r/okc icon. r/okc. \u2022 4 yr. ago. Issue creating Oklahoma Digital ID with OK Mobile ID\u00a0...",
+   "htmlSnippet": "Mar 4, 2025 <b>...</b> Issue creating <b>Oklahoma Digital ID</b> with OK <b>Mobile ID</b> app. r/okc icon. r/okc. \u2022 4 yr. ago. Issue creating <b>Oklahoma Digital ID</b> with OK <b>Mobile ID</b>&nbsp;...",
+   "formattedUrl": "https://www.reddit.com/.../oklahoma/.../does_oklahoma_have_a_new_digit...",
+   "htmlFormattedUrl": "https://www.reddit.com/.../<b>oklahoma</b>/.../does_<b>oklahoma</b>_have_a_new_<b>digit</b>...",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:image": "https://share.redd.it/preview/post/1j31s1v",
+      "theme-color": "#000000",
+      "og:image:width": "1200",
+      "og:type": "website",
+      "og:image:alt": "An image containing a preview of the post",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "r/oklahoma on Reddit: Does Oklahoma have a new digital ID app?",
+      "og:site_name": "Reddit",
+      "og:title": "r/oklahoma on Reddit: Does Oklahoma have a new digital ID app?",
+      "og:image:height": "630",
+      "msapplication-navbutton-color": "#000000",
+      "og:description": "Posted by u/LzyPenguin - 1 vote and 10 comments",
+      "twitter:image": "https://share.redd.it/preview/post/1j31s1v",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "twitter:site": "@reddit",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "apple-mobile-web-app-capable": "yes",
+      "og:ttl": "600",
+      "og:url": "https://www.reddit.com/r/oklahoma/comments/1j31s1v/does_oklahoma_have_a_new_digital_id_app/?seeker-session=true"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "IDEMIA and Oklahoma Create Driver's License for Your Mobile Phone",
+   "htmlTitle": "IDEMIA and <b>Oklahoma</b> Create Driver&#39;s License for Your Mobile Phone",
+   "link": "https://www.idemia.com/press-release/idemia-and-oklahoma-create-drivers-license-your-mobile-phone-2019-11-08",
+   "displayLink": "www.idemia.com",
+   "snippet": "Nov 8, 2019 ... Businesses and organizations can verify the Oklahoma Mobile ID with confidence, as customers' information on the digital ID can be verified\u00a0...",
+   "htmlSnippet": "Nov 8, 2019 <b>...</b> Businesses and organizations can verify the <b>Oklahoma Mobile ID</b> with confidence, as customers&#39; information on the <b>digital ID</b> can be verified&nbsp;...",
+   "formattedUrl": "https://www.idemia.com/.../idemia-and-oklahoma-create-drivers-license-yo...",
+   "htmlFormattedUrl": "https://www.idemia.com/.../idemia-and-<b>oklahoma</b>-create-drivers-license-yo...",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:type": "article",
+      "article:published_time": "2019-11-08T07:31:02+00:00",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "IDEMIA and Oklahoma Create Driver\u2019s License for Your Mobile Phone | IDEMIA",
+      "og:site_name": "IDEMIA",
+      "article:modified_time": "2025-01-29T09:50:38+00:00",
+      "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes",
+      "twitter:description": "IDEMIA\u2122, the global leader in identity and security solutions, announced today that it has put the functionality of a physical\u2026",
+      "og:title": "IDEMIA and Oklahoma Create Driver\u2019s License for Your Mobile Phone | IDEMIA",
+      "og:locale": "en_US",
+      "og:url": "https://www.idemia.com/press-release/idemia-and-oklahoma-create-drivers-license-your-mobile-phone-2019-11-08",
+      "og:description": "IDEMIA\u2122, the global leader in identity and security solutions, announced today that it has put the functionality of a physical\u2026"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Background We are aware of at least eight states\u2014Alabama ...",
+   "htmlTitle": "Background We are aware of at least eight states\u2014Alabama ...",
+   "link": "https://www.akleg.gov/basis/get_documents.asp?session=32&docid=92772",
+   "displayLink": "www.akleg.gov",
+   "snippet": "Apr 12, 2022 ... \u2022 Louisiana's law authorized a $6 fee to be charged. ... See LA Wallet here. Oklahoma. DIGITAL DL COST: Oklahoma's Mobile ID app \u201cis available at\u00a0...",
+   "htmlSnippet": "Apr 12, 2022 <b>...</b> \u2022 Louisiana&#39;s <b>law</b> authorized a $6 fee to be charged. ... See LA Wallet here. <b>Oklahoma</b>. DIGITAL DL COST: <b>Oklahoma&#39;s Mobile ID</b> app \u201cis available at&nbsp;...",
+   "formattedUrl": "https://www.akleg.gov/basis/get_documents.asp?session=32&docid...",
+   "htmlFormattedUrl": "https://www.akleg.gov/basis/get_documents.asp?session=32&amp;docid...",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20220412113605-08'00'",
+      "creator": "Microsoft\u00ae Word for Microsoft 365",
+      "creationdate": "D:20220412113605-08'00'",
+      "author": "Jonathon Bates",
+      "producer": "Microsoft\u00ae Word for Microsoft 365"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "In re: Baycol Products Litigation Special Master PTO 78 MDL No ...",
+   "htmlTitle": "In re: Baycol Products Litigation Special Master PTO 78 <b>MDL</b> No ...",
+   "link": "https://www.mnd.uscourts.gov/sites/mnd/files/assessment34mason.pdf",
+   "displayLink": "www.mnd.uscourts.gov",
+   "snippet": "Lawyers from Strong, Martin & Associates and from Federman & Sherwood. [collectively, Oklahoma City Lawyers] negotiated a settlement for Ms. Mason. No MDL.",
+   "htmlSnippet": "Lawyers from Strong, Martin &amp; Associates and from Federman &amp; Sherwood. [collectively, <b>Oklahoma</b> City Lawyers] negotiated a settlement for Ms. Mason. No <b>MDL</b>.",
+   "formattedUrl": "https://www.mnd.uscourts.gov/sites/mnd/files/assessment34mason.pdf",
+   "htmlFormattedUrl": "https://www.mnd.uscourts.gov/sites/mnd/files/assessment34mason.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "Microsoft Word",
+      "creationdate": "D:20040527075116",
+      "author": "wegner",
+      "producer": "Acrobat PDFWriter 5.0 for Windows",
+      "title": "Assessment34Mason.doc"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Create your Sooner Card Mobile ID",
+   "htmlTitle": "Create your Sooner Card <b>Mobile ID</b>",
+   "link": "http://www.ou.edu/soonercard.html",
+   "displayLink": "www.ou.edu",
+   "snippet": "Create your Sooner Card Mobile ID ... The Sooner Card is the University of Oklahoma's official identification card for students, faculty and staff on the Norman\u00a0...",
+   "htmlSnippet": "Create your Sooner Card <b>Mobile ID</b> ... The Sooner Card is the University of <b>Oklahoma&#39;s</b> official identification card for students, faculty and staff on the Norman&nbsp;...",
+   "formattedUrl": "http://www.ou.edu/soonercard.html",
+   "htmlFormattedUrl": "http://www.ou.edu/soonercard.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUxkvydWgwnmrVi_LLE6RPhOtzjOFrpgQa4EdtayJCARU5SKyyTGCWr6kP&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.ou.edu/content/dam/website-wordmarks/ou-logo-square.png",
+      "og:type": "website",
+      "twitter:card": "summary",
+      "twitter:title": "Sooner Card",
+      "viewport": "width=device-width, inital-scale=1",
+      "twitter:description": "The University of Oklahoma",
+      "og:title": "Sooner Card",
+      "og:locale": "en_US",
+      "og:url": "http://www.ou.edu/soonercard.html",
+      "og:description": "The University of Oklahoma",
+      "twitter:image": "https://www.ou.edu/content/dam/website-wordmarks/ou-logo-square.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.ou.edu/content/dam/website-wordmarks/ou-logo-square.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile ID - IDEMIA North America",
+   "htmlTitle": "<b>Mobile ID</b> - IDEMIA North America",
+   "link": "https://na.idemia.com/dmv-2/mobile-id/",
+   "displayLink": "na.idemia.com",
+   "snippet": "Oklahoma Mobile ID \u00b7 Missouri Mobile ID. Proud Partner. Arizona State Sun Devils ... Law enforcement can use the Mobile ID Verify App to quickly and\u00a0...",
+   "htmlSnippet": "<b>Oklahoma Mobile ID</b> &middot; Missouri <b>Mobile ID</b>. Proud Partner. Arizona State Sun Devils ... <b>Law</b> enforcement can use the <b>Mobile ID</b> Verify App to quickly and&nbsp;...",
+   "formattedUrl": "https://na.idemia.com/dmv-2/mobile-id/",
+   "htmlFormattedUrl": "https://na.idemia.com/dmv-2/<b>mobile-id</b>/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxHpcEF-4IAIktISH1EFo875R0IYdQlElr1_UsOkobWrsP-Zq77AvDk1c&s",
+      "width": "204",
+      "height": "247"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://na.idemia.com/wp-content/uploads/2024/02/AdobeStock_397053130_1.png",
+      "og:type": "article",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "IDEMIA North America",
+      "tec-api-origin": "https://na.idemia.com",
+      "og:title": "Mobile ID - IDEMIA North America",
+      "og:image:height": "1454",
+      "twitter:label1": "Est. reading time",
+      "og:image:type": "image/png",
+      "msapplication-tileimage": "https://na.idemia.com/wp-content/uploads/2024/02/cropped-IDEMIA_Favicon-270x270.png",
+      "og:description": "Mobile ID Everything is on your phone. Now your ID is too. Everything is on your phone. Now your ID is too.\u200b Mobile ID adds a contactless way to verify [\u2026]",
+      "twitter:data1": "21 minutes",
+      "article:modified_time": "2025-05-06T20:48:04+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://na.idemia.com/dmv-2/mobile-id/",
+      "tec-api-version": "v1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://na.idemia.com/wp-content/uploads/2024/02/AdobeStock_397053130_1.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "SB0459: SUMMARY OF BILL REPORTED FROM COMMITTEE ...",
+   "htmlTitle": "SB0459: SUMMARY OF <b>BILL</b> REPORTED FROM COMMITTEE ...",
+   "link": "https://www.legislature.mi.gov/documents/2023-2024/billanalysis/Senate/htm/2023-SFA-0459-F.htm",
+   "displayLink": "www.legislature.mi.gov",
+   "snippet": "Nov 27, 2024 ... ... law enforcement, and for voting purposes. As the trend towards ... In February 2024, Oklahoma's mDL app was pulled from the market\u00a0...",
+   "htmlSnippet": "Nov 27, 2024 <b>...</b> ... <b>law</b> enforcement, and for voting purposes. As the trend towards ... In February 2024, <b>Oklahoma&#39;s mDL</b> app was pulled from the market&nbsp;...",
+   "formattedUrl": "https://www.legislature.mi.gov/.../2023.../billanalysis/.../2023-SFA-0459-F....",
+   "htmlFormattedUrl": "https://www.legislature.mi.gov/.../2023.../<b>bill</b>analysis/.../2023-SFA-0459-F....",
+   "pagemap": {
+    "metatags": [
+     {
+      "bill": "SB0459,SB0460,SB0461,SB0894",
+      "title": "SUMMARY OF BILL REPORTED FROM COMMITTEE (Date Completed: 11-27-24)"
+     }
+    ]
+   }
+  }
+ ]
+}

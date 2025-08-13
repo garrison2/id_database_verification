@@ -1,0 +1,301 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://dmv.ny.gov/ \"driver's license\" OR \"identification card\"",
+    "totalResults": "193",
+    "searchTerms": "site:https://dmv.ny.gov/ \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://dmv.ny.gov/ \"driver's license\" OR \"identification card\"",
+    "totalResults": "193",
+    "searchTerms": "site:https://dmv.ny.gov/ \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.115045,
+  "formattedSearchTime": "0.12",
+  "totalResults": "193",
+  "formattedTotalResults": "193"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Driver License | NY DMV",
+   "htmlTitle": "Driver License | NY DMV",
+   "link": "https://dmv.ny.gov/driver-license",
+   "displayLink": "dmv.ny.gov",
+   "snippet": "... driver's license or suspend or revoke their ability to drive. Find out what conditions require action from DMV and the steps to take if your license is\u00a0...",
+   "htmlSnippet": "... <b>driver&#39;s license</b> or suspend or revoke their ability to drive. Find out what conditions require action from DMV and the steps to take if your license is&nbsp;...",
+   "formattedUrl": "https://dmv.ny.gov/driver-license",
+   "htmlFormattedUrl": "https://dmv.ny.gov/driver-license",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:site_name": "NY DMV",
+      "og:image:url": "https://dmv.ny.gov/themes/custom/webny_core/images/nys-default.png",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width",
+      "og:description": "Resources on how to get a driver license in New York and use it safely."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Enhanced or REAL ID | NY DMV",
+   "htmlTitle": "Enhanced or REAL ID | NY DMV",
+   "link": "https://dmv.ny.gov/driver-license/enhanced-or-real-id",
+   "displayLink": "dmv.ny.gov",
+   "snippet": "Early Renewal With Conversion to a REAL or Enhanced Photo Document. You can normally only renew a New York State driver's license or non-driver ID card within\u00a0...",
+   "htmlSnippet": "Early Renewal With Conversion to a REAL or Enhanced Photo Document. You can normally only renew a New York State <b>driver&#39;s license</b> or non-driver ID card within&nbsp;...",
+   "formattedUrl": "https://dmv.ny.gov/driver-license/enhanced-or-real-id",
+   "htmlFormattedUrl": "https://dmv.ny.gov/driver-license/enhanced-or-real-id",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbIpgVSty4zlEOedGtnjkOcv0qKGReu6_E549PtwXjoEWXPKzvp6IMdbb1&s",
+      "width": "355",
+      "height": "142"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://dmv.ny.gov/sites/default/files/images/2021-06/real-id_getty.jpg",
+      "og:site_name": "NY DMV",
+      "og:image:url": "https://dmv.ny.gov/themes/custom/webny_core/images/nys-default.png",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width",
+      "og:description": "Your license, permit or ID must be REAL ID-compliant for you to use it to board a domestic flight."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.ny.gov/sites/default/files/images/2021-06/real-id_getty.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "New York State Commercial Driver's License (CDL) Manual | NY DMV",
+   "htmlTitle": "New York State Commercial <b>Driver&#39;s License</b> (CDL) Manual | NY DMV",
+   "link": "https://dmv.ny.gov/driver-license/commercial-drivers/new-york-state-commercial-drivers-manual",
+   "displayLink": "dmv.ny.gov",
+   "snippet": "Use the New York State Commercial Driver's License (CDL) Manual to study for the knowledge and skills tests you must pass to receive a CDL.",
+   "htmlSnippet": "Use the New York State Commercial <b>Driver&#39;s License</b> (CDL) Manual to study for the knowledge and skills tests you must pass to receive a CDL.",
+   "formattedUrl": "https://dmv.ny.gov/driver.../new-york-state-commercial-drivers-manual",
+   "htmlFormattedUrl": "https://dmv.ny.gov/driver.../new-york-state-commercial-drivers-manual",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:site_name": "NY DMV",
+      "og:image:url": "https://dmv.ny.gov/themes/custom/webny_core/images/nys-default.png",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width",
+      "og:description": "Use the New York State Commercial Driver's License (CDL) Manual to study for the knowledge and skills tests you must pass to receive a CDL."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver Licenses and the Green Light Law | NY DMV",
+   "htmlTitle": "Driver Licenses and the Green Light Law | NY DMV",
+   "link": "https://dmv.ny.gov/driver-license/driver-licenses-and-the-green-light-law",
+   "displayLink": "dmv.ny.gov",
+   "snippet": "Driver's License Access and Privacy Act, the Green Light Law, allows all New Yorkers 16 and older to apply for a standard, non-commercial driver license or\u00a0...",
+   "htmlSnippet": "<b>Driver&#39;s License</b> Access and Privacy Act, the Green Light Law, allows all New Yorkers 16 and older to apply for a standard, non-commercial driver license or&nbsp;...",
+   "formattedUrl": "https://dmv.ny.gov/driver-license/driver-licenses-and-the-green-light-law",
+   "htmlFormattedUrl": "https://dmv.ny.gov/driver-license/driver-licenses-and-the-green-light-law",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:site_name": "NY DMV",
+      "og:image:url": "https://dmv.ny.gov/themes/custom/webny_core/images/nys-default.png",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width",
+      "og:description": "Driver's License Access and Privacy Act, the Green Light Law, allows all New Yorkers 16 and older\u00a0to apply for a standard, non-commercial driver license or learner permit regardless of their citizenship or lawful status in the U.S."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Commercial Driver License (CDL) | NY DMV",
+   "htmlTitle": "Commercial Driver License (CDL) | NY DMV",
+   "link": "https://dmv.ny.gov/driver-license/commercial-driver-license",
+   "displayLink": "dmv.ny.gov",
+   "snippet": "New York State commercial driver's license standards require drivers of stretch limousines that carry nine or more passengers including the driver to hold\u00a0...",
+   "htmlSnippet": "New York State commercial <b>driver&#39;s license</b> standards require drivers of stretch limousines that carry nine or more passengers including the driver to hold&nbsp;...",
+   "formattedUrl": "https://dmv.ny.gov/driver-license/commercial-driver-license",
+   "htmlFormattedUrl": "https://dmv.ny.gov/driver-license/commercial-driver-license",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:site_name": "NY DMV",
+      "og:image:url": "https://dmv.ny.gov/themes/custom/webny_core/images/nys-default.png",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width",
+      "og:description": "Commercial Driver License (CDL) requirements, restrictions and law changes."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Adventure Licenses | NY DMV",
+   "htmlTitle": "Adventure Licenses | NY DMV",
+   "link": "https://dmv.ny.gov/driver-license/adventure-licenses",
+   "displayLink": "dmv.ny.gov",
+   "snippet": "Anyone successfully completing the New York Safe Boating Course or approved online boating safety course may opt to have their driver's license, non-driver\u00a0...",
+   "htmlSnippet": "Anyone successfully completing the New York Safe Boating Course or approved online boating safety course may opt to have their <b>driver&#39;s license</b>, non-driver&nbsp;...",
+   "formattedUrl": "https://dmv.ny.gov/driver-license/adventure-licenses",
+   "htmlFormattedUrl": "https://dmv.ny.gov/driver-license/adventure-licenses",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEvI9ywybH3DyNtvCPg9Fs6u5iiFTrPaCPaUL0rF-IzP7v4dM5iqsx9OE&s",
+      "width": "278",
+      "height": "182"
+     }
+    ],
+    "metatags": [
+     {
+      "og:site_name": "NY DMV",
+      "og:image:url": "https://dmv.ny.gov/themes/custom/webny_core/images/nys-default.png",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width",
+      "og:description": "DEC-issued Lifetime Sporting Licenses, Parks-issued Lifetime Empire Passports, and Boating Safety Certificates available"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.ny.gov/sites/default/files/styles/wysiwyg/public/images/2023-12/2021-o21-real-id-icons-web-only-216dpi-copy.png?itok=B-VD1BsI"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Medical Review Program | NY DMV",
+   "htmlTitle": "Medical Review Program | NY DMV",
+   "link": "https://dmv.ny.gov/driver-license/dmv-medical-review-program",
+   "displayLink": "dmv.ny.gov",
+   "snippet": "Medical consultants, who are board-certified physicians, help DMV make decisions about a driver's license. It is the Medical Review Unit's responsibility to.",
+   "htmlSnippet": "Medical consultants, who are board-certified physicians, help DMV make decisions about a <b>driver&#39;s license</b>. It is the Medical Review Unit&#39;s responsibility to.",
+   "formattedUrl": "https://dmv.ny.gov/driver-license/dmv-medical-review-program",
+   "htmlFormattedUrl": "https://dmv.ny.gov/driver-license/dmv-medical-review-program",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:site_name": "NY DMV",
+      "og:image:url": "https://dmv.ny.gov/themes/custom/webny_core/images/nys-default.png",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width",
+      "og:description": "The Medical Review Unit is responsible for investigating reports of drivers and license applicants who have a medical condition (mental or physical) that may interfere with the safe operation of a motor vehicle."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Renew a Driver License | NY DMV",
+   "htmlTitle": "Renew a Driver License | NY DMV",
+   "link": "https://dmv.ny.gov/driver-license/renew-a-driver-license",
+   "displayLink": "dmv.ny.gov",
+   "snippet": "have a commercial driver's license; have a temporary visitor date on your license. What to Bring. A completed renewal notice (MV-2). If you did not receive a\u00a0...",
+   "htmlSnippet": "have a commercial <b>driver&#39;s license</b>; have a temporary visitor date on your license. What to Bring. A completed renewal notice (MV-2). If you did not receive a&nbsp;...",
+   "formattedUrl": "https://dmv.ny.gov/driver-license/renew-a-driver-license",
+   "htmlFormattedUrl": "https://dmv.ny.gov/driver-license/renew-a-driver-license",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:site_name": "NY DMV",
+      "og:image:url": "https://dmv.ny.gov/themes/custom/webny_core/images/nys-default.png",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width",
+      "og:description": "Renew a Driver License."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Provide Proof of Insurance Coverage | NY DMV",
+   "htmlTitle": "Provide Proof of Insurance Coverage | NY DMV",
+   "link": "https://dmv.ny.gov/insurance/provide-proof-of-insurance-coverage",
+   "displayLink": "dmv.ny.gov",
+   "snippet": "The name and vehicle information on your insurance identification card must match your vehicle registration. You cannot provide proof of insurance by phone or\u00a0...",
+   "htmlSnippet": "The name and vehicle information on your insurance <b>identification card</b> must match your vehicle registration. You cannot provide proof of insurance by phone or&nbsp;...",
+   "formattedUrl": "https://dmv.ny.gov/insurance/provide-proof-of-insurance-coverage",
+   "htmlFormattedUrl": "https://dmv.ny.gov/insurance/provide-proof-of-insurance-coverage",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:site_name": "NY DMV",
+      "og:image:url": "https://dmv.ny.gov/themes/custom/webny_core/images/nys-default.png",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width",
+      "og:description": "Provide proof of insurance online or by mail, then DMV will verify your coverage with your insurance company."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "If a Family Member Has Passed Away | NY DMV",
+   "htmlTitle": "If a Family Member Has Passed Away | NY DMV",
+   "link": "https://dmv.ny.gov/more-info/if-a-family-member-has-passed-away",
+   "displayLink": "dmv.ny.gov",
+   "snippet": "On this page, you will find information that will help you take care of any issues with the deceased individual's driver's license and vehicle registration and\u00a0...",
+   "htmlSnippet": "On this page, you will find information that will help you take care of any issues with the deceased individual&#39;s <b>driver&#39;s license</b> and vehicle registration and&nbsp;...",
+   "formattedUrl": "https://dmv.ny.gov/more-info/if-a-family-member-has-passed-away",
+   "htmlFormattedUrl": "https://dmv.ny.gov/more-info/if-a-family-member-has-passed-away",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:site_name": "NY DMV",
+      "og:image:url": "https://dmv.ny.gov/themes/custom/webny_core/images/nys-default.png",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width",
+      "og:description": "How to resolve DMV issues if a family member has died."
+     }
+    ]
+   }
+  }
+ ]
+}

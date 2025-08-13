@@ -1,0 +1,480 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:itd.idaho.gov \"driver's license\" OR \"identification card\"",
+    "totalResults": "666",
+    "searchTerms": "site:itd.idaho.gov \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:itd.idaho.gov \"driver's license\" OR \"identification card\"",
+    "totalResults": "666",
+    "searchTerms": "site:itd.idaho.gov \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.113358,
+  "formattedSearchTime": "0.11",
+  "totalResults": "666",
+  "formattedTotalResults": "666"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Idaho's new driver's license and ID card are here | Idaho ...",
+   "htmlTitle": "Idaho&#39;s new <b>driver&#39;s license</b> and ID card are here | Idaho ...",
+   "link": "https://itd.idaho.gov/news/idahos-new-license-and-id-card-are-here/",
+   "displayLink": "itd.idaho.gov",
+   "snippet": "Apr 12, 2023 ... BOISE\u2014 Idaho has a new driver's license design. The Idaho Division of Motor Vehicles (DMV) launched the new cards today.",
+   "htmlSnippet": "Apr 12, 2023 <b>...</b> BOISE\u2014 Idaho has a new <b>driver&#39;s license</b> design. The Idaho Division of Motor Vehicles (DMV) launched the new cards today.",
+   "formattedUrl": "https://itd.idaho.gov/news/idahos-new-license-and-id-card-are-here/",
+   "htmlFormattedUrl": "https://itd.idaho.gov/news/idahos-new-license-and-id-card-are-here/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjkbizR6P-SXCCT3vr-6z2KMm1fZvx_XxQr5veprwr46AY8bKQX6Fp2-c&s",
+      "width": "276",
+      "height": "182"
+     }
+    ],
+    "organization": [
+     {
+      "logo": "https://itd.idaho.gov/wp-content/themes/idaho-webmaster/img/logo.svg",
+      "url": "https://itd.idaho.gov/"
+     }
+    ],
+    "metatags": [
+     {
+      "twitter:card": "BOISE\u2014 Idaho has a new driver\u2019s license design. The Idaho Division of Motor Vehicles (DMV) launched the new cards today. All new cards, renewals, and replacements will have the new design.",
+      "twitter:title": "Idaho\u2019s new driver\u2019s license and ID card are here",
+      "og:site_name": "Idaho Transportation Department",
+      "dcterms.language": "EN",
+      "author": "State of Idaho",
+      "og:title": "Idaho\u2019s new driver\u2019s license and ID card are here",
+      "dcterms.title": "Idaho\u2019s new driver\u2019s license and ID card are here",
+      "dcterms.creator": "State of Idaho",
+      "dcterms.description": "BOISE\u2014 Idaho has a new driver\u2019s license design. The Idaho Division of Motor Vehicles (DMV) launched the new cards today. All new cards, renewals, and replacements will have the new design.",
+      "dcterms.subject": "Idaho Transportation Department",
+      "dcterms.created": "2023-04-12T15:03:17",
+      "og:description": "BOISE\u2014 Idaho has a new driver\u2019s license design. The Idaho Division of Motor Vehicles (DMV) launched the new cards today. All new cards, renewals, and replacements will have the new design.",
+      "twitter:site": "@",
+      "dcterms.modified": "2023-05-18T07:29:41",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Visit our website for more information.",
+      "dcterms.publisher": "State of Idaho",
+      "og:locale": "en_US",
+      "dcterms.format": "text/html",
+      "og:url": "https://itd.idaho.gov/news/idahos-new-license-and-id-card-are-here/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://itd.idaho.gov/wp-content/uploads/2023/04/new-dl-website-image.jpg"
+     }
+    ],
+    "hatomfeed": [
+     {}
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Application for Extension of Idaho Driver's License or ID Card",
+   "htmlTitle": "Application for Extension of Idaho <b>Driver&#39;s License</b> or ID Card",
+   "link": "https://itd.idaho.gov/wp-content/uploads/2016/07/3153.pdf",
+   "displayLink": "itd.idaho.gov",
+   "snippet": "Telephone: (208) 584-4343. Use this form only if you are an Idaho resident living temporarily out of state. Driver's License. Identification Card.",
+   "htmlSnippet": "Telephone: (208) 584-4343. Use this form only if you are an Idaho resident living temporarily out of state. <b>Driver&#39;s License</b>. <b>Identification Card</b>.",
+   "formattedUrl": "https://itd.idaho.gov/wp-content/uploads/2016/07/3153.pdf",
+   "htmlFormattedUrl": "https://itd.idaho.gov/wp-content/uploads/2016/07/3153.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdN4MaAK6BUairaW7gcBGW4tz9YKmEFlhQpAlbJu3sf1ssRkGhsDpjKrpu&s",
+      "width": "133",
+      "height": "132"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20250305093817-07'00'",
+      "creationdate": "D:20220412144335-06'00'",
+      "creator": "Acrobat PDFMaker 21 for Word",
+      "sourcemodified": "D:20220412204226",
+      "author": "Lynn Rhodes",
+      "producer": "Adobe PDF Library 21.11.71",
+      "company": "State of Idaho",
+      "title": "Application for Extension of Idaho Driver's License or ID Card"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///7b147c19eed9e7abcd36b691a3a55c58e724631820e2315b486058b9125ea644"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DMV | Idaho Transportation Department",
+   "htmlTitle": "DMV | Idaho Transportation Department",
+   "link": "https://itd.idaho.gov/itddmv/",
+   "displayLink": "itd.idaho.gov",
+   "snippet": "... driver's license or identification card. Proof of Idaho Residency \u2014 You must reside in Idaho to be issued an Idaho driver's license or identification card.",
+   "htmlSnippet": "... <b>driver&#39;s license</b> or <b>identification card</b>. Proof of Idaho Residency \u2014 You must reside in Idaho to be issued an Idaho <b>driver&#39;s license</b> or <b>identification card</b>.",
+   "formattedUrl": "https://itd.idaho.gov/itddmv/",
+   "htmlFormattedUrl": "https://itd.idaho.gov/itddmv/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe2TEjm6oWkfLA4T-ZsA85qys3ibq9hAgJ6epaHbQ8GRzNxguxxDUWCcw&s",
+      "width": "286",
+      "height": "176"
+     }
+    ],
+    "organization": [
+     {
+      "logo": "https://itd.idaho.gov/wp-content/themes/idaho-webmaster/img/logo.svg",
+      "url": "https://itd.idaho.gov/"
+     }
+    ],
+    "metatags": [
+     {
+      "twitter:card": "Did you receive a text with false claims you owe money to DMV? Do not engage with this phishing scam. Report and block fraudulent text. [tabby title=\"DMV Online\"] [maxbutton id=\"17\"] \u00a0 \u00a0Log in to track plate orders.",
+      "twitter:title": "DMV",
+      "og:site_name": "Idaho Transportation Department",
+      "dcterms.language": "EN",
+      "author": "State of Idaho",
+      "og:title": "DMV",
+      "dcterms.title": "DMV",
+      "dcterms.creator": "State of Idaho",
+      "dcterms.description": "Did you receive a text with false claims you owe money to DMV? Do not engage with this phishing scam. Report and block fraudulent text. [tabby title=\"DMV Online\"] [maxbutton id=\"17\"] \u00a0 \u00a0Log in to track plate orders.",
+      "dcterms.subject": "Idaho Transportation Department",
+      "dcterms.created": "2019-05-20T10:17:25",
+      "og:description": "Did you receive a text with false claims you owe money to DMV? Do not engage with this phishing scam. Report and block fraudulent text. [tabby title=\"DMV Online\"] [maxbutton id=\"17\"] \u00a0 \u00a0Log in to track plate orders.",
+      "twitter:site": "@",
+      "dcterms.modified": "2025-08-08T15:39:15",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Visit our website for more information.",
+      "dcterms.publisher": "State of Idaho",
+      "og:locale": "en_US",
+      "dcterms.format": "text/html",
+      "og:url": "https://itd.idaho.gov/itddmv/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://itd.idaho.gov/wp-content/themes/idaho-webmaster/img/inline-map.svg.php?primary=214b82&secondary=7696C9"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Commercial Driver's License",
+   "htmlTitle": "Commercial <b>Driver&#39;s License</b>",
+   "link": "https://itd.idaho.gov/wp-content/uploads/2021/09/DMV_CDL_Types.pdf",
+   "displayLink": "itd.idaho.gov",
+   "snippet": "Drivers of passenger cars need a Class D driver's license. CLASS A. Combination vehicles with a gross combination weight rating (GVCWR) of 26,001 pound or more\u00a0...",
+   "htmlSnippet": "Drivers of passenger cars need a Class D <b>driver&#39;s license</b>. CLASS A. Combination vehicles with a gross combination weight rating (GVCWR) of 26,001 pound or more&nbsp;...",
+   "formattedUrl": "https://itd.idaho.gov/wp-content/uploads/2021/09/DMV_CDL_Types.pdf",
+   "htmlFormattedUrl": "https://itd.idaho.gov/wp-content/uploads/2021/09/DMV_CDL_Types.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAnANv9Fa3UxIgm1G7lIoCsbQsP4FaNCRhM1hIH2u5YZ18OAKQ2xlt6U&s",
+      "width": "211",
+      "height": "239"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20240221152556-07'00'",
+      "creationdate": "D:20210609160819-06'00'",
+      "creator": "Adobe InDesign 16.0 (Windows)",
+      "producer": "Adobe PDF Library 15.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///8eb2a29ef963ccc2567f2e65a0aadc6d1f2208491548b569282242f18bc551c9"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Voluntarily Surrendering A Driver's License",
+   "htmlTitle": "Voluntarily Surrendering A <b>Driver&#39;s License</b>",
+   "link": "https://itd.idaho.gov/wp-content/uploads/2023/11/3220.pdf",
+   "displayLink": "itd.idaho.gov",
+   "snippet": "I am no longer driving due to medical or visual reasons, and I would like to voluntarily surrender my driver's license for a No-Fee Identification Card.",
+   "htmlSnippet": "I am no longer driving due to medical or visual reasons, and I would like to voluntarily surrender my <b>driver&#39;s license</b> for a No-Fee <b>Identification Card</b>.",
+   "formattedUrl": "https://itd.idaho.gov/wp-content/uploads/2023/11/3220.pdf",
+   "htmlFormattedUrl": "https://itd.idaho.gov/wp-content/uploads/2023/11/3220.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUGm7oYKGdeoZkEg6teeE1dDFlL-YygxTSC-hpApzb1SWgYQ-sOfpGC6GR&s",
+      "width": "226",
+      "height": "223"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20250716103035-06'00'",
+      "creationdate": "D:20180124134505-07'00'",
+      "creator": "Acrobat PDFMaker 11 for Word",
+      "sourcemodified": "D:20170824174907",
+      "author": "Alyssa Valdez",
+      "producer": "Adobe PDF Library 11.0",
+      "company": "Idaho Transportation Department",
+      "title": "Voluntarily Surrendering A Driver\u2019s License"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///f4f60dc55d4dd51ff8d8e7128f7d448dcd4d09c8e4be31334aa302ad78c80e48"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Request For Driver's License Cancellation Idaho Transportation ...",
+   "htmlTitle": "Request For <b>Driver&#39;s License</b> Cancellation Idaho Transportation ...",
+   "link": "https://itd.idaho.gov/wp-content/uploads/2016/07/0015.pdf",
+   "displayLink": "itd.idaho.gov",
+   "snippet": "Withdrawal of responsibility as a liability signer for a minor child's Idaho Driver's License. Instructions. \u2022 All cancellations complete Section 1.",
+   "htmlSnippet": "Withdrawal of responsibility as a liability signer for a minor child&#39;s Idaho <b>Driver&#39;s License</b>. Instructions. \u2022 All cancellations complete Section 1.",
+   "formattedUrl": "https://itd.idaho.gov/wp-content/uploads/2016/07/0015.pdf",
+   "htmlFormattedUrl": "https://itd.idaho.gov/wp-content/uploads/2016/07/0015.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmkDTEQsVf_HDGSGAYT3Kqz6KR4wXzxqUGy2861KS8BerpGVZnZVlAAIQ&s",
+      "width": "165",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20241107143312-07'00'",
+      "creationdate": "D:20231011135232-06'00'",
+      "creator": "Acrobat PDFMaker 23 for Word",
+      "comments": "WP-Janena",
+      "sourcemodified": "D:20231011132540",
+      "author": "Lynn Rhodes",
+      "subject": "Voluntary Surrender of Driver's License",
+      "producer": "Adobe PDF Library 23.3.45",
+      "company": "ITD",
+      "title": "Request For Driver\u2019s License Cancellation"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///e1b33bd923a49b23369315d81b0fe12b2880e5695b9765749b596c97707708ac"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "idaho's veteran designation",
+   "htmlTitle": "idaho&#39;s veteran designation",
+   "link": "https://itd.idaho.gov/wp-content/uploads/2019/08/Veterans_Designation.pdf",
+   "displayLink": "itd.idaho.gov",
+   "snippet": "Fees can be found at dmv.idaho.gov under the. Driver's License and Identification Card section. The designation is permanent. There will be no additional\u00a0...",
+   "htmlSnippet": "Fees can be found at dmv.idaho.gov under the. <b>Driver&#39;s License</b> and <b>Identification Card</b> section. The designation is permanent. There will be no additional&nbsp;...",
+   "formattedUrl": "https://itd.idaho.gov/wp-content/uploads/2019/.../Veterans_Designation.pdf",
+   "htmlFormattedUrl": "https://itd.idaho.gov/wp-content/uploads/2019/.../Veterans_Designation.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGxYnuafNnTjrFqqYTqvylgCk6Pz9He_MOWES5LgrDP0MUm3vEw46XNhC3&s",
+      "width": "282",
+      "height": "178"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20240222085810-07'00'",
+      "creationdate": "D:20150319161959-07'00'",
+      "creator": "QuarkXPress(R) 10.21",
+      "xpressprivate": "%%DocumentProcessColors: Cyan Magenta Yellow Black %%EndComments",
+      "producer": "QuarkXPress(R) 10.21",
+      "title": "CDL Lic. Brochure 3659"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///73b950219ede2f369a6c36a111f27ff3b5021fab6b6deea045c3091a15449b1b"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Idaho DMV removes convenience fees for online driver's license ...",
+   "htmlTitle": "Idaho DMV removes convenience fees for online <b>driver&#39;s license</b> ...",
+   "link": "https://itd.idaho.gov/news/dmv-removes-online-dl-renewal-fees/",
+   "displayLink": "itd.idaho.gov",
+   "snippet": "Apr 7, 2023 ... The Idaho Division of Motor Vehicles (DMV) removed convenience fees for online driver's license transactions and passed the savings on to customers.",
+   "htmlSnippet": "Apr 7, 2023 <b>...</b> The Idaho Division of Motor Vehicles (DMV) removed convenience fees for online <b>driver&#39;s license</b> transactions and passed the savings on to customers.",
+   "formattedUrl": "https://itd.idaho.gov/news/dmv-removes-online-dl-renewal-fees/",
+   "htmlFormattedUrl": "https://itd.idaho.gov/news/dmv-removes-online-dl-renewal-fees/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5ELkvQa4hptVZxa36bmoRvd4CDL0prBp8bztJq2gytltFu8-q_TScYtc&s",
+      "width": "276",
+      "height": "182"
+     }
+    ],
+    "organization": [
+     {
+      "logo": "https://itd.idaho.gov/wp-content/themes/idaho-webmaster/img/logo.svg",
+      "url": "https://itd.idaho.gov/"
+     }
+    ],
+    "metatags": [
+     {
+      "twitter:card": "BOISE\u2014Idaho driver\u2019s licenses and ID cards are now available at a reduced cost online. The Idaho Division of Motor Vehicles (DMV) removed convenience fees for online driver\u2019s license transactions and passed the savings on to customers.",
+      "twitter:title": "Idaho DMV removes convenience fees for online driver\u2019s license renewals",
+      "og:site_name": "Idaho Transportation Department",
+      "dcterms.language": "EN",
+      "author": "State of Idaho",
+      "og:title": "Idaho DMV removes convenience fees for online driver\u2019s license renewals",
+      "dcterms.title": "Idaho DMV removes convenience fees for online driver\u2019s license renewals",
+      "dcterms.creator": "State of Idaho",
+      "dcterms.description": "BOISE\u2014Idaho driver\u2019s licenses and ID cards are now available at a reduced cost online. The Idaho Division of Motor Vehicles (DMV) removed convenience fees for online driver\u2019s license transactions and passed the savings on to customers.",
+      "dcterms.subject": "Idaho Transportation Department",
+      "dcterms.created": "2023-04-07T13:55:02",
+      "og:description": "BOISE\u2014Idaho driver\u2019s licenses and ID cards are now available at a reduced cost online. The Idaho Division of Motor Vehicles (DMV) removed convenience fees for online driver\u2019s license transactions and passed the savings on to customers.",
+      "twitter:site": "@",
+      "dcterms.modified": "2023-05-03T12:06:09",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Visit our website for more information.",
+      "dcterms.publisher": "State of Idaho",
+      "og:locale": "en_US",
+      "dcterms.format": "text/html",
+      "og:url": "https://itd.idaho.gov/news/dmv-removes-online-dl-renewal-fees/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://itd.idaho.gov/wp-content/uploads/2022/10/DMV_Logo_News_530x350.png"
+     }
+    ],
+    "hatomfeed": [
+     {}
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "First Driver's License | Idaho Transportation Department",
+   "htmlTitle": "First <b>Driver&#39;s License</b> | Idaho Transportation Department",
+   "link": "https://itd.idaho.gov/wp-content/uploads/2018/08/DMV_First-License.pdf",
+   "displayLink": "itd.idaho.gov",
+   "snippet": "There are numerous requirements for youth under 18 to receive a driver's license. This brochure explains what you need to do to become a first-time driver.",
+   "htmlSnippet": "There are numerous requirements for youth under 18 to receive a <b>driver&#39;s license</b>. This brochure explains what you need to do to become a first-time driver.",
+   "formattedUrl": "https://itd.idaho.gov/wp-content/uploads/2018/08/DMV_First-License.pdf",
+   "htmlFormattedUrl": "https://itd.idaho.gov/wp-content/uploads/2018/08/DMV_First-License.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNGCoFJYeLbhruN6MUp-bEJlPFwZTpCHgQyylhM2BS-ylPn-Y17uNi25A&s",
+      "width": "274",
+      "height": "184"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20240221151158-07'00'",
+      "creationdate": "D:20210608134618-06'00'",
+      "creator": "Adobe InDesign 16.0 (Windows)",
+      "producer": "Adobe PDF Library 15.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///62189674f80b818c163a5f826c7abc431fb3b7f684d54668530419134f1eba21"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Application for Replacement Idaho Driver's License or Identification ...",
+   "htmlTitle": "Application for Replacement Idaho <b>Driver&#39;s License</b> or <b>Identification</b> ...",
+   "link": "https://itd.idaho.gov/wp-content/uploads/2016/07/0020.pdf",
+   "displayLink": "itd.idaho.gov",
+   "snippet": "... driver's license, instruction permit, or identification card in any other jurisdiction. If applying for a driver's license, I state that I am responsible\u00a0...",
+   "htmlSnippet": "... <b>driver&#39;s license</b>, instruction permit, or <b>identification card</b> in any other jurisdiction. If applying for a <b>driver&#39;s license</b>, I state that I am responsible&nbsp;...",
+   "formattedUrl": "https://itd.idaho.gov/wp-content/uploads/2016/07/0020.pdf",
+   "htmlFormattedUrl": "https://itd.idaho.gov/wp-content/uploads/2016/07/0020.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUGm7oYKGdeoZkEg6teeE1dDFlL-YygxTSC-hpApzb1SWgYQ-sOfpGC6GR&s",
+      "width": "226",
+      "height": "223"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20240524104435-06'00'",
+      "creationdate": "D:20210616101144-06'00'",
+      "creator": "PScript5.dll Version 5.2.2",
+      "author": "zedwards",
+      "producer": "Acrobat Distiller 17.0 (Windows)",
+      "title": "Application for Replacement"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///f4f60dc55d4dd51ff8d8e7128f7d448dcd4d09c8e4be31334aa302ad78c80e48"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

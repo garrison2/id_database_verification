@@ -1,0 +1,446 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Oregon\" \"privacy act\" OR \"privacy law\"",
+    "totalResults": "10400000",
+    "searchTerms": "\"Oregon\" \"privacy act\" OR \"privacy law\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Oregon\" \"privacy act\" OR \"privacy law\"",
+    "totalResults": "10400000",
+    "searchTerms": "\"Oregon\" \"privacy act\" OR \"privacy law\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.227901,
+  "formattedSearchTime": "0.23",
+  "totalResults": "10400000",
+  "formattedTotalResults": "10,400,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Consumer Privacy - Oregon Department of Justice : Consumer ...",
+   "htmlTitle": "Consumer Privacy - <b>Oregon</b> Department of Justice : Consumer ...",
+   "link": "https://www.doj.state.or.us/consumer-protection/id-theft-data-breaches/privacy/",
+   "displayLink": "www.doj.state.or.us",
+   "snippet": "The Oregon Legislature passed Senate Bill 619 \u00bb, a consumer privacy law (the \u201cOregon Consumer Privacy Act\u201d or \u201cthe law\u201d).",
+   "htmlSnippet": "The <b>Oregon</b> Legislature passed Senate Bill 619 \u00bb, a consumer <b>privacy law</b> (the \u201cOregon Consumer Privacy Act\u201d or \u201cthe law\u201d).",
+   "formattedUrl": "https://www.doj.state.or.us/consumer-protection/id-theft-data.../privacy/",
+   "htmlFormattedUrl": "https://www.doj.state.or.us/consumer-protection/id-theft-data.../privacy/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo5-gz8so5gzNxuDdL9CS76hzNHeOnxrw_OG6a2oymMzrpVtKw8uvZLBCq&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Oregon Department of Justice",
+      "tec-api-origin": "https://www.doj.state.or.us",
+      "og:title": "Consumer Privacy - Oregon Department of Justice",
+      "twitter:label1": "Est. reading time",
+      "og:description": "Talk to Us Believe your privacy rights have been violated? Had a problem trying to request your privacy rights from a business? Tell us about it by submitting a complaint. Complaint Form If you have any questions, or aren\u2019t sure if your complaint is OCPA related, call the DOJ Consumer Hotline at 1-877-877-9392. Oregon Consumer... View Page",
+      "twitter:data1": "7 minutes",
+      "article:modified_time": "2025-04-21T19:38:21+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.doj.state.or.us/consumer-protection/id-theft-data-breaches/privacy/",
+      "tec-api-version": "v1",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.doj.state.or.us/wp-content/uploads/2024/07/PrivacyData.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Senate Bill 619",
+   "htmlTitle": "Senate Bill 619",
+   "link": "https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/SB619/Enrolled",
+   "displayLink": "olis.oregonlegislature.gov",
+   "snippet": "Jun 22, 2023 ... (20) \u201cThird party\u201d means a person, a public corporation, including the Oregon Health and. Science University and the Oregon State Bar, or a\u00a0...",
+   "htmlSnippet": "Jun 22, 2023 <b>...</b> (20) \u201cThird party\u201d means a person, a public corporation, including the <b>Oregon</b> Health and. Science University and the <b>Oregon</b> State Bar, or a&nbsp;...",
+   "formattedUrl": "https://olis.oregonlegislature.gov/liz/2023R1/Downloads/.../Enrolled",
+   "htmlFormattedUrl": "https://olis.<b>oregon</b>legislature.gov/liz/2023R1/Downloads/.../Enrolled",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20230623180650-08'00'",
+      "creationdate": "D:20230623180650-08'00'",
+      "creator": "DocConverter http://www.activepdf.com",
+      "author": "HOGANB2",
+      "producer": "ActivePDF DocConverter",
+      "title": "SB0619",
+      "aptkver": "10.2.0.21350 Pro Production-32"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Privacy Law FAQs for Businesses - Oregon Department of Justice ...",
+   "htmlTitle": "<b>Privacy Law</b> FAQs for Businesses - <b>Oregon</b> Department of Justice ...",
+   "link": "https://www.doj.state.or.us/consumer-protection/for-businesses/privacy-law-faqs-for-businesses/",
+   "displayLink": "www.doj.state.or.us",
+   "snippet": "Privacy Law FAQs for Businesses. In June 2023, the Oregon Legislature passed Senate Bill 619 \u00bb, the Oregon Consumer Privacy Act or \u201cthe law\u201d.",
+   "htmlSnippet": "<b>Privacy Law</b> FAQs for Businesses. In June 2023, the <b>Oregon</b> Legislature passed Senate Bill 619 \u00bb, the <b>Oregon</b> Consumer <b>Privacy Act</b> or \u201cthe law\u201d.",
+   "formattedUrl": "https://www.doj.state.or.us/consumer.../for.../privacy-law-faqs-for-businesse...",
+   "htmlFormattedUrl": "https://www.doj.state.or.us/consumer.../for.../<b>privacy-law</b>-faqs-for-businesse...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSei1cJz9Pe-1xwc6aqwH9uPeK43MMsrIT_y0dPsrWyX3pqpskcGGGzlqu&s",
+      "width": "236",
+      "height": "213"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Oregon Department of Justice",
+      "tec-api-origin": "https://www.doj.state.or.us",
+      "og:title": "Privacy Law FAQs for Businesses - Oregon Department of Justice",
+      "twitter:label1": "Est. reading time",
+      "og:description": "In June 2023, the Oregon Legislature passed Senate Bill 619 \u00bb, the Oregon Consumer Privacy Act or \u201cthe law\u201d. The Oregon Consumer Privacy Act, ORS 646A.570-646A.589 \u00bb, was signed into law by Governor Kotek and takes effect on July 1, 2024. The Department of Justice has put together Frequently Asked Questions (FAQs) for consumers and... View Page",
+      "twitter:data1": "1 minute",
+      "article:modified_time": "2024-10-01T19:35:31+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.doj.state.or.us/consumer-protection/for-businesses/privacy-law-faqs-for-businesses/",
+      "tec-api-version": "v1",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.doj.state.or.us/wp-content/themes/OregonDOJ/img/header/header_DOJ_seal.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Oregon Passes Comprehensive Data Privacy Law | White & Case LLP",
+   "htmlTitle": "<b>Oregon</b> Passes Comprehensive Data <b>Privacy Law</b> | White &amp; Case LLP",
+   "link": "https://www.whitecase.com/insight-alert/oregon-passes-comprehensive-data-privacy-law",
+   "displayLink": "www.whitecase.com",
+   "snippet": "Sep 20, 2023 ... ... Oregon Consumer Privacy Act\"), Oregon's new state consumer privacy law, which will become effective July 1, 2024. Oregon now joins\u00a0...",
+   "htmlSnippet": "Sep 20, 2023 <b>...</b> ... <b>Oregon</b> Consumer <b>Privacy Act</b>&quot;), <b>Oregon&#39;s</b> new state consumer <b>privacy law</b>, which will become effective July 1, 2024. <b>Oregon</b> now joins&nbsp;...",
+   "formattedUrl": "https://www.whitecase.com/.../oregon-passes-comprehensive-data-privacy-l...",
+   "htmlFormattedUrl": "https://www.whitecase.com/.../<b>oregon</b>-passes-comprehensive-data-<b>privacy-l</b>...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpo4pfuXDkauWUukH4k06m6nCNEVYq7FzWZsUgrC9INNW4bCDahPqfKn0&s",
+      "width": "367",
+      "height": "137"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.whitecase.com/sites/default/files/images/hero/2022/08/client_alerts_option_9_4000x1500.jpg",
+      "og:image:width": "1600",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Oregon Passes Comprehensive Data Privacy Law",
+      "handheldfriendly": "true",
+      "og:title": "Oregon Passes Comprehensive Data Privacy Law | White & Case LLP",
+      "og:image:height": "600",
+      "og:description": "On July 18, 2023, Oregon Governor Tina Kotek signed into law Senate Bill 619 (the \"Oregon Consumer Privacy Act\"), Oregon's new state consumer privacy law, which will become effective July 1, 2024. Oregon now joins California, Utah, Colorado, Connecticut, Virginia, Iowa, Indiana, Tennessee, Montana, Texas, and Florida, (together, \"US State Data Privacy Laws\") as states with their own consumer privacy laws. Many state legislatures have been quite active in enacting state data privacy laws this year.",
+      "twitter:image": "https://www.whitecase.com/sites/default/files/images/hero/2022/08/client_alerts_option_9_4000x1500.jpg",
+      "twitter:site": "@WhiteCase",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "On July 18, 2023, Oregon Governor Tina Kotek signed into law Senate Bill 619 (the \"Oregon Consumer Privacy Act\"), Oregon's new state consumer privacy law, which will become effective July 1, 2024. Oregon now joins California, Utah, Colorado, Connecticut, Virginia, Iowa, Indiana, Tennessee, Montana, Texas, and Florida, (together, \"US State Data Privacy Laws\") as states with their own consumer privacy laws. Many state legislatures have been quite active in enacting state data privacy laws this year.",
+      "mobileoptimized": "width",
+      "og:url": "https://www.whitecase.com/insight-alert/oregon-passes-comprehensive-data-privacy-law"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.whitecase.com/sites/default/files/images/hero/2022/08/client_alerts_option_9_4000x1500.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Oregon Data Privacy Law: An Overview",
+   "htmlTitle": "The <b>Oregon</b> Data <b>Privacy Law</b>: An Overview",
+   "link": "https://www.cliffordchance.com/insights/resources/blogs/talking-tech/en/articles/2023/12/the-oregon-data-privacy-law-an-overview.html",
+   "displayLink": "www.cliffordchance.com",
+   "snippet": "Jan 4, 2024 ... The Oregon Data Privacy Law: An Overview ... On July 18, 2023, Oregon governor Tina Kotek signed the Oregon Consumer Data Privacy Act (the Oregon\u00a0...",
+   "htmlSnippet": "Jan 4, 2024 <b>...</b> The <b>Oregon</b> Data <b>Privacy Law</b>: An Overview ... On July 18, 2023, <b>Oregon</b> governor Tina Kotek signed the <b>Oregon</b> Consumer Data <b>Privacy Act</b> (the <b>Oregon</b>&nbsp;...",
+   "formattedUrl": "https://www.cliffordchance.com/.../the-oregon-data-privacy-law-an-overvie...",
+   "htmlFormattedUrl": "https://www.cliffordchance.com/.../the-<b>oregon</b>-data-<b>privacy-law</b>-an-overvie...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3SBh0MNCh3A8a1h-Sx-5eBLs8Sgg-xGtwX-tnlJQAJSAypMR2rb_yYvA&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.cliffordchance.com/content/dam/microsites/talkingtech/Images-Socials/2024/oregon_102570004_1200x630px.jpg",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "The Oregon Data Privacy Law: An Overview | Clifford Chance",
+      "og:site_name": "Clifford Chance",
+      "twitter:site": "@Clifford_Chance",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "The Oregon Data Privacy Law: An Overview | Clifford Chance",
+      "og:url": "https://www.cliffordchance.com/content/cliffordchance/insights/resources/blogs/talking-tech/en/articles/2023/12/the-oregon-data-privacy-law-an-overview.html",
+      "twitter:image": "https://www.cliffordchance.com/content/dam/microsites/talkingtech/Images-Socials/2024/oregon_102570004_1200x630px.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.cliffordchance.com/content/dam/microsites/talkingtech/Images-Socials/2024/oregon_102570004_1200x630px.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Oregon Privacy Law - LexisNexis Risk Solutions Consumer Disclosure",
+   "htmlTitle": "<b>Oregon Privacy Law</b> - LexisNexis Risk Solutions Consumer Disclosure",
+   "link": "https://consumer.risk.lexisnexis.com/oregon",
+   "displayLink": "consumer.risk.lexisnexis.com",
+   "snippet": "... Oregon residents to exercise their rights under the Oregon Consumer Privacy Act (OCPA) (referred to below as the \"Oregon Privacy Laws\"). LexisNexis Risk\u00a0...",
+   "htmlSnippet": "... <b>Oregon</b> residents to exercise their rights under the <b>Oregon</b> Consumer <b>Privacy Act</b> (OCPA) (referred to below as the &quot;<b>Oregon</b> Privacy Laws&quot;). LexisNexis Risk&nbsp;...",
+   "formattedUrl": "https://consumer.risk.lexisnexis.com/oregon",
+   "htmlFormattedUrl": "https://consumer.risk.lexisnexis.com/<b>oregon</b>",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Oregon's Consumer Privacy Act: The A to Z of the OCPA | Osano",
+   "htmlTitle": "<b>Oregon&#39;s</b> Consumer <b>Privacy Act</b>: The A to Z of the OCPA | Osano",
+   "link": "https://www.osano.com/articles/oregon-consumer-privacy-act-ocpa",
+   "displayLink": "www.osano.com",
+   "snippet": "Oct 17, 2023 ... What Is the Oregon Consumer Privacy Act? Without a federal privacy law in place, the OCPA serves as Oregon's approach to addressing consumer\u00a0...",
+   "htmlSnippet": "Oct 17, 2023 <b>...</b> What Is the <b>Oregon</b> Consumer <b>Privacy Act</b>? Without a federal <b>privacy law</b> in place, the OCPA serves as <b>Oregon&#39;s</b> approach to addressing consumer&nbsp;...",
+   "formattedUrl": "https://www.osano.com/articles/oregon-consumer-privacy-act-ocpa",
+   "htmlFormattedUrl": "https://www.osano.com/articles/<b>oregon</b>-consumer-<b>privacy-act</b>-ocpa",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUjaCGK1ahRoa0ODDlI3fDpKgRP7CDRiTYzwvl4mGHVD_Y3XHV-QIpWkq6&s",
+      "width": "318",
+      "height": "159"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "%23ffffff",
+      "og:image": "https://www.osano.com/hubfs/Data%20Privacy%20Platform%20Feature%20Announcement%20%2832%29.png",
+      "twitter:title": "Oregon\u2019s Consumer Privacy Act: The A to Z of the OCPA",
+      "theme-color": "%23ffffff",
+      "og:image:width": "1024",
+      "og:image:alt": "Image of an Oregon City",
+      "twitter:card": "summary_large_image",
+      "og:type": "article",
+      "twitter:domain": "www.osano.com",
+      "og:title": "Oregon\u2019s Consumer Privacy Act: The A to Z of the OCPA",
+      "og:image:height": "512",
+      "msapplication-tileimage": "https://www.osano.com/hubfs/v2/icons/favicon/ms-icon-144x144.png",
+      "og:description": "Oregon has joined the ranks of states with a comprehensive data privacy law. Find out how to comply here.",
+      "twitter:image": "https://www.osano.com/hubfs/Data%20Privacy%20Platform%20Feature%20Announcement%20%2832%29.png",
+      "referrer": "same-origin",
+      "twitter:image:alt": "Image of an Oregon City",
+      "twitter:site": "@Osano",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Oregon has joined the ranks of states with a comprehensive data privacy law. Find out how to comply here.",
+      "og:url": "https://www.osano.com/articles/oregon-consumer-privacy-act-ocpa"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.osano.com/hubfs/Data%20Privacy%20Platform%20Feature%20Announcement%20%2832%29.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Oregon Consumer Privacy Act (OCPA): An Overview",
+   "htmlTitle": "<b>Oregon</b> Consumer <b>Privacy Act</b> (OCPA): An Overview",
+   "link": "https://usercentrics.com/knowledge-hub/oregon-consumer-privacy-act-ocpa/",
+   "displayLink": "usercentrics.com",
+   "snippet": "Jan 28, 2025 ... We look at the Oregon Consumer Privacy Act (OCPA) and what the Oregon data privacy law means for Oregon residents and organizations\u00a0...",
+   "htmlSnippet": "Jan 28, 2025 <b>...</b> We look at the <b>Oregon</b> Consumer <b>Privacy Act</b> (OCPA) and what the <b>Oregon</b> data <b>privacy law</b> means for <b>Oregon</b> residents and organizations&nbsp;...",
+   "formattedUrl": "https://usercentrics.com/knowledge.../oregon-consumer-privacy-act-ocpa/",
+   "htmlFormattedUrl": "https://usercentrics.com/knowledge.../<b>oregon</b>-consumer-<b>privacy-act</b>-ocpa/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW4Zsfo_r4TeVElH29xYe-gyYwnGNYiA3AkalmSmvLgJz0QYesL2vpM7CK&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://usercentrics.com/wp-content/uploads/2023/09/uc_some_ocpa_012125_a.jpg",
+      "og:type": "article",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Oregon Consumer Privacy Act (OCPA): An Overview",
+      "og:site_name": "Consent Management Platform (CMP) Usercentrics",
+      "og:title": "Oregon Consumer Privacy Act (OCPA): An Overview",
+      "og:image:height": "630",
+      "twitter:label1": "Est. reading time",
+      "og:image:type": "image/jpeg",
+      "og:description": "We look at the Oregon Consumer Privacy Act (OCPA) and what the Oregon data privacy law means for Oregon residents and organizations operating in the state.",
+      "article:publisher": "https://www.facebook.com/usercentrics",
+      "twitter:image": "https://usercentrics.com/wp-content/uploads/2023/09/uc_some_ocpa_012125_a.jpg",
+      "twitter:data1": "23 minutes",
+      "facebook-domain-verification": "qcyltpqnixyhg6s4cu3aszib5ruew3",
+      "twitter:site": "@usercentrics",
+      "article:modified_time": "2025-07-24T11:24:57+00:00",
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=5.0, minimum-scale=1.0",
+      "twitter:description": "We look at the Oregon Consumer Privacy Act (OCPA) and what the Oregon data privacy law means for Oregon residents and organizations operating in the state.",
+      "og:locale": "en_US",
+      "og:url": "https://usercentrics.com/knowledge-hub/oregon-consumer-privacy-act-ocpa/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://usercentrics.com/wp-content/uploads/2023/09/uc_some_ocpa_012125_a.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Oregon Consumer Privacy Act Signed Into Law | Davis Wright ...",
+   "htmlTitle": "<b>Oregon</b> Consumer <b>Privacy Act</b> Signed Into Law | Davis Wright ...",
+   "link": "https://www.dwt.com/blogs/privacy--security-law-blog/2023/07/oregon-consumer-privacy-law-signed",
+   "displayLink": "www.dwt.com",
+   "snippet": "Jul 19, 2023 ... ... Oregon Consumer Privacy Act (OCPA) became law on July 18, 2023. Oregon is the twelfth state to enact a comprehensive consumer data privacy law\u00a0...",
+   "htmlSnippet": "Jul 19, 2023 <b>...</b> ... <b>Oregon</b> Consumer <b>Privacy Act</b> (OCPA) became law on July 18, 2023. <b>Oregon</b> is the twelfth state to enact a comprehensive consumer data <b>privacy law</b>&nbsp;...",
+   "formattedUrl": "https://www.dwt.com/blogs/...law.../oregon-consumer-privacy-law-signed",
+   "htmlFormattedUrl": "https://www.dwt.com/blogs/...law.../<b>oregon</b>-consumer-<b>privacy-law</b>-signed",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBYKH-a7KxiKKuadGd-IjwhcTmIauikIlemlmmDAM10oczUqB7hIczpKU&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dwt.com/-/media/images/blogs/privacy-security/social-media/headers/header_blog_socialmedia_state_privacy.jpg?rev=5f02b3b5ddb241208f4035945a8e4a4e&hash=F69C1DFBC81821D01CB023ED416B0398",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Oregon Consumer Privacy Act Signed Into Law | Davis Wright Tremaine",
+      "og:title": "Oregon Consumer Privacy Act Signed Into Law | Davis Wright Tremaine",
+      "oni_itemid": "1bbe5729-0984-48fe-96c8-5bebac943e5c",
+      "oni_name": "Oregon Consumer Privacy Act Signed Into Law",
+      "title": "Oregon Consumer Privacy Act Signed Into Law",
+      "og:description": "The Oregon Consumer Privacy Act (OCPA) is signed, with features differing from other states\u2019 comprehensive data privacy laws: \"transgender or nonbinar",
+      "oni_entitytype": "Insights",
+      "twitter:image:src": "https://www.dwt.com/-/media/images/blogs/privacy-security/social-media/twitter-tiles/twitter_image_post_state_privacy.jpg?rev=df9384ee73824179aee3292fbe4f1817&hash=18DDCF3C870B5B0FAEE9D6513347389C",
+      "oni_language": "en",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "The Oregon Consumer Privacy Act (OCPA) is signed, with features differing from other states\u2019 comprehensive data privacy laws: \"transgender or nonbinar",
+      "oni_section": "insights",
+      "og:url": "https://www.dwt.com/blogs/privacy--security-law-blog/2023/07/oregon-consumer-privacy-law-signed"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dwt.com/-/media/images/blogs/privacy-security/social-media/headers/header_blog_socialmedia_state_privacy.jpg?rev=5f02b3b5ddb241208f4035945a8e4a4e&hash=F69C1DFBC81821D01CB023ED416B0398"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What the Oregon Consumer Privacy Act means for you",
+   "htmlTitle": "What the <b>Oregon</b> Consumer <b>Privacy Act</b> means for you",
+   "link": "https://pirg.org/edfund/resources/oregon-consumer-privacy-act/",
+   "displayLink": "pirg.org",
+   "snippet": "Mar 1, 2024 ... How to exercise your rights under the Oregon Consumer Privacy Act. The Oregon privacy law gives you some control over how businesses use your\u00a0...",
+   "htmlSnippet": "Mar 1, 2024 <b>...</b> How to exercise your rights under the <b>Oregon</b> Consumer <b>Privacy Act</b>. The <b>Oregon privacy law</b> gives you some control over how businesses use your&nbsp;...",
+   "formattedUrl": "https://pirg.org/edfund/resources/oregon-consumer-privacy-act/",
+   "htmlFormattedUrl": "https://pirg.org/edfund/resources/<b>oregon</b>-consumer-<b>privacy-act</b>/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8PdxtN9kQiJIP5qqHW_kZ97bFCfefezb8HlkZwLYWfWMLdbAhsx2ozPAx&s",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffffff",
+      "og:image": "https://pirg.org/edfund/wp-content/uploads/2024/02/Wikiemedia-user-Book-Catalog-CC-BY-2.0.jpg",
+      "msapplication-config": "https://pirg.org/edfund/wp-content/themes/tpin2022/assets/favicons/pirg/browserconfig.xml",
+      "og:type": "article",
+      "og:image:width": "2048",
+      "twitter:card": "summary_large_image",
+      "theme-color": "#ffffff",
+      "og:site_name": "U.S. PIRG Education Fund",
+      "og:title": "What the Oregon Consumer Privacy Act means for you",
+      "og:image:height": "1365",
+      "og:image:type": "image/jpeg",
+      "og:description": "The Oregon privacy law gives you some control over how businesses collect and use your personal data. Here's how to take advantage.",
+      "article:modified_time": "2025-03-17T15:26:21+00:00",
+      "viewport": "width=device-width, initial-scale=1.0, viewport-fit=cover",
+      "og:locale": "en_US",
+      "og:url": "https://pirg.org/edfund/resources/oregon-consumer-privacy-act/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://pirg.org/edfund/wp-content/uploads/2024/02/Wikiemedia-user-Book-Catalog-CC-BY-2.0.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

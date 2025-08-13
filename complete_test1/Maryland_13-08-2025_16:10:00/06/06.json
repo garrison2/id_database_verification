@@ -1,0 +1,586 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:apps.apple.com \"Maryland\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "20",
+    "searchTerms": "site:apps.apple.com \"Maryland\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:apps.apple.com \"Maryland\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "20",
+    "searchTerms": "site:apps.apple.com \"Maryland\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.16215,
+  "formattedSearchTime": "0.16",
+  "totalResults": "20",
+  "formattedTotalResults": "20"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile ID Check by MD on the App Store",
+   "htmlTitle": "<b>Mobile ID</b> Check by MD on the App Store",
+   "link": "https://apps.apple.com/us/app/mobile-id-check-by-md/id6498551403",
+   "displayLink": "apps.apple.com",
+   "snippet": "Dec 19, 2024 ... this will read any ISO 18013-5 standard compliant mDL/mID ... The developer, Maryland Motor Vehicle Administration, indicated that\u00a0...",
+   "htmlSnippet": "Dec 19, 2024 <b>...</b> this will read any ISO 18013-5 standard compliant <b>mDL</b>/mID ... The developer, <b>Maryland</b> Motor Vehicle Administration, indicated that&nbsp;...",
+   "formattedUrl": "https://apps.apple.com/us/app/mobile-id-check-by-md/id6498551403",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/<b>mobile-id</b>-check-by-md/id6498551403",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1TDLDNjwRr2kAqZmeemOiViyxJ3EiTfY3Uag8V0M7BHWArByEtA9sC_Hg&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/23/d7/f923d74a-0e8b-f7a3-35ef-8690ca73b2d6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eThis reader app can be used were age verificaiton is required e.g restaurant, liquor store, bars, etc. this will read any ISO 18013-5 standard compliant mDL/mID products.",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/23/d7/f923d74a-0e8b-f7a3-35ef-8690ca73b2d6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/23/d7/f923d74a-0e8b-f7a3-35ef-8690ca73b2d6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222532.1.0%2B09273a9c%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "Mobile ID Check by MD on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "Mobile ID Check by MD on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eMobile ID Check by MD",
+      "og:title": "\u200eMobile ID Check by MD",
+      "og:image:height": "630",
+      "version": "2532.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eThis reader app can be used were age verificaiton is required e.g restaurant, liquor store, bars, etc. this will read any ISO 18013-5 standard compliant mDL/mID products.",
+      "og:locale": "en_US",
+      "apple:content_id": "6498551403",
+      "og:url": "https://apps.apple.com/us/app/mobile-id-check-by-md/id6498551403"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/23/d7/f923d74a-0e8b-f7a3-35ef-8690ca73b2d6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile ID Check by MD en App Store",
+   "htmlTitle": "<b>Mobile ID</b> Check by MD en App Store",
+   "link": "https://apps.apple.com/us/app/mobile-id-check-by-md/id6498551403?l=es-MX",
+   "displayLink": "apps.apple.com",
+   "snippet": "Dec 19, 2024 ... this will read any ISO 18013-5 standard compliant mDL/mID ... Maryland Motor Vehicle Administration, que desarroll\u00f3 esta app\u00a0...",
+   "htmlSnippet": "Dec 19, 2024 <b>...</b> this will read any ISO 18013-5 standard compliant <b>mDL</b>/mID ... <b>Maryland</b> Motor Vehicle Administration, que desarroll\u00f3 esta app&nbsp;...",
+   "formattedUrl": "https://apps.apple.com/us/app/mobile-id-check-by-md/id6498551403?...",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/<b>mobile-id</b>-check-by-md/id6498551403?...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1TDLDNjwRr2kAqZmeemOiViyxJ3EiTfY3Uag8V0M7BHWArByEtA9sC_Hg&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/23/d7/f923d74a-0e8b-f7a3-35ef-8690ca73b2d6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App\u00a0Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eThis reader app can be used were age verificaiton is required e.g restaurant, liquor store, bars, etc. this will read any ISO 18013-5 standard compliant mDL/mID products.",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/23/d7/f923d74a-0e8b-f7a3-35ef-8690ca73b2d6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/23/d7/f923d74a-0e8b-f7a3-35ef-8690ca73b2d6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222532.1.0%2B09273a9c%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "Mobile ID Check by MD en App Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "Mobile ID Check by MD en App Store",
+      "og:type": "website",
+      "twitter:title": "\u200eMobile ID Check by MD",
+      "og:title": "\u200eMobile ID Check by MD",
+      "og:image:height": "630",
+      "version": "2532.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eThis reader app can be used were age verificaiton is required e.g restaurant, liquor store, bars, etc. this will read any ISO 18013-5 standard compliant mDL/mID products.",
+      "og:locale": "es_MX",
+      "apple:content_id": "6498551403",
+      "og:url": "https://apps.apple.com/us/app/mobile-id-check-by-md/id6498551403?l=es-MX"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/23/d7/f923d74a-0e8b-f7a3-35ef-8690ca73b2d6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MD Practice Driving Test en App Store",
+   "htmlTitle": "MD Practice Driving Test en App Store",
+   "link": "https://apps.apple.com/us/app/md-practice-driving-test/id466334271?l=es",
+   "displayLink": "apps.apple.com",
+   "snippet": "This Maryland practice driving test is a great resource for life-long learning ... Mobile ID Check by MD. Utilities. Tambi\u00e9n te puede interesar. Ver todo.",
+   "htmlSnippet": "This <b>Maryland</b> practice driving test is a great resource for life-long learning ... <b>Mobile ID</b> Check by MD. Utilities. Tambi\u00e9n te puede interesar. Ver todo.",
+   "formattedUrl": "https://apps.apple.com/us/app/md-practice-driving-test/id466334271?l...",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/md-practice-driving-test/id466334271?l...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkD2VpLppQG1j5KkJCe9A1hvuXq3ItjrC4HNk2ro--VnMMrZqcRRBo2es&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/0c/70/dd0c705a-1d04-eca3-6c31-44cc94874455/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App\u00a0Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eThis Maryland practice driving test is a great resource for life-long learning! Use it as a practice guide to help you prepare for the knowledge test that all new drivers must pass to obtain a learner\u2019s permit.  Also, test yourself to stay sharp and up-to-date on basic driver safety.  Have fun!",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/0c/70/dd0c705a-1d04-eca3-6c31-44cc94874455/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/0c/70/dd0c705a-1d04-eca3-6c31-44cc94874455/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222532.1.0%2B09273a9c%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "MD Practice Driving Test en App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "MD Practice Driving Test en App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eMD Practice Driving Test",
+      "og:title": "\u200eMD Practice Driving Test",
+      "og:image:height": "630",
+      "version": "2532.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eThis Maryland practice driving test is a great resource for life-long learning! Use it as a practice guide to help you prepare for the knowledge test that all new drivers must pass to obtain a learner\u2019s permit.  Also, test yourself to stay sharp and up-to-date on basic driver safety.  Have fun!",
+      "og:locale": "es_ES",
+      "apple:content_id": "466334271",
+      "og:url": "https://apps.apple.com/us/app/md-practice-driving-test/id466334271"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/0c/70/dd0c705a-1d04-eca3-6c31-44cc94874455/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "GET Mobile Verify on the App Store",
+   "htmlTitle": "GET Mobile Verify on the App Store",
+   "link": "https://apps.apple.com/ua/app/get-mobile-verify/id1501552424",
+   "displayLink": "apps.apple.com",
+   "snippet": "Mar 13, 2025 ... GET Mobile Verify gives you quick, secure, acceptance of government issued digital identification - Mobile Driver's Licenses (mDL).",
+   "htmlSnippet": "Mar 13, 2025 <b>...</b> GET Mobile Verify gives you quick, secure, acceptance of government issued digital identification - Mobile Driver&#39;s Licenses (<b>mDL</b>).",
+   "formattedUrl": "https://apps.apple.com/ua/app/get-mobile-verify/id1501552424",
+   "htmlFormattedUrl": "https://apps.apple.com/ua/app/get-mobile-verify/id1501552424",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVLSaIuXUsAZwBbUjyl0KU9_Pxqa4ECFn2jpm7yUyJN_7Tty-mUQvta5Y9&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/df/f2/07dff2cf-b1f4-fffa-d6c9-5dc21fe2340b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App\u00a0Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eGET Mobile Verify gives you quick, secure, acceptance of government issued digital identification - Mobile Driver's Licenses (mDL). Verify age or identity using fully compliant ISO 18013-5 cryptographical interaction modes triggered by a tap or scan.  NOT for reading physical card barcodes or detect\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/df/f2/07dff2cf-b1f4-fffa-d6c9-5dc21fe2340b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/df/f2/07dff2cf-b1f4-fffa-d6c9-5dc21fe2340b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222528.2.0%2B297184d3%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "GET Mobile Verify on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "GET Mobile Verify on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eGET Mobile Verify",
+      "og:title": "\u200eGET Mobile Verify",
+      "og:image:height": "630",
+      "version": "2528.2.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eGET Mobile Verify gives you quick, secure, acceptance of government issued digital identification - Mobile Driver's Licenses (mDL). Verify age or identity using fully compliant ISO 18013-5 cryptographical interaction modes triggered by a tap or scan.  NOT for reading physical card barcodes or detect\u2026",
+      "og:locale": "en_GB",
+      "apple:content_id": "1501552424",
+      "og:url": "https://apps.apple.com/ua/app/get-mobile-verify/id1501552424"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/df/f2/07dff2cf-b1f4-fffa-d6c9-5dc21fe2340b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BaltCoGo na App Store",
+   "htmlTitle": "BaltCoGo na App Store",
+   "link": "https://apps.apple.com/us/app/baltcogo/id1200046300?l=pt-BR",
+   "displayLink": "apps.apple.com",
+   "snippet": "Jul 12, 2024 ... Baltimore County, Maryland ... Maryland Fleet Week. Utilidades. EZ Tolls MD. Utilidades. Mobile ID Check by MD.",
+   "htmlSnippet": "Jul 12, 2024 <b>...</b> Baltimore County, <b>Maryland</b> ... <b>Maryland</b> Fleet Week. Utilidades. EZ Tolls MD. Utilidades. <b>Mobile ID</b> Check by MD.",
+   "formattedUrl": "https://apps.apple.com/us/app/baltcogo/id1200046300?l=pt-BR",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/baltcogo/id1200046300?l=pt-BR",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAaF29TgDeDWikuGb1lIeMDCNwVgv_BOzQeEg6sElXoH-3CMsW3IHq09k&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/04/4c/32044c17-45fa-6762-bcab-2af19ca2e858/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App\u00a0Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eBaltCoGo is the official mobile app for citizens of Baltimore County. Connect with your government to request services, report problems in your community and receive notifications for key services.",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/04/4c/32044c17-45fa-6762-bcab-2af19ca2e858/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/04/4c/32044c17-45fa-6762-bcab-2af19ca2e858/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222520.0.0%2B019dd398%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "BaltCoGo na App Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "BaltCoGo na App Store",
+      "og:type": "website",
+      "twitter:title": "\u200eBaltCoGo",
+      "og:title": "\u200eBaltCoGo",
+      "og:image:height": "630",
+      "version": "2520.0.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eBaltCoGo is the official mobile app for citizens of Baltimore County. Connect with your government to request services, report problems in your community and receive notifications for key services.",
+      "og:locale": "pt_BR",
+      "apple:content_id": "1200046300",
+      "og:url": "https://apps.apple.com/us/app/baltcogo/id1200046300?l=pt-BR"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/04/4c/32044c17-45fa-6762-bcab-2af19ca2e858/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "TapID - Mobile ID Verifier on the App Store",
+   "htmlTitle": "TapID - <b>Mobile ID</b> Verifier on the App Store",
+   "link": "https://apps.apple.com/us/app/tapid-mobile-id-verifier/id6459659909",
+   "displayLink": "apps.apple.com",
+   "snippet": "Oct 19, 2024 ... - Maryland / MD: on Apple and Google Wallet. - Georgia / GA: on ... *Mobile IDs are also known as Digital ID or mDL. more. What's New.",
+   "htmlSnippet": "Oct 19, 2024 <b>...</b> - <b>Maryland</b> / MD: on Apple and Google Wallet. - Georgia / GA: on ... *Mobile IDs are also known as <b>Digital ID</b> or <b>mDL</b>. more. What&#39;s New.",
+   "formattedUrl": "https://apps.apple.com/us/app/tapid-mobile-id-verifier/id6459659909",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/tapid-<b>mobile-id</b>-verifier/id6459659909",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR72pjm-CcgXQWaMz9H4exq1N64J2GVZuBqaV8vmGiSGSiDd91ZSLSwNm4&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/8b/04/568b0423-6c7f-0a0a-53af-69146ee5eb2c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eTapID is a revolutionary tool that enables any business (like bars, restaurants, liquor stores) to start accepting & verifying Mobile IDs.\nMobile IDs are found in customer's Apple Wallet, Google Wallet, or State applications.\n\nInstructions:\n- Press \"Start Verification\"\n- Tap your customer's phone wi\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/8b/04/568b0423-6c7f-0a0a-53af-69146ee5eb2c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/8b/04/568b0423-6c7f-0a0a-53af-69146ee5eb2c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222532.1.0%2B09273a9c%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "TapID - Mobile ID Verifier on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "TapID - Mobile ID Verifier on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eTapID - Mobile ID Verifier",
+      "og:title": "\u200eTapID - Mobile ID Verifier",
+      "og:image:height": "630",
+      "version": "2532.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eTapID is a revolutionary tool that enables any business (like bars, restaurants, liquor stores) to start accepting & verifying Mobile IDs.\nMobile IDs are found in customer's Apple Wallet, Google Wallet, or State applications.\n\nInstructions:\n- Press \"Start Verification\"\n- Tap your customer's phone wi\u2026",
+      "og:locale": "en_US",
+      "apple:content_id": "6459659909",
+      "og:url": "https://apps.apple.com/us/app/tapid-mobile-id-verifier/id6459659909"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/8b/04/568b0423-6c7f-0a0a-53af-69146ee5eb2c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BaltCoGo en App Store",
+   "htmlTitle": "BaltCoGo en App Store",
+   "link": "https://apps.apple.com/us/app/baltcogo/id1200046300?l=es-MX",
+   "displayLink": "apps.apple.com",
+   "snippet": "Baltimore County, Maryland, que desarroll\u00f3 esta app, indic\u00f3 que entre las ... Mobile ID Check by MD. Utilidades. Baltimore Fire\u00a0...",
+   "htmlSnippet": "Baltimore County, <b>Maryland</b>, que desarroll\u00f3 esta app, indic\u00f3 que entre las ... <b>Mobile ID</b> Check by MD. Utilidades. Baltimore Fire&nbsp;...",
+   "formattedUrl": "https://apps.apple.com/us/app/baltcogo/id1200046300?l=es-MX",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/baltcogo/id1200046300?l=es-MX",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAaF29TgDeDWikuGb1lIeMDCNwVgv_BOzQeEg6sElXoH-3CMsW3IHq09k&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/04/4c/32044c17-45fa-6762-bcab-2af19ca2e858/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App\u00a0Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eBaltCoGo is the official mobile app for citizens of Baltimore County. Connect with your government to request services, report problems in your community and receive notifications for key services.",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/04/4c/32044c17-45fa-6762-bcab-2af19ca2e858/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/04/4c/32044c17-45fa-6762-bcab-2af19ca2e858/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222530.1.0%2Bdd954829%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "BaltCoGo en App Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "BaltCoGo en App Store",
+      "og:type": "website",
+      "twitter:title": "\u200eBaltCoGo",
+      "og:title": "\u200eBaltCoGo",
+      "og:image:height": "630",
+      "version": "2530.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eBaltCoGo is the official mobile app for citizens of Baltimore County. Connect with your government to request services, report problems in your community and receive notifications for key services.",
+      "og:locale": "es_MX",
+      "apple:content_id": "1200046300",
+      "og:url": "https://apps.apple.com/us/app/baltcogo/id1200046300?l=es-MX"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/04/4c/32044c17-45fa-6762-bcab-2af19ca2e858/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BaltCoGo on the App Store",
+   "htmlTitle": "BaltCoGo on the App Store",
+   "link": "https://apps.apple.com/us/app/baltcogo/id1200046300",
+   "displayLink": "apps.apple.com",
+   "snippet": "The developer, Baltimore County, Maryland, indicated that the app's privacy ... Mobile ID Check by MD. Utilities. United States. Espa\u00f1ol (M\u00e9xico) \u00b7 \u0627\u0644\u0639\u0631\u0628\u064a\u0629\u00a0...",
+   "htmlSnippet": "The developer, Baltimore County, <b>Maryland</b>, indicated that the app&#39;s privacy ... <b>Mobile ID</b> Check by MD. Utilities. United States. Espa\u00f1ol (M\u00e9xico) &middot; \u0627\u0644\u0639\u0631\u0628\u064a\u0629&nbsp;...",
+   "formattedUrl": "https://apps.apple.com/us/app/baltcogo/id1200046300",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/baltcogo/id1200046300",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAaF29TgDeDWikuGb1lIeMDCNwVgv_BOzQeEg6sElXoH-3CMsW3IHq09k&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/04/4c/32044c17-45fa-6762-bcab-2af19ca2e858/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eBaltCoGo is the official mobile app for citizens of Baltimore County. Connect with your government to request services, report problems in your community and receive notifications for key services.",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/04/4c/32044c17-45fa-6762-bcab-2af19ca2e858/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/04/4c/32044c17-45fa-6762-bcab-2af19ca2e858/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222532.1.0%2B09273a9c%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "BaltCoGo on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "BaltCoGo on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eBaltCoGo",
+      "og:title": "\u200eBaltCoGo",
+      "og:image:height": "630",
+      "version": "2532.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eBaltCoGo is the official mobile app for citizens of Baltimore County. Connect with your government to request services, report problems in your community and receive notifications for key services.",
+      "og:locale": "en_US",
+      "apple:content_id": "1200046300",
+      "og:url": "https://apps.apple.com/us/app/baltcogo/id1200046300"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/04/4c/32044c17-45fa-6762-bcab-2af19ca2e858/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ID-Reader on the App Store",
+   "htmlTitle": "ID-Reader on the App Store",
+   "link": "https://apps.apple.com/us/app/id-reader/id6450962890",
+   "displayLink": "apps.apple.com",
+   "snippet": "Feb 19, 2025 ... ID-Reader allows for requesting official State digital ID and Driver's license information that is held within the Apple Wallet.",
+   "htmlSnippet": "Feb 19, 2025 <b>...</b> ID-Reader allows for requesting official State <b>digital ID</b> and Driver&#39;s license information that is held within the Apple Wallet.",
+   "formattedUrl": "https://apps.apple.com/us/app/id-reader/id6450962890",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/id-reader/id6450962890",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShF6QOaorihTIFXgC70VA_6bscdYYoEdckKXgxOuK0aeKZsL7qyOQanLo&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/14/78/bc147812-e818-0e64-c099-0dd1da821f0c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eID-Reader allows for requesting official State digital ID and Driver's license information that is held within the Apple Wallet. Great for Night Clubs and other venues that need to check for age at the door. Simply start the app and wave your phone over the guest's phone and if they have a Digital I\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/14/78/bc147812-e818-0e64-c099-0dd1da821f0c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/14/78/bc147812-e818-0e64-c099-0dd1da821f0c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222530.1.0%2Bdd954829%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "ID-Reader on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "ID-Reader on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eID-Reader",
+      "og:title": "\u200eID-Reader",
+      "og:image:height": "630",
+      "version": "2530.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eID-Reader allows for requesting official State digital ID and Driver's license information that is held within the Apple Wallet. Great for Night Clubs and other venues that need to check for age at the door. Simply start the app and wave your phone over the guest's phone and if they have a Digital I\u2026",
+      "og:locale": "en_US",
+      "apple:content_id": "6450962890",
+      "og:url": "https://apps.apple.com/us/app/id-reader/id6450962890"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/14/78/bc147812-e818-0e64-c099-0dd1da821f0c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "GET Mobile Verify i App Store",
+   "htmlTitle": "GET Mobile Verify i App Store",
+   "link": "https://apps.apple.com/se/app/get-mobile-verify/id1501552424",
+   "displayLink": "apps.apple.com",
+   "snippet": "Mar 13, 2025 ... GET Mobile Verify gives you quick, secure, acceptance of government issued digital identification - Mobile Driver's Licenses (mDL).",
+   "htmlSnippet": "Mar 13, 2025 <b>...</b> GET Mobile Verify gives you quick, secure, acceptance of government issued digital identification - Mobile Driver&#39;s Licenses (<b>mDL</b>).",
+   "formattedUrl": "https://apps.apple.com/se/app/get-mobile-verify/id1501552424",
+   "htmlFormattedUrl": "https://apps.apple.com/se/app/get-mobile-verify/id1501552424",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVLSaIuXUsAZwBbUjyl0KU9_Pxqa4ECFn2jpm7yUyJN_7Tty-mUQvta5Y9&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/df/f2/07dff2cf-b1f4-fffa-d6c9-5dc21fe2340b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App\u00a0Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eGET Mobile Verify gives you quick, secure, acceptance of government issued digital identification - Mobile Driver's Licenses (mDL). Verify age or identity using fully compliant ISO 18013-5 cryptographical interaction modes triggered by a tap or scan.  NOT for reading physical card barcodes or detect\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/df/f2/07dff2cf-b1f4-fffa-d6c9-5dc21fe2340b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/df/f2/07dff2cf-b1f4-fffa-d6c9-5dc21fe2340b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222520.0.0%2B019dd398%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "GET Mobile Verify i App Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "GET Mobile Verify i App Store",
+      "og:type": "website",
+      "twitter:title": "\u200eGET Mobile Verify",
+      "og:title": "\u200eGET Mobile Verify",
+      "og:image:height": "630",
+      "version": "2520.0.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eGET Mobile Verify gives you quick, secure, acceptance of government issued digital identification - Mobile Driver's Licenses (mDL). Verify age or identity using fully compliant ISO 18013-5 cryptographical interaction modes triggered by a tap or scan.  NOT for reading physical card barcodes or detect\u2026",
+      "og:locale": "sv_SE",
+      "apple:content_id": "1501552424",
+      "og:url": "https://apps.apple.com/se/app/get-mobile-verify/id1501552424"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/df/f2/07dff2cf-b1f4-fffa-d6c9-5dc21fe2340b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  }
+ ]
+}

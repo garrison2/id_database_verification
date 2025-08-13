@@ -1,0 +1,238 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://scdmvonline.com/ \"driver's license\" OR \"identification card\"",
+    "totalResults": "545",
+    "searchTerms": "site:https://scdmvonline.com/ \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://scdmvonline.com/ \"driver's license\" OR \"identification card\"",
+    "totalResults": "545",
+    "searchTerms": "site:https://scdmvonline.com/ \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.147625,
+  "formattedSearchTime": "0.15",
+  "totalResults": "545",
+  "formattedTotalResults": "545"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Driver's License",
+   "htmlTitle": "<b>Driver&#39;s License</b>",
+   "link": "https://www.scdmvonline.com/Driver-Services/Drivers-License",
+   "displayLink": "www.scdmvonline.com",
+   "snippet": "You may register to be an organ/tissue donor when you apply for or renew your South Carolina beginner's permit, driver's license, or identification card. If you\u00a0...",
+   "htmlSnippet": "You may register to be an organ/tissue donor when you apply for or renew your South Carolina beginner&#39;s permit, <b>driver&#39;s license</b>, or <b>identification card</b>. If you&nbsp;...",
+   "formattedUrl": "https://www.scdmvonline.com/Driver-Services/Drivers-License",
+   "htmlFormattedUrl": "https://www.scdmvonline.com/Driver-Services/<b>Drivers-License</b>",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSItHbQQYg-mMYph7gthlfGQqlsLAlcFWqRHfuBprSAYBWGKlp2PVyCchvD&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://i.ytimg.com/vi/fOsu-X0hDHY/maxresdefault.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Identification Cards",
+   "htmlTitle": "Identification Cards",
+   "link": "https://www.scdmvonline.com/Driver-Services/Identification-Cards",
+   "displayLink": "www.scdmvonline.com",
+   "snippet": "Applying for a South Carolina Identification Card ... If you have a valid driver's license or ID from another jurisdiction, you must surrender it in order\u00a0...",
+   "htmlSnippet": "Applying for a South Carolina <b>Identification Card</b> ... If you have a valid <b>driver&#39;s license</b> or ID from another jurisdiction, you must surrender it in order&nbsp;...",
+   "formattedUrl": "https://www.scdmvonline.com/Driver-Services/Identification-Cards",
+   "htmlFormattedUrl": "https://www.scdmvonline.com/Driver-Services/<b>Identification-Card</b>s",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver Services",
+   "htmlTitle": "Driver Services",
+   "link": "https://www.scdmvonline.com/Driver-Services",
+   "displayLink": "www.scdmvonline.com",
+   "snippet": "Get information about address changes, receiving a driver's license, getting a placard for a person with a disability, and other driver services.",
+   "htmlSnippet": "Get information about address changes, receiving a <b>driver&#39;s license</b>, getting a placard for a person with a disability, and other driver services.",
+   "formattedUrl": "https://www.scdmvonline.com/Driver-Services",
+   "htmlFormattedUrl": "https://www.scdmvonline.com/Driver-Services",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Renewals",
+   "htmlTitle": "Renewals",
+   "link": "https://www.scdmvonline.com/driver-services/renewals",
+   "displayLink": "www.scdmvonline.com",
+   "snippet": "If you choose to renew your driver's license online, you must provide identifying information to login below. At the end of the process, you'll pay for your\u00a0...",
+   "htmlSnippet": "If you choose to renew your <b>driver&#39;s license</b> online, you must provide identifying information to login below. At the end of the process, you&#39;ll pay for your&nbsp;...",
+   "formattedUrl": "https://www.scdmvonline.com/driver-services/renewals",
+   "htmlFormattedUrl": "https://www.scdmvonline.com/driver-services/renewals",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Replace License, Permit, or ID Card",
+   "htmlTitle": "Replace License, Permit, or ID Card",
+   "link": "https://www.scdmvonline.com/driver-services/drivers-license/replace-license",
+   "displayLink": "www.scdmvonline.com",
+   "snippet": "Replace License, Permit, or ID Card \u00b7 Application for a Beginner's Permit, Driver's License, or Identification Card (SCDMV Form 447-NC) \u00b7 Application for a\u00a0...",
+   "htmlSnippet": "Replace License, Permit, or ID Card &middot; Application for a Beginner&#39;s Permit, <b>Driver&#39;s License</b>, or <b>Identification Card</b> (SCDMV Form 447-NC) &middot; Application for a&nbsp;...",
+   "formattedUrl": "https://www.scdmvonline.com/driver-services/drivers-license/replace-license",
+   "htmlFormattedUrl": "https://www.scdmvonline.com/driver-services/<b>drivers-license</b>/replace-license",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Lancaster DMV",
+   "htmlTitle": "Lancaster DMV",
+   "link": "https://www.scdmvonline.com/Locations/Lancaster",
+   "displayLink": "www.scdmvonline.com",
+   "snippet": "Driver's License (Class D) Road Test : Yes Walk-in Road Tests : Walk-in Road Test available until 1:30 PM Road Test Appointments : Appointments are required\u00a0...",
+   "htmlSnippet": "<b>Driver&#39;s License</b> (Class D) Road Test : Yes Walk-in Road Tests : Walk-in Road Test available until 1:30 PM Road Test Appointments : Appointments are required&nbsp;...",
+   "formattedUrl": "https://www.scdmvonline.com/Locations/Lancaster",
+   "htmlFormattedUrl": "https://www.scdmvonline.com/Locations/Lancaster",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Moving to SC - License",
+   "htmlTitle": "Moving to SC - License",
+   "link": "https://www.scdmvonline.com/Driver-Services/Moving-To-SC",
+   "displayLink": "www.scdmvonline.com",
+   "snippet": "Driver's Licenses and ID cards. If you have a valid driver's license or identification card from another state and permanently move to South Carolina,\u00a0...",
+   "htmlSnippet": "Driver&#39;s Licenses and ID cards. If you have a valid <b>driver&#39;s license</b> or <b>identification card</b> from another state and permanently move to South Carolina,&nbsp;...",
+   "formattedUrl": "https://www.scdmvonline.com/Driver-Services/Moving-To-SC",
+   "htmlFormattedUrl": "https://www.scdmvonline.com/Driver-Services/Moving-To-SC",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "License Reinstatement",
+   "htmlTitle": "License Reinstatement",
+   "link": "https://www.scdmvonline.com/Driver-Services/License-Reinstatement",
+   "displayLink": "www.scdmvonline.com",
+   "snippet": "14 or less with a violation date of May 19, 2024, or after. Provisional Driver's License. If your driving privileges are suspended for first offense of driving\u00a0...",
+   "htmlSnippet": "14 or less with a violation date of May 19, 2024, or after. Provisional <b>Driver&#39;s License</b>. If your driving privileges are suspended for first offense of driving&nbsp;...",
+   "formattedUrl": "https://www.scdmvonline.com/Driver-Services/License-Reinstatement",
+   "htmlFormattedUrl": "https://www.scdmvonline.com/Driver-Services/License-Reinstatement",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Forms & Manuals",
+   "htmlTitle": "Forms &amp; Manuals",
+   "link": "https://www.scdmvonline.com/forms-and-manuals",
+   "displayLink": "www.scdmvonline.com",
+   "snippet": "Driver's License, Beginner's Permit, and Identification Card Forms ... Ready for the Road? Driver's Manual. Driver's Manual. DTA-1A. Application for a Driver\u00a0...",
+   "htmlSnippet": "<b>Driver&#39;s License</b>, Beginner&#39;s Permit, and <b>Identification Card</b> Forms ... Ready for the Road? Driver&#39;s Manual. Driver&#39;s Manual. DTA-1A. Application for a Driver&nbsp;...",
+   "formattedUrl": "https://www.scdmvonline.com/forms-and-manuals",
+   "htmlFormattedUrl": "https://www.scdmvonline.com/forms-and-manuals",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "SCDMV",
+   "htmlTitle": "SCDMV",
+   "link": "https://scdmvonline.com/",
+   "displayLink": "scdmvonline.com",
+   "snippet": "SCDMV Unveils New Driver's License and ID Card Designs Featuring Iconic South Carolina Imagery. The South Carolina Department of Motor Vehicles has unveiled\u00a0...",
+   "htmlSnippet": "SCDMV Unveils New <b>Driver&#39;s License</b> and ID Card Designs Featuring Iconic South Carolina Imagery. The South Carolina Department of Motor Vehicles has unveiled&nbsp;...",
+   "formattedUrl": "https://scdmvonline.com/",
+   "htmlFormattedUrl": "https://scdmvonline.com/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,383 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Indiana Code\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "totalResults": "5730",
+    "searchTerms": "\"Indiana Code\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Indiana Code\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "totalResults": "5730",
+    "searchTerms": "\"Indiana Code\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.172943,
+  "formattedSearchTime": "0.17",
+  "totalResults": "5730",
+  "formattedTotalResults": "5,730"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Title 140, ARTICLE 7. DRIVER'S LICENSE DIVISION | IARP",
+   "htmlTitle": "Title 140, ARTICLE 7. <b>DRIVER&#39;S LICENSE</b> DIVISION | IARP",
+   "link": "https://iar.iga.in.gov/latestArticle/140/7",
+   "displayLink": "iar.iga.in.gov",
+   "snippet": "(1) Provide the applicant's existing driver's license or identification card, or verify that the applicant's: ... maintain the approval. (Bureau of Motor\u00a0...",
+   "htmlSnippet": "(1) Provide the applicant&#39;s existing <b>driver&#39;s license</b> or <b>identification card</b>, or <b>verify</b> that the applicant&#39;s: ... <b>maintain</b> the approval. (Bureau of Motor&nbsp;...",
+   "formattedUrl": "https://iar.iga.in.gov/latestArticle/140/7",
+   "htmlFormattedUrl": "https://iar.iga.in.gov/latestArticle/140/7",
+   "pagemap": {
+    "metatags": [
+     {
+      "theme-color": "#000000",
+      "viewport": "width=device-width,initial-scale=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BMV: Licenses, Permits, & IDs: Proof of Financial Responsibility",
+   "htmlTitle": "BMV: Licenses, Permits, &amp; IDs: Proof of Financial Responsibility",
+   "link": "https://www.in.gov/bmv/licenses-permits-ids/suspension-and-reinstatement/proof-of-financial-responsibility/",
+   "displayLink": "www.in.gov",
+   "snippet": "The Bureau of Motor Vehicles (BMV) is required to verify that all motorists have the minimum liability insurance coverage in effect with respect to the vehicle\u00a0...",
+   "htmlSnippet": "The Bureau of Motor Vehicles (BMV) is required to <b>verify</b> that all motorists have the minimum liability insurance coverage in effect with respect to the vehicle&nbsp;...",
+   "formattedUrl": "https://www.in.gov/bmv/licenses...ids/.../proof-of-financial-responsibility/",
+   "htmlFormattedUrl": "https://www.in.gov/bmv/licenses...ids/.../proof-of-financial-responsibility/",
+   "pagemap": {
+    "metatags": [
+     {
+      "twitter:card": "summary",
+      "twitter:title": "Proof of Financial Responsibility",
+      "og:type": "website",
+      "article:published_time": "2020-07-01T11:08:28-04:00",
+      "og:site_name": "Licenses, Permits, & IDs",
+      "dcterms.title": "Proof of Financial Responsibility",
+      "og:title": "Proof of Financial Responsibility",
+      "dcterms.creator": "Licenses, Permits, & IDs",
+      "assetname": "Proof of Financial Responsibility",
+      "dcterms.created": "2020-07-01T09:33:16-04:00",
+      "dcterms.issued": "2020-07-01T11:08:28-04:00",
+      "dcterms.modified": "2025-05-07T11:14:35-04:00",
+      "article:modified_time": "2025-05-07T11:14:35-04:00",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "apple-mobile-web-app-capable": "yes",
+      "dcterms.format": "HTML",
+      "og:url": "https://www.in.gov/bmv/licenses-permits-ids/suspension-and-reinstatement/proof-of-financial-responsibility/",
+      "dcterms.identifier": "https://www.in.gov/bmv/licenses-permits-ids/suspension-and-reinstatement/proof-of-financial-responsibility",
+      "assettype": "page_standard"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Request for Certified Records",
+   "htmlTitle": "Request for Certified Records",
+   "link": "https://forms.in.gov/Download.aspx?id=13697",
+   "displayLink": "forms.in.gov",
+   "snippet": "... Indiana Code \u00a7 9-14-13-7(8). Provide a copy of credentials. Employer or its agent or insurer to verify commercial driver's license information (Indiana Code\u00a0...",
+   "htmlSnippet": "... <b>Indiana Code</b> \u00a7 9-14-13-7(8). Provide a copy of credentials. Employer or its agent or insurer to <b>verify</b> commercial <b>driver&#39;s license</b> information (<b>Indiana Code</b>&nbsp;...",
+   "formattedUrl": "https://forms.in.gov/Download.aspx?id=13697",
+   "htmlFormattedUrl": "https://forms.in.gov/Download.aspx?id=13697",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmS39Fyp6gZYt56wPOZkzn39FAlglij6L0uCrT1xcMbhYiivA4QI7YJss&s",
+      "width": "197",
+      "height": "255"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20250626092056-04'00'",
+      "creationdate": "D:20240610075649-04'00'",
+      "creator": "Acrobat PDFMaker 23 for Word",
+      "lastsaved": "D:20240430",
+      "author": "sbundy",
+      "created": "D:20081218",
+      "producer": "Adobe PDF Library 23.6.96",
+      "title": "53789 fill-in",
+      "contenttypeid": "0x01010094B69512FA9D324394602C817E9E9C1F"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///c29d636d985d77e087181d7b6e9053802bb9dcc6b1de5b48810de4c4d20c901f"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BMV: Licenses, Permits, & IDs: Endorsements and Restrictions",
+   "htmlTitle": "BMV: Licenses, Permits, &amp; IDs: Endorsements and Restrictions",
+   "link": "https://www.in.gov/bmv/licenses-permits-ids/learners-permits-and-drivers-licenses-overview/drivers-license/endorsements-and-restrictions/",
+   "displayLink": "www.in.gov",
+   "snippet": "Automatic Transmission; Biennial Vision Screening; Bioptic Lenses/Annual ... driver's license, learner's permit, or identification card. Restriction 5\u00a0...",
+   "htmlSnippet": "Automatic <b>Transmission</b>; Biennial Vision Screening; Bioptic Lenses/Annual ... <b>driver&#39;s license</b>, learner&#39;s permit, or <b>identification card</b>. Restriction 5&nbsp;...",
+   "formattedUrl": "https://www.in.gov/...drivers-licenses.../drivers-license/endorsements-and-re...",
+   "htmlFormattedUrl": "https://www.in.gov/...<b>drivers-license</b>s.../<b>drivers-license</b>/endorsements-and-re...",
+   "pagemap": {
+    "metatags": [
+     {
+      "twitter:card": "summary",
+      "twitter:title": "Endorsements and Restrictions",
+      "og:type": "website",
+      "article:published_time": "2020-07-01T11:08:08-04:00",
+      "og:site_name": "Licenses, Permits, & IDs",
+      "dcterms.title": "Endorsements and Restrictions",
+      "og:title": "Endorsements and Restrictions",
+      "dcterms.creator": "Licenses, Permits, & IDs",
+      "assetname": "Endorsements and Restrictions",
+      "dcterms.created": "2020-07-01T09:28:20-04:00",
+      "dcterms.issued": "2020-07-01T11:08:08-04:00",
+      "dcterms.modified": "2024-03-20T14:19:34-04:00",
+      "article:modified_time": "2024-03-20T14:19:34-04:00",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "apple-mobile-web-app-capable": "yes",
+      "dcterms.format": "HTML",
+      "og:url": "https://www.in.gov/bmv/licenses-permits-ids/learners-permits-and-drivers-licenses-overview/drivers-license/endorsements-and-restrictions/",
+      "dcterms.identifier": "https://www.in.gov/bmv/licenses-permits-ids/learners-permits-and-drivers-licenses-overview/drivers-license/endorsements-and-restrictions",
+      "assettype": "page_standard"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Indiana Notary Public Guide",
+   "htmlTitle": "Indiana Notary Public Guide",
+   "link": "https://inbiz.in.gov/Assets/NotaryGuide.pdf",
+   "displayLink": "inbiz.in.gov",
+   "snippet": "May 20, 2024 ... d) Possess an Indiana driver's license, Indiana non-driver identification card or other ... It must be able to securely create, store and transmit\u00a0...",
+   "htmlSnippet": "May 20, 2024 <b>...</b> d) Possess an Indiana <b>driver&#39;s license</b>, Indiana non-driver <b>identification card</b> or other ... It must be able to securely create, <b>store</b> and <b>transmit</b>&nbsp;...",
+   "formattedUrl": "https://inbiz.in.gov/Assets/NotaryGuide.pdf",
+   "htmlFormattedUrl": "https://inbiz.in.gov/Assets/NotaryGuide.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7NXd14Nqoh_4mgyVl9xWOm3YBlv3gOgFQFHWPzCW99qUDzFmRMvwIk6I&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20250730141802-04'00'",
+      "creationdate": "D:20240502092323-04'00'",
+      "creator": "Acrobat PDFMaker 23 for Word",
+      "lastsaved": "D:20240501",
+      "author": "drmaxwell",
+      "created": "D:20240429",
+      "producer": "Adobe PDF Library 23.6.96",
+      "company": "State of Indiana",
+      "title": "Microsoft Word - NotaryGuide.doc"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///8fb7c198ae8580fed971d03d9e129f00ec628be65ce97698c0de5eab6eb1226a"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "IGA | 2022 Indiana Code",
+   "htmlTitle": "IGA | 2022 <b>Indiana Code</b>",
+   "link": "https://iga.in.gov/laws/2022/ic/titles/9",
+   "displayLink": "iga.in.gov",
+   "snippet": "(A) A driver's license. (B) A learner's permit. (C) An identification card. (\u00a0...",
+   "htmlSnippet": "(A) A <b>driver&#39;s license</b>. (B) A learner&#39;s permit. (C) An <b>identification card</b>. (&nbsp;...",
+   "formattedUrl": "https://iga.in.gov/laws/2022/ic/titles/9",
+   "htmlFormattedUrl": "https://iga.in.gov/laws/2022/ic/titles/9",
+   "pagemap": {
+    "metatags": [
+     {
+      "theme-color": "#094067",
+      "t_ictitle_s_year": "2022",
+      "viewport": "width=device-width,initial-scale=1",
+      "t_ictitle_s_number": "9",
+      "t_ictitle_s_shortdescription": "TITLE 9. MOTOR VEHICLES",
+      "t_ictitle_b_public": "1",
+      "version": "2.0.3",
+      "t_ictitle_s_name": "MOTOR VEHICLES"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Indiana Code Title 7.1. Alcohol and Tobacco \u00a7 7.1-5-7-4.5 | FindLaw",
+   "htmlTitle": "<b>Indiana Code</b> Title 7.1. Alcohol and Tobacco \u00a7 7.1-5-7-4.5 | FindLaw",
+   "link": "https://codes.findlaw.com/in/title-7-1-alcohol-and-tobacco/in-code-sect-7-1-5-7-4-5/",
+   "displayLink": "codes.findlaw.com",
+   "snippet": "(a) As used in this section, \u201cID card\u201d means any of the following: (1) A driver's license. (2) A photographic identification card issued under IC 9-24-16-1\u00a0...",
+   "htmlSnippet": "(a) As used in this section, \u201cID card\u201d means any of the following: (1) A <b>driver&#39;s license</b>. (2) A photographic <b>identification card</b> issued under IC 9-24-16-1&nbsp;...",
+   "formattedUrl": "https://codes.findlaw.com/in/title-7-1-alcohol.../in-code-sect-7-1-5-7-4-5/",
+   "htmlFormattedUrl": "https://codes.findlaw.com/in/title-7-1-alcohol.../in-code-sect-7-1-5-7-4-5/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuWtKEZ0kzYj6NSuZlgNrAF5XcYIi9XgsiqHcAgQHtxY18xcWZ1bDMaCM&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png",
+      "og:type": "article",
+      "og:site_name": "Findlaw",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Indiana Code Title 7.1. Alcohol and Tobacco \u00a7 7.1-5-7-4.5 | FindLaw",
+      "apple-mobile-web-app-title": "FindLaw",
+      "og:url": "https://codes.findlaw.com/in/title-7-1-alcohol-and-tobacco/in-code-sect-7-1-5-7-4-5/",
+      "og:description": "Indiana Title 7.1. Alcohol and Tobacco  Section 7.1-5-7-4.5. Read the code on FindLaw"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Indiana Code 2023",
+   "htmlTitle": "<b>Indiana Code</b> 2023",
+   "link": "https://iga.in.gov/ic/2023/Title_12/Article_15.pdf",
+   "displayLink": "iga.in.gov",
+   "snippet": "The state shall retain the nonfederal share of the reimbursement for ... The office shall develop, maintain, and use a computer system to store.",
+   "htmlSnippet": "The state shall <b>retain</b> the nonfederal <b>share</b> of the reimbursement for ... The office shall develop, <b>maintain</b>, and use a computer system to <b>store</b>.",
+   "formattedUrl": "https://iga.in.gov/ic/2023/Title_12/Article_15.pdf",
+   "htmlFormattedUrl": "https://iga.in.gov/ic/2023/Title_12/Article_15.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20230616123153-04'00'",
+      "creationdate": "D:20230616123153-04'00'",
+      "creator": "PrintServer210",
+      "producer": "Corel PDF Engine Version 21.0.0.81"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Indiana Code Title 9. Motor Vehicles \u00a7 9-24-1-1 | FindLaw",
+   "htmlTitle": "<b>Indiana Code</b> Title 9. Motor Vehicles \u00a7 9-24-1-1 | FindLaw",
+   "link": "https://codes.findlaw.com/in/title-9-motor-vehicles/in-code-sect-9-24-1-1/",
+   "displayLink": "codes.findlaw.com",
+   "snippet": "... driver's license, endorsement, or permit was issued. (b) An individual must have: (1) an unexpired identification card ... Please verify the status of the\u00a0...",
+   "htmlSnippet": "... <b>driver&#39;s license</b>, endorsement, or permit was issued. (b) An individual must have: (1) an unexpired <b>identification card</b> ... Please <b>verify</b> the status of the&nbsp;...",
+   "formattedUrl": "https://codes.findlaw.com/in/title-9-motor-vehicles/in-code-sect-9-24-1-1/",
+   "htmlFormattedUrl": "https://codes.findlaw.com/in/title-9-motor-vehicles/in-code-sect-9-24-1-1/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuWtKEZ0kzYj6NSuZlgNrAF5XcYIi9XgsiqHcAgQHtxY18xcWZ1bDMaCM&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png",
+      "og:type": "article",
+      "og:site_name": "Findlaw",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Indiana Code Title 9. Motor Vehicles \u00a7 9-24-1-1 | FindLaw",
+      "apple-mobile-web-app-title": "FindLaw",
+      "og:url": "https://codes.findlaw.com/in/title-9-motor-vehicles/in-code-sect-9-24-1-1/",
+      "og:description": "Indiana Title 9. Motor Vehicles  Section 9-24-1-1. Read the code on FindLaw"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Indiana Code \u00a7 9-24-13-3. Possession and Display of Licenses and ...",
+   "htmlTitle": "<b>Indiana Code</b> \u00a7 9-24-13-3. Possession and Display of Licenses and ...",
+   "link": "https://law.justia.com/codes/indiana/title-9/article-24/chapter-13/section-9-24-13-3/",
+   "displayLink": "law.justia.com",
+   "snippet": "... driver's license in the form of the physical credential in the individual's ... verify the identity of the person. [Pre-1991 Recodification Citation: 9\u00a0...",
+   "htmlSnippet": "... <b>driver&#39;s license</b> in the form of the physical credential in the individual&#39;s ... <b>verify</b> the identity of the person. [Pre-1991 Recodification Citation: 9&nbsp;...",
+   "formattedUrl": "https://law.justia.com/codes/indiana/title-9/article-24/.../section-9-24-13-3/",
+   "htmlFormattedUrl": "https://law.justia.com/codes/indiana/title-9/article-24/.../section-9-24-13-3/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPP2ksOfM4IyWL7PTxPyS5N80Or-jyXZZLgeH1kYuOtXk5YU597YCxGszS&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "og:site_name": "Justia Law",
+      "og:title": "2024 Indiana Code :: Title 9. Motor Vehicles :: Article 24. Drivers Licenses :: Chapter 13. Rights and Duties of Licensees and Permittees :: 9-24-13-3. Possession and Display of Licenses and Permits; Mobile Credentials",
+      "og:app_id": "119529808075661",
+      "trigger-ga": "1",
+      "og:description": "Justia Free Databases of U.S. Laws, Codes & Statutes",
+      "og:admins": "656268335,686786921,25900864",
+      "referrer": "unsafe-url",
+      "twitter:site": "@JustiaCom",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "page-type": "Law: Codes Document Page (Current Year)",
+      "is-li": "0",
+      "og:url": "https://law.justia.com/codes/indiana/title-9/article-24/chapter-13/section-9-24-13-3/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

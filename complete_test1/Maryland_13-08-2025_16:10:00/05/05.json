@@ -1,0 +1,415 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Maryland\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" vendor OR developer OR procurement",
+    "totalResults": "24800",
+    "searchTerms": "\"Maryland\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" vendor OR developer OR procurement",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Maryland\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" vendor OR developer OR procurement",
+    "totalResults": "24800",
+    "searchTerms": "\"Maryland\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" vendor OR developer OR procurement",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.195365,
+  "formattedSearchTime": "0.20",
+  "totalResults": "24800",
+  "formattedTotalResults": "24,800"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Maryland Department of Labor",
+   "htmlTitle": "<b>Maryland</b> Department of Labor",
+   "link": "https://labor.maryland.gov/",
+   "displayLink": "labor.maryland.gov",
+   "snippet": "The Maryland Department of Labor provides job development and employment training to help our citizens get the skills and expertise they need to move with our\u00a0...",
+   "htmlSnippet": "The <b>Maryland</b> Department of Labor provides job development and employment training to help our citizens get the skills and expertise they need to move with our&nbsp;...",
+   "formattedUrl": "https://labor.maryland.gov/",
+   "htmlFormattedUrl": "https://labor.<b>maryland</b>.gov/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7HePOg9LTd2wL-VqNNMb8xt5I_SdRoIGSiCCi-23yubcc-gfGOsssG_I&s",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "robot": "noarchive",
+      "og:image": "/egov/dist/img/logo.png",
+      "og:type": "website",
+      "og:image:alt": "Maryland Department of Labor Logo",
+      "og:site_name": "Maryland.gov Maryland Department of Labor",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "og:title": "Maryland Department of Labor",
+      "og:url": "https://labor.maryland.gov/",
+      "og:description": "Official website of the Maryland Department of Labor"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://labor.maryland.gov/images/esssb38sb525slide.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Pages - Maryland Mobile ID in Apple Wallet",
+   "htmlTitle": "Pages - <b>Maryland Mobile ID</b> in Apple Wallet",
+   "link": "https://mva.maryland.gov/Pages/MDMobileID_Apple.aspx",
+   "displayLink": "mva.maryland.gov",
+   "snippet": "Does MDOT MVA outsource verification of Maryland Mobile ID to a third party vendor? \u200bYour privacy and security of your personal information is of the utmost\u00a0...",
+   "htmlSnippet": "Does MDOT MVA outsource verification of <b>Maryland Mobile ID</b> to a third party <b>vendor</b>? \u200bYour privacy and security of your personal information is of the utmost&nbsp;...",
+   "formattedUrl": "https://mva.maryland.gov/Pages/MDMobileID_Apple.aspx",
+   "htmlFormattedUrl": "https://mva.<b>maryland</b>.gov/Pages/MD<b>MobileID</b>_Apple.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR7oGzbIQUEc1_nZeuoLrrKAB6TL3tYmyYGyLh-gFBkSfpmVGqv2fWgQ&s",
+      "width": "240",
+      "height": "112"
+     }
+    ],
+    "metatags": [
+     {
+      "robot": "noarchive",
+      "og:image": "/Style Library/egov/img/logo.png",
+      "og:type": "website",
+      "og:image:alt": "MVA Logo",
+      "og:site_name": "MVA",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "msvalidate.01": "DC82C0A3FC3A7277E85B6AC7346D802D",
+      "og:url": "/Pages/default.aspx"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://mva.maryland.gov/Style%20Library/egov/img/logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Maryland Lottery \u2013 Play Responsibly",
+   "htmlTitle": "<b>Maryland</b> Lottery \u2013 Play Responsibly",
+   "link": "https://www.mdlottery.com/",
+   "displayLink": "www.mdlottery.com",
+   "snippet": "Players must be at least 18 years old to play all Maryland Lottery games. The Maryland Lottery encourages responsible play. The only official winning numbers\u00a0...",
+   "htmlSnippet": "Players must be at least 18 years old to play all <b>Maryland</b> Lottery games. The <b>Maryland</b> Lottery encourages responsible play. The only official winning numbers&nbsp;...",
+   "formattedUrl": "https://www.mdlottery.com/",
+   "htmlFormattedUrl": "https://www.<b>mdl</b>ottery.com/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ7Ow6xGfPX4oKMfQKI0DEE7EipRe57qFmcOpGJ62cxTYrFSayS9p6KbPr&s",
+      "width": "263",
+      "height": "192"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#da532c",
+      "msapplication-config": "/wp-content/uploads/fbrfg/browserconfig.xml",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, minimal-ui"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.mdlottery.com/wp-content/uploads/2025/08/MDTreasures_Deadline_Marquee_Mobile.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Pages - Maryland Mobile ID Program",
+   "htmlTitle": "Pages - <b>Maryland Mobile ID</b> Program",
+   "link": "https://mva.maryland.gov/Pages/MDMobileID.aspx",
+   "displayLink": "mva.maryland.gov",
+   "snippet": "Maryland Mobile ID, is a voluntary way to add a secure, digitized version of your Maryland credential to your mobile wallet, so you have your driver license (DL)\u00a0...",
+   "htmlSnippet": "<b>Maryland Mobile ID</b>, is a voluntary way to add a secure, digitized version of your <b>Maryland</b> credential to your mobile wallet, so you have your driver license (DL)&nbsp;...",
+   "formattedUrl": "https://mva.maryland.gov/Pages/MDMobileID.aspx",
+   "htmlFormattedUrl": "https://mva.<b>maryland</b>.gov/Pages/MD<b>MobileID</b>.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR7oGzbIQUEc1_nZeuoLrrKAB6TL3tYmyYGyLh-gFBkSfpmVGqv2fWgQ&s",
+      "width": "240",
+      "height": "112"
+     }
+    ],
+    "metatags": [
+     {
+      "robot": "noarchive",
+      "og:image": "/Style Library/egov/img/logo.png",
+      "og:type": "website",
+      "og:image:alt": "MVA Logo",
+      "og:site_name": "MVA",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "msvalidate.01": "DC82C0A3FC3A7277E85B6AC7346D802D",
+      "og:url": "/Pages/default.aspx"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://mva.maryland.gov/Style%20Library/egov/img/logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Maryland Manual On-Line: A Guide to Maryland & Its Government",
+   "htmlTitle": "<b>Maryland</b> Manual On-Line: A Guide to <b>Maryland</b> &amp; Its Government",
+   "link": "https://msa.maryland.gov/msa/mdmanual/html/mmtoc.html",
+   "displayLink": "msa.maryland.gov",
+   "snippet": "... Maryland State Archives, the Maryland Manual On-Line is updated daily. For ... Green Registry \u00b7 Land Records (mdlandrec.net); Open Data Portal \u00b7 Political\u00a0...",
+   "htmlSnippet": "... <b>Maryland</b> State Archives, the <b>Maryland</b> Manual On-Line is updated daily. For ... Green Registry &middot; Land Records (<b>mdlandrec</b>.net); Open Data Portal &middot; Political&nbsp;...",
+   "formattedUrl": "https://msa.maryland.gov/msa/mdmanual/html/mmtoc.html",
+   "htmlFormattedUrl": "https://msa.<b>maryland</b>.gov/msa/mdmanual/html/mmtoc.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSndYTmoRyLoNYYE7tkspEccqysy8vPTTb76uAWH67KXCbvgB9JA6knbqbY&s",
+      "width": "202",
+      "height": "200"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://msa.maryland.gov/msa/mdmanual/01glance/images/reverse2.gif"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile ID Check by MD on the App Store",
+   "htmlTitle": "<b>Mobile ID</b> Check by MD on the App Store",
+   "link": "https://apps.apple.com/us/app/mobile-id-check-by-md/id6498551403",
+   "displayLink": "apps.apple.com",
+   "snippet": "Dec 19, 2024 ... this will read any ISO 18013-5 standard compliant mDL/mID ... The developer, Maryland Motor Vehicle Administration, indicated that\u00a0...",
+   "htmlSnippet": "Dec 19, 2024 <b>...</b> this will read any ISO 18013-5 standard compliant <b>mDL</b>/mID ... The <b>developer</b>, <b>Maryland</b> Motor Vehicle Administration, indicated that&nbsp;...",
+   "formattedUrl": "https://apps.apple.com/us/app/mobile-id-check-by-md/id6498551403",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/<b>mobile-id</b>-check-by-md/id6498551403",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1TDLDNjwRr2kAqZmeemOiViyxJ3EiTfY3Uag8V0M7BHWArByEtA9sC_Hg&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/23/d7/f923d74a-0e8b-f7a3-35ef-8690ca73b2d6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eThis reader app can be used were age verificaiton is required e.g restaurant, liquor store, bars, etc. this will read any ISO 18013-5 standard compliant mDL/mID products.",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/23/d7/f923d74a-0e8b-f7a3-35ef-8690ca73b2d6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/23/d7/f923d74a-0e8b-f7a3-35ef-8690ca73b2d6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222532.1.0%2B09273a9c%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "Mobile ID Check by MD on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "Mobile ID Check by MD on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eMobile ID Check by MD",
+      "og:title": "\u200eMobile ID Check by MD",
+      "og:image:height": "630",
+      "version": "2532.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eThis reader app can be used were age verificaiton is required e.g restaurant, liquor store, bars, etc. this will read any ISO 18013-5 standard compliant mDL/mID products.",
+      "og:locale": "en_US",
+      "apple:content_id": "6498551403",
+      "og:url": "https://apps.apple.com/us/app/mobile-id-check-by-md/id6498551403"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/23/d7/f923d74a-0e8b-f7a3-35ef-8690ca73b2d6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Maryland MVA Expands Mobile Driver's License Capabilities with ...",
+   "htmlTitle": "<b>Maryland</b> MVA Expands <b>Mobile Driver&#39;s License</b> Capabilities with ...",
+   "link": "https://www.mdot.maryland.gov/tso/pages/newsroomdetails.aspx?PageId=38&newsId=935",
+   "displayLink": "www.mdot.maryland.gov",
+   "snippet": "May 14, 2025 ... ... Maryland Mobile ID program. The MVA is now integrating Mobile ID technology with the self check-in kiosks located at all MVA branch offices\u00a0...",
+   "htmlSnippet": "May 14, 2025 <b>...</b> ... <b>Maryland Mobile ID</b> program. The MVA is now integrating <b>Mobile ID</b> technology with the self check-in kiosks located at all MVA branch offices&nbsp;...",
+   "formattedUrl": "https://www.mdot.maryland.gov/tso/pages/newsroomdetails.aspx?...38...",
+   "htmlFormattedUrl": "https://www.mdot.<b>maryland</b>.gov/tso/pages/newsroomdetails.aspx?...38...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIihms0W0PPW_sgEJMXk9oHwCmNbZTnASGaCCLX-ntXHDfSYXgiIdJe6Y&s",
+      "width": "311",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "robot": "noarchive",
+      "og:image": "https://www.mdot.maryland.gov/MDOTImages/MDOT_OG.jpg",
+      "og:type": "website",
+      "og:image:alt": "MDOT Logo",
+      "og:site_name": "Maryland Department of Transportation (MDOT)",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "og:title": "Maryland MVA Expands Mobile Driver\u2019s License Capabilities with Self Check-In Kiosks \u00a0-\u00a0MDOT",
+      "og:url": "https://www.mdot.maryland.gov/tso/pages/newsroomdetails.aspx?PageId=38&newsId=935",
+      "og:description": "The Maryland Department of Transportation is a customer-driven leader that delivers safe, sustainable, intelligent, and exceptional transportation solutions in order to connect our customers to life\u2019s opportunities."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.mdot.maryland.gov/MDOTImages/MDOT_OG.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2024FY - Operating Budget Analysis - P00 - Maryland Department of ...",
+   "htmlTitle": "2024FY - Operating Budget Analysis - P00 - <b>Maryland</b> Department of ...",
+   "link": "https://mgaleg.maryland.gov/Pubs/BudgetFiscal/2024fy-budget-docs-operating-P00-Maryland-Department-of-Labor.pdf",
+   "displayLink": "mgaleg.maryland.gov",
+   "snippet": "MDL's reliance on vendor contracts for call center staffing and claims adjudication has ... MDL: Maryland Department of Labor. Note: The Mid-Maryland local\u00a0...",
+   "htmlSnippet": "<b>MDL&#39;s</b> reliance on <b>vendor</b> contracts for call center staffing and claims adjudication has ... <b>MDL</b>: <b>Maryland</b> Department of Labor. Note: The Mid-<b>Maryland</b> local&nbsp;...",
+   "formattedUrl": "https://mgaleg.maryland.gov/.../2024fy-budget-docs-operating-P00-Maryla...",
+   "htmlFormattedUrl": "https://mgaleg.<b>maryland</b>.gov/.../2024fy-budget-docs-operating-P00-<b>Maryla</b>...",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20230324131252-04'00'",
+      "creator": "Microsoft\u00ae Word 2013",
+      "creationdate": "D:20230324131252-04'00'",
+      "author": "DLS - Office of Policy Analysis",
+      "subject": "An agency-by-agency analysis of the budget submitted by the Governor.",
+      "producer": "Microsoft\u00ae Word 2013",
+      "title": "2024FY - Operating Budget Analysis - P00 - Maryland Department of Labor"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MVA Announces Maryland Mobile ID in Samsung Wallet - MDOT",
+   "htmlTitle": "MVA Announces <b>Maryland Mobile ID</b> in Samsung Wallet - MDOT",
+   "link": "https://www.mdot.maryland.gov/tso/pages/newsroomdetails.aspx?newsId=805&PageId=38",
+   "displayLink": "www.mdot.maryland.gov",
+   "snippet": "Jun 20, 2024 ... Maryland Mobile ID in Samsung Wallet joins Maryland Mobile ID in Apple Wallet and Google Wallet as the only forms of digital IDs issued through\u00a0...",
+   "htmlSnippet": "Jun 20, 2024 <b>...</b> <b>Maryland Mobile ID</b> in Samsung Wallet joins <b>Maryland Mobile ID</b> in Apple Wallet and Google Wallet as the only forms of digital IDs issued through&nbsp;...",
+   "formattedUrl": "https://www.mdot.maryland.gov/tso/pages/newsroomdetails.aspx?...805...",
+   "htmlFormattedUrl": "https://www.mdot.<b>maryland</b>.gov/tso/pages/newsroomdetails.aspx?...805...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIihms0W0PPW_sgEJMXk9oHwCmNbZTnASGaCCLX-ntXHDfSYXgiIdJe6Y&s",
+      "width": "311",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "robot": "noarchive",
+      "og:image": "https://www.mdot.maryland.gov/MDOTImages/MDOT_OG.jpg",
+      "og:type": "website",
+      "og:image:alt": "MDOT Logo",
+      "og:site_name": "Maryland Department of Transportation (MDOT)",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "og:title": "MVA Announces Maryland Mobile ID in Samsung Wallet  \u00a0-\u00a0MDOT",
+      "og:url": "https://www.mdot.maryland.gov/tso/pages/newsroomdetails.aspx?newsId=805&PageId=38",
+      "og:description": "The Maryland Department of Transportation is a customer-driven leader that delivers safe, sustainable, intelligent, and exceptional transportation solutions in order to connect our customers to life\u2019s opportunities."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.mdot.maryland.gov/MDOTImages/MDOT_OG.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Maryland Department of Labor - Division of Occupational and ...",
+   "htmlTitle": "<b>Maryland</b> Department of Labor - Division of Occupational and ...",
+   "link": "https://dls.maryland.gov/pubs/prod/NoPblTabPDF/MDL-DOPL22.pdf",
+   "displayLink": "dls.maryland.gov",
+   "snippet": "Mar 11, 2022 ... The Maryland Department of Labor (MDL), on behalf of. DOPL, contracted with a vendor to administer examinations required for licensure. The\u00a0...",
+   "htmlSnippet": "Mar 11, 2022 <b>...</b> The <b>Maryland</b> Department of Labor (<b>MDL</b>), on behalf of. DOPL, contracted with a <b>vendor</b> to administer examinations required for licensure. The&nbsp;...",
+   "formattedUrl": "https://dls.maryland.gov/pubs/prod/NoPblTabPDF/MDL-DOPL22.pdf",
+   "htmlFormattedUrl": "https://dls.<b>maryland</b>.gov/pubs/prod/NoPblTabPDF/<b>MDL</b>-DOPL22.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd_CkWENXv33Me8jiPQ3QxRho-ispUPSnxpGLvCsPUkiGP4GbEV1k-2KU&s",
+      "width": "197",
+      "height": "255"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20220316121954-04'00'",
+      "creationdate": "D:20220311083454-05'00'",
+      "creator": "PScript5.dll Version 5.2.2",
+      "author": "OLA",
+      "subject": "Maryland Department of Labor - Division of Occupational and Professional Licensing - 03-11-22",
+      "producer": "Acrobat Distiller 11.0 (Windows)",
+      "title": "Maryland Department of Labor - Division of Occupational and Professional Licensing"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///fc941b573a93633dce451d5ecc559eff7ef2d875b8c51e5ee12ecc60832a8314"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

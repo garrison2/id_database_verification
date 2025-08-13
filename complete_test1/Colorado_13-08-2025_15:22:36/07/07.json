@@ -1,0 +1,566 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:play.google.com \"Colorado\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "37",
+    "searchTerms": "site:play.google.com \"Colorado\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:play.google.com \"Colorado\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "37",
+    "searchTerms": "site:play.google.com \"Colorado\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.178534,
+  "formattedSearchTime": "0.18",
+  "totalResults": "37",
+  "formattedTotalResults": "37"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "myColorado - Apps on Google Play",
+   "htmlTitle": "myColorado - Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.soc.mycolorado",
+   "displayLink": "play.google.com",
+   "snippet": "The State of Colorado's Official Mobile App. ... If I needed to present my digital ID right now I'd be in trouble! So it's\u00a0...",
+   "htmlSnippet": "The State of <b>Colorado&#39;s</b> Official Mobile App. ... If I needed to present my <b>digital ID</b> right now I&#39;d be in trouble! So it&#39;s&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.soc.mycolorado",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.soc.my<b>colorado</b>",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.soc.mycolorado&rdid=com.soc.mycolorado&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThuTOTranHnLOr8Roo4JS3qG4S-0IFhpHTSSCDI2txjtXdfdhxJhUMfHFi&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/mSPGSOOcjVv7oBVO8KhNfAd6H_6CBPMMnF8AZZKl9YpgUZ2m-mWTYXLqaiRTgvVEy3c",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "myColorado - Apps on Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.soc.mycolorado&hl=en_US",
+      "appstore:developer_url": "https://mycolorado.gov",
+      "og:title": "myColorado - Apps on Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/mSPGSOOcjVv7oBVO8KhNfAd6H_6CBPMMnF8AZZKl9YpgUZ2m-mWTYXLqaiRTgvVEy3c=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.soc.mycolorado",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.soc.mycolorado",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "The State of Colorado's Official Mobile App",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.soc.mycolorado&hl=en_US"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/mSPGSOOcjVv7oBVO8KhNfAd6H_6CBPMMnF8AZZKl9YpgUZ2m-mWTYXLqaiRTgvVEy3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "myColorado - Apps en Google Play",
+   "htmlTitle": "myColorado - Apps en Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.soc.mycolorado&hl=es_DO",
+   "displayLink": "play.google.com",
+   "snippet": "... Colorado accedan a importantes servicios estatales en cualquier momento y en cualquier lugar. myColorado le permite: - cree su Colorado Digital ID\u2122 para\u00a0...",
+   "htmlSnippet": "... <b>Colorado</b> accedan a importantes servicios estatales en cualquier momento y en cualquier lugar. myColorado le permite: - cree su <b>Colorado Digital ID</b>\u2122 para&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.soc.mycolorado...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.soc.my<b>colorado</b>...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.soc.mycolorado&rdid=com.soc.mycolorado&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThuTOTranHnLOr8Roo4JS3qG4S-0IFhpHTSSCDI2txjtXdfdhxJhUMfHFi&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/mSPGSOOcjVv7oBVO8KhNfAd6H_6CBPMMnF8AZZKl9YpgUZ2m-mWTYXLqaiRTgvVEy3c",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "myColorado - Apps en Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.soc.mycolorado&hl=es_DO",
+      "appstore:developer_url": "https://mycolorado.gov",
+      "og:title": "myColorado - Apps en Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/mSPGSOOcjVv7oBVO8KhNfAd6H_6CBPMMnF8AZZKl9YpgUZ2m-mWTYXLqaiRTgvVEy3c=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.soc.mycolorado",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.soc.mycolorado",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Aplicaci\u00f3n m\u00f3vil oficial del estado de Colorado",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.soc.mycolorado&hl=es_DO"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/mSPGSOOcjVv7oBVO8KhNfAd6H_6CBPMMnF8AZZKl9YpgUZ2m-mWTYXLqaiRTgvVEy3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "myColorado - Apl di Google Play",
+   "htmlTitle": "myColorado - Apl di Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.soc.mycolorado&hl=ms",
+   "displayLink": "play.google.com",
+   "snippet": "State Mobile App Rasmi Colorado. ... - cipta Colorado Digital ID\u2122 anda untuk melengkapkan kad ID fizikal anda untuk kegunaan dalam negeri*",
+   "htmlSnippet": "State Mobile App Rasmi <b>Colorado</b>. ... - cipta <b>Colorado Digital ID</b>\u2122 anda untuk melengkapkan kad ID fizikal anda untuk kegunaan dalam negeri*",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.soc.mycolorado&hl...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.soc.my<b>colorado</b>&amp;hl...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.soc.mycolorado&rdid=com.soc.mycolorado&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThuTOTranHnLOr8Roo4JS3qG4S-0IFhpHTSSCDI2txjtXdfdhxJhUMfHFi&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/mSPGSOOcjVv7oBVO8KhNfAd6H_6CBPMMnF8AZZKl9YpgUZ2m-mWTYXLqaiRTgvVEy3c",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "myColorado - Apl di Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.soc.mycolorado&hl=ms",
+      "appstore:developer_url": "https://mycolorado.gov",
+      "og:title": "myColorado - Apl di Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/mSPGSOOcjVv7oBVO8KhNfAd6H_6CBPMMnF8AZZKl9YpgUZ2m-mWTYXLqaiRTgvVEy3c=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.soc.mycolorado",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.soc.mycolorado",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "State Mobile App Rasmi Colorado",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.soc.mycolorado&hl=ms"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/mSPGSOOcjVv7oBVO8KhNfAd6H_6CBPMMnF8AZZKl9YpgUZ2m-mWTYXLqaiRTgvVEy3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "myColorado - Apps op Google Play",
+   "htmlTitle": "myColorado - Apps op Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.soc.mycolorado&hl=nl",
+   "displayLink": "play.google.com",
+   "snippet": "... Colorado om altijd en overal toegang te krijgen tot belangrijke overheidsdiensten! Met myColorado kunt u: - cre\u00eber uw Colorado Digital ID\u2122 als aanvulling\u00a0...",
+   "htmlSnippet": "... <b>Colorado</b> om altijd en overal toegang te krijgen tot belangrijke overheidsdiensten! Met myColorado kunt u: - cre\u00eber uw <b>Colorado Digital ID</b>\u2122 als aanvulling&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.soc.mycolorado&hl...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.soc.my<b>colorado</b>&amp;hl...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.soc.mycolorado&rdid=com.soc.mycolorado&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThuTOTranHnLOr8Roo4JS3qG4S-0IFhpHTSSCDI2txjtXdfdhxJhUMfHFi&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/mSPGSOOcjVv7oBVO8KhNfAd6H_6CBPMMnF8AZZKl9YpgUZ2m-mWTYXLqaiRTgvVEy3c",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "myColorado - Apps op Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.soc.mycolorado&hl=nl",
+      "appstore:developer_url": "https://mycolorado.gov",
+      "og:title": "myColorado - Apps op Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/mSPGSOOcjVv7oBVO8KhNfAd6H_6CBPMMnF8AZZKl9YpgUZ2m-mWTYXLqaiRTgvVEy3c=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.soc.mycolorado",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.soc.mycolorado",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "De offici\u00eble mobiele app van de staat Colorado",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.soc.mycolorado&hl=nl"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/mSPGSOOcjVv7oBVO8KhNfAd6H_6CBPMMnF8AZZKl9YpgUZ2m-mWTYXLqaiRTgvVEy3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "myColorado \u2013 Applications sur Google Play",
+   "htmlTitle": "myColorado \u2013 Applications sur Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.soc.mycolorado&hl=fr",
+   "displayLink": "play.google.com",
+   "snippet": "- cr\u00e9ez votre Colorado Digital ID \u2122 pour compl\u00e9ter votre carte d'identit\u00e9 ... Autres applications de \"State of Colorado - Governor's Office of IT\".",
+   "htmlSnippet": "- cr\u00e9ez votre <b>Colorado Digital ID</b> \u2122 pour compl\u00e9ter votre carte d&#39;identit\u00e9 ... Autres applications de &quot;State of <b>Colorado</b> - Governor&#39;s Office of IT&quot;.",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.soc.mycolorado&hl...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.soc.my<b>colorado</b>&amp;hl...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.soc.mycolorado&rdid=com.soc.mycolorado&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThuTOTranHnLOr8Roo4JS3qG4S-0IFhpHTSSCDI2txjtXdfdhxJhUMfHFi&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/mSPGSOOcjVv7oBVO8KhNfAd6H_6CBPMMnF8AZZKl9YpgUZ2m-mWTYXLqaiRTgvVEy3c",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "myColorado \u2013 Applications sur Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.soc.mycolorado&hl=fr",
+      "appstore:developer_url": "https://mycolorado.gov",
+      "og:title": "myColorado \u2013 Applications sur Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/mSPGSOOcjVv7oBVO8KhNfAd6H_6CBPMMnF8AZZKl9YpgUZ2m-mWTYXLqaiRTgvVEy3c=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.soc.mycolorado",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.soc.mycolorado",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Application mobile officielle de l'\u00c9tat du Colorado",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.soc.mycolorado&hl=fr"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/mSPGSOOcjVv7oBVO8KhNfAd6H_6CBPMMnF8AZZKl9YpgUZ2m-mWTYXLqaiRTgvVEy3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "myColorado \u2013 Aplikacje w Google Play",
+   "htmlTitle": "myColorado \u2013 Aplikacje w Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.soc.mycolorado&hl=pl",
+   "displayLink": "play.google.com",
+   "snippet": "Oficjalna aplikacja mobilna State of Colorado. ... - utw\u00f3rz sw\u00f3j Colorado Digital ID \u2122, aby uzupe\u0142ni\u0107 sw\u00f3j fizyczny dow\u00f3d osobisty do u\u017cytku w stanie *",
+   "htmlSnippet": "Oficjalna aplikacja mobilna State of <b>Colorado</b>. ... - utw\u00f3rz sw\u00f3j <b>Colorado Digital ID</b> \u2122, aby uzupe\u0142ni\u0107 sw\u00f3j fizyczny dow\u00f3d osobisty do u\u017cytku w stanie *",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.soc.mycolorado&hl...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.soc.my<b>colorado</b>&amp;hl...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.soc.mycolorado&rdid=com.soc.mycolorado&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThuTOTranHnLOr8Roo4JS3qG4S-0IFhpHTSSCDI2txjtXdfdhxJhUMfHFi&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/mSPGSOOcjVv7oBVO8KhNfAd6H_6CBPMMnF8AZZKl9YpgUZ2m-mWTYXLqaiRTgvVEy3c",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "myColorado \u2013 Aplikacje w Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.soc.mycolorado&hl=pl",
+      "appstore:developer_url": "https://mycolorado.gov",
+      "og:title": "myColorado \u2013 Aplikacje w Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/mSPGSOOcjVv7oBVO8KhNfAd6H_6CBPMMnF8AZZKl9YpgUZ2m-mWTYXLqaiRTgvVEy3c=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.soc.mycolorado",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.soc.mycolorado",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Oficjalna aplikacja mobilna State of Colorado",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.soc.mycolorado&hl=pl"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/mSPGSOOcjVv7oBVO8KhNfAd6H_6CBPMMnF8AZZKl9YpgUZ2m-mWTYXLqaiRTgvVEy3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "myColorado - Mga App sa Google Play",
+   "htmlTitle": "myColorado - Mga App sa Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.soc.mycolorado&hl=fil",
+   "displayLink": "play.google.com",
+   "snippet": "- lumikha ng iyong Colorado Digital ID\u2122 upang umakma sa iyong pisikal na ID card para sa in-state na paggamit* - ipakita ang patunay ng pagbabakuna saanman\u00a0...",
+   "htmlSnippet": "- lumikha ng iyong <b>Colorado Digital ID</b>\u2122 upang umakma sa iyong pisikal na ID card para sa in-state na paggamit* - ipakita ang patunay ng pagbabakuna saanman&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.soc.mycolorado&hl...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.soc.my<b>colorado</b>&amp;hl...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.soc.mycolorado&rdid=com.soc.mycolorado&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThuTOTranHnLOr8Roo4JS3qG4S-0IFhpHTSSCDI2txjtXdfdhxJhUMfHFi&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/mSPGSOOcjVv7oBVO8KhNfAd6H_6CBPMMnF8AZZKl9YpgUZ2m-mWTYXLqaiRTgvVEy3c",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "myColorado - Mga App sa Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.soc.mycolorado&hl=fil",
+      "appstore:developer_url": "https://mycolorado.gov",
+      "og:title": "myColorado - Mga App sa Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/mSPGSOOcjVv7oBVO8KhNfAd6H_6CBPMMnF8AZZKl9YpgUZ2m-mWTYXLqaiRTgvVEy3c=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.soc.mycolorado",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.soc.mycolorado",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Ang Estado ng Opisyal na Mobile App ng Colorado",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.soc.mycolorado&hl=fil"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/mSPGSOOcjVv7oBVO8KhNfAd6H_6CBPMMnF8AZZKl9YpgUZ2m-mWTYXLqaiRTgvVEy3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "myColorado - App su Google Play",
+   "htmlTitle": "myColorado - App su Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.soc.mycolorado&hl=it",
+   "displayLink": "play.google.com",
+   "snippet": "L'applicazione mobile ufficiale dello stato del Colorado. ... myColorado ti permette di: - crea il tuo Colorado Digital ID\u2122 per integrare\u00a0...",
+   "htmlSnippet": "L&#39;applicazione mobile ufficiale dello stato del <b>Colorado</b>. ... myColorado ti permette di: - crea il tuo <b>Colorado Digital ID</b>\u2122 per integrare&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.soc.mycolorado&hl...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.soc.my<b>colorado</b>&amp;hl...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.soc.mycolorado&rdid=com.soc.mycolorado&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThuTOTranHnLOr8Roo4JS3qG4S-0IFhpHTSSCDI2txjtXdfdhxJhUMfHFi&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/mSPGSOOcjVv7oBVO8KhNfAd6H_6CBPMMnF8AZZKl9YpgUZ2m-mWTYXLqaiRTgvVEy3c",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "myColorado - App su Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.soc.mycolorado&hl=it",
+      "appstore:developer_url": "https://mycolorado.gov",
+      "og:title": "myColorado - App su Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/mSPGSOOcjVv7oBVO8KhNfAd6H_6CBPMMnF8AZZKl9YpgUZ2m-mWTYXLqaiRTgvVEy3c=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.soc.mycolorado",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.soc.mycolorado",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "L'applicazione mobile ufficiale dello stato del Colorado",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.soc.mycolorado&hl=it"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/mSPGSOOcjVv7oBVO8KhNfAd6H_6CBPMMnF8AZZKl9YpgUZ2m-mWTYXLqaiRTgvVEy3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "myColorado \u2013 Apps bei Google Play",
+   "htmlTitle": "myColorado \u2013 Apps bei Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.soc.mycolorado&hl=de",
+   "displayLink": "play.google.com",
+   "snippet": "Die offizielle Mobile App des Bundesstaates Colorado. ... - Erstellen Sie Ihre Colorado Digital ID\u2122 als Erg\u00e4nzung zu Ihrem physischen Personalausweis f\u00fcr die\u00a0...",
+   "htmlSnippet": "Die offizielle Mobile App des Bundesstaates <b>Colorado</b>. ... - Erstellen Sie Ihre <b>Colorado Digital ID</b>\u2122 als Erg\u00e4nzung zu Ihrem physischen Personalausweis f\u00fcr die&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.soc.mycolorado&hl...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.soc.my<b>colorado</b>&amp;hl...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.soc.mycolorado&rdid=com.soc.mycolorado&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThuTOTranHnLOr8Roo4JS3qG4S-0IFhpHTSSCDI2txjtXdfdhxJhUMfHFi&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/mSPGSOOcjVv7oBVO8KhNfAd6H_6CBPMMnF8AZZKl9YpgUZ2m-mWTYXLqaiRTgvVEy3c",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "myColorado \u2013 Apps bei Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.soc.mycolorado&hl=de",
+      "appstore:developer_url": "https://mycolorado.gov",
+      "og:title": "myColorado \u2013 Apps bei Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/mSPGSOOcjVv7oBVO8KhNfAd6H_6CBPMMnF8AZZKl9YpgUZ2m-mWTYXLqaiRTgvVEy3c=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.soc.mycolorado",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.soc.mycolorado",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Die offizielle Mobile App des Bundesstaates Colorado",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.soc.mycolorado&hl=de"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/mSPGSOOcjVv7oBVO8KhNfAd6H_6CBPMMnF8AZZKl9YpgUZ2m-mWTYXLqaiRTgvVEy3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile ID Check by MD - Apps on Google Play",
+   "htmlTitle": "<b>Mobile ID</b> Check by MD - Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.mdot.mva.mobileidcheck",
+   "displayLink": "play.google.com",
+   "snippet": "Oct 17, 2024 ... ID and Digital ID Verifier App by MDOT MVA for mDL and Physical ID Verification ... \u2022 Colorado \u2022 Georgia \u2022 Louisiana \u2022 Hawaii \u2022 New York \u2022 Ohio \u2022\u00a0...",
+   "htmlSnippet": "Oct 17, 2024 <b>...</b> ID and <b>Digital ID</b> Verifier App by MDOT MVA for <b>mDL</b> and Physical ID Verification ... \u2022 <b>Colorado</b> \u2022 Georgia \u2022 Louisiana \u2022 Hawaii \u2022 New York \u2022 Ohio \u2022&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.mdot...mobileidcheck",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.mdot...<b>mobileid</b>check",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.mdot.mva.mobileidcheck&rdid=com.mdot.mva.mobileidcheck&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCsUar5K4Nq7816RR9WGPdIMRXjTZnDqGcXZIcqDYsn22DpvREigblp8Do&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/3ZeAj6zKj-fHfJA8mqvks57oooYgUTM5p8LJlw_MQwol42IanOImYSuH8GqoCHiYfQ",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Mobile ID Check by MD - Apps on Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.mdot.mva.mobileidcheck&hl=en_US",
+      "appstore:developer_url": "https://mva.maryland.gov/Pages/MDMobileIDBusiness.aspx",
+      "og:title": "Mobile ID Check by MD - Apps on Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/3ZeAj6zKj-fHfJA8mqvks57oooYgUTM5p8LJlw_MQwol42IanOImYSuH8GqoCHiYfQ=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.mdot.mva.mobileidcheck",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.mdot.mva.mobileidcheck",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "ID and Digital ID Verifier App by MDOT MVA for mDL and Physical ID Verification.",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.mdot.mva.mobileidcheck&hl=en_US"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/3ZeAj6zKj-fHfJA8mqvks57oooYgUTM5p8LJlw_MQwol42IanOImYSuH8GqoCHiYfQ"
+     }
+    ]
+   }
+  }
+ ]
+}

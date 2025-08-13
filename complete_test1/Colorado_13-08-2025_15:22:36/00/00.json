@@ -1,0 +1,410 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Colorado\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "3060000",
+    "searchTerms": "\"Colorado\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Colorado\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "3060000",
+    "searchTerms": "\"Colorado\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.195514,
+  "formattedSearchTime": "0.20",
+  "totalResults": "3060000",
+  "formattedTotalResults": "3,060,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Colorado Digital ID - myColorado",
+   "htmlTitle": "Colorado Digital ID - myColorado",
+   "link": "https://mycolorado.gov/colorado-digital-id",
+   "displayLink": "mycolorado.gov",
+   "snippet": "The contactless Colorado Digital ID\u2122 is a secure electronic version of your driver license or state-issued identification (ID) card for proof of identification,\u00a0...",
+   "htmlSnippet": "The contactless <b>Colorado Digital ID</b>\u2122 is a secure electronic version of your driver license or state-issued identification (ID) card for proof of identification,&nbsp;...",
+   "formattedUrl": "https://mycolorado.gov/colorado-digital-id",
+   "htmlFormattedUrl": "https://my<b>colorado</b>.gov/<b>colorado</b>-<b>digital-id</b>",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt-UeMIZToIijv10pLkzEd0qkDm-s-RrS0MlmKkV_EvnHWDDe6PMhKS_E&s",
+      "width": "254",
+      "height": "198"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin",
+      "og:image": "https://lh4.googleusercontent.com/AHIORtwLDpaERbKutS6AWMV7AGlURfC3TUP6wHE61G_kxgOhamzVmKFyz4UeehQEqa8Em4UE098vl3gi6tqdYokPdbfq5S8hwjOoqdrqZaN1HAebMZCEcu_Dg_GwBHVjIiVPLqO2WUA=w16383",
+      "og:type": "website",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "myColorado - Colorado Digital ID\u2122",
+      "og:url": "https://mycolorado.state.co.us/colorado-digital-id",
+      "og:description": "Digital ID Features"
+     }
+    ],
+    "webpage": [
+     {
+      "image": "https://lh4.googleusercontent.com/AHIORtwLDpaERbKutS6AWMV7AGlURfC3TUP6wHE61G_kxgOhamzVmKFyz4UeehQEqa8Em4UE098vl3gi6tqdYokPdbfq5S8hwjOoqdrqZaN1HAebMZCEcu_Dg_GwBHVjIiVPLqO2WUA=w16383",
+      "imageurl": "https://lh4.googleusercontent.com/AHIORtwLDpaERbKutS6AWMV7AGlURfC3TUP6wHE61G_kxgOhamzVmKFyz4UeehQEqa8Em4UE098vl3gi6tqdYokPdbfq5S8hwjOoqdrqZaN1HAebMZCEcu_Dg_GwBHVjIiVPLqO2WUA=w16383",
+      "name": "myColorado - Colorado Digital ID\u2122",
+      "description": "Digital ID Features",
+      "url": "https://mycolorado.state.co.us/colorado-digital-id",
+      "thumbnailurl": "https://lh4.googleusercontent.com/AHIORtwLDpaERbKutS6AWMV7AGlURfC3TUP6wHE61G_kxgOhamzVmKFyz4UeehQEqa8Em4UE098vl3gi6tqdYokPdbfq5S8hwjOoqdrqZaN1HAebMZCEcu_Dg_GwBHVjIiVPLqO2WUA=w16383"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://lh4.googleusercontent.com/AHIORtwLDpaERbKutS6AWMV7AGlURfC3TUP6wHE61G_kxgOhamzVmKFyz4UeehQEqa8Em4UE098vl3gi6tqdYokPdbfq5S8hwjOoqdrqZaN1HAebMZCEcu_Dg_GwBHVjIiVPLqO2WUA=w16383"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Colorado ID on Your Phone | Department of Revenue - Motor Vehicle",
+   "htmlTitle": "<b>Colorado</b> ID on Your Phone | Department of Revenue - Motor Vehicle",
+   "link": "https://dmv.colorado.gov/colorado-id-on-your-phone",
+   "displayLink": "dmv.colorado.gov",
+   "snippet": "a more streamlined verification process at eligible TSA security checkpoints and beyond! Apple Wallet. Front of an iphone with the Colorado mobile ID\u00a0...",
+   "htmlSnippet": "a more streamlined verification process at eligible TSA security checkpoints and beyond! Apple Wallet. Front of an iphone with the <b>Colorado mobile ID</b>&nbsp;...",
+   "formattedUrl": "https://dmv.colorado.gov/colorado-id-on-your-phone",
+   "htmlFormattedUrl": "https://dmv.<b>colorado</b>.gov/<b>colorado</b>-id-on-your-phone",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZuZXML8_25D5D3Ixur_2waZAeUw8kLL3hE4ZeTCmAjfATMlPEl0v0f4Q&s",
+      "width": "198",
+      "height": "255"
+     }
+    ],
+    "WebPage": [
+     {
+      "name": "Colorado ID on Your Phone",
+      "text": "Digital ResourcesBy adding your ID or driver\u2019s license to the designated wallet, you can enjoy a more streamlined verification process at eligible TSA security checkpoints and beyond!"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.colorado.gov/sites/dmv/files/styles/original_size/public/iphoneapplewallet2-screen_0.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "myColorado",
+   "htmlTitle": "myColorado",
+   "link": "https://mycolorado.state.co.us/",
+   "displayLink": "mycolorado.state.co.us",
+   "snippet": "Got questions about myColorado? \u00b7 Award-winning myColorado\u2122 App Offers Digital ID & COVID-19 Vaccination Record \u00b7 Need help? \u00b7 State of Colorado Website\u00a0...",
+   "htmlSnippet": "Got questions about myColorado? &middot; Award-winning myColorado\u2122 App Offers <b>Digital ID</b> &amp; COVID-19 Vaccination Record &middot; Need help? &middot; State of <b>Colorado</b> Website&nbsp;...",
+   "formattedUrl": "https://mycolorado.state.co.us/",
+   "htmlFormattedUrl": "https://my<b>colorado</b>.state.co.us/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuPXM3FcnY_akp3PRZcVJd-lVs0TisEH8mZ3QoiVJKmRttg6-hzafnyQ&s",
+      "width": "417",
+      "height": "121"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "strict-origin-when-cross-origin",
+      "og:image": "https://lh3.googleusercontent.com/0ybRQjDLTewtOJ8KLc7JEmC5IYMU6CbTMYz3cebYOxx8TGAvllBwF9S7c9ALkuxkXDbHgfBExoJUAGAdDHNk816oY94vi-LjWZtHtWfiNntedW0c5zhAtkzfrXrRPdQD8UHaZc_g_CE=w16383",
+      "og:type": "website",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "myColorado",
+      "og:url": "https://mycolorado.state.co.us/",
+      "og:description": "Got questions about myColorado?"
+     }
+    ],
+    "webpage": [
+     {
+      "image": "https://lh3.googleusercontent.com/0ybRQjDLTewtOJ8KLc7JEmC5IYMU6CbTMYz3cebYOxx8TGAvllBwF9S7c9ALkuxkXDbHgfBExoJUAGAdDHNk816oY94vi-LjWZtHtWfiNntedW0c5zhAtkzfrXrRPdQD8UHaZc_g_CE=w16383",
+      "imageurl": "https://lh3.googleusercontent.com/0ybRQjDLTewtOJ8KLc7JEmC5IYMU6CbTMYz3cebYOxx8TGAvllBwF9S7c9ALkuxkXDbHgfBExoJUAGAdDHNk816oY94vi-LjWZtHtWfiNntedW0c5zhAtkzfrXrRPdQD8UHaZc_g_CE=w16383",
+      "name": "myColorado",
+      "description": "Got questions about myColorado?",
+      "url": "https://mycolorado.state.co.us/",
+      "thumbnailurl": "https://lh3.googleusercontent.com/0ybRQjDLTewtOJ8KLc7JEmC5IYMU6CbTMYz3cebYOxx8TGAvllBwF9S7c9ALkuxkXDbHgfBExoJUAGAdDHNk816oY94vi-LjWZtHtWfiNntedW0c5zhAtkzfrXrRPdQD8UHaZc_g_CE=w16383"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://lh3.googleusercontent.com/39rDQo-z99MlOsBJNewfHzzI7MhOoUVsWZPJ6smzzsTznwCnrJycPuIPo4b-tKgV8kTLBlZgsccscCMwgS9szjjBZvNsmYa90GUCJf0RZixizNBioaPSOJpLyLZXFFfmtAuL5G-QHm_A9UEHKc9K_o0HDGI2I6WxTsE0O7TBKmpuPxF8XAenlQ=w1280"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "myColorado\u2122 on the App Store",
+   "htmlTitle": "myColorado\u2122 on the App Store",
+   "link": "https://apps.apple.com/us/app/mycolorado/id1447566714",
+   "displayLink": "apps.apple.com",
+   "snippet": "Hi Jared, thank you for your thoughtful review. We would like to make the distinction that the Colorado Digital ID, which is available in the myColorado app\u00a0...",
+   "htmlSnippet": "Hi Jared, thank you for your thoughtful review. We would like to make the distinction that the <b>Colorado Digital ID</b>, which is available in the myColorado app&nbsp;...",
+   "formattedUrl": "https://apps.apple.com/us/app/mycolorado/id1447566714",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/my<b>colorado</b>/id1447566714",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/73/2b/5d732b14-6dce-ab80-6d7e-86b8ef50b42f/AppIcon-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220-0.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eAs the State of Colorado's official mobile app\u2122, myColorado\u2122 provides a secure and convenient way for Coloradans to access important state services anytime, anywhere!\n\nmyColorado allows you to:\n- create your Colorado Digital ID\u2122 to complement your physical ID card for in-state use*\n- show proof of v\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/73/2b/5d732b14-6dce-ab80-6d7e-86b8ef50b42f/AppIcon-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220-0.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/73/2b/5d732b14-6dce-ab80-6d7e-86b8ef50b42f/AppIcon-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220-0.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222532.1.0%2B09273a9c%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "myColorado\u2122 on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "myColorado\u2122 on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200emyColorado\u2122",
+      "og:title": "\u200emyColorado\u2122",
+      "og:image:height": "630",
+      "version": "2532.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eAs the State of Colorado's official mobile app\u2122, myColorado\u2122 provides a secure and convenient way for Coloradans to access important state services anytime, anywhere!\n\nmyColorado allows you to:\n- create your Colorado Digital ID\u2122 to complement your physical ID card for in-state use*\n- show proof of v\u2026",
+      "og:locale": "en_US",
+      "apple:content_id": "1447566714",
+      "og:url": "https://apps.apple.com/us/app/mycolorado/id1447566714"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/73/2b/5d732b14-6dce-ab80-6d7e-86b8ef50b42f/AppIcon-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220-0.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "myColorado - Apps on Google Play",
+   "htmlTitle": "myColorado - Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.soc.mycolorado&hl=en_US",
+   "displayLink": "play.google.com",
+   "snippet": "The State of Colorado's Official Mobile App. ... If I needed to present my digital ID right now I'd be in trouble! So it's\u00a0...",
+   "htmlSnippet": "The State of <b>Colorado&#39;s</b> Official Mobile App. ... If I needed to present my <b>digital ID</b> right now I&#39;d be in trouble! So it&#39;s&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.soc.mycolorado...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.soc.my<b>colorado</b>...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.soc.mycolorado&rdid=com.soc.mycolorado&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThuTOTranHnLOr8Roo4JS3qG4S-0IFhpHTSSCDI2txjtXdfdhxJhUMfHFi&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/mSPGSOOcjVv7oBVO8KhNfAd6H_6CBPMMnF8AZZKl9YpgUZ2m-mWTYXLqaiRTgvVEy3c",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "myColorado - Apps on Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.soc.mycolorado&hl=en_US",
+      "appstore:developer_url": "https://mycolorado.gov",
+      "og:title": "myColorado - Apps on Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/mSPGSOOcjVv7oBVO8KhNfAd6H_6CBPMMnF8AZZKl9YpgUZ2m-mWTYXLqaiRTgvVEy3c=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.soc.mycolorado",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.soc.mycolorado",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "The State of Colorado's Official Mobile App",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.soc.mycolorado&hl=en_US"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/mSPGSOOcjVv7oBVO8KhNfAd6H_6CBPMMnF8AZZKl9YpgUZ2m-mWTYXLqaiRTgvVEy3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Colorado - mDL Connection",
+   "htmlTitle": "<b>Colorado</b> - <b>mDL</b> Connection",
+   "link": "https://www.mdlconnection.com/implementation-tracker-map/colorado/",
+   "displayLink": "www.mdlconnection.com",
+   "snippet": "Colorado Digital ID \u00b7 Colorado ID on iPhone and Apple Watch \u00b7 Colorado Launches ... Inside Colorado's New State-Run Digital Driver's License App, PYMNTS, Dec 2019\u00a0...",
+   "htmlSnippet": "<b>Colorado Digital ID</b> &middot; <b>Colorado</b> ID on iPhone and Apple Watch &middot; <b>Colorado</b> Launches ... Inside <b>Colorado&#39;s</b> New State-Run <b>Digital Driver&#39;s License</b> App, PYMNTS, Dec 2019&nbsp;...",
+   "formattedUrl": "https://www.mdlconnection.com/implementation-tracker-map/colorado/",
+   "htmlFormattedUrl": "https://www.<b>mdl</b>connection.com/implementation-tracker-map/<b>colorado</b>/",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "mDL Connection",
+      "article:modified_time": "2025-07-09T18:36:26+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "Colorado - mDL Connection",
+      "og:locale": "en_US",
+      "twitter:label1": "Est. reading time",
+      "og:url": "https://www.mdlconnection.com/implementation-tracker-map/colorado/",
+      "msapplication-tileimage": "https://www.mdlconnection.com/wp-content/uploads/2020/04/cropped-mDLConnection-icon@2x-270x270.png",
+      "twitter:data1": "2 minutes"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "myColorado\u2122 releases Affinity Icon for Colorado Digital ID\u2122 | Office ...",
+   "htmlTitle": "myColorado\u2122 releases Affinity Icon for <b>Colorado Digital ID</b>\u2122 | Office ...",
+   "link": "https://oit.colorado.gov/press-release/mycoloradotm-releases-affinity-icon-for-colorado-digital-idtm",
+   "displayLink": "oit.colorado.gov",
+   "snippet": "Aug 17, 2022 ... DENVER \u2013 Tuesday, myColorado\u2122 - State of Colorado's Official Mobile App\u2122 - launched the new Affinity Icon for its Colorado Digital ID.",
+   "htmlSnippet": "Aug 17, 2022 <b>...</b> DENVER \u2013 Tuesday, myColorado\u2122 - State of <b>Colorado&#39;s</b> Official Mobile App\u2122 - launched the new Affinity Icon for its <b>Colorado Digital ID</b>.",
+   "formattedUrl": "https://oit.colorado.gov/.../mycoloradotm-releases-affinity-icon-for-colorad...",
+   "htmlFormattedUrl": "https://oit.<b>colorado</b>.gov/.../my<b>colorado</b>tm-releases-affinity-icon-for-<b>colorad</b>...",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BULLETIN 20-18 COLORADO DIGITAL ID RESOURCES ...",
+   "htmlTitle": "BULLETIN 20-18 <b>COLORADO DIGITAL ID</b> RESOURCES ...",
+   "link": "https://sbg.colorado.gov/bulletin-20-18-colorado-digital-id-resources-available-for-trainers",
+   "displayLink": "sbg.colorado.gov",
+   "snippet": "DATE: September 17, 2020Last fall, Governor Polis issued an Executive Order authorizing the secure Colorado Digital ID\u2122 within the myColorado\u2122 mobile app as\u00a0...",
+   "htmlSnippet": "DATE: September 17, 2020Last fall, Governor Polis issued an Executive Order authorizing the secure <b>Colorado Digital ID</b>\u2122 within the myColorado\u2122 mobile app as&nbsp;...",
+   "formattedUrl": "https://sbg.colorado.gov/bulletin-20-18-colorado-digital-id-resources-availa...",
+   "htmlFormattedUrl": "https://sbg.<b>colorado</b>.gov/bulletin-20-18-<b>colorado</b>-<b>digital-id</b>-resources-availa...",
+   "pagemap": {
+    "WebPage": [
+     {
+      "name": "BULLETIN 20-18 COLORADO DIGITAL ID RESOURCES AVAILABLE FOR TRAINERS",
+      "text": "DATE: September 17, 2020Last fall, Governor Polis issued an Executive Order authorizing the secure Colorado Digital ID\u2122 within the myColorado\u2122 mobile app as an accepted legal form of personal..."
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Governor Polis Announces Growing List of Law Enforcement ...",
+   "htmlTitle": "Governor Polis Announces Growing List of Law Enforcement ...",
+   "link": "https://oit.colorado.gov/press-release/governor-polis-announces-growing-list-of-law-enforcement-agencies-accepting-colorado",
+   "displayLink": "oit.colorado.gov",
+   "snippet": "May 21, 2021 ... DENVER \u2014 Gov. Jared Polis is proud to announce the growing list of local law enforcement agencies across the state accepting Colorado Digital ID\u00a0...",
+   "htmlSnippet": "May 21, 2021 <b>...</b> DENVER \u2014 Gov. Jared Polis is proud to announce the growing list of local law enforcement agencies across the state accepting <b>Colorado Digital ID</b>&nbsp;...",
+   "formattedUrl": "https://oit.colorado.gov/.../governor-polis-announces-growing-list-of-law-e...",
+   "htmlFormattedUrl": "https://oit.<b>colorado</b>.gov/.../governor-polis-announces-growing-list-of-law-e...",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "TSA expands acceptance of Colorado digital IDs for identity ...",
+   "htmlTitle": "TSA expands acceptance of <b>Colorado</b> digital IDs for identity ...",
+   "link": "https://www.tsa.gov/news/press/releases/2023/11/16/tsa-expands-acceptance-colorado-digital-ids-for-identity",
+   "displayLink": "www.tsa.gov",
+   "snippet": "Nov 16, 2023 ... \u201cTSA is pleased that Colorado has increased the number of people who are eligible to use a state-issued digital ID at the security checkpoint\u00a0...",
+   "htmlSnippet": "Nov 16, 2023 <b>...</b> \u201cTSA is pleased that <b>Colorado</b> has increased the number of people who are eligible to use a state-issued <b>digital ID</b> at the security checkpoint&nbsp;...",
+   "formattedUrl": "https://www.tsa.gov/.../tsa-expands-acceptance-colorado-digital-ids-for-iden...",
+   "htmlFormattedUrl": "https://www.tsa.gov/.../tsa-expands-acceptance-<b>colorado</b>-<b>digital-id</b>s-for-iden...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPmfB7IVmgDmb3IDXSU12352SHrXv5e_5i8yycsOrPNmZwXMWtBL06Rg4&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.tsa.gov/sites/default/files/2025-03/21366_graphic_tsa_open_graph_image_1200x630.jpg",
+      "og:type": "website",
+      "og:image:width": "1200",
+      "og:site_name": "U.S. Department of Homeland Security Transportation Security Administration",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+      "og:title": "TSA expands acceptance of Colorado digital IDs for identity verification at Denver International Airport | Transportation Security Administration",
+      "mobileoptimized": "width",
+      "og:image:height": "630",
+      "og:image:type": "image/jpg",
+      "og:url": "https://www.tsa.gov/news/press/releases/2023/11/16/tsa-expands-acceptance-colorado-digital-ids-for-identity",
+      "og:description": "DENVER - The Transportation Security Administration (TSA) at Denver International Airport (DEN) is now accepting Colorado-issued digital driver licenses and identification cards at the airport\u2019s North Security Checkpoint from TSA PreCheck\u00ae-eligible travelers who have added it to their Google Wallet.The Colorado Department of Revenue (DOR) has made the Colorado digital ID available for download to Android mobile phones. Since last November, state residents have been able to add their digital ID to Apple Wallet."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.tsa.gov/sites/default/files/2025-03/21366_graphic_tsa_open_graph_image_1200x630.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

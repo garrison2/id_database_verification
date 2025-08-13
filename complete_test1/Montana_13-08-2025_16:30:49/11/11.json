@@ -1,0 +1,343 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Montana Code Annotated\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "350",
+    "searchTerms": "\"Montana Code Annotated\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Montana Code Annotated\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "350",
+    "searchTerms": "\"Montana Code Annotated\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.107207,
+  "formattedSearchTime": "0.11",
+  "totalResults": "350",
+  "formattedTotalResults": "350"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "61-11-503. Definitions, MCA",
+   "htmlTitle": "61-11-503. Definitions, MCA",
+   "link": "https://archive.legmt.gov/bills/mca/title_0610/chapter_0110/part_0050/section_0030/0610-0110-0050-0030.html",
+   "displayLink": "archive.legmt.gov",
+   "snippet": "Montana Code Annotated 2023. TITLE 61. MOTOR VEHICLES. CHAPTER 11. RECORDS AND ... (3) \"Highly restricted personal information\" means an individual's\u00a0...",
+   "htmlSnippet": "<b>Montana Code Annotated</b> 2023. TITLE 61. MOTOR VEHICLES. CHAPTER 11. RECORDS AND ... (3) &quot;Highly restricted <b>personal information</b>&quot; <b>means</b> an individual&#39;s&nbsp;...",
+   "formattedUrl": "https://archive.legmt.gov/bills/mca/title.../0610-0110-0050-0030.html",
+   "htmlFormattedUrl": "https://archive.legmt.gov/bills/mca/title.../0610-0110-0050-0030.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "GUIDE TO UNDERSTANDING THE MONTANA DRIVER RECORD",
+   "htmlTitle": "GUIDE TO UNDERSTANDING THE MONTANA DRIVER RECORD",
+   "link": "https://mvdmt.gov/wp-content/uploads/2023/10/MV-Guide-to-Understanding-the-Montana-Driver-Record.pdf",
+   "displayLink": "mvdmt.gov",
+   "snippet": "CDL: Commercial driver license. Conviction: This term is defined by Montana Code Annotated 61-5-213 and means: (1) a plea of\u00a0...",
+   "htmlSnippet": "CDL: Commercial driver license. Conviction: This term is <b>defined</b> by <b>Montana Code Annotated</b> 61-5-213 and <b>means</b>: (1) a plea of&nbsp;...",
+   "formattedUrl": "https://mvdmt.gov/.../MV-Guide-to-Understanding-the-Montana-Driver-Re...",
+   "htmlFormattedUrl": "https://mvdmt.gov/.../MV-Guide-to-Understanding-the-Montana-Driver-Re...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwk0yceYZOPDYbXmvAAJAOX_o6JI4Fjlw6CDbwCqz3Nn7-j8AqJfKoCnM&s",
+      "width": "199",
+      "height": "253"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20241011160749-06'00'",
+      "creationdate": "D:20241011160743-06'00'",
+      "creator": "Acrobat PDFMaker 24 for Word",
+      "lastsaved": "D:20230713",
+      "sourcemodified": "D:20200929164327",
+      "author": "Stewart, Carrie",
+      "created": "D:20200928",
+      "producer": "Adobe PDF Library 24.3.212",
+      "company": "MTDOJ",
+      "contenttypeid": "0x010100E3850A7090951143A7F2B3CE904AADC8"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///f64a0dd68f1c123f8047d3fb0c2c6d1967dcd6221cc39ce24da0b702438e626e"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "30-14-1704. Computer security breach, MCA",
+   "htmlTitle": "30-14-1704. Computer security breach, MCA",
+   "link": "https://archive.legmt.gov/bills/mca/title_0300/chapter_0140/part_0170/section_0040/0300-0140-0170-0040.html",
+   "displayLink": "archive.legmt.gov",
+   "snippet": "(b) (i) \"Personal information\" means an ... (B) driver's license number, state identification card number, or tribal identification card number;.",
+   "htmlSnippet": "(b) (i) &quot;<b>Personal information</b>&quot; <b>means</b> an ... (B) <b>driver&#39;s license</b> number, state <b>identification card</b> number, or tribal <b>identification card</b> number;.",
+   "formattedUrl": "https://archive.legmt.gov/bills/mca/title.../0300-0140-0170-0040.html",
+   "htmlFormattedUrl": "https://archive.legmt.gov/bills/mca/title.../0300-0140-0170-0040.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Reporting Requirements for Data Breaches \u2013 Montana Department ...",
+   "htmlTitle": "Reporting Requirements for Data Breaches \u2013 Montana Department ...",
+   "link": "https://dojmt.gov/office-of-consumer-protection/reporting-requirements-for-data-breaches/",
+   "displayLink": "dojmt.gov",
+   "snippet": "Oct 9, 2024 ... What constitutes personal information? \u00b7 a social security number; \u00b7 a driver's license number, state identification card number, or tribal\u00a0...",
+   "htmlSnippet": "Oct 9, 2024 <b>...</b> What constitutes <b>personal information</b>? &middot; a social security number; &middot; a <b>driver&#39;s license</b> number, state <b>identification card</b> number, or tribal&nbsp;...",
+   "formattedUrl": "https://dojmt.gov/office-of.../reporting-requirements-for-data-breaches/",
+   "htmlFormattedUrl": "https://dojmt.gov/office-of.../reporting-requirements-for-data-breaches/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsW0mW-BR1oiRkp5ByPT6Lo6YTMpHCIC-g8C41T7NGQF11hQ3fzVhqIik7&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://dojmt.gov/wp-content/uploads/2025/03/AG-logo-500x.png",
+      "og:type": "article",
+      "og:image:width": "500",
+      "og:site_name": "Montana Department of Justice",
+      "tec-api-origin": "https://dojmt.gov",
+      "og:title": "Reporting Requirements for Data Breaches",
+      "og:image:height": "500",
+      "og:image:type": "image/png",
+      "og:description": "Montana statutes governing data breaches require businesses to notify affected Montana residents if the resident\u2019s personal information is compromised. The notice must be made without reasonable delay, consistent with the legitimate needs of law enforcement.\r\nAny business that is required to issue any such a notice is also required to simultaneously submit an electronic copy of",
+      "article:modified_time": "2024-10-09T21:53:19-06:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://dojmt.gov/office-of-consumer-protection/reporting-requirements-for-data-breaches/",
+      "tec-api-version": "v1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dojmt.gov/wp-content/uploads/2025/03/AG-logo-500x.png"
+     }
+    ],
+    "hatomfeed": [
+     {}
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2-6-1501. Definitions, MCA",
+   "htmlTitle": "2-6-1501. Definitions, MCA",
+   "link": "https://archive.legmt.gov/bills/mca/title_0020/chapter_0060/part_0150/section_0010/0020-0060-0150-0010.html",
+   "displayLink": "archive.legmt.gov",
+   "snippet": "(5) (a) \"Personal information\" means a first name or first initial and last ... (ii) a driver's license number, an identification card number issued\u00a0...",
+   "htmlSnippet": "(5) (a) &quot;<b>Personal information</b>&quot; <b>means</b> a first name or first initial and last ... (ii) a <b>driver&#39;s license</b> number, an <b>identification card</b> number issued&nbsp;...",
+   "formattedUrl": "https://archive.legmt.gov/bills/mca/title.../0020-0060-0150-0010.html",
+   "htmlFormattedUrl": "https://archive.legmt.gov/bills/mca/title.../0020-0060-0150-0010.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Office of Public Instruction Policy",
+   "htmlTitle": "Office of Public Instruction Policy",
+   "link": "https://opi.mt.gov/LinkClick.aspx?fileticket=PiRZzG9B8PI%3D&portalid=182",
+   "displayLink": "opi.mt.gov",
+   "snippet": "Oct 6, 2016 ... Data Breach is defined in Montana Code Annotated (MCA) 2-6-1501. ... Directory Information means information, as defined in FERPA 20 U.S.C..",
+   "htmlSnippet": "Oct 6, 2016 <b>...</b> Data Breach is <b>defined</b> in <b>Montana Code Annotated</b> (MCA) 2-6-1501. ... Directory Information <b>means</b> information, as <b>defined</b> in FERPA 20 U.S.C..",
+   "formattedUrl": "https://opi.mt.gov/LinkClick.aspx?fileticket=PiRZzG9B8PI%3D&portalid...",
+   "htmlFormattedUrl": "https://opi.mt.gov/LinkClick.aspx?fileticket=PiRZzG9B8PI%3D&amp;portalid...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN1KXgBu6kgwLOEHw8LAEA8xAGUlT1cTxdG5sdFAeZAYP8JHn0B6BB3Q&s",
+      "width": "109",
+      "height": "102"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20170828111318-06'00'",
+      "creationdate": "D:20170828111315-06'00'",
+      "creator": "Acrobat PDFMaker 17 for Word",
+      "author": "Cohen, Sally",
+      "producer": "Adobe PDF Library 15.0",
+      "company": "Office of Public Instruction",
+      "contenttypeid": "0x010100C9029F269737044886F20D1F9BFB4F28"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///a69aaa6c31dbb8a09037f7040014b71fbd033870cef00dbf682fb07a22a20521"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "61-11-105. Release of information -- fees, MCA",
+   "htmlTitle": "61-11-105. Release of information -- fees, MCA",
+   "link": "https://archive.legmt.gov/bills/mca/title_0610/chapter_0110/part_0010/section_0050/0610-0110-0010-0050.html",
+   "displayLink": "archive.legmt.gov",
+   "snippet": "... driver's license numbers, and dates of birth of the drivers or licensees ... (3) (a) The department may not disclose personal information or highly restricted\u00a0...",
+   "htmlSnippet": "... <b>driver&#39;s license</b> numbers, and dates of birth of the drivers or licensees ... (3) (a) The department may not disclose <b>personal information</b> or highly restricted&nbsp;...",
+   "formattedUrl": "https://archive.legmt.gov/bills/mca/title.../0610-0110-0010-0050.html",
+   "htmlFormattedUrl": "https://archive.legmt.gov/bills/mca/title.../0610-0110-0010-0050.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Montana Code Annotated Publication Template",
+   "htmlTitle": "<b>Montana Code Annotated</b> Publication Template",
+   "link": "https://opi.mt.gov/Portals/182/Page%20Files/Legal%20Issues/2017%20MT%20School%20Law%20Book.pdf",
+   "displayLink": "opi.mt.gov",
+   "snippet": "... means an act defined as a felony, misdemeanor, or delinquency under state ... personal information contained in the records. Restricted access may not\u00a0...",
+   "htmlSnippet": "... <b>means</b> an act <b>defined</b> as a felony, misdemeanor, or delinquency under state ... <b>personal information</b> contained in the records. Restricted access may not&nbsp;...",
+   "formattedUrl": "https://opi.mt.gov/Portals/.../2017%20MT%20School%20Law%20Book.pd...",
+   "htmlFormattedUrl": "https://opi.mt.gov/Portals/.../2017%20MT%20School%20Law%20Book.pd...",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20171213140608-07'00'",
+      "creationdate": "D:20171213135227-07'00'",
+      "creator": "Adobe InDesign CC 2017 (Windows)",
+      "author": "Derek Gallagher",
+      "subject": "Template for publishing the Montana Code Annotated.",
+      "producer": "Adobe PDF Library 15.0",
+      "title": "Montana Code Annotated Publication Template"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Laws Pertaining to Montana's Conservation Districts",
+   "htmlTitle": "Laws Pertaining to Montana&#39;s Conservation Districts",
+   "link": "https://dnrc.mt.gov/_docs/conservation/CDBureau/cd-resource-documents/Montana-CD-MCA-2024.pdf",
+   "displayLink": "dnrc.mt.gov",
+   "snippet": "\"Redaction\" means the alteration of personal information contained within data to make all or a ... \u201cPermanent employee\u201d means a permanent employee as defined in\u00a0...",
+   "htmlSnippet": "&quot;Redaction&quot; <b>means</b> the alteration of <b>personal information</b> contained within data to make all or a ... \u201cPermanent employee\u201d <b>means</b> a permanent employee as <b>defined</b> in&nbsp;...",
+   "formattedUrl": "https://dnrc.mt.gov/_docs/conservation/.../Montana-CD-MCA-2024.pdf",
+   "htmlFormattedUrl": "https://dnrc.mt.gov/_docs/conservation/.../Montana-CD-MCA-2024.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyTamK_tnsvT6922z3JOqAO9SlAgKcY0Mzv-hmV0rG9GNbDj7wuN8XfnRM&s",
+      "width": "188",
+      "height": "268"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20240130114416-08'00'",
+      "creationdate": "D:20240130114416-08'00'",
+      "creator": "Adobe InDesign 19.0 (Macintosh)",
+      "producer": "Acrobat Pro 23.8.20470"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///0f8b36c8c0201a28d5120e412c942d884780603f4d352a77a752e8304cf722e2"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Understanding the Montana Driving Record",
+   "htmlTitle": "Understanding the Montana Driving Record",
+   "link": "https://d2l2jhoszs7d12.cloudfront.net/state/Montana/Montana%20Motor%20Vehicles/Montana%20Motor%20Vehicles/httpsdojmt.govdrivingdriving-records-forms/DRIVING%20RECORDS/MV-Understanding-Montana-Driving-Record.pdf",
+   "displayLink": "d2l2jhoszs7d12.cloudfront.net",
+   "snippet": "Jul 20, 2006 ... \"Revocation\" means that the driver's license and privilege to drive a motor vehicle on the public highways are terminated and may not be renewed\u00a0...",
+   "htmlSnippet": "Jul 20, 2006 <b>...</b> &quot;Revocation&quot; <b>means</b> that the <b>driver&#39;s license</b> and privilege to drive a motor vehicle on the public highways are terminated and may not be renewed&nbsp;...",
+   "formattedUrl": "https://d2l2jhoszs7d12.cloudfront.net/.../MV-Understanding-Montana-Drivi...",
+   "htmlFormattedUrl": "https://d2l2jhoszs7d12.cloudfront.net/.../MV-Understanding-Montana-Drivi...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtYtrt-RtRanW_afbuixo9IluvtfYXqHgaxbWrBPD7PxoEWZnKI4ghYuU&s",
+      "width": "224",
+      "height": "224"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20150913125502-06'00'",
+      "creationdate": "D:20060721121704-06'00'",
+      "creator": "Acrobat PDFMaker 7.0.7 for Word",
+      "_templateid": "TC010178161033",
+      "author": "Montana Department of Justice",
+      "producer": "Acrobat Distiller 7.0.5 (Windows)",
+      "company": "Microsoft Corporation",
+      "title": "Understanding the Montana Driving Record"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///48313f7e534fd09a4c763c68c0d6ca1a205c24742abd9021b38d21704b78c489"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

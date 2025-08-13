@@ -1,0 +1,444 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Maryland\" \"privacy act\" OR \"privacy law\"",
+    "totalResults": "10300000",
+    "searchTerms": "\"Maryland\" \"privacy act\" OR \"privacy law\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Maryland\" \"privacy act\" OR \"privacy law\"",
+    "totalResults": "10300000",
+    "searchTerms": "\"Maryland\" \"privacy act\" OR \"privacy law\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.169268,
+  "formattedSearchTime": "0.17",
+  "totalResults": "10300000",
+  "formattedTotalResults": "10,300,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "2024 Regular Session - House Bill 567 Chapter",
+   "htmlTitle": "2024 Regular Session - House Bill 567 Chapter",
+   "link": "https://mgaleg.maryland.gov/2024RS/Chapters_noln/CH_454_hb0567e.pdf",
+   "displayLink": "mgaleg.maryland.gov",
+   "snippet": "Maryland Online Data Privacy Act of 2024. FOR the purpose of regulating the manner in which a controller or a processor in possession of a consumer's\u00a0...",
+   "htmlSnippet": "<b>Maryland</b> Online Data <b>Privacy Act</b> of 2024. FOR the purpose of regulating the manner in which a controller or a processor in possession of a consumer&#39;s&nbsp;...",
+   "formattedUrl": "https://mgaleg.maryland.gov/2024RS/Chapters.../CH_454_hb0567e.pdf",
+   "htmlFormattedUrl": "https://mgaleg.<b>maryland</b>.gov/2024RS/Chapters.../CH_454_hb0567e.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20240515141303-04'00'",
+      "creationdate": "D:20240509141637-04'00'",
+      "creator": "Microsoft\u00ae Word 2013",
+      "author": "Maryland General Assembly",
+      "producer": "Microsoft\u00ae Word 2013",
+      "title": "2024 Regular Session  - House Bill 567 Chapter"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Maryland Enacts Comprehensive Data Privacy Law | White & Case ...",
+   "htmlTitle": "<b>Maryland</b> Enacts Comprehensive Data <b>Privacy Law</b> | White &amp; Case ...",
+   "link": "https://www.whitecase.com/insight-alert/maryland-enacts-comprehensive-data-privacy-law",
+   "displayLink": "www.whitecase.com",
+   "snippet": "Maryland Enacts Comprehensive Data Privacy Law. Alert. 14 May 2024. |. 9 min read ... The Maryland Online Data Privacy Act gives consumers\u2014Maryland residents acting only in an individual or household\u00a0...",
+   "htmlSnippet": "<b>Maryland</b> Enacts Comprehensive Data <b>Privacy Law</b>. Alert. 14 May 2024. |. 9 min read ... The <b>Maryland</b> Online Data <b>Privacy Act</b> gives consumers\u2014<b>Maryland</b> residents acting only in an individual or household&nbsp;...",
+   "formattedUrl": "https://www.whitecase.com/.../maryland-enacts-comprehensive-data-privac...",
+   "htmlFormattedUrl": "https://www.whitecase.com/.../<b>maryland</b>-enacts-comprehensive-data-<b>privac</b>...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEe_ftegGKRVQpUZhEqgyTUYQLs6zBc8Pk_zLcYGAASbeJyehrGHC4pjhm&s",
+      "width": "367",
+      "height": "137"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.whitecase.com/sites/default/files/images/hero/2022/08/client_alerts_option_13_4000x1500.jpg",
+      "og:image:width": "1600",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Maryland Enacts Comprehensive Data Privacy Law",
+      "handheldfriendly": "true",
+      "og:title": "Maryland Enacts Comprehensive Data Privacy Law | White & Case LLP",
+      "og:image:height": "600",
+      "og:description": "On May 9, 2024, Maryland Governor Wes Moore signed into law Senate Bill 541 (the \"Maryland Online Data Privacy Act\") making Maryland the eighteenth state to adopt comprehensive data privacy legislation in the United States (\"US State Data Privacy Laws\"). The Maryland Online Data Privacy Act will take effect on October 1, 2025.",
+      "twitter:image": "https://www.whitecase.com/sites/default/files/images/hero/2022/08/client_alerts_option_13_4000x1500.jpg",
+      "twitter:site": "@WhiteCase",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "On May 9, 2024, Maryland Governor Wes Moore signed into law Senate Bill 541 (the \"Maryland Online Data Privacy Act\") making Maryland the eighteenth state to adopt comprehensive data privacy legislation in the United States (\"US State Data Privacy Laws\"). The Maryland Online Data Privacy Act will take effect on October 1, 2025.",
+      "mobileoptimized": "width",
+      "og:url": "https://www.whitecase.com/insight-alert/maryland-enacts-comprehensive-data-privacy-law"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.whitecase.com/sites/default/files/images/hero/2022/08/client_alerts_option_13_4000x1500.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Legislation - SB0541",
+   "htmlTitle": "Legislation - SB0541",
+   "link": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0541?ys=2024rs",
+   "displayLink": "mgaleg.maryland.gov",
+   "snippet": "Maryland Online Data Privacy Act of 2024; Sponsored by: Senators Gile, Hester, Augustine, Feldman, Beidle, and Ellis; Status: Approved by the Governor - Chapter\u00a0...",
+   "htmlSnippet": "<b>Maryland</b> Online Data <b>Privacy Act</b> of 2024; Sponsored by: Senators Gile, Hester, Augustine, Feldman, Beidle, and Ellis; Status: Approved by the Governor - Chapter&nbsp;...",
+   "formattedUrl": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0541?ys...",
+   "htmlFormattedUrl": "https://mgaleg.<b>maryland</b>.gov/mgawebsite/Legislation/Details/SB0541?ys...",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Maryland Creates a New Paradigm for Data Privacy | Davis Wright ...",
+   "htmlTitle": "<b>Maryland</b> Creates a New Paradigm for Data Privacy | Davis Wright ...",
+   "link": "https://www.dwt.com/blogs/privacy--security-law-blog/2024/05/maryland-online-data-privacy-act-signed",
+   "displayLink": "www.dwt.com",
+   "snippet": "May 15, 2024 ... Maryland Governor Moore signs the Maryland Online Data Privacy Act ... Maryland joins the growing list of states to enact a privacy law but\u00a0...",
+   "htmlSnippet": "May 15, 2024 <b>...</b> <b>Maryland</b> Governor Moore signs the <b>Maryland</b> Online Data <b>Privacy Act</b> ... <b>Maryland</b> joins the growing list of states to enact a <b>privacy law</b> but&nbsp;...",
+   "formattedUrl": "https://www.dwt.com/blogs/.../maryland-online-data-privacy-act-signed",
+   "htmlFormattedUrl": "https://www.dwt.com/blogs/.../<b>maryland</b>-online-data-<b>privacy-act</b>-signed",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSQz_1yDpGqODiEX8sdbBpY_tQ_QydpPbrTgG9zXCaWMfCM5XgUSNJOMY&s",
+      "width": "376",
+      "height": "134"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dwt.com/-/media/images/blogs/privacy-security/2018-and-2019/headers/state_privacy.png?rev=0c8c3c46b0f14547814335a97a7687b9&hash=76C1E2B07F19E9732F139185AD702677",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Maryland Creates a New Paradigm for Data Privacy | Davis Wright Tremaine",
+      "og:title": "Maryland Creates a New Paradigm for Data Privacy | Davis Wright Tremaine",
+      "oni_itemid": "749f509b-3004-4ab8-bc9a-a68fa519ea5d",
+      "oni_name": "Maryland Creates a New Paradigm for Data Privacy",
+      "title": "Maryland Creates a New Paradigm for Data Privacy",
+      "og:description": "Maryland Governor Moore signs the Maryland Online Data Privacy Act (MODPA), bringing the number of comprehensive state privacy laws to 18 and establis",
+      "oni_entitytype": "Insights",
+      "twitter:image:src": "https://www.dwt.com/-/media/images/blogs/privacy-security/2018-and-2019/headers/state_privacy.png?rev=0c8c3c46b0f14547814335a97a7687b9&hash=76C1E2B07F19E9732F139185AD702677",
+      "oni_language": "en",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Maryland Governor Moore signs the Maryland Online Data Privacy Act (MODPA), bringing the number of comprehensive state privacy laws to 18 and establis",
+      "oni_section": "insights",
+      "oni_attachedfilters": "57c591cae2a6405cbc6be7829d668997",
+      "og:url": "https://www.dwt.com/blogs/privacy--security-law-blog/2024/05/maryland-online-data-privacy-act-signed"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dwt.com/-/media/images/blogs/privacy-security/2018-and-2019/headers/state_privacy.png?rev=0c8c3c46b0f14547814335a97a7687b9&hash=76C1E2B07F19E9732F139185AD702677"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Maryland Online Data Privacy Act: An Overview",
+   "htmlTitle": "<b>Maryland</b> Online Data <b>Privacy Act</b>: An Overview",
+   "link": "https://www.cliffordchance.com/insights/resources/blogs/talking-tech/en/articles/2024/08/maryland-online-data-privacy-act--an-overview.html",
+   "displayLink": "www.cliffordchance.com",
+   "snippet": "Aug 4, 2024 ... On May 9, 2024, Maryland Governor, Wes Moore, approved the Maryland Online Data Privacy Act (MDODPA), making Maryland the seventeenth State\u00a0...",
+   "htmlSnippet": "Aug 4, 2024 <b>...</b> On May 9, 2024, <b>Maryland</b> Governor, Wes Moore, approved the <b>Maryland</b> Online Data <b>Privacy Act</b> (MDODPA), making <b>Maryland</b> the seventeenth State&nbsp;...",
+   "formattedUrl": "https://www.cliffordchance.com/.../maryland-online-data-privacy-act--an-o...",
+   "htmlFormattedUrl": "https://www.cliffordchance.com/.../<b>maryland</b>-online-data-<b>privacy-act</b>--an-o...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4xBNVkikzGXm_TZqyHcMHOv8x8S3QIJsv_wqC6bB4uGae6mYcMByGliVx&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.cliffordchance.com/content/dam/microsites/talkingtech/Images-Socials/2024/maryland_7381269-1200x630.jpg",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Maryland Online Data Privacy Act: An Overview | Clifford Chance",
+      "og:site_name": "Clifford Chance",
+      "twitter:site": "@Clifford_Chance",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "On May 9, 2024, Maryland Governor, Wes Moore, approved the Maryland Online Data Privacy Act  (MDODPA), making Maryland the seventeenth State in the U.S. to enact comprehensive data privacy legislation. The MDODPA will take effect on October 1, 2025. This article summarizes key provisions of the MDODPA.",
+      "og:title": "Maryland Online Data Privacy Act: An Overview | Clifford Chance",
+      "og:url": "https://www.cliffordchance.com/content/cliffordchance/insights/resources/blogs/talking-tech/en/articles/2024/08/maryland-online-data-privacy-act--an-overview.html",
+      "og:description": "On May 9, 2024, Maryland Governor, Wes Moore, approved the Maryland Online Data Privacy Act  (MDODPA), making Maryland the seventeenth State in the U.S. to enact comprehensive data privacy legislation. The MDODPA will take effect on October 1, 2025. This article summarizes key provisions of the MDODPA.",
+      "twitter:image": "https://www.cliffordchance.com/content/dam/microsites/talkingtech/Images-Socials/2024/maryland_7381269-1200x630.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.cliffordchance.com/content/dam/microsites/talkingtech/Images-Socials/2024/maryland_7381269-1200x630.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What Makes the Maryland Online Data Privacy Act (MODPA ...",
+   "htmlTitle": "What Makes the <b>Maryland</b> Online Data <b>Privacy Act</b> (MODPA ...",
+   "link": "https://www.osano.com/articles/maryland-online-data-privacy-act-modpa",
+   "displayLink": "www.osano.com",
+   "snippet": "Jun 25, 2024 ... What Is the Maryland Online Data Privacy Act? Difference #1: Who Must Comply With the Maryland Privacy Law; Difference #2: MODPA's Requirements\u00a0...",
+   "htmlSnippet": "Jun 25, 2024 <b>...</b> What Is the <b>Maryland</b> Online Data <b>Privacy Act</b>? Difference #1: Who Must Comply With the <b>Maryland Privacy Law</b>; Difference #2: MODPA&#39;s Requirements&nbsp;...",
+   "formattedUrl": "https://www.osano.com/articles/maryland-online-data-privacy-act-modpa",
+   "htmlFormattedUrl": "https://www.osano.com/articles/<b>maryland</b>-online-data-<b>privacy-act</b>-modpa",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKHJM7IDCv-r56H0g1mGgtFLJb7zs_E2q9bqvDZg2flMivo9dODsew8poc&s",
+      "width": "318",
+      "height": "159"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "%23ffffff",
+      "og:image": "https://www.osano.com/hubfs/Maryland%20blog.png",
+      "twitter:title": "What Makes the Maryland Online Data Privacy Act (MODPA) Different?",
+      "theme-color": "%23ffffff",
+      "og:image:width": "1024",
+      "og:image:alt": "Maryland postcard",
+      "twitter:card": "summary_large_image",
+      "og:type": "article",
+      "twitter:domain": "www.osano.com",
+      "og:title": "What Makes the Maryland Online Data Privacy Act (MODPA) Different?",
+      "og:image:height": "512",
+      "msapplication-tileimage": "https://www.osano.com/hubfs/v2/icons/favicon/ms-icon-144x144.png",
+      "og:description": "The MODPA now protects the data of Maryland consumers. Learn what makes this law different from others, its impacts, compliance requirements, and penalties.",
+      "twitter:image": "https://www.osano.com/hubfs/Maryland%20blog.png",
+      "referrer": "same-origin",
+      "twitter:image:alt": "Maryland postcard",
+      "twitter:site": "@Osano",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "The MODPA now protects the data of Maryland consumers. Learn what makes this law different from others, its impacts, compliance requirements, and penalties.",
+      "og:url": "https://www.osano.com/articles/maryland-online-data-privacy-act-modpa"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.osano.com/hubfs/Maryland%20blog.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Maryland Passes Unique and Operationally Challenging Privacy Law",
+   "htmlTitle": "<b>Maryland</b> Passes Unique and Operationally Challenging <b>Privacy Law</b>",
+   "link": "https://www.blankrome.com/publications/maryland-passes-unique-and-operationally-challenging-privacy-law",
+   "displayLink": "www.blankrome.com",
+   "snippet": "May 16, 2024 ... ... privacy law. Effective October 1, 2025, the Maryland Online Data Privacy Act (\u201cMODPA\u201d) contains a number of unique provisions that govern\u00a0...",
+   "htmlSnippet": "May 16, 2024 <b>...</b> ... <b>privacy law</b>. Effective October 1, 2025, the <b>Maryland</b> Online Data <b>Privacy Act</b> (\u201cMODPA\u201d) contains a number of unique provisions that govern&nbsp;...",
+   "formattedUrl": "https://www.blankrome.com/.../maryland-passes-unique-and-operationally-...",
+   "htmlFormattedUrl": "https://www.blankrome.com/.../<b>maryland</b>-passes-unique-and-operationally-...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxiA9Y6U0Nuuakrm2mg5BUuEuXKUIwdYzYGYBedDeQ0ghkQz8pDdb_TNbp&s",
+      "width": "311",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffffff",
+      "og:image": "https://www.blankrome.com/themes/blankrome/img/logo-opengraph.jpg",
+      "referrer": "no-referrer-when-downgrade",
+      "og:image:width": "1200",
+      "theme-color": "#ffffff",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, user-scalable=yes, viewport-fit=cover",
+      "mobileoptimized": "width",
+      "og:image:height": "627",
+      "msapplication-tileimage": "/ms-icon-144x144.png",
+      "pageid": "12142"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.blankrome.com/themes/blankrome/img/logo-opengraph.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "US: Maryland Online Data Privacy Act summary and comparative ...",
+   "htmlTitle": "US: <b>Maryland</b> Online Data <b>Privacy Act</b> summary and comparative ...",
+   "link": "https://www.dlapiper.com/en/insights/publications/2024/07/us-maryland-online-data-privacy-act-summary-and-comparative-analysis",
+   "displayLink": "www.dlapiper.com",
+   "snippet": "Jul 2, 2024 ... US: Maryland Online Data Privacy Act summary and comparative analysis ... privacy law (SB 255). MODPA applies to persons that either\u00a0...",
+   "htmlSnippet": "Jul 2, 2024 <b>...</b> US: <b>Maryland</b> Online Data <b>Privacy Act</b> summary and comparative analysis ... <b>privacy law</b> (SB 255). MODPA applies to persons that either&nbsp;...",
+   "formattedUrl": "https://www.dlapiper.com/.../us-maryland-online-data-privacy-act-summary...",
+   "htmlFormattedUrl": "https://www.dlapiper.com/.../us-<b>maryland</b>-online-data-<b>privacy-act</b>-summary...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9lZcUgsFrl7w397E_t-Ejl3cwtrZAgpgsvOiOMwo44FP0BKPe82-bcw&s",
+      "width": "155",
+      "height": "91"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "/-/media/project/dlapiper-tenant/dlapiper/brand-images/dla-piper-og-image-default-logo.jpg?h=1302&iar=0&w=2500&rev=f79532fd386941ed9205f852332ffb4d&hash=464908735D255E1B39C66EFE6AEAD9E6",
+      "twitter:title": "US: Maryland Online Data Privacy Act summary and comparative analysis | DLA Piper",
+      "og:type": "website",
+      "og:site_name": "DLA Piper",
+      "twitter:url": "https://www.dlapiper.com/en/insights/publications/2024/07/us-maryland-online-data-privacy-act-summary-and-comparative-analysis",
+      "be:sdk": "js_sdk_1.5.12",
+      "og:title": "US: Maryland Online Data Privacy Act summary and comparative analysis | DLA Piper",
+      "og:description": "While MODPA tracks other state comprehensive privacy laws in certain regards, it deviates in a number of areas.",
+      "twitter:image": "/-/media/project/dlapiper-tenant/dlapiper/brand-images/dla-piper-og-image-default-logo.jpg",
+      "next-head-count": "66",
+      "be:norm_url": "https://www.dlapiper.com/en/insights/publications/2024/07/us-maryland-online-data-privacy-act-summary-and-comparative-analysis",
+      "be:sdk_type": "custom",
+      "be:capsule_url": "https://ixfd2-api.bc0a.com/api/ixf/1.0.0/get_capsule/f00000000313535/01382145302",
+      "viewport": "width=device-width",
+      "be:api_dt": "py_2025; pm_03; pd_19; ph_09; pmh_45; p_epoch:1742402730160",
+      "be:mod_dt": "py_2025; pm_03; pd_19; ph_09; pmh_45; p_epoch:1742402730160",
+      "be:timer": "113ms",
+      "og:url": "https://www.dlapiper.com/en/insights/publications/2024/07/us-maryland-online-data-privacy-act-summary-and-comparative-analysis",
+      "be:orig_url": "https://www.dlapiper.com/en/insights/publications/2024/07/us-maryland-online-data-privacy-act-summary-and-comparative-analysis",
+      "be:messages": "true"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://cdn.cookielaw.org/logos/2f215e17-5285-43dd-8b7e-b9a2575dc009/107aabcd-24d5-42e1-9fae-37fe67c94744/1db2202f-ed13-41cb-8412-6f8c5d034a65/dla-piper-logo-white.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Maryland enacts comprehensive data privacy act | Nixon Peabody LLP",
+   "htmlTitle": "<b>Maryland</b> enacts comprehensive data <b>privacy act</b> | Nixon Peabody LLP",
+   "link": "https://www.nixonpeabody.com/insights/alerts/2024/05/21/maryland-enacts-comprehensive-data-privacy-act",
+   "displayLink": "www.nixonpeabody.com",
+   "snippet": "May 21, 2024 ... The Maryland Online Data Privacy Act of 2024 (MODPA) requires ... On May 9, 2024, Maryland became the fifth state to enact a data privacy law in\u00a0...",
+   "htmlSnippet": "May 21, 2024 <b>...</b> The <b>Maryland</b> Online Data <b>Privacy Act</b> of 2024 (MODPA) requires ... On May 9, 2024, <b>Maryland</b> became the fifth state to enact a data <b>privacy law</b> in&nbsp;...",
+   "formattedUrl": "https://www.nixonpeabody.com/.../maryland-enacts-comprehensive-data-pr...",
+   "htmlFormattedUrl": "https://www.nixonpeabody.com/.../<b>maryland</b>-enacts-comprehensive-data-<b>pr</b>...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZDT7hTzlodDSJRItI2Awri8gKZ-hF4FxJo4kHePL4MV0rNfW-WwTFWgVX&s",
+      "width": "311",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.nixonpeabody.com/_next/image?url=%2F-%2Fmedia%2Ftwitter-and-opengraph%2F2024%2Fmaryland_og.jpg&w=1200&q=75",
+      "og:type": "website",
+      "og:image:alt": "Maryland enacts comprehensive data privacy act",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Maryland enacts comprehensive data privacy act | Nixon Peabody LLP",
+      "og:site_name": "Nixon Peabody LLP",
+      "twitter:url": "https://www.nixonpeabody.com/insights/alerts/2024/05/21/maryland-enacts-comprehensive-data-privacy-act",
+      "og:title": "Maryland enacts comprehensive data privacy act | Nixon Peabody LLP",
+      "og:description": "The Maryland Online Data Privacy Act of 2024 (MODPA) requires stricter protections for sensitive data and offers opt-outs from targeted advertisements and the sale of personal data.",
+      "twitter:image": "https://www.nixonpeabody.com/_next/image?url=%2F-%2Fmedia%2Ftwitter-and-opengraph%2F2024%2Fmaryland_og.jpg&w=1200&q=75",
+      "next-head-count": "25",
+      "twitter:image:alt": "Maryland enacts comprehensive data privacy act",
+      "twitter:site": "@NixonPeabodyLLP",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "The Maryland Online Data Privacy Act of 2024 (MODPA) requires stricter protections for sensitive data and offers opt-outs from targeted advertisements and the sale of personal data.",
+      "og:url": "https://www.nixonpeabody.com/insights/alerts/2024/05/21/maryland-enacts-comprehensive-data-privacy-act"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.nixonpeabody.com/_next/image?url=%2F-%2Fmedia%2Ftwitter-and-opengraph%2F2024%2Fmaryland_og.jpg&w=1200&q=75"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Maryland adds new dimensions to US comprehensive state privacy ...",
+   "htmlTitle": "<b>Maryland</b> adds new dimensions to US comprehensive state <b>privacy</b> ...",
+   "link": "https://iapp.org/news/a/maryland-adds-new-dimension-to-us-comprehensive-state-privacy-law-patchwork",
+   "displayLink": "iapp.org",
+   "snippet": "Apr 8, 2024 ... Maryland adds new dimensions to US comprehensive state privacy law patchwork ... privacy law, U.S. state legislatures remain committed to\u00a0...",
+   "htmlSnippet": "Apr 8, 2024 <b>...</b> <b>Maryland</b> adds new dimensions to US comprehensive state <b>privacy law</b> patchwork ... <b>privacy law</b>, U.S. state legislatures remain committed to&nbsp;...",
+   "formattedUrl": "https://iapp.org/.../maryland-adds-new-dimension-to-us-comprehensive-stat...",
+   "htmlFormattedUrl": "https://iapp.org/.../<b>maryland</b>-adds-new-dimension-to-us-comprehensive-stat...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrTquIw2W6Bw25FS6V7vHNW8Ce--1pKrOAOGQwpKfHymEsorDV4ZKjoU9h&s",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://images.contentstack.io/v3/assets/bltd4dd5b2d705252bc/blt100c112bca85023a/663b92b4a4bb5f823ffb0133/us-map-book-page-US-22224.jpg",
+      "theme-color": "#000000",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Maryland adds new dimensions to US comprehensive state privacy law patchwork",
+      "og:title": "Maryland adds new dimensions to US comprehensive state privacy law patchwork",
+      "iapp": "IAPP: Policy neutral, we are the world\u2019s largest information privacy organization.",
+      "og:description": "The Maryland General Assembly is not exactly following in other state's footsteps on comprehensive state-level privacy legislation.",
+      "twitter:image": "https://images.contentstack.io/v3/assets/bltd4dd5b2d705252bc/blt100c112bca85023a/663b92b4a4bb5f823ffb0133/us-map-book-page-US-22224.jpg",
+      "twitter:site": "@IAPP",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "The Maryland General Assembly is not exactly following in other state's footsteps on comprehensive state-level privacy legislation.",
+      "og:locale": "en_US",
+      "og:url": "https://iapp.org/news/a/maryland-adds-new-dimension-to-us-comprehensive-state-privacy-law-patchwork"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://images.contentstack.io/v3/assets/bltd4dd5b2d705252bc/blt100c112bca85023a/663b92b4a4bb5f823ffb0133/us-map-book-page-US-22224.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

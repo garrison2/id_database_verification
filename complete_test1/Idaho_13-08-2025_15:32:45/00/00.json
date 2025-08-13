@@ -1,0 +1,480 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Idaho\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "172000",
+    "searchTerms": "\"Idaho\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Idaho\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "172000",
+    "searchTerms": "\"Idaho\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.171725,
+  "formattedSearchTime": "0.17",
+  "totalResults": "172000",
+  "formattedTotalResults": "172,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Proposed bill would give Idahoans access to an electronic driver's ...",
+   "htmlTitle": "Proposed bill would give Idahoans access to an electronic driver&#39;s ...",
+   "link": "https://www.eastidahonews.com/2024/01/draft-bill-would-give-idahoans-access-to-an-electronic-drivers-license/",
+   "displayLink": "www.eastidahonews.com",
+   "snippet": "Jan 19, 2024 ... Idaho Falls news, Rexburg news, Pocatello news, East Idaho news, Idaho ... Rett Nelson, EastIdahoNews.com \u00b7 Digital driver's license graphic\u00a0...",
+   "htmlSnippet": "Jan 19, 2024 <b>...</b> <b>Idaho</b> Falls news, Rexburg news, Pocatello news, East <b>Idaho</b> news, <b>Idaho</b> ... Rett Nelson, EastIdahoNews.com &middot; <b>Digital driver&#39;s license</b> graphic&nbsp;...",
+   "formattedUrl": "https://www.eastidahonews.com/.../draft-bill-would-give-idahoans-access-to...",
+   "htmlFormattedUrl": "https://www.east<b>idaho</b>news.com/.../draft-bill-would-give-<b>idaho</b>ans-access-to...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmIhiQOuIrEn_Oe-fJOntsGl8MV8gTkCNZK4TpENlz7h9lrghrUGLTjTY6&s",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://s3.us-west-2.amazonaws.com/assets.eastidahonews.com/wp-content/uploads/2024/01/digital-drivers-license-pic.jpg",
+      "theme-color": "#ffffff",
+      "article:published_time": "2024-01-19T19:24:47+00:00",
+      "og:image:width": "900",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "East Idaho News",
+      "twitter:label1": "Written by",
+      "twitter:label2": "Est. reading time",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://www.eastidahonews.com/wp-content/themes/nate/bin/favicons-2/mstile-144x144.png",
+      "og:description": "Idaho legislator introducing bill that would implement digital driver's licenses",
+      "twitter:creator": "@eastidnews",
+      "article:publisher": "https://www.facebook.com/EastIdahoNews",
+      "twitter:data1": "Rett Nelson",
+      "twitter:data2": "2 minutes",
+      "twitter:site": "@eastidnews",
+      "article:modified_time": "2024-01-19T19:31:22+00:00",
+      "msapplication-tilecolor": "#454545",
+      "og:type": "article",
+      "author": "Rett Nelson",
+      "og:title": "Proposed bill would give Idahoans access to an electronic driver's license - East Idaho News",
+      "og:image:height": "600",
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+      "og:locale": "en_US",
+      "og:url": "https://www.eastidahonews.com/2024/01/draft-bill-would-give-idahoans-access-to-an-electronic-drivers-license/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://s3.us-west-2.amazonaws.com/assets.eastidahonews.com/wp-content/uploads/2024/01/digital-drivers-license-pic.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Idaho may be next with mDLs | Biometric Update",
+   "htmlTitle": "<b>Idaho</b> may be next with mDLs | Biometric Update",
+   "link": "https://www.biometricupdate.com/202501/idaho-may-be-next-with-mdls",
+   "displayLink": "www.biometricupdate.com",
+   "snippet": "Jan 30, 2025 ... Article Topics. digital ID | Idaho | ISO 18013 | legislation | mDL (mobile driver's license) | TSA | United States. Latest Biometrics News\u00a0...",
+   "htmlSnippet": "Jan 30, 2025 <b>...</b> Article Topics. <b>digital ID</b> | <b>Idaho</b> | ISO 18013 | legislation | <b>mDL</b> (<b>mobile driver&#39;s license</b>) | TSA | United States. Latest Biometrics News&nbsp;...",
+   "formattedUrl": "https://www.biometricupdate.com/202501/idaho-may-be-next-with-mdls",
+   "htmlFormattedUrl": "https://www.biometricupdate.com/202501/<b>idaho</b>-may-be-next-with-<b>mdl</b>s",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8Qmy_xtqi7R9XlKMY3X-ojyJ1uFmpF4zWkpOHyGvvKHB5ZAcibvezKac&s",
+      "width": "317",
+      "height": "159"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/06115457/mDL-mobile-drivers-license.png",
+      "theme-color": "#ffffff",
+      "og:image:width": "1024",
+      "article:published_time": "2025-01-30T21:39:33+00:00",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Biometric Update | Biometrics News, Companies and Explainers",
+      "rating": "general",
+      "msapplication-tileimage": "/favicon/ms-icon-144x144.png",
+      "og:description": "A bill has been introduced in Idaho\u2019s state legislature by its House Transportation and Defense Committee to mandate work on an optional mDL.",
+      "twitter:creator": "@BiometricUpdate",
+      "og:image:secure_url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/06115457/mDL-mobile-drivers-license.png",
+      "article:publisher": "https://www.facebook.com/BiometricUpdate",
+      "twitter:image": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/06115457/mDL-mobile-drivers-license.png",
+      "twitter:site": "@BiometricUpdate",
+      "article:modified_time": "2025-01-31T17:01:28+00:00",
+      "msapplication-tilecolor": "#ffffff",
+      "og:type": "article",
+      "twitter:title": "Idaho may be next with mDLs | Biometric Update",
+      "msvalidate.01": "37DAF50D768AB3DDD4F101B413D98584",
+      "author": "Chris Burt",
+      "og:title": "Idaho may be next with mDLs | Biometric Update",
+      "og:image:height": "514",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "A bill has been introduced in Idaho\u2019s state legislature by its House Transportation and Defense Committee to mandate work on an optional mDL.",
+      "og:locale": "en_US",
+      "og:url": "https://www.biometricupdate.com/202501/idaho-may-be-next-with-mdls"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/06115457/mDL-mobile-drivers-license.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Idaho Mobile ID Updates",
+   "htmlTitle": "<b>Idaho Mobile ID</b> Updates",
+   "link": "https://idscan.net/state-digital-id/idaho-mobile-id-updates/",
+   "displayLink": "idscan.net",
+   "snippet": "Idaho mobile ID updates. State of digital ID in Idaho; Other Idaho mDL resources.",
+   "htmlSnippet": "<b>Idaho mobile ID</b> updates. State of <b>digital ID</b> in <b>Idaho</b>; Other <b>Idaho mDL</b> resources.",
+   "formattedUrl": "https://idscan.net/state-digital-id/idaho-mobile-id-updates/",
+   "htmlFormattedUrl": "https://idscan.net/state-<b>digital-id</b>/<b>idaho</b>-<b>mobile-id</b>-updates/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA305wSyrP1BuVacrlou_7c3DAL-Md6x07Uwv_sUOwDnDn-xlzBYp_az_2&s",
+      "width": "311",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://idscan.net/wp-content/uploads/idahos-new-id-format-is-here-e1699474303884.jpg?lm=66A7317B",
+      "og:type": "article",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "IDScan.net",
+      "og:title": "Idaho Mobile ID Updates",
+      "og:image:height": "628",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://idscan.net/wp-content/uploads/cropped-idscan-identity-verification-software-icon-1-270x270.png",
+      "og:description": "Idaho has introduced HB78 regarding the creation of an Idaho mobile ID. It has passed the House and Senate, and has been referred to the DoT.",
+      "article:publisher": "https://www.facebook.com/idscannet",
+      "twitter:site": "@idscan_net",
+      "article:modified_time": "2025-03-24T22:09:15+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://idscan.net/state-digital-id/idaho-mobile-id-updates/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://idscan.net/wp-content/uploads/idahos-new-id-format-is-here-e1699474303884.jpg?lm=66A7317B"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "SENATE TRANSPORTATION COMMITTEE",
+   "htmlTitle": "SENATE TRANSPORTATION COMMITTEE",
+   "link": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/standingcommittees/250320_stra_0100PM-Minutes.pdf",
+   "displayLink": "legislature.idaho.gov",
+   "snippet": "Mar 20, 2025 ... Bayview, Idaho, to the Idaho ... He identified. Idaho's mobile driver's license as serving this role, enabling a single sign-on.",
+   "htmlSnippet": "Mar 20, 2025 <b>...</b> Bayview, <b>Idaho</b>, to the <b>Idaho</b> ... He identified. <b>Idaho&#39;s mobile driver&#39;s license</b> as serving this role, enabling a single sign-on.",
+   "formattedUrl": "https://legislature.idaho.gov/wp.../250320_stra_0100PM-Minutes.pdf",
+   "htmlFormattedUrl": "https://legislature.<b>idaho</b>.gov/wp.../250320_stra_0100PM-Minutes.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "stylesheet": "\\\\lso-pedev\\Sim_Comsec_Custom\\doctypes\\comm_minutes\\comm_minutes.style",
+      "creator": "PTC Arbortext Publishing Engine",
+      "creationdate": "D:20250331132539-06'00'",
+      "graphics_resolution": "600",
+      "compression_level": "6",
+      "compression_type": "auto",
+      "graphics_resolution_threshold": "900",
+      "print_engine": "Arbortext FOSI Print Publisher",
+      "ptc_arbortext_build": "R61M060-1114",
+      "jpeg_quality": "80",
+      "producer": "PDFlib+PDI 9.0.3p4 (Win32)",
+      "eps_processor": "PStill version 1.84.36",
+      "config_file": "E:\\Epic_Custom\\lib\\standard.pdfcf"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Idaho House Passes Bill to Allow Digital Driver's Licenses and ID ...",
+   "htmlTitle": "<b>Idaho</b> House Passes Bill to Allow Digital Driver&#39;s Licenses and ID ...",
+   "link": "https://mobileidworld.com/idaho-house-passes-bill-to-allow-digital-drivers-licenses-and-id-cards/",
+   "displayLink": "mobileidworld.com",
+   "snippet": "Mar 12, 2025 ... If enacted, Idaho would join states like Arkansas and Illinois that have already implemented digital ID solutions. The technology typically\u00a0...",
+   "htmlSnippet": "Mar 12, 2025 <b>...</b> If enacted, <b>Idaho</b> would join states like Arkansas and Illinois that have already implemented <b>digital ID</b> solutions. The technology typically&nbsp;...",
+   "formattedUrl": "https://mobileidworld.com/idaho-house-passes-bill-to-allow-digital-drivers-l...",
+   "htmlFormattedUrl": "https://<b>mobileid</b>world.com/<b>idaho</b>-house-passes-bill-to-allow-<b>digital-drivers-l</b>...",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1",
+      "msapplication-tileimage": "https://mobileidworld.com/wp-content/uploads/favicon.png"
+     }
+    ],
+    "webpage": [
+     {
+      "url": "About Us"
+     }
+    ],
+    "creativework": [
+     {
+      "text": "The Idaho House of Representatives has passed legislation that would enable residents to carry digital versions of their driver\u2019s licenses and identification cards on their mobile devices....",
+      "headline": "Idaho House Passes Bill to Allow Digital Driver\u2019s Licenses and ID Cards"
+     }
+    ],
+    "wpheader": [
+     {
+      "description": "Identification Revolution",
+      "headline": "Mobile ID World"
+     }
+    ],
+    "sitenavigationelement": [
+     {
+      "name": "Our Services",
+      "url": "Our Services"
+     }
+    ],
+    "searchaction": [
+     {
+      "query-input": "name=s",
+      "target": "https://mobileidworld.com/?s={s}"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Could Idaho Be the Next State to Adopt a Digital Driver's License",
+   "htmlTitle": "Could <b>Idaho</b> Be the Next State to Adopt a <b>Digital Driver&#39;s License</b>",
+   "link": "https://mix106radio.com/idaho-digital-drivers-license/",
+   "displayLink": "mix106radio.com",
+   "snippet": "Could Idaho Be the Next State to Adopt a Digital Driver's License? Ryan \u00b7 Ryan Published: March 22, 2023. Share \u00b7 Tweet. Is There a Demand for a Digital\u00a0...",
+   "htmlSnippet": "Could <b>Idaho</b> Be the Next State to Adopt a <b>Digital Driver&#39;s License</b>? Ryan &middot; Ryan Published: March 22, 2023. Share &middot; Tweet. Is There a Demand for a <b>Digital</b>&nbsp;...",
+   "formattedUrl": "https://mix106radio.com/idaho-digital-drivers-license/",
+   "htmlFormattedUrl": "https://mix106radio.com/<b>idaho</b>-<b>digital-drivers-license</b>/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX7d4SVbrSV2ed0ZgjOTDxfLZC_qp8MjXBTBZr-PCnfnEvws8x3-UWQCJl&s",
+      "width": "299",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://townsquare.media/site/659/files/2023/03/attachment-Untitled-design-38.jpg?w=1200&format=natural",
+      "sailthru.date": "2023-03-22 04:15:52",
+      "apple-itunes-app": "app-id=1201306248",
+      "og:type": "article",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Mix 106",
+      "sailthru.tags": "tsmsite-kcix, tsmmarket-boise, tsmtype-local, newsletter, business, entertainment, entertainment-update, local-news",
+      "ad:primis:id": "113965",
+      "og:title": "Could Idaho Be the Next State to Adopt a Digital Driver's License?",
+      "og:image:height": "630",
+      "og:description": "Digital driver's licenses lets a citizen carry a highly secure version of their driver's license on a mobile device.",
+      "sailthru.image.thumb": "https://townsquare.media/site/659/files/2023/03/attachment-Untitled-design-38.jpg",
+      "fb:pages": "48893625167",
+      "fb:app_id": "459218698468952",
+      "sailthru.description": "Digital driver's licenses lets a citizen carry a highly secure version of their driver's license on a mobile device. Will Idaho adopt digital driver's licenses?",
+      "twitter:site": "@Mix106",
+      "fb:use_automatic_ad_placement": "false",
+      "viewport": "width=device-width, initial-scale=1.0, viewport-fit=cover, user-scalable=no",
+      "sailthru.title": "Could Idaho Be the Next State to Adopt a Digital Driver\u2019s License?",
+      "fb:admins": "100002025987268",
+      "og:url": "https://mix106radio.com/idaho-digital-drivers-license/",
+      "sailthru.author": "ryval",
+      "sailthru.image.full": "https://townsquare.media/site/659/files/2023/03/attachment-Untitled-design-38.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://townsquare.media/site/659/files/2023/03/attachment-Untitled-design-38.jpg?w=1200&format=natural"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Digital Signatures and Adobe Digital ID",
+   "htmlTitle": "Digital Signatures and Adobe <b>Digital ID</b>",
+   "link": "https://support.uidaho.edu/TDClient/40/Portal/KB/ArticleDet?ID=2527",
+   "displayLink": "support.uidaho.edu",
+   "snippet": "University of Idaho logo. Filter your search by category. Current category: All. All; Knowledge Base; Service Catalog. Search the client portal. Search. Sign In.",
+   "htmlSnippet": "University of <b>Idaho</b> logo. Filter your search by category. Current category: All. All; Knowledge Base; Service Catalog. Search the client portal. Search. Sign In.",
+   "formattedUrl": "https://support.uidaho.edu/TDClient/40/Portal/KB/ArticleDet?ID=2527",
+   "htmlFormattedUrl": "https://support.u<b>idaho</b>.edu/TDClient/40/Portal/KB/ArticleDet?ID=2527",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbC0peUQjaP6yhezcrpvJw4aC_06Abe4nTVBkNz9F6NIBTLv8ZyQReRg&s",
+      "width": "294",
+      "height": "80"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://support.uidaho.edu/TDPortal/BE/Logo/2/40",
+      "og:type": "article",
+      "article:section": "IT Guides",
+      "article:published_time": "2023-03-03T21:18Z",
+      "og:site_name": "University of Idaho - Knowledge Base",
+      "article:modified_time": "2024-10-08T19:26Z",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Digital Signatures and Adobe Digital ID",
+      "og:url": "https://support.uidaho.edu/TDClient/40/Portal/KB/ArticleDet?ID=2527",
+      "article:tag": "acrobat"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://support.uidaho.edu/TDPortal/BE/Logo/2/40"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Changes to Member ID Cards | Blue Cross of Idaho",
+   "htmlTitle": "Changes to Member ID Cards | Blue Cross of <b>Idaho</b>",
+   "link": "https://bluebulletin.bcidaho.com/articles/changes-to-member-id-cards",
+   "displayLink": "bluebulletin.bcidaho.com",
+   "snippet": "You can find your digital ID card in the Blue Cross of Idaho member app by logging into the app and selecting ID Card in the upper-right corner. Don't have the\u00a0...",
+   "htmlSnippet": "You can find your <b>digital ID</b> card in the Blue Cross of <b>Idaho</b> member app by logging into the app and selecting ID Card in the upper-right corner. Don&#39;t have the&nbsp;...",
+   "formattedUrl": "https://bluebulletin.bcidaho.com/articles/changes-to-member-id-cards",
+   "htmlFormattedUrl": "https://bluebulletin.bc<b>idaho</b>.com/articles/changes-to-member-id-cards",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHQ3bSpLNQMZGbf-NHK-Ov6SddB8QpioqXjgEHFNfMe77nLdLpCpYSPIup&s",
+      "width": "283",
+      "height": "178"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://res.cloudinary.com/bluecrossofidaho/image/upload/images/blue-bulletin/stories/2022/member-card-old.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Gemalto Wins US Government Grant for Digital Driver's License Pilot ...",
+   "htmlTitle": "Gemalto Wins US Government Grant for <b>Digital Driver&#39;s License</b> Pilot ...",
+   "link": "https://www.inkworldmagazine.com/live_from_shows/gemalto-wins-us-government-grant-for-digital-drivers-license-pilot-in-four-jurisdictions/",
+   "displayLink": "www.inkworldmagazine.com",
+   "snippet": "Partnering with Colorado, Idaho, Maryland and Washington D.C. to pilot digital driver's licenses. ... mobile driver's license security and frameworks moving\u00a0...",
+   "htmlSnippet": "Partnering with Colorado, <b>Idaho</b>, Maryland and Washington D.C. to pilot digital driver&#39;s licenses. ... <b>mobile driver&#39;s license</b> security and frameworks moving&nbsp;...",
+   "formattedUrl": "https://www.inkworldmagazine.com/.../gemalto-wins-us-government-grant-...",
+   "htmlFormattedUrl": "https://www.inkworldmagazine.com/.../gemalto-wins-us-government-grant-...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSspbCHwm3B7EjDEf4urTN_GY5Lxg7lF5vXJPqTlNB7s-hj0xB_TOpUJS4&s",
+      "width": "306",
+      "height": "165"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Ink World magazine",
+      "og:title": "Gemalto Wins US Government Grant for Digital Driver\u2019s License Pilot in Four Jurisdictions",
+      "twitter:label1": "Est. reading time",
+      "msapplication-tileimage": "https://www.inkworldmagazine.com/wp-content/uploads/sites/15/2024/07/ink-favicon.png",
+      "og:description": "Partnering with Colorado, Idaho, Maryland and Washington D.C. to pilot digital driver\u2019s licenses.",
+      "twitter:data1": "2 minutes",
+      "article:modified_time": "2025-05-20T13:27:31+00:00",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:locale": "en_US",
+      "og:url": "https://www.inkworldmagazine.com/live_from_shows/gemalto-wins-us-government-grant-for-digital-drivers-license-pilot-in-four-jurisdictions/",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.inkworldmagazine.com/wp-content/themes/RodmanMediaCore/img/random_img_ink/new_image_31.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Digital Driver's License U.S. Pilot",
+   "htmlTitle": "<b>Digital Driver&#39;s License</b> U.S. Pilot",
+   "link": "https://www.thalesgroup.com/en/americas/united-states/digital-identity-and-security/ddlpilot",
+   "displayLink": "www.thalesgroup.com",
+   "snippet": "Gemalto is partnering with Colorado, Idaho, Maryland, Washington D.C., and Wyoming. The Digital Driver's License (DDL) Pilot will involve stakeholders like law\u00a0...",
+   "htmlSnippet": "Gemalto is partnering with Colorado, <b>Idaho</b>, Maryland, Washington D.C., and Wyoming. The <b>Digital Driver&#39;s License</b> (DDL) Pilot will involve stakeholders like law&nbsp;...",
+   "formattedUrl": "https://www.thalesgroup.com/en/americas/united.../digital-identity.../ddlpilo...",
+   "htmlFormattedUrl": "https://www.thalesgroup.com/en/americas/united.../<b>digital-id</b>entity.../ddlpilo...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl8YFmj1mBkPEa6B3LXb9RtFsXY6Pxiw65hZkqElcaX3zJauM0kBPOpUI5&s",
+      "width": "209",
+      "height": "241"
+     }
+    ],
+    "metatags": [
+     {
+      "og:site_name": "Thales Group",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Digital Driver\u2019s License U.S. Pilot",
+      "mobileoptimized": "width",
+      "abstract": "Gemalto is partnering with Colorado, Idaho, Maryland, Washington D.C., and Wyoming for the Digital Driver\u2019s License\u00a0(DDL) Pilot.",
+      "og:url": "https://www.thalesgroup.com/en/americas/united-states/digital-identity-and-security/ddlpilot"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.thalesgroup.com/sites/default/files/gemalto/five-states.png"
+     }
+    ]
+   }
+  }
+ ]
+}

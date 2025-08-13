@@ -1,0 +1,360 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Hawaii Revised Statutes\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "1940",
+    "searchTerms": "\"Hawaii Revised Statutes\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Hawaii Revised Statutes\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "1940",
+    "searchTerms": "\"Hawaii Revised Statutes\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.21742,
+  "formattedSearchTime": "0.22",
+  "totalResults": "1940",
+  "formattedTotalResults": "1,940"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "SB1038",
+   "htmlTitle": "SB1038",
+   "link": "https://data.capitol.hawaii.gov/sessions/session2025/bills/SB1038_.HTM",
+   "displayLink": "data.capitol.hawaii.gov",
+   "snippet": "\"\"Personal information\" means an [individual's first name or first initial ... (2) Driver's license number or Hawaii identification card number; or. (3)\u00a0...",
+   "htmlSnippet": "&quot;&quot;<b>Personal information</b>&quot; <b>means</b> an [individual&#39;s first name or first initial ... (2) <b>Driver&#39;s license</b> number or Hawaii <b>identification card</b> number; or. (3)&nbsp;...",
+   "formattedUrl": "https://data.capitol.hawaii.gov/sessions/session2025/bills/SB1038_.HTM",
+   "htmlFormattedUrl": "https://data.capitol.hawaii.gov/sessions/session2025/bills/SB1038_.HTM",
+   "pagemap": {
+    "metatags": [
+     {
+      "originator": "Microsoft Word 15",
+      "progid": "Word.Document"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hawaii Revised Statutes \u00a7 487J-6 (2024) - Unlawful use of ...",
+   "htmlTitle": "<b>Hawaii Revised Statutes</b> \u00a7 487J-6 (2024) - Unlawful use of ...",
+   "link": "https://law.justia.com/codes/hawaii/title-26/chapter-487j/section-487j-6/",
+   "displayLink": "law.justia.com",
+   "snippet": "Personal Information Protection \u203a 487J-6 Unlawful use of identification card or driver's license. ... means, to ensure that the requirements of this chapter\u00a0...",
+   "htmlSnippet": "<b>Personal Information</b> Protection \u203a 487J-6 Unlawful use of <b>identification card</b> or <b>driver&#39;s license</b>. ... <b>means</b>, to ensure that the requirements of this chapter&nbsp;...",
+   "formattedUrl": "https://law.justia.com/codes/hawaii/title-26/chapter-487j/section-487j-6/",
+   "htmlFormattedUrl": "https://law.justia.com/codes/hawaii/title-26/chapter-487j/section-487j-6/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPP2ksOfM4IyWL7PTxPyS5N80Or-jyXZZLgeH1kYuOtXk5YU597YCxGszS&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "og:site_name": "Justia Law",
+      "og:title": "2024 Hawaii Revised Statutes :: Title 26. Trade Regulation and Practice :: 487J. Personal Information Protection :: 487J-6 Unlawful use of identification card or driver's license.",
+      "og:app_id": "119529808075661",
+      "trigger-ga": "1",
+      "og:description": "Justia Free Databases of U.S. Laws, Codes & Statutes",
+      "og:admins": "656268335,686786921,25900864",
+      "referrer": "unsafe-url",
+      "twitter:site": "@JustiaCom",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "page-type": "Law: Codes Document Page (Current Year)",
+      "is-li": "0",
+      "og:url": "https://law.justia.com/codes/hawaii/title-26/chapter-487j/section-487j-6/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Untitled",
+   "htmlTitle": "Untitled",
+   "link": "https://hidot.hawaii.gov/highways/files/2023/10/Chapter-19-149.pdf",
+   "displayLink": "hidot.hawaii.gov",
+   "snippet": "\"Duplicate card\" means an identification card issued subsequent to the ... identification card already has a driver's license or permit and the\u00a0...",
+   "htmlSnippet": "&quot;Duplicate card&quot; <b>means</b> an <b>identification card</b> issued subsequent to the ... <b>identification card</b> already has a <b>driver&#39;s license</b> or permit and the&nbsp;...",
+   "formattedUrl": "https://hidot.hawaii.gov/highways/files/2023/10/Chapter-19-149.pdf",
+   "htmlFormattedUrl": "https://hidot.hawaii.gov/highways/files/2023/10/Chapter-19-149.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "Mon Oct  2 02:44:56 2023",
+      "creator": "Xerox PrimeLink(TM) C9070",
+      "creationdate": "Mon Oct  2 02:44:56 2023",
+      "producer": "Xerox PrimeLink(TM) C9070"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hawaii Revised Statutes \u00a7 487N-1 (2024) - Definitions :: 2024 ...",
+   "htmlTitle": "<b>Hawaii Revised Statutes</b> \u00a7 487N-1 (2024) - Definitions :: 2024 ...",
+   "link": "https://law.justia.com/codes/hawaii/title-26/chapter-487n/section-487n-1/",
+   "displayLink": "law.justia.com",
+   "snippet": "\"Personal information\" means an individual's first name or first initial and ... (2) Driver's license number or Hawaii identification card number; or.",
+   "htmlSnippet": "&quot;<b>Personal information</b>&quot; <b>means</b> an individual&#39;s first name or first initial and ... (2) <b>Driver&#39;s license</b> number or Hawaii <b>identification card</b> number; or.",
+   "formattedUrl": "https://law.justia.com/codes/hawaii/title-26/chapter-487n/section-487n-1/",
+   "htmlFormattedUrl": "https://law.justia.com/codes/hawaii/title-26/chapter-487n/section-487n-1/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPP2ksOfM4IyWL7PTxPyS5N80Or-jyXZZLgeH1kYuOtXk5YU597YCxGszS&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "og:site_name": "Justia Law",
+      "og:title": "2024 Hawaii Revised Statutes :: Title 26. Trade Regulation and Practice :: 487N. Security Breach of Personal Information :: 487N-1 Definitions",
+      "og:app_id": "119529808075661",
+      "trigger-ga": "1",
+      "og:description": "Justia Free Databases of U.S. Laws, Codes & Statutes",
+      "og:admins": "656268335,686786921,25900864",
+      "referrer": "unsafe-url",
+      "twitter:site": "@JustiaCom",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "page-type": "Law: Codes Document Page (Current Year)",
+      "is-li": "0",
+      "og:url": "https://law.justia.com/codes/hawaii/title-26/chapter-487n/section-487n-1/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NO. CAAP-16-0000342 IN THE INTERMEDIATE COURT OF ...",
+   "htmlTitle": "NO. CAAP-16-0000342 IN THE INTERMEDIATE COURT OF ...",
+   "link": "https://www.courts.state.hi.us/wp-content/uploads/2017/02/CAAP-16-0000342sdoada.pdf",
+   "displayLink": "www.courts.state.hi.us",
+   "snippet": "Jan 31, 2017 ... \"Confidential personal information\" means information in which an ... security number and the complainant's driver's license number. Id\u00a0...",
+   "htmlSnippet": "Jan 31, 2017 <b>...</b> &quot;Confidential <b>personal information</b>&quot; <b>means</b> information in which an ... security number and the complainant&#39;s <b>driver&#39;s license</b> number. Id&nbsp;...",
+   "formattedUrl": "https://www.courts.state.hi.us/wp-content/.../CAAP-16-0000342sdoada.pdf",
+   "htmlFormattedUrl": "https://www.courts.state.hi.us/wp-content/.../CAAP-16-0000342sdoada.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20170201091605-10'00'",
+      "creationdate": "D:20170201083756Z",
+      "creator": "Print Server 110",
+      "producer": "Corel PDF Engine Version 11.300"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hawaii Laws that Apply to Retention & Disposition of Government ...",
+   "htmlTitle": "Hawaii Laws that Apply to Retention &amp; Disposition of Government ...",
+   "link": "https://ags.hawaii.gov/wp-content/uploads/2012/09/Shortcuts-to-laws-on-records.pdf",
+   "displayLink": "ags.hawaii.gov",
+   "snippet": "Both Act 135 and 136, SLH 2006, define \u201cpersonal information\u201d as: an ... (2) Driver's license number or Hawaii identification card number; or. (3)\u00a0...",
+   "htmlSnippet": "Both Act 135 and 136, SLH 2006, define \u201c<b>personal information</b>\u201d as: an ... (2) <b>Driver&#39;s license</b> number or Hawaii <b>identification card</b> number; or. (3)&nbsp;...",
+   "formattedUrl": "https://ags.hawaii.gov/wp-content/.../09/Shortcuts-to-laws-on-records.pdf",
+   "htmlFormattedUrl": "https://ags.hawaii.gov/wp-content/.../09/Shortcuts-to-laws-on-records.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20060814100101-10'00'",
+      "creationdate": "D:20060814100047-10'00'",
+      "creator": "Acrobat PDFMaker 6.0 for Word",
+      "sourcemodified": "D:20060814200036",
+      "author": "Nicholas Carvalho",
+      "producer": "Acrobat Distiller 6.0 (Windows)",
+      "title": "Shortcut to HRS 94-3 on the Internet:"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Attachment 1 Contract Addendum for Security of Personal Information",
+   "htmlTitle": "Attachment 1 Contract Addendum for Security of <b>Personal Information</b>",
+   "link": "https://www.courts.state.hi.us/wp-content/uploads/2018/06/Attachment_1IFB_J19060.pdf",
+   "displayLink": "www.courts.state.hi.us",
+   "snippet": "1. \u201dPersonal information\u201d means an individual's first name or first initial and last ... number; (B) driver's license number or identification card number; or (3)\u00a0...",
+   "htmlSnippet": "1. \u201d<b>Personal information</b>\u201d <b>means</b> an individual&#39;s first name or first initial and last ... number; (B) <b>driver&#39;s license</b> number or <b>identification card</b> number; or (3)&nbsp;...",
+   "formattedUrl": "https://www.courts.state.hi.us/wp-content/.../Attachment_1IFB_J19060.pdf",
+   "htmlFormattedUrl": "https://www.courts.state.hi.us/wp-content/.../Attachment_1IFB_J19060.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3JKnQsPLmT67Sf2tDhdjWvjDS8MzQARke-tb4gZEJdNEvuM2s77Nkf37B&s",
+      "width": "197",
+      "height": "255"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20180601142226-10'00'",
+      "creationdate": "D:20141015140351-10'00'",
+      "creator": "PScript5.dll Version 5.2.2",
+      "author": "JonW",
+      "producer": "Acrobat Distiller 9.2.0 (Windows)",
+      "title": "Microsoft Word - Attachment 4 Contract Adden for Security of Pers.doc"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///9cecb441117f24f0e41e32fc8a7a2a3d8b03c933f1b7b6e12722fab8d13638b1"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hawaii ID Scanner Law",
+   "htmlTitle": "Hawaii ID Scanner Law",
+   "link": "https://www.idscanner.com/id-scanner-law/hawaii-id-scanning-law/",
+   "displayLink": "www.idscanner.com",
+   "snippet": "Apr 19, 2017 ... ... defined purposes. Below is a copy of the bill ... Personal Information; Unlawful Use of Hawaii Identification Card or Driver's License.",
+   "htmlSnippet": "Apr 19, 2017 <b>...</b> ... <b>defined</b> purposes. Below is a copy of the bill ... <b>Personal Information</b>; Unlawful Use of Hawaii <b>Identification Card</b> or <b>Driver&#39;s License</b>.",
+   "formattedUrl": "https://www.idscanner.com/id-scanner-law/hawaii-id-scanning-law/",
+   "htmlFormattedUrl": "https://www.idscanner.com/id-scanner-law/hawaii-id-scanning-law/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3TlsbbFs1QAlymUAZFjVc69x-o3gwzXKwSkoMW9OFigFIVGu-cEdhaZWz&s",
+      "width": "318",
+      "height": "159"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.idscanner.com/wp-content/uploads/2018/08/idscanner-logo.gif",
+      "og:type": "article",
+      "article:published_time": "2017-04-19T13:42:47+00:00",
+      "og:image:width": "400",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "IDScanner.com",
+      "msvalidate.01": "A9FC7AD738BA7AC3F30DE6F934DCAD4B",
+      "author": "Charles Cagliostro",
+      "og:title": "Hawaii ID Scanner Law",
+      "og:image:height": "200",
+      "og:image:type": "image/gif",
+      "msapplication-tileimage": "https://www.idscanner.com/wp-content/uploads/2025/01/cropped-favicon-270x270.png",
+      "og:description": "Hawaii Drivers License ID Scanning Legislation Regulates use of ID Scanners and retention of scanned Data On June 28, 2012 - Hawaii passed a law",
+      "twitter:creator": "@tokenworks",
+      "article:publisher": "https://www.facebook.com/TokenWorks/",
+      "twitter:site": "@tokenworks",
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+      "og:locale": "en_US",
+      "og:url": "https://www.idscanner.com/id-scanner-law/hawaii-id-scanning-law/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.idscanner.com/wp-content/uploads/2018/08/idscanner-logo.gif"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "AG-008 103D General Conditions",
+   "htmlTitle": "AG-008 103D General Conditions",
+   "link": "https://dhhl.hawaii.gov/wp-content/uploads/2023/08/Exh-B-AG-008-103D-General-Conditions.pdf",
+   "displayLink": "dhhl.hawaii.gov",
+   "snippet": "\"Personal information\" means an individual's first name or first initial and last name in ... (1). Social security number;. (2). Driver's license number or Hawaii\u00a0...",
+   "htmlSnippet": "&quot;<b>Personal information</b>&quot; <b>means</b> an individual&#39;s first name or first initial and last name in ... (1). Social security number;. (2). <b>Driver&#39;s license</b> number or Hawaii&nbsp;...",
+   "formattedUrl": "https://dhhl.hawaii.gov/wp.../Exh-B-AG-008-103D-General-Conditions.pdf",
+   "htmlFormattedUrl": "https://dhhl.hawaii.gov/wp.../Exh-B-AG-008-103D-General-Conditions.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20131031105117-10'00'",
+      "creationdate": "D:20131017152209-10'00'",
+      "creator": "Acrobat PDFMaker 10.0 for Word",
+      "sourcemodified": "D:20131018011319",
+      "author": "client",
+      "producer": "Acrobat Distiller 10.0.0 (Windows)",
+      "company": "Dept of the Attorney General",
+      "title": "GENERAL CONDITIONS"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Untitled",
+   "htmlTitle": "Untitled",
+   "link": "https://oip.hawaii.gov/wp-content/uploads/2020/07/Act-92-2.pdf",
+   "displayLink": "oip.hawaii.gov",
+   "snippet": "The Hawaii Revised Statutes is amended by adding a new chapter to be ... \"Personal information' means information associated with an actual person.",
+   "htmlSnippet": "The <b>Hawaii Revised Statutes</b> is amended by adding a new chapter to be ... &quot;<b>Personal information</b>&#39; <b>means</b> information associated with an actual person.",
+   "formattedUrl": "https://oip.hawaii.gov/wp-content/uploads/2020/07/Act-92-2.pdf",
+   "htmlFormattedUrl": "https://oip.hawaii.gov/wp-content/uploads/2020/07/Act-92-2.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "Tue Jun 30 05:18:12 2020",
+      "creator": "Xerox AltaLink C8070",
+      "creationdate": "Tue Jun 30 05:22:56 2020",
+      "producer": "Xerox AltaLink C8070"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

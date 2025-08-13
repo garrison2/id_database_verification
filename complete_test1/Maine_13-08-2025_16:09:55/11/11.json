@@ -1,0 +1,314 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Maine Revised Statutes\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "244",
+    "searchTerms": "\"Maine Revised Statutes\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Maine Revised Statutes\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "244",
+    "searchTerms": "\"Maine Revised Statutes\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.161324,
+  "formattedSearchTime": "0.16",
+  "totalResults": "244",
+  "formattedTotalResults": "244"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Title 33, \u00a7651-B: Privacy protection",
+   "htmlTitle": "Title 33, \u00a7651-B: Privacy protection",
+   "link": "https://legislature.maine.gov/statutes/33/title33sec651-B.html",
+   "displayLink": "legislature.maine.gov",
+   "snippet": "\"Personal information\" means an individual's first name or first initial and ... Driver's license number or state identification card number;. (3)\u00a0...",
+   "htmlSnippet": "&quot;<b>Personal information</b>&quot; <b>means</b> an individual&#39;s first name or first initial and ... <b>Driver&#39;s license</b> number or state <b>identification card</b> number;. (3)&nbsp;...",
+   "formattedUrl": "https://legislature.maine.gov/statutes/33/title33sec651-B.html",
+   "htmlFormattedUrl": "https://legislature.maine.gov/statutes/33/title33sec651-B.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "apple-mobile-web-app-status-bar-style": "black",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "apple-mobile-web-app-capable": "yes",
+      "format-detection": "telephone=no"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MRS Title 10, Chapter 210-B. NOTICE OF RISK TO PERSONAL DATA",
+   "htmlTitle": "MRS Title 10, Chapter 210-B. NOTICE OF RISK TO PERSONAL DATA",
+   "link": "https://www.mainelegislature.org/legis/statutes/10/title10ch210-B.pdf",
+   "displayLink": "www.mainelegislature.org",
+   "snippet": "Jul 1, 2025 ... \"Personal information\" means an individual's first name, or first initial, ... Driver's license number or state identification card number\u00a0...",
+   "htmlSnippet": "Jul 1, 2025 <b>...</b> &quot;<b>Personal information</b>&quot; <b>means</b> an individual&#39;s first name, or first initial, ... <b>Driver&#39;s license</b> number or state <b>identification card</b> number&nbsp;...",
+   "formattedUrl": "https://www.mainelegislature.org/legis/statutes/10/title10ch210-B.pdf",
+   "htmlFormattedUrl": "https://www.mainelegislature.org/legis/statutes/10/title10ch210-B.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20200729163100Z",
+      "creator": "Microsoft Office Word",
+      "creationdate": "D:20180320204000Z",
+      "producer": "Aspose.Words for .NET 19.6"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Title 10, \u00a71347: Definitions",
+   "htmlTitle": "Title 10, \u00a71347: Definitions",
+   "link": "https://legislature.maine.gov/statutes/10/title10sec1347.html",
+   "displayLink": "legislature.maine.gov",
+   "snippet": "\"Personal information\" means an individual's first name, or first initial ... Driver's license number or state identification card number; [PL 2005, c\u00a0...",
+   "htmlSnippet": "&quot;<b>Personal information</b>&quot; <b>means</b> an individual&#39;s first name, or first initial ... <b>Driver&#39;s license</b> number or state <b>identification card</b> number; [PL 2005, c&nbsp;...",
+   "formattedUrl": "https://legislature.maine.gov/statutes/10/title10sec1347.html",
+   "htmlFormattedUrl": "https://legislature.maine.gov/statutes/10/title10sec1347.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "apple-mobile-web-app-status-bar-style": "black",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "apple-mobile-web-app-capable": "yes",
+      "format-detection": "telephone=no"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Title 24-A, \u00a72263: Definitions",
+   "htmlTitle": "Title 24-A, \u00a72263: Definitions",
+   "link": "https://www.mainelegislature.org/legis/statutes/24-A/title24-Asec2263.html",
+   "displayLink": "www.mainelegislature.org",
+   "snippet": "\"Consumer\" means an individual, including but not limited to an applicant for ... Driver's license number or nondriver identification card number;. (3)\u00a0...",
+   "htmlSnippet": "&quot;Consumer&quot; <b>means</b> an individual, including but not limited to an applicant for ... <b>Driver&#39;s license</b> number or nondriver <b>identification card</b> number;. (3)&nbsp;...",
+   "formattedUrl": "https://www.mainelegislature.org/legis/statutes/24-A/title24-Asec2263.html",
+   "htmlFormattedUrl": "https://www.mainelegislature.org/legis/statutes/24-A/title24-Asec2263.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "apple-mobile-web-app-status-bar-style": "black",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "apple-mobile-web-app-capable": "yes",
+      "format-detection": "telephone=no"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1 Freedom of Access Act (FOAA) recommended general exception ...",
+   "htmlTitle": "1 Freedom of Access Act (FOAA) recommended general exception ...",
+   "link": "https://legislature.maine.gov/doc/7446",
+   "displayLink": "legislature.maine.gov",
+   "snippet": "Nov 9, 2021 ... \"Personal information\" means an individual's first name, or first ... Driver's license number or state identification card number; [PL 2005, c.",
+   "htmlSnippet": "Nov 9, 2021 <b>...</b> &quot;<b>Personal information</b>&quot; <b>means</b> an individual&#39;s first name, or first ... <b>Driver&#39;s license</b> number or state <b>identification card</b> number; [PL 2005, c.",
+   "formattedUrl": "https://legislature.maine.gov/doc/7446",
+   "htmlFormattedUrl": "https://legislature.maine.gov/doc/7446",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20211110161424-05'00'",
+      "creator": "Microsoft\u00ae Word 2019",
+      "creationdate": "D:20211110161424-05'00'",
+      "author": "Stout, Eric",
+      "producer": "Microsoft\u00ae Word 2019"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "130th MAINE LEGISLATURE",
+   "htmlTitle": "130th MAINE LEGISLATURE",
+   "link": "https://www.mainelegislature.org/legis/bills/getPDF.asp?paper=HP1033&item=1&snum=130",
+   "displayLink": "www.mainelegislature.org",
+   "snippet": "Apr 7, 2021 ... \"Electronic seal\" means information within a notarized electronic. 27 record that confirms the remote online notary public's name, jurisdiction,\u00a0...",
+   "htmlSnippet": "Apr 7, 2021 <b>...</b> &quot;Electronic seal&quot; <b>means</b> information within a notarized electronic. 27 record that confirms the remote online notary public&#39;s name, jurisdiction,&nbsp;...",
+   "formattedUrl": "https://www.mainelegislature.org/legis/bills/getPDF.asp?paper...item...",
+   "htmlFormattedUrl": "https://www.mainelegislature.org/legis/bills/getPDF.asp?paper...item...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTN7Nws6G-O3Diivv2gOghmik36jMvCLwuT0dV7uRV4-qkkNLIuEPQRqgL&s",
+      "width": "211",
+      "height": "239"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20221003180236-04'00'",
+      "creator": "Aspose Ltd.",
+      "creationdate": "D:20210405155500Z",
+      "author": "Marson, Alaina",
+      "producer": "Aspose.PDF for .NET 21.11.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///2e283af95dcc1bf5858bdf1669e5002c3afc752d3d86de22b82e13406af6dac0"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MRS Title 22, Chapter 710-B. REVISED UNIFORM ANATOMICAL ...",
+   "htmlTitle": "MRS Title 22, Chapter 710-B. REVISED UNIFORM ANATOMICAL ...",
+   "link": "https://legislature.maine.gov/statutes/22/title22ch710-B.pdf",
+   "displayLink": "legislature.maine.gov",
+   "snippet": "\"Driver's license\" means a license or permit issued by the Secretary of State ... \"Identification card\" means a nondriver identification card issued by the.",
+   "htmlSnippet": "&quot;<b>Driver&#39;s license</b>&quot; <b>means</b> a license or permit issued by the Secretary of State ... &quot;<b>Identification card</b>&quot; <b>means</b> a nondriver <b>identification card</b> issued by the.",
+   "formattedUrl": "https://legislature.maine.gov/statutes/22/title22ch710-B.pdf",
+   "htmlFormattedUrl": "https://legislature.maine.gov/statutes/22/title22ch710-B.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20200729163100Z",
+      "creator": "Microsoft Office Word",
+      "creationdate": "D:20180320204000Z",
+      "producer": "Aspose.Words for .NET 19.6"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Maine Revised Statutes Title 29-A. Motor Vehicles \u00a7 101 | FindLaw",
+   "htmlTitle": "<b>Maine Revised Statutes</b> Title 29-A. Motor Vehicles \u00a7 101 | FindLaw",
+   "link": "https://codes.findlaw.com/me/title-29-a-motor-vehicles/me-rev-st-tit-29-a-sect-101/",
+   "displayLink": "codes.findlaw.com",
+   "snippet": "\u201cDriver\u201d has the same meaning as \u201coperator\u201d as defined in subsection 48. ... \u201cSuspension of driver's license\u201d means the temporary withdrawal of a license\u00a0...",
+   "htmlSnippet": "\u201cDriver\u201d has the same meaning as \u201coperator\u201d as <b>defined</b> in subsection 48. ... \u201cSuspension of <b>driver&#39;s license</b>\u201d <b>means</b> the temporary withdrawal of a license&nbsp;...",
+   "formattedUrl": "https://codes.findlaw.com/me/title-29-a.../me-rev-st-tit-29-a-sect-101/",
+   "htmlFormattedUrl": "https://codes.findlaw.com/me/title-29-a.../me-rev-st-tit-29-a-sect-101/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuWtKEZ0kzYj6NSuZlgNrAF5XcYIi9XgsiqHcAgQHtxY18xcWZ1bDMaCM&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png",
+      "og:type": "article",
+      "og:site_name": "Findlaw",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Maine Revised Statutes Title 29-A. Motor Vehicles \u00a7 101 | FindLaw",
+      "og:url": "https://codes.findlaw.com/me/title-29-a-motor-vehicles/me-rev-st-tit-29-a-sect-101/",
+      "og:description": "Maine Title 29-A. Motor Vehicles  Section 101. Read the code on FindLaw"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ME LD1457 | BillTrack50",
+   "htmlTitle": "ME LD1457 | BillTrack50",
+   "link": "https://www.billtrack50.com/billdetail/1880578",
+   "displayLink": "www.billtrack50.com",
+   "snippet": "Apr 2, 2025 ... ... defined in the Maine Revised Statutes, Title 23, section 301. 5 ... \"Personally identifiable information\" means information created or\u00a0...",
+   "htmlSnippet": "Apr 2, 2025 <b>...</b> ... <b>defined</b> in the <b>Maine Revised Statutes</b>, Title 23, section 301. 5 ... &quot;<b>Personally identifiable information</b>&quot; <b>means</b> information created or&nbsp;...",
+   "formattedUrl": "https://www.billtrack50.com/billdetail/1880578",
+   "htmlFormattedUrl": "https://www.billtrack50.com/billdetail/1880578",
+   "pagemap": {
+    "metatags": [
+     {
+      "twitter:card": "summary",
+      "og:type": "website",
+      "twitter:site": "@BillTrack50",
+      "og:site_name": "BillTrack50",
+      "viewport": "width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0",
+      "og:title": "ME - LD1457",
+      "og:locale": "en_US",
+      "og:url": "https://www.billtrack50.com/billdetail/1880578",
+      "twitter:creator": "@BillTrack50",
+      "og:description": "Resolve, to Allow the Maine Turnpike Authority to Conduct a Pilot Program to Implement Automated Speed Control Systems in Highway Work Zones"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Maine Revised Statutes Title 29-A. Motor Vehicles \u00a7 2411 | FindLaw",
+   "htmlTitle": "<b>Maine Revised Statutes</b> Title 29-A. Motor Vehicles \u00a7 2411 | FindLaw",
+   "link": "https://codes.findlaw.com/me/title-29-a-motor-vehicles/me-rev-st-tit-29-a-sect-2411/",
+   "displayLink": "codes.findlaw.com",
+   "snippet": "... defined in Title 17-A, section 34, subsection 4-A. The following minimum ... driver's license for a period of 150 days; and. (3) A period of\u00a0...",
+   "htmlSnippet": "... <b>defined</b> in Title 17-A, section 34, subsection 4-A. The following minimum ... <b>driver&#39;s license</b> for a period of 150 days; and. (3) A period of&nbsp;...",
+   "formattedUrl": "https://codes.findlaw.com/me/title-29-a.../me-rev-st-tit-29-a-sect-2411/",
+   "htmlFormattedUrl": "https://codes.findlaw.com/me/title-29-a.../me-rev-st-tit-29-a-sect-2411/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuWtKEZ0kzYj6NSuZlgNrAF5XcYIi9XgsiqHcAgQHtxY18xcWZ1bDMaCM&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png",
+      "og:type": "article",
+      "og:site_name": "Findlaw",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Maine Revised Statutes Title 29-A. Motor Vehicles \u00a7 2411 | FindLaw",
+      "og:url": "https://codes.findlaw.com/me/title-29-a-motor-vehicles/me-rev-st-tit-29-a-sect-2411/",
+      "og:description": "Maine Title 29-A. Motor Vehicles  Section 2411. Read the code on FindLaw"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,274 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://www.bmv.ohio.gov/ \"REAL ID\"",
+    "totalResults": "38",
+    "searchTerms": "site:https://www.bmv.ohio.gov/ \"REAL ID\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://www.bmv.ohio.gov/ \"REAL ID\"",
+    "totalResults": "38",
+    "searchTerms": "site:https://www.bmv.ohio.gov/ \"REAL ID\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.112012,
+  "formattedSearchTime": "0.11",
+  "totalResults": "38",
+  "formattedTotalResults": "38"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Ohio's Real ID",
+   "htmlTitle": "Ohio&#39;s <b>Real ID</b>",
+   "link": "https://www.bmv.ohio.gov/dl-real-id.aspx",
+   "displayLink": "www.bmv.ohio.gov",
+   "snippet": "Driver License & ID Cards. Ohio's Real ID Ohio Mobile ID First Issuance ... Ohio's Real ID. Ohio's Real ID. Beginning May 7, 2025, U.S. travelers must be\u00a0...",
+   "htmlSnippet": "Driver License &amp; ID Cards. Ohio&#39;s <b>Real ID</b> Ohio Mobile ID First Issuance ... Ohio&#39;s <b>Real ID</b>. Ohio&#39;s <b>Real ID</b>. Beginning May 7, 2025, U.S. travelers must be&nbsp;...",
+   "formattedUrl": "https://www.bmv.ohio.gov/dl-real-id.aspx",
+   "htmlFormattedUrl": "https://www.bmv.ohio.gov/dl-<b>real-id</b>.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9oMrHRSCwIyBCgElDWjCayn7vNe3lsmdhqUgtR4PO8xg9vY29EwikA9ms&s",
+      "width": "256",
+      "height": "197"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.bmv.ohio.gov/img/newDL-Envelope.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ohio BMV - Driver License & ID Cards",
+   "htmlTitle": "Ohio BMV - Driver License &amp; ID Cards",
+   "link": "https://www.bmv.ohio.gov/dl-identity-documents.aspx",
+   "displayLink": "www.bmv.ohio.gov",
+   "snippet": "Driver License & ID Cards, Ohio's Real ID, Ohio Mobile ID, First Issuance, Renewal, Reprint/Duplicate, Non-US Citizens, Commercial Driver \u2013 CDL, Motorcycle/\u00a0...",
+   "htmlSnippet": "Driver License &amp; ID Cards, Ohio&#39;s <b>Real ID</b>, Ohio Mobile ID, First Issuance, Renewal, Reprint/Duplicate, Non-US Citizens, Commercial Driver \u2013 CDL, Motorcycle/&nbsp;...",
+   "formattedUrl": "https://www.bmv.ohio.gov/dl-identity-documents.aspx",
+   "htmlFormattedUrl": "https://www.bmv.ohio.gov/dl-identity-documents.aspx",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ohio Mobile ID",
+   "htmlTitle": "Ohio Mobile ID",
+   "link": "https://www.bmv.ohio.gov/dl-mobile-id.aspx",
+   "displayLink": "www.bmv.ohio.gov",
+   "snippet": "Driver License & ID Cards. Ohio's Real ID Ohio Mobile ID First Issuance Renewal Reprint/Duplicate Non-U.S. Citizens Commercial Driver \u2013 CDL Motorcycle\u00a0...",
+   "htmlSnippet": "Driver License &amp; ID Cards. Ohio&#39;s <b>Real ID</b> Ohio Mobile ID First Issuance Renewal Reprint/Duplicate Non-U.S. Citizens Commercial Driver \u2013 CDL Motorcycle&nbsp;...",
+   "formattedUrl": "https://www.bmv.ohio.gov/dl-mobile-id.aspx",
+   "htmlFormattedUrl": "https://www.bmv.ohio.gov/dl-mobile-id.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXfJhfZU-x9NOrSz_8Hf60yl8nIvYPMHnC-abc2y6Tav08-cR-ygj7zaWn&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "http://www.bmv.ohio.gov/img/Apple_Wallet-App-Icon.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ohio BMV - Driver License & ID Cards",
+   "htmlTitle": "Ohio BMV - Driver License &amp; ID Cards",
+   "link": "https://www.bmv.ohio.gov/dl-renewal-current.aspx",
+   "displayLink": "www.bmv.ohio.gov",
+   "snippet": "Ohio's Real ID. Driver License & ID Cards. Ohio's Real ID Ohio Mobile ID First Issuance Renewal Reprint/Duplicate Non-U.S. Citizens Commercial Driver \u2013 CDL\u00a0...",
+   "htmlSnippet": "Ohio&#39;s <b>Real ID</b>. Driver License &amp; ID Cards. Ohio&#39;s <b>Real ID</b> Ohio Mobile ID First Issuance Renewal Reprint/Duplicate Non-U.S. Citizens Commercial Driver \u2013 CDL&nbsp;...",
+   "formattedUrl": "https://www.bmv.ohio.gov/dl-renewal-current.aspx",
+   "htmlFormattedUrl": "https://www.bmv.ohio.gov/dl-renewal-current.aspx",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ohio driver license",
+   "htmlTitle": "Ohio driver license",
+   "link": "https://www.bmv.ohio.gov/dl-non-permanent-resident.aspx",
+   "displayLink": "www.bmv.ohio.gov",
+   "snippet": "Driver License & ID Cards. Ohio's Real ID Ohio Mobile ID First Issuance Renewal Reprint/Duplicate Non-U.S. Citizens Commercial Driver \u2013 CDL Motorcycle\u00a0...",
+   "htmlSnippet": "Driver License &amp; ID Cards. Ohio&#39;s <b>Real ID</b> Ohio Mobile ID First Issuance Renewal Reprint/Duplicate Non-U.S. Citizens Commercial Driver \u2013 CDL Motorcycle&nbsp;...",
+   "formattedUrl": "https://www.bmv.ohio.gov/dl-non-permanent-resident.aspx",
+   "htmlFormattedUrl": "https://www.bmv.ohio.gov/dl-non-permanent-resident.aspx",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver License & ID Cards",
+   "htmlTitle": "Driver License &amp; ID Cards",
+   "link": "https://www.bmv.ohio.gov/dl-other-living-will.aspx",
+   "displayLink": "www.bmv.ohio.gov",
+   "snippet": "Driver License & ID Cards, Ohio's Real ID, Ohio Mobile ID, First Issuance, Renewal, Reprint/Duplicate, Non-US Citizens, Commercial Driver \u2013 CDL, Motorcycle/\u00a0...",
+   "htmlSnippet": "Driver License &amp; ID Cards, Ohio&#39;s <b>Real ID</b>, Ohio Mobile ID, First Issuance, Renewal, Reprint/Duplicate, Non-US Citizens, Commercial Driver \u2013 CDL, Motorcycle/&nbsp;...",
+   "formattedUrl": "https://www.bmv.ohio.gov/dl-other-living-will.aspx",
+   "htmlFormattedUrl": "https://www.bmv.ohio.gov/dl-other-living-will.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCORH8EsPv1AybSgsCmEZkr8bnHGL9wJu7Uo-_EaCLCiu_IT62UGiVusYJ&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://i.ytimg.com/vi/mAE8XjOr8eA/maxresdefault.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ohio BMV",
+   "htmlTitle": "Ohio BMV",
+   "link": "https://www.bmv.ohio.gov/driver-license.aspx",
+   "displayLink": "www.bmv.ohio.gov",
+   "snippet": "Driver License & ID Cards / Ohio's Real ID, Ohio Mobile ID, First Issuance, Driver License Renewal, Reprint/ Duplicate, Non-US Citizens, Commercial Driver \u2013 CDL",
+   "htmlSnippet": "Driver License &amp; ID Cards / Ohio&#39;s <b>Real ID</b>, Ohio Mobile ID, First Issuance, Driver License Renewal, Reprint/ Duplicate, Non-US Citizens, Commercial Driver \u2013 CDL",
+   "formattedUrl": "https://www.bmv.ohio.gov/driver-license.aspx",
+   "htmlFormattedUrl": "https://www.bmv.ohio.gov/driver-license.aspx",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "New Ohio Residents",
+   "htmlTitle": "New Ohio Residents",
+   "link": "https://www.bmv.ohio.gov/new-to-ohio.aspx",
+   "displayLink": "www.bmv.ohio.gov",
+   "snippet": "Official Website of the State of Ohio. Related Links. Ohio's Real ID Acceptable Documents How to Title New Vehicle Registration Fees Forms. Contact Information.",
+   "htmlSnippet": "Official Website of the State of Ohio. Related Links. Ohio&#39;s <b>Real ID</b> Acceptable Documents How to Title New Vehicle Registration Fees Forms. Contact Information.",
+   "formattedUrl": "https://www.bmv.ohio.gov/new-to-ohio.aspx",
+   "htmlFormattedUrl": "https://www.bmv.ohio.gov/new-to-ohio.aspx",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ohio BMV Sample Knowledge Test",
+   "htmlTitle": "Ohio BMV Sample Knowledge Test",
+   "link": "https://www.bmv.ohio.gov/dl-sample-test.aspx",
+   "displayLink": "www.bmv.ohio.gov",
+   "snippet": "Driver License & ID Cards, Ohio's Real ID, Ohio Mobile ID, First Issuance, Renewal, Reprint/Duplicate, Non-US Citizens, Commercial Driver \u2013 CDL, Motorcycle/\u00a0...",
+   "htmlSnippet": "Driver License &amp; ID Cards, Ohio&#39;s <b>Real ID</b>, Ohio Mobile ID, First Issuance, Renewal, Reprint/Duplicate, Non-US Citizens, Commercial Driver \u2013 CDL, Motorcycle/&nbsp;...",
+   "formattedUrl": "https://www.bmv.ohio.gov/dl-sample-test.aspx",
+   "htmlFormattedUrl": "https://www.bmv.ohio.gov/dl-sample-test.aspx",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ohio Driver's License",
+   "htmlTitle": "Ohio Driver&#39;s License",
+   "link": "https://www.bmv.ohio.gov/dl-gdl.aspx",
+   "displayLink": "www.bmv.ohio.gov",
+   "snippet": "Driver License & ID Cards. Ohio's Real ID Ohio Mobile ID First Issuance Renewal Reprint/Duplicate Non-U.S. Citizens Commercial Driver \u2013 CDL Motorcycle\u00a0...",
+   "htmlSnippet": "Driver License &amp; ID Cards. Ohio&#39;s <b>Real ID</b> Ohio Mobile ID First Issuance Renewal Reprint/Duplicate Non-U.S. Citizens Commercial Driver \u2013 CDL Motorcycle&nbsp;...",
+   "formattedUrl": "https://www.bmv.ohio.gov/dl-gdl.aspx",
+   "htmlFormattedUrl": "https://www.bmv.ohio.gov/dl-gdl.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn_kY5IXD-4tMR8YzflUfBkyJ6w3DO3xPI-hL-7ASejsO-tYU1ulZRjSKn&s",
+      "width": "265",
+      "height": "144"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.bmv.ohio.gov/img/bmv_maneuv_diagram.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

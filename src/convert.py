@@ -2,10 +2,15 @@
 import os, sys
 import json, csv, re
 
-QUERIES_PATH = os.getenv('QUERIES_PATH')
-STATES_PATH = os.getenv('STATES_PATH')
-QUERIES_CONVERT = os.getenv('QUERIES_CONVERT')
-STATES_CONVERT = os.getenv('STATES_CONVERT')
+if os.getenv("USE_TMP"):
+    QUERIES_PATH = os.getenv('TMP_QUERIES_PATH') or os.getenv('QUERIES_PATH')
+    STATES_PATH = os.getenv('TMP_STATES_PATH') or os.getenv('STATES_PATH')
+    QUERIES_CONVERT = os.getenv('TMP_QUERIES_CONVERT') or os.getenv('QUERIES_CONVERT')
+    STATES_CONVERT = os.getenv('TMP_STATES_CONVERT') or os.getenv('STATES_CONVERT')
+else:
+    QUERIES_PATH = os.getenv('QUERIES_PATH')
+    STATES_PATH = os.getenv('STATES_PATH')
+    RESULTS_PATH = os.getenv('RESULTS_PATH')
 
 def clean(text):
     text = text.replace("\u2019", "'")

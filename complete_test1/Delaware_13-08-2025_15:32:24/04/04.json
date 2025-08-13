@@ -1,0 +1,284 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://dmv.de.gov/ \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "6",
+    "searchTerms": "site:https://dmv.de.gov/ \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 6,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.100811,
+  "formattedSearchTime": "0.10",
+  "totalResults": "6",
+  "formattedTotalResults": "6"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile ID - Division of Motor Vehicles",
+   "htmlTitle": "<b>Mobile ID</b> - Division of Motor Vehicles",
+   "link": "https://dmv.de.gov/mobileID/",
+   "displayLink": "dmv.de.gov",
+   "snippet": "Mobile ID, Division of Motor Vehicles, Delaware. ... Vendors can accept the Mobile ID with confidence, as information on the digital ID\u00a0...",
+   "htmlSnippet": "<b>Mobile ID</b>, Division of Motor Vehicles, Delaware. ... Vendors can accept the <b>Mobile ID</b> with confidence, as information on the <b>digital ID</b>&nbsp;...",
+   "formattedUrl": "https://dmv.de.gov/mobileID/",
+   "htmlFormattedUrl": "https://dmv.de.gov/<b>mobileID</b>/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7v29_OtCarXbOfq5dROQ2T4acZv-R9Bi2QZy_3koeRjKSr33ho18ZzaI&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffffff",
+      "og:image": "https://dmv.de.gov/CLF4/agency/img/logo/agencyLogoCircle.svg",
+      "og:type": "website",
+      "twitter:card": "summary",
+      "twitter:title": "Mobile ID",
+      "theme-color": "#ffffff",
+      "og:site_name": "Division of Motor Vehicles",
+      "author": "The State of Delaware - Division of Motor Vehicles",
+      "og:title": "Mobile ID",
+      "msapplication-tileimage": "/CLF4/agency/img/ms-icon-144x144.png",
+      "twitter:image": "https://dmv.de.gov/CLF4/agency/img/logo/agencyLogoCircle.svg",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:locale": "en_US",
+      "og:url": "https://dmv.de.gov/mobileID/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.de.gov/CLF4/agency/img/logo/agencyLogoCircle.svg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Frequently Asked Questions",
+   "htmlTitle": "Frequently Asked Questions",
+   "link": "https://dmv.de.gov/mobileID/pdfs/DE_EDITS_Frequently%20Asked%20Questions.pdf",
+   "displayLink": "dmv.de.gov",
+   "snippet": "Mobile ID is a secure, digitized version of your driver license or identification card that you carry in an app on your smartphone.",
+   "htmlSnippet": "<b>Mobile ID</b> is a secure, digitized version of your driver license or identification card that you carry in an app on your smartphone.",
+   "formattedUrl": "https://dmv.de.gov/mobileID/.../DE_EDITS_Frequently%20Asked%20Que...",
+   "htmlFormattedUrl": "https://dmv.de.gov/<b>mobileID</b>/.../DE_EDITS_Frequently%20Asked%20Que...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv7Ek5OrOoI79VcZvyWgo81_UlgpFHVpLUh-54sX2A2oALvaPsGqwEvrm7&s",
+      "width": "261",
+      "height": "193"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20210304133336Z00'00'",
+      "creator": "Word",
+      "creationdate": "D:20210304133336Z00'00'",
+      "producer": "macOS Version 10.16 (Build 20D74) Quartz PDFContext",
+      "title": "Microsoft Word - DE_EDITS_Frequently Asked Questions.docx"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///f6608784149857428395ac4e45e3b7c2b8dbad8427d4de93d11a19b7ffa11683"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Programs - Division of Motor Vehicles",
+   "htmlTitle": "Programs - Division of Motor Vehicles",
+   "link": "https://dmv.de.gov/Programs/index.shtml",
+   "displayLink": "dmv.de.gov",
+   "snippet": "Program Listing. Programs; Mobile ID \u00b7 Medical Indicator \u00b7 New to Delaware \u00b7 Organ Donor Program \u00b7 Plan & Scan \u00b7 Red Light Safety Program \u00b7 Senior Driving\u00a0...",
+   "htmlSnippet": "Program Listing. Programs; <b>Mobile ID</b> &middot; Medical Indicator &middot; New to Delaware &middot; Organ Donor Program &middot; Plan &amp; Scan &middot; Red Light Safety Program &middot; Senior Driving&nbsp;...",
+   "formattedUrl": "https://dmv.de.gov/Programs/index.shtml",
+   "htmlFormattedUrl": "https://dmv.de.gov/Programs/index.shtml",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7v29_OtCarXbOfq5dROQ2T4acZv-R9Bi2QZy_3koeRjKSr33ho18ZzaI&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffffff",
+      "og:image": "https://dmv.de.gov/CLF4/agency/img/logo/agencyLogoCircle.svg",
+      "og:type": "website",
+      "twitter:card": "summary",
+      "twitter:title": "Programs",
+      "theme-color": "#ffffff",
+      "og:site_name": "Division of Motor Vehicles",
+      "author": "The State of Delaware - Division of Motor Vehicles",
+      "og:title": "Programs",
+      "msapplication-tileimage": "/CLF4/agency/img/ms-icon-144x144.png",
+      "twitter:image": "https://dmv.de.gov/CLF4/agency/img/logo/agencyLogoCircle.svg",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:locale": "en_US",
+      "og:url": "https://dmv.de.gov/Programs/index.shtml"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.de.gov/CLF4/agency/img/logo/agencyLogoCircle.svg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver Services - Division of Motor Vehicles",
+   "htmlTitle": "Driver Services - Division of Motor Vehicles",
+   "link": "https://dmv.de.gov/DriverServices/index.shtml",
+   "displayLink": "dmv.de.gov",
+   "snippet": "Driver Improvement; Driving Under the Influence \u00b7 License Revocations \u00b7 License Suspensions \u00b7 Medical Program; Driver License/ID Cards; Mobile ID \u00b7 Medical\u00a0...",
+   "htmlSnippet": "Driver Improvement; Driving Under the Influence &middot; License Revocations &middot; License Suspensions &middot; Medical Program; Driver License/ID Cards; <b>Mobile ID</b> &middot; Medical&nbsp;...",
+   "formattedUrl": "https://dmv.de.gov/DriverServices/index.shtml",
+   "htmlFormattedUrl": "https://dmv.de.gov/DriverServices/index.shtml",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7v29_OtCarXbOfq5dROQ2T4acZv-R9Bi2QZy_3koeRjKSr33ho18ZzaI&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffffff",
+      "og:image": "https://dmv.de.gov/CLF4/agency/img/logo/agencyLogoCircle.svg",
+      "og:type": "website",
+      "twitter:card": "summary",
+      "twitter:title": "Driver Services",
+      "theme-color": "#ffffff",
+      "og:site_name": "Division of Motor Vehicles",
+      "author": "The State of Delaware - Division of Motor Vehicles",
+      "og:title": "Driver Services",
+      "msapplication-tileimage": "/CLF4/agency/img/ms-icon-144x144.png",
+      "twitter:image": "https://dmv.de.gov/CLF4/agency/img/logo/agencyLogoCircle.svg",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:locale": "en_US",
+      "og:url": "https://dmv.de.gov/DriverServices/index.shtml"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.de.gov/CLF4/agency/img/logo/agencyLogoCircle.svg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Online Services - Division of Motor Vehicles",
+   "htmlTitle": "Online Services - Division of Motor Vehicles",
+   "link": "https://dmv.de.gov/OnlineServices/index.shtml",
+   "displayLink": "dmv.de.gov",
+   "snippet": "Important Message from Delaware Division of Motor Vehicles ... DMV and E-ZPass DE will NEVER contact you by text to CLICK A LINK TO MAKE A PAYMENT. We only send\u00a0...",
+   "htmlSnippet": "Important Message from Delaware Division of Motor Vehicles ... DMV and E-ZPass DE will NEVER contact you by text to CLICK A LINK TO MAKE A PAYMENT. We only send&nbsp;...",
+   "formattedUrl": "https://dmv.de.gov/OnlineServices/index.shtml",
+   "htmlFormattedUrl": "https://dmv.de.gov/OnlineServices/index.shtml",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7v29_OtCarXbOfq5dROQ2T4acZv-R9Bi2QZy_3koeRjKSr33ho18ZzaI&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffffff",
+      "og:image": "https://dmv.de.gov/CLF4/agency/img/logo/agencyLogoCircle.svg",
+      "og:type": "website",
+      "twitter:card": "summary",
+      "twitter:title": "Online Services",
+      "theme-color": "#ffffff",
+      "og:site_name": "Division of Motor Vehicles",
+      "author": "The State of Delaware - Division of Motor Vehicles",
+      "og:title": "Online Services",
+      "msapplication-tileimage": "/CLF4/agency/img/ms-icon-144x144.png",
+      "twitter:image": "https://dmv.de.gov/CLF4/agency/img/logo/agencyLogoCircle.svg",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:locale": "en_US",
+      "og:url": "https://dmv.de.gov/OnlineServices/index.shtml"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.de.gov/CLF4/agency/img/logo/agencyLogoCircle.svg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver Improvement - Division of Motor Vehicles",
+   "htmlTitle": "Driver Improvement - Division of Motor Vehicles",
+   "link": "https://dmv.de.gov/DriverServices/driver_improvement/index.shtml?dc=dr_di_medical",
+   "displayLink": "dmv.de.gov",
+   "snippet": "When applying for or renewing a Delaware driver license, the applicant will be required to self-declare, report, or show certification concerning any medical\u00a0...",
+   "htmlSnippet": "When applying for or renewing a Delaware driver license, the applicant will be required to self-declare, report, or show certification concerning any medical&nbsp;...",
+   "formattedUrl": "https://dmv.de.gov/DriverServices/driver_improvement/index.shtml?dc...",
+   "htmlFormattedUrl": "https://dmv.de.gov/DriverServices/driver_improvement/index.shtml?dc...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7v29_OtCarXbOfq5dROQ2T4acZv-R9Bi2QZy_3koeRjKSr33ho18ZzaI&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffffff",
+      "og:image": "https://dmv.de.gov/CLF4/agency/img/logo/agencyLogoCircle.svg",
+      "og:type": "website",
+      "twitter:card": "summary",
+      "twitter:title": "Driver Improvement",
+      "theme-color": "#ffffff",
+      "og:site_name": "Division of Motor Vehicles",
+      "author": "The State of Delaware - Division of Motor Vehicles",
+      "og:title": "Driver Improvement",
+      "msapplication-tileimage": "/CLF4/agency/img/ms-icon-144x144.png",
+      "twitter:image": "https://dmv.de.gov/CLF4/agency/img/logo/agencyLogoCircle.svg",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:locale": "en_US",
+      "og:url": "https://dmv.de.gov/DriverServices/driver_improvement/index.shtml?dc=dr_di_medical"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.de.gov/CLF4/agency/img/logo/agencyLogoCircle.svg"
+     }
+    ]
+   }
+  }
+ ]
+}

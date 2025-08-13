@@ -1,0 +1,334 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://dmv.colorado.gov/ \"REAL ID\"",
+    "totalResults": "48",
+    "searchTerms": "site:https://dmv.colorado.gov/ \"REAL ID\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://dmv.colorado.gov/ \"REAL ID\"",
+    "totalResults": "48",
+    "searchTerms": "site:https://dmv.colorado.gov/ \"REAL ID\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.111263,
+  "formattedSearchTime": "0.11",
+  "totalResults": "48",
+  "formattedTotalResults": "48"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "REAL ID and Colorado | Department of Revenue - Motor Vehicle",
+   "htmlTitle": "<b>REAL ID</b> and Colorado | Department of Revenue - Motor Vehicle",
+   "link": "https://dmv.colorado.gov/real-id-and-colorado",
+   "displayLink": "dmv.colorado.gov",
+   "snippet": "Having a REAL ID compliant driver license or ID card will be necessary to board commercial aircraft or gain access to federal facilities. To be considered REAL\u00a0...",
+   "htmlSnippet": "Having a <b>REAL ID</b> compliant driver license or ID card will be necessary to board commercial aircraft or gain access to federal facilities. To be considered <b>REAL</b>&nbsp;...",
+   "formattedUrl": "https://dmv.colorado.gov/real-id-and-colorado",
+   "htmlFormattedUrl": "https://dmv.colorado.gov/<b>real-id</b>-and-colorado",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT94Ihoju1tXHfyWaoVA-YgB1hY24kGgirezE8SjFfN55y72OCGY-AtkdAM&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "WebPage": [
+     {
+      "name": "REAL ID and Colorado",
+      "text": "REAL ID ComplianceWho is eligible and who is not eligible for a REAL ID in Colorado?Eligible for REAL ID: Colorado residents who are eligible for a federally compliant REAL ID will be issued..."
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.colorado.gov/sites/dmv/files/inline-images/REAL%20ID%20.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Getting a Colorado Driver License or ID: Required Documents you ...",
+   "htmlTitle": "Getting a Colorado Driver License or ID: Required Documents you ...",
+   "link": "https://dmv.colorado.gov/documents",
+   "displayLink": "dmv.colorado.gov",
+   "snippet": "This guide outlines the documents you must bring when applying for a Colorado driver license or ID card. Click here to learn about REAL ID requirements.",
+   "htmlSnippet": "This guide outlines the documents you must bring when applying for a Colorado driver license or ID card. Click here to learn about <b>REAL ID</b> requirements.",
+   "formattedUrl": "https://dmv.colorado.gov/documents",
+   "htmlFormattedUrl": "https://dmv.colorado.gov/documents",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROHAA4irwIr0sCOLDyj-uLnIHgOQdillTI6g4GAMk2cK1YWeHpKM4Xj_Y&s",
+      "width": "394",
+      "height": "128"
+     }
+    ],
+    "WebPage": [
+     {
+      "name": "Getting a Colorado Driver License or ID: Required Documents you Need to Bring"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.colorado.gov/sites/dmv/files/inline-images/Requirements%20Page%20Image_edited.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Iconic Credential | Department of Revenue - Motor Vehicle",
+   "htmlTitle": "The Iconic Credential | Department of Revenue - Motor Vehicle",
+   "link": "https://dmv.colorado.gov/newcard",
+   "displayLink": "dmv.colorado.gov",
+   "snippet": "Card will not have a star indicating REAL ID compliance. Front and Back of Colorado REAL ID Under 21\u00a0...",
+   "htmlSnippet": "Card will not have a star indicating <b>REAL ID</b> compliance. Front and Back of Colorado <b>REAL ID</b> Under 21&nbsp;...",
+   "formattedUrl": "https://dmv.colorado.gov/newcard",
+   "htmlFormattedUrl": "https://dmv.colorado.gov/newcard",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Standard Licenses and IDs | Department of Revenue - Motor Vehicle",
+   "htmlTitle": "Standard Licenses and IDs | Department of Revenue - Motor Vehicle",
+   "link": "https://dmv.colorado.gov/drivers/standard-license-and-ID-cards",
+   "displayLink": "dmv.colorado.gov",
+   "snippet": "Effective March 31, 2025, Senate Bill 24-182 updated issuance requirements for undocumented Colorado residents to obtain a non-Real ID compliant SB251\u00a0...",
+   "htmlSnippet": "Effective March 31, 2025, Senate Bill 24-182 updated issuance requirements for undocumented Colorado residents to obtain a non-<b>Real ID</b> compliant SB251&nbsp;...",
+   "formattedUrl": "https://dmv.colorado.gov/drivers/standard-license-and-ID-cards",
+   "htmlFormattedUrl": "https://dmv.colorado.gov/drivers/standard-license-and-ID-cards",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaHhQ7rzVgCTNKhUpYsO4IviGHERVUhz83O8VgVqPC9Ue1EEsmXYpaFDM&s",
+      "width": "403",
+      "height": "125"
+     }
+    ],
+    "WebPage": [
+     {
+      "name": "Standard Licenses and IDs",
+      "text": "<< Return to Drivers Homepage"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.colorado.gov/sites/dmv/files/styles/flexslider_full/public/DMV-Anywhere-Email-Banner%20%281%29.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Colorado is REAL ID Ready | Department of Revenue - Motor Vehicle",
+   "htmlTitle": "Colorado is <b>REAL ID</b> Ready | Department of Revenue - Motor Vehicle",
+   "link": "https://dmv.colorado.gov/press-release/colorado-is-real-id-ready",
+   "displayLink": "dmv.colorado.gov",
+   "snippet": "May 7, 2025 ... the state is more than ready, with 96% of all driver licenses and identification cards (IDs) issued in Colorado being REAL ID-compliant \u2014 one of\u00a0...",
+   "htmlSnippet": "May 7, 2025 <b>...</b> the state is more than ready, with 96% of all driver licenses and identification cards (IDs) issued in Colorado being <b>REAL ID</b>-compliant \u2014 one of&nbsp;...",
+   "formattedUrl": "https://dmv.colorado.gov/press-release/colorado-is-real-id-ready",
+   "htmlFormattedUrl": "https://dmv.colorado.gov/press-release/colorado-is-<b>real-id</b>-ready",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Appointment Scheduling | Department of Revenue - Motor Vehicle",
+   "htmlTitle": "Appointment Scheduling | Department of Revenue - Motor Vehicle",
+   "link": "https://dmv.colorado.gov/AppointmentScheduling",
+   "displayLink": "dmv.colorado.gov",
+   "snippet": "Do you have everything you need for your Appointment? U.S. Citizens, CDL, Permanent Residents. To learn more about who is eligible for REAL ID credentials,\u00a0...",
+   "htmlSnippet": "Do you have everything you need for your Appointment? U.S. Citizens, CDL, Permanent Residents. To learn more about who is eligible for <b>REAL ID</b> credentials,&nbsp;...",
+   "formattedUrl": "https://dmv.colorado.gov/AppointmentScheduling",
+   "htmlFormattedUrl": "https://dmv.colorado.gov/AppointmentScheduling",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToJOu0uBt7PjqfcyXxchg9aKfhGiQMaIHhwDxMr-juFcjSOlpFriRgkgo&s",
+      "width": "367",
+      "height": "137"
+     }
+    ],
+    "WebPage": [
+     {
+      "name": "Appointment Scheduling",
+      "text": "Welcome to the Colorado Division of Motor Vehicles Appointment SchedulerThis page helps you schedule a time to visit the DMV or find things you can do online. It has links to make appointments,..."
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.colorado.gov/sites/dmv/files/styles/flexslider_full/public/dmv_schedule_appt_button_click_here_0.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "State DMV fees | Department of Revenue - Motor Vehicle",
+   "htmlTitle": "State DMV fees | Department of Revenue - Motor Vehicle",
+   "link": "https://dmv.colorado.gov/state-dmv-fees",
+   "displayLink": "dmv.colorado.gov",
+   "snippet": "An individual of any age whose driver license has been lost, stolen, or destroyed is eligible to receive a duplicate. REAL ID License/ID Fees. Activity, Fee.",
+   "htmlSnippet": "An individual of any age whose driver license has been lost, stolen, or destroyed is eligible to receive a duplicate. <b>REAL ID</b> License/ID Fees. Activity, Fee.",
+   "formattedUrl": "https://dmv.colorado.gov/state-dmv-fees",
+   "htmlFormattedUrl": "https://dmv.colorado.gov/state-dmv-fees",
+   "pagemap": {
+    "WebPage": [
+     {
+      "name": "State DMV fees",
+      "text": "Fees are established by the legislature or promulgated in rule.State driver license offices accept the following forms of payment:CashCheck (made payable to DOR)Credit Card: Visa, MasterCard,..."
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Welcome to Colorado | Department of Revenue - Motor Vehicle",
+   "htmlTitle": "Welcome to Colorado | Department of Revenue - Motor Vehicle",
+   "link": "https://dmv.colorado.gov/new-to-colorado",
+   "displayLink": "dmv.colorado.gov",
+   "snippet": "Residency Requirements \u00b7 You are considered a Colorado resident if you: \u00b7 After establishing residency, you must: \u00b7 REAL ID Colorado: \u00b7 New Residents with Valid Out\u00a0...",
+   "htmlSnippet": "Residency Requirements &middot; You are considered a Colorado resident if you: &middot; After establishing residency, you must: &middot; <b>REAL ID</b> Colorado: &middot; New Residents with Valid Out&nbsp;...",
+   "formattedUrl": "https://dmv.colorado.gov/new-to-colorado",
+   "htmlFormattedUrl": "https://dmv.colorado.gov/new-to-colorado",
+   "pagemap": {
+    "WebPage": [
+     {
+      "name": "Welcome to Colorado"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Identification Cards | Department of Revenue - Motor Vehicle",
+   "htmlTitle": "Identification Cards | Department of Revenue - Motor Vehicle",
+   "link": "https://dmv.colorado.gov/identification-card",
+   "displayLink": "dmv.colorado.gov",
+   "snippet": "How the REAL ID Act affects you as a Colorado ID card holder. Identification Card General Information Schedule an Appointment Renew ID Card Office\u00a0...",
+   "htmlSnippet": "How the <b>REAL ID</b> Act affects you as a Colorado ID card holder. Identification Card General Information Schedule an Appointment Renew ID Card Office&nbsp;...",
+   "formattedUrl": "https://dmv.colorado.gov/identification-card",
+   "htmlFormattedUrl": "https://dmv.colorado.gov/identification-card",
+   "pagemap": {
+    "WebPage": [
+     {
+      "name": "Identification Cards",
+      "text": "How the REAL ID Act affects you as a Colorado ID card holder. Identification Card General Information Schedule an Appointment Renew ID Card Office locations Replace Lost or Stolen ID Card Minors..."
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Home | Department of Revenue - Motor Vehicle",
+   "htmlTitle": "Home | Department of Revenue - Motor Vehicle",
+   "link": "https://dmv.colorado.gov/",
+   "displayLink": "dmv.colorado.gov",
+   "snippet": "More DMV Services ; Driver & ID Services. Change address \u00b7 Find my license or ID \u00b7 Learn about Real ID \u00b7 Learn about driver education ; Vehicle Services. Change\u00a0...",
+   "htmlSnippet": "More DMV Services ; Driver &amp; ID Services. Change address &middot; Find my license or ID &middot; Learn about <b>Real ID</b> &middot; Learn about driver education ; Vehicle Services. Change&nbsp;...",
+   "formattedUrl": "https://dmv.colorado.gov/",
+   "htmlFormattedUrl": "https://dmv.colorado.gov/",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,265 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://azdot.gov/mvd \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "7",
+    "searchTerms": "site:https://azdot.gov/mvd \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 7,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.104275,
+  "formattedSearchTime": "0.10",
+  "totalResults": "7",
+  "formattedTotalResults": "7"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Mobile Driver License (mDL)",
+   "htmlTitle": "Arizona Mobile Driver License (<b>mDL</b>)",
+   "link": "https://azdot.gov/mvd/mobile-driver-license",
+   "displayLink": "azdot.gov",
+   "snippet": "Arizona Digital ID for Apple Wallet, Google Wallet and Arizona Mobile ID.",
+   "htmlSnippet": "Arizona <b>Digital ID</b> for Apple Wallet, Google Wallet and Arizona <b>Mobile ID</b>.",
+   "formattedUrl": "https://azdot.gov/mvd/mobile-driver-license",
+   "htmlFormattedUrl": "https://azdot.gov/mvd/mobile-driver-license",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCSgChPV24wsDfADWQtFVphiTZUE39APsarNMLQu4cVEasEuYnWcG67FPc&s",
+      "width": "179",
+      "height": "166"
+     }
+    ],
+    "WebPage": [
+     {
+      "name": "Mobile Driver License"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://azdot.gov/sites/default/files/styles/medium/public/2024-07/app-icon-Apple-Wallet.png?itok=WeugVYWN"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver Services | Department of Transportation",
+   "htmlTitle": "Driver Services | Department of Transportation",
+   "link": "https://azdot.gov/mvd/services/driver-services",
+   "displayLink": "azdot.gov",
+   "snippet": "Arizona Digital ID for Apple Wallet, Google Wallet and Arizona Mobile ID. LEARN MORE \u00b7 Commercial trucks. Commercial Driver License (CDL). This page contains\u00a0...",
+   "htmlSnippet": "Arizona <b>Digital ID</b> for Apple Wallet, Google Wallet and Arizona <b>Mobile ID</b>. LEARN MORE &middot; Commercial trucks. Commercial Driver License (CDL). This page contains&nbsp;...",
+   "formattedUrl": "https://azdot.gov/mvd/services/driver-services",
+   "htmlFormattedUrl": "https://azdot.gov/mvd/services/driver-services",
+   "pagemap": {
+    "WebPage": [
+     {
+      "text": "The written test for a regular driver license consists of 30 multiple-choice questions."
+     },
+     {
+      "text": "The Arizona Travel Driver License is accepted at airport security checkpoints and federal facilities."
+     },
+     {
+      "text": "Apply for a Travel ID Current Arizona residents: Visit AZ MVD Now."
+     },
+     {
+      "text": "Arizona Digital ID for Apple Wallet, Google Wallet and Arizona Mobile ID."
+     },
+     {
+      "text": "This page contains information on testing times, locations and contact information for CDL activities throughout the state."
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver Services | Department of Transportation",
+   "htmlTitle": "Driver Services | Department of Transportation",
+   "link": "https://azdot.gov/mvd/services/driver-services?page=2",
+   "displayLink": "azdot.gov",
+   "snippet": "Mobile ID. The Arizona Mobile ID (mID) is a voluntary, secure, digitized version of your ADOT MVD-issued driver license. LEARN MORE \u00b7 Blue Envelope graphic\u00a0...",
+   "htmlSnippet": "<b>Mobile ID</b>. The Arizona <b>Mobile ID</b> (mID) is a voluntary, secure, digitized version of your ADOT MVD-issued driver license. LEARN MORE &middot; Blue Envelope graphic&nbsp;...",
+   "formattedUrl": "https://azdot.gov/mvd/services/driver-services?page=2",
+   "htmlFormattedUrl": "https://azdot.gov/mvd/services/driver-services?page=2",
+   "pagemap": {
+    "WebPage": [
+     {
+      "text": "The organ donor program offers life to thousands of people. If you would like an organ and tissue donor designation on your driver license or identification card, you may apply online at AZMVDNow.g..."
+     },
+     {
+      "text": "A motor vehicle record (MVR) is the printout of a driving or vehicle record."
+     },
+     {
+      "text": "If your Arizona Driver License is due for renewal, you can renew online in most cases."
+     },
+     {
+      "text": "Federal law requires that every male United States citizen and male alien residing in the United States or its territories must register with the U.S. Selective Service System within 30 days..."
+     },
+     {
+      "text": "The Arizona Mobile ID (mID) is a voluntary, secure, digitized version of your ADOT MVD-issued driver license."
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MVD Services | Department of Transportation",
+   "htmlTitle": "MVD Services | Department of Transportation",
+   "link": "https://azdot.gov/mvd/services",
+   "displayLink": "azdot.gov",
+   "snippet": "Mobile ID \u00b7 AZ Mobile ID \u00b7 Blue Envelope Program for Autistic Drivers \u00b7 Blue Envelope graphic. Next. VIEW ALL DRIVER SERVICES. Arizona Motor Vehicle Division (\u00a0...",
+   "htmlSnippet": "<b>Mobile ID</b> &middot; AZ <b>Mobile ID</b> &middot; Blue Envelope Program for Autistic Drivers &middot; Blue Envelope graphic. Next. VIEW ALL DRIVER SERVICES. Arizona Motor Vehicle Division (&nbsp;...",
+   "formattedUrl": "https://azdot.gov/mvd/services",
+   "htmlFormattedUrl": "https://azdot.gov/mvd/services",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNI8OsR5SgPSyfpUmbgLjxqBIwv_CjN-cl3TVe9HrgJvFfP03IYNRqdW8&s",
+      "width": "200",
+      "height": "252"
+     }
+    ],
+    "WebPage": [
+     {
+      "name": "MVD Services"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://azdot.gov/sites/default/files/styles/scale_5x7/public/2023-03/Driver-License-2023-SAMPLE-top.jpg?itok=7ju5BeqW"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MVD | Department of Transportation",
+   "htmlTitle": "MVD | Department of Transportation",
+   "link": "https://azdot.gov/mvd",
+   "displayLink": "azdot.gov",
+   "snippet": "Securely add your Arizona Driver's License or Identification card to your phone's digital wallet, including Apple Wallet, Google Wallet, and Arizona Mobile ID.",
+   "htmlSnippet": "Securely add your Arizona Driver&#39;s License or Identification card to your phone&#39;s digital wallet, including Apple Wallet, Google Wallet, and Arizona <b>Mobile ID</b>.",
+   "formattedUrl": "https://azdot.gov/mvd",
+   "htmlFormattedUrl": "https://azdot.gov/mvd",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXJUJbKRPjmXzm6xHvxxanqKxoedMQh4-I5J9tcoIMC8tXwwByV7PmetI&s",
+      "width": "379",
+      "height": "133"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://azdot.gov/sites/default/files/2023-03/MVD-locations-map2-1.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Medical Certification (CDL) | Department of Transportation",
+   "htmlTitle": "Medical Certification (CDL) | Department of Transportation",
+   "link": "https://azdot.gov/mvd/services/driver-services/commercial-driver-license/medical-certification-cdl",
+   "displayLink": "azdot.gov",
+   "snippet": "To ensure that CDL drivers meet Federal Regulation 49 CFR 391.41 Physical Qualifications for Drivers and CFR 391.43, all commercial motor vehicle drivers must\u00a0...",
+   "htmlSnippet": "To ensure that CDL drivers meet Federal Regulation 49 CFR 391.41 Physical Qualifications for Drivers and CFR 391.43, all commercial motor vehicle drivers must&nbsp;...",
+   "formattedUrl": "https://azdot.gov/mvd/services/driver-services/.../medical-certification-cdl",
+   "htmlFormattedUrl": "https://azdot.gov/mvd/services/driver-services/.../medical-certification-cdl",
+   "pagemap": {
+    "WebPage": [
+     {
+      "name": "Medical Certification (CDL)",
+      "text": "Overview Verify CDL Medical Status To ensure that CDL drivers meet Federal Regulation 49 CFR 391.41 Physical Qualifications for Drivers and CFR 391.43, all commercial motor vehicle drivers..."
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Commercial Driver License (CDL) | Department of Transportation",
+   "htmlTitle": "Commercial Driver License (CDL) | Department of Transportation",
+   "link": "https://azdot.gov/mvd/services/driver-services/commercial-driver-license-cdl",
+   "displayLink": "azdot.gov",
+   "snippet": "This page contains information on testing times, locations and contact information for CDL activities throughout the state.",
+   "htmlSnippet": "This page contains information on testing times, locations and contact information for CDL activities throughout the state.",
+   "formattedUrl": "https://azdot.gov/mvd/services/driver.../commercial-driver-license-cdl",
+   "htmlFormattedUrl": "https://azdot.gov/mvd/services/driver.../commercial-driver-license-cdl",
+   "pagemap": {
+    "WebPage": [
+     {
+      "name": "Commercial Driver License (CDL)",
+      "text": "Steps to a First Time Commercial Driver License A guide to walk you through the step-by-step process and help you confidently navigate the requirements and procedures necessary for getting..."
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  }
+ ]
+}

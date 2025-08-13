@@ -1,0 +1,413 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Kansas\" \"privacy act\" OR \"privacy law\"",
+    "totalResults": "7370000",
+    "searchTerms": "\"Kansas\" \"privacy act\" OR \"privacy law\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Kansas\" \"privacy act\" OR \"privacy law\"",
+    "totalResults": "7370000",
+    "searchTerms": "\"Kansas\" \"privacy act\" OR \"privacy law\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.171497,
+  "formattedSearchTime": "0.17",
+  "totalResults": "7370000",
+  "formattedTotalResults": "7,370,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Kansas | Jurisdictions | DataGuidance",
+   "htmlTitle": "<b>Kansas</b> | Jurisdictions | DataGuidance",
+   "link": "https://www.dataguidance.com/jurisdictions/kansas",
+   "displayLink": "www.dataguidance.com",
+   "snippet": "Law: Please note this State does not have a general privacy law in effect ... Summary: Kansas does not currently have a general privacy act. However\u00a0...",
+   "htmlSnippet": "Law: Please note this State does not have a general <b>privacy law</b> in effect ... Summary: <b>Kansas</b> does not currently have a general <b>privacy act</b>. However&nbsp;...",
+   "formattedUrl": "https://www.dataguidance.com/jurisdictions/kansas",
+   "htmlFormattedUrl": "https://www.dataguidance.com/jurisdictions/<b>kansas</b>",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:type": "website",
+      "twitter:title": "Kansas | Jurisdictions | DataGuidance",
+      "twitter:card": "summary",
+      "og:site_name": "DataGuidance",
+      "twitter:url": "https://www.dataguidance.com/jurisdictions/kansas",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "Kansas | Jurisdictions | DataGuidance",
+      "og:url": "https://www.dataguidance.com/jurisdictions/kansas"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "KANSAS STUDENT DATA PRIVACY ACT",
+   "htmlTitle": "<b>KANSAS</b> STUDENT DATA <b>PRIVACY ACT</b>",
+   "link": "https://kslegislature.gov/li_2016/b2015_16/committees/ctte_s_ed_1/documents/testimony/20160128_09.pdf",
+   "displayLink": "kslegislature.gov",
+   "snippet": "KANSAS STUDENT DATA PRIVACY ACT. Article 62. - FEDERAL FUNDS. 72-6214. Federal laws and regulations; right of privacy policies; definitions. (a) As used in\u00a0...",
+   "htmlSnippet": "<b>KANSAS</b> STUDENT DATA <b>PRIVACY ACT</b>. Article 62. - FEDERAL FUNDS. 72-6214. Federal laws and regulations; right of privacy policies; definitions. (a) As used in&nbsp;...",
+   "formattedUrl": "https://kslegislature.gov/li_2016/b2015_16/...s.../20160128_09.pdf",
+   "htmlFormattedUrl": "https://kslegislature.gov/li_2016/b2015_16/...s.../20160128_09.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20160127230536-06'00'",
+      "creationdate": "D:20160127144053-06'00'",
+      "creator": "Microsoft\u00ae Word 2013",
+      "author": "Windows User",
+      "producer": "Microsoft\u00ae Word 2013"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Student Data Privacy Act; SB 367",
+   "htmlTitle": "Student Data <b>Privacy Act</b>; SB 367",
+   "link": "https://www.kslegislature.gov/li_2014/b2013_14/measures/documents/summary_sb_367_2014.pdf",
+   "displayLink": "www.kslegislature.gov",
+   "snippet": "SB 367 creates the Student Data Privacy Act (Act), which provides restrictions on what ... Requiring the Kansas Board of Regents, the State Board, the board of\u00a0...",
+   "htmlSnippet": "SB 367 creates the Student Data <b>Privacy Act</b> (Act), which provides restrictions on what ... Requiring the <b>Kansas</b> Board of Regents, the State Board, the board of&nbsp;...",
+   "formattedUrl": "https://www.kslegislature.gov/li_2014/...14/.../summary_sb_367_2014.pdf",
+   "htmlFormattedUrl": "https://www.kslegislature.gov/li_2014/...14/.../summary_sb_367_2014.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "Writer",
+      "creationdate": "D:20140729110422-05'00'",
+      "author": "ds_dorsey_martha_1",
+      "producer": "OpenOffice.org 3.1"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Kansas Data Protection Law - Centraleyes",
+   "htmlTitle": "<b>Kansas</b> Data Protection Law - Centraleyes",
+   "link": "https://www.centraleyes.com/privacy-laws/kansas/",
+   "displayLink": "www.centraleyes.com",
+   "snippet": "Kansas. Kansas Data Privacy Law. Status: No Comprehensive Bill Introduced Yet. Kansas does not have a comprehensive data protection law. Nor has it introduced\u00a0...",
+   "htmlSnippet": "<b>Kansas</b>. <b>Kansas</b> Data <b>Privacy Law</b>. Status: No Comprehensive Bill Introduced Yet. <b>Kansas</b> does not have a comprehensive data protection law. Nor has it introduced&nbsp;...",
+   "formattedUrl": "https://www.centraleyes.com/privacy-laws/kansas/",
+   "htmlFormattedUrl": "https://www.centraleyes.com/<b>privacy-law</b>s/<b>kansas</b>/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiRLJXPWEH57Et6-WkpyDV2nJ_ukvd3jVjqSovJ7V-k4CGOMXa5zkmZacA&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.centraleyes.com/wp-content/uploads/2022/08/url_image.png",
+      "og:type": "article",
+      "og:image:width": "2500",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Centraleyes",
+      "og:title": "Kansas Data Protection Law - Centraleyes",
+      "og:image:height": "1313",
+      "twitter:label1": "Est. reading time",
+      "og:image:type": "image/png",
+      "msapplication-tileimage": "https://www.centraleyes.com/wp-content/uploads/2021/07/cropped-centraleyes-favicon-270x270.png",
+      "og:description": "Kansas does not have a comprehensive data protection law. Nor has it introduced a new bill in 2023.",
+      "twitter:data1": "3 minutes",
+      "article:modified_time": "2023-12-21T10:48:29+00:00",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:locale": "en_US",
+      "og:url": "https://www.centraleyes.com/privacy-laws/kansas/",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.centraleyes.com/wp-content/uploads/2022/08/url_image.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "New Kansas privacy law crimps contact tracing for COVID-19 ...",
+   "htmlTitle": "New <b>Kansas privacy law</b> crimps contact tracing for COVID-19 ...",
+   "link": "https://kansasreflector.com/2020/07/28/new-kansas-privacy-law-crimps-contact-tracing-for-covid-19/",
+   "displayLink": "kansasreflector.com",
+   "snippet": "Jul 28, 2020 ... New Kansas privacy law crimps contact tracing for COVID-19. By: Tim ... He said the state's Contact Tracing Privacy Act, believed to\u00a0...",
+   "htmlSnippet": "Jul 28, 2020 <b>...</b> New <b>Kansas privacy law</b> crimps contact tracing for COVID-19. By: Tim ... He said the state&#39;s Contact Tracing <b>Privacy Act</b>, believed to&nbsp;...",
+   "formattedUrl": "https://kansasreflector.com/.../new-kansas-privacy-law-crimps-contact-traci...",
+   "htmlFormattedUrl": "https://<b>kansas</b>reflector.com/.../new-<b>kansas</b>-<b>privacy-law</b>-crimps-contact-traci...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfqqPZInFI9YiNY3CyzBAUoJ3oHXP80OuIjwJxYp44KUo0h1oTIqIsXek&s",
+      "width": "266",
+      "height": "190"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://kansasreflector.com/wp-content/uploads/2020/07/Lee-Norman-labcoat-crop.jpg",
+      "og:type": "article",
+      "article:published_time": "2020-07-28T15:42:36+00:00",
+      "twitter:card": "summary_large_image",
+      "og:image:width": "1496",
+      "og:site_name": "Kansas Reflector",
+      "author": "Tim Carpenter",
+      "og:title": "New Kansas privacy law crimps contact tracing for COVID-19 \u2022 Kansas Reflector",
+      "twitter:label1": "Written by",
+      "twitter:label2": "Est. reading time",
+      "msapplication-tileimage": "https://kansasreflector.com/wp-content/uploads/2020/07/cropped-Asset-42sm-270x270.png",
+      "og:description": "TOPEKA \u2014 The Shawnee County Health Department took the extraordinary step of issuing a public health advisory July 7 warning travelers COVID-19 cases had been linked to the restrooms and food court at an Interstate 70 service area. Given the steady flow of humanity through the rest stop east of Topeka from July 2 to [\u2026]",
+      "twitter:creator": "@timvcarpenter",
+      "article:publisher": "https://www.facebook.com/kansasreflector",
+      "twitter:data1": "Tim Carpenter",
+      "twitter:data2": "4 minutes",
+      "twitter:site": "@KansasReflector",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://kansasreflector.com/2020/07/28/new-kansas-privacy-law-crimps-contact-tracing-for-covid-19/",
+      "sn_version": "v1.86.4"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://kansasreflector.com/wp-content/uploads/2020/07/Lee-Norman-labcoat-crop.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "WAIVER AGREEMENT AND FBI PRIVACY ACT STATEMENT ...",
+   "htmlTitle": "WAIVER AGREEMENT AND FBI <b>PRIVACY ACT</b> STATEMENT ...",
+   "link": "https://www.kansas.gov/kbi/info/docs/pdf/Waiver%20and%20Privacy%20Form%2005.2018.pdf",
+   "displayLink": "www.kansas.gov",
+   "snippet": "Kansas and/or national criminal history records that may pertain to me. ... Pursuant to the. Federal Privacy Act of 1974 (5 USC 552a), the requesting agency\u00a0...",
+   "htmlSnippet": "<b>Kansas</b> and/or national criminal history records that may pertain to me. ... Pursuant to the. Federal <b>Privacy Act</b> of 1974 (5 USC 552a), the requesting agency&nbsp;...",
+   "formattedUrl": "https://www.kansas.gov/.../Waiver%20and%20Privacy%20Form%2005.20...",
+   "htmlFormattedUrl": "https://www.<b>kansas</b>.gov/.../Waiver%20and%20Privacy%20Form%2005.20...",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20190821084556-05'00'",
+      "creationdate": "D:20180710102645-05'00'",
+      "creator": "Microsoft\u00ae Word 2016",
+      "author": "Kelly McPherron",
+      "producer": "Microsoft\u00ae Word 2016",
+      "title": "TITLE"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Welcome to Data Central - Data Central",
+   "htmlTitle": "Welcome to Data Central - Data Central",
+   "link": "https://datacentral.ksde.gov/",
+   "displayLink": "datacentral.ksde.gov",
+   "snippet": "Kansas State Department of Education KSDE Data Central - Kansas Education Reports ... Privacy Act (SDPA) guide data collection in the State of Kansas. Image for\u00a0...",
+   "htmlSnippet": "<b>Kansas</b> State Department of Education KSDE Data Central - <b>Kansas</b> Education Reports ... <b>Privacy Act</b> (SDPA) guide data collection in the State of <b>Kansas</b>. Image for&nbsp;...",
+   "formattedUrl": "https://datacentral.ksde.gov/",
+   "htmlFormattedUrl": "https://datacentral.ksde.gov/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEMT561iFcRiqqGJV34Go5oiytrJUi-PXzWSdVC448O25H5lH6OWB-sbXe&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://datacentral.ksde.gov/Images/Accred_report3.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "You're Not in Kansas Anymore, Tarheels: Navigating the Complex ...",
+   "htmlTitle": "You&#39;re Not in <b>Kansas</b> Anymore, Tarheels: Navigating the Complex ...",
+   "link": "https://www.troutman.com/insights/youre-not-in-kansas-anymore-tarheels-navigating-the-complex-landscape-of-privacy-law.html",
+   "displayLink": "www.troutman.com",
+   "snippet": "Nov 6, 2024 ... You're Not in Kansas Anymore, Tarheels: Navigating the Complex Landscape of Privacy Law ... Troutman Pepper is proud to sponsor the Association of\u00a0...",
+   "htmlSnippet": "Nov 6, 2024 <b>...</b> You&#39;re Not in <b>Kansas</b> Anymore, Tarheels: Navigating the Complex Landscape of <b>Privacy Law</b> ... Troutman Pepper is proud to sponsor the Association of&nbsp;...",
+   "formattedUrl": "https://www.troutman.com/.../youre-not-in-kansas-anymore-tarheels-naviga...",
+   "htmlFormattedUrl": "https://www.troutman.com/.../youre-not-in-<b>kansas</b>-anymore-tarheels-naviga...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYbt16O8HPaBEdMfb3cEOSxZVCX3o_oYLfbjxRJ0yGwKHoH-5fzBVTmdY&s",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "application-name": "Troutman Pepper Locke",
+      "msapplication-tilecolor": "#ffffff",
+      "msapplication-config": "https://www.troutman.com/images/favicons/browserconfig.xml?v2",
+      "og:image": "https://www.troutman.com/a/web/309602/82H8aC/gettyimages-897357360_og_event.jpg",
+      "theme-color": "#ffffff",
+      "twitter:card": "summary_large_image",
+      "og:type": "website",
+      "og:site_name": "Troutman Pepper Locke - You\u2019re Not in Kansas Anymore, Tarheels: Navigating the Complex Landscape of Privacy Law",
+      "apple-mobile-web-app-title": "Troutman Pepper Locke",
+      "og:title": "You\u2019re Not in Kansas Anymore, Tarheels: Navigating the Complex Landscape of Privacy Law",
+      "google": "notranslate",
+      "msapplication-tileimage": "https://www.troutman.com/images/favicons/mstile-144x144.png?v2",
+      "og:description": "Join us for an insightful discussion on the evolving landscape of privacy law. Our experts will delve into the latest regulatory developments, compliance challenges, and best practices for safeguarding personal data.",
+      "og:image:secure_url": "https://www.troutman.com/a/web/309602/82H8aC/gettyimages-897357360_og_event.jpg",
+      "referrer": "no-referrer-when-downgrade",
+      "viewport": "width=device-width, initial-scale=1.0, user-scalable = no, maximum-scale=1.0",
+      "og:url": "https://www.troutman.com/insights/youre-not-in-kansas-anymore-tarheels-navigating-the-complex-landscape-of-privacy-law.html"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.troutman.com/a/web/309602/82H8aC/gettyimages-897357360_og_event.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Understanding Youth Data Collection in Kansas - Kansas Health ...",
+   "htmlTitle": "Understanding Youth Data Collection in <b>Kansas</b> - <b>Kansas</b> Health ...",
+   "link": "https://www.khi.org/articles/understanding-youth-data-collection-in-kansas/",
+   "displayLink": "www.khi.org",
+   "snippet": "Feb 19, 2024 ... ... Privacy Act (FERPA). In Kansas, the Student Data Privacy Act was enacted in 2014. Prior to the Student Data Privacy Act, parents or\u00a0...",
+   "htmlSnippet": "Feb 19, 2024 <b>...</b> ... <b>Privacy Act</b> (FERPA). In <b>Kansas</b>, the Student Data <b>Privacy Act</b> was enacted in 2014. Prior to the Student Data <b>Privacy Act</b>, parents or&nbsp;...",
+   "formattedUrl": "https://www.khi.org/articles/understanding-youth-data-collection-in-kansas/",
+   "htmlFormattedUrl": "https://www.khi.org/articles/understanding-youth-data-collection-in-<b>kansas</b>/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPqHdE4-AnSgwviw01cMqVoe5bI03PARsDqzff_x6j9uoNlKFz_yfPum0&s",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "http://www.khi.org/wp-content/uploads/2024/02/6-x-4-web-image-YRBS-01.png",
+      "og:type": "article",
+      "og:image:width": "901",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Kansas Health Institute",
+      "og:title": "Understanding Youth Data Collection in Kansas - Kansas Health Institute",
+      "og:image:height": "600",
+      "og:image:type": "image/png",
+      "msapplication-tileimage": "https://www.khi.org/wp-content/uploads/2022/08/cropped-Screen-Shot-2022-08-02-at-11.42.54-AM-270x270.png",
+      "og:description": "On Dec. 12, KHI hosted an event focused on understanding youth-related data collection in Kansas.",
+      "article:modified_time": "2024-02-19T19:21:09+00:00",
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=5.0",
+      "og:locale": "en_US",
+      "og:url": "https://www.khi.org/articles/understanding-youth-data-collection-in-kansas/",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "http://www.khi.org/wp-content/uploads/2024/02/6-x-4-web-image-YRBS-01.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "FERPA and PPRA",
+   "htmlTitle": "FERPA and PPRA",
+   "link": "https://www.ksde.gov/Agency/Office-of-the-Commissioner/Office-of-General-Counsel/FERPA-and-PPRA",
+   "displayLink": "www.ksde.gov",
+   "snippet": "... Privacy Act of 1974, as amended. FPCO has the responsibility for FERPA at ... The Kansas State Department of Education does not discriminate on the\u00a0...",
+   "htmlSnippet": "... <b>Privacy Act</b> of 1974, as amended. FPCO has the responsibility for FERPA at ... The <b>Kansas</b> State Department of Education does not discriminate on the&nbsp;...",
+   "formattedUrl": "https://www.ksde.gov/Agency/Office-of-the...of.../FERPA-and-PPRA",
+   "htmlFormattedUrl": "https://www.ksde.gov/Agency/Office-of-the...of.../FERPA-and-PPRA",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjlfhOGRmqPLUbs7GNgD9LOlgkRHv3er02ZxV_hdfLdxJvIpJWe25CioXR&s",
+      "width": "343",
+      "height": "147"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=2",
+      "rating": "GENERAL",
+      "resource-type": "DOCUMENT"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.ksde.gov/Portals/0/Skins/KSDE/images/HeaderMini.png"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "Agency",
+      "name": "Agency",
+      "position": "1"
+     },
+     {
+      "item": "Office of the Commissioner",
+      "name": "Office of the Commissioner",
+      "position": "2"
+     },
+     {
+      "item": "Office of General Counsel",
+      "name": "Office of General Counsel",
+      "position": "3"
+     },
+     {
+      "item": "FERPA and PPRA",
+      "name": "FERPA and PPRA",
+      "position": "4"
+     }
+    ]
+   }
+  }
+ ]
+}

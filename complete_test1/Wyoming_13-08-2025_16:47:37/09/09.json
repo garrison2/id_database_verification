@@ -1,0 +1,478 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Wyoming\" API OR \"verify\" OR \"verifier\" OR \"reader\" OR \"SDK\" OR \"software development kit\" OR \"check\" around 50 \"app\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "6440",
+    "searchTerms": "\"Wyoming\" API OR \"verify\" OR \"verifier\" OR \"reader\" OR \"SDK\" OR \"software development kit\" OR \"check\" around 50 \"app\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Wyoming\" API OR \"verify\" OR \"verifier\" OR \"reader\" OR \"SDK\" OR \"software development kit\" OR \"check\" around 50 \"app\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "6440",
+    "searchTerms": "\"Wyoming\" API OR \"verify\" OR \"verifier\" OR \"reader\" OR \"SDK\" OR \"software development kit\" OR \"check\" around 50 \"app\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.215228,
+  "formattedSearchTime": "0.22",
+  "totalResults": "6440",
+  "formattedTotalResults": "6,440"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Wyoming Mobile ID Updates",
+   "htmlTitle": "<b>Wyoming Mobile ID</b> Updates",
+   "link": "https://idscan.net/state-digital-id/wyoming-mobile-id-updates/",
+   "displayLink": "idscan.net",
+   "snippet": "Wyoming mobile ID updates \u00b7 State of digital ID in Wyoming \u00b7 Other Wyoming mDL resources.",
+   "htmlSnippet": "<b>Wyoming mobile ID</b> updates &middot; State of <b>digital ID</b> in <b>Wyoming</b> &middot; Other <b>Wyoming mDL</b> resources.",
+   "formattedUrl": "https://idscan.net/state-digital-id/wyoming-mobile-id-updates/",
+   "htmlFormattedUrl": "https://idscan.net/state-<b>digital-id</b>/<b>wyoming</b>-<b>mobile-id</b>-updates/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTktbFK-GS30VYcXpOxSfko4fibwQeYvDUeubEJz_tBlAtuy8P04CBmVdbl&s",
+      "width": "311",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://idscan.net/wp-content/uploads/wyoming-mobile-id.jpg?lm=66A731A1",
+      "og:type": "article",
+      "og:image:width": "1199",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "IDScan.net",
+      "og:title": "Wyoming Mobile ID Updates",
+      "og:image:height": "627",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://idscan.net/wp-content/uploads/cropped-idscan-identity-verification-software-icon-1-270x270.png",
+      "og:description": "Wyoming mobile driver's licenses are now legal in the state. A Wyoming mobile ID is expected to launch sometime in 2025 for residents.",
+      "article:publisher": "https://www.facebook.com/idscannet",
+      "twitter:site": "@idscan_net",
+      "article:modified_time": "2025-02-28T22:24:05+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://idscan.net/state-digital-id/wyoming-mobile-id-updates/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://idscan.net/wp-content/uploads/wyoming-mobile-id.jpg?lm=66A731A1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Delta to fly to top U.S. ski destinations from LAX, MSP and more ...",
+   "htmlTitle": "Delta to fly to top U.S. ski destinations from LAX, MSP and more ...",
+   "link": "https://news.delta.com/delta-fly-top-us-ski-destinations-lax-msp-and-more",
+   "displayLink": "news.delta.com",
+   "snippet": "Jun 14, 2024 ... Jackson Hole, Wyoming. Download ... Additionally, eligible customers can use Delta Digital ID at LAX for hands-free bag check and security.",
+   "htmlSnippet": "Jun 14, 2024 <b>...</b> Jackson Hole, <b>Wyoming</b>. Download ... Additionally, eligible customers can use Delta <b>Digital ID</b> at LAX for hands-free bag <b>check</b> and security.",
+   "formattedUrl": "https://news.delta.com/delta-fly-top-us-ski-destinations-lax-msp-and-more",
+   "htmlFormattedUrl": "https://news.delta.com/delta-fly-top-us-ski-destinations-lax-msp-and-more",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtWIvY8792uWsZELTAZ-o0KfRDIG7gpPu3aCwQogwAsnfmmwhw_Oil4ZGv&s",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://news.delta.com/sites/default/files/styles/twitter_share_1200/public/2024-06/skiseason_jacksonhole.jpg?itok=ks_w0asx",
+      "og:type": "Article",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Delta to fly to top U.S. ski destinations from LAX, MSP and more",
+      "og:site_name": "Delta News Hub",
+      "og:image:url": "https://news.delta.com/sites/default/files/styles/twitter_share_1200/public/2024-06/skiseason_jacksonhole.jpg?itok=ks_w0asx",
+      "handheldfriendly": "true",
+      "og:title": "Delta to fly to top U.S. ski destinations from LAX, MSP and more",
+      "og:description": "Starting Dec. 21, 2024, Delta will fly its largest ever domestic ski schedule, including more flights from Los Angeles than ever before, alongside robust service to top U.S. ski destinations from MSP, ATL, and SLC.\u00a0",
+      "twitter:creator": "@DeltaNewsHub",
+      "twitter:image": "https://news.delta.com/sites/default/files/styles/twitter_share_1200/public/2024-06/skiseason_jacksonhole.jpg?itok=ks_w0asx",
+      "twitter:creator:id": "166607010",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Starting Dec. 21, 2024, Delta will fly its largest ever domestic ski schedule, including more flights from Los Angeles than ever before, alongside robust service to top U.S. ski destinations from MSP, ATL, and SLC.\u00a0",
+      "mobileoptimized": "width",
+      "og:url": "https://news.delta.com/delta-fly-top-us-ski-destinations-lax-msp-and-more"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://news.delta.com/sites/default/files/styles/twitter_share_1200/public/2024-06/skiseason_jacksonhole.jpg?itok=ks_w0asx"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Where Can You Use A Digital ID?",
+   "htmlTitle": "Where Can You Use A <b>Digital ID</b>?",
+   "link": "https://idscan.net/blog/where-can-you-use-a-digital-id/",
+   "displayLink": "idscan.net",
+   "snippet": "Mar 15, 2024 ... Washington D.C.; Wyoming. *Please note: Oklahoma's OK Mobile ID app was live, but pulled it off the market for the time being because the\u00a0...",
+   "htmlSnippet": "Mar 15, 2024 <b>...</b> Washington D.C.; <b>Wyoming</b>. *Please note: Oklahoma&#39;s OK <b>Mobile ID app</b> was live, but pulled it off the market for the time being because the&nbsp;...",
+   "formattedUrl": "https://idscan.net/blog/where-can-you-use-a-digital-id/",
+   "htmlFormattedUrl": "https://idscan.net/blog/where-can-you-use-a-<b>digital-id</b>/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPPfCj0M2JnBpd_isYUjnA_3aXDU36s2vfnrUrLd6rx06zLAzrg2TbW5b_&s",
+      "width": "311",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://idscan.net/wp-content/uploads/mobile-drivers-license.jpeg?lm=66A7318C",
+      "og:type": "article",
+      "article:published_time": "2024-03-15T16:00:00+00:00",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "IDScan.net",
+      "author": "Jillian Kossman",
+      "og:title": "Where Can You Use A Digital ID?",
+      "og:image:height": "627",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://idscan.net/wp-content/uploads/cropped-idscan-identity-verification-software-icon-1-270x270.png",
+      "og:description": "With digital IDs gaining prominence, it is becoming a question of where you can use a digital ID. Here, we break down some common scenarios.",
+      "twitter:creator": "@idscan_net",
+      "article:publisher": "https://www.facebook.com/idscannet",
+      "twitter:site": "@idscan_net",
+      "article:modified_time": "2024-07-31T19:58:23+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://idscan.net/blog/where-can-you-use-a-digital-id/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://idscan.net/wp-content/uploads/mobile-drivers-license.jpeg?lm=66A7318C"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Continuing Legal Education Programs & Legal Publications - ALI CLE",
+   "htmlTitle": "Continuing Legal Education Programs & Legal Publications - ALI CLE",
+   "link": "https://www.ali-cle.org/programs",
+   "displayLink": "www.ali-cle.org",
+   "snippet": "E-Discovery and Mobile Messages: Navigating App Data in Litigation. Tuesday ... MDL in Motion: Evolving Practices, Emerging Leaders, and Reform. Friday\u00a0...",
+   "htmlSnippet": "E-Discovery and Mobile Messages: Navigating <b>App</b> Data in Litigation. Tuesday ... <b>MDL</b> in Motion: Evolving Practices, Emerging Leaders, and Reform. Friday&nbsp;...",
+   "formattedUrl": "https://www.ali-cle.org/programs",
+   "htmlFormattedUrl": "https://www.ali-cle.org/programs",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRHh7us4cN5muIvFeJ5N5vANLUQWDn8CDqHFm508H5SeGqsB0utoaA1_4&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "fragment": "#",
+      "viewport": "width=device-width, initial-scale=1",
+      "msvalidate.01": "D6FAF4E77AD9190ACC36D2165AFC1461",
+      "google-signin-client_id": "619982556842-jmsllpc7amqe8jbk3n0btjgjt21r2tlk.apps.googleusercontent.com"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.ali-cle.org/img/program-icon-audio.svg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "State Digital IDs & Mobile Drivers Licenses | IDScan.net",
+   "htmlTitle": "State Digital IDs &amp; Mobile Drivers Licenses | IDScan.net",
+   "link": "https://idscan.net/mobile-drivers-licenses-mdl-state-adoption-2/",
+   "displayLink": "idscan.net",
+   "snippet": "Live via Alaska Mobile ID app. Arizona, Live via Apple Wallet. Arkansas ... Person at bar using mDL to verify age for alcohol purchase. Mobile Drivers\u00a0...",
+   "htmlSnippet": "Live via Alaska <b>Mobile ID app</b>. Arizona, Live via Apple Wallet. Arkansas ... Person at bar using <b>mDL</b> to <b>verify</b> age for alcohol purchase. Mobile Drivers&nbsp;...",
+   "formattedUrl": "https://idscan.net/mobile-drivers-licenses-mdl-state-adoption-2/",
+   "htmlFormattedUrl": "https://idscan.net/<b>mobile-drivers-license</b>s-<b>mdl</b>-state-adoption-2/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPH_PkLsKGRgzQSgejrnKhf5tYXOEdxzQ0j0vc_vj8U0xJUV7o8pfo6O0&s",
+      "width": "272",
+      "height": "186"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://idscan.net/wp-content/uploads/track-digital-id-adoption.png?lm=66A73198",
+      "og:type": "article",
+      "og:image:width": "585",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "IDScan.net",
+      "og:title": "State Digital IDs & Mobile Drivers Licenses | IDScan.net",
+      "og:image:height": "400",
+      "og:image:type": "image/png",
+      "msapplication-tileimage": "https://idscan.net/wp-content/uploads/cropped-idscan-identity-verification-software-icon-1-270x270.png",
+      "og:description": "Track adoption and readiness of state mobile drivers license initiatives, digital IDs, and electronic IDs across the United States.",
+      "article:publisher": "https://www.facebook.com/idscannet",
+      "twitter:site": "@idscan_net",
+      "article:modified_time": "2025-08-06T14:02:31+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://idscan.net/mobile-drivers-licenses-mdl-state-adoption-2/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://idscan.net/wp-content/uploads/track-digital-id-adoption.png?lm=66A73198"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "watchOS - Feature Availability - Apple",
+   "htmlTitle": "watchOS - Feature Availability - Apple",
+   "link": "https://www.apple.com/watchos/feature-availability/",
+   "displayLink": "www.apple.com",
+   "snippet": "Health: Blood Oxygen App. Afghanistan; \u00c5land Islands; Albania; Algeria ... Mobile ID Acceptance on iPhone is available at select merchants. Requires\u00a0...",
+   "htmlSnippet": "Health: Blood Oxygen <b>App</b>. Afghanistan; \u00c5land Islands; Albania; Algeria ... <b>Mobile ID</b> Acceptance on iPhone is available at select merchants. Requires&nbsp;...",
+   "formattedUrl": "https://www.apple.com/watchos/feature-availability/",
+   "htmlFormattedUrl": "https://www.<b>app</b>le.com/watchos/feature-availability/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-2dYyEn-090cRtluLsYhUgUCEKKMZm-8k3tq10Bwf07wUtnKPU97iX-D9&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "BreadcrumbList": [
+     {}
+    ],
+    "metatags": [
+     {
+      "analytics-s-bucket-1": "applestoreww",
+      "og:image": "https://www.apple.com/ac/structured-data/images/open_graph_logo.png?202507311031",
+      "analytics-s-bucket-0": "applestoreww",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Apple",
+      "globalnav-store-key": "SFX9YPYY9PPXCU9KH",
+      "og:title": "watchOS - Feature Availability",
+      "og:description": "watchOS has so many features that make Apple Watch the ultimate device for a healthy life. See which ones are available in your region or language.",
+      "analytics-s-channel": "watchos",
+      "twitter:site": "@Apple",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "og:locale": "en_US",
+      "position": "1",
+      "og:url": "https://www.apple.com/watchos/feature-availability/",
+      "analytics-track": "watchOS - Feature Availability - overview",
+      "analytics-s-bucket-2": "applestoreww"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.apple.com/ac/structured-data/images/open_graph_logo.png?202507311031"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile Drivers' Licenses to Debut in Iowa This Year",
+   "htmlTitle": "Mobile Drivers&#39; Licenses to Debut in Iowa This Year",
+   "link": "https://www.govtech.com/transportation/Mobile-Drivers-Licenses-to-Debut-in-Iowa-This-Year.html",
+   "displayLink": "www.govtech.com",
+   "snippet": "... Wyoming, which are also piloting mDL ... AAMVA's joint mDL working group has recently circulated a first official draft of international mDL standards.",
+   "htmlSnippet": "... <b>Wyoming</b>, which are also piloting <b>mDL</b> ... AAMVA&#39;s joint <b>mDL</b> working group has recently circulated a first official draft of international <b>mDL</b> standards.",
+   "formattedUrl": "https://www.govtech.com/.../Mobile-Drivers-Licenses-to-Debut-in-Iowa-Th...",
+   "htmlFormattedUrl": "https://www.govtech.com/.../<b>Mobile-Drivers-License</b>s-to-Debut-in-Iowa-Th...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_hgGVxfihtk8JG3jP_xhQ9JH9sdHoIjAMU5G-mj5vxIr33ZwOeK2MqQ&s",
+      "width": "267",
+      "height": "120"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "article",
+      "article:section": "Transportation",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Mobile Drivers' Licenses to Debut in Iowa This Year",
+      "brightspot.cached": "false",
+      "og:site_name": "GovTech",
+      "og:title": "Mobile Drivers' Licenses to Debut in Iowa This Year",
+      "og:description": "In what\u2019s believed to be a first for any state, Iowa residents will have a chance to use their smartphones as ID.",
+      "article:author": "https://www.govtech.com/authors/Lauren-Harrison.html",
+      "fb:app_id": "314190606794339",
+      "twitter:site": "@govtechnews",
+      "article:modified_time": "2021-04-30T03:39:12.791",
+      "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=5",
+      "twitter:description": "In what\u2019s believed to be a first for any state, Iowa residents will have a chance to use their smartphones as ID.",
+      "brightspot.contentid": "00000179-20db-d1ab-a9fd-a1ffe61c0000",
+      "og:url": "https://www.govtech.com/transportation/Mobile-Drivers-Licenses-to-Debut-in-Iowa-This-Year.html"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://erepublic.brightspotcdn.com/bc/a8/3ad2250148b8a28b31d4bd4edd24/gt-with-block.svg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Identity Crisis",
+   "htmlTitle": "Identity Crisis",
+   "link": "https://www.aclu.org/wp-content/uploads/publications/20210913-digitallicense.pdf",
+   "displayLink": "www.aclu.org",
+   "snippet": "... mDL reader app or device to request certain data from your ID. You see the ... Within an mDL system, a Verifier's reader might not be able to connect to the\u00a0...",
+   "htmlSnippet": "... <b>mDL reader app</b> or device to request certain data from your ID. You see the ... Within an <b>mDL</b> system, a <b>Verifier&#39;s reader</b> might not be able to connect to the&nbsp;...",
+   "formattedUrl": "https://www.aclu.org/wp-content/uploads/.../20210913-digitallicense.pdf",
+   "htmlFormattedUrl": "https://www.aclu.org/wp-content/uploads/.../20210913-digitallicense.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP9SjNGQXxJeldq_cCTV-37RTqwTxO22Br6Gzf93ZAnpKz0BwxteuFiHo&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20210913083016-04'00'",
+      "creationdate": "D:20210913083011-04'00'",
+      "creator": "Adobe InDesign 16.4 (Macintosh)",
+      "producer": "Adobe PDF Library 16.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///305b3bc4a334eac4d4a9d4881344cfc5dcb385e602128a173264b81e9f9df19e"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Am I not considered as a veteran? : r/Veterans",
+   "htmlTitle": "Am I not considered as a veteran? : r/Veterans",
+   "link": "https://www.reddit.com/r/Veterans/comments/1bu48bd/am_i_not_considered_as_a_veteran/",
+   "displayLink": "www.reddit.com",
+   "snippet": "Apr 2, 2024 ... ... app... and just scan your phone. * And yes, I use the Samsung pay to ... verify your status. Upvote 2. Downvote Award Share.",
+   "htmlSnippet": "Apr 2, 2024 <b>...</b> ... <b>app</b>... and just scan your phone. * And yes, I use the Samsung pay to ... <b>verify</b> your status. Upvote 2. Downvote Award Share.",
+   "formattedUrl": "https://www.reddit.com/r/Veterans/.../am_i_not_considered_as_a_veteran/",
+   "htmlFormattedUrl": "https://www.reddit.com/r/Veterans/.../am_i_not_considered_as_a_veteran/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6PGoRBD3D1-huCDq-0tnHiVvE8OBntevWyofwBEfO8u0kwnazxSZt3Lo&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://share.redd.it/preview/post/1bu48bd",
+      "theme-color": "#000000",
+      "og:image:width": "1200",
+      "og:type": "website",
+      "og:image:alt": "An image containing a preview of the post",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "r/Veterans on Reddit: Am I not considered as a veteran?",
+      "og:site_name": "Reddit",
+      "og:title": "r/Veterans on Reddit: Am I not considered as a veteran?",
+      "og:image:height": "630",
+      "msapplication-navbutton-color": "#000000",
+      "og:description": "Posted by u/Garlicbreadislife95 - 93 votes and 286 comments",
+      "twitter:image": "https://share.redd.it/preview/post/1bu48bd",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "twitter:site": "@reddit",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "apple-mobile-web-app-capable": "yes",
+      "og:ttl": "600",
+      "og:url": "https://www.reddit.com/r/Veterans/comments/1bu48bd/am_i_not_considered_as_a_veteran/?seeker-session=true"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Quality Assurance Project Plan",
+   "htmlTitle": "Quality Assurance Project Plan",
+   "link": "https://deq.mt.gov/files/Air/AirMonitoring/Documents/QAPP_2023_Final_Rev.pdf",
+   "displayLink": "deq.mt.gov",
+   "snippet": "Dec 11, 2024 ... For example, if an instrument fails a flow check or a precision check, the appropriate action is ... 50 App S Sec. 4.2 (a) The rounding convention\u00a0...",
+   "htmlSnippet": "Dec 11, 2024 <b>...</b> For example, if an instrument fails a flow <b>check</b> or a precision <b>check</b>, the appropriate action is ... <b>50 App</b> S Sec. 4.2 (a) The rounding convention&nbsp;...",
+   "formattedUrl": "https://deq.mt.gov/files/Air/AirMonitoring/.../QAPP_2023_Final_Rev.pdf",
+   "htmlFormattedUrl": "https://deq.mt.gov/files/Air/AirMonitoring/.../Q<b>APP</b>_2023_Final_Rev.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7YpCaSFwDtRg6i8t7Zf5H3XvkZbXz5XcE4dEQd_zhJmqQ6yB1Dfej82LT&s",
+      "width": "272",
+      "height": "185"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20241212145433-07'00'",
+      "creationdate": "D:20241212103526-07'00'",
+      "creator": "Acrobat PDFMaker 24 for Word",
+      "sourcemodified": "D:20241212173447",
+      "author": "Rash, Hoby",
+      "producer": "Adobe PDF Library 24.5.96",
+      "company": "State of Montana",
+      "contenttypeid": "0x01010007BA3A1D0969534D833670347C14FA98"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///d48f5fbee00fd7a38aec8d92b736328636b67c9455ad9a9965fc15f19c49e3af"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

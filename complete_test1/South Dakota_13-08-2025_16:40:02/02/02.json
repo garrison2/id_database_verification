@@ -1,0 +1,251 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://www.sd.gov/dps \"driver's license\" OR \"identification card\"",
+    "totalResults": "26",
+    "searchTerms": "site:https://www.sd.gov/dps \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://www.sd.gov/dps \"driver's license\" OR \"identification card\"",
+    "totalResults": "26",
+    "searchTerms": "site:https://www.sd.gov/dps \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.093169,
+  "formattedSearchTime": "0.09",
+  "totalResults": "26",
+  "formattedTotalResults": "26"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Driver Licensing Applications and Forms",
+   "htmlTitle": "Driver Licensing Applications and Forms",
+   "link": "https://www.sd.gov/dps?id=cs_kb_article_view&sysparm_article=KB0043707",
+   "displayLink": "www.sd.gov",
+   "snippet": "Applying for a License. If you are applying for or obtaining a South Dakota driver license or ID card for the first time, you must apply in person at a\u00a0...",
+   "htmlSnippet": "Applying for a License. If you are applying for or obtaining a South Dakota driver license or ID card for the first time, you must apply in person at a&nbsp;...",
+   "formattedUrl": "https://www.sd.gov/dps?id=cs_kb_article_view&sysparm_article...",
+   "htmlFormattedUrl": "https://www.sd.gov/dps?id=cs_kb_article_view&amp;sysparm_article...",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "This page contains information about renewing your South Dakota ...",
+   "htmlTitle": "This page contains information about renewing your South Dakota ...",
+   "link": "https://www.sd.gov/dps?id=cs_kb_article_view&sysparm_article=KB0043275",
+   "displayLink": "www.sd.gov",
+   "snippet": "You can renew your South Dakota driver's license online once every ten years with our easy online renewal system! ... You must currently have an unexpired,\u00a0...",
+   "htmlSnippet": "You can renew your South Dakota <b>driver&#39;s license</b> online once every ten years with our easy online renewal system! ... You must currently have an unexpired,&nbsp;...",
+   "formattedUrl": "https://www.sd.gov/dps?id=cs_kb_article_view&sysparm_article...",
+   "htmlFormattedUrl": "https://www.sd.gov/dps?id=cs_kb_article_view&amp;sysparm_article...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi6FlkiiT_zn_C1qPgqCOT2jztgRoLPDQA5yH4hpABUVqLy3KLf_2jOGzG&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://i.ytimg.com/vi/bHn4zZL1WX0/maxresdefault.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DPS - Department of Public Safety - South Dakota Driver Licensing ...",
+   "htmlTitle": "DPS - Department of Public Safety - South Dakota Driver Licensing ...",
+   "link": "https://www.sd.gov/dps?id=kb_article_view&sysparm_article=KB0043705",
+   "displayLink": "www.sd.gov",
+   "snippet": "Every driver must have their South Dakota driver's license in their possession at all times when operating a motor vehicle. ... Homeless Identification Card Forms\u00a0...",
+   "htmlSnippet": "Every driver must have their South Dakota <b>driver&#39;s license</b> in their possession at all times when operating a motor vehicle. ... Homeless <b>Identification Card</b> Forms&nbsp;...",
+   "formattedUrl": "https://www.sd.gov/dps?id=kb_article_view&sysparm_article...",
+   "htmlFormattedUrl": "https://www.sd.gov/dps?id=kb_article_view&amp;sysparm_article...",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "driving manuals Search - Department of Public Safety",
+   "htmlTitle": "driving manuals Search - Department of Public Safety",
+   "link": "https://www.sd.gov/dps?id=search&spa=1&q=driving%20manuals",
+   "displayLink": "www.sd.gov",
+   "snippet": "... driver's license and at least one year of driving experience. The adult must ... Identification Card Forms Vision Statement. 7-1-25-English-DL-ID\u00a0...",
+   "htmlSnippet": "... <b>driver&#39;s license</b> and at least one year of driving experience. The adult must ... <b>Identification Card</b> Forms Vision Statement. 7-1-25-English-DL-ID&nbsp;...",
+   "formattedUrl": "https://www.sd.gov/dps?id=search&spa=1&q=driving%20manuals",
+   "htmlFormattedUrl": "https://www.sd.gov/dps?id=search&amp;spa=1&amp;q=driving%20manuals",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "apple-mobile-web-app-capable": "yes"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DPS - Department of Public Safety - Driving Tests - Department of ...",
+   "htmlTitle": "DPS - Department of Public Safety - Driving Tests - Department of ...",
+   "link": "https://www.sd.gov/dps?id=kb_article_view&sysparm_article=KB0043731",
+   "displayLink": "www.sd.gov",
+   "snippet": "You can apply for a license at any South Dakota Driver Licensing location across the state unless you are applying for a first-time commercial driver's license\u00a0...",
+   "htmlSnippet": "You can apply for a license at any South Dakota Driver Licensing location across the state unless you are applying for a first-time commercial <b>driver&#39;s license</b>&nbsp;...",
+   "formattedUrl": "https://www.sd.gov/dps?id=kb_article_view&sysparm_article...",
+   "htmlFormattedUrl": "https://www.sd.gov/dps?id=kb_article_view&amp;sysparm_article...",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CS Knowledge Article View - Department of Public Safety",
+   "htmlTitle": "CS Knowledge Article View - Department of Public Safety",
+   "link": "https://www.sd.gov/dps?id=cs_kb_article_view&sysparm_article=KB0043559",
+   "displayLink": "www.sd.gov",
+   "snippet": "An identification card is an official document that can be used to validate your identity if you're a non-driver or don't have a South Dakota Driver's License.",
+   "htmlSnippet": "An <b>identification card</b> is an official document that can be used to validate your identity if you&#39;re a non-driver or don&#39;t have a South Dakota <b>Driver&#39;s License</b>.",
+   "formattedUrl": "https://www.sd.gov/dps?id=cs_kb_article_view&sysparm_article...",
+   "htmlFormattedUrl": "https://www.sd.gov/dps?id=cs_kb_article_view&amp;sysparm_article...",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "To Obtain a South Dakota Driver License or ID Card",
+   "htmlTitle": "To Obtain a South Dakota Driver License or ID Card",
+   "link": "https://www.sd.gov/dps?id=cs_kb_article_view&sysparm_article=KB0043703",
+   "displayLink": "www.sd.gov",
+   "snippet": "... Driver's License or Identification Card. In addition to the other required documents, veterans need to present one of the following: DD-214 form to show\u00a0...",
+   "htmlSnippet": "... <b>Driver&#39;s License</b> or <b>Identification Card</b>. In addition to the other required documents, veterans need to present one of the following: DD-214 form to show&nbsp;...",
+   "formattedUrl": "https://www.sd.gov/dps?id=cs_kb_article_view&sysparm_article...",
+   "htmlFormattedUrl": "https://www.sd.gov/dps?id=cs_kb_article_view&amp;sysparm_article...",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DPS - Department of Public Safety - Veterans and Active Duty ...",
+   "htmlTitle": "DPS - Department of Public Safety - Veterans and Active Duty ...",
+   "link": "https://www.sd.gov/dps?id=kb_article_view&sysparm_article=KB0043740",
+   "displayLink": "www.sd.gov",
+   "snippet": "... Driver's License or Identification Card. In addition to the required ... Military Waiver for Commercial Driver's License. If you have a military license\u00a0...",
+   "htmlSnippet": "... <b>Driver&#39;s License</b> or <b>Identification Card</b>. In addition to the required ... Military Waiver for Commercial <b>Driver&#39;s License</b>. If you have a military license&nbsp;...",
+   "formattedUrl": "https://www.sd.gov/dps?id=kb_article_view&sysparm_article...",
+   "htmlFormattedUrl": "https://www.sd.gov/dps?id=kb_article_view&amp;sysparm_article...",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DPS - Department of Public Safety - CDL FAQs - Department of ...",
+   "htmlTitle": "DPS - Department of Public Safety - CDL FAQs - Department of ...",
+   "link": "https://www.sd.gov/dps?id=kb_article_view&sysparm_article=KB0043696",
+   "displayLink": "www.sd.gov",
+   "snippet": "DPS - Department of Public Safety - Driver Licensing - Who needs a commercial driver's license? You must have a South Dakota Commercial Driver's License to.",
+   "htmlSnippet": "DPS - Department of Public Safety - Driver Licensing - Who needs a commercial <b>driver&#39;s license</b>? You must have a South Dakota Commercial <b>Driver&#39;s License</b> to.",
+   "formattedUrl": "https://www.sd.gov/dps?id=kb_article_view&sysparm_article...",
+   "htmlFormattedUrl": "https://www.sd.gov/dps?id=kb_article_view&amp;sysparm_article...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTcZuwrXnSMwXQeg-9z83Kg5CAJTfwwHizApiSZ4WvwJsYn0GVw-WL7gz3&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://i.ytimg.com/vi/xId7BWW7BHk/maxresdefault.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DPS - Department of Public Safety - Driver Licensing FAQs ...",
+   "htmlTitle": "DPS - Department of Public Safety - Driver Licensing FAQs ...",
+   "link": "https://www.sd.gov/dps?id=kb_article_view&sysparm_article=KB0043747",
+   "displayLink": "www.sd.gov",
+   "snippet": "To earn your driver's license, you must: Complete a license application form (see Driver License Documents section at bottom of the page). Provide the $28\u00a0...",
+   "htmlSnippet": "To earn your <b>driver&#39;s license</b>, you must: Complete a license application form (see Driver License Documents section at bottom of the page). Provide the $28&nbsp;...",
+   "formattedUrl": "https://www.sd.gov/dps?id=kb_article_view&sysparm_article...",
+   "htmlFormattedUrl": "https://www.sd.gov/dps?id=kb_article_view&amp;sysparm_article...",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -292,3 +292,24 @@ googleapiclient.errors.HttpError: <HttpError 429 when requesting https://customs
 13-08-2025_15:00:57	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view North Carolina --most-recent
 13-08-2025_15:10:55	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py search all
 13-08-2025_15:11:07	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py search all --confirm 10
+13-08-2025_15:25:36	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py list all --most-recent -t 13-08
+13-08-2025_15:25:56	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py list all --most-recent -t 13-08-2025_15
+13-08-2025_15:26:05	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py list all --most-recent -t 13-08-2025_15:2
+13-08-2025_15:38:55	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view Alaska --most-recent
+13-08-2025_15:52:50	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view Alaska
+13-08-2025_15:52:56	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view Alaska --most-recent
+13-08-2025_15:53:00	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view Maine --most-recent
+13-08-2025_15:53:13	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view North Carolina --most-recent
+13-08-2025_16:27:40query="New Mexico" API OR "verify" OR "verifier" OR "reader" OR "SDK" OR "software development kit" OR "check" around 50 "app" "mobile ID" OR "digital ID" OR "mobile driver's license" OR "digital driver's license" OR mDL -"multidistrict litigation" -"district"	attempt=1	sleep_time=45
+13-08-2025_16:28:25query="New Mexico" "alcohol board" OR "ID scanning" OR "ID scan" OR "scan ID"	attempt=1	sleep_time=45
+13-08-2025_16:32:51query="New Mexico" "mobile ID" OR "digital ID" OR "mobile driver's license" OR "digital driver's license" OR mDL -"multidistrict litigation" -"district"	attempt=0	sleep_time=45
+13-08-2025_16:34:21query="New Mexico" "mobile ID" OR "digital ID" OR "mobile driver's license" OR "digital driver's license" OR mDL -"multidistrict litigation" -"district"	attempt=1	sleep_time=90
+13-08-2025_16:37:22query="New Mexico" "mobile ID" OR "digital ID" OR "mobile driver's license" OR "digital driver's license" OR mDL -"multidistrict litigation" -"district"	attempt=2	sleep_time=180
+13-08-2025_16:38:07query="New Mexico" "mobile ID" OR "digital ID" OR "mobile driver's license" OR "digital driver's license" OR mDL -"multidistrict litigation" -"district" law OR bill OR order OR "New Mexico Statutes Annotated"	attempt=0	sleep_time=45
+13-08-2025_16:38:53query=site:https://www.mvd.newmexico.gov/ "mobile ID" OR "digital ID" OR "mobile driver's license" OR "digital driver's license" OR mDL -"multidistrict litigation" -"district"	attempt=0	sleep_time=45
+13-08-2025_16:40:51query="South Dakota Codified Laws" "personally identifiable information" OR "personal information" "defined" OR "means" "driver's license" OR "identification card"	attempt=0	sleep_time=45
+13-08-2025_16:42:21query="South Dakota Codified Laws" "personally identifiable information" OR "personal information" "defined" OR "means" "driver's license" OR "identification card"	attempt=1	sleep_time=90
+13-08-2025_16:45:21query="South Dakota Codified Laws" "personally identifiable information" OR "personal information" "defined" OR "means" "driver's license" OR "identification card"	attempt=2	sleep_time=180
+13-08-2025_16:46:09query="Tennessee" "mobile ID" OR "digital ID" OR "mobile driver's license" OR "digital driver's license" OR mDL -"multidistrict litigation" -"district" law OR bill OR order OR "Tennessee Code"	attempt=0	sleep_time=45
+13-08-2025_16:46:55query="Tennessee" "mobile ID" OR "digital ID" OR "mobile driver's license" OR "digital driver's license" OR mDL -"multidistrict litigation" -"district" vendor OR developer OR procurement	attempt=0	sleep_time=45
+13-08-2025_16:48:01	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py search all --confirm 10

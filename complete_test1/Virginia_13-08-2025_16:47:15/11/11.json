@@ -1,0 +1,268 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Code of Virginia\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "17400",
+    "searchTerms": "\"Code of Virginia\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Code of Virginia\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "17400",
+    "searchTerms": "\"Code of Virginia\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.190559,
+  "formattedSearchTime": "0.19",
+  "totalResults": "17400",
+  "formattedTotalResults": "17,400"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "\u00a7 18.2-186.6. Breach of personal information notification",
+   "htmlTitle": "\u00a7 18.2-186.6. Breach of <b>personal information</b> notification",
+   "link": "https://law.lis.virginia.gov/vacode/title18.2/chapter6/section18.2-186.6/",
+   "displayLink": "law.lis.virginia.gov",
+   "snippet": "\"Personal information\" means the first name or ... The last four digits of a driver's license number, state identification card number, or account number.",
+   "htmlSnippet": "&quot;<b>Personal information</b>&quot; <b>means</b> the first name or ... The last four digits of a <b>driver&#39;s license</b> number, state <b>identification card</b> number, or account number.",
+   "formattedUrl": "https://law.lis.virginia.gov/vacode/title18.2/chapter6/section18.2-186.6/",
+   "htmlFormattedUrl": "https://law.lis.virginia.gov/vacode/title18.2/chapter6/section18.2-186.6/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "docid": "022158",
+      "covtitle": "Title 18.2. Crimes and Offenses Generally",
+      "title": "Title 18.2. Crimes and Offenses Generally"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "HB2550 - 2025 Regular Session | LIS",
+   "htmlTitle": "HB2550 - 2025 Regular Session | LIS",
+   "link": "https://lis.virginia.gov/bill-details/20251/HB2550/text/HB2550",
+   "displayLink": "lis.virginia.gov",
+   "snippet": "Jan 10, 2025 ... Personal information as defined in \u00a7 2.2-3801;. 2. Driver information, defined as all data that relates to driver's license status and driver\u00a0...",
+   "htmlSnippet": "Jan 10, 2025 <b>...</b> <b>Personal information</b> as <b>defined</b> in \u00a7 2.2-3801;. 2. Driver information, <b>defined</b> as all data that relates to <b>driver&#39;s license</b> status and driver&nbsp;...",
+   "formattedUrl": "https://lis.virginia.gov/bill-details/20251/HB2550/text/HB2550",
+   "htmlFormattedUrl": "https://lis.virginia.gov/bill-details/20251/HB2550/text/HB2550",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:image": "/LIS-iOS-icon-32px.png",
+      "theme-color": "#000000",
+      "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+      "og:title": "HB2550 - 2025 Regular Session | LIS"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "/LIS-iOS-icon-32px.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Personal Information Privacy Act",
+   "htmlTitle": "<b>Personal Information</b> Privacy Act",
+   "link": "https://law.lis.virginia.gov/vacodepopularnames/personal-information-privacy-act/",
+   "displayLink": "law.lis.virginia.gov",
+   "snippet": "... driver's license or other document issued under Chapter 3 (\u00a7 46.2-300 et seq ... For the purposes of this section and \u00a7 59.1-443.3, \"merchant\" means\u00a0...",
+   "htmlSnippet": "... <b>driver&#39;s license</b> or other document issued under Chapter 3 (\u00a7 46.2-300 et seq ... For the purposes of this section and \u00a7 59.1-443.3, &quot;merchant&quot; <b>means</b>&nbsp;...",
+   "formattedUrl": "https://law.lis.virginia.gov/.../personal-information-privacy-act/",
+   "htmlFormattedUrl": "https://law.lis.virginia.gov/.../<b>personal-information</b>-privacy-act/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "HB2041 - 2025 Regular Session | LIS",
+   "htmlTitle": "HB2041 - 2025 Regular Session | LIS",
+   "link": "https://lis.virginia.gov/bill-details/20251/HB2041/text/HB2041",
+   "displayLink": "lis.virginia.gov",
+   "snippet": "Driver information, defined as all data that relates to driver's license ... personal information provided and furnish driver, special identification card, or\u00a0...",
+   "htmlSnippet": "Driver information, <b>defined</b> as all data that relates to <b>driver&#39;s license</b> ... <b>personal information</b> provided and furnish driver, special <b>identification card</b>, or&nbsp;...",
+   "formattedUrl": "https://lis.virginia.gov/bill-details/20251/HB2041/text/HB2041",
+   "htmlFormattedUrl": "https://lis.virginia.gov/bill-details/20251/HB2041/text/HB2041",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:image": "/LIS-iOS-icon-32px.png",
+      "theme-color": "#000000",
+      "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+      "og:title": "HB2041 - 2025 Regular Session | LIS"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "/LIS-iOS-icon-32px.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Bill Tracking - 2021 session > Legislation",
+   "htmlTitle": "Bill Tracking - 2021 session &gt; Legislation",
+   "link": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?212+ful+HB2163ER",
+   "displayLink": "legacylis.virginia.gov",
+   "snippet": "\"Driver's license\" means any license, including a commercial driver's license as defined ... Personal information as defined in \u00a7 2.2-3801;. 2. Driver\u00a0...",
+   "htmlSnippet": "&quot;<b>Driver&#39;s license</b>&quot; <b>means</b> any license, including a commercial <b>driver&#39;s license</b> as <b>defined</b> ... <b>Personal information</b> as <b>defined</b> in \u00a7 2.2-3801;. 2. Driver&nbsp;...",
+   "formattedUrl": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?212+ful+HB2163ER",
+   "htmlFormattedUrl": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?212+ful+HB2163ER"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Standard for High Risk Digital Data Protection v. 6",
+   "htmlTitle": "Standard for High Risk Digital Data Protection v. 6",
+   "link": "https://it.vt.edu/content/dam/it_vt_edu/policies/Standard-for-High-Risk-Digital-Data-Protection.pdf",
+   "displayLink": "it.vt.edu",
+   "snippet": "... defined by the university as personally identifiable information (PII). Data ... identification card number issued by a state in lieu of a driver's license number\u00a0...",
+   "htmlSnippet": "... <b>defined</b> by the university as <b>personally identifiable information</b> (PII). Data ... <b>identification card</b> number issued by a state in lieu of a <b>driver&#39;s license</b> number&nbsp;...",
+   "formattedUrl": "https://it.vt.edu/.../it.../Standard-for-High-Risk-Digital-Data-Protection.pdf",
+   "htmlFormattedUrl": "https://it.vt.edu/.../it.../Standard-for-High-Risk-Digital-Data-Protection.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20220725143025-04'00'",
+      "creator": "Microsoft\u00ae Word 2019",
+      "creationdate": "D:20220725143025-04'00'",
+      "author": "bneidigh",
+      "producer": "Microsoft\u00ae Word 2019"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "No. 1104 Rev.: 3 Policies and Procedures Date: July 21, 2025 ...",
+   "htmlTitle": "No. 1104 Rev.: 3 Policies and Procedures Date: July 21, 2025 ...",
+   "link": "https://www.tcc.edu/wp-content/uploads/2025/07/1104_Privacy_Rev3_07-21-25.pdf",
+   "displayLink": "www.tcc.edu",
+   "snippet": "Jul 21, 2025 ... Personal Information. For agencies and institutions of the Commonwealth, \u201cPersonal Information\u201d (PI) is defined in the Code of Virginia \u00a7 2.2\u00a0...",
+   "htmlSnippet": "Jul 21, 2025 <b>...</b> <b>Personal Information</b>. For agencies and institutions of the Commonwealth, \u201c<b>Personal Information</b>\u201d (PI) is <b>defined</b> in the <b>Code of Virginia</b> \u00a7 2.2&nbsp;...",
+   "formattedUrl": "https://www.tcc.edu/wp-content/.../07/1104_Privacy_Rev3_07-21-25.pdf",
+   "htmlFormattedUrl": "https://www.tcc.edu/wp-content/.../07/1104_Privacy_Rev3_07-21-25.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20250728133429-04'00'",
+      "creationdate": "D:20250728133414-04'00'",
+      "creator": "Acrobat PDFMaker 24 for Word",
+      "lastsaved": "D:20250422",
+      "sourcemodified": "D:20250728173333",
+      "author": "Frank Dunn",
+      "created": "D:20180424",
+      "producer": "Adobe PDF Library 24.2.207",
+      "company": "Tidewater Community College"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile Driver's License Study",
+   "htmlTitle": "Mobile <b>Driver&#39;s License</b> Study",
+   "link": "https://www.dmv.virginia.gov/sites/default/files/documents/mdl-report.pdf",
+   "displayLink": "www.dmv.virginia.gov",
+   "snippet": "electronic credential, or profile. 11. \u201cDisplay Requirement\u201d means a provision within the Code of Virginia, the Virginia. 12. Administrative Code, or a local\u00a0...",
+   "htmlSnippet": "electronic credential, or profile. 11. \u201cDisplay Requirement\u201d <b>means</b> a provision within the <b>Code of Virginia</b>, the Virginia. 12. Administrative Code, or a local&nbsp;...",
+   "formattedUrl": "https://www.dmv.virginia.gov/sites/default/files/documents/mdl-report.pdf",
+   "htmlFormattedUrl": "https://www.dmv.virginia.gov/sites/default/files/documents/mdl-report.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScf-VzyNJWW7pZ4D_OH873vO-kYDLYvjo5u7QTcXA_-xgqJFNuZs7_9xN6&s",
+      "width": "284",
+      "height": "177"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///140e283f52b20c33774952a5093ed2ea4b707d61132ab5eb4e47f3202545b27a"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Central Registry Release of Information Form",
+   "htmlTitle": "Central Registry Release of Information Form",
+   "link": "https://www.dss.virginia.gov/files/division/obi/background_investigations/barriercrimes/Central_Registry_Form.pdf",
+   "displayLink": "www.dss.virginia.gov",
+   "snippet": "... defined in the Code of Va. No out of ... Pursuant to Section 2.2-3806 of the Code of Virginia, I authorize the release of personal information regarding me.",
+   "htmlSnippet": "... <b>defined</b> in the Code of Va. No out of ... Pursuant to Section 2.2-3806 of the <b>Code of Virginia</b>, I authorize the release of <b>personal information</b> regarding me.",
+   "formattedUrl": "https://www.dss.virginia.gov/files/division/.../Central_Registry_Form.pdf",
+   "htmlFormattedUrl": "https://www.dss.virginia.gov/files/division/.../Central_Registry_Form.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20240119143547-05'00'",
+      "creationdate": "D:20150727142553-04'00'"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "HRM-025: Professional Service and External Consulting for ...",
+   "htmlTitle": "HRM-025: Professional Service and External Consulting for ...",
+   "link": "https://uvapolicy.virginia.edu/policy/HRM-025",
+   "displayLink": "uvapolicy.virginia.edu",
+   "snippet": "Mar 17, 2023 ... ... personal information that can lead to identity theft. ... Driver's license number or state identification card number issued in lieu of a driver's\u00a0...",
+   "htmlSnippet": "Mar 17, 2023 <b>...</b> ... <b>personal information</b> that can lead to identity theft. ... <b>Driver&#39;s license</b> number or state <b>identification card</b> number issued in lieu of a <b>driver&#39;s</b>&nbsp;...",
+   "formattedUrl": "https://uvapolicy.virginia.edu/policy/HRM-025",
+   "htmlFormattedUrl": "https://uvapolicy.virginia.edu/policy/HRM-025",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  }
+ ]
+}

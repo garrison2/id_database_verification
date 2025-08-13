@@ -1,0 +1,399 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Missouri Revised Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "totalResults": "1630",
+    "searchTerms": "\"Missouri Revised Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Missouri Revised Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "totalResults": "1630",
+    "searchTerms": "\"Missouri Revised Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.156132,
+  "formattedSearchTime": "0.16",
+  "totalResults": "1630",
+  "formattedTotalResults": "1,630"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Missouri REAL ID Information",
+   "htmlTitle": "Missouri REAL ID Information",
+   "link": "https://dor.mo.gov/driver-license/issuance/real-id/",
+   "displayLink": "dor.mo.gov",
+   "snippet": "... driver license and nondriver license identification card (ID card) security. ... Ensure the submission, verification, and retention of source documents\u00a0...",
+   "htmlSnippet": "... <b>driver license</b> and nondriver license <b>identification card</b> (ID card) security. ... Ensure the submission, <b>verification</b>, and <b>retention</b> of source documents&nbsp;...",
+   "formattedUrl": "https://dor.mo.gov/driver-license/issuance/real-id/",
+   "htmlFormattedUrl": "https://dor.mo.gov/<b>driver-license</b>/issuance/real-id/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZCoQLZLgEdcUWlOlj9U6qsu7Y8u7BLEWP6pjXpvF370HUVmhAaY5Rb4TS&s",
+      "width": "343",
+      "height": "147"
+     }
+    ],
+    "metatags": [
+     {
+      "theme-color": "#3a5170",
+      "apple-mobile-web-app-status-bar-style": "#3a5170",
+      "viewport": "width=device-width, initial-scale=1",
+      "msapplication-navbutton-color": "#3a5170"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dor.mo.gov/img/slides/Live-Agent.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Department of Revenue Electronic Notification Services",
+   "htmlTitle": "Department of Revenue Electronic Notification Services",
+   "link": "https://mydmv.mo.gov/electronicnotifications/",
+   "displayLink": "mydmv.mo.gov",
+   "snippet": "If you would like to subscribe to receive your driver license or nondriver ... Other Resources. Missouri Revised Statutes (RSMo) \u00b7 Federal (IRS) Forms\u00a0...",
+   "htmlSnippet": "If you would like to subscribe to receive your <b>driver license</b> or nondriver ... Other Resources. <b>Missouri Revised Statutes</b> (RSMo) &middot; Federal (IRS) Forms&nbsp;...",
+   "formattedUrl": "https://mydmv.mo.gov/electronicnotifications/",
+   "htmlFormattedUrl": "https://mydmv.mo.gov/electronicnotifications/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmcFjyMh2oCbvSQ4KM1QJCSnWhWhyRZ9b64qdFmnPHWayoP2k6RWx49g&s",
+      "width": "122",
+      "height": "122"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://mydmv.mo.gov/img/LoadingSpinner2.gif"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driving Records",
+   "htmlTitle": "Driving Records",
+   "link": "https://dor.mo.gov/driver-license/resources/records.html",
+   "displayLink": "dor.mo.gov",
+   "snippet": "... driver's license (CDL). Authorized representative or ... An employer to obtain or verify information relating to a holder of a commercial driver license.",
+   "htmlSnippet": "... <b>driver&#39;s license</b> (CDL). Authorized representative or ... An employer to obtain or <b>verify</b> information relating to a holder of a commercial <b>driver license</b>.",
+   "formattedUrl": "https://dor.mo.gov/driver-license/resources/records.html",
+   "htmlFormattedUrl": "https://dor.mo.gov/<b>driver-license</b>/resources/records.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2WgsGW6-w6MRj7eofQ5pe7IR8Hn9jEQ7tkDc8eqTcTH7Z_w7SIgMtiA4P&s",
+      "width": "226",
+      "height": "223"
+     }
+    ],
+    "metatags": [
+     {
+      "theme-color": "#3a5170",
+      "apple-mobile-web-app-status-bar-style": "#3a5170",
+      "viewport": "width=device-width, initial-scale=1",
+      "msapplication-navbutton-color": "#3a5170"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dor.mo.gov/chatbox/inc/assets/DORA_Bot_Icon.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Missouri Revised Statutes \u00a7 302.171 (2024) - Application for license ...",
+   "htmlTitle": "<b>Missouri Revised Statutes</b> \u00a7 302.171 (2024) - Application for license ...",
+   "link": "https://law.justia.com/codes/missouri/title-xix/chapter-302/section-302-171/",
+   "displayLink": "law.justia.com",
+   "snippet": "The director shall verify that an applicant for a driver's license is a ... retain no more than one percent for its administrative costs. The donation\u00a0...",
+   "htmlSnippet": "The director shall <b>verify</b> that an applicant for a <b>driver&#39;s license</b> is a ... <b>retain</b> no more than one percent for its administrative costs. The donation&nbsp;...",
+   "formattedUrl": "https://law.justia.com/codes/missouri/title-xix/chapter.../section-302-171/",
+   "htmlFormattedUrl": "https://law.justia.com/codes/missouri/title-xix/chapter.../section-302-171/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUsEXFeYBuAPfcBBVPIyUzrZ_CJMY-G1UQkbVgeLAo7QKw91U8LPjTVlwN&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://justatic.com/v/20250617153813/shared/images/social-media/law.jpg",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "og:site_name": "Justia Law",
+      "og:title": "2024 Missouri Revised Statutes :: Title XIX - Motor Vehicles, Watercraft and Aviation :: Chapter 302 - Drivers' and Commercial Drivers' Licenses :: Section 302.171 - Application for license \u2014 form \u2014 content \u2014 educational materials to be provided to applicants under twenty-one \u2014 voluntary contribution to certain programs and fund \u2014 denial of driving privilege, when \u2014 exemption from requirement to provide proof of residency \u2014 one-year renewal, requirements.",
+      "og:app_id": "119529808075661",
+      "trigger-ga": "1",
+      "og:description": "Justia Free Databases of U.S. Laws, Codes & Statutes",
+      "og:admins": "656268335,686786921,25900864",
+      "referrer": "unsafe-url",
+      "twitter:site": "@JustiaCom",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "page-type": "Law: Codes Document Page (Current Year)",
+      "is-li": "0",
+      "og:url": "https://law.justia.com/codes/missouri/title-xix/chapter-302/section-302-171/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://justatic.com/v/20250617153813/shared/images/social-media/law.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "state of missouri alcohol & tobacco laws & regulations",
+   "htmlTitle": "state of missouri alcohol &amp; tobacco laws &amp; regulations",
+   "link": "https://atc.dps.mo.gov/documents/liquor-lawbook.pdf",
+   "displayLink": "atc.dps.mo.gov",
+   "snippet": "person to possess, consume, store, sell or offer for sale, give away or ... defendant a driver's license, Missouri nondriver's identification card, or\u00a0...",
+   "htmlSnippet": "person to possess, consume, <b>store</b>, <b>sell</b> or offer for sale, give away or ... defendant a <b>driver&#39;s license</b>, Missouri nondriver&#39;s <b>identification card</b>, or&nbsp;...",
+   "formattedUrl": "https://atc.dps.mo.gov/documents/liquor-lawbook.pdf",
+   "htmlFormattedUrl": "https://atc.dps.mo.gov/documents/liquor-lawbook.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI15m3evmPAIHOPrL0D2MLL23-5dytj7n1Vx14jetWBMtfi94hgf3SNugt&s",
+      "width": "216",
+      "height": "233"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20230530132005-05'00'",
+      "creationdate": "D:20230530132005-05'00'",
+      "creator": "Adobe Acrobat Pro (32-bit) 23.1.20064",
+      "author": "Administrator",
+      "producer": "Adobe Acrobat Pro (32-bit) 23.1.20064",
+      "title": "STATE OF MISSOURI"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///3d0a3abb3703faa379beb2d24afa049ca7f9a5d62f3d63969c514778f0321f1b"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Missouri ID Scanning Laws - Guest Ban | ID Scanning for Hospitality",
+   "htmlTitle": "Missouri ID <b>Scanning</b> Laws - Guest Ban | ID <b>Scanning</b> for Hospitality",
+   "link": "https://guestban.com/id-scanning-laws/missouri-id-scanning-laws/",
+   "displayLink": "guestban.com",
+   "snippet": "... driver's license or identification card that is not REAL ID compliant. The ... Can a hotel retain the information obtained from the ID scan? Yes, a\u00a0...",
+   "htmlSnippet": "... <b>driver&#39;s license</b> or <b>identification card</b> that is not REAL ID compliant. The ... Can a hotel <b>retain</b> the information obtained from the ID <b>scan</b>? Yes, a&nbsp;...",
+   "formattedUrl": "https://guestban.com/id-scanning-laws/missouri-id-scanning-laws/",
+   "htmlFormattedUrl": "https://guestban.com/id-<b>scanning</b>-laws/missouri-id-<b>scanning</b>-laws/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5CnaonjMjwBiIp5Wa-Hsj-E_sMb8K6_ZWfb2ETwA1gso7p_-dpvEcogyg&s",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://guestban.com/wp-content/uploads/2023/08/st-louis-missouri-usa.jpg",
+      "og:type": "article",
+      "og:image:width": "2000",
+      "og:image:alt": "St. Louis, Missouri, USA",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Missouri ID Scanning Laws - Guest Ban | ID Scanning for Hospitality",
+      "og:site_name": "Guest Ban ID Scanning",
+      "og:title": "Missouri ID Scanning Laws - Guest Ban | ID Scanning for Hospitality",
+      "og:image:height": "1333",
+      "twitter:label1": "Time to read",
+      "og:image:type": "image/jpeg",
+      "og:updated_time": "2025-02-11T19:18:01-08:00",
+      "msapplication-tileimage": "https://guestban.com/wp-content/uploads/2021/12/cropped-app-min-270x270.jpg",
+      "og:description": "Understand the laws and regulations of ID scanning in Missouri. Learn about the legalities, how and when you can scan IDs, and more.",
+      "twitter:creator": "@guest_ban",
+      "article:publisher": "https://www.facebook.com/guestbanhospitality",
+      "og:image:secure_url": "https://guestban.com/wp-content/uploads/2023/08/st-louis-missouri-usa.jpg",
+      "twitter:image": "https://guestban.com/wp-content/uploads/2023/08/st-louis-missouri-usa.jpg",
+      "twitter:data1": "4 minutes",
+      "twitter:site": "@guest_ban",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Understand the laws and regulations of ID scanning in Missouri. Learn about the legalities, how and when you can scan IDs, and more.",
+      "og:locale": "en_US",
+      "og:url": "https://guestban.com/id-scanning-laws/missouri-id-scanning-laws/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://guestban.com/wp-content/uploads/2023/08/st-louis-missouri-usa.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Missouri Election Authority Records Retention Schedule 2009",
+   "htmlTitle": "Missouri Election Authority Records <b>Retention</b> Schedule 2009",
+   "link": "https://www.sos.mo.gov/cmsimages/localrecords/election.pdf",
+   "displayLink": "www.sos.mo.gov",
+   "snippet": "Local government offices may retain any of their records beyond the retention periods set by the ... May include, but is not limited to: verification of US\u00a0...",
+   "htmlSnippet": "Local government offices may <b>retain</b> any of their records beyond the <b>retention</b> periods set by the ... May include, but is not limited to: <b>verification</b> of US&nbsp;...",
+   "formattedUrl": "https://www.sos.mo.gov/cmsimages/localrecords/election.pdf",
+   "htmlFormattedUrl": "https://www.sos.mo.gov/cmsimages/localrecords/election.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20210827151805-05'00'",
+      "creator": "Microsoft\u00ae Word 2016",
+      "creationdate": "D:20210827151805-05'00'",
+      "author": "Missouri Secretary of State Local Records Program",
+      "subject": "Election Authority Record Retentions",
+      "producer": "Microsoft\u00ae Word 2016",
+      "title": "Missouri Election Authority Records Retention Schedule 2009"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Personal Property | Clay County, MO",
+   "htmlTitle": "Personal Property | Clay County, MO",
+   "link": "https://www.claycountymo.gov/218/Personal-Property",
+   "displayLink": "www.claycountymo.gov",
+   "snippet": "I'm new to Missouri, how long do I have to obtain Missouri license plates and a Missouri's driver's license?",
+   "htmlSnippet": "I&#39;m new to Missouri, how long do I have to obtain Missouri license plates and a Missouri&#39;s <b>driver&#39;s license</b>?",
+   "formattedUrl": "https://www.claycountymo.gov/218/Personal-Property",
+   "htmlFormattedUrl": "https://www.claycountymo.gov/218/Personal-Property",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoyydXgf7qmaUZXLbciXvOkCwU-RIBEvLqzoN2o_X830DL2kbjdmyQ3P8&s",
+      "width": "321",
+      "height": "157"
+     }
+    ],
+    "metatags": [
+     {
+      "category2": "County Assessor",
+      "category3": "Personal Property",
+      "theme-color": "#023c89",
+      "viewport": "width=device-width, initial-scale=1",
+      "category0": "Home",
+      "category1": "Departments"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.claycountymo.gov/ImageRepository/Document?documentID=69"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Missouri Revised Statutes - Chapter 190 Emergency Services",
+   "htmlTitle": "<b>Missouri Revised Statutes</b> - Chapter 190 Emergency Services",
+   "link": "https://senate.mo.gov/sctp/missouri%20tax%20statutes/Missouri%20Revised%20Statutes%20-%20Chapter%20190%20-%20Emergency%20Services.pdf",
+   "displayLink": "senate.mo.gov",
+   "snippet": "Aug 28, 2015 ... (3) Maintain or improve the public health and promote the continued development of the regional emergency medical services system. 6. (1) Upon a\u00a0...",
+   "htmlSnippet": "Aug 28, 2015 <b>...</b> (3) <b>Maintain</b> or improve the public health and promote the continued development of the regional emergency medical services system. 6. (1) Upon a&nbsp;...",
+   "formattedUrl": "https://senate.mo.gov/.../Missouri%20Revised%20Statutes%20-%20Chapter...",
+   "htmlFormattedUrl": "https://senate.mo.gov/.../Missouri%20Revised%20Statutes%20-%20Chapter...",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20161117115024-06'00'",
+      "creationdate": "D:20161117115014-06'00'",
+      "creator": "Acrobat PDFMaker 11 for Word",
+      "sourcemodified": "D:20161117174413",
+      "author": "Amy Salamone",
+      "producer": "Adobe PDF Library 11.0",
+      "company": "Ryan, Inc."
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "City of University City",
+   "htmlTitle": "City of University City",
+   "link": "https://www.ucitymo.org/DocumentCenter/View/10521/Vendor-Permit-Application?bidId=",
+   "displayLink": "www.ucitymo.org",
+   "snippet": "Missouri Revised Statutes require verification of a Certificate of No Tax Due ... sell (i.e. hot dogs, clothing, books, etc.): Purpose of Activity: Please\u00a0...",
+   "htmlSnippet": "<b>Missouri Revised Statutes</b> require <b>verification</b> of a Certificate of No Tax Due ... <b>sell</b> (i.e. hot dogs, clothing, books, etc.): Purpose of Activity: Please&nbsp;...",
+   "formattedUrl": "https://www.ucitymo.org/DocumentCenter/.../Vendor-Permit-Application?...",
+   "htmlFormattedUrl": "https://www.ucitymo.org/DocumentCenter/.../Vendor-Permit-Application?...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRueHbSPEpluEVdbQEC2onYuaP6t-81bUPZ8p7c0FfIq2M2KHzihqoF-Ns&s",
+      "width": "131",
+      "height": "145"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20191017160858-05'00'",
+      "creationdate": "D:20191017160858-05'00'",
+      "creator": "Microsoft\u00ae Publisher 2013",
+      "author": "Windows User",
+      "producer": "Microsoft\u00ae Publisher 2013"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///91545d4611f16eba391ce30d7a9ff748a6719642ee0a0a890a2f9a6196a7a835"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

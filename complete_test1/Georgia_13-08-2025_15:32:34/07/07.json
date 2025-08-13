@@ -1,0 +1,566 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:play.google.com \"Georgia\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "128",
+    "searchTerms": "site:play.google.com \"Georgia\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:play.google.com \"Georgia\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "128",
+    "searchTerms": "site:play.google.com \"Georgia\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.138514,
+  "formattedSearchTime": "0.14",
+  "totalResults": "128",
+  "formattedTotalResults": "128"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile ID Check by MD - Apps on Google Play",
+   "htmlTitle": "<b>Mobile ID</b> Check by MD - Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.mdot.mva.mobileidcheck",
+   "displayLink": "play.google.com",
+   "snippet": "Oct 17, 2024 ... ID and Digital ID Verifier App by MDOT MVA for mDL and Physical ID Verification ... \u2022 Georgia \u2022 Louisiana \u2022 Hawaii \u2022 New York \u2022 Ohio \u2022 Utah \u2022 Iowa",
+   "htmlSnippet": "Oct 17, 2024 <b>...</b> ID and <b>Digital ID</b> Verifier App by MDOT MVA for <b>mDL</b> and Physical ID Verification ... \u2022 <b>Georgia</b> \u2022 Louisiana \u2022 Hawaii \u2022 New York \u2022 Ohio \u2022 Utah \u2022 Iowa",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.mdot...mobileidcheck",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.mdot...<b>mobileid</b>check",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.mdot.mva.mobileidcheck&rdid=com.mdot.mva.mobileidcheck&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCsUar5K4Nq7816RR9WGPdIMRXjTZnDqGcXZIcqDYsn22DpvREigblp8Do&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/3ZeAj6zKj-fHfJA8mqvks57oooYgUTM5p8LJlw_MQwol42IanOImYSuH8GqoCHiYfQ",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Mobile ID Check by MD - Apps on Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.mdot.mva.mobileidcheck&hl=en_US",
+      "appstore:developer_url": "https://mva.maryland.gov/Pages/MDMobileIDBusiness.aspx",
+      "og:title": "Mobile ID Check by MD - Apps on Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/3ZeAj6zKj-fHfJA8mqvks57oooYgUTM5p8LJlw_MQwol42IanOImYSuH8GqoCHiYfQ=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.mdot.mva.mobileidcheck",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.mdot.mva.mobileidcheck",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "ID and Digital ID Verifier App by MDOT MVA for mDL and Physical ID Verification.",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.mdot.mva.mobileidcheck&hl=en_US"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/3ZeAj6zKj-fHfJA8mqvks57oooYgUTM5p8LJlw_MQwol42IanOImYSuH8GqoCHiYfQ"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Idaho RCR - Apps on Google Play",
+   "htmlTitle": "Idaho RCR - Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.ibigroup.mobile.id.reporter.android",
+   "displayLink": "play.google.com",
+   "snippet": "Oct 23, 2024 ... More by Arcadis Digital Intelligence ; 511NY \u00b7 3.6 ; Florida 511 \u00b7 3.4 ; Idaho 511 \u00b7 2.7 ; 511 Wisconsin \u00b7 3.3 ; 511 Georgia \u00b7 2.8\u00a0...",
+   "htmlSnippet": "Oct 23, 2024 <b>...</b> More by Arcadis Digital Intelligence ; 511NY &middot; 3.6 ; Florida 511 &middot; 3.4 ; Idaho 511 &middot; 2.7 ; 511 Wisconsin &middot; 3.3 ; 511 <b>Georgia</b> &middot; 2.8&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.ibigroup.mobile.id...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.ibigroup.<b>mobile.id</b>...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.ibigroup.mobile.id.reporter.android&rdid=com.ibigroup.mobile.id.reporter.android&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk6t-VDvDtTeuway-QR4RoL0nQucdQW2GNS22gO7aiIEl_hEXzIjXVCRPL&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/v4E5zH2lhODGnGv3hKzgygUxBv2QSpIAUnSBEkIhNdCu-YrkpyhBfBX96B1SUiXTZFo",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Idaho RCR - Apps on Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.ibigroup.mobile.id.reporter.android&hl=en_US",
+      "appstore:developer_url": "https://511.idaho.gov",
+      "og:title": "Idaho RCR - Apps on Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/v4E5zH2lhODGnGv3hKzgygUxBv2QSpIAUnSBEkIhNdCu-YrkpyhBfBX96B1SUiXTZFo=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.ibigroup.mobile.id.reporter.android",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.ibigroup.mobile.id.reporter.android",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Report critical road events with the Idaho RCR app",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.ibigroup.mobile.id.reporter.android&hl=en_US"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/v4E5zH2lhODGnGv3hKzgygUxBv2QSpIAUnSBEkIhNdCu-YrkpyhBfBX96B1SUiXTZFo"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Idaho RCR \u2014 Lietotnes pakalpojum\u0101 Google Play",
+   "htmlTitle": "Idaho RCR \u2014 Lietotnes pakalpojum\u0101 Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.ibigroup.mobile.id.reporter.android&hl=lv",
+   "displayLink": "play.google.com",
+   "snippet": "511 Georgia. Arcadis Digital Intelligence. 2,8star \u00b7 S\u012bkt\u0113ls. Idaho 511. Arcadis Digital Intelligence. 2,7star \u00b7 S\u012bkt\u0113ls. Nevada 511. Arcadis Digital\u00a0...",
+   "htmlSnippet": "511 <b>Georgia</b>. Arcadis Digital Intelligence. 2,8star &middot; S\u012bkt\u0113ls. Idaho 511. Arcadis Digital Intelligence. 2,7star &middot; S\u012bkt\u0113ls. Nevada 511. Arcadis Digital&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.ibigroup.mobile.id...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.ibigroup.<b>mobile.id</b>...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.ibigroup.mobile.id.reporter.android&rdid=com.ibigroup.mobile.id.reporter.android&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk6t-VDvDtTeuway-QR4RoL0nQucdQW2GNS22gO7aiIEl_hEXzIjXVCRPL&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/v4E5zH2lhODGnGv3hKzgygUxBv2QSpIAUnSBEkIhNdCu-YrkpyhBfBX96B1SUiXTZFo",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Idaho RCR \u2014 Lietotnes pakalpojum\u0101 Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.ibigroup.mobile.id.reporter.android&hl=lv",
+      "appstore:developer_url": "https://511.idaho.gov",
+      "og:title": "Idaho RCR \u2014 Lietotnes pakalpojum\u0101 Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/v4E5zH2lhODGnGv3hKzgygUxBv2QSpIAUnSBEkIhNdCu-YrkpyhBfBX96B1SUiXTZFo=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.ibigroup.mobile.id.reporter.android",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.ibigroup.mobile.id.reporter.android",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Zi\u0146ojiet par kritiskiem notikumiem uz ce\u013ca, izmantojot lietotni Idaho RCR",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.ibigroup.mobile.id.reporter.android&hl=lv"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/v4E5zH2lhODGnGv3hKzgygUxBv2QSpIAUnSBEkIhNdCu-YrkpyhBfBX96B1SUiXTZFo"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Idaho RCR - Mga App sa Google Play",
+   "htmlTitle": "Idaho RCR - Mga App sa Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.ibigroup.mobile.id.reporter.android&hl=fil",
+   "displayLink": "play.google.com",
+   "snippet": "511 Georgia. Arcadis Digital Intelligence. 2.8star \u00b7 Thumbnail na larawan. Nevada 511. Arcadis Digital Intelligence. 3.6star. Mga katulad na app. arrow_forward.",
+   "htmlSnippet": "511 <b>Georgia</b>. Arcadis Digital Intelligence. 2.8star &middot; Thumbnail na larawan. Nevada 511. Arcadis Digital Intelligence. 3.6star. Mga katulad na app. arrow_forward.",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.ibigroup.mobile.id...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.ibigroup.<b>mobile.id</b>...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.ibigroup.mobile.id.reporter.android&rdid=com.ibigroup.mobile.id.reporter.android&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk6t-VDvDtTeuway-QR4RoL0nQucdQW2GNS22gO7aiIEl_hEXzIjXVCRPL&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/v4E5zH2lhODGnGv3hKzgygUxBv2QSpIAUnSBEkIhNdCu-YrkpyhBfBX96B1SUiXTZFo",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Idaho RCR - Mga App sa Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.ibigroup.mobile.id.reporter.android&hl=fil",
+      "appstore:developer_url": "https://511.idaho.gov",
+      "og:title": "Idaho RCR - Mga App sa Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/v4E5zH2lhODGnGv3hKzgygUxBv2QSpIAUnSBEkIhNdCu-YrkpyhBfBX96B1SUiXTZFo=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.ibigroup.mobile.id.reporter.android",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.ibigroup.mobile.id.reporter.android",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Mag-ulat ng mga kritikal na kaganapan sa kalsada gamit ang Idaho RCR app",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.ibigroup.mobile.id.reporter.android&hl=fil"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/v4E5zH2lhODGnGv3hKzgygUxBv2QSpIAUnSBEkIhNdCu-YrkpyhBfBX96B1SUiXTZFo"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mercury Insurance \u2013 Apps on Google Play",
+   "htmlTitle": "Mercury Insurance \u2013 Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.mercuryinsurance.cpmobileapp&hl=en_ZA",
+   "displayLink": "play.google.com",
+   "snippet": "Digital ID Cards \u2014 No longer do you have to comb through your wallet, purse ... Mercury also writes auto and home insurance in Arizona, Georgia\u00a0...",
+   "htmlSnippet": "<b>Digital ID</b> Cards \u2014 No longer do you have to comb through your wallet, purse ... Mercury also writes auto and home insurance in Arizona, <b>Georgia</b>&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.mercuryinsurance...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.mercuryinsurance...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.mercuryinsurance.cpmobileapp&rdid=com.mercuryinsurance.cpmobileapp&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfuKU2spu17acI0dskLNMkjl-xualuqXvjpFFSLVXKNYzFmX35bJ6ina_Z&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/2AhNOwc2bwBOlD1TetvxlmwTiKjIrKCeJJJDS-9WnFjUE342ZbkGdJKi1B0g8WRAMzA",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Mercury Insurance \u2013 Apps on Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.mercuryinsurance.cpmobileapp&hl=en_ZA",
+      "appstore:developer_url": "https://www.mercuryinsurance.com",
+      "og:title": "Mercury Insurance \u2013 Apps on Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/2AhNOwc2bwBOlD1TetvxlmwTiKjIrKCeJJJDS-9WnFjUE342ZbkGdJKi1B0g8WRAMzA=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.mercuryinsurance.cpmobileapp",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.mercuryinsurance.cpmobileapp",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Access your insurance policies, pay bills, call roadside assistance, and more",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.mercuryinsurance.cpmobileapp&hl=en_ZA"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/2AhNOwc2bwBOlD1TetvxlmwTiKjIrKCeJJJDS-9WnFjUE342ZbkGdJKi1B0g8WRAMzA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mercury Insurance: Car & Home - Apps on Google Play",
+   "htmlTitle": "Mercury Insurance: Car &amp; Home - Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.mercuryinsurance.cpmobileapp",
+   "displayLink": "play.google.com",
+   "snippet": "Get quick, easy access to your home and car insurance policies and digital ID ... Mercury also writes auto insurance in Arizona, Georgia, Illinois, Nevada\u00a0...",
+   "htmlSnippet": "Get quick, easy access to your home and car insurance policies and <b>digital ID</b> ... Mercury also writes auto insurance in Arizona, <b>Georgia</b>, Illinois, Nevada&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.mercuryinsurance...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.mercuryinsurance...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.mercuryinsurance.cpmobileapp&rdid=com.mercuryinsurance.cpmobileapp&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu2OzOOXa37WCHGrBCEozMZahv4KXH2vKNSLEITAFz_L4LkogLmPUYCKWP&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/pCzR5ZPc3iz4TL4WMsQ2GHOcAflO9Jo0Bk1zWKWyEJHCxAbctjxwgIfrntC52uo6Qhw",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Mercury Insurance: Car & Home - Apps on Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.mercuryinsurance.cpmobileapp&hl=en_US",
+      "appstore:developer_url": "https://www.mercuryinsurance.com",
+      "og:title": "Mercury Insurance: Car & Home - Apps on Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/pCzR5ZPc3iz4TL4WMsQ2GHOcAflO9Jo0Bk1zWKWyEJHCxAbctjxwgIfrntC52uo6Qhw=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.mercuryinsurance.cpmobileapp",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.mercuryinsurance.cpmobileapp",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Manage home & auto policies-- get ID cards, roadside assistance & make payments!",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.mercuryinsurance.cpmobileapp&hl=en_US"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/pCzR5ZPc3iz4TL4WMsQ2GHOcAflO9Jo0Bk1zWKWyEJHCxAbctjxwgIfrntC52uo6Qhw"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile ID Check by MD - Mga App sa Google Play",
+   "htmlTitle": "<b>Mobile ID</b> Check by MD - Mga App sa Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.mdot.mva.mobileidcheck&hl=fil",
+   "displayLink": "play.google.com",
+   "snippet": "Oct 17, 2024 ... \u2022 Georgia \u2022 Louisiana \u2022 Hawaii \u2022 New York \u2022 Ohio \u2022 Utah \u2022 Iowa ... ID and Digital ID Verifier App by MDOT MVA for mDL and Physical ID Verification\u00a0...",
+   "htmlSnippet": "Oct 17, 2024 <b>...</b> \u2022 <b>Georgia</b> \u2022 Louisiana \u2022 Hawaii \u2022 New York \u2022 Ohio \u2022 Utah \u2022 Iowa ... ID and <b>Digital ID</b> Verifier App by MDOT MVA for <b>mDL</b> and Physical ID Verification&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com...mobileidcheck&hl...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com...<b>mobileid</b>check&amp;hl...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.mdot.mva.mobileidcheck&rdid=com.mdot.mva.mobileidcheck&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCsUar5K4Nq7816RR9WGPdIMRXjTZnDqGcXZIcqDYsn22DpvREigblp8Do&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/3ZeAj6zKj-fHfJA8mqvks57oooYgUTM5p8LJlw_MQwol42IanOImYSuH8GqoCHiYfQ",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Mobile ID Check by MD - Mga App sa Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.mdot.mva.mobileidcheck&hl=fil",
+      "appstore:developer_url": "https://mva.maryland.gov/Pages/MDMobileIDBusiness.aspx",
+      "og:title": "Mobile ID Check by MD - Mga App sa Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/3ZeAj6zKj-fHfJA8mqvks57oooYgUTM5p8LJlw_MQwol42IanOImYSuH8GqoCHiYfQ=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.mdot.mva.mobileidcheck",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.mdot.mva.mobileidcheck",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "ID at Digital ID Verifier App ng MDOT MVA para sa mDL at Physical ID Verification.",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.mdot.mva.mobileidcheck&hl=fil"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/3ZeAj6zKj-fHfJA8mqvks57oooYgUTM5p8LJlw_MQwol42IanOImYSuH8GqoCHiYfQ"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Tap2iD Mobile\u2122 - Apps on Google Play",
+   "htmlTitle": "Tap2iD Mobile\u2122 - Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.credenceid.phoneverifier",
+   "displayLink": "play.google.com",
+   "snippet": "Oct 26, 2024 ... Digital ID/mDL verifier app by CredenceID for mobile driver license verification. ... Georgia, Iowa, Louisiana, Maryland, New York, Ohio\u00a0...",
+   "htmlSnippet": "Oct 26, 2024 <b>...</b> <b>Digital ID</b>/<b>mDL</b> verifier app by CredenceID for mobile driver license verification. ... <b>Georgia</b>, Iowa, Louisiana, Maryland, New York, Ohio&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.credenceid...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.credenceid...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.credenceid.phoneverifier&rdid=com.credenceid.phoneverifier&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8qI42wxhgmVXWQyD_tb7e2DoR6II-CjRZxiZU9uIQkqlnBAi-kCbViCc&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/816pGMGCio9cvaTMv9s1TVBHuhWWdwSkLGoz_kEWRo2e92q7IrUVGP8ABOHmcfSAog",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Tap2iD Mobile\u2122 - Apps on Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.credenceid.phoneverifier&hl=en_US",
+      "appstore:developer_url": "https://www.credenceid.com/digital-id",
+      "og:title": "Tap2iD Mobile\u2122 - Apps on Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/816pGMGCio9cvaTMv9s1TVBHuhWWdwSkLGoz_kEWRo2e92q7IrUVGP8ABOHmcfSAog=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.credenceid.phoneverifier",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.credenceid.phoneverifier",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Digital ID/mDL verifier app by CredenceID for mobile driver license verification",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.credenceid.phoneverifier&hl=en_US"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/816pGMGCio9cvaTMv9s1TVBHuhWWdwSkLGoz_kEWRo2e92q7IrUVGP8ABOHmcfSAog"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mercury Insurance: Car & Home - Mga App sa Google Play",
+   "htmlTitle": "Mercury Insurance: Car &amp; Home - Mga App sa Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.mercuryinsurance.cpmobileapp&hl=fil",
+   "displayLink": "play.google.com",
+   "snippet": "Kumuha ng mabilis, madaling pag-access sa iyong mga patakaran sa insurance sa bahay at kotse at mga digital ID card, bayaran ang iyong mga bayarin, tumawag\u00a0...",
+   "htmlSnippet": "Kumuha ng mabilis, madaling pag-access sa iyong mga patakaran sa insurance sa bahay at kotse at mga <b>digital ID</b> card, bayaran ang iyong mga bayarin, tumawag&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.mercuryinsurance...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.mercuryinsurance...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.mercuryinsurance.cpmobileapp&rdid=com.mercuryinsurance.cpmobileapp&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu2OzOOXa37WCHGrBCEozMZahv4KXH2vKNSLEITAFz_L4LkogLmPUYCKWP&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/pCzR5ZPc3iz4TL4WMsQ2GHOcAflO9Jo0Bk1zWKWyEJHCxAbctjxwgIfrntC52uo6Qhw",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Mercury Insurance: Car & Home - Mga App sa Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.mercuryinsurance.cpmobileapp&hl=fil",
+      "appstore:developer_url": "https://www.mercuryinsurance.com",
+      "og:title": "Mercury Insurance: Car & Home - Mga App sa Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/pCzR5ZPc3iz4TL4WMsQ2GHOcAflO9Jo0Bk1zWKWyEJHCxAbctjxwgIfrntC52uo6Qhw=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.mercuryinsurance.cpmobileapp",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.mercuryinsurance.cpmobileapp",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Pamahalaan ang mga patakaran sa bahay at sasakyan-- kumuha ng mga ID card, tulong sa tabing daan at magbayad!",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.mercuryinsurance.cpmobileapp&hl=fil"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/pCzR5ZPc3iz4TL4WMsQ2GHOcAflO9Jo0Bk1zWKWyEJHCxAbctjxwgIfrntC52uo6Qhw"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "e-Pocket \u2013 Apps on Google Play",
+   "htmlTitle": "e-Pocket \u2013 Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details?id=w3axis.com.epocket&hl=en_ZA",
+   "displayLink": "play.google.com",
+   "snippet": "... Georgia (GEL), Germany (EUR), Ghana (GHS), Greece (EUR), Guatemala (GTQ) ... (MDL), Montenegro (EUR), Mozambique (MZN), Nepal (NPR), Netherlands (EUR)\u00a0...",
+   "htmlSnippet": "... <b>Georgia</b> (GEL), Germany (EUR), Ghana (GHS), Greece (EUR), Guatemala (GTQ) ... (<b>MDL</b>), Montenegro (EUR), Mozambique (MZN), Nepal (NPR), Netherlands (EUR)&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=w3axis.com.epocket...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=w3axis.com.epocket...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=w3axis.com.epocket&rdid=w3axis.com.epocket&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQorNSst-OgQOpNUIKHfMYivwEVmy2bHOR0GsrWWk0IDIp3LWmP7nAz3rP3&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/1IXg46X4JahLhv1Ccw-LAlFPxQk5X1qy_l0CGtTjrn7FMbk-t0AZcz8ISSsbfyif_EK7",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "e-Pocket \u2013 Apps on Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=w3axis.com.epocket&hl=en_ZA",
+      "appstore:developer_url": "https://www.e-pocketexchange.com/",
+      "og:title": "e-Pocket \u2013 Apps on Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/1IXg46X4JahLhv1Ccw-LAlFPxQk5X1qy_l0CGtTjrn7FMbk-t0AZcz8ISSsbfyif_EK7=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "w3axis.com.epocket",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "w3axis.com.epocket",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Send money overseas from Australia.$0 fees and the best rates to 100+ countries!",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=w3axis.com.epocket&hl=en_ZA"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/1IXg46X4JahLhv1Ccw-LAlFPxQk5X1qy_l0CGtTjrn7FMbk-t0AZcz8ISSsbfyif_EK7"
+     }
+    ]
+   }
+  }
+ ]
+}

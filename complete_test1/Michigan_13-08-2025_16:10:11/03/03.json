@@ -1,0 +1,532 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://www.michigan.gov/sos \"REAL ID\"",
+    "totalResults": "1250",
+    "searchTerms": "site:https://www.michigan.gov/sos \"REAL ID\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://www.michigan.gov/sos \"REAL ID\"",
+    "totalResults": "1250",
+    "searchTerms": "site:https://www.michigan.gov/sos \"REAL ID\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.126516,
+  "formattedSearchTime": "0.13",
+  "totalResults": "1250",
+  "formattedTotalResults": "1,250"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "REAL ID",
+   "htmlTitle": "<b>REAL ID</b>",
+   "link": "https://www.michigan.gov/sos/license-id/real-id",
+   "displayLink": "www.michigan.gov",
+   "snippet": "As of May 7, 2025, Michigan residents will need to present a REAL ID-compliant document to fly within the United States and enter certain federal facilities.",
+   "htmlSnippet": "As of May 7, 2025, Michigan residents will need to present a <b>REAL ID</b>-compliant document to fly within the United States and enter certain federal facilities.",
+   "formattedUrl": "https://www.michigan.gov/sos/license-id/real-id",
+   "htmlFormattedUrl": "https://www.michigan.gov/sos/license-id/<b>real-id</b>",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnVLF7JuYdMS0N97N5FeDniRHQZ_ghPXWsKhBS1FUnr2wGG7UPU_KtT68n&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#277c78",
+      "msapplication-config": "/sos/-/media/Project/Websites/shared/Browser-Icon/browserconfig.xml?rev=15a1c884ffca4409bb27fcec7eef109e&hash=369751F3709513B9A31158C415829AF1",
+      "page-breadcrumb": "Michigan Secretary of State|License & ID|REAL ID",
+      "og:image": "https://www.michigan.gov/sos/-/media/Project/Websites/SOM/Images/Global-SOM/Michigangov-OG-Image.png?rev=04d34972184442b1bd24b5efb46cd150&hash=93E0981B47D161E64232A339C5563129",
+      "theme-color": "#ffffff",
+      "site-name": "Michigan Department of State",
+      "twitter:title": "REAL ID",
+      "twitter:card": "summary_large_image",
+      "site-logo": "/sos/-/media/Images/Logos/sos.svg?rev=df41028bd3784c92a9b1633d8f15ecb9&hash=33673105B52071B2DA56ABB49E2852DC",
+      "sxa-tags": "Secretary of State",
+      "site-agency": "SOS",
+      "og:title": "REAL ID",
+      "grouped-item-type": "Webpages",
+      "item-type": "Page",
+      "viewport": "width=device-width, initial-scale=1",
+      "page-template": "Page",
+      "site-agency-name": "Department of State - Secretary of State",
+      "site-hierarchy": "Department of State - Secretary of State|Michigan Department of State",
+      "og:url": "https://www.michigan.gov/sos/license-id/real-id",
+      "page-hasformcomponent": "false",
+      "site-path": "sos",
+      "page-image": "/sos/-/media/Project/Websites/sos/License-and-ID/REAL-ID/REALID_Hero.jpg?rev=b8bb64e61c3744369e5e2f9ada4a6657&hash=48E746423BD80AEDA66002C401C4E871"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.michigan.gov/sos/-/media/Project/Websites/SOM/Images/Global-SOM/Michigangov-OG-Image.png?rev=04d34972184442b1bd24b5efb46cd150&hash=93E0981B47D161E64232A339C5563129"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "REAL ID information flyer",
+   "htmlTitle": "<b>REAL ID</b> information flyer",
+   "link": "https://www.michigan.gov/sos/-/media/Project/Websites/sos/License-and-ID/REAL-ID/REAL-ID_InfoSheet_85x11.pdf?rev=877246974a464772abe1351296783e90",
+   "displayLink": "www.michigan.gov",
+   "snippet": "REAL ID is a federal law passed after 9/11. Applying for a REAL ID driver's license or ID card. Schedule a visit at a Secretary of State office at Michigan.",
+   "htmlSnippet": "<b>REAL ID</b> is a federal law passed after 9/11. Applying for a <b>REAL ID</b> driver&#39;s license or ID card. Schedule a visit at a Secretary of State office at Michigan.",
+   "formattedUrl": "https://www.michigan.gov/.../REAL-ID/REAL-ID_InfoSheet_85x11.pdf?...",
+   "htmlFormattedUrl": "https://www.michigan.gov/.../<b>REAL-ID</b>/<b>REAL-ID</b>_InfoSheet_85x11.pdf?...",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20250114150743-05'00'",
+      "creationdate": "D:20250114150743-05'00'",
+      "creator": "Adobe InDesign 20.0 (Macintosh)",
+      "author": "Michigan Department of State",
+      "producer": "Adobe PDF Library 17.0",
+      "title": "REAL ID information flyer"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "REAL ID",
+   "htmlTitle": "<b>REAL ID</b>",
+   "link": "https://www.michigan.gov/sos/faqs/license-and-id/real-id",
+   "displayLink": "www.michigan.gov",
+   "snippet": "Can non-US citizens apply for a REAL ID? For instance, is a permanent resident eligible for a REAL ID? Are non-permanent residents eligible for REAL ID?",
+   "htmlSnippet": "Can non-US citizens apply for a <b>REAL ID</b>? For instance, is a permanent resident eligible for a <b>REAL ID</b>? Are non-permanent residents eligible for <b>REAL ID</b>?",
+   "formattedUrl": "https://www.michigan.gov/sos/faqs/license-and-id/real-id",
+   "htmlFormattedUrl": "https://www.michigan.gov/sos/faqs/license-and-id/<b>real-id</b>",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnVLF7JuYdMS0N97N5FeDniRHQZ_ghPXWsKhBS1FUnr2wGG7UPU_KtT68n&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#277c78",
+      "msapplication-config": "/sos/-/media/Project/Websites/shared/Browser-Icon/browserconfig.xml?rev=15a1c884ffca4409bb27fcec7eef109e&hash=369751F3709513B9A31158C415829AF1",
+      "page-breadcrumb": "Michigan Secretary of State|FAQs|REAL ID",
+      "og:image": "https://www.michigan.gov/sos/-/media/Project/Websites/SOM/Images/Global-SOM/Michigangov-OG-Image.png?rev=04d34972184442b1bd24b5efb46cd150&hash=93E0981B47D161E64232A339C5563129",
+      "theme-color": "#ffffff",
+      "site-name": "Michigan Department of State",
+      "twitter:title": "REAL ID",
+      "twitter:card": "summary_large_image",
+      "site-logo": "/sos/-/media/Images/Logos/sos.svg?rev=df41028bd3784c92a9b1633d8f15ecb9&hash=33673105B52071B2DA56ABB49E2852DC",
+      "site-agency": "SOS",
+      "og:title": "REAL ID",
+      "grouped-item-type": "Webpages",
+      "item-type": "FAQ Category Page",
+      "viewport": "width=device-width, initial-scale=1",
+      "page-template": "FAQ Category Page",
+      "site-agency-name": "Department of State - Secretary of State",
+      "site-hierarchy": "Department of State - Secretary of State|Michigan Department of State",
+      "og:url": "https://www.michigan.gov/sos/faqs/license-and-id/real-id",
+      "page-hasformcomponent": "false",
+      "site-path": "sos"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.michigan.gov/sos/-/media/Project/Websites/SOM/Images/Global-SOM/Michigangov-OG-Image.png?rev=04d34972184442b1bd24b5efb46cd150&hash=93E0981B47D161E64232A339C5563129"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "License or ID renewal",
+   "htmlTitle": "License or ID renewal",
+   "link": "https://www.michigan.gov/sos/all-services/license-or-id-renewal",
+   "displayLink": "www.michigan.gov",
+   "snippet": "To receive your first-time REAL ID-compliant license or ID, an office visit and further documentation are required. Download flyer. How can I renew my\u00a0...",
+   "htmlSnippet": "To receive your first-time <b>REAL ID</b>-compliant license or ID, an office visit and further documentation are required. Download flyer. How can I renew my&nbsp;...",
+   "formattedUrl": "https://www.michigan.gov/sos/all-services/license-or-id-renewal",
+   "htmlFormattedUrl": "https://www.michigan.gov/sos/all-services/license-or-id-renewal",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnVLF7JuYdMS0N97N5FeDniRHQZ_ghPXWsKhBS1FUnr2wGG7UPU_KtT68n&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#277c78",
+      "msapplication-config": "/sos/-/media/Project/Websites/shared/Browser-Icon/browserconfig.xml?rev=15a1c884ffca4409bb27fcec7eef109e&hash=369751F3709513B9A31158C415829AF1",
+      "page-breadcrumb": "Michigan Secretary of State|License or ID renewal",
+      "og:image": "https://www.michigan.gov/sos/-/media/Project/Websites/SOM/Images/Global-SOM/Michigangov-OG-Image.png?rev=04d34972184442b1bd24b5efb46cd150&hash=93E0981B47D161E64232A339C5563129",
+      "theme-color": "#ffffff",
+      "site-name": "Michigan Department of State",
+      "twitter:title": "License or ID renewal",
+      "twitter:card": "summary_large_image",
+      "site-logo": "/sos/-/media/Images/Logos/sos.svg?rev=df41028bd3784c92a9b1633d8f15ecb9&hash=33673105B52071B2DA56ABB49E2852DC",
+      "site-agency": "SOS",
+      "og:title": "License or ID renewal",
+      "grouped-item-type": "Webpages",
+      "item-type": "Page",
+      "viewport": "width=device-width, initial-scale=1",
+      "page-template": "Page",
+      "site-agency-name": "Department of State - Secretary of State",
+      "site-hierarchy": "Department of State - Secretary of State|Michigan Department of State",
+      "og:url": "https://www.michigan.gov/sos/all-services/license-or-id-renewal",
+      "page-hasformcomponent": "false",
+      "site-path": "sos"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.michigan.gov/sos/-/media/Project/Websites/SOM/Images/Global-SOM/Michigangov-OG-Image.png?rev=04d34972184442b1bd24b5efb46cd150&hash=93E0981B47D161E64232A339C5563129"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "As REAL ID deadline approaches, Michigan Secretary of State ...",
+   "htmlTitle": "As <b>REAL ID</b> deadline approaches, Michigan Secretary of State ...",
+   "link": "https://www.michigan.gov/sos/resources/news/2025/04/16/as-real-id-deadline-approaches-mi-sos-still-providing-fast-and-efficient-service",
+   "displayLink": "www.michigan.gov",
+   "snippet": "Apr 16, 2025 ... With the May 7 federal REAL ID deadline fast approaching that will require compliant identification to fly in the U.S., Michigan Secretary\u00a0...",
+   "htmlSnippet": "Apr 16, 2025 <b>...</b> With the May 7 federal <b>REAL ID</b> deadline fast approaching that will require compliant identification to fly in the U.S., Michigan Secretary&nbsp;...",
+   "formattedUrl": "https://www.michigan.gov/.../as-real-id-deadline-approaches-mi-sos-still-pr...",
+   "htmlFormattedUrl": "https://www.michigan.gov/.../as-<b>real-id</b>-deadline-approaches-mi-sos-still-pr...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnVLF7JuYdMS0N97N5FeDniRHQZ_ghPXWsKhBS1FUnr2wGG7UPU_KtT68n&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-config": "/sos/-/media/Project/Websites/shared/Browser-Icon/browserconfig.xml?rev=15a1c884ffca4409bb27fcec7eef109e&hash=369751F3709513B9A31158C415829AF1",
+      "page-breadcrumb": "Michigan Secretary of State|Resources|News|As REAL ID deadline approaches, Michigan Secretary of State offices still providing fast and efficient service",
+      "og:image": "https://www.michigan.gov/sos/-/media/Project/Websites/SOM/Images/Global-SOM/Michigangov-OG-Image.png?rev=04d34972184442b1bd24b5efb46cd150&hash=93E0981B47D161E64232A339C5563129",
+      "theme-color": "#ffffff",
+      "twitter:card": "summary_large_image",
+      "site-logo": "/sos/-/media/Images/Logos/sos.svg?rev=df41028bd3784c92a9b1633d8f15ecb9&hash=33673105B52071B2DA56ABB49E2852DC",
+      "site-agency": "SOS",
+      "og:description": "With the May 7 federal REAL ID deadline fast approaching that will require compliant identification to fly in the U.S., Michigan Secretary of State offices offer fast and easy ways for customers to upgrade their driver\u2019s license or ID.",
+      "mediacontact-email": "HardmonC@Michigan.gov",
+      "grouped-item-type": "Articles",
+      "mediacontact-title": "Senior Press Secretary",
+      "item-type": "News Detail",
+      "datemodified": "04/29/2025 21:37:38",
+      "page-template": "News Detail",
+      "site-agency-name": "Department of State - Secretary of State",
+      "datepublished": "04/16/2025 12:00:00",
+      "site-path": "sos",
+      "msapplication-tilecolor": "#277c78",
+      "site-name": "Michigan Department of State",
+      "twitter:title": "As REAL ID deadline approaches, Michigan Secretary of State offices still providing fast and efficient service",
+      "sxa-tags": "MI Newswire|Department of State - Secretary of State|Secretary of State|News Article|Services",
+      "og:title": "As REAL ID deadline approaches, Michigan Secretary of State offices still providing fast and efficient service",
+      "mediacontact-fullname": "Cheri Hardmon",
+      "page-summary": "With the May 7 federal REAL ID deadline fast approaching that will require compliant identification to fly in the U.S., Michigan Secretary of State offices offer fast and easy ways for customers to upgrade their driver\u2019s license or ID.",
+      "viewport": "width=device-width, initial-scale=1",
+      "site-hierarchy": "Department of State - Secretary of State|Michigan Department of State",
+      "og:url": "https://www.michigan.gov/sos/resources/news/2025/04/16/as-real-id-deadline-approaches-mi-sos-still-providing-fast-and-efficient-service",
+      "page-hasformcomponent": "false"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.michigan.gov/sos/-/media/Project/Websites/SOM/Images/Global-SOM/Michigangov-OG-Image.png?rev=04d34972184442b1bd24b5efb46cd150&hash=93E0981B47D161E64232A339C5563129"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "If your license or ID has a star, you are REAL ID ready",
+   "htmlTitle": "If your license or ID has a star, you are <b>REAL ID</b> ready",
+   "link": "https://www.michigan.gov/sos/resources/news/2025/03/25/if-your-license-or-id-has-a-star-you-are-real-id-ready",
+   "displayLink": "www.michigan.gov",
+   "snippet": "Mar 25, 2025 ... Older blue and green licenses and IDs that have the REAL ID star in a gold circle on them are also compliant. The federal REAL ID Act of 2005\u00a0...",
+   "htmlSnippet": "Mar 25, 2025 <b>...</b> Older blue and green licenses and IDs that have the <b>REAL ID</b> star in a gold circle on them are also compliant. The federal <b>REAL ID</b> Act of 2005&nbsp;...",
+   "formattedUrl": "https://www.michigan.gov/.../if-your-license-or-id-has-a-star-you-are-real-i...",
+   "htmlFormattedUrl": "https://www.michigan.gov/.../if-your-license-or-id-has-a-star-you-are-<b>real-i</b>...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnVLF7JuYdMS0N97N5FeDniRHQZ_ghPXWsKhBS1FUnr2wGG7UPU_KtT68n&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-config": "/sos/-/media/Project/Websites/shared/Browser-Icon/browserconfig.xml?rev=15a1c884ffca4409bb27fcec7eef109e&hash=369751F3709513B9A31158C415829AF1",
+      "page-breadcrumb": "Michigan Secretary of State|Resources|News|If your license or ID has a star, you are REAL ID ready",
+      "og:image": "https://www.michigan.gov/sos/-/media/Project/Websites/SOM/Images/Global-SOM/Michigangov-OG-Image.png?rev=04d34972184442b1bd24b5efb46cd150&hash=93E0981B47D161E64232A339C5563129",
+      "theme-color": "#ffffff",
+      "twitter:card": "summary_large_image",
+      "site-logo": "/sos/-/media/Images/Logos/sos.svg?rev=df41028bd3784c92a9b1633d8f15ecb9&hash=33673105B52071B2DA56ABB49E2852DC",
+      "site-agency": "SOS",
+      "og:description": "As the federal deadline approaches, Secretary of State Jocelyn Benson said more than 73% of people with a Michigan driver\u2019s license or ID have already upgraded to a REAL ID.",
+      "grouped-item-type": "Articles",
+      "item-type": "News Detail",
+      "datemodified": "04/15/2025 17:32:47",
+      "page-template": "News Detail",
+      "site-agency-name": "Department of State - Secretary of State",
+      "datepublished": "03/25/2025 12:00:00",
+      "site-path": "sos",
+      "msapplication-tilecolor": "#277c78",
+      "site-name": "Michigan Department of State",
+      "twitter:title": "If your license or ID has a star, you are REAL ID ready",
+      "sxa-tags": "MI Newswire|Department of State - Secretary of State|Secretary of State|News Article|Other",
+      "og:title": "If your license or ID has a star, you are REAL ID ready",
+      "page-summary": "As the federal deadline approaches, Secretary of State Jocelyn Benson said more than 73% of people with a Michigan driver\u2019s license or ID have already upgraded to a REAL ID.",
+      "viewport": "width=device-width, initial-scale=1",
+      "site-hierarchy": "Department of State - Secretary of State|Michigan Department of State",
+      "og:url": "https://www.michigan.gov/sos/resources/news/2025/03/25/if-your-license-or-id-has-a-star-you-are-real-id-ready",
+      "page-hasformcomponent": "false"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.michigan.gov/sos/-/media/Project/Websites/SOM/Images/Global-SOM/Michigangov-OG-Image.png?rev=04d34972184442b1bd24b5efb46cd150&hash=93E0981B47D161E64232A339C5563129"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Secretary of State Jocelyn Benson",
+   "htmlTitle": "Secretary of State Jocelyn Benson",
+   "link": "https://www.michigan.gov/sos",
+   "displayLink": "www.michigan.gov",
+   "snippet": "License and ID. First-time \u00b7 Renew \u00b7 Replace \u00b7 REAL ID \u00b7 Enhanced. Title and vehicle registration. Title transfer and vehicle registration \u00b7 Replacement/\u00a0...",
+   "htmlSnippet": "License and ID. First-time &middot; Renew &middot; Replace &middot; <b>REAL ID</b> &middot; Enhanced. Title and vehicle registration. Title transfer and vehicle registration &middot; Replacement/&nbsp;...",
+   "formattedUrl": "https://www.michigan.gov/sos",
+   "htmlFormattedUrl": "https://www.michigan.gov/sos",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnVLF7JuYdMS0N97N5FeDniRHQZ_ghPXWsKhBS1FUnr2wGG7UPU_KtT68n&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#277c78",
+      "msapplication-config": "/sos/-/media/Project/Websites/shared/Browser-Icon/browserconfig.xml?rev=15a1c884ffca4409bb27fcec7eef109e&hash=369751F3709513B9A31158C415829AF1",
+      "page-breadcrumb": "Michigan Secretary of State",
+      "og:image": "https://www.michigan.gov/sos/-/media/Project/Websites/SOM/Images/Global-SOM/Michigangov-OG-Image.png?rev=04d34972184442b1bd24b5efb46cd150&hash=93E0981B47D161E64232A339C5563129",
+      "theme-color": "#ffffff",
+      "site-name": "Michigan Department of State",
+      "twitter:title": "Secretary of State Jocelyn Benson",
+      "twitter:card": "summary_large_image",
+      "site-logo": "/sos/-/media/Images/Logos/sos.svg?rev=df41028bd3784c92a9b1633d8f15ecb9&hash=33673105B52071B2DA56ABB49E2852DC",
+      "sxa-tags": "Secretary of State",
+      "site-agency": "SOS",
+      "og:title": "Michigan Secretary of State",
+      "og:description": "Michigan Secretary of State",
+      "page-summary": "Michigan Secretary of State",
+      "grouped-item-type": "Webpages",
+      "item-type": "Home",
+      "viewport": "width=device-width, initial-scale=1",
+      "page-template": "Home",
+      "site-agency-name": "Department of State - Secretary of State",
+      "site-hierarchy": "Department of State - Secretary of State|Michigan Department of State",
+      "og:url": "https://www.michigan.gov/sos",
+      "page-hasformcomponent": "false",
+      "site-path": "sos",
+      "page-image": "/sos/-/media/Project/Websites/sos/Home/Benson_Hero.jpg?rev=1741d87452d846adb2326e2b3917d2c8&hash=CF6BA2AE8283F9FFE8C7E39C1DFA6936"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.michigan.gov/sos/-/media/Project/Websites/SOM/Images/Global-SOM/Michigangov-OG-Image.png?rev=04d34972184442b1bd24b5efb46cd150&hash=93E0981B47D161E64232A339C5563129"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "First-time license or ID",
+   "htmlTitle": "First-time license or ID",
+   "link": "https://www.michigan.gov/sos/all-services/first-time-license-or-id",
+   "displayLink": "www.michigan.gov",
+   "snippet": "To receive your first-time REAL ID-compliant license or ID, an office visit and further documentation are required.",
+   "htmlSnippet": "To receive your first-time <b>REAL ID</b>-compliant license or ID, an office visit and further documentation are required.",
+   "formattedUrl": "https://www.michigan.gov/sos/all-services/first-time-license-or-id",
+   "htmlFormattedUrl": "https://www.michigan.gov/sos/all-services/first-time-license-or-id",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnVLF7JuYdMS0N97N5FeDniRHQZ_ghPXWsKhBS1FUnr2wGG7UPU_KtT68n&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#277c78",
+      "msapplication-config": "/sos/-/media/Project/Websites/shared/Browser-Icon/browserconfig.xml?rev=15a1c884ffca4409bb27fcec7eef109e&hash=369751F3709513B9A31158C415829AF1",
+      "page-breadcrumb": "Michigan Secretary of State|First-time license or ID",
+      "og:image": "https://www.michigan.gov/sos/-/media/Project/Websites/SOM/Images/Global-SOM/Michigangov-OG-Image.png?rev=04d34972184442b1bd24b5efb46cd150&hash=93E0981B47D161E64232A339C5563129",
+      "theme-color": "#ffffff",
+      "site-name": "Michigan Department of State",
+      "twitter:title": "First-time license or ID",
+      "twitter:card": "summary_large_image",
+      "site-logo": "/sos/-/media/Images/Logos/sos.svg?rev=df41028bd3784c92a9b1633d8f15ecb9&hash=33673105B52071B2DA56ABB49E2852DC",
+      "sxa-tags": "Vehicle Renewal|By mail|Online",
+      "site-agency": "SOS",
+      "og:title": "First-time license or ID",
+      "grouped-item-type": "Webpages",
+      "item-type": "Page",
+      "viewport": "width=device-width, initial-scale=1",
+      "page-template": "Page",
+      "site-agency-name": "Department of State - Secretary of State",
+      "site-hierarchy": "Department of State - Secretary of State|Michigan Department of State",
+      "og:url": "https://www.michigan.gov/sos/all-services/first-time-license-or-id",
+      "page-hasformcomponent": "false",
+      "site-path": "sos"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.michigan.gov/sos/-/media/Project/Websites/SOM/Images/Global-SOM/Michigangov-OG-Image.png?rev=04d34972184442b1bd24b5efb46cd150&hash=93E0981B47D161E64232A339C5563129"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Enhanced license and ID",
+   "htmlTitle": "Enhanced license and ID",
+   "link": "https://www.michigan.gov/sos/all-services/enhanced-license-and-id",
+   "displayLink": "www.michigan.gov",
+   "snippet": "I have an enhanced driver's license, but it doesn't have a star. Is it REAL ID-compliant?",
+   "htmlSnippet": "I have an enhanced driver&#39;s license, but it doesn&#39;t have a star. Is it <b>REAL ID</b>-compliant?",
+   "formattedUrl": "https://www.michigan.gov/sos/all-services/enhanced-license-and-id",
+   "htmlFormattedUrl": "https://www.michigan.gov/sos/all-services/enhanced-license-and-id",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnVLF7JuYdMS0N97N5FeDniRHQZ_ghPXWsKhBS1FUnr2wGG7UPU_KtT68n&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#277c78",
+      "msapplication-config": "/sos/-/media/Project/Websites/shared/Browser-Icon/browserconfig.xml?rev=15a1c884ffca4409bb27fcec7eef109e&hash=369751F3709513B9A31158C415829AF1",
+      "page-breadcrumb": "Michigan Secretary of State|Enhanced license and ID",
+      "og:image": "https://www.michigan.gov/sos/-/media/Project/Websites/SOM/Images/Global-SOM/Michigangov-OG-Image.png?rev=04d34972184442b1bd24b5efb46cd150&hash=93E0981B47D161E64232A339C5563129",
+      "theme-color": "#ffffff",
+      "site-name": "Michigan Department of State",
+      "twitter:title": "Enhanced license and ID",
+      "twitter:card": "summary_large_image",
+      "site-logo": "/sos/-/media/Images/Logos/sos.svg?rev=df41028bd3784c92a9b1633d8f15ecb9&hash=33673105B52071B2DA56ABB49E2852DC",
+      "site-agency": "SOS",
+      "og:title": "Enhanced license and ID",
+      "grouped-item-type": "Webpages",
+      "item-type": "Page",
+      "viewport": "width=device-width, initial-scale=1",
+      "page-template": "Page",
+      "site-agency-name": "Department of State - Secretary of State",
+      "site-hierarchy": "Department of State - Secretary of State|Michigan Department of State",
+      "og:url": "https://www.michigan.gov/sos/all-services/enhanced-license-and-id",
+      "page-hasformcomponent": "false",
+      "site-path": "sos"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.michigan.gov/sos/-/media/Project/Websites/SOM/Images/Global-SOM/Michigangov-OG-Image.png?rev=04d34972184442b1bd24b5efb46cd150&hash=93E0981B47D161E64232A339C5563129"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Scheduling an office visit",
+   "htmlTitle": "Scheduling an office visit",
+   "link": "https://www.michigan.gov/sos/faqs/resources/scheduling-an-office-visit",
+   "displayLink": "www.michigan.gov",
+   "snippet": "Frequently asked questions (FAQs) \u00b7 Applying for a first-time standard or enhanced driver's license or ID \u00b7 Converting a license or ID to a REAL ID-compliant\u00a0...",
+   "htmlSnippet": "Frequently asked questions (FAQs) &middot; Applying for a first-time standard or enhanced driver&#39;s license or ID &middot; Converting a license or ID to a <b>REAL ID</b>-compliant&nbsp;...",
+   "formattedUrl": "https://www.michigan.gov/sos/faqs/resources/scheduling-an-office-visit",
+   "htmlFormattedUrl": "https://www.michigan.gov/sos/faqs/resources/scheduling-an-office-visit",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnVLF7JuYdMS0N97N5FeDniRHQZ_ghPXWsKhBS1FUnr2wGG7UPU_KtT68n&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#277c78",
+      "msapplication-config": "/sos/-/media/Project/Websites/shared/Browser-Icon/browserconfig.xml?rev=15a1c884ffca4409bb27fcec7eef109e&hash=369751F3709513B9A31158C415829AF1",
+      "page-breadcrumb": "Michigan Secretary of State|FAQs|Scheduling an office visit",
+      "og:image": "https://www.michigan.gov/sos/-/media/Project/Websites/SOM/Images/Global-SOM/Michigangov-OG-Image.png?rev=04d34972184442b1bd24b5efb46cd150&hash=93E0981B47D161E64232A339C5563129",
+      "theme-color": "#ffffff",
+      "site-name": "Michigan Department of State",
+      "twitter:title": "Scheduling an office visit",
+      "twitter:card": "summary_large_image",
+      "site-logo": "/sos/-/media/Images/Logos/sos.svg?rev=df41028bd3784c92a9b1633d8f15ecb9&hash=33673105B52071B2DA56ABB49E2852DC",
+      "site-agency": "SOS",
+      "og:title": "Scheduling an office visit",
+      "grouped-item-type": "Webpages",
+      "item-type": "FAQ Category Page",
+      "viewport": "width=device-width, initial-scale=1",
+      "page-template": "FAQ Category Page",
+      "site-agency-name": "Department of State - Secretary of State",
+      "site-hierarchy": "Department of State - Secretary of State|Michigan Department of State",
+      "og:url": "https://www.michigan.gov/sos/faqs/resources/scheduling-an-office-visit",
+      "page-hasformcomponent": "false",
+      "site-path": "sos"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.michigan.gov/sos/-/media/Project/Websites/SOM/Images/Global-SOM/Michigangov-OG-Image.png?rev=04d34972184442b1bd24b5efb46cd150&hash=93E0981B47D161E64232A339C5563129"
+     }
+    ]
+   }
+  }
+ ]
+}

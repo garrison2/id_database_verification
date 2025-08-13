@@ -1,0 +1,544 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:play.google.com \"Delaware\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "17",
+    "searchTerms": "site:play.google.com \"Delaware\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:play.google.com \"Delaware\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "17",
+    "searchTerms": "site:play.google.com \"Delaware\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.132717,
+  "formattedSearchTime": "0.13",
+  "totalResults": "17",
+  "formattedTotalResults": "17"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Delaware Mobile ID - Apps on Google Play",
+   "htmlTitle": "<b>Delaware Mobile ID</b> - Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.de",
+   "displayLink": "play.google.com",
+   "snippet": "Including layers of security and privacy controls, Delaware Mobile ID is a contactless, convenient way to verify your identity from your phone.",
+   "htmlSnippet": "Including layers of security and privacy controls, <b>Delaware Mobile ID</b> is a contactless, convenient way to verify your identity from your phone.",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.de",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.idemia.<b>mobileid</b>.us.de",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.de&rdid=com.idemia.mobileid.us.de&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAkn52XrCyFPthXYBhTiCEYglqOB2JnSIZ6Cgw_Fo6u6p8cq_dggvPGi4I&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/zhfnmLOpqUcOaS71Spr6lorusl7cZ-vbffeYJWEYSdTpthgj4TMrY2Koz6PSplu2FA",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Delaware Mobile ID - Apps on Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.de&hl=en_US",
+      "appstore:developer_url": "https://idemia-mobile-id.com/help/en-us/mid",
+      "og:title": "Delaware Mobile ID - Apps on Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/zhfnmLOpqUcOaS71Spr6lorusl7cZ-vbffeYJWEYSdTpthgj4TMrY2Koz6PSplu2FA=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.idemia.mobileid.us.de",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.idemia.mobileid.us.de",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "DE\u2019s official digital ID",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.de&hl=en_US"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/zhfnmLOpqUcOaS71Spr6lorusl7cZ-vbffeYJWEYSdTpthgj4TMrY2Koz6PSplu2FA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Delaware Mobile ID - Apps en Google Play",
+   "htmlTitle": "<b>Delaware Mobile ID</b> - Apps en Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.de&hl=es_UY",
+   "displayLink": "play.google.com",
+   "snippet": "Con capas de controles de seguridad y privacidad, Delaware Mobile ID es una forma conveniente y sin contacto de verificar su identidad desde su tel\u00e9fono.",
+   "htmlSnippet": "Con capas de controles de seguridad y privacidad, <b>Delaware Mobile ID</b> es una forma conveniente y sin contacto de verificar su identidad desde su tel\u00e9fono.",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.idemia.mobileid...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.idemia.<b>mobileid</b>...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.de&rdid=com.idemia.mobileid.us.de&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAkn52XrCyFPthXYBhTiCEYglqOB2JnSIZ6Cgw_Fo6u6p8cq_dggvPGi4I&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/zhfnmLOpqUcOaS71Spr6lorusl7cZ-vbffeYJWEYSdTpthgj4TMrY2Koz6PSplu2FA",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Delaware Mobile ID - Apps en Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.de&hl=es_UY",
+      "appstore:developer_url": "https://idemia-mobile-id.com/help/en-us/mid",
+      "og:title": "Delaware Mobile ID - Apps en Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/zhfnmLOpqUcOaS71Spr6lorusl7cZ-vbffeYJWEYSdTpthgj4TMrY2Koz6PSplu2FA=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.idemia.mobileid.us.de",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.idemia.mobileid.us.de",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Identificaci\u00f3n digital oficial de DE",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.de&hl=es_UY"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/zhfnmLOpqUcOaS71Spr6lorusl7cZ-vbffeYJWEYSdTpthgj4TMrY2Koz6PSplu2FA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Delaware Mobile ID - App su Google Play",
+   "htmlTitle": "<b>Delaware Mobile ID</b> - App su Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.de&hl=it",
+   "displayLink": "play.google.com",
+   "snippet": "Compresi livelli di sicurezza e controlli sulla privacy, Delaware Mobile ID \u00e8 un modo conveniente e senza contatto per verificare la tua identit\u00e0 dal tuo\u00a0...",
+   "htmlSnippet": "Compresi livelli di sicurezza e controlli sulla privacy, <b>Delaware Mobile ID</b> \u00e8 un modo conveniente e senza contatto per verificare la tua identit\u00e0 dal tuo&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.idemia.<b>mobileid</b>.us...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.de&rdid=com.idemia.mobileid.us.de&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAkn52XrCyFPthXYBhTiCEYglqOB2JnSIZ6Cgw_Fo6u6p8cq_dggvPGi4I&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/zhfnmLOpqUcOaS71Spr6lorusl7cZ-vbffeYJWEYSdTpthgj4TMrY2Koz6PSplu2FA",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Delaware Mobile ID - App su Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.de&hl=it",
+      "appstore:developer_url": "https://idemia-mobile-id.com/help/en-us/mid",
+      "og:title": "Delaware Mobile ID - App su Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/zhfnmLOpqUcOaS71Spr6lorusl7cZ-vbffeYJWEYSdTpthgj4TMrY2Koz6PSplu2FA=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.idemia.mobileid.us.de",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.idemia.mobileid.us.de",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "ID digitale ufficiale di DE",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.de&hl=it"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/zhfnmLOpqUcOaS71Spr6lorusl7cZ-vbffeYJWEYSdTpthgj4TMrY2Koz6PSplu2FA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "\u041f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u0432 Google Play \u2013 Delaware Mobile ID",
+   "htmlTitle": "\u041f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u0432 Google Play \u2013 <b>Delaware Mobile ID</b>",
+   "link": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.de&hl=ru",
+   "displayLink": "play.google.com",
+   "snippet": "Jul 8, 2025 ... Delaware Mobile ID, \u0432\u043a\u043b\u044e\u0447\u0430\u044e\u0449\u0438\u0439 \u0443\u0440\u043e\u0432\u043d\u0438 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438 \u0438 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044f \u043a\u043e\u043d\u0444\u0438\u0434\u0435\u043d\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 \u0441\u043e\u0431\u043e\u0439 \u0443\u0434\u043e\u0431\u043d\u044b\u0439 \u0441\u043f\u043e\u0441\u043e\u0431 \u0431\u0435\u0441\u043a\u043e\u043d\u0442\u0430\u043a\u0442\u043d\u043e\u0439 \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0438\u00a0...",
+   "htmlSnippet": "Jul 8, 2025 <b>...</b> <b>Delaware Mobile ID</b>, \u0432\u043a\u043b\u044e\u0447\u0430\u044e\u0449\u0438\u0439 \u0443\u0440\u043e\u0432\u043d\u0438 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438 \u0438 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044f \u043a\u043e\u043d\u0444\u0438\u0434\u0435\u043d\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 \u0441\u043e\u0431\u043e\u0439 \u0443\u0434\u043e\u0431\u043d\u044b\u0439 \u0441\u043f\u043e\u0441\u043e\u0431 \u0431\u0435\u0441\u043a\u043e\u043d\u0442\u0430\u043a\u0442\u043d\u043e\u0439 \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0438&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.idemia.<b>mobileid</b>.us...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.de&rdid=com.idemia.mobileid.us.de&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAkn52XrCyFPthXYBhTiCEYglqOB2JnSIZ6Cgw_Fo6u6p8cq_dggvPGi4I&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/zhfnmLOpqUcOaS71Spr6lorusl7cZ-vbffeYJWEYSdTpthgj4TMrY2Koz6PSplu2FA",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "\u041f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u0432 Google Play \u2013 Delaware Mobile ID",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.de&hl=ru",
+      "appstore:developer_url": "https://idemia-mobile-id.com/help/en-us/mid",
+      "og:title": "\u041f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u0432 Google Play \u2013 Delaware Mobile ID",
+      "twitter:image": "https://play-lh.googleusercontent.com/zhfnmLOpqUcOaS71Spr6lorusl7cZ-vbffeYJWEYSdTpthgj4TMrY2Koz6PSplu2FA=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.idemia.mobileid.us.de",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.idemia.mobileid.us.de",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "\u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0446\u0438\u0444\u0440\u043e\u0432\u043e\u0439 \u0438\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u043a\u0430\u0442\u043e\u0440 DE",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.de&hl=ru"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/zhfnmLOpqUcOaS71Spr6lorusl7cZ-vbffeYJWEYSdTpthgj4TMrY2Koz6PSplu2FA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Delaware Mobile ID - \u0627\u0644\u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0639\u0644\u0649 Google Play",
+   "htmlTitle": "<b>Delaware Mobile ID</b> - \u0627\u0644\u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0639\u0644\u0649 Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.de&hl=ar",
+   "displayLink": "play.google.com",
+   "snippet": "\u0628\u0645\u0627 \u0641\u064a \u0630\u0644\u0643 \u0637\u0628\u0642\u0627\u062a \u0645\u0646 \u0639\u0646\u0627\u0635\u0631 \u0627\u0644\u062a\u062d\u0643\u0645 \u0641\u064a \u0627\u0644\u0623\u0645\u0627\u0646 \u0648\u0627\u0644\u062e\u0635\u0648\u0635\u064a\u0629 \u060c \u064a\u0639\u062f Delaware Mobile ID \u0648\u0633\u064a\u0644\u0629 \u0645\u0644\u0627\u0626\u0645\u0629 \u0628\u062f\u0648\u0646 \u062a\u0644\u0627\u0645\u0633 \u0644\u0644\u062a\u062d\u0642\u0642 \u0645\u0646 \u0647\u0648\u064a\u062a\u0643 \u0645\u0646 \u0647\u0627\u062a\u0641\u0643.",
+   "htmlSnippet": "\u0628\u0645\u0627 \u0641\u064a \u0630\u0644\u0643 \u0637\u0628\u0642\u0627\u062a \u0645\u0646 \u0639\u0646\u0627\u0635\u0631 \u0627\u0644\u062a\u062d\u0643\u0645 \u0641\u064a \u0627\u0644\u0623\u0645\u0627\u0646 \u0648\u0627\u0644\u062e\u0635\u0648\u0635\u064a\u0629 \u060c \u064a\u0639\u062f <b>Delaware Mobile ID</b> \u0648\u0633\u064a\u0644\u0629 \u0645\u0644\u0627\u0626\u0645\u0629 \u0628\u062f\u0648\u0646 \u062a\u0644\u0627\u0645\u0633 \u0644\u0644\u062a\u062d\u0642\u0642 \u0645\u0646 \u0647\u0648\u064a\u062a\u0643 \u0645\u0646 \u0647\u0627\u062a\u0641\u0643.",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.idemia.<b>mobileid</b>.us...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.de&rdid=com.idemia.mobileid.us.de&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAkn52XrCyFPthXYBhTiCEYglqOB2JnSIZ6Cgw_Fo6u6p8cq_dggvPGi4I&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/zhfnmLOpqUcOaS71Spr6lorusl7cZ-vbffeYJWEYSdTpthgj4TMrY2Koz6PSplu2FA",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Delaware Mobile ID - \u0627\u0644\u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0639\u0644\u0649 Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.de&hl=ar",
+      "appstore:developer_url": "https://idemia-mobile-id.com/help/en-us/mid",
+      "og:title": "Delaware Mobile ID - \u0627\u0644\u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0639\u0644\u0649 Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/zhfnmLOpqUcOaS71Spr6lorusl7cZ-vbffeYJWEYSdTpthgj4TMrY2Koz6PSplu2FA=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.idemia.mobileid.us.de",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.idemia.mobileid.us.de",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "\u0627\u0644\u0645\u0639\u0631\u0641 \u0627\u0644\u0631\u0642\u0645\u064a \u0627\u0644\u0631\u0633\u0645\u064a \u0644\u0634\u0631\u0643\u0629 DE",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.de&hl=ar"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/zhfnmLOpqUcOaS71Spr6lorusl7cZ-vbffeYJWEYSdTpthgj4TMrY2Koz6PSplu2FA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Delaware Mobile ID - Programu zilizo kwenye Google Play",
+   "htmlTitle": "<b>Delaware Mobile ID</b> - Programu zilizo kwenye Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.de&hl=sw",
+   "displayLink": "play.google.com",
+   "snippet": "Delaware Mobile ID - Programu zilizo kwenye Google Play. Michezo \u00b7 Programu \u00b7 Filamu na Vipindi vya TV \u00b7 Vitabu \u00b7 Watoto \u00b7 google_logo Play. Michezo.",
+   "htmlSnippet": "<b>Delaware Mobile ID</b> - Programu zilizo kwenye Google Play. Michezo &middot; Programu &middot; Filamu na Vipindi vya TV &middot; Vitabu &middot; Watoto &middot; google_logo Play. Michezo.",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.idemia.<b>mobileid</b>.us...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.de&rdid=com.idemia.mobileid.us.de&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAkn52XrCyFPthXYBhTiCEYglqOB2JnSIZ6Cgw_Fo6u6p8cq_dggvPGi4I&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/zhfnmLOpqUcOaS71Spr6lorusl7cZ-vbffeYJWEYSdTpthgj4TMrY2Koz6PSplu2FA",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Delaware Mobile ID - Programu zilizo kwenye Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.de&hl=sw",
+      "appstore:developer_url": "https://idemia-mobile-id.com/help/en-us/mid",
+      "og:title": "Delaware Mobile ID - Programu zilizo kwenye Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/zhfnmLOpqUcOaS71Spr6lorusl7cZ-vbffeYJWEYSdTpthgj4TMrY2Koz6PSplu2FA=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.idemia.mobileid.us.de",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.idemia.mobileid.us.de",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Kitambulisho rasmi cha dijiti cha DE",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.de&hl=sw"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/zhfnmLOpqUcOaS71Spr6lorusl7cZ-vbffeYJWEYSdTpthgj4TMrY2Koz6PSplu2FA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Android Apps by Idemia R&D on Google Play",
+   "htmlTitle": "Android Apps by Idemia R&amp;D on Google Play",
+   "link": "https://play.google.com/store/apps/developer?id=Idemia+R%26D&hl=en_IN",
+   "displayLink": "play.google.com",
+   "snippet": "Iowa Mobile ID. Idemia R&D. 4.4star \u00b7 Screenshot image. Thumbnail image ... 4.6star \u00b7 Screenshot image. Thumbnail image. Delaware Mobile ID. Idemia R&D. 4.5\u00a0...",
+   "htmlSnippet": "Iowa <b>Mobile ID</b>. Idemia R&amp;D. 4.4star &middot; Screenshot image. Thumbnail image ... 4.6star &middot; Screenshot image. Thumbnail image. <b>Delaware Mobile ID</b>. Idemia R&amp;D. 4.5&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/developer?id=Idemia+R%26D&hl...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/developer?id=Idemia+R%26D&amp;hl...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKovfYo5pcz7hLwPYWUqH_d7hcXPup7Zlil205FXIKZC4PEZ6if39Dv4v9&s",
+      "width": "259",
+      "height": "194"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Android Apps by Idemia R&D on Google Play",
+      "twitter:site": "@GooglePlay",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:url": "https://play.google.com/store/apps/developer?id=Idemia+R%26D&hl=en_IN",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.",
+      "og:title": "Android Apps by Idemia R&D on Google Play",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/developer?id=Idemia+R%26D&hl=en_IN"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://i.ytimg.com/vi/ODhuLwquBsk/hqdefault.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "GET Mobile Verify \u2013 Apps on Google Play",
+   "htmlTitle": "GET Mobile Verify \u2013 Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.getgroupna.mdl.pol&hl=en_IN",
+   "displayLink": "play.google.com",
+   "snippet": "Accept mDLs for your business! Read mDLs from Utah and any FINAL ISO 18013-5 mDL. May read Iowa (new!),Delaware, Arizona, Oklahoma, Missouri, Maryland, Florida,\u00a0...",
+   "htmlSnippet": "Accept mDLs for your business! Read mDLs from Utah and any FINAL ISO 18013-5 <b>mDL</b>. May read Iowa (new!),<b>Delaware</b>, Arizona, Oklahoma, Missouri, Maryland, Florida,&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.getgroupna.mdl...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.getgroupna.<b>mdl</b>...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.getgroupna.mdl.pol&rdid=com.getgroupna.mdl.pol&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1a11Aae0YpQGtjvg18Bs0YrMuELoE95sliJTNOki1LTNwWXWITI--HPtH&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/iSij1Vu_4TpqEZJuVKki7v0xS1XObvhMLVon6DeNK_eKUHeZix131IQuiyFWtPjCdqBN",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "GET Mobile Verify \u2013 Apps on Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.getgroupna.mdl.pol&hl=en_IN",
+      "appstore:developer_url": "https://mobiledl.us/verify/",
+      "og:title": "GET Mobile Verify \u2013 Apps on Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/iSij1Vu_4TpqEZJuVKki7v0xS1XObvhMLVon6DeNK_eKUHeZix131IQuiyFWtPjCdqBN=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.getgroupna.mdl.pol",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.getgroupna.mdl.pol",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "GET Mobile Verify reads ISO 18013 mDLs",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.getgroupna.mdl.pol&hl=en_IN"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/iSij1Vu_4TpqEZJuVKki7v0xS1XObvhMLVon6DeNK_eKUHeZix131IQuiyFWtPjCdqBN"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Apps para Android de Idemia R&D en Google Play",
+   "htmlTitle": "Apps para Android de Idemia R&amp;D en Google Play",
+   "link": "https://play.google.com/store/apps/developer?id=Idemia+R%26D&hl=es_PY",
+   "displayLink": "play.google.com",
+   "snippet": "Imagen en miniatura. West Virginia Mobile ID. Idemia R&D. 4.5star \u00b7 Imagen de la captura de pantalla. Imagen en miniatura. Delaware Mobile ID. Idemia R&D. 4.5\u00a0...",
+   "htmlSnippet": "Imagen en miniatura. West Virginia <b>Mobile ID</b>. Idemia R&amp;D. 4.5star &middot; Imagen de la captura de pantalla. Imagen en miniatura. <b>Delaware Mobile ID</b>. Idemia R&amp;D. 4.5&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/developer?id=Idemia+R%26D&hl...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/developer?id=Idemia+R%26D&amp;hl...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKovfYo5pcz7hLwPYWUqH_d7hcXPup7Zlil205FXIKZC4PEZ6if39Dv4v9&s",
+      "width": "259",
+      "height": "194"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Apps para Android de Idemia R&D en Google Play",
+      "twitter:site": "@GooglePlay",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:url": "https://play.google.com/store/apps/developer?id=Idemia+R%26D&hl=es_PY",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Disfruta millones de apps, juegos, m\u00fasica, pel\u00edculas, libros, revistas y mucho m\u00e1s en Android. En cualquier momento, est\u00e9s donde est\u00e9s y en todos tus dispositivos.",
+      "og:title": "Apps para Android de Idemia R&D en Google Play",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/developer?id=Idemia+R%26D&hl=es_PY"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://i.ytimg.com/vi/ODhuLwquBsk/hqdefault.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "GET Mobile Verify - Programu zilizo kwenye Google Play",
+   "htmlTitle": "GET Mobile Verify - Programu zilizo kwenye Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.getgroupna.mdl.pol&hl=sw",
+   "displayLink": "play.google.com",
+   "snippet": "Kubali mDL kwa biashara yako! Soma mDL kutoka Utah na FINAL ISO 18013-5 mDL yoyote. Mei kusoma Iowa (mpya!),Delaware, Arizona, Oklahoma, Missouri, Maryland\u00a0...",
+   "htmlSnippet": "Kubali <b>mDL</b> kwa biashara yako! Soma <b>mDL</b> kutoka Utah na FINAL ISO 18013-5 <b>mDL</b> yoyote. Mei kusoma Iowa (mpya!),<b>Delaware</b>, Arizona, Oklahoma, Missouri, Maryland&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.getgroupna.mdl.pol...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.getgroupna.<b>mdl</b>.pol...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.getgroupna.mdl.pol&rdid=com.getgroupna.mdl.pol&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1a11Aae0YpQGtjvg18Bs0YrMuELoE95sliJTNOki1LTNwWXWITI--HPtH&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/iSij1Vu_4TpqEZJuVKki7v0xS1XObvhMLVon6DeNK_eKUHeZix131IQuiyFWtPjCdqBN",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "GET Mobile Verify - Programu zilizo kwenye Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.getgroupna.mdl.pol&hl=sw",
+      "appstore:developer_url": "https://mobiledl.us/verify/",
+      "og:title": "GET Mobile Verify - Programu zilizo kwenye Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/iSij1Vu_4TpqEZJuVKki7v0xS1XObvhMLVon6DeNK_eKUHeZix131IQuiyFWtPjCdqBN=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.getgroupna.mdl.pol",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.getgroupna.mdl.pol",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "PATA Thibitisha Simu ya rununu kusoma ISO 18013 mDL",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.getgroupna.mdl.pol&hl=sw"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/iSij1Vu_4TpqEZJuVKki7v0xS1XObvhMLVon6DeNK_eKUHeZix131IQuiyFWtPjCdqBN"
+     }
+    ]
+   }
+  }
+ ]
+}

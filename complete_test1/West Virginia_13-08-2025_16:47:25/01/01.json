@@ -1,0 +1,423 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"West Virginia\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"West Virginia Code\"",
+    "totalResults": "106000",
+    "searchTerms": "\"West Virginia\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"West Virginia Code\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"West Virginia\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"West Virginia Code\"",
+    "totalResults": "106000",
+    "searchTerms": "\"West Virginia\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"West Virginia Code\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.220589,
+  "formattedSearchTime": "0.22",
+  "totalResults": "106000",
+  "formattedTotalResults": "106,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "West Virginia Mobile ID",
+   "htmlTitle": "<b>West Virginia Mobile ID</b>",
+   "link": "https://transportation.wv.gov/DMV/MiD/Pages/default.aspx",
+   "displayLink": "transportation.wv.gov",
+   "snippet": "West Virginia Mobile ID \u00b7 \u200bConvenience- Carry your ID in an app on your phone. Prove your identity and pay for your purchase from the same device at\u00a0...",
+   "htmlSnippet": "<b>West Virginia Mobile ID</b> &middot; \u200bConvenience- Carry your ID in an app on your phone. Prove your identity and pay for your purchase from the same device at&nbsp;...",
+   "formattedUrl": "https://transportation.wv.gov/DMV/MiD/Pages/default.aspx",
+   "htmlFormattedUrl": "https://transportation.wv.gov/DMV/MiD/Pages/default.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLlAoDAolU1FYAYcSSSTtcTMR67qwk1fIfQIdW6Y2fUE6r1nI-j-DCGQ&s",
+      "width": "350",
+      "height": "144"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.wv.gov/images/homebkg.jpg",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "West Virginia Mobile ID",
+      "twitter:site": "@wvgov",
+      "viewport": "width=device-width",
+      "og:title": "West Virginia Mobile ID",
+      "progid": "SharePoint.WebPartPage.Document"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.wv.gov/images/homebkg.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mass Litigation Panel - Orders | West Virginia Judiciary",
+   "htmlTitle": "Mass Litigation Panel - Orders | <b>West Virginia</b> Judiciary",
+   "link": "http://www.courtswv.gov/lower-courts/mass-litigation-panel/orders",
+   "displayLink": "www.courtswv.gov",
+   "snippet": "Order Extending Deadline for Filing Supplemental Briefs and Proposed Orders, Opioid - NAS, 22-C-9000 NAS. 03/06/2025, Order Regarding the West Virginia First\u00a0...",
+   "htmlSnippet": "<b>Order</b> Extending Deadline for Filing Supplemental Briefs and Proposed Orders, Opioid - NAS, 22-C-9000 NAS. 03/06/2025, <b>Order</b> Regarding the <b>West Virginia</b> First&nbsp;...",
+   "formattedUrl": "http://www.courtswv.gov/lower-courts/mass-litigation-panel/orders",
+   "htmlFormattedUrl": "http://www.courtswv.gov/lower-courts/mass-litigation-panel/<b>order</b>s",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "West Virginia Digital ID in Samsung Wallet",
+   "htmlTitle": "<b>West Virginia Digital ID</b> in Samsung Wallet",
+   "link": "https://transportation.wv.gov/DMV/MiD/Pages/Samsung_Wallet.aspx",
+   "displayLink": "transportation.wv.gov",
+   "snippet": "West Virginia Digital ID is a voluntary, secure, digitized version of your WV-DMV issued driver license (DL) or identification card (ID) available in Samsung\u00a0...",
+   "htmlSnippet": "<b>West Virginia Digital ID</b> is a voluntary, secure, digitized version of your WV-DMV issued driver license (DL) or identification card (ID) available in Samsung&nbsp;...",
+   "formattedUrl": "https://transportation.wv.gov/DMV/MiD/Pages/Samsung_Wallet.aspx",
+   "htmlFormattedUrl": "https://transportation.wv.gov/DMV/MiD/Pages/Samsung_Wallet.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLlAoDAolU1FYAYcSSSTtcTMR67qwk1fIfQIdW6Y2fUE6r1nI-j-DCGQ&s",
+      "width": "350",
+      "height": "144"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.wv.gov/images/homebkg.jpg",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "West Virginia Digital ID in Samsung Wallet",
+      "twitter:site": "@wvgov",
+      "viewport": "width=device-width",
+      "og:title": "West Virginia Digital ID in Samsung Wallet",
+      "progid": "SharePoint.WebPartPage.Document"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.wv.gov/images/homebkg.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "TSA expands acceptance of digital IDs to West Virginia ...",
+   "htmlTitle": "TSA expands acceptance of digital IDs to <b>West Virginia</b> ...",
+   "link": "https://www.tsa.gov/news/press/releases/2025/01/07/tsa-expands-acceptance-digital-ids-west-virginia",
+   "displayLink": "www.tsa.gov",
+   "snippet": "Jan 7, 2025 ... ... digital ID readers nationwide.Travelers who have downloaded the West Virginia Mobile ID app to their smart phone can use that for identity\u00a0...",
+   "htmlSnippet": "Jan 7, 2025 <b>...</b> ... <b>digital ID</b> readers nationwide.Travelers who have downloaded the <b>West Virginia Mobile ID</b> app to their smart phone can use that for identity&nbsp;...",
+   "formattedUrl": "https://www.tsa.gov/news/.../tsa-expands-acceptance-digital-ids-west-virgini...",
+   "htmlFormattedUrl": "https://www.tsa.gov/news/.../tsa-expands-acceptance-<b>digital-id</b>s-<b>west-virgini</b>...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPmfB7IVmgDmb3IDXSU12352SHrXv5e_5i8yycsOrPNmZwXMWtBL06Rg4&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.tsa.gov/sites/default/files/2025-03/21366_graphic_tsa_open_graph_image_1200x630.jpg",
+      "og:type": "website",
+      "og:image:width": "1200",
+      "og:site_name": "U.S. Department of Homeland Security Transportation Security Administration",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+      "og:title": "TSA expands acceptance of digital IDs to West Virginia | Transportation Security Administration",
+      "mobileoptimized": "width",
+      "og:image:height": "630",
+      "og:image:type": "image/jpg",
+      "og:url": "https://www.tsa.gov/news/press/releases/2025/01/07/tsa-expands-acceptance-digital-ids-west-virginia",
+      "og:description": "CHARLESTON, W.Va. \u2013The Transportation Security Administration (TSA) is now accepting West Virginia-issued mobile driver licenses (mDLs) at checkpoints with digital ID readers nationwide.Travelers who have downloaded the West Virginia Mobile ID app to their smart phone can use that for identity verification during the screening process in lieu of handing over a physical photo ID and boarding pass to the TSA security officer at the entry to the checkpoints at West Virginia International Yeager Airport and Huntington Tri-State Airport and other airports nationwide."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.tsa.gov/sites/default/files/2025-03/21366_graphic_tsa_open_graph_image_1200x630.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Get Digital Registration and Mobile ID Now",
+   "htmlTitle": "Get Digital Registration and <b>Mobile ID</b> Now",
+   "link": "https://transportation.wv.gov/DMV/Pages/registration-mobileid.aspx",
+   "displayLink": "transportation.wv.gov",
+   "snippet": "\u200b\u200b\u200b\u200b\u200b\u200bWest Virginia Mobile ID. \u200b The West Virginia Division of Motor Vehicles (DMV) is partnering with industry leader IDEMIA to create the West Virginia\u00a0...",
+   "htmlSnippet": "\u200b\u200b\u200b\u200b\u200b\u200b<b>West Virginia Mobile ID</b>. \u200b The <b>West Virginia</b> Division of Motor Vehicles (DMV) is partnering with industry leader IDEMIA to create the <b>West Virginia</b>&nbsp;...",
+   "formattedUrl": "https://transportation.wv.gov/DMV/Pages/registration-mobileid.aspx",
+   "htmlFormattedUrl": "https://transportation.wv.gov/DMV/Pages/registration-<b>mobileid</b>.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLlAoDAolU1FYAYcSSSTtcTMR67qwk1fIfQIdW6Y2fUE6r1nI-j-DCGQ&s",
+      "width": "350",
+      "height": "144"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.wv.gov/images/homebkg.jpg",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Get Digital Registration and Mobile ID Now",
+      "twitter:site": "@wvgov",
+      "viewport": "width=device-width",
+      "og:title": "Get Digital Registration and Mobile ID Now",
+      "progid": "SharePoint.WebPartPage.Document"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.wv.gov/images/homebkg.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Order Regarding Attorney Fees",
+   "htmlTitle": "<b>Order</b> Regarding Attorney Fees",
+   "link": "https://www.courtswv.gov/sites/default/pubfilesmnt/2023-07/1-7-22OrderRegardingAtttorneyFees.pdf",
+   "displayLink": "www.courtswv.gov",
+   "snippet": "Jan 7, 2022 ... under West Virginia Practice. The MDL Order establishes protocols for submission of Time and Expenses. I adopt generally the format and\u00a0...",
+   "htmlSnippet": "Jan 7, 2022 <b>...</b> under <b>West Virginia</b> Practice. The <b>MDL Order</b> establishes protocols for submission of Time and Expenses. I adopt generally the format and&nbsp;...",
+   "formattedUrl": "https://www.courtswv.gov/sites/.../1-7-22OrderRegardingAtttorneyFees.pdf",
+   "htmlFormattedUrl": "https://www.courtswv.gov/sites/.../1-7-22<b>Order</b>RegardingAtttorneyFees.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6TV_A2ns2RU2A9ivym2CA8bfZWRqJWXgFj4Udwjg3feXxfjwkyMdYya99&s",
+      "width": "189",
+      "height": "186"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20220110082956-05'00'",
+      "creationdate": "D:20220106155600Z",
+      "creator": "Aspose Ltd.",
+      "author": "Supreme Court of Appeals of West Virginia",
+      "producer": "Adobe Acrobat Pro DC (32-bit) 21 Paper Capture Plug-in",
+      "title": "Order Regarding Attorney Fees"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///acb29160b3c2d87f52fbfc0e1dd707efcf02bd42f7cbf93b1fb3b279757abc91"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "West Virginia Mobile ID on the App Store",
+   "htmlTitle": "<b>West Virginia Mobile ID</b> on the App Store",
+   "link": "https://apps.apple.com/us/app/west-virginia-mobile-id/id6471418760",
+   "displayLink": "apps.apple.com",
+   "snippet": "This app is available only on the App Store for iPhone. West Virginia Mobile ID 4+. WV official digital ID. IDEMIA Group. 2.2 \u2022 32 Ratings. Free. iPhone\u00a0...",
+   "htmlSnippet": "This app is available only on the App Store for iPhone. <b>West Virginia Mobile ID</b> 4+. WV official <b>digital ID</b>. IDEMIA Group. 2.2 \u2022 32 Ratings. Free. iPhone&nbsp;...",
+   "formattedUrl": "https://apps.apple.com/us/app/west-virginia-mobile-id/id6471418760",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/<b>west-virginia</b>-<b>mobile-id</b>/id6471418760",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcyzngssj0_C_rdLPnDBMc64H6gahByzIdyJ-kN9j-hdYl9ETMvv3Eor7n&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/ec/f4/d6ecf44c-4e53-2f76-2949-1ed2163ecd86/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eIn today's connected world, Mobile ID offers a private, secure, contactless way to verify identity, either at home or on-the-go. Everything is on your phone \u2013 now your ID is, too!\n\nIntuitive, easy-to-use and highly convenient, West Virginia Mobile ID can be used anywhere it\u2019s accepted, in any contex\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/ec/f4/d6ecf44c-4e53-2f76-2949-1ed2163ecd86/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/ec/f4/d6ecf44c-4e53-2f76-2949-1ed2163ecd86/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222532.1.0%2B09273a9c%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "West Virginia Mobile ID on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "West Virginia Mobile ID on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eWest Virginia Mobile ID",
+      "og:title": "\u200eWest Virginia Mobile ID",
+      "og:image:height": "630",
+      "version": "2532.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eIn today's connected world, Mobile ID offers a private, secure, contactless way to verify identity, either at home or on-the-go. Everything is on your phone \u2013 now your ID is, too!\n\nIntuitive, easy-to-use and highly convenient, West Virginia Mobile ID can be used anywhere it\u2019s accepted, in any contex\u2026",
+      "og:locale": "en_US",
+      "apple:content_id": "6471418760",
+      "og:url": "https://apps.apple.com/us/app/west-virginia-mobile-id/id6471418760"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/ec/f4/d6ecf44c-4e53-2f76-2949-1ed2163ecd86/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "West Virginia DMV Launching New Digital ID Option | News, Sports ...",
+   "htmlTitle": "<b>West Virginia</b> DMV Launching New <b>Digital ID</b> Option | News, Sports ...",
+   "link": "https://www.theintelligencer.net/news/top-headlines/2024/12/west-virginia-dmv-launching-new-digital-id-option/",
+   "displayLink": "www.theintelligencer.net",
+   "snippet": "Dec 26, 2024 ... West Virginians can go to their Apple or Android app stores and download the \u201cWest Virginia Mobile ID\u201d app. ... law enforcement, and businesses.",
+   "htmlSnippet": "Dec 26, 2024 <b>...</b> West Virginians can go to their Apple or Android app stores and download the \u201c<b>West Virginia Mobile ID</b>\u201d app. ... <b>law</b> enforcement, and businesses.",
+   "formattedUrl": "https://www.theintelligencer.net/.../west-virginia-dmv-launching-new-digita...",
+   "htmlFormattedUrl": "https://www.theintelligencer.net/.../<b>west-virginia</b>-dmv-launching-new-<b>digita</b>...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOq28utY8Z0E8URytTAMW9NbKhgvZcSRGKHuvzL6VVsfZt-iH0ZX1e6XFR&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://ogden_images.s3.amazonaws.com/www.theintelligencer.net/images/2024/12/25233432/mID-12-24-24.png",
+      "og:type": "article",
+      "twitter:title": "West Virginia DMV Launching New Digital ID Option",
+      "twitter:card": "summary_large_image",
+      "og:image:height\"": "500",
+      "og:site_name": "theintelligencer.net",
+      "og:title": "West Virginia DMV Launching New Digital ID Option",
+      "og:description": "CHARLESTON \u2014 One year after launching digital motor vehicle registrations, the West Virginia Division of Motor Vehicles is adding a digital drivers\u2019 license and I.D. for motorists to pull up on their phones. The DMV announced earlier this month that it has partnered with IDEMIA Public Security North America to launch a new mobile I.D., [\u2026]",
+      "twitter:image": "https://s3.amazonaws.com/ogden_images/www.theintelligencer.net/images/2024/12/25233432/mID-12-24-24.png",
+      "fb:app_id": "152048938164494",
+      "og:image:width\"": "500",
+      "twitter:site": "@intelligencerwv",
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+      "twitter:description": "CHARLESTON \u2014 One year after launching digital motor vehicle registrations, the West Virginia Division of Motor Vehicles is adding a digital drivers\u2019 license and I.D. for motorists to pull up on their phones. The DMV announced earlier this month that it has partnered with IDEMIA Public Security North America to launch a new mobile I.D., [\u2026]",
+      "og:url": "https://www.theintelligencer.net/news/top-headlines/2024/12/west-virginia-dmv-launching-new-digital-id-option/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://ogden_images.s3.amazonaws.com/www.theintelligencer.net/images/2024/12/25233432/mID-12-24-24.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "West Virginia and Mississippi get Digital Driver's License before we ...",
+   "htmlTitle": "<b>West Virginia</b> and Mississippi get <b>Digital Driver&#39;s License</b> before we ...",
+   "link": "https://www.reddit.com/r/vermont/comments/1hpp9mx/west_virginia_and_mississippi_get_digital_drivers/",
+   "displayLink": "www.reddit.com",
+   "snippet": "Dec 30, 2024 ... West Virginia and Mississippi get Digital Driver's License before we can? ... law enforcement, airport security, or purchasing age\u00a0...",
+   "htmlSnippet": "Dec 30, 2024 <b>...</b> <b>West Virginia</b> and Mississippi get <b>Digital Driver&#39;s License</b> before we can? ... <b>law</b> enforcement, airport security, or purchasing age&nbsp;...",
+   "formattedUrl": "https://www.reddit.com/.../west_virginia_and_mississippi_get_digital_drive...",
+   "htmlFormattedUrl": "https://www.reddit.com/.../<b>west_virginia</b>_and_mississippi_get_digital_drive...",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:image": "https://share.redd.it/preview/post/1hpp9mx",
+      "theme-color": "#000000",
+      "og:image:width": "1200",
+      "og:type": "website",
+      "og:image:alt": "An image containing a preview of the post",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "r/vermont on Reddit: West Virginia and Mississippi get Digital Driver's License before we can?",
+      "og:site_name": "Reddit",
+      "og:title": "r/vermont on Reddit: West Virginia and Mississippi get Digital Driver's License before we can?",
+      "og:image:height": "630",
+      "msapplication-navbutton-color": "#000000",
+      "og:description": "Posted by u/VermontArmyBrat - 0 votes and 68 comments",
+      "twitter:image": "https://share.redd.it/preview/post/1hpp9mx",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "twitter:site": "@reddit",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "apple-mobile-web-app-capable": "yes",
+      "og:ttl": "600",
+      "og:url": "https://www.reddit.com/r/vermont/comments/1hpp9mx/west_virginia_and_mississippi_get_digital_drivers/?seeker-session=true"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "How to Use the West Virginia Mobile ID for Voter Identification",
+   "htmlTitle": "How to Use the <b>West Virginia Mobile ID</b> for Voter Identification",
+   "link": "https://sos.wv.gov/elections/Documents/Using%20Mobile%20ID%20for%20Voting.pdf",
+   "displayLink": "sos.wv.gov",
+   "snippet": "Apr 29, 2025 ... WV Mobile ID is a secure, official West Virginia driver's license stored on your mobile device and issued by the WV DMV.",
+   "htmlSnippet": "Apr 29, 2025 <b>...</b> WV <b>Mobile ID</b> is a secure, official <b>West Virginia</b> driver&#39;s license stored on your mobile device and issued by the WV DMV.",
+   "formattedUrl": "https://sos.wv.gov/elections/.../Using%20Mobile%20ID%20for%20Voting....",
+   "htmlFormattedUrl": "https://sos.wv.gov/elections/.../Using%20Mobile%20ID%20for%20Voting....",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU9OL_2QlkKtCerV3MKC2zSyAiuXMQDZRpTYmc_zjcehKZSsmcUzA51lPb&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20250430085844-04'00'",
+      "creationdate": "D:20250429202057Z",
+      "creator": "Canva",
+      "author": "WVSOS",
+      "producer": "Canva",
+      "title": "Using Mobile ID for Voting"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///817b930162e8f55331c59f9a8147de71cc9f7ae7578538eaa3e18b8ef4f4cd9a"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

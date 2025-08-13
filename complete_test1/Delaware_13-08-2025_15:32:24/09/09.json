@@ -1,0 +1,485 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Delaware\" API OR \"verify\" OR \"verifier\" OR \"reader\" OR \"SDK\" OR \"software development kit\" OR \"check\" around 50 \"app\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "22300",
+    "searchTerms": "\"Delaware\" API OR \"verify\" OR \"verifier\" OR \"reader\" OR \"SDK\" OR \"software development kit\" OR \"check\" around 50 \"app\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Delaware\" API OR \"verify\" OR \"verifier\" OR \"reader\" OR \"SDK\" OR \"software development kit\" OR \"check\" around 50 \"app\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "22300",
+    "searchTerms": "\"Delaware\" API OR \"verify\" OR \"verifier\" OR \"reader\" OR \"SDK\" OR \"software development kit\" OR \"check\" around 50 \"app\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.201757,
+  "formattedSearchTime": "0.20",
+  "totalResults": "22300",
+  "formattedTotalResults": "22,300"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Delaware Mobile ID on the App Store",
+   "htmlTitle": "<b>Delaware Mobile ID</b> on the <b>App</b> Store",
+   "link": "https://apps.apple.com/us/app/delaware-mobile-id/id1484936896",
+   "displayLink": "apps.apple.com",
+   "snippet": "Mar 14, 2021 ... This app is available only on the App Store for iPhone. Delaware Mobile ID 4+. DE's official digital ID. IDEMIA\u00a0...",
+   "htmlSnippet": "Mar 14, 2021 <b>...</b> This <b>app</b> is available only on the <b>App</b> Store for iPhone. <b>Delaware Mobile ID</b> 4+. DE&#39;s official <b>digital ID</b>. IDEMIA&nbsp;...",
+   "formattedUrl": "https://apps.apple.com/us/app/delaware-mobile-id/id1484936896",
+   "htmlFormattedUrl": "https://<b>app</b>s.<b>app</b>le.com/us/<b>app</b>/<b>delaware</b>-<b>mobile-id</b>/id1484936896",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAX5xK5J4cV5uQrB_K7kE3LcUAUojL7xUjU15Z7mwZEt9rWOvAu7I58gk&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/44/69/9e4469cc-9fe7-9107-bd92-adaf445840f9/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eIncluding layers of security and privacy controls, Delaware Mobile ID is a contactless, convenient way to verify your identity from your phone.\n\nDelaware Mobile ID allows you to control what information you share during a transaction. For example, when buying age-restricted items, the app can confir\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/44/69/9e4469cc-9fe7-9107-bd92-adaf445840f9/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/44/69/9e4469cc-9fe7-9107-bd92-adaf445840f9/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222532.1.0%2B09273a9c%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "Delaware Mobile ID on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "Delaware Mobile ID on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eDelaware Mobile ID",
+      "og:title": "\u200eDelaware Mobile ID",
+      "og:image:height": "630",
+      "version": "2532.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eIncluding layers of security and privacy controls, Delaware Mobile ID is a contactless, convenient way to verify your identity from your phone.\n\nDelaware Mobile ID allows you to control what information you share during a transaction. For example, when buying age-restricted items, the app can confir\u2026",
+      "og:locale": "en_US",
+      "apple:content_id": "1484936896",
+      "og:url": "https://apps.apple.com/us/app/delaware-mobile-id/id1484936896"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/44/69/9e4469cc-9fe7-9107-bd92-adaf445840f9/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Delaware Mobile ID Updates",
+   "htmlTitle": "<b>Delaware Mobile ID</b> Updates",
+   "link": "https://idscan.net/state-digital-id/delaware-mobile-id-updates/",
+   "displayLink": "idscan.net",
+   "snippet": "How can businesses read/verify Delaware digital IDs? Other Delaware mDL ... Delaware offers a mobile ID through the Delaware MiD app. The app is\u00a0...",
+   "htmlSnippet": "How can businesses read/<b>verify Delaware</b> digital IDs? Other <b>Delaware mDL</b> ... <b>Delaware</b> offers a <b>mobile ID</b> through the <b>Delaware</b> MiD <b>app</b>. The <b>app</b> is&nbsp;...",
+   "formattedUrl": "https://idscan.net/state-digital-id/delaware-mobile-id-updates/",
+   "htmlFormattedUrl": "https://idscan.net/state-<b>digital-id</b>/<b>delaware</b>-<b>mobile-id</b>-updates/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv022IYORgrkWkQdavXMhaUa-lft7qfm7RLZDJaKIEIq2wEUVqzH5-JlXW&s",
+      "width": "311",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://idscan.net/wp-content/uploads/delaware-mobile-id.jpg?lm=67E5AFF2",
+      "og:type": "article",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "IDScan.net",
+      "og:title": "Delaware Mobile ID Updates",
+      "og:image:height": "625",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://idscan.net/wp-content/uploads/cropped-idscan-identity-verification-software-icon-1-270x270.png",
+      "og:description": "The Delaware mDL is available via the Delaware Mobile ID app, and an Apple Wallet version is expected to follow. Both are VeriScan compatible",
+      "article:publisher": "https://www.facebook.com/idscannet",
+      "twitter:site": "@idscan_net",
+      "article:modified_time": "2025-03-19T19:42:15+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://idscan.net/state-digital-id/delaware-mobile-id-updates/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://idscan.net/wp-content/uploads/delaware-mobile-id.jpg?lm=67E5AFF2"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Digital IDs Are Here, but Where Are They Used and Accepted?",
+   "htmlTitle": "Digital IDs Are Here, but Where Are They Used and Accepted?",
+   "link": "https://www.govtech.com/biz/data/digital-ids-are-here-but-where-are-they-used-and-accepted",
+   "displayLink": "www.govtech.com",
+   "snippet": "Mar 12, 2024 ... ... verifier app, you can download and use it for compliance.\u201d The ... Mobile ID App in February and is now reimagining a mobile ID component.",
+   "htmlSnippet": "Mar 12, 2024 <b>...</b> ... <b>verifier app</b>, you can download and use it for compliance.\u201d The ... <b>Mobile ID App</b> in February and is now reimagining a <b>mobile ID</b> component.",
+   "formattedUrl": "https://www.govtech.com/.../digital-ids-are-here-but-where-are-they-used-a...",
+   "htmlFormattedUrl": "https://www.govtech.com/.../<b>digital-id</b>s-are-here-but-where-are-they-used-a...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLHfZHE9lD-VlHaUfBMna5P8lWlX4mDlIXEt8ILv6RzwvbnGy8FXSV4225&s",
+      "width": "322",
+      "height": "156"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://erepublic.brightspotcdn.com/dims4/default/67316be/2147483647/strip/true/crop/500x243+0+60/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F89%2F75%2Faecb6ed94e8999746f01be0dd3ba%2Fshutterstock-1592717161.jpg",
+      "og:image:width": "1440",
+      "article:published_time": "2024-03-12T23:52:45.561",
+      "twitter:card": "summary_large_image",
+      "brightspot.cached": "false",
+      "og:site_name": "GovTech",
+      "og:image:type": "image/jpeg",
+      "og:description": "While millions of Americans have opted to use mobile IDs that can be carried on a phone instead of physical identification in a wallet, many businesses and agencies, including law enforcement, don\u2019t yet accept them. What needs to happen next?",
+      "twitter:image": "https://erepublic.brightspotcdn.com/dims4/default/67316be/2147483647/strip/true/crop/500x243+0+60/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F89%2F75%2Faecb6ed94e8999746f01be0dd3ba%2Fshutterstock-1592717161.jpg",
+      "twitter:image:alt": "Inside a car, above a gearshift, a person's hand holds a smartphone showing a mobile driver's license.",
+      "twitter:site": "@govtechnews",
+      "article:modified_time": "2024-04-05T21:21:58.371",
+      "brightspot.contentid": "0000018e-3465-da77-a59e-7d6dc7d30000",
+      "og:image:alt": "Inside a car, above a gearshift, a person's hand holds a smartphone showing a mobile driver's license.",
+      "og:type": "article",
+      "article:section": "Biz Data",
+      "twitter:title": "Digital IDs Are Here, but Where Are They Used and Accepted?",
+      "og:image:url": "https://erepublic.brightspotcdn.com/dims4/default/67316be/2147483647/strip/true/crop/500x243+0+60/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F89%2F75%2Faecb6ed94e8999746f01be0dd3ba%2Fshutterstock-1592717161.jpg",
+      "og:title": "Digital IDs Are Here, but Where Are They Used and Accepted?",
+      "og:image:height": "700",
+      "article:author": "https://www.govtech.com/nikki-davidson",
+      "article:tag": "Digital Services",
+      "fb:app_id": "314190606794339",
+      "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=5",
+      "twitter:description": "While millions of Americans have opted to use mobile IDs that can be carried on a phone instead of physical identification in a wallet, many businesses and agencies, including law enforcement, don\u2019t yet accept them. What needs to happen next?",
+      "og:url": "https://www.govtech.com/biz/data/digital-ids-are-here-but-where-are-they-used-and-accepted"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://erepublic.brightspotcdn.com/dims4/default/67316be/2147483647/strip/true/crop/500x243+0+60/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F89%2F75%2Faecb6ed94e8999746f01be0dd3ba%2Fshutterstock-1592717161.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Apple Said iPhone Driver's Licenses Would Expand to These 8 U.S. ...",
+   "htmlTitle": "Apple Said iPhone Driver&#39;s Licenses Would Expand to These 8 U.S. ...",
+   "link": "https://www.reddit.com/r/apple/comments/1benrrj/apple_said_iphone_drivers_licenses_would_expand/",
+   "displayLink": "www.reddit.com",
+   "snippet": "Mar 14, 2024 ... ... app, but it is now two years later and none of these states support ... reader to integrate with the Wallet IDs yet. Upvote 18. Downvote",
+   "htmlSnippet": "Mar 14, 2024 <b>...</b> ... <b>app</b>, but it is now two years later and none of these states support ... <b>reader</b> to integrate with the Wallet IDs yet. Upvote 18. Downvote",
+   "formattedUrl": "https://www.reddit.com/.../apple/.../apple_said_iphone_drivers_licenses_wo...",
+   "htmlFormattedUrl": "https://www.reddit.com/.../<b>app</b>le/.../<b>app</b>le_said_iphone_drivers_licenses_wo...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLIcYrTVv66B9dy_fguI3AlO82OvGWKrGsHMSzs8YllJ61vqGCdfK7CG63&s",
+      "width": "299",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://external-preview.redd.it/apple-said-iphone-drivers-licenses-would-expand-to-these-8-v0-OPKFhI2WeGcggpChCGRS6qDvxm4FYZkXvD26uJk9Mbk.jpg?width=1080&crop=smart&auto=webp&s=7c91a6ce0796dbc6d0f3523ac4c23d9896d62e86",
+      "theme-color": "#000000",
+      "og:image:width": "1080",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "r/apple on Reddit: Apple Said iPhone Driver's Licenses Would Expand to These 8 U.S. States\u2026 Two Years Ago",
+      "og:site_name": "Reddit",
+      "og:title": "r/apple on Reddit: Apple Said iPhone Driver's Licenses Would Expand to These 8 U.S. States\u2026 Two Years Ago",
+      "og:image:height": "608",
+      "msapplication-navbutton-color": "#000000",
+      "og:description": "Posted by u/chrisdh79 - 1,785 votes and 299 comments",
+      "twitter:image": "https://external-preview.redd.it/apple-said-iphone-drivers-licenses-would-expand-to-these-8-v0-OPKFhI2WeGcggpChCGRS6qDvxm4FYZkXvD26uJk9Mbk.jpg?width=1080&crop=smart&auto=webp&s=7c91a6ce0796dbc6d0f3523ac4c23d9896d62e86",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "twitter:site": "@reddit",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "apple-mobile-web-app-capable": "yes",
+      "og:ttl": "600",
+      "og:url": "https://www.reddit.com/r/apple/comments/1benrrj/apple_said_iphone_drivers_licenses_would_expand/?seeker-session=true"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://external-preview.redd.it/apple-said-iphone-drivers-licenses-would-expand-to-these-8-v0-OPKFhI2WeGcggpChCGRS6qDvxm4FYZkXvD26uJk9Mbk.jpg?width=1080&crop=smart&auto=webp&s=7c91a6ce0796dbc6d0f3523ac4c23d9896d62e86"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile Driver's Licenses Pave the Way for Unified Digital IDs",
+   "htmlTitle": "Mobile Driver&#39;s Licenses Pave the Way for Unified Digital IDs",
+   "link": "https://www.govtech.com/products/mobile-drivers-licenses-pave-the-way-for-unified-digital-ids",
+   "displayLink": "www.govtech.com",
+   "snippet": "Arizona rolled out its mobile driver's license (mDL) app in March 2021. Eric ... mDL to verify the transaction between the two customers. \u201cWe were\u00a0...",
+   "htmlSnippet": "Arizona rolled out its <b>mobile driver&#39;s license</b> (<b>mDL</b>) <b>app</b> in March 2021. Eric ... <b>mDL</b> to <b>verify</b> the transaction between the two customers. \u201cWe were&nbsp;...",
+   "formattedUrl": "https://www.govtech.com/.../mobile-drivers-licenses-pave-the-way-for-unifi...",
+   "htmlFormattedUrl": "https://www.govtech.com/.../<b>mobile-drivers-license</b>s-pave-the-way-for-unifi...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE5Det4RmXvgm-vL5dc9ahVngz9it02S1YJT5MalOWc1QJkYrkSpyjj8-4&s",
+      "width": "322",
+      "height": "156"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://erepublic.brightspotcdn.com/dims4/default/a4fc2d5/2147483647/strip/true/crop/1750x851+0+31/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F12%2F1c%2F0372830a4c978da8c63339d11492%2Fjuly-web-5.jpg",
+      "og:image:width": "1440",
+      "article:published_time": "2021-07-12T16:00:41.653",
+      "twitter:card": "summary_large_image",
+      "brightspot.cached": "false",
+      "og:site_name": "GovTech",
+      "og:image:type": "image/jpeg",
+      "og:description": "More and more states are rolling out digital driver\u2019s licenses, and experts see that trend continuing as federal standards take shape and citizens embrace an improved government experience.",
+      "twitter:image": "https://erepublic.brightspotcdn.com/dims4/default/a4fc2d5/2147483647/strip/true/crop/1750x851+0+31/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F12%2F1c%2F0372830a4c978da8c63339d11492%2Fjuly-web-5.jpg",
+      "twitter:image:alt": "blurred image of a road passing quickly from a moving vehicle",
+      "twitter:site": "@govtechnews",
+      "article:modified_time": "2021-07-12T17:05:41.661",
+      "brightspot.contentid": "0000017a-548a-dd73-abfb-74bf20540000",
+      "og:image:alt": "blurred image of a road passing quickly from a moving vehicle",
+      "og:type": "article",
+      "article:section": "Emerging Tech",
+      "twitter:title": "Mobile Driver\u2019s Licenses Pave the Way for Unified Digital IDs",
+      "og:image:url": "https://erepublic.brightspotcdn.com/dims4/default/a4fc2d5/2147483647/strip/true/crop/1750x851+0+31/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F12%2F1c%2F0372830a4c978da8c63339d11492%2Fjuly-web-5.jpg",
+      "og:title": "Mobile Driver\u2019s Licenses Pave the Way for Unified Digital IDs",
+      "og:image:height": "700",
+      "article:author": "https://www.govtech.com/authors/David-Raths-EM.html",
+      "article:tag": "Emerging Tech",
+      "fb:app_id": "314190606794339",
+      "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=5",
+      "twitter:description": "More and more states are rolling out digital driver\u2019s licenses, and experts see that trend continuing as federal standards take shape and citizens embrace an improved government experience.",
+      "og:url": "https://www.govtech.com/products/mobile-drivers-licenses-pave-the-way-for-unified-digital-ids"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://erepublic.brightspotcdn.com/dims4/default/a4fc2d5/2147483647/strip/true/crop/1750x851+0+31/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F12%2F1c%2F0372830a4c978da8c63339d11492%2Fjuly-web-5.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Joint Base McGuire-Dix-Lakehurst | Check-in Procedures ...",
+   "htmlTitle": "Joint Base McGuire-Dix-Lakehurst | <b>Check</b>-in Procedures ...",
+   "link": "https://installations.militaryonesource.mil/military-installation/joint-base-mcguire-dix-lakehurst/base-essentials/check-in-procedures",
+   "displayLink": "installations.militaryonesource.mil",
+   "snippet": "JB MDL -Programs/Resources & Contact Information. Base Operator: 609-754-1100 ... Download Our App. My Military OneSource Google Play Store; My Military\u00a0...",
+   "htmlSnippet": "JB <b>MDL</b> -Programs/Resources &amp; Contact Information. Base Operator: 609-754-1100 ... Download Our <b>App</b>. My Military OneSource Google Play Store; My Military&nbsp;...",
+   "formattedUrl": "https://installations.militaryonesource.mil/military.../check-in-procedures",
+   "htmlFormattedUrl": "https://installations.militaryonesource.mil/military.../<b>check</b>-in-procedures",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Path to Digital Identity in the United States | ITIF",
+   "htmlTitle": "The Path to Digital Identity in the United States | ITIF",
+   "link": "https://itif.org/publications/2024/09/23/path-to-digital-identity-in-the-united-states/",
+   "displayLink": "itif.org",
+   "snippet": "Sep 23, 2024 ... Delaware offers mDLs via the Mobile ID app developed by Idemia, an identity services company. Secured via a six-digit PIN and biometrics such as\u00a0...",
+   "htmlSnippet": "Sep 23, 2024 <b>...</b> <b>Delaware</b> offers mDLs via the <b>Mobile ID app</b> developed by Idemia, an identity services company. Secured via a six-digit PIN and biometrics such as&nbsp;...",
+   "formattedUrl": "https://itif.org/publications/.../path-to-digital-identity-in-the-united-states/",
+   "htmlFormattedUrl": "https://itif.org/publications/.../path-to-<b>digital-id</b>entity-in-the-united-states/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBNNWbOtPrOs1ZXLXp47Xp0sIOR0dfYkOTWdD4vla4d4_zKJv4bAztK-KG&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "citation_keywords": "Digital Government, State and Local, Accessibility, Privacy",
+      "og:image": "https://cdn.sanity.io/images/03hnmfyj/production/a10e9ad3f8473b30a46fbb906c396eea493249a7-1680x945.jpg",
+      "twitter:card": "summary_large_image",
+      "og:image:width": "1280",
+      "citation_title": "The Path to Digital Identity in\u00a0the\u00a0United\u00a0States",
+      "article:published_time": "2024-09-23",
+      "citation_publisher": "Information Technology and Innovation Foundation",
+      "citation_date": "2024-09-23",
+      "twitter:creator": "@ITIFdc",
+      "og:description": "Digital IDs are a more convenient, secure, and versatile option than physical IDs, but few Americans currently have one. With the right investments and collaboration between federal and state governments, Americans could realize the full potential of digital IDs.",
+      "twitter:image": "https://cdn.sanity.io/images/03hnmfyj/production/a10e9ad3f8473b30a46fbb906c396eea493249a7-1680x945.jpg",
+      "next-head-count": "37",
+      "twitter:site": "@ITIFdc",
+      "citation_language": "en",
+      "og:type": "website",
+      "author": "Ash Johnson",
+      "og:title": "The Path to Digital Identity in\u00a0the\u00a0United\u00a0States",
+      "og:image:height": "720",
+      "citation_author": "Ash Johnson",
+      "citation_abstract_html_url": "https://itif.org/publications/2024/09/23/path-to-digital-identity-in-the-united-states/",
+      "viewport": "width=device-width",
+      "og:locale": "en_US",
+      "citation_technical_report_institution": "Information Technology and Innovation Foundation",
+      "og:url": "https://itif.org/publications/2024/09/23/path-to-digital-identity-in-the-united-states/",
+      "publish_date": "2024-09-23"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://cdn.sanity.io/images/03hnmfyj/production/a10e9ad3f8473b30a46fbb906c396eea493249a7-1680x945.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Electronic Driver License",
+   "htmlTitle": "Electronic Driver License",
+   "link": "https://le.utah.gov/interim/2016/pdf/00003067.pdf",
+   "displayLink": "le.utah.gov",
+   "snippet": "Jul 13, 2016 ... that Verify Code into a fake app that simulates the\u0430'Retrieve Verify Code'. ... New use cases brought about by the nature of a mDL can be expected\u00a0...",
+   "htmlSnippet": "Jul 13, 2016 <b>...</b> that <b>Verify</b> Code into a fake <b>app</b> that simulates the\u0430&#39;Retrieve <b>Verify</b> Code&#39;. ... New use cases brought <b>about</b> by the nature of a <b>mDL</b> can be expected&nbsp;...",
+   "formattedUrl": "https://le.utah.gov/interim/2016/pdf/00003067.pdf",
+   "htmlFormattedUrl": "https://le.utah.gov/interim/2016/pdf/00003067.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6UeqX847ewIaYxSMMRnjtTwoH8xjGwQxwaKv5NGN5DTfJUKTsh_JMo8GQ&s",
+      "width": "264",
+      "height": "191"
+     }
+    ],
+    "metatags": [
+     {
+      "producer": "Skia/PDF m54"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///b94e120272c2e6cf4a7a4f14b97c0108d17750ed72fd88696b12f8a6e9effe73"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "SIC Biometrics is launching a third model of Wi-Fi device",
+   "htmlTitle": "SIC Biometrics is launching a third model of Wi-Fi device",
+   "link": "https://www.cardlogix.com/industry-news/sic-biometrics-is-launching-a-fap-30-model-of-wi-fi-device-at-the-connect-id-2019/",
+   "displayLink": "www.cardlogix.com",
+   "snippet": "Mar 13, 2023 ... The IdentiFI products are driven by custom applications and run on APIs available under the SIC Biometrics SDK suite. ... The Delaware Mobile ID\u00a0...",
+   "htmlSnippet": "Mar 13, 2023 <b>...</b> The IdentiFI products are driven by custom applications and run on APIs available under the SIC Biometrics <b>SDK</b> suite. ... The <b>Delaware Mobile ID</b>&nbsp;...",
+   "formattedUrl": "https://www.cardlogix.com/.../sic-biometrics-is-launching-a-fap-30-model-...",
+   "htmlFormattedUrl": "https://www.cardlogix.com/.../sic-biometrics-is-launching-a-fap-30-model-...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGLC6783rFZHCeR1LUJX3PsCLUD26uzD5jZSvkAWBwpp5hrM6KGrbVng&s",
+      "width": "200",
+      "height": "56"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.cardlogix.com/wp-content/uploads/cardlogix-logo-header.png",
+      "og:type": "article",
+      "article:published_time": "2019-04-29T22:45:20-07:00",
+      "og:image:width": "200",
+      "og:site_name": "CardLogix Corporation",
+      "author": "Nick Schooler",
+      "og:title": "SIC Biometrics is launching a third model of Wi-Fi device",
+      "og:image:height": "56",
+      "og:image:type": "image/png",
+      "og:description": "Newark, DE. (April 29, 2019) \u2013 SIC Biometrics, a world leading mobile biometric and identification device developer and manufacturer, is pleased to announce that they will be launching the IdentiFI-30 at the Connect ID Conference and Exhibition 2019 in Washington, DC, on April 30th.\r\n\r\nQuickly after the successful deployment of the IdentFi-45 G2 device, in law",
+      "article:modified_time": "2023-03-13T21:16:28-07:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.cardlogix.com/industry-news/sic-biometrics-is-launching-a-fap-30-model-of-wi-fi-device-at-the-connect-id-2019/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.cardlogix.com/wp-content/uploads/cardlogix-logo-header.png"
+     }
+    ],
+    "hatomfeed": [
+     {}
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Continuing Legal Education Programs & Legal Publications - ALI CLE",
+   "htmlTitle": "Continuing Legal Education Programs & Legal Publications - ALI CLE",
+   "link": "https://www.ali-cle.org/programs",
+   "displayLink": "www.ali-cle.org",
+   "snippet": "E-Discovery and Mobile Messages: Navigating App Data in Litigation. Tuesday ... MDL in Motion: Evolving Practices, Emerging Leaders, and Reform. Friday\u00a0...",
+   "htmlSnippet": "E-Discovery and Mobile Messages: Navigating <b>App</b> Data in Litigation. Tuesday ... <b>MDL</b> in Motion: Evolving Practices, Emerging Leaders, and Reform. Friday&nbsp;...",
+   "formattedUrl": "https://www.ali-cle.org/programs",
+   "htmlFormattedUrl": "https://www.ali-cle.org/programs",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRHh7us4cN5muIvFeJ5N5vANLUQWDn8CDqHFm508H5SeGqsB0utoaA1_4&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "fragment": "#",
+      "viewport": "width=device-width, initial-scale=1",
+      "msvalidate.01": "D6FAF4E77AD9190ACC36D2165AFC1461",
+      "google-signin-client_id": "619982556842-jmsllpc7amqe8jbk3n0btjgjt21r2tlk.apps.googleusercontent.com"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.ali-cle.org/img/program-icon-audio.svg"
+     }
+    ]
+   }
+  }
+ ]
+}

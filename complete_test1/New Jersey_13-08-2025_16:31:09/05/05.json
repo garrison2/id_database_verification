@@ -1,0 +1,422 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"New Jersey\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" vendor OR developer OR procurement",
+    "totalResults": "30100",
+    "searchTerms": "\"New Jersey\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" vendor OR developer OR procurement",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"New Jersey\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" vendor OR developer OR procurement",
+    "totalResults": "30100",
+    "searchTerms": "\"New Jersey\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" vendor OR developer OR procurement",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.36141,
+  "formattedSearchTime": "0.36",
+  "totalResults": "30100",
+  "formattedTotalResults": "30,100"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "New Jersey Motor Vehicle Commission",
+   "htmlTitle": "<b>New Jersey</b> Motor Vehicle Commission",
+   "link": "https://www.nj.gov/mvc/pdf/about/QAAddendum2ElectronicDriversLicenses.pdf",
+   "displayLink": "www.nj.gov",
+   "snippet": "Aug 23, 2016 ... New Jersey is an Equal Opportunity Employer. New Jersey ... MVC would anticipate a greater vendor support role in this type of mDL system.",
+   "htmlSnippet": "Aug 23, 2016 <b>...</b> <b>New Jersey</b> is an Equal Opportunity Employer. <b>New Jersey</b> ... MVC would anticipate a greater <b>vendor</b> support role in this type of <b>mDL</b> system.",
+   "formattedUrl": "https://www.nj.gov/mvc/pdf/.../QAAddendum2ElectronicDriversLicenses.p...",
+   "htmlFormattedUrl": "https://www.nj.gov/mvc/pdf/.../QAAddendum2ElectronicDriversLicenses.p...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7lT16P8MfGlNmjVKmFGPy8HypXu_k0UmSlnDJK9MJT66MMXzo9hC9StOG&s",
+      "width": "197",
+      "height": "255"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20160829134638-04'00'",
+      "creationdate": "D:20160829134637-04'00'",
+      "creator": "Acrobat PDFMaker 15 for Word",
+      "sourcemodified": "D:20160823201245",
+      "author": "TPZMCGR",
+      "producer": "Adobe PDF Library 15.0",
+      "company": "njdot"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///2a75f1461919858bfde553880f8b6ee4164cd688b325db87b062fe019586624f"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "New Jersey Gov. Phil Murphy signs law creating digital ID program ...",
+   "htmlTitle": "<b>New Jersey</b> Gov. Phil Murphy signs law creating <b>digital ID</b> program ...",
+   "link": "https://statescoop.com/new-jersey-phil-murphy-digital-id-2025/",
+   "displayLink": "statescoop.com",
+   "snippet": "Jul 24, 2025 ... Phil Murphy on Tuesday signed a bill into law that charges the New Jersey Motor Vehicle Commission with creating a state digital ID program.",
+   "htmlSnippet": "Jul 24, 2025 <b>...</b> Phil Murphy on Tuesday signed a bill into law that charges the <b>New Jersey</b> Motor Vehicle Commission with creating a state <b>digital ID</b> program.",
+   "formattedUrl": "https://statescoop.com/new-jersey-phil-murphy-digital-id-2025/",
+   "htmlFormattedUrl": "https://statescoop.com/<b>new-jersey</b>-phil-murphy-<b>digital-id</b>-2025/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFrPTtnHLfaXYXbZ_LMX83z89OGHj1SliBhgXUxtVfJ2jbN2O0TrEuDmI&s",
+      "width": "274",
+      "height": "184"
+     }
+    ],
+    "website": [
+     {
+      "query-input": "name=s value",
+      "target": "https://statescoop.com/?s={s}"
+     }
+    ],
+    "organization": [
+     {
+      "logo": "https://statescoop.com/wp-content/themes/scoopnewsgroup/dist/svg/logo-state.svg",
+      "url": "https://statescoop.com/"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://statescoop.com/wp-content/uploads/sites/6/2025/07/GettyImages-128437782.jpg",
+      "og:type": "article",
+      "article:published_time": "2025-07-24T20:07:51+00:00",
+      "og:image:width": "1300",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "StateScoop",
+      "author": "Keely Quinlan",
+      "og:title": "New Jersey Gov. Phil Murphy signs law creating digital ID program | StateScoop",
+      "og:image:height": "873",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://statescoop.com/wp-content/uploads/sites/6/2023/01/cropped-ss_favicon.png?w=270",
+      "og:description": "The law will make New Jersey the 16th state to allow its residents to use digital driver\u2019s licenses in lieu of physical IDs.",
+      "twitter:creator": "@State_Scoop",
+      "article:publisher": "https://www.facebook.com/StateScoop/",
+      "twitter:site": "@State_Scoop",
+      "article:modified_time": "2025-07-24T20:07:54+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://statescoop.com/new-jersey-phil-murphy-digital-id-2025/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://statescoop.com/wp-content/uploads/sites/6/2025/07/GettyImages-128437782.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NJ Division of Purchase and Property",
+   "htmlTitle": "NJ Division of Purchase and Property",
+   "link": "https://www.nj.gov/treasury/purchase/",
+   "displayLink": "www.nj.gov",
+   "snippet": "Jul 15, 2025 ... State of New Jersey Seal Official Site of The State of New Jersey ... Digital Driver's License. 1.21.2025, Special Notice of Bid\u00a0...",
+   "htmlSnippet": "Jul 15, 2025 <b>...</b> State of <b>New Jersey</b> Seal Official Site of The State of <b>New Jersey</b> ... <b>Digital Driver&#39;s License</b>. 1.21.2025, Special Notice of Bid&nbsp;...",
+   "formattedUrl": "https://www.nj.gov/treasury/purchase/",
+   "htmlFormattedUrl": "https://www.nj.gov/treasury/purchase/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkicUDr7rzD1wtkGGUhOUZStK1am5yUj_U88CfqjNhj3t-sWVXUs4QfQs&s",
+      "width": "346",
+      "height": "146"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.nj.gov/treasury/purchase/div-assets/img/slider/finlit.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "New Jersey governor urges lawmakers to pass mobile driver's ...",
+   "htmlTitle": "<b>New Jersey</b> governor urges lawmakers to pass <b>mobile driver&#39;s</b> ...",
+   "link": "https://statescoop.com/new-jersey-gov-phil-murphy-mobile-drivers-license/",
+   "displayLink": "statescoop.com",
+   "snippet": "Jan 14, 2025 ... In his State of the State address, New Jersey Gov. Phil Murphy urged lawmakers to pass legislation creating a mobile driver's license\u00a0...",
+   "htmlSnippet": "Jan 14, 2025 <b>...</b> In his State of the State address, <b>New Jersey</b> Gov. Phil Murphy urged lawmakers to pass legislation creating a <b>mobile driver&#39;s license</b>&nbsp;...",
+   "formattedUrl": "https://statescoop.com/new-jersey-gov-phil-murphy-mobile-drivers-license/",
+   "htmlFormattedUrl": "https://statescoop.com/<b>new-jersey</b>-gov-phil-murphy-<b>mobile-drivers-license</b>/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVz2iL9gTecTjxlsmuqohfFdt27ASR-_6pGTa8LMG6JdnExYNc7TJz6t4&s",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "website": [
+     {
+      "query-input": "name=s value",
+      "target": "https://statescoop.com/?s={s}"
+     }
+    ],
+    "organization": [
+     {
+      "logo": "https://statescoop.com/wp-content/themes/scoopnewsgroup/dist/svg/logo-state.svg",
+      "url": "https://statescoop.com/"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://statescoop.com/wp-content/uploads/sites/6/2025/01/GettyImages-1461142600.jpg",
+      "og:type": "article",
+      "article:published_time": "2025-01-14T17:00:00+00:00",
+      "og:image:width": "1300",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "StateScoop",
+      "author": "Colin Wood",
+      "og:title": "New Jersey governor urges lawmakers to pass mobile driver's license bills | StateScoop",
+      "og:image:height": "867",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://statescoop.com/wp-content/uploads/sites/6/2023/01/cropped-ss_favicon.png?w=270",
+      "og:description": "In his State of the State address, New Jersey Gov. Phil Murphy urged lawmakers to pass legislation creating a mobile driver's license program.",
+      "twitter:creator": "@State_Scoop",
+      "article:publisher": "https://www.facebook.com/StateScoop/",
+      "twitter:site": "@State_Scoop",
+      "article:modified_time": "2025-01-14T17:04:54+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://statescoop.com/new-jersey-gov-phil-murphy-mobile-drivers-license/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://statescoop.com/wp-content/uploads/sites/6/2025/01/GettyImages-1461142600.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "October 15, 2023 Docket Management Facility, U.S. Department of ...",
+   "htmlTitle": "October 15, 2023 Docket Management Facility, U.S. Department of ...",
+   "link": "https://aamva.org/getmedia/01f2f62a-9a8e-4f13-9023-4022aa766543/aamva-comments-on-tsa-nprm-on-mdl-acceptance-15-october-2023.pdf",
+   "displayLink": "aamva.org",
+   "snippet": "Oct 15, 2023 ... 1200 New Jersey Avenue SE,. West Building, Room W12-140 ... periods for the development of state-based mDL solutions. There may\u00a0...",
+   "htmlSnippet": "Oct 15, 2023 <b>...</b> 1200 <b>New Jersey</b> Avenue SE,. West Building, Room W12-140 ... periods for the development of state-based <b>mDL</b> solutions. There may&nbsp;...",
+   "formattedUrl": "https://aamva.org/.../aamva-comments-on-tsa-nprm-on-mdl-acceptance-15-...",
+   "htmlFormattedUrl": "https://aamva.org/.../aamva-comments-on-tsa-nprm-on-<b>mdl</b>-acceptance-15-...",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20231023090426-04'00'",
+      "creator": "Microsoft\u00ae Word for Microsoft 365",
+      "creationdate": "D:20231023090426-04'00'",
+      "author": "Eric Dunn",
+      "producer": "Microsoft\u00ae Word for Microsoft 365"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Joint Base McGuire-Dix-Lakehurst > Power in the Pines Air Show ...",
+   "htmlTitle": "Joint Base McGuire-Dix-Lakehurst &gt; Power in the Pines Air Show ...",
+   "link": "https://www.jbmdl.jb.mil/Power-in-the-Pines-Air-Show/Directions-and-Parking/",
+   "displayLink": "www.jbmdl.jb.mil",
+   "snippet": "There will be designated parking areas available for base residents at JB MDL McGuire and JB MDL Ft. ... 5240 New Jersey Ave) or TEAL parking areas located\u00a0...",
+   "htmlSnippet": "There will be designated parking areas available for base residents at JB <b>MDL</b> McGuire and JB <b>MDL</b> Ft. ... 5240 <b>New Jersey</b> Ave) or TEAL parking areas located&nbsp;...",
+   "formattedUrl": "https://www.jbmdl.jb.mil/Power-in-the-Pines-Air.../Directions-and-Parking/",
+   "htmlFormattedUrl": "https://www.jb<b>mdl</b>.jb.mil/Power-in-the-Pines-Air.../Directions-and-Parking/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDecpmonhuoh40Nkgc4aJGmsYUU3xaHjJuEcgAO8Oq62vIIKQzqh6a0l0&s",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width,initial-scale=1",
+      "contact": "dma.WebSD@mail.mil",
+      "rating": "GENERAL",
+      "host": "DMA Public Web",
+      "resource-type": "DOCUMENT"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://media.defense.gov/2025/Jan/30/2003635320/-1/-1/0/250122-F-BW403-1516.JPG"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "News Flash \u2022 Procurement",
+   "htmlTitle": "News Flash \u2022 <b>Procurement</b>",
+   "link": "https://www.njlm.org/CivicAlerts.aspx?CID=38",
+   "displayLink": "www.njlm.org",
+   "snippet": "The League has serious reservations about A-3518/S-1297, which creates a mobile driver's license and identification cards. ... The New Jersey Department of\u00a0...",
+   "htmlSnippet": "The League has serious reservations about A-3518/S-1297, which creates a <b>mobile driver&#39;s license</b> and identification cards. ... The <b>New Jersey</b> Department of&nbsp;...",
+   "formattedUrl": "https://www.njlm.org/CivicAlerts.aspx?CID=38",
+   "htmlFormattedUrl": "https://www.njlm.org/CivicAlerts.aspx?CID=38",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx7XUbhkDjVrtQ_xG9fu6PgadS06Gy9HWBMMSFpAiXUqI6ke-mPwfUmEU&s",
+      "width": "318",
+      "height": "159"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.njlm.org/ImageRepository/Document?documentId=8375",
+      "theme-color": "#003a70",
+      "og:type": "website",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "News Flash",
+      "og:url": "https://www.njlm.org/CivicAlerts.aspx?CID=38",
+      "og:description": "News Flash"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.njlm.org/ImageRepository/Document?documentId=8375"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "JB MDL 'Industry Day' attracts contractors, vendors > Joint Base ...",
+   "htmlTitle": "JB <b>MDL</b> &#39;Industry Day&#39; attracts contractors, vendors &gt; Joint Base ...",
+   "link": "https://www.jbmdl.jb.mil/News/Article/245004/jb-mdl-industry-day-attracts-contractors-vendors/",
+   "displayLink": "www.jbmdl.jb.mil",
+   "snippet": "Nov 24, 2009 ... ... vendors. The 87th Contracting Squadron and the director of the New Jersey Procurement Technical Assistance Center provided information on\u00a0...",
+   "htmlSnippet": "Nov 24, 2009 <b>...</b> ... vendors. The 87th Contracting Squadron and the director of the <b>New Jersey Procurement</b> Technical Assistance Center provided information on&nbsp;...",
+   "formattedUrl": "https://www.jbmdl.jb.mil/.../jb-mdl-industry-day-attracts-contractors-vendo...",
+   "htmlFormattedUrl": "https://www.jb<b>mdl</b>.jb.mil/.../jb-<b>mdl</b>-industry-day-attracts-contractors-<b>vendo</b>...",
+   "pagemap": {
+    "metatags": [
+     {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "JB MDL 'Industry Day' attracts contractors, vendors",
+      "og:type": "article",
+      "og:site_name": "Joint Base McGuire-Dix-Lakehurst",
+      "og:title": "JB MDL 'Industry Day' attracts contractors, vendors",
+      "rating": "GENERAL",
+      "twitter:creator": "@jointbasemdl",
+      "og:description": "More than 400 people attended thefirst Joint Base McGuire-Dix-Lakehurst Industry Day Nov. 19 at the McGuireCommunity Center.The conference was held to aid small business proprietors in applying forand",
+      "twitter:site": "@jointbasemdl",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "twitter:description": "More than 400 people attended thefirst Joint Base McGuire-Dix-Lakehurst Industry Day Nov. 19 at the McGuireCommunity Center.The conference was held to aid small business proprietors in applying forand",
+      "contact": "dma.WebSD@mail.mil",
+      "host": "DMA Public Web",
+      "resource-type": "DOCUMENT",
+      "og:url": "https%3A%2F%2Fwww.jbmdl.jb.mil%2FNews%2FArticle-Display%2FArticle%2F245004%2Fjb-mdl-industry-day-attracts-contractors-vendors%2F"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NJMCP Home",
+   "htmlTitle": "NJMCP Home",
+   "link": "https://njmcp.crc.nj.gov/",
+   "displayLink": "njmcp.crc.nj.gov",
+   "snippet": "Welcome to the New Jersey Cannabis Regulatory Commission Medicinal Cannabis Program. ... FREE Digital ID cards are now available. Existing patients and caregivers\u00a0...",
+   "htmlSnippet": "Welcome to the <b>New Jersey</b> Cannabis Regulatory Commission Medicinal Cannabis Program. ... FREE <b>Digital ID</b> cards are now available. Existing patients and caregivers&nbsp;...",
+   "formattedUrl": "https://njmcp.crc.nj.gov/",
+   "htmlFormattedUrl": "https://njmcp.crc.nj.gov/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "New Jersey Department of Environmental Protection: NJDEP",
+   "htmlTitle": "<b>New Jersey</b> Department of Environmental Protection: NJDEP",
+   "link": "https://dep.nj.gov/",
+   "displayLink": "dep.nj.gov",
+   "snippet": "NJDEP | New Jersey Department of Environmental Protection home page.",
+   "htmlSnippet": "NJDEP | <b>New Jersey</b> Department of Environmental Protection home page.",
+   "formattedUrl": "https://dep.nj.gov/",
+   "htmlFormattedUrl": "https://dep.nj.gov/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_3hf33FP0UGIVoWtYgoQB1BAp7BidxbeYXReeqbr5fj9IYmMffmacFmo&s",
+      "width": "283",
+      "height": "178"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "New Jersey Department of Environmental Protection",
+      "msvalidate.01": "6BB42BB79782DACFC1DC4FB0EAAA017F",
+      "tec-api-origin": "https://dep.nj.gov",
+      "og:title": "NJDEP | New Jersey Department of Environmental Protection",
+      "et-api-origin": "https://dep.nj.gov",
+      "msapplication-tileimage": "https://dep.nj.gov/wp-content/uploads/dep-logo.png",
+      "og:description": "NJDEP | New Jersey Department of Environmental Protection home page",
+      "article:modified_time": "2025-08-04T19:51:16+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "et-api-version": "v1",
+      "og:url": "https://dep.nj.gov/",
+      "tec-api-version": "v1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dep.nj.gov/wp-content/uploads/home-cards/real-card-1.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

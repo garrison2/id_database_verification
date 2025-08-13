@@ -1,0 +1,387 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://dor.mo.gov/driver-license/ \"REAL ID\"",
+    "totalResults": "60",
+    "searchTerms": "site:https://dor.mo.gov/driver-license/ \"REAL ID\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://dor.mo.gov/driver-license/ \"REAL ID\"",
+    "totalResults": "60",
+    "searchTerms": "site:https://dor.mo.gov/driver-license/ \"REAL ID\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.086557,
+  "formattedSearchTime": "0.09",
+  "totalResults": "60",
+  "formattedTotalResults": "60"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Missouri REAL ID Information",
+   "htmlTitle": "Missouri <b>REAL ID</b> Information",
+   "link": "https://dor.mo.gov/driver-license/issuance/real-id/",
+   "displayLink": "dor.mo.gov",
+   "snippet": "Also beginning May 7, 2025, individuals must present a REAL ID-compliant driver license or ID card, or another form of acceptable ID, to access federal\u00a0...",
+   "htmlSnippet": "Also beginning May 7, 2025, individuals must present a <b>REAL ID</b>-compliant driver license or ID card, or another form of acceptable ID, to access federal&nbsp;...",
+   "formattedUrl": "https://dor.mo.gov/driver-license/issuance/real-id/",
+   "htmlFormattedUrl": "https://dor.mo.gov/driver-license/issuance/<b>real-id</b>/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZCoQLZLgEdcUWlOlj9U6qsu7Y8u7BLEWP6pjXpvF370HUVmhAaY5Rb4TS&s",
+      "width": "343",
+      "height": "147"
+     }
+    ],
+    "metatags": [
+     {
+      "theme-color": "#3a5170",
+      "apple-mobile-web-app-status-bar-style": "#3a5170",
+      "viewport": "width=device-width, initial-scale=1",
+      "msapplication-navbutton-color": "#3a5170"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dor.mo.gov/img/slides/Live-Agent.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of Acceptable Documents for REAL ID-Compliant Document ...",
+   "htmlTitle": "List of Acceptable Documents for <b>REAL ID</b>-Compliant Document ...",
+   "link": "https://dor.mo.gov/driver-license/issuance/real-id/documents/RID.pdf",
+   "displayLink": "dor.mo.gov",
+   "snippet": "for REAL ID-Compliant. Document Processing: 1. Identity. One (1) of these ... Valid, Unexpired Out of State Real ID driver's license, permit or\u00a0...",
+   "htmlSnippet": "for <b>REAL ID</b>-Compliant. Document Processing: 1. Identity. One (1) of these ... Valid, Unexpired Out of State <b>Real ID</b> driver&#39;s license, permit or&nbsp;...",
+   "formattedUrl": "https://dor.mo.gov/driver-license/issuance/real-id/documents/RID.pdf",
+   "htmlFormattedUrl": "https://dor.mo.gov/driver-license/issuance/<b>real-id</b>/documents/RID.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMho4yoRTXmg27J-iBFmWl9Qg7_KLCabXJbhKDoptWyMhHK4WTXPnt1Gvq&s",
+      "width": "312",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20190731084301-05'00'",
+      "creationdate": "D:20190731084300-05'00'",
+      "creator": "Adobe InDesign CC 13.1 (Windows)",
+      "producer": "Adobe PDF Library 15.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///1a8ac77e1724da1cb873427dee9bcaee4c9d9ca8b6263a43dec7c1f4a40db453"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of Acceptable Documents for REAL ID-Compliant Document ...",
+   "htmlTitle": "List of Acceptable Documents for <b>REAL ID</b>-Compliant Document ...",
+   "link": "https://dor.mo.gov/driver-license/documents/RID.pdf",
+   "displayLink": "dor.mo.gov",
+   "snippet": "First time REAL ID applicants must present documents in each of the following categories. Page 1 of 2. (Revised 12-2022). Applicants with a previously\u00a0...",
+   "htmlSnippet": "First time <b>REAL ID</b> applicants must present documents in each of the following categories. Page 1 of 2. (Revised 12-2022). Applicants with a previously&nbsp;...",
+   "formattedUrl": "https://dor.mo.gov/driver-license/documents/RID.pdf",
+   "htmlFormattedUrl": "https://dor.mo.gov/driver-license/documents/RID.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMho4yoRTXmg27J-iBFmWl9Qg7_KLCabXJbhKDoptWyMhHK4WTXPnt1Gvq&s",
+      "width": "312",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20230104111744-06'00'",
+      "creationdate": "D:20230104111743-06'00'",
+      "creator": "Adobe InDesign 18.1 (Macintosh)",
+      "producer": "Adobe PDF Library 17.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///1a8ac77e1724da1cb873427dee9bcaee4c9d9ca8b6263a43dec7c1f4a40db453"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Real ID Guide - Driver License Section",
+   "htmlTitle": "<b>Real ID</b> Guide - Driver License Section",
+   "link": "https://dor.mo.gov/driver-license/issuance/real-id/interactive-guide.html",
+   "displayLink": "dor.mo.gov",
+   "snippet": "Follow the instructions in the below interactive guide to create a list of documents required to apply for your REAL ID.",
+   "htmlSnippet": "Follow the instructions in the below interactive guide to create a list of documents required to apply for your <b>REAL ID</b>.",
+   "formattedUrl": "https://dor.mo.gov/driver-license/issuance/real-id/interactive-guide.html",
+   "htmlFormattedUrl": "https://dor.mo.gov/driver-license/issuance/<b>real-id</b>/interactive-guide.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2WgsGW6-w6MRj7eofQ5pe7IR8Hn9jEQ7tkDc8eqTcTH7Z_w7SIgMtiA4P&s",
+      "width": "226",
+      "height": "223"
+     }
+    ],
+    "metatags": [
+     {
+      "theme-color": "#3a5170",
+      "apple-mobile-web-app-status-bar-style": "#3a5170",
+      "viewport": "width=device-width, initial-scale=1",
+      "msapplication-navbutton-color": "#3a5170"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dor.mo.gov/chatbox/inc/assets/DORA_Bot_Icon.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of Noncommercial Non REAL - ID-Compliant Acceptable ...",
+   "htmlTitle": "List of Noncommercial Non <b>REAL - ID</b>-Compliant Acceptable ...",
+   "link": "https://dor.mo.gov/driver-license/documents/NONRID.pdf",
+   "displayLink": "dor.mo.gov",
+   "snippet": "Valid Out of State REAL ID or non REAL ID driver's license, permit or identification card. (Must be unexpired or within 184 days of card expiration date).",
+   "htmlSnippet": "Valid Out of State <b>REAL ID</b> or non <b>REAL ID</b> driver&#39;s license, permit or identification card. (Must be unexpired or within 184 days of card expiration date).",
+   "formattedUrl": "https://dor.mo.gov/driver-license/documents/NONRID.pdf",
+   "htmlFormattedUrl": "https://dor.mo.gov/driver-license/documents/NONRID.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ29WYAVrUi3MXzDbpcdgdc6smfa0rOqDPKNZB1G1yYmEwx7Bp842tSVjJF&s",
+      "width": "330",
+      "height": "153"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20230120123948-06'00'",
+      "creationdate": "D:20230120123947-06'00'",
+      "creator": "Adobe InDesign 18.1 (Macintosh)",
+      "producer": "Adobe PDF Library 17.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///a7adbdb67901d4d91c09606da86b8df4bf009323e5578368cc63f8ad94a2d0e3"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver Licensing",
+   "htmlTitle": "Driver Licensing",
+   "link": "https://dor.mo.gov/driver-license/",
+   "displayLink": "dor.mo.gov",
+   "snippet": "Search MyDMV - Motor Vehicle and Driver License Services. What To Do When... Driver License Real ID Acceptable documents Pay My Driver License Reinstatement Fee",
+   "htmlSnippet": "Search MyDMV - Motor Vehicle and Driver License Services. What To Do When... Driver License <b>Real ID</b> Acceptable documents Pay My Driver License Reinstatement Fee",
+   "formattedUrl": "https://dor.mo.gov/driver-license/",
+   "htmlFormattedUrl": "https://dor.mo.gov/driver-license/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqHVhHtZLIsUJJGUH7dFVQ4FmSaGAbHnfrpSQqOyQ6vlk9afT5c4a78gJ3&s",
+      "width": "309",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "theme-color": "#3a5170",
+      "apple-mobile-web-app-status-bar-style": "#3a5170",
+      "viewport": "width=device-width, initial-scale=1",
+      "msapplication-navbutton-color": "#3a5170"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dor.mo.gov/img/slides/CDL-Certificates.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "REAL ID Information Packet",
+   "htmlTitle": "<b>REAL ID</b> Information Packet",
+   "link": "https://dor.mo.gov/driver-license/issuance/real-id/documents/REAL-ID-Information-Packet.pdf",
+   "displayLink": "dor.mo.gov",
+   "snippet": "Missouri's REAL ID-compliant driver licenses and nondriver. ID cards will have a star in the upper right-hand corner. A license or ID card that is not compliant\u00a0...",
+   "htmlSnippet": "Missouri&#39;s <b>REAL ID</b>-compliant driver licenses and nondriver. ID cards will have a star in the upper right-hand corner. A license or ID card that is not compliant&nbsp;...",
+   "formattedUrl": "https://dor.mo.gov/driver-license/.../real-id/.../REAL-ID-Information-Packet...",
+   "htmlFormattedUrl": "https://dor.mo.gov/driver-license/.../<b>real-id</b>/.../<b>REAL-ID</b>-Information-Packet...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJDUnblTQLoYDoDfmc01Bm24idnTq37lmJcM3ykIw4Db9JUoBTmZKlRww&s",
+      "width": "211",
+      "height": "239"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20250611151607-05'00'",
+      "creationdate": "D:20221205134310-06'00'",
+      "creator": "Adobe InDesign 17.1 (Macintosh)",
+      "producer": "Adobe PDF Library 16.0.5",
+      "title": "REAL ID Information Packet"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///28266f991290247dc71d5f2aba4a034e9dc50c8cdb8d1b916549100fb5245b83"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Missouri Driver License and Nondriver License",
+   "htmlTitle": "Missouri Driver License and Nondriver License",
+   "link": "https://dor.mo.gov/driver-license/resources/license.html",
+   "displayLink": "dor.mo.gov",
+   "snippet": "NOTE: A new applicant requesting a REAL ID-compliant document, a Commercial Driver License or a Commercial Learner's Permit must submit two acceptable documents\u00a0...",
+   "htmlSnippet": "NOTE: A new applicant requesting a <b>REAL ID</b>-compliant document, a Commercial Driver License or a Commercial Learner&#39;s Permit must submit two acceptable documents&nbsp;...",
+   "formattedUrl": "https://dor.mo.gov/driver-license/resources/license.html",
+   "htmlFormattedUrl": "https://dor.mo.gov/driver-license/resources/license.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2WgsGW6-w6MRj7eofQ5pe7IR8Hn9jEQ7tkDc8eqTcTH7Z_w7SIgMtiA4P&s",
+      "width": "226",
+      "height": "223"
+     }
+    ],
+    "metatags": [
+     {
+      "theme-color": "#3a5170",
+      "apple-mobile-web-app-status-bar-style": "#3a5170",
+      "viewport": "width=device-width, initial-scale=1",
+      "msapplication-navbutton-color": "#3a5170"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dor.mo.gov/chatbox/inc/assets/DORA_Bot_Icon.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Documents for Driver/ Nondriver License & Instruction Permit",
+   "htmlTitle": "Documents for Driver/ Nondriver License &amp; Instruction Permit",
+   "link": "https://dor.mo.gov/driver-license/issuance/id-requirements.html",
+   "displayLink": "dor.mo.gov",
+   "snippet": "EXCEPTION: For a non REAL ID-compliant application, an expired Missouri or out-of-state license, identification card, or instruction permit may be accepted for\u00a0...",
+   "htmlSnippet": "EXCEPTION: For a non <b>REAL ID</b>-compliant application, an expired Missouri or out-of-state license, identification card, or instruction permit may be accepted for&nbsp;...",
+   "formattedUrl": "https://dor.mo.gov/driver-license/issuance/id-requirements.html",
+   "htmlFormattedUrl": "https://dor.mo.gov/driver-license/issuance/id-requirements.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2WgsGW6-w6MRj7eofQ5pe7IR8Hn9jEQ7tkDc8eqTcTH7Z_w7SIgMtiA4P&s",
+      "width": "226",
+      "height": "223"
+     }
+    ],
+    "metatags": [
+     {
+      "theme-color": "#3a5170",
+      "apple-mobile-web-app-status-bar-style": "#3a5170",
+      "viewport": "width=device-width, initial-scale=1",
+      "msapplication-navbutton-color": "#3a5170"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dor.mo.gov/chatbox/inc/assets/DORA_Bot_Icon.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Untitled",
+   "htmlTitle": "Untitled",
+   "link": "https://dor.mo.gov/driver-license/documents/DocumentChart.pdf",
+   "displayLink": "dor.mo.gov",
+   "snippet": "This means the military is in the process of no longer accepting driver licenses or nondriver identification cards marked as being noncompliant with REAL ID for\u00a0...",
+   "htmlSnippet": "This means the military is in the process of no longer accepting driver licenses or nondriver identification cards marked as being noncompliant with <b>REAL ID</b> for&nbsp;...",
+   "formattedUrl": "https://dor.mo.gov/driver-license/documents/DocumentChart.pdf",
+   "htmlFormattedUrl": "https://dor.mo.gov/driver-license/documents/DocumentChart.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShF-GDQY3xiKJzPV1HeTQsa5kBciSRc2f_AITPP26fwmqXe0JW73K911g&s",
+      "width": "320",
+      "height": "157"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20200326123514-05'00'",
+      "creationdate": "D:20200326123513-05'00'",
+      "creator": "Adobe InDesign 15.0 (Windows)",
+      "producer": "Adobe PDF Library 15.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///47cb946b4140e80e95ceef353668fe30d741a1f1e7019e7df01572e7ce89361c"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

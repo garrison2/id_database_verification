@@ -1,0 +1,386 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://wisconsindot.gov \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "12",
+    "searchTerms": "site:https://wisconsindot.gov \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://wisconsindot.gov \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "12",
+    "searchTerms": "site:https://wisconsindot.gov \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.143146,
+  "formattedSearchTime": "0.14",
+  "totalResults": "12",
+  "formattedTotalResults": "12"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Back-up, back-up, and back-up Why wait? Submit early! Check for ...",
+   "htmlTitle": "Back-up, back-up, and back-up Why wait? Submit early! Check for ...",
+   "link": "https://wisconsindot.gov/hccidocs/elec-bid-best-practice.pdf",
+   "displayLink": "wisconsindot.gov",
+   "snippet": "When they do so, they ensure their digital ID and bid bond verification code (if applicable) are all set to go. Then, they can adjust their bids and re-submit\u00a0...",
+   "htmlSnippet": "When they do so, they ensure their <b>digital ID</b> and bid bond verification code (if applicable) are all set to go. Then, they can adjust their bids and re-submit&nbsp;...",
+   "formattedUrl": "https://wisconsindot.gov/hccidocs/elec-bid-best-practice.pdf",
+   "htmlFormattedUrl": "https://wisconsindot.gov/hccidocs/elec-bid-best-practice.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2v94Uk4_hUQJ4VY4iJz9D1Fh2FCg4CrMXoKBK0RLtjGBcnuxZyd_5JqQ&s",
+      "width": "197",
+      "height": "255"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20150401171405-05'00'",
+      "creationdate": "D:20150401171404-05'00'",
+      "creator": "Acrobat PDFMaker 10.1 for Word",
+      "sourcemodified": "D:20150401221355",
+      "author": "dotd3g",
+      "producer": "Adobe PDF Library 10.0",
+      "company": "Wisconsin Department of Transportation"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///9b1ae7705b772398e790baa6074529a20ae5333b19082e3503f252e52d074d63"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wisconsin Department of Transportation Online driver license/ID ...",
+   "htmlTitle": "Wisconsin Department of Transportation Online driver license/ID ...",
+   "link": "https://wisconsindot.gov/Pages/online-srvcs/DLID-Services.aspx",
+   "displayLink": "wisconsindot.gov",
+   "snippet": "SCAM ALERT \u2013 Individuals are reporting receiving text/email messages from WisDOT or Wisconsin DMV demanding payment for missed tolls or unpaid tickets.",
+   "htmlSnippet": "SCAM ALERT \u2013 Individuals are reporting receiving text/email messages from WisDOT or Wisconsin DMV demanding payment for missed tolls or unpaid tickets.",
+   "formattedUrl": "https://wisconsindot.gov/Pages/online-srvcs/DLID-Services.aspx",
+   "htmlFormattedUrl": "https://wisconsindot.gov/Pages/online-srvcs/DLID-Services.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0fmrtVA9ArQxOIkqZ3GZb2gz1L9wxLYGbjtD99dWpCz1KdtDi3RVinQ&s",
+      "width": "125",
+      "height": "125"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#da532c",
+      "msapplication-config": "/_catalogs/masterpage/SharePointNext/images/favicon/browserconfig.xml",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://wisconsindot.gov/_catalogs/masterpage/SharePointNext/images/DOT.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Electronic Bidding summary documentation",
+   "htmlTitle": "Electronic Bidding summary documentation",
+   "link": "https://wisconsindot.gov/Documents/doing-bus/civil-rights/dbe/ebiddingdoc.pdf",
+   "displayLink": "wisconsindot.gov",
+   "snippet": "Nov 4, 2021 ... o Request an InfoTech Digital ID and Password from Bid Express\u00ae. o Request to bid with WisDOT, using Bid Express\u00ae. \u2022 Request to be an\u00a0...",
+   "htmlSnippet": "Nov 4, 2021 <b>...</b> o Request an InfoTech <b>Digital ID</b> and Password from Bid Express\u00ae. o Request to bid with WisDOT, using Bid Express\u00ae. \u2022 Request to be an&nbsp;...",
+   "formattedUrl": "https://wisconsindot.gov/Documents/doing-bus/civil.../ebiddingdoc.pdf",
+   "htmlFormattedUrl": "https://wisconsindot.gov/Documents/doing-bus/civil.../ebiddingdoc.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHoAUPzjkHvg8_RDymyHuY44vkX0qVVr6pWL6d_abdyDjlGHvLLr5T6vLo&s",
+      "width": "268",
+      "height": "188"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20211106161831-05'00'",
+      "creationdate": "D:20211104161844-05'00'",
+      "creator": "Acrobat PDFMaker 21 for Word",
+      "sourcemodified": "D:20211104211822",
+      "author": "WisDOT",
+      "subject": "E-Bidding",
+      "producer": "Adobe PDF Library 21.7.131",
+      "title": "Electronic Bidding summary documentation"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///e5606da5e2a776126bea0a0b2683aaa6509909bbe3429a0945fd34c1a50bf983"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Advertisement for bids - E-Bidding Only",
+   "htmlTitle": "Advertisement for bids - E-Bidding Only",
+   "link": "https://wisconsindot.gov/Documents/doing-bus/aeronautics/airports/ba-auw1008.pdf",
+   "displayLink": "wisconsindot.gov",
+   "snippet": "Jul 9, 2025 ... Phone: (888)-352-2439 / Email: support@bidexpress.com. Bidder Digital ID Required: Firms who select to submit a bid MUST also obtain a free\u00a0...",
+   "htmlSnippet": "Jul 9, 2025 <b>...</b> Phone: (888)-352-2439 / Email: support@bidexpress.com. Bidder <b>Digital ID</b> Required: Firms who select to submit a bid MUST also obtain a free&nbsp;...",
+   "formattedUrl": "https://wisconsindot.gov/Documents/doing-bus/.../ba-auw1008.pdf",
+   "htmlFormattedUrl": "https://wisconsindot.gov/Documents/doing-bus/.../ba-auw1008.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20250710125132-05'00'",
+      "creationdate": "D:20250630132858-05'00'",
+      "creator": "Acrobat PDFMaker 25 for Word",
+      "sourcemodified": "D:20250630182846",
+      "author": "WisDOT",
+      "subject": "Advertisement for bids",
+      "producer": "Adobe PDF Library 25.1.51",
+      "company": "WisDOT",
+      "title": "Advertisement for bids - E-Bidding Only",
+      "contenttypeid": "0x010100E9B479DE97358D43AEB72738EE1F2D08"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Highway Construction Contract Information Contractors Checklist",
+   "htmlTitle": "Highway Construction Contract Information Contractors Checklist",
+   "link": "https://wisconsindot.gov/hccidocs/bidder-approval-contractors-checklist.pdf",
+   "displayLink": "wisconsindot.gov",
+   "snippet": "Dec 6, 2024 ... ... digital ID and be an approved bidder with WisDOT, before you can bid electronically via Bid Express. These should be obtained a few weeks\u00a0...",
+   "htmlSnippet": "Dec 6, 2024 <b>...</b> ... <b>digital ID</b> and be an approved bidder with WisDOT, before you can bid electronically via Bid Express. These should be obtained a few weeks&nbsp;...",
+   "formattedUrl": "https://wisconsindot.gov/hccidocs/bidder-approval-contractors-checklist.pdf",
+   "htmlFormattedUrl": "https://wisconsindot.gov/hccidocs/bidder-approval-contractors-checklist.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20241206135656-06'00'",
+      "creationdate": "D:20241206135656-06'00'",
+      "creator": "Acrobat PDFMaker 24 for Word",
+      "sourcemodified": "D:20241206195636",
+      "author": "ditfnj",
+      "producer": "Adobe PDF Library 24.4.19",
+      "company": "Wisconsin Department of Transportation"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Electronic Bidding Summary Bid Express\u00ae \u2013 AASHTOWare Project ...",
+   "htmlTitle": "Electronic Bidding Summary Bid Express\u00ae \u2013 AASHTOWare Project ...",
+   "link": "https://wisconsindot.gov/hccidocs/Electronic%20Bidding%20Documentation%20-%20DBE%20Documents.pdf",
+   "displayLink": "wisconsindot.gov",
+   "snippet": "Jan 5, 2022 ... o Request an InfoTech Digital ID and Password from Bid Express\u00ae. o Request to bid with WisDOT, using Bid Express\u00ae. \u2022 Request to be an\u00a0...",
+   "htmlSnippet": "Jan 5, 2022 <b>...</b> o Request an InfoTech <b>Digital ID</b> and Password from Bid Express\u00ae. o Request to bid with WisDOT, using Bid Express\u00ae. \u2022 Request to be an&nbsp;...",
+   "formattedUrl": "https://wisconsindot.gov/.../Electronic%20Bidding%20Documentation%20-...",
+   "htmlFormattedUrl": "https://wisconsindot.gov/.../Electronic%20Bidding%20Documentation%20-...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_DlM7YkFFhG0mDRwxvmsOk7OfyXj0RRJXl0HCVhDOrNDBZx2dmV37FU4&s",
+      "width": "268",
+      "height": "188"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20220111111444-06'00'",
+      "creationdate": "D:20220111111439-06'00'",
+      "creator": "Acrobat PDFMaker 21 for Word",
+      "sourcemodified": "D:20220111171421",
+      "author": "Deanna Goebel",
+      "producer": "Adobe PDF Library 21.7.131"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///9fabd5eda2376f82d33276b60beef2353b135ad1ba07753efeb9407f24d20ede"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Sign a document with your digital Signature, using Adobe Acrobat X ...",
+   "htmlTitle": "Sign a document with your digital Signature, using Adobe Acrobat X ...",
+   "link": "https://wisconsindot.gov/dtsdManuals/utility/signdoc.pdf",
+   "displayLink": "wisconsindot.gov",
+   "snippet": "Type in the password you used when creating your digital ID. 9. Click Sign. 10. A window will pop up so that you may save the signed document. 11. Once you\u00a0...",
+   "htmlSnippet": "Type in the password you used when creating your <b>digital ID</b>. 9. Click Sign. 10. A window will pop up so that you may save the signed document. 11. Once you&nbsp;...",
+   "formattedUrl": "https://wisconsindot.gov/dtsdManuals/utility/signdoc.pdf",
+   "htmlFormattedUrl": "https://wisconsindot.gov/dtsdManuals/utility/signdoc.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkKdzX7aoMvhOnRxS5Uzv1-zAJK1L9nBSn4b7dcYHeeXR0nlZ6JsTWUIAh&s",
+      "width": "295",
+      "height": "171"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20150224103026-06'00'",
+      "creationdate": "D:20131024122051Z",
+      "creator": "PScript5.dll Version 5.2.2",
+      "author": "WisDOT",
+      "producer": "GPL Ghostscript 8.15",
+      "title": "Sign a document with your digital Signature, using Adobe Acrobat X Professional"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///aa6adeaf76ebc7a64f025c4622609907c4e0fe9c76374104560703c419c21012"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Day 1-Prime Contracting vs Subcontracting",
+   "htmlTitle": "Day 1-Prime Contracting vs Subcontracting",
+   "link": "https://wisconsindot.gov/Documents/doing-bus/civil-rights/dbe/0213-17-contracting-qualify-profit.pdf",
+   "displayLink": "wisconsindot.gov",
+   "snippet": "Feb 13, 2019 ... \u25abMust have a digital ID with Info Tech. \u2022 Paper Bids. \u25abMust receive before 9:00am the day of the letting. \u2022 Original bidding proposal.",
+   "htmlSnippet": "Feb 13, 2019 <b>...</b> \u25abMust have a <b>digital ID</b> with Info Tech. \u2022 Paper Bids. \u25abMust receive before 9:00am the day of the letting. \u2022 Original bidding proposal.",
+   "formattedUrl": "https://wisconsindot.gov/.../doing.../0213-17-contracting-qualify-profit.pdf",
+   "htmlFormattedUrl": "https://wisconsindot.gov/.../doing.../0213-17-contracting-qualify-profit.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXtKGdFT--qlEaSuy8Jc9L0CcNo1p-jDsRt3mKMJmPiAxYcqr9pSJLKj6m&s",
+      "width": "268",
+      "height": "188"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20190302165637-06'00'",
+      "creationdate": "D:20190221182509-06'00'",
+      "creator": "Microsoft\u00ae PowerPoint\u00ae 2016",
+      "author": "WisDOT",
+      "producer": "Microsoft\u00ae PowerPoint\u00ae 2016",
+      "title": "Day 1-Prime Contracting vs Subcontracting"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///3831618542a62e692fbe142d54240360af3171dad47ba96053ff989ab9124972"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "WisDOT Bridge Manual Chapter 45 \u2013 Bridge Rating",
+   "htmlTitle": "WisDOT Bridge Manual Chapter 45 \u2013 Bridge Rating",
+   "link": "https://wisconsindot.gov/dtsdManuals/strct/manuals/bridge/ch45.pdf",
+   "displayLink": "wisconsindot.gov",
+   "snippet": "1.3 MDL. \u2219. -. 2.17 MLL. \u2219. := RFinv. 2.033. = RFop. \u03d5f Mn. \u2219. 1.3 MDL. \u2219. -. 1.3 MLL. \u2219. := RFop. 3.393. = E45-7.11 Permit Load Rating. Check the Wisconsin\u00a0...",
+   "htmlSnippet": "1.3 <b>MDL</b>. \u2219. -. 2.17 MLL. \u2219. := RFinv. 2.033. = RFop. \u03d5f Mn. \u2219. 1.3 <b>MDL</b>. \u2219. -. 1.3 MLL. \u2219. := RFop. 3.393. = E45-7.11 Permit Load Rating. Check the Wisconsin&nbsp;...",
+   "formattedUrl": "https://wisconsindot.gov/dtsdManuals/strct/manuals/bridge/ch45.pdf",
+   "htmlFormattedUrl": "https://wisconsindot.gov/dtsdManuals/strct/manuals/bridge/ch45.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20240723114958-05'00'",
+      "creationdate": "D:20240723114829-05'00'",
+      "creator": "Adobe Acrobat Pro (32-bit) 24.2.20933",
+      "author": "DIETSCHE, JOSHUA S",
+      "producer": "Adobe Acrobat Pro (32-bit) 24.2.20933"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Strength and Serviceability of Damaged Prestressed Girders",
+   "htmlTitle": "Strength and Serviceability of Damaged Prestressed Girders",
+   "link": "https://wisconsindot.gov/documents2/research/0092-17-02-final-report.pdf",
+   "displayLink": "wisconsindot.gov",
+   "snippet": "May 2, 2019 ... Where MDL and MLL are the dead and live load moments at the damaged section. This minimum level of strength is needed to ensure that the beam\u00a0...",
+   "htmlSnippet": "May 2, 2019 <b>...</b> Where <b>MDL</b> and MLL are the dead and live load moments at the damaged section. This minimum level of strength is needed to ensure that the beam&nbsp;...",
+   "formattedUrl": "https://wisconsindot.gov/documents2/research/0092-17-02-final-report.pdf",
+   "htmlFormattedUrl": "https://wisconsindot.gov/documents2/research/0092-17-02-final-report.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf3jJ5yJ7SCUJFibkSxzqdnXvZcvgK8YeQDkwVPQgRtCFhdf8obhNtrCWK&s",
+      "width": "278",
+      "height": "181"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20190729130201-05'00'",
+      "creationdate": "D:20190709135057-05'00'",
+      "creator": "Acrobat PDFMaker 19 for Word",
+      "sourcemodified": "D:20190709185032",
+      "author": "Habib Tabatabai",
+      "subject": "0092-17-02, 2019. This study addresses the assessment and repair of damaged prestressed bridge girders due to either accidental impact by over-height vehicles on the bottom of the girder, or damage to the top flange of the girder during deck removal operations.",
+      "producer": "Adobe PDF Library 19.12.66",
+      "title": "Strength and Serviceability of Damaged Prestressed Girders",
+      "contenttypeid": "0x010100010B9603BF8C704DA86D7CD53846CDFE"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///f63241a5544a1a86d4b194ab1d8a77414eefc3252bbdd7020505889ec1abb6f8"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

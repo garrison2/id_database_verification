@@ -1,0 +1,421 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://www.flhsmv.gov/ \"driver's license\" OR \"identification card\"",
+    "totalResults": "257",
+    "searchTerms": "site:https://www.flhsmv.gov/ \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://www.flhsmv.gov/ \"driver's license\" OR \"identification card\"",
+    "totalResults": "257",
+    "searchTerms": "site:https://www.flhsmv.gov/ \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.147655,
+  "formattedSearchTime": "0.15",
+  "totalResults": "257",
+  "formattedTotalResults": "257"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Florida's NEW Driver License and ID Card - Florida Department of ...",
+   "htmlTitle": "Florida&#39;s NEW Driver License and ID Card - Florida Department of ...",
+   "link": "https://www.flhsmv.gov/driver-licenses-id-cards/newdl/",
+   "displayLink": "www.flhsmv.gov",
+   "snippet": "Florida Driver's License Designations graphic ... Designation showing that a driver license or identification card holder is developmentally disabled.",
+   "htmlSnippet": "Florida <b>Driver&#39;s License</b> Designations graphic ... Designation showing that a driver license or <b>identification card</b> holder is developmentally disabled.",
+   "formattedUrl": "https://www.flhsmv.gov/driver-licenses-id-cards/newdl/",
+   "htmlFormattedUrl": "https://www.flhsmv.gov/driver-licenses-id-cards/newdl/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPjhb_8TOmgrjby4r7BrcElKtJoCPgyj7oKKOWcIJ3IWxz9bo7pAdndic&s",
+      "width": "339",
+      "height": "149"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.flhsmv.gov/wp-content/uploads/newdl-banner.png",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Florida Department of Highway Safety and Motor Vehicles",
+      "twitter:site": "@FLHSMV",
+      "article:modified_time": "2025-03-07T14:14:55+00:00",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Florida's NEW Driver License and ID Card",
+      "og:locale": "en_US",
+      "og:url": "https://www.flhsmv.gov/driver-licenses-id-cards/newdl/",
+      "og:description": "Language | Idioma English Espa\u00f1ol Starting in August 2017, the Florida Department of Highway Safety and Motor Vehicles began issuing a new, more secure Florida driver license and ID card. By December 2017, the new credential became available at all service centers throughout Florida and online. In May 2019, the department began issuing modified credentials [\u2026]",
+      "article:publisher": "https://www.facebook.com/FLHSMV/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.flhsmv.gov/wp-content/uploads/newdl-banner.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "General Information - Florida Department of Highway Safety and ...",
+   "htmlTitle": "General Information - Florida Department of Highway Safety and ...",
+   "link": "https://www.flhsmv.gov/driver-licenses-id-cards/general-information/",
+   "displayLink": "www.flhsmv.gov",
+   "snippet": "Section 322.051, F.S. \u2013 Identification Card Provision Section 322.095(1), F.S. \u2013 Name and Identification Requirements Section 322.08, F.S. \u2013 Social Security\u00a0...",
+   "htmlSnippet": "Section 322.051, F.S. \u2013 <b>Identification Card</b> Provision Section 322.095(1), F.S. \u2013 Name and Identification Requirements Section 322.08, F.S. \u2013 Social Security&nbsp;...",
+   "formattedUrl": "https://www.flhsmv.gov/driver-licenses-id-cards/general-information/",
+   "htmlFormattedUrl": "https://www.flhsmv.gov/driver-licenses-id-cards/general-information/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ1njz9HjjwYGl3erVUFmUBQJ6_lKa0nr_Kua4fysucs65AVgVxVtWze_Q&s",
+      "width": "380",
+      "height": "133"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Florida Department of Highway Safety and Motor Vehicles",
+      "twitter:site": "@FLHSMV",
+      "article:modified_time": "2025-03-03T16:26:29+00:00",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "General Information",
+      "og:locale": "en_US",
+      "og:url": "https://www.flhsmv.gov/driver-licenses-id-cards/general-information/",
+      "og:description": "Language | Idioma English Espa\u00f1ol The Division of Motorist Services has\u00a0driver license service centers\u00a0located throughout the state. Depending on your location the office may offer services on a walk-in or appointment only basis.\u00a0 Visit our Locations page for addresses, telephone numbers and hours of operation. Please note: Starting in August 2017, the Florida Department of [\u2026]",
+      "article:publisher": "https://www.facebook.com/FLHSMV/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.flhsmv.gov/wp-content/themes/flhsmv/images/logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Name and Address Changes - Florida Department of Highway ...",
+   "htmlTitle": "Name and Address Changes - Florida Department of Highway ...",
+   "link": "https://www.flhsmv.gov/name-and-address-changes/",
+   "displayLink": "www.flhsmv.gov",
+   "snippet": "... driver's license or ID card.) Please allow 24 to 48 hours after completing the name change with the Social Security Administration. Second, update your\u00a0...",
+   "htmlSnippet": "... <b>driver&#39;s license</b> or ID card.) Please allow 24 to 48 hours after completing the name change with the Social Security Administration. Second, update your&nbsp;...",
+   "formattedUrl": "https://www.flhsmv.gov/name-and-address-changes/",
+   "htmlFormattedUrl": "https://www.flhsmv.gov/name-and-address-changes/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ1njz9HjjwYGl3erVUFmUBQJ6_lKa0nr_Kua4fysucs65AVgVxVtWze_Q&s",
+      "width": "380",
+      "height": "133"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Florida Department of Highway Safety and Motor Vehicles",
+      "twitter:site": "@FLHSMV",
+      "article:modified_time": "2023-09-26T20:55:53+00:00",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Name and Address Changes",
+      "og:locale": "en_US",
+      "og:url": "https://www.flhsmv.gov/name-and-address-changes/",
+      "og:description": "Language | Idioma English Espa\u00f1ol Name and address changes must be updated on BOTH your driver license/ID Card and title/registration within 30 days after changing your name or address. Please read the following to find out how to complete name/address changes as easily and quickly as possible: First, update your Florida Driver\u2019s License/ID Card (Please [\u2026]",
+      "article:publisher": "https://www.facebook.com/FLHSMV/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.flhsmv.gov/wp-content/themes/flhsmv/images/logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Commercial Driver License - Florida Department of Highway Safety ...",
+   "htmlTitle": "Commercial Driver License - Florida Department of Highway Safety ...",
+   "link": "https://www.flhsmv.gov/driver-licenses-id-cards/commercial-motor-vehicle-drivers/commercial-driver-license/",
+   "displayLink": "www.flhsmv.gov",
+   "snippet": "A current Florida Class E Driver License or Florida Identification card held for a period of more than six (6) consecutive months. A lease agreement, in the\u00a0...",
+   "htmlSnippet": "A current Florida Class E Driver License or Florida <b>Identification card</b> held for a period of more than six (6) consecutive months. A lease agreement, in the&nbsp;...",
+   "formattedUrl": "https://www.flhsmv.gov/driver-licenses-id.../commercial-driver-license/",
+   "htmlFormattedUrl": "https://www.flhsmv.gov/driver-licenses-id.../commercial-driver-license/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ1njz9HjjwYGl3erVUFmUBQJ6_lKa0nr_Kua4fysucs65AVgVxVtWze_Q&s",
+      "width": "380",
+      "height": "133"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Florida Department of Highway Safety and Motor Vehicles",
+      "twitter:site": "@FLHSMV",
+      "article:modified_time": "2024-12-11T19:15:55+00:00",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Commercial Driver License",
+      "og:locale": "en_US",
+      "og:url": "https://www.flhsmv.gov/driver-licenses-id-cards/commercial-motor-vehicle-drivers/commercial-driver-license/",
+      "og:description": "Language | Idioma English Espa\u00f1ol General Information NOTICE:\u00a0 EFFECTIVE FEBRUARY 7, 2022, THE FEDERAL MOTOR CARRIER SAFETY ADMINISTRATION\u2019S (FMCSA) ENTRY LEVEL DRIVER TRAINING (ELDT) REGULATIONS WILL TAKE EFFECT. THESE REGULATIONS SET THE BASELINE FOR TRAINING REQUIREMENTS FOR ENTRY LEVEL COMMERCIAL DRIVERS. THE TRAINING REQUIREMENTS MUST BE VERIFIED PRIOR TO TAKING A SKILLS TEST WITH THE [\u2026]",
+      "article:publisher": "https://www.facebook.com/FLHSMV/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.flhsmv.gov/wp-content/themes/flhsmv/images/logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "New Resident - Welcome to Florida! - Florida Department of ...",
+   "htmlTitle": "New Resident - Welcome to Florida! - Florida Department of ...",
+   "link": "https://www.flhsmv.gov/new-resident/",
+   "displayLink": "www.flhsmv.gov",
+   "snippet": "Driver's License/ID Cards. Applications for driver's licenses/ID cards must be made in person at any local office offering driver licenses services. When\u00a0...",
+   "htmlSnippet": "<b>Driver&#39;s License</b>/ID Cards. Applications for driver&#39;s licenses/ID cards must be made in person at any local office offering driver licenses services. When&nbsp;...",
+   "formattedUrl": "https://www.flhsmv.gov/new-resident/",
+   "htmlFormattedUrl": "https://www.flhsmv.gov/new-resident/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ1njz9HjjwYGl3erVUFmUBQJ6_lKa0nr_Kua4fysucs65AVgVxVtWze_Q&s",
+      "width": "380",
+      "height": "133"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Florida Department of Highway Safety and Motor Vehicles",
+      "twitter:site": "@FLHSMV",
+      "article:modified_time": "2021-04-13T13:07:21+00:00",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "New Resident - Welcome to Florida!",
+      "og:locale": "en_US",
+      "og:url": "/new-resident/",
+      "og:description": "Language | Idioma English Espa\u00f1ol You may be considered a resident of Florida when you: Have started employment or engaged in a trade, profession, or occupation in this state. Have enrolled your children in the public schools of this state. Have registered to vote in this state. Have filed for homestead tax exemption on property [\u2026]",
+      "article:publisher": "https://www.facebook.com/FLHSMV/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.flhsmv.gov/wp-content/themes/flhsmv/images/logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "HSMV 72102 Application for Developmental Disability Designation ...",
+   "htmlTitle": "HSMV 72102 Application for Developmental Disability Designation ...",
+   "link": "https://www.flhsmv.gov/pdf/forms/72120.pdf",
+   "displayLink": "www.flhsmv.gov",
+   "snippet": "This designation added to the driver license or identification card will alert law enforcement and emergency services personnel of that person's disability.",
+   "htmlSnippet": "This designation added to the driver license or <b>identification card</b> will alert law enforcement and emergency services personnel of that person&#39;s disability.",
+   "formattedUrl": "https://www.flhsmv.gov/pdf/forms/72120.pdf",
+   "htmlFormattedUrl": "https://www.flhsmv.gov/pdf/forms/72120.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20250502112207-04'00'",
+      "creationdate": "D:20250502111854-04'00'",
+      "creator": "Acrobat PDFMaker 20 for Word",
+      "sourcemodified": "D:20250502151735",
+      "author": "Howell, Vernon",
+      "producer": "Adobe Acrobat Pro 2020 20 Paper Capture Plug-in",
+      "title": "HSMV 72102 Application for Developmental Disability Designation and/or Motor Vehicle Registration SAFE Designation"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "U.S. Citizen - Florida Department of Highway Safety and Motor ...",
+   "htmlTitle": "U.S. Citizen - Florida Department of Highway Safety and Motor ...",
+   "link": "https://www.flhsmv.gov/driver-licenses-id-cards/what-to-bring/u-s-citizen/",
+   "displayLink": "www.flhsmv.gov",
+   "snippet": "U.S. Citizen \u00b7 A current Florida Class E Driver License or Florida Identification card held for a period of more than six (6) consecutive months. \u00b7 A lease\u00a0...",
+   "htmlSnippet": "U.S. Citizen &middot; A current Florida Class E Driver License or Florida <b>Identification card</b> held for a period of more than six (6) consecutive months. &middot; A lease&nbsp;...",
+   "formattedUrl": "https://www.flhsmv.gov/driver-licenses-id-cards/what-to.../u-s-citizen/",
+   "htmlFormattedUrl": "https://www.flhsmv.gov/driver-licenses-id-cards/what-to.../u-s-citizen/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ1njz9HjjwYGl3erVUFmUBQJ6_lKa0nr_Kua4fysucs65AVgVxVtWze_Q&s",
+      "width": "380",
+      "height": "133"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Florida Department of Highway Safety and Motor Vehicles",
+      "twitter:site": "@FLHSMV",
+      "article:modified_time": "2025-02-25T12:59:27+00:00",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "U.S. Citizen",
+      "og:locale": "en_US",
+      "og:url": "https://www.flhsmv.gov/driver-licenses-id-cards/what-to-bring/u-s-citizen/",
+      "og:description": "Language | Idioma English Espa\u00f1ol U.S. citizens renewing, replacing, or applying for a new driver license or ID card in-person must submit the following documents before a REAL-ID compliant driver license or ID card can be issued. Please note that the name assigned to the Social Security Number (SSN) must match the name that will [\u2026]",
+      "article:publisher": "https://www.facebook.com/FLHSMV/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.flhsmv.gov/wp-content/themes/flhsmv/images/logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Florida Driver License and Identification Card",
+   "htmlTitle": "Florida Driver License and <b>Identification Card</b>",
+   "link": "https://www.flhsmv.gov/pdf/newdl/fl_2dbarcodecalibration.pdf",
+   "displayLink": "www.flhsmv.gov",
+   "snippet": "and Identification Card. 2D Barcode (PDF417) from Card Back. Sample Class E Florida Driver License. Example PDF 417 decodes as: This example displays a typical\u00a0...",
+   "htmlSnippet": "and <b>Identification Card</b>. 2D Barcode (PDF417) from Card Back. Sample Class E Florida Driver License. Example PDF 417 decodes as: This example displays a typical&nbsp;...",
+   "formattedUrl": "https://www.flhsmv.gov/pdf/newdl/fl_2dbarcodecalibration.pdf",
+   "htmlFormattedUrl": "https://www.flhsmv.gov/pdf/newdl/fl_2dbarcodecalibration.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3g99b3LPP_WZAteakMy91J88YtlLUzqOPOrooxk3r5jBp36v3SopXuls&s",
+      "width": "279",
+      "height": "181"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20190418124038-04'00'",
+      "creationdate": "D:20190111104125-05'00'",
+      "creator": "Adobe InDesign CC 14.0 (Macintosh)",
+      "producer": "Adobe PDF Library 15.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///1896039ec781d67ad0ddffb01d8c9cf3d7f8352fbe81ac1a66110033762bf10c"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "FLHSMV Implements Legislation Requiring Driver Licenses and ...",
+   "htmlTitle": "FLHSMV Implements Legislation Requiring Driver Licenses and ...",
+   "link": "https://www.flhsmv.gov/2024/07/19/flhsmv-implements-legislation-requiring-driver-licenses-and-identification-card-numbers-to-change/",
+   "displayLink": "www.flhsmv.gov",
+   "snippet": "Jul 19, 2024 ... While the license or identification card format will remain the same, a different formula utilizing randomization will now be used to determine\u00a0...",
+   "htmlSnippet": "Jul 19, 2024 <b>...</b> While the license or <b>identification card</b> format will remain the same, a different formula utilizing randomization will now be used to determine&nbsp;...",
+   "formattedUrl": "https://www.flhsmv.gov/.../flhsmv-implements-legislation-requiring-driver-...",
+   "htmlFormattedUrl": "https://www.flhsmv.gov/.../flhsmv-implements-legislation-requiring-driver-...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROFn_ynb1rQs2N-gZmxvLhzW5wiueaYrxVacR3OumYNKvN0nmmFoyCoTc&s",
+      "width": "318",
+      "height": "159"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.flhsmv.gov/wp-content/uploads/pr-120123-1.jpg",
+      "og:type": "article",
+      "article:published_time": "2024-07-19T20:40:05+00:00",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Florida Department of Highway Safety and Motor Vehicles",
+      "author": "Aaron Chern",
+      "og:title": "FLHSMV Implements Legislation Requiring Driver Licenses and Identification Card numbers to Change",
+      "og:description": "Language | Idioma English Espa\u00f1ol ~Update will enhance security and protect individuals\u2019 identities~ TALLAHASSEE, Fla.- On July 31, 2024, the Florida Department of Highway Safety and Motor Vehicles (FLHSMV) will begin implementing legislation which amends Florida Statute 322.14 (1)(a) and requires the distinguishing numbers assigned to a driver license or identification card to include at [\u2026]",
+      "twitter:creator": "@FLHSMV",
+      "article:publisher": "https://www.facebook.com/FLHSMV/",
+      "twitter:site": "@FLHSMV",
+      "article:modified_time": "2024-07-22T18:00:38+00:00",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:locale": "en_US",
+      "og:url": "https://www.flhsmv.gov/2024/07/19/flhsmv-implements-legislation-requiring-driver-licenses-and-identification-card-numbers-to-change/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.flhsmv.gov/wp-content/uploads/pr-120123-1.jpg"
+     }
+    ],
+    "newsarticle": [
+     {
+      "articlebody": "July 19, 2024 Language | Idioma English Espa\u00f1ol ~Update will enhance security and protect individuals\u2019 identities~ TALLAHASSEE, Fla.- On July 31, 2024, the Florida Department of Highway...",
+      "headline": "FLHSMV Implements Legislation Requiring Driver Licenses and Identification Card numbers to Change"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver's License Hazardous Materials Endorsement Application ...",
+   "htmlTitle": "<b>Driver&#39;s License</b> Hazardous Materials Endorsement Application ...",
+   "link": "https://www.flhsmv.gov/pdf/forms/71141.pdf",
+   "displayLink": "www.flhsmv.gov",
+   "snippet": "materials endorsement for a commercial driver's license. Your Social Security Number (SSN) or alien registration number will be used as your identification\u00a0...",
+   "htmlSnippet": "materials endorsement for a commercial <b>driver&#39;s license</b>. Your Social Security Number (SSN) or alien registration number will be used as your identification&nbsp;...",
+   "formattedUrl": "https://www.flhsmv.gov/pdf/forms/71141.pdf",
+   "htmlFormattedUrl": "https://www.flhsmv.gov/pdf/forms/71141.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20050222170158-05'00'",
+      "creationdate": "D:20050222165958-04'00'",
+      "creator": "Illustrator",
+      "producer": "Adobe PDF library 6.66"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

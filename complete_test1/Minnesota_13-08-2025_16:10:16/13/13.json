@@ -1,0 +1,360 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Minnesota Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\" -\"apply\" -\"application\"",
+    "totalResults": "243",
+    "searchTerms": "\"Minnesota Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\" -\"apply\" -\"application\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Minnesota Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\" -\"apply\" -\"application\"",
+    "totalResults": "243",
+    "searchTerms": "\"Minnesota Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\" -\"apply\" -\"application\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.164427,
+  "formattedSearchTime": "0.16",
+  "totalResults": "243",
+  "formattedTotalResults": "243"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Sec. 609.527 MN Statutes",
+   "htmlTitle": "Sec. 609.527 MN Statutes",
+   "link": "https://www.revisor.mn.gov/statutes/cite/609.527",
+   "displayLink": "www.revisor.mn.gov",
+   "snippet": "... scan, obtain, memorize, or store, temporarily or permanently ... driver's license, or state-issued identification card. (j) \"Reencoder\" means\u00a0...",
+   "htmlSnippet": "... <b>scan</b>, obtain, memorize, or <b>store</b>, temporarily or permanently ... <b>driver&#39;s license</b>, or state-issued <b>identification card</b>. (j) &quot;Reencoder&quot; means&nbsp;...",
+   "formattedUrl": "https://www.revisor.mn.gov/statutes/cite/609.527",
+   "htmlFormattedUrl": "https://www.revisor.mn.gov/statutes/cite/609.527",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Minnesota Department of Natural Resources Electronic License ...",
+   "htmlTitle": "Minnesota Department of Natural Resources Electronic License ...",
+   "link": "https://files.dnr.state.mn.us/rlp/training-data-elearning.pdf",
+   "displayLink": "files.dnr.state.mn.us",
+   "snippet": "\u2022 DNR (for recruitment, retention, training certification, or verification purposes) o All data, except Driver's License. \u2022 Government entities (county\u00a0...",
+   "htmlSnippet": "\u2022 DNR (for recruitment, <b>retention</b>, training certification, or <b>verification</b> purposes) o All data, except <b>Driver&#39;s License</b>. \u2022 Government entities (county&nbsp;...",
+   "formattedUrl": "https://files.dnr.state.mn.us/rlp/training-data-elearning.pdf",
+   "htmlFormattedUrl": "https://files.dnr.state.mn.us/rlp/training-data-elearning.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjq5yGOwdef9iJzTaBXfkMDPuqzaCGeG0q48a1g9Rc6FfQ0yYDkQEFB7Ea&s",
+      "width": "241",
+      "height": "210"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20250304071902-06'00'",
+      "creationdate": "D:20191216133633-06'00'",
+      "creator": "Acrobat PDFMaker 15 for PowerPoint",
+      "author": "kvang",
+      "producer": "Adobe PDF Library 15.0",
+      "company": "MN Dept Of Natural Resources",
+      "title": "Slide 1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///c20f7eb8f49f8a9356295ad47bfe0c9e5ba1cc00abda7b4dd6d983cdf1a3e3ce"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Sec. 609.652 MN Statutes",
+   "htmlTitle": "Sec. 609.652 MN Statutes",
+   "link": "https://www.revisor.mn.gov/statutes/cite/609.652",
+   "displayLink": "www.revisor.mn.gov",
+   "snippet": "2024 Minnesota Statutes. Authenticate \u00b7 PDF. Resources. Search Minnesota ... driver's license or identification card with intent to sell is guilty of a crime.",
+   "htmlSnippet": "2024 <b>Minnesota Statutes</b>. Authenticate &middot; PDF. Resources. Search <b>Minnesota</b> ... <b>driver&#39;s license</b> or <b>identification card</b> with intent to <b>sell</b> is guilty of a crime.",
+   "formattedUrl": "https://www.revisor.mn.gov/statutes/cite/609.652",
+   "htmlFormattedUrl": "https://www.revisor.mn.gov/statutes/cite/609.652",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Minnesota ID Scanning Laws - Guest Ban | ID Scanning for Hospitality",
+   "htmlTitle": "Minnesota ID <b>Scanning</b> Laws - Guest Ban | ID <b>Scanning</b> for Hospitality",
+   "link": "https://guestban.com/id-scanning-laws/minnesota-id-scanning-laws/",
+   "displayLink": "guestban.com",
+   "snippet": "The proof of age must be established by a valid driver's license or identification card ... Therefore, a hotel is likely allowed to scan IDs and retain\u00a0...",
+   "htmlSnippet": "The proof of age must be established by a valid <b>driver&#39;s license</b> or <b>identification card</b> ... Therefore, a hotel is likely allowed to <b>scan</b> IDs and <b>retain</b>&nbsp;...",
+   "formattedUrl": "https://guestban.com/id-scanning-laws/minnesota-id-scanning-laws/",
+   "htmlFormattedUrl": "https://guestban.com/id-<b>scanning</b>-laws/minnesota-id-<b>scanning</b>-laws/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFVXdV--xks53xwtp6D0jANAR911zodFhItcTiYr4jAsjdX-UyQWsc1XA&s",
+      "width": "342",
+      "height": "147"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://guestban.com/wp-content/uploads/2023/08/traffic-comes-and-goes-from-downtown-minneapolis-minnesota.jpg",
+      "og:type": "article",
+      "og:image:width": "2000",
+      "og:image:alt": "Traffic Comes and Goes from Downtown Minneapolis Minnesota",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Minnesota ID Scanning Laws - Guest Ban | ID Scanning for Hospitality",
+      "og:site_name": "Guest Ban ID Scanning",
+      "og:title": "Minnesota ID Scanning Laws - Guest Ban | ID Scanning for Hospitality",
+      "og:image:height": "862",
+      "twitter:label1": "Time to read",
+      "og:image:type": "image/jpeg",
+      "og:updated_time": "2025-02-11T19:17:43-08:00",
+      "msapplication-tileimage": "https://guestban.com/wp-content/uploads/2021/12/cropped-app-min-270x270.jpg",
+      "og:description": "Understand the laws and regulations of ID scanning in Minnesota. Learn about the legalities, how and when you can scan IDs, and more.",
+      "twitter:creator": "@guest_ban",
+      "article:publisher": "https://www.facebook.com/guestbanhospitality",
+      "og:image:secure_url": "https://guestban.com/wp-content/uploads/2023/08/traffic-comes-and-goes-from-downtown-minneapolis-minnesota.jpg",
+      "twitter:image": "https://guestban.com/wp-content/uploads/2023/08/traffic-comes-and-goes-from-downtown-minneapolis-minnesota.jpg",
+      "twitter:data1": "4 minutes",
+      "twitter:site": "@guest_ban",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Understand the laws and regulations of ID scanning in Minnesota. Learn about the legalities, how and when you can scan IDs, and more.",
+      "og:locale": "en_US",
+      "og:url": "https://guestban.com/id-scanning-laws/minnesota-id-scanning-laws/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://guestban.com/wp-content/uploads/2023/08/traffic-comes-and-goes-from-downtown-minneapolis-minnesota.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Sec. 13.824 MN Statutes",
+   "htmlTitle": "Sec. 13.824 MN Statutes",
+   "link": "https://www.revisor.mn.gov/statutes/cite/13.824",
+   "displayLink": "www.revisor.mn.gov",
+   "snippet": "Subd. 5.Log of use required. (a) A law enforcement agency that installs or uses an automated license plate reader must maintain a\u00a0...",
+   "htmlSnippet": "Subd. 5.Log of use required. (a) A law enforcement agency that installs or uses an automated license plate reader must <b>maintain</b> a&nbsp;...",
+   "formattedUrl": "https://www.revisor.mn.gov/statutes/cite/13.824",
+   "htmlFormattedUrl": "https://www.revisor.mn.gov/statutes/cite/13.824",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "\u00a7 5-1-4: PURCHASE, SALE AND POSSESSION OF CATALYTIC ...",
+   "htmlTitle": "\u00a7 5-1-4: PURCHASE, SALE AND POSSESSION OF CATALYTIC ...",
+   "link": "https://codelibrary.amlegal.com/codes/cottagegrovemn/latest/cottagegrove_mn/0-0-0-2390",
+   "displayLink": "codelibrary.amlegal.com",
+   "snippet": "... Minnesota Statutes prohibit or to prohibit what the Minnesota Statutes ... PROOF OF IDENTIFICATION: A driver's license, Minnesota identification card\u00a0...",
+   "htmlSnippet": "... <b>Minnesota Statutes</b> prohibit or to prohibit what the <b>Minnesota Statutes</b> ... PROOF OF IDENTIFICATION: A <b>driver&#39;s license</b>, Minnesota <b>identification card</b>&nbsp;...",
+   "formattedUrl": "https://codelibrary.amlegal.com/codes/cottagegrovemn/latest/.../0-0-0-2390",
+   "htmlFormattedUrl": "https://codelibrary.amlegal.com/codes/cottagegrovemn/latest/.../0-0-0-2390",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1KRO6ll4JL5wV8V7D_eEr66BJLGy5WSv9Z5IN1EIl9tmiedcx0hyvHvWS&s",
+      "width": "290",
+      "height": "174"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://codelibrary.amlegal.com/alp-logo.jpg",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "\u00a7 5-1-4: PURCHASE, SALE AND POSSESSION OF CATALYTIC CONVERTERS:",
+      "og:site_name": "American Legal Publishing",
+      "twitter:url": "https://codelibrary.amlegal.com/codes/cottagegrovemn/latest/cottagegrove_mn/0-0-0-2390",
+      "og:title": "\u00a7 5-1-4: PURCHASE, SALE AND POSSESSION OF CATALYTIC CONVERTERS:",
+      "og:description": "Legal publisher offering ordinance codification services for local governments, specializing in providing codes of ordinances in print and on the Internet",
+      "twitter:image": "https://codelibrary.amlegal.com/alp-logo.jpg",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Legal publisher offering ordinance codification services for local governments, specializing in providing codes of ordinances in print and on the Internet",
+      "og:locale": "en_US",
+      "og:url": "https://codelibrary.amlegal.com/codes/cottagegrovemn/latest/cottagegrove_mn/0-0-0-2390"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://codelibrary.amlegal.com/alp-logo.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "PROGRAM EXPECTATIONS",
+   "htmlTitle": "PROGRAM EXPECTATIONS",
+   "link": "https://www.anokacountymn.gov/DocumentCenter/View/29349/HEM-Brochure-1-2022",
+   "displayLink": "www.anokacountymn.gov",
+   "snippet": "license at intake and proof of Ignition Interlock if it is a condition of your driver's license. EMERGENCIES \u2013 MEDICAL, POLICE AND FIRE: In the event of an\u00a0...",
+   "htmlSnippet": "license at intake and proof of Ignition Interlock if it is a condition of your <b>driver&#39;s license</b>. EMERGENCIES \u2013 MEDICAL, POLICE AND FIRE: In the event of an&nbsp;...",
+   "formattedUrl": "https://www.anokacountymn.gov/DocumentCenter/.../HEM-Brochure-1-20...",
+   "htmlFormattedUrl": "https://www.anokacountymn.gov/DocumentCenter/.../HEM-Brochure-1-20...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0zNuOnL-p70mhzxbang9jvIBBWkCSmPH4jZ_V8Hso8dtzSeX9PuUZuxs&s",
+      "width": "216",
+      "height": "233"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20220118113053-06'00'",
+      "creationdate": "D:20220118113053-06'00'",
+      "creator": "Microsoft\u00ae Publisher for Microsoft 365",
+      "author": "Tracy Rohloff",
+      "producer": "Microsoft\u00ae Publisher for Microsoft 365"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///04d89d17858e06da7d47e31d4fe538e7176684d1a5618f045d38af2459c90a44"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Exam Services | Washington County Library, MN",
+   "htmlTitle": "Exam Services | Washington County Library, MN",
+   "link": "https://www.washcolib.org/243/Exam-Services",
+   "displayLink": "www.washcolib.org",
+   "snippet": "Taking Your Exam. When you arrive to take your exam, you must: Present a valid driver's license or photo ID to confirm your identity. Pay\u00a0...",
+   "htmlSnippet": "Taking Your Exam. When you arrive to take your exam, you must: Present a valid <b>driver&#39;s license</b> or photo ID to confirm your identity. Pay&nbsp;...",
+   "formattedUrl": "https://www.washcolib.org/243/Exam-Services",
+   "htmlFormattedUrl": "https://www.washcolib.org/243/Exam-Services",
+   "pagemap": {
+    "metatags": [
+     {
+      "category2": "Library Services",
+      "category3": "Exam Services",
+      "theme-color": "#e8e4d8",
+      "viewport": "width=device-width, initial-scale=1",
+      "category0": "Home",
+      "category1": "About the Library"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Section 5.2.2 Residency",
+   "htmlTitle": "Section 5.2.2 Residency",
+   "link": "https://www.health.state.mn.us/docs/people/wic/localagency/program/mom/chsctns/ch5/sctn5_2_2.pdf",
+   "displayLink": "www.health.state.mn.us",
+   "snippet": "Staff should routinely ask, \u201cDid you bring something with your name and address on it, such as a driver's license or paystub? ... verification could potentially\u00a0...",
+   "htmlSnippet": "Staff should routinely ask, \u201cDid you bring something with your name and address on it, such as a <b>driver&#39;s license</b> or paystub? ... <b>verification</b> could potentially&nbsp;...",
+   "formattedUrl": "https://www.health.state.mn.us/docs/people/wic/.../mom/.../sctn5_2_2.pdf",
+   "htmlFormattedUrl": "https://www.health.state.mn.us/docs/people/wic/.../mom/.../sctn5_2_2.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20240624093948-05'00'",
+      "creationdate": "D:20240624093244-05'00'",
+      "creator": "Acrobat PDFMaker 24 for Word",
+      "comments": "Document template version 2.2",
+      "sourcemodified": "D:20240624143235",
+      "_dlc_dociditemguid": "21075d31-a098-4126-a0c3-2155733820d1",
+      "author": "Minnesota Department of Health - WIC program",
+      "subject": "Section 5.2.2 Residency; Certification Procedures",
+      "producer": "Adobe PDF Library 24.2.23",
+      "company": "State of Minnesota",
+      "title": "Section 5.2.2 Residency",
+      "contenttypeid": "0x010100A882B80E85798B498881C0CB36871F5B"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Minnesota Department of Public Safety - Sales of Driver and Vehicle ...",
+   "htmlTitle": "Minnesota Department of Public Safety - Sales of Driver and Vehicle ...",
+   "link": "https://www.auditor.leg.state.mn.us/fad/pdf/fad20-07.pdf",
+   "displayLink": "www.auditor.leg.state.mn.us",
+   "snippet": "Aug 7, 2020 ... State law requires the department to treat driver's license, identification card, and motor vehicle registration data as provided by the\u00a0...",
+   "htmlSnippet": "Aug 7, 2020 <b>...</b> State law requires the department to treat <b>driver&#39;s license</b>, <b>identification card</b>, and motor vehicle registration data as provided by the&nbsp;...",
+   "formattedUrl": "https://www.auditor.leg.state.mn.us/fad/pdf/fad20-07.pdf",
+   "htmlFormattedUrl": "https://www.auditor.leg.state.mn.us/fad/pdf/fad20-07.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0b_gKyDRnPCJjC_8DEgCIGvhnO5O6A5E8YBl-X8_oIhHOha15aEwXnAbv&s",
+      "width": "226",
+      "height": "223"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20200806131452-05'00'",
+      "creationdate": "D:20200805160700-05'00'",
+      "creator": "Microsoft\u00ae Word 2016",
+      "author": "Minnesota Office of the Legislative Auditor",
+      "producer": "Microsoft\u00ae Word 2016",
+      "title": "Minnesota Department of Public Safety - Sales of Driver and Vehicle Records"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///587254925d1c9b1c37fd9b02a0b6b7980ead130e512dd01b99455588b4e0b38f"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

@@ -1,0 +1,599 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://www.pa.gov \"driver's license\" OR \"identification card\"",
+    "totalResults": "3240",
+    "searchTerms": "site:https://www.pa.gov \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://www.pa.gov \"driver's license\" OR \"identification card\"",
+    "totalResults": "3240",
+    "searchTerms": "site:https://www.pa.gov \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.145236,
+  "formattedSearchTime": "0.15",
+  "totalResults": "3240",
+  "formattedTotalResults": "3,240"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Get a Photo ID | Commonwealth of Pennsylvania",
+   "htmlTitle": "Get a Photo ID | Commonwealth of Pennsylvania",
+   "link": "https://www.pa.gov/services/dmv/get-a-photo-id",
+   "displayLink": "www.pa.gov",
+   "snippet": "A Pennsylvania photo identification card is issued to any Pennsylvania resident who is at least 10 years of age. A photo ID is not a driver's license.",
+   "htmlSnippet": "A Pennsylvania photo <b>identification card</b> is issued to any Pennsylvania resident who is at least 10 years of age. A photo ID is not a <b>driver&#39;s license</b>.",
+   "formattedUrl": "https://www.pa.gov/services/dmv/get-a-photo-id",
+   "htmlFormattedUrl": "https://www.pa.gov/services/dmv/get-a-photo-id",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-N9jSOQzWHUvsIfZBCoEwCUW-8Pldus9zHUui_f7RpusjpkNMvcbemk7k&s",
+      "width": "279",
+      "height": "181"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "service-detail-template",
+      "og:image": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Get a Photo ID",
+      "copapwp-service-category": "Driving & Transportation",
+      "copapwp-page-title": "Get a Photo ID",
+      "twitter:url": "https://www.pa.gov/services/dmv/get-a-photo-id.html",
+      "copapwp-agency": "Driver and Vehicle Services",
+      "og:title": "Get a Photo ID",
+      "copapwp-service-type": "License or Permit or Registration or Certification",
+      "og:description": "A Pennsylvania photo identification card is issued to any Pennsylvania resident who is at least 10 years of age. A photo ID is not a driver's license.",
+      "twitter:image": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png",
+      "copapwp-description": "A Pennsylvania photo identification card is issued to any Pennsylvania resident who is at least 10 years of age. A photo ID is not a driver's license.",
+      "copapwp-hero-description": "A Pennsylvania photo identification card is issued to any Pennsylvania resident who is at least 10 years of age. A photo ID is not a driver's license.",
+      "twitter:site": "website",
+      "copapwp-badges": "License or Permit or Registration or Certification;Driver and Vehicle Services;Driving & Transportation;",
+      "viewport": "width=device-width, initial-scale=1",
+      "copapwp-audience": "Driver;Resident",
+      "copapwp-content-type": "Service",
+      "twitter:description": "A Pennsylvania photo identification card is issued to any Pennsylvania resident who is at least 10 years of age. A photo ID is not a driver's license.",
+      "og:url": "https://www.pa.gov/services/dmv/get-a-photo-id.html"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "Services",
+      "name": "Services",
+      "position": "1"
+     },
+     {
+      "name": "Get a Photo ID",
+      "position": "2"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Licenses & Photo IDs | Driver and Vehicle Services | Commonwealth ...",
+   "htmlTitle": "Licenses &amp; Photo IDs | Driver and Vehicle Services | Commonwealth ...",
+   "link": "https://www.pa.gov/agencies/dmv/driver-services/licenses-and-photo-ids.html",
+   "displayLink": "www.pa.gov",
+   "snippet": "Report Driver's License, Identification Card or Vehicle Fraud \u00b7 Agencies ... Beginning May 7, 2025, you will need a REAL ID-compliant driver's license\u00a0...",
+   "htmlSnippet": "Report <b>Driver&#39;s License</b>, <b>Identification Card</b> or Vehicle Fraud &middot; Agencies ... Beginning May 7, 2025, you will need a REAL ID-compliant <b>driver&#39;s license</b>&nbsp;...",
+   "formattedUrl": "https://www.pa.gov/agencies/dmv/driver.../licenses-and-photo-ids.html",
+   "htmlFormattedUrl": "https://www.pa.gov/agencies/dmv/driver.../licenses-and-photo-ids.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-N9jSOQzWHUvsIfZBCoEwCUW-8Pldus9zHUui_f7RpusjpkNMvcbemk7k&s",
+      "width": "279",
+      "height": "181"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "agency-content-template",
+      "og:image": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Licenses & Photo IDs",
+      "copapwp-page-title": "Licenses & Photo IDs",
+      "twitter:url": "https://www.pa.gov/agencies/dmv/driver-services/licenses-and-photo-ids.html",
+      "copapwp-agency": "Driver and Vehicle Services",
+      "og:title": "Licenses & Photo IDs",
+      "og:description": "Licenses & Photo IDs",
+      "twitter:image": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png",
+      "copapwp-description": "Resources",
+      "twitter:site": "website",
+      "copapwp-badges": "Driver and Vehicle Services",
+      "viewport": "width=device-width, initial-scale=1",
+      "copapwp-content-type": "Agency Detail",
+      "twitter:description": "Licenses & Photo IDs",
+      "og:url": "https://www.pa.gov/agencies/dmv/driver-services/licenses-and-photo-ids.html"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "Agencies",
+      "name": "Agencies",
+      "position": "1"
+     },
+     {
+      "item": "Driver and Vehicle Services",
+      "name": "Driver and Vehicle Services",
+      "position": "2"
+     },
+     {
+      "item": "Driver Services",
+      "name": "Driver Services",
+      "position": "3"
+     },
+     {
+      "name": "Licenses & Photo IDs",
+      "position": "4"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Get a Driver's License | Commonwealth of Pennsylvania",
+   "htmlTitle": "Get a <b>Driver&#39;s License</b> | Commonwealth of Pennsylvania",
+   "link": "https://www.pa.gov/services/dmv/get-a-driver-license.html",
+   "displayLink": "www.pa.gov",
+   "snippet": "Steps for Getting Your Driver's License \u00b7 Study the PA Driver's Manual \u00b7 Physical Exam \u00b7 Go to a Driver License Center: Take the Eye Screening and Knowledge Test.",
+   "htmlSnippet": "Steps for Getting Your <b>Driver&#39;s License</b> &middot; Study the PA Driver&#39;s Manual &middot; Physical Exam &middot; Go to a Driver License Center: Take the Eye Screening and Knowledge Test.",
+   "formattedUrl": "https://www.pa.gov/services/dmv/get-a-driver-license.html",
+   "htmlFormattedUrl": "https://www.pa.gov/services/dmv/get-a-driver-license.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-N9jSOQzWHUvsIfZBCoEwCUW-8Pldus9zHUui_f7RpusjpkNMvcbemk7k&s",
+      "width": "279",
+      "height": "181"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "service-detail-template",
+      "og:image": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Get a Driver's License",
+      "copapwp-service-category": "Driving & Transportation",
+      "copapwp-page-title": "Get a Driver's License",
+      "twitter:url": "https://www.pa.gov/services/dmv/get-a-driver-license.html",
+      "copapwp-agency": "Driver and Vehicle Services",
+      "og:title": "Get a Driver's License",
+      "copapwp-service-type": "License or Permit or Registration or Certification",
+      "og:description": "If you would like to drive a vehicle, you will need to get a driver's license.",
+      "twitter:image": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png",
+      "copapwp-description": "If you would like to drive a vehicle, you will need to get a driver's license.",
+      "copapwp-hero-description": "All Pennsylvanians needs to get a driver's license to be able to drive a vehicle.",
+      "twitter:site": "website",
+      "copapwp-badges": "License or Permit or Registration or Certification;Driver and Vehicle Services;Driving & Transportation;",
+      "viewport": "width=device-width, initial-scale=1",
+      "copapwp-audience": "Driver;Resident",
+      "copapwp-content-type": "Service",
+      "twitter:description": "If you would like to drive a vehicle, you will need to get a driver's license.",
+      "og:url": "https://www.pa.gov/services/dmv/get-a-driver-license.html"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "Services",
+      "name": "Services",
+      "position": "1"
+     },
+     {
+      "name": "Get a Driver's License",
+      "position": "2"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Renew a Driver's License | Commonwealth of Pennsylvania",
+   "htmlTitle": "Renew a <b>Driver&#39;s License</b> | Commonwealth of Pennsylvania",
+   "link": "https://www.pa.gov/services/dmv/renew-a-drivers-license.html",
+   "displayLink": "www.pa.gov",
+   "snippet": "A Pennsylvania driver's license is valid for four years, expiring on the day after your birthday. PennDOT sends an invitation to renew three months prior to\u00a0...",
+   "htmlSnippet": "A Pennsylvania <b>driver&#39;s license</b> is valid for four years, expiring on the day after your birthday. PennDOT sends an invitation to renew three months prior to&nbsp;...",
+   "formattedUrl": "https://www.pa.gov/services/dmv/renew-a-drivers-license.html",
+   "htmlFormattedUrl": "https://www.pa.gov/services/dmv/renew-a-<b>drivers-license</b>.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-N9jSOQzWHUvsIfZBCoEwCUW-8Pldus9zHUui_f7RpusjpkNMvcbemk7k&s",
+      "width": "279",
+      "height": "181"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "service-detail-template",
+      "og:image": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Renew a Driver's License",
+      "copapwp-service-category": "Driving & Transportation",
+      "copapwp-page-title": "Renew a Driver's License",
+      "twitter:url": "https://www.pa.gov/services/dmv/renew-a-drivers-license.html",
+      "copapwp-agency": "Driver and Vehicle Services",
+      "og:title": "Renew a Driver's License",
+      "copapwp-service-type": "License or Permit or Registration or Certification",
+      "og:description": "A Pennsylvania driver's license is valid for four years, expiring on the day after your birthday. PennDOT sends an invitation to renew three months prior to expiration. If there are no corrections or changes, other than a change of address, you can renew online.",
+      "twitter:image": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png",
+      "copapwp-description": "A Pennsylvania driver's license is valid for four years, expiring on the day after your birthday. PennDOT sends an invitation to renew three months prior to expiration. If there are no corrections or ...",
+      "copapwp-hero-description": "A Pennsylvania driver's license is valid for four years, expiring on the day after your birthday. PennDOT sends an invitation to renew three months prior to expiration. Residents who are 65 or older h...",
+      "twitter:site": "website",
+      "copapwp-badges": "License or Permit or Registration or Certification;Driver and Vehicle Services;Driving & Transportation;",
+      "viewport": "width=device-width, initial-scale=1",
+      "copapwp-audience": "Driver;Resident",
+      "copapwp-content-type": "Service",
+      "twitter:description": "A Pennsylvania driver's license is valid for four years, expiring on the day after your birthday. PennDOT sends an invitation to renew three months prior to expiration. If there are no corrections or changes, other than a change of address, you can renew online.",
+      "og:url": "https://www.pa.gov/services/dmv/renew-a-drivers-license.html"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "Services",
+      "name": "Services",
+      "position": "1"
+     },
+     {
+      "name": "Renew a Driver's License",
+      "position": "2"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Change a Driver's License Name or Address | Commonwealth of ...",
+   "htmlTitle": "Change a <b>Driver&#39;s License</b> Name or Address | Commonwealth of ...",
+   "link": "https://www.pa.gov/services/dmv/change-a-driver-license-name-or-address.html",
+   "displayLink": "www.pa.gov",
+   "snippet": "Change a Driver's License or Photo ID Name or Address. If your name has changed due to marriage, divorce or another reason, or if you need to change your\u00a0...",
+   "htmlSnippet": "Change a <b>Driver&#39;s License</b> or Photo ID Name or Address. If your name has changed due to marriage, divorce or another reason, or if you need to change your&nbsp;...",
+   "formattedUrl": "https://www.pa.gov/services/.../change-a-driver-license-name-or-address.ht...",
+   "htmlFormattedUrl": "https://www.pa.gov/services/.../change-a-driver-license-name-or-address.ht...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-N9jSOQzWHUvsIfZBCoEwCUW-8Pldus9zHUui_f7RpusjpkNMvcbemk7k&s",
+      "width": "279",
+      "height": "181"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "service-detail-template",
+      "og:image": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Change a Driver's License Name or Address",
+      "copapwp-service-category": "Driving & Transportation",
+      "copapwp-page-title": "Change a Driver's License or Photo ID Name or Address",
+      "twitter:url": "https://www.pa.gov/services/dmv/change-a-driver-license-name-or-address.html",
+      "copapwp-agency": "Driver and Vehicle Services",
+      "og:title": "Change a Driver's License Name or Address",
+      "copapwp-life-event": "Changing Your Name",
+      "copapwp-service-type": "Account Management",
+      "og:description": "If your name has changed due to marriage, divorce or another reason, or if you need to change your address, you will need to download and fill out the right application to change your driver's license name or address.",
+      "twitter:image": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png",
+      "copapwp-description": "If your name has changed due to marriage, divorce or another reason, or if you need to change your address, you will need to download and fill out the right application to change your driver's license...",
+      "copapwp-hero-description": "If your name has changed due to marriage, divorce or another reason, or if you need to change your address, you will need to download and fill out the right application to change your driver's license...",
+      "twitter:site": "website",
+      "copapwp-badges": "Driving & Transportation;Changing Your Name;Account Management;Driver and Vehicle Services;",
+      "viewport": "width=device-width, initial-scale=1",
+      "copapwp-audience": "Driver;Vehicle Owner;Resident",
+      "copapwp-content-type": "Service",
+      "twitter:description": "If your name has changed due to marriage, divorce or another reason, or if you need to change your address, you will need to download and fill out the right application to change your driver's license name or address.",
+      "og:url": "https://www.pa.gov/services/dmv/change-a-driver-license-name-or-address.html"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "Services",
+      "name": "Services",
+      "position": "1"
+     },
+     {
+      "name": "Change Driver's License Name or Address",
+      "position": "2"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Veterans Designation | Driver and Vehicle Services ...",
+   "htmlTitle": "Veterans Designation | Driver and Vehicle Services ...",
+   "link": "https://www.pa.gov/agencies/dmv/resources/military-personnel-veterans/veterans-designation.html",
+   "displayLink": "www.pa.gov",
+   "snippet": "Qualified applicants for a Veterans Designation on their Driver's License or Identification Card include those who have received a Certificate of Release or\u00a0...",
+   "htmlSnippet": "Qualified applicants for a Veterans Designation on their <b>Driver&#39;s License</b> or <b>Identification Card</b> include those who have received a Certificate of Release or&nbsp;...",
+   "formattedUrl": "https://www.pa.gov/agencies/dmv/resources/.../veterans-designation.html",
+   "htmlFormattedUrl": "https://www.pa.gov/agencies/dmv/resources/.../veterans-designation.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-mLvMbaSNdSFlJLgM85Z2lIIvEcmEmX-exYrVQjWHTiR7I31eooqc3Sbv&s",
+      "width": "283",
+      "height": "178"
+     }
+    ],
+    "imageobject": [
+     {
+      "contenturl": "https://s7d9.scene7.com/is/image/statepa/adult_dl_veteran-2?ts=1726685988930&dpr=off"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "agency-content-template",
+      "og:image": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/driver-services/driver-licenses/adult_dl_veteran.jpg",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Veterans Designation",
+      "copapwp-page-title": "\u200bVeterans Designation",
+      "twitter:url": "https://www.pa.gov/agencies/dmv/resources/military-personnel-veterans/veterans-designation.html",
+      "copapwp-agency": "Driver and Vehicle Services",
+      "og:title": "Veterans Designation",
+      "og:description": "Veterans Designation",
+      "twitter:image": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/driver-services/driver-licenses/adult_dl_veteran.jpg",
+      "copapwp-description": "Qualified applicants for a Veterans Designation on their Driver's License or Identification Card include those who have received a Certificate of Release or Discharge from Active Duty/DD214 or equival...",
+      "copapwp-hero-description": "Qualified applicants for a Veterans Designation on their Driver's License or Identification Card include those who have received a Certificate of Release or Discharge from Active Duty/DD214 or equival...",
+      "twitter:site": "website",
+      "copapwp-badges": "Driver and Vehicle Services",
+      "viewport": "width=device-width, initial-scale=1",
+      "copapwp-content-type": "Agency Detail",
+      "twitter:description": "Veterans Designation",
+      "og:url": "https://www.pa.gov/agencies/dmv/resources/military-personnel-veterans/veterans-designation.html"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/dmv/images/driver-services/driver-licenses/adult_dl_veteran.jpg"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "Agencies",
+      "name": "Agencies",
+      "position": "1"
+     },
+     {
+      "item": "Driver and Vehicle Services",
+      "name": "Driver and Vehicle Services",
+      "position": "2"
+     },
+     {
+      "item": "Resources",
+      "name": "Resources",
+      "position": "3"
+     },
+     {
+      "item": "Military Personnel and Veterans",
+      "name": "Military Personnel and Veterans",
+      "position": "4"
+     },
+     {
+      "name": "Veterans Designation",
+      "position": "5"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "PennDOT - Application for Initial Identification (DL-54A)",
+   "htmlTitle": "PennDOT - Application for Initial Identification (DL-54A)",
+   "link": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-form/dl-54a.pdf",
+   "displayLink": "www.pa.gov",
+   "snippet": "(You must apply in person at any Driver License Center.) I CURRENTLY HOLD A PA DRIVER'S LICENSE/PERMIT AND AM APPLYING FOR A NON-DRIVER IDENTIFICATION CARD FOR\u00a0...",
+   "htmlSnippet": "(You must apply in person at any Driver License Center.) I CURRENTLY HOLD A PA <b>DRIVER&#39;S LICENSE</b>/PERMIT AND AM APPLYING FOR A NON-DRIVER <b>IDENTIFICATION CARD</b> FOR&nbsp;...",
+   "formattedUrl": "https://www.pa.gov/content/dam/copapwp-pagov/en/.../bdl.../dl-54a.pdf",
+   "htmlFormattedUrl": "https://www.pa.gov/content/dam/copapwp-pagov/en/.../bdl.../dl-54a.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfY7-Wu24jUbPF0lf4gS6e7DY3xFJH58rAECXN8BxtwDCuYBjm3TMRX_o&s",
+      "width": "197",
+      "height": "255"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20250701142436-04'00'",
+      "creationdate": "D:20250617153526-04'00'",
+      "creator": "Adobe InDesign 20.0 (Windows)",
+      "producer": "Adobe PDF Library 17.0",
+      "title": "PennDOT - Application for Initial Identification (DL-54A)"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///7610e366b3e283c430d56c8909dc937910f151dfcd2ed36e7cdc8ab1df66e8fa"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "PennDOT - Non-Commercial Driver's License Application for Renewal",
+   "htmlTitle": "PennDOT - Non-Commercial <b>Driver&#39;s License</b> Application for Renewal",
+   "link": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-form/dl-143.pdf",
+   "displayLink": "www.pa.gov",
+   "snippet": "If yes, give: State ______ Expiration Date. Driver's License No. ... be carried with the Pennsylvania Identification Card. Notarization is not\u00a0...",
+   "htmlSnippet": "If yes, give: State ______ Expiration Date. <b>Driver&#39;s License</b> No. ... be carried with the Pennsylvania <b>Identification Card</b>. Notarization is not&nbsp;...",
+   "formattedUrl": "https://www.pa.gov/content/dam/copapwp-pagov/en/.../bdl.../dl-143.pdf",
+   "htmlFormattedUrl": "https://www.pa.gov/content/dam/copapwp-pagov/en/.../bdl.../dl-143.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20230706135312-04'00'",
+      "creationdate": "D:20230706104725-04'00'",
+      "creator": "Adobe InDesign 18.4 (Windows)",
+      "producer": "Adobe PDF Library 17.0",
+      "title": "PennDOT - Non-Commercial Driver's License Application for Renewal"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "PennDOT - Application for Pennsylvania Non-Commercial Driver's ...",
+   "htmlTitle": "PennDOT - Application for Pennsylvania Non-Commercial <b>Driver&#39;s</b> ...",
+   "link": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-form/dl-180r.pdf",
+   "displayLink": "www.pa.gov",
+   "snippet": "... Driver's License. (Applicant's 18 years of age or older will have the ... Identification Card (ID) from any other state? ........................ If\u00a0...",
+   "htmlSnippet": "... <b>Driver&#39;s License</b>. (Applicant&#39;s 18 years of age or older will have the ... <b>Identification Card</b> (ID) from any other state? ........................ If&nbsp;...",
+   "formattedUrl": "https://www.pa.gov/content/dam/copapwp-pagov/en/.../dl-180r.pdf",
+   "htmlFormattedUrl": "https://www.pa.gov/content/dam/copapwp-pagov/en/.../dl-180r.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuQQpKpZuXgXThzSDhC1TT7y4dz33sXajZnHu5pthuxfkEB9O-bVsxrn8&s",
+      "width": "197",
+      "height": "255"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20230627102357-04'00'",
+      "creationdate": "D:20230622134451-04'00'",
+      "creator": "Adobe InDesign 18.3 (Windows)",
+      "producer": "Adobe PDF Library 17.0",
+      "title": "PennDOT - Application for Pennsylvania Non-Commercial Driver's License by Out-of-State Non CDL Driver"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///16b47a2190de8d0c0ab1c4048689bf820af0c97fd336d30ec0b3f3aded5a9520"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Report Driver's License, Identification Card or Vehicle Fraud ...",
+   "htmlTitle": "Report <b>Driver&#39;s License</b>, <b>Identification Card</b> or Vehicle Fraud ...",
+   "link": "https://www.pa.gov/services/dmv/report-drivers-license-identification-card-or-vehicle-fraud.html",
+   "displayLink": "www.pa.gov",
+   "snippet": "If someone uses your personal information to buy a PennDOT driver's license or identification card, that is fraud. To report this, fill out the \"Fraudulent\u00a0...",
+   "htmlSnippet": "If someone uses your personal information to buy a PennDOT <b>driver&#39;s license</b> or <b>identification card</b>, that is fraud. To report this, fill out the &quot;Fraudulent&nbsp;...",
+   "formattedUrl": "https://www.pa.gov/.../report-drivers-license-identification-card-or-vehicle-...",
+   "htmlFormattedUrl": "https://www.pa.gov/.../report-<b>drivers-license</b>-<b>identification-card</b>-or-vehicle-...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-N9jSOQzWHUvsIfZBCoEwCUW-8Pldus9zHUui_f7RpusjpkNMvcbemk7k&s",
+      "width": "279",
+      "height": "181"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "service-detail-template",
+      "og:image": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Report Driver's License, Identification Card or Vehicle Fraud",
+      "copapwp-service-category": "Reporting Fraud & Abuse;Legal, Justice & Public Safety",
+      "copapwp-page-title": "Report Driver's License, Identification Card, or Vehicle Fraud",
+      "twitter:url": "https://www.pa.gov/services/dmv/report-drivers-license-identification-card-or-vehicle-fraud.html",
+      "copapwp-agency": "Driver and Vehicle Services",
+      "og:title": "Report Driver's License, Identification Card or Vehicle Fraud",
+      "og:description": "If you see, notice, or think a fraud is taking place, you can report it to PennDOT.",
+      "twitter:image": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png",
+      "copapwp-description": "If you see, notice, or think a fraud is taking place, you can report it to PennDOT.",
+      "copapwp-hero-description": "If you experience fraud or if you see, notice, or think fraud is taking place, you can report it to PennDOT.",
+      "twitter:site": "website",
+      "copapwp-badges": "Reporting Fraud & Abuse;Driver and Vehicle Services;Legal, Justice & Public Safety;",
+      "viewport": "width=device-width, initial-scale=1",
+      "copapwp-audience": "Driver;Resident",
+      "copapwp-content-type": "Service",
+      "twitter:description": "If you see, notice, or think a fraud is taking place, you can report it to PennDOT.",
+      "og:url": "https://www.pa.gov/services/dmv/report-drivers-license-identification-card-or-vehicle-fraud.html"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "Services",
+      "name": "Services",
+      "position": "1"
+     },
+     {
+      "name": "Report Driver's License, Identification Card or Vehicle Fraud",
+      "position": "2"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,403 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Iowa Code\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "totalResults": "10200",
+    "searchTerms": "\"Iowa Code\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Iowa Code\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "totalResults": "10200",
+    "searchTerms": "\"Iowa Code\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.187994,
+  "formattedSearchTime": "0.19",
+  "totalResults": "10200",
+  "formattedTotalResults": "10,200"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "761\u2014601.5(321) Proofs submitted with application. A person who ...",
+   "htmlTitle": "761\u2014601.5(321) Proofs submitted with application. A person who ...",
+   "link": "https://www.legis.iowa.gov/docs/ACO/rule/761.601.5.pdf",
+   "displayLink": "www.legis.iowa.gov",
+   "snippet": "601.5(5) Verification of name change. The name listed on the driver's license or nonoperator's identification card that is issued shall be identical to the name\u00a0...",
+   "htmlSnippet": "601.5(5) <b>Verification</b> of name change. The name listed on the <b>driver&#39;s license</b> or nonoperator&#39;s <b>identification card</b> that is issued shall be identical to the name&nbsp;...",
+   "formattedUrl": "https://www.legis.iowa.gov/docs/ACO/rule/761.601.5.pdf",
+   "htmlFormattedUrl": "https://www.legis.iowa.gov/docs/ACO/rule/761.601.5.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20250207114041-06'00'",
+      "creationdate": "D:20250207114041-06'00'",
+      "creator": "Antenna House Formatter V7.4 R1 Windows : 7.4.1.63121 (2023-12-20T11:05+09)",
+      "producer": "Antenna House PDF Output Library 7.4.1889",
+      "title": "Iowa Administrative Code"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Find a Record or License | Department of Inspections, Appeals ...",
+   "htmlTitle": "Find a Record or License | Department of Inspections, Appeals ...",
+   "link": "https://dial.iowa.gov/i-need/records",
+   "displayLink": "dial.iowa.gov",
+   "snippet": "Search State of Iowa online services to verify professional licensure, and search inspection and survey records ... Iowa Code Chapter 100C and Iowa Administrative\u00a0...",
+   "htmlSnippet": "Search State of Iowa online services to <b>verify</b> professional licensure, and search inspection and survey records ... <b>Iowa Code</b> Chapter 100C and Iowa Administrative&nbsp;...",
+   "formattedUrl": "https://dial.iowa.gov/i-need/records",
+   "htmlFormattedUrl": "https://dial.iowa.gov/i-need/records",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs-w3ThxT65YjmgPQpoQpmpaJSPAJZq471IIegjLwmAy-ALIWaoBMbF3zH&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://dial.iowa.gov/themes/custom/wildrose/images/iowa-metaimg-universal.png",
+      "og:type": "article",
+      "og:image:alt": "State of Iowa official seal",
+      "twitter:card": "summary",
+      "twitter:title": "Find a Record or License",
+      "og:site_name": "Department of Inspections, Appeals, & Licensing",
+      "handheldfriendly": "true",
+      "og:title": "Find a Record or License",
+      "og:updated_time": "2025-04-21T14:01:11-0500",
+      "og:description": "Search State of Iowa online services to verify professional licensure, and search inspection and survey records.",
+      "twitter:image": "https://dial.iowa.gov/themes/custom/wildrose/images/iowa-metaimg-universal.png",
+      "twitter:image:alt": "State of Iowa official seal",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Search State of Iowa online services to verify professional licensure, and search inspection and survey records.",
+      "mobileoptimized": "width",
+      "og:url": "https://dial.iowa.gov/i-need/records"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dial.iowa.gov/themes/custom/wildrose/images/iowa-metaimg-universal.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Iowa Administrative Code",
+   "htmlTitle": "Iowa Administrative Code",
+   "link": "https://www.legis.iowa.gov/docs/iac/chapter/761.601.pdf",
+   "displayLink": "www.legis.iowa.gov",
+   "snippet": "Whether the applicant is applying for a driver's license or nonoperator's identification card. 3. A description of the necessary verification of identity and\u00a0...",
+   "htmlSnippet": "Whether the applicant is applying for a <b>driver&#39;s license</b> or nonoperator&#39;s <b>identification card</b>. 3. A description of the necessary <b>verification</b> of identity and&nbsp;...",
+   "formattedUrl": "https://www.legis.iowa.gov/docs/iac/chapter/761.601.pdf",
+   "htmlFormattedUrl": "https://www.legis.iowa.gov/docs/iac/chapter/761.601.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20250207103844-06'00'",
+      "creationdate": "D:20250207103844-06'00'",
+      "creator": "Antenna House Formatter V7.4 R1 Windows : 7.4.1.63121 (2023-12-20T11:05+09)",
+      "producer": "Antenna House PDF Output Library 7.4.1889",
+      "title": "Iowa Administrative Code"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Register a Vehicle | Department of Transportation",
+   "htmlTitle": "Register a Vehicle | Department of Transportation",
+   "link": "https://iowadot.gov/registration-plates/vehicle-registration-titles/register-vehicle",
+   "displayLink": "iowadot.gov",
+   "snippet": "For some transactions, the county treasurer's office may require verification of your identity using a driver's license, state-issued ID, or Social Security\u00a0...",
+   "htmlSnippet": "For some transactions, the county treasurer&#39;s office may require <b>verification</b> of your identity using a <b>driver&#39;s license</b>, state-issued ID, or Social Security&nbsp;...",
+   "formattedUrl": "https://iowadot.gov/registration-plates/vehicle-registration.../register-vehicle",
+   "htmlFormattedUrl": "https://iowadot.gov/registration-plates/vehicle-registration.../register-vehicle",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXtpiWWZIQ57pBk0FyFALyJCbZdmNyD5DItQx6hc6Gx_0ZU8dnBHCE6oE&s",
+      "width": "259",
+      "height": "195"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://iowadot.gov/sites/default/files/styles/large/public/images/2025-04/man-with-car.png.webp?itok=V4MFFvEI",
+      "og:type": "article",
+      "og:image:alt": "Man standing in front of a car",
+      "twitter:card": "summary",
+      "twitter:title": "Register a Vehicle",
+      "og:site_name": "Department of Transportation",
+      "handheldfriendly": "true",
+      "og:title": "Register a Vehicle",
+      "og:updated_time": "2025-05-15T12:20:54-0500",
+      "og:description": "Register your vehicle in Iowa at an Iowa County Treasurers' Office.",
+      "twitter:image": "https://iowadot.gov/sites/default/files/styles/large/public/images/2025-04/man-with-car.png.webp?itok=V4MFFvEI",
+      "twitter:image:alt": "Man standing in front of a car",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Register your vehicle in Iowa at an Iowa County Treasurers' Office.",
+      "mobileoptimized": "width",
+      "og:url": "https://iowadot.gov/registration-plates/vehicle-registration-titles/register-vehicle"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://iowadot.gov/sites/default/files/styles/large/public/images/2025-04/man-with-car.png.webp?itok=V4MFFvEI"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "IOWA DRIVER'S LICENSE MANUAL",
+   "htmlTitle": "IOWA <b>DRIVER&#39;S LICENSE</b> MANUAL",
+   "link": "https://www.iowadot.gov/mvd/driverslicense/dlmanual/dlmanual.pdf",
+   "displayLink": "www.iowadot.gov",
+   "snippet": "share Iowa's roadways. VISITING A DRIVER'S LICENSE AND ID ... You should continue to scan the road for hazards and maintain a safe following distance.",
+   "htmlSnippet": "<b>share</b> Iowa&#39;s roadways. VISITING A <b>DRIVER&#39;S LICENSE</b> AND ID ... You should continue to <b>scan</b> the road for hazards and <b>maintain</b> a safe following distance.",
+   "formattedUrl": "https://www.iowadot.gov/mvd/driverslicense/dlmanual/dlmanual.pdf",
+   "htmlFormattedUrl": "https://www.iowadot.gov/mvd/<b>driverslicense</b>/dlmanual/dlmanual.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1qyCTqjQmKt5xKhRhUqB_yxMOf0wmgR9_3K2JT26N-iyvNWsh5f9uuGXc&s",
+      "width": "257",
+      "height": "196"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20250225113242-06'00'",
+      "creationdate": "D:20250225113131-06'00'",
+      "creator": "Adobe InDesign 20.1 (Windows)",
+      "producer": "Adobe PDF Library 17.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///51ff5592bf79900d7d1041df988be6eeb57445255f643e03158a7bb8d7b01915"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "OWI Education | Department of Education",
+   "htmlTitle": "OWI Education | Department of Education",
+   "link": "https://educate.iowa.gov/higher-ed/owi-education",
+   "displayLink": "educate.iowa.gov",
+   "snippet": "If you receive an Operating While Intoxicated (OWI) in Iowa, you need to complete the following before your driver's license can be reinstated: ... Verification\u00a0...",
+   "htmlSnippet": "If you receive an Operating While Intoxicated (OWI) in Iowa, you need to complete the following before your <b>driver&#39;s license</b> can be reinstated: ... <b>Verification</b>&nbsp;...",
+   "formattedUrl": "https://educate.iowa.gov/higher-ed/owi-education",
+   "htmlFormattedUrl": "https://educate.iowa.gov/higher-ed/owi-education",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1R-sgJ6O0B2xVS7CAXKIWU8OChNRG5LNxPzXS_xcIzUH50SGC8ZqTnMVo&s",
+      "width": "273",
+      "height": "185"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://educate.iowa.gov/sites/default/files/styles/large/public/images/2023-11/OWI%20Education.jpg.webp?itok=BPR7_Qzw",
+      "og:type": "article",
+      "og:image:alt": "OWI Education",
+      "twitter:card": "summary",
+      "twitter:title": "OWI Education",
+      "og:site_name": "Department of Education",
+      "handheldfriendly": "true",
+      "og:title": "OWI Education",
+      "og:updated_time": "2025-05-27T15:35:11-0500",
+      "og:description": "Iowa law requires individuals found guilty of Operating a Motor Vehicle While Intoxicated (OWI) complete a state approved drinking driver education course.",
+      "twitter:image": "https://educate.iowa.gov/sites/default/files/styles/large/public/images/2023-11/OWI%20Education.jpg.webp?itok=BPR7_Qzw",
+      "twitter:image:alt": "OWI Education",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Iowa law requires individuals found guilty of Operating a Motor Vehicle While Intoxicated (OWI) complete a state approved drinking driver education course.",
+      "mobileoptimized": "width",
+      "og:url": "https://educate.iowa.gov/higher-ed/owi-education"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://educate.iowa.gov/sites/default/files/styles/large/public/images/2023-11/OWI%20Education.jpg.webp?itok=BPR7_Qzw"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Property Tax Suspensions - Clinton County Government - Iowa",
+   "htmlTitle": "Property Tax Suspensions - Clinton County Government - Iowa",
+   "link": "https://www.clintoncounty-ia.gov/community_supports/property_tax_suspensions/",
+   "displayLink": "www.clintoncounty-ia.gov",
+   "snippet": "... maintain their homes. Persons applying under Iowa Code 427.8 must provide the following information: Completed application; Copy of current Driver's License\u00a0...",
+   "htmlSnippet": "... <b>maintain</b> their homes. Persons applying under <b>Iowa Code</b> 427.8 must provide the following information: Completed application; Copy of current <b>Driver&#39;s License</b>&nbsp;...",
+   "formattedUrl": "https://www.clintoncounty-ia.gov/community.../property_tax_suspensions/",
+   "htmlFormattedUrl": "https://www.clintoncounty-ia.gov/community.../property_tax_suspensions/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM_t_i5K5cM2LN71Vcx3RjZd5FAv74rfr2ZtjbfqPUzuMGAMM89Qba1u1p&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.clintoncounty-ia.gov/images/social_sharing.png",
+      "og:type": "website",
+      "og:image:width": "1200",
+      "og:image:alt": "Photo of the Clinton County, Iowa, courthouse with logo.",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "Property Tax Suspensions - Clinton County Government - Iowa",
+      "og:image:height": "630",
+      "og:image:type": "image/png",
+      "og:description": "Tax suspensions provide temporary assistance to Clinton County, Iowa, property owners who meet specific eligibility guidelines.",
+      "og:image:secure_url": "https://www.clintoncounty-ia.gov/images/social_sharing.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.clintoncounty-ia.gov/images/social_sharing.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Table 14: How States Verify Voted Absentee/Mail Ballots",
+   "htmlTitle": "Table 14: How States <b>Verify</b> Voted Absentee/Mail Ballots",
+   "link": "https://www.ncsl.org/elections-and-campaigns/table-14-how-states-verify-voted-absentee-mail-ballots",
+   "displayLink": "www.ncsl.org",
+   "snippet": "A voter must also provide the number of their driver's license or identification card. ... All personnel assigned to verify signatures must receive training on\u00a0...",
+   "htmlSnippet": "A voter must also provide the number of their <b>driver&#39;s license</b> or <b>identification card</b>. ... All personnel assigned to <b>verify</b> signatures must receive training on&nbsp;...",
+   "formattedUrl": "https://www.ncsl.org/.../table-14-how-states-verify-voted-absentee-mail-ball...",
+   "htmlFormattedUrl": "https://www.ncsl.org/.../table-14-how-states-<b>verify</b>-voted-absentee-mail-ball...",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "facebook-domain-verification": "d01vcrcofyvil47w3ksyhcvlcgb2eg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Fines & Penalties | Department of Revenue",
+   "htmlTitle": "Fines &amp; Penalties | Department of Revenue",
+   "link": "https://revenue.iowa.gov/permits-licensing/cigarette-tobacco-nicotine-vapor/fines-penalties",
+   "displayLink": "revenue.iowa.gov",
+   "snippet": "An underage person that uses a false or altered driver's license or non-operator's identification card to purchase tobacco, alternative nicotine, or vapor\u00a0...",
+   "htmlSnippet": "An underage person that uses a false or altered <b>driver&#39;s license</b> or non-operator&#39;s <b>identification card</b> to purchase tobacco, alternative nicotine, or vapor&nbsp;...",
+   "formattedUrl": "https://revenue.iowa.gov/permits-licensing/cigarette.../fines-penalties",
+   "htmlFormattedUrl": "https://revenue.iowa.gov/permits-licensing/cigarette.../fines-penalties",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAmbAaPPUVqf9LCKENGJyJZmtmBIu5byi3BT2vbpnPxDNQQCyRcljL8K_U&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://revenue.iowa.gov/themes/custom/wildrose/images/iowa-metaimg-universal.png",
+      "og:type": "article",
+      "og:image:alt": "State of Iowa official seal",
+      "twitter:card": "summary",
+      "twitter:title": "Fines & Penalties",
+      "og:site_name": "Department of Revenue",
+      "handheldfriendly": "true",
+      "og:title": "Fines & Penalties",
+      "og:updated_time": "2024-06-19T10:17:40-0500",
+      "og:description": "-",
+      "twitter:image": "https://revenue.iowa.gov/themes/custom/wildrose/images/iowa-metaimg-universal.png",
+      "twitter:image:alt": "State of Iowa official seal",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "-",
+      "mobileoptimized": "width",
+      "og:url": "https://revenue.iowa.gov/permits-licensing/cigarette-tobacco-nicotine-vapor/fines-penalties"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://revenue.iowa.gov/themes/custom/wildrose/images/iowa-metaimg-universal.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Fleet Services",
+   "htmlTitle": "Fleet Services",
+   "link": "https://das.iowa.gov/sites/default/files/fleet/pdf/DASFleetPNPmanual.pdf",
+   "displayLink": "das.iowa.gov",
+   "snippet": "Jun 30, 2022 ... must be submitted via the Driver's License Verification Form. PINs ... Iowa Code section 8A.362.3(b): \u201cA gasoline-powered motor vehicle.",
+   "htmlSnippet": "Jun 30, 2022 <b>...</b> must be submitted via the <b>Driver&#39;s License Verification</b> Form. PINs ... <b>Iowa Code</b> section 8A.362.3(b): \u201cA gasoline-powered motor vehicle.",
+   "formattedUrl": "https://das.iowa.gov/sites/default/files/fleet/pdf/DASFleetPNPmanual.pdf",
+   "htmlFormattedUrl": "https://das.iowa.gov/sites/default/files/fleet/pdf/DASFleetPNPmanual.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQUZ5kpj7akw-VMxSozdMKmjdUFy_be9TOgMX_cy3hGDJwgTembMiEoh0&s",
+      "width": "196",
+      "height": "257"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20230421084856-05'00'",
+      "creator": "Microsoft\u00ae Word 2019",
+      "creationdate": "D:20230421084856-05'00'",
+      "author": "Bubser, Karl [DAS]",
+      "producer": "Microsoft\u00ae Word 2019"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///ee6237dae91ba473ccf7a4aa7c3b269b6be8a761afb4058ffa59eed96716fbbf"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

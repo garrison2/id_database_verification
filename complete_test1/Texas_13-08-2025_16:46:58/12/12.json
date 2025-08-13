@@ -1,0 +1,431 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Texas Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "totalResults": "2290",
+    "searchTerms": "\"Texas Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Texas Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "totalResults": "2290",
+    "searchTerms": "\"Texas Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.264941,
+  "formattedSearchTime": "0.26",
+  "totalResults": "2290",
+  "formattedTotalResults": "2,290"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Hazlewood Act \u22c6 Texas Education Benefit \u22c6 Texas Veterans ...",
+   "htmlTitle": "Hazlewood Act \u22c6 Texas Education Benefit \u22c6 Texas Veterans ...",
+   "link": "https://tvc.texas.gov/education/hazlewood/",
+   "displayLink": "tvc.texas.gov",
+   "snippet": "If you qualify for state education benefits earned through military service and your verification ... There is no age minimum specified in the Texas Statutes\u00a0...",
+   "htmlSnippet": "If you qualify for state education benefits earned through military service and your <b>verification</b> ... There is no age minimum specified in the <b>Texas Statutes</b>&nbsp;...",
+   "formattedUrl": "https://tvc.texas.gov/education/hazlewood/",
+   "htmlFormattedUrl": "https://tvc.texas.gov/education/hazlewood/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfJR29asgiQ5rE3C_MEWovAucIKfgdfHe8JEQN1399vpCSkx42E6L0TPQ&s",
+      "width": "230",
+      "height": "220"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://tvc.texas.gov/wp-content/uploads/2023/04/hazelwood-act-e1569270039197.jpg",
+      "og:type": "article",
+      "og:image:width": "232",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Texas Veterans Commission",
+      "tec-api-origin": "https://tvc.texas.gov",
+      "og:title": "Hazlewood Act \u22c6 Texas Education Benefit \u22c6 Texas Veterans Commission",
+      "og:image:height": "222",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://tvc.texas.gov/wp-content/uploads/2023/02/cropped-texas-veterans-commission-favicon-270x270.png",
+      "og:description": "The Hazlewood Act is a State of Texas benefit that provides qualified Veterans, spouses, and dependent children with an education benefit of up to 150 hours of tuition exemption, including most fee charges, at public institutions of higher education in Texas. This does NOT include living expenses, books, or supply fees.",
+      "article:publisher": "https://www.facebook.com/texasveteranscommission",
+      "twitter:site": "@texasveterans",
+      "article:modified_time": "2025-07-09T18:03:03+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://tvc.texas.gov/education/hazlewood/",
+      "tec-api-version": "v1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://tvc.texas.gov/wp-content/uploads/2023/04/hazelwood-act-e1569270039197.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CHAPTER 35. MISCELLANEOUS :: 2009 Texas Code :: US Codes ...",
+   "htmlTitle": "CHAPTER 35. MISCELLANEOUS :: 2009 Texas Code :: US Codes ...",
+   "link": "https://law.justia.com/codes/texas/2009/business-and-commerce-code/title-4-miscellaneous-commercial-provisions/chapter-35-miscellaneous",
+   "displayLink": "law.justia.com",
+   "snippet": "(b) A person commits an offense if the person uses a scanning device or re-encoder to access, read, scan, store ... identification card, plate, coupon\u00a0...",
+   "htmlSnippet": "(b) A person commits an offense if the person uses a <b>scanning</b> device or re-encoder to access, read, <b>scan</b>, <b>store</b> ... <b>identification card</b>, plate, coupon&nbsp;...",
+   "formattedUrl": "https://law.justia.com/codes/texas/2009/...4.../chapter-35-miscellaneous",
+   "htmlFormattedUrl": "https://law.justia.com/codes/texas/2009/...4.../chapter-35-miscellaneous",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF6tMvFPbIJqGnmnTW6XkFdDjhl5MmPOj8MHuFjo38QgKyMeeQBDgDYts&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://justatic.com/v/20250804101307/shared/images/social-media/law.jpg",
+      "og:type": "article",
+      "fb:app_id": "119529808075661",
+      "og:site_name": "Justia Law",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "page-type": "Law: Codes Page (Current Year)",
+      "og:title": "2009 Texas Code ::  BUSINESS AND COMMERCE CODE ::  TITLE 4. MISCELLANEOUS COMMERCIAL PROVISIONS ::  CHAPTER 35. MISCELLANEOUS \u00a0",
+      "is-logged-in": "0",
+      "fb:admins": "656268335,686786921,25900864",
+      "trigger-ga": "1",
+      "og:url": "https://law.justia.com/codes/texas/2009/business-and-commerce-code/title-4-miscellaneous-commercial-provisions/chapter-35-miscellaneous"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://justatic.com/v/20250804101307/shared/images/social-media/law.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Understanding Texas Residency",
+   "htmlTitle": "Understanding Texas Residency",
+   "link": "https://www.utmb.edu/enrollmentservices/resources/admissions/texas-residency",
+   "displayLink": "www.utmb.edu",
+   "snippet": "Maintain a Texas driver's license;; Maintain a checking account, savings ... Texas statutes. Waivers & Exemptions. Students who do not meet any of the\u00a0...",
+   "htmlSnippet": "<b>Maintain</b> a Texas <b>driver&#39;s license</b>;; <b>Maintain</b> a checking account, savings ... <b>Texas statutes</b>. Waivers &amp; Exemptions. Students who do not meet any of the&nbsp;...",
+   "formattedUrl": "https://www.utmb.edu/enrollmentservices/resources/.../texas-residency",
+   "htmlFormattedUrl": "https://www.utmb.edu/enrollmentservices/resources/.../texas-residency",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:type": "website",
+      "og:site_name": "Enrollment Services",
+      "handheldfriendly": "True",
+      "be:sdk": "js_sdk_1.5.14",
+      "og:title": "Understanding Texas Residency",
+      "facebook-domain-verification": "sik7cfhd86nli8dphmdkzk3vwmo85j",
+      "be:norm_url": "https://www.utmb.edu/enrollmentservices/resources/admissions/texas-residency",
+      "be:sdk_type": "custom",
+      "be:capsule_url": "https://ixfd2-api.bc0a.com/api/ixf/1.0.0/get_capsule/f00000000290195/1010146827",
+      "viewport": "width=320, initial-scale=1, minimum-scale=1",
+      "mobileoptimized": "320",
+      "be:api_dt": "py_2023; pm_08; pd_04; ph_10; pmh_28; p_epoch:1691170118818",
+      "be:mod_dt": "py_2023; pm_08; pd_04; ph_10; pmh_28; p_epoch:1691170118818",
+      "be:timer": "10ms",
+      "be:orig_url": "https://www.utmb.edu/enrollmentservices/resources/admissions/texas-residency",
+      "be:messages": "true"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Texas ID Scanning Laws - Guest Ban | ID Scanning for Hospitality",
+   "htmlTitle": "Texas ID <b>Scanning</b> Laws - Guest Ban | ID <b>Scanning</b> for Hospitality",
+   "link": "https://guestban.com/id-scanning-laws/texas-id-scanning-laws/",
+   "displayLink": "guestban.com",
+   "snippet": "... Texas Statutes. The Laws of Texas Statutes available online. View ... Can hotels rely on the results of a transaction scan device to verify a guest's age?",
+   "htmlSnippet": "... <b>Texas Statutes</b>. The Laws of <b>Texas Statutes</b> available online. View ... Can hotels rely on the results of a transaction <b>scan</b> device to <b>verify</b> a guest&#39;s age?",
+   "formattedUrl": "https://guestban.com/id-scanning-laws/texas-id-scanning-laws/",
+   "htmlFormattedUrl": "https://guestban.com/id-<b>scanning</b>-laws/texas-id-<b>scanning</b>-laws/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgbU4vM5gxG0ff2B757rWhrwVi9nxfTC48vcrM3Tez4mJ6zmqp--vQcVrO&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://guestban.com/wp-content/uploads/2023/08/dallas-texas-cityscape-with-skyscrapers-illuminated-at-night.jpg",
+      "og:type": "article",
+      "og:image:width": "2000",
+      "og:image:alt": "Dallas, Texas Cityscape with Skyscrapers Illuminated at Night",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Texas ID Scanning Laws - Guest Ban | ID Scanning for Hospitality",
+      "og:site_name": "Guest Ban ID Scanning",
+      "og:title": "Texas ID Scanning Laws - Guest Ban | ID Scanning for Hospitality",
+      "og:image:height": "1125",
+      "twitter:label1": "Time to read",
+      "og:image:type": "image/jpeg",
+      "og:updated_time": "2025-02-11T19:24:40-08:00",
+      "msapplication-tileimage": "https://guestban.com/wp-content/uploads/2021/12/cropped-app-min-270x270.jpg",
+      "og:description": "Understand the laws and regulations of ID scanning in Texas. Learn about the legalities, how and when you can scan IDs, and more.",
+      "twitter:creator": "@guest_ban",
+      "article:publisher": "https://www.facebook.com/guestbanhospitality",
+      "og:image:secure_url": "https://guestban.com/wp-content/uploads/2023/08/dallas-texas-cityscape-with-skyscrapers-illuminated-at-night.jpg",
+      "twitter:image": "https://guestban.com/wp-content/uploads/2023/08/dallas-texas-cityscape-with-skyscrapers-illuminated-at-night.jpg",
+      "twitter:data1": "3 minutes",
+      "twitter:site": "@guest_ban",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Understand the laws and regulations of ID scanning in Texas. Learn about the legalities, how and when you can scan IDs, and more.",
+      "og:locale": "en_US",
+      "og:url": "https://guestban.com/id-scanning-laws/texas-id-scanning-laws/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://guestban.com/wp-content/uploads/2023/08/dallas-texas-cityscape-with-skyscrapers-illuminated-at-night.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Attendance, Admission, Enrollment Records, and Tuition - August ...",
+   "htmlTitle": "Attendance, Admission, Enrollment Records, and Tuition - August ...",
+   "link": "https://tea.texas.gov/about-tea/news-and-multimedia/correspondence/taa-letters/attendance-admission-enrollment-records-and-tuition-august-2017",
+   "displayLink": "tea.texas.gov",
+   "snippet": "Aug 18, 2017 ... ... verify the visit. Under \u00a725.087(b-4), a school district must excuse ... verification from the school of the child's name, address\u00a0...",
+   "htmlSnippet": "Aug 18, 2017 <b>...</b> ... <b>verify</b> the visit. Under \u00a725.087(b-4), a school district must excuse ... <b>verification</b> from the school of the child&#39;s name, address&nbsp;...",
+   "formattedUrl": "https://tea.texas.gov/.../attendance-admission-enrollment-records-and-tuitio...",
+   "htmlFormattedUrl": "https://tea.texas.gov/.../attendance-admission-enrollment-records-and-tuitio...",
+   "pagemap": {
+    "metatags": [
+     {
+      "dcterms.language": "en-US",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "dcterms.publisher": "Texas Education Agency",
+      "dcterms.title": "Attendance, Admission, Enrollment Records, and Tuition - August 2017",
+      "mobileoptimized": "width",
+      "dcterms.creator": "Texas Education Agency",
+      "dcterms.format": "text/html",
+      "dcterms.description": "PDF Version Information only August 18, 2017 TO THE ADMINISTRATOR ADDRESSED: Re:\u00a0 Attendance, Admission, Enrollment Records, and Tuition\u00a0 This letter summarizes important statutes relating to student attendance, public school admission, enrollment records, and tuition.\u00a0 Part I of the let",
+      "dcterms.date": "2019-12-17T13:44:19-06:00",
+      "dcterms.identifier": "103342"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "C:\\Documents and Settings\\h0540C8\\Local Settings\\Temp\\2002 ...",
+   "htmlTitle": "C:\\Documents and Settings\\h0540C8\\Local Settings\\Temp\\2002 ...",
+   "link": "https://www.house.texas.gov/pdfs/committees/reports/interim/77interim/public_safety.pdf",
+   "displayLink": "www.house.texas.gov",
+   "snippet": "Dec 13, 2002 ... Driver License Initiative: Verification. Social Security Number Verification Program ... verify SSN's on existing commercial driver license.",
+   "htmlSnippet": "Dec 13, 2002 <b>...</b> <b>Driver License</b> Initiative: <b>Verification</b>. Social Security Number <b>Verification</b> Program ... <b>verify</b> SSN&#39;s on existing commercial <b>driver license</b>.",
+   "formattedUrl": "https://www.house.texas.gov/pdfs/committees/reports/.../public_safety.pdf",
+   "htmlFormattedUrl": "https://www.house.texas.gov/pdfs/committees/reports/.../public_safety.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_eqOJq68yOI5NgD03opIrgf8kfw0LRVXa4MSpjwd9hjFDokvKgxcVlYGW&s",
+      "width": "197",
+      "height": "255"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20021213113003-06'00'",
+      "creationdate": "D:20021213113003-06'00'",
+      "creator": "PScript5.dll Version 5.2",
+      "author": "h0540C8",
+      "producer": "Acrobat Distiller 5.0.5 (Windows)",
+      "title": "C:\\Documents and Settings\\h0540C8\\Local Settings\\Temp\\2002 House Public Safety Interim Report.wpd"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///d6ae02b743936e12b873c4a01f60bda6d5d037538cb002754283a7c89d47d478"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Texas Transportation Code Section 521.032 \u2013 Enhanced Driver's ...",
+   "htmlTitle": "Texas Transportation Code Section 521.032 \u2013 Enhanced <b>Driver&#39;s</b> ...",
+   "link": "https://texas.public.law/statutes/tex._transp._code_section_521.032",
+   "displayLink": "texas.public.law",
+   "snippet": "... driver's license and personal identification certificate and offer each ... verify the identity of the applicant for purposes relating to\u00a0...",
+   "htmlSnippet": "... <b>driver&#39;s license</b> and personal identification certificate and offer each ... <b>verify</b> the identity of the applicant for purposes relating to&nbsp;...",
+   "formattedUrl": "https://texas.public.law/statutes/tex._transp._code_section_521.032",
+   "htmlFormattedUrl": "https://texas.public.law/statutes/tex._transp._code_section_521.032",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZV2EqTanpwh9254lSOXd0BxJ9w6fkwppD-XMDZX-u-Mzq9whrNvfdpzc&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:determiner": "the",
+      "og:image": "https://texas.public.law/assets/jurisdiction/256x256/texas-178e7f7dd689fa81d78879372c59764dd65e7a08331c87f39f8232d2a004a913.png",
+      "twitter:card": "summary",
+      "og:image:width": "256",
+      "og:site_name": "Texas.Public.Law",
+      "msapplication-wide310x150logo": "https://california.public.law/assets/favicon/mstile-310x150-ae54f5e235f629e5bbc1b3787980a0a0c790ccaaf7e6153f46e35480b9460a78.png",
+      "og:image:type": "image/png",
+      "title": "Texas Transportation Code Section 521.032 \u2013 Enhanced Driver's License or Personal Identification Certificate",
+      "msapplication-tileimage": "https://california.public.law/assets/favicon/mstile-144x144-1ff51a60a42438151b0aa8d2b8ecdaa867d9af9ede744983626c8263eb9051c5.png",
+      "og:description": "The department may issue an enhanced driver's license or personal identification certificate for the purposes of crossing the border between this state\u2026",
+      "twitter:image": "https://texas.public.law/assets/jurisdiction/texas-c954d87af14b523b19b292236af483242aa1ca9007e0b96080fd9afcd3928858.png",
+      "twitter:image:alt": "Texas icon",
+      "twitter:site": "@law_is_code",
+      "msapplication-square310x310logo": "https://california.public.law/assets/favicon/mstile-310x310-c954d87af14b523b19b292236af483242aa1ca9007e0b96080fd9afcd3928858.png",
+      "msapplication-tilecolor": "#FFFFFF",
+      "twitter:title": "Texas Transportation Code Section 521.032 \u2013 Enhanced Driver's License or Personal Identification Certificate",
+      "og:type": "article",
+      "article:section": "Transportation Code",
+      "og:image:alt": "Texas icon",
+      "og:title": "Texas Transportation Code Section 521.032 \u2013 Enhanced Driver's License or Personal Identification Certificate",
+      "og:image:height": "256",
+      "article:author": "Tex. Legislature",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "twitter:description": "The department may issue an enhanced driver's license or personal identification certificate for the purposes of crossing the border between this state\u2026",
+      "og:url": "https://texas.public.law/statutes/tex._transp._code_section_521.032"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://texas.public.law/assets/jurisdiction/256x256/texas-178e7f7dd689fa81d78879372c59764dd65e7a08331c87f39f8232d2a004a913.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Eyes (and Privacy Laws) of Texas Are Upon You",
+   "htmlTitle": "The Eyes (and Privacy Laws) of Texas Are Upon You",
+   "link": "https://www.bytebacklaw.com/2019/04/the-eyes-and-privacy-laws-of-texas-are-upon-you/",
+   "displayLink": "www.bytebacklaw.com",
+   "snippet": "Apr 23, 2019 ... ... driver's license numbers, credit card or financial account ... Texas statutes (HIPAA, the Texas Medical Records Privacy Act, GLBA, the\u00a0...",
+   "htmlSnippet": "Apr 23, 2019 <b>...</b> ... <b>driver&#39;s license</b> numbers, credit card or financial account ... <b>Texas statutes</b> (HIPAA, the Texas Medical Records Privacy Act, GLBA, the&nbsp;...",
+   "formattedUrl": "https://www.bytebacklaw.com/.../the-eyes-and-privacy-laws-of-texas-are-up...",
+   "htmlFormattedUrl": "https://www.bytebacklaw.com/.../the-eyes-and-privacy-laws-of-texas-are-up...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQam-08SMhtaD4vYxTIRniOnXVUbW9OLodeSIJ5SdhtFgc-_VyBGA89v1M&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/052/007/614/0eb715rd3zLEANrp6BPpEmKay/8074c264a92bb698c2e33974776ef812c8419351.png",
+      "og:type": "article",
+      "article:published_time": "2019-04-23T19:11:23+00:00",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Byte Back",
+      "author": "Eric Levy",
+      "og:title": "The Eyes (and Privacy Laws) of Texas Are Upon You",
+      "msapplication-tileimage": "https://www.bytebacklaw.com/wp-content/uploads/sites/631/2017/07/cropped-favicon-270x270.png",
+      "og:description": "Consistent with the clich\u00e9 that \u201ceverything\u2019s bigger in Texas,\u201d the Texas legislature has introduced not one, but two separate bills relating to the privacy of personal information. Read about these bills in Husch Blackwell's blog post.",
+      "article:modified_time": "2019-04-23T20:21:24+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.bytebacklaw.com/2019/04/the-eyes-and-privacy-laws-of-texas-are-upon-you/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/052/007/614/0eb715rd3zLEANrp6BPpEmKay/8074c264a92bb698c2e33974776ef812c8419351.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "TSU Residency & Tuition Rates \u2013 Verify Your In-State Status",
+   "htmlTitle": "TSU Residency &amp; Tuition Rates \u2013 <b>Verify</b> Your In-State Status",
+   "link": "https://tsu.edu/registrar/texas-residency.php",
+   "displayLink": "tsu.edu",
+   "snippet": "Rules for Texas residency classification for University tuition are different from residency rules for voting, obtaining a Texas driver's license, or tax\u00a0...",
+   "htmlSnippet": "Rules for Texas residency classification for University tuition are different from residency rules for voting, obtaining a Texas <b>driver&#39;s license</b>, or tax&nbsp;...",
+   "formattedUrl": "https://tsu.edu/registrar/texas-residency.php",
+   "htmlFormattedUrl": "https://tsu.edu/registrar/texas-residency.php",
+   "pagemap": {
+    "metatags": [
+     {
+      "fb:app_id": "94382991602",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "TSU Residency & Tuition Rates \u2013 Verify Your In-State Status",
+      "og:site_name": "Texas Southern University",
+      "twitter:site": "@TexasSouthern",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "twitter:url": "https://tsu.edu/registrar/texas-residency.php",
+      "twitter:description": "Confirm your Texas residency for TSU tuition rates. Learn about guidelines, classifications, and steps for qualifying as a resident or nonresident student.",
+      "og:title": "TSU Residency & Tuition Rates \u2013 Verify Your In-State Status",
+      "og:url": "https://tsu.edu/registrar/texas-residency.php",
+      "og:updated_time": "2025-07-07T09:59:24.164643899-07:00",
+      "og:description": "Confirm your Texas residency for TSU tuition rates. Learn about guidelines, classifications, and steps for qualifying as a resident or nonresident student."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Police Records Specialist",
+   "htmlTitle": "Police Records Specialist",
+   "link": "https://cog.wd5.myworkdayjobs.com/External_Prod/job/Public-Safety-Operations-and-Training-Center/Police-Records-Specialist_25-02132",
+   "displayLink": "cog.wd5.myworkdayjobs.com",
+   "snippet": "Jun 11, 2025 ... Verify all paperwork turned in is filled out correctly; scan, attach ... *The City of Georgetown confirms verification of employment using E-\u00a0...",
+   "htmlSnippet": "Jun 11, 2025 <b>...</b> <b>Verify</b> all paperwork turned in is filled out correctly; <b>scan</b>, attach ... *The City of Georgetown confirms <b>verification</b> of employment using E-&nbsp;...",
+   "formattedUrl": "https://cog.wd5.myworkdayjobs.com/.../Police-Records-Specialist_25-0213...",
+   "htmlFormattedUrl": "https://cog.wd5.myworkdayjobs.com/.../Police-Records-Specialist_25-0213...",
+   "pagemap": {
+    "metatags": [
+     {
+      "image": "https://cog.wd5.myworkdayjobs.com/External_Prod/assets/logo",
+      "og:type": "website",
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=2.0",
+      "title": "Police Records Specialist",
+      "og:url": "https://cog.wd5.myworkdayjobs.com/External_Prod/job/Public-Safety-Operations-and-Training-Center/Police-Records-Specialist_25-02132"
+     }
+    ]
+   }
+  }
+ ]
+}

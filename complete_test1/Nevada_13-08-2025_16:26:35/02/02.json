@@ -1,0 +1,271 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://dmv.nv.gov/ \"driver's license\" OR \"identification card\"",
+    "totalResults": "586",
+    "searchTerms": "site:https://dmv.nv.gov/ \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://dmv.nv.gov/ \"driver's license\" OR \"identification card\"",
+    "totalResults": "586",
+    "searchTerms": "site:https://dmv.nv.gov/ \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.12394,
+  "formattedSearchTime": "0.12",
+  "totalResults": "586",
+  "formattedTotalResults": "586"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Driver License & ID Cards",
+   "htmlTitle": "Driver License &amp; ID Cards",
+   "link": "https://dmv.nv.gov/nvdl.htm",
+   "displayLink": "dmv.nv.gov",
+   "snippet": "A Real ID will be required beginning May 7, 2025, if you wish to use your driver's license or state ID card to board commercial aircraft on domestic flights.",
+   "htmlSnippet": "A Real ID will be required beginning May 7, 2025, if you wish to use your <b>driver&#39;s license</b> or state ID card to board commercial aircraft on domestic flights.",
+   "formattedUrl": "https://dmv.nv.gov/nvdl.htm",
+   "htmlFormattedUrl": "https://dmv.nv.gov/nvdl.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffffff",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0, shrink-to-fit=no, user-scalable=yes",
+      "msapplication-tileimage": "/ms-icon-144x144.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Nevada ID Cards",
+   "htmlTitle": "Nevada ID Cards",
+   "link": "https://dmv.nv.gov/idcards.htm",
+   "displayLink": "dmv.nv.gov",
+   "snippet": "Proof of Identity \u00b7 Valid Real ID driver's license, instruction permit, or identification card from another state \u00b7 Valid, unexpired United States Passport or\u00a0...",
+   "htmlSnippet": "Proof of Identity &middot; Valid Real ID <b>driver&#39;s license</b>, instruction permit, or <b>identification card</b> from another state &middot; Valid, unexpired United States Passport or&nbsp;...",
+   "formattedUrl": "https://dmv.nv.gov/idcards.htm",
+   "htmlFormattedUrl": "https://dmv.nv.gov/idcards.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffffff",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0, shrink-to-fit=no, user-scalable=yes",
+      "msapplication-tileimage": "/ms-icon-144x144.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Nevada DMV Forms and Publications",
+   "htmlTitle": "Nevada DMV Forms and Publications",
+   "link": "https://dmv.nv.gov/dmvforms.htm",
+   "displayLink": "dmv.nv.gov",
+   "snippet": "Released Prisoner or Inmate Driver's License and Identification Card Information (DMV 013) Proof of identity and other requirements for prisoners recently\u00a0...",
+   "htmlSnippet": "Released Prisoner or Inmate <b>Driver&#39;s License</b> and <b>Identification Card</b> Information (DMV 013) Proof of identity and other requirements for prisoners recently&nbsp;...",
+   "formattedUrl": "https://dmv.nv.gov/dmvforms.htm",
+   "htmlFormattedUrl": "https://dmv.nv.gov/dmvforms.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffffff",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0, shrink-to-fit=no, user-scalable=yes",
+      "msapplication-tileimage": "/ms-icon-144x144.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Name Changes",
+   "htmlTitle": "Name Changes",
+   "link": "https://dmv.nv.gov/namechange.htm",
+   "displayLink": "dmv.nv.gov",
+   "snippet": "Driver's License & ID \u00b7 Driver License Home \u00b7 Lost License or ID \u00b7 Renewals \u00b7 Driver History \u00b7 Reinstatement \u00b7 Fees | Forms \u00b7 First-Time Nevada License, ID or\u00a0...",
+   "htmlSnippet": "<b>Driver&#39;s License</b> &amp; ID &middot; Driver License Home &middot; Lost License or ID &middot; Renewals &middot; Driver History &middot; Reinstatement &middot; Fees | Forms &middot; First-Time Nevada License, ID or&nbsp;...",
+   "formattedUrl": "https://dmv.nv.gov/namechange.htm",
+   "htmlFormattedUrl": "https://dmv.nv.gov/namechange.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffffff",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0, shrink-to-fit=no, user-scalable=yes",
+      "msapplication-tileimage": "/ms-icon-144x144.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver License and ID Card Renewals",
+   "htmlTitle": "Driver License and ID Card Renewals",
+   "link": "https://dmv.nv.gov/dlrenewal.htm",
+   "displayLink": "dmv.nv.gov",
+   "snippet": "Driver's License or ID Card Renewal. Renew online! It's so much easier. Instruction Permits, Commercial Licenses and Driver Authorization Cards must be\u00a0...",
+   "htmlSnippet": "<b>Driver&#39;s License</b> or ID Card Renewal. Renew online! It&#39;s so much easier. Instruction Permits, Commercial Licenses and Driver Authorization Cards must be&nbsp;...",
+   "formattedUrl": "https://dmv.nv.gov/dlrenewal.htm",
+   "htmlFormattedUrl": "https://dmv.nv.gov/dlrenewal.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffffff",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0, shrink-to-fit=no, user-scalable=yes",
+      "msapplication-tileimage": "/ms-icon-144x144.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "APPLICATION FOR DRIVING PRIVILEGES OR ID CARD",
+   "htmlTitle": "APPLICATION FOR DRIVING PRIVILEGES OR ID CARD",
+   "link": "https://dmv.nv.gov/pdfforms/dmv002en.pdf",
+   "displayLink": "dmv.nv.gov",
+   "snippet": "If yes, under what name was it issued? \u2610 YES \u2610 NO. Have you ever had a driver's license or identification card in another state? If yes\u00a0...",
+   "htmlSnippet": "If yes, under what name was it issued? \u2610 YES \u2610 NO. Have you ever had a <b>driver&#39;s license</b> or <b>identification card</b> in another state? If yes&nbsp;...",
+   "formattedUrl": "https://dmv.nv.gov/pdfforms/dmv002en.pdf",
+   "htmlFormattedUrl": "https://dmv.nv.gov/pdfforms/dmv002en.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkE0luZZ-joaGUMhqlg_IwHxYig-ZRXwF6oOslF-OBfUZC9y59XQh0X7tY&s",
+      "width": "197",
+      "height": "255"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20250501134924-07'00'",
+      "creationdate": "D:20250501133525-07'00'",
+      "creator": "Microsoft\u00ae Word for Microsoft 365",
+      "author": "Jennifer Pitts",
+      "producer": "Microsoft\u00ae Word for Microsoft 365"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///cf7cc002cab88d1366c30a0d4ff4ee71726d388524fc68402adee98c125fa34b"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Address Changes",
+   "htmlTitle": "Address Changes",
+   "link": "https://dmv.nv.gov/addchange.htm",
+   "displayLink": "dmv.nv.gov",
+   "snippet": "Options. Be sure to select/include your driver's license AND your vehicles. Have your license plates number(s) ready. Vehicle addresses are not changed\u00a0...",
+   "htmlSnippet": "Options. Be sure to select/include your <b>driver&#39;s license</b> AND your vehicles. Have your license plates number(s) ready. Vehicle addresses are not changed&nbsp;...",
+   "formattedUrl": "https://dmv.nv.gov/addchange.htm",
+   "htmlFormattedUrl": "https://dmv.nv.gov/addchange.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffffff",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0, shrink-to-fit=no, user-scalable=yes",
+      "msapplication-tileimage": "/ms-icon-144x144.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Duplicate Driver License",
+   "htmlTitle": "Duplicate Driver License",
+   "link": "https://dmv.nv.gov/dlduplicate.htm",
+   "displayLink": "dmv.nv.gov",
+   "snippet": "Options and instructions for ordering a duplicate Nevada driver license, instruction permit or identification card ... Lost your driver's license or ID?",
+   "htmlSnippet": "Options and instructions for ordering a duplicate Nevada driver license, instruction permit or <b>identification card</b> ... Lost your <b>driver&#39;s license</b> or ID?",
+   "formattedUrl": "https://dmv.nv.gov/dlduplicate.htm",
+   "htmlFormattedUrl": "https://dmv.nv.gov/dlduplicate.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffffff",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0, shrink-to-fit=no, user-scalable=yes",
+      "msapplication-tileimage": "/ms-icon-144x144.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Nevada Driver's License Designs",
+   "htmlTitle": "Nevada <b>Driver&#39;s License</b> Designs",
+   "link": "https://dmv.nv.gov/dldesign.htm",
+   "displayLink": "dmv.nv.gov",
+   "snippet": "July/August 2021 to Present. New Real ID Nevada Minor Driver's License Design New200al ID Nevada Adult Driver's License Design. The newest Nevada card design\u00a0...",
+   "htmlSnippet": "July/August 2021 to Present. New Real ID Nevada Minor <b>Driver&#39;s License</b> Design New200al ID Nevada Adult <b>Driver&#39;s License</b> Design. The newest Nevada card design&nbsp;...",
+   "formattedUrl": "https://dmv.nv.gov/dldesign.htm",
+   "htmlFormattedUrl": "https://dmv.nv.gov/dldesign.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffffff",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0, shrink-to-fit=no, user-scalable=yes",
+      "msapplication-tileimage": "/ms-icon-144x144.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "First Nevada License or ID",
+   "htmlTitle": "First Nevada License or ID",
+   "link": "https://dmv.nv.gov/nvdlfirst.htm",
+   "displayLink": "dmv.nv.gov",
+   "snippet": "Driver's License & ID ... All applicants for a first-time Nevada driver license, identification card or Driver Authorization Card must present Proof of Identity\u00a0...",
+   "htmlSnippet": "<b>Driver&#39;s License</b> &amp; ID ... All applicants for a first-time Nevada driver license, <b>identification card</b> or Driver Authorization Card must present Proof of Identity&nbsp;...",
+   "formattedUrl": "https://dmv.nv.gov/nvdlfirst.htm",
+   "htmlFormattedUrl": "https://dmv.nv.gov/nvdlfirst.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffffff",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0, shrink-to-fit=no, user-scalable=yes",
+      "msapplication-tileimage": "/ms-icon-144x144.png"
+     }
+    ]
+   }
+  }
+ ]
+}

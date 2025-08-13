@@ -1,0 +1,271 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://dmv.nv.gov/ \"REAL ID\"",
+    "totalResults": "318",
+    "searchTerms": "site:https://dmv.nv.gov/ \"REAL ID\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://dmv.nv.gov/ \"REAL ID\"",
+    "totalResults": "318",
+    "searchTerms": "site:https://dmv.nv.gov/ \"REAL ID\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.132652,
+  "formattedSearchTime": "0.13",
+  "totalResults": "318",
+  "formattedTotalResults": "318"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Nevada Real ID",
+   "htmlTitle": "Nevada <b>Real ID</b>",
+   "link": "https://dmv.nv.gov/realid.htm",
+   "displayLink": "dmv.nv.gov",
+   "snippet": "The Nevada Department of Motor Vehicles program to issue licenses and ID cards that comply with the federal Real ID Act of 2005.",
+   "htmlSnippet": "The Nevada Department of Motor Vehicles program to issue licenses and ID cards that comply with the federal <b>Real ID</b> Act of 2005.",
+   "formattedUrl": "https://dmv.nv.gov/realid.htm",
+   "htmlFormattedUrl": "https://dmv.nv.gov/<b>realid</b>.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffffff",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0, shrink-to-fit=no, user-scalable=yes",
+      "msapplication-tileimage": "/ms-icon-144x144.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Nevada Department of Motor Vehicles Official Website",
+   "htmlTitle": "Nevada Department of Motor Vehicles Official Website",
+   "link": "https://dmv.nv.gov/",
+   "displayLink": "dmv.nv.gov",
+   "snippet": "Real ID \u00b7 Vehicles \u00b7 Vehicle Registration Home \u00b7 Emissions \u00b7 Insurance \u00b7 License ... See more information on Rapid Registration here. Time is of the essence!",
+   "htmlSnippet": "<b>Real ID</b> &middot; Vehicles &middot; Vehicle Registration Home &middot; Emissions &middot; Insurance &middot; License ... See more information on Rapid Registration here. Time is of the essence!",
+   "formattedUrl": "https://dmv.nv.gov/",
+   "htmlFormattedUrl": "https://dmv.nv.gov/",
+   "pagemap": {
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffffff",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0, shrink-to-fit=no, user-scalable=yes",
+      "msapplication-tileimage": "/ms-icon-144x144.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DMV",
+   "htmlTitle": "DMV",
+   "link": "https://dmv.nv.gov/appointments.htm",
+   "displayLink": "dmv.nv.gov",
+   "snippet": "Real ID \u00b7 Vehicles \u00b7 Vehicle Registration Home \u00b7 Emissions \u00b7 Insurance \u00b7 License Plates \u00b7 Registration \u00b7 Titles \u00b7 Disabled Parking \u00b7 Commercial \u00b7 Commercial\u00a0...",
+   "htmlSnippet": "<b>Real ID</b> &middot; Vehicles &middot; Vehicle Registration Home &middot; Emissions &middot; Insurance &middot; License Plates &middot; Registration &middot; Titles &middot; Disabled Parking &middot; Commercial &middot; Commercial&nbsp;...",
+   "formattedUrl": "https://dmv.nv.gov/appointments.htm",
+   "htmlFormattedUrl": "https://dmv.nv.gov/appointments.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffffff",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0, shrink-to-fit=no, user-scalable=yes",
+      "msapplication-tileimage": "/ms-icon-144x144.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver License & ID Cards",
+   "htmlTitle": "Driver License &amp; ID Cards",
+   "link": "https://dmv.nv.gov/nvdl.htm",
+   "displayLink": "dmv.nv.gov",
+   "snippet": "A Real ID will be required beginning May 7, 2025, if you wish to use your driver's license or state ID card to board commercial aircraft on domestic flights.",
+   "htmlSnippet": "A <b>Real ID</b> will be required beginning May 7, 2025, if you wish to use your driver&#39;s license or state ID card to board commercial aircraft on domestic flights.",
+   "formattedUrl": "https://dmv.nv.gov/nvdl.htm",
+   "htmlFormattedUrl": "https://dmv.nv.gov/nvdl.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffffff",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0, shrink-to-fit=no, user-scalable=yes",
+      "msapplication-tileimage": "/ms-icon-144x144.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "real id walk-in services now available",
+   "htmlTitle": "<b>real id</b> walk-in services now available",
+   "link": "https://dmv.nv.gov/news/25009_Real_ID_Walk-In_services_now_available.htm",
+   "displayLink": "dmv.nv.gov",
+   "snippet": "Apr 22, 2025 ... Customers can get Real ID with no appointment in DMV urban offices. CARSON CITY \u2013 As the Real ID deadline approaches on May 7, the Nevada\u00a0...",
+   "htmlSnippet": "Apr 22, 2025 <b>...</b> Customers can get <b>Real ID</b> with no appointment in DMV urban offices. CARSON CITY \u2013 As the <b>Real ID</b> deadline approaches on May 7, the Nevada&nbsp;...",
+   "formattedUrl": "https://dmv.nv.gov/.../25009_Real_ID_Walk-In_services_now_available.ht...",
+   "htmlFormattedUrl": "https://dmv.nv.gov/.../25009_<b>Real_ID</b>_Walk-In_services_now_available.ht...",
+   "pagemap": {
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffffff",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0, shrink-to-fit=no, user-scalable=yes",
+      "msapplication-tileimage": "/ms-icon-144x144.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Proof of Identity & Residency",
+   "htmlTitle": "Proof of Identity &amp; Residency",
+   "link": "https://dmv.nv.gov/dlresidency.htm",
+   "displayLink": "dmv.nv.gov",
+   "snippet": "Required Documents \u00b7 Real ID Driver License, Permit or ID Card \u00b7 Proof of Identity \u00b7 Proof of Name Change(s) \u00b7 Proof of Social Security Number \u00b7 Proof of Nevada\u00a0...",
+   "htmlSnippet": "Required Documents &middot; <b>Real ID</b> Driver License, Permit or ID Card &middot; Proof of Identity &middot; Proof of Name Change(s) &middot; Proof of Social Security Number &middot; Proof of Nevada&nbsp;...",
+   "formattedUrl": "https://dmv.nv.gov/dlresidency.htm",
+   "htmlFormattedUrl": "https://dmv.nv.gov/dlresidency.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffffff",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0, shrink-to-fit=no, user-scalable=yes",
+      "msapplication-tileimage": "/ms-icon-144x144.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver License and ID Card Renewals",
+   "htmlTitle": "Driver License and ID Card Renewals",
+   "link": "https://dmv.nv.gov/dlrenewal.htm",
+   "displayLink": "dmv.nv.gov",
+   "snippet": "If your existing license has a gold star in the upper right corner, you already have a Real ID and will maintain it through your renewal. Drivers License Online\u00a0...",
+   "htmlSnippet": "If your existing license has a gold star in the upper right corner, you already have a <b>Real ID</b> and will maintain it through your renewal. Drivers License Online&nbsp;...",
+   "formattedUrl": "https://dmv.nv.gov/dlrenewal.htm",
+   "htmlFormattedUrl": "https://dmv.nv.gov/dlrenewal.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffffff",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0, shrink-to-fit=no, user-scalable=yes",
+      "msapplication-tileimage": "/ms-icon-144x144.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver License/ID Fees and Exemptions",
+   "htmlTitle": "Driver License/ID Fees and Exemptions",
+   "link": "https://dmv.nv.gov/dlfees.htm",
+   "displayLink": "dmv.nv.gov",
+   "snippet": "Real ID \u00b7 Vehicles \u00b7 Vehicle Registration Home \u00b7 Emissions \u00b7 Insurance \u00b7 License Plates \u00b7 Registration \u00b7 Titles \u00b7 Disabled Parking \u00b7 Commercial \u00b7 Commercial\u00a0...",
+   "htmlSnippet": "<b>Real ID</b> &middot; Vehicles &middot; Vehicle Registration Home &middot; Emissions &middot; Insurance &middot; License Plates &middot; Registration &middot; Titles &middot; Disabled Parking &middot; Commercial &middot; Commercial&nbsp;...",
+   "formattedUrl": "https://dmv.nv.gov/dlfees.htm",
+   "htmlFormattedUrl": "https://dmv.nv.gov/dlfees.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffffff",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0, shrink-to-fit=no, user-scalable=yes",
+      "msapplication-tileimage": "/ms-icon-144x144.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "APPLICATION FOR DRIVING PRIVILEGES OR ID CARD",
+   "htmlTitle": "APPLICATION FOR DRIVING PRIVILEGES OR ID CARD",
+   "link": "https://dmv.nv.gov/pdfforms/dmv002en.pdf",
+   "displayLink": "dmv.nv.gov",
+   "snippet": "\u25a1 Real ID \u25a1 Standard. \u25a1 Seasonal Resident. LAST NAME (PRINT). FIRST NAME. MIDDLE NAME. SUFFIX NEVADA DL/DAC/ID NUMBER. SOCIAL SECURITY NUMBER (Except DAC) DATE\u00a0...",
+   "htmlSnippet": "\u25a1 <b>Real ID</b> \u25a1 Standard. \u25a1 Seasonal Resident. LAST NAME (PRINT). FIRST NAME. MIDDLE NAME. SUFFIX NEVADA DL/DAC/ID NUMBER. SOCIAL SECURITY NUMBER (Except DAC) DATE&nbsp;...",
+   "formattedUrl": "https://dmv.nv.gov/pdfforms/dmv002en.pdf",
+   "htmlFormattedUrl": "https://dmv.nv.gov/pdfforms/dmv002en.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkE0luZZ-joaGUMhqlg_IwHxYig-ZRXwF6oOslF-OBfUZC9y59XQh0X7tY&s",
+      "width": "197",
+      "height": "255"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20250501134924-07'00'",
+      "creationdate": "D:20250501133525-07'00'",
+      "creator": "Microsoft\u00ae Word for Microsoft 365",
+      "author": "Jennifer Pitts",
+      "producer": "Microsoft\u00ae Word for Microsoft 365"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///cf7cc002cab88d1366c30a0d4ff4ee71726d388524fc68402adee98c125fa34b"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Walk-in Anytime: Nevada DMV Expands Real ID Access",
+   "htmlTitle": "Walk-in Anytime: Nevada DMV Expands <b>Real ID</b> Access",
+   "link": "https://dmv.nv.gov/news/25011_Walk-in_anytime_Nevada_DMV_expands_real_ID_access.htm",
+   "displayLink": "dmv.nv.gov",
+   "snippet": "May 2, 2025 ... CARSON CITY \u2013 The Nevada Department of Motor Vehicles (DMV) has announced that effective May 5, customers needing a Real ID with flight\u00a0...",
+   "htmlSnippet": "May 2, 2025 <b>...</b> CARSON CITY \u2013 The Nevada Department of Motor Vehicles (DMV) has announced that effective May 5, customers needing a <b>Real ID</b> with flight&nbsp;...",
+   "formattedUrl": "https://dmv.nv.gov/.../25011_Walk-in_anytime_Nevada_DMV_expands_r...",
+   "htmlFormattedUrl": "https://dmv.nv.gov/.../25011_Walk-in_anytime_Nevada_DMV_expands_<b>r</b>...",
+   "pagemap": {
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffffff",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0, shrink-to-fit=no, user-scalable=yes",
+      "msapplication-tileimage": "/ms-icon-144x144.png"
+     }
+    ]
+   }
+  }
+ ]
+}

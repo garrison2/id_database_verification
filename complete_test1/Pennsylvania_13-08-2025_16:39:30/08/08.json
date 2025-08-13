@@ -1,0 +1,229 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://www.pa.gov \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"  \"privacy policy\" OR \"privacy notice\" OR \"privacy statement\" OR \"terms of service\" OR \"terms and conditions\"",
+    "totalResults": "3",
+    "searchTerms": "site:https://www.pa.gov \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"  \"privacy policy\" OR \"privacy notice\" OR \"privacy statement\" OR \"terms of service\" OR \"terms and conditions\"",
+    "count": 3,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.114564,
+  "formattedSearchTime": "0.11",
+  "totalResults": "3",
+  "formattedTotalResults": "3"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Landscapes Features | Commonwealth of Pennsylvania",
+   "htmlTitle": "Landscapes Features | Commonwealth of Pennsylvania",
+   "link": "https://www.pa.gov/agencies/phmc/historic-preservation/education-outreach/pennsylvania-agricultural-history-project/field-guide-agricultural-resources/landscapes-features.html",
+   "displayLink": "www.pa.gov",
+   "snippet": "PA-SHARE Terms and Conditions \u00b7 PA-SHARE ... Limekiln, early 20th century, Clinton County, image from HABS, LOC Prints & Photograph Division, Digital ID hhh.",
+   "htmlSnippet": "PA-SHARE <b>Terms and Conditions</b> &middot; PA-SHARE ... Limekiln, early 20th century, Clinton County, image from HABS, LOC Prints &amp; Photograph Division, <b>Digital ID</b> hhh.",
+   "formattedUrl": "https://www.pa.gov/agencies/phmc/.../field.../landscapes-features.html",
+   "htmlFormattedUrl": "https://www.pa.gov/agencies/phmc/.../field.../landscapes-features.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-N9jSOQzWHUvsIfZBCoEwCUW-8Pldus9zHUui_f7RpusjpkNMvcbemk7k&s",
+      "width": "279",
+      "height": "181"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "agency-content-template",
+      "og:image": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Landscapes Features",
+      "copapwp-page-title": "Landscape Features",
+      "twitter:url": "https://www.pa.gov/agencies/phmc/historic-preservation/education-outreach/pennsylvania-agricultural-history-project/field-guide-agricultural-resources/landscapes-features.html",
+      "copapwp-agency": "Pennsylvania Historical and Museum Commission",
+      "og:title": "Landscapes Features",
+      "og:description": "Landscapes Features",
+      "twitter:image": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png",
+      "copapwp-description": "Landscape features are an important part of a farm's setting and often offer clues as to the agricultural practices, crop selection and specialization. The presence or absence of landscape features af...",
+      "copapwp-hero-description": "Landscape features are an important part of a farm's setting and often offer clues as to the agricultural practices, crop selection and specialization. The presence or absence of landscape features af...",
+      "twitter:site": "website",
+      "copapwp-badges": "Pennsylvania Historical and Museum Commission",
+      "viewport": "width=device-width, initial-scale=1",
+      "copapwp-content-type": "Agency Detail",
+      "twitter:description": "Landscapes Features",
+      "og:url": "https://www.pa.gov/agencies/phmc/historic-preservation/education-outreach/pennsylvania-agricultural-history-project/field-guide-agricultural-resources/landscapes-features.html"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "Agencies",
+      "name": "Agencies",
+      "position": "1"
+     },
+     {
+      "item": "Pennsylvania Historical and Museum Commission",
+      "name": "Pennsylvania Historical and Museum Commission",
+      "position": "2"
+     },
+     {
+      "item": "Pennsylvania State Historic Preservation Office",
+      "name": "Pennsylvania State Historic Preservation Office",
+      "position": "3"
+     },
+     {
+      "item": "Education and Outreach",
+      "name": "Education and Outreach",
+      "position": "4"
+     },
+     {
+      "item": "Pennsylvania Agricultural History Project",
+      "name": "Pennsylvania Agricultural History Project",
+      "position": "5"
+     },
+     {
+      "item": "Field Guide for Agricultural Resources",
+      "name": "Field Guide for Agricultural Resources",
+      "position": "6"
+     },
+     {
+      "name": "Landscapes Features",
+      "position": "7"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NPS Electronic Submission | Commonwealth of Pennsylvania",
+   "htmlTitle": "NPS Electronic Submission | Commonwealth of Pennsylvania",
+   "link": "https://www.pa.gov/agencies/phmc/historic-preservation/historic-tax-credits/nps-electronic-submission.html",
+   "displayLink": "www.pa.gov",
+   "snippet": "PA-SHARE Terms and Conditions \u00b7 PA-SHARE Help Materials \u00b7 The ... Application forms must include one of the following types of signature: Adobe digital ID\u00a0...",
+   "htmlSnippet": "PA-SHARE <b>Terms and Conditions</b> &middot; PA-SHARE Help Materials &middot; The ... Application forms must include one of the following types of signature: Adobe <b>digital ID</b>&nbsp;...",
+   "formattedUrl": "https://www.pa.gov/agencies/phmc/...tax.../nps-electronic-submission.html",
+   "htmlFormattedUrl": "https://www.pa.gov/agencies/phmc/...tax.../nps-electronic-submission.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-N9jSOQzWHUvsIfZBCoEwCUW-8Pldus9zHUui_f7RpusjpkNMvcbemk7k&s",
+      "width": "279",
+      "height": "181"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "agency-content-template",
+      "og:image": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "NPS Electronic Submission",
+      "copapwp-page-title": "NPS Electronic Submission",
+      "twitter:url": "https://www.pa.gov/agencies/phmc/historic-preservation/historic-tax-credits/nps-electronic-submission.html",
+      "copapwp-agency": "Pennsylvania Historical and Museum Commission",
+      "og:title": "NPS Electronic Submission",
+      "og:description": "NPS Electronic Submission",
+      "twitter:image": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png",
+      "copapwp-description": "Starting August 15, 2023, federal Historic Tax Credit (also known as Rehabilitation Investment Tax Credit) applications must be submitted to PA SHPO through PA-SHARE.",
+      "copapwp-hero-description": "Starting August 15, 2023, federal Historic Tax Credit (also known as Rehabilitation Investment Tax Credit) applications must be submitted to PA SHPO through PA-SHARE.",
+      "twitter:site": "website",
+      "copapwp-badges": "Pennsylvania Historical and Museum Commission",
+      "viewport": "width=device-width, initial-scale=1",
+      "copapwp-content-type": "Agency Detail",
+      "twitter:description": "NPS Electronic Submission",
+      "og:url": "https://www.pa.gov/agencies/phmc/historic-preservation/historic-tax-credits/nps-electronic-submission.html"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/thumbnail.png"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "Agencies",
+      "name": "Agencies",
+      "position": "1"
+     },
+     {
+      "item": "Pennsylvania Historical and Museum Commission",
+      "name": "Pennsylvania Historical and Museum Commission",
+      "position": "2"
+     },
+     {
+      "item": "Pennsylvania State Historic Preservation Office",
+      "name": "Pennsylvania State Historic Preservation Office",
+      "position": "3"
+     },
+     {
+      "item": "Historic Tax Credits",
+      "name": "Historic Tax Credits",
+      "position": "4"
+     },
+     {
+      "name": "NPS Electronic Submission",
+      "position": "5"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Executive Order 2023-08 \u2013 Bolstering Service Delivery through a ...",
+   "htmlTitle": "Executive Order 2023-08 \u2013 Bolstering Service Delivery through a ...",
+   "link": "https://www.pa.gov/content/dam/copapwp-pagov/en/oa/documents/policies/eo/2023-08.pdf",
+   "displayLink": "www.pa.gov",
+   "snippet": "Apr 25, 2023 ... about users to drive the redesign of the user experience in accordance with. Commonwealth data privacy policy; iterate on new designs to\u00a0...",
+   "htmlSnippet": "Apr 25, 2023 <b>...</b> about users to drive the redesign of the user experience in accordance with. Commonwealth data <b>privacy policy</b>; iterate on new designs to&nbsp;...",
+   "formattedUrl": "https://www.pa.gov/content/dam/copapwp-pagov/en/oa/.../2023-08.pdf",
+   "htmlFormattedUrl": "https://www.pa.gov/content/dam/copapwp-pagov/en/oa/.../2023-08.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4WuJHgxtMhqCPqGul8O4s6qQa9_0kjrIrLfVDwx8ZRgLtWqJePO4f33o&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20230425165707-04'00'",
+      "creationdate": "D:20230425155413-04'00'",
+      "creator": "Acrobat PDFMaker 20 for Word",
+      "author": "Strom, Ellen",
+      "producer": "Adobe PDF Library 20.5.228",
+      "title": "2023-08 \u2013 Bolstering Service Delivery through a Digital Experience Strategy",
+      "contenttypeid": "0x010100F8B03EDA45A7724092F583276AD4820E"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///d6ce2a277cd7b7310f54e8d0c29bc33b3a1f9f8566f2338c12434678df497add"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

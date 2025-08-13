@@ -1,0 +1,367 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:www.ksrevenue.gov \"REAL ID\"",
+    "totalResults": "267",
+    "searchTerms": "site:www.ksrevenue.gov \"REAL ID\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:www.ksrevenue.gov \"REAL ID\"",
+    "totalResults": "267",
+    "searchTerms": "site:www.ksrevenue.gov \"REAL ID\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.128312,
+  "formattedSearchTime": "0.13",
+  "totalResults": "267",
+  "formattedTotalResults": "267"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Kansas Department of Revenue Division of Vehicles - Real ID",
+   "htmlTitle": "Kansas Department of Revenue Division of Vehicles - <b>Real ID</b>",
+   "link": "https://www.ksrevenue.gov/dovrealid.html",
+   "displayLink": "www.ksrevenue.gov",
+   "snippet": "At this time, if you already have the REAL ID indicator on your Kansas credential, you will not be required to present those documents again to keep that on\u00a0...",
+   "htmlSnippet": "At this time, if you already have the <b>REAL ID</b> indicator on your Kansas credential, you will not be required to present those documents again to keep that on&nbsp;...",
+   "formattedUrl": "https://www.ksrevenue.gov/dovrealid.html",
+   "htmlFormattedUrl": "https://www.ksrevenue.gov/dov<b>realid</b>.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc9hFU5gV_5DhJErNZ6lkASbB2O383FHG_IBCga9bsYQcO45wJ6rFCdME&s",
+      "width": "282",
+      "height": "179"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=2",
+      "author": "ksrevenue.gov"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.ksrevenue.gov/img/REALID-SAMPLE2.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver's License Fee Chart",
+   "htmlTitle": "Driver&#39;s License Fee Chart",
+   "link": "https://www.ksrevenue.gov/pdf/dmvlicfees.pdf",
+   "displayLink": "www.ksrevenue.gov",
+   "snippet": "Add REAL ID to valid credential ... These are when someone has a credential to present, but needs a change made, like a new photo, adding REAL ID, having a\u00a0...",
+   "htmlSnippet": "Add <b>REAL ID</b> to valid credential ... These are when someone has a credential to present, but needs a change made, like a new photo, adding <b>REAL ID</b>, having a&nbsp;...",
+   "formattedUrl": "https://www.ksrevenue.gov/pdf/dmvlicfees.pdf",
+   "htmlFormattedUrl": "https://www.ksrevenue.gov/pdf/dmvlicfees.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20230523125602-05'00'",
+      "creationdate": "D:20230522135707-05'00'",
+      "creator": "Microsoft\u00ae Word for Microsoft 365",
+      "author": "Skyla Kildow [KDOR]",
+      "subject": "Driver's License Fees",
+      "producer": "Microsoft\u00ae Word for Microsoft 365",
+      "title": "Driver\u2019s License Fee Chart"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Kansas Department of Revenue Division of Vehicles - Real ID ...",
+   "htmlTitle": "Kansas Department of Revenue Division of Vehicles - <b>Real ID</b> ...",
+   "link": "https://www.ksrevenue.gov/dovrealidfaq.html",
+   "displayLink": "www.ksrevenue.gov",
+   "snippet": "What if I already renewed my driver's license before 08/01/17 and didn't get the Real ID indicator? ... Can I use a photo copy of any of my required documents to\u00a0...",
+   "htmlSnippet": "What if I already renewed my driver&#39;s license before 08/01/17 and didn&#39;t get the <b>Real ID</b> indicator? ... Can I use a photo copy of any of my required documents to&nbsp;...",
+   "formattedUrl": "https://www.ksrevenue.gov/dovrealidfaq.html",
+   "htmlFormattedUrl": "https://www.ksrevenue.gov/dov<b>realid</b>faq.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_FjF7Bh5vlgpXykM9dqO0xOc8_AsPA5Faky_2EUvaqqxLmGTNs614aF4&s",
+      "width": "222",
+      "height": "108"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=2",
+      "author": "ksrevenue.gov"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.ksrevenue.gov/img/logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Kansas Department of Revenue Division of Vehicles - Licensing and ...",
+   "htmlTitle": "Kansas Department of Revenue Division of Vehicles - Licensing and ...",
+   "link": "https://www.ksrevenue.gov/dovlicenses.html",
+   "displayLink": "www.ksrevenue.gov",
+   "snippet": "Real ID Information \u00b7 PUBLICATIONS & FORMS ONLINE CHANGE OF ADDRESS DRIVER'S LICENSE FAQS \u00b7 ACCEPTABLE DOCUMENTS PRACTICE TEST VOTER REGISTRATION \u00b7 Frequently\u00a0...",
+   "htmlSnippet": "<b>Real ID</b> Information &middot; PUBLICATIONS &amp; FORMS ONLINE CHANGE OF ADDRESS DRIVER&#39;S LICENSE FAQS &middot; ACCEPTABLE DOCUMENTS PRACTICE TEST VOTER REGISTRATION &middot; Frequently&nbsp;...",
+   "formattedUrl": "https://www.ksrevenue.gov/dovlicenses.html",
+   "htmlFormattedUrl": "https://www.ksrevenue.gov/dovlicenses.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB4sOGQJGlZinR_utzOTfDSMRGR5wXQhg4QpNbLq_ucdaUapgHYBPYf5TT&s",
+      "width": "224",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=2",
+      "author": "ksrevenue.gov"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.ksrevenue.gov/img/dovlicpage/col1a-new.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Kansas Department of Revenue Division of Vehicles - Required ...",
+   "htmlTitle": "Kansas Department of Revenue Division of Vehicles - Required ...",
+   "link": "https://www.ksrevenue.gov/dovqflowreq.html",
+   "displayLink": "www.ksrevenue.gov",
+   "snippet": "Real ID Information \u00b7 Commercial Driver's License \u00b7 Teen Driving \u00b7 Address ... Please click here to move forward with scheduling your appointment. Adding REAL ID.",
+   "htmlSnippet": "<b>Real ID</b> Information &middot; Commercial Driver&#39;s License &middot; Teen Driving &middot; Address ... Please click here to move forward with scheduling your appointment. Adding <b>REAL ID</b>.",
+   "formattedUrl": "https://www.ksrevenue.gov/dovqflowreq.html",
+   "htmlFormattedUrl": "https://www.ksrevenue.gov/dovqflowreq.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_FjF7Bh5vlgpXykM9dqO0xOc8_AsPA5Faky_2EUvaqqxLmGTNs614aF4&s",
+      "width": "222",
+      "height": "108"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=2",
+      "author": "ksrevenue.gov"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.ksrevenue.gov/img/logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Kansas Credential Required Documents Checklist DE-56a",
+   "htmlTitle": "Kansas Credential Required Documents Checklist DE-56a",
+   "link": "https://www.ksrevenue.gov/pdf/de56a.pdf",
+   "displayLink": "www.ksrevenue.gov",
+   "snippet": "Ex: Lawful presence document, 2 pieces of mail, SSC, and legal name change document (if applicable) would all be required to add the REAL ID indicator. 2\u00a0...",
+   "htmlSnippet": "Ex: Lawful presence document, 2 pieces of mail, SSC, and legal name change document (if applicable) would all be required to add the <b>REAL ID</b> indicator. 2&nbsp;...",
+   "formattedUrl": "https://www.ksrevenue.gov/pdf/de56a.pdf",
+   "htmlFormattedUrl": "https://www.ksrevenue.gov/pdf/de56a.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaDrJzq7z_VEzAv_6WVlAvadC8ot1SgdMjtiHr8quN7-g2J5FHNmRcuEY&s",
+      "width": "255",
+      "height": "197"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20230119134730-06'00'",
+      "creationdate": "D:20230118144821-06'00'",
+      "creator": "Microsoft\u00ae Word for Microsoft 365",
+      "author": "Skyla Johnson [KDOR]",
+      "subject": "Kansas Credential Required Documents Checklist DE-56a",
+      "producer": "Microsoft\u00ae Word for Microsoft 365",
+      "title": "Kansas Credential Required Documents Checklist DE-56a"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///65f0070adcf0cc11cc8a8e25d70aa831c60740f65a186fa94ca4e1c8257acdbd"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Kansas Department of Revenue Division of Vehicles Home Page",
+   "htmlTitle": "Kansas Department of Revenue Division of Vehicles Home Page",
+   "link": "https://www.ksrevenue.gov/dovindex.html",
+   "displayLink": "www.ksrevenue.gov",
+   "snippet": "Anyone boarding an airplane or entering a federal facility using state issued ID after May 7, 2025, will need a Real ID. LEARN MORE. Teen Driving Information.",
+   "htmlSnippet": "Anyone boarding an airplane or entering a federal facility using state issued ID after May 7, 2025, will need a <b>Real ID</b>. LEARN MORE. Teen Driving Information.",
+   "formattedUrl": "https://www.ksrevenue.gov/dovindex.html",
+   "htmlFormattedUrl": "https://www.ksrevenue.gov/dovindex.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1nsyr87eF32R6R9E-P3iB1GFxFa1lpzvBpRt-iOaEwCWsCYDxkQRe-g&s",
+      "width": "424",
+      "height": "119"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no",
+      "author": "ksrevenue.gov"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.ksrevenue.gov/img/reopen/DOVAppt2.png?v1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Department of Revenue launches campaign to raise awareness of ...",
+   "htmlTitle": "Department of Revenue launches campaign to raise awareness of ...",
+   "link": "https://www.ksrevenue.gov/pdf/pressreleases/03-02-2018-Real%20ID.pdf",
+   "displayLink": "www.ksrevenue.gov",
+   "snippet": "Mar 2, 2018 ... TOPEKA\u2014The Department of Revenue is launching a new marketing campaign designed to educate Kansans about how to get a Real ID before the October\u00a0...",
+   "htmlSnippet": "Mar 2, 2018 <b>...</b> TOPEKA\u2014The Department of Revenue is launching a new marketing campaign designed to educate Kansans about how to get a <b>Real ID</b> before the October&nbsp;...",
+   "formattedUrl": "https://www.ksrevenue.gov/pdf/pressreleases/03-02-2018-Real%20ID.pdf",
+   "htmlFormattedUrl": "https://www.ksrevenue.gov/pdf/pressreleases/03-02-2018-Real%20ID.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpJUiHbsYf8pu0VWcoOOI0vYN1BjPLsn14qxjPvGLcR0uzFIjadvE_y0k&s",
+      "width": "213",
+      "height": "237"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20180302141548-06'00'",
+      "creationdate": "D:20170808105534-05'00'",
+      "creator": "Acrobat PDFMaker 17 for Word",
+      "sourcemodified": "D:20170808152607",
+      "author": "Rachel Whitten [KDOR]",
+      "subject": "Department of Revenue launches campaign to raise awareness of Real ID 03/02/2018",
+      "producer": "Adobe PDF Library 15.0",
+      "company": "Kansas Department on Aging",
+      "title": "Department of Revenue launches campaign to raise awareness of Real ID 03/02/2018"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///c5c16f38e7e03cf32267e90f19b12cc4828e252ad29924a3e9c08a385de33f43"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Kansas Department of Revenue Division of Vehicles - County ...",
+   "htmlTitle": "Kansas Department of Revenue Division of Vehicles - County ...",
+   "link": "https://www.ksrevenue.gov/dovcounty.html?countyparm=Sedgwick&locationtype=DL",
+   "displayLink": "www.ksrevenue.gov",
+   "snippet": "Real ID Information \u00b7 Commercial Driver's License \u00b7 Teen Driving \u00b7 Address change \u00b7 Senior Drivers \u00b7 Kansas Credential Fee Chart \u00b7 Gender Change \u00b7 KnowToDrive.",
+   "htmlSnippet": "<b>Real ID</b> Information &middot; Commercial Driver&#39;s License &middot; Teen Driving &middot; Address change &middot; Senior Drivers &middot; Kansas Credential Fee Chart &middot; Gender Change &middot; KnowToDrive.",
+   "formattedUrl": "https://www.ksrevenue.gov/dovcounty.html?countyparm=Sedgwick...DL",
+   "htmlFormattedUrl": "https://www.ksrevenue.gov/dovcounty.html?countyparm=Sedgwick...DL",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_FjF7Bh5vlgpXykM9dqO0xOc8_AsPA5Faky_2EUvaqqxLmGTNs614aF4&s",
+      "width": "222",
+      "height": "108"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=2",
+      "author": "ksrevenue.gov"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.ksrevenue.gov/img/logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Kansas Department of Revenue Division of Vehicles - Find your ...",
+   "htmlTitle": "Kansas Department of Revenue Division of Vehicles - Find your ...",
+   "link": "https://www.ksrevenue.gov/dovstations.html",
+   "displayLink": "www.ksrevenue.gov",
+   "snippet": "Real ID Information \u00b7 Commercial Driver's License \u00b7 Teen Driving \u00b7 Address change \u00b7 Senior Drivers \u00b7 Kansas Credential Fee Chart \u00b7 Gender Change \u00b7 KnowToDrive.",
+   "htmlSnippet": "<b>Real ID</b> Information &middot; Commercial Driver&#39;s License &middot; Teen Driving &middot; Address change &middot; Senior Drivers &middot; Kansas Credential Fee Chart &middot; Gender Change &middot; KnowToDrive.",
+   "formattedUrl": "https://www.ksrevenue.gov/dovstations.html",
+   "htmlFormattedUrl": "https://www.ksrevenue.gov/dovstations.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_FjF7Bh5vlgpXykM9dqO0xOc8_AsPA5Faky_2EUvaqqxLmGTNs614aF4&s",
+      "width": "222",
+      "height": "108"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=2",
+      "author": "ksrevenue.gov"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.ksrevenue.gov/img/logo.png"
+     }
+    ]
+   }
+  }
+ ]
+}

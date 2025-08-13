@@ -1,0 +1,392 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://mva.maryland.gov/ \"REAL ID\"",
+    "totalResults": "98",
+    "searchTerms": "site:https://mva.maryland.gov/ \"REAL ID\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://mva.maryland.gov/ \"REAL ID\"",
+    "totalResults": "98",
+    "searchTerms": "site:https://mva.maryland.gov/ \"REAL ID\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.102087,
+  "formattedSearchTime": "0.10",
+  "totalResults": "98",
+  "formattedTotalResults": "98"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Pages - REAL ID",
+   "htmlTitle": "Pages - <b>REAL ID</b>",
+   "link": "https://mva.maryland.gov/Pages/realid.aspx",
+   "displayLink": "mva.maryland.gov",
+   "snippet": "REAL ID is the federal security standard for IDs. You must have a Real ID compliant license, ID card or an acceptable alternative identification as approved by\u00a0...",
+   "htmlSnippet": "<b>REAL ID</b> is the federal security standard for IDs. You must have a <b>Real ID</b> compliant license, ID card or an acceptable alternative identification as approved by&nbsp;...",
+   "formattedUrl": "https://mva.maryland.gov/Pages/realid.aspx",
+   "htmlFormattedUrl": "https://mva.maryland.gov/Pages/<b>realid</b>.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR7oGzbIQUEc1_nZeuoLrrKAB6TL3tYmyYGyLh-gFBkSfpmVGqv2fWgQ&s",
+      "width": "240",
+      "height": "112"
+     }
+    ],
+    "metatags": [
+     {
+      "robot": "noarchive",
+      "og:image": "/Style Library/egov/img/logo.png",
+      "og:type": "website",
+      "og:image:alt": "MVA Logo",
+      "og:site_name": "MVA",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "msvalidate.01": "DC82C0A3FC3A7277E85B6AC7346D802D",
+      "og:url": "/Pages/default.aspx"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://mva.maryland.gov/Style%20Library/egov/img/logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "REAL ID Special Instructions - Pages",
+   "htmlTitle": "<b>REAL ID</b> Special Instructions - Pages",
+   "link": "https://mva.maryland.gov/pages/real-id-si.aspx",
+   "displayLink": "mva.maryland.gov",
+   "snippet": "\u200bCongratulations on scheduling your appointment for REAL ID with MDOT MVA. Please review the information below to be prepared for your appointment and test.",
+   "htmlSnippet": "\u200bCongratulations on scheduling your appointment for <b>REAL ID</b> with MDOT MVA. Please review the information below to be prepared for your appointment and test.",
+   "formattedUrl": "https://mva.maryland.gov/pages/real-id-si.aspx",
+   "htmlFormattedUrl": "https://mva.maryland.gov/pages/<b>real-id</b>-si.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR7oGzbIQUEc1_nZeuoLrrKAB6TL3tYmyYGyLh-gFBkSfpmVGqv2fWgQ&s",
+      "width": "240",
+      "height": "112"
+     }
+    ],
+    "metatags": [
+     {
+      "robot": "noarchive",
+      "og:image": "/Style Library/egov/img/logo.png",
+      "og:type": "website",
+      "og:image:alt": "MVA Logo",
+      "og:site_name": "MVA",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "msvalidate.01": "DC82C0A3FC3A7277E85B6AC7346D802D",
+      "og:url": "/Pages/default.aspx"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://mva.maryland.gov/Style%20Library/egov/img/logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "REAL ID Senior Fact Sheet_2021",
+   "htmlTitle": "<b>REAL ID</b> Senior Fact Sheet_2021",
+   "link": "https://mva.maryland.gov/Documents/REALID-2023-Documents/REAL%20ID%20Senior%20Fact%20Sheet_2023.pdf",
+   "displayLink": "mva.maryland.gov",
+   "snippet": "REAL ID is federal legislation created in the wake of the. September 11th terrorist attacks to establish security standards for all state driver's licenses\u00a0...",
+   "htmlSnippet": "<b>REAL ID</b> is federal legislation created in the wake of the. September 11th terrorist attacks to establish security standards for all state driver&#39;s licenses&nbsp;...",
+   "formattedUrl": "https://mva.maryland.gov/.../REALID.../REAL%20ID%20Senior%20Fact%...",
+   "htmlFormattedUrl": "https://mva.maryland.gov/.../<b>REALID</b>.../REAL%20ID%20Senior%20Fact%...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1CAwdJf7eD_tqhfG5Mfhd8U-jE2fo3gpZ8ISuVe3mGviarWuiJqEFja_o&s",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20210427153116-04'00'",
+      "creationdate": "D:20210212122018-05'00'",
+      "creator": "Adobe Acrobat Pro DC (32-bit) 21.1.20135",
+      "author": "Eric Payne",
+      "producer": "Adobe Acrobat Pro DC (32-bit) 21.1.20135",
+      "title": "REAL ID Senior Fact Sheet_2021"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///b031a41f9bfd42d119a7dd0cf1b5851a71ecd60a4f0b3e2d914657a76fd84d57"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Pages - News",
+   "htmlTitle": "Pages - News",
+   "link": "https://mva.maryland.gov/Pages/NewsDetails2.aspx?NR=2025550",
+   "displayLink": "mva.maryland.gov",
+   "snippet": "Mar 11, 2025 ... News \u00b7 Maryland Celebrates 99% REAL ID Compliance Ahead of Implementation Date \u00b7 Our Social Media Channels.",
+   "htmlSnippet": "Mar 11, 2025 <b>...</b> News &middot; Maryland Celebrates 99% <b>REAL ID</b> Compliance Ahead of Implementation Date &middot; Our Social Media Channels.",
+   "formattedUrl": "https://mva.maryland.gov/Pages/NewsDetails2.aspx?NR=2025550",
+   "htmlFormattedUrl": "https://mva.maryland.gov/Pages/NewsDetails2.aspx?NR=2025550",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR7oGzbIQUEc1_nZeuoLrrKAB6TL3tYmyYGyLh-gFBkSfpmVGqv2fWgQ&s",
+      "width": "240",
+      "height": "112"
+     }
+    ],
+    "metatags": [
+     {
+      "robot": "noarchive",
+      "og:image": "/Style Library/egov/img/logo.png",
+      "og:type": "website",
+      "og:image:alt": "MVA Logo",
+      "og:site_name": "MVA",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "msvalidate.01": "DC82C0A3FC3A7277E85B6AC7346D802D",
+      "og:url": "/Pages/default.aspx"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://mva.maryland.gov/Style%20Library/egov/img/logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Pages - Maryland Mobile ID in Apple Wallet",
+   "htmlTitle": "Pages - Maryland Mobile ID in Apple Wallet",
+   "link": "https://mva.maryland.gov/Pages/MDMobileID_Apple.aspx",
+   "displayLink": "mva.maryland.gov",
+   "snippet": "Do I need to have a Real ID to add my Maryland Mobile ID to Apple Wallet? Yes, you are required to have a Real ID to add your Maryland Mobile ID to Apple\u00a0...",
+   "htmlSnippet": "Do I need to have a <b>Real ID</b> to add my Maryland Mobile ID to Apple Wallet? Yes, you are required to have a <b>Real ID</b> to add your Maryland Mobile ID to Apple&nbsp;...",
+   "formattedUrl": "https://mva.maryland.gov/Pages/MDMobileID_Apple.aspx",
+   "htmlFormattedUrl": "https://mva.maryland.gov/Pages/MDMobileID_Apple.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR7oGzbIQUEc1_nZeuoLrrKAB6TL3tYmyYGyLh-gFBkSfpmVGqv2fWgQ&s",
+      "width": "240",
+      "height": "112"
+     }
+    ],
+    "metatags": [
+     {
+      "robot": "noarchive",
+      "og:image": "/Style Library/egov/img/logo.png",
+      "og:type": "website",
+      "og:image:alt": "MVA Logo",
+      "og:site_name": "MVA",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "msvalidate.01": "DC82C0A3FC3A7277E85B6AC7346D802D",
+      "og:url": "/Pages/default.aspx"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://mva.maryland.gov/Style%20Library/egov/img/logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Replacement of a License, Permit or Identification (ID) Card for ...",
+   "htmlTitle": "Replacement of a License, Permit or Identification (ID) Card for ...",
+   "link": "https://mva.maryland.gov/about-mva/Pages/info/26300/26300-44T.aspx",
+   "displayLink": "mva.maryland.gov",
+   "snippet": "Lt_Inner_Content. \u200b\u200b\u200b\u200b\u200b\u200b. \u200b\u200b. Will Real ID Impact Me?Collect My Real ID Documents Manage My Scheduled Appointments \u200b More on Real IDFind My MVAReal ID Home.",
+   "htmlSnippet": "Lt_Inner_Content. \u200b\u200b\u200b\u200b\u200b\u200b. \u200b\u200b. Will <b>Real ID</b> Impact Me?Collect My <b>Real ID</b> Documents Manage My Scheduled Appointments \u200b More on <b>Real ID</b>Find My MVA<b>Real ID</b> Home.",
+   "formattedUrl": "https://mva.maryland.gov/about-mva/Pages/info/26300/26300-44T.aspx",
+   "htmlFormattedUrl": "https://mva.maryland.gov/about-mva/Pages/info/26300/26300-44T.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR7oGzbIQUEc1_nZeuoLrrKAB6TL3tYmyYGyLh-gFBkSfpmVGqv2fWgQ&s",
+      "width": "240",
+      "height": "112"
+     }
+    ],
+    "metatags": [
+     {
+      "robot": "noarchive",
+      "og:image": "/Style Library/egov/img/logo.png",
+      "og:type": "website",
+      "og:image:alt": "MVA Logo",
+      "og:site_name": "MVA",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "msvalidate.01": "DC82C0A3FC3A7277E85B6AC7346D802D",
+      "og:url": "/about-mva/Pages/default.aspx"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://mva.maryland.gov/Style%20Library/egov/img/logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Non-Compliant Driver's Licenses & ID Cards - Pages",
+   "htmlTitle": "Non-Compliant Driver&#39;s Licenses &amp; ID Cards - Pages",
+   "link": "https://mva.maryland.gov/drivers/Pages/non-compliant-drivers-licenses.aspx",
+   "displayLink": "mva.maryland.gov",
+   "snippet": "If you have updated your immigrant status, you may qualify for a REAL ID compliant driver's license or ID card, click her\u200be to learn more. Fees for a\u00a0...",
+   "htmlSnippet": "If you have updated your immigrant status, you may qualify for a <b>REAL ID</b> compliant driver&#39;s license or ID card, click her\u200be to learn more. Fees for a&nbsp;...",
+   "formattedUrl": "https://mva.maryland.gov/drivers/Pages/non-compliant-drivers-licenses.aspx",
+   "htmlFormattedUrl": "https://mva.maryland.gov/drivers/Pages/non-compliant-drivers-licenses.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR7oGzbIQUEc1_nZeuoLrrKAB6TL3tYmyYGyLh-gFBkSfpmVGqv2fWgQ&s",
+      "width": "240",
+      "height": "112"
+     }
+    ],
+    "metatags": [
+     {
+      "robot": "noarchive",
+      "og:image": "/Style Library/egov/img/logo.png",
+      "og:type": "website",
+      "og:image:alt": "MVA Logo",
+      "og:site_name": "MVA",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "msvalidate.01": "DC82C0A3FC3A7277E85B6AC7346D802D",
+      "og:url": "/drivers/Pages/default.aspx"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://mva.maryland.gov/Style%20Library/egov/img/logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Pages - Maryland Mobile ID in Google Wallet",
+   "htmlTitle": "Pages - Maryland Mobile ID in Google Wallet",
+   "link": "https://mva.maryland.gov/Pages/MDMobileID_Googlewallet.aspx",
+   "displayLink": "mva.maryland.gov",
+   "snippet": "Do I need to have a Real ID to add my Maryland ID to the Wallet? No, you are not required to have a Real ID to add your ID to Google Wallet. How can I use my\u00a0...",
+   "htmlSnippet": "Do I need to have a <b>Real ID</b> to add my Maryland ID to the Wallet? No, you are not required to have a <b>Real ID</b> to add your ID to Google Wallet. How can I use my&nbsp;...",
+   "formattedUrl": "https://mva.maryland.gov/Pages/MDMobileID_Googlewallet.aspx",
+   "htmlFormattedUrl": "https://mva.maryland.gov/Pages/MDMobileID_Googlewallet.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR7oGzbIQUEc1_nZeuoLrrKAB6TL3tYmyYGyLh-gFBkSfpmVGqv2fWgQ&s",
+      "width": "240",
+      "height": "112"
+     }
+    ],
+    "metatags": [
+     {
+      "robot": "noarchive",
+      "og:image": "/Style Library/egov/img/logo.png",
+      "og:type": "website",
+      "og:image:alt": "MVA Logo",
+      "og:site_name": "MVA",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "msvalidate.01": "DC82C0A3FC3A7277E85B6AC7346D802D",
+      "og:url": "/Pages/default.aspx"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://mva.maryland.gov/Style%20Library/egov/img/logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver Licensing Information - Renewing Your Maryland Driver's ...",
+   "htmlTitle": "Driver Licensing Information - Renewing Your Maryland Driver&#39;s ...",
+   "link": "https://mva.maryland.gov/about-mva/Pages/renew-your-license-info.aspx",
+   "displayLink": "mva.maryland.gov",
+   "snippet": "The cards incorporate cutting-edge security features to help protect against identity theft and fraud and also meet all state and federal REAL ID standards.",
+   "htmlSnippet": "The cards incorporate cutting-edge security features to help protect against identity theft and fraud and also meet all state and federal <b>REAL ID</b> standards.",
+   "formattedUrl": "https://mva.maryland.gov/about-mva/Pages/renew-your-license-info.aspx",
+   "htmlFormattedUrl": "https://mva.maryland.gov/about-mva/Pages/renew-your-license-info.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR7oGzbIQUEc1_nZeuoLrrKAB6TL3tYmyYGyLh-gFBkSfpmVGqv2fWgQ&s",
+      "width": "240",
+      "height": "112"
+     }
+    ],
+    "metatags": [
+     {
+      "robot": "noarchive",
+      "og:image": "/Style Library/egov/img/logo.png",
+      "og:type": "website",
+      "og:image:alt": "MVA Logo",
+      "og:site_name": "MVA",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "msvalidate.01": "DC82C0A3FC3A7277E85B6AC7346D802D",
+      "og:url": "/about-mva/Pages/default.aspx"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://mva.maryland.gov/Style%20Library/egov/img/logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Untitled",
+   "htmlTitle": "Untitled",
+   "link": "https://mva.maryland.gov/Documents/REAL-ID-Newsletter-Sample_2021.docx",
+   "displayLink": "mva.maryland.gov",
+   "snippet": "The federal Real ID Act, legislation created post 9/11 now requires customers to provide proof of identity, Social Security and Maryland residency documents\u00a0...",
+   "htmlSnippet": "The federal <b>Real ID</b> Act, legislation created post 9/11 now requires customers to provide proof of identity, Social Security and Maryland residency documents&nbsp;...",
+   "formattedUrl": "https://mva.maryland.gov/.../REAL-ID-Newsletter-Sample_2021.docx",
+   "htmlFormattedUrl": "https://mva.maryland.gov/.../<b>REAL-ID</b>-Newsletter-Sample_2021.docx",
+   "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "fileFormat": "Microsoft Word"
+  }
+ ]
+}

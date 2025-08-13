@@ -1,0 +1,462 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Illinois\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" vendor OR developer OR procurement",
+    "totalResults": "32500",
+    "searchTerms": "\"Illinois\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" vendor OR developer OR procurement",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Illinois\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" vendor OR developer OR procurement",
+    "totalResults": "32500",
+    "searchTerms": "\"Illinois\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" vendor OR developer OR procurement",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.155976,
+  "formattedSearchTime": "0.16",
+  "totalResults": "32500",
+  "formattedTotalResults": "32,500"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Illinois mDL",
+   "htmlTitle": "<b>Illinois mDL</b>",
+   "link": "https://www.ilsos.gov/mDL",
+   "displayLink": "www.ilsos.gov",
+   "snippet": "Illinois mDL. Illinois Mobile Driver's Licenses and State IDs. Illinois mobile driver's license. On January 1, 2025, the Secretary of State's office was\u00a0...",
+   "htmlSnippet": "<b>Illinois mDL</b>. <b>Illinois</b> Mobile Driver&#39;s Licenses and State IDs. <b>Illinois mobile driver&#39;s license</b>. On January 1, 2025, the Secretary of State&#39;s office was&nbsp;...",
+   "formattedUrl": "https://www.ilsos.gov/mDL",
+   "htmlFormattedUrl": "https://www.ilsos.gov/<b>mDL</b>",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQov97-MvQGY5pNDxZSx0LhGMN-JTZAWVmYz5gcfWpD83PCMMfD_IftsKY&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "google": "notranslate"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.ilsos.gov/images/mdl1.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Illinois mDL Sign Up",
+   "htmlTitle": "<b>Illinois mDL</b> Sign Up",
+   "link": "https://apps.ilsos.gov/ContactFormsWeb/mdl.jsp",
+   "displayLink": "apps.ilsos.gov",
+   "snippet": "Illinois Mobile Driver's License. First Name. Last Name. Email Address. Confirm Email Address. Seal of the State of Illinois. ilsos.gov. Office of the Secretary\u00a0...",
+   "htmlSnippet": "<b>Illinois Mobile Driver&#39;s License</b>. First Name. Last Name. Email Address. Confirm Email Address. Seal of the State of <b>Illinois</b>. ilsos.gov. Office of the Secretary&nbsp;...",
+   "formattedUrl": "https://apps.ilsos.gov/ContactFormsWeb/mdl.jsp",
+   "htmlFormattedUrl": "https://apps.ilsos.gov/ContactFormsWeb/<b>mdl</b>.jsp",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTddMjpYTjYNA55ytNxjTh0wIMcVxMobg36fuBCyA0qu3j8xeaWPWUCSK8&s",
+      "width": "223",
+      "height": "226"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "google": "notranslate"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.ilsos.gov/images/phase-2/header-left.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "State of Illinois Digital ID",
+   "htmlTitle": "State of <b>Illinois Digital ID</b>",
+   "link": "https://doit.illinois.gov/services/catalog/security/digital-id.html",
+   "displayLink": "doit.illinois.gov",
+   "snippet": "State of Illinois Digital ID. The State of Illinois Digital Signature offers a comprehensive infrastructure for supporting electronic government services.",
+   "htmlSnippet": "State of <b>Illinois Digital ID</b>. The State of <b>Illinois</b> Digital Signature offers a comprehensive infrastructure for supporting electronic government services.",
+   "formattedUrl": "https://doit.illinois.gov/services/catalog/security/digital-id.html",
+   "htmlFormattedUrl": "https://doit.<b>illinois</b>.gov/services/catalog/security/<b>digital-id</b>.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "template": "Left Navigation Page",
+      "twitter:card": "summary",
+      "twitter:title": "Digital ID",
+      "og:type": "agency-left-navigation-page",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:url": "https://doit.illinois.gov/services/catalog/security/digital-id.html",
+      "twitter:description": "The State of Illinois Digital Signature offers a comprehensive infrastructure for supporting electronic government services. Public Key Infrastructure (PKI) employs public key cryptography and digital signatures, coupled with certificate management software",
+      "og:title": "Digital ID",
+      "og:locale": "en",
+      "google": "notranslate",
+      "og:url": "https://doit.illinois.gov/services/catalog/security/digital-id.html",
+      "og:description": "The State of Illinois Digital Signature offers a comprehensive infrastructure for supporting electronic government services. Public Key Infrastructure (PKI) employs public key cryptography and digital signatures, coupled with certificate management software"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "Home",
+      "name": "Home",
+      "position": "1"
+     },
+     {
+      "item": "Services",
+      "name": "Services",
+      "position": "2"
+     },
+     {
+      "item": "Catalog",
+      "name": "Catalog",
+      "position": "3"
+     },
+     {
+      "item": "Security",
+      "name": "Security",
+      "position": "4"
+     },
+     {
+      "item": "Digital ID",
+      "name": "Digital ID",
+      "position": "5"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "PKI Digital ID Registration and Recovery",
+   "htmlTitle": "PKI <b>Digital ID</b> Registration and Recovery",
+   "link": "https://enroll.pki.illinois.gov/",
+   "displayLink": "enroll.pki.illinois.gov",
+   "snippet": "The registration process for State of Illinois PKI Digital ID begins here for all users, both Illinois residents and out-of-state users.",
+   "htmlSnippet": "The registration process for State of <b>Illinois</b> PKI <b>Digital ID</b> begins here for all users, both <b>Illinois</b> residents and out-of-state users.",
+   "formattedUrl": "https://enroll.pki.illinois.gov/",
+   "htmlFormattedUrl": "https://enroll.pki.<b>illinois</b>.gov/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsY7OY1JEV12UDoTk-Qtr-_3qe_xeyB6ZFE7efEMX1FIRhGppLU2_NDg&s",
+      "width": "190",
+      "height": "100"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://enroll.pki.illinois.gov/UserRegistration/en_US/images/sitelogo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "myHFS Login",
+   "htmlTitle": "myHFS Login",
+   "link": "https://medi.hfs.illinois.gov/",
+   "displayLink": "medi.hfs.illinois.gov",
+   "snippet": "myHFS Login. Please enter your User Name and Password from your state of Illinois Digital ID. Username: Password: Remember user name.",
+   "htmlSnippet": "myHFS Login. Please enter your User Name and Password from your state of <b>Illinois Digital ID</b>. Username: Password: Remember user name.",
+   "formattedUrl": "https://medi.hfs.illinois.gov/",
+   "htmlFormattedUrl": "https://medi.hfs.<b>illinois</b>.gov/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MEDI Home | HFS",
+   "htmlTitle": "MEDI Home | HFS",
+   "link": "https://hfs.illinois.gov/medicalproviders/edi/medi.html",
+   "displayLink": "hfs.illinois.gov",
+   "snippet": "The secure Web site for the Illinois Department of Healthcare and Family Services. This Web site allows authorized users online access to departmental\u00a0...",
+   "htmlSnippet": "The secure Web site for the <b>Illinois</b> Department of Healthcare and Family Services. This Web site allows authorized users online access to departmental&nbsp;...",
+   "formattedUrl": "https://hfs.illinois.gov/medicalproviders/edi/medi.html",
+   "htmlFormattedUrl": "https://hfs.<b>illinois</b>.gov/medicalproviders/edi/medi.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOPlLrlUCVcB1Kp00zxo9ASAr3SpJ8qVvpfzB35z_8QBUjowpS_E7Ggwua&s",
+      "width": "214",
+      "height": "236"
+     }
+    ],
+    "imageobject": [
+     {
+      "contenturl": "https://s7d1.scene7.com/is/image/isp/medi?qlt=100&wid=600&ts=1679411057209&$Responsive$&fit=constrain",
+      "caption": "medi.png"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "Left Navigation Page",
+      "twitter:card": "summary",
+      "twitter:title": "Medi",
+      "og:type": "agency-left-navigation-page",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:url": "https://hfs.illinois.gov/medicalproviders/edi/medi.html",
+      "twitter:description": "Alert! Please Read!",
+      "og:title": "Medi",
+      "og:locale": "en",
+      "google": "notranslate",
+      "og:url": "https://hfs.illinois.gov/medicalproviders/edi/medi.html",
+      "og:description": "Alert! Please Read!"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://s7d1.scene7.com/is/image/isp/medi?qlt=100&wid=600&ts=1679411057209&$Responsive$&fit=constrain"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "HFS",
+      "name": "HFS",
+      "position": "1"
+     },
+     {
+      "item": "Medical Providers",
+      "name": "Medical Providers",
+      "position": "2"
+     },
+     {
+      "item": "Electronic Data Interchange (EDI)",
+      "name": "Electronic Data Interchange (EDI)",
+      "position": "3"
+     },
+     {
+      "item": "Medi",
+      "name": "Medi",
+      "position": "4"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Digital ID means no more remembering old passwords, Illinois CIO ...",
+   "htmlTitle": "<b>Digital ID</b> means no more remembering old passwords, <b>Illinois</b> CIO ...",
+   "link": "https://statescoop.com/illinois-jennifer-ricker-digital-id/",
+   "displayLink": "statescoop.com",
+   "snippet": "Jun 3, 2021 ... The Illinois Department of Innovation and Technology, which Ricker has led as acting secretary since last September, runs a digital ID program\u00a0...",
+   "htmlSnippet": "Jun 3, 2021 <b>...</b> The <b>Illinois</b> Department of Innovation and Technology, which Ricker has led as acting secretary since last September, runs a <b>digital ID</b> program&nbsp;...",
+   "formattedUrl": "https://statescoop.com/illinois-jennifer-ricker-digital-id/",
+   "htmlFormattedUrl": "https://statescoop.com/<b>illinois</b>-jennifer-ricker-<b>digital-id</b>/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRklz3cJ7VvHQ4C49ZnyP8C9ikjiYcr54kgU2A62ApPUOCdN6IXeA9AR6iC&s",
+      "width": "258",
+      "height": "195"
+     }
+    ],
+    "website": [
+     {
+      "query-input": "name=s value",
+      "target": "https://statescoop.com/?s={s}"
+     }
+    ],
+    "organization": [
+     {
+      "logo": "https://statescoop.com/wp-content/themes/scoopnewsgroup/dist/svg/logo-state.svg",
+      "url": "https://statescoop.com/"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://statescoop.com/wp-content/uploads/sites/6/2021/04/GettyImages-a0035-000025-1.jpg",
+      "og:type": "article",
+      "article:published_time": "2021-06-03T22:04:22+00:00",
+      "og:image:width": "1989",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "StateScoop",
+      "author": "Benjamin Freed",
+      "og:title": "Digital ID means no more remembering old passwords, Illinois CIO says | StateScoop",
+      "og:image:height": "1507",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://statescoop.com/wp-content/uploads/sites/6/2023/01/cropped-ss_favicon.png?w=270",
+      "og:description": "Nobody wants to search for passwords \u2014 like the one used to register a boat \u2014 only used once every three years, Illinois acting CIO Jennifer Ricker said.",
+      "twitter:creator": "@brfreed",
+      "article:publisher": "https://www.facebook.com/StateScoop/",
+      "twitter:site": "@State_Scoop",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://statescoop.com/illinois-jennifer-ricker-digital-id/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://statescoop.com/wp-content/uploads/sites/6/2021/04/GettyImages-a0035-000025-1.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Getting Started | HFS",
+   "htmlTitle": "Getting Started | HFS",
+   "link": "https://hfs.illinois.gov/medicalproviders/edi/medi/gettingstarted.html",
+   "displayLink": "hfs.illinois.gov",
+   "snippet": "Procurement Center \u00b7 Report Center \u00b7 Diversity, Equity, and Inclusion \u00b7 Healthcare ... For new users, obtaining a State of Illinois Digital ID is a one-time\u00a0...",
+   "htmlSnippet": "<b>Procurement</b> Center &middot; Report Center &middot; Diversity, Equity, and Inclusion &middot; Healthcare ... For new users, obtaining a State of <b>Illinois Digital ID</b> is a one-time&nbsp;...",
+   "formattedUrl": "https://hfs.illinois.gov/medicalproviders/edi/medi/gettingstarted.html",
+   "htmlFormattedUrl": "https://hfs.<b>illinois</b>.gov/medicalproviders/edi/medi/gettingstarted.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "template": "Left Navigation Page",
+      "twitter:card": "summary",
+      "twitter:title": "Getting Started",
+      "og:type": "agency-left-navigation-page",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:url": "https://hfs.illinois.gov/medicalproviders/edi/medi/gettingstarted.html",
+      "twitter:description": "Before you begin registration, you must be sure you have a compatible browser. You must be sure you have a Java Run Time Addition (JRE) on your computer and that you are using a Windows operating system. Select Check Browser option or watch video for",
+      "og:title": "Getting Started",
+      "og:locale": "en",
+      "google": "notranslate",
+      "og:url": "https://hfs.illinois.gov/medicalproviders/edi/medi/gettingstarted.html",
+      "og:description": "Before you begin registration, you must be sure you have a compatible browser. You must be sure you have a Java Run Time Addition (JRE) on your computer and that you are using a Windows operating system. Select Check Browser option or watch video for"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "HFS",
+      "name": "HFS",
+      "position": "1"
+     },
+     {
+      "item": "Medical Providers",
+      "name": "Medical Providers",
+      "position": "2"
+     },
+     {
+      "item": "Electronic Data Interchange (EDI)",
+      "name": "Electronic Data Interchange (EDI)",
+      "position": "3"
+     },
+     {
+      "item": "Medi",
+      "name": "Medi",
+      "position": "4"
+     },
+     {
+      "item": "Getting Started",
+      "name": "Getting Started",
+      "position": "5"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Untitled",
+   "htmlTitle": "Untitled",
+   "link": "https://cpo-general.illinois.gov/content/dam/soi/en/web/cpo-general/documents/upp-ccfa-piggyback-request-form-faqs%20v.18.1-4-25-25.docx",
+   "displayLink": "cpo-general.illinois.gov",
+   "snippet": "If vendor will not register in the IPG, the agency should conduct a procurement pursuant to the Illinois Procurement Code. ... This Digital ID is used with\u00a0...",
+   "htmlSnippet": "If <b>vendor</b> will not register in the IPG, the agency should conduct a <b>procurement</b> pursuant to the <b>Illinois Procurement</b> Code. ... This <b>Digital ID</b> is used with&nbsp;...",
+   "formattedUrl": "https://cpo-general.illinois.gov/.../upp-ccfa-piggyback-request-form-faqs%...",
+   "htmlFormattedUrl": "https://cpo-general.<b>illinois</b>.gov/.../upp-ccfa-piggyback-request-form-faqs%...",
+   "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "fileFormat": "Microsoft Word"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "New Illinois law would allow state to issue digital driver's licenses ...",
+   "htmlTitle": "New <b>Illinois</b> law would allow state to issue digital driver&#39;s licenses ...",
+   "link": "https://statescoop.com/new-illinois-law-digital-drivers-license-id/",
+   "displayLink": "statescoop.com",
+   "snippet": "May 28, 2024 ... In This Story. Illinois \u00b7 Illinois Gov. J.B. Pritzker \u00b7 Digital ID \u00b7 digital wallet. Share ... procurement \u00b7 Maryland launches six new pilot\u00a0...",
+   "htmlSnippet": "May 28, 2024 <b>...</b> In This Story. <b>Illinois</b> &middot; <b>Illinois</b> Gov. J.B. Pritzker &middot; <b>Digital ID</b> &middot; digital wallet. Share ... <b>procurement</b> &middot; Maryland launches six new pilot&nbsp;...",
+   "formattedUrl": "https://statescoop.com/new-illinois-law-digital-drivers-license-id/",
+   "htmlFormattedUrl": "https://statescoop.com/new-<b>illinois</b>-law-<b>digital-drivers-license</b>-id/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYsQP5eaLRGOJ6SoSVQ3UWMA5z-JN-TatuDB6zf9CCwYwZAp06koKbs2g&s",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "website": [
+     {
+      "query-input": "name=s value",
+      "target": "https://statescoop.com/?s={s}"
+     }
+    ],
+    "organization": [
+     {
+      "logo": "https://statescoop.com/wp-content/themes/scoopnewsgroup/dist/svg/logo-state.svg",
+      "url": "https://statescoop.com/"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://statescoop.com/wp-content/uploads/sites/6/2021/03/GettyImages-1163298132.jpg",
+      "og:type": "article",
+      "article:published_time": "2024-05-28T16:53:53+00:00",
+      "og:image:width": "2121",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "StateScoop",
+      "author": "Keely Quinlan",
+      "og:title": "New Illinois law would allow state to issue digital driver's licenses, IDs | StateScoop",
+      "og:image:height": "1414",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://statescoop.com/wp-content/uploads/sites/6/2023/01/cropped-ss_favicon.png?w=270",
+      "og:description": "Illinois lawmakers passed legislation that would allow the state to begin issuing digital driver's licenses and identification cards.",
+      "twitter:creator": "@State_Scoop",
+      "article:publisher": "https://www.facebook.com/StateScoop/",
+      "twitter:site": "@State_Scoop",
+      "article:modified_time": "2024-05-28T16:53:54+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://statescoop.com/new-illinois-law-digital-drivers-license-id/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://statescoop.com/wp-content/uploads/sites/6/2021/03/GettyImages-1163298132.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

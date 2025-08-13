@@ -1,0 +1,335 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Idaho Statutes\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "120",
+    "searchTerms": "\"Idaho Statutes\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Idaho Statutes\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "120",
+    "searchTerms": "\"Idaho Statutes\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.12306,
+  "formattedSearchTime": "0.12",
+  "totalResults": "120",
+  "formattedTotalResults": "120"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Section 28-51-104 \u2013 Idaho State Legislature",
+   "htmlTitle": "Section 28-51-104 \u2013 Idaho State Legislature",
+   "link": "https://legislature.idaho.gov/statutesrules/idstat/title28/t28ch51/sect28-51-104/",
+   "displayLink": "legislature.idaho.gov",
+   "snippet": "(iii) Notice to major statewide media. (5) \"Personal information\" means an ... (b) Driver's license number or Idaho identification card number; or. (c)\u00a0...",
+   "htmlSnippet": "(iii) Notice to major statewide media. (5) &quot;<b>Personal information</b>&quot; <b>means</b> an ... (b) <b>Driver&#39;s license</b> number or Idaho <b>identification card</b> number; or. (c)&nbsp;...",
+   "formattedUrl": "https://legislature.idaho.gov/statutesrules/idstat/title28/.../sect28-51-104/",
+   "htmlFormattedUrl": "https://legislature.idaho.gov/statutesrules/idstat/title28/.../sect28-51-104/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width,initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DMV | Idaho Transportation Department",
+   "htmlTitle": "DMV | Idaho Transportation Department",
+   "link": "https://itd.idaho.gov/itddmv/",
+   "displayLink": "itd.idaho.gov",
+   "snippet": "... driver's license or identification card. Proof of Idaho Residency \u2014 You must reside in Idaho to be issued an Idaho driver's license or identification card.",
+   "htmlSnippet": "... <b>driver&#39;s license</b> or <b>identification card</b>. Proof of Idaho Residency \u2014 You must reside in Idaho to be issued an Idaho <b>driver&#39;s license</b> or <b>identification card</b>.",
+   "formattedUrl": "https://itd.idaho.gov/itddmv/",
+   "htmlFormattedUrl": "https://itd.idaho.gov/itddmv/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe2TEjm6oWkfLA4T-ZsA85qys3ibq9hAgJ6epaHbQ8GRzNxguxxDUWCcw&s",
+      "width": "286",
+      "height": "176"
+     }
+    ],
+    "organization": [
+     {
+      "logo": "https://itd.idaho.gov/wp-content/themes/idaho-webmaster/img/logo.svg",
+      "url": "https://itd.idaho.gov/"
+     }
+    ],
+    "metatags": [
+     {
+      "twitter:card": "Did you receive a text with false claims you owe money to DMV? Do not engage with this phishing scam. Report and block fraudulent text. [tabby title=\"DMV Online\"] [maxbutton id=\"17\"] \u00a0 \u00a0Log in to track plate orders.",
+      "twitter:title": "DMV",
+      "og:site_name": "Idaho Transportation Department",
+      "dcterms.language": "EN",
+      "author": "State of Idaho",
+      "og:title": "DMV",
+      "dcterms.title": "DMV",
+      "dcterms.creator": "State of Idaho",
+      "dcterms.description": "Did you receive a text with false claims you owe money to DMV? Do not engage with this phishing scam. Report and block fraudulent text. [tabby title=\"DMV Online\"] [maxbutton id=\"17\"] \u00a0 \u00a0Log in to track plate orders.",
+      "dcterms.subject": "Idaho Transportation Department",
+      "dcterms.created": "2019-05-20T10:17:25",
+      "og:description": "Did you receive a text with false claims you owe money to DMV? Do not engage with this phishing scam. Report and block fraudulent text. [tabby title=\"DMV Online\"] [maxbutton id=\"17\"] \u00a0 \u00a0Log in to track plate orders.",
+      "twitter:site": "@",
+      "dcterms.modified": "2025-08-08T15:39:15",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Visit our website for more information.",
+      "dcterms.publisher": "State of Idaho",
+      "og:locale": "en_US",
+      "dcterms.format": "text/html",
+      "og:url": "https://itd.idaho.gov/itddmv/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://itd.idaho.gov/wp-content/themes/idaho-webmaster/img/inline-map.svg.php?primary=214b82&secondary=7696C9"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Section 74-106 \u2013 Idaho State Legislature",
+   "htmlTitle": "Section 74-106 \u2013 Idaho State Legislature",
+   "link": "https://legislature.idaho.gov/statutesrules/idstat/title74/t74ch1/sect74-106/",
+   "displayLink": "legislature.idaho.gov",
+   "snippet": "Search Idaho Statutes ... 74-106. Records exempt from disclosure \u2014 Personnel records, personal information, health records, professional discipline. The following\u00a0...",
+   "htmlSnippet": "Search <b>Idaho Statutes</b> ... 74-106. Records exempt from disclosure \u2014 Personnel records, <b>personal information</b>, health records, professional discipline. The following&nbsp;...",
+   "formattedUrl": "https://legislature.idaho.gov/statutesrules/idstat/title74/t74ch1/sect74-106/",
+   "htmlFormattedUrl": "https://legislature.idaho.gov/statutesrules/idstat/title74/t74ch1/sect74-106/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width,initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "PROPERTY General Outline: Product Knowledge, Terms, and ...",
+   "htmlTitle": "PROPERTY General Outline: Product Knowledge, Terms, and ...",
+   "link": "https://doi.idaho.gov/property-co/",
+   "displayLink": "doi.idaho.gov",
+   "snippet": "... means a parent, mother-in-law, father-in-law, husband, wife, sister, brother ... We may also disclose nonpublic personal information about you to nonaffiliated\u00a0...",
+   "htmlSnippet": "... <b>means</b> a parent, mother-in-law, father-in-law, husband, wife, sister, brother ... We may also disclose nonpublic <b>personal information</b> about you to nonaffiliated&nbsp;...",
+   "formattedUrl": "https://doi.idaho.gov/property-co/",
+   "htmlFormattedUrl": "https://doi.idaho.gov/property-co/",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20240221165344-07'00'",
+      "creationdate": "D:20240221164527-07'00'",
+      "creator": "Microsoft\u00ae Publisher for Microsoft 365",
+      "author": "Stacy Goble",
+      "producer": "Microsoft\u00ae Publisher for Microsoft 365"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Section 49-105 \u2013 Idaho State Legislature",
+   "htmlTitle": "Section 49-105 \u2013 Idaho State Legislature",
+   "link": "https://legislature.idaho.gov/statutesrules/idstat/title49/t49ch1/sect49-105/",
+   "displayLink": "legislature.idaho.gov",
+   "snippet": "Search Idaho Statutes. Search Statutes Search Constitution. TITLE 49. MOTOR ... (16) \"Driver's license\" means a license or permit issued by the department\u00a0...",
+   "htmlSnippet": "Search <b>Idaho Statutes</b>. Search Statutes Search Constitution. TITLE 49. MOTOR ... (16) &quot;<b>Driver&#39;s license</b>&quot; <b>means</b> a license or permit issued by the department&nbsp;...",
+   "formattedUrl": "https://legislature.idaho.gov/statutesrules/idstat/title49/t49ch1/sect49-105/",
+   "htmlFormattedUrl": "https://legislature.idaho.gov/statutesrules/idstat/title49/t49ch1/sect49-105/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width,initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Bonner County Jury Service ... - Bonner County Idaho Official Website",
+   "htmlTitle": "Bonner County Jury Service ... - Bonner County Idaho Official Website",
+   "link": "https://www.bonnercountyid.gov/jury-service",
+   "displayLink": "www.bonnercountyid.gov",
+   "snippet": "Your status should say Confirmed or Pending. If you do not see a status on your screen, this means your questionnaire did not submit completely or correctly.",
+   "htmlSnippet": "Your status should say Confirmed or Pending. If you do not see a status on your screen, this <b>means</b> your questionnaire did not submit completely or correctly.",
+   "formattedUrl": "https://www.bonnercountyid.gov/jury-service",
+   "htmlFormattedUrl": "https://www.bonnercountyid.gov/jury-service",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_XeL25_MRUwniY-sufcbKfsIuEg_Vwp72H7BErAN8Q3CqD-BN42HGke8&s",
+      "width": "428",
+      "height": "118"
+     }
+    ],
+    "metatags": [
+     {
+      "og:determiner": "The",
+      "copyright": "Copyright Bonner County Idaho",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Bonner County Idaho",
+      "og:site_name": "Bonner County Idaho",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "author": "EvoGov.com",
+      "og:description": "Official Website for Bonner County Idaho",
+      "twitter:creator": "@evogov",
+      "article:publisher": "https://www.facebook.com/evogov",
+      "twitter:image": "https://www.bonnercountyid.gov/media/design/twittercard.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.bonnercountyid.gov/media/design/2024-logos/logo-with-text.webp"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Section 49-117 \u2013 Idaho State Legislature",
+   "htmlTitle": "Section 49-117 \u2013 Idaho State Legislature",
+   "link": "https://legislature.idaho.gov/statutesrules/idstat/title49/t49ch1/sect49-117/",
+   "displayLink": "legislature.idaho.gov",
+   "snippet": "Search Idaho Statutes. Search Statutes Search Constitution. TITLE 49 ... (10) \"Personal information\" means information that identifies an individual\u00a0...",
+   "htmlSnippet": "Search <b>Idaho Statutes</b>. Search Statutes Search Constitution. TITLE 49 ... (10) &quot;<b>Personal information</b>&quot; <b>means</b> information that identifies an individual&nbsp;...",
+   "formattedUrl": "https://legislature.idaho.gov/statutesrules/idstat/title49/t49ch1/sect49-117/",
+   "htmlFormattedUrl": "https://legislature.idaho.gov/statutesrules/idstat/title49/t49ch1/sect49-117/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width,initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Idaho Statutes",
+   "htmlTitle": "<b>Idaho Statutes</b>",
+   "link": "https://www.nationalnotary.org/file%20library/nna/reference-library/state-law-summaries/idaho.pdf",
+   "displayLink": "www.nationalnotary.org",
+   "snippet": "Oct 16, 2024 ... (a) By means of: (i) A passport, driver's license or government-issued nondriver identification card that is current or expired not more\u00a0...",
+   "htmlSnippet": "Oct 16, 2024 <b>...</b> (a) By <b>means</b> of: (i) A passport, <b>driver&#39;s license</b> or government-issued nondriver <b>identification card</b> that is current or expired not more&nbsp;...",
+   "formattedUrl": "https://www.nationalnotary.org/file%20library/nna/reference.../idaho.pdf",
+   "htmlFormattedUrl": "https://www.nationalnotary.org/file%20library/nna/reference.../idaho.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20241016071810-07'00'",
+      "creator": "Microsoft\u00ae Word for Microsoft 365",
+      "creationdate": "D:20241016071810-07'00'",
+      "author": "NNA NNA",
+      "producer": "Microsoft\u00ae Word for Microsoft 365",
+      "title": "Idaho Statutes"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Section 28-51-104 \u2013 Idaho State Legislature",
+   "htmlTitle": "Section 28-51-104 \u2013 Idaho State Legislature",
+   "link": "https://www.amp.legal/pdf/Idaho_Breach_Law.pdf",
+   "displayLink": "www.amp.legal",
+   "snippet": "(5) \"Personal information\" means an Idaho resident's first name or first ... (b) Driver's license number or Idaho identification card number; or. (c)\u00a0...",
+   "htmlSnippet": "(5) &quot;<b>Personal information</b>&quot; <b>means</b> an Idaho resident&#39;s first name or first ... (b) <b>Driver&#39;s license</b> number or Idaho <b>identification card</b> number; or. (c)&nbsp;...",
+   "formattedUrl": "https://www.amp.legal/pdf/Idaho_Breach_Law.pdf",
+   "htmlFormattedUrl": "https://www.amp.legal/pdf/Idaho_Breach_Law.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_MY_3QnbOy4bRezcwpljmyXbM3WqUDmdNMGOaBUPchL3T7PqbMVcGbik&s",
+      "width": "197",
+      "height": "255"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20170622190959-04'00'",
+      "creationdate": "D:20170622230502Z",
+      "creator": "wkhtmltopdf 0.12.2.1",
+      "producer": "Qt 4.8.6",
+      "title": "Section 28-51-104 \u2013 Idaho State Legislature"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///8ced6016b52d89abfc53cd347f6d92eac34c26c2c620f5a0492d024785948a1a"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "state of idaho notary public handbook",
+   "htmlTitle": "state of idaho notary public handbook",
+   "link": "https://sos.idaho.gov/notary/idaho_notary_handbook.pdf",
+   "displayLink": "sos.idaho.gov",
+   "snippet": "Nov 17, 2019 ... electronic means, and signature by third party. ... (i) A passport, driver's license or government-issued nondriver identification card that is.",
+   "htmlSnippet": "Nov 17, 2019 <b>...</b> electronic <b>means</b>, and signature by third party. ... (i) A passport, <b>driver&#39;s license</b> or government-issued nondriver <b>identification card</b> that is.",
+   "formattedUrl": "https://sos.idaho.gov/notary/idaho_notary_handbook.pdf",
+   "htmlFormattedUrl": "https://sos.idaho.gov/notary/idaho_notary_handbook.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9aPk2Q28VmLkWhELom6A4DcbAG03t05vppNny_zv2hn9CFJPl-gQ_6ra8&s",
+      "width": "197",
+      "height": "255"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20250512134636-06'00'",
+      "creationdate": "D:20250512134554-06'00'",
+      "creator": "Adobe InDesign 20.3 (Windows)",
+      "author": "Idaho Secretary of State",
+      "producer": "Adobe PDF Library 17.0",
+      "title": "Idaho Notary Handbook"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///9fa1cf62513a76615be60ff8c3715f541bbfbd7c4b886fa25806bbf7c2aa9693"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

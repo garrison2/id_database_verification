@@ -1,0 +1,428 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Wisconsin\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "308000",
+    "searchTerms": "\"Wisconsin\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Wisconsin\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "308000",
+    "searchTerms": "\"Wisconsin\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.210164,
+  "formattedSearchTime": "0.21",
+  "totalResults": "308000",
+  "formattedTotalResults": "308,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Digital IDs - Any Talk? : r/wisconsin",
+   "htmlTitle": "Digital IDs - Any Talk? : r/<b>wisconsin</b>",
+   "link": "https://www.reddit.com/r/wisconsin/comments/1dy98rb/digital_ids_any_talk/",
+   "displayLink": "www.reddit.com",
+   "snippet": "Jul 8, 2024 ... Any talk of adding support for digital ID in WI? AZ, CO, GA, MD ... Online Drivers License Renewal \u00b7 r/wisconsin icon. r/wisconsin. \u2022 2 yr\u00a0...",
+   "htmlSnippet": "Jul 8, 2024 <b>...</b> Any talk of adding support for <b>digital ID</b> in WI? AZ, CO, GA, MD ... Online Drivers License Renewal &middot; r/<b>wisconsin</b> icon. r/<b>wisconsin</b>. \u2022 2 yr&nbsp;...",
+   "formattedUrl": "https://www.reddit.com/r/wisconsin/comments/.../digital_ids_any_talk/",
+   "htmlFormattedUrl": "https://www.reddit.com/r/<b>wisconsin</b>/comments/.../<b>digital_id</b>s_any_talk/",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:image": "https://share.redd.it/preview/post/1dy98rb",
+      "theme-color": "#000000",
+      "og:image:width": "1200",
+      "og:type": "website",
+      "og:image:alt": "An image containing a preview of the post",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "r/wisconsin on Reddit: Digital IDs - Any Talk?",
+      "og:site_name": "Reddit",
+      "og:title": "r/wisconsin on Reddit: Digital IDs - Any Talk?",
+      "og:image:height": "630",
+      "msapplication-navbutton-color": "#000000",
+      "og:description": "Posted by u/jreuschl - 2 votes and 11 comments",
+      "twitter:image": "https://share.redd.it/preview/post/1dy98rb",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "twitter:site": "@reddit",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "apple-mobile-web-app-capable": "yes",
+      "og:ttl": "600",
+      "og:url": "https://www.reddit.com/r/wisconsin/comments/1dy98rb/digital_ids_any_talk/?seeker-session=true"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Method Detection Limit (MDL) | | Wisconsin DNR",
+   "htmlTitle": "Method Detection Limit (<b>MDL</b>) | | <b>Wisconsin</b> DNR",
+   "link": "https://dnr.wisconsin.gov/topic/labCert/mdl",
+   "displayLink": "dnr.wisconsin.gov",
+   "snippet": "The MDL is generated according to the procedure specified in the latest ... \u00a9 Wisconsin Department of Natural Resources | Site requirements\u00a0...",
+   "htmlSnippet": "The <b>MDL</b> is generated according to the procedure specified in the latest ... \u00a9 <b>Wisconsin</b> Department of Natural Resources | Site requirements&nbsp;...",
+   "formattedUrl": "https://dnr.wisconsin.gov/topic/labCert/mdl",
+   "htmlFormattedUrl": "https://dnr.<b>wisconsin</b>.gov/topic/labCert/<b>mdl</b>",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wisconsin Department of Transportation Online driver license/ID ...",
+   "htmlTitle": "<b>Wisconsin</b> Department of Transportation Online driver license/ID ...",
+   "link": "https://wisconsindot.gov/Pages/online-srvcs/DLID-Services.aspx",
+   "displayLink": "wisconsindot.gov",
+   "snippet": "SCAM ALERT \u2013 Individuals are reporting receiving text/email messages from WisDOT or Wisconsin DMV demanding payment for missed tolls or unpaid tickets.",
+   "htmlSnippet": "SCAM ALERT \u2013 Individuals are reporting receiving text/email messages from WisDOT or <b>Wisconsin</b> DMV demanding payment for missed tolls or unpaid tickets.",
+   "formattedUrl": "https://wisconsindot.gov/Pages/online-srvcs/DLID-Services.aspx",
+   "htmlFormattedUrl": "https://<b>wisconsin</b>dot.gov/Pages/online-srvcs/DLID-Services.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0fmrtVA9ArQxOIkqZ3GZb2gz1L9wxLYGbjtD99dWpCz1KdtDi3RVinQ&s",
+      "width": "125",
+      "height": "125"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#da532c",
+      "msapplication-config": "/_catalogs/masterpage/SharePointNext/images/favicon/browserconfig.xml",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://wisconsindot.gov/_catalogs/masterpage/SharePointNext/images/DOT.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mont du Lac Resort | Duluth, MN",
+   "htmlTitle": "Mont du Lac Resort | Duluth, MN",
+   "link": "https://mdlresort.com/",
+   "displayLink": "mdlresort.com",
+   "snippet": "Check out our hours at Mont du Lac Resort, nestled in Superior, Wisconsin! We are your ultimate winter destination! With 11 scenic ski runs, thrilling\u00a0...",
+   "htmlSnippet": "Check out our hours at Mont du Lac Resort, nestled in Superior, <b>Wisconsin</b>! We are your ultimate winter destination! With 11 scenic ski runs, thrilling&nbsp;...",
+   "formattedUrl": "https://mdlresort.com/",
+   "htmlFormattedUrl": "https://<b>mdl</b>resort.com/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHT-XcWwr6xyrUWyUA0kwYnidnZMJ3l8fOm9w1lV7Y85mPD9dX4Dtdh4dM&s",
+      "width": "259",
+      "height": "194"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://mdlresort.com/wp-content/uploads/2023/09/DJI_0035.jpg",
+      "og:type": "website",
+      "og:image:width": "1600",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Mont du Lac Resort",
+      "tec-api-origin": "https://mdlresort.com",
+      "og:title": "Mont du Lac Resort | Duluth, MN",
+      "og:image:height": "1200",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://mdlresort.com/wp-content/uploads/2024/02/MDL-Logo-Black-Orange-navbar.png",
+      "og:description": "Carve out some memories any time of year at Duluth's outdoor fun destination! From skiing & snowboarding to summer tubing & disc golf.",
+      "article:publisher": "https://www.facebook.com/montdulac",
+      "facebook-domain-verification": "kovigi1pf8bi031znd7icrjk3ifj56",
+      "article:modified_time": "2024-12-05T04:16:59+00:00",
+      "viewport": "width=device-width, initial-scale=1.0, viewport-fit=cover",
+      "og:locale": "en_US",
+      "og:url": "https://mdlresort.com/",
+      "tec-api-version": "v1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://mdlresort.com/wp-content/uploads/2023/09/DJI_0035.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wisconsin Mobile ID Updates",
+   "htmlTitle": "<b>Wisconsin Mobile ID</b> Updates",
+   "link": "https://idscan.net/state-digital-id/wisconsin-mobile-id-updates/",
+   "displayLink": "idscan.net",
+   "snippet": "Wisconsin remains one of the few states with no plans to implement a mobile ID. Hopefully as mobile ID use grows, they will consider an mDL.",
+   "htmlSnippet": "<b>Wisconsin</b> remains one of the few states with no plans to implement a <b>mobile ID</b>. Hopefully as <b>mobile ID</b> use grows, they will consider an <b>mDL</b>.",
+   "formattedUrl": "https://idscan.net/state-digital-id/wisconsin-mobile-id-updates/",
+   "htmlFormattedUrl": "https://idscan.net/state-<b>digital-id</b>/<b>wisconsin</b>-<b>mobile-id</b>-updates/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeN6IkRUJ43OzjL48zD7cG1jHjyDv_rarRBlO3iJA4GpTSUN7LUaTgX6s&s",
+      "width": "311",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://idscan.net/wp-content/uploads/wisconsin-mobile-id.jpg?lm=67E5AE86",
+      "og:type": "article",
+      "og:image:width": "1198",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "IDScan.net",
+      "og:title": "Wisconsin Mobile ID Updates",
+      "og:image:height": "627",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://idscan.net/wp-content/uploads/cropped-idscan-identity-verification-software-icon-1-270x270.png",
+      "og:description": "Wisconsin remains one of the few states with no plans to implement a mobile ID. Hopefully as mobile ID use grows, they will consider an mDL.",
+      "article:publisher": "https://www.facebook.com/idscannet",
+      "twitter:site": "@idscan_net",
+      "article:modified_time": "2025-03-26T19:40:26+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://idscan.net/state-digital-id/wisconsin-mobile-id-updates/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://idscan.net/wp-content/uploads/wisconsin-mobile-id.jpg?lm=67E5AE86"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile Student ID - Northeast Wisconsin Technical College",
+   "htmlTitle": "Mobile Student ID - Northeast <b>Wisconsin</b> Technical College",
+   "link": "https://www.nwtc.edu/student-experience/student-involvement/student-involvement-services/student-id",
+   "displayLink": "www.nwtc.edu",
+   "snippet": "Find your Mobile ID. On Your Phone. Sign into your NWTC Student Portal. Once ... \u00a92024 Northeast Wisconsin Technical College. All rights reserved. Close\u00a0...",
+   "htmlSnippet": "Find your <b>Mobile ID</b>. On Your Phone. Sign into your NWTC Student Portal. Once ... \u00a92024 Northeast <b>Wisconsin</b> Technical College. All rights reserved. Close&nbsp;...",
+   "formattedUrl": "https://www.nwtc.edu/student-experience/student.../student.../student-id",
+   "htmlFormattedUrl": "https://www.nwtc.edu/student-experience/student.../student.../student-id",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPigPsEDPD11K4-hTo8PZtb-aIFh9NMXYBaVFRd-wkbFeur6GsYeKI2wQ&s",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "theme-color": "#003865",
+      "siteimprovedeeplink": "2641",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "Mobile Student ID",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.nwtc.edu/getmedia/d3598767-9eb2-420c-aa61-c441a5f7ef42/final.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Blugold Mobile ID's | UW-Eau Claire",
+   "htmlTitle": "Blugold <b>Mobile ID&#39;s</b> | UW-Eau Claire",
+   "link": "https://www.uwec.edu/offices-services/university-centers/blugold-card-services/blugold-mobile-ids",
+   "displayLink": "www.uwec.edu",
+   "snippet": "With the Blugold Mobile ID, Blugolds can complete any action that would have previously required a physical ID card with just their mobile phone.",
+   "htmlSnippet": "With the Blugold <b>Mobile ID</b>, Blugolds can complete any action that would have previously required a physical ID card with just their mobile phone.",
+   "formattedUrl": "https://www.uwec.edu/offices-services/university.../blugold-mobile-ids",
+   "htmlFormattedUrl": "https://www.uwec.edu/offices-services/university.../blugold-<b>mobile-id</b>s",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo3aq2nYCe71qDZsZjOiCY9kW0qOGTdaXlasjL2ZaYdDMqK5t9IqFJEA&s",
+      "width": "152",
+      "height": "41"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.uwec.edu/themes/custom/citizen_dart/logo.svg",
+      "og:type": "Article (inc blog)",
+      "og:image:width": "1200px",
+      "article:section": "General Page",
+      "article:published_time": "2024-03-20T19:10:44-05:00",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Blugold Mobile ID's",
+      "theme-color": "#ffffff",
+      "og:site_name": "UW-Eau Claire",
+      "geo.region": "US-WI",
+      "handheldfriendly": "true",
+      "og:title": "Blugold Mobile ID's",
+      "og:image:height": "628px",
+      "abstract": "With the Blugold Mobile ID, Blugolds can complete any action that would have previously required a physical ID card with just their mobile phone.",
+      "og:updated_time": "2025-02-24T13:45:30-06:00",
+      "og:country_name": "US",
+      "og:description": "With the Blugold Mobile ID, Blugolds can complete any action that would have previously required a physical ID card with just their mobile phone.",
+      "twitter:image": "https://www.uwec.edu/themes/custom/citizen_dart/logo.svg",
+      "article:modified_time": "2025-02-24T13:45:30-06:00",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "With the Blugold Mobile ID, Blugolds can complete any action that would have previously required a physical ID card with just their mobile phone.",
+      "mobileoptimized": "width",
+      "og:url": "https://www.uwec.edu/offices-services/university-centers/blugold-card-services/blugold-mobile-ids"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.uwec.edu/themes/custom/citizen_dart/logo.svg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "State Digital IDs & Mobile Drivers Licenses | IDScan.net",
+   "htmlTitle": "State Digital IDs &amp; Mobile Drivers Licenses | IDScan.net",
+   "link": "https://idscan.net/mobile-drivers-licenses-mdl-state-adoption-2/",
+   "displayLink": "idscan.net",
+   "snippet": "Wisconsin \u00b7 Wyoming, Expected in 2025. mDLs & digital IDs. Latest News. Jillian ... Digital ID/mDL Scanning \u00b7 eKYC Compliance \u00b7 Driver Verification. Technology.",
+   "htmlSnippet": "<b>Wisconsin</b> &middot; Wyoming, Expected in 2025. mDLs &amp; digital IDs. Latest News. Jillian ... <b>Digital ID</b>/<b>mDL</b> Scanning &middot; eKYC Compliance &middot; Driver Verification. Technology.",
+   "formattedUrl": "https://idscan.net/mobile-drivers-licenses-mdl-state-adoption-2/",
+   "htmlFormattedUrl": "https://idscan.net/<b>mobile-drivers-license</b>s-<b>mdl</b>-state-adoption-2/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPH_PkLsKGRgzQSgejrnKhf5tYXOEdxzQ0j0vc_vj8U0xJUV7o8pfo6O0&s",
+      "width": "272",
+      "height": "186"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://idscan.net/wp-content/uploads/track-digital-id-adoption.png?lm=66A73198",
+      "og:type": "article",
+      "og:image:width": "585",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "IDScan.net",
+      "og:title": "State Digital IDs & Mobile Drivers Licenses | IDScan.net",
+      "og:image:height": "400",
+      "og:image:type": "image/png",
+      "msapplication-tileimage": "https://idscan.net/wp-content/uploads/cropped-idscan-identity-verification-software-icon-1-270x270.png",
+      "og:description": "Track adoption and readiness of state mobile drivers license initiatives, digital IDs, and electronic IDs across the United States.",
+      "article:publisher": "https://www.facebook.com/idscannet",
+      "twitter:site": "@idscan_net",
+      "article:modified_time": "2025-08-06T14:02:31+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://idscan.net/mobile-drivers-licenses-mdl-state-adoption-2/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://idscan.net/wp-content/uploads/track-digital-id-adoption.png?lm=66A73198"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wisconsin Legislature: 2021 Wisconsin Act 57",
+   "htmlTitle": "<b>Wisconsin</b> Legislature: 2021 <b>Wisconsin</b> Act 57",
+   "link": "https://docs.legis.wisconsin.gov/2021/related/acts/57",
+   "displayLink": "docs.legis.wisconsin.gov",
+   "snippet": "Jul 1, 2021 ... (1) Definition. In this section, \u201copiate litigation\u201d means the proceedings titled In re: National Prescription Opiate Litigation, Case No.: MDL\u00a0...",
+   "htmlSnippet": "Jul 1, 2021 <b>...</b> (1) Definition. In this section, \u201copiate litigation\u201d means the proceedings titled In re: National Prescription Opiate Litigation, Case No.: <b>MDL</b>&nbsp;...",
+   "formattedUrl": "https://docs.legis.wisconsin.gov/2021/related/acts/57",
+   "htmlFormattedUrl": "https://docs.legis.<b>wisconsin</b>.gov/2021/related/acts/57",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Blugold Card Services | UW-Eau Claire",
+   "htmlTitle": "Blugold Card Services | UW-Eau Claire",
+   "link": "https://www.uwec.edu/offices-services/university-centers/blugold-card-services",
+   "displayLink": "www.uwec.edu",
+   "snippet": "... Mobile ID can be found at Blugold Mobile ID Information. The cost of Mobile ... The expiration date is for compliance with Wisconsin Voter ID laws; you can learn\u00a0...",
+   "htmlSnippet": "... <b>Mobile ID</b> can be found at Blugold <b>Mobile ID</b> Information. The cost of <b>Mobile</b> ... The expiration date is for compliance with <b>Wisconsin</b> Voter ID laws; you can learn&nbsp;...",
+   "formattedUrl": "https://www.uwec.edu/offices-services/university.../blugold-card-services",
+   "htmlFormattedUrl": "https://www.uwec.edu/offices-services/university.../blugold-card-services",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo3aq2nYCe71qDZsZjOiCY9kW0qOGTdaXlasjL2ZaYdDMqK5t9IqFJEA&s",
+      "width": "152",
+      "height": "41"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.uwec.edu/themes/custom/citizen_dart/logo.svg",
+      "og:type": "Article (inc blog)",
+      "og:image:width": "1200px",
+      "article:section": "General Page",
+      "article:published_time": "2024-03-20T19:10:44-05:00",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Blugold Card Services",
+      "theme-color": "#ffffff",
+      "og:site_name": "UW-Eau Claire",
+      "geo.region": "US-WI",
+      "handheldfriendly": "true",
+      "og:title": "Blugold Card Services",
+      "og:image:height": "628px",
+      "abstract": "Stop in at the Blugold Card Services office to take care of all issues related to this essential campus tool.",
+      "og:updated_time": "2025-05-29T09:05:29-05:00",
+      "og:country_name": "US",
+      "og:description": "Stop in at the Blugold Card Services office to take care of all issues related to this essential campus tool.",
+      "twitter:image": "https://www.uwec.edu/themes/custom/citizen_dart/logo.svg",
+      "article:modified_time": "2025-05-29T09:05:29-05:00",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Stop in at the Blugold Card Services office to take care of all issues related to this essential campus tool.",
+      "mobileoptimized": "width",
+      "og:url": "https://www.uwec.edu/offices-services/university-centers/blugold-card-services"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.uwec.edu/themes/custom/citizen_dart/logo.svg"
+     }
+    ]
+   }
+  }
+ ]
+}

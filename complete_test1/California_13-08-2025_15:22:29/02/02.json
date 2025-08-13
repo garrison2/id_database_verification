@@ -1,0 +1,494 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:www.dmv.ca.gov \"driver's license\" OR \"identification card\"",
+    "totalResults": "3530",
+    "searchTerms": "site:www.dmv.ca.gov \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:www.dmv.ca.gov \"driver's license\" OR \"identification card\"",
+    "totalResults": "3530",
+    "searchTerms": "site:www.dmv.ca.gov \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.20151,
+  "formattedSearchTime": "0.20",
+  "totalResults": "3530",
+  "formattedTotalResults": "3,530"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Driver's Licenses & Identification Cards - California DMV",
+   "htmlTitle": "Driver&#39;s Licenses &amp; Identification Cards - California DMV",
+   "link": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/",
+   "displayLink": "www.dmv.ca.gov",
+   "snippet": "Change is inevitable, we know\u2026which is why we're committed to making it easy for you to ensure your driver's license/ID card accurately reflects who (and where\u00a0...",
+   "htmlSnippet": "Change is inevitable, we know\u2026which is why we&#39;re committed to making it easy for you to ensure your <b>driver&#39;s license</b>/ID card accurately reflects who (and where&nbsp;...",
+   "formattedUrl": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/",
+   "htmlFormattedUrl": "https://www.dmv.ca.gov/portal/driver-licenses-<b>identification-card</b>s/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu1CncnGPr7i_CpSdehYf9W8kOo4yocch0014LrFVFGRKxXMAF2_OIgWU&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.ca.gov/portal/uploads/2022/06/DMV_Logo.png",
+      "og:type": "article",
+      "og:image:width": "1920",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "California DMV",
+      "og:title": "Driver's Licenses & Identification Cards - California DMV",
+      "og:image:height": "1080",
+      "og:image:type": "image/png",
+      "msapplication-tileimage": "https://www.dmv.ca.gov/portal/uploads/2020/02/cropped-dmv_favicon_Final_png-1-270x270.png",
+      "og:description": "Need to get a driver's license and ID card",
+      "article:publisher": "https://www.facebook.com/CADMV",
+      "twitter:site": "@ca_dmv",
+      "article:modified_time": "2023-05-15T22:59:43+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.ca.gov/portal/uploads/2022/06/DMV_Logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ID Cards - California DMV",
+   "htmlTitle": "ID Cards - California DMV",
+   "link": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/identification-id-cards/",
+   "displayLink": "www.dmv.ca.gov",
+   "snippet": "How to Apply for an ID Card \u00b7 Complete a Driver's License (DL) or ID Card Application. \u00b7 Visit a DMV office, where you will: Provide your social security number (\u00a0...",
+   "htmlSnippet": "How to Apply for an ID Card &middot; Complete a <b>Driver&#39;s License</b> (DL) or ID Card Application. &middot; Visit a DMV office, where you will: Provide your social security number (&nbsp;...",
+   "formattedUrl": "https://www.dmv.ca.gov/portal/...identification-cards/identification-id-cards...",
+   "htmlFormattedUrl": "https://www.dmv.ca.gov/portal/...<b>identification-card</b>s/identification-id-cards...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrtUlTO0kehnZwKJ59u86_rkRr1zUB-YEGo5h613ZaY6mtFbWi_YdEZvk&s",
+      "width": "237",
+      "height": "213"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.ca.gov/portal/wp-content/themes/dmv/dist/images/illustrations/checklist.svg",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "California DMV",
+      "og:title": "ID Cards - California DMV",
+      "twitter:label1": "Est. reading time",
+      "msapplication-tileimage": "https://www.dmv.ca.gov/portal/uploads/2020/02/cropped-dmv_favicon_Final_png-1-270x270.png",
+      "og:description": "How to get an ID card",
+      "article:publisher": "https://www.facebook.com/CADMV",
+      "twitter:data1": "3 minutes",
+      "twitter:site": "@ca_dmv",
+      "article:modified_time": "2023-05-19T21:45:33+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/identification-id-cards/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.ca.gov/portal/wp-content/themes/dmv/dist/images/illustrations/checklist.svg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Apply Online for a Driver License or ID Card - California DMV",
+   "htmlTitle": "Apply Online for a Driver License or ID Card - California DMV",
+   "link": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/dl-id-online-app-edl-44/",
+   "displayLink": "www.dmv.ca.gov",
+   "snippet": "You can use this form to apply for, renew, replace, correct, or update a driver's license or identification card, or to apply for license endorsements.",
+   "htmlSnippet": "You can use this form to apply for, renew, replace, correct, or update a <b>driver&#39;s license</b> or <b>identification card</b>, or to apply for license endorsements.",
+   "formattedUrl": "https://www.dmv.ca.gov/...identification-cards/dl-id-online-app-edl-44/",
+   "htmlFormattedUrl": "https://www.dmv.ca.gov/...<b>identification-card</b>s/dl-id-online-app-edl-44/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu1CncnGPr7i_CpSdehYf9W8kOo4yocch0014LrFVFGRKxXMAF2_OIgWU&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.ca.gov/portal/uploads/2022/06/DMV_Logo.png",
+      "og:type": "article",
+      "og:image:width": "1920",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "California DMV",
+      "og:title": "Apply Online for a Driver License or ID Card - California DMV",
+      "og:image:height": "1080",
+      "twitter:label1": "Est. reading time",
+      "og:image:type": "image/png",
+      "msapplication-tileimage": "https://www.dmv.ca.gov/portal/uploads/2020/02/cropped-dmv_favicon_Final_png-1-270x270.png",
+      "og:description": "The online driver's license and ID card application saves you time by letting you complete the application before visiting a DMV field office.",
+      "article:publisher": "https://www.facebook.com/CADMV",
+      "twitter:data1": "3 minutes",
+      "twitter:site": "@ca_dmv",
+      "article:modified_time": "2025-06-30T23:24:24+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/dl-id-online-app-edl-44/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.ca.gov/portal/uploads/2022/06/DMV_Logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver's Licenses - California DMV",
+   "htmlTitle": "Driver&#39;s Licenses - California DMV",
+   "link": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/driver-licenses-dl/",
+   "displayLink": "www.dmv.ca.gov",
+   "snippet": "A California driver's license (DL) is a card which gives you permission to operate a motor vehicle.",
+   "htmlSnippet": "A California <b>driver&#39;s license</b> (DL) is a card which gives you permission to operate a motor vehicle.",
+   "formattedUrl": "https://www.dmv.ca.gov/portal/driver...identification-cards/driver-licenses-...",
+   "htmlFormattedUrl": "https://www.dmv.ca.gov/portal/driver...<b>identification-card</b>s/driver-licenses-...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrtUlTO0kehnZwKJ59u86_rkRr1zUB-YEGo5h613ZaY6mtFbWi_YdEZvk&s",
+      "width": "237",
+      "height": "213"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.ca.gov/portal/wp-content/themes/dmv/dist/images/illustrations/checklist.svg",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "California DMV",
+      "og:title": "Driver's Licenses - California DMV",
+      "twitter:label1": "Est. reading time",
+      "msapplication-tileimage": "https://www.dmv.ca.gov/portal/uploads/2020/02/cropped-dmv_favicon_Final_png-1-270x270.png",
+      "og:description": "A California driver's license (DL) is a card which gives you permission to operate a motor vehicle.",
+      "article:publisher": "https://www.facebook.com/CADMV",
+      "twitter:data1": "7 minutes",
+      "twitter:site": "@ca_dmv",
+      "article:modified_time": "2023-12-01T00:29:46+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/driver-licenses-dl/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.ca.gov/portal/wp-content/themes/dmv/dist/images/illustrations/checklist.svg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver's License & ID Card Online Renewal - California DMV",
+   "htmlTitle": "<b>Driver&#39;s License</b> &amp; ID Card Online Renewal - California DMV",
+   "link": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/driver-license-id-card-online-renewal/",
+   "displayLink": "www.dmv.ca.gov",
+   "snippet": "Renew your driver's license or ID card, or upgrade to a REAL ID.",
+   "htmlSnippet": "Renew your <b>driver&#39;s license</b> or ID card, or upgrade to a REAL ID.",
+   "formattedUrl": "https://www.dmv.ca.gov/...identification-cards/driver-license-id-card-online...",
+   "htmlFormattedUrl": "https://www.dmv.ca.gov/...<b>identification-card</b>s/driver-license-id-card-online...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu1_hRlOI1Di-V9SDbelBRmOlX20DArN4aTLyhJ2CFDeAeH4jaPez06PtE&s",
+      "width": "308",
+      "height": "164"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.ca.gov/portal/uploads/2023/02/Golden_bear.png",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "California DMV",
+      "og:title": "Driver's License & ID Card Online Renewal - California DMV",
+      "twitter:label1": "Est. reading time",
+      "msapplication-tileimage": "https://www.dmv.ca.gov/portal/uploads/2020/02/cropped-dmv_favicon_Final_png-1-270x270.png",
+      "og:description": "Renew your driver's license or ID card, or upgrade to a REAL ID.",
+      "article:publisher": "https://www.facebook.com/CADMV",
+      "twitter:data1": "2 minutes",
+      "twitter:site": "@ca_dmv",
+      "article:modified_time": "2025-07-09T21:01:21+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/driver-license-id-card-online-renewal/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.ca.gov/portal/uploads/2023/02/Golden_bear.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver's License or ID Card Online Renewal - California DMV",
+   "htmlTitle": "<b>Driver&#39;s License</b> or ID Card Online Renewal - California DMV",
+   "link": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/renew-your-driver-license-dl-or-identification-card-id/",
+   "displayLink": "www.dmv.ca.gov",
+   "snippet": "Get your driver's license and identification card renewal notices electronically. Log in to or create a DMV account to sign up today.",
+   "htmlSnippet": "Get your <b>driver&#39;s license</b> and <b>identification card</b> renewal notices electronically. Log in to or create a DMV account to sign up today.",
+   "formattedUrl": "https://www.dmv.ca.gov/...identification-cards/renew-your-driver-license-dl...",
+   "htmlFormattedUrl": "https://www.dmv.ca.gov/...<b>identification-card</b>s/renew-your-driver-license-dl...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrtUlTO0kehnZwKJ59u86_rkRr1zUB-YEGo5h613ZaY6mtFbWi_YdEZvk&s",
+      "width": "237",
+      "height": "213"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.ca.gov/portal/wp-content/themes/dmv/dist/images/illustrations/checklist.svg",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "California DMV",
+      "og:title": "Driver's License or ID Card Online Renewal - California DMV",
+      "twitter:label1": "Est. reading time",
+      "msapplication-tileimage": "https://www.dmv.ca.gov/portal/uploads/2020/02/cropped-dmv_favicon_Final_png-1-270x270.png",
+      "og:description": "It\u2019s important to renew driver\u2019s licenses (DLs), identification (ID) cards, and provisional instruction permits before they expire.",
+      "article:publisher": "https://www.facebook.com/CADMV",
+      "twitter:data1": "9 minutes",
+      "twitter:site": "@ca_dmv",
+      "article:modified_time": "2025-07-09T21:19:16+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/renew-your-driver-license-dl-or-identification-card-id/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.ca.gov/portal/wp-content/themes/dmv/dist/images/illustrations/checklist.svg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Replace your Driver's License or ID Card - California DMV",
+   "htmlTitle": "Replace your <b>Driver&#39;s License</b> or ID Card - California DMV",
+   "link": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/replace-your-driver-license-or-identification-dl-id-card/",
+   "displayLink": "www.dmv.ca.gov",
+   "snippet": "If your driver's license (DL), identification (ID) card, or commercial driver's license (CDL) has been lost, stolen, or damaged, you may request a replacement.",
+   "htmlSnippet": "If your <b>driver&#39;s license</b> (DL), identification (ID) card, or commercial <b>driver&#39;s license</b> (CDL) has been lost, stolen, or damaged, you may request a replacement.",
+   "formattedUrl": "https://www.dmv.ca.gov/...identification-cards/replace-your-driver-license-...",
+   "htmlFormattedUrl": "https://www.dmv.ca.gov/...<b>identification-card</b>s/replace-your-driver-license-...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu1CncnGPr7i_CpSdehYf9W8kOo4yocch0014LrFVFGRKxXMAF2_OIgWU&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.ca.gov/portal/uploads/2022/06/DMV_Logo.png",
+      "og:type": "article",
+      "og:image:width": "1920",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "California DMV",
+      "og:title": "Replace your Driver's License or ID Card - California DMV",
+      "og:image:height": "1080",
+      "og:image:type": "image/png",
+      "msapplication-tileimage": "https://www.dmv.ca.gov/portal/uploads/2020/02/cropped-dmv_favicon_Final_png-1-270x270.png",
+      "og:description": "If your driver\u2019s license (DL), identification (ID) card, or commercial driver\u2019s license (CDL) has been lost, stolen, or damaged, you may request a replacement.",
+      "article:publisher": "https://www.facebook.com/CADMV",
+      "twitter:site": "@ca_dmv",
+      "article:modified_time": "2025-07-09T21:08:15+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/replace-your-driver-license-or-identification-dl-id-card/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.ca.gov/portal/uploads/2022/06/DMV_Logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "New California Resident Portal - California DMV",
+   "htmlTitle": "New California Resident Portal - California DMV",
+   "link": "https://www.dmv.ca.gov/portal/driver-education-and-safety/special-interest-driver-guides/new-to-california/",
+   "displayLink": "www.dmv.ca.gov",
+   "snippet": "Everything new residents need\u2014driver's license, vehicle registration, and more. 1. Establishing Residency. Welcome to California road sign. You are a California\u00a0...",
+   "htmlSnippet": "Everything new residents need\u2014<b>driver&#39;s license</b>, vehicle registration, and more. 1. Establishing Residency. Welcome to California road sign. You are a California&nbsp;...",
+   "formattedUrl": "https://www.dmv.ca.gov/portal/driver-education-and.../new-to-california/",
+   "htmlFormattedUrl": "https://www.dmv.ca.gov/portal/driver-education-and.../new-to-california/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRr-pvnlpVqVPGpT-20VuG36DRGPz3s590OluFTt6Y8wBxx-1c0E1T1J6B&s",
+      "width": "185",
+      "height": "272"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.ca.gov/portal/wp-content/themes/dmv/dist/images/illustrations/poppy.svg",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "California DMV",
+      "og:title": "New California Resident Portal - California DMV",
+      "twitter:label1": "Est. reading time",
+      "msapplication-tileimage": "https://www.dmv.ca.gov/portal/uploads/2020/02/cropped-dmv_favicon_Final_png-1-270x270.png",
+      "og:description": "Welcome to the Golden State! If you\u2019re new to California, learn how to get your driver\u2019s license and register your vehicle.",
+      "article:publisher": "https://www.facebook.com/CADMV",
+      "twitter:data1": "1 minute",
+      "twitter:site": "@ca_dmv",
+      "article:modified_time": "2025-07-28T15:17:32+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.dmv.ca.gov/portal/driver-education-and-safety/special-interest-driver-guides/new-to-california/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.ca.gov/portal/wp-content/themes/dmv/dist/images/illustrations/poppy.svg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Apply for REAL ID - California DMV",
+   "htmlTitle": "Apply for REAL ID - California DMV",
+   "link": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/real-id/",
+   "displayLink": "www.dmv.ca.gov",
+   "snippet": "... driver's license is due for renewal. ... A REAL ID is a driver's license or identification card that is also a federally accepted form of identification.",
+   "htmlSnippet": "... <b>driver&#39;s license</b> is due for renewal. ... A REAL ID is a <b>driver&#39;s license</b> or <b>identification card</b> that is also a federally accepted form of identification.",
+   "formattedUrl": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/real-id/",
+   "htmlFormattedUrl": "https://www.dmv.ca.gov/portal/driver-licenses-<b>identification-card</b>s/real-id/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5BKduIi8k71n8eg-5NMOCDMeM4I5HF653FSCEGcmz_yHBBvYiJEtDGXU&s",
+      "width": "236",
+      "height": "213"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.ca.gov/portal/wp-content/themes/dmv/dist/images/illustrations/real_id_1.svg",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "California DMV",
+      "og:title": "Apply for REAL ID - California DMV",
+      "twitter:label1": "Est. reading time",
+      "msapplication-tileimage": "https://www.dmv.ca.gov/portal/uploads/2020/02/cropped-dmv_favicon_Final_png-1-270x270.png",
+      "og:description": "Need a REAL ID driver's license or ID card? Here's how!",
+      "article:publisher": "https://www.facebook.com/CADMV",
+      "twitter:data1": "1 minute",
+      "twitter:site": "@ca_dmv",
+      "article:modified_time": "2025-06-25T16:11:17+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/real-id/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.ca.gov/portal/wp-content/themes/dmv/dist/images/illustrations/real_id_1.svg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Update Information on Your Driver's License or ID Card - California ...",
+   "htmlTitle": "Update Information on Your <b>Driver&#39;s License</b> or ID Card - California ...",
+   "link": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/updating-information-on-your-driver-license-or-identification-dl-id-card/",
+   "displayLink": "www.dmv.ca.gov",
+   "snippet": "Change is inevitable, we know\u2026 which is why we're committed to making it easy for you to ensure your driver's license or identification (DL/ID) card\u00a0...",
+   "htmlSnippet": "Change is inevitable, we know\u2026 which is why we&#39;re committed to making it easy for you to ensure your <b>driver&#39;s license</b> or identification (DL/ID) card&nbsp;...",
+   "formattedUrl": "https://www.dmv.ca.gov/...identification-cards/updating-information-on-yo...",
+   "htmlFormattedUrl": "https://www.dmv.ca.gov/...<b>identification-card</b>s/updating-information-on-yo...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu1CncnGPr7i_CpSdehYf9W8kOo4yocch0014LrFVFGRKxXMAF2_OIgWU&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.ca.gov/portal/uploads/2022/06/DMV_Logo.png",
+      "og:type": "article",
+      "og:image:width": "1920",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "California DMV",
+      "og:title": "Update Information on Your Driver's License or ID Card - California DMV",
+      "og:image:height": "1080",
+      "twitter:label1": "Est. reading time",
+      "og:image:type": "image/png",
+      "msapplication-tileimage": "https://www.dmv.ca.gov/portal/uploads/2020/02/cropped-dmv_favicon_Final_png-1-270x270.png",
+      "og:description": "Change your address, name, or identity for driver's license or ID card.",
+      "article:publisher": "https://www.facebook.com/CADMV",
+      "twitter:data1": "5 minutes",
+      "twitter:site": "@ca_dmv",
+      "article:modified_time": "2025-02-14T05:27:30+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/updating-information-on-your-driver-license-or-identification-dl-id-card/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.ca.gov/portal/uploads/2022/06/DMV_Logo.png"
+     }
+    ]
+   }
+  }
+ ]
+}

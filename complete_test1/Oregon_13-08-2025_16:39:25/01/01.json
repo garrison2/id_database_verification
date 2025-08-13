@@ -1,0 +1,426 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Oregon\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Oregon Revised Statutes\"",
+    "totalResults": "206000",
+    "searchTerms": "\"Oregon\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Oregon Revised Statutes\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Oregon\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Oregon Revised Statutes\"",
+    "totalResults": "206000",
+    "searchTerms": "\"Oregon\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Oregon Revised Statutes\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.217163,
+  "formattedSearchTime": "0.22",
+  "totalResults": "206000",
+  "formattedTotalResults": "206,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "TSA Shouldn't Force a Bad Digital ID System on America | ACLU of ...",
+   "htmlTitle": "TSA Shouldn&#39;t Force a Bad <b>Digital ID</b> System on America | ACLU of ...",
+   "link": "https://www.aclu-or.org/en/news/tsa-shouldnt-force-bad-digital-id-system-america",
+   "displayLink": "www.aclu-or.org",
+   "snippet": "Oct 31, 2023 ... If we must have a digital ID system, we should take the time to do it right. ... Oregon Senate Bill 238A undermines basic rights including privacy\u00a0...",
+   "htmlSnippet": "Oct 31, 2023 <b>...</b> If we must have a <b>digital ID</b> system, we should take the time to do it right. ... <b>Oregon</b> Senate <b>Bill</b> 238A undermines basic rights including privacy&nbsp;...",
+   "formattedUrl": "https://www.aclu-or.org/en/.../tsa-shouldnt-force-bad-digital-id-system-ame...",
+   "htmlFormattedUrl": "https://www.aclu-or.org/en/.../tsa-shouldnt-force-bad-<b>digital-id</b>-system-ame...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGpRSMpYopWk7yTdV_S1BQRtT_yJXuxY2h8z7oHyP5L4f0bqnctNUNuzE6&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.aclu-or.org/sites/default/files/styles/metatag_og_image_1200x630/public/paperless-passport-virtual-id-on-phone-s.jpg?itok=DXK1bz13",
+      "msapplication-config": "/profiles/aclu_affiliates/themes/custom/affiliates/favicons/browserconfig.xml?v=3.0",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "TSA Shouldn't Force a Bad Digital ID System on America",
+      "article:published_time": "2023-11-01T20:15:28-04:00",
+      "theme-color": "#ef404e",
+      "og:site_name": "ACLU of Oregon",
+      "handheldfriendly": "true",
+      "twitter:url": "https://www.aclu-or.org/en/news/tsa-shouldnt-force-bad-digital-id-system-america",
+      "og:title": "TSA Shouldn't Force a Bad Digital ID System on America",
+      "og:updated_time": "2023-11-01T20:18:15-04:00",
+      "twitter:creator": "@ACLU_OR",
+      "twitter:image": "https://www.aclu-or.org/sites/default/files/styles/metatag_og_image_1200x630/public/paperless-passport-virtual-id-on-phone-s.jpg?itok=DXK1bz13",
+      "twitter:site": "@ACLU_OR",
+      "article:modified_time": "2023-11-01T20:18:15-04:00",
+      "viewport": "width=device-width",
+      "twitter:description": "Jay Stanley, Senior Policy Analyst, ACLU Speech, Privacy, and Technology Project A movement is underway to create a digital identity system that would allow people to carry their ID on their phones",
+      "mobileoptimized": "width",
+      "og:url": "https://www.aclu-or.org/en/news/tsa-shouldnt-force-bad-digital-id-system-america"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.aclu-or.org/sites/default/files/styles/metatag_og_image_1200x630/public/paperless-passport-virtual-id-on-phone-s.jpg?itok=DXK1bz13"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Apple allows states to adopt driver's licenses and state IDs in Apple ...",
+   "htmlTitle": "Apple allows states to adopt driver&#39;s licenses and state IDs in Apple ...",
+   "link": "https://www.reddit.com/r/oregon/comments/ph9g2l/apple_allows_states_to_adopt_drivers_licenses_and/",
+   "displayLink": "www.reddit.com",
+   "snippet": "Sep 3, 2021 ... How can a digital driver's license (mobile ID) be used? 19 ... r/oregon - Oregon DMV scam or no? 1 upvote \u00b7 133 comments. Illinois\u00a0...",
+   "htmlSnippet": "Sep 3, 2021 <b>...</b> How can a <b>digital driver&#39;s license</b> (<b>mobile ID</b>) be used? 19 ... r/<b>oregon</b> - <b>Oregon</b> DMV scam or no? 1 upvote \u00b7 133 comments. Illinois&nbsp;...",
+   "formattedUrl": "https://www.reddit.com/.../oregon/.../apple_allows_states_to_adopt_drivers...",
+   "htmlFormattedUrl": "https://www.reddit.com/.../<b>oregon</b>/.../apple_allows_states_to_adopt_drivers...",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:image": "https://share.redd.it/preview/post/ph9g2l",
+      "theme-color": "#000000",
+      "og:image:width": "1200",
+      "og:type": "website",
+      "og:image:alt": "An image containing a preview of the post",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "r/oregon on Reddit: Apple allows states to adopt driver\u2019s licenses and state IDs in Apple Wallet \u2014 how can we make this a reality in Oregon?",
+      "og:site_name": "Reddit",
+      "og:title": "r/oregon on Reddit: Apple allows states to adopt driver\u2019s licenses and state IDs in Apple Wallet \u2014 how can we make this a reality in Oregon?",
+      "og:image:height": "630",
+      "msapplication-navbutton-color": "#000000",
+      "og:description": "Posted by u/TheBlueLeopard - 41 votes and 22 comments",
+      "twitter:image": "https://share.redd.it/preview/post/ph9g2l",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "twitter:site": "@reddit",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "apple-mobile-web-app-capable": "yes",
+      "og:ttl": "600",
+      "og:url": "https://www.reddit.com/r/oregon/comments/ph9g2l/apple_allows_states_to_adopt_drivers_licenses_and/?seeker-session=true"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Oregon Department of Transportation : Welcome to Oregon DMV ...",
+   "htmlTitle": "<b>Oregon</b> Department of Transportation : Welcome to <b>Oregon</b> DMV ...",
+   "link": "https://www.oregon.gov/odot/dmv/pages/index.aspx",
+   "displayLink": "www.oregon.gov",
+   "snippet": "THIS IS THE REAL Oregon DMV site. The Oregon Driver and Motor Vehicles division of ODOT is where you go to get a driver license, ID card, register your\u00a0...",
+   "htmlSnippet": "THIS IS THE REAL <b>Oregon</b> DMV site. The <b>Oregon</b> Driver and Motor Vehicles division of ODOT is where you go to get a driver license, ID card, register your&nbsp;...",
+   "formattedUrl": "https://www.oregon.gov/odot/dmv/pages/index.aspx",
+   "htmlFormattedUrl": "https://www.<b>oregon</b>.gov/odot/dmv/pages/index.aspx",
+   "pagemap": {
+    "hcard": [
+     {
+      "url_text": "Oregon DMV",
+      "fn": "Oregon DMV",
+      "url": "https://www.oregon.gov/odot/dmv/pages/contact_us.aspx"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4rcoXQpfNajReKJ9c5DlQDlufXYUGvbbi_lcGw6cZLY-gWFt-qglLKHad&s",
+      "width": "299",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "application-name": "Welcome to Oregon DMV : Oregon Department of Transportation",
+      "msapplication-tilecolor": "#344032",
+      "msapplication-square70x70logo": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-70x70.png?v=03_04_2025",
+      "theme-color": "#222222",
+      "msapplication-wide310x150logo": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-310x150.png?v=03_04_2025",
+      "progid": "SharePoint.WebPartPage.Document",
+      "msapplication-tileimage": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-144x144.png?v=03_04_2025",
+      "msapplication-square150x150logo": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-150x150.png?v=03_04_2025",
+      "msapplication-navbutton-color": "#344032",
+      "apple-mobile-web-app-status-bar-style": "black-translucent",
+      "viewport": "width=device-width, initial-scale=1",
+      "google-translate-customization": "d78d477bc586dd01-66d24054f200e54f-g61435a41cc4d65c3-e",
+      "msapplication-square310x310logo": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-310x310.png?v=03_04_2025"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.oregon.gov/odot/DMV/PublishingImages/Task_Boxes/DMV2U-Button_dotsTB.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Department of Transportation DATE: March 31, 2025 TO: Joint ...",
+   "htmlTitle": "Department of Transportation DATE: March 31, 2025 TO: Joint ...",
+   "link": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/PublicTestimonyDocument/189504",
+   "displayLink": "olis.oregonlegislature.gov",
+   "snippet": "Mar 31, 2025 ... SB 416 would require a significant investment in time and resources to successfully implement an electronic format of and Oregon mDL. A\u00a0...",
+   "htmlSnippet": "Mar 31, 2025 <b>...</b> SB 416 would require a significant investment in time and resources to successfully implement an electronic format of and <b>Oregon mDL</b>. A&nbsp;...",
+   "formattedUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/.../189504",
+   "htmlFormattedUrl": "https://olis.<b>oregon</b>legislature.gov/liz/2025R1/Downloads/.../189504",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5MD-l-ykQeUvi2LBj8jF7XSDPJqoKZ-Qp1I17xciUS06TSlAN6BPNGA2N&s",
+      "width": "395",
+      "height": "128"
+     }
+    ],
+    "metatags": [
+     {
+      "msip_label_e4870107_094d_417a_be4e_221e87afbec1_enabled": "true",
+      "msip_label_e4870107_094d_417a_be4e_221e87afbec1_siteid": "28b0d013-46bc-4a64-8d86-1c8a31cf590d",
+      "moddate": "D:20250402162006-07'00'",
+      "creator": "Microsoft\u00ae Word for Microsoft 365",
+      "creationdate": "D:20250402162006-07'00'",
+      "author": "JUSTIS Carlee * EGS",
+      "msip_label_e4870107_094d_417a_be4e_221e87afbec1_setdate": "2025-01-31T17:32:01Z",
+      "msip_label_e4870107_094d_417a_be4e_221e87afbec1_actionid": "67cbf6b6-66e5-402c-8b5e-909995abc25b",
+      "producer": "Microsoft\u00ae Word for Microsoft 365",
+      "msip_label_e4870107_094d_417a_be4e_221e87afbec1_contentbits": "0",
+      "msip_label_e4870107_094d_417a_be4e_221e87afbec1_name": "Level 2 - Limited (Items)",
+      "msip_label_e4870107_094d_417a_be4e_221e87afbec1_method": "Privileged"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///34a63f157718ec919b72bad04f7983a25f57b1bced30309737006bf1ec380fd0"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Law Student Plan | University Health Services",
+   "htmlTitle": "<b>Law</b> Student Plan | University Health Services",
+   "link": "https://health.uoregon.edu/law-student-plan",
+   "displayLink": "health.uoregon.edu",
+   "snippet": "Download the myPacificSource app to access digital ID card, find providers, and more. Academic Year 2025\u201326 Plan Documents. The University of Oregon is\u00a0...",
+   "htmlSnippet": "Download the myPacificSource app to access <b>digital ID</b> card, find providers, and more. Academic Year 2025\u201326 Plan Documents. The University of <b>Oregon</b> is&nbsp;...",
+   "formattedUrl": "https://health.uoregon.edu/law-student-plan",
+   "htmlFormattedUrl": "https://health.u<b>oregon</b>.edu/<b>law</b>-student-plan",
+   "pagemap": {
+    "organization": [
+     {
+      "name": "University Health Services"
+     }
+    ],
+    "postaladdress": [
+     {
+      "addresslocality": "Eugene",
+      "postalcode": "97403",
+      "addressregion": "OR",
+      "streetaddress": "1590 E. 13th Ave.",
+      "telephone": "1-541-346-2770",
+      "faxnumber": "1-844-965-9250"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-config": "/modules/contrib/uo_core/browserconfig.xml",
+      "theme-color": "#154733",
+      "apple-mobile-web-app-status-bar-style": "#154733",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width",
+      "msapplication-navbutton-color": "#154733"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Moda Health ID card",
+   "htmlTitle": "Moda Health ID card",
+   "link": "https://www.modahealth.com/digitalcard/",
+   "displayLink": "www.modahealth.com",
+   "snippet": "As soon as your account with Moda Health is updated, your digital ID card is updated. ... Dental plans in Oregon provided by Oregon Dental Service, dba Delta\u00a0...",
+   "htmlSnippet": "As soon as your account with Moda Health is updated, your <b>digital ID</b> card is updated. ... Dental plans in <b>Oregon</b> provided by <b>Oregon</b> Dental Service, dba Delta&nbsp;...",
+   "formattedUrl": "https://www.modahealth.com/digitalcard/",
+   "htmlFormattedUrl": "https://www.modahealth.com/digitalcard/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQHvSnOjK9m8ByDwwkkbm8kmXkDWJm97RNbu4ZvHOMrFRKErUgAfRb_nVl&s",
+      "width": "198",
+      "height": "136"
+     }
+    ],
+    "metatags": [
+     {
+      "facebook-domain-verification": "okcoqrs74tsfqe7ca483rv7xw779bo"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.modahealth.com/images/modal/thin.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "State Digital IDs & Mobile Drivers Licenses | IDScan.net",
+   "htmlTitle": "State Digital IDs &amp; Mobile Drivers Licenses | IDScan.net",
+   "link": "https://idscan.net/mobile-drivers-licenses-mdl-state-adoption-2/",
+   "displayLink": "idscan.net",
+   "snippet": "Colorado Apple mDL digital ID. mDL providers. Mobile ID (MID) by Idemia. Idemia has release mDL applications in 5 states using the MID app. They also offer a\u00a0...",
+   "htmlSnippet": "Colorado Apple <b>mDL digital ID</b>. <b>mDL</b> providers. <b>Mobile ID</b> (MID) by Idemia. Idemia has release <b>mDL</b> applications in 5 states using the MID app. They also offer a&nbsp;...",
+   "formattedUrl": "https://idscan.net/mobile-drivers-licenses-mdl-state-adoption-2/",
+   "htmlFormattedUrl": "https://idscan.net/<b>mobile-drivers-license</b>s-<b>mdl</b>-state-adoption-2/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPH_PkLsKGRgzQSgejrnKhf5tYXOEdxzQ0j0vc_vj8U0xJUV7o8pfo6O0&s",
+      "width": "272",
+      "height": "186"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://idscan.net/wp-content/uploads/track-digital-id-adoption.png?lm=66A73198",
+      "og:type": "article",
+      "og:image:width": "585",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "IDScan.net",
+      "og:title": "State Digital IDs & Mobile Drivers Licenses | IDScan.net",
+      "og:image:height": "400",
+      "og:image:type": "image/png",
+      "msapplication-tileimage": "https://idscan.net/wp-content/uploads/cropped-idscan-identity-verification-software-icon-1-270x270.png",
+      "og:description": "Track adoption and readiness of state mobile drivers license initiatives, digital IDs, and electronic IDs across the United States.",
+      "article:publisher": "https://www.facebook.com/idscannet",
+      "twitter:site": "@idscan_net",
+      "article:modified_time": "2025-08-06T14:02:31+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://idscan.net/mobile-drivers-licenses-mdl-state-adoption-2/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://idscan.net/wp-content/uploads/track-digital-id-adoption.png?lm=66A73198"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "95148 Chemical Results | Data Online | Oregon Drinking Water ...",
+   "htmlTitle": "95148 Chemical Results | Data Online | <b>Oregon</b> Drinking Water ...",
+   "link": "https://yourwater.oregon.gov/chems.php?pwsno=95148",
+   "displayLink": "yourwater.oregon.gov",
+   "snippet": "Oregon Drinking Water Services Data Query Page. ... Detection and Reporting Limits: MDL = Federal minimum detection limit, MRL\u00a0...",
+   "htmlSnippet": "<b>Oregon</b> Drinking Water Services Data Query Page. ... Detection and Reporting Limits: <b>MDL</b> = Federal minimum detection limit, MRL&nbsp;...",
+   "formattedUrl": "https://yourwater.oregon.gov/chems.php?pwsno=95148",
+   "htmlFormattedUrl": "https://yourwater.<b>oregon</b>.gov/chems.php?pwsno=95148"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Tickets - Oregon Renaissance Faire",
+   "htmlTitle": "Tickets - Oregon Renaissance Faire",
+   "link": "https://www.oregonfaire.com/tickets/",
+   "displayLink": "www.oregonfaire.com",
+   "snippet": "Enter with AXS Mobile ID (via the AXS app); NO PAPER TICKETS. ... Copyright \u00a9 2025 Oregon Renaissance Faire | Terms & Conditions | Contest Rules | Website by\u00a0...",
+   "htmlSnippet": "Enter with AXS <b>Mobile ID</b> (via the AXS app); NO PAPER TICKETS. ... Copyright \u00a9 2025 <b>Oregon</b> Renaissance Faire | Terms &amp; Conditions | Contest Rules | Website by&nbsp;...",
+   "formattedUrl": "https://www.oregonfaire.com/tickets/",
+   "htmlFormattedUrl": "https://www.<b>oregon</b>faire.com/tickets/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNr87MKBmo8D1XrvaDA197fzJG0qoRA9Cfj8PmR900sbY5wY4g6gyYO0jx&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.oregonfaire.com/wp-content/uploads/2025/01/ORF_soc_med_v1.png",
+      "og:type": "article",
+      "og:image:width": "1200",
+      "og:image:alt": "Oregon Renaissance Faire",
+      "article:published_time": "2024-12-14T00:01:55-08:00",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Oregon Renaissance Faire - Tickets",
+      "og:site_name": "Oregon Renaissance Faire",
+      "og:title": "Oregon Renaissance Faire - Tickets",
+      "og:image:height": "630",
+      "twitter:label1": "Time to read",
+      "og:image:type": "image/png",
+      "og:updated_time": "2025-06-23T18:17:15-07:00",
+      "msapplication-tileimage": "https://www.oregonfaire.com/wp-content/uploads/2025/02/Orfie-Only-Full-Color-White-Glow-TransBG-72dpi-v1.ico",
+      "og:description": "Enter with AXS Mobile ID (via the AXS app); NO PAPER TICKETS",
+      "og:image:secure_url": "https://www.oregonfaire.com/wp-content/uploads/2025/01/ORF_soc_med_v1.png",
+      "twitter:image": "https://www.oregonfaire.com/wp-content/uploads/2025/01/ORF_soc_med_v1.png",
+      "twitter:data1": "10 minutes",
+      "facebook-domain-verification": "6t2p7w2lpofs2uuxssjvlbllz3m8us",
+      "article:modified_time": "2025-06-23T18:17:15-07:00",
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+      "twitter:description": "Enter with AXS Mobile ID (via the AXS app); NO PAPER TICKETS",
+      "og:locale": "en_US",
+      "og:url": "https://www.oregonfaire.com/tickets/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.oregonfaire.com/wp-content/uploads/2025/01/ORF_soc_med_v1.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "OREGON",
+   "htmlTitle": "<b>OREGON</b>",
+   "link": "https://www.pacificpower.net/content/dam/pcorp/documents/en/pacificpower/rates-regulation/oregon/tariffs/rates/126_Community_Solar_Program.pdf",
+   "displayLink": "www.pacificpower.net",
+   "snippet": "measure of MDL is not available for the feeder, Company will use 30 percent of summer ... regulation/oregon-rates-tariffs.html and available from the\u00a0...",
+   "htmlSnippet": "measure of <b>MDL</b> is not available for the feeder, Company will use 30 percent of summer ... regulation/<b>oregon</b>-rates-tariffs.html and available from the&nbsp;...",
+   "formattedUrl": "https://www.pacificpower.net/.../oregon/.../126_Community_Solar_Progra...",
+   "htmlFormattedUrl": "https://www.pacificpower.net/.../<b>oregon</b>/.../126_Community_Solar_Progra...",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20200602145233-07'00'",
+      "creationdate": "D:20200602145125-07'00'",
+      "creator": "Acrobat PDFMaker 17 for Word",
+      "author": "P20165",
+      "producer": "Adobe PDF Library 15.0",
+      "company": "PacifiCorp"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

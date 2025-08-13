@@ -1,0 +1,572 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:apps.apple.com \"Idaho\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "31",
+    "searchTerms": "site:apps.apple.com \"Idaho\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:apps.apple.com \"Idaho\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "31",
+    "searchTerms": "site:apps.apple.com \"Idaho\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.221186,
+  "formattedSearchTime": "0.22",
+  "totalResults": "31",
+  "formattedTotalResults": "31"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Regence Empower on the App Store",
+   "htmlTitle": "Regence Empower on the App Store",
+   "link": "https://apps.apple.com/ru/app/regence-empower/id1457600299?l=en-GB",
+   "displayLink": "apps.apple.com",
+   "snippet": "Jul 14, 2025 ... Blue Cross of Idaho. Health & Fitness. Moda Health Mobile ID Card. Health & Fitness.",
+   "htmlSnippet": "Jul 14, 2025 <b>...</b> Blue Cross of <b>Idaho</b>. Health &amp; Fitness. Moda Health <b>Mobile ID</b> Card. Health &amp; Fitness.",
+   "formattedUrl": "https://apps.apple.com/ru/app/regence-empower/id1457600299?l=en...",
+   "htmlFormattedUrl": "https://apps.apple.com/ru/app/regence-empower/id1457600299?l=en...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQISwosJk9vizfBRokIyG22TQnnsWo_-4XSWXlA95LRxyXN-w6pq-2yKZ_L&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/10/30/28103042-fc64-1c17-61fb-f005b5ea46e6/AppIcon-Regence-0-0-1x_U007emarketing-0-6-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App\u00a0Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eRegence Empower takes the guesswork out of well-being. Guided step by step, you\u2019ll always know what to do next to reach your goals. It connects with the fitness and tracking technology you already use and matches you with healthy living activities customized just for you. So you can get \u2014 and stay \u2014\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/10/30/28103042-fc64-1c17-61fb-f005b5ea46e6/AppIcon-Regence-0-0-1x_U007emarketing-0-6-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/10/30/28103042-fc64-1c17-61fb-f005b5ea46e6/AppIcon-Regence-0-0-1x_U007emarketing-0-6-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222532.1.0%2B09273a9c%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "Regence Empower on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "Regence Empower on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eRegence Empower",
+      "og:title": "\u200eRegence Empower",
+      "og:image:height": "630",
+      "version": "2532.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eRegence Empower takes the guesswork out of well-being. Guided step by step, you\u2019ll always know what to do next to reach your goals. It connects with the fitness and tracking technology you already use and matches you with healthy living activities customized just for you. So you can get \u2014 and stay \u2014\u2026",
+      "og:locale": "en_GB",
+      "apple:content_id": "1457600299",
+      "og:url": "https://apps.apple.com/ru/app/regence-empower/id1457600299?l=en-GB"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/10/30/28103042-fc64-1c17-61fb-f005b5ea46e6/AppIcon-Regence-0-0-1x_U007emarketing-0-6-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "myPacificSource on the App Store",
+   "htmlTitle": "myPacificSource on the App Store",
+   "link": "https://apps.apple.com/us/app/mypacificsource/id903064328",
+   "displayLink": "apps.apple.com",
+   "snippet": "With local offices in Oregon, Washington, Idaho ... The real-time updates and digital ID card access are particularly handy for simplifying health insurance\u00a0...",
+   "htmlSnippet": "With local offices in Oregon, Washington, <b>Idaho</b> ... The real-time updates and <b>digital ID</b> card access are particularly handy for simplifying health insurance&nbsp;...",
+   "formattedUrl": "https://apps.apple.com/us/app/mypacificsource/id903064328",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/mypacificsource/id903064328",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSps6K3uUEJNx2_A--7FIOKR36psXA60JLMCl5MF9mhk9NheWk8RduwBZDN&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/ac/bf/1dacbfcf-5554-29bc-f5d2-c188e5eb6564/appiconios-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eOur free, new-and-improved app makes life easier for PacificSource members.\n\nUse it to   \n\u2022\u2003\u2003See your member ID card   \n\u2022\u2003\u2003Review Explanation of Benefits statements   \n\u2022\u2003\u2003Find a doctor or hospital  \n\u2022\u2003\u2003Check your deductible and out-of-pocket totals  \n\u2022\u2003\u2003Learn which services are covered, and how your\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/ac/bf/1dacbfcf-5554-29bc-f5d2-c188e5eb6564/appiconios-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/ac/bf/1dacbfcf-5554-29bc-f5d2-c188e5eb6564/appiconios-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222532.1.0%2B09273a9c%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "myPacificSource on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "myPacificSource on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200emyPacificSource",
+      "og:title": "\u200emyPacificSource",
+      "og:image:height": "630",
+      "version": "2532.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eOur free, new-and-improved app makes life easier for PacificSource members.\n\nUse it to   \n\u2022\u2003\u2003See your member ID card   \n\u2022\u2003\u2003Review Explanation of Benefits statements   \n\u2022\u2003\u2003Find a doctor or hospital  \n\u2022\u2003\u2003Check your deductible and out-of-pocket totals  \n\u2022\u2003\u2003Learn which services are covered, and how your\u2026",
+      "og:locale": "en_US",
+      "apple:content_id": "903064328",
+      "og:url": "https://apps.apple.com/us/app/mypacificsource/id903064328"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/ac/bf/1dacbfcf-5554-29bc-f5d2-c188e5eb6564/appiconios-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Regence Empower na App Store",
+   "htmlTitle": "Regence Empower na App Store",
+   "link": "https://apps.apple.com/us/app/regence-empower/id1457600299?l=pt-BR",
+   "displayLink": "apps.apple.com",
+   "snippet": "Moda Health Mobile ID Card. Sa\u00fade e fitness. Blue Cross of Idaho. Sa\u00fade e fitness.",
+   "htmlSnippet": "Moda Health <b>Mobile ID</b> Card. Sa\u00fade e fitness. Blue Cross of <b>Idaho</b>. Sa\u00fade e fitness.",
+   "formattedUrl": "https://apps.apple.com/us/app/regence-empower/id1457600299?l=pt-BR",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/regence-empower/id1457600299?l=pt-BR",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQISwosJk9vizfBRokIyG22TQnnsWo_-4XSWXlA95LRxyXN-w6pq-2yKZ_L&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/10/30/28103042-fc64-1c17-61fb-f005b5ea46e6/AppIcon-Regence-0-0-1x_U007emarketing-0-6-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App\u00a0Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eRegence Empower takes the guesswork out of well-being. Guided step by step, you\u2019ll always know what to do next to reach your goals. It connects with the fitness and tracking technology you already use and matches you with healthy living activities customized just for you. So you can get \u2014 and stay \u2014\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/10/30/28103042-fc64-1c17-61fb-f005b5ea46e6/AppIcon-Regence-0-0-1x_U007emarketing-0-6-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/10/30/28103042-fc64-1c17-61fb-f005b5ea46e6/AppIcon-Regence-0-0-1x_U007emarketing-0-6-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222530.1.0%2Bdd954829%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "Regence Empower na App Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "Regence Empower na App Store",
+      "og:type": "website",
+      "twitter:title": "\u200eRegence Empower",
+      "og:title": "\u200eRegence Empower",
+      "og:image:height": "630",
+      "version": "2530.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eRegence Empower takes the guesswork out of well-being. Guided step by step, you\u2019ll always know what to do next to reach your goals. It connects with the fitness and tracking technology you already use and matches you with healthy living activities customized just for you. So you can get \u2014 and stay \u2014\u2026",
+      "og:locale": "pt_BR",
+      "apple:content_id": "1457600299",
+      "og:url": "https://apps.apple.com/us/app/regence-empower/id1457600299?l=pt-BR"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/10/30/28103042-fc64-1c17-61fb-f005b5ea46e6/AppIcon-Regence-0-0-1x_U007emarketing-0-6-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "H Wash Mobile on the App Store",
+   "htmlTitle": "H Wash Mobile on the App Store",
+   "link": "https://apps.apple.com/ng/app/h-wash-mobile/id1616984191",
+   "displayLink": "apps.apple.com",
+   "snippet": "Sep 10, 2024 ... Idaho Power. Utilities. Find It, Fix It. Utilities ... GET Mobile ID. Utilities. Nigeria. Select a country or\u00a0...",
+   "htmlSnippet": "Sep 10, 2024 <b>...</b> <b>Idaho</b> Power. Utilities. Find It, Fix It. Utilities ... GET <b>Mobile ID</b>. Utilities. Nigeria. Select a country or&nbsp;...",
+   "formattedUrl": "https://apps.apple.com/ng/app/h-wash-mobile/id1616984191",
+   "htmlFormattedUrl": "https://apps.apple.com/ng/app/h-wash-<b>mobile/id</b>1616984191",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVmdo-FWg1epf2SW6q8v53hppT6brr0fXs8z4KcMAlnMPwNXHS4ibYyF4a&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/cd/ce/d9cdce53-29ee-e8a4-f141-212dd9ebe054/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App\u00a0Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eATTENTION: Only for use in participating laundry locations.\n\nH Wash Mobile is an iPhone application providing the easiest and smartest complete laundry solution. This app allows you to pay for laundry cycles from your account by using Bluetooth to communicate with the washer or dryer.\n\nSimply use H\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/cd/ce/d9cdce53-29ee-e8a4-f141-212dd9ebe054/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/cd/ce/d9cdce53-29ee-e8a4-f141-212dd9ebe054/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222532.1.0%2B09273a9c%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "H Wash Mobile on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "H Wash Mobile on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eH Wash Mobile",
+      "og:title": "\u200eH Wash Mobile",
+      "og:image:height": "630",
+      "version": "2532.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eATTENTION: Only for use in participating laundry locations.\n\nH Wash Mobile is an iPhone application providing the easiest and smartest complete laundry solution. This app allows you to pay for laundry cycles from your account by using Bluetooth to communicate with the washer or dryer.\n\nSimply use H\u2026",
+      "og:locale": "en_GB",
+      "apple:content_id": "1616984191",
+      "og:url": "https://apps.apple.com/ng/app/h-wash-mobile/id1616984191"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/cd/ce/d9cdce53-29ee-e8a4-f141-212dd9ebe054/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CarelonRx on the App Store",
+   "htmlTitle": "CarelonRx on the App Store",
+   "link": "https://apps.apple.com/us/app/carelonrx/id1491354975",
+   "displayLink": "apps.apple.com",
+   "snippet": "\u2022 Access or download your digital ID card. \u2022 View claims history or make ... Blue Cross of Idaho. Health & Fitness.",
+   "htmlSnippet": "\u2022 Access or download your <b>digital ID</b> card. \u2022 View claims history or make ... Blue Cross of <b>Idaho</b>. Health &amp; Fitness.",
+   "formattedUrl": "https://apps.apple.com/us/app/carelonrx/id1491354975",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/carelonrx/id1491354975",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMNiIS4WkGfSfVn3_jUeGQ7QBugAivYnsRg11s7hbmnS__EQAVX6LhNWga&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/61/3f/43613fbb-edab-41d0-4228-1f4bcbed6fcd/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eWith the CarelonRx app, you can get more from your pharmacy benefits. Look up the price of a prescription, find a preferred pharmacy, and manage all your medications in one place. Refill prescriptions from the app and track shipments until they\u2019re delivered to your door.\n\nThe CarelonRx app allows yo\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/61/3f/43613fbb-edab-41d0-4228-1f4bcbed6fcd/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/61/3f/43613fbb-edab-41d0-4228-1f4bcbed6fcd/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222532.1.0%2B09273a9c%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "CarelonRx on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "CarelonRx on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eCarelonRx",
+      "og:title": "\u200eCarelonRx",
+      "og:image:height": "630",
+      "version": "2532.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eWith the CarelonRx app, you can get more from your pharmacy benefits. Look up the price of a prescription, find a preferred pharmacy, and manage all your medications in one place. Refill prescriptions from the app and track shipments until they\u2019re delivered to your door.\n\nThe CarelonRx app allows yo\u2026",
+      "og:locale": "en_US",
+      "apple:content_id": "1491354975",
+      "og:url": "https://apps.apple.com/us/app/carelonrx/id1491354975"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/61/3f/43613fbb-edab-41d0-4228-1f4bcbed6fcd/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MyAmFamDrive on the App Store",
+   "htmlTitle": "MyAmFamDrive on the App Store",
+   "link": "https://apps.apple.com/kh/app/myamfamdrive/id1536654505",
+   "displayLink": "apps.apple.com",
+   "snippet": "Jan 22, 2024 ... GET Mobile ID. Utilities. Evergy Electric. Utilities. Idaho Power. Utilities. Tommy's\u00a0...",
+   "htmlSnippet": "Jan 22, 2024 <b>...</b> GET <b>Mobile ID</b>. Utilities. Evergy Electric. Utilities. <b>Idaho</b> Power. Utilities. Tommy&#39;s&nbsp;...",
+   "formattedUrl": "https://apps.apple.com/kh/app/myamfamdrive/id1536654505",
+   "htmlFormattedUrl": "https://apps.apple.com/kh/app/myamfamdrive/id1536654505",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fb/27/bf/fb27bf7b-cb92-b596-4f4a-e566e0f00081/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App\u00a0Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eMyAmFamDrive includes two driving programs that can help you save money\u2014and keep you safe on the road! Contact your American Family agent to sign up today.\n\nDriveMyWay\n\nDriveMyWay is a program for American Family Insurance policyholders that personalizes your auto insurance rate based on your safe d\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fb/27/bf/fb27bf7b-cb92-b596-4f4a-e566e0f00081/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fb/27/bf/fb27bf7b-cb92-b596-4f4a-e566e0f00081/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222414.9.0%2B0582cf4a%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "MyAmFamDrive on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "MyAmFamDrive on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eMyAmFamDrive",
+      "og:title": "\u200eMyAmFamDrive",
+      "og:image:height": "630",
+      "version": "2414.9.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eMyAmFamDrive includes two driving programs that can help you save money\u2014and keep you safe on the road! Contact your American Family agent to sign up today.\n\nDriveMyWay\n\nDriveMyWay is a program for American Family Insurance policyholders that personalizes your auto insurance rate based on your safe d\u2026",
+      "og:locale": "en_GB",
+      "apple:content_id": "1536654505",
+      "og:url": "https://apps.apple.com/kh/app/myamfamdrive/id1536654505"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fb/27/bf/fb27bf7b-cb92-b596-4f4a-e566e0f00081/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MyAmFamDrive on the App Store",
+   "htmlTitle": "MyAmFamDrive on the App Store",
+   "link": "https://apps.apple.com/de/app/myamfamdrive/id1536654505?l=en-GB",
+   "displayLink": "apps.apple.com",
+   "snippet": "Mar 5, 2025 ... GET Mobile ID. Utilities. Tommy's Express. Utilities. instaProtek. Utilities. Idaho Power.",
+   "htmlSnippet": "Mar 5, 2025 <b>...</b> GET <b>Mobile ID</b>. Utilities. Tommy&#39;s Express. Utilities. instaProtek. Utilities. <b>Idaho</b> Power.",
+   "formattedUrl": "https://apps.apple.com/de/app/myamfamdrive/id1536654505?l=en-GB",
+   "htmlFormattedUrl": "https://apps.apple.com/de/app/myamfamdrive/id1536654505?l=en-GB",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/42/c1/2f42c17a-6525-3353-7fe6-e7d4fd1459db/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App\u00a0Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eMyAmFamDrive includes two driving programs that can help you save money\u2014and keep you safe on the road! Contact your American Family agent to sign up today.\n\nDriveMyWay\n\nDriveMyWay is a program for American Family Insurance policyholders that personalizes your auto insurance rate based on your safe d\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/42/c1/2f42c17a-6525-3353-7fe6-e7d4fd1459db/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/42/c1/2f42c17a-6525-3353-7fe6-e7d4fd1459db/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222532.1.0%2B09273a9c%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "MyAmFamDrive on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "MyAmFamDrive on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eMyAmFamDrive",
+      "og:title": "\u200eMyAmFamDrive",
+      "og:image:height": "630",
+      "version": "2532.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eMyAmFamDrive includes two driving programs that can help you save money\u2014and keep you safe on the road! Contact your American Family agent to sign up today.\n\nDriveMyWay\n\nDriveMyWay is a program for American Family Insurance policyholders that personalizes your auto insurance rate based on your safe d\u2026",
+      "og:locale": "en_GB",
+      "apple:content_id": "1536654505",
+      "og:url": "https://apps.apple.com/de/app/myamfamdrive/id1536654505?l=en-GB"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/42/c1/2f42c17a-6525-3353-7fe6-e7d4fd1459db/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Trailhead Boise on the App Store",
+   "htmlTitle": "Trailhead Boise on the App Store",
+   "link": "https://apps.apple.com/bg/app/trailhead-boise/id6670286207",
+   "displayLink": "apps.apple.com",
+   "snippet": "4 days ago ... ... digital ID badge ... 7455 W Westwood Dr Boise Idaho 83704-7225 United States; Phone Number: +1 2089184361; Email: support@dionysus.dev. Size\u00a0...",
+   "htmlSnippet": "4 days ago <b>...</b> ... <b>digital ID</b> badge ... 7455 W Westwood Dr Boise <b>Idaho</b> 83704-7225 United States; Phone Number: +1 2089184361; Email: support@dionysus.dev. Size&nbsp;...",
+   "formattedUrl": "https://apps.apple.com/bg/app/trailhead-boise/id6670286207",
+   "htmlFormattedUrl": "https://apps.apple.com/bg/app/trailhead-boise/id6670286207",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr6Y7bG5LbG9F9AiS-6AgcEa46iFN1__DoqeVh5zLPNjShHaIpuOLWoMYc&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/6c/90/4e6c90b7-b636-5d69-240d-fab2632a84c6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App\u00a0Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eThe official app for Trailhead and Boise Entrepreneur Week, download to stay up to date with upcoming events, book meeting rooms, and scan your digital ID badge!",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/6c/90/4e6c90b7-b636-5d69-240d-fab2632a84c6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/6c/90/4e6c90b7-b636-5d69-240d-fab2632a84c6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222532.1.0%2B09273a9c%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "Trailhead Boise on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "Trailhead Boise on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eTrailhead Boise",
+      "og:title": "\u200eTrailhead Boise",
+      "og:image:height": "630",
+      "version": "2532.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eThe official app for Trailhead and Boise Entrepreneur Week, download to stay up to date with upcoming events, book meeting rooms, and scan your digital ID badge!",
+      "og:locale": "en_GB",
+      "apple:content_id": "6670286207",
+      "og:url": "https://apps.apple.com/bg/app/trailhead-boise/id6670286207"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/6c/90/4e6c90b7-b636-5d69-240d-fab2632a84c6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Kindoo on the App Store",
+   "htmlTitle": "Kindoo on the App Store",
+   "link": "https://apps.apple.com/es/app/kindoo/id1156890830?l=en-GB",
+   "displayLink": "apps.apple.com",
+   "snippet": "Jul 22, 2025 ... GET Mobile ID. Utilities. Silver Star Home Zone ... Idaho Power. Utilities. Spain. Catal\u00e0 \u00b7 Espa\u00f1ol (Espa\u00f1a). Select a\u00a0...",
+   "htmlSnippet": "Jul 22, 2025 <b>...</b> GET <b>Mobile ID</b>. Utilities. Silver Star Home Zone ... <b>Idaho</b> Power. Utilities. Spain. Catal\u00e0 &middot; Espa\u00f1ol (Espa\u00f1a). Select a&nbsp;...",
+   "formattedUrl": "https://apps.apple.com/es/app/kindoo/id1156890830?l=en-GB",
+   "htmlFormattedUrl": "https://apps.apple.com/es/app/kindoo/id1156890830?l=en-GB",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-Fn0mNJdnMcps6NdyQzrRhwnq2TaewsEgqsrxs-PegnbRWiACV8mC-gas&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/4e/26/704e26fb-dd30-0c17-4a57-d9ca63d44a84/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App\u00a0Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eUse the KINDOO App to control your electric door right from your smartphone. The KINDOO system consists of the KIN (proprietary hardware) and the KINDOO app that work together to make any electric door smart, without the need to change your locks.",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/4e/26/704e26fb-dd30-0c17-4a57-d9ca63d44a84/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/4e/26/704e26fb-dd30-0c17-4a57-d9ca63d44a84/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222530.1.0%2Bdd954829%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "Kindoo on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "Kindoo on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eKindoo",
+      "og:title": "\u200eKindoo",
+      "og:image:height": "630",
+      "version": "2530.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eUse the KINDOO App to control your electric door right from your smartphone. The KINDOO system consists of the KIN (proprietary hardware) and the KINDOO app that work together to make any electric door smart, without the need to change your locks.",
+      "og:locale": "en_GB",
+      "apple:content_id": "1156890830",
+      "og:url": "https://apps.apple.com/es/app/kindoo/id1156890830?l=en-GB"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/4e/26/704e26fb-dd30-0c17-4a57-d9ca63d44a84/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "SkyfineUSA - Customer on the App Store",
+   "htmlTitle": "SkyfineUSA - Customer on the App Store",
+   "link": "https://apps.apple.com/mx/app/skyfineusa-customer/id6499527198?l=en-GB",
+   "displayLink": "apps.apple.com",
+   "snippet": "Oct 29, 2024 ... See All \u00b7 Idaho Power. Utilities. GET Mobile ID. Utilities. NV Energy. Utilities.",
+   "htmlSnippet": "Oct 29, 2024 <b>...</b> See All &middot; <b>Idaho</b> Power. Utilities. GET <b>Mobile ID</b>. Utilities. NV Energy. Utilities.",
+   "formattedUrl": "https://apps.apple.com/mx/app/skyfineusa-customer/id6499527198?l=en...",
+   "htmlFormattedUrl": "https://apps.apple.com/mx/app/skyfineusa-customer/id6499527198?l=en...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzT84H1J2c5_G9-r6v1udgI687CibjxWtbe12kJkPIwejeE9DOvwAr7rk&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/d3/6e/efd36ea1-ad2d-46fb-fb55-75304f088173/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App\u00a0Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eManage your account, schedule appointments and more in our easy to use app!\n\nSkyFineUSA's mobile app allows existing and new clients access to manage their accounts with SkyFineUSA. Schedule appointments, make payments, view training information in our convenient, easy to use App.\n\n\u2022Make a payment\n\u2022\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/d3/6e/efd36ea1-ad2d-46fb-fb55-75304f088173/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/d3/6e/efd36ea1-ad2d-46fb-fb55-75304f088173/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222532.1.0%2B09273a9c%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "SkyfineUSA - Customer on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "SkyfineUSA - Customer on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eSkyfineUSA - Customer",
+      "og:title": "\u200eSkyfineUSA - Customer",
+      "og:image:height": "630",
+      "version": "2532.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eManage your account, schedule appointments and more in our easy to use app!\n\nSkyFineUSA's mobile app allows existing and new clients access to manage their accounts with SkyFineUSA. Schedule appointments, make payments, view training information in our convenient, easy to use App.\n\n\u2022Make a payment\n\u2022\u2026",
+      "og:locale": "en_GB",
+      "apple:content_id": "6499527198",
+      "og:url": "https://apps.apple.com/mx/app/skyfineusa-customer/id6499527198?l=en-GB"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/d3/6e/efd36ea1-ad2d-46fb-fb55-75304f088173/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  }
+ ]
+}

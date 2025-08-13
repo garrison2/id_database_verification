@@ -1,0 +1,332 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Minnesota Statutes\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "3250",
+    "searchTerms": "\"Minnesota Statutes\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Minnesota Statutes\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "3250",
+    "searchTerms": "\"Minnesota Statutes\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.156023,
+  "formattedSearchTime": "0.16",
+  "totalResults": "3250",
+  "formattedTotalResults": "3,250"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Sec. 171.12 MN Statutes",
+   "htmlTitle": "Sec. 171.12 MN Statutes",
+   "link": "https://www.revisor.mn.gov/statutes/cite/171.12",
+   "displayLink": "www.revisor.mn.gov",
+   "snippet": "(c) If authorized by an applicant for a driver's license or a Minnesota identification card, as indicated in paragraph (b), the applicant's personal information\u00a0...",
+   "htmlSnippet": "(c) If authorized by an applicant for a <b>driver&#39;s license</b> or a Minnesota <b>identification card</b>, as indicated in paragraph (b), the applicant&#39;s <b>personal information</b>&nbsp;...",
+   "formattedUrl": "https://www.revisor.mn.gov/statutes/cite/171.12",
+   "htmlFormattedUrl": "https://www.revisor.mn.gov/statutes/cite/171.12",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Data Breach Notification / Data Practices Office",
+   "htmlTitle": "Data Breach Notification / Data Practices Office",
+   "link": "https://mn.gov/admin/data-practices/data/warnings/breaches/assessment/",
+   "displayLink": "mn.gov",
+   "snippet": "Personal information, defined by Minnesota Statutes section 325E.61 ... driver's license number or Minnesota ID card number; or; account number or\u00a0...",
+   "htmlSnippet": "<b>Personal information</b>, <b>defined</b> by <b>Minnesota Statutes</b> section 325E.61 ... <b>driver&#39;s license</b> number or Minnesota ID card number; or; account number or&nbsp;...",
+   "formattedUrl": "https://mn.gov/admin/data-practices/data/warnings/breaches/assessment/",
+   "htmlFormattedUrl": "https://mn.gov/admin/data-practices/data/warnings/breaches/assessment/",
+   "pagemap": {
+    "metatags": [
+     {
+      "dc.modified": "2025-06-05T22:01:38.8715098Z",
+      "dc.description": "When unauthorized acquisition of data compromises the security and classification of the data, there are certain actions that must be taken to follow the Data Practices Act.",
+      "dc.created": "2017-02-23T23:56:44.8300000Z",
+      "og:site_name": "Data Practices Office",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "dc.relation": ",",
+      "dc.coverage": ",",
+      "dc.title": "Data Breach Notification",
+      "dc.subject": "data breach, data leak, data security, hacking, data practices,",
+      "pageid": "tcm:36-281557-64",
+      "dc.language": "eng,"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Sec. 325E.61 MN Statutes",
+   "htmlTitle": "Sec. 325E.61 MN Statutes",
+   "link": "https://www.revisor.mn.gov/statutes/cite/325e.61",
+   "displayLink": "www.revisor.mn.gov",
+   "snippet": "2024 Minnesota Statutes. Authenticate \u00b7 PDF. Resources. Search Minnesota ... (2) driver's license number or Minnesota identification card number; or. (3)\u00a0...",
+   "htmlSnippet": "2024 <b>Minnesota Statutes</b>. Authenticate &middot; PDF. Resources. Search <b>Minnesota</b> ... (2) <b>driver&#39;s license</b> number or Minnesota <b>identification card</b> number; or. (3)&nbsp;...",
+   "formattedUrl": "https://www.revisor.mn.gov/statutes/cite/325e.61",
+   "htmlFormattedUrl": "https://www.revisor.mn.gov/statutes/cite/325e.61",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Data Access Procedure for Individual Subjects of Data (Minnesota ...",
+   "htmlTitle": "Data Access Procedure for Individual Subjects of Data (<b>Minnesota</b> ...",
+   "link": "https://mphaonline.org/wp-content/uploads/2024/11/DPA-Procedures-Data-Subjects-2024.pdf",
+   "displayLink": "mphaonline.org",
+   "snippet": "Personal information is defined under Minn. Stat. \u00a7 325E.61, subd. 1 ... Driver's license number or Minnesota identification card number; or c\u00a0...",
+   "htmlSnippet": "<b>Personal information</b> is <b>defined</b> under Minn. Stat. \u00a7 325E.61, subd. 1 ... <b>Driver&#39;s license</b> number or Minnesota <b>identification card</b> number; or c&nbsp;...",
+   "formattedUrl": "https://mphaonline.org/wp.../11/DPA-Procedures-Data-Subjects-2024.pdf",
+   "htmlFormattedUrl": "https://mphaonline.org/wp.../11/DPA-Procedures-Data-Subjects-2024.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20240715152814-05'00'",
+      "creator": "Microsoft\u00ae Word for Microsoft 365",
+      "creationdate": "D:20240715152814-05'00'",
+      "author": "ckubic",
+      "producer": "Microsoft\u00ae Word for Microsoft 365"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Minnesota Statutes 2024, Section 325E.61",
+   "htmlTitle": "<b>Minnesota Statutes</b> 2024, Section 325E.61",
+   "link": "https://www.revisor.mn.gov/statutes/cite/325E.61/pdf",
+   "displayLink": "www.revisor.mn.gov",
+   "snippet": "... personal information\" means an\u200b individual's first name or first initial and ... (2) driver's license number or Minnesota identification card number; or\u200b.",
+   "htmlSnippet": "... <b>personal information</b>&quot; <b>means</b> an\u200b individual&#39;s first name or first initial and ... (2) <b>driver&#39;s license</b> number or Minnesota <b>identification card</b> number; or\u200b.",
+   "formattedUrl": "https://www.revisor.mn.gov/statutes/cite/325E.61/pdf",
+   "htmlFormattedUrl": "https://www.revisor.mn.gov/statutes/cite/325E.61/pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20241102000418Z",
+      "creator": "Unknown",
+      "creationdate": "D:20241102000418Z",
+      "author": "Office of the Revisor of Statutes",
+      "producer": "XEP 4.30.961",
+      "title": "Minnesota Statutes 2024, Section 325E.61"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Minnesota Statutes Section 325E.21 (2022) - Dealers In Scrap Metal ...",
+   "htmlTitle": "<b>Minnesota Statutes</b> Section 325E.21 (2022) - Dealers In Scrap Metal ...",
+   "link": "https://law.justia.com/codes/minnesota/2022/chapters-324-341/chapter-325e/section-325e-21/",
+   "displayLink": "law.justia.com",
+   "snippet": "(h) \"Proof of identification\" means a driver's license, Minnesota identification card number, or other identification document issued for identification\u00a0...",
+   "htmlSnippet": "(h) &quot;Proof of identification&quot; <b>means</b> a <b>driver&#39;s license</b>, Minnesota <b>identification card</b> number, or other identification document issued for identification&nbsp;...",
+   "formattedUrl": "https://law.justia.com/codes/minnesota/2022/chapters.../section-325e-21/",
+   "htmlFormattedUrl": "https://law.justia.com/codes/minnesota/2022/chapters.../section-325e-21/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPP2ksOfM4IyWL7PTxPyS5N80Or-jyXZZLgeH1kYuOtXk5YU597YCxGszS&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "og:site_name": "Justia Law",
+      "og:title": "2022 Minnesota Statutes :: Chapters 324 - 341 &mdash; Trade Regulations, Consumer Protection :: Chapter 325E &mdash; Trade Practices :: Section 325E.21 &mdash; Dealers In Scrap Metal; Records, Reports, And Registration.",
+      "og:app_id": "119529808075661",
+      "trigger-ga": "1",
+      "og:description": "Justia Free Databases of U.S. Laws, Codes & Statutes",
+      "og:admins": "656268335,686786921,25900864",
+      "referrer": "unsafe-url",
+      "twitter:site": "@JustiaCom",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "page-type": "Law: Codes Document Page (Current Year)",
+      "is-li": "0",
+      "og:url": "https://law.justia.com/codes/minnesota/2022/chapters-324-341/chapter-325e/section-325e-21/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NINETY-THIRD DAY\u200b St. Paul, Minnesota, Monday, March 18, 2024 ...",
+   "htmlTitle": "NINETY-THIRD DAY\u200b St. Paul, Minnesota, Monday, March 18, 2024 ...",
+   "link": "https://www.senate.mn/journals//2023-2024/20240318093.pdf",
+   "displayLink": "www.senate.mn",
+   "snippet": "Mar 18, 2024 ... as defined in Minnesota Statutes, section 240.01, subdivision 5 ... (d) \"Driver's license agent\" means a public or private driver's license agent\u00a0...",
+   "htmlSnippet": "Mar 18, 2024 <b>...</b> as <b>defined</b> in <b>Minnesota Statutes</b>, section 240.01, subdivision 5 ... (d) &quot;<b>Driver&#39;s license</b> agent&quot; <b>means</b> a public or private <b>driver&#39;s license</b> agent&nbsp;...",
+   "formattedUrl": "https://www.senate.mn/journals//2023-2024/20240318093.pdf",
+   "htmlFormattedUrl": "https://www.senate.mn/journals//2023-2024/20240318093.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20241107193204Z",
+      "creator": "Unknown",
+      "creationdate": "D:20241107193204Z",
+      "author": "Unknown",
+      "producer": "XEP 4.30.961",
+      "title": "j93mar18"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Minnesota Statutes Section 168A.1501 (2024) - Scrapped ...",
+   "htmlTitle": "<b>Minnesota Statutes</b> Section 168A.1501 (2024) - Scrapped ...",
+   "link": "https://law.justia.com/codes/minnesota/chapters-160-174a/chapter-168a/section-168a-1501/",
+   "displayLink": "law.justia.com",
+   "snippet": "(g) \"Proof of identification\" means a driver's license, Minnesota identification card number, or other identification document issued for identification\u00a0...",
+   "htmlSnippet": "(g) &quot;Proof of identification&quot; <b>means</b> a <b>driver&#39;s license</b>, Minnesota <b>identification card</b> number, or other identification document issued for identification&nbsp;...",
+   "formattedUrl": "https://law.justia.com/codes/minnesota/chapters-160.../section-168a-1501/",
+   "htmlFormattedUrl": "https://law.justia.com/codes/minnesota/chapters-160.../section-168a-1501/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPP2ksOfM4IyWL7PTxPyS5N80Or-jyXZZLgeH1kYuOtXk5YU597YCxGszS&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "og:site_name": "Justia Law",
+      "og:title": "2024 Minnesota Statutes :: Chapters 160 - 174A &mdash; Transportation :: Chapter 168A &mdash; Vehicle Titles :: Section 168A.1501 &mdash; Scrapped, Dismantled, Or Destroyed Vehicle.",
+      "og:app_id": "119529808075661",
+      "trigger-ga": "1",
+      "og:description": "Justia Free Databases of U.S. Laws, Codes & Statutes",
+      "og:admins": "656268335,686786921,25900864",
+      "referrer": "unsafe-url",
+      "twitter:site": "@JustiaCom",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "page-type": "Law: Codes Document Page (Current Year)",
+      "is-li": "0",
+      "og:url": "https://law.justia.com/codes/minnesota/chapters-160-174a/chapter-168a/section-168a-1501/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Commercial Driver License Self-certification Form MINNESOTA ...",
+   "htmlTitle": "Commercial Driver License Self-certification Form MINNESOTA ...",
+   "link": "https://www.co.sherburne.mn.us/DocumentCenter/View/182/Medical-Self-Certification-Form-PDF",
+   "displayLink": "www.co.sherburne.mn.us",
+   "snippet": "Minnesota Statutes ... The information may be used by other states to make decisions about whether to issue you a driver's license, permit or identification card.",
+   "htmlSnippet": "<b>Minnesota Statutes</b> ... The information may be used by other states to make decisions about whether to issue you a <b>driver&#39;s license</b>, permit or <b>identification card</b>.",
+   "formattedUrl": "https://www.co.sherburne.mn.us/.../Medical-Self-Certification-Form-PDF",
+   "htmlFormattedUrl": "https://www.co.sherburne.mn.us/.../Medical-Self-Certification-Form-PDF",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsXxz0h10u7bLF5omcY_cOPtJKyibwz9cbqt59HUqq-ZctHOsOPX6_&s",
+      "width": "119",
+      "height": "117"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20180122124725-06'00'",
+      "creationdate": "D:20110803091807-05'00'",
+      "creator": "Adobe LiveCycle Designer ES 8.2",
+      "producer": "Adobe LiveCycle Designer ES 8.2"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///97e633103037f347784fb8a207881702e32a16428fe80ecbce6709ec501f85c6"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "A bill for an act\u200b relating to transportation; modifying requirements ...",
+   "htmlTitle": "A bill for an act\u200b relating to transportation; modifying requirements ...",
+   "link": "https://www.lrl.mn.gov/archive/minutes/senate/2023/finstlocalgov/20230207/finstlocalgov_20230227_HF4.pdf",
+   "displayLink": "www.lrl.mn.gov",
+   "snippet": "Minnesota Statutes 2022, section 171.04, subdivision 5, is ... noncompliant driver's license or identification card data be denied by the commissioner,\u200b.",
+   "htmlSnippet": "<b>Minnesota Statutes</b> 2022, section 171.04, subdivision 5, is ... noncompliant <b>driver&#39;s license</b> or <b>identification card</b> data be denied by the commissioner,\u200b.",
+   "formattedUrl": "https://www.lrl.mn.gov/archive/.../finstlocalgov_20230227_HF4.pdf",
+   "htmlFormattedUrl": "https://www.lrl.mn.gov/archive/.../finstlocalgov_20230227_HF4.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20230206154959Z",
+      "creator": "Unknown",
+      "creationdate": "D:20230206154959Z",
+      "author": "Office of the Revisor of Statutes",
+      "producer": "XEP 4.30.961",
+      "title": "UEH0004-1"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

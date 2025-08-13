@@ -1,0 +1,586 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:apps.apple.com \"California\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "75",
+    "searchTerms": "site:apps.apple.com \"California\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:apps.apple.com \"California\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "75",
+    "searchTerms": "site:apps.apple.com \"California\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.16467,
+  "formattedSearchTime": "0.16",
+  "totalResults": "75",
+  "formattedTotalResults": "75"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "CA DMV Wallet on the App Store",
+   "htmlTitle": "CA DMV Wallet on the App Store",
+   "link": "https://apps.apple.com/us/app/ca-dmv-wallet/id6449002508",
+   "displayLink": "apps.apple.com",
+   "snippet": "California's mobile DL/ID. California Department of Motor Vehicles \u00b7 #113 in ... Mobile Driver's License (mDL) digital credential. California DMV Wallet\u00a0...",
+   "htmlSnippet": "<b>California&#39;s</b> mobile DL/ID. <b>California</b> Department of Motor Vehicles &middot; #113 in ... <b>Mobile Driver&#39;s License</b> (<b>mDL</b>) digital credential. <b>California</b> DMV Wallet&nbsp;...",
+   "formattedUrl": "https://apps.apple.com/us/app/ca-dmv-wallet/id6449002508",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/ca-dmv-wallet/id6449002508",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCUr0xNxKU_X4e_QPjugkekrcVIZrkZrtAKqsKKZeftC1sOyJU6xhcdVQ&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/3f/9c/d93f9ca1-f534-8b47-22bf-41178df63205/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eNow live in Pilot Phase \u2013 California DMV Mobile Wallet\nCalifornians now have a secure way to present their driver\u2019s license or identification card using their smartphones via a Mobile Driver\u2019s License (mDL) digital credential.\n\nCalifornia DMV Wallet gives you the control of the driver\u2019s license data\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/3f/9c/d93f9ca1-f534-8b47-22bf-41178df63205/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/3f/9c/d93f9ca1-f534-8b47-22bf-41178df63205/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222532.1.0%2B09273a9c%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "CA DMV Wallet on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "CA DMV Wallet on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eCA DMV Wallet",
+      "og:title": "\u200eCA DMV Wallet",
+      "og:image:height": "630",
+      "version": "2532.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eNow live in Pilot Phase \u2013 California DMV Mobile Wallet\nCalifornians now have a secure way to present their driver\u2019s license or identification card using their smartphones via a Mobile Driver\u2019s License (mDL) digital credential.\n\nCalifornia DMV Wallet gives you the control of the driver\u2019s license data\u2026",
+      "og:locale": "en_US",
+      "apple:content_id": "6449002508",
+      "og:url": "https://apps.apple.com/us/app/ca-dmv-wallet/id6449002508"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/3f/9c/d93f9ca1-f534-8b47-22bf-41178df63205/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Blue Shield of California on the App Store",
+   "htmlTitle": "Blue Shield of <b>California</b> on the App Store",
+   "link": "https://apps.apple.com/kn/app/blue-shield-of-california/id728293729",
+   "displayLink": "apps.apple.com",
+   "snippet": "Jun 14, 2025 ... ... California ... This version of the app includes enhancements making it easier to view digital ID cards, understand pharmacy benefits and other\u00a0...",
+   "htmlSnippet": "Jun 14, 2025 <b>...</b> ... <b>California</b> ... This version of the app includes enhancements making it easier to view <b>digital ID</b> cards, understand pharmacy benefits and other&nbsp;...",
+   "formattedUrl": "https://apps.apple.com/kn/app/blue-shield-of-california/id728293729",
+   "htmlFormattedUrl": "https://apps.apple.com/kn/app/blue-shield-of-<b>california</b>/id728293729",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM4bnzjRFPuF5G3nMduTJydc86tsXoJvZp0no7zH82qJ0whh7l4gigmqYH&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/f6/f1/31f6f1a1-138e-6439-2f70-c2814c77b315/AppIcon-0-1x_U007emarketing-0-0-0-6-0-0-85-220-0.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App\u00a0Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eManage your health care from anywhere with the Blue Shield of California app. View your ID card,\nsearch for doctors, track your claim information, understand your benefits and more. The Blue Shield of\nCalifornia app provides BSC and BSC Promise members enhanced 24/7 service and ease-of-access to the\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/f6/f1/31f6f1a1-138e-6439-2f70-c2814c77b315/AppIcon-0-1x_U007emarketing-0-0-0-6-0-0-85-220-0.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/f6/f1/31f6f1a1-138e-6439-2f70-c2814c77b315/AppIcon-0-1x_U007emarketing-0-0-0-6-0-0-85-220-0.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222520.0.0%2B019dd398%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "Blue Shield of California on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "Blue Shield of California on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eBlue Shield of California",
+      "og:title": "\u200eBlue Shield of California",
+      "og:image:height": "630",
+      "version": "2520.0.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eManage your health care from anywhere with the Blue Shield of California app. View your ID card,\nsearch for doctors, track your claim information, understand your benefits and more. The Blue Shield of\nCalifornia app provides BSC and BSC Promise members enhanced 24/7 service and ease-of-access to the\u2026",
+      "og:locale": "en_GB",
+      "apple:content_id": "728293729",
+      "og:url": "https://apps.apple.com/kn/app/blue-shield-of-california/id728293729"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/f6/f1/31f6f1a1-138e-6439-2f70-c2814c77b315/AppIcon-0-1x_U007emarketing-0-0-0-6-0-0-85-220-0.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Sydney Health on the App Store",
+   "htmlTitle": "Sydney Health on the App Store",
+   "link": "https://apps.apple.com/us/app/sydney-health/id1463423283",
+   "displayLink": "apps.apple.com",
+   "snippet": "- Digital ID card \u2013 Your digital ID works like a paper ID, enabling you to ... Blue Shield of California. Health & Fitness. K\u00a0...",
+   "htmlSnippet": "- <b>Digital ID</b> card \u2013 Your <b>digital ID</b> works like a paper ID, enabling you to ... Blue Shield of <b>California</b>. Health &amp; Fitness. K&nbsp;...",
+   "formattedUrl": "https://apps.apple.com/us/app/sydney-health/id1463423283",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/sydney-health/id1463423283",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAKLHpRpzg8LKEvQFlacXHahAyOFmixxkmEB2Akyd4smIXfBjX6mwDejc&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/5f/ba/915fbaec-b6ee-2e8c-e782-89b553cfe3d2/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eUse the Sydney\u2122 Health app to find care, share your digital ID card, and check your claims. You can understand your benefits, improve your health, and save money. Easily manage your benefits at your fingertips whenever you need them with your personalized health and wellness information all in one p\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/5f/ba/915fbaec-b6ee-2e8c-e782-89b553cfe3d2/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/5f/ba/915fbaec-b6ee-2e8c-e782-89b553cfe3d2/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222532.1.0%2B09273a9c%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "Sydney Health on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "Sydney Health on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eSydney Health",
+      "og:title": "\u200eSydney Health",
+      "og:image:height": "630",
+      "version": "2532.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eUse the Sydney\u2122 Health app to find care, share your digital ID card, and check your claims. You can understand your benefits, improve your health, and save money. Easily manage your benefits at your fingertips whenever you need them with your personalized health and wellness information all in one p\u2026",
+      "og:locale": "en_US",
+      "apple:content_id": "1463423283",
+      "og:url": "https://apps.apple.com/us/app/sydney-health/id1463423283"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/5f/ba/915fbaec-b6ee-2e8c-e782-89b553cfe3d2/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "TapID - Mobile ID Verifier on the App Store",
+   "htmlTitle": "TapID - <b>Mobile ID</b> Verifier on the App Store",
+   "link": "https://apps.apple.com/us/app/tapid-mobile-id-verifier/id6459659909",
+   "displayLink": "apps.apple.com",
+   "snippet": "Oct 19, 2024 ... TapID - Mobile ID Verifier 4+. Scan Digital ... - California / CA: on State Application. *Mobile IDs are also known as Digital ID or mDL.",
+   "htmlSnippet": "Oct 19, 2024 <b>...</b> TapID - <b>Mobile ID</b> Verifier 4+. Scan Digital ... - <b>California</b> / CA: on State Application. *Mobile IDs are also known as <b>Digital ID</b> or <b>mDL</b>.",
+   "formattedUrl": "https://apps.apple.com/us/app/tapid-mobile-id-verifier/id6459659909",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/tapid-<b>mobile-id</b>-verifier/id6459659909",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR72pjm-CcgXQWaMz9H4exq1N64J2GVZuBqaV8vmGiSGSiDd91ZSLSwNm4&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/8b/04/568b0423-6c7f-0a0a-53af-69146ee5eb2c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eTapID is a revolutionary tool that enables any business (like bars, restaurants, liquor stores) to start accepting & verifying Mobile IDs.\nMobile IDs are found in customer's Apple Wallet, Google Wallet, or State applications.\n\nInstructions:\n- Press \"Start Verification\"\n- Tap your customer's phone wi\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/8b/04/568b0423-6c7f-0a0a-53af-69146ee5eb2c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/8b/04/568b0423-6c7f-0a0a-53af-69146ee5eb2c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222532.1.0%2B09273a9c%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "TapID - Mobile ID Verifier on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "TapID - Mobile ID Verifier on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eTapID - Mobile ID Verifier",
+      "og:title": "\u200eTapID - Mobile ID Verifier",
+      "og:image:height": "630",
+      "version": "2532.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eTapID is a revolutionary tool that enables any business (like bars, restaurants, liquor stores) to start accepting & verifying Mobile IDs.\nMobile IDs are found in customer's Apple Wallet, Google Wallet, or State applications.\n\nInstructions:\n- Press \"Start Verification\"\n- Tap your customer's phone wi\u2026",
+      "og:locale": "en_US",
+      "apple:content_id": "6459659909",
+      "og:url": "https://apps.apple.com/us/app/tapid-mobile-id-verifier/id6459659909"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/8b/04/568b0423-6c7f-0a0a-53af-69146ee5eb2c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "UCI Campus Rec i App Store",
+   "htmlTitle": "UCI Campus Rec i App Store",
+   "link": "https://apps.apple.com/se/app/uci-campus-rec/id1531938940",
+   "displayLink": "apps.apple.com",
+   "snippet": "Aug 3, 2024 ... Official app for University of California, Irvine Campus Rec; includes A digital ID Card, Group Fitness listings, Intramural Sports,\u00a0...",
+   "htmlSnippet": "Aug 3, 2024 <b>...</b> Official app for University of <b>California</b>, Irvine Campus Rec; includes A <b>digital ID</b> Card, Group Fitness listings, Intramural Sports,&nbsp;...",
+   "formattedUrl": "https://apps.apple.com/se/app/uci-campus-rec/id1531938940",
+   "htmlFormattedUrl": "https://apps.apple.com/se/app/uci-campus-rec/id1531938940",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiS2aAR0NMhrs11W_fDO-8NvHNMZEdaRkubt3EGJ43yJZsov5qxZFd5yl2&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/ed/d7/8aedd765-419f-4cdc-bd9f-b93fcbf65af4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App\u00a0Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eOfficial app for University of California, Irvine Campus Rec; includes A digital ID Card, Group Fitness listings, Intramural Sports, Club Sports and more!\n\n \n\nStay up to date with UCI Campus Rec and Group Fitness by downloading our NEW mobile app and be sure to opt into push notifications so we can\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/ed/d7/8aedd765-419f-4cdc-bd9f-b93fcbf65af4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/ed/d7/8aedd765-419f-4cdc-bd9f-b93fcbf65af4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222520.0.0%2B019dd398%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "UCI Campus Rec i App Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "UCI Campus Rec i App Store",
+      "og:type": "website",
+      "twitter:title": "\u200eUCI Campus Rec",
+      "og:title": "\u200eUCI Campus Rec",
+      "og:image:height": "630",
+      "version": "2520.0.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eOfficial app for University of California, Irvine Campus Rec; includes A digital ID Card, Group Fitness listings, Intramural Sports, Club Sports and more!\n\n \n\nStay up to date with UCI Campus Rec and Group Fitness by downloading our NEW mobile app and be sure to opt into push notifications so we can\u2026",
+      "og:locale": "sv_SE",
+      "apple:content_id": "1531938940",
+      "og:url": "https://apps.apple.com/se/app/uci-campus-rec/id1531938940"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/ed/d7/8aedd765-419f-4cdc-bd9f-b93fcbf65af4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "UCI Campus Rec on the App Store",
+   "htmlTitle": "UCI Campus Rec on the App Store",
+   "link": "https://apps.apple.com/us/app/uci-campus-rec/id1531938940",
+   "displayLink": "apps.apple.com",
+   "snippet": "Official app for University of California, Irvine Campus Rec; includes A digital ID Card, Group Fitness listings, Intramural Sports, Club Sports and more!",
+   "htmlSnippet": "Official app for University of <b>California</b>, Irvine Campus Rec; includes A <b>digital ID</b> Card, Group Fitness listings, Intramural Sports, Club Sports and more!",
+   "formattedUrl": "https://apps.apple.com/us/app/uci-campus-rec/id1531938940",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/uci-campus-rec/id1531938940",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJyNyTkwc70GloiQbwbr8FdQ4dffRjpzTpTqDsdStk_0xSwgpvocc24ZPv&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/ed/d7/8aedd765-419f-4cdc-bd9f-b93fcbf65af4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eOfficial app for University of California, Irvine Campus Rec; includes A digital ID Card, Group Fitness listings, Intramural Sports, Club Sports and more!\n\n \n\nStay up to date with UCI Campus Rec and Group Fitness by downloading our NEW mobile app and be sure to opt into push notifications so we can\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/ed/d7/8aedd765-419f-4cdc-bd9f-b93fcbf65af4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/ed/d7/8aedd765-419f-4cdc-bd9f-b93fcbf65af4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222530.1.0%2Bdd954829%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "UCI Campus Rec on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "UCI Campus Rec on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eUCI Campus Rec",
+      "og:title": "\u200eUCI Campus Rec",
+      "og:image:height": "630",
+      "version": "2530.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eOfficial app for University of California, Irvine Campus Rec; includes A digital ID Card, Group Fitness listings, Intramural Sports, Club Sports and more!\n\n \n\nStay up to date with UCI Campus Rec and Group Fitness by downloading our NEW mobile app and be sure to opt into push notifications so we can\u2026",
+      "og:locale": "en_US",
+      "apple:content_id": "1531938940",
+      "og:url": "https://apps.apple.com/us/app/uci-campus-rec/id1531938940"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/ed/d7/8aedd765-419f-4cdc-bd9f-b93fcbf65af4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "GEICO Mobile - Car Insurance on the App Store",
+   "htmlTitle": "GEICO Mobile - Car Insurance on the App Store",
+   "link": "https://apps.apple.com/us/app/geico-mobile-car-insurance/id331763096",
+   "displayLink": "apps.apple.com",
+   "snippet": "Find out why below. FEATURES. DIGITAL ID CARDS. The days of rummaging through ... It's like a hug for your car. NOTICE TO CALIFORNIA RESIDENTS: See our\u00a0...",
+   "htmlSnippet": "Find out why below. FEATURES. <b>DIGITAL ID</b> CARDS. The days of rummaging through ... It&#39;s like a hug for your car. NOTICE TO <b>CALIFORNIA</b> RESIDENTS: See our&nbsp;...",
+   "formattedUrl": "https://apps.apple.com/us/app/geico-mobile-car-insurance/id331763096",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/geico-mobile-car-insurance/id331763096",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXIyFHminD5M9qqs7Y-g7d1htdKL6RgBdzvFPtW5uiQGhuUhhIUFkmXR6M&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/38/00/283800f3-c1f8-6385-0813-e04b72e03df3/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eLife is full of lane changes. Some expected. Some not as much. No problem, because the GEICO Mobile app is here to lend a hand if you ever need a quote, policy update, tow, or you just need to change your address. Now, when life changes lanes we\u2019ll be right there because we\u2019re always headed in your\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/38/00/283800f3-c1f8-6385-0813-e04b72e03df3/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/38/00/283800f3-c1f8-6385-0813-e04b72e03df3/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222530.1.0%2Bdd954829%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "GEICO Mobile - Car Insurance on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "GEICO Mobile - Car Insurance on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eGEICO Mobile - Car Insurance",
+      "og:title": "\u200eGEICO Mobile - Car Insurance",
+      "og:image:height": "630",
+      "version": "2530.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eLife is full of lane changes. Some expected. Some not as much. No problem, because the GEICO Mobile app is here to lend a hand if you ever need a quote, policy update, tow, or you just need to change your address. Now, when life changes lanes we\u2019ll be right there because we\u2019re always headed in your\u2026",
+      "og:locale": "en_US",
+      "apple:content_id": "331763096",
+      "og:url": "https://apps.apple.com/us/app/geico-mobile-car-insurance/id331763096"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/38/00/283800f3-c1f8-6385-0813-e04b72e03df3/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "UCI Campus Rec tr\u00ean App Store",
+   "htmlTitle": "UCI Campus Rec tr\u00ean App Store",
+   "link": "https://apps.apple.com/vn/app/uci-campus-rec/id1531938940?l=vi",
+   "displayLink": "apps.apple.com",
+   "snippet": "Aug 3, 2024 ... Official app for University of California, Irvine Campus Rec; includes A digital ID Card, Group Fitness listings, Intramural Sports,\u00a0...",
+   "htmlSnippet": "Aug 3, 2024 <b>...</b> Official app for University of <b>California</b>, Irvine Campus Rec; includes A <b>digital ID</b> Card, Group Fitness listings, Intramural Sports,&nbsp;...",
+   "formattedUrl": "https://apps.apple.com/vn/app/uci-campus-rec/id1531938940?l=vi",
+   "htmlFormattedUrl": "https://apps.apple.com/vn/app/uci-campus-rec/id1531938940?l=vi",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJyNyTkwc70GloiQbwbr8FdQ4dffRjpzTpTqDsdStk_0xSwgpvocc24ZPv&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/ed/d7/8aedd765-419f-4cdc-bd9f-b93fcbf65af4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App\u00a0Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eOfficial app for University of California, Irvine Campus Rec; includes A digital ID Card, Group Fitness listings, Intramural Sports, Club Sports and more!\n\n \n\nStay up to date with UCI Campus Rec and Group Fitness by downloading our NEW mobile app and be sure to opt into push notifications so we can\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/ed/d7/8aedd765-419f-4cdc-bd9f-b93fcbf65af4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/ed/d7/8aedd765-419f-4cdc-bd9f-b93fcbf65af4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222530.1.0%2Bdd954829%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "UCI Campus Rec tr\u00ean App Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "UCI Campus Rec tr\u00ean App Store",
+      "og:type": "website",
+      "twitter:title": "\u200eUCI Campus Rec",
+      "og:title": "\u200eUCI Campus Rec",
+      "og:image:height": "630",
+      "version": "2530.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eOfficial app for University of California, Irvine Campus Rec; includes A digital ID Card, Group Fitness listings, Intramural Sports, Club Sports and more!\n\n \n\nStay up to date with UCI Campus Rec and Group Fitness by downloading our NEW mobile app and be sure to opt into push notifications so we can\u2026",
+      "og:locale": "vi_VI",
+      "apple:content_id": "1531938940",
+      "og:url": "https://apps.apple.com/vn/app/uci-campus-rec/id1531938940?l=vi"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/ed/d7/8aedd765-419f-4cdc-bd9f-b93fcbf65af4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "LEGOLAND\u00ae New York Resort dans l'App Store",
+   "htmlTitle": "LEGOLAND\u00ae New York Resort dans l&#39;App Store",
+   "link": "https://apps.apple.com/us/app/legoland-new-york-resort/id1551664372?l=fr-FR",
+   "displayLink": "apps.apple.com",
+   "snippet": "LEGOLAND California - Official. Voyages ... New York Mobile ID. Voyages. \u00c9tats-Unis (Fran\u00e7ais France). Espa\u00f1ol (M\u00e9xico)\u00a0...",
+   "htmlSnippet": "LEGOLAND <b>California</b> - Official. Voyages ... New York <b>Mobile ID</b>. Voyages. \u00c9tats-Unis (Fran\u00e7ais France). Espa\u00f1ol (M\u00e9xico)&nbsp;...",
+   "formattedUrl": "https://apps.apple.com/us/app/legoland-new-york.../id1551664372?l=fr...",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/legoland-new-york.../id1551664372?l=fr...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWt4ahJNmIGy3nRtW7nznXgpJuYlH_N3WeKFXjFZ8zaLT8iUtGThnWhGc&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/19/ef/a519eff2-609f-bc0d-cd02-53ef2cedf633/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App\u00a0Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eAhoy there! Captain Brickbeard here. Aaarrrrgh you ready to build the perfect day at LEGOLAND\u00ae New York Resort? The app you\u2019re about to download be every Pirate\u2019s treasure trove when it comes to adventures at LEGOLAND New York Resort. You\u2019ll be able to: \n\n\u2022 Take a peek at wait times\n\n\u2022 Navigate thro\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/19/ef/a519eff2-609f-bc0d-cd02-53ef2cedf633/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/19/ef/a519eff2-609f-bc0d-cd02-53ef2cedf633/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222532.1.0%2B09273a9c%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "LEGOLAND\u00ae New York Resort dans l\u2019App Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "LEGOLAND\u00ae New York Resort dans l\u2019App Store",
+      "og:type": "website",
+      "twitter:title": "\u200eLEGOLAND\u00ae New York Resort",
+      "og:title": "\u200eLEGOLAND\u00ae New York Resort",
+      "og:image:height": "630",
+      "version": "2532.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eAhoy there! Captain Brickbeard here. Aaarrrrgh you ready to build the perfect day at LEGOLAND\u00ae New York Resort? The app you\u2019re about to download be every Pirate\u2019s treasure trove when it comes to adventures at LEGOLAND New York Resort. You\u2019ll be able to: \n\n\u2022 Take a peek at wait times\n\n\u2022 Navigate thro\u2026",
+      "og:locale": "fr_FR",
+      "apple:content_id": "1551664372",
+      "og:url": "https://apps.apple.com/us/app/legoland-new-york-resort/id1551664372?l=fr-FR"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/19/ef/a519eff2-609f-bc0d-cd02-53ef2cedf633/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "GEICO Mobile - Car Insurance on the App Store",
+   "htmlTitle": "GEICO Mobile - Car Insurance on the App Store",
+   "link": "https://apps.apple.com/de/app/geico-mobile-car-insurance/id331763096?l=en",
+   "displayLink": "apps.apple.com",
+   "snippet": "8 days ago ... Find out why below. FEATURES. DIGITAL ID CARDS. The days of rummaging ... It's like a hug for your car. NOTICE TO CALIFORNIA RESIDENTS\u00a0...",
+   "htmlSnippet": "8 days ago <b>...</b> Find out why below. FEATURES. <b>DIGITAL ID</b> CARDS. The days of rummaging ... It&#39;s like a hug for your car. NOTICE TO <b>CALIFORNIA</b> RESIDENTS&nbsp;...",
+   "formattedUrl": "https://apps.apple.com/de/app/geico-mobile-car.../id331763096?l=en",
+   "htmlFormattedUrl": "https://apps.apple.com/de/app/geico-mobile-car.../id331763096?l=en",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXIyFHminD5M9qqs7Y-g7d1htdKL6RgBdzvFPtW5uiQGhuUhhIUFkmXR6M&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/38/00/283800f3-c1f8-6385-0813-e04b72e03df3/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App\u00a0Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eLife is full of lane changes. Some expected. Some not as much. No problem, because the GEICO Mobile app is here to lend a hand if you ever need a quote, policy update, tow, or you just need to change your address. Now, when life changes lanes we\u2019ll be right there because we\u2019re always headed in your\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/38/00/283800f3-c1f8-6385-0813-e04b72e03df3/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/38/00/283800f3-c1f8-6385-0813-e04b72e03df3/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222532.1.0%2B09273a9c%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "GEICO Mobile - Car Insurance on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "GEICO Mobile - Car Insurance on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eGEICO Mobile - Car Insurance",
+      "og:title": "\u200eGEICO Mobile - Car Insurance",
+      "og:image:height": "630",
+      "version": "2532.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eLife is full of lane changes. Some expected. Some not as much. No problem, because the GEICO Mobile app is here to lend a hand if you ever need a quote, policy update, tow, or you just need to change your address. Now, when life changes lanes we\u2019ll be right there because we\u2019re always headed in your\u2026",
+      "og:locale": "en_GB",
+      "apple:content_id": "331763096",
+      "og:url": "https://apps.apple.com/de/app/geico-mobile-car-insurance/id331763096?l=en-GB"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/38/00/283800f3-c1f8-6385-0813-e04b72e03df3/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/1200x630wa.png"
+     }
+    ]
+   }
+  }
+ ]
+}

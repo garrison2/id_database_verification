@@ -1,0 +1,547 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"New Hampshire\" \"privacy act\" OR \"privacy law\"",
+    "totalResults": "4540000",
+    "searchTerms": "\"New Hampshire\" \"privacy act\" OR \"privacy law\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"New Hampshire\" \"privacy act\" OR \"privacy law\"",
+    "totalResults": "4540000",
+    "searchTerms": "\"New Hampshire\" \"privacy act\" OR \"privacy law\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.136683,
+  "formattedSearchTime": "0.14",
+  "totalResults": "4540000",
+  "formattedTotalResults": "4,540,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "New Hampshire Data Privacy Act",
+   "htmlTitle": "<b>New Hampshire</b> Data <b>Privacy Act</b>",
+   "link": "https://www.doj.nh.gov/sites/g/files/ehbemt721/files/inline-documents/sonh/data-privacy-faqs-revised_0.pdf",
+   "displayLink": "www.doj.nh.gov",
+   "snippet": "Jan 1, 2025 ... On January 1, 2025, the New Hampshire Data Privacy Act (\u201cNHDPA\u201d), RSA 507-H, came into effect. This statute is the result of two bills,\u00a0...",
+   "htmlSnippet": "Jan 1, 2025 <b>...</b> On January 1, 2025, the <b>New Hampshire</b> Data <b>Privacy Act</b> (\u201cNHDPA\u201d), RSA 507-H, came into effect. This statute is the result of two bills,&nbsp;...",
+   "formattedUrl": "https://www.doj.nh.gov/sites/g/files/.../data-privacy-faqs-revised_0.pdf",
+   "htmlFormattedUrl": "https://www.doj.nh.gov/sites/g/files/.../data-privacy-faqs-revised_0.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "savelocal": "1",
+      "moddate": "D:20250113101443-05'00'",
+      "creationdate": "D:20250113101423-05'00'",
+      "creator": "Acrobat PDFMaker 24 for Word",
+      "sourcemodified": "D:20250113151349",
+      "author": "Cormack,  Warren",
+      "producer": "Adobe PDF Library 24.5.96",
+      "company": "State of New Hampshire"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "New Hampshire Enacts Comprehensive Data Privacy Law | White ...",
+   "htmlTitle": "<b>New Hampshire</b> Enacts Comprehensive Data <b>Privacy Law</b> | White ...",
+   "link": "https://www.whitecase.com/insight-alert/new-hampshire-enacts-comprehensive-data-privacy-law",
+   "displayLink": "www.whitecase.com",
+   "snippet": "May 6, 2024 ... ... privacy law, when Governor Chris Sununu signed SB 225 (the \"New Hampshire Privacy Act\"). The law will take effect January 1, 2025. In this\u00a0...",
+   "htmlSnippet": "May 6, 2024 <b>...</b> ... <b>privacy law</b>, when Governor Chris Sununu signed SB 225 (the &quot;<b>New Hampshire Privacy Act</b>&quot;). The law will take effect January 1, 2025. In this&nbsp;...",
+   "formattedUrl": "https://www.whitecase.com/.../new-hampshire-enacts-comprehensive-data-p...",
+   "htmlFormattedUrl": "https://www.whitecase.com/.../<b>new-hampshire</b>-enacts-comprehensive-data-<b>p</b>...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb95qsr2WLKEyVojn_XX7VEAi92UYAs2Ro0UaF4iHXUf5RNRD_p9D1Ry6B&s",
+      "width": "367",
+      "height": "137"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.whitecase.com/sites/default/files/images/hero/2022/08/Client_Alerts_option_38_4000x1500.jpg",
+      "og:image:width": "1600",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "New Hampshire Enacts Comprehensive Data Privacy Law",
+      "handheldfriendly": "true",
+      "og:title": "New Hampshire Enacts Comprehensive Data Privacy Law | White & Case LLP",
+      "og:image:height": "600",
+      "og:description": "On March 6, 2024, New Hampshire joined the steadily expanding number of states adopting a comprehensive data privacy law, when Governor Chris Sununu signed SB 225 (the \"New Hampshire Privacy Act\"). The law will take effect January 1, 2025. In this latest in our series of articles on US State Data Privacy Laws, we summarize the key components of the New Hampshire Privacy Act.",
+      "twitter:image": "https://www.whitecase.com/sites/default/files/images/hero/2022/08/Client_Alerts_option_38_4000x1500.jpg",
+      "twitter:site": "@WhiteCase",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "On March 6, 2024, New Hampshire joined the steadily expanding number of states adopting a comprehensive data privacy law, when Governor Chris Sununu signed SB 225 (the \"New Hampshire Privacy Act\"). The law will take effect January 1, 2025. In this latest in our series of articles on US State Data Privacy Laws, we summarize the key components of the New Hampshire Privacy Act.",
+      "mobileoptimized": "width",
+      "og:url": "https://www.whitecase.com/insight-alert/new-hampshire-enacts-comprehensive-data-privacy-law"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.whitecase.com/sites/default/files/images/hero/2022/08/Client_Alerts_option_38_4000x1500.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Bill Text: NH SB255 | 2023 | Regular Session | Amended | LegiScan",
+   "htmlTitle": "Bill Text: NH SB255 | 2023 | Regular Session | Amended | LegiScan",
+   "link": "https://legiscan.com/NH/text/SB255/id/2750381",
+   "displayLink": "legiscan.com",
+   "snippet": "(m) Personal data regulated by the Family Educational Rights and Privacy Act, 20 U.S.C. ... New Hampshire Consumer Protection Act, RSA 358-A. The Attorney\u00a0...",
+   "htmlSnippet": "(m) Personal data regulated by the Family Educational Rights and <b>Privacy Act</b>, 20 U.S.C. ... <b>New Hampshire</b> Consumer Protection Act, RSA 358-A. The Attorney&nbsp;...",
+   "formattedUrl": "https://legiscan.com/NH/text/SB255/id/2750381",
+   "htmlFormattedUrl": "https://legiscan.com/NH/text/SB255/id/2750381",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNHoMDMLlw-6Rym0vQ_2fLAuGOSEIUM7kfXxyxX7YR121bLjATyWMlKPI&s",
+      "width": "200",
+      "height": "200"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://acme.legiscan.com/images/legiscan_opengraph_200x200.png",
+      "og:type": "Article",
+      "og:image:width": "200",
+      "fb:profile_id": "454937694543893",
+      "twitter:card": "summary",
+      "twitter:title": "New Hampshire SB255 | 2023 | Regular Session",
+      "og:site_name": "LegiScan",
+      "twitter:url": "https://legiscan.com/NH/text/SB255/id/2750381",
+      "og:title": "New Hampshire SB255 | 2023 | Regular Session",
+      "og:image:height": "200",
+      "og:image:type": "image/png",
+      "og:description": "Bill Text (2023-09-26) Relative to the expectation of privacy. [Executive Session: 11/08/2023 11:00 am Legislative Office Building 206-208 House Calendar 39]",
+      "twitter:creator": "@LegiScanNH",
+      "twitter:image": "https://acme.legiscan.com/images/legiscan_twittercard.png",
+      "fb:app_id": "113560478825038",
+      "twitter:site": "@LegiScan",
+      "twitter:description": "Bill Text (2023-09-26) Relative to the expectation of privacy. [Executive Session: 11/08/2023 11:00 am Legislative Office Building 206-208 House Calendar 39]",
+      "og:url": "https://legiscan.com/NH/text/SB255/id/2750381"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://acme.legiscan.com/images/legiscan_opengraph_200x200.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "US: New Hampshire Enacts 15th Comprehensive State Privacy Law ...",
+   "htmlTitle": "US: <b>New Hampshire</b> Enacts 15th Comprehensive State <b>Privacy Law</b> ...",
+   "link": "https://privacymatters.dlapiper.com/2024/04/us-new-hampshire-enacts-15th-comprehensive-state-privacy-law/",
+   "displayLink": "privacymatters.dlapiper.com",
+   "snippet": "Apr 12, 2024 ... US: New Hampshire Enacts 15th Comprehensive State Privacy Law ... On March 6, 2024, the New Hampshire Governor signed into law Senate Bill 255 (\u00a0...",
+   "htmlSnippet": "Apr 12, 2024 <b>...</b> US: <b>New Hampshire</b> Enacts 15th Comprehensive State <b>Privacy Law</b> ... On March 6, 2024, the <b>New Hampshire</b> Governor signed into law Senate Bill 255 (&nbsp;...",
+   "formattedUrl": "https://privacymatters.dlapiper.com/.../us-new-hampshire-enacts-15th-comp...",
+   "htmlFormattedUrl": "https://privacymatters.dlapiper.com/.../us-<b>new-hampshire</b>-enacts-15th-comp...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHcD3QhvGfVHruenJnSwUMpHZOo5UqibdViAi-dOiPlflCheym5pEluRgB&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/053/883/975/g4ZpR2ONeYJAv5ELQEqvo9WBA/7e1a4c8816815f40db9e431f762a0f0e19e1d4cc.png",
+      "og:type": "article",
+      "article:published_time": "2024-04-12T21:46:47+00:00",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Privacy Matters",
+      "author": "Kate Lucente, Chelsea Rissmiller, Matt Danaher, Wendy Novotne",
+      "og:title": "US: New Hampshire Enacts 15th Comprehensive State Privacy Law",
+      "og:image:height": "630",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://privacymatters.dlapiper.com/wp-content/uploads/sites/32/2023/07/cropped-Favicon_512x512-270x270.gif",
+      "og:description": "On March 6, 2024, the New Hampshire Governor signed into law Senate Bill 255 (the \u201cNH Act\u201d), making New Hampshire the 15th state to adopt a comprehensive",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://privacymatters.dlapiper.com/2024/04/us-new-hampshire-enacts-15th-comprehensive-state-privacy-law/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/053/883/975/g4ZpR2ONeYJAv5ELQEqvo9WBA/7e1a4c8816815f40db9e431f762a0f0e19e1d4cc.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Attorney General Formella Announces Creation of New Data Privacy ...",
+   "htmlTitle": "Attorney General Formella Announces Creation of New Data Privacy ...",
+   "link": "https://www.doj.nh.gov/news-and-media/attorney-general-formella-announces-creation-new-data-privacy-unit",
+   "displayLink": "www.doj.nh.gov",
+   "snippet": "Aug 15, 2024 ... The Unit will be primarily responsible with enforcing compliance with RSA 507-H (the \u201cNew Hampshire Data Privacy Act\u201d or the \u201cAct\u201d).",
+   "htmlSnippet": "Aug 15, 2024 <b>...</b> The Unit will be primarily responsible with enforcing compliance with RSA 507-H (the \u201c<b>New Hampshire</b> Data <b>Privacy Act</b>\u201d or the \u201cAct\u201d).",
+   "formattedUrl": "https://www.doj.nh.gov/.../attorney-general-formella-announces-creation-n...",
+   "htmlFormattedUrl": "https://www.doj.nh.gov/.../attorney-general-formella-announces-creation-n...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRByd8gmptiL7-46qTcGGhcceg8ZT5r5oyQFPDWAObKV2XsygxB8SHIBv0&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "organization": [
+     {
+      "contactpoint": "Michael S. Garrity,",
+      "telephone": "(603) 931-9375",
+      "department": "Director of Communications",
+      "email": "michael.s.garrity@doj.nh.gov"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.doj.nh.gov/sites/g/files/ehbemt721/files/2020-05/default_social_card.png",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Attorney General Formella Announces Creation of New Data Privacy Unit",
+      "theme-color": "#004785",
+      "og:site_name": "New Hampshire Department of Justice",
+      "twitter:site:id": "816282120767291392",
+      "handheldfriendly": "true",
+      "twitter:url": "https://www.doj.nh.gov/news-and-media/attorney-general-formella-announces-creation-new-data-privacy-unit",
+      "og:title": "Attorney General Formella Announces Creation of New Data Privacy Unit",
+      "og:description": "Concord, NH - Attorney General John M. Formella announces the creation of a new Data Privacy Unit (the \u201cUnit\u201d) to be housed within the Consumer Protection and Antitrust Bureau of the New Hampshire Attorney General\u2019s Office. The Unit will be primarily responsible with enforcing compliance with RSA 507-H (the \u201cNew Hampshire Data Privacy Act\u201d or the \u201cAct\u201d).\u00a0",
+      "twitter:image": "https://www.doj.nh.gov/sites/g/files/ehbemt721/files/2020-05/default_social_card.png",
+      "twitter:image:alt": "State of NH Twitter Card",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Concord, NH - Attorney General John M. Formella announces the creation of a new Data Privacy Unit (the \u201cUnit\u201d) to be housed within the Consumer Protection and Antitrust Bureau of the New Hampshire Attorney General\u2019s Office. The Unit will be primarily responsible with enforcing compliance with RSA 507-H (the \u201cNew Hampshire Data Privacy Act\u201d or the \u201cAct\u201d).\u00a0",
+      "mobileoptimized": "width",
+      "og:url": "https://www.doj.nh.gov/news-and-media/attorney-general-formella-announces-creation-new-data-privacy-unit"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.doj.nh.gov/sites/g/files/ehbemt721/files/2020-05/default_social_card.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Understanding the New Hampshire Privacy Act (NHPA): What You ...",
+   "htmlTitle": "Understanding the <b>New Hampshire Privacy Act</b> (NHPA): What You ...",
+   "link": "https://www.osano.com/articles/new-hampshire-privacy-act-nhpa",
+   "displayLink": "www.osano.com",
+   "snippet": "Mar 19, 2024 ... Learn the ins and outs of the New Hampshire Privacy Act (NHPA) and how to become compliant with the data privacy law.",
+   "htmlSnippet": "Mar 19, 2024 <b>...</b> Learn the ins and outs of the <b>New Hampshire Privacy Act</b> (NHPA) and how to become compliant with the data <b>privacy law</b>.",
+   "formattedUrl": "https://www.osano.com/articles/new-hampshire-privacy-act-nhpa",
+   "htmlFormattedUrl": "https://www.osano.com/articles/<b>new-hampshire</b>-<b>privacy-act</b>-nhpa",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm8Sv_AC0yvdYW1uKzROpOJCM41jsvB1w4S5WaRVfMvwaZyOtalod_eIU&s",
+      "width": "318",
+      "height": "159"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "%23ffffff",
+      "og:image": "https://www.osano.com/hubfs/Data%20Privacy%20Platform%20Feature%20Announcement%20%2862%29.png",
+      "twitter:title": "Understanding the New Hampshire Privacy Act (NHPA): What You Need to Know",
+      "theme-color": "%23ffffff",
+      "og:image:width": "1024",
+      "og:image:alt": "Coin Featuring New Hampshire's State Motto",
+      "twitter:card": "summary_large_image",
+      "og:type": "article",
+      "twitter:domain": "www.osano.com",
+      "og:title": "Understanding the New Hampshire Privacy Act (NHPA): What You Need to Know",
+      "og:image:height": "512",
+      "msapplication-tileimage": "https://www.osano.com/hubfs/v2/icons/favicon/ms-icon-144x144.png",
+      "og:description": "Learn the ins and outs of the New Hampshire Privacy Act (NHPA) and how to become compliant with the data privacy law.",
+      "twitter:image": "https://www.osano.com/hubfs/Data%20Privacy%20Platform%20Feature%20Announcement%20%2862%29.png",
+      "referrer": "same-origin",
+      "twitter:image:alt": "Coin Featuring New Hampshire's State Motto",
+      "twitter:site": "@Osano",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Learn the ins and outs of the New Hampshire Privacy Act (NHPA) and how to become compliant with the data privacy law.",
+      "og:url": "https://www.osano.com/articles/new-hampshire-privacy-act-nhpa"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.osano.com/hubfs/Data%20Privacy%20Platform%20Feature%20Announcement%20%2862%29.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "New Hampshire's Comprehensive Data Privacy Legislation | Data ...",
+   "htmlTitle": "<b>New Hampshire&#39;s</b> Comprehensive Data Privacy Legislation | Data ...",
+   "link": "https://datamatters.sidley.com/2024/03/25/new-hampshires-comprehensive-data-privacy-legislation/",
+   "displayLink": "datamatters.sidley.com",
+   "snippet": "Mar 25, 2024 ... In some respects, New Hampshire's privacy law is comparatively more moderate than some other state laws. ... Privacy Act (CCPA) regulations\u00a0...",
+   "htmlSnippet": "Mar 25, 2024 <b>...</b> In some respects, <b>New Hampshire&#39;s privacy law</b> is comparatively more moderate than some other state laws. ... <b>Privacy Act</b> (CCPA) regulations&nbsp;...",
+   "formattedUrl": "https://datamatters.sidley.com/.../new-hampshires-comprehensive-data-priva...",
+   "htmlFormattedUrl": "https://datamatters.sidley.com/.../<b>new-hampshire</b>s-comprehensive-data-priva...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxxQZ8MjBKe0TZyqdx-YVrhKwxqInYrB7roCdKJzQJmeV26_ZuvAMwrTA&s",
+      "width": "600",
+      "height": "70"
+     }
+    ],
+    "imageobject": [
+     {
+      "width": "0",
+      "url": "https://datamatters.sidley.com/wp-content/uploads/sites/2/2022/09/sidleyLogo-e1643922598198.png",
+      "height": "0"
+     },
+     {
+      "url": "https://datamatters.sidley.com/wp-content/uploads/sites/2/2022/09/sidleyLogo-e1643922598198.png"
+     }
+    ],
+    "person": [
+     {
+      "name": "Colleen Theresa Brown"
+     }
+    ],
+    "organization": [
+     {
+      "name": "Colleen Theresa Brown"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://datamatters.sidley.com/wp-content/uploads/sites/2/2022/12/MN-18359_Data-Matters_Hero_2128x250.jpg",
+      "og:type": "article",
+      "article:published_time": "2024-03-25T14:03:22+00:00",
+      "og:image:width": "2128",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Data Matters Privacy Blog",
+      "tec-api-origin": "https://datamatters.sidley.com",
+      "author": "Colleen Theresa Brown, Ben Cross, Joyce Yeager",
+      "og:title": "New Hampshire\u2019s Comprehensive Data Privacy Legislation | Data Matters Privacy Blog",
+      "og:image:height": "250",
+      "twitter:label1": "Written by",
+      "twitter:label2": "Est. reading time",
+      "og:image:type": "image/jpeg",
+      "og:description": "As the state boasting the headquarters of the International Association of Privacy Professionals, many have been watching the development of the New Hampshire comprehensive consumer data privacy law with great [\u2026]",
+      "twitter:data1": "Colleen Theresa Brown, Ben Cross, Joyce Yeager",
+      "twitter:data2": "6 minutes",
+      "article:modified_time": "2024-03-25T14:33:47+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://datamatters.sidley.com/2024/03/25/new-hampshires-comprehensive-data-privacy-legislation/",
+      "tec-api-version": "v1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://datamatters.sidley.com/wp-content/uploads/sites/2/2022/12/MN-18359_Data-Matters_Hero_2128x250.jpg"
+     }
+    ],
+    "blog": [
+     {
+      "datepublished": "2024-03-25T09:03:22-05:00"
+     }
+    ],
+    "blogposting": [
+     {
+      "datemodified": "2024-03-25 09:33:47",
+      "name": "New Hampshire\u2019s Comprehensive Data Privacy Legislation",
+      "text": "As the state boasting the headquarters of the International Association of Privacy Professionals, many have been watching the development of the New Hampshire comprehensive consumer data privacy...",
+      "headline": "New Hampshire\u2019s Comprehensive Data Privacy Legislation",
+      "datepublished": "2024-03-25T09:03:22-05:00",
+      "mainentityofpage": "New Hampshire\u2019s Comprehensive Data Privacy Legislation"
+     }
+    ],
+    "sitenavigationelement": [
+     {
+      "url": "Counseling and Regulatory Defense"
+     },
+     {
+      "url": "Home"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "New Hampshire Legislature Passes a Comprehensive Privacy Law",
+   "htmlTitle": "<b>New Hampshire</b> Legislature Passes a Comprehensive <b>Privacy Law</b>",
+   "link": "https://www.wilmerhale.com/en/insights/blogs/wilmerhale-privacy-and-cybersecurity-law/20240109-new-hampshire-legislature-passes-a-comprehensive-privacy-law",
+   "displayLink": "www.wilmerhale.com",
+   "snippet": "Jan 9, 2024 ... New Hampshire House passed a comprehensive privacy law, illustrating ... Privacy Act; information collected, processed, sold, or\u00a0...",
+   "htmlSnippet": "Jan 9, 2024 <b>...</b> <b>New Hampshire</b> House passed a comprehensive <b>privacy law</b>, illustrating ... <b>Privacy Act</b>; information collected, processed, sold, or&nbsp;...",
+   "formattedUrl": "https://www.wilmerhale.com/.../20240109-new-hampshire-legislature-passe...",
+   "htmlFormattedUrl": "https://www.wilmerhale.com/.../20240109-<b>new-hampshire</b>-legislature-passe...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPGKzkh78jQxpAJcpznBLY6A6nIJQnpknxE_ZcQXgerdMfYTBttveR_nHI&s",
+      "width": "318",
+      "height": "159"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.wilmerhale.com/-/media/1999d06b7c7d491399ed671b67bb465b.jpg",
+      "twitter:card": "summary_large_image",
+      "og:type": "website",
+      "twitter:site": "@WilmerHale",
+      "viewport": "initial-scale=1.0, maximum-scale=1, width=device-width, user-scalable=no",
+      "og:title": "New Hampshire Legislature Passes a Comprehensive Privacy Law",
+      "og:url": "https://www.wilmerhale.com/en/insights/blogs/wilmerhale-privacy-and-cybersecurity-law/20240109-new-hampshire-legislature-passes-a-comprehensive-privacy-law",
+      "og:description": "New Hampshire House passed a comprehensive privacy law, illustrating the complexity of the state privacy law landscape and why companies must continuously reevaluate their privacy compliance programs.",
+      "twitter:image": "https://www.wilmerhale.com/-/media/bc66023539a342a49ff171dd7f14f8e4.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.wilmerhale.com/-/media/1999d06b7c7d491399ed671b67bb465b.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "New Hampshire Passes New Consumer Privacy Law",
+   "htmlTitle": "<b>New Hampshire</b> Passes New Consumer <b>Privacy Law</b>",
+   "link": "https://www.mwe.com/insights/and-another-new-hampshire-passes-new-consumer-privacy-law/",
+   "displayLink": "www.mwe.com",
+   "snippet": "Jan 24, 2024 ... And Another: New Hampshire Passes New Consumer Privacy Law ... Privacy Act (NHPA), amended by the New Hampshire House of Representatives.",
+   "htmlSnippet": "Jan 24, 2024 <b>...</b> And Another: <b>New Hampshire</b> Passes New Consumer <b>Privacy Law</b> ... <b>Privacy Act</b> (NHPA), amended by the <b>New Hampshire</b> House of Representatives.",
+   "formattedUrl": "https://www.mwe.com/.../and-another-new-hampshire-passes-new-consume...",
+   "htmlFormattedUrl": "https://www.mwe.com/.../and-another-<b>new-hampshire</b>-passes-new-consume...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2zMduAb9UyU2m6H3DB5aXwbLKDhaZ74TSU5JM8d3PxnC3qdteVIwxYmk&s",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://d1198w4twoqz7i.cloudfront.net/wp-content/uploads/2024/01/24165753/GettyImages-1421511938-540x360-1685e6c-1.jpeg",
+      "post_title": "And Another: New Hampshire Passes New Consumer Privacy Law",
+      "og:image:width": "540",
+      "twitter:card": "summary_large_image",
+      "metadata": "David P. Saunders,Allison McSorley Tassel,John C. Ying,While this new state privacy law largely tracks the Virginia model, there are some nuances that make it unique and worth a thorough review.",
+      "og:site_name": "McDermott",
+      "published_year": "2024",
+      "sub_category": "on-the-subject",
+      "twitter:label1": "Est. reading time",
+      "modified_date_only": "2025-06",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://d1198w4twoqz7i.cloudfront.net/wp-content/uploads/2025/08/04011107/cropped-mwe-favicon-270x270.png",
+      "og:description": "While this new state privacy law largely tracks the Virginia model, there are some nuances that make it unique and worth a thorough review.",
+      "article:publisher": "https://www.facebook.com/McDermottWillandSchulte",
+      "twitter:data1": "6 minutes",
+      "twitter:site": "@mcdermottlaw",
+      "article:modified_time": "2025-06-02T03:26:59+00:00",
+      "lang": "en",
+      "og:type": "article",
+      "twitter:title": "New Hampshire Passes New Consumer Privacy Law",
+      "og:title": "New Hampshire Passes New Consumer Privacy Law",
+      "og:image:height": "360",
+      "polylang_langs": "en",
+      "modified_date": "2025-06-02T03:06:59",
+      "published_date_only": "2024-01",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "While this new state privacy law largely tracks the Virginia model, there are some nuances that make it unique and worth a thorough review.",
+      "og:locale": "en_US",
+      "insights_date": "January 24, 2024",
+      "og:url": "https://www.mwe.com/insights/and-another-new-hampshire-passes-new-consumer-privacy-law/",
+      "category": "insights",
+      "published_date": "2024-01-24T05:01:13"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://d1198w4twoqz7i.cloudfront.net/wp-content/uploads/2024/01/24165753/GettyImages-1421511938-540x360-1685e6c-1.jpeg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The New Hampshire Data Privacy Act (NHDPA) - Usercentrics",
+   "htmlTitle": "The <b>New Hampshire</b> Data <b>Privacy Act</b> (NHDPA) - Usercentrics",
+   "link": "https://usercentrics.com/knowledge-hub/new-hampshire-data-privacy-act-nhdpa/",
+   "displayLink": "usercentrics.com",
+   "snippet": "Apr 15, 2024 ... The New Hampshire Privacy Act is the 14th state-level data privacy law passed in the United States. It was the first data privacy bill\u00a0...",
+   "htmlSnippet": "Apr 15, 2024 <b>...</b> The <b>New Hampshire Privacy Act</b> is the 14th state-level data <b>privacy law</b> passed in the United States. It was the first data privacy bill&nbsp;...",
+   "formattedUrl": "https://usercentrics.com/knowledge.../new-hampshire-data-privacy-act-nhd...",
+   "htmlFormattedUrl": "https://usercentrics.com/knowledge.../<b>new-hampshire</b>-data-<b>privacy-act</b>-nhd...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyoqHWEPmtyf4ZoEOPKMYr56cnt5MM25wuWICfp1rOFehCUprFNRq0UhIC&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://usercentrics.com/wp-content/uploads/2024/04/new_hamp_consumer.png",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "New Hampshire Data Privacy Act (NHDPA): An Overview",
+      "og:site_name": "Consent Management Platform (CMP) Usercentrics",
+      "og:title": "The New Hampshire Privacy Act (NHPA) - Usercentrics",
+      "twitter:label1": "Est. reading time",
+      "og:description": "Usercentrics explains the New Hampshire Privacy Act (NHPA) and what the New Hampshire consumer protection law means for consumers and companies.",
+      "article:publisher": "https://www.facebook.com/usercentrics",
+      "twitter:data1": "25 minutes",
+      "facebook-domain-verification": "qcyltpqnixyhg6s4cu3aszib5ruew3",
+      "twitter:site": "@usercentrics",
+      "article:modified_time": "2025-07-24T11:28:43+00:00",
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=5.0, minimum-scale=1.0",
+      "og:locale": "en_US",
+      "og:url": "https://usercentrics.com/knowledge-hub/new-hampshire-data-privacy-act-nhdpa/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://usercentrics.com/wp-content/uploads/2024/04/new_hamp_consumer.png"
+     }
+    ]
+   }
+  }
+ ]
+}

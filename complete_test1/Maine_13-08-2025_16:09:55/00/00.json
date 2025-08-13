@@ -1,0 +1,418 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Maine\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "236000",
+    "searchTerms": "\"Maine\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Maine\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "236000",
+    "searchTerms": "\"Maine\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.189551,
+  "formattedSearchTime": "0.19",
+  "totalResults": "236000",
+  "formattedTotalResults": "236,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Set Up Mobile MaineCard - MaineCard - University of Maine",
+   "htmlTitle": "Set Up Mobile MaineCard - MaineCard - University of <b>Maine</b>",
+   "link": "https://umaine.edu/mainecard/mobile-mainecard/",
+   "displayLink": "umaine.edu",
+   "snippet": "Navigate to accounts.maine.edu and select \u201cManage multi-factor authentication\u201d. ... Your digital ID is ready for use on campus! Once your ID is added to your\u00a0...",
+   "htmlSnippet": "Navigate to accounts.<b>maine</b>.edu and select \u201cManage multi-factor authentication\u201d. ... Your <b>digital ID</b> is ready for use on campus! Once your ID is added to your&nbsp;...",
+   "formattedUrl": "https://umaine.edu/mainecard/mobile-mainecard/",
+   "htmlFormattedUrl": "https://u<b>maine</b>.edu/<b>maine</b>card/mobile-<b>maine</b>card/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS50NGJ5dcafvlKYI1zyvmoN41TbPsr4bopOisxah45_fscCSEhVPt1Llw&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "thumbnail": [
+     {
+      "src": "https://umaine.edu/mainecard/wp-content/uploads/sites/685/2024/04/mobile-mainecard-150x150.png"
+     }
+    ],
+    "organization": [
+     {
+      "name": "MaineCard Service Center",
+      "telephone": "Tel: 207-581-2273",
+      "faxnumber": "Fax:",
+      "email": "um.mainecard@maine.edu"
+     }
+    ],
+    "postaladdress": [
+     {
+      "addresslocality": "Orono, ME",
+      "postalcode": "04469",
+      "streetaddress": "DTAV Community Center"
+     },
+     {
+      "addresslocality": "Orono",
+      "postalcode": "04469",
+      "addressregion": "ME"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://umaine.edu/mainecard/wp-content/uploads/sites/685/2024/04/mobile-mainecard.png",
+      "og:image:width": "889",
+      "twitter:card": "summary",
+      "msapplication-square70x70logo": "https://umaine.edu/mainecard/wp-content/themes/umaine/assets/images/favicon/mstile-70x70.png",
+      "og:site_name": "MaineCard Service Center",
+      "tec-api-origin": "https://umaine.edu/mainecard",
+      "msapplication-wide310x150logo": "https://umaine.edu/mainecard/wp-content/themes/umaine/assets/images/favicon/mstile-310x150.png",
+      "msapplication-tileimage": "https://umaine.edu/mainecard/wp-content/themes/umaine/assets/images/favicon/mstile-144x144.png",
+      "og:description": "Learn more about the Mobile MaineCard and enroll today. See how a Mobile MaineCard can transform your on-campus experience!",
+      "og:image:secure_url": "https://umaine.edu/mainecard/wp-content/uploads/sites/685/2024/04/mobile-mainecard.png",
+      "twitter:image": "https://umaine.edu/mainecard/wp-content/uploads/sites/685/2024/04/mobile-mainecard.png",
+      "dc.source": "https://umaine.edu/mainecard/",
+      "msapplication-square310x310logo": "https://umaine.edu/mainecard/wp-content/themes/umaine/assets/images/favicon/mstile-310x310.png",
+      "tec-api-version": "v1",
+      "application-name": "The University of Maine",
+      "msapplication-tilecolor": "#79bce7",
+      "dc.description": "Learn more about the Mobile MaineCard and enroll today. See how a Mobile MaineCard can transform your on-campus experience!",
+      "thumbnail": "https://umaine.edu/mainecard/wp-content/uploads/sites/685/2024/04/mobile-mainecard-150x150.png",
+      "og:type": "article",
+      "og:image:alt": "Mobile Mainecard logo with bear",
+      "twitter:title": "Set Up Mobile MaineCard  - MaineCard - University of Maine",
+      "og:title": "Set Up Mobile MaineCard  - MaineCard - University of Maine",
+      "og:image:height": "889",
+      "msapplication-square150x150logo": "https://umaine.edu/mainecard/wp-content/themes/umaine/assets/images/favicon/mstile-150x150.png",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Learn more about the Mobile MaineCard and enroll today. See how a Mobile MaineCard can transform your on-campus experience!",
+      "dc.relation": "https://umaine.edu/mainecard/mobile-mainecard/",
+      "dc.title": "Set Up Mobile MaineCard  - MaineCard - University of Maine",
+      "og:locale": "en_US",
+      "dc.language": "en_US",
+      "og:url": "https://umaine.edu/mainecard/mobile-mainecard/"
+     }
+    ],
+    "educationalorganization": [
+     {
+      "name": "University of Maine",
+      "telephone": "207.581.1865"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://umaine.edu/mainecard/wp-content/uploads/sites/685/2023/10/Untitled-design-9.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver's Licenses Will Soon Be Coming To The iPhone And Apple ...",
+   "htmlTitle": "Driver&#39;s Licenses Will Soon Be Coming To The iPhone And Apple ...",
+   "link": "https://www.mainepublic.org/npr-news/2021-09-02/drivers-licenses-will-soon-be-coming-to-the-iphone-and-apple-watch-in-these-8-states",
+   "displayLink": "www.mainepublic.org",
+   "snippet": "Sep 2, 2021 ... How Are Maine Kids Doing? Connecting Communities \u00b7 Maine Public News Games \u00b7 Maine's ... digital driver's license to another mobile phone at a\u00a0...",
+   "htmlSnippet": "Sep 2, 2021 <b>...</b> How Are <b>Maine</b> Kids Doing? Connecting Communities &middot; <b>Maine</b> Public News Games &middot; <b>Maine&#39;s</b> ... <b>digital driver&#39;s license</b> to another mobile phone at a&nbsp;...",
+   "formattedUrl": "https://www.mainepublic.org/.../drivers-licenses-will-soon-be-coming-to-th...",
+   "htmlFormattedUrl": "https://www.<b>maine</b>public.org/.../drivers-licenses-will-soon-be-coming-to-th...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp4aEz6zDJkNiRJbgLgHBAQcEQ_c6c8zr0eZQB1ccYwhjpwD3kopZFIl3G&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://npr.brightspotcdn.com/dims4/default/61711e8/2147483647/strip/true/crop/2542x1335+0+286/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2021%2F09%2F02%2FAppleDriversLicense-49828ba2a51ad7b0e7f1d18c5366c4dc9607986c.jpg",
+      "og:image:width": "1200",
+      "og:image:alt": "A person scans a QR code on an Apple Watch to temporarily send their digital driver's license to another mobile phone at a Harmons Grocery store on August 4, 2021 in Salt Lake City, Utah.",
+      "og:type": "article",
+      "article:published_time": "2021-09-02T21:12:40",
+      "article:section": "NPR News",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Driver's Licenses Will Soon Be Coming To The iPhone And Apple Watch In These 8 States",
+      "og:site_name": "Maine Public",
+      "og:image:url": "https://npr.brightspotcdn.com/dims4/default/61711e8/2147483647/strip/true/crop/2542x1335+0+286/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2021%2F09%2F02%2FAppleDriversLicense-49828ba2a51ad7b0e7f1d18c5366c4dc9607986c.jpg",
+      "og:title": "Driver's Licenses Will Soon Be Coming To The iPhone And Apple Watch In These 8 States",
+      "og:image:height": "630",
+      "og:image:type": "image/jpeg",
+      "og:description": "Arizona and Georgia will be the first two states to introduce the new feature, which will allow users to add a license or state ID to their Apple devices.",
+      "brightspot-datalayer": "{\n  \"author\" : \"Jonathan Franklin\",\n  \"bspStoryId\" : \"0000017b-a889-d6d2-a7fb-aeab8f680000\",\n  \"category\" : \"NPR News\",\n  \"inlineAudio\" : 0,\n  \"keywords\" : \"\",\n  \"nprCmsSite\" : true,\n  \"nprStoryId\" : \"1033675691\",\n  \"pageType\" : \"news-story\",\n  \"program\" : \"\",\n  \"publishedDate\" : \"2021-09-02T17:12:40Z\",\n  \"siteName\" : \"Maine Public\",\n  \"station\" : \"Maine Public\",\n  \"stationOrgId\" : \"1177\",\n  \"storyOrgId\" : \"s1\",\n  \"storyTheme\" : \"news-story\",\n  \"storyTitle\" : \"Driver's Licenses Will Soon Be Coming To The iPhone And Apple Watch In These 8 States\",\n  \"timezone\" : \"US/Eastern\",\n  \"wordCount\" : 0,\n  \"series\" : \"\"\n}",
+      "twitter:image": "https://npr.brightspotcdn.com/dims4/default/8f02663/2147483647/strip/true/crop/2542x1430+0+238/resize/1200x675!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2021%2F09%2F02%2FAppleDriversLicense-49828ba2a51ad7b0e7f1d18c5366c4dc9607986c.jpg",
+      "fb:app_id": "1254121325334109",
+      "twitter:image:alt": "A person scans a QR code on an Apple Watch to temporarily send their digital driver's license to another mobile phone at a Harmons Grocery store on August 4, 2021 in Salt Lake City, Utah.",
+      "article:modified_time": "2021-09-02T22:03:12.492",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "twitter:description": "Arizona and Georgia will be the first two states to introduce the new feature, which will allow users to add a license or state ID to their Apple devices.",
+      "brightspot.contentid": "0000017b-a889-d6d2-a7fb-aeab8f680000",
+      "og:url": "https://www.mainepublic.org/npr-news/2021-09-02/drivers-licenses-will-soon-be-coming-to-the-iphone-and-apple-watch-in-these-8-states",
+      "gtm-datalayer": "{\n  \"gtmAuthor\" : \"Jonathan Franklin\",\n  \"gtmBspStoryId\" : \"0000017b-a889-d6d2-a7fb-aeab8f680000\",\n  \"gtmCategory\" : \"NPR News\",\n  \"gtmInlineAudio\" : 0,\n  \"gtmKeywords\" : \"\",\n  \"gtmNprCmsSite\" : true,\n  \"gtmNprStoryId\" : \"1033675691\",\n  \"gtmPageType\" : \"news-story\",\n  \"gtmProgram\" : \"\",\n  \"gtmPublishedDate\" : \"2021-09-02T17:12:40Z\",\n  \"gtmSiteName\" : \"Maine Public\",\n  \"gtmStation\" : \"Maine Public\",\n  \"gtmStationOrgId\" : \"1177\",\n  \"gtmStoryOrgId\" : \"s1\",\n  \"gtmStoryTheme\" : \"news-story\",\n  \"gtmStoryTitle\" : \"Driver's Licenses Will Soon Be Coming To The iPhone And Apple Watch In These 8 States\",\n  \"gtmTimezone\" : \"US/Eastern\",\n  \"gtmWordCount\" : 0,\n  \"gtmSeries\" : \"\"\n}"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://npr.brightspotcdn.com/dims4/default/61711e8/2147483647/strip/true/crop/2542x1335+0+286/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2021%2F09%2F02%2FAppleDriversLicense-49828ba2a51ad7b0e7f1d18c5366c4dc9607986c.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MDI Biological Laboratory \u2013 Pioneering New Approaches in ...",
+   "htmlTitle": "MDI Biological Laboratory \u2013 Pioneering New Approaches in ...",
+   "link": "https://mdibl.org/",
+   "displayLink": "mdibl.org",
+   "snippet": "CELEBRATING 125 YEARS OF CUTTING-EDGE SCIENCE ON MAINE'S RUGGED COAST. Pioneering New Approaches in Regenerative Medicine. COURSES. Leaders in Developmental\u00a0...",
+   "htmlSnippet": "CELEBRATING 125 YEARS OF CUTTING-EDGE SCIENCE ON <b>MAINE&#39;S</b> RUGGED COAST. Pioneering New Approaches in Regenerative Medicine. COURSES. Leaders in Developmental&nbsp;...",
+   "formattedUrl": "https://mdibl.org/",
+   "htmlFormattedUrl": "https://mdibl.org/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyKTtpxeKyPSnso0G_FqNkVbbmV41Y6PvCgiYc-koEHswnk6wcqUWyl4JH&s",
+      "width": "259",
+      "height": "194"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#1d7298",
+      "og:image": "https://mdibl.org/wp-content/themes/mdibl/assets/img/thumbnail-placeholder.jpeg",
+      "og:type": "website",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "Home Page",
+      "og:url": "https://mdibl.org/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://mdibl.org/wp-content/themes/mdibl/assets/img/thumbnail-placeholder.jpeg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Maine Mobile ID Updates",
+   "htmlTitle": "<b>Maine Mobile ID</b> Updates",
+   "link": "https://idscan.net/state-digital-id/maine-mobile-id-updates/",
+   "displayLink": "idscan.net",
+   "snippet": "Maine remains one of the few states with no plans to implement a mobile ID. Hopefully as mobile ID use grows, they will consider an mDL.",
+   "htmlSnippet": "<b>Maine</b> remains one of the few states with no plans to implement a <b>mobile ID</b>. Hopefully as <b>mobile ID</b> use grows, they will consider an <b>mDL</b>.",
+   "formattedUrl": "https://idscan.net/state-digital-id/maine-mobile-id-updates/",
+   "htmlFormattedUrl": "https://idscan.net/state-<b>digital-id</b>/<b>maine</b>-<b>mobile-id</b>-updates/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRsq6mdGnSrTB2iqSydKmc_jCK66vOdsHPgKFUstIYuYPlMu4YiiJKFwg&s",
+      "width": "310",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://idscan.net/wp-content/uploads/maine-mobile-id.jpg?lm=67E5AF04",
+      "og:type": "article",
+      "og:image:width": "1196",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "IDScan.net",
+      "og:title": "Maine Mobile ID Updates",
+      "og:image:height": "627",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://idscan.net/wp-content/uploads/cropped-idscan-identity-verification-software-icon-1-270x270.png",
+      "og:description": "Maine remains one of the few states with no plans to implement a mobile ID. Hopefully as mobile ID use grows, they will consider an mDL.",
+      "article:publisher": "https://www.facebook.com/idscannet",
+      "twitter:site": "@idscan_net",
+      "article:modified_time": "2025-03-26T15:35:03+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://idscan.net/state-digital-id/maine-mobile-id-updates/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://idscan.net/wp-content/uploads/maine-mobile-id.jpg?lm=67E5AF04"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Maine Department of Labor",
+   "htmlTitle": "<b>Maine</b> Department of Labor",
+   "link": "https://www.maine.gov/labor/",
+   "displayLink": "www.maine.gov",
+   "snippet": "Mission. The Maine Department of Labor is committed to serving Maine workers and businesses by: Helping employers recruit and train a talented workforce;\u00a0...",
+   "htmlSnippet": "Mission. The <b>Maine</b> Department of Labor is committed to serving <b>Maine</b> workers and businesses by: Helping employers recruit and train a talented workforce;&nbsp;...",
+   "formattedUrl": "https://www.maine.gov/labor/",
+   "htmlFormattedUrl": "https://www.<b>maine</b>.gov/labor/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Monthly Sales August 2020",
+   "htmlTitle": "Monthly Sales August 2020",
+   "link": "https://www.biddefordmaine.org/DocumentCenter/View/8344/Monthly-Sales-Report---August-2020-PDF",
+   "displayLink": "www.biddefordmaine.org",
+   "snippet": "Aug 3, 2020 ... 820 RES ACLNUD MDL-00. 91 MILE STRETCH RD. 6194. 63 23. KOBLICK, ALAN B & BEVERLY R 08/28/2020. $0. 18364. 18. OCN FT MDL-01 41 FORTUNES ROCKS\u00a0...",
+   "htmlSnippet": "Aug 3, 2020 <b>...</b> 820 RES ACLNUD <b>MDL</b>-00. 91 MILE STRETCH RD. 6194. 63 23. KOBLICK, ALAN B &amp; BEVERLY R 08/28/2020. $0. 18364. 18. OCN FT <b>MDL</b>-01 41 FORTUNES ROCKS&nbsp;...",
+   "formattedUrl": "https://www.biddefordmaine.org/.../Monthly-Sales-Report---August-2020-P...",
+   "htmlFormattedUrl": "https://www.biddeford<b>maine</b>.org/.../Monthly-Sales-Report---August-2020-P...",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20210114125521-05'00'",
+      "creationdate": "D:20210114125521-05'00'",
+      "creator": "Microsoft\u00ae Excel\u00ae 2016",
+      "author": "Binette, Faedra",
+      "producer": "Microsoft\u00ae Excel\u00ae 2016"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "PFAS Round Two Retail Milk Testing Results 2020, Vista Labs (ND ...",
+   "htmlTitle": "PFAS Round Two Retail Milk Testing Results 2020, Vista Labs (ND ...",
+   "link": "https://www.maine.gov/dacf/ag/pfas/docs/table-results-retail-farm-tests-2020v3.pdf",
+   "displayLink": "www.maine.gov",
+   "snippet": "Apr 1, 2020 ... Samples of Maine milk processed either: 1) in-state or 2) out-of ... (RL = Reporting Limit); (MDL = Method Detection Limit, ng/L); (ND\u00a0...",
+   "htmlSnippet": "Apr 1, 2020 <b>...</b> Samples of <b>Maine</b> milk processed either: 1) in-state or 2) out-of ... (RL = Reporting Limit); (<b>MDL</b> = Method Detection Limit, ng/L); (ND&nbsp;...",
+   "formattedUrl": "https://www.maine.gov/dacf/ag/.../table-results-retail-farm-tests-2020v3.pdf",
+   "htmlFormattedUrl": "https://www.<b>maine</b>.gov/dacf/ag/.../table-results-retail-farm-tests-2020v3.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNbCUq-vtb-iWJTMSD2S-1E3tAC09VKJ4iRfenwqkqOaHtG6RUh24dYig&s",
+      "width": "288",
+      "height": "175"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20210512122058-04'00'",
+      "creationdate": "D:20210512122051-04'00'",
+      "creator": "Acrobat PDFMaker 21 for Word",
+      "author": "Simones, Thomas",
+      "producer": "Adobe PDF Library 21.1.182",
+      "contenttypeid": "0x01010084514182088A444698010025A7CA38C2"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///f013ef1e0497f59179a0e120f0d961a036ab75850df32b0663fb51441409d2c9"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "SALES LIST FOR MAY 1, 2015 THROUGH MAY 31, 2015",
+   "htmlTitle": "SALES LIST FOR MAY 1, 2015 THROUGH MAY 31, 2015",
+   "link": "https://www.biddefordmaine.org/DocumentCenter/View/88/Monthly-Sales-Report---May-2015-PDF",
+   "displayLink": "www.biddefordmaine.org",
+   "snippet": "May 28, 2015 ... 2 23 4 574 ALFRED STREET, LLC. 05/06/15 435,000 17013/ 109 Q SINGLE FAM MDL-01 Ranch. 574 ALFRED ST. 2 61 1 MAINE DWELLING, LLC.",
+   "htmlSnippet": "May 28, 2015 <b>...</b> 2 23 4 574 ALFRED STREET, LLC. 05/06/15 435,000 17013/ 109 Q SINGLE FAM <b>MDL</b>-01 Ranch. 574 ALFRED ST. 2 61 1 <b>MAINE</b> DWELLING, LLC.",
+   "formattedUrl": "https://www.biddefordmaine.org/.../Monthly-Sales-Report---May-2015-PD...",
+   "htmlFormattedUrl": "https://www.biddeford<b>maine</b>.org/.../Monthly-Sales-Report---May-2015-PD...",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20150930125433-04'00'",
+      "creationdate": "D:20150930125330Z",
+      "creator": "Vision Report Wizard",
+      "producer": "Appraisal Vision 6",
+      "title": "SALES LIST FOR MAY 1, 2015 THROUGH MAY 31, 2015"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Online Services: By Category: Vehicles & Transportation - Maine.gov",
+   "htmlTitle": "Online Services: By Category: Vehicles & Transportation - Maine.gov",
+   "link": "https://www.maine.gov/portal/online_services/categories/vehicles.html",
+   "displayLink": "www.maine.gov",
+   "snippet": "Renew or replace your digital driver's license or Maine ID card. Fee or Free ... This online service provides Maine residents with a Maine driver's\u00a0...",
+   "htmlSnippet": "Renew or replace your <b>digital driver&#39;s license</b> or <b>Maine</b> ID card. Fee or Free ... This online service provides <b>Maine</b> residents with a <b>Maine</b> driver&#39;s&nbsp;...",
+   "formattedUrl": "https://www.maine.gov/portal/online_services/categories/vehicles.html",
+   "htmlFormattedUrl": "https://www.<b>maine</b>.gov/portal/online_services/categories/vehicles.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "author": "maine.gov",
+      "rating": "Safe for kids"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "SALES LIST FOR JULY 1, 2016 THROUGH JULY 31, 2016",
+   "htmlTitle": "SALES LIST FOR JULY 1, 2016 THROUGH JULY 31, 2016",
+   "link": "https://www.biddefordmaine.org/DocumentCenter/View/71/Monthly-Sales-Report---July-2016-PDF",
+   "displayLink": "www.biddefordmaine.org",
+   "snippet": "Jul 22, 2016 ... 1 31 3 BLANCHARD, COREY J. 06/28/16 62,500 17263/ 569 U RES ACLNDV MDL-00 Vacant Land. SOUTH ST. 1 38 9 TIFFANY, CLIFFORD C. & BARBARA\u00a0...",
+   "htmlSnippet": "Jul 22, 2016 <b>...</b> 1 31 3 BLANCHARD, COREY J. 06/28/16 62,500 17263/ 569 U RES ACLNDV <b>MDL</b>-00 Vacant Land. SOUTH ST. 1 38 9 TIFFANY, CLIFFORD C. &amp; BARBARA&nbsp;...",
+   "formattedUrl": "https://www.biddefordmaine.org/.../Monthly-Sales-Report---July-2016-PDF",
+   "htmlFormattedUrl": "https://www.biddeford<b>maine</b>.org/.../Monthly-Sales-Report---July-2016-PDF",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20161011105310-04'00'",
+      "creationdate": "D:20161011105220Z",
+      "creator": "Vision Report Wizard",
+      "producer": "Appraisal Vision 6",
+      "title": "SALES LIST FOR JULY 1, 2016 THROUGH JULY 31, 2016"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

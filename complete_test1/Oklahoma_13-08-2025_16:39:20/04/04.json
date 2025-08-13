@@ -1,0 +1,242 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://oklahoma.gov/service \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "5",
+    "searchTerms": "site:https://oklahoma.gov/service \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 5,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.092523,
+  "formattedSearchTime": "0.09",
+  "totalResults": "5",
+  "formattedTotalResults": "5"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "PR: OK Mobile ID App Decommissioned",
+   "htmlTitle": "PR: OK <b>Mobile ID</b> App Decommissioned",
+   "link": "https://oklahoma.gov/service/newsroom/ok-mobile-id-app-decommissioned.html",
+   "displayLink": "oklahoma.gov",
+   "snippet": "Feb 8, 2024 ... Service Oklahoma announced today that the OK Mobile ID App has officially been decommissioned. While there was a lack of use cases with the app.",
+   "htmlSnippet": "Feb 8, 2024 <b>...</b> Service Oklahoma announced today that the OK <b>Mobile ID</b> App has officially been decommissioned. While there was a lack of use cases with the app.",
+   "formattedUrl": "https://oklahoma.gov/service/.../ok-mobile-id-app-decommissioned.html",
+   "htmlFormattedUrl": "https://oklahoma.gov/service/.../ok-<b>mobile-id</b>-app-decommissioned.html",
+   "pagemap": {
+    "imageobject": [
+     {
+      "contenturl": "https://oklahoma.gov/content/experience-fragments/service-oklahoma/us/en/site/header/master/_jcr_content/root/image.coreimg.svg/1667003920072/sok-logo.svg"
+     },
+     {
+      "contenturl": "https://oklahoma.gov/content/experience-fragments/service-oklahoma/us/en/site/footer/master/_jcr_content/root/image.coreimg.svg/1667003937029/sok-logo-white.svg"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "content-page",
+      "twitter:card": "summary",
+      "twitter:title": "PR: OK Mobile ID App Decommissioned",
+      "og:type": "website",
+      "og:site_name": "Service Oklahoma",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Press Release: As the busy holiday season is in full swing, it\u2019s the perfect time to stop by a Service Oklahoma location for any driver license or motor vehicle service with little-to-no wait!",
+      "og:title": "PR: OK Mobile ID App Decommissioned",
+      "og:locale": "en",
+      "og:description": "Press Release: As the busy holiday season is in full swing, it\u2019s the perfect time to stop by a Service Oklahoma location for any driver license or motor vehicle service with little-to-no wait!"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "PR: Service Oklahoma Selects a Vendor for All-New Driver License ...",
+   "htmlTitle": "PR: Service Oklahoma Selects a Vendor for All-New Driver License ...",
+   "link": "https://oklahoma.gov/service/newsroom/sok-selects-vendor-new-system.html",
+   "displayLink": "oklahoma.gov",
+   "snippet": "Jul 25, 2024 ... This integration will simplify and automate processes, reduce processing times and make the systems more user friendly. A mobile ID component\u00a0...",
+   "htmlSnippet": "Jul 25, 2024 <b>...</b> This integration will simplify and automate processes, reduce processing times and make the systems more user friendly. A <b>mobile ID</b> component&nbsp;...",
+   "formattedUrl": "https://oklahoma.gov/service/.../sok-selects-vendor-new-system.html",
+   "htmlFormattedUrl": "https://oklahoma.gov/service/.../sok-selects-vendor-new-system.html",
+   "pagemap": {
+    "imageobject": [
+     {
+      "contenturl": "https://oklahoma.gov/content/experience-fragments/service-oklahoma/us/en/site/header/master/_jcr_content/root/image.coreimg.svg/1667003920072/sok-logo.svg"
+     },
+     {
+      "contenturl": "https://oklahoma.gov/content/experience-fragments/service-oklahoma/us/en/site/footer/master/_jcr_content/root/image.coreimg.svg/1667003937029/sok-logo-white.svg"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "content-page",
+      "twitter:card": "summary",
+      "twitter:title": "PR: Service Oklahoma Selects a Vendor for All-New Driver License System of Record",
+      "og:type": "website",
+      "og:site_name": "Service Oklahoma",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "PR: Service Oklahoma Selects a Vendor for All-New Driver License System of Record",
+      "og:locale": "en"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Newsroom",
+   "htmlTitle": "Newsroom",
+   "link": "https://oklahoma.gov/service/newsroom.html",
+   "displayLink": "oklahoma.gov",
+   "snippet": "OK Mobile ID App Decommissioned. February 8, 2024. Read Now. PRESS RELEASE. New, Dedicated Drive Test Center is Now Open in OKC for Teen Drivers. February 1\u00a0...",
+   "htmlSnippet": "OK <b>Mobile ID</b> App Decommissioned. February 8, 2024. Read Now. PRESS RELEASE. New, Dedicated Drive Test Center is Now Open in OKC for Teen Drivers. February 1&nbsp;...",
+   "formattedUrl": "https://oklahoma.gov/service/newsroom.html",
+   "htmlFormattedUrl": "https://oklahoma.gov/service/newsroom.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXW2W-1Gt6n0iADc8yPKvoIRqEQvXFeXhj4dcF3VBd-adiKbKlGjsaqcmU&s",
+      "width": "184",
+      "height": "273"
+     }
+    ],
+    "imageobject": [
+     {
+      "contenturl": "https://oklahoma.gov/content/experience-fragments/service-oklahoma/us/en/site/header/master/_jcr_content/root/image.coreimg.svg/1667003920072/sok-logo.svg"
+     },
+     {
+      "contenturl": "https://oklahoma.gov/content/experience-fragments/service-oklahoma/us/en/site/footer/master/_jcr_content/root/image.coreimg.svg/1667003937029/sok-logo-white.svg"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "content-page",
+      "twitter:card": "summary",
+      "twitter:title": "Newsroom",
+      "og:type": "website",
+      "og:site_name": "Service Oklahoma",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Service Oklahoma's Newsroom hub",
+      "og:title": "Newsroom",
+      "og:locale": "en",
+      "og:description": "Service Oklahoma's Newsroom hub"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://oklahoma.gov/content/dam/service-oklahoma/communications-media/gra-backpacks-boarding-passes.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Service Oklahoma Drive Test Center",
+   "htmlTitle": "Service Oklahoma Drive Test Center",
+   "link": "https://oklahoma.gov/service/popular-services/drive-test-center.html",
+   "displayLink": "oklahoma.gov",
+   "snippet": "Our Drive Test Center is designed to get you in, out, and on with your day. If you are an Oklahoma Learner Permit holder, simply register, pass your drive test.",
+   "htmlSnippet": "Our Drive Test Center is designed to get you in, out, and on with your day. If you are an Oklahoma Learner Permit holder, simply register, pass your drive test.",
+   "formattedUrl": "https://oklahoma.gov/service/popular-services/drive-test-center.html",
+   "htmlFormattedUrl": "https://oklahoma.gov/service/popular-services/drive-test-center.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ63GuzMAutB7xy-DGRYw-5BlzZD2N-NitkVVDVci-fRKMr9gbr5PhxIQI&s",
+      "width": "209",
+      "height": "241"
+     }
+    ],
+    "imageobject": [
+     {
+      "contenturl": "https://oklahoma.gov/content/experience-fragments/service-oklahoma/us/en/site/header/master/_jcr_content/root/image.coreimg.svg/1667003920072/sok-logo.svg"
+     },
+     {
+      "contenturl": "https://oklahoma.gov/content/experience-fragments/service-oklahoma/us/en/site/footer/master/_jcr_content/root/image.coreimg.svg/1667003937029/sok-logo-white.svg"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "content-page",
+      "twitter:card": "summary",
+      "twitter:title": "Drive Test Center",
+      "og:type": "website",
+      "og:site_name": "Service Oklahoma",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Service Oklahoma Drive Test Center",
+      "og:title": "Drive Test Center",
+      "og:locale": "en",
+      "og:description": "Service Oklahoma Drive Test Center"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://oklahoma.gov/service/popular-services/drive-test-center/_jcr_content/root/container/container/container_copy_copy/contentblock_1096677.coreimg.svg/1713290999418/sweet-sixteen-guarantee.svg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Modified Driver License",
+   "htmlTitle": "Modified Driver License",
+   "link": "https://oklahoma.gov/service/all-pages/modified-driver-license.html",
+   "displayLink": "oklahoma.gov",
+   "snippet": "A Modified Driver License is issued during the mandatory period of revocation or suspension to allow restricted driving privileges under specific terms and\u00a0...",
+   "htmlSnippet": "A Modified Driver License is issued during the mandatory period of revocation or suspension to allow restricted driving privileges under specific terms and&nbsp;...",
+   "formattedUrl": "https://oklahoma.gov/service/all-pages/modified-driver-license.html",
+   "htmlFormattedUrl": "https://oklahoma.gov/service/all-pages/modified-driver-license.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6mooSMtJ24n_0YyEjrHpZXXzMuA4J3VDGvRmwYWrDykuwNfIASIxM7PA&s",
+      "width": "216",
+      "height": "188"
+     }
+    ],
+    "imageobject": [
+     {
+      "contenturl": "https://oklahoma.gov/content/experience-fragments/service-oklahoma/us/en/site/header/master/_jcr_content/root/image.coreimg.svg/1667003920072/sok-logo.svg"
+     },
+     {
+      "contenturl": "https://oklahoma.gov/content/experience-fragments/service-oklahoma/us/en/site/footer/master/_jcr_content/root/image.coreimg.svg/1667003937029/sok-logo-white.svg"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "content-page",
+      "twitter:card": "summary",
+      "twitter:title": "Modified Driver License",
+      "og:type": "website",
+      "og:site_name": "Service Oklahoma",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "In some instances, when driving privileges are withdrawn as a result of a driver license revocation or suspension, one can obtain a Modified Driver License (Modification).",
+      "og:title": "Modified Driver License",
+      "og:locale": "en",
+      "og:description": "In some instances, when driving privileges are withdrawn as a result of a driver license revocation or suspension, one can obtain a Modified Driver License (Modification)."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://oklahoma.gov/service/all-pages/modified-driver-license/_jcr_content/root/container/container_1073372859/container/container/pagedivider_16822915.coreimg.svg/1682701929574/modified-dl-point-suspensions.svg"
+     }
+    ]
+   }
+  }
+ ]
+}

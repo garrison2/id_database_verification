@@ -1,0 +1,365 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Oregon Revised Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\" -\"apply\" -\"application\"",
+    "totalResults": "23",
+    "searchTerms": "\"Oregon Revised Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\" -\"apply\" -\"application\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Oregon Revised Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\" -\"apply\" -\"application\"",
+    "totalResults": "23",
+    "searchTerms": "\"Oregon Revised Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\" -\"apply\" -\"application\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.14544,
+  "formattedSearchTime": "0.15",
+  "totalResults": "23",
+  "formattedTotalResults": "23"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Oregon Revised Statutes Oregon Vehicle Code \u00a7 807.750 | FindLaw",
+   "htmlTitle": "<b>Oregon Revised Statutes</b> Oregon Vehicle Code \u00a7 807.750 | FindLaw",
+   "link": "https://codes.findlaw.com/or/title-59-oregon-vehicle-code/or-rev-st-sect-807-750/",
+   "displayLink": "codes.findlaw.com",
+   "snippet": "... store, sell or share personal information collected from swiping the driver license or identification card. (4) A private entity that swipes an individual's\u00a0...",
+   "htmlSnippet": "... <b>store</b>, <b>sell</b> or <b>share</b> personal information collected from <b>swiping</b> the <b>driver license</b> or <b>identification card</b>. (4) A private entity that swipes an individual&#39;s&nbsp;...",
+   "formattedUrl": "https://codes.findlaw.com/or/title-59-oregon.../or-rev-st-sect-807-750/",
+   "htmlFormattedUrl": "https://codes.findlaw.com/or/title-59-oregon.../or-rev-st-sect-807-750/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuWtKEZ0kzYj6NSuZlgNrAF5XcYIi9XgsiqHcAgQHtxY18xcWZ1bDMaCM&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png",
+      "og:type": "article",
+      "og:site_name": "Findlaw",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Oregon Revised Statutes Oregon Vehicle Code \u00a7 807.750 | FindLaw",
+      "apple-mobile-web-app-title": "FindLaw",
+      "og:url": "https://codes.findlaw.com/or/title-59-oregon-vehicle-code/or-rev-st-sect-807-750/",
+      "og:description": "Title 59. Oregon Vehicle Code OR ST  Section 807.750. Read the code on FindLaw"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Oregon State Police : Oregon State Laws : About Us : State of Oregon",
+   "htmlTitle": "Oregon State Police : Oregon State Laws : About Us : State of Oregon",
+   "link": "https://www.oregon.gov/osp/about/pages/ors.aspx",
+   "displayLink": "www.oregon.gov",
+   "snippet": "Oregon Revised Statutes (ORS) is the source of laws that govern the ... driver's license, state-issued identification card, etc. The business is not\u00a0...",
+   "htmlSnippet": "<b>Oregon Revised Statutes</b> (ORS) is the source of laws that govern the ... <b>driver&#39;s license</b>, state-issued <b>identification card</b>, etc. The business is not&nbsp;...",
+   "formattedUrl": "https://www.oregon.gov/osp/about/pages/ors.aspx",
+   "htmlFormattedUrl": "https://www.oregon.gov/osp/about/pages/ors.aspx",
+   "pagemap": {
+    "metatags": [
+     {
+      "application-name": "Oregon State Laws : Oregon State Police",
+      "msapplication-tilecolor": "#344032",
+      "msapplication-square70x70logo": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-70x70.png?v=03_04_2025",
+      "theme-color": "#222222",
+      "msapplication-wide310x150logo": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-310x150.png?v=03_04_2025",
+      "progid": "SharePoint.WebPartPage.Document",
+      "msapplication-tileimage": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-144x144.png?v=03_04_2025",
+      "msapplication-square150x150logo": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-150x150.png?v=03_04_2025",
+      "msapplication-navbutton-color": "#344032",
+      "apple-mobile-web-app-status-bar-style": "black-translucent",
+      "viewport": "width=device-width, initial-scale=1",
+      "google-translate-customization": "d78d477bc586dd01-66d24054f200e54f-g61435a41cc4d65c3-e",
+      "msapplication-square310x310logo": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-310x310.png?v=03_04_2025"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Child Support | Donahue Law Firm",
+   "htmlTitle": "Child Support | Donahue Law Firm",
+   "link": "https://deschuteslawfirm.com/family-law-attorney/child-custody/",
+   "displayLink": "deschuteslawfirm.com",
+   "snippet": "Chapter 107 of the Oregon Revised Statutes includes the factors for child custody that the courts consider. ... Parents share in the raising and\u00a0...",
+   "htmlSnippet": "Chapter 107 of the <b>Oregon Revised Statutes</b> includes the factors for child custody that the courts consider. ... Parents <b>share</b> in the raising and&nbsp;...",
+   "formattedUrl": "https://deschuteslawfirm.com/family-law-attorney/child-custody/",
+   "htmlFormattedUrl": "https://deschuteslawfirm.com/family-law-attorney/child-custody/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbBKsifJ_tT_QFVX4s9WiHtHy7psTjp3PnhKztN-p6Ovtb_ptEmvp8ymQn&s",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Child Support | Donahue Law Firm",
+      "og:site_name": "Donahue Law Firm, LLC",
+      "og:title": "Child Support | Donahue Law Firm",
+      "twitter:label1": "Time to read",
+      "og:updated_time": "2024-08-13T00:22:09-07:00",
+      "msapplication-tileimage": "https://deschuteslawfirm.com/wp-content/uploads/2021/07/favicon.png",
+      "og:description": "The Donahue Law Firm is a Bend, OR, based law firm that specializes in child support. Our attorneys have years of experience and are ready to help you today!",
+      "twitter:data1": "16 minutes",
+      "facebook-domain-verification": "slsgtg3srhedtkgl3f3fxqqudz29d4",
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+      "twitter:description": "The Donahue Law Firm is a Bend, OR, based law firm that specializes in child support. Our attorneys have years of experience and are ready to help you today!",
+      "og:locale": "en_US",
+      "og:url": "https://deschuteslawfirm.com/family-law-attorney/child-custody/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://deschuteslawfirm.com/wp-content/uploads/2021/04/Attorney-hands-and-paperwork-DVDSP-5e93697421a93-1140x760-1.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Douglas County 4560",
+   "htmlTitle": "Douglas County 4560",
+   "link": "https://www.douglascountyor.gov/DocumentCenter/View/1216/Property-Appraiser-3-PDF",
+   "displayLink": "www.douglascountyor.gov",
+   "snippet": "At the time of appointment, must possess and maintain a valid Oregon driver's license. Desirable qualification: Specialized experience, knowledge and skills\u00a0...",
+   "htmlSnippet": "At the time of appointment, must possess and <b>maintain</b> a valid Oregon <b>driver&#39;s license</b>. Desirable qualification: Specialized experience, knowledge and skills&nbsp;...",
+   "formattedUrl": "https://www.douglascountyor.gov/.../View/1216/Property-Appraiser-3-PDF",
+   "htmlFormattedUrl": "https://www.douglascountyor.gov/.../View/1216/Property-Appraiser-3-PDF",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20220201113630-08'00'",
+      "creator": "Microsoft\u00ae Word 2016",
+      "creationdate": "D:20220201113630-08'00'",
+      "author": "cmbunnel",
+      "producer": "Microsoft\u00ae Word 2016"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Written Information Security Program",
+   "htmlTitle": "Written Information Security Program",
+   "link": "https://www.stthomas.edu/about/departments/general-counsel/policy-pdfs/written-information-security-program.pdf",
+   "displayLink": "www.stthomas.edu",
+   "snippet": "Dec 19, 2022 ... processing, storage, transmission, retention, and disposal; and. D ... Thomas uses to transmit, access, or store financial customer\u00a0...",
+   "htmlSnippet": "Dec 19, 2022 <b>...</b> processing, storage, <b>transmission</b>, <b>retention</b>, and disposal; and. D ... Thomas uses to <b>transmit</b>, access, or <b>store</b> financial customer&nbsp;...",
+   "formattedUrl": "https://www.stthomas.edu/.../written-information-security-program.pdf",
+   "htmlFormattedUrl": "https://www.stthomas.edu/.../written-information-security-program.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs5yZz3K_uWuqsI-cLpAEolgNBocNCRNTsEVXTn0QrWmQqMxEv50h8rRO8&s",
+      "width": "352",
+      "height": "143"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20221216121332-06'00'",
+      "creationdate": "D:20221216121013-06'00'",
+      "creator": "Acrobat PDFMaker 22 for Word",
+      "author": "Written Information Security Program",
+      "subject": "defining, documenting, and supporting implementation and maintenance of the administrative, technical, and physical safeguards St. Thomas has selected to protect the personal information",
+      "producer": "Adobe PDF Library 22.3.58",
+      "title": "Written Information Security Program",
+      "contenttypeid": "0x01010011B42028E6471648AF8BBFCAC2DDDB22"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///1105615bd5114640add1dee9bcdec769dcd51c463373d2d93be7f1cba6b7e8f7"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Untitled",
+   "htmlTitle": "Untitled",
+   "link": "https://www.yamhillcounty.gov/DocumentCenter/View/1970",
+   "displayLink": "www.yamhillcounty.gov",
+   "snippet": "Nov 1, 2008 ... A deputy may place a vehicle into evidence when additional investigation necessitates its retention. ... Valid driver's license. 4. Cash, cashiers\u00a0...",
+   "htmlSnippet": "Nov 1, 2008 <b>...</b> A deputy may place a vehicle into evidence when additional investigation necessitates its <b>retention</b>. ... Valid <b>driver&#39;s license</b>. 4. Cash, cashiers&nbsp;...",
+   "formattedUrl": "https://www.yamhillcounty.gov/DocumentCenter/View/1970",
+   "htmlFormattedUrl": "https://www.yamhillcounty.gov/DocumentCenter/View/1970",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "Mon Mar 17 10:20:40 2008"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "JOB DESCRIPTION",
+   "htmlTitle": "JOB DESCRIPTION",
+   "link": "https://www.bestcaretreatment.org/wp-content/uploads/2023/03/IDD-Services-Coordinator-JD-May-2023.pdf",
+   "displayLink": "www.bestcaretreatment.org",
+   "snippet": "with all applicable Oregon Administrative Rules and Oregon Revised Statutes ... \u2022 Must maintain a valid Oregon Driver License or ability to obtain one upon hire,\u00a0...",
+   "htmlSnippet": "with all applicable Oregon Administrative Rules and <b>Oregon Revised Statutes</b> ... \u2022 Must <b>maintain</b> a valid Oregon <b>Driver License</b> or ability to obtain one upon hire,&nbsp;...",
+   "formattedUrl": "https://www.bestcaretreatment.org/.../IDD-Services-Coordinator-JD-May-20...",
+   "htmlFormattedUrl": "https://www.bestcaretreatment.org/.../IDD-Services-Coordinator-JD-May-20...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1GweYMeq1W5tOisQAiUaqo83a2so-ToN7vJhi-MV-8hDbqWtxApQ_XA&s",
+      "width": "294",
+      "height": "90"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20230501182557-07'00'",
+      "creator": "Microsoft\u00ae Word for Microsoft 365",
+      "creationdate": "D:20230501182557-07'00'",
+      "author": "Sally Sorenson",
+      "producer": "Microsoft\u00ae Word for Microsoft 365"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///3e3d0e35ffd3e973ec58a97defee7f47a005c36ae4ead452a135b99b344f45cc"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "YAMHILL COUNTY CODE TITLE 4: PUBLIC PEACE, MORALS ...",
+   "htmlTitle": "YAMHILL COUNTY CODE TITLE 4: PUBLIC PEACE, MORALS ...",
+   "link": "https://www.yamhillcounty.gov/DocumentCenter/View/5192/YCC-435-YAMHILL-COUNTY-SHERIFFS-OFFICE-VEHICLE-TOWING-CODE-PDF",
+   "displayLink": "www.yamhillcounty.gov",
+   "snippet": "(ii). Proof of insurance on the impounded vehicle. (iii) Valid driver's license. (iv) Cash, cashier's check, money order, or travelers check for the amount of\u00a0...",
+   "htmlSnippet": "(ii). Proof of insurance on the impounded vehicle. (iii) Valid <b>driver&#39;s license</b>. (iv) Cash, cashier&#39;s check, money order, or travelers check for the amount of&nbsp;...",
+   "formattedUrl": "https://www.yamhillcounty.gov/.../YCC-435-YAMHILL-COUNTY-SHERI...",
+   "htmlFormattedUrl": "https://www.yamhillcounty.gov/.../YCC-435-YAMHILL-COUNTY-SHERI...",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20240116105031-08'00'",
+      "creationdate": "D:20240116105029-08'00'",
+      "creator": "Acrobat PDFMaker 23 for Word",
+      "sourcemodified": "D:20240116185015",
+      "author": "Jodi Gollehon",
+      "producer": "Adobe PDF Library 23.8.246"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Oregon Truck Accident Attorney | Free Consultation!",
+   "htmlTitle": "Oregon Truck Accident Attorney | Free Consultation!",
+   "link": "https://johnston-lawfirm.com/truck-accident/",
+   "displayLink": "johnston-lawfirm.com",
+   "snippet": "All drivers transporting hazardous material (HM) must have a commercial driver's license (CDL) with an HM endorsement. ... Store HM shipping papers and emergency\u00a0...",
+   "htmlSnippet": "All drivers transporting hazardous material (HM) must have a commercial <b>driver&#39;s license</b> (CDL) with an HM endorsement. ... <b>Store</b> HM shipping papers and emergency&nbsp;...",
+   "formattedUrl": "https://johnston-lawfirm.com/truck-accident/",
+   "htmlFormattedUrl": "https://johnston-lawfirm.com/truck-accident/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_IWEipad56ZV6jslOll8Oxenw4fPJcSZlN7b_5E8aSOHuJ5M5RUPNeAO&s",
+      "width": "381",
+      "height": "132"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#222939",
+      "og:image": "https://johnston-lawfirm.com/wp-content/uploads/2024/05/truck-crash-2491012.png",
+      "msapplication-config": "/wp-content/uploads/fbrfg/browserconfig.xml?v=2",
+      "og:type": "article",
+      "og:image:width": "1299",
+      "twitter:card": "summary_large_image",
+      "theme-color": "#ffffff",
+      "og:site_name": "Johnston Law Firm",
+      "og:title": "Oregon Truck Accident Attorney | Free Consultation!",
+      "og:image:height": "451",
+      "twitter:label1": "Est. reading time",
+      "og:image:type": "image/png",
+      "og:description": "Choose Oregon's leading truck accident attorney Marc A. Johnston. Contact our law firm today at (503) 506-4102 for a free consultation!",
+      "article:publisher": "https://www.facebook.com/JohnstonLawFirm/",
+      "twitter:data1": "11 minutes",
+      "facebook-domain-verification": "2k30kqxj5ddlryq4nn78fnnp4l74ey",
+      "ahrefs-site-verification": "dcab1764128dab595b4c0486e444845e7ca908f985ab93bd2a4ffc05fd433e6a",
+      "twitter:site": "@JohnstonLawFirm",
+      "article:modified_time": "2025-06-25T15:59:39+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://johnston-lawfirm.com/truck-accident/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://johnston-lawfirm.com/wp-content/uploads/2024/05/truck-crash-2491012.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Untitled",
+   "htmlTitle": "Untitled",
+   "link": "https://www.ohsu.edu/sites/default/files/2018-08/RHC-Policy-and-Procedure-Manual-Template.docx",
+   "displayLink": "www.ohsu.edu",
+   "snippet": "To maintain an organization that can support quality medical care through the recruiting and retention of excellent medical care personnel. \u2022 To continually\u00a0...",
+   "htmlSnippet": "To <b>maintain</b> an organization that can support quality medical care through the recruiting and <b>retention</b> of excellent medical care personnel. \u2022 To continually&nbsp;...",
+   "formattedUrl": "https://www.ohsu.edu/.../RHC-Policy-and-Procedure-Manual-Template.doc...",
+   "htmlFormattedUrl": "https://www.ohsu.edu/.../RHC-Policy-and-Procedure-Manual-Template.doc...",
+   "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "fileFormat": "Microsoft Word"
+  }
+ ]
+}

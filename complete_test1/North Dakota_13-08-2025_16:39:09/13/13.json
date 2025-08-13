@@ -1,0 +1,371 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"North Dakota Century Code\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\" -\"apply\" -\"application\"",
+    "totalResults": "18",
+    "searchTerms": "\"North Dakota Century Code\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\" -\"apply\" -\"application\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"North Dakota Century Code\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\" -\"apply\" -\"application\"",
+    "totalResults": "18",
+    "searchTerms": "\"North Dakota Century Code\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\" -\"apply\" -\"application\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.146999,
+  "formattedSearchTime": "0.15",
+  "totalResults": "18",
+  "formattedTotalResults": "18"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Enrolled SB 2262 - 2019 Regular Session (66th LA) - LC# 19.1089 ...",
+   "htmlTitle": "Enrolled SB 2262 - 2019 Regular Session (66th LA) - LC# 19.1089 ...",
+   "link": "https://ndlegis.gov/assembly/66-2019/documents/19-1089-02000.pdf",
+   "displayLink": "ndlegis.gov",
+   "snippet": "... store, information encoded on a computer chip or magnetic strip or stripe of a payment card, driver's license, or state- issued identification card. 4\u00a0...",
+   "htmlSnippet": "... <b>store</b>, information encoded on a computer chip or magnetic strip or stripe of a payment card, <b>driver&#39;s license</b>, or state- issued <b>identification card</b>. 4&nbsp;...",
+   "formattedUrl": "https://ndlegis.gov/assembly/66-2019/documents/19-1089-02000.pdf",
+   "htmlFormattedUrl": "https://ndlegis.gov/assembly/66-2019/documents/19-1089-02000.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "subdocumenttype": "Measure",
+      "lcnumber": "19.1089",
+      "year": "2019",
+      "assemblyid": "66",
+      "sessiontype": "Regular",
+      "lcversion": "02000",
+      "documenttype": "Session Document",
+      "title": "Enrolled SB 2262 - 2019 Regular Session (66th LA) - LC# 19.1089.02000",
+      "url": "https://www.ndlegis.gov/assembly/66-2019/documents/19-1089-02000.pdf",
+      "chamber": "Senate",
+      "billnumber": "2262",
+      "producer": "PyPDF2",
+      "modified": "2022-08-16T04:55:44.421147",
+      "biennium": "2019"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "North Dakota Century Code Title 12.1, Chapter 12.1-23 (2024 ...",
+   "htmlTitle": "<b>North Dakota Century Code</b> Title 12.1, Chapter 12.1-23 (2024 ...",
+   "link": "https://law.justia.com/codes/north-dakota/title-12-1/chapter-12-1-23/",
+   "displayLink": "law.justia.com",
+   "snippet": "... store, or other mercantile establishment, with the intent to deprive ... driver's license, or state-issued identification card. 4. \"Skimmer\" means an\u00a0...",
+   "htmlSnippet": "... <b>store</b>, or other mercantile establishment, with the intent to deprive ... <b>driver&#39;s license</b>, or state-issued <b>identification card</b>. 4. &quot;Skimmer&quot; means an&nbsp;...",
+   "formattedUrl": "https://law.justia.com/codes/north-dakota/title-12-1/chapter-12-1-23/",
+   "htmlFormattedUrl": "https://law.justia.com/codes/north-dakota/title-12-1/chapter-12-1-23/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-woulhMdqoqWwaGL0JyYyzOQ86EXUqHGNMcyUUpdijH7qqq65uA4WQBk&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://justatic.com/v/20250801141619/shared/images/social-media/law.jpg",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "og:site_name": "Justia Law",
+      "og:title": "2024 North Dakota Century Code :: Title 12.1 - Criminal Code :: Chapter 12.1-23 - Theft and Related Offenses",
+      "og:app_id": "119529808075661",
+      "trigger-ga": "1",
+      "og:description": "Justia Free Databases of U.S. Laws, Codes & Statutes",
+      "og:admins": "656268335,686786921,25900864",
+      "referrer": "unsafe-url",
+      "twitter:site": "@JustiaCom",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "page-type": "Law: Codes Document Page (Current Year)",
+      "is-li": "0",
+      "og:url": "https://law.justia.com/codes/north-dakota/title-12-1/chapter-12-1-23/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://justatic.com/v/20250801141619/shared/images/social-media/law.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "North Dakota Century Code t16.1c02",
+   "htmlTitle": "<b>North Dakota Century Code</b> t16.1c02",
+   "link": "https://ndlegis.gov/cencode/t16-1c02.pdf",
+   "displayLink": "ndlegis.gov",
+   "snippet": "... maintain the central voter file. ... With the exception of a record designated \"secured active\" and the voter's birth date and driver's license or nondriver\u00a0...",
+   "htmlSnippet": "... <b>maintain</b> the central voter file. ... With the exception of a record designated &quot;secured active&quot; and the voter&#39;s birth date and <b>driver&#39;s license</b> or nondriver&nbsp;...",
+   "formattedUrl": "https://ndlegis.gov/cencode/t16-1c02.pdf",
+   "htmlFormattedUrl": "https://ndlegis.gov/cencode/t16-1c02.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "Writer",
+      "creationdate": "D:20250630180203-05'00'",
+      "producer": "OpenOffice.org 3.1",
+      "title": "North Dakota Century Code t16.1c02"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Job Announcement - Juvenile Court ... - North Dakota Court System",
+   "htmlTitle": "Job Announcement - Juvenile Court ... - North Dakota Court System",
+   "link": "https://www.ndcourts.gov/news/north-dakota/district-courts/general-news/job-announcement-juvenile-court-supervisor",
+   "displayLink": "www.ndcourts.gov",
+   "snippet": "Jan 17, 2025 ... Valid driver's license or evidence of equivalent mobility. Knowledge, Skill, & Physical Requirements. Knowledge Requirements: Considerable\u00a0...",
+   "htmlSnippet": "Jan 17, 2025 <b>...</b> Valid <b>driver&#39;s license</b> or evidence of equivalent mobility. Knowledge, Skill, &amp; Physical Requirements. Knowledge Requirements: Considerable&nbsp;...",
+   "formattedUrl": "https://www.ndcourts.gov/.../job-announcement-juvenile-court-supervisor",
+   "htmlFormattedUrl": "https://www.ndcourts.gov/.../job-announcement-juvenile-court-supervisor",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY-4mVMFd4x0j65mfE8ncHns7EPGTSgSZ20gj2jZbL4voTMZFOmHNRdOc&s",
+      "width": "231",
+      "height": "218"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.ndcourts.gov/Themes/NDCourts/Content/statecourts_logo_blue.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CRIMINAL CODE",
+   "htmlTitle": "CRIMINAL CODE",
+   "link": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/crmlc.pdf",
+   "displayLink": "ndlegis.gov",
+   "snippet": "A scanning device to access, read, scan, obtain, memorize, or store, temporarily or permanently, information encoded on the magnetic strip or stripe of an\u00a0...",
+   "htmlSnippet": "A <b>scanning</b> device to access, read, <b>scan</b>, obtain, memorize, or <b>store</b>, temporarily or permanently, information encoded on the magnetic strip or stripe of an&nbsp;...",
+   "formattedUrl": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/crmlc.pdf",
+   "htmlFormattedUrl": "https://ndlegis.gov/assembly/63-2013/session-laws/documents/crmlc.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "Writer",
+      "creationdate": "D:20130627085102-05'00'",
+      "author": "Greg Van Vleet",
+      "producer": "OpenOffice.org 3.1",
+      "title": "nd1.lc_sl_151"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Administrative Rule 9, Appendix 2 ... - North Dakota Court System",
+   "htmlTitle": "Administrative Rule 9, Appendix 2 ... - North Dakota Court System",
+   "link": "https://www.ndcourts.gov/legal-resources/rules/ndsupctadminr/9/jury-selection-plan-4",
+   "displayLink": "www.ndcourts.gov",
+   "snippet": "... driver's license or identification card that has been provided to the court by the department of transportation. ... An obituary or other form of verification\u00a0...",
+   "htmlSnippet": "... <b>driver&#39;s license</b> or <b>identification card</b> that has been provided to the court by the department of transportation. ... An obituary or other form of <b>verification</b>&nbsp;...",
+   "formattedUrl": "https://www.ndcourts.gov/legal-resources/rules/.../9/jury-selection-plan-4",
+   "htmlFormattedUrl": "https://www.ndcourts.gov/legal-resources/rules/.../9/jury-selection-plan-4",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY-4mVMFd4x0j65mfE8ncHns7EPGTSgSZ20gj2jZbL4voTMZFOmHNRdOc&s",
+      "width": "231",
+      "height": "218"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.ndcourts.gov/Themes/NDCourts/Content/statecourts_logo_blue.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ANALYSIS OF CHANGES TO BASE FUNDING LEVELS",
+   "htmlTitle": "ANALYSIS OF CHANGES TO BASE FUNDING LEVELS",
+   "link": "https://ndlegis.gov/sites/default/files/fiscal/2023-25/docs/analysis%20of%20changes%20to%20base%20funding%20levels%202023.pdf",
+   "displayLink": "ndlegis.gov",
+   "snippet": "Feb 22, 2023 ... ... North Dakota Century Code Chapter 54-27.2 provides that any amount ... transmission line grant, and loan guarantee. HB 1003 - Higher\u00a0...",
+   "htmlSnippet": "Feb 22, 2023 <b>...</b> ... <b>North Dakota Century Code</b> Chapter 54-27.2 provides that any amount ... <b>transmission</b> line grant, and loan guarantee. HB 1003 - Higher&nbsp;...",
+   "formattedUrl": "https://ndlegis.gov/.../analysis%20of%20changes%20to%20base%20fundin...",
+   "htmlFormattedUrl": "https://ndlegis.gov/.../analysis%20of%20changes%20to%20base%20fundin...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpSn9ARWmyGfItdyb7XzKs7Itor1xt7n74HJDNx0gu7KpzjYB0ra_8QgHd&s",
+      "width": "197",
+      "height": "255"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20230224095808-06'00'",
+      "creationdate": "D:20230224082148-06'00'",
+      "creator": "PScript5.dll Version 5.2.2",
+      "author": "bmetz",
+      "producer": "Acrobat Distiller 20.0 (Windows)"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///35afa417f0f515b8ccb180658ff1444744dd805f0c75282879d428cf475c16c9"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Contents",
+   "htmlTitle": "Contents",
+   "link": "https://www.ndit.nd.gov/sites/www/files/documents/Policies/Data%20Classification%20Policy%20-%20Final%20(1).pdf",
+   "displayLink": "www.ndit.nd.gov",
+   "snippet": "Policy be created, as defined within the North Dakota Century Code (Chapter 54-59-09). The. Governance Review Team is responsible for review and updating of\u00a0...",
+   "htmlSnippet": "Policy be created, as defined within the <b>North Dakota Century Code</b> (Chapter 54-59-09). The. Governance Review Team is responsible for review and updating of&nbsp;...",
+   "formattedUrl": "https://www.ndit.nd.gov/.../Data%20Classification%20Policy%20-%20Final...",
+   "htmlFormattedUrl": "https://www.ndit.nd.gov/.../Data%20Classification%20Policy%20-%20Final...",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20250722095932-05'00'",
+      "creator": "Microsoft\u00ae Word for Microsoft 365",
+      "creationdate": "D:20250722095932-05'00'",
+      "msip_label_c17d20ed_c219_4e85_94fd_48abe3e91644_enabled": "true",
+      "author": "Cornell, Elijah I.",
+      "producer": "Microsoft\u00ae Word for Microsoft 365",
+      "msip_label_c17d20ed_c219_4e85_94fd_48abe3e91644_method": "Standard",
+      "msip_label_c17d20ed_c219_4e85_94fd_48abe3e91644_name": "Moderate Risk",
+      "msip_label_c17d20ed_c219_4e85_94fd_48abe3e91644_siteid": "2dea0464-da51-4a88-bae2-b3db94bc0c54",
+      "msip_label_c17d20ed_c219_4e85_94fd_48abe3e91644_actionid": "d68c69bb-5abb-4f57-b8d3-dcbf134c3e86",
+      "msip_label_c17d20ed_c219_4e85_94fd_48abe3e91644_contentbits": "0",
+      "msip_label_c17d20ed_c219_4e85_94fd_48abe3e91644_setdate": "2023-06-29T13:20:23Z"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "North Dakota Statewide Plan to Prevent Child Maltreatment Fatalities",
+   "htmlTitle": "North Dakota Statewide Plan to Prevent Child Maltreatment Fatalities",
+   "link": "https://www.hhs.nd.gov/sites/www/files/documents/DHS%20Legacy/CFS/North%20Dakota%20Child%20Maltreatment%20Prevention%20Plan%202023.pdf",
+   "displayLink": "www.hhs.nd.gov",
+   "snippet": "North Dakota Century Code 50-25.1-02(3) defines a physically abused child as ... neglect was about $592 billion in 2018; North Dakota's share was $1.8 million.",
+   "htmlSnippet": "<b>North Dakota Century Code</b> 50-25.1-02(3) defines a physically abused child as ... neglect was about $592 billion in 2018; North Dakota&#39;s <b>share</b> was $1.8 million.",
+   "formattedUrl": "https://www.hhs.nd.gov/.../North%20Dakota%20Child%20Maltreatment%2...",
+   "htmlFormattedUrl": "https://www.hhs.nd.gov/.../North%20Dakota%20Child%20Maltreatment%2...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj7BDqx71btdYRLo6n9zOWqTRGCHYwz-IFfjETTdjHZW20brQAvRIWQSl1&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20230809093552-05'00'",
+      "creator": "Microsoft\u00ae Word for Microsoft 365",
+      "creationdate": "D:20230809093552-05'00'",
+      "author": "Grabar, Jennifer J.",
+      "subject": "North Dakota Statewide Plan to Prevent Child Maltreatment Fatalities:",
+      "producer": "Microsoft\u00ae Word for Microsoft 365",
+      "title": "cHILD MALTREATMENT FATALITY pREVENTION PLAN"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///b9cc7bd1ccf1f3484192c4921ae21c1b92e476db84c12ad7942adbea1280d413"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Northern Cass \u201cWhy?\u201d Northern Cass Values Northern Cass School ...",
+   "htmlTitle": "Northern Cass \u201cWhy?\u201d Northern Cass Values Northern Cass School ...",
+   "link": "https://core-docs.s3.amazonaws.com/documents/asset/uploaded_file/957/Northern_Cass_School/3333829/Student_Handbook_2023-2024_FINAL.pdf",
+   "displayLink": "core-docs.s3.amazonaws.com",
+   "snippet": "*Please note: all visitors are required to bring their driver's license or state ID for scanning. ... district to maintain a safe and civil environment\u00a0...",
+   "htmlSnippet": "*Please note: all visitors are required to bring their <b>driver&#39;s license</b> or state ID for <b>scanning</b>. ... district to <b>maintain</b> a safe and civil environment&nbsp;...",
+   "formattedUrl": "https://core-docs.s3.amazonaws.com/.../Student_Handbook_2023-2024_FI...",
+   "htmlFormattedUrl": "https://core-docs.s3.amazonaws.com/.../Student_Handbook_2023-2024_FI...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMMZIELejtCsPkBLwkAZWJ42uAZX81QlXd424dATqtFPzSHDVazGapx6j5&s",
+      "width": "215",
+      "height": "235"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20230731163245-05'00'",
+      "creator": "Microsoft\u00ae Word for Microsoft 365",
+      "creationdate": "D:20230731163245-05'00'",
+      "author": "Crysta Wagner",
+      "producer": "Microsoft\u00ae Word for Microsoft 365"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///f9ced8535b640366051a66a05ea6b4c7d50d8493c7f92d6eb929da91cca6ea81"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

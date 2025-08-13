@@ -1,0 +1,413 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://www.mass.gov \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"  \"privacy policy\" OR \"privacy notice\" OR \"privacy statement\" OR \"terms of service\" OR \"terms and conditions\"",
+    "totalResults": "31",
+    "searchTerms": "site:https://www.mass.gov \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"  \"privacy policy\" OR \"privacy notice\" OR \"privacy statement\" OR \"terms of service\" OR \"terms and conditions\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://www.mass.gov \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"  \"privacy policy\" OR \"privacy notice\" OR \"privacy statement\" OR \"terms of service\" OR \"terms and conditions\"",
+    "totalResults": "31",
+    "searchTerms": "site:https://www.mass.gov \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"  \"privacy policy\" OR \"privacy notice\" OR \"privacy statement\" OR \"terms of service\" OR \"terms and conditions\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.128822,
+  "formattedSearchTime": "0.13",
+  "totalResults": "31",
+  "formattedTotalResults": "31"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Frequently Asked Questions for OPSI Digital Licenses | Mass.gov",
+   "htmlTitle": "Frequently Asked Questions for OPSI Digital Licenses | Mass.gov",
+   "link": "https://www.mass.gov/info-details/frequently-asked-questions-for-opsi-digital-licenses",
+   "displayLink": "www.mass.gov",
+   "snippet": "... \u00a9 2025 Commonwealth of Massachusetts. Mass.gov\u00ae is a registered service mark of the Commonwealth of Massachusetts. Mass.gov Privacy Policy. Feedback.",
+   "htmlSnippet": "... \u00a9 2025 Commonwealth of Massachusetts. Mass.gov\u00ae is a registered service mark of the Commonwealth of Massachusetts. Mass.gov <b>Privacy Policy</b>. Feedback.",
+   "formattedUrl": "https://www.mass.gov/.../frequently-asked-questions-for-opsi-digital-license...",
+   "htmlFormattedUrl": "https://www.mass.gov/.../frequently-asked-questions-for-opsi-digital-license...",
+   "pagemap": {
+    "metatags": [
+     {
+      "mg_title": "Frequently Asked Questions for OPSI Digital Licenses",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Frequently Asked Questions for OPSI Digital Licenses",
+      "og:site_name": "Mass.gov",
+      "twitter:site:id": "16264003",
+      "handheldfriendly": "true",
+      "twitter:url": "https://www.mass.gov/info-details/frequently-asked-questions-for-opsi-digital-licenses",
+      "mg_parent_org": "divisionofoccupationallicensure,officeofconsumeraffairsandbusinessregulation,executiveofficeofeconomicdevelopment",
+      "og:title": "Frequently Asked Questions for OPSI Digital Licenses",
+      "og:description": "FAQs for viewing or printing a new, duplicate or renewed OPSI license.",
+      "mg_url": "https://www.mass.gov/info-details/frequently-asked-questions-for-opsi-digital-licenses",
+      "twitter:site": "@massgov",
+      "mg_organization": "officeofpublicsafetyandinspections,divisionofoccupationallicensure",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "FAQs for viewing or printing a new, duplicate or renewed OPSI license.",
+      "mobileoptimized": "width",
+      "og:url": "https://www.mass.gov/info-details/frequently-asked-questions-for-opsi-digital-licenses",
+      "category": "services"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Submit a Request for Official Proposal Form (R109) | Mass.gov",
+   "htmlTitle": "Submit a Request for Official Proposal Form (R109) | Mass.gov",
+   "link": "https://www.mass.gov/how-to/submit-a-request-for-official-proposal-form-r109",
+   "displayLink": "www.mass.gov",
+   "snippet": "Firms should get their Digital ID from Bid Express at least two weeks before ... Mass.gov Privacy Policy. Feedback.",
+   "htmlSnippet": "Firms should get their <b>Digital ID</b> from Bid Express at least two weeks before ... Mass.gov <b>Privacy Policy</b>. Feedback.",
+   "formattedUrl": "https://www.mass.gov/how.../submit-a-request-for-official-proposal-form-r...",
+   "htmlFormattedUrl": "https://www.mass.gov/how.../submit-a-request-for-official-proposal-form-r...",
+   "pagemap": {
+    "metatags": [
+     {
+      "mg_title": "Submit a Request for Official Proposal Form (R109)",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Submit a Request for Official Proposal Form (R109)",
+      "og:site_name": "Mass.gov",
+      "twitter:site:id": "16264003",
+      "mg_body_preview": "To make an official project proposal for a MassDOT project, fill out the R109 form. The form will be reviewed by the Prequalification Program.",
+      "handheldfriendly": "true",
+      "twitter:url": "https://www.mass.gov/how-to/submit-a-request-for-official-proposal-form-r109",
+      "mg_short_description": "To make an official project proposal for a MassDOT project, fill out the R109 form. The form will be reviewed by the Prequalification Program.",
+      "og:title": "Submit a Request for Official Proposal Form (R109)",
+      "og:description": "To make an official project proposal for a MassDOT project, fill out the R109 form. The form will be reviewed by the Prequalification Program.",
+      "mg_url": "https://www.mass.gov/how-to/submit-a-request-for-official-proposal-form-r109",
+      "twitter:site": "@massgov",
+      "mg_key_actions": "[]",
+      "mg_organization": "massachusettsdepartmentoftransportation",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "To make an official project proposal for a MassDOT project, fill out the R109 form. The form will be reviewed by the Prequalification Program.",
+      "mobileoptimized": "width",
+      "og:url": "https://www.mass.gov/how-to/submit-a-request-for-official-proposal-form-r109",
+      "category": "services",
+      "mg_parent_service": "[{\"name\":\"DCAMM Contractor Certification\",\"url\":\"https:\\/\\/www.mass.gov\\/dcamm-contractor-certification\"}]"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Corporate Emergency Access System (CEAS) | Mass.gov",
+   "htmlTitle": "Corporate Emergency Access System (CEAS) | Mass.gov",
+   "link": "https://www.mass.gov/info-details/corporate-emergency-access-system-ceas",
+   "displayLink": "www.mass.gov",
+   "snippet": "To learn more about CEAS, CEAS Virtual Credentials, and the CEAS Mobile ID app, click here. ... Mass.gov Privacy Policy. Feedback.",
+   "htmlSnippet": "To learn more about CEAS, CEAS Virtual Credentials, and the CEAS <b>Mobile ID</b> app, click here. ... Mass.gov <b>Privacy Policy</b>. Feedback.",
+   "formattedUrl": "https://www.mass.gov/info-details/corporate-emergency-access-system-ceas",
+   "htmlFormattedUrl": "https://www.mass.gov/info-details/corporate-emergency-access-system-ceas",
+   "pagemap": {
+    "metatags": [
+     {
+      "mg_title": "Corporate Emergency Access System (CEAS)",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Corporate Emergency Access System (CEAS)",
+      "og:site_name": "Mass.gov",
+      "twitter:site:id": "16264003",
+      "handheldfriendly": "true",
+      "twitter:url": "https://www.mass.gov/info-details/corporate-emergency-access-system-ceas",
+      "mg_parent_org": "executiveofficeofpublicsafetyandsecurity",
+      "og:title": "Corporate Emergency Access System (CEAS)",
+      "og:description": "The CEAS program is an essential employee registry that allows businesses to provide a common, centrally issued credential to employees deemed essential to business operations and recovery.",
+      "mg_url": "https://www.mass.gov/info-details/corporate-emergency-access-system-ceas",
+      "twitter:site": "@massgov",
+      "mg_organization": "massachusettsemergencymanagementagency",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "The CEAS program is an essential employee registry that allows businesses to provide a common, centrally issued credential to employees deemed essential to business operations and recovery.",
+      "mobileoptimized": "width",
+      "mg_labels": "reviewmultipleparents",
+      "og:url": "https://www.mass.gov/info-details/corporate-emergency-access-system-ceas",
+      "category": "services"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MassDEP Northeast Regional Office | Mass.gov",
+   "htmlTitle": "MassDEP Northeast Regional Office | Mass.gov",
+   "link": "https://www.mass.gov/info-details/massdep-northeast-regional-office",
+   "displayLink": "www.mass.gov",
+   "snippet": "... (MDL) site in 2001. Read the report: Evaluation of Reactive Barrier Wall for ... Mass.gov Privacy Policy. Feedback.",
+   "htmlSnippet": "... (<b>MDL</b>) site in 2001. Read the report: Evaluation of Reactive Barrier Wall for ... Mass.gov <b>Privacy Policy</b>. Feedback.",
+   "formattedUrl": "https://www.mass.gov/info-details/massdep-northeast-regional-office",
+   "htmlFormattedUrl": "https://www.mass.gov/info-details/massdep-northeast-regional-office",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0l9gPJE9rLxb-p-TfQt-Tac5QTGOcsunhQCqNRbFB8cgU8mCsLwewTfY&s",
+      "width": "279",
+      "height": "181"
+     }
+    ],
+    "metatags": [
+     {
+      "mg_title": "MassDEP Northeast Regional Office",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "MassDEP Northeast Regional Office",
+      "og:site_name": "Mass.gov",
+      "twitter:site:id": "16264003",
+      "og:image:url": "https://www.mass.gov/files/2024-07/boston-nero-banner.jpg",
+      "handheldfriendly": "true",
+      "twitter:url": "https://www.mass.gov/info-details/massdep-northeast-regional-office",
+      "mg_parent_org": "executiveofficeofenergyandenvironmentalaffairs",
+      "og:title": "MassDEP Northeast Regional Office",
+      "og:description": "Serving communities in northeastern Massachusetts",
+      "twitter:image": "https://www.mass.gov/files/2024-07/boston-nero-banner.jpg",
+      "mg_url": "https://www.mass.gov/info-details/massdep-northeast-regional-office",
+      "twitter:site": "@massgov",
+      "mg_organization": "massachusettsdepartmentofenvironmentalprotection",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Serving communities in northeastern Massachusetts",
+      "mobileoptimized": "width",
+      "og:url": "https://www.mass.gov/info-details/massdep-northeast-regional-office",
+      "category": "services"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.mass.gov/files/styles/embedded_half_width/public/images/2024-06/halibutpoint36504850646_efaba6386f_w.jpg?itok=UoSMkgpr"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Governor Healey Announces New Leadership of the Judicial ...",
+   "htmlTitle": "Governor Healey Announces New Leadership of the Judicial ...",
+   "link": "https://www.mass.gov/news/governor-healey-announces-new-leadership-of-the-judicial-nominating-commission",
+   "displayLink": "www.mass.gov",
+   "snippet": "May 29, 2025 ... ... MDL and class actions. Attorney Shaughnessy has extensive trial ... Mass.gov Privacy Policy. Feedback.",
+   "htmlSnippet": "May 29, 2025 <b>...</b> ... <b>MDL</b> and class actions. Attorney Shaughnessy has extensive trial ... Mass.gov <b>Privacy Policy</b>. Feedback.",
+   "formattedUrl": "https://www.mass.gov/.../governor-healey-announces-new-leadership-of-th...",
+   "htmlFormattedUrl": "https://www.mass.gov/.../governor-healey-announces-new-leadership-of-th...",
+   "pagemap": {
+    "metatags": [
+     {
+      "mg_title": "Governor Healey Announces New Leadership of the Judicial Nominating Commission",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Governor Healey Announces New Leadership of the Judicial Nominating Commission",
+      "og:site_name": "Mass.gov",
+      "twitter:site:id": "16264003",
+      "mg_type": "press-release",
+      "handheldfriendly": "true",
+      "twitter:url": "https://www.mass.gov/news/governor-healey-announces-new-leadership-of-the-judicial-nominating-commission",
+      "og:title": "Governor Healey Announces New Leadership of the Judicial Nominating Commission",
+      "mg_date": "20250529",
+      "og:description": "Governor Healey elevates Kathy Henry to Chair and appoints Asha Santos and Mark Shaughnessy as Vice Chairs",
+      "mg_url": "https://www.mass.gov/news/governor-healey-announces-new-leadership-of-the-judicial-nominating-commission",
+      "twitter:site": "@massgov",
+      "mg_organization": "governormaurahealeyandltgovernorkimdriscoll",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Governor Healey elevates Kathy Henry to Chair and appoints Asha Santos and Mark Shaughnessy as Vice Chairs",
+      "mobileoptimized": "width",
+      "og:url": "https://www.mass.gov/news/governor-healey-announces-new-leadership-of-the-judicial-nominating-commission",
+      "category": "news"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "AG Campbell Files Lawsuit Against Major Insulin Manufacturers And ...",
+   "htmlTitle": "AG Campbell Files Lawsuit Against Major Insulin Manufacturers And ...",
+   "link": "https://www.mass.gov/news/ag-campbell-files-lawsuit-against-major-insulin-manufacturers-and-pharmacy-benefit-managers-for-unfair-and-deceptive-insulin-pricing",
+   "displayLink": "www.mass.gov",
+   "snippet": "Jan 14, 2025 ... ... Commonwealth of Massachusetts. Mass.gov\u00ae is a registered service mark of the Commonwealth of Massachusetts. Mass.gov Privacy Policy. Feedback.",
+   "htmlSnippet": "Jan 14, 2025 <b>...</b> ... Commonwealth of Massachusetts. Mass.gov\u00ae is a registered service mark of the Commonwealth of Massachusetts. Mass.gov <b>Privacy Policy</b>. Feedback.",
+   "formattedUrl": "https://www.mass.gov/.../ag-campbell-files-lawsuit-against-major-insulin-m...",
+   "htmlFormattedUrl": "https://www.mass.gov/.../ag-campbell-files-lawsuit-against-major-insulin-m...",
+   "pagemap": {
+    "metatags": [
+     {
+      "mg_title": "AG Campbell Files Lawsuit Against Major Insulin Manufacturers And Pharmacy Benefit Managers For Unfair And Deceptive Insulin Pricing",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "AG Campbell Files Lawsuit Against Major Insulin Manufacturers And Pharmacy Benefit Managers For Unfair And Deceptive Insulin Pricing",
+      "og:site_name": "Mass.gov",
+      "twitter:site:id": "16264003",
+      "mg_type": "press-release",
+      "handheldfriendly": "true",
+      "twitter:url": "https://www.mass.gov/news/ag-campbell-files-lawsuit-against-major-insulin-manufacturers-and-pharmacy-benefit-managers-for-unfair-and-deceptive-insulin-pricing",
+      "og:title": "AG Campbell Files Lawsuit Against Major Insulin Manufacturers And Pharmacy Benefit Managers For Unfair And Deceptive Insulin Pricing",
+      "mg_date": "20250114",
+      "og:description": "Complaint Alleges Insulin Manufacturers Unfairly Raised Price of Insulin, Paid Portion of Profits Back to Pharmacy Benefit Managers for Offering Their Drugs",
+      "mg_url": "https://www.mass.gov/news/ag-campbell-files-lawsuit-against-major-insulin-manufacturers-and-pharmacy-benefit-managers-for-unfair-and-deceptive-insulin-pricing",
+      "twitter:site": "@massgov",
+      "mg_organization": "officeoftheattorneygeneral",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Complaint Alleges Insulin Manufacturers Unfairly Raised Price of Insulin, Paid Portion of Profits Back to Pharmacy Benefit Managers for Offering Their Drugs",
+      "mobileoptimized": "width",
+      "og:url": "https://www.mass.gov/news/ag-campbell-files-lawsuit-against-major-insulin-manufacturers-and-pharmacy-benefit-managers-for-unfair-and-deceptive-insulin-pricing",
+      "category": "news"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MassHealth Drug List - Health and Human Services",
+   "htmlTitle": "MassHealth Drug List - Health and Human Services",
+   "link": "https://www.mass.gov/druglist",
+   "displayLink": "www.mass.gov",
+   "snippet": "Mass.gov\u00ae is a registered service mark of the Commonwealth of Massachusetts. Mass.gov Privacy Policy \u00b7 Feedback.",
+   "htmlSnippet": "Mass.gov\u00ae is a registered service mark of the Commonwealth of Massachusetts. Mass.gov <b>Privacy Policy</b> &middot; Feedback.",
+   "formattedUrl": "https://www.mass.gov/druglist",
+   "htmlFormattedUrl": "https://www.mass.gov/druglist",
+   "pagemap": {
+    "metatags": [
+     {
+      "search": "Health and Human Services",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "govtype": "state"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of Environmental Acronyms | Mass.gov",
+   "htmlTitle": "List of Environmental Acronyms | Mass.gov",
+   "link": "https://www.mass.gov/info-details/list-of-environmental-acronyms",
+   "displayLink": "www.mass.gov",
+   "snippet": "MDL - Method Detection Limit. MEK - Methyl Ethyl Ketone. MEPA - Massachusetts ... Mass.gov Privacy Policy. Feedback.",
+   "htmlSnippet": "<b>MDL</b> - Method Detection Limit. MEK - Methyl Ethyl Ketone. MEPA - Massachusetts ... Mass.gov <b>Privacy Policy</b>. Feedback.",
+   "formattedUrl": "https://www.mass.gov/info-details/list-of-environmental-acronyms",
+   "htmlFormattedUrl": "https://www.mass.gov/info-details/list-of-environmental-acronyms",
+   "pagemap": {
+    "metatags": [
+     {
+      "mg_title": "List of Environmental Acronyms",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "List of Environmental Acronyms",
+      "og:site_name": "Mass.gov",
+      "twitter:site:id": "16264003",
+      "handheldfriendly": "true",
+      "twitter:url": "https://www.mass.gov/info-details/list-of-environmental-acronyms",
+      "mg_parent_org": "executiveofficeofenergyandenvironmentalaffairs",
+      "og:title": "List of Environmental Acronyms",
+      "og:description": "View a list of environmental acronyms used by the LSP Board.",
+      "mg_url": "https://www.mass.gov/info-details/list-of-environmental-acronyms",
+      "twitter:site": "@massgov",
+      "mg_organization": "boardofregistrationofhazardouswastesitecleanupprofessionals",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "View a list of environmental acronyms used by the LSP Board.",
+      "mobileoptimized": "width",
+      "mg_labels": "reviewmultipleparents",
+      "og:url": "https://www.mass.gov/info-details/list-of-environmental-acronyms",
+      "category": "services"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "AG Campbell Secures Over $7.6 Million, Including Debt Relief, for ...",
+   "htmlTitle": "AG Campbell Secures Over $7.6 Million, Including Debt Relief, for ...",
+   "link": "https://www.mass.gov/news/ag-campbell-secures-over-76-million-including-debt-relief-for-consumers-in-toyota-motor-credit-corporation-settlement",
+   "displayLink": "www.mass.gov",
+   "snippet": "Feb 2, 2023 ... ... Commonwealth of Massachusetts. Mass.gov\u00ae is a registered service mark of the Commonwealth of Massachusetts. Mass.gov Privacy Policy. Feedback.",
+   "htmlSnippet": "Feb 2, 2023 <b>...</b> ... Commonwealth of Massachusetts. Mass.gov\u00ae is a registered service mark of the Commonwealth of Massachusetts. Mass.gov <b>Privacy Policy</b>. Feedback.",
+   "formattedUrl": "https://www.mass.gov/.../ag-campbell-secures-over-76-million-including-de...",
+   "htmlFormattedUrl": "https://www.mass.gov/.../ag-campbell-secures-over-76-million-including-de...",
+   "pagemap": {
+    "metatags": [
+     {
+      "mg_title": "AG Campbell Secures Over $7.6 Million, Including Debt Relief, for Consumers in Toyota Motor Credit Corporation Settlement",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "AG Campbell Secures Over $7.6 Million, Including Debt Relief, for Consumers in Toyota Motor Credit Corporation Settlement",
+      "og:site_name": "Mass.gov",
+      "twitter:site:id": "16264003",
+      "mg_body_preview": "Attorney General Andrea Joy Campbell Today Announced a Settlement Reached With Toyota Motor Credit Corporation To Resolve Allegations of Certain Illegal Auto Loan Collection Practices, Securing More Than $7.6 Million, Including Approximately $5.5 Mil",
+      "mg_type": "press-release",
+      "handheldfriendly": "true",
+      "twitter:url": "https://www.mass.gov/news/ag-campbell-secures-over-76-million-including-debt-relief-for-consumers-in-toyota-motor-credit-corporation-settlement",
+      "og:title": "AG Campbell Secures Over $7.6 Million, Including Debt Relief, for Consumers in Toyota Motor Credit Corporation Settlement",
+      "mg_date": "20230202",
+      "og:description": "Settlement Resolves Allegations That the Company Failed To Provide Post-Repossession Information to Consumers; Eligible Borrowers May Qualify for Debt Relief and Credit Repair",
+      "mg_url": "https://www.mass.gov/news/ag-campbell-secures-over-76-million-including-debt-relief-for-consumers-in-toyota-motor-credit-corporation-settlement",
+      "twitter:site": "@massgov",
+      "mg_organization": "officeoftheattorneygeneral",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Attorney General Andrea Joy Campbell Today Announced a Settlement Reached With Toyota Motor Credit Corporation To Resolve Allegations of Certain Illegal Auto Loan Collection Practices, Securing More Than $7.6 Million, Including Approximately $5.5 Mil",
+      "mobileoptimized": "width",
+      "og:url": "https://www.mass.gov/news/ag-campbell-secures-over-76-million-including-debt-relief-for-consumers-in-toyota-motor-credit-corporation-settlement",
+      "category": "news"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Common Environmental Regulation Acronyms, Abbreviations and ...",
+   "htmlTitle": "Common Environmental Regulation Acronyms, Abbreviations and ...",
+   "link": "https://www.mass.gov/info-details/common-environmental-regulation-acronyms-abbreviations-and-initializations",
+   "displayLink": "www.mass.gov",
+   "snippet": "MDL - Method Detection Limit. MEK - Methyl Ethyl Ketone. MEPA ... Mass.gov Privacy Policy. Feedback.",
+   "htmlSnippet": "<b>MDL</b> - Method Detection Limit. MEK - Methyl Ethyl Ketone. MEPA ... Mass.gov <b>Privacy Policy</b>. Feedback.",
+   "formattedUrl": "https://www.mass.gov/.../common-environmental-regulation-acronyms-abb...",
+   "htmlFormattedUrl": "https://www.mass.gov/.../common-environmental-regulation-acronyms-abb...",
+   "pagemap": {
+    "metatags": [
+     {
+      "mg_title": "Common Environmental Regulation Acronyms, Abbreviations and Initializations",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Common Environmental Regulation Acronyms, Abbreviations and Initializations",
+      "og:site_name": "Mass.gov",
+      "twitter:site:id": "16264003",
+      "handheldfriendly": "true",
+      "twitter:url": "https://www.mass.gov/info-details/common-environmental-regulation-acronyms-abbreviations-and-initializations",
+      "mg_parent_org": "executiveofficeofenergyandenvironmentalaffairs",
+      "og:title": "Common Environmental Regulation Acronyms, Abbreviations and Initializations",
+      "og:description": "Acronyms, abbreviations and initializations relevant to a broad range of environmental topics with a primary focus on the state and federal contamination cleanup programs.",
+      "mg_url": "https://www.mass.gov/info-details/common-environmental-regulation-acronyms-abbreviations-and-initializations",
+      "twitter:site": "@massgov",
+      "mg_organization": "massachusettsdepartmentofenvironmentalprotection",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Acronyms, abbreviations and initializations relevant to a broad range of environmental topics with a primary focus on the state and federal contamination cleanup programs.",
+      "mobileoptimized": "width",
+      "og:url": "https://www.mass.gov/info-details/common-environmental-regulation-acronyms-abbreviations-and-initializations",
+      "category": "services"
+     }
+    ]
+   }
+  }
+ ]
+}

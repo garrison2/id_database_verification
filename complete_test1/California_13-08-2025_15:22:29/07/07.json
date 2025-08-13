@@ -1,0 +1,566 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:play.google.com \"California\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "229",
+    "searchTerms": "site:play.google.com \"California\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:play.google.com \"California\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "229",
+    "searchTerms": "site:play.google.com \"California\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.179683,
+  "formattedSearchTime": "0.18",
+  "totalResults": "229",
+  "formattedTotalResults": "229"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "CA DMV Wallet - Apps on Google Play",
+   "htmlTitle": "CA DMV Wallet - Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details?id=gov.ca.dmv.wallet",
+   "displayLink": "play.google.com",
+   "snippet": "... Mobile Driver's License (mDL) digital credential. California DMV Wallet gives you the control of the driver's license data you share with others. For\u00a0...",
+   "htmlSnippet": "... <b>Mobile Driver&#39;s License</b> (<b>mDL</b>) digital credential. <b>California</b> DMV Wallet gives you the control of the driver&#39;s license data you share with others. For&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=gov.ca.dmv.wallet",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=gov.ca.dmv.wallet",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=gov.ca.dmv.wallet&rdid=gov.ca.dmv.wallet&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgYuST3Yrzv3TO9w5npcDunhQB9nFA3gFL7Ek6QWqZGFDPdq5Mo-jQuw1t&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/Z-BgrylWXW7ib1hcxzVH86RSkEt-ifYdnQ1kuEiAictfdueVZsuqjpQFf_Q1k4Sd0rAH",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "CA DMV Wallet - Apps on Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=gov.ca.dmv.wallet&hl=en_US",
+      "appstore:developer_url": "https://www.dmv.ca.gov/portal/mobile-drivers-license/mdl-faqs",
+      "og:title": "CA DMV Wallet - Apps on Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/Z-BgrylWXW7ib1hcxzVH86RSkEt-ifYdnQ1kuEiAictfdueVZsuqjpQFf_Q1k4Sd0rAH=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "gov.ca.dmv.wallet",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "gov.ca.dmv.wallet",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "California Department of Motor Vehicles Wallet",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=gov.ca.dmv.wallet&hl=en_US"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/Z-BgrylWXW7ib1hcxzVH86RSkEt-ifYdnQ1kuEiAictfdueVZsuqjpQFf_Q1k4Sd0rAH"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CA DMV Wallet - \u0627\u0644\u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0639\u0644\u0649 Google Play",
+   "htmlTitle": "CA DMV Wallet - \u0627\u0644\u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0639\u0644\u0649 Google Play",
+   "link": "https://play.google.com/store/apps/details?id=gov.ca.dmv.wallet&hl=ar",
+   "displayLink": "play.google.com",
+   "snippet": "\u0644\u0645\u062d\u0629 \u0639\u0646 \u0647\u0630\u0627 \u0627\u0644\u062a\u0637\u0628\u064a\u0642. arrow_forward. \u062a\u0639\u064a\u0634 \u0627\u0644\u0622\u0646 \u0641\u064a \u0627\u0644\u0645\u0631\u062d\u0644\u0629 \u0627\u0644\u062a\u062c\u0631\u064a\u0628\u064a\u0629 - \u0645\u062d\u0641\u0638\u0629 \u0627\u0644\u0647\u0627\u062a\u0641 \u0627\u0644\u0645\u062d\u0645\u0648\u0644 California DMV ... (mDL). \u062a\u0645\u0646\u062d\u0643 California DMV Wallet \u0627\u0644\u062a\u062d\u0643\u0645 \u0641\u064a \u0628\u064a\u0627\u0646\u0627\u062a\u00a0...",
+   "htmlSnippet": "\u0644\u0645\u062d\u0629 \u0639\u0646 \u0647\u0630\u0627 \u0627\u0644\u062a\u0637\u0628\u064a\u0642. arrow_forward. \u062a\u0639\u064a\u0634 \u0627\u0644\u0622\u0646 \u0641\u064a \u0627\u0644\u0645\u0631\u062d\u0644\u0629 \u0627\u0644\u062a\u062c\u0631\u064a\u0628\u064a\u0629 - \u0645\u062d\u0641\u0638\u0629 \u0627\u0644\u0647\u0627\u062a\u0641 \u0627\u0644\u0645\u062d\u0645\u0648\u0644 <b>California</b> DMV ... (<b>mDL</b>). \u062a\u0645\u0646\u062d\u0643 <b>California</b> DMV Wallet \u0627\u0644\u062a\u062d\u0643\u0645 \u0641\u064a \u0628\u064a\u0627\u0646\u0627\u062a&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=gov.ca.dmv.wallet&hl...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=gov.ca.dmv.wallet&amp;hl...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=gov.ca.dmv.wallet&rdid=gov.ca.dmv.wallet&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgYuST3Yrzv3TO9w5npcDunhQB9nFA3gFL7Ek6QWqZGFDPdq5Mo-jQuw1t&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/Z-BgrylWXW7ib1hcxzVH86RSkEt-ifYdnQ1kuEiAictfdueVZsuqjpQFf_Q1k4Sd0rAH",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "CA DMV Wallet - \u0627\u0644\u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0639\u0644\u0649 Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=gov.ca.dmv.wallet&hl=ar",
+      "appstore:developer_url": "https://www.dmv.ca.gov/portal/mobile-drivers-license/mdl-faqs",
+      "og:title": "CA DMV Wallet - \u0627\u0644\u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0639\u0644\u0649 Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/Z-BgrylWXW7ib1hcxzVH86RSkEt-ifYdnQ1kuEiAictfdueVZsuqjpQFf_Q1k4Sd0rAH=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "gov.ca.dmv.wallet",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "gov.ca.dmv.wallet",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "\u0645\u062d\u0641\u0638\u0629 \u0643\u0627\u0644\u064a\u0641\u0648\u0631\u0646\u064a\u0627 \u0644\u0644\u0645\u0631\u0643\u0628\u0627\u062a \u0630\u0627\u062a \u0627\u0644\u0645\u062d\u0631\u0643\u0627\u062a",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=gov.ca.dmv.wallet&hl=ar"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/Z-BgrylWXW7ib1hcxzVH86RSkEt-ifYdnQ1kuEiAictfdueVZsuqjpQFf_Q1k4Sd0rAH"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CA DMV Wallet - Apps en Google Play",
+   "htmlTitle": "CA DMV Wallet - Apps en Google Play",
+   "link": "https://play.google.com/store/apps/details?id=gov.ca.dmv.wallet&hl=es_PY",
+   "displayLink": "play.google.com",
+   "snippet": "... (mDL). California DMV Wallet le brinda el control de los datos de la licencia de conducir que comparte con otros. Por ejemplo, al comprar art\u00edculos con\u00a0...",
+   "htmlSnippet": "... (<b>mDL</b>). <b>California</b> DMV Wallet le brinda el control de los datos de la licencia de conducir que comparte con otros. Por ejemplo, al comprar art\u00edculos con&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=gov.ca.dmv.wallet&hl...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=gov.ca.dmv.wallet&amp;hl...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=gov.ca.dmv.wallet&rdid=gov.ca.dmv.wallet&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgYuST3Yrzv3TO9w5npcDunhQB9nFA3gFL7Ek6QWqZGFDPdq5Mo-jQuw1t&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/Z-BgrylWXW7ib1hcxzVH86RSkEt-ifYdnQ1kuEiAictfdueVZsuqjpQFf_Q1k4Sd0rAH",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "CA DMV Wallet - Apps en Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=gov.ca.dmv.wallet&hl=es_PY",
+      "appstore:developer_url": "https://www.dmv.ca.gov/portal/mobile-drivers-license/mdl-faqs",
+      "og:title": "CA DMV Wallet - Apps en Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/Z-BgrylWXW7ib1hcxzVH86RSkEt-ifYdnQ1kuEiAictfdueVZsuqjpQFf_Q1k4Sd0rAH=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "gov.ca.dmv.wallet",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "gov.ca.dmv.wallet",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Cartera del Departamento de Veh\u00edculos Motorizados de California",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=gov.ca.dmv.wallet&hl=es_PY"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/Z-BgrylWXW7ib1hcxzVH86RSkEt-ifYdnQ1kuEiAictfdueVZsuqjpQFf_Q1k4Sd0rAH"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CA DMV Wallet - Aplikasi di Google Play",
+   "htmlTitle": "CA DMV Wallet - Aplikasi di Google Play",
+   "link": "https://play.google.com/store/apps/details?id=gov.ca.dmv.wallet&hl=id",
+   "displayLink": "play.google.com",
+   "snippet": "Warga California kini memiliki cara yang aman untuk menunjukkan SIM atau ... Mobile Driver's License (mDL). Dompet DMV California memberi Anda kendali\u00a0...",
+   "htmlSnippet": "Warga <b>California</b> kini memiliki cara yang aman untuk menunjukkan SIM atau ... <b>Mobile Driver&#39;s License</b> (<b>mDL</b>). Dompet DMV <b>California</b> memberi Anda kendali&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=gov.ca.dmv.wallet&hl...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=gov.ca.dmv.wallet&amp;hl...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=gov.ca.dmv.wallet&rdid=gov.ca.dmv.wallet&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgYuST3Yrzv3TO9w5npcDunhQB9nFA3gFL7Ek6QWqZGFDPdq5Mo-jQuw1t&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/Z-BgrylWXW7ib1hcxzVH86RSkEt-ifYdnQ1kuEiAictfdueVZsuqjpQFf_Q1k4Sd0rAH",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "CA DMV Wallet - Aplikasi di Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=gov.ca.dmv.wallet&hl=id",
+      "appstore:developer_url": "https://www.dmv.ca.gov/portal/mobile-drivers-license/mdl-faqs",
+      "og:title": "CA DMV Wallet - Aplikasi di Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/Z-BgrylWXW7ib1hcxzVH86RSkEt-ifYdnQ1kuEiAictfdueVZsuqjpQFf_Q1k4Sd0rAH=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "gov.ca.dmv.wallet",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "gov.ca.dmv.wallet",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Dompet Departemen Kendaraan Bermotor California",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=gov.ca.dmv.wallet&hl=id"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/Z-BgrylWXW7ib1hcxzVH86RSkEt-ifYdnQ1kuEiAictfdueVZsuqjpQFf_Q1k4Sd0rAH"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Blue Shield of California \u2013 Apps on Google Play",
+   "htmlTitle": "Blue Shield of <b>California</b> \u2013 Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.blueshieldca.prod&hl=en_ZA",
+   "displayLink": "play.google.com",
+   "snippet": "As a member of Blue Shield of California, or Blue Shield Promise, with our app you can view and access: Digital ID card - Your digital ID card enables you\u00a0...",
+   "htmlSnippet": "As a member of Blue Shield of <b>California</b>, or Blue Shield Promise, with our app you can view and access: <b>Digital ID</b> card - Your <b>digital ID</b> card enables you&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.blueshieldca.prod...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.blueshieldca.prod...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.blueshieldca.prod&rdid=com.blueshieldca.prod&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVSkjQkOHTDMM7DbGrI2N3DlPyq8qiF64jXY7gBmH3DaVqm261qRyUk3Q&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/HJnsXoaWsj-9Ih5CAoFizyXndxwFnsllB-6LYWoO4YfXOFkBZwaUVuDGMz6PGoB8jY8",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Blue Shield of California \u2013 Apps on Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.blueshieldca.prod&hl=en_ZA",
+      "appstore:developer_url": "https://www.blueshieldca.com",
+      "og:title": "Blue Shield of California \u2013 Apps on Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/HJnsXoaWsj-9Ih5CAoFizyXndxwFnsllB-6LYWoO4YfXOFkBZwaUVuDGMz6PGoB8jY8=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.blueshieldca.prod",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.blueshieldca.prod",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Easily access your health plan info with the Blue Shield of California app.",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.blueshieldca.prod&hl=en_ZA"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/HJnsXoaWsj-9Ih5CAoFizyXndxwFnsllB-6LYWoO4YfXOFkBZwaUVuDGMz6PGoB8jY8"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CA DMV Wallet \u2013 Apps no Google Play",
+   "htmlTitle": "CA DMV Wallet \u2013 Apps no Google Play",
+   "link": "https://play.google.com/store/apps/details?id=gov.ca.dmv.wallet&hl=pt",
+   "displayLink": "play.google.com",
+   "snippet": "Sobre este app. arrow_forward. Agora ao vivo na fase piloto \u2013 California DMV Mobile Wallet ... (mDL). A Carteira DMV da Calif\u00f3rnia oferece o controle dos dados da\u00a0...",
+   "htmlSnippet": "Sobre este app. arrow_forward. Agora ao vivo na fase piloto \u2013 <b>California</b> DMV Mobile Wallet ... (<b>mDL</b>). A Carteira DMV da <b>Calif\u00f3rnia</b> oferece o controle dos dados da&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=gov.ca.dmv.wallet&hl...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=gov.ca.dmv.wallet&amp;hl...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=gov.ca.dmv.wallet&rdid=gov.ca.dmv.wallet&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgYuST3Yrzv3TO9w5npcDunhQB9nFA3gFL7Ek6QWqZGFDPdq5Mo-jQuw1t&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/Z-BgrylWXW7ib1hcxzVH86RSkEt-ifYdnQ1kuEiAictfdueVZsuqjpQFf_Q1k4Sd0rAH",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "CA DMV Wallet \u2013 Apps no Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=gov.ca.dmv.wallet&hl=pt",
+      "appstore:developer_url": "https://www.dmv.ca.gov/portal/mobile-drivers-license/mdl-faqs",
+      "og:title": "CA DMV Wallet \u2013 Apps no Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/Z-BgrylWXW7ib1hcxzVH86RSkEt-ifYdnQ1kuEiAictfdueVZsuqjpQFf_Q1k4Sd0rAH=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "gov.ca.dmv.wallet",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "gov.ca.dmv.wallet",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Carteira do Departamento de Ve\u00edculos Automotores da Calif\u00f3rnia",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=gov.ca.dmv.wallet&hl=pt"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/Z-BgrylWXW7ib1hcxzVH86RSkEt-ifYdnQ1kuEiAictfdueVZsuqjpQFf_Q1k4Sd0rAH"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile ID Check by MD - Apps on Google Play",
+   "htmlTitle": "<b>Mobile ID</b> Check by MD - Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.mdot.mva.mobileidcheck",
+   "displayLink": "play.google.com",
+   "snippet": "Oct 17, 2024 ... ID and Digital ID Verifier App by MDOT MVA for mDL and Physical ID Verification ... \u2022 California \u2022 Colorado \u2022 Georgia \u2022 Louisiana \u2022 Hawaii \u2022 New\u00a0...",
+   "htmlSnippet": "Oct 17, 2024 <b>...</b> ID and <b>Digital ID</b> Verifier App by MDOT MVA for <b>mDL</b> and Physical ID Verification ... \u2022 <b>California</b> \u2022 Colorado \u2022 Georgia \u2022 Louisiana \u2022 Hawaii \u2022 New&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.mdot...mobileidcheck",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.mdot...<b>mobileid</b>check",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.mdot.mva.mobileidcheck&rdid=com.mdot.mva.mobileidcheck&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCsUar5K4Nq7816RR9WGPdIMRXjTZnDqGcXZIcqDYsn22DpvREigblp8Do&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/3ZeAj6zKj-fHfJA8mqvks57oooYgUTM5p8LJlw_MQwol42IanOImYSuH8GqoCHiYfQ",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Mobile ID Check by MD - Apps on Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.mdot.mva.mobileidcheck&hl=en_US",
+      "appstore:developer_url": "https://mva.maryland.gov/Pages/MDMobileIDBusiness.aspx",
+      "og:title": "Mobile ID Check by MD - Apps on Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/3ZeAj6zKj-fHfJA8mqvks57oooYgUTM5p8LJlw_MQwol42IanOImYSuH8GqoCHiYfQ=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.mdot.mva.mobileidcheck",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.mdot.mva.mobileidcheck",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "ID and Digital ID Verifier App by MDOT MVA for mDL and Physical ID Verification.",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.mdot.mva.mobileidcheck&hl=en_US"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/3ZeAj6zKj-fHfJA8mqvks57oooYgUTM5p8LJlw_MQwol42IanOImYSuH8GqoCHiYfQ"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CA DMV Wallet - \u0e41\u0e2d\u0e1b\u0e1e\u0e25\u0e34\u0e40\u0e04\u0e0a\u0e31\u0e19\u0e43\u0e19 Google Play",
+   "htmlTitle": "CA DMV Wallet - \u0e41\u0e2d\u0e1b\u0e1e\u0e25\u0e34\u0e40\u0e04\u0e0a\u0e31\u0e19\u0e43\u0e19 Google Play",
+   "link": "https://play.google.com/store/apps/details?id=gov.ca.dmv.wallet&hl=th",
+   "displayLink": "play.google.com",
+   "snippet": "\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49\u0e2d\u0e22\u0e39\u0e48\u0e43\u0e19\u0e23\u0e30\u0e22\u0e30\u0e19\u0e33\u0e23\u0e48\u0e2d\u0e07 - California DMV Mobile Wallet \u0e02\u0e13\u0e30\u0e19\u0e35\u0e49\u0e0a\u0e32\u0e27\u0e41\u0e04\u0e25\u0e34\u0e1f\u0e2d\u0e23\u0e4c\u0e40\u0e19\u0e35\u0e22\u0e21\u0e35\u0e27\u0e34\u0e18\u0e35\u0e17\u0e35\u0e48\u0e1b\u0e25\u0e2d\u0e14\u0e20\u0e31\u0e22\u0e43\u0e19\u0e01\u0e32\u0e23\u0e41\u0e2a\u0e14\u0e07\u0e43\u0e1a\u0e02\u0e31\u0e1a\u0e02\u0e35\u0e48\u0e2b\u0e23\u0e37\u0e2d\u0e1a\u0e31\u0e15\u0e23\u0e1b\u0e23\u0e30\u0e08\u0e33\u0e15\u0e31\u0e27\u0e42\u0e14\u0e22\u0e43\u0e0a\u0e49\u0e2a\u0e21\u0e32\u0e23\u0e4c\u0e17\u0e42\u0e1f\u0e19\u0e1c\u0e48\u0e32\u0e19\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e1b\u0e23\u0e30\u0e08\u0e33\u0e15\u0e31\u0e27\u0e14\u0e34\u0e08\u0e34\u0e17\u0e31\u0e25\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e43\u0e1a\u0e02\u0e31\u0e1a\u0e02\u0e35\u0e48\u0e21\u0e37\u0e2d\u0e16\u0e37\u0e2d (mDL)",
+   "htmlSnippet": "\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49\u0e2d\u0e22\u0e39\u0e48\u0e43\u0e19\u0e23\u0e30\u0e22\u0e30\u0e19\u0e33\u0e23\u0e48\u0e2d\u0e07 - <b>California</b> DMV Mobile Wallet \u0e02\u0e13\u0e30\u0e19\u0e35\u0e49\u0e0a\u0e32\u0e27\u0e41\u0e04\u0e25\u0e34\u0e1f\u0e2d\u0e23\u0e4c\u0e40\u0e19\u0e35\u0e22\u0e21\u0e35\u0e27\u0e34\u0e18\u0e35\u0e17\u0e35\u0e48\u0e1b\u0e25\u0e2d\u0e14\u0e20\u0e31\u0e22\u0e43\u0e19\u0e01\u0e32\u0e23\u0e41\u0e2a\u0e14\u0e07\u0e43\u0e1a\u0e02\u0e31\u0e1a\u0e02\u0e35\u0e48\u0e2b\u0e23\u0e37\u0e2d\u0e1a\u0e31\u0e15\u0e23\u0e1b\u0e23\u0e30\u0e08\u0e33\u0e15\u0e31\u0e27\u0e42\u0e14\u0e22\u0e43\u0e0a\u0e49\u0e2a\u0e21\u0e32\u0e23\u0e4c\u0e17\u0e42\u0e1f\u0e19\u0e1c\u0e48\u0e32\u0e19\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e1b\u0e23\u0e30\u0e08\u0e33\u0e15\u0e31\u0e27\u0e14\u0e34\u0e08\u0e34\u0e17\u0e31\u0e25\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e43\u0e1a\u0e02\u0e31\u0e1a\u0e02\u0e35\u0e48\u0e21\u0e37\u0e2d\u0e16\u0e37\u0e2d (<b>mDL</b>)",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=gov.ca.dmv.wallet&hl...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=gov.ca.dmv.wallet&amp;hl...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=gov.ca.dmv.wallet&rdid=gov.ca.dmv.wallet&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgYuST3Yrzv3TO9w5npcDunhQB9nFA3gFL7Ek6QWqZGFDPdq5Mo-jQuw1t&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/Z-BgrylWXW7ib1hcxzVH86RSkEt-ifYdnQ1kuEiAictfdueVZsuqjpQFf_Q1k4Sd0rAH",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "CA DMV Wallet - \u0e41\u0e2d\u0e1b\u0e1e\u0e25\u0e34\u0e40\u0e04\u0e0a\u0e31\u0e19\u0e43\u0e19 Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=gov.ca.dmv.wallet&hl=th",
+      "appstore:developer_url": "https://www.dmv.ca.gov/portal/mobile-drivers-license/mdl-faqs",
+      "og:title": "CA DMV Wallet - \u0e41\u0e2d\u0e1b\u0e1e\u0e25\u0e34\u0e40\u0e04\u0e0a\u0e31\u0e19\u0e43\u0e19 Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/Z-BgrylWXW7ib1hcxzVH86RSkEt-ifYdnQ1kuEiAictfdueVZsuqjpQFf_Q1k4Sd0rAH=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "gov.ca.dmv.wallet",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "gov.ca.dmv.wallet",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "\u0e01\u0e23\u0e30\u0e40\u0e1b\u0e4b\u0e32\u0e40\u0e07\u0e34\u0e19\u0e01\u0e23\u0e21\u0e22\u0e32\u0e19\u0e22\u0e19\u0e15\u0e4c\u0e41\u0e2b\u0e48\u0e07\u0e41\u0e04\u0e25\u0e34\u0e1f\u0e2d\u0e23\u0e4c\u0e40\u0e19\u0e35\u0e22",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=gov.ca.dmv.wallet&hl=th"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/Z-BgrylWXW7ib1hcxzVH86RSkEt-ifYdnQ1kuEiAictfdueVZsuqjpQFf_Q1k4Sd0rAH"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CA DMV Wallet \u2013 Apps bei Google Play",
+   "htmlTitle": "CA DMV Wallet \u2013 Apps bei Google Play",
+   "link": "https://play.google.com/store/apps/details?id=gov.ca.dmv.wallet&hl=gsw",
+   "displayLink": "play.google.com",
+   "snippet": "... Mobile Driver's License (mDL) digital credential. California DMV Wallet gives you the control of the driver's license data you share with others. For\u00a0...",
+   "htmlSnippet": "... <b>Mobile Driver&#39;s License</b> (<b>mDL</b>) digital credential. <b>California</b> DMV Wallet gives you the control of the driver&#39;s license data you share with others. For&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=gov.ca.dmv.wallet&hl...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=gov.ca.dmv.wallet&amp;hl...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=gov.ca.dmv.wallet&rdid=gov.ca.dmv.wallet&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgYuST3Yrzv3TO9w5npcDunhQB9nFA3gFL7Ek6QWqZGFDPdq5Mo-jQuw1t&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/Z-BgrylWXW7ib1hcxzVH86RSkEt-ifYdnQ1kuEiAictfdueVZsuqjpQFf_Q1k4Sd0rAH",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "CA DMV Wallet \u2013 Apps bei Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=gov.ca.dmv.wallet&hl=gsw",
+      "appstore:developer_url": "https://www.dmv.ca.gov/portal/mobile-drivers-license/mdl-faqs",
+      "og:title": "CA DMV Wallet \u2013 Apps bei Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/Z-BgrylWXW7ib1hcxzVH86RSkEt-ifYdnQ1kuEiAictfdueVZsuqjpQFf_Q1k4Sd0rAH=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "gov.ca.dmv.wallet",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "gov.ca.dmv.wallet",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "California Department of Motor Vehicles Wallet",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=gov.ca.dmv.wallet&hl=gsw"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/Z-BgrylWXW7ib1hcxzVH86RSkEt-ifYdnQ1kuEiAictfdueVZsuqjpQFf_Q1k4Sd0rAH"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CA DMV Wallet - Google Play'de Uygulamalar",
+   "htmlTitle": "CA DMV Wallet - Google Play&#39;de Uygulamalar",
+   "link": "https://play.google.com/store/apps/details?id=gov.ca.dmv.wallet&hl=tr",
+   "displayLink": "play.google.com",
+   "snippet": "Art\u0131k Pilot A\u015famas\u0131nday\u0131z \u2013 California DMV Mobil C\u00fczdan Kaliforniyal\u0131lar art\u0131k ak\u0131ll\u0131 telefonlar\u0131n\u0131 kullanarak Mobil S\u00fcr\u00fcc\u00fc Lisans\u0131 (mDL) dijital kimlik\u00a0...",
+   "htmlSnippet": "Art\u0131k Pilot A\u015famas\u0131nday\u0131z \u2013 <b>California</b> DMV Mobil C\u00fczdan Kaliforniyal\u0131lar art\u0131k ak\u0131ll\u0131 telefonlar\u0131n\u0131 kullanarak Mobil S\u00fcr\u00fcc\u00fc Lisans\u0131 (<b>mDL</b>) dijital kimlik&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=gov.ca.dmv.wallet&hl...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=gov.ca.dmv.wallet&amp;hl...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=gov.ca.dmv.wallet&rdid=gov.ca.dmv.wallet&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgYuST3Yrzv3TO9w5npcDunhQB9nFA3gFL7Ek6QWqZGFDPdq5Mo-jQuw1t&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/Z-BgrylWXW7ib1hcxzVH86RSkEt-ifYdnQ1kuEiAictfdueVZsuqjpQFf_Q1k4Sd0rAH",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "CA DMV Wallet - Google Play'de Uygulamalar",
+      "twitter:url": "https://play.google.com/store/apps/details?id=gov.ca.dmv.wallet&hl=tr",
+      "appstore:developer_url": "https://www.dmv.ca.gov/portal/mobile-drivers-license/mdl-faqs",
+      "og:title": "CA DMV Wallet - Google Play'de Uygulamalar",
+      "twitter:image": "https://play-lh.googleusercontent.com/Z-BgrylWXW7ib1hcxzVH86RSkEt-ifYdnQ1kuEiAictfdueVZsuqjpQFf_Q1k4Sd0rAH=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "gov.ca.dmv.wallet",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "gov.ca.dmv.wallet",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "California Motorlu Ta\u015f\u0131tlar Departman\u0131 C\u00fczdan\u0131",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=gov.ca.dmv.wallet&hl=tr"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/Z-BgrylWXW7ib1hcxzVH86RSkEt-ifYdnQ1kuEiAictfdueVZsuqjpQFf_Q1k4Sd0rAH"
+     }
+    ]
+   }
+  }
+ ]
+}

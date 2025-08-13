@@ -1,0 +1,468 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Montana\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "364000",
+    "searchTerms": "\"Montana\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Montana\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "364000",
+    "searchTerms": "\"Montana\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.140234,
+  "formattedSearchTime": "0.14",
+  "totalResults": "364000",
+  "formattedTotalResults": "364,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Untitled",
+   "htmlTitle": "Untitled",
+   "link": "https://archive.legmt.gov/bills/2023/billhtml/HB0519.htm",
+   "displayLink": "archive.legmt.gov",
+   "snippet": "... Montana driver's license at the time of entering active duty. (6) The ... digital driver's license. (23)(24) The department may adopt rules to\u00a0...",
+   "htmlSnippet": "... <b>Montana</b> driver&#39;s license at the time of entering active duty. (6) The ... <b>digital driver&#39;s license</b>. (23)(24) The department may adopt rules to&nbsp;...",
+   "formattedUrl": "https://archive.legmt.gov/bills/2023/billhtml/HB0519.htm",
+   "htmlFormattedUrl": "https://archive.legmt.gov/bills/2023/billhtml/HB0519.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Montana Mobile ID Updates",
+   "htmlTitle": "<b>Montana Mobile ID</b> Updates",
+   "link": "https://idscan.net/state-digital-id/montana-mobile-id-updates/",
+   "displayLink": "idscan.net",
+   "snippet": "Montana mobile ID updates. State of digital ID in Montana; Other Montana mDL ... Digital Driver's License Bill Going Through Montana House (ABC Fox Montana).",
+   "htmlSnippet": "<b>Montana mobile ID</b> updates. State of <b>digital ID</b> in <b>Montana</b>; Other <b>Montana mDL</b> ... <b>Digital Driver&#39;s License</b> Bill Going Through <b>Montana</b> House (ABC Fox <b>Montana</b>).",
+   "formattedUrl": "https://idscan.net/state-digital-id/montana-mobile-id-updates/",
+   "htmlFormattedUrl": "https://idscan.net/state-<b>digital-id</b>/<b>montana</b>-<b>mobile-id</b>-updates/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzJuXLR_70RO4Vy78L5nN7a5DMMVz5G6fsWYESr23QwMpuVp1jI0_an5Q&s",
+      "width": "310",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://idscan.net/wp-content/uploads/montana-mobile-id.jpg?lm=66A7318D",
+      "og:type": "article",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "IDScan.net",
+      "og:title": "Montana Mobile ID Updates",
+      "og:image:height": "629",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://idscan.net/wp-content/uploads/cropped-idscan-identity-verification-software-icon-1-270x270.png",
+      "og:description": "A Montana mobile ID has been approved by the House of Representatives and are expected to launch for resident sometime in 2025.",
+      "article:publisher": "https://www.facebook.com/idscannet",
+      "twitter:site": "@idscan_net",
+      "article:modified_time": "2025-02-28T16:21:00+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://idscan.net/state-digital-id/montana-mobile-id-updates/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://idscan.net/wp-content/uploads/montana-mobile-id.jpg?lm=66A7318D"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Residency Requirements | Montana FWP",
+   "htmlTitle": "Residency Requirements | <b>Montana</b> FWP",
+   "link": "https://fwp.mt.gov/buyandapply/residencyinfo",
+   "displayLink": "fwp.mt.gov",
+   "snippet": "Montana ID. To purchase an annual resident Conservation License, you will be required to show. a valid Montana Driver's License (MDL),. a valid Montana\u00a0...",
+   "htmlSnippet": "<b>Montana</b> ID. To purchase an annual resident Conservation License, you will be required to show. a valid <b>Montana</b> Driver&#39;s License (<b>MDL</b>),. a valid <b>Montana</b>&nbsp;...",
+   "formattedUrl": "https://fwp.mt.gov/buyandapply/residencyinfo",
+   "htmlFormattedUrl": "https://fwp.mt.gov/buyandapply/residencyinfo",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyqvT7iLtgsGuxLQ9xmhfn4hDSOxPrUaJhVVoxSsr4Pklt53FKZepxQs5E&s",
+      "width": "149",
+      "height": "149"
+     }
+    ],
+    "metatags": [
+     {
+      "twitter:card": "summary_large_image",
+      "dcterms.modified": "2023-10-19T08:54:26-06:00",
+      "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+      "og:title": "Residency Requirements | Montana FWP",
+      "og:url": "https://fwp.mt.gov/buyandapply/residencyinfo",
+      "dcterms.created": "2023-10-19T08:54:28-06:00",
+      "og:description": "Information on requirements to qualify for resident status when purchasing Montana hunting and fishing licenses."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://fwp.mt.gov/images/fwp/logos/fwp-logo.svg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Digital Driver's License Legislation: States Allowing Mobile IDs ...",
+   "htmlTitle": "<b>Digital Driver&#39;s License</b> Legislation: States Allowing Mobile IDs ...",
+   "link": "https://statecapitallobbyist.com/technology/digital-drivers-license-legislation-states-allowing-mobile-ids/",
+   "displayLink": "statecapitallobbyist.com",
+   "snippet": "Jul 31, 2023 ... digital driver's license mobile ID Photo credit: iStock.com/Who_I_am ... Montana: Governor Signs Mobile ID Bill. In April 2023, Governor Greg\u00a0...",
+   "htmlSnippet": "Jul 31, 2023 <b>...</b> <b>digital driver&#39;s license mobile ID</b> Photo credit: iStock.com/Who_I_am ... <b>Montana</b>: Governor Signs <b>Mobile ID</b> Bill. In April 2023, Governor Greg&nbsp;...",
+   "formattedUrl": "https://statecapitallobbyist.com/.../digital-drivers-license-legislation-states-all...",
+   "htmlFormattedUrl": "https://statecapitallobbyist.com/.../<b>digital-drivers-license</b>-legislation-states-all...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXsnCSPlVSVvhhprV9dpicqDbu96nRDQYCQj-hltMwV8yURFHscbUhFDs&s",
+      "width": "284",
+      "height": "177"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://statecapitallobbyist.com/wp-content/uploads/2023/05/iStock-1090677082.jpg",
+      "article:published_time": "2023-08-01T01:00:48+00:00",
+      "og:image:width": "1296",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Duane Morris Government Strategies",
+      "twitter:label1": "Written by",
+      "twitter:label2": "Est. reading time",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://statecapitallobbyist.com/wp-content/uploads/2022/05/dmgs-favicon.png",
+      "og:description": "In adopting advanced technology in driver licensing, several states have created digital driver\u2019s licenses or mobile IDs.",
+      "twitter:creator": "@DMGSLLC",
+      "article:publisher": "https://www.facebook.com/Duane.Morris.Government.Strategies",
+      "twitter:data1": "Ryan Stevens",
+      "twitter:data2": "4 minutes",
+      "twitter:site": "@DMGSLLC",
+      "article:modified_time": "2023-09-11T04:51:16+00:00",
+      "google-adsense-platform-account": "ca-host-pub-2644536267352236",
+      "og:type": "article",
+      "author": "Ryan Stevens",
+      "og:title": "Digital Driver\u2019s License Legislation: States Allowing Mobile IDs",
+      "og:image:height": "810",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "google-adsense-platform-domain": "sitekit.withgoogle.com",
+      "og:url": "https://statecapitallobbyist.com/technology/digital-drivers-license-legislation-states-allowing-mobile-ids/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://statecapitallobbyist.com/wp-content/uploads/2023/05/iStock-1090677082.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Home | Monta\u00f1a de Luz",
+   "htmlTitle": "Home | <b>Monta\u00f1a</b> de Luz",
+   "link": "https://montanadeluz.org/",
+   "displayLink": "montanadeluz.org",
+   "snippet": "Take a video walking tour of our Mountain of Light in Honduras with Anna Jackson, MdL's executive director. ... Copyright \u00a9 2025 Monta\u00f1a de Luz. Powered by\u00a0...",
+   "htmlSnippet": "Take a video walking tour of our Mountain of Light in Honduras with Anna Jackson, <b>MdL&#39;s</b> executive director. ... Copyright \u00a9 2025 <b>Monta\u00f1a</b> de Luz. Powered by&nbsp;...",
+   "formattedUrl": "https://montanadeluz.org/",
+   "htmlFormattedUrl": "https://<b>montana</b>deluz.org/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgQIbrUhoWHY-axWheAIzrR3LM1Bg1Yjhp04bfSbDZGfleVdRGmkpvpVc&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://montanadeluz.org/wp-content/uploads/2022/05/Mountain-of-Light-1200-\u00d7-720-px-1200-\u00d7-600-px.png",
+      "og:type": "website",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Monta\u00f1a de Luz",
+      "og:site_name": "Monta\u00f1a de Luz",
+      "og:title": "Monta\u00f1a de Luz",
+      "og:image:height": "600",
+      "og:image:type": "image/png",
+      "msapplication-tileimage": "https://montanadeluz.org/wp-content/uploads/2022/03/MDL_Logo_CMYK.png",
+      "og:description": "Mountain of Light empowers children and families affected by HIV/AIDS in Honduras.",
+      "article:publisher": "https://www.facebook.com/montanadeluz/",
+      "twitter:image": "https://montanadeluz.org/wp-content/uploads/2022/05/Mountain-of-Light-1200-\u00d7-720-px-1200-\u00d7-600-px.png",
+      "twitter:site": "@montanadeluz",
+      "article:modified_time": "2025-04-12T13:14:19+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Mountain of Light empowers children and families affected by HIV/AIDS in Honduras.",
+      "og:locale": "en_US",
+      "og:url": "https://montanadeluz.org/"
+     }
+    ],
+    "creativework": [
+     {
+      "text": "Mountain of Light Empower children & families in Honduras affected by HIV/AIDS DONATE TODAY TO TRANSFORM LIVES Annual report tracks MdL impact in Honduras June 11, 2025 No Comments Programs..."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://i.ytimg.com/vi/1HAeUrOuOEU/maxresdefault.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Montana's motor vehicles division is going digital | StateScoop",
+   "htmlTitle": "<b>Montana&#39;s</b> motor vehicles division is going digital | StateScoop",
+   "link": "https://statescoop.com/montana-motor-vehicle-division-digital-driver-services-system/",
+   "displayLink": "statescoop.com",
+   "snippet": "Nov 3, 2023 ... In This Story. Montana \u00b7 Montana Motor Vehicle Division \u00b7 Digital ... digital ID pilot at motor vehicles division. By Keely Quinlan \u00b7 State\u00a0...",
+   "htmlSnippet": "Nov 3, 2023 <b>...</b> In This Story. <b>Montana</b> &middot; <b>Montana</b> Motor Vehicle Division &middot; Digital ... <b>digital ID</b> pilot at motor vehicles division. By Keely Quinlan &middot; State&nbsp;...",
+   "formattedUrl": "https://statescoop.com/montana-motor-vehicle-division-digital-driver-servic...",
+   "htmlFormattedUrl": "https://statescoop.com/<b>montana</b>-motor-vehicle-division-digital-driver-servic...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt5OuNBlhXC7_mMPV8aqI04ffn594KuvxtPuxZte8gfHGz1Cc8K2ONN0w&s",
+      "width": "270",
+      "height": "186"
+     }
+    ],
+    "website": [
+     {
+      "query-input": "name=s value",
+      "target": "https://statescoop.com/?s={s}"
+     }
+    ],
+    "organization": [
+     {
+      "logo": "https://statescoop.com/wp-content/themes/scoopnewsgroup/dist/svg/logo-state.svg",
+      "url": "https://statescoop.com/"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://statescoop.com/wp-content/uploads/sites/6/2023/11/GettyImages-157187715.jpg",
+      "og:type": "article",
+      "article:published_time": "2023-11-03T22:47:04+00:00",
+      "og:image:width": "1372",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "StateScoop",
+      "author": "srispens",
+      "og:title": "Montana's motor vehicles division is going digital | StateScoop",
+      "og:image:height": "946",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://statescoop.com/wp-content/uploads/sites/6/2023/01/cropped-ss_favicon.png?w=270",
+      "og:description": "Montana's motor vehicles division is ready to launch a new digital driver's services system, the agency's latest step in improving accessibility.",
+      "twitter:creator": "@State_Scoop",
+      "article:publisher": "https://www.facebook.com/StateScoop/",
+      "twitter:site": "@State_Scoop",
+      "article:modified_time": "2023-11-08T19:49:40+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://statescoop.com/montana-motor-vehicle-division-digital-driver-services-system/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://statescoop.com/wp-content/uploads/sites/6/2023/11/GettyImages-157187715.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile Griz Card | University of Montana",
+   "htmlTitle": "Mobile Griz Card | University of <b>Montana</b>",
+   "link": "https://www.umt.edu/griz-card/get-your-griz-card-v2/mobile-griz-card.php",
+   "displayLink": "www.umt.edu",
+   "snippet": "To use your Griz Card Mobile ID, Bear Bucks, or UMoney, simply tap your ... First-time users will need to select University of Montana as their institution.",
+   "htmlSnippet": "To use your Griz Card <b>Mobile ID</b>, Bear Bucks, or UMoney, simply tap your ... First-time users will need to select University of <b>Montana</b> as their institution.",
+   "formattedUrl": "https://www.umt.edu/griz-card/get-your-griz-card.../mobile-griz-card.php",
+   "htmlFormattedUrl": "https://www.umt.edu/griz-card/get-your-griz-card.../mobile-griz-card.php",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMW_1LDgKOxFCGO3WyO_qA4MAyoysuXLiaL6KvabVIuGzWWEHF92yB_zw&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.umt.edu/_files/images/opengraph-logo.jpg",
+      "twitter:card": "summary",
+      "twitter:title": "Mobile Griz Card",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "Mobile Griz Card",
+      "cascade-page-id": "23e0feeeac1e001d4309cde9755ecff0",
+      "id": "23e0feeeac1e001d4309cde9755ecff0",
+      "revised": "Mon Jul 07 12:02:25 MDT 2025",
+      "og:url": "https://www.umt.edu/griz-card/get-your-griz-card-v2/mobile-griz-card.php",
+      "twitter:image": "https://www.umt.edu/_files/images/opengraph-logo.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.umt.edu/_files/images/opengraph-logo.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Events | Monta\u00f1a de Luz",
+   "htmlTitle": "Events | <b>Monta\u00f1a</b> de Luz",
+   "link": "https://montanadeluz.org/events-mdl/",
+   "displayLink": "montanadeluz.org",
+   "snippet": "Generous supporters helped MdL raise more than $165,000 to benefit children ... More than 200 friends of Monta\u00f1a de Luz gathered for Fiesta in April 2022.",
+   "htmlSnippet": "Generous supporters helped <b>MdL</b> raise more than $165,000 to benefit children ... More than 200 friends of <b>Monta\u00f1a</b> de Luz gathered for Fiesta in April 2022.",
+   "formattedUrl": "https://montanadeluz.org/events-mdl/",
+   "htmlFormattedUrl": "https://<b>montana</b>deluz.org/events-<b>mdl</b>/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnwygvt0A6ZuL-sWNbNnd3d9te928uneg50C18eyz5AL0L14vkprnTwgW5&s",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://montanadeluz.org/wp-content/uploads/2022/04/IMG_0960-1-scaled.jpg",
+      "og:type": "article",
+      "og:image:width": "2560",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Monta\u00f1a de Luz events",
+      "og:site_name": "Monta\u00f1a de Luz",
+      "og:title": "Monta\u00f1a de Luz events",
+      "og:image:height": "1707",
+      "twitter:label1": "Est. reading time",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://montanadeluz.org/wp-content/uploads/2022/03/MDL_Logo_CMYK.png",
+      "og:description": "Monta\u00f1a de Luz hosts fundraising events to raise awareness and support for a group home in Honduras for children affected by HIV/AIDS.",
+      "article:publisher": "https://www.facebook.com/montanadeluz/",
+      "twitter:image": "https://montanadeluz.org/wp-content/uploads/2022/04/IMG_0960-1-scaled.jpg",
+      "twitter:data1": "3 minutes",
+      "twitter:site": "@montanadeluz",
+      "article:modified_time": "2025-04-17T14:38:41+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Monta\u00f1a de Luz hosts fundraising events to raise awareness and support for a group home in Honduras for children affected by HIV/AIDS.",
+      "og:locale": "en_US",
+      "og:url": "https://montanadeluz.org/events-mdl/"
+     }
+    ],
+    "creativework": [
+     {
+      "text": "Fiesta 2025 More than 350 people attended the annual fundraising gala \u2014 setting a new record. Last year, the crowd hit about 245. Generous supporters helped MdL raise more than $165,000 to..."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://montanadeluz.org/wp-content/uploads/2022/04/IMG_0960-1-scaled.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Montana Dental Lab \u2013 Premier Dental Lab",
+   "htmlTitle": "<b>Montana</b> Dental Lab \u2013 Premier Dental Lab",
+   "link": "https://montanadentallab.com/",
+   "displayLink": "montanadentallab.com",
+   "snippet": "At MDL we have assembled a team of expert technicians to produce the finest ... Montana Dental Lab | Website Provided by Billings Launchpad.",
+   "htmlSnippet": "At <b>MDL</b> we have assembled a team of expert technicians to produce the finest ... <b>Montana</b> Dental Lab | Website Provided by Billings Launchpad.",
+   "formattedUrl": "https://montanadentallab.com/",
+   "htmlFormattedUrl": "https://<b>montana</b>dentallab.com/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwo5ljGk76IPySdSamDE9qDCk44_i_ezNawM30KnDNCHW_Zuw9-0NWGLWq&s",
+      "width": "150",
+      "height": "150"
+     }
+    ],
+    "rating": [
+     {
+      "ratingvalue": "5",
+      "worstrating": "0",
+      "bestrating": "5"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-tileimage": "https://montanadentallab.com/wp-content/uploads/2024/07/cropped-Montana-DL_icon-white-270x270.avif"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://montanadentallab.com/wp-content/uploads/2025/06/best-dental-lab-near-Billings-MT-150x150.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Montana de Luz - Worthington Presbyterian Church",
+   "htmlTitle": "Montana de Luz - Worthington Presbyterian Church",
+   "link": "http://wpcnow.org/montana-de-luz",
+   "displayLink": "wpcnow.org",
+   "snippet": "A center for hope and life. Since 2001 Montana de Luz has been a \u201cmountain of light.\u201d WPC involvement at MDL is long and committed.",
+   "htmlSnippet": "A center for hope and life. Since 2001 <b>Montana</b> de Luz has been a \u201cmountain of light.\u201d WPC involvement at <b>MDL</b> is long and committed.",
+   "formattedUrl": "http://wpcnow.org/montana-de-luz",
+   "htmlFormattedUrl": "http://wpcnow.org/<b>montana</b>-de-luz",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzZUVKsyirt0UbbCu_bKHN-T_GKrzHAcgx7BUpAwzG8X7oKoYVHqBsi-o&s",
+      "width": "201",
+      "height": "251"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "provider": "snappages"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://storage2.snappages.site/X7MGN4/assets/images/14411898_1152x1440_500.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

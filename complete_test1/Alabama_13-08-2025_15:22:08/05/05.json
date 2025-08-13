@@ -1,0 +1,467 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Alabama\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" vendor OR developer OR procurement",
+    "totalResults": "21300",
+    "searchTerms": "\"Alabama\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" vendor OR developer OR procurement",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Alabama\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" vendor OR developer OR procurement",
+    "totalResults": "21300",
+    "searchTerms": "\"Alabama\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" vendor OR developer OR procurement",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.187654,
+  "formattedSearchTime": "0.19",
+  "totalResults": "21300",
+  "formattedTotalResults": "21,300"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Alabama Photo Voter Identification | Alabama Secretary of State",
+   "htmlTitle": "<b>Alabama</b> Photo Voter Identification | <b>Alabama</b> Secretary of State",
+   "link": "https://www.sos.alabama.gov/alabama-votes/photo-voter-id",
+   "displayLink": "www.sos.alabama.gov",
+   "snippet": "Alabama Photo Voter Identification. Secretary of State Wes Allen. Call ... Mobile ID Locations Icon. Mobile ID Locations \u00b7 Photo Voter ID Law Icon. Photo",
+   "htmlSnippet": "<b>Alabama</b> Photo Voter Identification. Secretary of State Wes Allen. Call ... <b>Mobile ID</b> Locations Icon. <b>Mobile ID</b> Locations &middot; Photo Voter ID Law Icon. Photo",
+   "formattedUrl": "https://www.sos.alabama.gov/alabama-votes/photo-voter-id",
+   "htmlFormattedUrl": "https://www.sos.<b>alabama</b>.gov/<b>alabama</b>-votes/photo-voter-id",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqQY6rEJP3bvA9PvaDwGdpQHxmegAfAA2FKvfDPY8-JRacUjiFzdnqABY&s",
+      "width": "200",
+      "height": "252"
+     }
+    ],
+    "WebPage": [
+     {
+      "name": "Alabama Photo Voter Identification",
+      "text": "Why Photo Voter Identification? Change in Law During the 2011 Regular Legislative Session the Legislature approved House Bill 19. Governor Robert Bentley signed the bill, and it was subsequently..."
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.sos.alabama.gov/themes/custom/sos/images/Wes-Allen.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Background We are aware of at least eight states\u2014Alabama ...",
+   "htmlTitle": "Background We are aware of at least eight states\u2014<b>Alabama</b> ...",
+   "link": "https://www.akleg.gov/basis/get_documents.asp?session=32&docid=92772",
+   "displayLink": "www.akleg.gov",
+   "snippet": "Apr 12, 2022 ... when you renew your Alabama license online. ... Arizona. DIGITAL DL COST: The website does not list an additional fee to use Arizona Mobile ID.",
+   "htmlSnippet": "Apr 12, 2022 <b>...</b> when you renew your <b>Alabama</b> license online. ... Arizona. DIGITAL DL COST: The website does not list an additional fee to use Arizona <b>Mobile ID</b>.",
+   "formattedUrl": "https://www.akleg.gov/basis/get_documents.asp?session=32&docid...",
+   "htmlFormattedUrl": "https://www.akleg.gov/basis/get_documents.asp?session=32&amp;docid...",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20220412113605-08'00'",
+      "creator": "Microsoft\u00ae Word for Microsoft 365",
+      "creationdate": "D:20220412113605-08'00'",
+      "author": "Jonathon Bates",
+      "producer": "Microsoft\u00ae Word for Microsoft 365"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile driver's license project announced in Delaware | StateScoop",
+   "htmlTitle": "<b>Mobile driver&#39;s license</b> project announced in Delaware | StateScoop",
+   "link": "https://statescoop.com/mobile-drivers-licenses-delaware-idemia/",
+   "displayLink": "statescoop.com",
+   "snippet": "Mar 13, 2018 ... Mobile driver's license ... Alabama launched a limited version of a digital ID designed for authenticating tax returns through vendor MorphoTrust.",
+   "htmlSnippet": "Mar 13, 2018 <b>...</b> <b>Mobile driver&#39;s license</b> ... <b>Alabama</b> launched a limited version of a <b>digital ID</b> designed for authenticating tax returns through <b>vendor</b> MorphoTrust.",
+   "formattedUrl": "https://statescoop.com/mobile-drivers-licenses-delaware-idemia/",
+   "htmlFormattedUrl": "https://statescoop.com/<b>mobile-drivers-license</b>s-delaware-idemia/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmz4bDXzwfu3-PZqr3emJ72xplGmk1Bzbq8a6Rbnkz7BqGev2gtLsk3yU&s",
+      "width": "299",
+      "height": "168"
+     }
+    ],
+    "website": [
+     {
+      "query-input": "name=s value",
+      "target": "https://statescoop.com/?s={s}"
+     }
+    ],
+    "organization": [
+     {
+      "logo": "https://statescoop.com/wp-content/themes/scoopnewsgroup/dist/svg/logo-state.svg",
+      "url": "https://statescoop.com/"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://statescoop.com/wp-content/uploads/sites/6/2021/03/GettyImages-1280385511.jpg",
+      "og:type": "article",
+      "article:published_time": "2018-03-13T13:06:00+00:00",
+      "og:image:width": "2309",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "StateScoop",
+      "author": "Colin Wood",
+      "og:title": "Mobile driver's license project announced in Delaware | StateScoop",
+      "og:image:height": "1299",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://statescoop.com/wp-content/uploads/sites/6/2023/01/cropped-ss_favicon.png?w=270",
+      "og:description": "The six-month test will search for flaws in the fledgling technology as the state considers a wide release.",
+      "twitter:creator": "@State_Scoop",
+      "article:publisher": "https://www.facebook.com/StateScoop/",
+      "twitter:site": "@State_Scoop",
+      "article:modified_time": "2021-09-03T17:52:40+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://statescoop.com/mobile-drivers-licenses-delaware-idemia/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://statescoop.com/wp-content/uploads/sites/6/2021/03/GettyImages-1280385511.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Users' Guide to SIR",
+   "htmlTitle": "Users&#39; Guide to SIR",
+   "link": "https://adem.alabama.gov/sites/default/files/legacyfiles/programs/land/landforms/UST-SIRBooklet.pdf",
+   "displayLink": "adem.alabama.gov",
+   "snippet": "are that you have been providing to the vendor for analysis (MDL). SIR vendors offer a diverse number of supplemental reporting options. Look over what each.",
+   "htmlSnippet": "are that you have been providing to the <b>vendor</b> for analysis (<b>MDL</b>). SIR vendors offer a diverse number of supplemental reporting options. Look over what each.",
+   "formattedUrl": "https://adem.alabama.gov/sites/default/files/.../land/.../UST-SIRBooklet.pdf",
+   "htmlFormattedUrl": "https://adem.<b>alabama</b>.gov/sites/default/files/.../land/.../UST-SIRBooklet.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20100113141812-06'00'",
+      "creationdate": "D:20100113141754-06'00'",
+      "creator": "Acrobat PDFMaker 8.1 for Word",
+      "sourcemodified": "D:20100113201733",
+      "subject": "SIR",
+      "author": "Billy E. Faggart, Jr.",
+      "producer": "Acrobat Distiller 8.1.0 (Windows)",
+      "company": "U.S. EPA",
+      "title": "Users' Guide to SIR"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Alabama to launch modern driver's license system | StateScoop",
+   "htmlTitle": "<b>Alabama</b> to launch modern driver&#39;s license system | StateScoop",
+   "link": "https://statescoop.com/alabama-kay-ivey-drivers-license/",
+   "displayLink": "statescoop.com",
+   "snippet": "Feb 7, 2022 ... Alabama to launch modern driver's license system. The upcoming ... digital ID (Scoop News Group / Getty Images). Privacy advocates are\u00a0...",
+   "htmlSnippet": "Feb 7, 2022 <b>...</b> <b>Alabama</b> to launch modern driver&#39;s license system. The upcoming ... <b>digital ID</b> (Scoop News Group / Getty Images). Privacy advocates are&nbsp;...",
+   "formattedUrl": "https://statescoop.com/alabama-kay-ivey-drivers-license/",
+   "htmlFormattedUrl": "https://statescoop.com/<b>alabama</b>-kay-ivey-drivers-license/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4YnCNI79SvDVs-0uSSyimygwl5mDZknUJi_zoNzlGqvA8uHX_e_IbM8Y&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "website": [
+     {
+      "query-input": "name=s value",
+      "target": "https://statescoop.com/?s={s}"
+     }
+    ],
+    "organization": [
+     {
+      "logo": "https://statescoop.com/wp-content/themes/scoopnewsgroup/dist/svg/logo-state.svg",
+      "url": "https://statescoop.com/"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://statescoop.com/wp-content/uploads/sites/6/2020/07/Screenshot_1.jpg",
+      "og:type": "article",
+      "article:published_time": "2022-02-07T19:11:09+00:00",
+      "og:image:width": "2000",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "StateScoop",
+      "author": "Colin Wood",
+      "og:title": "Alabama to launch modern driver\u2019s license system | StateScoop",
+      "og:image:height": "1125",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://statescoop.com/wp-content/uploads/sites/6/2023/01/cropped-ss_favicon.png?w=270",
+      "og:description": "The upcoming platform, with its \"enhanced services,\" is set to replace one the state has been using for nearly 20 years.",
+      "twitter:creator": "@State_Scoop",
+      "article:publisher": "https://www.facebook.com/StateScoop/",
+      "twitter:site": "@State_Scoop",
+      "article:modified_time": "2022-02-07T19:59:59+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://statescoop.com/alabama-kay-ivey-drivers-license/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://statescoop.com/wp-content/uploads/sites/6/2020/07/Screenshot_1.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ADEM ANNUAL STATISTICAL INVENTORY RECONCILIATION (SIR ...",
+   "htmlTitle": "ADEM ANNUAL STATISTICAL INVENTORY RECONCILIATION (SIR ...",
+   "link": "https://adem.alabama.gov/sites/default/files/legacyfiles/DeptForms/Form326.pdf",
+   "displayLink": "adem.alabama.gov",
+   "snippet": "Montgomery, AL 36130-1463, or fax to: (334) 270-5631, or email to: USTcompliance@adem.alabama.gov. ... (MDL), and Estimated Leak Rate (ELR) must be kept on\u00a0...",
+   "htmlSnippet": "Montgomery, AL 36130-1463, or fax to: (334) 270-5631, or email to: USTcompliance@adem.<b>alabama</b>.gov. ... (<b>MDL</b>), and Estimated Leak Rate (ELR) must be kept on&nbsp;...",
+   "formattedUrl": "https://adem.alabama.gov/sites/default/files/legacyfiles/.../Form326.pdf",
+   "htmlFormattedUrl": "https://adem.<b>alabama</b>.gov/sites/default/files/legacyfiles/.../Form326.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHMB9LPOOV7jHyJ30IQp1Fi9nd9llIqcfpnASTzLbYH9B-_8lSwu5Mtew&s",
+      "width": "344",
+      "height": "146"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20220624093134-05'00'",
+      "creationdate": "D:20180319093318-05'00'",
+      "creator": "Microsoft\u00ae Word 2013",
+      "author": "ADEM",
+      "producer": "Microsoft\u00ae Word 2013",
+      "title": "ADEM ANNUAL STATISTICAL INVENTORY RECONCILIATION (SIR) SUMMARY REPORT"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///7cb3c666978e6ba2f8a8543e23695258ceafe25f3e99e0d1f47ee1e99bf0f618"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Georgia Digital Driver's License or ID on iPhone and Apple Watch ...",
+   "htmlTitle": "Georgia <b>Digital Driver&#39;s License</b> or ID on iPhone and Apple Watch ...",
+   "link": "https://www.reddit.com/r/apple/comments/13l0zbq/georgia_digital_drivers_license_or_id_on_iphone/",
+   "displayLink": "www.reddit.com",
+   "snippet": "May 18, 2023 ... Alabama has had a digital ID for 7 years or so. Just not sure it's ... See https://developer.apple.com/wallet/get-started-with-verify\u00a0...",
+   "htmlSnippet": "May 18, 2023 <b>...</b> <b>Alabama</b> has had a <b>digital ID</b> for 7 years or so. Just not sure it&#39;s ... See https://<b>developer</b>.apple.com/wallet/get-started-with-verify&nbsp;...",
+   "formattedUrl": "https://www.reddit.com/.../georgia_digital_drivers_license_or_id_on_iphon...",
+   "htmlFormattedUrl": "https://www.reddit.com/.../georgia_<b>digital_drivers_license</b>_or_id_on_iphon...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-d332-JgMZ7K0AoYPOgNefgC5fh4fZvCmnTlme3UvAHqkYAtRwE1rjBk&s",
+      "width": "311",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://external-preview.redd.it/georgia-digital-drivers-license-or-id-on-iphone-and-apple-v0-P464JByP8-N9Qoe6t34WxPwBWzWHPrvz3nn9PX5M6W0.jpg?width=1080&crop=smart&auto=webp&s=f0358c6c9d122812650c575266f6cf6177250a20",
+      "theme-color": "#000000",
+      "og:image:width": "1080",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "r/apple on Reddit: Georgia Digital Driver\u2019s License or ID on iPhone and Apple Watch now available",
+      "og:site_name": "Reddit",
+      "og:title": "r/apple on Reddit: Georgia Digital Driver\u2019s License or ID on iPhone and Apple Watch now available",
+      "og:image:height": "565",
+      "msapplication-navbutton-color": "#000000",
+      "og:description": "Posted by u/helloitisgarr - 416 votes and 107 comments",
+      "twitter:image": "https://external-preview.redd.it/georgia-digital-drivers-license-or-id-on-iphone-and-apple-v0-P464JByP8-N9Qoe6t34WxPwBWzWHPrvz3nn9PX5M6W0.jpg?width=1080&crop=smart&auto=webp&s=f0358c6c9d122812650c575266f6cf6177250a20",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "twitter:site": "@reddit",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "apple-mobile-web-app-capable": "yes",
+      "og:ttl": "600",
+      "og:url": "https://www.reddit.com/r/apple/comments/13l0zbq/georgia_digital_drivers_license_or_id_on_iphone/?seeker-session=true"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://external-preview.redd.it/georgia-digital-drivers-license-or-id-on-iphone-and-apple-v0-P464JByP8-N9Qoe6t34WxPwBWzWHPrvz3nn9PX5M6W0.jpg?width=1080&crop=smart&auto=webp&s=f0358c6c9d122812650c575266f6cf6177250a20"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Alabama Medicaid Management Information System (AMMIS ...",
+   "htmlTitle": "<b>Alabama</b> Medicaid Management Information System (AMMIS ...",
+   "link": "https://medicaid.alabama.gov/documents/2.0_Newsroom/2.4_Procurement/2.4_Active_Procurements/2.4_PL07_MMIS_Concept_Operations_v5.2.1_1-4-24.pdf",
+   "displayLink": "medicaid.alabama.gov",
+   "snippet": "Mar 15, 2023 ... Surescripts is the Alabama Title 19 (ALXIX) vendor for ePrescribing services. ... The MDL will be decommissioned upon Agency approval of the.",
+   "htmlSnippet": "Mar 15, 2023 <b>...</b> Surescripts is the <b>Alabama</b> Title 19 (ALXIX) <b>vendor</b> for ePrescribing services. ... The <b>MDL</b> will be decommissioned upon Agency approval of the.",
+   "formattedUrl": "https://medicaid.alabama.gov/...Procurement/...Procurements/2.4_PL07_M...",
+   "htmlFormattedUrl": "https://medicaid.<b>alabama</b>.gov/...<b>Procurement</b>/...<b>Procurement</b>s/2.4_PL07_M...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVjRwmKXWAtv5vpnd_q87CtLjdU5Kn7opgA9Ln4BOq7MM6UKX16G7sdzk&s",
+      "width": "272",
+      "height": "185"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20230315134850-05'00'",
+      "creator": "Microsoft\u00ae Word for Microsoft 365",
+      "creationdate": "D:20230315134850-05'00'",
+      "producer": "Microsoft\u00ae Word for Microsoft 365"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///e6bb912356f74dfc11490a27dc0205241a6373b12e001aa6e4444eda12c50602"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Apparently Alabama has digital driver's licenses : r/Birmingham",
+   "htmlTitle": "Apparently <b>Alabama</b> has digital driver&#39;s licenses : r/Birmingham",
+   "link": "https://www.reddit.com/r/Birmingham/comments/9mp0o8/apparently_alabama_has_digital_drivers_licenses/",
+   "displayLink": "www.reddit.com",
+   "snippet": "Oct 9, 2018 ... College Kid Spring Break \u00b7 GA Digital Driver's License now available on iPhone \u00b7 Alabama Power? \u00b7 Alabama exploring support for digital drivers\u00a0...",
+   "htmlSnippet": "Oct 9, 2018 <b>...</b> College Kid Spring Break &middot; GA <b>Digital Driver&#39;s License</b> now available on iPhone &middot; <b>Alabama</b> Power? &middot; <b>Alabama</b> exploring support for digital drivers&nbsp;...",
+   "formattedUrl": "https://www.reddit.com/.../apparently_alabama_has_digital_drivers_licenses...",
+   "htmlFormattedUrl": "https://www.reddit.com/.../apparently_<b>alabama</b>_has_<b>digital_drivers_license</b>s...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPUCkEN_XHcI_ruoULZn89PL3jfUMg_0yDpvAOpQzPWScj3zboGgPHD30&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://external-preview.redd.it/AvcLfbydIuxPX-K1KiI7Fn0QEE7NQB3o0nCF7gE2bFk.jpg?auto=webp&s=4c275ecdd9e8efc7632e1015fffcb40edd178836",
+      "theme-color": "#000000",
+      "og:image:width": "986",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "r/Birmingham on Reddit: Apparently Alabama has digital driver's licenses",
+      "og:site_name": "Reddit",
+      "og:title": "r/Birmingham on Reddit: Apparently Alabama has digital driver's licenses",
+      "og:image:height": "554",
+      "msapplication-navbutton-color": "#000000",
+      "og:description": "Posted by u/IAmClaytonBigsby - 42 votes and 31 comments",
+      "twitter:image": "https://external-preview.redd.it/AvcLfbydIuxPX-K1KiI7Fn0QEE7NQB3o0nCF7gE2bFk.jpg?auto=webp&s=4c275ecdd9e8efc7632e1015fffcb40edd178836",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "twitter:site": "@reddit",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "apple-mobile-web-app-capable": "yes",
+      "og:ttl": "600",
+      "og:url": "https://www.reddit.com/r/Birmingham/comments/9mp0o8/apparently_alabama_has_digital_drivers_licenses/?seeker-session=true"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://external-preview.redd.it/AvcLfbydIuxPX-K1KiI7Fn0QEE7NQB3o0nCF7gE2bFk.jpg?auto=webp&s=4c275ecdd9e8efc7632e1015fffcb40edd178836"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Alabama Mobile ID Updates",
+   "htmlTitle": "<b>Alabama Mobile ID</b> Updates",
+   "link": "https://idscan.net/state-digital-id/alabama-mobile-id-updates/",
+   "displayLink": "idscan.net",
+   "snippet": "Status: formerly had mobile ID. Alabama previously had a digital ID issued through an Alabama eID app, an application that was powered by Idemia.",
+   "htmlSnippet": "Status: formerly had <b>mobile ID</b>. <b>Alabama</b> previously had a <b>digital ID</b> issued through an <b>Alabama</b> eID app, an application that was powered by Idemia.",
+   "formattedUrl": "https://idscan.net/state-digital-id/alabama-mobile-id-updates/",
+   "htmlFormattedUrl": "https://idscan.net/state-<b>digital-id</b>/<b>alabama</b>-<b>mobile-id</b>-updates/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEi0KgOl8pxL7GCwu-1RHlz4rqJb5X1FDogOuQ-NDtD7jpvR0tmdQYfOE&s",
+      "width": "311",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://idscan.net/wp-content/uploads/alabama-mobile-id.jpg?lm=66A73168",
+      "og:type": "article",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "IDScan.net",
+      "og:title": "Alabama Mobile ID Updates",
+      "og:image:height": "627",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://idscan.net/wp-content/uploads/cropped-idscan-identity-verification-software-icon-1-270x270.png",
+      "og:description": "While previously live, the Alabama mobile ID is no longer available for download. It remains unclear as to why it was pulled from the market.",
+      "article:publisher": "https://www.facebook.com/idscannet",
+      "twitter:site": "@idscan_net",
+      "article:modified_time": "2025-02-12T16:56:32+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://idscan.net/state-digital-id/alabama-mobile-id-updates/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://idscan.net/wp-content/uploads/alabama-mobile-id.jpg?lm=66A73168"
+     }
+    ]
+   }
+  }
+ ]
+}

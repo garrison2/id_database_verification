@@ -1,0 +1,303 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:apps.apple.com \"Indiana\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "5",
+    "searchTerms": "site:apps.apple.com \"Indiana\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 5,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.133553,
+  "formattedSearchTime": "0.13",
+  "totalResults": "5",
+  "formattedTotalResults": "5"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "HOA ID: Homeowner App on the App Store",
+   "htmlTitle": "HOA ID: Homeowner App on the App Store",
+   "link": "https://apps.apple.com/in/app/hoa-id-homeowner-app/id1509550309",
+   "displayLink": "apps.apple.com",
+   "snippet": "Jun 4, 2025 ... HOA ID is a digital ID wallet used by homeowners to store digital HOA ID cards issued by their homeowner's association.",
+   "htmlSnippet": "Jun 4, 2025 <b>...</b> HOA ID is a <b>digital ID</b> wallet used by homeowners to store digital HOA ID cards issued by their homeowner&#39;s association.",
+   "formattedUrl": "https://apps.apple.com/in/app/hoa-id-homeowner-app/id1509550309",
+   "htmlFormattedUrl": "https://apps.apple.com/in/app/hoa-id-homeowner-app/id1509550309",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5QqLw72XErw8JgXZ1_jV6B7GsGpMiRwDSy7MLeb6PLeN7TTCihlOTmJnM&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/38/9b/a7389b0e-cc05-2407-334f-ebbb370e7ce2/AppIcon-Prod-0-0-1x_U007emarketing-0-11-0-0-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App\u00a0Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eHOA ID is a digital ID wallet used by homeowners to store digital HOA ID cards issued by their homeowner's association. In order to use this app and store your HOA ID card on your mobile device, you must receive a digital ID card invitation from your association. If your association is not registere\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/38/9b/a7389b0e-cc05-2407-334f-ebbb370e7ce2/AppIcon-Prod-0-0-1x_U007emarketing-0-11-0-0-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/38/9b/a7389b0e-cc05-2407-334f-ebbb370e7ce2/AppIcon-Prod-0-0-1x_U007emarketing-0-11-0-0-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222530.1.0%2Bdd954829%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "HOA ID: Homeowner App on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "HOA ID: Homeowner App on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eHOA ID: Homeowner App",
+      "og:title": "\u200eHOA ID: Homeowner App",
+      "og:image:height": "630",
+      "version": "2530.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eHOA ID is a digital ID wallet used by homeowners to store digital HOA ID cards issued by their homeowner's association. In order to use this app and store your HOA ID card on your mobile device, you must receive a digital ID card invitation from your association. If your association is not registere\u2026",
+      "og:locale": "en_GB",
+      "apple:content_id": "1509550309",
+      "og:url": "https://apps.apple.com/in/app/hoa-id-homeowner-app/id1509550309"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/38/9b/a7389b0e-cc05-2407-334f-ebbb370e7ce2/AppIcon-Prod-0-0-1x_U007emarketing-0-11-0-0-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "AES Ohio on the App Store",
+   "htmlTitle": "AES Ohio on the App Store",
+   "link": "https://apps.apple.com/us/app/aes-ohio/id6473452688",
+   "displayLink": "apps.apple.com",
+   "snippet": "May 23, 2025 ... AES Indiana. Utilities. You Might Also Like. See All.",
+   "htmlSnippet": "May 23, 2025 <b>...</b> AES <b>Indiana</b>. Utilities. You Might Also Like. See All.",
+   "formattedUrl": "https://apps.apple.com/us/app/aes-ohio/id6473452688",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/aes-ohio/id6473452688",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaKRTobh_dqfMfZQDM5RZjv52cGlbmTJn3pGVmbzCe0lxpAQZ8kC4CA2Ss&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/29/74/3329742d-d047-2abc-eb15-ec52c1b13a8d/AppIconAes-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eHere\u2019s what you can do with AES Ohio:\n\nMake energy payments predictable with a custom energy offer. \n\nEasy payments. Split your bill with roommates or family, pay someone else\u2019s bill, and use the payment method that works best for you. \n\nReceive personalized offers and deals through the app on gear\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/29/74/3329742d-d047-2abc-eb15-ec52c1b13a8d/AppIconAes-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/29/74/3329742d-d047-2abc-eb15-ec52c1b13a8d/AppIconAes-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222530.1.0%2Bdd954829%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "AES Ohio on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "AES Ohio on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eAES Ohio",
+      "og:title": "\u200eAES Ohio",
+      "og:image:height": "630",
+      "version": "2530.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eHere\u2019s what you can do with AES Ohio:\n\nMake energy payments predictable with a custom energy offer. \n\nEasy payments. Split your bill with roommates or family, pay someone else\u2019s bill, and use the payment method that works best for you. \n\nReceive personalized offers and deals through the app on gear\u2026",
+      "og:locale": "en_US",
+      "apple:content_id": "6473452688",
+      "og:url": "https://apps.apple.com/us/app/aes-ohio/id6473452688"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/29/74/3329742d-d047-2abc-eb15-ec52c1b13a8d/AppIconAes-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "AES Ohio en App Store",
+   "htmlTitle": "AES Ohio en App Store",
+   "link": "https://apps.apple.com/us/app/aes-ohio/id6473452688?l=es-MX",
+   "displayLink": "apps.apple.com",
+   "snippet": "May 23, 2025 ... AES Indiana. Utilidades. Quiz\u00e1s te interese. Ver todo.",
+   "htmlSnippet": "May 23, 2025 <b>...</b> AES <b>Indiana</b>. Utilidades. Quiz\u00e1s te interese. Ver todo.",
+   "formattedUrl": "https://apps.apple.com/us/app/aes-ohio/id6473452688?l=es-MX",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/aes-ohio/id6473452688?l=es-MX",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaKRTobh_dqfMfZQDM5RZjv52cGlbmTJn3pGVmbzCe0lxpAQZ8kC4CA2Ss&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/29/74/3329742d-d047-2abc-eb15-ec52c1b13a8d/AppIconAes-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App\u00a0Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eHere\u2019s what you can do with AES Ohio:\n\nMake energy payments predictable with a custom energy offer. \n\nEasy payments. Split your bill with roommates or family, pay someone else\u2019s bill, and use the payment method that works best for you. \n\nReceive personalized offers and deals through the app on gear\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/29/74/3329742d-d047-2abc-eb15-ec52c1b13a8d/AppIconAes-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/29/74/3329742d-d047-2abc-eb15-ec52c1b13a8d/AppIconAes-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222532.1.0%2B09273a9c%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "AES Ohio en App Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "AES Ohio en App Store",
+      "og:type": "website",
+      "twitter:title": "\u200eAES Ohio",
+      "og:title": "\u200eAES Ohio",
+      "og:image:height": "630",
+      "version": "2532.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eHere\u2019s what you can do with AES Ohio:\n\nMake energy payments predictable with a custom energy offer. \n\nEasy payments. Split your bill with roommates or family, pay someone else\u2019s bill, and use the payment method that works best for you. \n\nReceive personalized offers and deals through the app on gear\u2026",
+      "og:locale": "es_MX",
+      "apple:content_id": "6473452688",
+      "og:url": "https://apps.apple.com/us/app/aes-ohio/id6473452688?l=es-MX"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/29/74/3329742d-d047-2abc-eb15-ec52c1b13a8d/AppIconAes-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Fusion-Rx on the App Store",
+   "htmlTitle": "Fusion-Rx on the App Store",
+   "link": "https://apps.apple.com/us/app/fusion-rx/id1458517619",
+   "displayLink": "apps.apple.com",
+   "snippet": "Mar 15, 2020 ... CBORD Mobile ID - for CS Gold. Utilities. My OEC. Utilities. AES Indiana. Utilities. United States. Espa\u00f1ol (M\u00e9xico) \u00b7 \u0627\u0644\u0639\u0631\u0628\u064a\u0629\u00a0...",
+   "htmlSnippet": "Mar 15, 2020 <b>...</b> CBORD <b>Mobile ID</b> - for CS Gold. Utilities. My OEC. Utilities. AES <b>Indiana</b>. Utilities. United States. Espa\u00f1ol (M\u00e9xico) &middot; \u0627\u0644\u0639\u0631\u0628\u064a\u0629&nbsp;...",
+   "formattedUrl": "https://apps.apple.com/us/app/fusion-rx/id1458517619",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/fusion-rx/id1458517619",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaQTkK4asLgdguSSNRstvSUN4Zz96ReR8zWhGeQt_jwyaI6it7MgA7ZMMK&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/80/e3/9f/80e39f95-293e-960d-7444-830f3742641d/AppIcon-0-1x_U007emarketing-0-0-85-220-0-10.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eProvides a quick and easy way for patients to order prescription refills either via a quick refill form or by securely logging in and viewing a patient's prescription profile.\n\nPatients are provided real-time accurate information on each of their prescriptions (i.e. refillable, no refills, expired,\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/80/e3/9f/80e39f95-293e-960d-7444-830f3742641d/AppIcon-0-1x_U007emarketing-0-0-85-220-0-10.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/80/e3/9f/80e39f95-293e-960d-7444-830f3742641d/AppIcon-0-1x_U007emarketing-0-0-85-220-0-10.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222532.1.0%2B09273a9c%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "Fusion-Rx on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "Fusion-Rx on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eFusion-Rx",
+      "og:title": "\u200eFusion-Rx",
+      "og:image:height": "630",
+      "version": "2532.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eProvides a quick and easy way for patients to order prescription refills either via a quick refill form or by securely logging in and viewing a patient's prescription profile.\n\nPatients are provided real-time accurate information on each of their prescriptions (i.e. refillable, no refills, expired,\u2026",
+      "og:locale": "en_US",
+      "apple:content_id": "1458517619",
+      "og:url": "https://apps.apple.com/us/app/fusion-rx/id1458517619"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/80/e3/9f/80e39f95-293e-960d-7444-830f3742641d/AppIcon-0-1x_U007emarketing-0-0-85-220-0-10.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Profee: Transferir dinheiro na App Store",
+   "htmlTitle": "Profee: Transferir dinheiro na App Store",
+   "link": "https://apps.apple.com/us/app/profee-transferir-dinheiro/id1521832875?l=pt-BR",
+   "displayLink": "apps.apple.com",
+   "snippet": "... Indiana), KES (Xelim Queniano), KGS (Som Quirguiz), KZT (Tenge Cazaque), MDL (Leu Mold\u00e1vio), MXN (Peso Mexicano), MYR (Ringgit Malaio), NAD (D\u00f3lar Namibiano)\u00a0...",
+   "htmlSnippet": "... <b>Indiana</b>), KES (Xelim Queniano), KGS (Som Quirguiz), KZT (Tenge Cazaque), <b>MDL</b> (Leu Mold\u00e1vio), MXN (Peso Mexicano), MYR (Ringgit Malaio), NAD (D\u00f3lar Namibiano)&nbsp;...",
+   "formattedUrl": "https://apps.apple.com/us/app/profee-transferir.../id1521832875?l=pt-BR",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/profee-transferir.../id1521832875?l=pt-BR",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmt_ZOhO2uvfKfUxp8mwXVJfRnt9nipDHWWk6fUWynyaprNjSEwvlsRl8&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/e3/96/4ce396cb-baeb-82fa-af7f-4df4a0c9e194/AppIcon-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App\u00a0Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eProcurando um aplicativo online para enviar dinheiro dentro do pa\u00eds ou para o exterior? Confira a Profee, a sua solu\u00e7\u00e3o econ\u00f4mica, segura e sem complica\u00e7\u00e3o para transfer\u00eancias internacionais em dinheiro.\n\n\u2022 0% de taxa na sua primeira transfer\u00eancia\n\u2022 Taxas de c\u00e2mbio vantajosas\n\u2022 Taxas promocionais pa\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/e3/96/4ce396cb-baeb-82fa-af7f-4df4a0c9e194/AppIcon-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/e3/96/4ce396cb-baeb-82fa-af7f-4df4a0c9e194/AppIcon-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222532.1.0%2B09273a9c%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "Profee: Transferir dinheiro na App Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "Profee: Transferir dinheiro na App Store",
+      "og:type": "website",
+      "twitter:title": "\u200eProfee: Transferir dinheiro",
+      "og:title": "\u200eProfee: Transferir dinheiro",
+      "og:image:height": "630",
+      "version": "2532.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eProcurando um aplicativo online para enviar dinheiro dentro do pa\u00eds ou para o exterior? Confira a Profee, a sua solu\u00e7\u00e3o econ\u00f4mica, segura e sem complica\u00e7\u00e3o para transfer\u00eancias internacionais em dinheiro.\n\n\u2022 0% de taxa na sua primeira transfer\u00eancia\n\u2022 Taxas de c\u00e2mbio vantajosas\n\u2022 Taxas promocionais pa\u2026",
+      "og:locale": "pt_BR",
+      "apple:content_id": "1521832875",
+      "og:url": "https://apps.apple.com/us/app/profee-transferir-dinheiro/id1521832875?l=pt-BR"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/e3/96/4ce396cb-baeb-82fa-af7f-4df4a0c9e194/AppIcon-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/1200x630wa.png"
+     }
+    ]
+   }
+  }
+ ]
+}

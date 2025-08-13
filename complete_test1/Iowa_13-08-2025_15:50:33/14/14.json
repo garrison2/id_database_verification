@@ -1,0 +1,459 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Iowa\" \"privacy act\" OR \"privacy law\"",
+    "totalResults": "7100000",
+    "searchTerms": "\"Iowa\" \"privacy act\" OR \"privacy law\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Iowa\" \"privacy act\" OR \"privacy law\"",
+    "totalResults": "7100000",
+    "searchTerms": "\"Iowa\" \"privacy act\" OR \"privacy law\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.169993,
+  "formattedSearchTime": "0.17",
+  "totalResults": "7100000",
+  "formattedTotalResults": "7,100,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Senate File 262 - Enrolled",
+   "htmlTitle": "Senate File 262 - Enrolled",
+   "link": "https://www.legis.iowa.gov/docs/publications/LGE/90/SF262.pdf",
+   "displayLink": "www.legis.iowa.gov",
+   "snippet": "BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA: 3. Section 1. NEW ... Rights and Privacy Act, 20 U.S.C. \u00a71232 et seq. 22 p. Personal data\u00a0...",
+   "htmlSnippet": "BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF <b>IOWA</b>: 3. Section 1. NEW ... Rights and <b>Privacy Act</b>, 20 U.S.C. \u00a71232 et seq. 22 p. Personal data&nbsp;...",
+   "formattedUrl": "https://www.legis.iowa.gov/docs/publications/LGE/90/SF262.pdf",
+   "htmlFormattedUrl": "https://www.legis.<b>iowa</b>.gov/docs/publications/LGE/90/SF262.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "Arbortext Publishing Engine",
+      "creationdate": "D:20230322180047-05'00'",
+      "print_engine": "Arbortext FOSI Print Publisher",
+      "graphics_resolution": "1200",
+      "compression_level": "6",
+      "compression_type": "zip",
+      "producer": "PDFlib+PDI 9.0.3p4 (Win32)",
+      "arbortext_build": "R71M020-1138",
+      "eps_processor": "PStill version 1.90.3",
+      "config_file": "E:\\program files\\ptc\\arbortext pe/lib/print.pdfcf",
+      "graphics_resolution_threshold": "1800"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Iowa Data Protection Act: What Businesses Need to Know | Akin",
+   "htmlTitle": "<b>Iowa</b> Data Protection Act: What Businesses Need to Know | Akin",
+   "link": "https://www.akingump.com/en/insights/alerts/iowa-data-protection-act-what-businesses-need-to-know",
+   "displayLink": "www.akingump.com",
+   "snippet": "May 12, 2023 ... ... Iowa the sixth state to enact a comprehensive data privacy law. In many ways, the new law parallels the Utah Consumer Privacy Act (UCPA) and\u00a0...",
+   "htmlSnippet": "May 12, 2023 <b>...</b> ... <b>Iowa</b> the sixth state to enact a comprehensive data <b>privacy law</b>. In many ways, the new law parallels the Utah Consumer <b>Privacy Act</b> (UCPA) and&nbsp;...",
+   "formattedUrl": "https://www.akingump.com/.../iowa-data-protection-act-what-businesses-ne...",
+   "htmlFormattedUrl": "https://www.akingump.com/.../<b>iowa</b>-data-protection-act-what-businesses-ne...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjSZKRmPcssEISaHFLVcbaCs0K66AVO7vK31Uh_YYFKmITvyyhQQb1GFU&s",
+      "width": "311",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "application-name": "Akin Gump Strauss Hauer & Feld LLP",
+      "msapplication-tilecolor": "#002554",
+      "og:image": "https://www.akingump.com/a/web/wknd1YCXqCcFF141KoqtKN/8LUMdZ/open-graph_1200x627.png",
+      "theme-color": "#002554",
+      "twitter:card": "summary_large_image",
+      "og:image:alt": "Iowa Data Protection Act: What Businesses Need to Know",
+      "og:type": "website",
+      "og:site_name": "Akin - Iowa Data Protection Act: What Businesses Need to Know",
+      "apple-mobile-web-app-title": "Akin Gump Strauss Hauer & Feld LLP",
+      "og:title": "Iowa Data Protection Act: What Businesses Need to Know",
+      "google": "notranslate",
+      "msapplication-tileimage": "https://www.akingump.com/cached/40100/images/favicons/favicon.png",
+      "og:description": "On March 29, 2023, Iowa Gov. Kim Reynolds signed into law Senate File 262, the Iowa Act Relating to Consumer Data Protection (ICDPA). Taking effect nearly two years from now on January 1, 2025, the ICDPA makes Iowa the sixth state to enact a comprehensive data privacy law. In many ways, the new law parallels the Utah Consumer Privacy Act (UCPA) and the Virginia Consumer Data Protection Act (VCDPA), which are generally considered more business-friendly and less restrictive than the Colorado Privacy Act (CPA), the Connecticut Data Privacy Act (CTDPA) and the California Consumer Privacy Act (CCPA) (as amended by the California Privacy Rights Act (CPRA)).",
+      "og:image:secure_url": "https://www.akingump.com/a/web/wknd1YCXqCcFF141KoqtKN/8LUMdZ/open-graph_1200x627.png",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:url": "https://www.akingump.com/en/insights/alerts/iowa-data-protection-act-what-businesses-need-to-know"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.akingump.com/a/web/wknd1YCXqCcFF141KoqtKN/8LUMdZ/open-graph_1200x627.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Iowa becomes sixth US state to enact comprehensive consumer ...",
+   "htmlTitle": "<b>Iowa</b> becomes sixth US state to enact comprehensive consumer ...",
+   "link": "https://iapp.org/news/a/iowa-becomes-sixth-us-state-to-enact-comprehensive-consumer-privacy-legislation",
+   "displayLink": "iapp.org",
+   "snippet": "Mar 29, 2023 ... ... Privacy Act. Unlike California and Utah, an organization does not fall ... Iowa's privacy law, like Virginia's law, makes no mention of\u00a0...",
+   "htmlSnippet": "Mar 29, 2023 <b>...</b> ... <b>Privacy Act</b>. Unlike California and Utah, an organization does not fall ... <b>Iowa&#39;s privacy law</b>, like Virginia&#39;s law, makes no mention of&nbsp;...",
+   "formattedUrl": "https://iapp.org/.../iowa-becomes-sixth-us-state-to-enact-comprehensive-con...",
+   "htmlFormattedUrl": "https://iapp.org/.../<b>iowa</b>-becomes-sixth-us-state-to-enact-comprehensive-con...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn13Q9WUSzjMq0OqzpdOZYGH__ClN9f6Nb_CXe1eLtqoxXXjKjN357u_FA&s",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://images.contentstack.io/v3/assets/bltd4dd5b2d705252bc/blt11de4c60a1f13a86/65aa8f276af4675f6a8fa8d4/Iowa_Capitol_Building_photo-1610570858169-b60adec1c295.png",
+      "theme-color": "#000000",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Iowa becomes sixth US state to enact comprehensive consumer privacy legislation",
+      "og:title": "Iowa becomes sixth US state to enact comprehensive consumer privacy legislation",
+      "iapp": "IAPP: Policy neutral, we are the world\u2019s largest information privacy organization.",
+      "og:description": "IAPP Westin Fellow, Anokhy Desai, CIPP/US, CIPT, offers a comprehensive analysis of Iowa's new privacy law.",
+      "twitter:image": "https://images.contentstack.io/v3/assets/bltd4dd5b2d705252bc/blt11de4c60a1f13a86/65aa8f276af4675f6a8fa8d4/Iowa_Capitol_Building_photo-1610570858169-b60adec1c295.png",
+      "twitter:site": "@IAPP",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "IAPP Westin Fellow, Anokhy Desai, CIPP/US, CIPT, offers a comprehensive analysis of Iowa's new privacy law.",
+      "og:locale": "en_US",
+      "og:url": "https://iapp.org/news/a/iowa-becomes-sixth-us-state-to-enact-comprehensive-consumer-privacy-legislation"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://images.contentstack.io/v3/assets/bltd4dd5b2d705252bc/blt11de4c60a1f13a86/65aa8f276af4675f6a8fa8d4/Iowa_Capitol_Building_photo-1610570858169-b60adec1c295.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Iowa Enacts Data Privacy Legislation with Senate File 262 | White ...",
+   "htmlTitle": "<b>Iowa</b> Enacts Data Privacy Legislation with Senate File 262 | White ...",
+   "link": "https://www.whitecase.com/insight-alert/iowa-enacts-data-privacy-legislation-senate-file-262",
+   "displayLink": "www.whitecase.com",
+   "snippet": "Apr 21, 2023 ... Like the VCDPA and CPA, and unlike the Utah Consumer Privacy Act (\"UCPA\"), the Iowa Data Privacy Law also requires processors to delete or\u00a0...",
+   "htmlSnippet": "Apr 21, 2023 <b>...</b> Like the VCDPA and CPA, and unlike the Utah Consumer <b>Privacy Act</b> (&quot;UCPA&quot;), the <b>Iowa</b> Data <b>Privacy Law</b> also requires processors to delete or&nbsp;...",
+   "formattedUrl": "https://www.whitecase.com/.../iowa-enacts-data-privacy-legislation-senate-fi...",
+   "htmlFormattedUrl": "https://www.whitecase.com/.../<b>iowa</b>-enacts-data-privacy-legislation-senate-fi...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0gmvAXK3KtfIWC2kwXUcNljKEz6aoovw3uHgvzxPljPCTzRpwFR_JxbSh&s",
+      "width": "367",
+      "height": "137"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.whitecase.com/sites/default/files/images/hero/2022/08/Client_Alerts_option_42_4000x1500.jpg",
+      "og:image:width": "1600",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Iowa Enacts Data Privacy Legislation with Senate File 262",
+      "handheldfriendly": "true",
+      "og:title": "Iowa Enacts Data Privacy Legislation with Senate File 262 | White & Case LLP",
+      "og:image:height": "600",
+      "og:description": "On March 28, 2023, Iowa Governor Kim Reynolds signed into law Senate File 262 (\"Iowa Data Privacy Law\"), Iowa's new state consumer privacy law, which will go into effect on January 1, 2025. By passing this law, Iowa joins California, Utah, Colorado, Connecticut and Virginia as states with their own consumer privacy laws (together, \"US State Data Privacy Laws\").",
+      "twitter:image": "https://www.whitecase.com/sites/default/files/images/hero/2022/08/Client_Alerts_option_42_4000x1500.jpg",
+      "twitter:site": "@WhiteCase",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "On March 28, 2023, Iowa Governor Kim Reynolds signed into law Senate File 262 (\"Iowa Data Privacy Law\"), Iowa's new state consumer privacy law, which will go into effect on January 1, 2025. By passing this law, Iowa joins California, Utah, Colorado, Connecticut and Virginia as states with their own consumer privacy laws (together, \"US State Data Privacy Laws\").",
+      "mobileoptimized": "width",
+      "og:url": "https://www.whitecase.com/insight-alert/iowa-enacts-data-privacy-legislation-senate-file-262"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.whitecase.com/sites/default/files/images/hero/2022/08/Client_Alerts_option_42_4000x1500.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Iowa Data Privacy Law: An Overview",
+   "htmlTitle": "The <b>Iowa</b> Data <b>Privacy Law</b>: An Overview",
+   "link": "https://www.cliffordchance.com/insights/resources/blogs/talking-tech/en/articles/2023/12/the-iowa-data-privacy-law--an-overview.html",
+   "displayLink": "www.cliffordchance.com",
+   "snippet": "Dec 31, 2023 ... The Iowa Data Privacy Law: An Overview. The Iowa Data Privacy Law: An ... Privacy Act and California Privacy Rights Act, expressly\u00a0...",
+   "htmlSnippet": "Dec 31, 2023 <b>...</b> The <b>Iowa</b> Data <b>Privacy Law</b>: An Overview. The <b>Iowa</b> Data <b>Privacy Law</b>: An ... <b>Privacy Act</b> and California Privacy Rights Act, expressly&nbsp;...",
+   "formattedUrl": "https://www.cliffordchance.com/.../the-iowa-data-privacy-law--an-overview...",
+   "htmlFormattedUrl": "https://www.cliffordchance.com/.../the-<b>iowa</b>-data-<b>privacy-law</b>--an-overview...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUxVfun_cWsmrB3V4i9-YgxTtf7PKWvfGiB3Qo6Azq7vziRfw5pLao1XhD&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.cliffordchance.com/content/dam/microsites/talkingtech/Images-Socials/2024/iowa_101747278_1200x630px.jpg",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "The Iowa Data Privacy Law: An Overview | Clifford Chance",
+      "og:site_name": "Clifford Chance",
+      "twitter:site": "@Clifford_Chance",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "The Iowa Data Privacy Law: An Overview | Clifford Chance",
+      "og:url": "https://www.cliffordchance.com/content/cliffordchance/insights/resources/blogs/talking-tech/en/articles/2023/12/the-iowa-data-privacy-law--an-overview.html",
+      "twitter:image": "https://www.cliffordchance.com/content/dam/microsites/talkingtech/Images-Socials/2024/iowa_101747278_1200x630px.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.cliffordchance.com/content/dam/microsites/talkingtech/Images-Socials/2024/iowa_101747278_1200x630px.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "And Now There Are Six: Iowa Passes New Privacy Law | Global ...",
+   "htmlTitle": "And Now There Are Six: <b>Iowa</b> Passes New <b>Privacy Law</b> | Global ...",
+   "link": "https://www.globalprivacyblog.com/2023/04/and-now-there-are-six-iowa-passes-new-privacy-law/",
+   "displayLink": "www.globalprivacyblog.com",
+   "snippet": "Apr 3, 2023 ... Despite notable similarities with other state privacy laws, particularly the Utah Consumer Privacy Act, the Iowa Privacy Law bears important\u00a0...",
+   "htmlSnippet": "Apr 3, 2023 <b>...</b> Despite notable similarities with other state privacy laws, particularly the Utah Consumer <b>Privacy Act</b>, the <b>Iowa Privacy Law</b> bears important&nbsp;...",
+   "formattedUrl": "https://www.globalprivacyblog.com/.../and-now-there-are-six-iowa-passes-...",
+   "htmlFormattedUrl": "https://www.globalprivacyblog.com/.../and-now-there-are-six-<b>iowa</b>-passes-...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzk6itK8QdkwObK9v5oSQMVmMWmLf-DwDl1hd0la1q2BN8LJpOzvYdzWw&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.globalprivacyblog.com/wp-content/uploads/sites/9/2018/06/data-privacy_iStock-172237409-scaled-e1689616478191.jpg",
+      "og:type": "article",
+      "article:published_time": "2023-04-03T19:12:28+00:00",
+      "og:image:width": "2560",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Global Privacy & Security Compliance Blog",
+      "author": "Latham & Watkins",
+      "og:title": "And Now There Are Six: Iowa Passes New Privacy Law",
+      "og:image:height": "1440",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://www.globalprivacyblog.com/wp-content/uploads/sites/9/2023/07/cropped-cropped-cropped-siteicon-4-270x270.png",
+      "og:description": "Iowa\u2019s new data privacy law, which will come into force in 2025, adds to an increasingly complex patchwork of state laws. By Robert Blamires, Clay",
+      "article:modified_time": "2023-07-17T17:55:28+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.globalprivacyblog.com/2023/04/and-now-there-are-six-iowa-passes-new-privacy-law/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.globalprivacyblog.com/wp-content/uploads/sites/9/2018/06/data-privacy_iStock-172237409-scaled-e1689616478191.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Iowa Consumer Data Protection Act: First Look & Summary",
+   "htmlTitle": "<b>Iowa</b> Consumer Data Protection Act: First Look &amp; Summary",
+   "link": "https://termly.io/resources/articles/iowa-consumer-data-protection-act/",
+   "displayLink": "termly.io",
+   "snippet": "Jan 8, 2025 ... Iowa's Data Privacy Law vs. Other States' Laws: Similarities and ... Colorado Privacy Act (CPA) \u2014 currently in force; Connecticut Data\u00a0...",
+   "htmlSnippet": "Jan 8, 2025 <b>...</b> <b>Iowa&#39;s</b> Data <b>Privacy Law</b> vs. Other States&#39; Laws: Similarities and ... Colorado <b>Privacy Act</b> (CPA) \u2014 currently in force; Connecticut Data&nbsp;...",
+   "formattedUrl": "https://termly.io/resources/articles/iowa-consumer-data-protection-act/",
+   "htmlFormattedUrl": "https://termly.io/resources/articles/<b>iowa</b>-consumer-data-protection-act/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA0hZ7ujcSoTXtSJV5jC9RClrlPVAyHkem4FZeUUME66cpznmcQXQm6NY&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://termly.io/wp-content/uploads/Iowa-Consumer-Data-Protection-Act-First-Look-Summary-01.png",
+      "og:type": "article",
+      "article:published_time": "2025-01-08T12:00:45+00:00",
+      "og:image:width": "750",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Termly",
+      "author": "Stefani Schmidt, M.S., CIPM, CIPP-US",
+      "og:title": "Iowa Consumer Data Protection Act: First Look & Summary",
+      "og:image:height": "394",
+      "og:image:type": "image/png",
+      "og:description": "We take a first look at the Iowa's Consumer Data Protection Act (CDPA) and cover everything businesses need to know to be ready.",
+      "twitter:creator": "@Termly_io",
+      "article:publisher": "https://www.facebook.com/termly.io",
+      "twitter:image": "https://termly.io/wp-content/uploads/Iowa-Consumer-Data-Protection-Act-First-Look-Summary-01.png",
+      "twitter:site": "@Termly_io",
+      "article:modified_time": "2025-01-21T13:27:42+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://termly.io/resources/articles/iowa-consumer-data-protection-act/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://termly.io/wp-content/uploads/Iowa-Consumer-Data-Protection-Act-First-Look-Summary-01.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What the Iowa Data Privacy Act means for you",
+   "htmlTitle": "What the <b>Iowa</b> Data <b>Privacy Act</b> means for you",
+   "link": "https://pirg.org/edfund/resources/iowa-data-privacy-act/",
+   "displayLink": "pirg.org",
+   "snippet": "Mar 1, 2024 ... How to exercise your rights under the Iowa Data Privacy Act \u00b7 What is the Iowa Consumer Data Protection Act? \u00b7 What does the Iowa privacy law do\u00a0...",
+   "htmlSnippet": "Mar 1, 2024 <b>...</b> How to exercise your rights under the <b>Iowa</b> Data <b>Privacy Act</b> &middot; What is the <b>Iowa</b> Consumer Data Protection Act? &middot; What does the <b>Iowa privacy law</b> do&nbsp;...",
+   "formattedUrl": "https://pirg.org/edfund/resources/iowa-data-privacy-act/",
+   "htmlFormattedUrl": "https://pirg.org/edfund/resources/<b>iowa</b>-data-<b>privacy-act</b>/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYD6riV0iC8ynOc0bddeWutXPAr_bVhUxA5vrYxgTraVEQuxRKcWLCns0&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffffff",
+      "og:image": "https://pirg.org/edfund/wp-content/uploads/2022/10/Data-security_Darwin-Laganzon_Pixabay.jpg",
+      "msapplication-config": "https://pirg.org/edfund/wp-content/themes/tpin2022/assets/favicons/pirg/browserconfig.xml",
+      "og:type": "article",
+      "og:image:width": "1600",
+      "twitter:card": "summary_large_image",
+      "theme-color": "#ffffff",
+      "og:site_name": "U.S. PIRG Education Fund",
+      "og:title": "What the Iowa Data Privacy Act means for you",
+      "og:image:height": "900",
+      "og:image:type": "image/jpeg",
+      "og:description": "Iowa's data privacy law gives you a bit of control over how businesses collect and use your personal data. Here's how to take advantage.",
+      "article:modified_time": "2025-01-28T15:55:03+00:00",
+      "viewport": "width=device-width, initial-scale=1.0, viewport-fit=cover",
+      "og:locale": "en_US",
+      "og:url": "https://pirg.org/edfund/resources/iowa-data-privacy-act/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://pirg.org/edfund/wp-content/uploads/2022/10/Data-security_Darwin-Laganzon_Pixabay.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Iowa's New Privacy Law: The Basics",
+   "htmlTitle": "<b>Iowa&#39;s</b> New <b>Privacy Law</b>: The Basics",
+   "link": "https://www.mwe.com/insights/iowas-new-privacy-law-the-basics/",
+   "displayLink": "www.mwe.com",
+   "snippet": "Apr 10, 2023 ... Below we provide an overview of some of the key aspects of Iowa's new consumer privacy law. In Depth. To whom does Iowa's Data Privacy Act (IDPA)\u00a0...",
+   "htmlSnippet": "Apr 10, 2023 <b>...</b> Below we provide an overview of some of the key aspects of <b>Iowa&#39;s</b> new consumer <b>privacy law</b>. In Depth. To whom does <b>Iowa&#39;s</b> Data <b>Privacy Act</b> (IDPA)&nbsp;...",
+   "formattedUrl": "https://www.mwe.com/insights/iowas-new-privacy-law-the-basics/",
+   "htmlFormattedUrl": "https://www.mwe.com/insights/<b>iowa</b>s-new-<b>privacy-law</b>-the-basics/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa3Py4rjOgEoMvE8v-_LECyFmWGmD9WQmBStB7aRH20GdTw76aHZe1FjE&s",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://d1198w4twoqz7i.cloudfront.net/wp-content/uploads/2023/04/09155249/GettyImages-1379013647-540x360-1685e6c.jpeg",
+      "post_title": "Iowa\u2019s New Privacy Law: The Basics",
+      "og:image:width": "540",
+      "twitter:card": "summary_large_image",
+      "metadata": "David P. Saunders,The Hawkeye State\u2019s law closely mirrors Utah\u2019s law.",
+      "og:site_name": "McDermott",
+      "published_year": "2023",
+      "sub_category": "on-the-subject",
+      "modified_date_only": "2023-04",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://d1198w4twoqz7i.cloudfront.net/wp-content/uploads/2025/08/04011107/cropped-mwe-favicon-270x270.png",
+      "og:description": "The Hawkeye State\u2019s law closely mirrors Utah\u2019s law.",
+      "article:publisher": "https://www.facebook.com/McDermottWillandSchulte",
+      "twitter:site": "@mcdermottlaw",
+      "lang": "en",
+      "og:type": "article",
+      "twitter:title": "Iowa\u2019s New Privacy Law: The Basics",
+      "og:title": "Iowa\u2019s New Privacy Law: The Basics",
+      "og:image:height": "360",
+      "polylang_langs": "en",
+      "modified_date": "2023-04-10T12:04:58",
+      "published_date_only": "2023-04",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "The Hawkeye State\u2019s law closely mirrors Utah\u2019s law.",
+      "og:locale": "en_US",
+      "insights_date": "April 10, 2023",
+      "og:url": "https://www.mwe.com/insights/iowas-new-privacy-law-the-basics/",
+      "category": "insights",
+      "published_date": "2023-04-10T12:04:58"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://d1198w4twoqz7i.cloudfront.net/wp-content/uploads/2023/04/09155249/GettyImages-1379013647-540x360-1685e6c.jpeg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "[Iowa DOT] 431069. Privacy Act Agreement for Request of Motor ...",
+   "htmlTitle": "[<b>Iowa</b> DOT] 431069. <b>Privacy Act</b> Agreement for Request of Motor ...",
+   "link": "https://iowadot.seamlessdocs.com/f/PrivacyActAgreement",
+   "displayLink": "iowadot.seamlessdocs.com",
+   "snippet": "Instructions for printing/saving the Privacy Act Agreement. After filling out this form, use the green printer button found on upper left corner (or bottom\u00a0...",
+   "htmlSnippet": "Instructions for printing/saving the <b>Privacy Act</b> Agreement. After filling out this form, use the green printer button found on upper left corner (or bottom&nbsp;...",
+   "formattedUrl": "https://iowadot.seamlessdocs.com/f/PrivacyActAgreement",
+   "htmlFormattedUrl": "https://<b>iowa</b>dot.seamlessdocs.com/f/<b>PrivacyAct</b>Agreement",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=850, target-densitydpi=device-dpi"
+     }
+    ]
+   }
+  }
+ ]
+}

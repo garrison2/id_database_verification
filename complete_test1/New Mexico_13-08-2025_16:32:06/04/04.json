@@ -1,0 +1,325 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://www.mvd.newmexico.gov/ \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "254",
+    "searchTerms": "site:https://www.mvd.newmexico.gov/ \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://www.mvd.newmexico.gov/ \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "254",
+    "searchTerms": "site:https://www.mvd.newmexico.gov/ \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.138547,
+  "formattedSearchTime": "0.14",
+  "totalResults": "254",
+  "formattedTotalResults": "254"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "New Mexico Mobile ID | Motor Vehicle Division NM",
+   "htmlTitle": "New Mexico <b>Mobile ID</b> | Motor Vehicle Division NM",
+   "link": "https://www.mvd.newmexico.gov/nm-drivers-licenses-ids/new-mexico-mobile-id/",
+   "displayLink": "www.mvd.newmexico.gov",
+   "snippet": "New Mexico Digital License and ID. The New Mexico Mobile ID is a secure, digitized version of your New Mexico credential that can be added to your mobile wallet\u00a0...",
+   "htmlSnippet": "New Mexico Digital License and ID. The New Mexico <b>Mobile ID</b> is a secure, digitized version of your New Mexico credential that can be added to your mobile wallet&nbsp;...",
+   "formattedUrl": "https://www.mvd.newmexico.gov/nm-drivers...ids/new-mexico-mobile-id/",
+   "htmlFormattedUrl": "https://www.mvd.newmexico.gov/nm-drivers...ids/new-mexico-<b>mobile-id</b>/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+      "msapplication-tileimage": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/cropped-MVD-NM-logomark-270x270.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "New Mexico ID in Google Wallet | Motor Vehicle Division NM",
+   "htmlTitle": "New Mexico ID in Google Wallet | Motor Vehicle Division NM",
+   "link": "https://www.mvd.newmexico.gov/nm-drivers-licenses-ids/new-mexico-mobile-id/new-mexico-id-in-google-wallet/",
+   "displayLink": "www.mvd.newmexico.gov",
+   "snippet": "With a digital ID added to Google Wallet, Android users have easy and ... To get a New Mexico Mobile ID on your Android device, start with the Google\u00a0...",
+   "htmlSnippet": "With a <b>digital ID</b> added to Google Wallet, Android users have easy and ... To get a New Mexico <b>Mobile ID</b> on your Android device, start with the Google&nbsp;...",
+   "formattedUrl": "https://www.mvd.newmexico.gov/...mobile-id/new-mexico-id-in-google-w...",
+   "htmlFormattedUrl": "https://www.mvd.newmexico.gov/...<b>mobile-id</b>/new-mexico-id-in-google-w...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9wFECUz8DLM6b9Fc5N3aIRKciCVnHw-tLoUKRpBNETCr7qRWmGBfo20&s",
+      "width": "197",
+      "height": "256"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+      "msapplication-tileimage": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/cropped-MVD-NM-logomark-270x270.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2024/12/google-id-waller.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "New Mexico Mobile ID in Apple Wallet | Motor Vehicle Division NM",
+   "htmlTitle": "New Mexico <b>Mobile ID</b> in Apple Wallet | Motor Vehicle Division NM",
+   "link": "https://www.mvd.newmexico.gov/nm-drivers-licenses-ids/new-mexico-mobile-id/new-mexico-mobile-id-in-apple-wallet/",
+   "displayLink": "www.mvd.newmexico.gov",
+   "snippet": "Mobile ID Overview \u00b7 Back to MVD Home Page \u00b7 Mobile ID Overview \u00b7 Back to MVD Home Page. Your New Mexico driver's license or state ID. Now in Apple Wallet. Open\u00a0...",
+   "htmlSnippet": "<b>Mobile ID</b> Overview &middot; Back to MVD Home Page &middot; <b>Mobile ID</b> Overview &middot; Back to MVD Home Page. Your New Mexico driver&#39;s license or state ID. Now in Apple Wallet. Open&nbsp;...",
+   "formattedUrl": "https://www.mvd.newmexico.gov/...mobile-id/new-mexico-mobile-id-in-ap...",
+   "htmlFormattedUrl": "https://www.mvd.newmexico.gov/...<b>mobile-id</b>/new-mexico-<b>mobile-id</b>-in-ap...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeYlKbGeVV_7kd1EDc06Jcl6fLgfrOo3FmuEgRpqLwlb98xGgd0wS7x5Ky&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+      "msapplication-tileimage": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/cropped-MVD-NM-logomark-270x270.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2024/10/Apple_Wallet-App-Icon.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "New Mexico Mobile ID for Businesses | Motor Vehicle Division NM",
+   "htmlTitle": "New Mexico <b>Mobile ID</b> for Businesses | Motor Vehicle Division NM",
+   "link": "https://www.mvd.newmexico.gov/nm-drivers-licenses-ids/new-mexico-mobile-id/new-mexico-mobile-id-for-businesses/",
+   "displayLink": "www.mvd.newmexico.gov",
+   "snippet": "Mobile ID Overview \u00b7 Back to MVD Home Page. Looking for a secure, convenient way to verify customer age and identity? With the rise of mobile driver's license\u00a0...",
+   "htmlSnippet": "<b>Mobile ID</b> Overview &middot; Back to MVD Home Page. Looking for a secure, convenient way to verify customer age and identity? With the rise of <b>mobile driver&#39;s license</b>&nbsp;...",
+   "formattedUrl": "https://www.mvd.newmexico.gov/...mobile-id/new-mexico-mobile-id-for-b...",
+   "htmlFormattedUrl": "https://www.mvd.newmexico.gov/...<b>mobile-id</b>/new-mexico-<b>mobile-id</b>-for-b...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN1KaSaj34VYBpJ7qxf1P8lPqcnRUYyW1nQ9MKOV7DyxCm2TaW7M0scBI&s",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+      "msapplication-tileimage": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/cropped-MVD-NM-logomark-270x270.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2024/11/digital-id-for-biz.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "New Mexico Mobile ID Verifier | Motor Vehicle Division NM",
+   "htmlTitle": "New Mexico <b>Mobile ID</b> Verifier | Motor Vehicle Division NM",
+   "link": "https://www.mvd.newmexico.gov/nm-drivers-licenses-ids/new-mexico-mobile-id/new-mexico-mobile-id-verifier/",
+   "displayLink": "www.mvd.newmexico.gov",
+   "snippet": "Mobile ID Acceptance on iPhone. Verify ID in Apple Wallet and other types of Mobile IDs right on your iPhone with the NM Verifier app. No additional hardware\u00a0...",
+   "htmlSnippet": "<b>Mobile ID</b> Acceptance on iPhone. Verify ID in Apple Wallet and other types of Mobile IDs right on your iPhone with the NM Verifier app. No additional hardware&nbsp;...",
+   "formattedUrl": "https://www.mvd.newmexico.gov/...mobile-id/new-mexico-mobile-id-verifi...",
+   "htmlFormattedUrl": "https://www.mvd.newmexico.gov/...<b>mobile-id</b>/new-mexico-<b>mobile-id</b>-verifi...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbwI1W77Cavi2TDac8SZ8R96NuZI91Uxi1V2WxwdtMU8H6u8xADVUu1Ej7&s",
+      "width": "157",
+      "height": "322"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+      "msapplication-tileimage": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/cropped-MVD-NM-logomark-270x270.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2024/11/flipped.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile ID Acceptance on iPhone | Motor Vehicle Division NM",
+   "htmlTitle": "<b>Mobile ID</b> Acceptance on iPhone | Motor Vehicle Division NM",
+   "link": "https://www.mvd.newmexico.gov/nm-drivers-licenses-ids/new-mexico-mobile-id/mobile-id-acceptance-on-iphone/",
+   "displayLink": "www.mvd.newmexico.gov",
+   "snippet": "ID holders do not have to pay any fees when presenting their mobile ID to a business or organization. In which countries can businesses and organizations accept\u00a0...",
+   "htmlSnippet": "ID holders do not have to pay any fees when presenting their <b>mobile ID</b> to a business or organization. In which countries can businesses and organizations accept&nbsp;...",
+   "formattedUrl": "https://www.mvd.newmexico.gov/...mobile-id/mobile-id-acceptance-on-iph...",
+   "htmlFormattedUrl": "https://www.mvd.newmexico.gov/...<b>mobile-id</b>/<b>mobile-id</b>-acceptance-on-iph...",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+      "msapplication-tileimage": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/cropped-MVD-NM-logomark-270x270.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MVD brings NM driver's licenses and state IDs to mobile devices NM ...",
+   "htmlTitle": "MVD brings NM driver&#39;s licenses and state IDs to mobile devices NM ...",
+   "link": "https://www.mvd.newmexico.gov/wp-content/uploads/2024/12/AA-Mobile-license-release-final_SSC.pdf",
+   "displayLink": "www.mvd.newmexico.gov",
+   "snippet": "Dec 5, 2024 ... In the coming weeks, support for mobile driver's license (mDL) acceptance will come to ... Presenting a Mobile ID in a Secure, Private Way.",
+   "htmlSnippet": "Dec 5, 2024 <b>...</b> In the coming weeks, support for <b>mobile driver&#39;s license</b> (<b>mDL</b>) acceptance will come to ... Presenting a <b>Mobile ID</b> in a Secure, Private Way.",
+   "formattedUrl": "https://www.mvd.newmexico.gov/.../AA-Mobile-license-release-final_SSC....",
+   "htmlFormattedUrl": "https://www.mvd.newmexico.gov/.../AA-Mobile-license-release-final_SSC....",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvGiIeeny6HWE1p0i0pwZco6bO8EtmlqP-5fnJI_UHTiLWlITahkE_xh91&s",
+      "width": "366",
+      "height": "138"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20241205112531-07'00'",
+      "creationdate": "D:20241205112527-07'00'",
+      "creator": "Acrobat PDFMaker 24 for Word",
+      "sourcemodified": "D:20241204203829",
+      "author": "Charlie Moore",
+      "producer": "Adobe PDF Library 24.4.48"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///ee5af35291d94e464dedba41113b7a56d8c35be55481559ab55fb0abb75d0762"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Apple ID FAQ | Motor Vehicle Division NM",
+   "htmlTitle": "Apple ID FAQ | Motor Vehicle Division NM",
+   "link": "https://www.mvd.newmexico.gov/nm-drivers-licenses-ids/new-mexico-mobile-id/apple-id-faq/",
+   "displayLink": "www.mvd.newmexico.gov",
+   "snippet": "Once you receive the Verification Code, navigate back to Apple Wallet, click the URL and follow the steps to input your Verification Code into the Mobile ID\u00a0...",
+   "htmlSnippet": "Once you receive the Verification Code, navigate back to Apple Wallet, click the URL and follow the steps to input your Verification Code into the <b>Mobile ID</b>&nbsp;...",
+   "formattedUrl": "https://www.mvd.newmexico.gov/nm-drivers...mobile-id/apple-id-faq/",
+   "htmlFormattedUrl": "https://www.mvd.newmexico.gov/nm-drivers...<b>mobile-id</b>/apple-id-faq/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+      "msapplication-tileimage": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/cropped-MVD-NM-logomark-270x270.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "How to get and use Mobile Driver's Licenses and Mobile IDs",
+   "htmlTitle": "How to get and use Mobile Driver&#39;s Licenses and Mobile IDs",
+   "link": "https://www.mvd.newmexico.gov/wp-content/uploads/2024/12/How-to-Fact-Sheet-final.pdf",
+   "displayLink": "www.mvd.newmexico.gov",
+   "snippet": "Presenting a Mobile ID in a Secure, Private Way. Presenting an ... When presenting your digital ID in person, make sure Bluetooth is turned on and hold it.",
+   "htmlSnippet": "Presenting a <b>Mobile ID</b> in a Secure, Private Way. Presenting an ... When presenting your <b>digital ID</b> in person, make sure Bluetooth is turned on and hold it.",
+   "formattedUrl": "https://www.mvd.newmexico.gov/wp.../2024/.../How-to-Fact-Sheet-final.pd...",
+   "htmlFormattedUrl": "https://www.mvd.newmexico.gov/wp.../2024/.../How-to-Fact-Sheet-final.pd...",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20241205102723-07'00'",
+      "creationdate": "D:20241205102721-07'00'",
+      "creator": "Acrobat PDFMaker 24 for Word",
+      "sourcemodified": "D:20241204203616",
+      "author": "Moore, Charlie, TAX",
+      "producer": "Adobe PDF Library 24.4.48"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Contact Us | Motor Vehicle Division NM",
+   "htmlTitle": "Contact Us | Motor Vehicle Division NM",
+   "link": "https://www.mvd.newmexico.gov/contact-us/",
+   "displayLink": "www.mvd.newmexico.gov",
+   "snippet": "New Mexico Mobile ID support and questions.Email: tax.nmmdl@state.nm.us. or. Click here for more information. Have a refund request? Please click button below\u00a0...",
+   "htmlSnippet": "New Mexico <b>Mobile ID</b> support and questions.Email: tax.nmmdl@state.nm.us. or. Click here for more information. Have a refund request? Please click button below&nbsp;...",
+   "formattedUrl": "https://www.mvd.newmexico.gov/contact-us/",
+   "htmlFormattedUrl": "https://www.mvd.newmexico.gov/contact-us/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSab0vpsieUP7Gd2doVVDxLlw323-76LhGj0Nn-c10ob-ah3HpDi8GxaY&s",
+      "width": "200",
+      "height": "200"
+     }
+    ],
+    "BreadcrumbList": [
+     {}
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+      "name": "Home",
+      "position": "1",
+      "msapplication-tileimage": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/cropped-MVD-NM-logomark-270x270.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.mvd.newmexico.gov/wp-content/uploads/2025/05/facebook-logo.png"
+     }
+    ]
+   }
+  }
+ ]
+}

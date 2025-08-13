@@ -1,0 +1,300 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://www.dps.texas.gov/ \"driver's license\" OR \"identification card\"",
+    "totalResults": "365",
+    "searchTerms": "site:https://www.dps.texas.gov/ \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://www.dps.texas.gov/ \"driver's license\" OR \"identification card\"",
+    "totalResults": "365",
+    "searchTerms": "site:https://www.dps.texas.gov/ \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.138611,
+  "formattedSearchTime": "0.14",
+  "totalResults": "365",
+  "formattedTotalResults": "365"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "How to Apply for a Texas Identification Card | Department of Public ...",
+   "htmlTitle": "How to Apply for a Texas <b>Identification Card</b> | Department of Public ...",
+   "link": "https://www.dps.texas.gov/section/driver-license/how-apply-texas-identification-card",
+   "displayLink": "www.dps.texas.gov",
+   "snippet": "Sep 29, 2020 ... Complete the identification card application before arriving at your local office (This form is also available at all driver license offices).",
+   "htmlSnippet": "Sep 29, 2020 <b>...</b> Complete the <b>identification card</b> application before arriving at your local office (This form is also available at all driver license offices).",
+   "formattedUrl": "https://www.dps.texas.gov/section/.../how-apply-texas-identification-card",
+   "htmlFormattedUrl": "https://www.dps.texas.gov/section/.../how-apply-texas-<b>identification-card</b>",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver License | Department of Public Safety",
+   "htmlTitle": "Driver License | Department of Public Safety",
+   "link": "https://www.dps.texas.gov/section/driver-license",
+   "displayLink": "www.dps.texas.gov",
+   "snippet": "The Texas Department of Public Safety issues identification card (ID) that are valid for up to six years to Texas residents. These photo ID cards are official\u00a0...",
+   "htmlSnippet": "The Texas Department of Public Safety issues <b>identification card</b> (ID) that are valid for up to six years to Texas residents. These photo ID cards are official&nbsp;...",
+   "formattedUrl": "https://www.dps.texas.gov/section/driver-license",
+   "htmlFormattedUrl": "https://www.dps.texas.gov/section/driver-license",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW0iW-UgXb8RI_dayaYXbK5-zhTHmfwAyg50yElWdZ2pNvCwWYgi5ryoG6&s",
+      "width": "267",
+      "height": "189"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://cdn.www3.dps.texas.gov/cdn/ff/z8q0Dl6zKY9Fe7QgXe66cpAjbJYKbNIMbOEywaZT2SY/1601582867/public/2020-10/Online%20Services%20Image_06.17.20.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Requirements | Department of Public Safety",
+   "htmlTitle": "Requirements | Department of Public Safety",
+   "link": "https://www.dps.texas.gov/section/driver-license/requirements",
+   "displayLink": "www.dps.texas.gov",
+   "snippet": "Jan 31, 2025 ... ... Identification Card. Additional Resources and Information: Moving to Texas Suspensions & Reinstatements Choosing a Driver Education Course\u00a0...",
+   "htmlSnippet": "Jan 31, 2025 <b>...</b> ... <b>Identification Card</b>. Additional Resources and Information: Moving to Texas Suspensions &amp; Reinstatements Choosing a Driver Education Course&nbsp;...",
+   "formattedUrl": "https://www.dps.texas.gov/section/driver-license/requirements",
+   "htmlFormattedUrl": "https://www.dps.texas.gov/section/driver-license/requirements",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Voluntary Contributions and Programs Information | Department of ...",
+   "htmlTitle": "Voluntary Contributions and Programs Information | Department of ...",
+   "link": "https://www.dps.texas.gov/section/driver-license/voluntary-contributions-and-programs-information",
+   "displayLink": "www.dps.texas.gov",
+   "snippet": "Jun 16, 2022 ... Donations may also be made online during driver license and identification card transactions. Donate Life Texas. Donate Life Texas is the\u00a0...",
+   "htmlSnippet": "Jun 16, 2022 <b>...</b> Donations may also be made online during driver license and <b>identification card</b> transactions. Donate Life Texas. Donate Life Texas is the&nbsp;...",
+   "formattedUrl": "https://www.dps.texas.gov/.../voluntary-contributions-and-programs-inform...",
+   "htmlFormattedUrl": "https://www.dps.texas.gov/.../voluntary-contributions-and-programs-inform...",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Renew Your Texas DL, CDL, Motorcycle License or ID | Department ...",
+   "htmlTitle": "Renew Your Texas DL, CDL, Motorcycle License or ID | Department ...",
+   "link": "https://www.dps.texas.gov/section/driver-license/renew-your-texas-dl-cdl-motorcycle-license-or-id",
+   "displayLink": "www.dps.texas.gov",
+   "snippet": "Sep 29, 2020 ... ... identification card is online or by telephone. You must meet the following requirements: Driver License Renewal. Eligibility Requirements. You\u00a0...",
+   "htmlSnippet": "Sep 29, 2020 <b>...</b> ... <b>identification card</b> is online or by telephone. You must meet the following requirements: Driver License Renewal. Eligibility Requirements. You&nbsp;...",
+   "formattedUrl": "https://www.dps.texas.gov/.../renew-your-texas-dl-cdl-motorcycle-license-o...",
+   "htmlFormattedUrl": "https://www.dps.texas.gov/.../renew-your-texas-dl-cdl-motorcycle-license-o...",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Replace your Driver License, Commercial Driver License or ID Card ...",
+   "htmlTitle": "Replace your Driver License, Commercial Driver License or ID Card ...",
+   "link": "https://www.dps.texas.gov/section/driver-license/replace-your-driver-license-commercial-driver-license-or-id-card",
+   "displayLink": "www.dps.texas.gov",
+   "snippet": "Sep 25, 2020 ... The audit number may be found here on your driver license or identification card. Audit Numbers. If your card has been lost, stolen or destroyed\u00a0...",
+   "htmlSnippet": "Sep 25, 2020 <b>...</b> The audit number may be found here on your driver license or <b>identification card</b>. Audit Numbers. If your card has been lost, stolen or destroyed&nbsp;...",
+   "formattedUrl": "https://www.dps.texas.gov/.../replace-your-driver-license-commercial-drive...",
+   "htmlFormattedUrl": "https://www.dps.texas.gov/.../replace-your-driver-license-commercial-drive...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSETxu8-vY6VMLjOhcwy3InaXxR4dPpP5qgUGJPFuySCpXsFKqwvNNXtc&s",
+      "width": "252",
+      "height": "200"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://cdn.www3.dps.texas.gov/cdn/ff/yWppg8QSAVCCrtBlkiaVcFLKbibJnmTbpCXhKQGqSv0/1718374329/public/inline-images/Picture1.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "How to Change Information on Your Driver License or ID Card ...",
+   "htmlTitle": "How to Change Information on Your Driver License or ID Card ...",
+   "link": "https://www.dps.texas.gov/section/driver-license/how-change-information-your-driver-license-or-id-card",
+   "displayLink": "www.dps.texas.gov",
+   "snippet": "Sep 29, 2020 ... Present your license issued by the Texas Commission on Law Enforcement (TCOLE); Present your peace officer identification card and badge issued\u00a0...",
+   "htmlSnippet": "Sep 29, 2020 <b>...</b> Present your license issued by the Texas Commission on Law Enforcement (TCOLE); Present your peace officer <b>identification card</b> and badge issued&nbsp;...",
+   "formattedUrl": "https://www.dps.texas.gov/.../how-change-information-your-driver-license-...",
+   "htmlFormattedUrl": "https://www.dps.texas.gov/.../how-change-information-your-driver-license-...",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Commercial Driver License | Department of Public Safety",
+   "htmlTitle": "Commercial Driver License | Department of Public Safety",
+   "link": "https://www.dps.texas.gov/section/commercial-driver-license",
+   "displayLink": "www.dps.texas.gov",
+   "snippet": "Feb 15, 2024 ... Important Regulatory Changes for Commercial Driver's License (CDL) and Commercial Learner's Permit (CLP) Holders.",
+   "htmlSnippet": "Feb 15, 2024 <b>...</b> Important Regulatory Changes for Commercial <b>Driver&#39;s License</b> (CDL) and Commercial Learner&#39;s Permit (CLP) Holders.",
+   "formattedUrl": "https://www.dps.texas.gov/section/commercial-driver-license",
+   "htmlFormattedUrl": "https://www.dps.texas.gov/section/commercial-driver-license",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DL-14A - TEXAS DRIVER LICENSE OR IDENTIFICATION CARD ...",
+   "htmlTitle": "DL-14A - TEXAS DRIVER LICENSE OR <b>IDENTIFICATION CARD</b> ...",
+   "link": "https://www.dps.texas.gov/internetforms/forms/dl-14a.pdf",
+   "displayLink": "www.dps.texas.gov",
+   "snippet": "Disclosure of your social security account number is mandatory for identification card and driver license applicants, but voluntary for election identification\u00a0...",
+   "htmlSnippet": "Disclosure of your social security account number is mandatory for <b>identification card</b> and driver license applicants, but voluntary for election identification&nbsp;...",
+   "formattedUrl": "https://www.dps.texas.gov/internetforms/forms/dl-14a.pdf",
+   "htmlFormattedUrl": "https://www.dps.texas.gov/internetforms/forms/dl-14a.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjVmMVCvRJZ96tNwVnKjfKi4KW_Ag1FoNSCAP0ED30hEoBXJXlj95riBc&s",
+      "width": "197",
+      "height": "255"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20250213150947-06'00'",
+      "creationdate": "D:20250213150947-06'00'",
+      "creator": "Adobe InDesign 19.5 (Macintosh)",
+      "author": "TXDPS Graphics",
+      "subject": "Driver License or ID card application \u2013 Adult (17 years 10 months of age or older)",
+      "producer": "Adobe PDF Library 17.0",
+      "title": "DL-14 A - Driver License or ID card application \u2013 Adult (17 years 10 months of age or older)"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///7a52c2ee7fd9852c973c9b98ff18116e07ba58b3fa344f8366a04508f5dd8b04"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver License and Identification Services for Veterans | Department ...",
+   "htmlTitle": "Driver License and Identification Services for Veterans | Department ...",
+   "link": "https://www.dps.texas.gov/section/driver-license/driver-license-and-identification-services-veterans",
+   "displayLink": "www.dps.texas.gov",
+   "snippet": "Sep 29, 2020 ... This guide provides information to obtain a Texas driver license or identification card if you are an active-duty military member, recently discharged veteran,\u00a0...",
+   "htmlSnippet": "Sep 29, 2020 <b>...</b> This guide provides information to obtain a Texas driver license or <b>identification card</b> if you are an active-duty military member, recently discharged veteran,&nbsp;...",
+   "formattedUrl": "https://www.dps.texas.gov/.../driver-license-and-identification-services-vete...",
+   "htmlFormattedUrl": "https://www.dps.texas.gov/.../driver-license-and-identification-services-vete...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZZPJ3cHoChbA9rUAGQLEomGKOn9fJg269bRIwRJQLCzUFiBOXe0s8pzQ&s",
+      "width": "279",
+      "height": "181"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://cdn.www3.dps.texas.gov/cdn/ff/pdJUAsHmDD-QiUD5PYeUOORfG-h28fUm0mkmmiCfxU0/1620915386/public/inline-images/ID%20card%20vet%20army.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,274 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://dmv.ny.gov/ \"REAL ID\"",
+    "totalResults": "1160",
+    "searchTerms": "site:https://dmv.ny.gov/ \"REAL ID\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://dmv.ny.gov/ \"REAL ID\"",
+    "totalResults": "1160",
+    "searchTerms": "site:https://dmv.ny.gov/ \"REAL ID\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.150218,
+  "formattedSearchTime": "0.15",
+  "totalResults": "1160",
+  "formattedTotalResults": "1,160"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Enhanced or REAL ID | NY DMV",
+   "htmlTitle": "Enhanced or <b>REAL ID</b> | NY DMV",
+   "link": "https://dmv.ny.gov/driver-license/enhanced-or-real-id",
+   "displayLink": "dmv.ny.gov",
+   "snippet": "A REAL ID is a federally compliant DMV-issued driver license, learner permit, or non-driver ID that is required to board a domestic flight (within the US) or\u00a0...",
+   "htmlSnippet": "A <b>REAL ID</b> is a federally compliant DMV-issued driver license, learner permit, or non-driver ID that is required to board a domestic flight (within the US) or&nbsp;...",
+   "formattedUrl": "https://dmv.ny.gov/driver-license/enhanced-or-real-id",
+   "htmlFormattedUrl": "https://dmv.ny.gov/driver-license/enhanced-or-<b>real-id</b>",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbIpgVSty4zlEOedGtnjkOcv0qKGReu6_E549PtwXjoEWXPKzvp6IMdbb1&s",
+      "width": "355",
+      "height": "142"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://dmv.ny.gov/sites/default/files/images/2021-06/real-id_getty.jpg",
+      "og:site_name": "NY DMV",
+      "og:image:url": "https://dmv.ny.gov/themes/custom/webny_core/images/nys-default.png",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width",
+      "og:description": "Your license, permit or ID must be REAL ID-compliant for you to use it to board a domestic flight."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.ny.gov/sites/default/files/images/2021-06/real-id_getty.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NY DMV: Home",
+   "htmlTitle": "NY DMV: Home",
+   "link": "https://dmv.ny.gov/",
+   "displayLink": "dmv.ny.gov",
+   "snippet": "Get your REAL ID now! The federal government now requires your driver license, permit or ID card to be REAL ID compliant if you wish to use it as\u00a0...",
+   "htmlSnippet": "Get your <b>REAL ID</b> now! The federal government now requires your driver license, permit or ID card to be <b>REAL ID</b> compliant if you wish to use it as&nbsp;...",
+   "formattedUrl": "https://dmv.ny.gov/",
+   "htmlFormattedUrl": "https://dmv.ny.gov/",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:site_name": "NY DMV",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DMV Document Guide",
+   "htmlTitle": "DMV Document Guide",
+   "link": "https://process.dmv.ny.gov/documentguide/dmv_license/DisplayPages/pwizlicensePermitNDID.cfm",
+   "displayLink": "process.dmv.ny.gov",
+   "snippet": "If you travel and plan on flying within the U.S., we recommend you get an Enhanced or REAL ID Star displayed on REAL ID documents License, Permit or Non\u00a0...",
+   "htmlSnippet": "If you travel and plan on flying within the U.S., we recommend you get an Enhanced or <b>REAL ID</b> Star displayed on <b>REAL ID</b> documents License, Permit or Non&nbsp;...",
+   "formattedUrl": "https://process.dmv.ny.gov/documentguide/.../pwizlicensePermitNDID.cfm",
+   "htmlFormattedUrl": "https://process.dmv.ny.gov/documentguide/.../pwizlicensePermitNDID.cfm",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width,initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NYS DMV Introduces 'REAL ID Thursdays' -- Extended Office Hours ...",
+   "htmlTitle": "NYS DMV Introduces &#39;<b>REAL ID</b> Thursdays&#39; -- Extended Office Hours ...",
+   "link": "https://dmv.ny.gov/news/nys-dmv-introduces-real-id-thursdays-extended-office-hours-on-thursdays-for-real-id-processing",
+   "displayLink": "dmv.ny.gov",
+   "snippet": "Mar 27, 2025 ... Offices in metropolitan New York and Long Island will expand hours on Thursdays exclusively for REAL ID and Enhanced ID processing ahead of the May 7, 2025,\u00a0...",
+   "htmlSnippet": "Mar 27, 2025 <b>...</b> Offices in metropolitan New York and Long Island will expand hours on Thursdays exclusively for <b>REAL ID</b> and Enhanced ID processing ahead of the May 7, 2025,&nbsp;...",
+   "formattedUrl": "https://dmv.ny.gov/.../nys-dmv-introduces-real-id-thursdays-extended-offic...",
+   "htmlFormattedUrl": "https://dmv.ny.gov/.../nys-dmv-introduces-<b>real-id</b>-thursdays-extended-offic...",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:site_name": "NY DMV",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NYS DMV Encourages New Yorkers to Get a Real ID and Avoid ...",
+   "htmlTitle": "NYS DMV Encourages New Yorkers to Get a <b>Real ID</b> and Avoid ...",
+   "link": "https://dmv.ny.gov/news/nys-dmv-encourages-new-yorkers-to-get-a-real-id-and-avoid-rush-before-federal-deadline",
+   "displayLink": "dmv.ny.gov",
+   "snippet": "Beginning May 7, 2025, everyone flying in the US will need a REAL ID, Enhanced ID, Passport or another form or federally compliant identification to fly\u00a0...",
+   "htmlSnippet": "Beginning May 7, 2025, everyone flying in the US will need a <b>REAL ID</b>, Enhanced ID, Passport or another form or federally compliant identification to fly&nbsp;...",
+   "formattedUrl": "https://dmv.ny.gov/.../nys-dmv-encourages-new-yorkers-to-get-a-real-id-an...",
+   "htmlFormattedUrl": "https://dmv.ny.gov/.../nys-dmv-encourages-new-yorkers-to-get-a-<b>real-id</b>-an...",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:site_name": "NY DMV",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "License and Vehicle Registration Services Are Available at AAA ...",
+   "htmlTitle": "License and Vehicle Registration Services Are Available at AAA ...",
+   "link": "https://dmv.ny.gov/contact-us/aaa-license-and-vehicle-services",
+   "displayLink": "dmv.ny.gov",
+   "snippet": "Many vehicle registration, driver license and non-driver ID services, including REAL ID upgrades, are now available for valid AAA members at some New York AAA\u00a0...",
+   "htmlSnippet": "Many vehicle registration, driver license and non-driver ID services, including <b>REAL ID</b> upgrades, are now available for valid AAA members at some New York AAA&nbsp;...",
+   "formattedUrl": "https://dmv.ny.gov/contact-us/aaa-license-and-vehicle-services",
+   "htmlFormattedUrl": "https://dmv.ny.gov/contact-us/aaa-license-and-vehicle-services",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:site_name": "NY DMV",
+      "og:image:url": "https://dmv.ny.gov/themes/custom/webny_core/images/nys-default.png",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width",
+      "og:description": "Many vehicle registration, license and ID services, including REAL ID upgrades, vision testing are available for AAA members at some New York AAA offices."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NYS DMV Opening Offices on Saturdays to Support REAL ID Sign ...",
+   "htmlTitle": "NYS DMV Opening Offices on Saturdays to Support <b>REAL ID</b> Sign ...",
+   "link": "https://dmv.ny.gov/news/nys-dmv-opening-offices-on-saturdays-to-support-real-id-sign-up-this-spring",
+   "displayLink": "dmv.ny.gov",
+   "snippet": "Mar 7, 2025 ... From April 5 to June 28, DMV will open 10 New York City and Long Island Offices on Saturday mornings for REAL ID Processing.",
+   "htmlSnippet": "Mar 7, 2025 <b>...</b> From April 5 to June 28, DMV will open 10 New York City and Long Island Offices on Saturday mornings for <b>REAL ID</b> Processing.",
+   "formattedUrl": "https://dmv.ny.gov/.../nys-dmv-opening-offices-on-saturdays-to-support-re...",
+   "htmlFormattedUrl": "https://dmv.ny.gov/.../nys-dmv-opening-offices-on-saturdays-to-support-<b>re</b>...",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:site_name": "NY DMV",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "New Yorkers Can Now Get REAL ID and Enhanced ID Applications ...",
+   "htmlTitle": "New Yorkers Can Now Get <b>REAL ID</b> and Enhanced ID Applications ...",
+   "link": "https://dmv.ny.gov/news/new-yorkers-can-now-get-real-id-and-enhanced-id-applications-digitally-pre-screened-before",
+   "displayLink": "dmv.ny.gov",
+   "snippet": "Jul 8, 2022 ... New Yorkers can now get their application for a REAL ID or Enhanced ID digitally pre-screened prior to visiting the DMV.",
+   "htmlSnippet": "Jul 8, 2022 <b>...</b> New Yorkers can now get their application for a <b>REAL ID</b> or Enhanced ID digitally pre-screened prior to visiting the DMV.",
+   "formattedUrl": "https://dmv.ny.gov/.../new-yorkers-can-now-get-real-id-and-enhanced-id-a...",
+   "htmlFormattedUrl": "https://dmv.ny.gov/.../new-yorkers-can-now-get-<b>real-id</b>-and-enhanced-id-a...",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:site_name": "NY DMV",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DMV Office Locations | NY DMV",
+   "htmlTitle": "DMV Office Locations | NY DMV",
+   "link": "https://dmv.ny.gov/contact-us/office-locations",
+   "displayLink": "dmv.ny.gov",
+   "snippet": "other REAL ID-compliant document), and are not due to renew your driver license or ID card, you do not need to upgrade right away. Alert. There are currently\u00a0...",
+   "htmlSnippet": "other <b>REAL ID</b>-compliant document), and are not due to renew your driver license or ID card, you do not need to upgrade right away. Alert. There are currently&nbsp;...",
+   "formattedUrl": "https://dmv.ny.gov/contact-us/office-locations",
+   "htmlFormattedUrl": "https://dmv.ny.gov/contact-us/office-locations",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:site_name": "NY DMV",
+      "og:image:url": "https://dmv.ny.gov/themes/custom/webny_core/images/nys-default.png",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width",
+      "og:description": "Schedule appointments for in-person services, make an appointment for a road test. Search for DMV Offices."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Sample Photo Documents | NY DMV",
+   "htmlTitle": "Sample Photo Documents | NY DMV",
+   "link": "https://dmv.ny.gov/driver-license/sample-photo-documents",
+   "displayLink": "dmv.ny.gov",
+   "snippet": "Sample DMV Photo Documents. Find ID number (CID) or document number on a standard, Enhanced or REAL ID document.",
+   "htmlSnippet": "Sample DMV Photo Documents. Find ID number (CID) or document number on a standard, Enhanced or <b>REAL ID</b> document.",
+   "formattedUrl": "https://dmv.ny.gov/driver-license/sample-photo-documents",
+   "htmlFormattedUrl": "https://dmv.ny.gov/driver-license/sample-photo-documents",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:site_name": "NY DMV",
+      "og:image:url": "https://dmv.ny.gov/themes/custom/webny_core/images/nys-default.png",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width",
+      "og:description": "Sample DMV Photo Documents. Find ID number (CID) or document number on a standard, Enhanced or REAL ID document."
+     }
+    ]
+   }
+  }
+ ]
+}

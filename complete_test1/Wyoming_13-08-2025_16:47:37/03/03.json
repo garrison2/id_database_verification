@@ -1,0 +1,117 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://www.dot.state.wy.us \"REAL ID\"",
+    "totalResults": "4",
+    "searchTerms": "site:https://www.dot.state.wy.us \"REAL ID\"",
+    "count": 4,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.078081,
+  "formattedSearchTime": "0.08",
+  "totalResults": "4",
+  "formattedTotalResults": "4"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Wyoming driver licenses, ID cards are Real ID compliant",
+   "htmlTitle": "Wyoming driver licenses, ID cards are <b>Real ID</b> compliant",
+   "link": "https://www.dot.state.wy.us/news/wyoming-driver-licenses-id-cards-are-real-id-compliant",
+   "displayLink": "www.dot.state.wy.us",
+   "snippet": "Apr 10, 2025 ... All driver's licenses and identification cards issued by Driver Services are Real ID compliant. The Real ID Act is a 2005 Federal Act that established stricter\u00a0...",
+   "htmlSnippet": "Apr 10, 2025 <b>...</b> All driver&#39;s licenses and identification cards issued by Driver Services are <b>Real ID</b> compliant. The <b>Real ID</b> Act is a 2005 Federal Act that established stricter&nbsp;...",
+   "formattedUrl": "https://www.dot.state.wy.us/.../wyoming-driver-licenses-id-cards-are-real-id...",
+   "htmlFormattedUrl": "https://www.dot.state.wy.us/.../wyoming-driver-licenses-id-cards-are-<b>real-id</b>...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDwekSruSN5YdYgTus-6w1EBj9wqY8jk8jGxj46-RvkPKG17FJLS_jbjkG&s",
+      "width": "280",
+      "height": "180"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Public%20Affairs/News%20releases/DS_BW_TinaSample_dl_front.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "WYDOT starts issuing new, more secure driver licenses and ID cards",
+   "htmlTitle": "WYDOT starts issuing new, more secure driver licenses and ID cards",
+   "link": "https://www.dot.state.wy.us/news/wydot-starts-issuing-new-more-secure-driver-licenses-and-id-cards",
+   "displayLink": "www.dot.state.wy.us",
+   "snippet": "Jan 27, 2020 ... The new licenses and ID cards will also feature the REAL ID compliant star symbol. However, the star won't be gold and will have a black\u00a0...",
+   "htmlSnippet": "Jan 27, 2020 <b>...</b> The new licenses and ID cards will also feature the <b>REAL ID</b> compliant star symbol. However, the star won&#39;t be gold and will have a black&nbsp;...",
+   "formattedUrl": "https://www.dot.state.wy.us/.../wydot-starts-issuing-new-more-secure-driver...",
+   "htmlFormattedUrl": "https://www.dot.state.wy.us/.../wydot-starts-issuing-new-more-secure-driver...",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver License - Lost / Renewal",
+   "htmlTitle": "Driver License - Lost / Renewal",
+   "link": "https://www.dot.state.wy.us/home/driver_license_records/driver-license/lost--renewal.html",
+   "displayLink": "www.dot.state.wy.us",
+   "snippet": "Real ID requirements: When renewing your Wyoming driver license and/or your Wyoming identification card, you are required to present all of the following\u00a0...",
+   "htmlSnippet": "<b>Real ID</b> requirements: When renewing your Wyoming driver license and/or your Wyoming identification card, you are required to present all of the following&nbsp;...",
+   "formattedUrl": "https://www.dot.state.wy.us/home/driver_license.../lost--renewal.html",
+   "htmlFormattedUrl": "https://www.dot.state.wy.us/home/driver_license.../lost--renewal.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Learner Permits",
+   "htmlTitle": "Learner Permits",
+   "link": "https://www.dot.state.wy.us/home/driver_license_records/driver-license/learner-permits.html",
+   "displayLink": "www.dot.state.wy.us",
+   "snippet": "... Real ID documents, and, proof that you have completed the requirement of 50 hours of behind-the-wheel driving time. You are required to pass a driving\u00a0...",
+   "htmlSnippet": "... <b>Real ID</b> documents, and, proof that you have completed the requirement of 50 hours of behind-the-wheel driving time. You are required to pass a driving&nbsp;...",
+   "formattedUrl": "https://www.dot.state.wy.us/home/driver_license.../learner-permits.html",
+   "htmlFormattedUrl": "https://www.dot.state.wy.us/home/driver_license.../learner-permits.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  }
+ ]
+}

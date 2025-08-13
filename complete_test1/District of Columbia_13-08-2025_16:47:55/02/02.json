@@ -1,0 +1,391 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://dmv.dc.gov/ \"driver's license\" OR \"identification card\"",
+    "totalResults": "612",
+    "searchTerms": "site:https://dmv.dc.gov/ \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://dmv.dc.gov/ \"driver's license\" OR \"identification card\"",
+    "totalResults": "612",
+    "searchTerms": "site:https://dmv.dc.gov/ \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.269002,
+  "formattedSearchTime": "0.27",
+  "totalResults": "612",
+  "formattedTotalResults": "612"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Driver License or Identification Card Application | dmv",
+   "htmlTitle": "Driver License or <b>Identification Card</b> Application | dmv",
+   "link": "https://dmv.dc.gov/publication/driver-license-or-identification-card-application",
+   "displayLink": "dmv.dc.gov",
+   "snippet": "Updated: February 2025 The Driver License/Identification Card Application is used for original credentials, converting credentials from other jurisdictions,\u00a0...",
+   "htmlSnippet": "Updated: February 2025 The Driver License/<b>Identification Card</b> Application is used for original credentials, converting credentials from other jurisdictions,&nbsp;...",
+   "formattedUrl": "https://dmv.dc.gov/.../driver-license-or-identification-card-application",
+   "htmlFormattedUrl": "https://dmv.dc.gov/.../driver-license-or-<b>identification-card</b>-application",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPCxFscvM3VfxcIgnevBe6r0aOHo6xUfBO9LM_RVJ2e7iW4F9AEN7Fg3A&s",
+      "width": "199",
+      "height": "150"
+     }
+    ],
+    "Item": [
+     {
+      "num_replies": "0",
+      "title": "Driver License or Identification Card Application",
+      "encoded": "Updated: February 2025 The Driver License/Identification Card Application is used for original credentials, converting credentials from other jurisdictions, renewing credentials and obtaining..."
+     }
+    ],
+    "metatags": [
+     {
+      "twitter:card": "summary",
+      "twitter:title": "Driver License or Identification Card Application",
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=2, minimum-scale=1, user-scalable=yes",
+      "twitter:url": "https://dmv.dc.gov/publication/driver-license-or-identification-card-application",
+      "twitter:description": "Updated: February 2025 The Driver License/Identification Card Application is used for original credentials, converting credentials from other jurisdictions, renewing credentials and obtaining duplicate/replacement credentials. Effective June 26, 2018, if eligible, when you complete the application, you will automatically be opted in to register to vote unless you select to decline. More information on voting and eligibility is available on the District of Columbia Board of Elections website."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.dc.gov/sites/default/files/styles/callout_interior_graphic/public/dc/sites/dmv/agency_content/images/dc-dmv-logo.png?itok=YW_xd0ro"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DC DRIVER LICENSE or IDENTIFICATION CARD APPLICATION",
+   "htmlTitle": "DC DRIVER LICENSE or <b>IDENTIFICATION CARD</b> APPLICATION",
+   "link": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/publication/attachments/DL_ID_Application_BOEE_English_Feb2025.pdf",
+   "displayLink": "dmv.dc.gov",
+   "snippet": "The information you provide will be used to register you to vote unless you decline in Section G. A. What do you need? \u2751 Driver License. \u2751 Identification Card.",
+   "htmlSnippet": "The information you provide will be used to register you to vote unless you decline in Section G. A. What do you need? \u2751 Driver License. \u2751 <b>Identification Card</b>.",
+   "formattedUrl": "https://dmv.dc.gov/.../DL_ID_Application_BOEE_English_Feb2025.pdf",
+   "htmlFormattedUrl": "https://dmv.dc.gov/.../DL_ID_Application_BOEE_English_Feb2025.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20250410081757-04'00'",
+      "creationdate": "D:20250211151933-05'00'",
+      "creator": "Adobe Illustrator 29.3 (Windows)",
+      "author": "Batchelder, Emily (DCHR)",
+      "producer": "Microsoft\u00ae Word for Microsoft 365"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Non-Driver Identification Cards | dmv",
+   "htmlTitle": "Non-Driver Identification Cards | dmv",
+   "link": "https://dmv.dc.gov/service/non-driver-identification-cards",
+   "displayLink": "dmv.dc.gov",
+   "snippet": "If you currently have a DC DMV non-driver identification that is up for renewal, you will renew it as either a REAL ID or a Limited Purpose identification card.",
+   "htmlSnippet": "If you currently have a DC DMV non-driver identification that is up for renewal, you will renew it as either a REAL ID or a Limited Purpose <b>identification card</b>.",
+   "formattedUrl": "https://dmv.dc.gov/service/non-driver-identification-cards",
+   "htmlFormattedUrl": "https://dmv.dc.gov/service/non-driver-<b>identification-card</b>s",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWT568QHeCz2Opsz1c_OwnnvMCruGKQtB0fhUtanv6JZy5uR32VoYvdas&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "Item": [
+     {
+      "num_replies": "0",
+      "title": "Non-Driver Identification Cards",
+      "encoded": "DC DMV offers identification cards to District residents who need an official form of identification, but do not want or need a driver license. We offer both a REAL ID non-driver identification..."
+     }
+    ],
+    "metatags": [
+     {
+      "twitter:card": "summary",
+      "twitter:title": "Non-Driver Identification Cards",
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=2, minimum-scale=1, user-scalable=yes",
+      "twitter:url": "https://dmv.dc.gov/service/non-driver-identification-cards",
+      "twitter:description": "DC DMV identification cards are available to residents who do not want or need a driver license."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.dc.gov/sites/default/files/dc/shared_assets/social_icons/facebook.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver Licenses | dmv",
+   "htmlTitle": "Driver Licenses | dmv",
+   "link": "https://dmv.dc.gov/service/driver-licenses",
+   "displayLink": "dmv.dc.gov",
+   "snippet": "Steps required to obtain a District driver's license, including tests and documentation ... License or Identification Card Designations. DC DMV offers two\u00a0...",
+   "htmlSnippet": "Steps required to obtain a District <b>driver&#39;s license</b>, including tests and documentation ... License or <b>Identification Card</b> Designations. DC DMV offers two&nbsp;...",
+   "formattedUrl": "https://dmv.dc.gov/service/driver-licenses",
+   "htmlFormattedUrl": "https://dmv.dc.gov/service/driver-licenses",
+   "pagemap": {
+    "Item": [
+     {
+      "num_replies": "0",
+      "title": "Driver Licenses",
+      "encoded": "If you have lived in the District of Columbia for 60 days or more and you drive a vehicle in public, you must get a driver license from DC DMV\u2014unless you are a student, diplomat, active military..."
+     }
+    ],
+    "metatags": [
+     {
+      "twitter:card": "summary",
+      "twitter:title": "Driver Licenses",
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=2, minimum-scale=1, user-scalable=yes",
+      "twitter:url": "https://dmv.dc.gov/service/driver-licenses",
+      "twitter:description": "Steps required to obtain a District driver's license, including tests and documentation."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Obtain a Limited Purpose Non-Driver Identification Card | dmv",
+   "htmlTitle": "Obtain a Limited Purpose Non-Driver <b>Identification Card</b> | dmv",
+   "link": "https://dmv.dc.gov/service/obtain-limited-purpose-non-driver-identification-card",
+   "displayLink": "dmv.dc.gov",
+   "snippet": "You must be a resident of the District of Columbia, and at least 15 years of age; you may not hold a valid driver license or identification card in the\u00a0...",
+   "htmlSnippet": "You must be a resident of the District of Columbia, and at least 15 years of age; you may not hold a valid driver license or <b>identification card</b> in the&nbsp;...",
+   "formattedUrl": "https://dmv.dc.gov/.../obtain-limited-purpose-non-driver-identification-card",
+   "htmlFormattedUrl": "https://dmv.dc.gov/.../obtain-limited-purpose-non-driver-<b>identification-card</b>",
+   "pagemap": {
+    "Item": [
+     {
+      "num_replies": "0",
+      "title": "Obtain a Limited Purpose Non-Driver Identification Card",
+      "encoded": "You must be a resident of the District of Columbia, and at least 15 years of age; you may not hold a valid driver license or identification card in the District, or another state or jurisdiction;..."
+     }
+    ],
+    "metatags": [
+     {
+      "twitter:card": "summary",
+      "twitter:title": "Obtain a Limited Purpose Non-Driver Identification Card",
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=2, minimum-scale=1, user-scalable=yes",
+      "twitter:url": "https://dmv.dc.gov/service/obtain-limited-purpose-non-driver-identification-card",
+      "twitter:description": "How to obtain a Obtain a Limited Purpose Non-Driver Identification Card."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DC DMV REAL ID Driver License | dmv",
+   "htmlTitle": "DC DMV REAL ID Driver License | dmv",
+   "link": "https://dmv.dc.gov/service/dc-dmv-real-id-driver-license",
+   "displayLink": "dmv.dc.gov",
+   "snippet": "The REAL ID driver license is not a national identification card; it does give you access to certain limited federal facilities and allows you to board domestic\u00a0...",
+   "htmlSnippet": "The REAL ID driver license is not a national <b>identification card</b>; it does give you access to certain limited federal facilities and allows you to board domestic&nbsp;...",
+   "formattedUrl": "https://dmv.dc.gov/service/dc-dmv-real-id-driver-license",
+   "htmlFormattedUrl": "https://dmv.dc.gov/service/dc-dmv-real-id-driver-license",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSR2PPDgY7H4o7k6-TCvW6xvcsBi8Pb-07A_x_AR3-gSWdAFJxMMN-QyXm&s",
+      "width": "283",
+      "height": "178"
+     }
+    ],
+    "Item": [
+     {
+      "num_replies": "0",
+      "title": "DC DMV REAL ID Driver License",
+      "encoded": "The DC DMV REAL ID driver license complies with federal laws and efforts to improve the reliability and accuracy of state driver and identification cards. The REAL ID driver license is not..."
+     }
+    ],
+    "metatags": [
+     {
+      "twitter:card": "summary",
+      "twitter:title": "DC DMV REAL ID Driver License",
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=2, minimum-scale=1, user-scalable=yes",
+      "twitter:url": "https://dmv.dc.gov/service/dc-dmv-real-id-driver-license",
+      "twitter:description": "DC DMV REAL ID Driver License requirements."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/DL_CardSample_Website.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DC DMV Limited Purpose Driver License | dmv",
+   "htmlTitle": "DC DMV Limited Purpose Driver License | dmv",
+   "link": "https://dmv.dc.gov/service/limited-purpose-driver-license",
+   "displayLink": "dmv.dc.gov",
+   "snippet": "The DC DMV Limited Purpose driver license cannot be used as a federal identification or for federal identification card purposes. It is valid for 8 years\u00a0...",
+   "htmlSnippet": "The DC DMV Limited Purpose driver license cannot be used as a federal identification or for federal <b>identification card</b> purposes. It is valid for 8 years&nbsp;...",
+   "formattedUrl": "https://dmv.dc.gov/service/limited-purpose-driver-license",
+   "htmlFormattedUrl": "https://dmv.dc.gov/service/limited-purpose-driver-license",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPCxFscvM3VfxcIgnevBe6r0aOHo6xUfBO9LM_RVJ2e7iW4F9AEN7Fg3A&s",
+      "width": "199",
+      "height": "150"
+     }
+    ],
+    "Item": [
+     {
+      "num_replies": "0",
+      "title": "DC DMV Limited Purpose Driver License",
+      "encoded": "The DC DMV Limited Purpose driver license allows District residents who cannot provide a Social Security number to drive legally. To be eligible for a DC DMV Limited Purpose driver license,..."
+     }
+    ],
+    "metatags": [
+     {
+      "twitter:card": "summary",
+      "twitter:title": "DC DMV Limited Purpose Driver License",
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=2, minimum-scale=1, user-scalable=yes",
+      "twitter:url": "https://dmv.dc.gov/service/limited-purpose-driver-license",
+      "twitter:description": "How to obtain a DC DMV Limited Purpose Driver License."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.dc.gov/sites/default/files/styles/callout_interior_graphic/public/dc/sites/dmv/agency_content/images/dc-dmv-logo.png?itok=YW_xd0ro"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver License for Non-US Citizens | dmv",
+   "htmlTitle": "Driver License for Non-US Citizens | dmv",
+   "link": "https://dmv.dc.gov/service/driver-license-for-non-us-citizens",
+   "displayLink": "dmv.dc.gov",
+   "snippet": "A non-US citizen with an USCIS Notice of Action, Form I-797, may be issued a temporary DC DMV driver license or identification card for the duration of\u00a0...",
+   "htmlSnippet": "A non-US citizen with an USCIS Notice of Action, Form I-797, may be issued a temporary DC DMV driver license or <b>identification card</b> for the duration of&nbsp;...",
+   "formattedUrl": "https://dmv.dc.gov/service/driver-license-for-non-us-citizens",
+   "htmlFormattedUrl": "https://dmv.dc.gov/service/driver-license-for-non-us-citizens",
+   "pagemap": {
+    "Item": [
+     {
+      "num_replies": "0",
+      "title": "Driver License for Non-US Citizens",
+      "encoded": "If you are not a US citizen, you may be eligible to obtain a DC DMV driver license if you meet the requirements for REAL ID proof of identity, social security, current DC residency, and legal..."
+     }
+    ],
+    "metatags": [
+     {
+      "twitter:card": "summary",
+      "twitter:title": "Driver License for Non-US Citizens",
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=2, minimum-scale=1, user-scalable=yes",
+      "twitter:url": "https://dmv.dc.gov/service/driver-license-for-non-us-citizens",
+      "twitter:description": "How non-Citizens may obtain a DC DMV driver license."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Renew a Non-Driver ID Card | dmv",
+   "htmlTitle": "Renew a Non-Driver ID Card | dmv",
+   "link": "https://dmv.dc.gov/service/renew-a-non-driver-id-card",
+   "displayLink": "dmv.dc.gov",
+   "snippet": "If you currently have a DC DMV non-driver identification that is up for renewal, you will renew it as either a REAL ID or a Limited Purpose identification card.",
+   "htmlSnippet": "If you currently have a DC DMV non-driver identification that is up for renewal, you will renew it as either a REAL ID or a Limited Purpose <b>identification card</b>.",
+   "formattedUrl": "https://dmv.dc.gov/service/renew-a-non-driver-id-card",
+   "htmlFormattedUrl": "https://dmv.dc.gov/service/renew-a-non-driver-id-card",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5OiV7Fy3SgGx6gUdIC98A4Bh518Cqxj-UaaBo23HAloPQEsr_xHykJsFs&s",
+      "width": "206",
+      "height": "155"
+     }
+    ],
+    "Item": [
+     {
+      "num_replies": "0",
+      "title": "Renew a Non-Driver ID Card",
+      "encoded": "If you currently have a DC DMV non-driver identification that is up for renewal, you will renew it as either a REAL ID or a Limited Purpose identification card. You do not have to update your..."
+     }
+    ],
+    "metatags": [
+     {
+      "twitter:card": "summary",
+      "twitter:title": "Renew a Non-Driver ID Card",
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=2, minimum-scale=1, user-scalable=yes",
+      "twitter:url": "https://dmv.dc.gov/service/renew-a-non-driver-id-card",
+      "twitter:description": "How to renew a Non-Driver ID Card."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.dc.gov/sites/default/files/dc/sites/dmv/Skip-the-Trip-206x155.gif"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Obtain a REAL ID Non-Driver Identification Card | dmv",
+   "htmlTitle": "Obtain a REAL ID Non-Driver <b>Identification Card</b> | dmv",
+   "link": "https://dmv.dc.gov/service/obtain-a-real-id-non-driver-identification-card",
+   "displayLink": "dmv.dc.gov",
+   "snippet": "The DC DMV issues a federally compliant driver license and identification card which is called \u201cREAL ID\u201d. Therefore, you need to find out what documents to\u00a0...",
+   "htmlSnippet": "The DC DMV issues a federally compliant driver license and <b>identification card</b> which is called \u201cREAL ID\u201d. Therefore, you need to find out what documents to&nbsp;...",
+   "formattedUrl": "https://dmv.dc.gov/service/obtain-a-real-id-non-driver-identification-card",
+   "htmlFormattedUrl": "https://dmv.dc.gov/service/obtain-a-real-id-non-driver-<b>identification-card</b>",
+   "pagemap": {
+    "Item": [
+     {
+      "num_replies": "0",
+      "title": "Obtain a REAL ID Non-Driver Identification Card",
+      "encoded": "The DC DMV issues a federally compliant driver license and identification card which is called \u201cREAL ID\u201d. Therefore, you need to find out what documents to COLLECT and BRING with you so..."
+     }
+    ],
+    "metatags": [
+     {
+      "twitter:card": "summary",
+      "twitter:title": "Obtain a REAL ID Non-Driver Identification Card",
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=2, minimum-scale=1, user-scalable=yes",
+      "twitter:url": "https://dmv.dc.gov/service/obtain-a-real-id-non-driver-identification-card",
+      "twitter:description": "How to obtain a REAL ID Non-Driver Identification Card."
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,383 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://azdot.gov/mvd \"driver's license\" OR \"identification card\"",
+    "totalResults": "56",
+    "searchTerms": "site:https://azdot.gov/mvd \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://azdot.gov/mvd \"driver's license\" OR \"identification card\"",
+    "totalResults": "56",
+    "searchTerms": "site:https://azdot.gov/mvd \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.10486,
+  "formattedSearchTime": "0.10",
+  "totalResults": "56",
+  "formattedTotalResults": "56"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Identification (ID) Card | Department of Transportation",
+   "htmlTitle": "Identification (ID) Card | Department of Transportation",
+   "link": "https://azdot.gov/mvd/services/driver-services/driver-license-information/identification-id-card",
+   "displayLink": "azdot.gov",
+   "snippet": "The identification card is available to all ages (including infants). Persons 65 or older can obtain the card free of charge.",
+   "htmlSnippet": "The <b>identification card</b> is available to all ages (including infants). Persons 65 or older can obtain the card free of charge.",
+   "formattedUrl": "https://azdot.gov/mvd/services/driver-services/.../identification-id-card",
+   "htmlFormattedUrl": "https://azdot.gov/mvd/services/driver-services/.../identification-id-card",
+   "pagemap": {
+    "WebPage": [
+     {
+      "name": "Identification (ID) Card",
+      "text": "The identification card is available to all ages (including infants). Persons 65 or older can obtain the card free of charge. In addition, those receiving Federal Supplemental Security Income..."
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Change Your Address or Name | Department of Transportation",
+   "htmlTitle": "Change Your Address or Name | Department of Transportation",
+   "link": "https://azdot.gov/mvd/services/driver-services/driver-license-information/change-your-address-or-name",
+   "displayLink": "azdot.gov",
+   "snippet": "Arizona law requires all driver license and identification card holders to report any change of address to MVD within 10 days. Change your address online at\u00a0...",
+   "htmlSnippet": "Arizona law requires all driver license and <b>identification card</b> holders to report any change of address to MVD within 10 days. Change your address online at&nbsp;...",
+   "formattedUrl": "https://azdot.gov/mvd/services/driver.../change-your-address-or-name",
+   "htmlFormattedUrl": "https://azdot.gov/mvd/services/driver.../change-your-address-or-name",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvxAnW3S0srbbkR8heV19QbhkgiwCHGjcClrGvpCrelFKIYc0DzGAq8w&s",
+      "width": "150",
+      "height": "113"
+     }
+    ],
+    "WebPage": [
+     {
+      "name": "Change Your Address or Name",
+      "text": "Change Your Address Arizona law requires all driver license and identification card holders to report any change of address to MVD within 10 days. Change your address online at AZMVDNow.gov..."
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://azdot.gov/sites/default/files/azmvdnow-Logo-navy-orange.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Foreign Applicants | Department of Transportation",
+   "htmlTitle": "Foreign Applicants | Department of Transportation",
+   "link": "https://azdot.gov/mvd/services/driver-services/driver-license-information/foreign-applicants",
+   "displayLink": "azdot.gov",
+   "snippet": "This documentation may include: Employment Authorization Card; USCIS form I-94; Permanent Resident. Your Driver License or Identification Card expiration date\u00a0...",
+   "htmlSnippet": "This documentation may include: Employment Authorization Card; USCIS form I-94; Permanent Resident. Your Driver License or <b>Identification Card</b> expiration date&nbsp;...",
+   "formattedUrl": "https://azdot.gov/mvd/services/driver-services/driver.../foreign-applicants",
+   "htmlFormattedUrl": "https://azdot.gov/mvd/services/driver-services/driver.../foreign-applicants",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA48sywEG5GYeenEL9LwTCvFYM7KO2CR5LQlWoC2mLdVjKbvpqcbyGZm4&s",
+      "width": "282",
+      "height": "179"
+     }
+    ],
+    "WebPage": [
+     {
+      "name": "Foreign Applicants",
+      "text": "Complete your Application Gather identification documents (Bring them with you to MVD). This documentation may include: Employment Authorization Card USCIS form I-94 Permanent Resident Your..."
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://azdot.gov/sites/default/files/2019/07/eac-card-c33.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MVD | Department of Transportation",
+   "htmlTitle": "MVD | Department of Transportation",
+   "link": "https://azdot.gov/mvd",
+   "displayLink": "azdot.gov",
+   "snippet": "Jul 7, 2025 ... Digital IDs. Securely add your Arizona Driver's License or Identification card to your phone's digital wallet, including Apple Wallet, Google\u00a0...",
+   "htmlSnippet": "Jul 7, 2025 <b>...</b> Digital IDs. Securely add your Arizona <b>Driver&#39;s License</b> or <b>Identification card</b> to your phone&#39;s digital wallet, including Apple Wallet, Google&nbsp;...",
+   "formattedUrl": "https://azdot.gov/mvd",
+   "htmlFormattedUrl": "https://azdot.gov/mvd",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXJUJbKRPjmXzm6xHvxxanqKxoedMQh4-I5J9tcoIMC8tXwwByV7PmetI&s",
+      "width": "379",
+      "height": "133"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://azdot.gov/sites/default/files/2023-03/MVD-locations-map2-1.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Obtaining a Driver License | Department of Transportation",
+   "htmlTitle": "Obtaining a Driver License | Department of Transportation",
+   "link": "https://azdot.gov/mvd/services/new-az/obtaining-driver-license",
+   "displayLink": "azdot.gov",
+   "snippet": "Arizona law requires that you submit proof that your presence in the United States is authorized under federal law. Driver License, Identification Card\u00a0...",
+   "htmlSnippet": "Arizona law requires that you submit proof that your presence in the United States is authorized under federal law. Driver License, <b>Identification Card</b>&nbsp;...",
+   "formattedUrl": "https://azdot.gov/mvd/services/new-az/obtaining-driver-license",
+   "htmlFormattedUrl": "https://azdot.gov/mvd/services/new-az/obtaining-driver-license",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLjmnyJhFPuBrjpG8g0Brcb5UDmTmbFeaE9NKDFpSwoeoLfWYPf9-fPIs&s",
+      "width": "284",
+      "height": "177"
+     }
+    ],
+    "WebPage": [
+     {
+      "name": "Obtaining a Driver License",
+      "text": "The Arizona Travel ID is Here More Information Types of Licenses MVD offers several types of licenses. Where To Go MVD Offices Authorized Third Parties \u2013 These are privately operated businesses..."
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://azdot.gov/sites/default/files/2023-03/AZ-DLO21_Front_Small.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arizona Travel ID | Department of Transportation",
+   "htmlTitle": "Arizona Travel ID | Department of Transportation",
+   "link": "https://azdot.gov/mvd/services/driver-services/arizona-travel-id",
+   "displayLink": "azdot.gov",
+   "snippet": "The Arizona Travel ID is the credential that complies with federal REAL ID mandates and is available as both a Driver License and Identification Card.",
+   "htmlSnippet": "The Arizona Travel ID is the credential that complies with federal REAL ID mandates and is available as both a Driver License and <b>Identification Card</b>.",
+   "formattedUrl": "https://azdot.gov/mvd/services/driver-services/arizona-travel-id",
+   "htmlFormattedUrl": "https://azdot.gov/mvd/services/driver-services/arizona-travel-id",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP-7YYuo-csVhScP4vHtynkFpFthQi3NWmt_eilOkjRT0AIPxhJ67N-pAi&s",
+      "width": "332",
+      "height": "152"
+     }
+    ],
+    "WebPage": [
+     {
+      "name": "Arizona Travel ID",
+      "text": "Apply Now on AZMVDNow.gov The Arizona Travel ID is the credential that complies with federal REAL ID mandates and is available as both a Driver License and Identification Card. The circle with..."
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://azdot.gov/sites/default/files/2025-04/tid-driver-license-gold-star-popout.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver License Classes and Types | Department of Transportation",
+   "htmlTitle": "Driver License Classes and Types | Department of Transportation",
+   "link": "https://azdot.gov/mvd/services/driver-services/driver-license-classes-and-types",
+   "displayLink": "azdot.gov",
+   "snippet": "The Arizona Travel ID is the credential that complies with the federal REAL ID Act of 2005. It's available as both a driver license and identification card.",
+   "htmlSnippet": "The Arizona Travel ID is the credential that complies with the federal REAL ID Act of 2005. It&#39;s available as both a driver license and <b>identification card</b>.",
+   "formattedUrl": "https://azdot.gov/mvd/services/driver.../driver-license-classes-and-types",
+   "htmlFormattedUrl": "https://azdot.gov/mvd/services/driver.../driver-license-classes-and-types",
+   "pagemap": {
+    "WebPage": [
+     {
+      "name": "Driver License Classes and Types",
+      "text": "Driver License Classes Licenses are issued by \u201cclass\u201d: G for graduated, D for operator, M for motorcycle, and A, B, C for commercial. If the Class M license is combined with any other class..."
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Teen Driver Guide to Class G Permit and License | Department of ...",
+   "htmlTitle": "Teen Driver Guide to Class G Permit and License | Department of ...",
+   "link": "https://azdot.gov/mvd/services/driver-services/teen-drivers/permit-and-license-requirements",
+   "displayLink": "azdot.gov",
+   "snippet": "Once you obtain your permit, you must hold it for 6 months or until you turn 18 before being eligible to obtain your driver's license. ... identification card, or\u00a0...",
+   "htmlSnippet": "Once you obtain your permit, you must hold it for 6 months or until you turn 18 before being eligible to obtain your <b>driver&#39;s license</b>. ... <b>identification card</b>, or&nbsp;...",
+   "formattedUrl": "https://azdot.gov/mvd/services/driver.../permit-and-license-requirements",
+   "htmlFormattedUrl": "https://azdot.gov/mvd/services/driver.../permit-and-license-requirements",
+   "pagemap": {
+    "WebPage": [
+     {
+      "name": "Teen Driver Guide to Class G Permit and License",
+      "text": "Ready to start driving? We\u2019re here to help guide you! You can start the process to get your license at 15 and 6 months old by applying for a Graduated Instruction Permit (Class G Permit)...."
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Veteran Designation | Department of Transportation",
+   "htmlTitle": "Veteran Designation | Department of Transportation",
+   "link": "https://azdot.gov/mvd/services/driver-services/veteran-designation",
+   "displayLink": "azdot.gov",
+   "snippet": "A Veteran Designation on an Arizona driver license, instruction permit or identification card is available to US military veterans or active duty service\u00a0...",
+   "htmlSnippet": "A Veteran Designation on an Arizona driver license, instruction permit or <b>identification card</b> is available to US military veterans or active duty service&nbsp;...",
+   "formattedUrl": "https://azdot.gov/mvd/services/driver-services/veteran-designation",
+   "htmlFormattedUrl": "https://azdot.gov/mvd/services/driver-services/veteran-designation",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvJgZYcCYojd_MtCxHjs8gH3Vj-mm5MJcphF4fZTZE8gntIJjWBcP9dW4&s",
+      "width": "310",
+      "height": "162"
+     }
+    ],
+    "WebPage": [
+     {
+      "name": "Veteran Designation",
+      "text": "A Veteran Designation on an Arizona driver license, instruction permit or identification card is available to U.S. military veterans or active duty service members. The \"VETERAN\" designation..."
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://azdot.gov/sites/default/files/2023-07/driver-license-veteran-sticker.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver Services | Department of Transportation",
+   "htmlTitle": "Driver Services | Department of Transportation",
+   "link": "https://azdot.gov/mvd/services/driver-services",
+   "displayLink": "azdot.gov",
+   "snippet": "To apply for a motorcycle license, you will need to complete a Driver License / Identification Card Application. LEARN MORE\u00a0...",
+   "htmlSnippet": "To apply for a motorcycle license, you will need to complete a Driver License / <b>Identification Card</b> Application. LEARN MORE&nbsp;...",
+   "formattedUrl": "https://azdot.gov/mvd/services/driver-services",
+   "htmlFormattedUrl": "https://azdot.gov/mvd/services/driver-services",
+   "pagemap": {
+    "WebPage": [
+     {
+      "text": "The written test for a regular driver license consists of 30 multiple-choice questions."
+     },
+     {
+      "text": "The Arizona Travel Driver License is accepted at airport security checkpoints and federal facilities."
+     },
+     {
+      "text": "Apply for a Travel ID Current Arizona residents: Visit AZ MVD Now."
+     },
+     {
+      "text": "Arizona Digital ID for Apple Wallet, Google Wallet and Arizona Mobile ID."
+     },
+     {
+      "text": "This page contains information on testing times, locations and contact information for CDL activities throughout the state."
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  }
+ ]
+}

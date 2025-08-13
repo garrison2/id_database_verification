@@ -1,0 +1,500 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://dds.georgia.gov/ \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"  \"privacy policy\" OR \"privacy notice\" OR \"privacy statement\" OR \"terms of service\" OR \"terms and conditions\"",
+    "totalResults": "89",
+    "searchTerms": "site:https://dds.georgia.gov/ \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"  \"privacy policy\" OR \"privacy notice\" OR \"privacy statement\" OR \"terms of service\" OR \"terms and conditions\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://dds.georgia.gov/ \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"  \"privacy policy\" OR \"privacy notice\" OR \"privacy statement\" OR \"terms of service\" OR \"terms and conditions\"",
+    "totalResults": "89",
+    "searchTerms": "site:https://dds.georgia.gov/ \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"  \"privacy policy\" OR \"privacy notice\" OR \"privacy statement\" OR \"terms of service\" OR \"terms and conditions\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.140607,
+  "formattedSearchTime": "0.14",
+  "totalResults": "89",
+  "formattedTotalResults": "89"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Digital ID in Google Wallet Frequently Asked Questions (FAQs ...",
+   "htmlTitle": "<b>Digital ID</b> in Google Wallet Frequently Asked Questions (FAQs ...",
+   "link": "https://dds.georgia.gov/digital-id-google-wallet-frequently-asked-questions-faqs-terms-and-conditions",
+   "displayLink": "dds.georgia.gov",
+   "snippet": "Digital ID in Google Wallet Frequently Asked Questions (FAQs) & Terms and Conditions. 1. What is Georgia Digital Driver's License and ID in Wallet?",
+   "htmlSnippet": "<b>Digital ID</b> in Google Wallet Frequently Asked Questions (FAQs) &amp; <b>Terms and Conditions</b>. 1. What is Georgia <b>Digital Driver&#39;s License</b> and ID in Wallet?",
+   "formattedUrl": "https://dds.georgia.gov/digital-id-google-wallet-frequently-asked-questions-...",
+   "htmlFormattedUrl": "https://dds.georgia.gov/<b>digital-id</b>-google-wallet-frequently-asked-questions-...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcHMDQGJKWYJoTADqCjGRbWZH4Bfp-WrnxenByqI-NT2yj0rgn6l2eHx7C&s",
+      "width": "310",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffc40d",
+      "og:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "og:image:width": "1201",
+      "twitter:card": "summary",
+      "twitter:title": "Digital ID in Google Wallet Frequently Asked Questions (FAQs) & Terms and Conditions",
+      "theme-color": "#ffffff",
+      "og:site_name": "Georgia Department of Driver Services",
+      "handheldfriendly": "true",
+      "og:title": "Digital ID in Google Wallet Frequently Asked Questions (FAQs) & Terms and Conditions",
+      "og:image:height": "629",
+      "twitter:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "twitter:site": "@georgiadds",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width",
+      "og:url": "https://dds.georgia.gov/digital-id-google-wallet-frequently-asked-questions-faqs-terms-and-conditions",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Georgia Digital ID Terms and Conditions These Terms and ...",
+   "htmlTitle": "Georgia <b>Digital ID Terms and Conditions</b> These <b>Terms and</b> ...",
+   "link": "https://dds.georgia.gov/document/publication/mdl-tems-and-conditions-pdf/download",
+   "displayLink": "dds.georgia.gov",
+   "snippet": "Georgia Digital ID Terms and Conditions. These Terms and Conditions apply ... privacy policy provided to you by. Page 3. the Digital Wallet provider. For\u00a0...",
+   "htmlSnippet": "Georgia <b>Digital ID Terms and Conditions</b>. These <b>Terms and Conditions</b> apply ... <b>privacy policy</b> provided to you by. Page 3. the Digital Wallet provider. For&nbsp;...",
+   "formattedUrl": "https://dds.georgia.gov/document/publication/mdl-tems-and.../download",
+   "htmlFormattedUrl": "https://dds.georgia.gov/document/publication/<b>mdl</b>-tems-and.../download",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGMQuFjDwE3dcAfZpudVMZBVODIbBzEVEFqUQ2d84QX5F6IP5-LjXMAVbT&s",
+      "width": "228",
+      "height": "221"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20240812134629-04'00'",
+      "creator": "Microsoft\u00ae Word for Microsoft 365",
+      "creationdate": "D:20240812134629-04'00'",
+      "producer": "Microsoft\u00ae Word for Microsoft 365"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///e794d2bb27dd6c7ca87eaa89f7409af110f61221fd05731c6b992a62794346bc"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "GA Digital ID | Georgia Department of Driver Services",
+   "htmlTitle": "GA <b>Digital ID</b> | Georgia Department of Driver Services",
+   "link": "https://dds.georgia.gov/georgia-licenseid/ga-digital-id",
+   "displayLink": "dds.georgia.gov",
+   "snippet": "GA Digital ID \u00b7 Georgia Digital Driver's License and ID \u00b7 Available On Apple and Android Devices \u00b7 mDL Introduction \u00b7 Apple Wallet \u00b7 Google Wallet \u00b7 Samsung Wallet.",
+   "htmlSnippet": "GA <b>Digital ID</b> &middot; Georgia <b>Digital Driver&#39;s License</b> and ID &middot; Available On Apple and Android Devices &middot; <b>mDL</b> Introduction &middot; Apple Wallet &middot; Google Wallet &middot; Samsung Wallet.",
+   "formattedUrl": "https://dds.georgia.gov/georgia-licenseid/ga-digital-id",
+   "htmlFormattedUrl": "https://dds.georgia.gov/georgia-licenseid/ga-<b>digital-id</b>",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcHMDQGJKWYJoTADqCjGRbWZH4Bfp-WrnxenByqI-NT2yj0rgn6l2eHx7C&s",
+      "width": "310",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffc40d",
+      "og:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "og:image:width": "1201",
+      "twitter:card": "summary",
+      "twitter:title": "GA Digital ID",
+      "theme-color": "#ffffff",
+      "og:site_name": "Georgia Department of Driver Services",
+      "handheldfriendly": "true",
+      "og:title": "GA Digital ID",
+      "og:image:height": "629",
+      "og:description": "Introducing Georgia Digital Driver's License and ID on both Apple and Android platforms.",
+      "twitter:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "twitter:site": "@georgiadds",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Introducing Georgia Digital Driver's License and ID on both Apple and Android platforms.",
+      "mobileoptimized": "width",
+      "og:url": "https://dds.georgia.gov/georgia-licenseid/ga-digital-id",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "mDL FAQs | Georgia Department of Driver Services",
+   "htmlTitle": "<b>mDL</b> FAQs | Georgia Department of Driver Services",
+   "link": "https://dds.georgia.gov/mdl-faqs",
+   "displayLink": "dds.georgia.gov",
+   "snippet": "GA Digital Driver's License for iPhone & Apple Watch FAQs: What is Georgia Digital ID on iPhone and Apple Watch? What do I need to use the Georgia Digital ID\u00a0...",
+   "htmlSnippet": "GA <b>Digital Driver&#39;s License</b> for iPhone &amp; Apple Watch FAQs: What is Georgia <b>Digital ID</b> on iPhone and Apple Watch? What do I need to use the Georgia <b>Digital ID</b>&nbsp;...",
+   "formattedUrl": "https://dds.georgia.gov/mdl-faqs",
+   "htmlFormattedUrl": "https://dds.georgia.gov/<b>mdl</b>-faqs",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcHMDQGJKWYJoTADqCjGRbWZH4Bfp-WrnxenByqI-NT2yj0rgn6l2eHx7C&s",
+      "width": "310",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffc40d",
+      "og:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "og:image:width": "1201",
+      "twitter:card": "summary",
+      "twitter:title": "GA Digital Driver's License for iPhone & Apple Watch FAQs",
+      "theme-color": "#ffffff",
+      "og:site_name": "Georgia Department of Driver Services",
+      "handheldfriendly": "true",
+      "og:title": "GA Digital Driver's License for iPhone & Apple Watch FAQs",
+      "og:image:height": "629",
+      "twitter:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "twitter:site": "@georgiadds",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width",
+      "og:url": "https://dds.georgia.gov/mdl-faqs",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "digital id google wallet | Georgia Department of Driver Services",
+   "htmlTitle": "<b>digital id</b> google wallet | Georgia Department of Driver Services",
+   "link": "https://dds.georgia.gov/georgia-licenseid/ga-digital-id/digital-id-google-wallet",
+   "displayLink": "dds.georgia.gov",
+   "snippet": "Terms & Conditions and IACA Root Certificate. View Terms and Conditions. The ... DDS Privacy Statement \u00b7 Accessibility Resources \u00b7 Press Releases \u00b7 DDS Reports\u00a0...",
+   "htmlSnippet": "Terms &amp; Conditions and IACA Root Certificate. View <b>Terms and Conditions</b>. The ... DDS <b>Privacy Statement</b> &middot; Accessibility Resources &middot; Press Releases &middot; DDS Reports&nbsp;...",
+   "formattedUrl": "https://dds.georgia.gov/georgia-licenseid/...digital-id/digital-id-google-walle...",
+   "htmlFormattedUrl": "https://dds.georgia.gov/georgia-licenseid/...<b>digital-id</b>/<b>digital-id</b>-google-walle...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcHMDQGJKWYJoTADqCjGRbWZH4Bfp-WrnxenByqI-NT2yj0rgn6l2eHx7C&s",
+      "width": "310",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffc40d",
+      "og:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "og:image:width": "1201",
+      "twitter:card": "summary",
+      "twitter:title": "Digital Driver's License and ID in Google Wallet",
+      "theme-color": "#ffffff",
+      "og:site_name": "Georgia Department of Driver Services",
+      "handheldfriendly": "true",
+      "og:title": "Digital Driver's License and ID in Google Wallet",
+      "og:image:height": "629",
+      "og:description": "Georgia Digital Driver's License and ID in Google Wallet.",
+      "twitter:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "twitter:site": "@georgiadds",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Georgia Digital Driver's License and ID in Google Wallet.",
+      "mobileoptimized": "width",
+      "og:url": "https://dds.georgia.gov/georgia-licenseid/ga-digital-id/digital-id-google-wallet",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "GA Digital Driver's License and ID | Georgia Department of Driver ...",
+   "htmlTitle": "GA <b>Digital Driver&#39;s License</b> and ID | Georgia Department of Driver ...",
+   "link": "https://dds.georgia.gov/georgia-licenseid/ga-digital-id/ga-digital-drivers-license-and-id",
+   "displayLink": "dds.georgia.gov",
+   "snippet": "Terms & Conditions and IACA Root Certificate. View Terms and Conditions The ... DDS Privacy Statement \u00b7 Accessibility Resources \u00b7 Press Releases \u00b7 DDS Reports\u00a0...",
+   "htmlSnippet": "Terms &amp; Conditions and IACA Root Certificate. View <b>Terms and Conditions</b> The ... DDS <b>Privacy Statement</b> &middot; Accessibility Resources &middot; Press Releases &middot; DDS Reports&nbsp;...",
+   "formattedUrl": "https://dds.georgia.gov/georgia...digital-id/ga-digital-drivers-license-and-id",
+   "htmlFormattedUrl": "https://dds.georgia.gov/georgia...<b>digital-id</b>/ga-<b>digital-drivers-license</b>-and-id",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcHMDQGJKWYJoTADqCjGRbWZH4Bfp-WrnxenByqI-NT2yj0rgn6l2eHx7C&s",
+      "width": "310",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffc40d",
+      "og:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "og:image:width": "1201",
+      "twitter:card": "summary",
+      "twitter:title": "GA Digital Driver's License and ID",
+      "theme-color": "#ffffff",
+      "og:site_name": "Georgia Department of Driver Services",
+      "handheldfriendly": "true",
+      "og:title": "GA Digital Driver's License and ID",
+      "og:image:height": "629",
+      "og:description": "What is Georgia ID on iPhone and Apple Watch?Georgia ID on iPhone and Apple Watch is a voluntary, secure, digitized version of your Georgia-issued driver's license (DL) or identification card (ID) available in the Apple Wallet app on your iPhone and Apple Watch.",
+      "twitter:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "twitter:site": "@georgiadds",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "What is Georgia ID on iPhone and Apple Watch?Georgia ID on iPhone and Apple Watch is a voluntary, secure, digitized version of your Georgia-issued driver's license (DL) or identification card (ID) available in the Apple Wallet app on your iPhone and Apple Watch.",
+      "mobileoptimized": "width",
+      "og:url": "https://dds.georgia.gov/georgia-licenseid/ga-digital-id/ga-digital-drivers-license-and-id",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "digital id samsung wallet | Georgia Department of Driver Services",
+   "htmlTitle": "<b>digital id</b> samsung wallet | Georgia Department of Driver Services",
+   "link": "https://dds.georgia.gov/georgia-licenseid/ga-digital-id/digital-id-samsung-wallet",
+   "displayLink": "dds.georgia.gov",
+   "snippet": "Georgia Digital Driver's License and ID in Samsung Wallet ... DDS Privacy Statement \u00b7 Accessibility Resources \u00b7 Press Releases \u00b7 DDS Reports\u00a0...",
+   "htmlSnippet": "Georgia <b>Digital Driver&#39;s License</b> and ID in Samsung Wallet ... DDS <b>Privacy Statement</b> &middot; Accessibility Resources &middot; Press Releases &middot; DDS Reports&nbsp;...",
+   "formattedUrl": "https://dds.georgia.gov/georgia.../ga-digital-id/digital-id-samsung-wallet",
+   "htmlFormattedUrl": "https://dds.georgia.gov/georgia.../ga-<b>digital-id</b>/<b>digital-id</b>-samsung-wallet",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcHMDQGJKWYJoTADqCjGRbWZH4Bfp-WrnxenByqI-NT2yj0rgn6l2eHx7C&s",
+      "width": "310",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffc40d",
+      "og:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "og:image:width": "1201",
+      "twitter:card": "summary",
+      "twitter:title": "Georgia Digital License and ID in Samsung Wallet",
+      "theme-color": "#ffffff",
+      "og:site_name": "Georgia Department of Driver Services",
+      "handheldfriendly": "true",
+      "og:title": "Georgia Digital License and ID in Samsung Wallet",
+      "og:image:height": "629",
+      "og:description": "Georgia Digital Driver's License and ID in Samsung Wallet.",
+      "twitter:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "twitter:site": "@georgiadds",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Georgia Digital Driver's License and ID in Samsung Wallet.",
+      "mobileoptimized": "width",
+      "og:url": "https://dds.georgia.gov/georgia-licenseid/ga-digital-id/digital-id-samsung-wallet",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Georgia Expands Digital Driver's License and ID Program to Include ...",
+   "htmlTitle": "Georgia Expands <b>Digital Driver&#39;s License</b> and ID Program to Include ...",
+   "link": "https://dds.georgia.gov/press-releases/2024-10-31/georgia-expands-digital-drivers-license-and-id-program-include-samsung",
+   "displayLink": "dds.georgia.gov",
+   "snippet": "Oct 31, 2024 ... The Georgia Department of Driver Services (DDS) is excited to announce the expansion of its Digital Driver's License and ID Program to\u00a0...",
+   "htmlSnippet": "Oct 31, 2024 <b>...</b> The Georgia Department of Driver Services (DDS) is excited to announce the expansion of its <b>Digital Driver&#39;s License</b> and ID Program to&nbsp;...",
+   "formattedUrl": "https://dds.georgia.gov/.../georgia-expands-digital-drivers-license-and-id-pr...",
+   "htmlFormattedUrl": "https://dds.georgia.gov/.../georgia-expands-<b>digital-drivers-license</b>-and-id-pr...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcHMDQGJKWYJoTADqCjGRbWZH4Bfp-WrnxenByqI-NT2yj0rgn6l2eHx7C&s",
+      "width": "310",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffc40d",
+      "og:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "og:image:width": "1201",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Georgia Expands Digital Driver's License and ID Program to Include Samsung Wallet",
+      "theme-color": "#ffffff",
+      "og:site_name": "Georgia Department of Driver Services",
+      "handheldfriendly": "true",
+      "og:title": "Georgia Expands Digital Driver's License and ID Program to Include Samsung Wallet",
+      "og:image:height": "629",
+      "og:description": "The Georgia Department of Driver Services (DDS) is excited to announce the expansion of its Digital Driver's License and ID Program to include Samsung Wallet. This enhancement provides Georgia residents who have a Samsung Galaxy with a secure, convenient, and innovative way to manage their identification documents.",
+      "twitter:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "twitter:site": "@georgiadds",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "The Georgia Department of Driver Services (DDS) is excited to announce the expansion of its Digital Driver's License and ID Program to include Samsung Wallet. This enhancement provides Georgia residents who have a Samsung Galaxy with a secure, convenient, and innovative way to manage their identification documents.",
+      "mobileoptimized": "width",
+      "og:url": "https://dds.georgia.gov/press-releases/2024-10-31/georgia-expands-digital-drivers-license-and-id-program-include-samsung",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Georgia Digital Driver's License and ID For Holiday Air Travel ...",
+   "htmlTitle": "Georgia <b>Digital Driver&#39;s License</b> and ID For Holiday Air Travel ...",
+   "link": "https://dds.georgia.gov/press-releases/2024-12-18/georgia-digital-drivers-license-and-id-holiday-air-travel",
+   "displayLink": "dds.georgia.gov",
+   "snippet": "Dec 18, 2024 ... Your Georgia Digital Driver's License and ID (mobile driver's license) ... DDS Privacy Statement \u00b7 Accessibility Resources \u00b7 Press Releases \u00b7 DDS\u00a0...",
+   "htmlSnippet": "Dec 18, 2024 <b>...</b> Your Georgia <b>Digital Driver&#39;s License</b> and ID (<b>mobile driver&#39;s license</b>) ... DDS <b>Privacy Statement</b> &middot; Accessibility Resources &middot; Press Releases &middot; DDS&nbsp;...",
+   "formattedUrl": "https://dds.georgia.gov/.../georgia-digital-drivers-license-and-id-holiday-air...",
+   "htmlFormattedUrl": "https://dds.georgia.gov/.../georgia-<b>digital-drivers-license</b>-and-id-holiday-air...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcHMDQGJKWYJoTADqCjGRbWZH4Bfp-WrnxenByqI-NT2yj0rgn6l2eHx7C&s",
+      "width": "310",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffc40d",
+      "og:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "og:image:width": "1201",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Georgia Digital Driver\u2019s License and ID For Holiday Air Travel",
+      "theme-color": "#ffffff",
+      "og:site_name": "Georgia Department of Driver Services",
+      "handheldfriendly": "true",
+      "og:title": "Georgia Digital Driver\u2019s License and ID For Holiday Air Travel",
+      "og:image:height": "629",
+      "og:description": "If your holiday plans involve traveling through airports, remember to add your Georgia Digital Driver's License and ID to your Smartphone Wallet!",
+      "twitter:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "twitter:site": "@georgiadds",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "If your holiday plans involve traveling through airports, remember to add your Georgia Digital Driver's License and ID to your Smartphone Wallet!",
+      "mobileoptimized": "width",
+      "og:url": "https://dds.georgia.gov/press-releases/2024-12-18/georgia-digital-drivers-license-and-id-holiday-air-travel",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DDS Privacy Statement | Georgia Department of Driver Services",
+   "htmlTitle": "DDS <b>Privacy Statement</b> | Georgia Department of Driver Services",
+   "link": "https://dds.georgia.gov/organization/about-us/dds-privacy-statement",
+   "displayLink": "dds.georgia.gov",
+   "snippet": "Feb 17, 2025 ... DDS Privacy Statement. Our Mission at the Department of Driver ... Information related to Georgia Digital ID terms and conditions may\u00a0...",
+   "htmlSnippet": "Feb 17, 2025 <b>...</b> DDS <b>Privacy Statement</b>. Our Mission at the Department of Driver ... Information related to Georgia <b>Digital ID terms and conditions</b> may&nbsp;...",
+   "formattedUrl": "https://dds.georgia.gov/organization/about-us/dds-privacy-statement",
+   "htmlFormattedUrl": "https://dds.georgia.gov/organization/about-us/dds-<b>privacy-statement</b>",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcHMDQGJKWYJoTADqCjGRbWZH4Bfp-WrnxenByqI-NT2yj0rgn6l2eHx7C&s",
+      "width": "310",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffc40d",
+      "og:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "og:image:width": "1201",
+      "twitter:card": "summary",
+      "twitter:title": "DDS Privacy Statement",
+      "theme-color": "#ffffff",
+      "og:site_name": "Georgia Department of Driver Services",
+      "handheldfriendly": "true",
+      "og:title": "DDS Privacy Statement",
+      "og:image:height": "629",
+      "og:description": "Georgia DDS ensures secure driver and identity credentials, prioritizing customer privacy by safeguarding PII under federal and state laws, with strict guidelines for data release and robust security measures.",
+      "twitter:image": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+      "twitter:site": "@georgiadds",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Georgia DDS ensures secure driver and identity credentials, prioritizing customer privacy by safeguarding PII under federal and state laws, with strict guidelines for data release and robust security measures.",
+      "mobileoptimized": "width",
+      "og:url": "https://dds.georgia.gov/organization/about-us/dds-privacy-statement",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dds.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png"
+     }
+    ]
+   }
+  }
+ ]
+}

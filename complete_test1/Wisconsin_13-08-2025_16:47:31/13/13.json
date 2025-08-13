@@ -1,0 +1,121 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Wisconsin Statutes & Annotations\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\" -\"apply\" -\"application\"",
+    "totalResults": "2",
+    "searchTerms": "\"Wisconsin Statutes & Annotations\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\" -\"apply\" -\"application\"",
+    "count": 2,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.144732,
+  "formattedSearchTime": "0.14",
+  "totalResults": "2",
+  "formattedTotalResults": "2"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Mobs, Gangsters & Criminals, Historical Memorabilia, Collectibles ...",
+   "htmlTitle": "Mobs, Gangsters &amp; Criminals, Historical Memorabilia, Collectibles ...",
+   "link": "https://picclick.ca/Collectibles/Historical-Memorabilia/Mobs-Gangsters-Criminals/",
+   "displayLink": "picclick.ca",
+   "snippet": "Metal Sign for Bar, Man Cave, Garage - Sopranos Satriales Pork Store Approx. ... JOHNNY ADAMS Your Love Is All I Need/ Share Your Love With Me 45\u00a0...",
+   "htmlSnippet": "Metal Sign for Bar, Man Cave, Garage - Sopranos Satriales Pork <b>Store</b> Approx. ... JOHNNY ADAMS Your Love Is All I Need/ <b>Share</b> Your Love With Me 45&nbsp;...",
+   "formattedUrl": "https://picclick.ca/Collectibles/Historical.../Mobs-Gangsters-Criminals/",
+   "htmlFormattedUrl": "https://picclick.ca/Collectibles/Historical.../Mobs-Gangsters-Criminals/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzq_Bo68RWzttDYNK3QKbfPS1QJ4DcfLpFi7mXPzLQSSle80UbqxVAWf8&s",
+      "width": "194",
+      "height": "259"
+     }
+    ],
+    "metatags": [
+     {
+      "application-name": "PicClick CA",
+      "og:image": "/img/picclick-logo.png",
+      "twitter:card": "summary",
+      "twitter:title": "Mobs, Gangsters & Criminals, Historical Memorabilia, Collectibles",
+      "og:site_name": "PicClick CA",
+      "apple-mobile-web-app-title": "PicClick CA",
+      "og:title": "Mobs, Gangsters & Criminals, Historical Memorabilia, Collectibles",
+      "og:description": "Mobs, Gangsters & Criminals, Historical Memorabilia, Collectibles. Shop the Largest Selection, Click to See! Search eBay faster with PicClick. Money Back Guarantee ensures YOU receive the item you ordered or get your money back.",
+      "twitter:image": "/img/picclick-logo.png",
+      "msapplication-tap-highlight": "no",
+      "twitter:site": "@PicClick",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Mobs, Gangsters & Criminals, Historical Memorabilia, Collectibles. Shop the Largest Selection, Click to See! Search eBay faster with PicClick. Money Back Guarantee ensures YOU receive the item you ordered or get your money back.",
+      "og:url": "https://picclick.ca/Collectibles/Historical-Memorabilia/Mobs-Gangsters-Criminals/",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.picclickimg.com/gYMAAOSwLT9nQlR8/Set-Of-Wanted-Posters-Johnny-Rings-And-Jesse.webp"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mobs, Gangsters & Criminals, Historical Memorabilia, Collectibles ...",
+   "htmlTitle": "Mobs, Gangsters &amp; Criminals, Historical Memorabilia, Collectibles ...",
+   "link": "https://picclick.com/Collectibles/Historical-Memorabilia/Mobs-Gangsters-Criminals/",
+   "displayLink": "picclick.com",
+   "snippet": "Metal Sign for Bar, Man Cave, Garage - Sopranos Satriales Pork Store Approx. ... JOHNNY ADAMS Your Love Is All I Need/ Share Your Love With Me 45 JB's Cl To NM -\u00a0...",
+   "htmlSnippet": "Metal Sign for Bar, Man Cave, Garage - Sopranos Satriales Pork <b>Store</b> Approx. ... JOHNNY ADAMS Your Love Is All I Need/ <b>Share</b> Your Love With Me 45 JB&#39;s Cl To NM -&nbsp;...",
+   "formattedUrl": "https://picclick.com/Collectibles/Historical.../Mobs-Gangsters-Criminals/",
+   "htmlFormattedUrl": "https://picclick.com/Collectibles/Historical.../Mobs-Gangsters-Criminals/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThZy838FbaayeYutCIhca0ugcxER8TKUpygkWrLIEo2nK7S6DB_8K7Vw0&s",
+      "width": "179",
+      "height": "281"
+     }
+    ],
+    "metatags": [
+     {
+      "application-name": "PicClick",
+      "og:image": "/img/picclick-logo.png",
+      "twitter:card": "summary",
+      "twitter:title": "Mobs, Gangsters & Criminals, Historical Memorabilia, Collectibles",
+      "og:site_name": "PicClick",
+      "apple-mobile-web-app-title": "PicClick",
+      "og:title": "Mobs, Gangsters & Criminals, Historical Memorabilia, Collectibles",
+      "og:description": "Mobs, Gangsters & Criminals, Historical Memorabilia, Collectibles. Shop the Largest Selection, Click to See! Search eBay faster with PicClick. Money Back Guarantee ensures YOU receive the item you ordered or get your money back.",
+      "twitter:image": "/img/picclick-logo.png",
+      "msapplication-tap-highlight": "no",
+      "twitter:site": "@PicClick",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Mobs, Gangsters & Criminals, Historical Memorabilia, Collectibles. Shop the Largest Selection, Click to See! Search eBay faster with PicClick. Money Back Guarantee ensures YOU receive the item you ordered or get your money back.",
+      "og:url": "https://picclick.com/Collectibles/Historical-Memorabilia/Mobs-Gangsters-Criminals/",
+      "format-detection": "telephone=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.picclickimg.com/7jYAAeSwtSJommW~/Numbers-Game-1940-Brown-Derby-Tips-New-York.webp"
+     }
+    ]
+   }
+  }
+ ]
+}

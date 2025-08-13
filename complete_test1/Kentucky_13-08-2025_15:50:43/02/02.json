@@ -1,0 +1,338 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://drive.ky.gov \"driver's license\" OR \"identification card\"",
+    "totalResults": "188",
+    "searchTerms": "site:https://drive.ky.gov \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://drive.ky.gov \"driver's license\" OR \"identification card\"",
+    "totalResults": "188",
+    "searchTerms": "site:https://drive.ky.gov \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.124056,
+  "formattedSearchTime": "0.12",
+  "totalResults": "188",
+  "formattedTotalResults": "188"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Renew, Replace, Update a Credential - DRIVE",
+   "htmlTitle": "Renew, Replace, Update a Credential - DRIVE",
+   "link": "https://drive.ky.gov/Drivers/Pages/Renew-Replace-Update.aspx",
+   "displayLink": "drive.ky.gov",
+   "snippet": "RENEW A LICENSE OR PERMIT. Renew a standard or REAL ID driver's license or permit. RENEW AN ID CARD. REPLACE LOST OR STOLEN CREDENTIAL\u00a0...",
+   "htmlSnippet": "RENEW A LICENSE OR PERMIT. Renew a standard or REAL ID <b>driver&#39;s license</b> or permit. RENEW AN ID CARD. REPLACE LOST OR STOLEN CREDENTIAL&nbsp;...",
+   "formattedUrl": "https://drive.ky.gov/Drivers/Pages/Renew-Replace-Update.aspx",
+   "htmlFormattedUrl": "https://drive.ky.gov/Drivers/Pages/Renew-Replace-Update.aspx",
+   "pagemap": {
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#da532c",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msvalidate.01": "6688D5607AD5EB2274EC21A212D9D29A",
+      "progid": "SharePoint.WebPartPage.Document",
+      "title": "Renew, Replace, Update a Credential"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Welcome - DRIVE",
+   "htmlTitle": "Welcome - DRIVE",
+   "link": "https://drive.ky.gov/Pages/index.aspx",
+   "displayLink": "drive.ky.gov",
+   "snippet": "RENEW DRIVER'S LICENSE RENEW VEHICLE REGISTRATION ... Applicant will need contact information, driver's license number and a valid debit/credit card.",
+   "htmlSnippet": "RENEW <b>DRIVER&#39;S LICENSE</b> RENEW VEHICLE REGISTRATION ... Applicant will need contact information, <b>driver&#39;s license</b> number and a valid debit/credit card.",
+   "formattedUrl": "https://drive.ky.gov/Pages/index.aspx",
+   "htmlFormattedUrl": "https://drive.ky.gov/Pages/index.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpDCWM3ZBQIv9ijvVP_FcnUjaVkQAh7mvoHTxJ6wRhfpxi6-e21zGYYfc&s",
+      "width": "278",
+      "height": "181"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#da532c",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msvalidate.01": "6688D5607AD5EB2274EC21A212D9D29A",
+      "progid": "SharePoint.WebPartPage.Document",
+      "title": "Welcome"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://drive.ky.gov/PublishingImages/LICENSE-DLRO-IMAGE.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "REAL ID - DRIVE",
+   "htmlTitle": "REAL ID - DRIVE",
+   "link": "https://drive.ky.gov/RealID/Pages/default.aspx",
+   "displayLink": "drive.ky.gov",
+   "snippet": "In Kentucky, you have an option of a standard driver's license or ID, or a REAL ID version. With federal REAL ID enforcement in effect as of May 7, 2025\u00a0...",
+   "htmlSnippet": "In Kentucky, you have an option of a standard <b>driver&#39;s license</b> or ID, or a REAL ID version. With federal REAL ID enforcement in effect as of May 7, 2025&nbsp;...",
+   "formattedUrl": "https://drive.ky.gov/RealID/Pages/default.aspx",
+   "htmlFormattedUrl": "https://drive.ky.gov/RealID/Pages/default.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1-DVsuYDzGbyT6CHZ2feGnRq8TYSHRIbVun3J-zMjoBYQG0qT3yqcRuI&s",
+      "width": "221",
+      "height": "228"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#da532c",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msvalidate.01": "6688D5607AD5EB2274EC21A212D9D29A",
+      "progid": "SharePoint.WebPartPage.Document",
+      "title": "REAL ID"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://drive.ky.gov/PublishingImages/REAL-ID.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Drivers Services - DRIVE",
+   "htmlTitle": "Drivers Services - DRIVE",
+   "link": "https://drive.ky.gov/Drivers/Pages/default.aspx",
+   "displayLink": "drive.ky.gov",
+   "snippet": "Apply for a driver history record (DHR). Kentucky driver's license holders have a driving history record that contains identifying information, any licenses\u00a0...",
+   "htmlSnippet": "Apply for a driver history record (DHR). Kentucky <b>driver&#39;s license</b> holders have a driving history record that contains identifying information, any licenses&nbsp;...",
+   "formattedUrl": "https://drive.ky.gov/Drivers/Pages/default.aspx",
+   "htmlFormattedUrl": "https://drive.ky.gov/Drivers/Pages/default.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0Jmv6slSgyd5uZyiFLKxWW2au7WTfyxQ5e9dxNByr7wlZWa1eCzAi9f8-&s",
+      "width": "280",
+      "height": "180"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#da532c",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msvalidate.01": "6688D5607AD5EB2274EC21A212D9D29A",
+      "progid": "SharePoint.WebPartPage.Document",
+      "title": "Drivers Services"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://drive.ky.gov/Drivers/PublishingImages/drive%20license%20shadow.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Commercial Driver's License - DRIVE",
+   "htmlTitle": "Commercial <b>Driver&#39;s License</b> - DRIVE",
+   "link": "https://drive.ky.gov/Drivers/Pages/CDL.aspx",
+   "displayLink": "drive.ky.gov",
+   "snippet": "The Commercial Driver's License (CDL) laws and standards cover drivers in all 50 states, the District of Columbia, Mexico, and Canada.",
+   "htmlSnippet": "The Commercial <b>Driver&#39;s License</b> (CDL) laws and standards cover drivers in all 50 states, the District of Columbia, Mexico, and Canada.",
+   "formattedUrl": "https://drive.ky.gov/Drivers/Pages/CDL.aspx",
+   "htmlFormattedUrl": "https://drive.ky.gov/Drivers/Pages/CDL.aspx",
+   "pagemap": {
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#da532c",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msvalidate.01": "6688D5607AD5EB2274EC21A212D9D29A",
+      "progid": "SharePoint.WebPartPage.Document",
+      "title": "Commercial Driver's License"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "New To Kentucky - DRIVE",
+   "htmlTitle": "New To Kentucky - DRIVE",
+   "link": "https://drive.ky.gov/Drivers/Pages/New-To-Kentucky.aspx",
+   "displayLink": "drive.ky.gov",
+   "snippet": "As a new Kentucky resident, you must obtain a valid Kentucky driver's license within 30 days of establishing residency to drive on Kentucky roads.",
+   "htmlSnippet": "As a new Kentucky resident, you must obtain a valid Kentucky <b>driver&#39;s license</b> within 30 days of establishing residency to drive on Kentucky roads.",
+   "formattedUrl": "https://drive.ky.gov/Drivers/Pages/New-To-Kentucky.aspx",
+   "htmlFormattedUrl": "https://drive.ky.gov/Drivers/Pages/New-To-Kentucky.aspx",
+   "pagemap": {
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#da532c",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msvalidate.01": "6688D5607AD5EB2274EC21A212D9D29A",
+      "progid": "SharePoint.WebPartPage.Document",
+      "title": "New To Kentucky"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "First Issuance - DRIVE",
+   "htmlTitle": "First Issuance - DRIVE",
+   "link": "https://drive.ky.gov/Drivers/Pages/First-Issuance.aspx",
+   "displayLink": "drive.ky.gov",
+   "snippet": "... identification card. A personal identification card shall be surrendered when the person applies to have his or her instruction permit or operator's license\u00a0...",
+   "htmlSnippet": "... <b>identification card</b>. A personal <b>identification card</b> shall be surrendered when the person applies to have his or her instruction permit or operator&#39;s license&nbsp;...",
+   "formattedUrl": "https://drive.ky.gov/Drivers/Pages/First-Issuance.aspx",
+   "htmlFormattedUrl": "https://drive.ky.gov/Drivers/Pages/First-Issuance.aspx",
+   "pagemap": {
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#da532c",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msvalidate.01": "6688D5607AD5EB2274EC21A212D9D29A",
+      "progid": "SharePoint.WebPartPage.Document",
+      "title": "First Issuance"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DRIVER LICENSE/ID CARD RENEWAL",
+   "htmlTitle": "DRIVER LICENSE/ID CARD RENEWAL",
+   "link": "https://drive.ky.gov/Docs/Mail-In%20Form.pdf",
+   "displayLink": "drive.ky.gov",
+   "snippet": "REAL ID Identification Card ($14.00) - only applicable to current REAL ID Identification Card holders. REAL ID Combination Motorcycle & Operator License\u00a0...",
+   "htmlSnippet": "REAL ID <b>Identification Card</b> ($14.00) - only applicable to current REAL ID <b>Identification Card</b> holders. REAL ID Combination Motorcycle &amp; Operator License&nbsp;...",
+   "formattedUrl": "https://drive.ky.gov/Docs/Mail-In%20Form.pdf",
+   "htmlFormattedUrl": "https://drive.ky.gov/Docs/Mail-In%20Form.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6lPdNU6OHCqnVe9hS-fag5zVivZIhWDN-zYPV91OvfpNKFW2F9XZ_oNmc&s",
+      "width": "335",
+      "height": "150"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20220311104829-05'00'",
+      "creationdate": "D:20211012133020-04'00'",
+      "creator": "PScript5.dll Version 5.2.2",
+      "author": "April.Deaton",
+      "producer": "Acrobat Distiller 21.0 (Windows)",
+      "title": "Microsoft Word - TC 94-192.docx"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///bc9faae84496a6bb5f9d74194329775a848b1c0b08b069771bc1c607a31f5183"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Compare Licensing Service Options - DRIVE",
+   "htmlTitle": "Compare Licensing Service Options - DRIVE",
+   "link": "https://drive.ky.gov/Drivers/Pages/Drivers-License-Compare.aspx",
+   "displayLink": "drive.ky.gov",
+   "snippet": "Eligible Cards for Renewal \u00b7 Driver's License \u00b7 Motorcycle License \u00b7 Combo Driver/Motorcycle License \u00b7 ID Card.",
+   "htmlSnippet": "Eligible Cards for Renewal &middot; <b>Driver&#39;s License</b> &middot; Motorcycle License &middot; Combo Driver/Motorcycle License &middot; ID Card.",
+   "formattedUrl": "https://drive.ky.gov/Drivers/Pages/Drivers-License-Compare.aspx",
+   "htmlFormattedUrl": "https://drive.ky.gov/Drivers/Pages/<b>Drivers-License</b>-Compare.aspx",
+   "pagemap": {
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#da532c",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msvalidate.01": "6688D5607AD5EB2274EC21A212D9D29A",
+      "progid": "SharePoint.WebPartPage.Document",
+      "title": "Compare Licensing Service Options"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "License Reinstatement - DRIVE",
+   "htmlTitle": "License Reinstatement - DRIVE",
+   "link": "https://drive.ky.gov/Drivers/Pages/License%20Reinstatement.aspx",
+   "displayLink": "drive.ky.gov",
+   "snippet": "... identification card. A personal identification card shall be surrendered ... Include name, Driver's License number, and a certified check or money\u00a0...",
+   "htmlSnippet": "... <b>identification card</b>. A personal <b>identification card</b> shall be surrendered ... Include name, <b>Driver&#39;s License</b> number, and a certified check or money&nbsp;...",
+   "formattedUrl": "https://drive.ky.gov/Drivers/Pages/License%20Reinstatement.aspx",
+   "htmlFormattedUrl": "https://drive.ky.gov/Drivers/Pages/License%20Reinstatement.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRosImvLJrKznYeQr_P9qk9-HeG-8uYSnzHbD-koamvnB91nTe1e2FBFg&s",
+      "width": "421",
+      "height": "120"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#da532c",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msvalidate.01": "6688D5607AD5EB2274EC21A212D9D29A",
+      "progid": "SharePoint.WebPartPage.Document",
+      "title": "License Reinstatement"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://drive.ky.gov/Drivers/PublishingImages/Reinstatement-Banner.png?Height=320"
+     }
+    ]
+   }
+  }
+ ]
+}

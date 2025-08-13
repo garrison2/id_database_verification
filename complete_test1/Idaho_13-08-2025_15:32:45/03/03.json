@@ -1,0 +1,496 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:itd.idaho.gov \"REAL ID\"",
+    "totalResults": "331",
+    "searchTerms": "site:itd.idaho.gov \"REAL ID\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:itd.idaho.gov \"REAL ID\"",
+    "totalResults": "331",
+    "searchTerms": "site:itd.idaho.gov \"REAL ID\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.146591,
+  "formattedSearchTime": "0.15",
+  "totalResults": "331",
+  "formattedTotalResults": "331"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Star Card | Idaho Transport",
+   "htmlTitle": "Star Card | Idaho Transport",
+   "link": "https://itd.idaho.gov/starcard/",
+   "displayLink": "itd.idaho.gov",
+   "snippet": "Star Card - Idaho's REAL ID. Beginning May 7, 2025, you will need a Star Card, U.S. Passport, military identification (ID), or some other form of federally\u00a0...",
+   "htmlSnippet": "Star Card - Idaho&#39;s <b>REAL ID</b>. Beginning May 7, 2025, you will need a Star Card, U.S. Passport, military identification (ID), or some other form of federally&nbsp;...",
+   "formattedUrl": "https://itd.idaho.gov/starcard/",
+   "htmlFormattedUrl": "https://itd.idaho.gov/starcard/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-S_oPrTuixlkoBBDmKeHHbLf-R1yXqmL7zDmWUnoBXx2k5kdJDlq4LWvR&s",
+      "width": "360",
+      "height": "140"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://itd.idaho.gov/starcard/images/StarCard_Stats.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "New Idaho card design: Non-REAL ID compliant credentials and ...",
+   "htmlTitle": "New Idaho card design: Non-<b>REAL ID</b> compliant credentials and ...",
+   "link": "https://itd.idaho.gov/wp-content/uploads/2023/07/DMV_Notice_Real_ID_credentials_Duplicate-designation.pdf",
+   "displayLink": "itd.idaho.gov",
+   "snippet": "ITD elected to use a material that matches the industry standard, which is both thinner and more durable. Non-REAL ID (Star Card) credentials. In Idaho, REAL ID\u00a0...",
+   "htmlSnippet": "ITD elected to use a material that matches the industry standard, which is both thinner and more durable. Non-<b>REAL ID</b> (Star Card) credentials. In Idaho, <b>REAL ID</b>&nbsp;...",
+   "formattedUrl": "https://itd.idaho.gov/.../DMV_Notice_Real_ID_credentials_Duplicate-desig...",
+   "htmlFormattedUrl": "https://itd.idaho.gov/.../DMV_Notice_<b>Real_ID</b>_credentials_Duplicate-desig...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR6wCOZzhNzPqAU2k7xVfbrf29KWtrb_hkqinMir6hoc-rtYEcl01lXDM&s",
+      "width": "283",
+      "height": "178"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20250311093337-06'00'",
+      "creationdate": "D:20250311092818-06'00'",
+      "creator": "Acrobat PDFMaker 24 for Word",
+      "sourcemodified": "D:20250311152751",
+      "author": "Nancy Luthy",
+      "producer": "Adobe PDF Library 24.5.83",
+      "company": "Idaho Transportation Department"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///af24bc84f782f68c3f70911acaac844ea12bda9f405cd5e57ecf9d3d9aa4818e"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Star Card | Idaho Transport",
+   "htmlTitle": "Star Card | Idaho Transport",
+   "link": "https://itd.idaho.gov/starcard/acceptable-documents.html",
+   "displayLink": "itd.idaho.gov",
+   "snippet": "... Real ID Act. To help applicants identify and gather the required documents, use the Idaho Transportation Department's Add the Star Tool. Simply answer a few\u00a0...",
+   "htmlSnippet": "... <b>Real ID</b> Act. To help applicants identify and gather the required documents, use the Idaho Transportation Department&#39;s Add the Star Tool. Simply answer a few&nbsp;...",
+   "formattedUrl": "https://itd.idaho.gov/starcard/acceptable-documents.html",
+   "htmlFormattedUrl": "https://itd.idaho.gov/starcard/acceptable-documents.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI22_dU3O8idluT820lGFM0odvIDV-JtedXJ8lojvER3BzfEMXamIoHddQ&s",
+      "width": "235",
+      "height": "215"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://itd.idaho.gov/starcard/images/Video_Name_sm.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Document Checklist for Star Card \u2013 Idaho's REAL ID",
+   "htmlTitle": "Document Checklist for Star Card \u2013 Idaho&#39;s <b>REAL ID</b>",
+   "link": "https://itd.idaho.gov/starcard/files/StarCard_Checklist.pdf",
+   "displayLink": "itd.idaho.gov",
+   "snippet": "Idaho's REAL ID. Or use the online document checklist: https://ITD.Idaho.Gov/StarCard/. Para ver la Lista en Espa\u00f1ol: https://itd.idaho.gov/StarCard/files\u00a0...",
+   "htmlSnippet": "Idaho&#39;s <b>REAL ID</b>. Or use the online document checklist: https://ITD.Idaho.Gov/StarCard/. Para ver la Lista en Espa\u00f1ol: https://itd.idaho.gov/StarCard/files&nbsp;...",
+   "formattedUrl": "https://itd.idaho.gov/starcard/files/StarCard_Checklist.pdf",
+   "htmlFormattedUrl": "https://itd.idaho.gov/starcard/files/StarCard_Checklist.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvE8ChUWxS3VLo3jjhd7cZsV5G8cTwNkkBZtk-kty9hhM6jpeDFkdat3U&s",
+      "width": "137",
+      "height": "136"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20250415071325-06'00'",
+      "creationdate": "D:20240806140552-06'00'",
+      "creator": "Adobe InDesign 19.5 (Windows)",
+      "producer": "Adobe PDF Library 17.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///b723f024f31b924ad40708adef56499c0db9eda0fc3970d8e1334de94fa3ff78"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "TSA begins REAL ID full enforcement on May 7, 2025 | Idaho ...",
+   "htmlTitle": "TSA begins <b>REAL ID</b> full enforcement on May 7, 2025 | Idaho ...",
+   "link": "https://itd.idaho.gov/news/tsa-begins-real-id-full-enforcement-on-may-7-2025/",
+   "displayLink": "itd.idaho.gov",
+   "snippet": "Apr 15, 2025 ... ... REAL ID compliant at security checkpoints. All airline passengers 18 years and older, including TSA PreCheck\u00ae members, must present REAL ID\u00a0...",
+   "htmlSnippet": "Apr 15, 2025 <b>...</b> ... <b>REAL ID</b> compliant at security checkpoints. All airline passengers 18 years and older, including TSA PreCheck\u00ae members, must present <b>REAL ID</b>&nbsp;...",
+   "formattedUrl": "https://itd.idaho.gov/.../tsa-begins-real-id-full-enforcement-on-may-7-2025/",
+   "htmlFormattedUrl": "https://itd.idaho.gov/.../tsa-begins-<b>real-id</b>-full-enforcement-on-may-7-2025/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe2TEjm6oWkfLA4T-ZsA85qys3ibq9hAgJ6epaHbQ8GRzNxguxxDUWCcw&s",
+      "width": "286",
+      "height": "176"
+     }
+    ],
+    "organization": [
+     {
+      "logo": "https://itd.idaho.gov/wp-content/themes/idaho-webmaster/img/logo.svg",
+      "url": "https://itd.idaho.gov/"
+     }
+    ],
+    "metatags": [
+     {
+      "twitter:card": "BOISE - On May 7, the Transportation Security Administration will no longer accept state-issued identifications that are not REAL ID compliant at security checkpoints.",
+      "twitter:title": "TSA begins REAL ID full enforcement on May 7, 2025",
+      "og:site_name": "Idaho Transportation Department",
+      "dcterms.language": "EN",
+      "author": "State of Idaho",
+      "og:title": "TSA begins REAL ID full enforcement on May 7, 2025",
+      "dcterms.title": "TSA begins REAL ID full enforcement on May 7, 2025",
+      "dcterms.creator": "State of Idaho",
+      "dcterms.description": "BOISE - On May 7, the Transportation Security Administration will no longer accept state-issued identifications that are not REAL ID compliant at security checkpoints.",
+      "dcterms.subject": "Idaho Transportation Department",
+      "dcterms.created": "2025-04-15T08:58:04",
+      "og:description": "BOISE - On May 7, the Transportation Security Administration will no longer accept state-issued identifications that are not REAL ID compliant at security checkpoints.",
+      "twitter:site": "@",
+      "dcterms.modified": "2025-04-23T10:18:10",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Visit our website for more information.",
+      "dcterms.publisher": "State of Idaho",
+      "og:locale": "en_US",
+      "dcterms.format": "text/html",
+      "og:url": "https://itd.idaho.gov/news/tsa-begins-real-id-full-enforcement-on-may-7-2025/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://itd.idaho.gov/wp-content/themes/idaho-webmaster/img/inline-map.svg.php?primary=214b82&secondary=7696C9"
+     }
+    ],
+    "hatomfeed": [
+     {}
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ITD warns public about scam texts offering fake REAL ID services ...",
+   "htmlTitle": "ITD warns public about scam texts offering fake <b>REAL ID</b> services ...",
+   "link": "https://itd.idaho.gov/news/itd-warns-public-about-scam-texts-offering-fake-real-id-services/",
+   "displayLink": "itd.idaho.gov",
+   "snippet": "Jun 5, 2025 ... \u201cYour REAL ID can only be obtained in person through an authorized DMV office, not by clicking a link in a text message.\u201d REAL IDs cannot be\u00a0...",
+   "htmlSnippet": "Jun 5, 2025 <b>...</b> \u201cYour <b>REAL ID</b> can only be obtained in person through an authorized DMV office, not by clicking a link in a text message.\u201d REAL IDs cannot be&nbsp;...",
+   "formattedUrl": "https://itd.idaho.gov/.../itd-warns-public-about-scam-texts-offering-fake-rea...",
+   "htmlFormattedUrl": "https://itd.idaho.gov/.../itd-warns-public-about-scam-texts-offering-fake-<b>rea</b>...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe2TEjm6oWkfLA4T-ZsA85qys3ibq9hAgJ6epaHbQ8GRzNxguxxDUWCcw&s",
+      "width": "286",
+      "height": "176"
+     }
+    ],
+    "organization": [
+     {
+      "logo": "https://itd.idaho.gov/wp-content/themes/idaho-webmaster/img/logo.svg",
+      "url": "https://itd.idaho.gov/"
+     }
+    ],
+    "metatags": [
+     {
+      "twitter:card": "Boise \u2014\u00a0The Idaho Transportation Department (ITD) is alerting Idaho residents about a scam text message circulating statewide that falsely claims individuals can pay online to obtain or expedite a REAL ID (Star Card).",
+      "twitter:title": "ITD warns public about scam texts offering fake REAL ID services",
+      "og:site_name": "Idaho Transportation Department",
+      "dcterms.language": "EN",
+      "author": "State of Idaho",
+      "og:title": "ITD warns public about scam texts offering fake REAL ID services",
+      "dcterms.title": "ITD warns public about scam texts offering fake REAL ID services",
+      "dcterms.creator": "State of Idaho",
+      "dcterms.description": "Boise \u2014\u00a0The Idaho Transportation Department (ITD) is alerting Idaho residents about a scam text message circulating statewide that falsely claims individuals can pay online to obtain or expedite a REAL ID (Star Card).",
+      "dcterms.subject": "Idaho Transportation Department",
+      "dcterms.created": "2025-06-05T11:22:32",
+      "og:description": "Boise \u2014\u00a0The Idaho Transportation Department (ITD) is alerting Idaho residents about a scam text message circulating statewide that falsely claims individuals can pay online to obtain or expedite a REAL ID (Star Card).",
+      "twitter:site": "@",
+      "dcterms.modified": "2025-06-17T09:45:04",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Visit our website for more information.",
+      "dcterms.publisher": "State of Idaho",
+      "og:locale": "en_US",
+      "dcterms.format": "text/html",
+      "og:url": "https://itd.idaho.gov/news/itd-warns-public-about-scam-texts-offering-fake-real-id-services/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://itd.idaho.gov/wp-content/themes/idaho-webmaster/img/inline-map.svg.php?primary=214b82&secondary=7696C9"
+     }
+    ],
+    "hatomfeed": [
+     {}
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Idahoans have one year to get a Star Card or other REAL ID | Idaho ...",
+   "htmlTitle": "Idahoans have one year to get a Star Card or other <b>REAL ID</b> | Idaho ...",
+   "link": "https://itd.idaho.gov/news/idahoans-have-one-year-star-card-real-id/",
+   "displayLink": "itd.idaho.gov",
+   "snippet": "May 7, 2024 ... The federal REAL ID deadline is May 7, 2025 \u2013 exactly one year from today. At that time, travelers will need a REAL ID-compliant driver's license or\u00a0...",
+   "htmlSnippet": "May 7, 2024 <b>...</b> The federal <b>REAL ID</b> deadline is May 7, 2025 \u2013 exactly one year from today. At that time, travelers will need a <b>REAL ID</b>-compliant driver&#39;s license or&nbsp;...",
+   "formattedUrl": "https://itd.idaho.gov/news/idahoans-have-one-year-star-card-real-id/",
+   "htmlFormattedUrl": "https://itd.idaho.gov/news/idahoans-have-one-year-star-card-<b>real-id</b>/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe2TEjm6oWkfLA4T-ZsA85qys3ibq9hAgJ6epaHbQ8GRzNxguxxDUWCcw&s",
+      "width": "286",
+      "height": "176"
+     }
+    ],
+    "organization": [
+     {
+      "logo": "https://itd.idaho.gov/wp-content/themes/idaho-webmaster/img/logo.svg",
+      "url": "https://itd.idaho.gov/"
+     }
+    ],
+    "metatags": [
+     {
+      "twitter:card": "The federal REAL ID deadline is May 7, 2025 \u2013 exactly one year from today.",
+      "twitter:title": "Idahoans have one year to get a Star Card or other REAL ID",
+      "og:site_name": "Idaho Transportation Department",
+      "dcterms.language": "EN",
+      "author": "State of Idaho",
+      "og:title": "Idahoans have one year to get a Star Card or other REAL ID",
+      "dcterms.title": "Idahoans have one year to get a Star Card or other REAL ID",
+      "dcterms.creator": "State of Idaho",
+      "dcterms.description": "The federal REAL ID deadline is May 7, 2025 \u2013 exactly one year from today.",
+      "dcterms.subject": "Idaho Transportation Department",
+      "dcterms.created": "2024-05-07T16:59:39",
+      "og:description": "The federal REAL ID deadline is May 7, 2025 \u2013 exactly one year from today.",
+      "twitter:site": "@",
+      "dcterms.modified": "2025-04-18T16:03:18",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Visit our website for more information.",
+      "dcterms.publisher": "State of Idaho",
+      "og:locale": "en_US",
+      "dcterms.format": "text/html",
+      "og:url": "https://itd.idaho.gov/news/idahoans-have-one-year-star-card-real-id/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://itd.idaho.gov/wp-content/themes/idaho-webmaster/img/inline-map.svg.php?primary=214b82&secondary=7696C9"
+     }
+    ],
+    "hatomfeed": [
+     {}
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Star Card | Idaho Transport",
+   "htmlTitle": "Star Card | Idaho Transport",
+   "link": "https://itd.idaho.gov/starcard/faq.html",
+   "displayLink": "itd.idaho.gov",
+   "snippet": "What is REAL ID? What difference does the Star Card make? What is the deadline for getting a Star Card? Who needs a Star Card? How to\u00a0...",
+   "htmlSnippet": "What is <b>REAL ID</b>? What difference does the Star Card make? What is the deadline for getting a Star Card? Who needs a Star Card? How to&nbsp;...",
+   "formattedUrl": "https://itd.idaho.gov/starcard/faq.html",
+   "htmlFormattedUrl": "https://itd.idaho.gov/starcard/faq.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAObpvUxRpBcyxDQ_fZxvE9jj7IXJCGQusjaWKbYeHgmSoY1L5QSLqwGwj&s",
+      "width": "196",
+      "height": "195"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://itd.idaho.gov/starcard/images/starcard_logomd.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ITD and Canyon County motor vehicles office respond to growing ...",
+   "htmlTitle": "ITD and Canyon County motor vehicles office respond to growing ...",
+   "link": "https://itd.idaho.gov/news/itd-and-canyon-county-motor-vehicles-office-respond-to-growing-demand-for-real-id/",
+   "displayLink": "itd.idaho.gov",
+   "snippet": "Jul 21, 2025 ... As the demand for Real ID credentials (also known as the Star Card) continues to grow in Canyon County, the Idaho Transportation Department\u00a0...",
+   "htmlSnippet": "Jul 21, 2025 <b>...</b> As the demand for <b>Real ID</b> credentials (also known as the Star Card) continues to grow in Canyon County, the Idaho Transportation Department&nbsp;...",
+   "formattedUrl": "https://itd.idaho.gov/.../itd-and-canyon-county-motor-vehicles-office-respo...",
+   "htmlFormattedUrl": "https://itd.idaho.gov/.../itd-and-canyon-county-motor-vehicles-office-respo...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe2TEjm6oWkfLA4T-ZsA85qys3ibq9hAgJ6epaHbQ8GRzNxguxxDUWCcw&s",
+      "width": "286",
+      "height": "176"
+     }
+    ],
+    "organization": [
+     {
+      "logo": "https://itd.idaho.gov/wp-content/themes/idaho-webmaster/img/logo.svg",
+      "url": "https://itd.idaho.gov/"
+     }
+    ],
+    "metatags": [
+     {
+      "twitter:card": ".",
+      "twitter:title": "ITD and Canyon County motor vehicles office respond to growing demand for Real ID",
+      "og:site_name": "Idaho Transportation Department",
+      "dcterms.language": "EN",
+      "author": "State of Idaho",
+      "og:title": "ITD and Canyon County motor vehicles office respond to growing demand for Real ID",
+      "dcterms.title": "ITD and Canyon County motor vehicles office respond to growing demand for Real ID",
+      "dcterms.creator": "State of Idaho",
+      "dcterms.description": ".",
+      "dcterms.subject": "Idaho Transportation Department",
+      "dcterms.created": "2025-07-21T13:41:15",
+      "og:description": ".",
+      "twitter:site": "@",
+      "dcterms.modified": "2025-07-27T11:55:33",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Visit our website for more information.",
+      "dcterms.publisher": "State of Idaho",
+      "og:locale": "en_US",
+      "dcterms.format": "text/html",
+      "og:url": "https://itd.idaho.gov/news/itd-and-canyon-county-motor-vehicles-office-respond-to-growing-demand-for-real-id/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://itd.idaho.gov/wp-content/themes/idaho-webmaster/img/inline-map.svg.php?primary=214b82&secondary=7696C9"
+     }
+    ],
+    "hatomfeed": [
+     {}
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Star Card \u2013 Idaho's REAL ID federal deadline extended | Idaho ...",
+   "htmlTitle": "Star Card \u2013 Idaho&#39;s <b>REAL ID</b> federal deadline extended | Idaho ...",
+   "link": "https://itd.idaho.gov/tag/real-id/",
+   "displayLink": "itd.idaho.gov",
+   "snippet": "UPDATE: Star Card deadline is now May 7, 2025 U.S. Department of Homeland Security notice for REAL ID Originally published 4/28/2021 The U.S..",
+   "htmlSnippet": "UPDATE: Star Card deadline is now May 7, 2025 U.S. Department of Homeland Security notice for <b>REAL ID</b> Originally published 4/28/2021 The U.S..",
+   "formattedUrl": "https://itd.idaho.gov/tag/real-id/",
+   "htmlFormattedUrl": "https://itd.idaho.gov/tag/<b>real-id</b>/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtrSFluuKf_jk4vDSKlcJgFCPWLaeUu8zq7v5STrvtxXOj2SLsAuof3FIK&s",
+      "width": "150",
+      "height": "150"
+     }
+    ],
+    "organization": [
+     {
+      "logo": "https://itd.idaho.gov/wp-content/themes/idaho-webmaster/img/logo.svg",
+      "url": "https://itd.idaho.gov/"
+     }
+    ],
+    "metatags": [
+     {
+      "twitter:card": "UPDATE: Star Card deadline is now May 7, 2025 U.S. Department of Homeland Security notice for REAL ID Originally published 4/28/2021 The U.S.",
+      "twitter:title": "Star Card \u2013 Idaho\u2019s REAL ID federal deadline extended",
+      "og:site_name": "Idaho Transportation Department",
+      "dcterms.language": "EN",
+      "author": "State of Idaho",
+      "og:title": "Star Card \u2013 Idaho\u2019s REAL ID federal deadline extended",
+      "dcterms.title": "Star Card \u2013 Idaho\u2019s REAL ID federal deadline extended",
+      "dcterms.creator": "State of Idaho",
+      "dcterms.description": "UPDATE: Star Card deadline is now May 7, 2025 U.S. Department of Homeland Security notice for REAL ID Originally published 4/28/2021 The U.S.",
+      "dcterms.subject": "Idaho Transportation Department",
+      "dcterms.created": "2021-04-28T14:20:55",
+      "og:description": "UPDATE: Star Card deadline is now May 7, 2025 U.S. Department of Homeland Security notice for REAL ID Originally published 4/28/2021 The U.S.",
+      "twitter:site": "@",
+      "dcterms.modified": "2023-05-22T13:57:36",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Visit our website for more information.",
+      "dcterms.publisher": "State of Idaho",
+      "og:locale": "en_US",
+      "dcterms.format": "text/html",
+      "og:url": "https://itd.idaho.gov/news/star-card-idahos-real-id-federal-deadline-extended-to-may-2023/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://itd.idaho.gov/wp-content/uploads/2020/05/ITD_STARCARD_LICENSE-2-150x150.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

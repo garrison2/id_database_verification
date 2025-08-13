@@ -1,0 +1,82 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://www.oregon.gov/odot/DMV \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "1",
+    "searchTerms": "site:https://www.oregon.gov/odot/DMV \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 1,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.089261,
+  "formattedSearchTime": "0.09",
+  "totalResults": "1",
+  "formattedTotalResults": "1"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Oregon Department of Transportation : Welcome to Oregon DMV ...",
+   "htmlTitle": "Oregon Department of Transportation : Welcome to Oregon DMV ...",
+   "link": "https://www.oregon.gov/odot/dmv/pages/index.aspx",
+   "displayLink": "www.oregon.gov",
+   "snippet": "THIS IS THE REAL Oregon DMV site. The Oregon Driver and Motor Vehicles division of ODOT is where you go to get a driver license, ID card, register your\u00a0...",
+   "htmlSnippet": "THIS IS THE REAL Oregon DMV site. The Oregon Driver and Motor Vehicles division of ODOT is where you go to get a driver license, ID card, register your&nbsp;...",
+   "formattedUrl": "https://www.oregon.gov/odot/dmv/pages/index.aspx",
+   "htmlFormattedUrl": "https://www.oregon.gov/odot/dmv/pages/index.aspx",
+   "pagemap": {
+    "hcard": [
+     {
+      "url_text": "Oregon DMV",
+      "fn": "Oregon DMV",
+      "url": "https://www.oregon.gov/odot/dmv/pages/contact_us.aspx"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4rcoXQpfNajReKJ9c5DlQDlufXYUGvbbi_lcGw6cZLY-gWFt-qglLKHad&s",
+      "width": "299",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "application-name": "Welcome to Oregon DMV : Oregon Department of Transportation",
+      "msapplication-tilecolor": "#344032",
+      "msapplication-square70x70logo": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-70x70.png?v=03_04_2025",
+      "theme-color": "#222222",
+      "msapplication-wide310x150logo": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-310x150.png?v=03_04_2025",
+      "progid": "SharePoint.WebPartPage.Document",
+      "msapplication-tileimage": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-144x144.png?v=03_04_2025",
+      "msapplication-square150x150logo": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-150x150.png?v=03_04_2025",
+      "msapplication-navbutton-color": "#344032",
+      "apple-mobile-web-app-status-bar-style": "black-translucent",
+      "viewport": "width=device-width, initial-scale=1",
+      "google-translate-customization": "d78d477bc586dd01-66d24054f200e54f-g61435a41cc4d65c3-e",
+      "msapplication-square310x310logo": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-310x310.png?v=03_04_2025"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.oregon.gov/odot/DMV/PublishingImages/Task_Boxes/DMV2U-Button_dotsTB.png"
+     }
+    ]
+   }
+  }
+ ]
+}

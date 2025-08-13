@@ -1,0 +1,360 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://wisconsindot.gov \"driver's license\" OR \"identification card\"",
+    "totalResults": "186",
+    "searchTerms": "site:https://wisconsindot.gov \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://wisconsindot.gov \"driver's license\" OR \"identification card\"",
+    "totalResults": "186",
+    "searchTerms": "site:https://wisconsindot.gov \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.187416,
+  "formattedSearchTime": "0.19",
+  "totalResults": "186",
+  "formattedTotalResults": "186"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Wisconsin DMV Official Government Site - Obtaining an ...",
+   "htmlTitle": "Wisconsin DMV Official Government Site - Obtaining an ...",
+   "link": "https://wisconsindot.gov/Pages/dmv/license-drvs/how-to-apply/id-card.aspx",
+   "displayLink": "wisconsindot.gov",
+   "snippet": "DMV's interactive Identification Card Guide is a helpful tool for those looking for information on ID card requirements. The guide will provide you with a\u00a0...",
+   "htmlSnippet": "DMV&#39;s interactive <b>Identification Card</b> Guide is a helpful tool for those looking for information on ID card requirements. The guide will provide you with a&nbsp;...",
+   "formattedUrl": "https://wisconsindot.gov/Pages/dmv/license-drvs/how-to.../id-card.aspx",
+   "htmlFormattedUrl": "https://wisconsindot.gov/Pages/dmv/license-drvs/how-to.../id-card.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0fmrtVA9ArQxOIkqZ3GZb2gz1L9wxLYGbjtD99dWpCz1KdtDi3RVinQ&s",
+      "width": "125",
+      "height": "125"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#da532c",
+      "msapplication-config": "/_catalogs/masterpage/SharePointNext/images/favicon/browserconfig.xml",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://wisconsindot.gov/_catalogs/masterpage/SharePointNext/images/DOT.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wisconsin Identification Card (ID) Application",
+   "htmlTitle": "Wisconsin <b>Identification Card</b> (ID) Application",
+   "link": "https://wisconsindot.gov/Documents/formdocs/mv3004.pdf",
+   "displayLink": "wisconsindot.gov",
+   "snippet": "343.234 Wis. Stats. ADA WisDOT complies with the Americans with Disabilities Act (ADA). WARNING Any applicant for a Wisconsin Identification Card who presents\u00a0...",
+   "htmlSnippet": "343.234 Wis. Stats. ADA WisDOT complies with the Americans with Disabilities Act (ADA). WARNING Any applicant for a Wisconsin <b>Identification Card</b> who presents&nbsp;...",
+   "formattedUrl": "https://wisconsindot.gov/Documents/formdocs/mv3004.pdf",
+   "htmlFormattedUrl": "https://wisconsindot.gov/Documents/formdocs/mv3004.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20240408170023-05'00'",
+      "creationdate": "D:20191108132454-06'00'",
+      "creator": "Adobe InDesign CC 13.1 (Windows)",
+      "author": "WisDOT",
+      "producer": "Adobe PDF Library 15.0",
+      "title": "Wisconsin Identification Card (ID) Application"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Online identification card application",
+   "htmlTitle": "Online <b>identification card</b> application",
+   "link": "https://wisconsindot.gov/Pages/online-srvcs/other-servs/duplicate-id.aspx",
+   "displayLink": "wisconsindot.gov",
+   "snippet": "Online identification card application ... WisDOT is aware that scammers are texting messages pretending to be from DMV. These are not from WisDOT or DMV. Do not\u00a0...",
+   "htmlSnippet": "Online <b>identification card</b> application ... WisDOT is aware that scammers are texting messages pretending to be from DMV. These are not from WisDOT or DMV. Do not&nbsp;...",
+   "formattedUrl": "https://wisconsindot.gov/Pages/online-srvcs/other-servs/duplicate-id.aspx",
+   "htmlFormattedUrl": "https://wisconsindot.gov/Pages/online-srvcs/other-servs/duplicate-id.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0fmrtVA9ArQxOIkqZ3GZb2gz1L9wxLYGbjtD99dWpCz1KdtDi3RVinQ&s",
+      "width": "125",
+      "height": "125"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#da532c",
+      "msapplication-config": "/_catalogs/masterpage/SharePointNext/images/favicon/browserconfig.xml",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://wisconsindot.gov/_catalogs/masterpage/SharePointNext/images/DOT.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Information about the Wisconsin Driver License (DL) Application ...",
+   "htmlTitle": "Information about the Wisconsin Driver License (DL) Application ...",
+   "link": "https://wisconsindot.gov/documents/formdocs/mv3001.pdf",
+   "displayLink": "wisconsindot.gov",
+   "snippet": "Stats. I understand that I must surrender for cancellation any driver license or identification card previously issued by another state before I may be issued a.",
+   "htmlSnippet": "Stats. I understand that I must surrender for cancellation any driver license or <b>identification card</b> previously issued by another state before I may be issued a.",
+   "formattedUrl": "https://wisconsindot.gov/documents/formdocs/mv3001.pdf",
+   "htmlFormattedUrl": "https://wisconsindot.gov/documents/formdocs/mv3001.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20240408165930-05'00'",
+      "creationdate": "D:20210709153748-05'00'",
+      "creator": "Adobe InDesign 15.1 (Windows)",
+      "author": "WisDOT",
+      "producer": "Adobe PDF Library 15.0",
+      "title": "MV3001 Wisconsin Driver License (DL) Application"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wisconsin DMV Official Government Site - Voluntary surrender ...",
+   "htmlTitle": "Wisconsin DMV Official Government Site - Voluntary surrender ...",
+   "link": "https://wisconsindot.gov/Pages/dmv/license-drvs/mdcl-cncrns/voluntarysurrendemedical.aspx",
+   "displayLink": "wisconsindot.gov",
+   "snippet": "... identification card. After relinquishing a driver license: You will not be able to legally drive; If you are eligi\u200bble to vote, you may select a free ID card\u00a0...",
+   "htmlSnippet": "... <b>identification card</b>. After relinquishing a driver license: You will not be able to legally drive; If you are eligi\u200bble to vote, you may select a free ID card&nbsp;...",
+   "formattedUrl": "https://wisconsindot.gov/Pages/dmv/.../voluntarysurrendemedical.aspx",
+   "htmlFormattedUrl": "https://wisconsindot.gov/Pages/dmv/.../voluntarysurrendemedical.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0fmrtVA9ArQxOIkqZ3GZb2gz1L9wxLYGbjtD99dWpCz1KdtDi3RVinQ&s",
+      "width": "125",
+      "height": "125"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#da532c",
+      "msapplication-config": "/_catalogs/masterpage/SharePointNext/images/favicon/browserconfig.xml",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://wisconsindot.gov/_catalogs/masterpage/SharePointNext/images/DOT.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wisconsin DMV Official Government Site - How to apply",
+   "htmlTitle": "Wisconsin DMV Official Government Site - How to apply",
+   "link": "https://wisconsindot.gov/Pages/dmv/license-drvs/how-to-apply/get-lic-or-id.aspx",
+   "displayLink": "wisconsindot.gov",
+   "snippet": "Make a DMV appointment here. Make an appointment button. Click above for driver licensing, commercial driver licensing or identification card (ID card)\u00a0...",
+   "htmlSnippet": "Make a DMV appointment here. Make an appointment button. Click above for driver licensing, commercial driver licensing or <b>identification card</b> (ID card)&nbsp;...",
+   "formattedUrl": "https://wisconsindot.gov/Pages/dmv/license-drvs/how.../get-lic-or-id.aspx",
+   "htmlFormattedUrl": "https://wisconsindot.gov/Pages/dmv/license-drvs/how.../get-lic-or-id.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoEIf5xOynWrYyJDkXpWT8izIGU1baqkc3N3KNQ6VqIePWNfGH9Vp8tnI&s",
+      "width": "340",
+      "height": "148"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#da532c",
+      "msapplication-config": "/_catalogs/masterpage/SharePointNext/images/favicon/browserconfig.xml",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://wisconsindot.gov/PublishingImages/dmv/make-appt.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wisconsin DMV Official Government Site - Lost renewal notice",
+   "htmlTitle": "Wisconsin DMV Official Government Site - Lost renewal notice",
+   "link": "https://wisconsindot.gov/Pages/dmv/license-drvs/rnew-and-chge/renewal.aspx",
+   "displayLink": "wisconsindot.gov",
+   "snippet": "Driver license and identification card renewal notices are mailed to the last known address on your driver record 45-60 days prior to your birthday.",
+   "htmlSnippet": "Driver license and <b>identification card</b> renewal notices are mailed to the last known address on your driver record 45-60 days prior to your birthday.",
+   "formattedUrl": "https://wisconsindot.gov/Pages/dmv/license-drvs/rnew-and.../renewal.aspx",
+   "htmlFormattedUrl": "https://wisconsindot.gov/Pages/dmv/license-drvs/rnew-and.../renewal.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0fmrtVA9ArQxOIkqZ3GZb2gz1L9wxLYGbjtD99dWpCz1KdtDi3RVinQ&s",
+      "width": "125",
+      "height": "125"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#da532c",
+      "msapplication-config": "/_catalogs/masterpage/SharePointNext/images/favicon/browserconfig.xml",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://wisconsindot.gov/_catalogs/masterpage/SharePointNext/images/DOT.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wisconsin DMV Official Government Site - out-of-state DL and ID ...",
+   "htmlTitle": "Wisconsin DMV Official Government Site - out-of-state DL and ID ...",
+   "link": "https://wisconsindot.gov/Pages/dmv/license-drvs/miltry-svc/exp-license.aspx",
+   "displayLink": "wisconsindot.gov",
+   "snippet": "If you are a Wisconsin resident, temporarily out of state, and need to renew your driver license or identification card, you may do so by mail.",
+   "htmlSnippet": "If you are a Wisconsin resident, temporarily out of state, and need to renew your driver license or <b>identification card</b>, you may do so by mail.",
+   "formattedUrl": "https://wisconsindot.gov/Pages/dmv/license-drvs/miltry.../exp-license.aspx",
+   "htmlFormattedUrl": "https://wisconsindot.gov/Pages/dmv/license-drvs/miltry.../exp-license.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0fmrtVA9ArQxOIkqZ3GZb2gz1L9wxLYGbjtD99dWpCz1KdtDi3RVinQ&s",
+      "width": "125",
+      "height": "125"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#da532c",
+      "msapplication-config": "/_catalogs/masterpage/SharePointNext/images/favicon/browserconfig.xml",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://wisconsindot.gov/_catalogs/masterpage/SharePointNext/images/DOT.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wisconsin DMV Official Government Site - Duplicate/Replacement ...",
+   "htmlTitle": "Wisconsin DMV Official Government Site - Duplicate/Replacement ...",
+   "link": "https://wisconsindot.gov/Pages/dmv/license-drvs/lst-or-stoln/duplicate-id.aspx",
+   "displayLink": "wisconsindot.gov",
+   "snippet": "Timing: Your identification card will be processed and mailed to you through the USPS using first class mail. You will receive it within 10 business days. Click\u00a0...",
+   "htmlSnippet": "Timing: Your <b>identification card</b> will be processed and mailed to you through the USPS using first class mail. You will receive it within 10 business days. Click&nbsp;...",
+   "formattedUrl": "https://wisconsindot.gov/Pages/dmv/license-drvs/lst-or.../duplicate-id.aspx",
+   "htmlFormattedUrl": "https://wisconsindot.gov/Pages/dmv/license-drvs/lst-or.../duplicate-id.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2NJiUu0Q-7obloPrQjzUO8FxmnFU-uyTP4Lee0RLk6UtEwbhFbher0Q&s",
+      "width": "150",
+      "height": "117"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#da532c",
+      "msapplication-config": "/_catalogs/masterpage/SharePointNext/images/favicon/browserconfig.xml",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://wisconsindot.gov/PublishingImages/dmv/shared/instpmtmgnfy.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wisconsin DMV Official Government Site-Change address online",
+   "htmlTitle": "Wisconsin DMV Official Government Site-Change address online",
+   "link": "https://wisconsindot.gov/Pages/online-srvcs/change-addy/default.aspx",
+   "displayLink": "wisconsindot.gov",
+   "snippet": "To get a card that shows your new address, apply online for a replacement driver license or identification card OR visit a DMV customer service center, and\u00a0...",
+   "htmlSnippet": "To get a card that shows your new address, apply online for a replacement driver license or <b>identification card</b> OR visit a DMV customer service center, and&nbsp;...",
+   "formattedUrl": "https://wisconsindot.gov/Pages/online-srvcs/change-addy/default.aspx",
+   "htmlFormattedUrl": "https://wisconsindot.gov/Pages/online-srvcs/change-addy/default.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0fmrtVA9ArQxOIkqZ3GZb2gz1L9wxLYGbjtD99dWpCz1KdtDi3RVinQ&s",
+      "width": "125",
+      "height": "125"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#da532c",
+      "msapplication-config": "/_catalogs/masterpage/SharePointNext/images/favicon/browserconfig.xml",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://wisconsindot.gov/_catalogs/masterpage/SharePointNext/images/DOT.png"
+     }
+    ]
+   }
+  }
+ ]
+}

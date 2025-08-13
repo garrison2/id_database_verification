@@ -1,0 +1,364 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Kentucky Revised Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "totalResults": "2250",
+    "searchTerms": "\"Kentucky Revised Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Kentucky Revised Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "totalResults": "2250",
+    "searchTerms": "\"Kentucky Revised Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.192851,
+  "formattedSearchTime": "0.19",
+  "totalResults": "2250",
+  "formattedTotalResults": "2,250"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Kentucky Revised Statutes - Chapter 186",
+   "htmlTitle": "<b>Kentucky Revised Statutes</b> - Chapter 186",
+   "link": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38025",
+   "displayLink": "apps.legislature.ky.gov",
+   "snippet": "401 Definitions of \"driver's license,\" \"operator's license,\" and \"commercial driver's license. ... verification -- Term of identification card. .4124 Definitions\u00a0...",
+   "htmlSnippet": "401 Definitions of &quot;<b>driver&#39;s license</b>,&quot; &quot;operator&#39;s license,&quot; and &quot;commercial <b>driver&#39;s license</b>. ... <b>verification</b> -- Term of <b>identification card</b>. .4124 Definitions&nbsp;...",
+   "formattedUrl": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38025",
+   "htmlFormattedUrl": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38025",
+   "pagemap": {
+    "metatags": [
+     {
+      "vs_defaultclientscript": "JavaScript",
+      "code_language": "Visual Basic .NET 7.1",
+      "vs_targetschema": "http://schemas.microsoft.com/intellisense/ie5"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Kentucky Revised Statutes Title XVI. Motor Vehicles \u00a7 186.442 ...",
+   "htmlTitle": "<b>Kentucky Revised Statutes</b> Title XVI. Motor Vehicles \u00a7 186.442 ...",
+   "link": "https://codes.findlaw.com/ky/title-xvi-motor-vehicles/ky-rev-st-sect-186-442/",
+   "displayLink": "codes.findlaw.com",
+   "snippet": "... driver's license. Current as of January 01, 2024 | Updated by FindLaw Staff. (1) The Transportation Cabinet shall, before issuing or renewing a Kentucky\u00a0...",
+   "htmlSnippet": "... <b>driver&#39;s license</b>. Current as of January 01, 2024 | Updated by FindLaw Staff. (1) The Transportation Cabinet shall, before issuing or renewing a Kentucky&nbsp;...",
+   "formattedUrl": "https://codes.findlaw.com/ky/title-xvi-motor.../ky-rev-st-sect-186-442/",
+   "htmlFormattedUrl": "https://codes.findlaw.com/ky/title-xvi-motor.../ky-rev-st-sect-186-442/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuWtKEZ0kzYj6NSuZlgNrAF5XcYIi9XgsiqHcAgQHtxY18xcWZ1bDMaCM&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png",
+      "og:type": "article",
+      "og:site_name": "Findlaw",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Kentucky Revised Statutes Title XVI. Motor Vehicles \u00a7 186.442 | FindLaw",
+      "apple-mobile-web-app-title": "FindLaw",
+      "og:url": "https://codes.findlaw.com/ky/title-xvi-motor-vehicles/ky-rev-st-sect-186-442/",
+      "og:description": "Kentucky Title XVI. Motor Vehicles KY ST  Section 186.442. Read the code on FindLaw"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Kentucky Revised Statutes - Chapter 205",
+   "htmlTitle": "<b>Kentucky Revised Statutes</b> - Chapter 205",
+   "link": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38124",
+   "displayLink": "apps.legislature.ky.gov",
+   "snippet": "517 Records retention. .518 Repealed, 1972. .520 Title and ... verification by university hospitals -- Electronic verification of licensure information.",
+   "htmlSnippet": "517 Records <b>retention</b>. .518 Repealed, 1972. .520 Title and ... <b>verification</b> by university hospitals -- Electronic <b>verification</b> of licensure information.",
+   "formattedUrl": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38124",
+   "htmlFormattedUrl": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38124",
+   "pagemap": {
+    "metatags": [
+     {
+      "vs_defaultclientscript": "JavaScript",
+      "code_language": "Visual Basic .NET 7.1",
+      "vs_targetschema": "http://schemas.microsoft.com/intellisense/ie5"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Kentucky Revised Statutes Title XXIV. Public Utilities \u00a7 281A.170 ...",
+   "htmlTitle": "<b>Kentucky Revised Statutes</b> Title XXIV. Public Utilities \u00a7 281A.170 ...",
+   "link": "https://codes.findlaw.com/ky/title-xxiv-public-utilities/ky-rev-st-sect-281a-170/",
+   "displayLink": "codes.findlaw.com",
+   "snippet": "... driver's license shall be marked \u201ccommercial driver's license\u201d and \u201cCDL\u201d and ... Please verify the status of the code you are researching with the\u00a0...",
+   "htmlSnippet": "... <b>driver&#39;s license</b> shall be marked \u201ccommercial <b>driver&#39;s license</b>\u201d and \u201cCDL\u201d and ... Please <b>verify</b> the status of the code you are researching with the&nbsp;...",
+   "formattedUrl": "https://codes.findlaw.com/ky/title-xxiv-public.../ky-rev-st-sect-281a-170/",
+   "htmlFormattedUrl": "https://codes.findlaw.com/ky/title-xxiv-public.../ky-rev-st-sect-281a-170/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuWtKEZ0kzYj6NSuZlgNrAF5XcYIi9XgsiqHcAgQHtxY18xcWZ1bDMaCM&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png",
+      "og:type": "article",
+      "og:site_name": "Findlaw",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Kentucky Revised Statutes Title XXIV. Public Utilities \u00a7 281A.170 | FindLaw",
+      "og:url": "https://codes.findlaw.com/ky/title-xxiv-public-utilities/ky-rev-st-sect-281a-170/",
+      "og:description": "Kentucky Title XXIV. Public Utilities KY ST  Section 281A.170. Read the code on FindLaw"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Can I buy alcohol with a vertical driver's license? : r/Kentucky",
+   "htmlTitle": "Can I buy alcohol with a vertical <b>driver&#39;s license</b>? : r/Kentucky",
+   "link": "https://www.reddit.com/r/Kentucky/comments/9zpxwk/can_i_buy_alcohol_with_a_vertical_drivers_license/",
+   "displayLink": "www.reddit.com",
+   "snippet": "Nov 23, 2018 ... Can I buy alcohol with a vertical driver's license? I turn 21 in 8 days, and I've heard that some states flat out refuse to sell you\u00a0...",
+   "htmlSnippet": "Nov 23, 2018 <b>...</b> Can I buy alcohol with a vertical <b>driver&#39;s license</b>? I turn 21 in 8 days, and I&#39;ve heard that some states flat out refuse to <b>sell</b> you&nbsp;...",
+   "formattedUrl": "https://www.reddit.com/.../can_i_buy_alcohol_with_a_vertical_drivers_lice...",
+   "htmlFormattedUrl": "https://www.reddit.com/.../can_i_buy_alcohol_with_a_vertical_<b>drivers_lice</b>...",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:image": "https://share.redd.it/preview/post/9zpxwk",
+      "theme-color": "#000000",
+      "og:image:width": "1200",
+      "og:type": "website",
+      "og:image:alt": "An image containing a preview of the post",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "r/Kentucky on Reddit: Can I buy alcohol with a vertical driver's license?",
+      "og:site_name": "Reddit",
+      "og:title": "r/Kentucky on Reddit: Can I buy alcohol with a vertical driver's license?",
+      "og:image:height": "630",
+      "msapplication-navbutton-color": "#000000",
+      "og:description": "Posted by u/ltgenspartan - 25 votes and 29 comments",
+      "twitter:image": "https://share.redd.it/preview/post/9zpxwk",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "twitter:site": "@reddit",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "apple-mobile-web-app-capable": "yes",
+      "og:ttl": "600",
+      "og:url": "https://www.reddit.com/r/Kentucky/comments/9zpxwk/can_i_buy_alcohol_with_a_vertical_drivers_license/?seeker-session=true"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Application & Selection Process | Louisville Metro PD, KY",
+   "htmlTitle": "Application &amp; Selection Process | Louisville Metro PD, KY",
+   "link": "https://www.lmpd.gov/258/Application-Selection-Process",
+   "displayLink": "www.lmpd.gov",
+   "snippet": "Acceptable Forms of Verification. Any of the following may be used to verify your education, date of birth and driver's license. Education. The Kentucky Law\u00a0...",
+   "htmlSnippet": "Acceptable Forms of <b>Verification</b>. Any of the following may be used to <b>verify</b> your education, date of birth and <b>driver&#39;s license</b>. Education. The Kentucky Law&nbsp;...",
+   "formattedUrl": "https://www.lmpd.gov/258/Application-Selection-Process",
+   "htmlFormattedUrl": "https://www.lmpd.gov/258/Application-Selection-Process",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqJS5bvO2jRmc6ZNKbCzj5-dB4XOpWRTIIwJ-bzRXsbTzN24k46H9nD7_3&s",
+      "width": "186",
+      "height": "271"
+     }
+    ],
+    "metatags": [
+     {
+      "category2": "Join LMPD",
+      "category3": "Become an Officer",
+      "category4": "Application & Selection Process",
+      "theme-color": "rgb(2, 27, 67)",
+      "viewport": "width=device-width, initial-scale=1",
+      "category0": "Home",
+      "category1": "Our Department"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.lmpd.gov/ImageRepository/Document?documentID=4287"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Kentucky Board of Nursing Jurisprudence Examination",
+   "htmlTitle": "Kentucky Board of Nursing Jurisprudence Examination",
+   "link": "https://kbn.ky.gov/KBN%20Documents/jurisprudence-exam-study-guide.pdf",
+   "displayLink": "kbn.ky.gov",
+   "snippet": "Verification of Original Licensure ... A primary state of residence is the state where you pay taxes, vote, have your driver's license, etc.",
+   "htmlSnippet": "<b>Verification</b> of Original Licensure ... A primary state of residence is the state where you pay taxes, vote, have your <b>driver&#39;s license</b>, etc.",
+   "formattedUrl": "https://kbn.ky.gov/KBN%20Documents/jurisprudence-exam-study-guide.pdf",
+   "htmlFormattedUrl": "https://kbn.ky.gov/KBN%20Documents/jurisprudence-exam-study-guide.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyyqhLa8yTgYVYaxLE4jjmB2an6_EG8eO9FnTMf1rVvyz7j5NePyOJvRVw&s",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20250606151850-04'00'",
+      "creationdate": "D:20250606122406-05'00'",
+      "creator": "Acrobat PDFMaker 25 for Word",
+      "subject": "STUDY GUIDE",
+      "producer": "Adobe PDF Library 25.1.250",
+      "title": "Kentucky Board of Nursing Jurisprudence Examination"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///3d19399cd1891e48eb9077f7d61f9e6c8a4229a2ea47ae01fe63cd736f14ab55"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Kentucky Revised Statutes Annotated _Title XVII. Economic Security ...",
+   "htmlTitle": "<b>Kentucky Revised Statutes</b> Annotated _Title XVII. Economic Security ...",
+   "link": "https://publichealthlawcenter.org/sites/default/files/Kentucky%20Statutes%20Title%20XVII%20Chapter%20194A.pdf",
+   "displayLink": "publichealthlawcenter.org",
+   "snippet": "(d) Maintain the central link for the ... stamp identification card, or Medicaid identification card or misappropriate other benefits from any program with.",
+   "htmlSnippet": "(d) <b>Maintain</b> the central link for the ... stamp <b>identification card</b>, or Medicaid <b>identification card</b> or misappropriate other benefits from any program with.",
+   "formattedUrl": "https://publichealthlawcenter.org/.../Kentucky%20Statutes%20Title%20XVI...",
+   "htmlFormattedUrl": "https://publichealthlawcenter.org/.../Kentucky%20Statutes%20Title%20XVI...",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20140818214452-06'00'",
+      "creationdate": "D:20140608114401-05'00'",
+      "creator": "Acrobat PDFMaker 11 for Word",
+      "sourcemodified": "D:20140605141714",
+      "author": "AutoBVT",
+      "producer": "Adobe PDF Library 11.0",
+      "company": "William Mitchell College of Law"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Advanced Practice Registered Nurse FAQ - KBN",
+   "htmlTitle": "Advanced Practice Registered Nurse FAQ - KBN",
+   "link": "https://kbn.ky.gov/practice/Pages/advanced-practice-registered-nurse-faq.aspx",
+   "displayLink": "kbn.ky.gov",
+   "snippet": "Can an APRN stock and store medications? If a patient grants permission, the patient's medication may be dispensed by a pharmacy to the provider's office. When\u00a0...",
+   "htmlSnippet": "Can an APRN stock and <b>store</b> medications? If a patient grants permission, the patient&#39;s medication may be dispensed by a pharmacy to the provider&#39;s office. When&nbsp;...",
+   "formattedUrl": "https://kbn.ky.gov/practice/.../advanced-practice-registered-nurse-faq.aspx",
+   "htmlFormattedUrl": "https://kbn.ky.gov/practice/.../advanced-practice-registered-nurse-faq.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJPy4MTY5mUu4vMVgUHHxwd2MkVAT0vpvoaatdoq_L4Ow3DP-1uNtpigVt&s",
+      "width": "371",
+      "height": "136"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#da532c",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "progid": "SharePoint.WebPartPage.Document",
+      "title": "Advanced Practice Registered Nurse FAQ"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://kbn.ky.gov/Style%20Library/Images/kbn-logo-4c-dark.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "LAWS AND REGULATIONS RELATING TO Published By The ...",
+   "htmlTitle": "LAWS AND REGULATIONS RELATING TO Published By The ...",
+   "link": "https://kpi.ky.gov/documents/Laws%20and%20Regulations%20Booklet_KPI.pdf",
+   "displayLink": "kpi.ky.gov",
+   "snippet": "Verification of 240 hour employees\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 27. Page 4. 1. KENTUCKY REVISED STATUTES. 329A.010 Definitions for KRS 329A.010 to 329A.090. As used in\u00a0...",
+   "htmlSnippet": "<b>Verification</b> of 240 hour employees\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 27. Page 4. 1. <b>KENTUCKY REVISED STATUTES</b>. 329A.010 Definitions for KRS 329A.010 to 329A.090. As used in&nbsp;...",
+   "formattedUrl": "https://kpi.ky.gov/.../Laws%20and%20Regulations%20Booklet_KPI.pdf",
+   "htmlFormattedUrl": "https://kpi.ky.gov/.../Laws%20and%20Regulations%20Booklet_KPI.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Ipuw6A8TkofcowtCCqYgZIDdAajkQpJWt26sHSdbxfRaARkviEE9-RU&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20120404112345-04'00'",
+      "creator": "Microsoft\u00ae Word 2010",
+      "creationdate": "D:20120404112345-04'00'",
+      "author": "Boler, Jeff (PPC)",
+      "producer": "Microsoft\u00ae Word 2010"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///1463634a683d9744372ffcc005e050823a4e4c20435c10454fc87e8d446631b0"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

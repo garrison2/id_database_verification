@@ -1,0 +1,479 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Vermont\" \"privacy act\" OR \"privacy law\"",
+    "totalResults": "5750000",
+    "searchTerms": "\"Vermont\" \"privacy act\" OR \"privacy law\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Vermont\" \"privacy act\" OR \"privacy law\"",
+    "totalResults": "5750000",
+    "searchTerms": "\"Vermont\" \"privacy act\" OR \"privacy law\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.139014,
+  "formattedSearchTime": "0.14",
+  "totalResults": "5750000",
+  "formattedTotalResults": "5,750,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Vermont Governor Vetoes Data Privacy Act | Foley & Lardner LLP",
+   "htmlTitle": "<b>Vermont</b> Governor Vetoes Data <b>Privacy Act</b> | Foley &amp; Lardner LLP",
+   "link": "https://www.foley.com/insights/publications/2024/06/vermont-governor-vetoes-data-privacy-act/",
+   "displayLink": "www.foley.com",
+   "snippet": "Jun 20, 2024 ... Vermont Governor Vetoes Data Privacy Act. June 20 ... Vermont legislature will abandon its efforts to pass a comprehensive data privacy law.",
+   "htmlSnippet": "Jun 20, 2024 <b>...</b> <b>Vermont</b> Governor Vetoes Data <b>Privacy Act</b>. June 20 ... <b>Vermont</b> legislature will abandon its efforts to pass a comprehensive data <b>privacy law</b>.",
+   "formattedUrl": "https://www.foley.com/insights/.../vermont-governor-vetoes-data-privacy-a...",
+   "htmlFormattedUrl": "https://www.foley.com/insights/.../<b>vermont</b>-governor-vetoes-data-<b>privacy-a</b>...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Pe8_bS8o3bTtkMx-QFxsaZoUj7OieLYYM9AWCJzP8KkWb8UxxmXkGWY&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.foley.com/wp-content/uploads/2023/09/twitterinstream_tall___vermont.jpg",
+      "og:type": "article",
+      "article:published_time": "2024-06-20T15:10:49+00:00",
+      "og:image:width": "2000",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Foley & Lardner LLP",
+      "author": "ppicciotta@foley.com",
+      "og:title": "Vermont Governor Vetoes Data Privacy Act | Foley & Lardner LLP",
+      "og:image:height": "2000",
+      "twitter:label1": "Written by",
+      "twitter:label2": "Est. reading time",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://www.foley.com/wp-content/uploads/2024/11/cropped-Foley-Favicon-1-270x270.png",
+      "og:description": "Governor Phil Scott\u2019s veto of the VDPA survived an override attempt, pausing the Vermont legislature\u2019s attempts to pass a comprehensive data privacy law.",
+      "twitter:data1": "ppicciotta@foley.com",
+      "twitter:data2": "5 minutes",
+      "article:modified_time": "2024-06-20T15:10:51+00:00",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:locale": "en_US",
+      "og:url": "https://www.foley.com/insights/publications/2024/06/vermont-governor-vetoes-data-privacy-act/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.foley.com/wp-content/uploads/2023/09/twitterinstream_tall___vermont.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Vermont Passes Consumer Data Privacy Law",
+   "htmlTitle": "<b>Vermont</b> Passes Consumer Data <b>Privacy Law</b>",
+   "link": "https://www.mwe.com/insights/mixing-things-up-like-a-certain-ice-cream-maker-vermont-passes-consumer-data-privacy-law/",
+   "displayLink": "www.mwe.com",
+   "snippet": "May 29, 2024 ... 121, the Vermont Data Privacy Act (VDPA). If signed into law, the VDPA would become the most onerous state comprehensive privacy law in the\u00a0...",
+   "htmlSnippet": "May 29, 2024 <b>...</b> 121, the <b>Vermont</b> Data <b>Privacy Act</b> (VDPA). If signed into law, the VDPA would become the most onerous state comprehensive <b>privacy law</b> in the&nbsp;...",
+   "formattedUrl": "https://www.mwe.com/.../mixing-things-up-like-a-certain-ice-cream-maker-...",
+   "htmlFormattedUrl": "https://www.mwe.com/.../mixing-things-up-like-a-certain-ice-cream-maker-...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTrm17_yABbxARhZcgu-sO-XGwNBXYfTXeTrUGi6OHTr_5vRE2fmifVuGB&s",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://d1198w4twoqz7i.cloudfront.net/wp-content/uploads/2024/05/29200601/GettyImages-1421511938-540x360-1685e6c-5.jpeg",
+      "post_title": "Mixing Things Up Like a Certain Ice Cream Maker: Vermont Passes Consumer Data Privacy Law",
+      "og:image:width": "540",
+      "twitter:card": "summary_large_image",
+      "metadata": "David P. Saunders,Doris Yuen,The bill contains a private right of action that will only last from 2027 through 2029, which is leading to some suspense as to whether it will become law.",
+      "og:site_name": "McDermott",
+      "published_year": "2024",
+      "sub_category": "on-the-subject",
+      "twitter:label1": "Est. reading time",
+      "modified_date_only": "2025-05",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://d1198w4twoqz7i.cloudfront.net/wp-content/uploads/2025/08/04011107/cropped-mwe-favicon-270x270.png",
+      "og:description": "The bill contains a private right of action that will only last from 2027 through 2029, which is leading to some suspense as to whether it will become law.",
+      "article:publisher": "https://www.facebook.com/McDermottWillandSchulte",
+      "twitter:data1": "12 minutes",
+      "twitter:site": "@mcdermottlaw",
+      "article:modified_time": "2025-05-29T17:47:40+00:00",
+      "lang": "en",
+      "og:type": "article",
+      "twitter:title": "Vermont Passes Consumer Data Privacy Law",
+      "og:title": "Vermont Passes Consumer Data Privacy Law",
+      "og:image:height": "360",
+      "polylang_langs": "en",
+      "modified_date": "2025-05-29T05:05:40",
+      "published_date_only": "2024-05",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "The bill contains a private right of action that will only last from 2027 through 2029, which is leading to some suspense as to whether it will become law.",
+      "og:locale": "en_US",
+      "insights_date": "May 29, 2024",
+      "og:url": "https://www.mwe.com/insights/mixing-things-up-like-a-certain-ice-cream-maker-vermont-passes-consumer-data-privacy-law/",
+      "category": "insights",
+      "published_date": "2024-05-29T08:05:05"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://d1198w4twoqz7i.cloudfront.net/wp-content/uploads/2024/05/29200601/GettyImages-1421511938-540x360-1685e6c-5.jpeg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Minnesota and Vermont Legislatures Pass Comprehensive Privacy ...",
+   "htmlTitle": "Minnesota and <b>Vermont</b> Legislatures Pass Comprehensive Privacy ...",
+   "link": "https://www.wilmerhale.com/en/insights/blogs/wilmerhale-privacy-and-cybersecurity-law/20240611-minnesota-and-vermont-legislatures-pass-comprehensive-privacy-laws",
+   "displayLink": "www.wilmerhale.com",
+   "snippet": "Jun 12, 2024 ... (The California Consumer Privacy Act, the only other comprehensive privacy law ... The Vermont legislature passed the Vermont Data Privacy Act\u00a0...",
+   "htmlSnippet": "Jun 12, 2024 <b>...</b> (The California Consumer <b>Privacy Act</b>, the only other comprehensive <b>privacy law</b> ... The <b>Vermont</b> legislature passed the <b>Vermont</b> Data <b>Privacy Act</b>&nbsp;...",
+   "formattedUrl": "https://www.wilmerhale.com/.../20240611-minnesota-and-vermont-legislat...",
+   "htmlFormattedUrl": "https://www.wilmerhale.com/.../20240611-minnesota-and-<b>vermont</b>-legislat...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT795I2MrWg0_BqzW1opvWfHU47PUCnDeoiL5dTGfr_SGqx4WGoO4BEhlj9&s",
+      "width": "318",
+      "height": "159"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.wilmerhale.com/-/media/185e14078e7040faaff300cccf742923.jpg",
+      "twitter:card": "summary_large_image",
+      "og:type": "website",
+      "twitter:site": "@WilmerHale",
+      "viewport": "initial-scale=1.0, maximum-scale=1, width=device-width, user-scalable=no",
+      "og:title": "Minnesota and Vermont Legislatures Pass Comprehensive Privacy Laws",
+      "og:url": "https://www.wilmerhale.com/en/insights/blogs/wilmerhale-privacy-and-cybersecurity-law/20240611-minnesota-and-vermont-legislatures-pass-comprehensive-privacy-laws",
+      "og:description": "Both of these laws include provisions that depart from the general model set by state comprehensive privacy laws enacted to date.",
+      "twitter:image": "https://www.wilmerhale.com/-/media/185e14078e7040faaff300cccf742923.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.wilmerhale.com/-/media/185e14078e7040faaff300cccf742923.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Final Reading: Vermont Senate passes pared-down data privacy bill ...",
+   "htmlTitle": "Final Reading: <b>Vermont</b> Senate passes pared-down data privacy bill ...",
+   "link": "https://vtdigger.org/2025/03/27/final-reading-vermont-senate-passes-pared-down-data-privacy-bill/",
+   "displayLink": "vtdigger.org",
+   "snippet": "Mar 27, 2025 ... ... Vermont. Prior to the amendment ... \u201cThis amendment contains the central consumer protections of really any data privacy law,\u201d he said.",
+   "htmlSnippet": "Mar 27, 2025 <b>...</b> ... <b>Vermont</b>. Prior to the amendment ... \u201cThis amendment contains the central consumer protections of really any data <b>privacy law</b>,\u201d he said.",
+   "formattedUrl": "https://vtdigger.org/.../final-reading-vermont-senate-passes-pared-down-dat...",
+   "htmlFormattedUrl": "https://vtdigger.org/.../final-reading-<b>vermont</b>-senate-passes-pared-down-dat...",
+   "pagemap": {
+    "hcard": [
+     {
+      "url_text": "Habib Sabet",
+      "fn": "Habib Sabet",
+      "url": "https://vtdigger.org/author/habib-sabet/"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsSqpkpVhh0faj1QSx_B6xesquuQEh3LTnno_XrIMSsvrfrxN07qpVNgFg&s",
+      "width": "276",
+      "height": "182"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://vtdigger.org/wp-content/uploads/2025/01/rob-plunkett-1-20250109.jpg",
+      "article:published_time": "2025-03-27T22:30:33+00:00",
+      "og:image:width": "2500",
+      "twitter:card": "summary_large_image",
+      "theme-color": "#104467",
+      "og:site_name": "VTDigger",
+      "twitter:label1": "Written by",
+      "twitter:label2": "Est. reading time",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://vtdigger.org/wp-content/uploads/2023/04/cropped-VTDico-1.png",
+      "og:description": "An amendment to the original bill removes a controversial provision that led to a similar bill\u2019s failure last year.",
+      "twitter:creator": "@vtdigger",
+      "article:publisher": "https://www.facebook.com/vtdigger/",
+      "twitter:data1": "Habib Sabet",
+      "twitter:data2": "5 minutes",
+      "twitter:site": "@vtdigger",
+      "article:modified_time": "2025-03-27T22:30:39+00:00",
+      "og:type": "article",
+      "author": "Habib Sabet",
+      "og:title": "Final Reading: Vermont Senate passes pared-down data privacy bill\u00a0 - VTDigger",
+      "og:image:height": "1650",
+      "msapplication-navbutton-color": "#104467",
+      "apple-mobile-web-app-status-bar-style": "#104467",
+      "viewport": "width=device-width, initial-scale=1",
+      "onesignal": "wordpress-plugin",
+      "og:locale": "en_US",
+      "og:url": "https://vtdigger.org/2025/03/27/final-reading-vermont-senate-passes-pared-down-data-privacy-bill/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://vtdigger.org/wp-content/uploads/2025/01/rob-plunkett-1-20250109.jpg"
+     }
+    ],
+    "hatomfeed": [
+     {}
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Privacy of Consumer Financial and Health Information Regulation ...",
+   "htmlTitle": "Privacy of Consumer Financial and Health Information Regulation ...",
+   "link": "https://dfr.vermont.gov/reg-bul-ord/privacy-consumer-financial-and-health-information-regulation",
+   "displayLink": "dfr.vermont.gov",
+   "snippet": "Feb 15, 2018 ... ... privacy law or rule implementing Title 15 U.S.C. \u00a7 6801 et seq ... Vermont Financial Privacy Act, 8 V.S.A. \u00a7 10203, on the disclosure\u00a0...",
+   "htmlSnippet": "Feb 15, 2018 <b>...</b> ... <b>privacy law</b> or rule implementing Title 15 U.S.C. \u00a7 6801 et seq ... <b>Vermont</b> Financial <b>Privacy Act</b>, 8 V.S.A. \u00a7 10203, on the disclosure&nbsp;...",
+   "formattedUrl": "https://dfr.vermont.gov/.../privacy-consumer-financial-and-health-informati...",
+   "htmlFormattedUrl": "https://dfr.<b>vermont</b>.gov/.../privacy-consumer-financial-and-health-informati...",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Vermont Data Privacy Act: What Does the Bill Have for Businesses ...",
+   "htmlTitle": "<b>Vermont</b> Data <b>Privacy Act</b>: What Does the Bill Have for Businesses ...",
+   "link": "https://www.cookieyes.com/blog/vermont-data-privacy-act-vdpa/",
+   "displayLink": "www.cookieyes.com",
+   "snippet": "Jun 2, 2025 ... ... Vermont Data Privacy Act emerges as a comprehensive state privacy law. By increasing the law's extent by three phases, VDPA introduces a\u00a0...",
+   "htmlSnippet": "Jun 2, 2025 <b>...</b> ... <b>Vermont</b> Data <b>Privacy Act</b> emerges as a comprehensive state <b>privacy law</b>. By increasing the law&#39;s extent by three phases, VDPA introduces a&nbsp;...",
+   "formattedUrl": "https://www.cookieyes.com/blog/vermont-data-privacy-act-vdpa/",
+   "htmlFormattedUrl": "https://www.cookieyes.com/blog/<b>vermont</b>-data-<b>privacy-act</b>-vdpa/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3KZIVQDI3f9RdAHvhtW2OI2Z2B8YnuBSg9A-pn7Mce0D-6v2G3B7f9Awk&s",
+      "width": "299",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.cookieyes.com/wp-content/uploads/2024/06/Vermont-1.jpg",
+      "og:type": "article",
+      "article:published_time": "2024-06-14T11:04:28+00:00",
+      "og:image:width": "1400",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "CookieYes",
+      "author": "Cookieyes Team",
+      "og:title": "Vermont Data Privacy Act: What Does the Bill Have for Businesses? - CookieYes",
+      "og:image:height": "788",
+      "twitter:label1": "Written by",
+      "twitter:label2": "Est. reading time",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://www.cookieyes.com/wp-content/uploads/2024/03/cropped-cy-favicon-270x270.png",
+      "og:description": "The Vermont Data Privacy Act comes with stringent obligations for businesses and hefty fines. Get up to speed on VDPA with this guide.",
+      "twitter:data1": "Safna",
+      "twitter:data2": "11 minutes",
+      "article:modified_time": "2025-06-02T06:23:50+00:00",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "og:locale": "en_US",
+      "og:url": "https://www.cookieyes.com/blog/vermont-data-privacy-act-vdpa/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.cookieyes.com/wp-content/uploads/2024/06/Vermont-1.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Understanding the Vermont Data Privacy Act (VDPA) | Compliance ...",
+   "htmlTitle": "Understanding the <b>Vermont</b> Data <b>Privacy Act</b> (VDPA) | Compliance ...",
+   "link": "https://secureprivacy.ai/blog/vermont-data-privacy-act-compliance-guide",
+   "displayLink": "secureprivacy.ai",
+   "snippet": "May 28, 2024 ... ... Privacy Act (VDPA) and its implications for businesses operating in Vermont ... Vermont Passes Data Privacy Law: Vermont Data Privacy Act. Learn\u00a0...",
+   "htmlSnippet": "May 28, 2024 <b>...</b> ... <b>Privacy Act</b> (VDPA) and its implications for businesses operating in <b>Vermont</b> ... <b>Vermont</b> Passes Data <b>Privacy Law</b>: <b>Vermont</b> Data <b>Privacy Act</b>. Learn&nbsp;...",
+   "formattedUrl": "https://secureprivacy.ai/blog/vermont-data-privacy-act-compliance-guide",
+   "htmlFormattedUrl": "https://secureprivacy.ai/blog/<b>vermont</b>-data-<b>privacy-act</b>-compliance-guide",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDREKG2uRPLrvEDh9Cz8oXM8SMsAxjAfxOKssZweqGqUOQJpqc8whgxP0&s",
+      "width": "318",
+      "height": "159"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://images.prismic.io/secure-privacy/Zlc_W6WtHYXtT50f_VermontPassesDataPrivacyLaw_VermontDataPrivacyAct.png?ixlib=gatsbyFP&auto=format%2Ccompress&fit=max&q=45",
+      "theme-color": "#663399",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Understanding the Vermont Data Privacy Act (VDPA) | Compliance Guide 2025",
+      "og:site_name": "https://secureprivacy.ai/",
+      "twitter:url": "https://secureprivacy.ai/blog/vermont-data-privacy-act-compliance-guide",
+      "og:title": "Understanding the Vermont Data Privacy Act (VDPA) | Compliance Guide 2025",
+      "title": "Understanding the Vermont Data Privacy Act (VDPA) | Compliance Guide 2025",
+      "og:description": "Learn about the Vermont Data Privacy Act (VDPA) and its implications for businesses operating in Vermont. Discover key provisions, compliance requirements, consumer rights, and enforcement measures to prepare for the July 1, 2025, implementation.",
+      "twitter:image": "https://images.prismic.io/secure-privacy/Zlc_W6WtHYXtT50f_VermontPassesDataPrivacyLaw_VermontDataPrivacyAct.png?ixlib=gatsbyFP&auto=format%2Ccompress&fit=max&q=45",
+      "twitter:site": "https://secureprivacy.ai/",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "twitter:description": "Learn about the Vermont Data Privacy Act (VDPA) and its implications for businesses operating in Vermont. Discover key provisions, compliance requirements, consumer rights, and enforcement measures to prepare for the July 1, 2025, implementation.",
+      "og:locale": "en_US",
+      "og:url": "https://secureprivacy.ai/blog/vermont-data-privacy-act-compliance-guide"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://images.prismic.io/secure-privacy/Zlc_W6WtHYXtT50f_VermontPassesDataPrivacyLaw_VermontDataPrivacyAct.png?ixlib=gatsbyFP&auto=format%2Ccompress&fit=max&q=45"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Not So Fast: Vermont Governor VETOES Private Right of Action for ...",
+   "htmlTitle": "Not So Fast: <b>Vermont</b> Governor VETOES Private Right of Action for ...",
+   "link": "https://www.privacyanddatasecurityinsight.com/2024/06/not-so-fast-vermont-governor-vetoes-private-right-of-action-for-consumer-privacy-violations/",
+   "displayLink": "www.privacyanddatasecurityinsight.com",
+   "snippet": "Jun 17, 2024 ... ... Vermont Data Privacy Act. ... We will continue to monitor updates about Vermont's privacy law efforts.",
+   "htmlSnippet": "Jun 17, 2024 <b>...</b> ... <b>Vermont</b> Data <b>Privacy Act</b>. ... We will continue to monitor updates about <b>Vermont&#39;s privacy law</b> efforts.",
+   "formattedUrl": "https://www.privacyanddatasecurityinsight.com/.../not-so-fast-vermont-gov...",
+   "htmlFormattedUrl": "https://www.privacyanddatasecurityinsight.com/.../not-so-fast-<b>vermont</b>-gov...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuw-8cKSwi6xcVqzrJTArBCFgrYs0j5S-sn4QPwRTFbw6mYQtjALDt2Q&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/058/292/121/nBjKDywPW6ZAmam5z4vgVoMrN/5e08cab228ada8772d5a1a6d50161c49b86f795b.png",
+      "og:type": "article",
+      "article:published_time": "2024-06-17T19:15:50+00:00",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Taft Privacy & Data Security Insights",
+      "author": "Zachary Heck",
+      "og:title": "Not So Fast: Vermont Governor VETOES Private Right of Action for Consumer Privacy Violations",
+      "twitter:label1": "Written by",
+      "twitter:label2": "Est. reading time",
+      "msapplication-tileimage": "https://www.privacyanddatasecurityinsight.com/files/2019/09/cropped-favicon-270x270.png",
+      "og:description": "Last week, Vermont Governor Phil Scott vetoed one of the most-watched pieces of privacy legislation in the United States: the Vermont Data Privacy Act",
+      "twitter:data1": "Zachary Heck",
+      "twitter:data2": "4 minutes",
+      "article:modified_time": "2024-06-17T19:16:05+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.privacyanddatasecurityinsight.com/2024/06/not-so-fast-vermont-governor-vetoes-private-right-of-action-for-consumer-privacy-violations/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/058/292/121/nBjKDywPW6ZAmam5z4vgVoMrN/5e08cab228ada8772d5a1a6d50161c49b86f795b.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Vermont Senate Fails to Override Vermont Data Privacy Act Veto ...",
+   "htmlTitle": "<b>Vermont</b> Senate Fails to Override <b>Vermont</b> Data <b>Privacy Act</b> Veto ...",
+   "link": "https://epic.org/vermont-senate-sustains-governors-veto-of-vermont-privacy-act/",
+   "displayLink": "epic.org",
+   "snippet": "Jun 19, 2024 ... The Vermont Legislature took up Governor Phil Scott's veto of H. 121, the Vermont Privacy Act, in a veto override session.",
+   "htmlSnippet": "Jun 19, 2024 <b>...</b> The <b>Vermont</b> Legislature took up Governor Phil Scott&#39;s veto of H. 121, the <b>Vermont Privacy Act</b>, in a veto override session.",
+   "formattedUrl": "https://epic.org/vermont-senate-sustains-governors-veto-of-vermont-privac...",
+   "htmlFormattedUrl": "https://epic.org/<b>vermont</b>-senate-sustains-governors-veto-of-<b>vermont</b>-<b>privac</b>...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREPUiPeyV7XSsrgdkZeTb3WKjA60p_EjuOmJq5ghSO6ToL1iTLDcSj4Fyo&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#57b748",
+      "og:image": "https://epic.org/wp-content/uploads/fly-images/37915/vermont-state-house-1485798448aMx-643541121-1200x630-c.jpg",
+      "msapplication-config": "/wp-content/uploads/fbrfg/browserconfig.xml?v=1",
+      "theme-color": "#ffffff",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "EPIC - Electronic Privacy Information Center",
+      "twitter:site": "@EPICprivacy",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "og:title": "Vermont Senate Fails to Override Vermont Data Privacy Act Veto",
+      "og:url": "https://epic.org/vermont-senate-sustains-governors-veto-of-vermont-privacy-act/",
+      "og:description": "<p>The Vermont Senate failed to override Governor Phil Scott\u2019s veto of the Vermont Privacy Act. </p>"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://epic.org/wp-content/uploads/fly-images/37915/vermont-state-house-1485798448aMx-643541121-1200x630-c.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Section 317 of the Vermont Statutes",
+   "htmlTitle": "Section 317 of the <b>Vermont</b> Statutes",
+   "link": "https://legislature.vermont.gov/statutes/section/01/005/00317",
+   "displayLink": "legislature.vermont.gov",
+   "snippet": "The Vermont Statutes Online. The Statutes below include the actions of the ... Privacy Act of 1974, 20 U.S.C. \u00a7 1232g, as may be amended. (12) Records\u00a0...",
+   "htmlSnippet": "The <b>Vermont</b> Statutes Online. The Statutes below include the actions of the ... <b>Privacy Act</b> of 1974, 20 U.S.C. \u00a7 1232g, as may be amended. (12) Records&nbsp;...",
+   "formattedUrl": "https://legislature.vermont.gov/statutes/section/01/005/00317",
+   "htmlFormattedUrl": "https://legislature.<b>vermont</b>.gov/statutes/section/01/005/00317",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ]
+   }
+  }
+ ]
+}

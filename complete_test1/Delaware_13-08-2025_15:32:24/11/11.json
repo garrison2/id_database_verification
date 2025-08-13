@@ -1,0 +1,335 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Delaware Code\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "3200",
+    "searchTerms": "\"Delaware Code\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Delaware Code\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "3200",
+    "searchTerms": "\"Delaware Code\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.140021,
+  "formattedSearchTime": "0.14",
+  "totalResults": "3200",
+  "formattedTotalResults": "3,200"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Title 6 of the Delaware Code",
+   "htmlTitle": "Title 6 of the <b>Delaware Code</b>",
+   "link": "https://delcode.delaware.gov/title6/c012b/",
+   "displayLink": "delcode.delaware.gov",
+   "snippet": "\u201cPersonal information\u201d means a Delaware resident's first name or first ... Driver's license number or state or federal identification card number. 3\u00a0...",
+   "htmlSnippet": "\u201c<b>Personal information</b>\u201d <b>means</b> a Delaware resident&#39;s first name or first ... <b>Driver&#39;s license</b> number or state or federal <b>identification card</b> number. 3&nbsp;...",
+   "formattedUrl": "https://delcode.delaware.gov/title6/c012b/",
+   "htmlFormattedUrl": "https://delcode.delaware.gov/title6/c012b/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width,initial-scale=1,maximum-scale=1.0",
+      "author": "Delaware Legislature"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2217 Driver License and Identification Card Application Procedures ...",
+   "htmlTitle": "2217 Driver License and <b>Identification Card</b> Application Procedures ...",
+   "link": "https://regulations.delaware.gov/AdminCode/title2/2217",
+   "displayLink": "regulations.delaware.gov",
+   "snippet": "\"Material Change\" means any change to the personally identifiable information of an individual as defined in Title 21 and this regulation. Notwithstanding\u00a0...",
+   "htmlSnippet": "&quot;Material Change&quot; <b>means</b> any change to the <b>personally identifiable information</b> of an individual as <b>defined</b> in Title 21 and this regulation. Notwithstanding&nbsp;...",
+   "formattedUrl": "https://regulations.delaware.gov/AdminCode/title2/2217",
+   "htmlFormattedUrl": "https://regulations.delaware.gov/AdminCode/title2/2217",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Delaware Code Online",
+   "htmlTitle": "<b>Delaware Code</b> Online",
+   "link": "https://delcode.delaware.gov/title21/c003/index.html",
+   "displayLink": "delcode.delaware.gov",
+   "snippet": "... driver's license that is required under the Commercial Motor Vehicle ... (3) \u201cPersonal information\u201d means information that identifies an individual\u00a0...",
+   "htmlSnippet": "... <b>driver&#39;s license</b> that is required under the Commercial Motor Vehicle ... (3) \u201c<b>Personal information</b>\u201d <b>means</b> information that identifies an individual&nbsp;...",
+   "formattedUrl": "https://delcode.delaware.gov/title21/c003/index.html",
+   "htmlFormattedUrl": "https://delcode.delaware.gov/title21/c003/index.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width,initial-scale=1,maximum-scale=1.0",
+      "author": "Delaware Legislature"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Chapter - Delaware General Assembly",
+   "htmlTitle": "Chapter - Delaware General Assembly",
+   "link": "https://legis.delaware.gov/SessionLaws?volume=75&chapter=61",
+   "displayLink": "legis.delaware.gov",
+   "snippet": "(3) 'personal information' means a Delaware resident's first name or first ... (ii) driver's license number or Delaware Identification Card number; or.",
+   "htmlSnippet": "(3) &#39;<b>personal information</b>&#39; <b>means</b> a Delaware resident&#39;s first name or first ... (ii) <b>driver&#39;s license</b> number or Delaware <b>Identification Card</b> number; or.",
+   "formattedUrl": "https://legis.delaware.gov/SessionLaws?volume=75&chapter=61",
+   "htmlFormattedUrl": "https://legis.delaware.gov/SessionLaws?volume=75&amp;chapter=61",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width,initial-scale=1,maximum-scale=1.0",
+      "author": "Delaware Legislature"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "6 Delaware Code \u00a7 12B-101 (2024) - Definitions. :: 2024 Delaware ...",
+   "htmlTitle": "6 <b>Delaware Code</b> \u00a7 12B-101 (2024) - Definitions. :: 2024 <b>Delaware</b> ...",
+   "link": "https://law.justia.com/codes/delaware/title-6/chapter-12b/section-12b-101/",
+   "displayLink": "law.justia.com",
+   "snippet": "\u201cPersonal information\u201d means a Delaware resident's first name or first ... Driver's license number or state or federal identification card number. 3\u00a0...",
+   "htmlSnippet": "\u201c<b>Personal information</b>\u201d <b>means</b> a Delaware resident&#39;s first name or first ... <b>Driver&#39;s license</b> number or state or federal <b>identification card</b> number. 3&nbsp;...",
+   "formattedUrl": "https://law.justia.com/codes/delaware/title-6/chapter.../section-12b-101/",
+   "htmlFormattedUrl": "https://law.justia.com/codes/delaware/title-6/chapter.../section-12b-101/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-woulhMdqoqWwaGL0JyYyzOQ86EXUqHGNMcyUUpdijH7qqq65uA4WQBk&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://justatic.com/v/20250801141619/shared/images/social-media/law.jpg",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "og:site_name": "Justia Law",
+      "og:title": "2024 Delaware Code :: Title 6 - Commerce and Trade :: Chapter 12B. COMPUTER SECURITY BREACHES :: &sect; 12B-101. Definitions.",
+      "og:app_id": "119529808075661",
+      "trigger-ga": "1",
+      "og:description": "Justia Free Databases of U.S. Laws, Codes & Statutes",
+      "og:admins": "656268335,686786921,25900864",
+      "referrer": "unsafe-url",
+      "twitter:site": "@JustiaCom",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "page-type": "Law: Codes Document Page (Current Year)",
+      "is-li": "0",
+      "og:url": "https://law.justia.com/codes/delaware/title-6/chapter-12b/section-12b-101/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://justatic.com/v/20250801141619/shared/images/social-media/law.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Chapter - Delaware General Assembly",
+   "htmlTitle": "Chapter - Delaware General Assembly",
+   "link": "https://legis.delaware.gov/SessionLaws?volume=81&chapter=129",
+   "displayLink": "legis.delaware.gov",
+   "snippet": "\"Personal information'' means a Delaware resident's ... (f) In the case of a breach of security involving personal information defined in \u00a7 12B-101(4)a.",
+   "htmlSnippet": "&quot;<b>Personal information</b>&#39;&#39; <b>means</b> a Delaware resident&#39;s ... (f) In the case of a breach of security involving <b>personal information defined</b> in \u00a7 12B-101(4)a.",
+   "formattedUrl": "https://legis.delaware.gov/SessionLaws?volume=81&chapter=129",
+   "htmlFormattedUrl": "https://legis.delaware.gov/SessionLaws?volume=81&amp;chapter=129",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width,initial-scale=1,maximum-scale=1.0",
+      "author": "Delaware Legislature"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "21 Delaware Code \u00a7 305 (2024) - Privacy act governing the release ...",
+   "htmlTitle": "21 <b>Delaware Code</b> \u00a7 305 (2024) - Privacy act governing the release ...",
+   "link": "https://law.justia.com/codes/delaware/title-21/chapter-3/section-305/",
+   "displayLink": "law.justia.com",
+   "snippet": "... driver's license that is required under the Commercial Motor Vehicle ... (3) \u201cPersonal information\u201d means information that identifies an individual\u00a0...",
+   "htmlSnippet": "... <b>driver&#39;s license</b> that is required under the Commercial Motor Vehicle ... (3) \u201c<b>Personal information</b>\u201d <b>means</b> information that identifies an individual&nbsp;...",
+   "formattedUrl": "https://law.justia.com/codes/delaware/title-21/chapter-3/section-305/",
+   "htmlFormattedUrl": "https://law.justia.com/codes/delaware/title-21/chapter-3/section-305/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPP2ksOfM4IyWL7PTxPyS5N80Or-jyXZZLgeH1kYuOtXk5YU597YCxGszS&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "og:site_name": "Justia Law",
+      "og:title": "2024 Delaware Code :: Title 21 - Motor Vehicles :: Chapter 3. DEPARTMENT OF PUBLIC TRANSPORTATION AND DEPARTMENT OF SAFETY AND HOMELAND SECURITY :: &sect; 305. Privacy act governing the release of motor vehicle driving history and license records.",
+      "og:app_id": "119529808075661",
+      "trigger-ga": "1",
+      "og:description": "Justia Free Databases of U.S. Laws, Codes & Statutes",
+      "og:admins": "656268335,686786921,25900864",
+      "referrer": "unsafe-url",
+      "twitter:site": "@JustiaCom",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "page-type": "Law: Codes Document Page (Current Year)",
+      "is-li": "0",
+      "og:url": "https://law.justia.com/codes/delaware/title-21/chapter-3/section-305/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CHAPTER 12B. COMPUTER SECURITY BREACHES",
+   "htmlTitle": "CHAPTER 12B. COMPUTER SECURITY BREACHES",
+   "link": "https://www.steptoe.com/a/web/1649/2674.pdf",
+   "displayLink": "www.steptoe.com",
+   "snippet": "Notice to major statewide media. (4) \"Personal information\" means a Delaware resident's first name or first initial ... Driver's license number or Delaware\u00a0...",
+   "htmlSnippet": "Notice to major statewide media. (4) &quot;<b>Personal information</b>&quot; <b>means</b> a Delaware resident&#39;s first name or first initial ... <b>Driver&#39;s license</b> number or Delaware&nbsp;...",
+   "formattedUrl": "https://www.steptoe.com/a/web/1649/2674.pdf",
+   "htmlFormattedUrl": "https://www.steptoe.com/a/web/1649/2674.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCCfb0QPvIJwrDUfqoc8II-glYHOwiLLcxZE45uZFo67V-bCLVmV8rUNhi&s",
+      "width": "197",
+      "height": "255"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20061114135902-05'00'",
+      "creationdate": "D:20061114135902-05'00'",
+      "producer": "Acrobat Web Capture 7.0",
+      "title": "CHAPTER 12B. COMPUTER SECURITY BREACHES"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///04fe65f0f8a082b06d55239264db8ba2843a253331d161f0a6d242e01ffe11c8"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "July 2024",
+   "htmlTitle": "July 2024",
+   "link": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+   "displayLink": "dmv.de.gov",
+   "snippet": "\u201cRailroad Crossing\u201d means \u201cHighway-Rail Intersection\u201d as defined above. ... as defined in Title 13 Delaware Code Section 516. The suspension will remain\u00a0...",
+   "htmlSnippet": "\u201cRailroad Crossing\u201d <b>means</b> \u201cHighway-Rail Intersection\u201d as <b>defined</b> above. ... as <b>defined</b> in Title 13 <b>Delaware Code</b> Section 516. The suspension will remain&nbsp;...",
+   "formattedUrl": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+   "htmlFormattedUrl": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmzUmhocmci_7-hluCd6JZCxyUnO4pCGFuofKaKWDLkEj_lhoJluXMcCw&s",
+      "width": "248",
+      "height": "203"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20240711204226-04'00'",
+      "creationdate": "D:20240711203637-04'00'",
+      "creator": "Adobe InDesign 19.4 (Macintosh)",
+      "producer": "Adobe PDF Library 17.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///ef6e900ac1f7c5dc83a97201e332da0bc0b0f6c038e9a0b6e6c8f27a8c52e10f"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "California Code, Civil Code - CIV \u00a7 1798.140 | FindLaw",
+   "htmlTitle": "California Code, Civil Code - CIV \u00a7 1798.140 | FindLaw",
+   "link": "https://codes.findlaw.com/ca/civil-code/civ-sect-1798-140/",
+   "displayLink": "codes.findlaw.com",
+   "snippet": "... personal information pertaining to a consumer by any means. ... (A) A consumer's social security, driver's license, state identification card, or passport number.",
+   "htmlSnippet": "... <b>personal information</b> pertaining to a consumer by any <b>means</b>. ... (A) A consumer&#39;s social security, <b>driver&#39;s license</b>, state <b>identification card</b>, or passport number.",
+   "formattedUrl": "https://codes.findlaw.com/ca/civil-code/civ-sect-1798-140/",
+   "htmlFormattedUrl": "https://codes.findlaw.com/ca/civil-code/civ-sect-1798-140/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuWtKEZ0kzYj6NSuZlgNrAF5XcYIi9XgsiqHcAgQHtxY18xcWZ1bDMaCM&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png",
+      "og:type": "article",
+      "og:site_name": "Findlaw",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "California Code, Civil Code - CIV \u00a7 1798.140 | FindLaw",
+      "apple-mobile-web-app-title": "FindLaw",
+      "og:url": "https://codes.findlaw.com/ca/civil-code/civ-sect-1798-140/",
+      "og:description": "California Civil Code CIV CA CIVIL  Section 1798.140. Read the code on FindLaw"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,393 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Louisiana Revised Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\" -\"apply\" -\"application\"",
+    "totalResults": "31",
+    "searchTerms": "\"Louisiana Revised Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\" -\"apply\" -\"application\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Louisiana Revised Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\" -\"apply\" -\"application\"",
+    "totalResults": "31",
+    "searchTerms": "\"Louisiana Revised Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\" -\"apply\" -\"application\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.141951,
+  "formattedSearchTime": "0.14",
+  "totalResults": "31",
+  "formattedTotalResults": "31"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Louisiana Laws - Louisiana State Legislature",
+   "htmlTitle": "Louisiana Laws - Louisiana State Legislature",
+   "link": "https://legis.la.gov/Legis/Law.aspx?d=84850",
+   "displayLink": "legis.la.gov",
+   "snippet": "A person shall verify age by submitting a driver's license, selective ... identification card, a valid military identification card, or a valid passport.",
+   "htmlSnippet": "A person shall <b>verify</b> age by submitting a <b>driver&#39;s license</b>, selective ... <b>identification card</b>, a valid military <b>identification card</b>, or a valid passport.",
+   "formattedUrl": "https://legis.la.gov/Legis/Law.aspx?d=84850",
+   "htmlFormattedUrl": "https://legis.la.gov/Legis/Law.aspx?d=84850"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Louisiana - Open Letter",
+   "htmlTitle": "Louisiana - Open Letter",
+   "link": "https://www.atf.gov/firearms/docs/open-letter/louisiana-oct1998-open-letter-permanent-provisions-brady-law/download",
+   "displayLink": "www.atf.gov",
+   "snippet": "Verify the identity ofthe transferee through a Government-issued photo identification (for example, a driver's license). 3. Verify that the concealed\u00a0...",
+   "htmlSnippet": "<b>Verify</b> the identity ofthe transferee through a Government-issued photo identification (for example, a <b>driver&#39;s license</b>). 3. <b>Verify</b> that the concealed&nbsp;...",
+   "formattedUrl": "https://www.atf.gov/firearms/docs/open-letter/louisiana.../download",
+   "htmlFormattedUrl": "https://www.atf.gov/firearms/docs/open-letter/louisiana.../download",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG0s9frWvo_EdTTgfXtGi3Pe0M5SPDLzZYJq1XLUow7Dchv_7agpzluQvI&s",
+      "width": "197",
+      "height": "255"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20190805130038-04'00'",
+      "creationdate": "D:20150403103225-05'00'",
+      "creator": "Xerox WorkCentre 7225",
+      "author": "ATF",
+      "subject": "Louisiana - Open Letter",
+      "producer": "Adobe Acrobat Pro DC 19 Paper Capture Plug-in",
+      "title": "Louisiana - Open Letter"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///9418bd40385f8d83f0250713dc7199446f758b971f5ca327addc09cc45ef9b5e"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Program Guide",
+   "htmlTitle": "Program Guide",
+   "link": "https://ldh.la.gov/assets/oph/nutrition/WIC/FoodBrochure.pdf",
+   "displayLink": "ldh.la.gov",
+   "snippet": "You may use coupons or store customer cards when purchasing. WIC foods. \u2022 Rain checks for out of stock items are not allowed. 1. Before scanning any of the.",
+   "htmlSnippet": "You may use coupons or <b>store</b> customer cards when purchasing. WIC foods. \u2022 Rain checks for out of stock items are not allowed. 1. Before <b>scanning</b> any of the.",
+   "formattedUrl": "https://ldh.la.gov/assets/oph/nutrition/WIC/FoodBrochure.pdf",
+   "htmlFormattedUrl": "https://ldh.la.gov/assets/oph/nutrition/WIC/FoodBrochure.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTssvufiiNN2ENLGePNpDRXQKxEjjnTd2WeBfrJ33QkJjFdbLBGnhwgszA&s",
+      "width": "250",
+      "height": "202"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20230222142855-06'00'",
+      "creationdate": "D:20230220163807-06'00'",
+      "creator": "Adobe InDesign 18.1 (Macintosh)",
+      "producer": "Adobe PDF Library 17.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///00ee9f4204ccdf3d63c17cfa3120e34043354c4d30f347c50ecd5daf139e6503"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "10 U.S.C. \u00a71044a Notary Certification Training USMC",
+   "htmlTitle": "10 U.S.C. \u00a71044a Notary Certification Training USMC",
+   "link": "https://www.29palms.marines.mil/Portals/56/Docs/LSST/USMC_Notary_Training_Slides_updtd_April_2020.pdf?ver=W_M-cGecDDBUy1j5QHngtw%3D%3D",
+   "displayLink": "www.29palms.marines.mil",
+   "snippet": "Feb 15, 2013 ... 1044b \u2013 not with a Statement of Verification ... \u2022 Driver's license numbers or identification card numbers that can be associated to a particular\u00a0...",
+   "htmlSnippet": "Feb 15, 2013 <b>...</b> 1044b \u2013 not with a Statement of <b>Verification</b> ... \u2022 <b>Driver&#39;s license</b> numbers or <b>identification card</b> numbers that can be associated to a particular&nbsp;...",
+   "formattedUrl": "https://www.29palms.marines.mil/.../USMC_Notary_Training_Slides_updtd...",
+   "htmlFormattedUrl": "https://www.29palms.marines.mil/.../USMC_Notary_Training_Slides_updtd...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSCquu8fOdOro2uKyScG2fM_ekXbFucjuVjbJmA7K0SHE4JTverLUFBhLY&s",
+      "width": "226",
+      "height": "223"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20200424105431-04'00'",
+      "creationdate": "D:20200424105416-04'00'",
+      "creator": "Acrobat PDFMaker 17 for PowerPoint",
+      "author": "Hostetter CIV Mary",
+      "producer": "Adobe PDF Library 15.0",
+      "company": "NMCI",
+      "title": "10 U.S.C. \u00a71044a  Notary Certification Training USMC",
+      "contenttypeid": "0x010100B2D0B235B9240C4C83DD36FD4BD042A2"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///2ec577eb035789a6ff2f198e50557a050381233eb15b17a86f986b6375f622f5"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Department of Public Safety - Violence Against Peace Officers Registry",
+   "htmlTitle": "Department of Public Safety - Violence Against Peace Officers Registry",
+   "link": "https://app.lla.state.la.us/publicreports.nsf/0/42e40f72b8defe96862589f9004e437f/$file/00002351b.pdf?openelement&.7773098",
+   "displayLink": "app.lla.state.la.us",
+   "snippet": "Jul 26, 2023 ... anytime they run an offender's driver's license in May 2023. The ... annual verification form to LSP. However, the statute does not\u00a0...",
+   "htmlSnippet": "Jul 26, 2023 <b>...</b> anytime they run an offender&#39;s <b>driver&#39;s license</b> in May 2023. The ... annual <b>verification</b> form to LSP. However, the statute does not&nbsp;...",
+   "formattedUrl": "https://app.lla.state.la.us/publicreports.nsf/0/.../$file/00002351b.pdf?...",
+   "htmlFormattedUrl": "https://app.lla.state.la.us/publicreports.nsf/0/.../$file/00002351b.pdf?...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRRQongjo-LytkLe116NVuyScWWy32_o7FhNujjH2wOMfSLoyS8ozTSTla&s",
+      "width": "208",
+      "height": "242"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20230727091700-05'00'",
+      "creationdate": "D:20230727080633-05'00'",
+      "creator": "PScript5.dll Version 5.2.2",
+      "producer": "Acrobat Distiller 20.0 (Windows)",
+      "title": "Department of Public Safety - Violence Against Peace Officers Registry"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///daf94733d31ddee2f99aca7bda0090f57a924fafcc297c69b6dc37ebcfc5db99"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Strategic Plan FY 2021-2025",
+   "htmlTitle": "Strategic Plan FY 2021-2025",
+   "link": "https://dam.ldr.la.gov/miscellaneous/LDR%20Strategic_Plan%20FY%202025-2026%20through%202030-2031.pdf",
+   "displayLink": "dam.ldr.la.gov",
+   "snippet": "Jul 1, 2025 ... 3 Maintain individual income tax refunds issued within 90 days at or above 96% by June 30, 2031. Strategy I.3.1 Continue efforts to implement\u00a0...",
+   "htmlSnippet": "Jul 1, 2025 <b>...</b> 3 <b>Maintain</b> individual income tax refunds issued within 90 days at or above 96% by June 30, 2031. Strategy I.3.1 Continue efforts to implement&nbsp;...",
+   "formattedUrl": "https://dam.ldr.la.gov/.../LDR%20Strategic_Plan%20FY%202025-2026%2...",
+   "htmlFormattedUrl": "https://dam.ldr.la.gov/.../LDR%20Strategic_Plan%20FY%202025-2026%2...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfCbFw5yeyv4UW3M3v4E5-nXFyNk6lLYJGTAmNMbUl1wLcmfQot5QMVFTJ&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20250611083526-05'00'",
+      "creationdate": "D:20250611082518-05'00'",
+      "creator": "Acrobat PDFMaker 24 for Word",
+      "sourcemodified": "D:20250611132514",
+      "author": "Andrew Perilloux",
+      "producer": "Adobe PDF Library 24.3.212",
+      "title": "Strategic Plan FY 2021-2025"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///d413ac7167c2afd56ac55501d806542cf0fe064d62c7e0697ade9a1fca2b1301"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "OFFICE OF RISK MANAGEMENT",
+   "htmlTitle": "OFFICE OF RISK MANAGEMENT",
+   "link": "https://www.doa.la.gov/media/23yflds4/orm-annual-report-for-2022-2023.pdf",
+   "displayLink": "www.doa.la.gov",
+   "snippet": "Louisiana Revised Statutes 39:1527, et seq., further designates the Office ... Retention (SIR) of $50,000,000 per occurrence. The flood peril had a\u00a0...",
+   "htmlSnippet": "<b>Louisiana Revised Statutes</b> 39:1527, et seq., further designates the Office ... <b>Retention</b> (SIR) of $50,000,000 per occurrence. The flood peril had a&nbsp;...",
+   "formattedUrl": "https://www.doa.la.gov/media/.../orm-annual-report-for-2022-2023.pdf",
+   "htmlFormattedUrl": "https://www.doa.la.gov/media/.../orm-annual-report-for-2022-2023.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReFDVa-djFmHy-MCeMPUePUxp35-XskwvEJ9Z6MVHKlCmuOF2aWs9I7Lz_&s",
+      "width": "243",
+      "height": "207"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20240402153623-05'00'",
+      "creationdate": "D:20240402153623-05'00'",
+      "creator": "PScript5.dll Version 5.2.2",
+      "author": "P00077517",
+      "producer": "Acrobat Distiller 11.0 (Windows)",
+      "title": "Microsoft Word - ORM Annual Report for 2022-2023"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///c014d46e5381516bf6e8838df67b980a3ab5bbd41616b8c623f61129414519ae"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Untitled",
+   "htmlTitle": "Untitled",
+   "link": "https://oldorchard.com/uploads/wic/Louisiana.pdf",
+   "displayLink": "oldorchard.com",
+   "snippet": "Verbally or physically abuse store employees, WIC Clinic staff or others in the WIC clinic. \u2022 Give away, sell or attempt to sell WIC food benefits or EBT card,\u00a0...",
+   "htmlSnippet": "Verbally or physically abuse <b>store</b> employees, WIC Clinic staff or others in the WIC clinic. \u2022 Give away, <b>sell</b> or attempt to <b>sell</b> WIC food benefits or EBT card,&nbsp;...",
+   "formattedUrl": "https://oldorchard.com/uploads/wic/Louisiana.pdf",
+   "htmlFormattedUrl": "https://oldorchard.com/uploads/wic/Louisiana.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP-N53ueHFidcDgrKnBSb3tYXlI4gEXwDNdWuwzZuKEOamk-LsUI5n5TnW&s",
+      "width": "250",
+      "height": "201"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "Tue Jan 28 02:50:04 2020",
+      "creator": "Adobe InDesign 15.0 (Macintosh)",
+      "creationdate": "Mon Dec  2 07:59:49 2019",
+      "producer": "Adobe PDF Library 15.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///a4d098b0add1941b3184a712ea5a1ebc6e92b1102cc945485850fa27170e53e4"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Budget Request Packet.book",
+   "htmlTitle": "Budget Request Packet.book",
+   "link": "https://www.doa.la.gov/media/yapjgwko/fy24_agency_budget_request_420.pdf",
+   "displayLink": "www.doa.la.gov",
+   "snippet": "Verification System Fund. Monies in the fund shall be invested in the same ... verify motor vehicle insurance authorized by R.S. 32:863.2(F); (b) The\u00a0...",
+   "htmlSnippet": "<b>Verification</b> System Fund. Monies in the fund shall be invested in the same ... <b>verify</b> motor vehicle insurance authorized by R.S. 32:863.2(F); (b) The&nbsp;...",
+   "formattedUrl": "https://www.doa.la.gov/media/.../fy24_agency_budget_request_420.pdf",
+   "htmlFormattedUrl": "https://www.doa.la.gov/media/.../fy24_agency_budget_request_420.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmK2AY0O8wXjX-DqSV7K2s-cybDQZYxlk8vBwcEGYME7el-Rf9YUvbtbU4&s",
+      "width": "255",
+      "height": "197"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20221102232003-05'00'",
+      "creationdate": "D:20221102231950Z",
+      "creator": "FrameMaker 2019.0.8",
+      "author": "P00204665A",
+      "producer": "Acrobat Distiller 22.0 (Windows)",
+      "title": "Budget Request Packet.book"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///f0dafbb9d3f91c666024dc89c5335ad5e481b14fc684e6b51dd115e1c5234a28"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "REGISTRATION FORM",
+   "htmlTitle": "REGISTRATION FORM",
+   "link": "https://lafayettesheriff.com/wp-content/uploads/ALETA032Entirepacketcombined12012021forwebsite.pdf",
+   "displayLink": "lafayettesheriff.com",
+   "snippet": "A background check will be conducted as required by Louisiana Revised Statutes Title 40: Chapter 18: \u00a72405.4.A Additional Requirements of Peace Officers on each\u00a0...",
+   "htmlSnippet": "A background check will be conducted as required by <b>Louisiana Revised Statutes</b> Title 40: Chapter 18: \u00a72405.4.A Additional Requirements of Peace Officers on each&nbsp;...",
+   "formattedUrl": "https://lafayettesheriff.com/.../ALETA032Entirepacketcombined12012021f...",
+   "htmlFormattedUrl": "https://lafayettesheriff.com/.../ALETA032Entirepacketcombined12012021f...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ_3iA_U1ljoP6a_h757KqLnZ9K_ZWuIIwQ3xt9MKJg7psMwQ0KtVgo3s&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20211201082723-06'00'",
+      "creationdate": "D:20211117103731-06'00'",
+      "creator": "Acrobat PDFMaker 11 for Word",
+      "lastsaved": "D:20211116",
+      "sourcemodified": "D:20211117163700",
+      "author": "keithk",
+      "created": "D:20190429",
+      "producer": "Adobe PDF Library 11.0",
+      "company": "Lafayette Parish Sheriff's Office",
+      "title": "REGISTRATION FORM"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///d7c2b5153be4348aeded518557ef16ea45be1f476848465b8d1c45265404c0af"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

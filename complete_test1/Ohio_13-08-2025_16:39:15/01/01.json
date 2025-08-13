@@ -1,0 +1,371 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Ohio\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Ohio Revised Code\"",
+    "totalResults": "261000",
+    "searchTerms": "\"Ohio\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Ohio Revised Code\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Ohio\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Ohio Revised Code\"",
+    "totalResults": "261000",
+    "searchTerms": "\"Ohio\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Ohio Revised Code\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.215512,
+  "formattedSearchTime": "0.22",
+  "totalResults": "261000",
+  "formattedTotalResults": "261,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Ohio Mobile ID",
+   "htmlTitle": "<b>Ohio Mobile ID</b>",
+   "link": "https://www.bmv.ohio.gov/dl-mobile-id.aspx",
+   "displayLink": "www.bmv.ohio.gov",
+   "snippet": "The TSA officer may require this physical ID in addition to the digital ID. Where can I use my Ohio Mobile ID on iPhone and Apple Watch? You can present your\u00a0...",
+   "htmlSnippet": "The TSA officer may require this physical ID in addition to the <b>digital ID</b>. Where can I use my <b>Ohio Mobile ID</b> on iPhone and Apple Watch? You can present your&nbsp;...",
+   "formattedUrl": "https://www.bmv.ohio.gov/dl-mobile-id.aspx",
+   "htmlFormattedUrl": "https://www.bmv.<b>ohio</b>.gov/dl-<b>mobile-id</b>.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXfJhfZU-x9NOrSz_8Hf60yl8nIvYPMHnC-abc2y6Tav08-cR-ygj7zaWn&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "http://www.bmv.ohio.gov/img/Apple_Wallet-App-Icon.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "House Bill 724 | 134th General Assembly | Ohio Legislature",
+   "htmlTitle": "House <b>Bill</b> 724 | 134th General Assembly | <b>Ohio</b> Legislature",
+   "link": "https://www.legislature.ohio.gov/legislation/legislation-summary?id=GA134-HB-724",
+   "displayLink": "www.legislature.ohio.gov",
+   "snippet": "Authorize use of a digital driver's license or state ID card. [ Show Long ... Enrolled bills are the final version passed by the Ohio General Assembly and\u00a0...",
+   "htmlSnippet": "Authorize use of a <b>digital driver&#39;s license</b> or state ID card. [ Show Long ... Enrolled bills are the final version passed by the <b>Ohio</b> General Assembly and&nbsp;...",
+   "formattedUrl": "https://www.legislature.ohio.gov/legislation/legislation-summary?id...HB...",
+   "htmlFormattedUrl": "https://www.legislature.<b>ohio</b>.gov/legislation/legislation-summary?id...HB...",
+   "pagemap": {
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#da532c",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile Driver's License (Ohio Mobile ID) Terms and Conditions",
+   "htmlTitle": "<b>Mobile Driver&#39;s License</b> (<b>Ohio Mobile ID</b>) Terms and Conditions",
+   "link": "https://www.bmv.ohio.gov/mid-terms-conditions.aspx",
+   "displayLink": "www.bmv.ohio.gov",
+   "snippet": "Jun 10, 2024 ... Mobile Driver's License (Ohio Mobile ID) Terms and Conditions \u00b7 Adding your state-issued credential to your Digital Wallet: A Credential can be\u00a0...",
+   "htmlSnippet": "Jun 10, 2024 <b>...</b> <b>Mobile Driver&#39;s License</b> (<b>Ohio Mobile ID</b>) Terms and Conditions &middot; Adding your state-issued credential to your Digital Wallet: A Credential can be&nbsp;...",
+   "formattedUrl": "https://www.bmv.ohio.gov/mid-terms-conditions.aspx",
+   "htmlFormattedUrl": "https://www.bmv.<b>ohio</b>.gov/mid-terms-conditions.aspx",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ohio ID Card",
+   "htmlTitle": "<b>Ohio</b> ID Card",
+   "link": "https://bmv.ohio.gov/dl-id-card.aspx",
+   "displayLink": "bmv.ohio.gov",
+   "snippet": "Driver License & ID Cards. Ohio's Real ID Ohio Mobile ID First Issuance Renewal Reprint/Duplicate Non-U.S. Citizens Commercial Driver \u2013 CDL Motorcycle\u00a0...",
+   "htmlSnippet": "Driver License &amp; ID Cards. <b>Ohio&#39;s</b> Real ID <b>Ohio Mobile ID</b> First Issuance Renewal Reprint/Duplicate Non-U.S. Citizens Commercial Driver \u2013 CDL Motorcycle&nbsp;...",
+   "formattedUrl": "https://bmv.ohio.gov/dl-id-card.aspx",
+   "htmlFormattedUrl": "https://bmv.<b>ohio</b>.gov/dl-id-card.aspx",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Fiscal Note & Local Impact Statement",
+   "htmlTitle": "Fiscal Note &amp; Local Impact Statement",
+   "link": "https://www.legislature.ohio.gov/download?key=24771",
+   "displayLink": "www.legislature.ohio.gov",
+   "snippet": "Mar 10, 2025 ... The bill appears to generally codify the existing Ohio Mobile ID Program operated by the Bureau of Motor Vehicles (BMV). Therefore, any\u00a0...",
+   "htmlSnippet": "Mar 10, 2025 <b>...</b> The <b>bill</b> appears to generally codify the existing <b>Ohio Mobile ID</b> Program operated by the Bureau of Motor Vehicles (BMV). Therefore, any&nbsp;...",
+   "formattedUrl": "https://www.legislature.ohio.gov/download?key=24771",
+   "htmlFormattedUrl": "https://www.legislature.<b>ohio</b>.gov/download?key=24771",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT52N6K-UF8rU9go1kD0PCmpQFaIOl34obiEqhB99IvZGEHz1s2J6PCUd1&s",
+      "width": "220",
+      "height": "229"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20250310152355-04'00'",
+      "creator": "Microsoft\u00ae Word for Microsoft 365",
+      "creationdate": "D:20250310152355-04'00'",
+      "producer": "Microsoft\u00ae Word for Microsoft 365"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///486a3c366a8331138e2e48c0586a7a25ac3acc4e6c5d678b9d56864a4479f551"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Identification Requirements - Ohio Secretary of State",
+   "htmlTitle": "Identification Requirements - <b>Ohio</b> Secretary of State",
+   "link": "https://www.ohiosos.gov/elections/voters/id-requirements/",
+   "displayLink": "www.ohiosos.gov",
+   "snippet": "Ohio law prohibits acceptance of the following forms of ID: Utility bill ... Ohio Mobile ID; Insurance card; or; Any registration acknowledgment notice\u00a0...",
+   "htmlSnippet": "<b>Ohio law</b> prohibits acceptance of the following forms of ID: Utility <b>bill</b> ... <b>Ohio Mobile ID</b>; Insurance card; or; Any registration acknowledgment notice&nbsp;...",
+   "formattedUrl": "https://www.ohiosos.gov/elections/voters/id-requirements/",
+   "htmlFormattedUrl": "https://www.<b>ohio</b>sos.gov/elections/voters/id-requirements/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRZgVawrvd6C46EPDjb88llkq0yE4BcnGT9yAW1BkZ151oj8PtN89tJkU7&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#da532c",
+      "og:image": "https://www.ohiosos.gov/Static/img/ohio-burgee-statehouse.jpg",
+      "og:type": "website",
+      "twitter:card": "summary",
+      "twitter:title": "Identification Requirements",
+      "theme-color": "#ffffff",
+      "og:title": "Identification Requirements",
+      "msapplication-tileimage": "/Static/img/browser-icons/mstile-144x144.png",
+      "og:description": "Resources for Ohio Voters.",
+      "twitter:image": "https://www.ohiosos.gov/Static/img/ohio-burgee-statehouse.jpg",
+      "viewport": "width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no",
+      "twitter:description": "Resources for Ohio Voters.",
+      "og:url": "https://www.ohiosos.gov/elections/voters/id-requirements/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.ohiosos.gov/Static/img/ohio-burgee-statehouse.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ohio begins offering mobile ID with Apple, but it can't be used to vote ...",
+   "htmlTitle": "<b>Ohio</b> begins offering <b>mobile ID</b> with Apple, but it can&#39;t be used to vote ...",
+   "link": "https://ohiocapitaljournal.com/2024/08/13/ohio-begins-offering-mobile-id-with-apple-but-it-cant-be-used-to-vote-or-during-traffic-stops/",
+   "displayLink": "ohiocapitaljournal.com",
+   "snippet": "Aug 13, 2024 ... Ohio begins offering mobile ID with Apple, but it can't be used to ... mobile ID while local law enforcement or boards of elections simply can't.",
+   "htmlSnippet": "Aug 13, 2024 <b>...</b> <b>Ohio</b> begins offering <b>mobile ID</b> with Apple, but it can&#39;t be used to ... <b>mobile ID</b> while local <b>law</b> enforcement or boards of elections simply can&#39;t.",
+   "formattedUrl": "https://ohiocapitaljournal.com/.../ohio-begins-offering-mobile-id-with-appl...",
+   "htmlFormattedUrl": "https://<b>ohio</b>capitaljournal.com/.../<b>ohio</b>-begins-offering-<b>mobile-id</b>-with-appl...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2JMYXGcV3reExvUZyc0BD_Cmp4yV9FhbUkXgkvFr89KmY9vJgSo0A5Ow&s",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://ohiocapitaljournal.com/wp-content/uploads/2024/08/cellphone-1-2048x1365.jpeg",
+      "og:type": "article",
+      "article:published_time": "2024-08-13T09:00:03+00:00",
+      "twitter:card": "summary_large_image",
+      "og:image:width": "2048",
+      "og:site_name": "Ohio Capital Journal",
+      "author": "Nick Evans",
+      "og:title": "Ohio begins offering mobile ID with Apple, but it can't be used to vote or during traffic stops \u2022 Ohio Capital Journal",
+      "twitter:label1": "Written by",
+      "twitter:label2": "Est. reading time",
+      "msapplication-tileimage": "https://ohiocapitaljournal.com/wp-content/uploads/2019/10/cropped-Asset-6-270x270.jpg",
+      "og:description": "Last month, Ohio joined a handful of other states allowing residents to load their Driver\u2019s License or ID card onto an Apple iPhone. It\u2019s a nifty feature but for circumstances like voting or a traffic stop you'll still need your physical card.",
+      "twitter:creator": "@nckevns",
+      "article:publisher": "https://www.facebook.com/ohiocapitaljournal/",
+      "twitter:data1": "Nick Evans",
+      "twitter:data2": "4 minutes",
+      "twitter:site": "@OhioCapJournal",
+      "article:modified_time": "2024-08-13T09:00:14+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://ohiocapitaljournal.com/2024/08/13/ohio-begins-offering-mobile-id-with-apple-but-it-cant-be-used-to-vote-or-during-traffic-stops/",
+      "sn_version": "v1.86.4"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://ohiocapitaljournal.com/wp-content/uploads/2024/08/cellphone-1-2048x1365.jpeg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Alcohol Sales and Ohio Mobile ID | Walter Haverfield",
+   "htmlTitle": "Alcohol Sales and <b>Ohio Mobile ID</b> | Walter Haverfield",
+   "link": "https://www.walterhav.com/alcohol-sales-and-ohio-mobile-id/",
+   "displayLink": "www.walterhav.com",
+   "snippet": "Aug 29, 2024 ... In order to accept Ohio Mobile ID, the permit holder will need to acquire hardware or software capable of verifying the legitimacy of the\u00a0...",
+   "htmlSnippet": "Aug 29, 2024 <b>...</b> In <b>order</b> to accept <b>Ohio Mobile ID</b>, the permit holder will need to acquire hardware or software capable of verifying the legitimacy of the&nbsp;...",
+   "formattedUrl": "https://www.walterhav.com/alcohol-sales-and-ohio-mobile-id/",
+   "htmlFormattedUrl": "https://www.walterhav.com/alcohol-sales-and-<b>ohio</b>-<b>mobile-id</b>/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ03PAGNx2emQb7YuSQ0cEXBm0BUri98z0GhWHpd9Lqs3-CDV7I2oAC4w&s",
+      "width": "403",
+      "height": "125"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.walterhav.com/wp-content/uploads/2023/12/Hospitality-Liquor-Control-FINAL-72.jpg",
+      "og:type": "article",
+      "article:section": "Walter | Haverfield LLP",
+      "article:published_time": "2024-08-29T11:44:00+00:00",
+      "og:image:width": "1600",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Alcohol Sales and Ohio Mobile ID | Walter Haverfield",
+      "og:site_name": "Walter Haverfield",
+      "og:title": "Alcohol Sales and Ohio Mobile ID | Walter Haverfield",
+      "og:image:height": "497",
+      "og:updated_time": "2024-08-29T11:47:49+00:00",
+      "og:description": "CLIENT ALERT | HOSPITALITY & LIQUOR CONTROL | AUGUST 2024 Alcohol Sales and Ohio Mobile ID Ohio recently announced a new Ohio Mobile ID option, which allows users to access a digital copy of their Ohio driver\u2019s license through Apple Wallet. This has prompted questions from Ohio\u2019s retail liquor permit holders regarding the acceptability of \u2026",
+      "twitter:creator": "@walterhav",
+      "article:publisher": "/WalterHaverfield",
+      "og:image:secure_url": "https://www.walterhav.com/wp-content/uploads/2023/12/Hospitality-Liquor-Control-FINAL-72.jpg",
+      "twitter:image": "https://www.walterhav.com/wp-content/uploads/2023/12/Hospitality-Liquor-Control-FINAL-72.jpg",
+      "twitter:site": "@walterhav",
+      "article:modified_time": "2024-08-29T11:47:49+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "CLIENT ALERT | HOSPITALITY & LIQUOR CONTROL | AUGUST 2024 Alcohol Sales and Ohio Mobile ID Ohio recently announced a new Ohio Mobile ID option, which allows users to access a digital copy of their Ohio driver\u2019s license through Apple Wallet. This has prompted questions from Ohio\u2019s retail liquor permit holders regarding the acceptability of [\u2026]",
+      "og:locale": "en_US",
+      "og:url": "https://www.walterhav.com/alcohol-sales-and-ohio-mobile-id/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.walterhav.com/wp-content/uploads/2023/12/Hospitality-Liquor-Control-FINAL-72.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ohio BMV - Online Services",
+   "htmlTitle": "<b>Ohio</b> BMV - Online Services",
+   "link": "https://bmvonline.dps.ohio.gov/",
+   "displayLink": "bmvonline.dps.ohio.gov",
+   "snippet": "Ohio Mobile ID. Manage your Ohio issued driver license, ID card, or commercial driver license in your wallet app on your phone or watch \u00b7 DL/ID/CDL Renewal.",
+   "htmlSnippet": "<b>Ohio Mobile ID</b>. Manage your <b>Ohio</b> issued driver license, ID card, or commercial driver license in your wallet app on your phone or watch &middot; DL/ID/CDL Renewal.",
+   "formattedUrl": "https://bmvonline.dps.ohio.gov/",
+   "htmlFormattedUrl": "https://bmvonline.dps.<b>ohio</b>.gov/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "author": "Innovate Ohio Platform"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Changes to Ohio Voting Laws Starting in 2023",
+   "htmlTitle": "Changes to <b>Ohio</b> Voting Laws Starting in 2023",
+   "link": "https://boe.cuyahogacounty.gov/voters/2023-ohio-voting-law-changes",
+   "displayLink": "boe.cuyahogacounty.gov",
+   "snippet": "On January 6, 2023, the Governor signed Ohio House Bill 458 that made several changes to election laws. ... An Ohio driver license (A digital ID, such as driver\u00a0...",
+   "htmlSnippet": "On January 6, 2023, the Governor signed <b>Ohio</b> House <b>Bill</b> 458 that made several changes to election laws. ... An <b>Ohio</b> driver license (A <b>digital ID</b>, such as driver&nbsp;...",
+   "formattedUrl": "https://boe.cuyahogacounty.gov/voters/2023-ohio-voting-law-changes",
+   "htmlFormattedUrl": "https://boe.cuyahogacounty.gov/voters/2023-<b>ohio</b>-voting-<b>law</b>-changes",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqR0ELshW2V2jBpubkxht94GNbGvE8NoJyGc3uVaRBF3OoxZC6CzSC5AU&s",
+      "width": "307",
+      "height": "164"
+     }
+    ],
+    "metatags": [
+     {
+      "application-name": "\u00a0",
+      "msapplication-tilecolor": "#FFFFFF",
+      "msapplication-square70x70logo": "mstile-70x70.png",
+      "og:type": "website",
+      "og:site_name": "Default",
+      "viewport": "width=device-width, initial-scale=1",
+      "msapplication-square310x310logo": "mstile-310x310.png",
+      "og:title": "Changes to Ohio Voting Laws Starting in 2023",
+      "msapplication-wide310x150logo": "mstile-310x150.png",
+      "msapplication-tileimage": "mstile-144x144.png",
+      "og:url": "https://boe.cuyahogacounty.gov/voters/2023-ohio-voting-law-changes",
+      "msapplication-square150x150logo": "mstile-150x150.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://boe.cuyahogacounty.gov/images/default-source/default-album/2023-voting-changes-thumbnail.png?sfvrsn=b9bed667_1"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,447 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Indiana\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Indiana Code\"",
+    "totalResults": "219000",
+    "searchTerms": "\"Indiana\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Indiana Code\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Indiana\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Indiana Code\"",
+    "totalResults": "219000",
+    "searchTerms": "\"Indiana\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" law OR bill OR order OR \"Indiana Code\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.191658,
+  "formattedSearchTime": "0.19",
+  "totalResults": "219000",
+  "formattedTotalResults": "219,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Indiana - mDL Connection",
+   "htmlTitle": "<b>Indiana</b> - <b>mDL</b> Connection",
+   "link": "https://www.mdlconnection.com/implementation-tracker-map/indiana/",
+   "displayLink": "www.mdlconnection.com",
+   "snippet": "Contributing to mDL Connection \u00b7 Get Involved. Implementation Tracker Map. Indiana. Status: Legislative and/or Study Activity. Short Description: Bill enacted\u00a0...",
+   "htmlSnippet": "Contributing to <b>mDL</b> Connection &middot; Get Involved. Implementation Tracker Map. <b>Indiana</b>. Status: Legislative and/or Study Activity. Short Description: <b>Bill</b> enacted&nbsp;...",
+   "formattedUrl": "https://www.mdlconnection.com/implementation-tracker-map/indiana/",
+   "htmlFormattedUrl": "https://www.<b>mdl</b>connection.com/implementation-tracker-map/<b>indiana</b>/",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "mDL Connection",
+      "article:modified_time": "2024-01-10T12:21:44+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "Indiana - mDL Connection",
+      "og:locale": "en_US",
+      "twitter:label1": "Est. reading time",
+      "og:url": "https://www.mdlconnection.com/implementation-tracker-map/indiana/",
+      "msapplication-tileimage": "https://www.mdlconnection.com/wp-content/uploads/2020/04/cropped-mDLConnection-icon@2x-270x270.png",
+      "twitter:data1": "1 minute"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Indiana Mobile ID Updates",
+   "htmlTitle": "<b>Indiana Mobile ID</b> Updates",
+   "link": "https://idscan.net/state-digital-id/indiana-mobile-id-updates/",
+   "displayLink": "idscan.net",
+   "snippet": "The Indiana mDL program has been legal since 2021, but as of February 2025, there is still no timeline for an active Indiana mobile ID.",
+   "htmlSnippet": "The <b>Indiana mDL</b> program has been legal since 2021, but as of February 2025, there is still no timeline for an active <b>Indiana mobile ID</b>.",
+   "formattedUrl": "https://idscan.net/state-digital-id/indiana-mobile-id-updates/",
+   "htmlFormattedUrl": "https://idscan.net/state-<b>digital-id</b>/<b>indiana</b>-<b>mobile-id</b>-updates/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGttiZW_jqS5pTqOLNaKPDUV0KDnywO4Cei3_ypSr8RibEV7oacSV1kO4k&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://idscan.net/wp-content/uploads/indiana-mobile-drivers-license.jpg?lm=66A7317F",
+      "og:type": "article",
+      "og:image:width": "1199",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "IDScan.net",
+      "og:title": "Indiana Mobile ID Updates",
+      "og:image:height": "630",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://idscan.net/wp-content/uploads/cropped-idscan-identity-verification-software-icon-1-270x270.png",
+      "og:description": "The Indiana mDL program has been legal since 2021, but as of February 2025, there is still no timeline for an active Indiana mobile ID.",
+      "article:publisher": "https://www.facebook.com/idscannet",
+      "twitter:site": "@idscan_net",
+      "article:modified_time": "2025-02-27T21:42:36+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://idscan.net/state-digital-id/indiana-mobile-id-updates/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://idscan.net/wp-content/uploads/indiana-mobile-drivers-license.jpg?lm=66A7317F"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Indiana Enacts Insurance Data Security Law | Practical Law",
+   "htmlTitle": "<b>Indiana</b> Enacts Insurance Data Security <b>Law</b> | Practical <b>Law</b>",
+   "link": "https://content.next.westlaw.com/practical-law/document/I64f40bb36dd811ea80afece799150095/Indiana-Enacts-Insurance-Data-Security-Law?viewType=FullText&transitionType=Default&contextData=(sc.Default)",
+   "displayLink": "content.next.westlaw.com",
+   "snippet": "Mar 24, 2020 ... Indiana has enacted HB 1372 based on the National Association of Insurance Commissioners (NAIC) Insurance Data Security Model Law (MDL-668).",
+   "htmlSnippet": "Mar 24, 2020 <b>...</b> <b>Indiana</b> has enacted HB 1372 based on the National Association of Insurance Commissioners (NAIC) Insurance Data Security Model <b>Law</b> (<b>MDL</b>-668).",
+   "formattedUrl": "https://content.next.westlaw.com/...law/.../Indiana-Enacts-Insurance-Data-Se...",
+   "htmlFormattedUrl": "https://content.next.west<b>law</b>.com/...<b>law</b>/.../<b>Indiana</b>-Enacts-Insurance-Data-Se...",
+   "pagemap": {
+    "digitaldocument": [
+     {
+      "name": "Indiana Enacts Insurance Data Security Law | Practical Law",
+      "description": "Indiana has enacted HB 1372 based on the National Association of Insurance Commissioners (NAIC) Insurance Data Security Model Law (MDL-668). The law requires state-regulated insurance entities...",
+      "headline": "Indiana Enacts Insurance Data Security Law | Practical Law",
+      "url": "https://content.next.westlaw.com/practical-law/document/I64f40bb36dd811ea80afece799150095/Indiana-Enacts-Insurance-Data-Security-Law?viewType=FullText&transitionType=Default&contextData=(sc.Default)"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width",
+      "og:title": "Indiana Enacts Insurance Data Security Law | Practical Law",
+      "og:url": "https://content.next.westlaw.com/practical-law/document/I64f40bb36dd811ea80afece799150095/Indiana-Enacts-Insurance-Data-Security-Law?viewType=FullText&transitionType=Default&contextData=(sc.Default)"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Taking Care of Daily Business: Services: Residential Programs and ...",
+   "htmlTitle": "Taking Care of Daily Business: Services: Residential Programs and ...",
+   "link": "https://www.housing.indiana.edu/services/taking-care-of-business/index.html",
+   "displayLink": "www.housing.indiana.edu",
+   "snippet": "If you order food, you must meet the delivery driver at the drive in front ... Use Mobile ID to open doors at your building. ResLife Cinema. Watch new\u00a0...",
+   "htmlSnippet": "If you <b>order</b> food, you must meet the delivery driver at the drive in front ... Use <b>Mobile ID</b> to open doors at your building. ResLife Cinema. Watch new&nbsp;...",
+   "formattedUrl": "https://www.housing.indiana.edu/services/taking-care-of.../index.html",
+   "htmlFormattedUrl": "https://www.housing.<b>indiana</b>.edu/services/taking-care-of.../index.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:type": "website",
+      "twitter:title": "Taking Care of Daily Business",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Residential Programs and Services",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Taking Care of Daily Business",
+      "og:title": "Taking Care of Daily Business",
+      "og:locale": "en_US",
+      "id": "020875fc814f4e1066e8e2d8ae5aea54",
+      "og:url": "https://housing.indiana.edu/services/taking-care-of-business/index.html",
+      "og:description": "Taking Care of Daily Business"
+     }
+    ],
+    "webpage": [
+     {
+      "name": "Taking Care of Daily Business",
+      "description": "Taking Care of Daily Business",
+      "url": "https://housing.indiana.edu/services/taking-care-of-business/index.html"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "Home",
+      "name": "Home",
+      "position": "1"
+     },
+     {
+      "item": "Services",
+      "name": "Services",
+      "position": "2"
+     },
+     {
+      "name": "Taking Care of Daily Business",
+      "position": "3"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Federal judge halts Indiana law that would impose stricter age ...",
+   "htmlTitle": "Federal judge halts <b>Indiana law</b> that would impose stricter age ...",
+   "link": "https://www.wfyi.org/news/articles/federal-judge-halts-indiana-law-that-would-impose-stricter-age-verification-on-adult-websites",
+   "displayLink": "www.wfyi.org",
+   "snippet": "Jun 29, 2024 ... ... mobile driver's license or government ID \u2014 which Indiana doesn't provide \u2014 or through a third-party age verification service. A group of\u00a0...",
+   "htmlSnippet": "Jun 29, 2024 <b>...</b> ... <b>mobile driver&#39;s license</b> or government ID \u2014 which <b>Indiana</b> doesn&#39;t provide \u2014 or through a third-party age verification service. A group of&nbsp;...",
+   "formattedUrl": "https://www.wfyi.org/.../federal-judge-halts-indiana-law-that-would-impose...",
+   "htmlFormattedUrl": "https://www.wfyi.org/.../federal-judge-halts-<b>indiana</b>-<b>law</b>-that-would-impose...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIVUNyVljqwfzOwa1_6GuppC12XVMbELAVsSIXj6PzB02TpJmqwTlbD-Y&s",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "thumbnail": [
+     {
+      "src": "https://www.wfyi.org/files/wfyi/articles/original/pornhub-screenshot.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "date": "2024-06-29",
+      "owner": "WFYI",
+      "og:image": "https://www.wfyi.org/files/wfyi/articles/original/pornhub-screenshot.jpg",
+      "thumbnail": "https://www.wfyi.org/files/wfyi/articles/original/pornhub-screenshot.jpg",
+      "og:type": "article",
+      "article:published_time": "2024-06-29T11:12:00-04:00",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Federal judge halts Indiana law that would impose stricter age verification on adult websites",
+      "og:site_name": "WFYI Public Media",
+      "author": "Brandon Smith",
+      "og:title": "Federal judge halts Indiana law that would impose stricter age verification on adult websites",
+      "og:description": "An Indiana law requiring stricter age verification for adult websites will not take effect July 1 after a federal judge halted the law Friday, ruling it is likely unconstitutional.",
+      "twitter:creator": "@brandonjsmith5",
+      "twitter:image": "https://www.wfyi.org/files/wfyi/articles/original/pornhub-screenshot.jpg",
+      "twitter:image:src": "https://www.wfyi.org/files/wfyi/articles/original/pornhub-screenshot.jpg",
+      "twitter:image:alt": "Some adult websites, including Pornhub, blocked access to their sites to users in Indiana ahead of the new age verification law from taking effect. - Screenshot of Pornhub",
+      "twitter:site": "@WFYINews",
+      "news_keywords": "pornography, website",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "An Indiana law requiring stricter age verification for adult websites will not take effect July 1 after a federal judge halted the law Friday, ruling it is likely unconstitutional.",
+      "og:url": "https://www.wfyi.org/news/articles/federal-judge-halts-indiana-law-that-would-impose-stricter-age-verification-on-adult-websites",
+      "pubdate": "2024-06-29"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.wfyi.org/files/wfyi/articles/original/pornhub-screenshot.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Framing Success: Indiana U. Maurer School of Law (Pre 6/22) w/Mdl ...",
+   "htmlTitle": "Framing Success: <b>Indiana</b> U. Maurer School of <b>Law</b> (Pre 6/22) w/<b>Mdl</b> ...",
+   "link": "https://www.framingsuccess.com/product/detail/productID/725531",
+   "displayLink": "www.framingsuccess.com",
+   "snippet": "... Indiana U. Maurer School of Law (Pre 6/22) w/Mdl ... order frame. facebook pinterest twitter youtube. \u00a92025\u00a0...",
+   "htmlSnippet": "... <b>Indiana</b> U. Maurer School of <b>Law</b> (Pre 6/22) w/<b>Mdl</b> ... <b>order</b> frame. facebook pinterest twitter youtube. \u00a92025&nbsp;...",
+   "formattedUrl": "https://www.framingsuccess.com/product/detail/productID/725531",
+   "htmlFormattedUrl": "https://www.framingsuccess.com/product/detail/productID/725531",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQE3V-4CTUW5p5GgvH0mfyqtI_MI8AUoKy_3vP98hRDGPp0oY_2yKWX0eM&s",
+      "width": "240",
+      "height": "210"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://media1.herffjones.com/apps/framingsuccess/in1009blgacma_lg.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Why are Indiana digital driver's licenses still not available after 4 ...",
+   "htmlTitle": "Why are <b>Indiana</b> digital driver&#39;s licenses still not available after 4 ...",
+   "link": "https://fox59.com/indianapolitics/why-are-indiana-digital-drivers-licenses-still-not-available-after-4-years/",
+   "displayLink": "fox59.com",
+   "snippet": "Jan 4, 2024 ... According to the Indiana BMV, there's no timeline just yet. Gov. Eric Holcomb signed a digital driver's license bill into law in 2019.",
+   "htmlSnippet": "Jan 4, 2024 <b>...</b> According to the <b>Indiana</b> BMV, there&#39;s no timeline just yet. Gov. Eric Holcomb signed a <b>digital driver&#39;s license bill</b> into <b>law</b> in 2019.",
+   "formattedUrl": "https://fox59.com/indianapolitics/why-are-indiana-digital-drivers-licenses-st...",
+   "htmlFormattedUrl": "https://fox59.com/<b>indiana</b>politics/why-are-<b>indiana</b>-<b>digital-drivers-license</b>s-st...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd4JYzaiJSz5R8OmzRu0x4lYaOheZm3jds19kYOWycebsW63rR8JBqAXra&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://fox59.com/wp-content/uploads/sites/21/2021/09/apple.jpg?w=1280",
+      "article:published_time": "2024-01-04T20:37:40+00:00",
+      "og:image:width": "1280",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Fox 59",
+      "msapplication-tileimage": "https://fox59.com/wp-content/uploads/sites/21/2024/09/cropped-FOX59_512x512-2.png?w=270",
+      "og:description": "INDIANAPOLIS \u2014 As more and more services go digital, when could Hoosiers start seeing digital driver\u2019s licenses? According to the Indiana BMV, there\u2019s no timeline just yet. Gov. Eric Ho\u2026",
+      "og:image:secure_url": "https://fox59.com/wp-content/uploads/sites/21/2021/09/apple.jpg?w=1280",
+      "twitter:image": "https://fox59.com/wp-content/uploads/sites/21/2021/09/apple.jpg?strip=1&w=640",
+      "twitter:text:title": "Why are Indiana digital driver\u2019s licenses still not available after 4 years?",
+      "article:modified_time": "2024-01-04T22:55:23+00:00",
+      "sailthru.title": "Why are Indiana digital driver\u2019s licenses still not available after 4 years?",
+      "sailthru.date": "2024-01-04 15:37:40",
+      "og:type": "article",
+      "twitter:title": "Why are Indiana digital driver\u2019s licenses still not available after 4 years?",
+      "og:title": "Why are Indiana digital driver\u2019s licenses still not available after 4 years?",
+      "og:image:height": "720",
+      "sailthru.image.thumb": "https://fox59.com/wp-content/uploads/sites/21/2021/09/apple.jpg?w=50",
+      "sailthru.description": "INDIANAPOLIS \u2014 As more and more services go digital, when could Hoosiers start seeing digital driver\u2019s licenses? According to the Indiana BMV, there\u2019s no timeline just yet. Gov. Eric Holcomb signed a digital driver\u2019s license bill into law in 2019. Although the Indiana BMV originally said they\u2019d be ready to go sometime in 2021, that [\u2026]",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "INDIANAPOLIS \u2014 As more and more services go digital, when could Hoosiers start seeing digital driver\u2019s licenses? According to the Indiana BMV, there\u2019s no timeline just yet. Gov. Eric Ho\u2026",
+      "og:locale": "en_US",
+      "og:url": "https://fox59.com/indianapolitics/why-are-indiana-digital-drivers-licenses-still-not-available-after-4-years/",
+      "sailthru.author": "Hannah Adamson",
+      "sailthru.image.full": "https://fox59.com/wp-content/uploads/sites/21/2021/09/apple.jpg?strip=1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://fox59.com/wp-content/uploads/sites/21/2021/09/apple.jpg?w=1280"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Custom Diploma Frames & Certificate Frames - Framing Success ...",
+   "htmlTitle": "Custom Diploma Frames &amp; Certificate Frames - Framing Success ...",
+   "link": "https://www.framingsuccess.com/product/detail/productID/725656",
+   "displayLink": "www.framingsuccess.com",
+   "snippet": "Indiana University Diploma - Robert H. McKinney School of Law (Pre 6/22) Frame with Medallion and Black and Red Double Mat and Gold Embossing.",
+   "htmlSnippet": "<b>Indiana</b> University Diploma - Robert H. McKinney School of <b>Law</b> (Pre 6/22) Frame with Medallion and Black and Red Double Mat and Gold Embossing.",
+   "formattedUrl": "https://www.framingsuccess.com/product/detail/productID/725656",
+   "htmlFormattedUrl": "https://www.framingsuccess.com/product/detail/productID/725656",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR10ptYYZLtsUmPpwepDFnD_tpb-1fAgYFc-TtqJGxOyA7uy-12LAmer52X&s",
+      "width": "240",
+      "height": "210"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://media1.herffjones.com/apps/framingsuccess/in1009blgadma_lg.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MDL NPL Division - US Club Soccer Website",
+   "htmlTitle": "<b>MDL</b> NPL Division - US Club Soccer Website",
+   "link": "https://usclubsoccer.org/midwest-developmental-league-npl-division/",
+   "displayLink": "usclubsoccer.org",
+   "snippet": "MDL NPL Division. NPL Member Leagues \u00b7 Central States NPL \u00b7 FCL NPL Division ... Indiana Fire Academy South; Indiana Impact SC; Mercury Soccer. US Club Logo\u00a0...",
+   "htmlSnippet": "<b>MDL</b> NPL Division. NPL Member Leagues &middot; Central States NPL &middot; FCL NPL Division ... <b>Indiana</b> Fire Academy South; <b>Indiana</b> Impact SC; Mercury Soccer. US Club Logo&nbsp;...",
+   "formattedUrl": "https://usclubsoccer.org/midwest-developmental-league-npl-division/",
+   "htmlFormattedUrl": "https://usclubsoccer.org/midwest-developmental-league-npl-division/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsmx5c1TS6s_JSylehXAhGV5LQpCTo4xN2bOhmmO_Vv1uc8KV_usPkoSS7&s",
+      "width": "315",
+      "height": "160"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://usclubsoccer.org/wp-content/uploads/2022/07/NPL_MDL-768x390.png",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "US Club Soccer Website",
+      "og:title": "MDL NPL Division - US Club Soccer Website",
+      "twitter:label1": "Est. reading time",
+      "og:description": "League Website Schedule ABOUT THE MIDWEST DEVELOPMENTAL LEAGUE The Midwest Developmental League, which includes U-13 through U-19 boys age groups, was founded in April 2011 as part of the inaugural season of US Club Soccer\u2019s National Premier Leagues. It is Read More \u00bb",
+      "article:publisher": "https://www.facebook.com/usclubsoccer/",
+      "twitter:data1": "1 minute",
+      "twitter:site": "@USClubSoccer",
+      "article:modified_time": "2025-03-04T14:10:15+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://usclubsoccer.org/midwest-developmental-league-npl-division/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://usclubsoccer.org/wp-content/uploads/2022/07/NPL_MDL-768x390.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "IDOA: Procurement: Home",
+   "htmlTitle": "IDOA: Procurement: Home",
+   "link": "https://www.in.gov/idoa/procurement/",
+   "displayLink": "www.in.gov",
+   "snippet": "Bidder Opportunities \u00b7 PeopleSoft Financials Login \u00b7 Purchasing and Travel Credit Card Program \u00b7 Buy Indiana \u00b7 VENDORS & CONTRACTORS \u00b7 STATE & LOCAL GOV. \u00b7 PROGRAMS.",
+   "htmlSnippet": "Bidder Opportunities &middot; PeopleSoft Financials Login &middot; Purchasing and Travel Credit Card Program &middot; Buy <b>Indiana</b> &middot; VENDORS &amp; CONTRACTORS &middot; STATE &amp; LOCAL GOV. &middot; PROGRAMS.",
+   "formattedUrl": "https://www.in.gov/idoa/procurement/",
+   "htmlFormattedUrl": "https://www.in.gov/idoa/procurement/",
+   "pagemap": {
+    "metatags": [
+     {
+      "twitter:card": "summary",
+      "twitter:title": "Home",
+      "og:type": "website",
+      "article:published_time": "2020-11-19T14:21:28-05:00",
+      "og:site_name": "Procurement",
+      "dcterms.title": "Procurement",
+      "og:title": "Home",
+      "dcterms.creator": "Procurement",
+      "assetname": "Procurement",
+      "dcterms.created": "2020-11-19T14:07:31-05:00",
+      "dcterms.issued": "2020-11-19T14:21:28-05:00",
+      "dcterms.modified": "2024-07-10T10:58:28-04:00",
+      "article:modified_time": "2024-07-10T10:58:28-04:00",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "apple-mobile-web-app-capable": "yes",
+      "dcterms.format": "HTML",
+      "og:url": "https://www.in.gov/idoa/procurement/",
+      "dcterms.identifier": "https://www.in.gov/idoa/procurement",
+      "assettype": "site"
+     }
+    ]
+   }
+  }
+ ]
+}

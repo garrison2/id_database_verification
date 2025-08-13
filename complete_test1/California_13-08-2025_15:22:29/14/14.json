@@ -1,0 +1,476 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"California\" \"privacy act\" OR \"privacy law\"",
+    "totalResults": "111000000",
+    "searchTerms": "\"California\" \"privacy act\" OR \"privacy law\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"California\" \"privacy act\" OR \"privacy law\"",
+    "totalResults": "111000000",
+    "searchTerms": "\"California\" \"privacy act\" OR \"privacy law\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.21504,
+  "formattedSearchTime": "0.22",
+  "totalResults": "111000000",
+  "formattedTotalResults": "111,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "California Consumer Privacy Act (CCPA) | State of California ...",
+   "htmlTitle": "<b>California</b> Consumer <b>Privacy Act</b> (CCPA) | State of <b>California</b> ...",
+   "link": "https://oag.ca.gov/privacy/ccpa",
+   "displayLink": "oag.ca.gov",
+   "snippet": "Mar 13, 2024 ... Updated on March 13, 2024 The California Consumer Privacy Act of 2018 (CCPA) gives consumers more control over the personal information that\u00a0...",
+   "htmlSnippet": "Mar 13, 2024 <b>...</b> Updated on March 13, 2024 The <b>California</b> Consumer <b>Privacy Act</b> of 2018 (CCPA) gives consumers more control over the personal information that&nbsp;...",
+   "formattedUrl": "https://oag.ca.gov/privacy/ccpa",
+   "htmlFormattedUrl": "https://oag.ca.gov/privacy/ccpa",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt13Gj3QIR7Gu-wsjBLabPFxi4LVpjTwOR-p5T1yMr4qKWyXI8wrzmJoO3&s",
+      "width": "311",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://oag.ca.gov/sites/default/files/oag-opengraph.jpg",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "California Consumer Privacy Act (CCPA)",
+      "article:published_time": "2018-10-15T16:15:53-07:00",
+      "og:site_name": "State of California - Department of Justice - Office of the Attorney General",
+      "msvalidate.01": "677D5153D29C8072A80042A74C837F58",
+      "twitter:url": "https://oag.ca.gov/privacy/ccpa",
+      "og:title": "California Consumer Privacy Act (CCPA)",
+      "og:updated_time": "2025-01-28T09:01:46-08:00",
+      "og:description": "Updated on March 13, 2024 The California Consumer Privacy Act of 2018 (CCPA) gives consumers more control over the personal information that businesses collect about them and the CCPA regulations provide guidance on how to implement the law.",
+      "twitter:image": "https://oag.ca.gov/sites/default/files/oag-opengraph.jpg",
+      "article:modified_time": "2025-01-28T09:01:46-08:00",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Updated on March 13, 2024 The California Consumer Privacy Act of 2018 (CCPA) gives consumers more control over the personal information that businesses collect about them and the CCPA regulations",
+      "og:url": "https://oag.ca.gov/privacy/ccpa"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://oag.ca.gov/sites/default/files/oag-opengraph.jpg"
+     }
+    ],
+    "Document": [
+     {
+      "num_replies": "0",
+      "title": "California Consumer Privacy Act (CCPA)",
+      "encoded": "Updated on March 13, 2024 The California Consumer Privacy Act of 2018 (CCPA) gives consumers more control over the personal information that businesses collect about them and the CCPA regulations..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Privacy Law Guide - California Lawyers Association",
+   "htmlTitle": "<b>Privacy Law</b> Guide - <b>California</b> Lawyers Association",
+   "link": "https://calawyers.org/section/privacy-law/privacy-law-guide/",
+   "displayLink": "calawyers.org",
+   "snippet": "The Privacy Law Section has compiled the following summary of some of ... California Consumer Privacy Act of 2018. Cal. Civil Code \u00a7\u00a7 1798.100\u20131798.199.",
+   "htmlSnippet": "The <b>Privacy Law</b> Section has compiled the following summary of some of ... <b>California</b> Consumer <b>Privacy Act</b> of 2018. Cal. Civil Code \u00a7\u00a7 1798.100\u20131798.199.",
+   "formattedUrl": "https://calawyers.org/section/privacy-law/privacy-law-guide/",
+   "htmlFormattedUrl": "https://calawyers.org/section/<b>privacy-law</b>/<b>privacy-law</b>-guide/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYdl6LLAnPgiIWWPqyB07v874ehBdZjNadEz-U3PiSy_RNIPKf-fE2yzX2&s",
+      "width": "245",
+      "height": "206"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://calawyers.org/wp-content/uploads/2019/08/CLA_logo-e1637274101193.png",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "California Lawyers Association",
+      "tec-api-origin": "https://calawyers.org",
+      "og:title": "Privacy Law Guide - California Lawyers Association",
+      "msapplication-tileimage": "https://calawyers.org/wp-content/uploads/2019/08/cropped-favicon-270x270.jpg",
+      "og:description": "California Privacy Laws The Privacy Law Section has compiled the following summary of some of California\u2019s major privacy laws is below, with links to the statutes.\u00a0 We will update this\u2026",
+      "article:publisher": "https://www.facebook.com/CALawyersOrg/",
+      "twitter:site": "@CALawyersOrg",
+      "article:modified_time": "2022-10-25T14:35:44+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://calawyers.org/section/privacy-law/privacy-law-guide/",
+      "tec-api-version": "v1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://calawyers.org/wp-content/uploads/2019/08/CLA_logo-e1637274101193.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CALIFORNIA CONSUMER PRIVACY ACT OF 2018 - effective 01/01 ...",
+   "htmlTitle": "<b>CALIFORNIA</b> CONSUMER <b>PRIVACY ACT</b> OF 2018 - effective 01/01 ...",
+   "link": "https://cppa.ca.gov/regulations/pdf/ccpa_statute.pdf",
+   "displayLink": "cppa.ca.gov",
+   "snippet": "Jan 1, 2025 ... and enforce the California Consumer Privacy Act of 2018. The agency shall be governed by a five-member board, including the chairperson. The\u00a0...",
+   "htmlSnippet": "Jan 1, 2025 <b>...</b> and enforce the <b>California</b> Consumer <b>Privacy Act</b> of 2018. The agency shall be governed by a five-member board, including the chairperson. The&nbsp;...",
+   "formattedUrl": "https://cppa.ca.gov/regulations/pdf/ccpa_statute.pdf",
+   "htmlFormattedUrl": "https://cppa.ca.gov/regulations/pdf/ccpa_statute.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20241216105238-08'00'",
+      "creationdate": "D:20241216104455-08'00'",
+      "creator": "Acrobat PDFMaker 24 for Word",
+      "sourcemodified": "D:20241216184448",
+      "author": "California Privacy Protection Agency",
+      "subject": "California Consumer Privacy Act of 2018",
+      "producer": "Adobe PDF Library 24.4.48",
+      "title": "California Consumer Privacy Act of 2018",
+      "contenttypeid": "0x010100E35E276DB9447C448D1AB74E91CC0E53"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "California Consumer Privacy Act - Wikipedia",
+   "htmlTitle": "<b>California</b> Consumer <b>Privacy Act</b> - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/California_Consumer_Privacy_Act",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "California Consumer Privacy Act. Article \u00b7 Talk. Language; Watch \u00b7 Edit. The ... \"California's new privacy law, explained\". Vox. Retrieved December 31, 2019\u00a0...",
+   "htmlSnippet": "<b>California</b> Consumer <b>Privacy Act</b>. Article &middot; Talk. Language; Watch &middot; Edit. The ... &quot;<b>California&#39;s</b> new <b>privacy law</b>, explained&quot;. Vox. Retrieved December 31, 2019&nbsp;...",
+   "formattedUrl": "https://en.wikipedia.org/wiki/California_Consumer_Privacy_Act",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>California</b>_Consumer_<b>Privacy_Act</b>",
+   "pagemap": {
+    "metatags": [
+     {
+      "referrer": "origin",
+      "theme-color": "#eaecf0",
+      "og:type": "website",
+      "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+      "og:title": "California Consumer Privacy Act - Wikipedia",
+      "format-detection": "telephone=no"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Frequently Asked Questions (FAQs) - California Privacy Protection ...",
+   "htmlTitle": "Frequently Asked Questions (FAQs) - <b>California</b> Privacy Protection ...",
+   "link": "https://cppa.ca.gov/faq.html",
+   "displayLink": "cppa.ca.gov",
+   "snippet": "The California Consumer Privacy Act of 2018 gives consumers certain rights ... This landmark legislation was the first comprehensive consumer privacy law passed\u00a0...",
+   "htmlSnippet": "The <b>California</b> Consumer <b>Privacy Act</b> of 2018 gives consumers certain rights ... This landmark legislation was the first comprehensive consumer <b>privacy law</b> passed&nbsp;...",
+   "formattedUrl": "https://cppa.ca.gov/faq.html",
+   "htmlFormattedUrl": "https://cppa.ca.gov/faq.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:image": "/images/logo.png",
+      "og:image:width": "1024",
+      "handheldfriendly": "True",
+      "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0",
+      "author": "State of California",
+      "mobileoptimized": "320",
+      "og:image:height": "1024",
+      "og:image:type": "image/png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "/images/logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CCPA and CPRA",
+   "htmlTitle": "CCPA and CPRA",
+   "link": "https://iapp.org/resources/topics/ccpa-and-cpra/",
+   "displayLink": "iapp.org",
+   "snippet": "... California Consumer Privacy Act and California Privacy Rights Act. In June ... New California privacy law to affect more than half a million US companies.",
+   "htmlSnippet": "... <b>California</b> Consumer <b>Privacy Act</b> and <b>California</b> Privacy Rights Act. In June ... New <b>California privacy law</b> to affect more than half a million US companies.",
+   "formattedUrl": "https://iapp.org/resources/topics/ccpa-and-cpra/",
+   "htmlFormattedUrl": "https://iapp.org/resources/topics/ccpa-and-cpra/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7t_xZHF71y3kJC33e56b-Fm4WUuzaywGUoiHfYoyRA-qleF9gD-3Ev5A&s",
+      "width": "200",
+      "height": "200"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffffff",
+      "og:image": "https://iapp.org/wp-content/themes/iapp/static/img/iapp_logo_fb.png",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0, user-scalable=0",
+      "og:title": "CCPA and CPRA",
+      "msapplication-tileimage": "/ms-icon-144x144.png",
+      "og:description": "This topic page contains a curation of the IAPP\u2019s coverage, analysis and relevant resources covering the California Consumer Privacy Act and California Privacy Rights Act."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://iapp.org/wp-content/themes/iapp/static/img/iapp_logo_fb.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Understanding the California Consumer Privacy Act (CCPA)",
+   "htmlTitle": "Understanding the <b>California</b> Consumer <b>Privacy Act</b> (CCPA)",
+   "link": "https://legal.thomsonreuters.com/blog/the-california-consumer-privacy-act/",
+   "displayLink": "legal.thomsonreuters.com",
+   "snippet": "Mar 4, 2025 ... California became the first U.S. state with a comprehensive consumer privacy law when the California Consumer Privacy Act of 2018 (CCPA)\u00a0...",
+   "htmlSnippet": "Mar 4, 2025 <b>...</b> <b>California</b> became the first U.S. state with a comprehensive consumer <b>privacy law</b> when the <b>California</b> Consumer <b>Privacy Act</b> of 2018 (CCPA)&nbsp;...",
+   "formattedUrl": "https://legal.thomsonreuters.com/blog/the-california-consumer-privacy-act/",
+   "htmlFormattedUrl": "https://legal.thomsonreuters.com/blog/the-<b>california</b>-consumer-<b>privacy-act</b>/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_e7fSJ8PYy-HOnz8K3kxIgW1K2YE-cFnCaa-KJ9-nc2zTmMKrEazq3L6l&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://legal.thomsonreuters.com/blog/wp-content/uploads/sites/19/2024/07/TR_Waypt_Wide_Rectangle_9-scaled.webp",
+      "theme-color": "#828282",
+      "article:published_time": "2025-03-04T20:54:31+00:00",
+      "og:image:width": "2560",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Thomson Reuters Law Blog",
+      "twitter:label1": "Written by",
+      "twitter:label2": "Est. reading time",
+      "og:image:type": "image/jpeg",
+      "featured-article-tag": "Legal Topics",
+      "w-thumbnail-image": "https://legal.thomsonreuters.com/blog/wp-content/uploads/sites/19/2024/07/TR_Waypt_Wide_Rectangle_9-scaled-690x388.webp",
+      "msapplication-tileimage": "https://legal.thomsonreuters.com/blog/wp-content/themes/tac/assets/media/tile.png",
+      "og:description": "Key aspects of the California Consumer Privacy Act (CCPA), including consumer rights, compliance requirements, and recent updates.",
+      "twitter:data1": "jamesju",
+      "ourpurpose-article-tag": "ourpurpose-article-tag:|ourpurpose-article-tag:",
+      "twitter:data2": "6 minutes",
+      "article:modified_time": "2025-08-06T17:46:47+00:00",
+      "article-read-time": "6 minute read",
+      "msapplication-tilecolor": "#ff8000",
+      "og:type": "article",
+      "handheldfriendly": "True",
+      "author": "jamesju",
+      "og:title": "Understanding the California Consumer Privacy Act (CCPA)",
+      "og:image:height": "1440",
+      "article-published_time": "2025-03-04T20:54:31-06:00",
+      "article-title": "The California Consumer Privacy Act (CCPA) \u2014 Legal glossary",
+      "article-tag": "article-tag:Glossary|article-tag:Legal Topics",
+      "article-author": "Marjorie Richter J.D.",
+      "viewport": "width=device-width, initial-scale=1",
+      "mobileoptimized": "320",
+      "og:locale": "en_US",
+      "article-description": "Key aspects of the California Consumer Privacy Act (CCPA), including consumer rights, compliance requirements, and recent updates.",
+      "og:url": "https://legal.thomsonreuters.com/blog/the-california-consumer-privacy-act/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://legal.thomsonreuters.com/blog/wp-content/uploads/sites/19/2024/07/TR_Waypt_Wide_Rectangle_9-scaled.webp"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "California Consumer Privacy Laws \u2013 CCPA & CPRA - Bloomberg Law",
+   "htmlTitle": "<b>California</b> Consumer Privacy Laws \u2013 CCPA &amp; CPRA - Bloomberg Law",
+   "link": "https://pro.bloomberglaw.com/insights/privacy/california-consumer-privacy-laws/",
+   "displayLink": "pro.bloomberglaw.com",
+   "snippet": "Track the shifting policy landscape and changing privacy law ... The California Consumer Privacy Act (CCPA), signed into law on June 28, 2018\u00a0...",
+   "htmlSnippet": "Track the shifting policy landscape and changing <b>privacy law</b> ... The <b>California</b> Consumer <b>Privacy Act</b> (CCPA), signed into law on June 28, 2018&nbsp;...",
+   "formattedUrl": "https://pro.bloomberglaw.com/insights/.../california-consumer-privacy-laws...",
+   "htmlFormattedUrl": "https://pro.bloomberglaw.com/insights/.../<b>california</b>-consumer-<b>privacy-law</b>s...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZiQWq_b3z66B2oI6QUjsdIxfXZ4ye95mrhwElKDLC7hTX8SGnB2rkukIo&s",
+      "width": "318",
+      "height": "159"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://assets.bbhub.io/bna/sites/18/2024/01/CA-Consumer-Privacy-Laws.jpg",
+      "og:type": "article",
+      "article:published_time": "2023-12-13T17:26:57+00:00",
+      "og:image:width": "800",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Bloomberg Law",
+      "author": "ssimpson73",
+      "og:title": "California Consumer Privacy Laws \u2013 CCPA & CPRA - Bloomberg Law",
+      "og:image:height": "400",
+      "twitter:label1": "Written by",
+      "twitter:label2": "Est. reading time",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://assets.bbhub.io/bna/sites/18/2024/02/favicon-228.png",
+      "og:description": "Your guide to understanding key provisions and impact of the CCPA and CPRA, including protected rights, enforcement, and how to comply.",
+      "twitter:data1": "ssimpson73",
+      "twitter:data2": "15 minutes",
+      "article:modified_time": "2025-01-03T20:21:12+00:00",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover",
+      "og:locale": "en_US",
+      "og:url": "https://pro.bloomberglaw.com/insights/privacy/california-consumer-privacy-laws/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://assets.bbhub.io/bna/sites/18/2024/01/CA-Consumer-Privacy-Laws.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "California Consumer Privacy Act: FAQs for Employers - Jackson Lewis",
+   "htmlTitle": "<b>California</b> Consumer <b>Privacy Act</b>: FAQs for Employers - Jackson Lewis",
+   "link": "https://www.jacksonlewis.com/insights/california-consumer-privacy-act-faqs-employers",
+   "displayLink": "www.jacksonlewis.com",
+   "snippet": "Jan 28, 2019 ... The recently enacted California Consumer Privacy Act (CCPA) is ... The CCPA, which becomes effective on January 1, 2020, is in some ways the most\u00a0...",
+   "htmlSnippet": "Jan 28, 2019 <b>...</b> The recently enacted <b>California</b> Consumer <b>Privacy Act</b> (CCPA) is ... The CCPA, which becomes effective on January 1, 2020, is in some ways the most&nbsp;...",
+   "formattedUrl": "https://www.jacksonlewis.com/.../california-consumer-privacy-act-faqs-emp...",
+   "htmlFormattedUrl": "https://www.jacksonlewis.com/.../<b>california</b>-consumer-<b>privacy-act</b>-faqs-emp...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoWGMnzpqY25x8d9TVaZExZrAq-DVQjwty3JABwEjsha83pVYnrNiQx5w&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.jacksonlewis.com/sites/default/files/2023-05/Jackson-Lewis-We-Get-Work.png",
+      "og:image:width": "1200",
+      "article:published_time": "2023-04-01T11:58:19-04:00",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Jackson Lewis",
+      "og:image:type": "image/jpeg",
+      "og:description": "Data privacy and security regulation is growing rapidly around the world, including in the United States. In addition to strengthening the requirements to secure personal data, individuals are being given an increasing array of rights concerning the collection, use, disclosure, sale, and processing of their personal information. Meanwhile, organizations\u2019 growing appetite for more data, and more types of data, persists, despite mounting security risks and concerns about permissible use.",
+      "twitter:creator": "@jacksonlewispc",
+      "twitter:image": "https://www.jacksonlewis.com/sites/default/files/2023-05/Jackson-Lewis-We-Get-Work.png",
+      "twitter:image:alt": "\"Jackson Lewis\"",
+      "twitter:site": "@jacksonlewispc",
+      "article:modified_time": "2023-04-01T11:58:19-04:00",
+      "rights": "Copyright \u00a92025 All rights reserved.",
+      "og:type": "article",
+      "og:image:alt": "\"Jackson Lewis\"",
+      "twitter:title": "California Consumer Privacy Act: FAQs for Employers - Jackson Lewis",
+      "twitter:site:id": "154650073",
+      "og:title": "California Consumer Privacy Act: FAQs for Employers - Jackson Lewis",
+      "og:image:height": "630",
+      "abstract": "Data privacy and security regulation is growing rapidly around the world, including in the United States. In addition to strengthening the requirements to secure personal data, individuals are being given an increasing array of rights concerning the collection, use, disclosure, sale, and processing of their personal information. Meanwhile, organizations\u2019 growing appetite for more data, and more types of data, persists, despite mounting security risks and concerns about permissible use.",
+      "og:updated_time": "2023-04-01T11:58:19-04:00",
+      "referrer": "unsafe-url",
+      "twitter:creator:id": "154650073",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Data privacy and security regulation is growing rapidly around the world, including in the United States. In addition to strengthening the requirements to secure personal data, individuals are being given an increasing array of rights concerning the collection, use, disclosure, sale, and processing of their personal information. Meanwhile, organizations\u2019 growing appetite for more data, and more types of data, persists, despite mounting security risks and concerns about permissible use.",
+      "og:locale": "en_US",
+      "og:url": "https://www.jacksonlewis.com/insights/california-consumer-privacy-act-faqs-employers"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.jacksonlewis.com/sites/default/files/2023-05/Jackson-Lewis-We-Get-Work.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Overview of New Rights for Workers under the California Consumer ...",
+   "htmlTitle": "Overview of New Rights for Workers under the <b>California</b> Consumer ...",
+   "link": "https://laborcenter.berkeley.edu/overview-of-new-rights-for-workers-under-the-california-consumer-privacy-act/",
+   "displayLink": "laborcenter.berkeley.edu",
+   "snippet": "Dec 6, 2023 ... ... privacy law, the California ... As of January 1, 2023, workers in California are covered by the California Consumer Privacy Act (CCPA).",
+   "htmlSnippet": "Dec 6, 2023 <b>...</b> ... <b>privacy law</b>, the <b>California</b> ... As of January 1, 2023, workers in <b>California</b> are covered by the <b>California</b> Consumer <b>Privacy Act</b> (CCPA).",
+   "formattedUrl": "https://laborcenter.berkeley.edu/overview-of-new-rights-for-workers-under...",
+   "htmlFormattedUrl": "https://laborcenter.berkeley.edu/overview-of-new-rights-for-workers-under...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ4vDyx7vGWXSsovW9x2UkbfdO-u8PhzQ4wlPD9s1bM1WSshjQfTZdZP4Y&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "BreadcrumbList": [
+     {}
+    ],
+    "metatags": [
+     {
+      "og:image": "https://laborcenter.berkeley.edu/wp-content/uploads/2023/12/data-lockdown-scaled.jpeg",
+      "og:type": "article",
+      "og:image:width": "2560",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "UC Berkeley Labor Center",
+      "og:title": "Overview of New Rights for Workers under the California Consumer Privacy Act",
+      "og:image:height": "1435",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://laborcenter.berkeley.edu/wp-content/uploads/2020/07/cropped-Labor-Center-favicon-270x270.png",
+      "og:description": "This memo provides an overview of workers\u2019 rights under the California Consumer Privacy Act (CCPA) and how workers can exercise these rights.",
+      "article:publisher": "http://facebook.com/ucberkeleylaborcenter",
+      "url": "https://laborcenter.berkeley.edu/overview-of-new-rights-for-workers-under-the-california-consumer-privacy-act/",
+      "twitter:site": "@ucblaborcenter",
+      "article:modified_time": "2024-02-20T22:06:00+00:00",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:locale": "en_US",
+      "position": "1",
+      "og:url": "https://laborcenter.berkeley.edu/overview-of-new-rights-for-workers-under-the-california-consumer-privacy-act/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://laborcenter.berkeley.edu/wp-content/uploads/2023/12/data-lockdown-scaled.jpeg"
+     }
+    ]
+   }
+  }
+ ]
+}

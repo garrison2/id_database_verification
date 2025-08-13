@@ -1,0 +1,410 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Arkansas Code\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "1150",
+    "searchTerms": "\"Arkansas Code\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Arkansas Code\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "1150",
+    "searchTerms": "\"Arkansas Code\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.160067,
+  "formattedSearchTime": "0.16",
+  "totalResults": "1150",
+  "formattedTotalResults": "1,150"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Arkansas Code Title 4 \u2013 Business and Commercial Law Subtitle 7 ...",
+   "htmlTitle": "<b>Arkansas Code</b> Title 4 \u2013 Business and Commercial Law Subtitle 7 ...",
+   "link": "https://www.dwt.com/files/uploads/documents/Publications/Arkansas%20Security%20Breach.pdf",
+   "displayLink": "www.dwt.com",
+   "snippet": "(7) \"Personal information\" means an individual's first name or first initial and his or her ... (B) Driver's license number or Arkansas identification card number\u00a0...",
+   "htmlSnippet": "(7) &quot;<b>Personal information</b>&quot; <b>means</b> an individual&#39;s first name or first initial and his or her ... (B) <b>Driver&#39;s license</b> number or Arkansas <b>identification card</b> number&nbsp;...",
+   "formattedUrl": "https://www.dwt.com/files/uploads/.../Arkansas%20Security%20Breach.pdf",
+   "htmlFormattedUrl": "https://www.dwt.com/files/uploads/.../Arkansas%20Security%20Breach.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20070730100215-04'00'",
+      "creationdate": "D:20070730100215-04'00'",
+      "creator": "PScript5.dll Version 5.2",
+      "author": "beth",
+      "producer": "Acrobat Distiller 6.0 (Windows)",
+      "title": "Microsoft Word - Arkansas Security Breach.doc"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "*DLP241* A Bill",
+   "htmlTitle": "*DLP241* A Bill",
+   "link": "https://arkleg.state.ar.us/Acts/FTPDocument?path=%2FACTS%2F2005%2FPublic%2F&file=1526.pdf&ddBienniumSession=2005%2FR",
+   "displayLink": "arkleg.state.ar.us",
+   "snippet": "Mar 18, 2005 ... Arkansas Code Title 4 is amended to add an additional. 22 chapter ... (7) \"Personal information\" means an individual's first name or. 36\u00a0...",
+   "htmlSnippet": "Mar 18, 2005 <b>...</b> <b>Arkansas Code</b> Title 4 is amended to add an additional. 22 chapter ... (7) &quot;<b>Personal information</b>&quot; <b>means</b> an individual&#39;s first name or. 36&nbsp;...",
+   "formattedUrl": "https://arkleg.state.ar.us/Acts/FTPDocument?path...file=1526.pdf...",
+   "htmlFormattedUrl": "https://arkleg.state.ar.us/Acts/FTPDocument?path...file=1526.pdf...",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20050401155918-06'00'",
+      "creationdate": "D:20050401155918-06'00'",
+      "creator": "PScript5.dll Version 5.2.2",
+      "author": "diazr",
+      "producer": "Acrobat Distiller 6.0 (Windows)",
+      "title": "Microsoft Word - ACT1526.doc"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arkansas Code \u00a7 4-110-103 (2024) - Definitions :: 2024 Arkansas ...",
+   "htmlTitle": "<b>Arkansas Code</b> \u00a7 4-110-103 (2024) - Definitions :: 2024 <b>Arkansas</b> ...",
+   "link": "https://law.justia.com/codes/arkansas/title-4/subtitle-7/chapter-110/section-4-110-103/",
+   "displayLink": "law.justia.com",
+   "snippet": "(7) \"Personal information\" means an individual's first name or first initial ... (B) Driver's license number or Arkansas identification card number;. (C)\u00a0...",
+   "htmlSnippet": "(7) &quot;<b>Personal information</b>&quot; <b>means</b> an individual&#39;s first name or first initial ... (B) <b>Driver&#39;s license</b> number or Arkansas <b>identification card</b> number;. (C)&nbsp;...",
+   "formattedUrl": "https://law.justia.com/codes/arkansas/title-4/subtitle.../section-4-110-103/",
+   "htmlFormattedUrl": "https://law.justia.com/codes/arkansas/title-4/subtitle.../section-4-110-103/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPP2ksOfM4IyWL7PTxPyS5N80Or-jyXZZLgeH1kYuOtXk5YU597YCxGszS&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "og:site_name": "Justia Law",
+      "og:title": "Arkansas Code of 1987 (2024) :: Title 4 - BUSINESS AND COMMERCIAL LAW (\u00a7\u00a7 4-1-101 \u2014 4-119-105) :: Subtitle 7 - CONSUMER PROTECTION (\u00a7\u00a7 4-86-101 \u2014 4-119-105) :: Chapter 110 - PERSONAL INFORMATION PROTECTION ACT (\u00a7\u00a7 4-110-101 \u2014 4-110-108) :: Section 4-110-103 - Definitions",
+      "og:app_id": "119529808075661",
+      "trigger-ga": "1",
+      "og:description": "Ark. Code \u00a7 4-110-103 - Definitions from 2024 Arkansas Code",
+      "og:admins": "656268335,686786921,25900864",
+      "referrer": "unsafe-url",
+      "twitter:site": "@JustiaCom",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "page-type": "Law: Codes Document Page (Current Year)",
+      "is-li": "0",
+      "og:url": "https://law.justia.com/codes/arkansas/title-4/subtitle-7/chapter-110/section-4-110-103/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Notary Public & eNotary Handbook",
+   "htmlTitle": "Notary Public &amp; eNotary Handbook",
+   "link": "https://www.sos.arkansas.gov/uploads/bcs/NotaryHandbook.pdf",
+   "displayLink": "www.sos.arkansas.gov",
+   "snippet": "Statutes referred to in this booklet may be viewed at www.arkleg.state.ar.us under the \u201cArkansas Code\u201d tab. ... identification card before issuing the seal of\u00a0...",
+   "htmlSnippet": "Statutes referred to in this booklet may be viewed at www.arkleg.state.ar.us under the \u201c<b>Arkansas Code</b>\u201d tab. ... <b>identification card</b> before issuing the seal of&nbsp;...",
+   "formattedUrl": "https://www.sos.arkansas.gov/uploads/bcs/NotaryHandbook.pdf",
+   "htmlFormattedUrl": "https://www.sos.arkansas.gov/uploads/bcs/NotaryHandbook.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6DphQVllS6XSJxxHJVeBSI_N-eAKPU3pj7V9SDLNRnVsiPOh_phvEyCo&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20211025095127-05'00'",
+      "creationdate": "D:20211025093956-05'00'",
+      "creator": "Adobe InDesign 16.4 (Macintosh)",
+      "producer": "Adobe PDF Library 16.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///1ca72c166c63b68bc0bf7b9dd085e129735e3c4d6cc062e42d54edd4117058b5"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arkansas Code Title 9. Family Law \u00a7 9-14-239 | FindLaw",
+   "htmlTitle": "<b>Arkansas Code</b> Title 9. Family Law \u00a7 9-14-239 | FindLaw",
+   "link": "https://codes.findlaw.com/ar/title-9-family-law/ar-code-sect-9-14-239/",
+   "displayLink": "codes.findlaw.com",
+   "snippet": "License\u201d means an Arkansas driver's license issued pursuant to the Motor Vehicle Driver's License ... defined by \u00a7 27-14-1002 and every motorized cycle as\u00a0...",
+   "htmlSnippet": "License\u201d <b>means</b> an Arkansas <b>driver&#39;s license</b> issued pursuant to the Motor Vehicle <b>Driver&#39;s License</b> ... <b>defined</b> by \u00a7 27-14-1002 and every motorized cycle as&nbsp;...",
+   "formattedUrl": "https://codes.findlaw.com/ar/title-9-family-law/ar-code-sect-9-14-239/",
+   "htmlFormattedUrl": "https://codes.findlaw.com/ar/title-9-family-law/ar-code-sect-9-14-239/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuWtKEZ0kzYj6NSuZlgNrAF5XcYIi9XgsiqHcAgQHtxY18xcWZ1bDMaCM&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png",
+      "og:type": "article",
+      "og:site_name": "Findlaw",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Arkansas Code Title 9. Family Law \u00a7 9-14-239 | FindLaw",
+      "og:url": "https://codes.findlaw.com/ar/title-9-family-law/ar-code-sect-9-14-239/",
+      "og:description": "Arkansas Title 9. Family Law   Section 9-14-239. Read the code on FindLaw"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile ID for Businesses \u2013 Arkansas Department of Finance and ...",
+   "htmlTitle": "Mobile ID for Businesses \u2013 Arkansas Department of Finance and ...",
+   "link": "https://www.dfa.arkansas.gov/office/driver-services/mobile-id/mobile-id-for-businesses/",
+   "displayLink": "www.dfa.arkansas.gov",
+   "snippet": "Mar 6, 2025 ... The verification process authenticates the driver's license/ID data for you. Contactless. Scanning a QR code or using the NFC \"tap\" means you\u00a0...",
+   "htmlSnippet": "Mar 6, 2025 <b>...</b> The verification process authenticates the <b>driver&#39;s license</b>/ID data for you. Contactless. Scanning a QR code or using the NFC &quot;tap&quot; <b>means</b> you&nbsp;...",
+   "formattedUrl": "https://www.dfa.arkansas.gov/office/driver...id/mobile-id-for-businesses/",
+   "htmlFormattedUrl": "https://www.dfa.arkansas.gov/office/driver...id/mobile-id-for-businesses/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ0k7syzdWQFBKqOASM2LtQsJQg3uukNEcIoP72PR4dTsXFzDadPt8TdU&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dfa.arkansas.gov/wp-content/uploads/arkansas-state-flag--scaled.jpg",
+      "og:type": "article",
+      "og:image:width": "2560",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Arkansas Department of Finance and Administration",
+      "og:title": "Mobile ID for Businesses \u2013 Arkansas Department of Finance and Administration",
+      "og:image:height": "1440",
+      "twitter:label1": "Est. reading time",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://www.dfa.arkansas.gov/wp-content/uploads/DFA-Logo.svg",
+      "og:description": "Businesses can verify customer identities using the Arkansas Mobile ID app. It explains the benefits of accepting Mobile ID, including enhanced security and fraud prevention, and offers guidance on implementation.",
+      "article:publisher": "https://www.facebook.com/ArkansasDFA/",
+      "twitter:data1": "1 minute",
+      "twitter:site": "@arkansasdfa",
+      "article:modified_time": "2025-03-06T18:26:30+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "ina-man": "fw",
+      "og:url": "https://www.dfa.arkansas.gov/office/driver-services/mobile-id/mobile-id-for-businesses/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dfa.arkansas.gov/wp-content/uploads/arkansas-state-flag--scaled.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Arkansas Code Title 27. Transportation \u00a7 27-16-302 | FindLaw",
+   "htmlTitle": "<b>Arkansas Code</b> Title 27. Transportation \u00a7 27-16-302 | FindLaw",
+   "link": "https://codes.findlaw.com/ar/title-27-transportation/ar-code-sect-27-16-302/",
+   "displayLink": "codes.findlaw.com",
+   "snippet": "Arkansas Code Title 27. Transportation \u00a7 27-16-302. Unlawful use of license ... means an Arkansas driver's license;. (3) To lend the person's driver's\u00a0...",
+   "htmlSnippet": "<b>Arkansas Code</b> Title 27. Transportation \u00a7 27-16-302. Unlawful use of license ... <b>means</b> an Arkansas <b>driver&#39;s license</b>;. (3) To lend the person&#39;s <b>driver&#39;s</b>&nbsp;...",
+   "formattedUrl": "https://codes.findlaw.com/ar/title-27.../ar-code-sect-27-16-302/",
+   "htmlFormattedUrl": "https://codes.findlaw.com/ar/title-27.../ar-code-sect-27-16-302/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuWtKEZ0kzYj6NSuZlgNrAF5XcYIi9XgsiqHcAgQHtxY18xcWZ1bDMaCM&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png",
+      "og:type": "article",
+      "og:site_name": "Findlaw",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Arkansas Code Title 27. Transportation \u00a7 27-16-302 | FindLaw",
+      "apple-mobile-web-app-title": "FindLaw",
+      "og:url": "https://codes.findlaw.com/ar/title-27-transportation/ar-code-sect-27-16-302/",
+      "og:description": "Arkansas Title 27. Transportation   Section 27-16-302. Read the code on FindLaw"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile ID for Users \u2013 Arkansas Department of Finance and ...",
+   "htmlTitle": "Mobile ID for Users \u2013 Arkansas Department of Finance and ...",
+   "link": "https://www.dfa.arkansas.gov/office/driver-services/mobile-id/mobile-id-for-users/",
+   "displayLink": "www.dfa.arkansas.gov",
+   "snippet": "Mobile ID keeps user data secure and ensures the privacy of personal information by only storing it within the state system of record and on the user's device.",
+   "htmlSnippet": "Mobile ID keeps user data secure and ensures the privacy of <b>personal information</b> by only storing it within the state system of record and on the user&#39;s device.",
+   "formattedUrl": "https://www.dfa.arkansas.gov/office/driver-services/.../mobile-id-for-users/",
+   "htmlFormattedUrl": "https://www.dfa.arkansas.gov/office/driver-services/.../mobile-id-for-users/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ0k7syzdWQFBKqOASM2LtQsJQg3uukNEcIoP72PR4dTsXFzDadPt8TdU&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dfa.arkansas.gov/wp-content/uploads/arkansas-state-flag--scaled.jpg",
+      "og:type": "article",
+      "og:image:width": "2560",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Arkansas Department of Finance and Administration",
+      "og:title": "Mobile ID for Users \u2013 Arkansas Department of Finance and Administration",
+      "og:image:height": "1440",
+      "twitter:label1": "Est. reading time",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://www.dfa.arkansas.gov/wp-content/uploads/DFA-Logo.svg",
+      "og:description": "Arkansas residents can download, set up, and use the Arkansas Mobile ID app for a secure and convenient digital version of their driver\u2019s license or state ID. The benefits of Mobile ID include enhanced security, easy identity verification, and contactless transactions.",
+      "article:publisher": "https://www.facebook.com/ArkansasDFA/",
+      "twitter:data1": "1 minute",
+      "twitter:site": "@arkansasdfa",
+      "article:modified_time": "2025-03-06T18:27:59+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "ina-man": "fw",
+      "og:url": "https://www.dfa.arkansas.gov/office/driver-services/mobile-id/mobile-id-for-users/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dfa.arkansas.gov/wp-content/uploads/arkansas-state-flag--scaled.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CODE OF ARKANSAS RULES TITLE 5. CRIMINAL OFFENSES ...",
+   "htmlTitle": "CODE OF ARKANSAS RULES TITLE 5. CRIMINAL OFFENSES ...",
+   "link": "https://dps.arkansas.gov/wp-content/uploads/Code-of-Arkansas-Rules-CHCL-July_8_2025.pdf",
+   "displayLink": "dps.arkansas.gov",
+   "snippet": "Jul 8, 2025 ... (21)(A) \u201cResident\u201d means any person who possesses a valid Arkansas driver's license or identification card and who has established domicile as.",
+   "htmlSnippet": "Jul 8, 2025 <b>...</b> (21)(A) \u201cResident\u201d <b>means</b> any person who possesses a valid Arkansas <b>driver&#39;s license</b> or <b>identification card</b> and who has established domicile as.",
+   "formattedUrl": "https://dps.arkansas.gov/.../Code-of-Arkansas-Rules-CHCL-July_8_2025.pd...",
+   "htmlFormattedUrl": "https://dps.arkansas.gov/.../Code-of-Arkansas-Rules-CHCL-July_8_2025.pd...",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20250708125708-05'00'",
+      "creator": "Microsoft\u00ae Word for Microsoft 365",
+      "creationdate": "D:20250708125708-05'00'",
+      "author": "James Trammell",
+      "producer": "Microsoft\u00ae Word for Microsoft 365"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Privacy Policy \u2022 Arkansas Game & Fish Commission",
+   "htmlTitle": "Privacy Policy \u2022 Arkansas Game &amp; Fish Commission",
+   "link": "https://www.agfc.com/privacy-policy/",
+   "displayLink": "www.agfc.com",
+   "snippet": "Jun 1, 2017 ... ... means (including offline) or from other sources. Personally Identifiable Information Personally identifiable information ... Driver's License\u00a0...",
+   "htmlSnippet": "Jun 1, 2017 <b>...</b> ... <b>means</b> (including offline) or from other sources. <b>Personally Identifiable Information Personally identifiable information</b> ... <b>Driver&#39;s License</b>&nbsp;...",
+   "formattedUrl": "https://www.agfc.com/privacy-policy/",
+   "htmlFormattedUrl": "https://www.agfc.com/privacy-policy/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjGId745o0upU8mLfYWCYzFUpbuOZEvSQITXoskmvAcvJj2raCU0XvaEhZ&s",
+      "width": "265",
+      "height": "190"
+     }
+    ],
+    "metatags": [
+     {
+      "theme-color": "#136737",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Arkansas Game & Fish Commission",
+      "og:title": "Privacy Policy \u2022 Arkansas Game & Fish Commission",
+      "og:description": "Get the latest information on Privacy Policy. Plus, explore all of AGFC.com for all things hunting, fishing, and wildlife in Arkansas.",
+      "article:publisher": "https://www.facebook.com/ARGameandFish",
+      "facebook-domain-verification": "619erppqni6ujuie8qcneomijw7drv",
+      "twitter:site": "@ARGameandFish",
+      "article:modified_time": "2025-02-18T18:30:28+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.agfc.com/privacy-policy/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.agfc.com/wp-content/themes/timberland/theme/assets/images/logo.png"
+     }
+    ]
+   }
+  }
+ ]
+}

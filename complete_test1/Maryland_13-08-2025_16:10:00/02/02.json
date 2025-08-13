@@ -1,0 +1,415 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://mva.maryland.gov/ \"driver's license\" OR \"identification card\"",
+    "totalResults": "717",
+    "searchTerms": "site:https://mva.maryland.gov/ \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://mva.maryland.gov/ \"driver's license\" OR \"identification card\"",
+    "totalResults": "717",
+    "searchTerms": "site:https://mva.maryland.gov/ \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.131389,
+  "formattedSearchTime": "0.13",
+  "totalResults": "717",
+  "formattedTotalResults": "717"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Maryland Driver's License - Pages",
+   "htmlTitle": "Maryland <b>Driver&#39;s License</b> - Pages",
+   "link": "https://mva.maryland.gov/drivers/Pages/md-drivers-license.aspx",
+   "displayLink": "mva.maryland.gov",
+   "snippet": "Maryland Department of Transportation Motor Vehicle Administration. Lt_Inner_Content. \u200b\u200b\u200b\u200b. Section Menu. Driver's License & Identification Card.",
+   "htmlSnippet": "Maryland Department of Transportation Motor Vehicle Administration. Lt_Inner_Content. \u200b\u200b\u200b\u200b. Section Menu. <b>Driver&#39;s License</b> &amp; <b>Identification Card</b>.",
+   "formattedUrl": "https://mva.maryland.gov/drivers/Pages/md-drivers-license.aspx",
+   "htmlFormattedUrl": "https://mva.maryland.gov/drivers/Pages/md-<b>drivers-license</b>.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR7oGzbIQUEc1_nZeuoLrrKAB6TL3tYmyYGyLh-gFBkSfpmVGqv2fWgQ&s",
+      "width": "240",
+      "height": "112"
+     }
+    ],
+    "metatags": [
+     {
+      "robot": "noarchive",
+      "og:image": "/Style Library/egov/img/logo.png",
+      "og:type": "website",
+      "og:image:alt": "MVA Logo",
+      "og:site_name": "MVA",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "msvalidate.01": "DC82C0A3FC3A7277E85B6AC7346D802D",
+      "og:url": "/drivers/Pages/default.aspx"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://mva.maryland.gov/Style%20Library/egov/img/logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Maryland Identification Cards - Pages",
+   "htmlTitle": "Maryland Identification Cards - Pages",
+   "link": "https://mva.maryland.gov/drivers/Pages/apply-id-card.aspx",
+   "displayLink": "mva.maryland.gov",
+   "snippet": "Driver's License & Identification Card \u00b7 Commercial Driver's License \u00b7 Motorcycle & Other Licensing Options \u00b7 Driver's Knowledge Test & Requirements \u00b7 Driving Test,\u00a0...",
+   "htmlSnippet": "<b>Driver&#39;s License</b> &amp; <b>Identification Card</b> &middot; Commercial <b>Driver&#39;s License</b> &middot; Motorcycle &amp; Other Licensing Options &middot; Driver&#39;s Knowledge Test &amp; Requirements &middot; Driving Test,&nbsp;...",
+   "formattedUrl": "https://mva.maryland.gov/drivers/Pages/apply-id-card.aspx",
+   "htmlFormattedUrl": "https://mva.maryland.gov/drivers/Pages/apply-id-card.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWlgpy4wanrdwr9dKLs-y86MUzRAOGb2fb4GZffiTjdNm3a_nVOerIZN8k&s",
+      "width": "226",
+      "height": "223"
+     }
+    ],
+    "metatags": [
+     {
+      "robot": "noarchive",
+      "og:image": "/Style Library/egov/img/logo.png",
+      "og:type": "website",
+      "og:image:alt": "MVA Logo",
+      "og:site_name": "MVA",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "msvalidate.01": "DC82C0A3FC3A7277E85B6AC7346D802D",
+      "og:url": "/drivers/Pages/default.aspx"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://mva.maryland.gov/_layouts/15/images/spcommon.png?rev=43"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Renewing Your Maryland Driver's License - Pages",
+   "htmlTitle": "Renewing Your Maryland <b>Driver&#39;s License</b> - Pages",
+   "link": "https://mva.maryland.gov/about-mva/Pages/renew-your-license-info.aspx",
+   "displayLink": "mva.maryland.gov",
+   "snippet": "... Driver's License or ID CardTest Yourself! Sample Driver's TestMVA FeesMilitary ... Identification Card Sources of Proof Renewing Your Driver's License\u00a0...",
+   "htmlSnippet": "... <b>Driver&#39;s License</b> or ID CardTest Yourself! Sample Driver&#39;s TestMVA FeesMilitary ... <b>Identification Card</b> Sources of Proof Renewing Your <b>Driver&#39;s License</b>&nbsp;...",
+   "formattedUrl": "https://mva.maryland.gov/about-mva/Pages/renew-your-license-info.aspx",
+   "htmlFormattedUrl": "https://mva.maryland.gov/about-mva/Pages/renew-your-license-info.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR7oGzbIQUEc1_nZeuoLrrKAB6TL3tYmyYGyLh-gFBkSfpmVGqv2fWgQ&s",
+      "width": "240",
+      "height": "112"
+     }
+    ],
+    "metatags": [
+     {
+      "robot": "noarchive",
+      "og:image": "/Style Library/egov/img/logo.png",
+      "og:type": "website",
+      "og:image:alt": "MVA Logo",
+      "og:site_name": "MVA",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "msvalidate.01": "DC82C0A3FC3A7277E85B6AC7346D802D",
+      "og:url": "/about-mva/Pages/default.aspx"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://mva.maryland.gov/Style%20Library/egov/img/logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver's License - Pages",
+   "htmlTitle": "<b>Driver&#39;s License</b> - Pages",
+   "link": "https://mva.maryland.gov/drivers/Pages/rookie-driver-general-drivers.aspx",
+   "displayLink": "mva.maryland.gov",
+   "snippet": "Maryland Department of Transportation Motor Vehicle Administration. Lt_Inner_Content. Section Menu. Driver's License & Identification Card. Driver License\u00a0...",
+   "htmlSnippet": "Maryland Department of Transportation Motor Vehicle Administration. Lt_Inner_Content. Section Menu. <b>Driver&#39;s License</b> &amp; <b>Identification Card</b>. Driver License&nbsp;...",
+   "formattedUrl": "https://mva.maryland.gov/drivers/Pages/rookie-driver-general-drivers.aspx",
+   "htmlFormattedUrl": "https://mva.maryland.gov/drivers/Pages/rookie-driver-general-drivers.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR7oGzbIQUEc1_nZeuoLrrKAB6TL3tYmyYGyLh-gFBkSfpmVGqv2fWgQ&s",
+      "width": "240",
+      "height": "112"
+     }
+    ],
+    "metatags": [
+     {
+      "robot": "noarchive",
+      "og:image": "/Style Library/egov/img/logo.png",
+      "og:type": "website",
+      "og:image:alt": "MVA Logo",
+      "og:site_name": "MVA",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "msvalidate.01": "DC82C0A3FC3A7277E85B6AC7346D802D",
+      "og:url": "/drivers/Pages/default.aspx"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://mva.maryland.gov/Style%20Library/egov/img/logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "\u200bDriver Licensing Questions - Pages",
+   "htmlTitle": "\u200bDriver Licensing Questions - Pages",
+   "link": "https://mva.maryland.gov/Pages/driver-licensing-questions.aspx",
+   "displayLink": "mva.maryland.gov",
+   "snippet": "... driver's license or ID card to purchase fire arms. Back to top. What do I need to bring with me to get my driver's license or identification card renewed? To\u00a0...",
+   "htmlSnippet": "... <b>driver&#39;s license</b> or ID card to purchase fire arms. Back to top. What do I need to bring with me to get my <b>driver&#39;s license</b> or <b>identification card</b> renewed? To&nbsp;...",
+   "formattedUrl": "https://mva.maryland.gov/Pages/driver-licensing-questions.aspx",
+   "htmlFormattedUrl": "https://mva.maryland.gov/Pages/driver-licensing-questions.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR7oGzbIQUEc1_nZeuoLrrKAB6TL3tYmyYGyLh-gFBkSfpmVGqv2fWgQ&s",
+      "width": "240",
+      "height": "112"
+     }
+    ],
+    "metatags": [
+     {
+      "robot": "noarchive",
+      "og:image": "/Style Library/egov/img/logo.png",
+      "og:type": "website",
+      "og:image:alt": "MVA Logo",
+      "og:site_name": "MVA",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "msvalidate.01": "DC82C0A3FC3A7277E85B6AC7346D802D",
+      "og:url": "/Pages/default.aspx"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://mva.maryland.gov/Style%20Library/egov/img/logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Maryland Driver's Manual - Pages",
+   "htmlTitle": "Maryland Driver&#39;s Manual - Pages",
+   "link": "https://mva.maryland.gov/Pages/Maryland-Drivers-Manual.aspx",
+   "displayLink": "mva.maryland.gov",
+   "snippet": "... Driver's License or ID Card. Left_Content. Maryland Driver's Manual. Main_Content. \u200b\u200b. The MVA knowledge test that you must pass to get a non-commercial Class C\u00a0...",
+   "htmlSnippet": "... <b>Driver&#39;s License</b> or ID Card. Left_Content. Maryland Driver&#39;s Manual. Main_Content. \u200b\u200b. The MVA knowledge test that you must pass to get a non-commercial Class C&nbsp;...",
+   "formattedUrl": "https://mva.maryland.gov/Pages/Maryland-Drivers-Manual.aspx",
+   "htmlFormattedUrl": "https://mva.maryland.gov/Pages/Maryland-Drivers-Manual.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR7oGzbIQUEc1_nZeuoLrrKAB6TL3tYmyYGyLh-gFBkSfpmVGqv2fWgQ&s",
+      "width": "240",
+      "height": "112"
+     }
+    ],
+    "metatags": [
+     {
+      "robot": "noarchive",
+      "og:image": "/Style Library/egov/img/logo.png",
+      "og:type": "website",
+      "og:image:alt": "MVA Logo",
+      "og:site_name": "MVA",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "msvalidate.01": "DC82C0A3FC3A7277E85B6AC7346D802D",
+      "og:url": "/Pages/default.aspx"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://mva.maryland.gov/Style%20Library/egov/img/logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Obtaining a Moped Permit - Pages",
+   "htmlTitle": "Obtaining a Moped Permit - Pages",
+   "link": "https://mva.maryland.gov/about-mva/Pages/info/26300/26300-32T.aspx",
+   "displayLink": "mva.maryland.gov",
+   "snippet": "You are required to obtain a moped permit if you do not possess a valid driver's license and want to operate a moped or motor scooter on public roads.",
+   "htmlSnippet": "You are required to obtain a moped permit if you do not possess a valid <b>driver&#39;s license</b> and want to operate a moped or motor scooter on public roads.",
+   "formattedUrl": "https://mva.maryland.gov/about-mva/Pages/info/26300/26300-32T.aspx",
+   "htmlFormattedUrl": "https://mva.maryland.gov/about-mva/Pages/info/26300/26300-32T.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR7oGzbIQUEc1_nZeuoLrrKAB6TL3tYmyYGyLh-gFBkSfpmVGqv2fWgQ&s",
+      "width": "240",
+      "height": "112"
+     }
+    ],
+    "metatags": [
+     {
+      "robot": "noarchive",
+      "og:image": "/Style Library/egov/img/logo.png",
+      "og:type": "website",
+      "og:image:alt": "MVA Logo",
+      "og:site_name": "MVA",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "msvalidate.01": "DC82C0A3FC3A7277E85B6AC7346D802D",
+      "og:url": "/about-mva/Pages/default.aspx"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://mva.maryland.gov/Style%20Library/egov/img/logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Commercial Driver's License (CDL) Information - Pages",
+   "htmlTitle": "Commercial <b>Driver&#39;s License</b> (CDL) Information - Pages",
+   "link": "https://mva.maryland.gov/drivers/Pages/cdl-commercial.aspx",
+   "displayLink": "mva.maryland.gov",
+   "snippet": "Driver's License & Identification Card. Driver License RenewalLearner's PermitRenewing Your Driver's License InformationInternational ApplicantsNon-Compliant\u00a0...",
+   "htmlSnippet": "<b>Driver&#39;s License</b> &amp; <b>Identification Card</b>. Driver License RenewalLearner&#39;s PermitRenewing Your Driver&#39;s License InformationInternational ApplicantsNon-Compliant&nbsp;...",
+   "formattedUrl": "https://mva.maryland.gov/drivers/Pages/cdl-commercial.aspx",
+   "htmlFormattedUrl": "https://mva.maryland.gov/drivers/Pages/cdl-commercial.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWlgpy4wanrdwr9dKLs-y86MUzRAOGb2fb4GZffiTjdNm3a_nVOerIZN8k&s",
+      "width": "226",
+      "height": "223"
+     }
+    ],
+    "metatags": [
+     {
+      "robot": "noarchive",
+      "og:image": "/Style Library/egov/img/logo.png",
+      "og:type": "website",
+      "og:image:alt": "MVA Logo",
+      "og:site_name": "MVA",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "msvalidate.01": "DC82C0A3FC3A7277E85B6AC7346D802D",
+      "og:url": "/drivers/Pages/default.aspx"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://mva.maryland.gov/_layouts/15/images/spcommon.png?rev=43"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Pages - Information for our Veteran Service Members",
+   "htmlTitle": "Pages - Information for our Veteran Service Members",
+   "link": "https://mva.maryland.gov/Pages/veteran.aspx",
+   "displayLink": "mva.maryland.gov",
+   "snippet": "Choose Existing Customer \u2013 Driver's License Services, then Correct my Maryland Driver's License. ... Veteran Health Identification Card; The MVA has\u00a0...",
+   "htmlSnippet": "Choose Existing Customer \u2013 <b>Driver&#39;s License</b> Services, then Correct my Maryland <b>Driver&#39;s License</b>. ... Veteran Health <b>Identification Card</b>; The MVA has&nbsp;...",
+   "formattedUrl": "https://mva.maryland.gov/Pages/veteran.aspx",
+   "htmlFormattedUrl": "https://mva.maryland.gov/Pages/veteran.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR7oGzbIQUEc1_nZeuoLrrKAB6TL3tYmyYGyLh-gFBkSfpmVGqv2fWgQ&s",
+      "width": "240",
+      "height": "112"
+     }
+    ],
+    "metatags": [
+     {
+      "robot": "noarchive",
+      "og:image": "/Style Library/egov/img/logo.png",
+      "og:type": "website",
+      "og:image:alt": "MVA Logo",
+      "og:site_name": "MVA",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "msvalidate.01": "DC82C0A3FC3A7277E85B6AC7346D802D",
+      "og:url": "/Pages/default.aspx"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://mva.maryland.gov/Style%20Library/egov/img/logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Commercial Driver's License Manual",
+   "htmlTitle": "Commercial <b>Driver&#39;s License</b> Manual",
+   "link": "https://mva.maryland.gov/Documents/DL-151.pdf",
+   "displayLink": "mva.maryland.gov",
+   "snippet": "Effective February 7, 2022, to be eligible to take required skills or knowledge tests, commercial driver's license (CDL) applicants must have completed\u00a0...",
+   "htmlSnippet": "Effective February 7, 2022, to be eligible to take required skills or knowledge tests, commercial <b>driver&#39;s license</b> (CDL) applicants must have completed&nbsp;...",
+   "formattedUrl": "https://mva.maryland.gov/Documents/DL-151.pdf",
+   "htmlFormattedUrl": "https://mva.maryland.gov/Documents/DL-151.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxxGvj8NX0KLHDfFQZOkbbC7UoOIEfjd2ptYb0zGH6eshhnMqhI2ZOE0n&s",
+      "width": "199",
+      "height": "254"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20250312124009-04'00'",
+      "creationdate": "D:20250312101914-04'00'",
+      "creator": "Adobe Acrobat Pro (64-bit) 24.5.20421",
+      "author": "Karen Morton",
+      "producer": "Adobe Acrobat Pro (64-bit) 24.5.20421"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///05724ac2bcfc21c4f00d3d2825618db6f3b6bfcf64bd068a533e52398a263003"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

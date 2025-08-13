@@ -1,0 +1,421 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Minnesota\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" vendor OR developer OR procurement",
+    "totalResults": "25400",
+    "searchTerms": "\"Minnesota\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" vendor OR developer OR procurement",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Minnesota\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" vendor OR developer OR procurement",
+    "totalResults": "25400",
+    "searchTerms": "\"Minnesota\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\" vendor OR developer OR procurement",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.17024,
+  "formattedSearchTime": "0.17",
+  "totalResults": "25400",
+  "formattedTotalResults": "25,400"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "How To Bid - Bid Letting - MnDOT",
+   "htmlTitle": "How To Bid - Bid Letting - MnDOT",
+   "link": "https://www.dot.state.mn.us/bidlet/howtobid.html",
+   "displayLink": "www.dot.state.mn.us",
+   "snippet": "Vendors bidding on MnDOT projects must be registered as a Supplier with Minnesota Management and Budget (MMB), and have a SWIFT vendor ID. ... digital ID for\u00a0...",
+   "htmlSnippet": "Vendors bidding on MnDOT projects must be registered as a Supplier with <b>Minnesota</b> Management and Budget (MMB), and have a SWIFT <b>vendor</b> ID. ... <b>digital ID</b> for&nbsp;...",
+   "formattedUrl": "https://www.dot.state.mn.us/bidlet/howtobid.html",
+   "htmlFormattedUrl": "https://www.dot.state.mn.us/bidlet/howtobid.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQIOEm0l5mQqM_GDkysyQbcC0zvtxkgES8O2KPj-723D-5D9tQHxEqysQ&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-config": "/browserconfig.xml",
+      "og:image": "https://www.dot.state.mn.us/images/16templates/template/DOT-Logo-Facebook-Medium-V1.png",
+      "theme-color": "#003660",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:site": "@mndot",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:fb:app_id": "2962457693857133",
+      "twitter:image": "https://www.dot.state.mn.us/images/16templates/template/DOT-Logo-Facebook-Medium-V1.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dot.state.mn.us/images/16templates/template/DOT-Logo-Facebook-Medium-V1.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Minnesota DOT EPD Pilot Project: Development of a Sustainable ...",
+   "htmlTitle": "<b>Minnesota</b> DOT EPD Pilot Project: Development of a Sustainable ...",
+   "link": "https://mdl.mndot.gov/items/201939",
+   "displayLink": "mdl.mndot.gov",
+   "snippet": "Minnesota DOT EPD Pilot Project: Development of a Sustainable Procurement Roadmap. Home \u00b7 Research Reports \u00b7 Minnesota DOT EPD Pilot Project: Development of\u00a0...",
+   "htmlSnippet": "<b>Minnesota</b> DOT EPD Pilot Project: Development of a Sustainable <b>Procurement</b> Roadmap. Home &middot; Research Reports &middot; <b>Minnesota</b> DOT EPD Pilot Project: Development of&nbsp;...",
+   "formattedUrl": "https://mdl.mndot.gov/items/201939",
+   "htmlFormattedUrl": "https://<b>mdl</b>.mndot.gov/items/201939",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ],
+    "Object": [
+     {
+      "created": "2019",
+      "description": "The Minnesota Department of Transportation (MnDOT) funded this project to assess the current state of Environmental Product Declarations (EPDs) in pavement material manufacturing and the feasibilit...",
+      "title": "Minnesota DOT EPD Pilot Project: Development of a Sustainable Procurement Roadmap"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Bid Letting - MnDOT",
+   "htmlTitle": "Bid Letting - MnDOT",
+   "link": "https://www.dot.state.mn.us/bidlet/",
+   "displayLink": "www.dot.state.mn.us",
+   "snippet": "New bidders should allow a few days to acquire a SWIFT vendor number, create an account and digital ID with Bid Express for electronic bidding. ... 2025 Minnesota\u00a0...",
+   "htmlSnippet": "New bidders should allow a few days to acquire a SWIFT <b>vendor</b> number, create an account and <b>digital ID</b> with Bid Express for electronic bidding. ... 2025 <b>Minnesota</b>&nbsp;...",
+   "formattedUrl": "https://www.dot.state.mn.us/bidlet/",
+   "htmlFormattedUrl": "https://www.dot.state.mn.us/bidlet/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQIOEm0l5mQqM_GDkysyQbcC0zvtxkgES8O2KPj-723D-5D9tQHxEqysQ&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-config": "/browserconfig.xml",
+      "og:image": "https://www.dot.state.mn.us/images/16templates/template/DOT-Logo-Facebook-Medium-V1.png",
+      "theme-color": "#003660",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:site": "@mndot",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:fb:app_id": "2962457693857133",
+      "twitter:image": "https://www.dot.state.mn.us/images/16templates/template/DOT-Logo-Facebook-Medium-V1.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dot.state.mn.us/images/16templates/template/DOT-Logo-Facebook-Medium-V1.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Minnesota DOT EPD Pilot Project: Development of a Sustainable ...",
+   "htmlTitle": "<b>Minnesota</b> DOT EPD Pilot Project: Development of a Sustainable ...",
+   "link": "https://mdl.mndot.gov/_flysystem/fedora/2023-01/201939.pdf",
+   "displayLink": "mdl.mndot.gov",
+   "snippet": "3. Recipients Accession No. 4. Title and Subtitle. Minnesota DOT EPD Pilot Project: Development of a. Sustainable Procurement Roadmap.",
+   "htmlSnippet": "3. Recipients Accession No. 4. Title and Subtitle. <b>Minnesota</b> DOT EPD Pilot Project: Development of a. Sustainable <b>Procurement</b> Roadmap.",
+   "formattedUrl": "https://mdl.mndot.gov/_flysystem/fedora/2023-01/201939.pdf",
+   "htmlFormattedUrl": "https://<b>mdl</b>.mndot.gov/_flysystem/fedora/2023-01/201939.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSduBwUEcZFho1qz0Xc58IGPrMYJRtqbA4vGxXlzYKJRo84rySGDh8Ths&s",
+      "width": "297",
+      "height": "169"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20220602083948-05'00'",
+      "creationdate": "D:20190906204151-05'00'",
+      "creator": "Acrobat PDFMaker 17 for Word",
+      "sourcemodified": "D:20190907013823",
+      "author": "Amlan Mukherjee, Lianna Miller",
+      "subject": "2019-39",
+      "producer": "Adobe PDF Library 15.0",
+      "company": "MnDOT",
+      "title": "Minnesota DOT EPD Pilot Project: Development of a Sustainable Procurement Roadmap"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///a754d33dbafcd72b80a4c7e40e0e73e9ca761e502ef4ea507ccc6066aec2656f"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Search - MnDOT",
+   "htmlTitle": "Search - MnDOT",
+   "link": "https://mn.gov/dot/search/?query=bid+url%3Adot.state.mn.us+&sortby=&v%3Asources=&qp=url%3Adot.state.mn.us&qt=bid&render.list-show=10",
+   "displayLink": "mn.gov",
+   "snippet": "... vendor form Step 3: Bid Express subscription and digital ID creation ... ... Description: The Minnesota Department of Transportation\u00a0...",
+   "htmlSnippet": "... <b>vendor</b> form Step 3: Bid Express subscription and <b>digital ID</b> creation ... ... Description: The <b>Minnesota</b> Department of Transportation&nbsp;...",
+   "formattedUrl": "https://mn.gov/dot/search/?query=bid+url%3Adot...",
+   "htmlFormattedUrl": "https://mn.gov/dot/search/?query=bid+url%3Adot...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQIOEm0l5mQqM_GDkysyQbcC0zvtxkgES8O2KPj-723D-5D9tQHxEqysQ&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-config": "https://www.dot.state.mn.us/browserconfig.xml",
+      "og:image": "https://www.dot.state.mn.us/images/16templates/template/DOT-Logo-Facebook-Medium-V1.png",
+      "theme-color": "#003660",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dot.state.mn.us/images/16templates/template/DOT-Logo-Facebook-Medium-V1.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NPDES/SDS total residual chlorine MDL/RL guidance",
+   "htmlTitle": "NPDES/SDS total residual chlorine <b>MDL</b>/RL guidance",
+   "link": "https://www.pca.state.mn.us/sites/default/files/wq-wwtp1-11.pdf",
+   "displayLink": "www.pca.state.mn.us",
+   "snippet": "Jun 2, 2019 ... Minnesota Pollution Control Agency. 651-296-6300 | 800-657-3864 or ... establishment of a method detection limit (MDL) and reporting\u00a0...",
+   "htmlSnippet": "Jun 2, 2019 <b>...</b> <b>Minnesota</b> Pollution Control Agency. 651-296-6300 | 800-657-3864 or ... establishment of a method detection limit (<b>MDL</b>) and reporting&nbsp;...",
+   "formattedUrl": "https://www.pca.state.mn.us/sites/default/files/wq-wwtp1-11.pdf",
+   "htmlFormattedUrl": "https://www.pca.state.mn.us/sites/default/files/wq-wwtp1-11.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwcGWlajRcFLLOCkPhmBZ08LJINuFmmLUU_RRFYXQZzKKNUjorFsIaiPs&s",
+      "width": "176",
+      "height": "154"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20190625081936-05'00'",
+      "creationdate": "D:20190625081854-05'00'",
+      "creator": "Acrobat PDFMaker 19 for Word",
+      "manager": "Juliana Gyasi",
+      "sourcemodified": "D:20190625131522",
+      "author": "MPCA, Minnesota Pollution control - Jennifer Thoreson (Juliana Gyasi)",
+      "subject": "Permittee guidance to determining total residual chlorine method detection and reporting for NPDES compliance",
+      "producer": "Adobe PDF Library 19.12.66",
+      "company": "PCA",
+      "category": "water quality, wastewater treatment plants, permit quidance",
+      "title": "NPDES/SDS total residual chlorine MDL/RL guidance"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///8663eb3434feb1e42611bdfbd99ca5bdae3f593db58ae00c8ed38979f4829f5b"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Minnesota claims success in $26 million Real ID system launch ...",
+   "htmlTitle": "<b>Minnesota</b> claims success in $26 million Real ID system launch ...",
+   "link": "https://statescoop.com/minnesota-claims-success-in-26-million-real-id-system-launch/",
+   "displayLink": "statescoop.com",
+   "snippet": "Oct 29, 2018 ... ... Minnesota Gov. Tim Walz up at night. By Keely Quinlan \u00b7 Arizona launches digital ID pilot at motor vehicles division. By Keely Quinlan \u00b7 Real ID\u00a0...",
+   "htmlSnippet": "Oct 29, 2018 <b>...</b> ... <b>Minnesota</b> Gov. Tim Walz up at night. By Keely Quinlan &middot; Arizona launches <b>digital ID</b> pilot at motor vehicles division. By Keely Quinlan &middot; Real ID&nbsp;...",
+   "formattedUrl": "https://statescoop.com/minnesota-claims-success-in-26-million-real-id-syste...",
+   "htmlFormattedUrl": "https://statescoop.com/<b>minnesota</b>-claims-success-in-26-million-real-id-syste...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmlygt8XlBUVbDtmPuScHpU0cvZsfshUvwOEr10OxXs2bW7bFW4vyEpEg&s",
+      "width": "299",
+      "height": "168"
+     }
+    ],
+    "website": [
+     {
+      "query-input": "name=s value",
+      "target": "https://statescoop.com/?s={s}"
+     }
+    ],
+    "organization": [
+     {
+      "logo": "https://statescoop.com/wp-content/themes/scoopnewsgroup/dist/svg/logo-state.svg",
+      "url": "https://statescoop.com/"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://statescoop.com/wp-content/uploads/sites/6/2018/10/johanna-clybone-mnlars-hearing-Paul-Battaglia.jpg",
+      "og:type": "article",
+      "article:published_time": "2018-10-29T20:09:00+00:00",
+      "og:image:width": "2100",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "StateScoop",
+      "author": "Jared Beinart",
+      "og:title": "Minnesota claims success in $26 million Real ID system launch | StateScoop",
+      "og:image:height": "1184",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://statescoop.com/wp-content/uploads/sites/6/2023/01/cropped-ss_favicon.png?w=270",
+      "og:description": "Unlike the state&#39s failing licensing and registration system, this project reportedly has no major issues so far.",
+      "twitter:creator": "@State_Scoop",
+      "article:publisher": "https://www.facebook.com/StateScoop/",
+      "twitter:site": "@State_Scoop",
+      "article:modified_time": "2021-09-03T14:31:21+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://statescoop.com/minnesota-claims-success-in-26-million-real-id-system-launch/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://statescoop.com/wp-content/uploads/sites/6/2018/10/johanna-clybone-mnlars-hearing-Paul-Battaglia.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Limestone Veneer Panels, Dolomitic Limestone Stone Masonry Wall",
+   "htmlTitle": "Limestone Veneer Panels, Dolomitic Limestone Stone Masonry Wall",
+   "link": "https://www.biesanzstone.com/",
+   "displayLink": "www.biesanzstone.com",
+   "snippet": "Biesanz Minnesota Dolomite Limestone (MDL) has been the premier choice for commercial limestone applications for more than 100 years.",
+   "htmlSnippet": "Biesanz <b>Minnesota</b> Dolomite Limestone (<b>MDL</b>) has been the premier choice for commercial limestone applications for more than 100 years.",
+   "formattedUrl": "https://www.biesanzstone.com/",
+   "htmlFormattedUrl": "https://www.biesanzstone.com/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1",
+      "msapplication-tileimage": "https://www.biesanzstone.com/wp-content/uploads/biesanz-stone-favicon-2022.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Introduction To Statistical Inventory Reconciliation For Underground ...",
+   "htmlTitle": "Introduction To Statistical Inventory Reconciliation For Underground ...",
+   "link": "https://www.epa.gov/sites/default/files/2014-03/documents/sir.pdf",
+   "displayLink": "www.epa.gov",
+   "snippet": "\u201cWhat is this 'estimated leak rate,' 'threshold,' and 'MDL' stuff all about? ... Minnesota Pollution. Control Agency. 612 297-8609. Mississippi Dept. of Env\u00a0...",
+   "htmlSnippet": "\u201cWhat is this &#39;estimated leak rate,&#39; &#39;threshold,&#39; and &#39;<b>MDL</b>&#39; stuff all about? ... <b>Minnesota</b> Pollution. Control Agency. 612 297-8609. Mississippi Dept. of Env&nbsp;...",
+   "formattedUrl": "https://www.epa.gov/sites/default/files/2014-03/documents/sir.pdf",
+   "htmlFormattedUrl": "https://www.epa.gov/sites/default/files/2014-03/documents/sir.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpEME6uaK9iDwCl6UtesKFsHYoryjKVGLw2JJrcLK2wrX5EfPiBGNg1mM5&s",
+      "width": "148",
+      "height": "192"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20150703114243-04'00'",
+      "creationdate": "Wednesday, May 12, 1999 9:02:25 AM",
+      "creator": "Microsoft Word",
+      "author": "US EPA, OSWER, Office Of Underground Storage Tanks",
+      "subject": "This booklet provides basic information on the method\u2014what it is, how it works,  factors that impact data quality\u2014to assist you in determining if SIR is  appropriate to your needs.",
+      "producer": "Acrobat PDFWriter 3.02 for Windows",
+      "creationdate__text": "Wednesday, May 12, 1999 9:02:25 AM",
+      "title": "Introduction To Statistical Inventory Reconciliation For Underground Storage Tanks"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///189474fa1e3bc1577d1d41c4db004554a07c7ea02c25057315e0410e2442ebf3"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Are Digital ID's Valid? : r/FortCollins",
+   "htmlTitle": "Are <b>Digital ID&#39;s</b> Valid? : r/FortCollins",
+   "link": "https://www.reddit.com/r/FortCollins/comments/uk5lmn/are_digital_ids_valid/",
+   "displayLink": "www.reddit.com",
+   "snippet": "May 7, 2022 ... Also, it is still up to the vendor to accept the digital Id.. so ... What is going on? r/minnesota icon. r/minnesota. \u2022 8 days ago. It has\u00a0...",
+   "htmlSnippet": "May 7, 2022 <b>...</b> Also, it is still up to the <b>vendor</b> to accept the <b>digital Id</b>.. so ... What is going on? r/<b>minnesota</b> icon. r/<b>minnesota</b>. \u2022 8 days ago. It has&nbsp;...",
+   "formattedUrl": "https://www.reddit.com/r/FortCollins/comments/.../are_digital_ids_valid/",
+   "htmlFormattedUrl": "https://www.reddit.com/r/FortCollins/comments/.../are_<b>digital_id</b>s_valid/",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:image": "https://share.redd.it/preview/post/uk5lmn",
+      "theme-color": "#000000",
+      "og:image:width": "1200",
+      "og:type": "website",
+      "og:image:alt": "An image containing a preview of the post",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "r/FortCollins on Reddit: Are Digital ID's Valid?",
+      "og:site_name": "Reddit",
+      "og:title": "r/FortCollins on Reddit: Are Digital ID's Valid?",
+      "og:image:height": "630",
+      "msapplication-navbutton-color": "#000000",
+      "og:description": "Posted by u/SnooRabbits2734 - 3 votes and 19 comments",
+      "twitter:image": "https://share.redd.it/preview/post/uk5lmn",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "twitter:site": "@reddit",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "apple-mobile-web-app-capable": "yes",
+      "og:ttl": "600",
+      "og:url": "https://www.reddit.com/r/FortCollins/comments/uk5lmn/are_digital_ids_valid/?seeker-session=true"
+     }
+    ]
+   }
+  }
+ ]
+}

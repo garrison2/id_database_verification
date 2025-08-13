@@ -1,0 +1,586 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:apps.apple.com \"Wisconsin\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "16",
+    "searchTerms": "site:apps.apple.com \"Wisconsin\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:apps.apple.com \"Wisconsin\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "16",
+    "searchTerms": "site:apps.apple.com \"Wisconsin\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.252877,
+  "formattedSearchTime": "0.25",
+  "totalResults": "16",
+  "formattedTotalResults": "16"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Connect Events \u0639\u0644\u0649 App Store",
+   "htmlTitle": "Connect Events \u0639\u0644\u0649 App Store",
+   "link": "https://apps.apple.com/sa/app/connect-events/id1528392631?l=ar",
+   "displayLink": "apps.apple.com",
+   "snippet": "Use the University of Wisconsin Whitewater Events app to find out what ... Digital ID by Presence. \u062a\u0639\u0644\u064a\u0645. Presence CheckPoint. \u062a\u0639\u0644\u064a\u0645.",
+   "htmlSnippet": "Use the University of <b>Wisconsin</b> Whitewater Events app to find out what ... <b>Digital ID</b> by Presence. \u062a\u0639\u0644\u064a\u0645. Presence CheckPoint. \u062a\u0639\u0644\u064a\u0645.",
+   "formattedUrl": "https://apps.apple.com/sa/app/connect-events/id1528392631?l=ar",
+   "htmlFormattedUrl": "https://apps.apple.com/sa/app/connect-events/id1528392631?l=ar",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlteUilmZnaXN0VF1llb-0QGEnOC7h2LbayX8lc7ggUygkYxLOihYvYsk&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/f6/e4/c2/f6e4c2c8-6399-5371-a325-eaa7f4872b47/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App\u00a0Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eUse the University of Wisconsin Whitewater Events app to find out what events are happening and find out how you can get involved on campus!\u00a0\n\n\u2022 Sort by campus organizations hosting events\n\u2022 Find events tagged with your favorite activities\n\u2022 Add events to your calendar so you don\u2019t miss out!\n\nPowere\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/f6/e4/c2/f6e4c2c8-6399-5371-a325-eaa7f4872b47/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/f6/e4/c2/f6e4c2c8-6399-5371-a325-eaa7f4872b47/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222532.1.0%2B09273a9c%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "Connect Events \u0639\u0644\u0649 App Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "Connect Events \u0639\u0644\u0649 App Store",
+      "og:type": "website",
+      "twitter:title": "\u200eConnect Events",
+      "og:title": "\u200eConnect Events",
+      "og:image:height": "630",
+      "version": "2532.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eUse the University of Wisconsin Whitewater Events app to find out what events are happening and find out how you can get involved on campus!\u00a0\n\n\u2022 Sort by campus organizations hosting events\n\u2022 Find events tagged with your favorite activities\n\u2022 Add events to your calendar so you don\u2019t miss out!\n\nPowere\u2026",
+      "og:locale": "ar_SA",
+      "apple:content_id": "1528392631",
+      "og:url": "https://apps.apple.com/sa/app/connect-events/id1528392631?l=ar"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/f6/e4/c2/f6e4c2c8-6399-5371-a325-eaa7f4872b47/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Quartz MyChart on the App Store",
+   "htmlTitle": "Quartz MyChart on the App Store",
+   "link": "https://apps.apple.com/us/app/quartz-mychart/id1498137246",
+   "displayLink": "apps.apple.com",
+   "snippet": "\u2022 View your digital ID card. \u2022 Access your Healthy Path wellness portal ... MyACCESS Wisconsin. Health & Fitness.",
+   "htmlSnippet": "\u2022 View your <b>digital ID</b> card. \u2022 Access your Healthy Path wellness portal ... MyACCESS <b>Wisconsin</b>. Health &amp; Fitness.",
+   "formattedUrl": "https://apps.apple.com/us/app/quartz-mychart/id1498137246",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/quartz-mychart/id1498137246",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPzBrfXpBByQxzjmNofrFZRT3qdixu2OKmvZQvEti6Y9uWTUzcZ8Rm0mI&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/92/cd/b892cda8-f190-d04d-e213-626f55cbc740/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eThe Quartz MyChart app allows you to view your health insurance information at your fingertips. Log in with your MyChart account for instant access when and where you need it.\nWith the Quartz MyChart app you can \u2013\n\u2022\tReview Claims and Explanation of Benefits\n\u2022\tView your digital ID card\n\u2022\tAccess your\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/92/cd/b892cda8-f190-d04d-e213-626f55cbc740/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/92/cd/b892cda8-f190-d04d-e213-626f55cbc740/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222532.1.0%2B09273a9c%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "Quartz MyChart on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "Quartz MyChart on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eQuartz MyChart",
+      "og:title": "\u200eQuartz MyChart",
+      "og:image:height": "630",
+      "version": "2532.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eThe Quartz MyChart app allows you to view your health insurance information at your fingertips. Log in with your MyChart account for instant access when and where you need it.\nWith the Quartz MyChart app you can \u2013\n\u2022\tReview Claims and Explanation of Benefits\n\u2022\tView your digital ID card\n\u2022\tAccess your\u2026",
+      "og:locale": "en_US",
+      "apple:content_id": "1498137246",
+      "og:url": "https://apps.apple.com/us/app/quartz-mychart/id1498137246"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/92/cd/b892cda8-f190-d04d-e213-626f55cbc740/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Speed Queen Insights on the App Store",
+   "htmlTitle": "Speed Queen Insights on the App Store",
+   "link": "https://apps.apple.com/ie/app/speed-queen-insights/id1476082966",
+   "displayLink": "apps.apple.com",
+   "snippet": "Jul 3, 2025 ... 221 Shepard St Ripon Wisconsin 54971 United States; Phone Number: +1 ... CBORD Mobile ID - for CS Gold. Utilities. Sunway\u00a0...",
+   "htmlSnippet": "Jul 3, 2025 <b>...</b> 221 Shepard St Ripon <b>Wisconsin</b> 54971 United States; Phone Number: +1 ... CBORD <b>Mobile ID</b> - for CS Gold. Utilities. Sunway&nbsp;...",
+   "formattedUrl": "https://apps.apple.com/ie/app/speed-queen-insights/id1476082966",
+   "htmlFormattedUrl": "https://apps.apple.com/ie/app/speed-queen-insights/id1476082966",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBm_3kXySWemEOGdBJLg7Q-RnrlhORHjDZV7yqZicIz6Pv7-99RAI5bko&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/b2/94/3fb2947f-d39b-e95c-ab68-0cdad6bb541e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App\u00a0Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eView and manage your business \u2013 anywhere, anytime.\nThe Speed Queen Insights owner app puts the key components of Speed Queen Insights into a convenient mobile app to let you monitor your laundry business on the go. Access revenue data, monitor and control machines, receive error alerts, contact supp\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/b2/94/3fb2947f-d39b-e95c-ab68-0cdad6bb541e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/b2/94/3fb2947f-d39b-e95c-ab68-0cdad6bb541e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222530.1.0%2Bdd954829%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "Speed Queen Insights on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "Speed Queen Insights on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eSpeed Queen Insights",
+      "og:title": "\u200eSpeed Queen Insights",
+      "og:image:height": "630",
+      "version": "2530.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eView and manage your business \u2013 anywhere, anytime.\nThe Speed Queen Insights owner app puts the key components of Speed Queen Insights into a convenient mobile app to let you monitor your laundry business on the go. Access revenue data, monitor and control machines, receive error alerts, contact supp\u2026",
+      "og:locale": "en_GB",
+      "apple:content_id": "1476082966",
+      "og:url": "https://apps.apple.com/ie/app/speed-queen-insights/id1476082966"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/b2/94/3fb2947f-d39b-e95c-ab68-0cdad6bb541e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Connect Events on the App Store",
+   "htmlTitle": "Connect Events on the App Store",
+   "link": "https://apps.apple.com/us/app/connect-events/id1528392631",
+   "displayLink": "apps.apple.com",
+   "snippet": "Use the University of Wisconsin Whitewater Events app to find out what ... Digital ID by Presence. Education. Eagle Engage. Education.",
+   "htmlSnippet": "Use the University of <b>Wisconsin</b> Whitewater Events app to find out what ... <b>Digital ID</b> by Presence. Education. Eagle Engage. Education.",
+   "formattedUrl": "https://apps.apple.com/us/app/connect-events/id1528392631",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/connect-events/id1528392631",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlteUilmZnaXN0VF1llb-0QGEnOC7h2LbayX8lc7ggUygkYxLOihYvYsk&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/f6/e4/c2/f6e4c2c8-6399-5371-a325-eaa7f4872b47/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eUse the University of Wisconsin Whitewater Events app to find out what events are happening and find out how you can get involved on campus!\u00a0\n\n\u2022 Sort by campus organizations hosting events\n\u2022 Find events tagged with your favorite activities\n\u2022 Add events to your calendar so you don\u2019t miss out!\n\nPowere\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/f6/e4/c2/f6e4c2c8-6399-5371-a325-eaa7f4872b47/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/f6/e4/c2/f6e4c2c8-6399-5371-a325-eaa7f4872b47/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222532.1.0%2B09273a9c%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "Connect Events on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "Connect Events on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eConnect Events",
+      "og:title": "\u200eConnect Events",
+      "og:image:height": "630",
+      "version": "2532.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eUse the University of Wisconsin Whitewater Events app to find out what events are happening and find out how you can get involved on campus!\u00a0\n\n\u2022 Sort by campus organizations hosting events\n\u2022 Find events tagged with your favorite activities\n\u2022 Add events to your calendar so you don\u2019t miss out!\n\nPowere\u2026",
+      "og:locale": "en_US",
+      "apple:content_id": "1528392631",
+      "og:url": "https://apps.apple.com/us/app/connect-events/id1528392631"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/f6/e4/c2/f6e4c2c8-6399-5371-a325-eaa7f4872b47/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MyJule, Dubuque on the App Store",
+   "htmlTitle": "MyJule, Dubuque on the App Store",
+   "link": "https://apps.apple.com/us/app/myjule-dubuque/id1574524737",
+   "displayLink": "apps.apple.com",
+   "snippet": "Oct 24, 2024 ... Iowa Mobile ID. Travel. MyDART Des Moines. Travel. Iowa 511. Travel. 511 Wisconsin.",
+   "htmlSnippet": "Oct 24, 2024 <b>...</b> Iowa <b>Mobile ID</b>. Travel. MyDART Des Moines. Travel. Iowa 511. Travel. 511 <b>Wisconsin</b>.",
+   "formattedUrl": "https://apps.apple.com/us/app/myjule-dubuque/id1574524737",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/myjule-dubuque/id1574524737",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkQWrwFO3BdIM7jg1ZfQrpnMrNlJEsEnb86Wv98CiDecUPrWrZkexVPFhJ&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/a5/15/1ca515e4-d22f-609a-90e5-7b3f156b6a8c/JULEAppIcon-1x_U007emarketing-0-6-0-0-sRGB-85-220-0.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eRiding The Jule is easy and convenient with MyJule mobile ticketing.  Riders can view routes and schedules, plan a trip, and purchase a bus pass right from the app.  There\u2019s no need to carry cash as riders can simply scan their pass via a QR code on their smart device as they board!",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/a5/15/1ca515e4-d22f-609a-90e5-7b3f156b6a8c/JULEAppIcon-1x_U007emarketing-0-6-0-0-sRGB-85-220-0.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/a5/15/1ca515e4-d22f-609a-90e5-7b3f156b6a8c/JULEAppIcon-1x_U007emarketing-0-6-0-0-sRGB-85-220-0.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222530.1.0%2Bdd954829%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "MyJule, Dubuque on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "MyJule, Dubuque on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eMyJule, Dubuque",
+      "og:title": "\u200eMyJule, Dubuque",
+      "og:image:height": "630",
+      "version": "2530.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eRiding The Jule is easy and convenient with MyJule mobile ticketing.  Riders can view routes and schedules, plan a trip, and purchase a bus pass right from the app.  There\u2019s no need to carry cash as riders can simply scan their pass via a QR code on their smart device as they board!",
+      "og:locale": "en_US",
+      "apple:content_id": "1574524737",
+      "og:url": "https://apps.apple.com/us/app/myjule-dubuque/id1574524737"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/a5/15/1ca515e4-d22f-609a-90e5-7b3f156b6a8c/JULEAppIcon-1x_U007emarketing-0-6-0-0-sRGB-85-220-0.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Titan Connection on the App Store",
+   "htmlTitle": "Titan Connection on the App Store",
+   "link": "https://apps.apple.com/us/app/titan-connection/id1429896215",
+   "displayLink": "apps.apple.com",
+   "snippet": "Aug 22, 2018 ... Use the University of Wisconsin Oshkosh Events app to find out what ... Digital ID by Presence. Education. Eagle Engage.",
+   "htmlSnippet": "Aug 22, 2018 <b>...</b> Use the University of <b>Wisconsin</b> Oshkosh Events app to find out what ... <b>Digital ID</b> by Presence. Education. Eagle Engage.",
+   "formattedUrl": "https://apps.apple.com/us/app/titan-connection/id1429896215",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/titan-connection/id1429896215",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5_C4TGn8GDnWgfPl_lAUFDVSlvTCSYoF-McoG872YdjZPzrk6DLsb1ep1&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/05/60/27/056027a9-b938-d7e8-8e2a-45baa2922301/AppIcon-1x_U007emarketing-85-220-0-9.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eUse the University of Wisconsin Oshkosh Events app to find out what events are happening and find out how you can get involved on campus!  \n\n\u2022 Sort by campus organizations hosting events\n\u2022 Find events tagged with your favorite activities\n\u2022 Add events to your calendar so you don\u2019t miss out!\n\nPowered\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/05/60/27/056027a9-b938-d7e8-8e2a-45baa2922301/AppIcon-1x_U007emarketing-85-220-0-9.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/05/60/27/056027a9-b938-d7e8-8e2a-45baa2922301/AppIcon-1x_U007emarketing-85-220-0-9.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222532.1.0%2B09273a9c%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "Titan Connection on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "Titan Connection on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eTitan Connection",
+      "og:title": "\u200eTitan Connection",
+      "og:image:height": "630",
+      "version": "2532.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eUse the University of Wisconsin Oshkosh Events app to find out what events are happening and find out how you can get involved on campus!  \n\n\u2022 Sort by campus organizations hosting events\n\u2022 Find events tagged with your favorite activities\n\u2022 Add events to your calendar so you don\u2019t miss out!\n\nPowered\u2026",
+      "og:locale": "en_US",
+      "apple:content_id": "1429896215",
+      "og:url": "https://apps.apple.com/us/app/titan-connection/id1429896215"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/05/60/27/056027a9-b938-d7e8-8e2a-45baa2922301/AppIcon-1x_U007emarketing-85-220-0-9.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Quartz MyChart dans l'App Store",
+   "htmlTitle": "Quartz MyChart dans l&#39;App Store",
+   "link": "https://apps.apple.com/us/app/quartz-mychart/id1498137246?l=fr-FR",
+   "displayLink": "apps.apple.com",
+   "snippet": "Oct 31, 2024 ... \u2022 View your digital ID card. \u2022 Access your Healthy Path ... MyACCESS Wisconsin. Forme et sant\u00e9.",
+   "htmlSnippet": "Oct 31, 2024 <b>...</b> \u2022 View your <b>digital ID</b> card. \u2022 Access your Healthy Path ... MyACCESS <b>Wisconsin</b>. Forme et sant\u00e9.",
+   "formattedUrl": "https://apps.apple.com/us/app/quartz-mychart/id1498137246?l=fr-FR",
+   "htmlFormattedUrl": "https://apps.apple.com/us/app/quartz-mychart/id1498137246?l=fr-FR",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPzBrfXpBByQxzjmNofrFZRT3qdixu2OKmvZQvEti6Y9uWTUzcZ8Rm0mI&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/92/cd/b892cda8-f190-d04d-e213-626f55cbc740/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App\u00a0Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eThe Quartz MyChart app allows you to view your health insurance information at your fingertips. Log in with your MyChart account for instant access when and where you need it.\nWith the Quartz MyChart app you can \u2013\n\u2022\tReview Claims and Explanation of Benefits\n\u2022\tView your digital ID card\n\u2022\tAccess your\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/92/cd/b892cda8-f190-d04d-e213-626f55cbc740/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/92/cd/b892cda8-f190-d04d-e213-626f55cbc740/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222532.1.0%2B09273a9c%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "Quartz MyChart dans l\u2019App Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "Quartz MyChart dans l\u2019App Store",
+      "og:type": "website",
+      "twitter:title": "\u200eQuartz MyChart",
+      "og:title": "\u200eQuartz MyChart",
+      "og:image:height": "630",
+      "version": "2532.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eThe Quartz MyChart app allows you to view your health insurance information at your fingertips. Log in with your MyChart account for instant access when and where you need it.\nWith the Quartz MyChart app you can \u2013\n\u2022\tReview Claims and Explanation of Benefits\n\u2022\tView your digital ID card\n\u2022\tAccess your\u2026",
+      "og:locale": "fr_FR",
+      "apple:content_id": "1498137246",
+      "og:url": "https://apps.apple.com/us/app/quartz-mychart/id1498137246?l=fr-FR"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/92/cd/b892cda8-f190-d04d-e213-626f55cbc740/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Speed Queen on the App Store",
+   "htmlTitle": "Speed Queen on the App Store",
+   "link": "https://apps.apple.com/dk/app/speed-queen/id1235121730",
+   "displayLink": "apps.apple.com",
+   "snippet": "Jul 21, 2025 ... 221 Shepard St Ripon Wisconsin 54971 United States; Phone Number: +1 ... CBORD Mobile ID - for CS Gold. Utilities.",
+   "htmlSnippet": "Jul 21, 2025 <b>...</b> 221 Shepard St Ripon <b>Wisconsin</b> 54971 United States; Phone Number: +1 ... CBORD <b>Mobile ID</b> - for CS Gold. Utilities.",
+   "formattedUrl": "https://apps.apple.com/dk/app/speed-queen/id1235121730",
+   "htmlFormattedUrl": "https://apps.apple.com/dk/app/speed-queen/id1235121730",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuZrlCqWW3W-MfzX6RXO5okQTxaxgRYjuwIN6xQvNp-uNf3VVFgr2SpKs&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/04/b5/3804b57e-16cf-f207-f824-3d1ef678e605/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App\u00a0Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eThe Speed Queen app makes it easy to pay for a washer or dryer right from your phone. No more last-minute searching for quarters or wondering if machines are available.\n\nEnter a location, view machine availability, pay from your phone and you are ready to go. We\u2019ll even let you know when your laundr\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/04/b5/3804b57e-16cf-f207-f824-3d1ef678e605/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/04/b5/3804b57e-16cf-f207-f824-3d1ef678e605/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222532.1.0%2B09273a9c%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "Speed Queen on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "Speed Queen on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eSpeed Queen",
+      "og:title": "\u200eSpeed Queen",
+      "og:image:height": "630",
+      "version": "2532.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eThe Speed Queen app makes it easy to pay for a washer or dryer right from your phone. No more last-minute searching for quarters or wondering if machines are available.\n\nEnter a location, view machine availability, pay from your phone and you are ready to go. We\u2019ll even let you know when your laundr\u2026",
+      "og:locale": "en_GB",
+      "apple:content_id": "1235121730",
+      "og:url": "https://apps.apple.com/dk/app/speed-queen/id1235121730"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/04/b5/3804b57e-16cf-f207-f824-3d1ef678e605/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Speed Queen on the App Store",
+   "htmlTitle": "Speed Queen on the App Store",
+   "link": "https://apps.apple.com/ie/app/speed-queen/id1235121730",
+   "displayLink": "apps.apple.com",
+   "snippet": "221 Shepard St Ripon Wisconsin 54971 United States; Phone Number: +1 ... CBORD Mobile ID - for CS Gold. Utilities. LiveSafe. Utilities.",
+   "htmlSnippet": "221 Shepard St Ripon <b>Wisconsin</b> 54971 United States; Phone Number: +1 ... CBORD <b>Mobile ID</b> - for CS Gold. Utilities. LiveSafe. Utilities.",
+   "formattedUrl": "https://apps.apple.com/ie/app/speed-queen/id1235121730",
+   "htmlFormattedUrl": "https://apps.apple.com/ie/app/speed-queen/id1235121730",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuZrlCqWW3W-MfzX6RXO5okQTxaxgRYjuwIN6xQvNp-uNf3VVFgr2SpKs&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/04/b5/3804b57e-16cf-f207-f824-3d1ef678e605/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App\u00a0Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eThe Speed Queen app makes it easy to pay for a washer or dryer right from your phone. No more last-minute searching for quarters or wondering if machines are available.\n\nEnter a location, view machine availability, pay from your phone and you are ready to go. We\u2019ll even let you know when your laundr\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/04/b5/3804b57e-16cf-f207-f824-3d1ef678e605/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/04/b5/3804b57e-16cf-f207-f824-3d1ef678e605/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222530.1.0%2Bdd954829%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "Speed Queen on the App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "Speed Queen on the App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eSpeed Queen",
+      "og:title": "\u200eSpeed Queen",
+      "og:image:height": "630",
+      "version": "2530.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eThe Speed Queen app makes it easy to pay for a washer or dryer right from your phone. No more last-minute searching for quarters or wondering if machines are available.\n\nEnter a location, view machine availability, pay from your phone and you are ready to go. We\u2019ll even let you know when your laundr\u2026",
+      "og:locale": "en_GB",
+      "apple:content_id": "1235121730",
+      "og:url": "https://apps.apple.com/ie/app/speed-queen/id1235121730"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/04/b5/3804b57e-16cf-f207-f824-3d1ef678e605/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Speed Queen en App Store",
+   "htmlTitle": "Speed Queen en App Store",
+   "link": "https://apps.apple.com/es/app/speed-queen/id1235121730",
+   "displayLink": "apps.apple.com",
+   "snippet": "221 Shepard St Ripon Wisconsin 54971 Estados Unidos; N\u00famero de tel\u00e9fono: +1 ... CBORD Mobile ID - for CS Gold. Utilidades. LiveSafe. Utilidades.",
+   "htmlSnippet": "221 Shepard St Ripon <b>Wisconsin</b> 54971 Estados Unidos; N\u00famero de tel\u00e9fono: +1 ... CBORD <b>Mobile ID</b> - for CS Gold. Utilidades. LiveSafe. Utilidades.",
+   "formattedUrl": "https://apps.apple.com/es/app/speed-queen/id1235121730",
+   "htmlFormattedUrl": "https://apps.apple.com/es/app/speed-queen/id1235121730",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuZrlCqWW3W-MfzX6RXO5okQTxaxgRYjuwIN6xQvNp-uNf3VVFgr2SpKs&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/04/b5/3804b57e-16cf-f207-f824-3d1ef678e605/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.png",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "App\u00a0Store",
+      "applicable-device": "pc,mobile",
+      "og:image:type": "image/png",
+      "og:description": "\u200eThe Speed Queen app makes it easy to pay for a washer or dryer right from your phone. No more last-minute searching for quarters or wondering if machines are available.\n\nEnter a location, view machine availability, pay from your phone and you are ready to go. We\u2019ll even let you know when your laundr\u2026",
+      "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/04/b5/3804b57e-16cf-f207-f824-3d1ef678e605/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.png",
+      "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/04/b5/3804b57e-16cf-f207-f824-3d1ef678e605/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x600wa.png",
+      "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222530.1.0%2Bdd954829%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+      "twitter:image:alt": "Speed Queen en App\u00a0Store",
+      "twitter:site": "@AppStore",
+      "og:image:alt": "Speed Queen en App\u00a0Store",
+      "og:type": "website",
+      "twitter:title": "\u200eSpeed Queen",
+      "og:title": "\u200eSpeed Queen",
+      "og:image:height": "630",
+      "version": "2530.1.0",
+      "globalnav-search-suggestions-enabled": "false",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "ac-gn-search-suggestions-enabled": "false",
+      "twitter:description": "\u200eThe Speed Queen app makes it easy to pay for a washer or dryer right from your phone. No more last-minute searching for quarters or wondering if machines are available.\n\nEnter a location, view machine availability, pay from your phone and you are ready to go. We\u2019ll even let you know when your laundr\u2026",
+      "og:locale": "es_ES",
+      "apple:content_id": "1235121730",
+      "og:url": "https://apps.apple.com/es/app/speed-queen/id1235121730"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/04/b5/3804b57e-16cf-f207-f824-3d1ef678e605/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.png"
+     }
+    ]
+   }
+  }
+ ]
+}

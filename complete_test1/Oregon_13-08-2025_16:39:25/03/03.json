@@ -1,0 +1,440 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://www.oregon.gov/odot/DMV \"REAL ID\"",
+    "totalResults": "381",
+    "searchTerms": "site:https://www.oregon.gov/odot/DMV \"REAL ID\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://www.oregon.gov/odot/DMV \"REAL ID\"",
+    "totalResults": "381",
+    "searchTerms": "site:https://www.oregon.gov/odot/DMV \"REAL ID\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.168002,
+  "formattedSearchTime": "0.17",
+  "totalResults": "381",
+  "formattedTotalResults": "381"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Oregon Department of Transportation : REAL ID Information ...",
+   "htmlTitle": "Oregon Department of Transportation : <b>REAL ID</b> Information ...",
+   "link": "https://www.oregon.gov/odot/dmv/pages/realidtraveler.aspx",
+   "displayLink": "www.oregon.gov",
+   "snippet": "Get your REAL ID the next time you renew your Oregon driver's license, permit or ID card.",
+   "htmlSnippet": "Get your <b>REAL ID</b> the next time you renew your Oregon driver&#39;s license, permit or ID card.",
+   "formattedUrl": "https://www.oregon.gov/odot/dmv/pages/realidtraveler.aspx",
+   "htmlFormattedUrl": "https://www.oregon.gov/odot/dmv/pages/<b>realid</b>traveler.aspx",
+   "pagemap": {
+    "hcard": [
+     {
+      "url_text": "Oregon DMV",
+      "fn": "Oregon DMV",
+      "url": "https://www.oregon.gov/odot/dmv/pages/contact_us.aspx"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKq9XRFt1FTRpyFwXOYLOpFnmNv-S4XrdSEU1Of7RydbkJrP_mEG4-oo&s",
+      "width": "306",
+      "height": "165"
+     }
+    ],
+    "metatags": [
+     {
+      "application-name": "REAL ID Information : Oregon Department of Transportation",
+      "msapplication-tilecolor": "#344032",
+      "msapplication-square70x70logo": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-70x70.png?v=03_04_2025",
+      "theme-color": "#222222",
+      "msapplication-wide310x150logo": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-310x150.png?v=03_04_2025",
+      "progid": "SharePoint.WebPartPage.Document",
+      "msapplication-tileimage": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-144x144.png?v=03_04_2025",
+      "msapplication-square150x150logo": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-150x150.png?v=03_04_2025",
+      "msapplication-navbutton-color": "#344032",
+      "apple-mobile-web-app-status-bar-style": "black-translucent",
+      "viewport": "width=device-width, initial-scale=1",
+      "google-translate-customization": "d78d477bc586dd01-66d24054f200e54f-g61435a41cc4d65c3-e",
+      "msapplication-square310x310logo": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-310x310.png?v=03_04_2025"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.oregon.gov/odot/DMV/PublishingImages/DriverID/Oregon_DL_Sample.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Oregon Department of Transportation : Oregon REAL ID FAQs ...",
+   "htmlTitle": "Oregon Department of Transportation : Oregon <b>REAL ID</b> FAQs ...",
+   "link": "https://www.oregon.gov/odot/dmv/pages/real_id.aspx",
+   "displayLink": "www.oregon.gov",
+   "snippet": "A\u200b REAL ID is a state-issued driver's license, instruction permit or identification card that meets federal security standards set by the REAL ID Act of\u00a0...",
+   "htmlSnippet": "A\u200b <b>REAL ID</b> is a state-issued driver&#39;s license, instruction permit or identification card that meets federal security standards set by the <b>REAL ID</b> Act of&nbsp;...",
+   "formattedUrl": "https://www.oregon.gov/odot/dmv/pages/real_id.aspx",
+   "htmlFormattedUrl": "https://www.oregon.gov/odot/dmv/pages/<b>real_id</b>.aspx",
+   "pagemap": {
+    "hcard": [
+     {
+      "url_text": "Oregon DMV",
+      "fn": "Oregon DMV",
+      "url": "https://www.oregon.gov/odot/dmv/pages/contact_us.aspx"
+     }
+    ],
+    "metatags": [
+     {
+      "application-name": "Oregon REAL ID FAQs : Oregon Department of Transportation",
+      "msapplication-tilecolor": "#344032",
+      "msapplication-square70x70logo": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-70x70.png?v=03_04_2025",
+      "theme-color": "#222222",
+      "msapplication-wide310x150logo": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-310x150.png?v=03_04_2025",
+      "progid": "SharePoint.WebPartPage.Document",
+      "msapplication-tileimage": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-144x144.png?v=03_04_2025",
+      "msapplication-square150x150logo": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-150x150.png?v=03_04_2025",
+      "msapplication-navbutton-color": "#344032",
+      "apple-mobile-web-app-status-bar-style": "black-translucent",
+      "viewport": "width=device-width, initial-scale=1",
+      "google-translate-customization": "d78d477bc586dd01-66d24054f200e54f-g61435a41cc4d65c3-e",
+      "msapplication-square310x310logo": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-310x310.png?v=03_04_2025"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Oregon Department of Transportation : REAL ID Toolkit : Oregon ...",
+   "htmlTitle": "Oregon Department of Transportation : <b>REAL ID</b> Toolkit : Oregon ...",
+   "link": "https://www.oregon.gov/odot/dmv/pages/real-id_toolkit.aspx",
+   "displayLink": "www.oregon.gov",
+   "snippet": "Oregon DMV's partner toolkit provides promotional materials that can be used in emails, on social channels or printed to drive awareness and action for REAL ID.",
+   "htmlSnippet": "Oregon DMV&#39;s partner toolkit provides promotional materials that can be used in emails, on social channels or printed to drive awareness and action for <b>REAL ID</b>.",
+   "formattedUrl": "https://www.oregon.gov/odot/dmv/pages/real-id_toolkit.aspx",
+   "htmlFormattedUrl": "https://www.oregon.gov/odot/dmv/pages/<b>real-id</b>_toolkit.aspx",
+   "pagemap": {
+    "hcard": [
+     {
+      "url_text": "Oregon DMV",
+      "fn": "Oregon DMV",
+      "url": "https://www.oregon.gov/odot/dmv/pages/contact_us.aspx"
+     }
+    ],
+    "metatags": [
+     {
+      "application-name": "REAL ID Toolkit  : Oregon Department of Transportation",
+      "msapplication-tilecolor": "#344032",
+      "msapplication-square70x70logo": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-70x70.png?v=03_04_2025",
+      "theme-color": "#222222",
+      "msapplication-wide310x150logo": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-310x150.png?v=03_04_2025",
+      "progid": "SharePoint.WebPartPage.Document",
+      "msapplication-tileimage": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-144x144.png?v=03_04_2025",
+      "msapplication-square150x150logo": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-150x150.png?v=03_04_2025",
+      "msapplication-navbutton-color": "#344032",
+      "apple-mobile-web-app-status-bar-style": "black-translucent",
+      "viewport": "width=device-width, initial-scale=1",
+      "google-translate-customization": "d78d477bc586dd01-66d24054f200e54f-g61435a41cc4d65c3-e",
+      "msapplication-square310x310logo": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-310x310.png?v=03_04_2025"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Oregon Department of Transportation : Driver Licensing & ID Card ...",
+   "htmlTitle": "Oregon Department of Transportation : Driver Licensing &amp; ID Card ...",
+   "link": "https://www.oregon.gov/odot/dmv/pages/fees/driver.aspx",
+   "displayLink": "www.oregon.gov",
+   "snippet": "Ages 18+ need a REAL ID, passport or other federally accepted identification. Make sure you're REAL ID ready before your next flight. Learn more at Oregon\u00a0...",
+   "htmlSnippet": "Ages 18+ need a <b>REAL ID</b>, passport or other federally accepted identification. Make sure you&#39;re <b>REAL ID</b> ready before your next flight. Learn more at Oregon&nbsp;...",
+   "formattedUrl": "https://www.oregon.gov/odot/dmv/pages/fees/driver.aspx",
+   "htmlFormattedUrl": "https://www.oregon.gov/odot/dmv/pages/fees/driver.aspx",
+   "pagemap": {
+    "hcard": [
+     {
+      "url_text": "Oregon DMV",
+      "fn": "Oregon DMV",
+      "url": "https://www.oregon.gov/odot/dmv/pages/contact_us.aspx"
+     }
+    ],
+    "metatags": [
+     {
+      "application-name": "Driver Licensing & ID Card Fees : Oregon Department of Transportation",
+      "msapplication-tilecolor": "#344032",
+      "msapplication-square70x70logo": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-70x70.png?v=03_04_2025",
+      "theme-color": "#222222",
+      "msapplication-wide310x150logo": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-310x150.png?v=03_04_2025",
+      "progid": "SharePoint.WebPartPage.Document",
+      "msapplication-tileimage": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-144x144.png?v=03_04_2025",
+      "msapplication-square150x150logo": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-150x150.png?v=03_04_2025",
+      "msapplication-navbutton-color": "#344032",
+      "apple-mobile-web-app-status-bar-style": "black-translucent",
+      "viewport": "width=device-width, initial-scale=1",
+      "google-translate-customization": "d78d477bc586dd01-66d24054f200e54f-g61435a41cc4d65c3-e",
+      "msapplication-square310x310logo": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-310x310.png?v=03_04_2025"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Oregon Department of Transportation : Required Identity ...",
+   "htmlTitle": "Oregon Department of Transportation : Required Identity ...",
+   "link": "https://www.oregon.gov/odot/dmv/pages/driverid/idproof.aspx",
+   "displayLink": "www.oregon.gov",
+   "snippet": "Beginning in May 2025, to board an airplane you will need a particular type of identification such as a passport or a REAL ID-compliant driver license or ID\u00a0...",
+   "htmlSnippet": "Beginning in May 2025, to board an airplane you will need a particular type of identification such as a passport or a <b>REAL ID</b>-compliant driver license or ID&nbsp;...",
+   "formattedUrl": "https://www.oregon.gov/odot/dmv/pages/driverid/idproof.aspx",
+   "htmlFormattedUrl": "https://www.oregon.gov/odot/dmv/pages/driverid/idproof.aspx",
+   "pagemap": {
+    "hcard": [
+     {
+      "url_text": "Oregon DMV",
+      "fn": "Oregon DMV",
+      "url": "https://www.oregon.gov/odot/dmv/pages/contact_us.aspx"
+     }
+    ],
+    "metatags": [
+     {
+      "application-name": "Required Identity Documentation : Oregon Department of Transportation",
+      "msapplication-tilecolor": "#344032",
+      "msapplication-square70x70logo": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-70x70.png?v=03_04_2025",
+      "theme-color": "#222222",
+      "msapplication-wide310x150logo": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-310x150.png?v=03_04_2025",
+      "progid": "SharePoint.WebPartPage.Document",
+      "msapplication-tileimage": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-144x144.png?v=03_04_2025",
+      "msapplication-square150x150logo": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-150x150.png?v=03_04_2025",
+      "msapplication-navbutton-color": "#344032",
+      "apple-mobile-web-app-status-bar-style": "black-translucent",
+      "viewport": "width=device-width, initial-scale=1",
+      "google-translate-customization": "d78d477bc586dd01-66d24054f200e54f-g61435a41cc4d65c3-e",
+      "msapplication-square310x310logo": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-310x310.png?v=03_04_2025"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Oregon Department of Transportation : Welcome to Oregon DMV ...",
+   "htmlTitle": "Oregon Department of Transportation : Welcome to Oregon DMV ...",
+   "link": "https://www.oregon.gov/odot/dmv/pages/index.aspx",
+   "displayLink": "www.oregon.gov",
+   "snippet": "Get a Driver License \u00b7 Get an ID card \u00b7 REAL ID Information \u00b7 Renew Your Card \u00b7 Lost Your Driver License? (Replace) \u00b7 Schedule a Drive Test\u00a0...",
+   "htmlSnippet": "Get a Driver License &middot; Get an ID card &middot; <b>REAL ID</b> Information &middot; Renew Your Card &middot; Lost Your Driver License? (Replace) &middot; Schedule a Drive Test&nbsp;...",
+   "formattedUrl": "https://www.oregon.gov/odot/dmv/pages/index.aspx",
+   "htmlFormattedUrl": "https://www.oregon.gov/odot/dmv/pages/index.aspx",
+   "pagemap": {
+    "hcard": [
+     {
+      "url_text": "Oregon DMV",
+      "fn": "Oregon DMV",
+      "url": "https://www.oregon.gov/odot/dmv/pages/contact_us.aspx"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4rcoXQpfNajReKJ9c5DlQDlufXYUGvbbi_lcGw6cZLY-gWFt-qglLKHad&s",
+      "width": "299",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "application-name": "Welcome to Oregon DMV : Oregon Department of Transportation",
+      "msapplication-tilecolor": "#344032",
+      "msapplication-square70x70logo": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-70x70.png?v=03_04_2025",
+      "theme-color": "#222222",
+      "msapplication-wide310x150logo": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-310x150.png?v=03_04_2025",
+      "progid": "SharePoint.WebPartPage.Document",
+      "msapplication-tileimage": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-144x144.png?v=03_04_2025",
+      "msapplication-square150x150logo": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-150x150.png?v=03_04_2025",
+      "msapplication-navbutton-color": "#344032",
+      "apple-mobile-web-app-status-bar-style": "black-translucent",
+      "viewport": "width=device-width, initial-scale=1",
+      "google-translate-customization": "d78d477bc586dd01-66d24054f200e54f-g61435a41cc4d65c3-e",
+      "msapplication-square310x310logo": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-310x310.png?v=03_04_2025"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.oregon.gov/odot/DMV/PublishingImages/Task_Boxes/DMV2U-Button_dotsTB.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Oregon Department of Transportation : Oregon Identification Cards ...",
+   "htmlTitle": "Oregon Department of Transportation : Oregon Identification Cards ...",
+   "link": "https://www.oregon.gov/odot/dmv/pages/driverid/idget.aspx",
+   "displayLink": "www.oregon.gov",
+   "snippet": "You must turn in any driver license, permit or ID card from Oregon, another state or country, if you have one. Print a list of documents needed to get a REAL ID\u00a0...",
+   "htmlSnippet": "You must turn in any driver license, permit or ID card from Oregon, another state or country, if you have one. Print a list of documents needed to get a <b>REAL ID</b>&nbsp;...",
+   "formattedUrl": "https://www.oregon.gov/odot/dmv/pages/driverid/idget.aspx",
+   "htmlFormattedUrl": "https://www.oregon.gov/odot/dmv/pages/driverid/idget.aspx",
+   "pagemap": {
+    "hcard": [
+     {
+      "url_text": "Oregon DMV",
+      "fn": "Oregon DMV",
+      "url": "https://www.oregon.gov/odot/dmv/pages/contact_us.aspx"
+     }
+    ],
+    "metatags": [
+     {
+      "application-name": "Oregon Identification Cards : Oregon Department of Transportation",
+      "msapplication-tilecolor": "#344032",
+      "msapplication-square70x70logo": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-70x70.png?v=03_04_2025",
+      "theme-color": "#222222",
+      "msapplication-wide310x150logo": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-310x150.png?v=03_04_2025",
+      "progid": "SharePoint.WebPartPage.Document",
+      "msapplication-tileimage": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-144x144.png?v=03_04_2025",
+      "msapplication-square150x150logo": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-150x150.png?v=03_04_2025",
+      "msapplication-navbutton-color": "#344032",
+      "apple-mobile-web-app-status-bar-style": "black-translucent",
+      "viewport": "width=device-width, initial-scale=1",
+      "google-translate-customization": "d78d477bc586dd01-66d24054f200e54f-g61435a41cc4d65c3-e",
+      "msapplication-square310x310logo": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-310x310.png?v=03_04_2025"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "OREGON DMV | REAL ID FACT SHEET",
+   "htmlTitle": "OREGON DMV | <b>REAL ID</b> FACT SHEET",
+   "link": "https://www.oregon.gov/odot/DMV/docs/RealID_Fact_Sheet.pdf",
+   "displayLink": "www.oregon.gov",
+   "snippet": "What is REAL ID. REAL ID is a federal law that requires all states to comply with identification standards for state-issued driver's licenses and ID cards.",
+   "htmlSnippet": "What is <b>REAL ID</b>. <b>REAL ID</b> is a federal law that requires all states to comply with identification standards for state-issued driver&#39;s licenses and ID cards.",
+   "formattedUrl": "https://www.oregon.gov/odot/DMV/docs/RealID_Fact_Sheet.pdf",
+   "htmlFormattedUrl": "https://www.oregon.gov/odot/DMV/docs/<b>RealID</b>_Fact_Sheet.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20240822143625-07'00'",
+      "msip_label_d7e3d0d1_450a_4004_b486_33007ae0f22e_setdate": "2024-04-26T17:42:53Z",
+      "creator": "Microsoft\u00ae Word for Microsoft 365",
+      "creationdate": "D:20240822143625-07'00'",
+      "msip_label_d7e3d0d1_450a_4004_b486_33007ae0f22e_actionid": "3178688f-493b-417b-90b6-decb9a2ab2d1",
+      "msip_label_d7e3d0d1_450a_4004_b486_33007ae0f22e_name": "Level 3 - Restricted (Items)",
+      "author": "HOUSE David J",
+      "msip_label_d7e3d0d1_450a_4004_b486_33007ae0f22e_siteid": "28b0d013-46bc-4a64-8d86-1c8a31cf590d",
+      "producer": "Microsoft\u00ae Word for Microsoft 365",
+      "msip_label_d7e3d0d1_450a_4004_b486_33007ae0f22e_enabled": "true",
+      "msip_label_d7e3d0d1_450a_4004_b486_33007ae0f22e_method": "Privileged",
+      "msip_label_d7e3d0d1_450a_4004_b486_33007ae0f22e_contentbits": "2"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "REAL ID Background",
+   "htmlTitle": "<b>REAL ID</b> Background",
+   "link": "https://www.oregon.gov/odot/DMV/docs/REAL-ID-General-Talking-Points.pdf",
+   "displayLink": "www.oregon.gov",
+   "snippet": "Congress passed the REAL ID Act to make U.S. identity documents more consistent and secure. The REAL ID Act prohibits federal agencies from accepting\u00a0...",
+   "htmlSnippet": "Congress passed the <b>REAL ID</b> Act to make U.S. identity documents more consistent and secure. The <b>REAL ID</b> Act prohibits federal agencies from accepting&nbsp;...",
+   "formattedUrl": "https://www.oregon.gov/odot/DMV/.../REAL-ID-General-Talking-Points.p...",
+   "htmlFormattedUrl": "https://www.oregon.gov/odot/DMV/.../<b>REAL-ID</b>-General-Talking-Points.p...",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20250206144641-08'00'",
+      "msip_label_d7e3d0d1_450a_4004_b486_33007ae0f22e_setdate": "2024-04-26T17:42:53Z",
+      "creator": "Microsoft\u00ae Word for Microsoft 365",
+      "creationdate": "D:20250206144641-08'00'",
+      "msip_label_d7e3d0d1_450a_4004_b486_33007ae0f22e_actionid": "3178688f-493b-417b-90b6-decb9a2ab2d1",
+      "msip_label_d7e3d0d1_450a_4004_b486_33007ae0f22e_name": "Level 3 - Restricted (Items)",
+      "author": "HOUSE David J",
+      "msip_label_d7e3d0d1_450a_4004_b486_33007ae0f22e_siteid": "28b0d013-46bc-4a64-8d86-1c8a31cf590d",
+      "producer": "Microsoft\u00ae Word for Microsoft 365",
+      "msip_label_d7e3d0d1_450a_4004_b486_33007ae0f22e_enabled": "true",
+      "msip_label_d7e3d0d1_450a_4004_b486_33007ae0f22e_method": "Privileged",
+      "msip_label_d7e3d0d1_450a_4004_b486_33007ae0f22e_contentbits": "2"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Oregon Department of Transportation : Sample Oregon Driver ...",
+   "htmlTitle": "Oregon Department of Transportation : Sample Oregon Driver ...",
+   "link": "https://www.oregon.gov/odot/dmv/pages/driverid/samplecards.aspx",
+   "displayLink": "www.oregon.gov",
+   "snippet": "Driver Licenses & ID Cards. REAL ID and Non-REAL ID Cards Issued Beginning July 6, 2020. The photograph is on the left side with signature overlaid beneath. A\u00a0...",
+   "htmlSnippet": "Driver Licenses &amp; ID Cards. <b>REAL ID</b> and Non-<b>REAL ID</b> Cards Issued Beginning July 6, 2020. The photograph is on the left side with signature overlaid beneath. A&nbsp;...",
+   "formattedUrl": "https://www.oregon.gov/odot/dmv/pages/driverid/samplecards.aspx",
+   "htmlFormattedUrl": "https://www.oregon.gov/odot/dmv/pages/driverid/samplecards.aspx",
+   "pagemap": {
+    "hcard": [
+     {
+      "url_text": "Oregon DMV",
+      "fn": "Oregon DMV",
+      "url": "https://www.oregon.gov/odot/dmv/pages/contact_us.aspx"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyQwWObSjdunMJKP3PXdrM0RONWLJKlTtErNRfgVdPFqdCZxeia-d4QNGm&s",
+      "width": "235",
+      "height": "215"
+     }
+    ],
+    "metatags": [
+     {
+      "application-name": "Sample Oregon Driver Licenses and ID Cards : Oregon Department of Transportation",
+      "msapplication-tilecolor": "#344032",
+      "msapplication-square70x70logo": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-70x70.png?v=03_04_2025",
+      "theme-color": "#222222",
+      "msapplication-wide310x150logo": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-310x150.png?v=03_04_2025",
+      "progid": "SharePoint.WebPartPage.Document",
+      "msapplication-tileimage": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-144x144.png?v=03_04_2025",
+      "msapplication-square150x150logo": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-150x150.png?v=03_04_2025",
+      "msapplication-navbutton-color": "#344032",
+      "apple-mobile-web-app-status-bar-style": "black-translucent",
+      "viewport": "width=device-width, initial-scale=1",
+      "google-translate-customization": "d78d477bc586dd01-66d24054f200e54f-g61435a41cc4d65c3-e",
+      "msapplication-square310x310logo": "https://app.govstatus.site/Application/CDN/Enterprise/images/icons/favicons/mstile-310x310.png?v=03_04_2025"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.oregon.gov/odot/DMV/PublishingImages/DriverID/ThreeCardStackHoriz_RealID.png"
+     }
+    ]
+   }
+  }
+ ]
+}

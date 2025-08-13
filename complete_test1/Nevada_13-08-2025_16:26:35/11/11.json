@@ -1,0 +1,381 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Nevada Revised Statutes\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "3800",
+    "searchTerms": "\"Nevada Revised Statutes\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Nevada Revised Statutes\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "3800",
+    "searchTerms": "\"Nevada Revised Statutes\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.19092,
+  "formattedSearchTime": "0.19",
+  "totalResults": "3800",
+  "formattedTotalResults": "3,800"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Nevada Revised Statutes \u00a7 603A.040 (2024) - \"Personal information ...",
+   "htmlTitle": "<b>Nevada Revised Statutes</b> \u00a7 603A.040 (2024) - &quot;<b>Personal information</b> ...",
+   "link": "https://law.justia.com/codes/nevada/chapter-603a/statute-603a-040/",
+   "displayLink": "law.justia.com",
+   "snippet": "\"Personal information\" means a natural person's first name ... (b) Driver's license number, driver authorization card number or identification card number.",
+   "htmlSnippet": "&quot;<b>Personal information</b>&quot; <b>means</b> a natural person&#39;s first name ... (b) <b>Driver&#39;s license</b> number, driver authorization card number or <b>identification card</b> number.",
+   "formattedUrl": "https://law.justia.com/codes/nevada/chapter-603a/statute-603a-040/",
+   "htmlFormattedUrl": "https://law.justia.com/codes/nevada/chapter-603a/statute-603a-040/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9ooq2CY4wn1M317EbUaCCw5ZAIAlSdzgpscbjYt4auTmAevEEYyQNOXA&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://justatic.com/v/20250812074739/shared/images/social-media/law.jpg",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "og:site_name": "Justia Law",
+      "og:title": "2024 Nevada Revised Statutes :: Chapter 603A - Security and Privacy of Personal Information :: NRS 603A.040 - \"Personal information\" defined.",
+      "og:app_id": "119529808075661",
+      "trigger-ga": "1",
+      "og:description": "Justia Free Databases of U.S. Laws, Codes & Statutes",
+      "og:admins": "656268335,686786921,25900864",
+      "referrer": "unsafe-url",
+      "twitter:site": "@JustiaCom",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "page-type": "Law: Codes Document Page (Current Year)",
+      "is-li": "0",
+      "og:url": "https://law.justia.com/codes/nevada/chapter-603a/statute-603a-040/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://justatic.com/v/20250812074739/shared/images/social-media/law.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NRS: CHAPTER 293 - ELECTIONS",
+   "htmlTitle": "NRS: CHAPTER 293 - ELECTIONS",
+   "link": "https://www.leg.state.nv.us/nrs/nrs-293.html",
+   "displayLink": "www.leg.state.nv.us",
+   "snippet": "... driver's license or identification card issued by the Department or a social security number. ... \u201cConfidential information\u201d means personal information\u00a0...",
+   "htmlSnippet": "... <b>driver&#39;s license</b> or <b>identification card</b> issued by the Department or a social security number. ... \u201cConfidential information\u201d <b>means personal information</b>&nbsp;...",
+   "formattedUrl": "https://www.leg.state.nv.us/nrs/nrs-293.html",
+   "htmlFormattedUrl": "https://www.leg.state.nv.us/nrs/nrs-293.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "format-detection": "telephone=no"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Nevada Revised Statutes Chapter 603A Compliance guide ...",
+   "htmlTitle": "<b>Nevada Revised Statutes</b> Chapter 603A Compliance guide ...",
+   "link": "https://termageddon.com/nevada-revised-statutes-chapter-603a/",
+   "displayLink": "termageddon.com",
+   "snippet": "Jul 8, 2019 ... How does Nevada Revised Statutes Chapter 603A define Personally Identifiable Information ... Driver's license number or identification card number\u00a0...",
+   "htmlSnippet": "Jul 8, 2019 <b>...</b> How does <b>Nevada Revised Statutes</b> Chapter 603A define <b>Personally Identifiable Information</b> ... <b>Driver&#39;s license</b> number or <b>identification card</b> number&nbsp;...",
+   "formattedUrl": "https://termageddon.com/nevada-revised-statutes-chapter-603a/",
+   "htmlFormattedUrl": "https://termageddon.com/<b>nevada-revised-statutes</b>-chapter-603a/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkXbcI79RyOKurCkQRHdRSWNuOPxl-Yn6O_pdzKrOAW8MbGWylhGrGiLmr&s",
+      "width": "245",
+      "height": "206"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://termageddon.com/wp-content/uploads/2019/07/nevada-revised-statutes-chapter-603a.png",
+      "og:image:width": "940",
+      "twitter:card": "summary",
+      "og:site_name": "Termageddon",
+      "msapplication-tileimage": "https://termageddon.com/wp-content/uploads/2022/04/Subtraction-1-300x300.png",
+      "og:description": "When it comes to determining what laws require websites to have a Privacy Policy, most people are surprised to learn that Nevada has a privacy law that governs the collection of Personally Identifiable Information by websites. Nevada Revised Statutes Chapter 603A, like many other privacy laws, has a broad reach\u2026",
+      "twitter:creator": "@termageddon",
+      "article:publisher": "https://www.facebook.com/termageddon",
+      "og:image:secure_url": "https://termageddon.com/wp-content/uploads/2019/07/nevada-revised-statutes-chapter-603a.png",
+      "twitter:image": "https://termageddon.com/wp-content/uploads/2019/07/nevada-revised-statutes-chapter-603a.png",
+      "twitter:site": "@termageddon",
+      "dc.source": "https://termageddon.com/",
+      "dc.description": "When it comes to determining what laws require websites to have a Privacy Policy, most people are surprised to learn that Nevada has a privacy law that governs the collection of Personally Identifiable Information by websites. Nevada Revised Statutes Chapter 603A, like many other privacy laws, has a broad reach\u2026",
+      "og:type": "article",
+      "article:section": "General",
+      "og:image:alt": "Nevada Privacy Law Revised Statutes Chapter 603A",
+      "twitter:title": "Nevada Revised Statutes Chapter 603A Compliance guide - Termageddon",
+      "og:title": "Nevada Revised Statutes Chapter 603A Compliance guide - Termageddon",
+      "og:image:height": "788",
+      "article:author": "https://www.facebook.com/termageddon",
+      "article:tag": "Nevada Revised Statutes Chapter 603A",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "When it comes to determining what laws require websites to have a Privacy Policy, most people are surprised to learn that Nevada has a privacy law that governs the collection of Personally Identifiable Information by websites. Nevada Revised Statutes Chapter 603A, like many other privacy laws, has a broad reach\u2026",
+      "dc.relation": "https://termageddon.com/nevada-revised-statutes-chapter-603a/",
+      "dc.title": "Nevada Revised Statutes Chapter 603A Compliance guide - Termageddon",
+      "og:locale": "en_US",
+      "dc.language": "en_US",
+      "og:url": "https://termageddon.com/nevada-revised-statutes-chapter-603a/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://termageddon.com/wp-content/uploads/2019/07/nevada-revised-statutes-chapter-603a.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2009 Statutes of Nevada, Pages 617-716",
+   "htmlTitle": "2009 Statutes of Nevada, Pages 617-716",
+   "link": "https://www.leg.state.nv.us/statutes/75th2009/Stats200907.html",
+   "displayLink": "www.leg.state.nv.us",
+   "snippet": "... personal information from a file or record relating to a driver's license, identification card, or title or registration of a vehicle. 5. Except as\u00a0...",
+   "htmlSnippet": "... <b>personal information</b> from a file or record relating to a <b>driver&#39;s license</b>, <b>identification card</b>, or title or registration of a vehicle. 5. Except as&nbsp;...",
+   "formattedUrl": "https://www.leg.state.nv.us/statutes/75th2009/Stats200907.html",
+   "htmlFormattedUrl": "https://www.leg.state.nv.us/statutes/75th2009/Stats200907.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "format-detection": "telephone=no"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Nevada Revised Statutes: Chapter 603A",
+   "htmlTitle": "<b>Nevada Revised Statutes</b>: Chapter 603A",
+   "link": "https://www.steptoe.com/a/web/1659/2685.pdf",
+   "displayLink": "www.steptoe.com",
+   "snippet": "040 \u201cPersonal information\u201d defined. \u201cPersonal information\u201d means a natural ... Driver's license number or identification card number. 3. Account number\u00a0...",
+   "htmlSnippet": "040 \u201c<b>Personal information</b>\u201d <b>defined</b>. \u201c<b>Personal information</b>\u201d <b>means</b> a natural ... <b>Driver&#39;s license</b> number or <b>identification card</b> number. 3. Account number&nbsp;...",
+   "formattedUrl": "https://www.steptoe.com/a/web/1659/2685.pdf",
+   "htmlFormattedUrl": "https://www.steptoe.com/a/web/1659/2685.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20061114114557-05'00'",
+      "creationdate": "D:20061114114549-05'00'",
+      "producer": "Acrobat Web Capture 7.0",
+      "title": "Nevada Revised Statutes: Chapter 603A"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BACK STORY",
+   "htmlTitle": "BACK STORY",
+   "link": "https://nvbar.org/wp-content/uploads/NevadaLawyer_Feb2016_BackStory.pdf",
+   "displayLink": "nvbar.org",
+   "snippet": "\u201cPersonal Information\u201d means a natural person's first name, or first initial ... A driver's license number or identification card number; and. 3. An\u00a0...",
+   "htmlSnippet": "\u201c<b>Personal Information</b>\u201d <b>means</b> a natural person&#39;s first name, or first initial ... A <b>driver&#39;s license</b> number or <b>identification card</b> number; and. 3. An&nbsp;...",
+   "formattedUrl": "https://nvbar.org/wp-content/.../NevadaLawyer_Feb2016_BackStory.pdf",
+   "htmlFormattedUrl": "https://nvbar.org/wp-content/.../NevadaLawyer_Feb2016_BackStory.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTekTZqOZ7R_3EipqNgKqU1RGM9a9Npn6esO1O_SL-DEpkxbkZDICB-UzA&s",
+      "width": "198",
+      "height": "255"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20160210081220-08'00'",
+      "creationdate": "D:20160210081149-08'00'",
+      "producer": "Creo Normalizer JTP"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///e4c48dbde5449b53251161857d79e41fc273ab292f8df9336e8c0b7a91c2a5e1"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Privacy Policy - Donahue Fitzgerald LLP | Law Firm in San ...",
+   "htmlTitle": "Privacy Policy - Donahue Fitzgerald LLP | Law Firm in San ...",
+   "link": "https://donahue.com/privacy-policy/",
+   "displayLink": "donahue.com",
+   "snippet": "Jun 17, 2024 ... This Privacy Policy explains how Donahue Fitzgerald receives and processes personal information as defined ... Nevada Revised Statutes\u00a0...",
+   "htmlSnippet": "Jun 17, 2024 <b>...</b> This Privacy Policy explains how Donahue Fitzgerald receives and processes <b>personal information</b> as <b>defined</b> ... <b>Nevada Revised Statutes</b>&nbsp;...",
+   "formattedUrl": "https://donahue.com/privacy-policy/",
+   "htmlFormattedUrl": "https://donahue.com/privacy-policy/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNc_1TvareSTmZDdYQkmhfoos0AGrK9twYfWU5p5ZqOR31HYKTaRy5zgU&s",
+      "width": "377",
+      "height": "134"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "article",
+      "og:site_name": "Donahue Fitzgerald LLP",
+      "article:modified_time": "2024-06-17T22:33:06+00:00",
+      "viewport": "initial-scale=1.0, user-scalable=yes",
+      "og:title": "Privacy Policy - Donahue Fitzgerald LLP | Law Firm in San Francisco Bay Area",
+      "og:locale": "en_US",
+      "twitter:label1": "Est. reading time",
+      "og:url": "https://donahue.com/privacy-policy/",
+      "og:description": "Donahue Fitzgerald LLP Privacy Policy Last Updated & Effective Date: June 17, 2024 This Privacy Policy explains how Donahue Fitzgerald receives and processes personal information as defined by applicable law from its business clients (\u201cBusiness Client Personal Information\u201d or \u201cBusiness Client PI\u201d), its individual clients (\u201cIndividual Client Personal Information\u201d or \u201cIndividual Client PI\u201d), and visitors [\u2026]",
+      "twitter:data1": "4 minutes"
+     }
+    ],
+    "webpage": [
+     {
+      "test": "Donahue Fitzgerald LLP Privacy Policy Last Updated & Effective Date: June 17, 2024 This Privacy Policy explains how Donahue Fitzgerald receives and processes personal information as defined...",
+      "description": "Donahue Fitzgerald LLP Privacy Policy Last Updated & Effective Date: June 17, 2024 This Privacy Policy explains how Donahue Fitzgerald receives and processes personal information as defined...",
+      "text": "Donahue Fitzgerald LLP Privacy Policy Last Updated & Effective Date: June 17, 2024 This Privacy Policy explains how Donahue Fitzgerald receives and processes personal information as defined...",
+      "datepublished": "2019-02-15"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://donahue.com/wp-content/themes/ccprototypev5/images/logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Nevada Driver Handbook",
+   "htmlTitle": "Nevada Driver Handbook",
+   "link": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+   "displayLink": "dmv.nv.gov",
+   "snippet": "Nevada customers have the option to obtain either a Real ID compliant or standard driver's license or identification card. The DMV is required to verify an\u00a0...",
+   "htmlSnippet": "Nevada customers have the option to obtain either a Real ID compliant or standard <b>driver&#39;s license</b> or <b>identification card</b>. The DMV is required to verify an&nbsp;...",
+   "formattedUrl": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+   "htmlFormattedUrl": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBQe4fTL8Xt5FQ7H7tUZ_zYLP46JUJeGsFE1W8O8ZQeR9mZ-bxYmWDeD8A&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20240329114958-07'00'",
+      "creationdate": "D:20230616095208-07'00'",
+      "creator": "Adobe InDesign 18.3 (Windows)",
+      "producer": "Adobe Acrobat Pro (32-bit) 23 Paper Capture Plug-in",
+      "title": "Nevada Driver Handbook"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///2fd2ee2d6899fc99cedc45073232f9d342093d89125a7ae448082c97e85531af"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Chapter 7.50 - REGULATIONS FOR PEDICAB BUSINESS IN ...",
+   "htmlTitle": "Chapter 7.50 - REGULATIONS FOR PEDICAB BUSINESS IN ...",
+   "link": "https://library.municode.com/nv/clark_county/codes/code_of_ordinances?nodeId=TIT7BURE_CH7.50REPEBUUNAR",
+   "displayLink": "library.municode.com",
+   "snippet": "All operators as defined in this chapter shall obtain and maintain a valid unexpired work identification card. ... Nevada Revised Statutes, and all other\u00a0...",
+   "htmlSnippet": "All operators as <b>defined</b> in this chapter shall obtain and maintain a valid unexpired work <b>identification card</b>. ... <b>Nevada Revised Statutes</b>, and all other&nbsp;...",
+   "formattedUrl": "https://library.municode.com/nv/clark_county/.../code_of_ordinances?...",
+   "htmlFormattedUrl": "https://library.municode.com/nv/clark_county/.../code_of_ordinances?...",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "apple-mobile-web-app-title": "Municode Codification"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Written Information Security Program",
+   "htmlTitle": "Written Information Security Program",
+   "link": "https://www.stthomas.edu/about/departments/general-counsel/policy-pdfs/written-information-security-program.pdf",
+   "displayLink": "www.stthomas.edu",
+   "snippet": "Dec 19, 2022 ... Nevada Revised Statutes \u00a7 603A.210, Oregon ... For purposes of this WISP, \u201cpersonal information\u201d means either a person's first and last.",
+   "htmlSnippet": "Dec 19, 2022 <b>...</b> <b>Nevada Revised Statutes</b> \u00a7 603A.210, Oregon ... For purposes of this WISP, \u201c<b>personal information</b>\u201d <b>means</b> either a person&#39;s first and last.",
+   "formattedUrl": "https://www.stthomas.edu/.../written-information-security-program.pdf",
+   "htmlFormattedUrl": "https://www.stthomas.edu/.../written-information-security-program.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs5yZz3K_uWuqsI-cLpAEolgNBocNCRNTsEVXTn0QrWmQqMxEv50h8rRO8&s",
+      "width": "352",
+      "height": "143"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20221216121332-06'00'",
+      "creationdate": "D:20221216121013-06'00'",
+      "creator": "Acrobat PDFMaker 22 for Word",
+      "author": "Written Information Security Program",
+      "subject": "defining, documenting, and supporting implementation and maintenance of the administrative, technical, and physical safeguards St. Thomas has selected to protect the personal information",
+      "producer": "Adobe PDF Library 22.3.58",
+      "title": "Written Information Security Program",
+      "contenttypeid": "0x01010011B42028E6471648AF8BBFCAC2DDDB22"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///1105615bd5114640add1dee9bcdec769dcd51c463373d2d93be7f1cba6b7e8f7"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

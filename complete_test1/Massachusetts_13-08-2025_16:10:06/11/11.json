@@ -1,0 +1,382 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"General Laws of Massachusetts\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "1910",
+    "searchTerms": "\"General Laws of Massachusetts\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"General Laws of Massachusetts\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "1910",
+    "searchTerms": "\"General Laws of Massachusetts\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.156443,
+  "formattedSearchTime": "0.16",
+  "totalResults": "1910",
+  "formattedTotalResults": "1,910"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Massachusetts Cannabis Control Commission",
+   "htmlTitle": "Massachusetts Cannabis Control Commission",
+   "link": "https://masscannabiscontrol.com/wp-content/uploads/2023/04/MP281806_Mederi-Inc..pdf",
+   "displayLink": "masscannabiscontrol.com",
+   "snippet": "Apr 5, 2023 ... For purposes of this CISP, \u201cpersonal information\u201d means an ... driver's license number or state-issued identification card number; or (c)\u00a0...",
+   "htmlSnippet": "Apr 5, 2023 <b>...</b> For purposes of this CISP, \u201c<b>personal information</b>\u201d <b>means</b> an ... <b>driver&#39;s license</b> number or state-issued <b>identification card</b> number; or (c)&nbsp;...",
+   "formattedUrl": "https://masscannabiscontrol.com/wp-content/.../MP281806_Mederi-Inc..pdf",
+   "htmlFormattedUrl": "https://masscannabiscontrol.com/wp-content/.../MP281806_Mederi-Inc..pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg9O5cvFAFMJk0rLp071ZfzjScyky-l2mKMC8AmZD6GOPRiksPrFagicUc&s",
+      "width": "198",
+      "height": "254"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20190410110643-04'00'",
+      "creator": "pdfmake",
+      "creationdate": "D:20230405163539Z",
+      "author": "Meredith George",
+      "producer": "pdfmake",
+      "title": "Mederi - HCA Certification Form-3.pdf"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///1c44aea4fea2d29882c0602ec4ff10c36efa3c41614aa7218c1caccfda28b09b"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Understanding Investment Advisers' Responsibilities Concerning ...",
+   "htmlTitle": "Understanding Investment Advisers&#39; Responsibilities Concerning ...",
+   "link": "https://www.ria-compliance-consultants.com/2012/08/understanding-investment-advisers-responsibilities-concerning-information-security/",
+   "displayLink": "www.ria-compliance-consultants.com",
+   "snippet": "Aug 28, 2012 ... Non-public personal information generally means ... According to Regulation 201 CMR 17.00 of the General Laws of Massachusetts, personal\u00a0...",
+   "htmlSnippet": "Aug 28, 2012 <b>...</b> Non-public <b>personal information</b> generally <b>means</b> ... According to Regulation 201 CMR 17.00 of the <b>General Laws of Massachusetts</b>, <b>personal</b>&nbsp;...",
+   "formattedUrl": "https://www.ria-compliance-consultants.com/.../understanding-investment-a...",
+   "htmlFormattedUrl": "https://www.ria-compliance-consultants.com/.../understanding-investment-a...",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:type": "article",
+      "article:published_time": "2012-08-28T17:04:27+00:00",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "RIA Compliance Consultants",
+      "geo.region": "United States (US)",
+      "tec-api-origin": "https://www.ria-compliance-consultants.com",
+      "author": "Bryan Hill",
+      "og:title": "Understanding Investment Advisers' Responsibilities Concerning Information Security",
+      "twitter:label1": "Written by",
+      "twitter:label2": "Est. reading time",
+      "geo.position": "41.24899239651882;-96.02061113988115",
+      "msapplication-tileimage": "https://www.ria-compliance-consultants.com/wp-content/uploads/2016/06/cropped-ria-compliance-consultants-favicon-270x270.png",
+      "og:description": "Investment advisers must protect records that contain certain clients' non-public, personal information. In efforts to safeguard client records and",
+      "twitter:creator": "@riacompliance",
+      "article:publisher": "https://www.facebook.com/riacompliance/",
+      "twitter:data1": "Bryan Hill",
+      "twitter:data2": "4 minutes",
+      "referrer": "no-referrer-when-downgrade",
+      "twitter:site": "@riacompliance",
+      "viewport": "width=device-width",
+      "og:locale": "en_US",
+      "og:url": "https://www.ria-compliance-consultants.com/2012/08/understanding-investment-advisers-responsibilities-concerning-information-security/",
+      "geo.placename": "Omaha",
+      "tec-api-version": "v1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Massachusetts Cannabis Control Commission",
+   "htmlTitle": "Massachusetts Cannabis Control Commission",
+   "link": "https://masscannabiscontrol.com/wp-content/uploads/2021/08/MR282730_Apothca-Inc..pdf",
+   "displayLink": "masscannabiscontrol.com",
+   "snippet": "Information adequate to demonstrate that the location will not constitute a nuisance as defined by law. ... For purposes of this CISP, \u201cpersonal information\u201d\u00a0...",
+   "htmlSnippet": "Information adequate to demonstrate that the location will not constitute a nuisance as <b>defined</b> by law. ... For purposes of this CISP, \u201c<b>personal information</b>\u201d&nbsp;...",
+   "formattedUrl": "https://masscannabiscontrol.com/wp.../2021/.../MR282730_Apothca-Inc..p...",
+   "htmlFormattedUrl": "https://masscannabiscontrol.com/wp.../2021/.../MR282730_Apothca-Inc..p...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShxSI9hOK7Sa3HZeONfvbeC1yHj7pxQHHZ-xyfyfJjbunJUbnl-o6Dxv-L&s",
+      "width": "197",
+      "height": "256"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20190619104212-04'00'",
+      "creator": "pdfmake",
+      "creationdate": "D:20210325200448Z",
+      "sourcemodified": "D:20191210193300",
+      "author": "Joseph Lekach",
+      "producer": "pdfmake"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///a4e8976b26e9b9c70a0c52c421429e7eab700d57ec94f60c42bcaa4a9287b03c"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Board of State Examiners of Electricians Licensure",
+   "htmlTitle": "Board of State Examiners of Electricians Licensure",
+   "link": "https://www.mass.gov/doc/electrician-exam-bulletin/download",
+   "displayLink": "www.mass.gov",
+   "snippet": "General Laws of Massachusetts, MGL Chapter 141, ... Passport State-issued driver's license. Military identification State-issued identification card.",
+   "htmlSnippet": "<b>General Laws of Massachusetts</b>, MGL Chapter 141, ... Passport State-issued <b>driver&#39;s license</b>. Military identification State-issued <b>identification card</b>.",
+   "formattedUrl": "https://www.mass.gov/doc/electrician-exam-bulletin/download",
+   "htmlFormattedUrl": "https://www.mass.gov/doc/electrician-exam-bulletin/download",
+   "pagemap": {
+    "metatags": [
+     {
+      "mg_title": "Electrician exam bulletin",
+      "mg_organization": "divisionofoccupationallicensure,boardofstateexaminersofelectricians",
+      "mg_date": "20180207",
+      "mg_file_type": "application/pdf",
+      "mg_file_size": "641794"
+     },
+     {
+      "moddate": "D:20250310125740-04'00'",
+      "creationdate": "D:20180207150033-05'00'",
+      "creator": "Microsoft\u00ae Word 2013",
+      "author": "Cathy Laitinen",
+      "producer": "Microsoft\u00ae Word 2013",
+      "title": "Board of State Examiners of Electricians Licensure"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Part I: Administrative Legislation",
+   "htmlTitle": "Part I: Administrative Legislation",
+   "link": "https://www.town.orleans.ma.us/670/Town-Code",
+   "displayLink": "www.town.orleans.ma.us",
+   "snippet": "Dec 15, 2021 ... ... defined in Chapter 4. CLASS \u2014 A group of positions in the Town ... means of identification and not as prescribing what the duties or\u00a0...",
+   "htmlSnippet": "Dec 15, 2021 <b>...</b> ... <b>defined</b> in Chapter 4. CLASS \u2014 A group of positions in the Town ... <b>means</b> of identification and not as prescribing what the duties or&nbsp;...",
+   "formattedUrl": "https://www.town.orleans.ma.us/670/Town-Code",
+   "htmlFormattedUrl": "https://www.town.orleans.ma.us/670/Town-Code",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20220520093452-04'00'",
+      "creationdate": "D:20220520093452-04'00'",
+      "producer": "Prince 14.2 (www.princexml.com)"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CITY ORDINANCES | Easthampton, MA",
+   "htmlTitle": "CITY ORDINANCES | Easthampton, MA",
+   "link": "https://easthamptonma.gov/DocumentCenter/View/119/City-Ordinances-PDF",
+   "displayLink": "easthamptonma.gov",
+   "snippet": "Nov 17, 2021 ... Massachusetts Driver's License or Massachusetts Identification Card, utility bills, proof of voter registration, or such other proof\u00a0...",
+   "htmlSnippet": "Nov 17, 2021 <b>...</b> Massachusetts <b>Driver&#39;s License</b> or Massachusetts <b>Identification Card</b>, utility bills, proof of voter registration, or such other proof&nbsp;...",
+   "formattedUrl": "https://easthamptonma.gov/DocumentCenter/View/.../City-Ordinances-PDF",
+   "htmlFormattedUrl": "https://easthamptonma.gov/DocumentCenter/View/.../City-Ordinances-PDF",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp5PPVJawtmMgrNKt2RGjR7a0A78rg-r0AlieynCDRnIz_atxEWJhGFcxG&s",
+      "width": "218",
+      "height": "231"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20250429153027-04'00'",
+      "creationdate": "D:20250429151438-04'00'",
+      "creator": "Acrobat PDFMaker 20 for Word",
+      "author": "Town of Easthampton",
+      "producer": "Adobe PDF Library 20.5.43"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///f8427c621891d6176c3a769d8d19b1e740227ea8e9e04263d705d8ebfdae372b"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2025 ELDER LAW EDUCATION GUIDE",
+   "htmlTitle": "2025 ELDER LAW EDUCATION GUIDE",
+   "link": "https://www.massbar.org/docs/default-source/elder-law-education-guides/final-w_cover-elep_booklet_4-10-25.pdf",
+   "displayLink": "www.massbar.org",
+   "snippet": "Oct 15, 2024 ... common types of benefits are defined benefit plans and defined ... Your driver's license or other government-issued photo identification card.",
+   "htmlSnippet": "Oct 15, 2024 <b>...</b> common types of benefits are <b>defined</b> benefit plans and <b>defined</b> ... Your <b>driver&#39;s license</b> or other government-issued photo <b>identification card</b>.",
+   "formattedUrl": "https://www.massbar.org/docs/.../final-w_cover-elep_booklet_4-10-25.pdf",
+   "htmlFormattedUrl": "https://www.massbar.org/docs/.../final-w_cover-elep_booklet_4-10-25.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLsdc3RvoapGl4t_3EGpu0cgtOIRkpCvPh0ehK76a0z9jH5NJB3bThrS6f&s",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20250415121234-04'00'",
+      "creationdate": "D:20250410145255-04'00'",
+      "creator": "Adobe InDesign 20.2 (Macintosh)",
+      "producer": "Adobe PDF Library 17.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///7ee4f9cce72c3306f1b391f4a6cf32088af38cba9ea1ac9aa76ee72fa6638070"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Student handbook",
+   "htmlTitle": "Student handbook",
+   "link": "https://wne.edu/student-involvement-and-leadership/doc/Handbook-Final-Draft_8_18_2020.pdf",
+   "displayLink": "wne.edu",
+   "snippet": "Aug 18, 2020 ... As defined by the Violence Against Women Act (\u201cVAWA\u201d), dating ... Child Molestation. Child Molestation means any actual or alleged illegal or\u00a0...",
+   "htmlSnippet": "Aug 18, 2020 <b>...</b> As <b>defined</b> by the Violence Against Women Act (\u201cVAWA\u201d), dating ... Child Molestation. Child Molestation <b>means</b> any actual or alleged illegal or&nbsp;...",
+   "formattedUrl": "https://wne.edu/student...and.../Handbook-Final-Draft_8_18_2020.pdf",
+   "htmlFormattedUrl": "https://wne.edu/student...and.../Handbook-Final-Draft_8_18_2020.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20200818100925-04'00'",
+      "creator": "Microsoft\u00ae Word 2019",
+      "creationdate": "D:20200818100925-04'00'",
+      "author": "Alexander J. Rudiak",
+      "subject": "2020-2021",
+      "producer": "Microsoft\u00ae Word 2019",
+      "title": "Student handbook"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "STUDENT HANDBOOK - Boston",
+   "htmlTitle": "STUDENT HANDBOOK - Boston",
+   "link": "https://www.emmanuel.edu/sites/default/files/2023-09/student-handbook-2023-2024-final-9.1.23.pdf",
+   "displayLink": "www.emmanuel.edu",
+   "snippet": "The term \u201cSexual Harassment\u201d is defined pursuant to 34 CFR Part 106 as: ... Campus means all buildings, facilities, and other property owned or controlled\u00a0...",
+   "htmlSnippet": "The term \u201cSexual Harassment\u201d is <b>defined</b> pursuant to 34 CFR Part 106 as: ... Campus <b>means</b> all buildings, facilities, and other property owned or controlled&nbsp;...",
+   "formattedUrl": "https://www.emmanuel.edu/.../student-handbook-2023-2024-final-9.1.23.p...",
+   "htmlFormattedUrl": "https://www.emmanuel.edu/.../student-handbook-2023-2024-final-9.1.23.p...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7yeZl-evM1LvvXUdZfLbCakqgIgb0ZmMQEt55xHE0nwAkH_RVrnNBDUU&s",
+      "width": "237",
+      "height": "213"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20230901095700-04'00'",
+      "creationdate": "D:20230901095700-04'00'",
+      "creator": "Acrobat Pro 23.3.20284",
+      "producer": "Adobe PDF Library 17.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///e0281d840161af23306392745e38edc991b3ed5643d7d02398971fd5ce777277"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "EASTON PUBLIC SCHOOLS STUDENT AND PARENT K-5 ...",
+   "htmlTitle": "EASTON PUBLIC SCHOOLS STUDENT AND PARENT K-5 ...",
+   "link": "https://eastonmaschools.org/wp-content/uploads/2023/06/2022-2023-K-5-Student-Parent-Handbook-1.pdf",
+   "displayLink": "eastonmaschools.org",
+   "snippet": "Note: Personal information is defined as individually identifiable information including a student or parent's first and last name; home address; telephone\u00a0...",
+   "htmlSnippet": "Note: <b>Personal information</b> is <b>defined</b> as individually identifiable information including a student or parent&#39;s first and last name; home address; telephone&nbsp;...",
+   "formattedUrl": "https://eastonmaschools.org/.../2022-2023-K-5-Student-Parent-Handbook-1...",
+   "htmlFormattedUrl": "https://eastonmaschools.org/.../2022-2023-K-5-Student-Parent-Handbook-1...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTepA2YvwyVVcDNYYlsmmpqaleNimpOrhQGweLVIbKHqj6aEBEr87BW0NU&s",
+      "width": "257",
+      "height": "196"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20231211205309Z00'00'",
+      "creationdate": "D:20231211205309Z00'00'",
+      "creator": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+      "producer": "GPL Ghostscript 9.55.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///6fa73fcd19fd919e85c3ada04837ef7c0d2492b6f2d7a716f9f03f1c41e588cb"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

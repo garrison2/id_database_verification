@@ -1,0 +1,280 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://www.dot.state.wy.us \"driver's license\" OR \"identification card\"",
+    "totalResults": "86",
+    "searchTerms": "site:https://www.dot.state.wy.us \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://www.dot.state.wy.us \"driver's license\" OR \"identification card\"",
+    "totalResults": "86",
+    "searchTerms": "site:https://www.dot.state.wy.us \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.108607,
+  "formattedSearchTime": "0.11",
+  "totalResults": "86",
+  "formattedTotalResults": "86"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "WYOMING IDENTIFICATION CARD APPLICATION",
+   "htmlTitle": "WYOMING <b>IDENTIFICATION CARD</b> APPLICATION",
+   "link": "https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Driver_Services/Forms/ID%20Card%20Application%20(FSIDC-705)%2020210701.pdf",
+   "displayLink": "www.dot.state.wy.us",
+   "snippet": "Jul 1, 2021 ... state, may be subject to cancellation. DATE. APPLICANT SIGNATURE. WYOMING IDENTIFICATION CARD APPLICATION. You must answer all of the following\u00a0...",
+   "htmlSnippet": "Jul 1, 2021 <b>...</b> state, may be subject to cancellation. DATE. APPLICANT SIGNATURE. WYOMING <b>IDENTIFICATION CARD</b> APPLICATION. You must answer all of the following&nbsp;...",
+   "formattedUrl": "https://www.dot.state.wy.us/.../ID%20Card%20Application%20(FSIDC-705...",
+   "htmlFormattedUrl": "https://www.dot.state.wy.us/.../ID%20Card%20Application%20(FSIDC-705...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyqEL91h-4brcdzpyI9wNMudPj9awzrtXSi3NNjQIMM0ClRhPec7jmLG8&s",
+      "width": "219",
+      "height": "219"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20210609152834-06'00'",
+      "creationdate": "D:20210609152834-06'00'",
+      "creator": "Microsoft\u00ae Publisher 2016",
+      "author": "rjkrawiec",
+      "producer": "Microsoft\u00ae Publisher 2016"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///b1643c04280f540118794cde92f45e53f4374db534331d4f842fc20ba430f5ce"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Add/Change Information",
+   "htmlTitle": "Add/Change Information",
+   "link": "https://www.dot.state.wy.us/home/driver_license_records/add_or_change_information.html",
+   "displayLink": "www.dot.state.wy.us",
+   "snippet": "Address Change: Wyoming State Statute W.S. 31-7-137 mandates that when a holder of a Wyoming driver's license or identification card changes their mailing\u00a0...",
+   "htmlSnippet": "Address Change: Wyoming State Statute W.S. 31-7-137 mandates that when a holder of a Wyoming <b>driver&#39;s license</b> or <b>identification card</b> changes their mailing&nbsp;...",
+   "formattedUrl": "https://www.dot.state.wy.us/home/.../add_or_change_information.html",
+   "htmlFormattedUrl": "https://www.dot.state.wy.us/home/.../add_or_change_information.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Frequently Asked Questions",
+   "htmlTitle": "Frequently Asked Questions",
+   "link": "https://www.dot.state.wy.us/home/driver_license_records/frequently-asked-questions.html",
+   "displayLink": "www.dot.state.wy.us",
+   "snippet": "How do I apply for a driver license or identification card? You must appear in person at a Wyoming Exam Station to complete an application, have a photo taken,\u00a0...",
+   "htmlSnippet": "How do I apply for a driver license or <b>identification card</b>? You must appear in person at a Wyoming Exam Station to complete an application, have a photo taken,&nbsp;...",
+   "formattedUrl": "https://www.dot.state.wy.us/home/driver.../frequently-asked-questions.html",
+   "htmlFormattedUrl": "https://www.dot.state.wy.us/home/driver.../frequently-asked-questions.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver License - Lost / Renewal",
+   "htmlTitle": "Driver License - Lost / Renewal",
+   "link": "https://www.dot.state.wy.us/home/driver_license_records/driver-license/lost--renewal.html",
+   "displayLink": "www.dot.state.wy.us",
+   "snippet": "Wyoming State Statute (W.S. 31-7-119) allows for the renewal of a driver's license by mail once every ten years. ... identification card, you are required\u00a0...",
+   "htmlSnippet": "Wyoming State Statute (W.S. 31-7-119) allows for the renewal of a <b>driver&#39;s license</b> by mail once every ten years. ... <b>identification card</b>, you are required&nbsp;...",
+   "formattedUrl": "https://www.dot.state.wy.us/home/driver_license.../lost--renewal.html",
+   "htmlFormattedUrl": "https://www.dot.state.wy.us/home/driver_license.../lost--renewal.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Applying for a Wyoming License, Permit or ID Card? First time ...",
+   "htmlTitle": "Applying for a Wyoming License, Permit or ID Card? First time ...",
+   "link": "https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Driver_Services/Help%20Documents%20and%20Manuals/Document%20requirements%2020220721a.pdf",
+   "displayLink": "www.dot.state.wy.us",
+   "snippet": "... driver's license or identification card which complies with federal law and applicable regulations, or other document required by the division to establish\u00a0...",
+   "htmlSnippet": "... <b>driver&#39;s license</b> or <b>identification card</b> which complies with federal law and applicable regulations, or other document required by the division to establish&nbsp;...",
+   "formattedUrl": "https://www.dot.state.wy.us/.../Document%20requirements%2020220721a....",
+   "htmlFormattedUrl": "https://www.dot.state.wy.us/.../Document%20requirements%2020220721a....",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaHOqmRss3hWTW3zFadAeLe7kiRtEFl2xvP1KV_PPn87X6OEF8rCrmpgk&s",
+      "width": "207",
+      "height": "207"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20220721110406-06'00'",
+      "creationdate": "D:20220721110406-06'00'",
+      "creator": "Microsoft\u00ae Publisher 2016",
+      "author": "dplundberg",
+      "producer": "Microsoft\u00ae Publisher 2016"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///8c017e0c33f7dcf9a25d23247b36a2486fdb8a3660ce9606059dd6b1656d1c90"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver License - Classification Guide",
+   "htmlTitle": "Driver License - Classification Guide",
+   "link": "https://www.dot.state.wy.us/home/driver_license_records/driver-license/classification-guide.html",
+   "displayLink": "www.dot.state.wy.us",
+   "snippet": "Wyoming Law [W.S. 31-7-109] defines the class code that is assigned to a driver's license based upon the type of vehicle driven. The different class codes\u00a0...",
+   "htmlSnippet": "Wyoming Law [W.S. 31-7-109] defines the class code that is assigned to a <b>driver&#39;s license</b> based upon the type of vehicle driven. The different class codes&nbsp;...",
+   "formattedUrl": "https://www.dot.state.wy.us/home/driver.../classification-guide.html",
+   "htmlFormattedUrl": "https://www.dot.state.wy.us/home/driver.../classification-guide.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Applications",
+   "htmlTitle": "Applications",
+   "link": "https://www.dot.state.wy.us/home/driver_license_records/formsapplications/applications.html",
+   "displayLink": "www.dot.state.wy.us",
+   "snippet": "Applications. Wyoming Driver License Application. Use this form to apply for a new (or to renew) a Wyoming Driver License. Identification Card Application.",
+   "htmlSnippet": "Applications. Wyoming Driver License Application. Use this form to apply for a new (or to renew) a Wyoming Driver License. <b>Identification Card</b> Application.",
+   "formattedUrl": "https://www.dot.state.wy.us/home/driver_license.../applications.html",
+   "htmlFormattedUrl": "https://www.dot.state.wy.us/home/driver_license.../applications.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "WYOMING RESTRICTED CLASS DRIVER LICENSE APPLICATION",
+   "htmlTitle": "WYOMING RESTRICTED CLASS DRIVER LICENSE APPLICATION",
+   "link": "https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Driver_Services/Forms/RC%20RESTRICTED%20Driver%20License%20Application%20(FSDL-708)%2020180924.pdf",
+   "displayLink": "www.dot.state.wy.us",
+   "snippet": "Sep 24, 2018 ... ... HIGHWAY PATROL. RESTRICTED DRIVER'S LICENSE INVESTIGATION. SCHOOL ATTENDANCE VERIFICATION. FSDL\u2014708 SCHOOL VERIFICATION (AUG 1, 2018). This\u00a0...",
+   "htmlSnippet": "Sep 24, 2018 <b>...</b> ... HIGHWAY PATROL. RESTRICTED <b>DRIVER&#39;S LICENSE</b> INVESTIGATION. SCHOOL ATTENDANCE VERIFICATION. FSDL\u2014708 SCHOOL VERIFICATION (AUG 1, 2018). This&nbsp;...",
+   "formattedUrl": "https://www.dot.state.wy.us/.../RC%20RESTRICTED%20Driver%20License...",
+   "htmlFormattedUrl": "https://www.dot.state.wy.us/.../RC%20RESTRICTED%20Driver%20License...",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20180924114335-06'00'",
+      "creationdate": "D:20180924114330-06'00'",
+      "creator": "Acrobat PDFMaker 10.1 for Publisher",
+      "author": "rjkrawiec",
+      "producer": "Acrobat Distiller 10.1.16 (Windows)"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Veteran Designation",
+   "htmlTitle": "Veteran Designation",
+   "link": "https://www.dot.state.wy.us/home/driver_license_records/driver-license/veteran-designation.html",
+   "displayLink": "www.dot.state.wy.us",
+   "snippet": "Wyoming veterans have the option of requesting a veteran designation be shown on the front of their Wyoming driver license or identification card.",
+   "htmlSnippet": "Wyoming veterans have the option of requesting a veteran designation be shown on the front of their Wyoming driver license or <b>identification card</b>.",
+   "formattedUrl": "https://www.dot.state.wy.us/home/driver.../veteran-designation.html",
+   "htmlFormattedUrl": "https://www.dot.state.wy.us/home/driver.../veteran-designation.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ID Cards",
+   "htmlTitle": "ID Cards",
+   "link": "https://www.dot.state.wy.us/home/driver_license_records/id_cards.html",
+   "displayLink": "www.dot.state.wy.us",
+   "snippet": "The cost of an identification card is $10. Identification cards are issued with an expiration date of eight years. Non-U.S. Citizens: The expiration date on\u00a0...",
+   "htmlSnippet": "The cost of an <b>identification card</b> is $10. Identification cards are issued with an expiration date of eight years. Non-U.S. Citizens: The expiration date on&nbsp;...",
+   "formattedUrl": "https://www.dot.state.wy.us/home/driver_license_records/id_cards.html",
+   "htmlFormattedUrl": "https://www.dot.state.wy.us/home/driver_license_records/id_cards.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFKfH8CZgv86Tu_VuIISnF_AToTz0QlfesK1Czh9n6enGfn_CEYn8DiHPG&s",
+      "width": "282",
+      "height": "179"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Driver_Services/ID_standard_limited%20term_horiz_front.png"
+     }
+    ]
+   }
+  }
+ ]
+}

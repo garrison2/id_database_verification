@@ -1,0 +1,402 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://www.dmv.virginia.gov/ \"driver's license\" OR \"identification card\"",
+    "totalResults": "3170",
+    "searchTerms": "site:https://www.dmv.virginia.gov/ \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://www.dmv.virginia.gov/ \"driver's license\" OR \"identification card\"",
+    "totalResults": "3170",
+    "searchTerms": "site:https://www.dmv.virginia.gov/ \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.164825,
+  "formattedSearchTime": "0.16",
+  "totalResults": "3170",
+  "formattedTotalResults": "3,170"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Get an Identification Card | Virginia Department of Motor Vehicles",
+   "htmlTitle": "Get an <b>Identification Card</b> | Virginia Department of Motor Vehicles",
+   "link": "https://www.dmv.virginia.gov/licenses-ids/id-cards/get-id",
+   "displayLink": "www.dmv.virginia.gov",
+   "snippet": "If you are applying for an adult ID card or a hearing-impaired ID card, you must complete the Driver's License or Identification Card Application (Form DL 1P)\u00a0...",
+   "htmlSnippet": "If you are applying for an adult ID card or a hearing-impaired ID card, you must complete the <b>Driver&#39;s License</b> or <b>Identification Card</b> Application (Form DL 1P)&nbsp;...",
+   "formattedUrl": "https://www.dmv.virginia.gov/licenses-ids/id-cards/get-id",
+   "htmlFormattedUrl": "https://www.dmv.virginia.gov/licenses-ids/id-cards/get-id",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrdzU_br5_YiI8EoVeeqQ5dyWirS6kSf6gMmItyunE0eSSImAMJzSfuNQ&s",
+      "width": "224",
+      "height": "224"
+     }
+    ],
+    "metatags": [
+     {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Get an Identification Card",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Get an Identification Card",
+      "mobileoptimized": "width",
+      "twitter:creator": "@VirginiaDMV"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.developer.virginia.gov/media/developer/assets/img/close_icon.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver's License | Virginia Department of Motor Vehicles",
+   "htmlTitle": "<b>Driver&#39;s License</b> | Virginia Department of Motor Vehicles",
+   "link": "https://www.dmv.virginia.gov/licenses-ids/license",
+   "displayLink": "www.dmv.virginia.gov",
+   "snippet": "Driver's License. Skip to main content. Driver's License \u00b7 Driver's License Application \u00b7 Renew Your Driver's License \u00b7 Replace Your Driver's License or\u00a0...",
+   "htmlSnippet": "<b>Driver&#39;s License</b>. Skip to main content. <b>Driver&#39;s License</b> &middot; <b>Driver&#39;s License</b> Application &middot; Renew Your <b>Driver&#39;s License</b> &middot; Replace Your <b>Driver&#39;s License</b> or&nbsp;...",
+   "formattedUrl": "https://www.dmv.virginia.gov/licenses-ids/license",
+   "htmlFormattedUrl": "https://www.dmv.virginia.gov/licenses-ids/license",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrdzU_br5_YiI8EoVeeqQ5dyWirS6kSf6gMmItyunE0eSSImAMJzSfuNQ&s",
+      "width": "224",
+      "height": "224"
+     }
+    ],
+    "metatags": [
+     {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Driver's License",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Driver's License",
+      "mobileoptimized": "width",
+      "twitter:creator": "@VirginiaDMV"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.developer.virginia.gov/media/developer/assets/img/close_icon.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "IDENTIFICATION CARD APPLICATION FOR MINORS UNDER AGE ...",
+   "htmlTitle": "<b>IDENTIFICATION CARD</b> APPLICATION FOR MINORS UNDER AGE ...",
+   "link": "https://www.dmv.virginia.gov/sites/default/files/forms/dl5.pdf",
+   "displayLink": "www.dmv.virginia.gov",
+   "snippet": "Jul 1, 2025 ... ... driver's license or ID Card. ... Upon issuance of an identification card in the Commonwealth of Virginia, any driver's license or identification\u00a0...",
+   "htmlSnippet": "Jul 1, 2025 <b>...</b> ... <b>driver&#39;s license</b> or ID Card. ... Upon issuance of an <b>identification card</b> in the Commonwealth of Virginia, any <b>driver&#39;s license</b> or <b>identification</b>&nbsp;...",
+   "formattedUrl": "https://www.dmv.virginia.gov/sites/default/files/forms/dl5.pdf",
+   "htmlFormattedUrl": "https://www.dmv.virginia.gov/sites/default/files/forms/dl5.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJkX0mgteCzTKybvZx9JwLomxWRziT9wePtcxzdgw_sq51Q0AGhbDxrzs&s",
+      "width": "315",
+      "height": "160"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20250603104515-04'00'",
+      "creationdate": "D:20250603093657-04'00'",
+      "creator": "Designer 6.5",
+      "producer": "Designer 6.5"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///f6a7c1836424f02d082823f3c2aa43b98a9cd38798210e7b7a150806a210b1e9"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Apply for a Driver's License | Virginia Department of Motor Vehicles",
+   "htmlTitle": "Apply for a <b>Driver&#39;s License</b> | Virginia Department of Motor Vehicles",
+   "link": "https://www.dmv.virginia.gov/licenses-ids/license/applying",
+   "displayLink": "www.dmv.virginia.gov",
+   "snippet": "Before you visit DMV, make sure you have: A completed Driver's License Application; All required documents; Driver education program completion certificate, if\u00a0...",
+   "htmlSnippet": "Before you visit DMV, make sure you have: A completed <b>Driver&#39;s License</b> Application; All required documents; Driver education program completion certificate, if&nbsp;...",
+   "formattedUrl": "https://www.dmv.virginia.gov/licenses-ids/license/applying",
+   "htmlFormattedUrl": "https://www.dmv.virginia.gov/licenses-ids/license/applying",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrdzU_br5_YiI8EoVeeqQ5dyWirS6kSf6gMmItyunE0eSSImAMJzSfuNQ&s",
+      "width": "224",
+      "height": "224"
+     }
+    ],
+    "metatags": [
+     {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Apply for a Driver's License",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Apply for a Driver's License",
+      "mobileoptimized": "width",
+      "twitter:creator": "@VirginiaDMV"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.developer.virginia.gov/media/developer/assets/img/close_icon.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "License Exchange for ID Card | Virginia Department of Motor Vehicles",
+   "htmlTitle": "License Exchange for ID Card | Virginia Department of Motor Vehicles",
+   "link": "https://www.dmv.virginia.gov/licenses-ids/id-cards/license-exchange",
+   "displayLink": "www.dmv.virginia.gov",
+   "snippet": "At a customer service center: you will be required to surrender your driver's license at that time. You must complete a Drivers License and Identification Card\u00a0...",
+   "htmlSnippet": "At a customer service center: you will be required to surrender your <b>driver&#39;s license</b> at that time. You must complete a Drivers License and <b>Identification Card</b>&nbsp;...",
+   "formattedUrl": "https://www.dmv.virginia.gov/licenses-ids/id-cards/license-exchange",
+   "htmlFormattedUrl": "https://www.dmv.virginia.gov/licenses-ids/id-cards/license-exchange",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrdzU_br5_YiI8EoVeeqQ5dyWirS6kSf6gMmItyunE0eSSImAMJzSfuNQ&s",
+      "width": "224",
+      "height": "224"
+     }
+    ],
+    "metatags": [
+     {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "License Exchange for ID Card",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "License Exchange for ID Card",
+      "mobileoptimized": "width",
+      "twitter:creator": "@VirginiaDMV"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.developer.virginia.gov/media/developer/assets/img/close_icon.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Home | Virginia Department of Motor Vehicles",
+   "htmlTitle": "Home | Virginia Department of Motor Vehicles",
+   "link": "https://www.dmv.virginia.gov/",
+   "displayLink": "www.dmv.virginia.gov",
+   "snippet": "Licenses & IDs \u00b7 Driver's License \u00b7 REAL ID \u00b7 Learner's Permits \u00b7 ID Cards \u00b7 Commercial Driver's Licenses \u00b7 Motorcycle License \u00b7 Exams & Study Materials\u00a0...",
+   "htmlSnippet": "Licenses &amp; IDs &middot; <b>Driver&#39;s License</b> &middot; REAL ID &middot; Learner&#39;s Permits &middot; ID Cards &middot; Commercial Driver&#39;s Licenses &middot; Motorcycle License &middot; Exams &amp; Study Materials&nbsp;...",
+   "formattedUrl": "https://www.dmv.virginia.gov/",
+   "htmlFormattedUrl": "https://www.dmv.virginia.gov/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrdzU_br5_YiI8EoVeeqQ5dyWirS6kSf6gMmItyunE0eSSImAMJzSfuNQ&s",
+      "width": "224",
+      "height": "224"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.developer.virginia.gov/media/developer/assets/img/close_icon.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DRIVER'S LICENSE AND IDENTIFICATION CARD APPLICATION",
+   "htmlTitle": "<b>DRIVER&#39;S LICENSE</b> AND <b>IDENTIFICATION CARD</b> APPLICATION",
+   "link": "https://www.dmv.virginia.gov/sites/default/files/forms/dl1p.pdf",
+   "displayLink": "www.dmv.virginia.gov",
+   "snippet": "Use this form to apply for a driver's license, learner's permit, or identification card. Instructions: Submit completed application to any DMV Customer Center.",
+   "htmlSnippet": "Use this form to apply for a <b>driver&#39;s license</b>, learner&#39;s permit, or <b>identification card</b>. Instructions: Submit completed application to any DMV Customer Center.",
+   "formattedUrl": "https://www.dmv.virginia.gov/sites/default/files/forms/dl1p.pdf",
+   "htmlFormattedUrl": "https://www.dmv.virginia.gov/sites/default/files/forms/dl1p.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzsfO8XRfJvb8Ax-KZuuDO_coa5mYzaFbvJnFj4CG9oK1IjOGlEE7xd9s&s",
+      "width": "197",
+      "height": "255"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20250521115722-04'00'",
+      "creationdate": "D:20250520140139-04'00'",
+      "creator": "Designer 6.5",
+      "producer": "Designer 6.5"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///c530ce90fff52719587b209982c808581aa8bdead1c8ed8d57cd2a8519edd4cf"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Online Services | Virginia Department of Motor Vehicles",
+   "htmlTitle": "Online Services | Virginia Department of Motor Vehicles",
+   "link": "https://www.dmv.virginia.gov/online-services",
+   "displayLink": "www.dmv.virginia.gov",
+   "snippet": "Popular Services ... Registration Renewal ... Change Address ... Title Replacement ... Driver's License/CDL Renewal ... Driver's License/CDL Replacement ... Plate Purchase\u00a0...",
+   "htmlSnippet": "Popular Services ... Registration Renewal ... Change Address ... Title Replacement ... <b>Driver&#39;s License</b>/CDL Renewal ... <b>Driver&#39;s License</b>/CDL Replacement ... Plate Purchase&nbsp;...",
+   "formattedUrl": "https://www.dmv.virginia.gov/online-services",
+   "htmlFormattedUrl": "https://www.dmv.virginia.gov/online-services",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrdzU_br5_YiI8EoVeeqQ5dyWirS6kSf6gMmItyunE0eSSImAMJzSfuNQ&s",
+      "width": "224",
+      "height": "224"
+     }
+    ],
+    "metatags": [
+     {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Online Services",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Online Services",
+      "mobileoptimized": "width",
+      "twitter:creator": "@VirginiaDMV"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.developer.virginia.gov/media/developer/assets/img/close_icon.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver's License Extension - Military | Virginia Department of Motor ...",
+   "htmlTitle": "<b>Driver&#39;s License</b> Extension - Military | Virginia Department of Motor ...",
+   "link": "https://www.dmv.virginia.gov/licenses-ids/license-extension/military",
+   "displayLink": "www.dmv.virginia.gov",
+   "snippet": "If you are a spouse or dependent of an active duty member of the U.S. Armed Forces, submit the following: Completed Driver's License and Identification Card\u00a0...",
+   "htmlSnippet": "If you are a spouse or dependent of an active duty member of the U.S. Armed Forces, submit the following: Completed <b>Driver&#39;s License</b> and <b>Identification Card</b>&nbsp;...",
+   "formattedUrl": "https://www.dmv.virginia.gov/licenses-ids/license-extension/military",
+   "htmlFormattedUrl": "https://www.dmv.virginia.gov/licenses-ids/license-extension/military",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrdzU_br5_YiI8EoVeeqQ5dyWirS6kSf6gMmItyunE0eSSImAMJzSfuNQ&s",
+      "width": "224",
+      "height": "224"
+     }
+    ],
+    "metatags": [
+     {
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Driver's License Extension - Military",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Driver's License Extension - Military",
+      "mobileoptimized": "width",
+      "og:description": "If you are active-duty military personnel or a spouse or dependent accompanying any such member of the armed services and temporarily assigned outside of Virginia, you may apply for a military extension of your driver's license by mail. Once DMV receives these documents, we will issue an extension card for you to carry with your expired license. If the expired license has been lost, stolen, or damaged, a duplicate license can be issued for a fee if your digital image is on file with DMV.",
+      "twitter:creator": "@VirginiaDMV"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.developer.virginia.gov/media/developer/assets/img/close_icon.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Getting a Virginia Driver's License or Identification (ID) Card",
+   "htmlTitle": "Getting a Virginia <b>Driver&#39;s License</b> or Identification (ID) Card",
+   "link": "https://www.dmv.virginia.gov/sites/default/files/forms/dmv141.pdf",
+   "displayLink": "www.dmv.virginia.gov",
+   "snippet": "to your Virginia driver's license, commercial driver's license, learner's permit or identification card. This indicator can serve as proof of veteran status\u00a0...",
+   "htmlSnippet": "to your Virginia <b>driver&#39;s license</b>, commercial <b>driver&#39;s license</b>, learner&#39;s permit or <b>identification card</b>. This indicator can serve as proof of veteran status&nbsp;...",
+   "formattedUrl": "https://www.dmv.virginia.gov/sites/default/files/forms/dmv141.pdf",
+   "htmlFormattedUrl": "https://www.dmv.virginia.gov/sites/default/files/forms/dmv141.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHKjx_w87vbF6TxltBJDQTr5RukBk2ltoaJlmKpK0p-iBiT6-jyPVVOuvX&s",
+      "width": "274",
+      "height": "184"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20250626142656-04'00'",
+      "creationdate": "D:20250626142656-04'00'",
+      "creator": "Adobe InDesign 19.4 (Windows)",
+      "author": "fca28895",
+      "producer": "Acrobat Distiller 24.0 (Windows)",
+      "title": "DMV 141 Getting Drivers License or ID Card 07022024.pdf"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///c28d2b75fde625d656137c712dfd54c369ac3296ef5d4fad56cb2e147718833e"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

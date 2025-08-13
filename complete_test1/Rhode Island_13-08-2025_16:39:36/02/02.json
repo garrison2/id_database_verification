@@ -1,0 +1,364 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://dmv.ri.gov/ \"driver's license\" OR \"identification card\"",
+    "totalResults": "379",
+    "searchTerms": "site:https://dmv.ri.gov/ \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://dmv.ri.gov/ \"driver's license\" OR \"identification card\"",
+    "totalResults": "379",
+    "searchTerms": "site:https://dmv.ri.gov/ \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.116443,
+  "formattedSearchTime": "0.12",
+  "totalResults": "379",
+  "formattedTotalResults": "379"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Name & Address Change | RI Division of Motor Vehicles",
+   "htmlTitle": "Name &amp; Address Change | RI Division of Motor Vehicles",
+   "link": "https://dmv.ri.gov/licenses-permits-ids/drivers-licenses/name-address-change",
+   "displayLink": "dmv.ri.gov",
+   "snippet": "Sep 20, 2022 ... Procedure for Changing Gender Designation on Driver's License or Identification Card \u00b7 Surrender any current state-issued license or\u00a0...",
+   "htmlSnippet": "Sep 20, 2022 <b>...</b> Procedure for Changing Gender Designation on <b>Driver&#39;s License</b> or <b>Identification Card</b> &middot; Surrender any current state-issued license or&nbsp;...",
+   "formattedUrl": "https://dmv.ri.gov/licenses-permits.../drivers-licenses/name-address-change",
+   "htmlFormattedUrl": "https://dmv.ri.gov/licenses-permits.../<b>drivers-license</b>s/name-address-change",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyoxQLaCIKjmWnP8JMWAMiI6SWBRhoiDa226Ib_KP8e7RECmnqaaUcwm4&s",
+      "width": "269",
+      "height": "187"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.ri.gov/sites/g/files/xkgbur556/files/styles/max_325x325/public/2021-10/questions-and-feedback-image.jpg?itok=aZzDvMri"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "License Forms | RI Division of Motor Vehicles",
+   "htmlTitle": "License Forms | RI Division of Motor Vehicles",
+   "link": "https://dmv.ri.gov/forms/license-forms",
+   "displayLink": "dmv.ri.gov",
+   "snippet": "Sep 2, 2021 ... Make a reservation today to get your REAL ID license or identification card. For REAL ID information, click here. Home \u00b7 Forms; License Forms.",
+   "htmlSnippet": "Sep 2, 2021 <b>...</b> Make a reservation today to get your REAL ID license or <b>identification card</b>. For REAL ID information, click here. Home &middot; Forms; License Forms.",
+   "formattedUrl": "https://dmv.ri.gov/forms/license-forms",
+   "htmlFormattedUrl": "https://dmv.ri.gov/forms/license-forms",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyoxQLaCIKjmWnP8JMWAMiI6SWBRhoiDa226Ib_KP8e7RECmnqaaUcwm4&s",
+      "width": "269",
+      "height": "187"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.ri.gov/sites/g/files/xkgbur556/files/styles/max_325x325/public/2021-10/questions-and-feedback-image.jpg?itok=aZzDvMri"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "application for license, identification card and permit (li-1) | ri dmv",
+   "htmlTitle": "application for license, <b>identification card</b> and permit (li-1) | ri dmv",
+   "link": "https://dmv.ri.gov/media/391/download",
+   "displayLink": "dmv.ri.gov",
+   "snippet": "A valid Rhode Island driver's license or identification card;. If the applicant is a minor, in addition to any of the proof of residency documents listed above,\u00a0...",
+   "htmlSnippet": "A valid Rhode Island <b>driver&#39;s license</b> or <b>identification card</b>;. If the applicant is a minor, in addition to any of the proof of residency documents listed above,&nbsp;...",
+   "formattedUrl": "https://dmv.ri.gov/media/391/download",
+   "htmlFormattedUrl": "https://dmv.ri.gov/media/391/download",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLZlGnogTM-SfDkhCzFrAUqwafwjQ42FhmXiXv0_6M7VLF3F46M-5fiHE&s",
+      "width": "174",
+      "height": "158"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20250523154012-04'00'",
+      "creationdate": "D:20250515145353-04'00'",
+      "creator": "Adobe Acrobat Pro (32-bit) 23.8.20470",
+      "producer": "Adobe Acrobat Pro (32-bit) 23.8.20470"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///683a191d822c721070b09d0f5705fe1140686d8067d2fec443cc9c3a9109e60b"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "License Renewal | RI Division of Motor Vehicles",
+   "htmlTitle": "License Renewal | RI Division of Motor Vehicles",
+   "link": "https://dmv.ri.gov/licenses-permits-ids/drivers-licenses/license-renewal",
+   "displayLink": "dmv.ri.gov",
+   "snippet": "Aug 2, 2023 ... You can renew your Rhode Island driver's license up to 90 days before its expiration date. ... Identification Card. American flag. Support\u00a0...",
+   "htmlSnippet": "Aug 2, 2023 <b>...</b> You can renew your Rhode Island <b>driver&#39;s license</b> up to 90 days before its expiration date. ... <b>Identification Card</b>. American flag. Support&nbsp;...",
+   "formattedUrl": "https://dmv.ri.gov/licenses-permits-ids/drivers-licenses/license-renewal",
+   "htmlFormattedUrl": "https://dmv.ri.gov/licenses-permits-ids/<b>drivers-license</b>s/license-renewal",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyoxQLaCIKjmWnP8JMWAMiI6SWBRhoiDa226Ib_KP8e7RECmnqaaUcwm4&s",
+      "width": "269",
+      "height": "187"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.ri.gov/sites/g/files/xkgbur556/files/styles/max_325x325/public/2021-10/questions-and-feedback-image.jpg?itok=aZzDvMri"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Application for License, Identification Card and Permit (LI-1)",
+   "htmlTitle": "Application for License, <b>Identification Card</b> and Permit (LI-1)",
+   "link": "https://dmv.ri.gov/sites/g/files/xkgbur556/files/documents/forms/license/License-App-v2-RI.pdf",
+   "displayLink": "dmv.ri.gov",
+   "snippet": "451 et seq., when applying to receive a driver's license, renewal or identification card or renewal.\u201d Pursuant to RI Gen. Laws 31-10-47(b), the applicant.",
+   "htmlSnippet": "451 et seq., when applying to receive a <b>driver&#39;s license</b>, renewal or <b>identification card</b> or renewal.\u201d Pursuant to RI Gen. Laws 31-10-47(b), the applicant.",
+   "formattedUrl": "https://dmv.ri.gov/sites/g/files/xkgbur556/files/.../License-App-v2-RI.pdf",
+   "htmlFormattedUrl": "https://dmv.ri.gov/sites/g/files/xkgbur556/files/.../License-App-v2-RI.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLqJNVExPtWOryLOEU0Ofbb-yhji4SFkgr4813AYCI3sF3lfRXkUAvLJo&s",
+      "width": "245",
+      "height": "206"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20210617133606-04'00'",
+      "creationdate": "D:20210427091933-04'00'",
+      "creator": "Adobe InDesign 16.1 (Macintosh)",
+      "producer": "Adobe PDF Library 15.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///1f26437eeeaa2ee0f9ff77d8224d42a35c49e055add698710a274229ad39876f"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "REAL ID LICENSE AND ID TRANSACTIONS REQUIRE A ...",
+   "htmlTitle": "REAL ID LICENSE AND ID TRANSACTIONS REQUIRE A ...",
+   "link": "https://dmv.ri.gov/sites/g/files/xkgbur556/files/documents/forms/checklist/license_checklist.pdf",
+   "displayLink": "dmv.ri.gov",
+   "snippet": "The Rhode Island driver's license or identification card of the individual signing the minor's application. Proof of Residency Documents List. You must\u00a0...",
+   "htmlSnippet": "The Rhode Island <b>driver&#39;s license</b> or <b>identification card</b> of the individual signing the minor&#39;s application. Proof of Residency Documents List. You must&nbsp;...",
+   "formattedUrl": "https://dmv.ri.gov/sites/g/files/xkgbur556/files/.../license_checklist.pdf",
+   "htmlFormattedUrl": "https://dmv.ri.gov/sites/g/files/xkgbur556/files/.../license_checklist.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20210205154234-05'00'",
+      "creationdate": "D:20210205151511-05'00'",
+      "creator": "PScript5.dll Version 5.2.2",
+      "author": "Sean.Finneran",
+      "producer": "Acrobat Distiller 11.0 (Windows)"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "REAL ID | RI Division of Motor Vehicles",
+   "htmlTitle": "REAL ID | RI Division of Motor Vehicles",
+   "link": "https://dmv.ri.gov/licenses-permits-ids/real-id",
+   "displayLink": "dmv.ri.gov",
+   "snippet": "... driver's license or identification card). A full list of the documents required to obtain a REAL ID-compliant credential can be found on this page. I no\u00a0...",
+   "htmlSnippet": "... <b>driver&#39;s license</b> or <b>identification card</b>). A full list of the documents required to obtain a REAL ID-compliant credential can be found on this page. I no&nbsp;...",
+   "formattedUrl": "https://dmv.ri.gov/licenses-permits-ids/real-id",
+   "htmlFormattedUrl": "https://dmv.ri.gov/licenses-permits-ids/real-id",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyoxQLaCIKjmWnP8JMWAMiI6SWBRhoiDa226Ib_KP8e7RECmnqaaUcwm4&s",
+      "width": "269",
+      "height": "187"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.ri.gov/sites/g/files/xkgbur556/files/styles/max_325x325/public/2021-10/questions-and-feedback-image.jpg?itok=aZzDvMri"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Commercial Driving License (CDL) | RI Division of Motor Vehicles",
+   "htmlTitle": "Commercial Driving License (CDL) | RI Division of Motor Vehicles",
+   "link": "https://dmv.ri.gov/licenses-permits-ids/commercial/commercial-driving-license-cdl",
+   "displayLink": "dmv.ri.gov",
+   "snippet": "Apr 9, 2025 ... Make a reservation today to get your REAL ID license or identification card. ... To transfer a Commercial Driver's License (CDL), you must have\u00a0...",
+   "htmlSnippet": "Apr 9, 2025 <b>...</b> Make a reservation today to get your REAL ID license or <b>identification card</b>. ... To transfer a Commercial <b>Driver&#39;s License</b> (CDL), you must have&nbsp;...",
+   "formattedUrl": "https://dmv.ri.gov/licenses-permits-ids/.../commercial-driving-license-cdl",
+   "htmlFormattedUrl": "https://dmv.ri.gov/licenses-permits-ids/.../commercial-driving-license-cdl",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyoxQLaCIKjmWnP8JMWAMiI6SWBRhoiDa226Ib_KP8e7RECmnqaaUcwm4&s",
+      "width": "269",
+      "height": "187"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.ri.gov/sites/g/files/xkgbur556/files/styles/max_325x325/public/2021-10/questions-and-feedback-image.jpg?itok=aZzDvMri"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "State ID | RI Division of Motor Vehicles",
+   "htmlTitle": "State ID | RI Division of Motor Vehicles",
+   "link": "https://dmv.ri.gov/licenses-permits-ids/state-id",
+   "displayLink": "dmv.ri.gov",
+   "snippet": "Apr 9, 2025 ... Make a reservation today to get your REAL ID license or identification card. ... One (1) proof of identity document, such as a valid or expired (\u00a0...",
+   "htmlSnippet": "Apr 9, 2025 <b>...</b> Make a reservation today to get your REAL ID license or <b>identification card</b>. ... One (1) proof of identity document, such as a valid or expired (&nbsp;...",
+   "formattedUrl": "https://dmv.ri.gov/licenses-permits-ids/state-id",
+   "htmlFormattedUrl": "https://dmv.ri.gov/licenses-permits-ids/state-id",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyoxQLaCIKjmWnP8JMWAMiI6SWBRhoiDa226Ib_KP8e7RECmnqaaUcwm4&s",
+      "width": "269",
+      "height": "187"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.ri.gov/sites/g/files/xkgbur556/files/styles/max_325x325/public/2021-10/questions-and-feedback-image.jpg?itok=aZzDvMri"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Lost or Damaged Licenses | RI Division of Motor Vehicles",
+   "htmlTitle": "Lost or Damaged Licenses | RI Division of Motor Vehicles",
+   "link": "https://dmv.ri.gov/licenses-permits-ids/drivers-licenses/lost-or-damaged-licenses",
+   "displayLink": "dmv.ri.gov",
+   "snippet": "May 25, 2022 ... Make a reservation today to get your REAL ID license or identification card. ... A lost or damaged Rhode Island driver's license can be replaced\u00a0...",
+   "htmlSnippet": "May 25, 2022 <b>...</b> Make a reservation today to get your REAL ID license or <b>identification card</b>. ... A lost or damaged Rhode Island <b>driver&#39;s license</b> can be replaced&nbsp;...",
+   "formattedUrl": "https://dmv.ri.gov/licenses-permits.../drivers-licenses/lost-or-damaged-licens...",
+   "htmlFormattedUrl": "https://dmv.ri.gov/licenses-permits.../<b>drivers-license</b>s/lost-or-damaged-licens...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyoxQLaCIKjmWnP8JMWAMiI6SWBRhoiDa226Ib_KP8e7RECmnqaaUcwm4&s",
+      "width": "269",
+      "height": "187"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dmv.ri.gov/sites/g/files/xkgbur556/files/styles/max_325x325/public/2021-10/questions-and-feedback-image.jpg?itok=aZzDvMri"
+     }
+    ]
+   }
+  }
+ ]
+}

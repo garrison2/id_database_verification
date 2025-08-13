@@ -1,0 +1,381 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Ohio\" \"privacy act\" OR \"privacy law\"",
+    "totalResults": "13200000",
+    "searchTerms": "\"Ohio\" \"privacy act\" OR \"privacy law\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Ohio\" \"privacy act\" OR \"privacy law\"",
+    "totalResults": "13200000",
+    "searchTerms": "\"Ohio\" \"privacy act\" OR \"privacy law\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.202893,
+  "formattedSearchTime": "0.20",
+  "totalResults": "13200000",
+  "formattedTotalResults": "13,200,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Ohio Personal Privacy Act Equips Consumers with Tools to Protect ...",
+   "htmlTitle": "<b>Ohio</b> Personal <b>Privacy Act</b> Equips Consumers with Tools to Protect ...",
+   "link": "https://governor.ohio.gov/administration/lt-governor/07132021",
+   "displayLink": "governor.ohio.gov",
+   "snippet": "Jul 13, 2021 ... House Bill 376, also known as the Ohio Personal Privacy Act, would establish data rights for Ohioans while requiring businesses to adhere to specified data\u00a0...",
+   "htmlSnippet": "Jul 13, 2021 <b>...</b> House Bill 376, also known as the <b>Ohio</b> Personal <b>Privacy Act</b>, would establish data rights for Ohioans while requiring businesses to adhere to specified data&nbsp;...",
+   "formattedUrl": "https://governor.ohio.gov/administration/lt-governor/07132021",
+   "htmlFormattedUrl": "https://governor.<b>ohio</b>.gov/administration/lt-governor/07132021",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "initial-scale=1, minimum-scale=1, width=device-width, target-densitydpi=device-dpi"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "House Bill 376 | 134th General Assembly | Ohio Legislature",
+   "htmlTitle": "House Bill 376 | 134th General Assembly | <b>Ohio</b> Legislature",
+   "link": "https://www.legislature.ohio.gov/legislation/legislation-summary?id=GA134-HB-376",
+   "displayLink": "www.legislature.ohio.gov",
+   "snippet": "Enact Ohio Personal Privacy Act \u00b7 Current Version \u00b7 Subjects \u00b7 Committees \u00b7 Primary Sponsors \u00b7 Cosponsors.",
+   "htmlSnippet": "Enact <b>Ohio</b> Personal <b>Privacy Act</b> &middot; Current Version &middot; Subjects &middot; Committees &middot; Primary Sponsors &middot; Cosponsors.",
+   "formattedUrl": "https://www.legislature.ohio.gov/legislation/legislation-summary?id...HB...",
+   "htmlFormattedUrl": "https://www.legislature.<b>ohio</b>.gov/legislation/legislation-summary?id...HB...",
+   "pagemap": {
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#da532c",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "An Overview of Ohio's Personal Privacy Act (OPPA) \u2013 House Bill 345 ...",
+   "htmlTitle": "An Overview of <b>Ohio&#39;s</b> Personal <b>Privacy Act</b> (OPPA) \u2013 House Bill 345 ...",
+   "link": "https://securiti.ai/privacy-laws/us/ohio/",
+   "displayLink": "securiti.ai",
+   "snippet": "Aug 15, 2024 ... The Ohio Personal Privacy Act (OPPA), designated as House Bill 345 ... The CPA is a comprehensive privacy law signed on July 7, 2021.",
+   "htmlSnippet": "Aug 15, 2024 <b>...</b> The <b>Ohio</b> Personal <b>Privacy Act</b> (OPPA), designated as House Bill 345 ... The CPA is a comprehensive <b>privacy law</b> signed on July 7, 2021.",
+   "formattedUrl": "https://securiti.ai/privacy-laws/us/ohio/",
+   "htmlFormattedUrl": "https://securiti.ai/<b>privacy-law</b>s/us/<b>ohio</b>/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVt5yPmrJiropgxgYPrELgU8TS61Rlz38jVxW8DKVzSbZ4-exN2ugYqVs&s",
+      "width": "311",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#1f2229",
+      "og:image": "https://media.securiti.ai/wp-content/uploads/2024/08/Linkedin-An-Overview-of-Ohios-Personal-Privacy-Act-OPPA-%E2%80%93-House-Bill-345.jpg",
+      "theme-color": "#ffffff",
+      "og:type": "article",
+      "og:image:width": "1200",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Securiti",
+      "og:title": "An Overview of Ohio\u2019s Personal Privacy Act (OPPA) \u2013 House Bill 345 - Securiti",
+      "navu:site": "S96H646",
+      "og:image:height": "628",
+      "twitter:label1": "Est. reading time",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://securiti.ai/wp-content/themes/privaci/_ui/media/favicons/favicon-220x220.png",
+      "og:description": "Gain insights into Ohio\u2019s Personal Privacy Act (OPPA) \u2013 House Bill 345 and how it impacts your organization. Ensure compliance today to avoid penalties.",
+      "article:publisher": "https://www.facebook.com/securitiai",
+      "twitter:data1": "13 minutes",
+      "facebook-domain-verification": "gwmu3e251wmy2yc0nlbjtnik9h60uq",
+      "twitter:site": "@SecuritiAI",
+      "article:modified_time": "2025-03-10T09:23:53+00:00",
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=5, user-scalable=yes",
+      "og:locale": "en_US",
+      "og:url": "https://securiti.ai/privacy-laws/us/ohio/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://media.securiti.ai/wp-content/uploads/2024/08/Linkedin-An-Overview-of-Ohios-Personal-Privacy-Act-OPPA-%E2%80%93-House-Bill-345.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ohio | Jurisdictions | DataGuidance",
+   "htmlTitle": "<b>Ohio</b> | Jurisdictions | DataGuidance",
+   "link": "https://www.dataguidance.com/jurisdictions/ohio",
+   "displayLink": "www.dataguidance.com",
+   "snippet": "Law: Please note this State does not have a general privacy law ... 345 to enact the Ohio Personal Privacy Act was introduced to the Ohio House of Representatives\u00a0...",
+   "htmlSnippet": "Law: Please note this State does not have a general <b>privacy law</b> ... 345 to enact the <b>Ohio</b> Personal <b>Privacy Act</b> was introduced to the <b>Ohio</b> House of Representatives&nbsp;...",
+   "formattedUrl": "https://www.dataguidance.com/jurisdictions/ohio",
+   "htmlFormattedUrl": "https://www.dataguidance.com/jurisdictions/<b>ohio</b>",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:type": "website",
+      "twitter:title": "Ohio | Jurisdictions | DataGuidance",
+      "twitter:card": "summary",
+      "og:site_name": "DataGuidance",
+      "twitter:url": "https://www.dataguidance.com/jurisdictions/ohio",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "Ohio | Jurisdictions | DataGuidance",
+      "og:url": "https://www.dataguidance.com/jurisdictions/ohio"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ohio's Data Protection Act",
+   "htmlTitle": "<b>Ohio&#39;s</b> Data Protection Act",
+   "link": "https://www.ohiobar.org/member-tools-benefits/practice-resources/practice-library-search/practice-library/2019-ohio-lawyer/ohios-data-protection-act/",
+   "displayLink": "www.ohiobar.org",
+   "snippet": "Jul 1, 2019 ... ... privacy law. As part of his practice, David counsels and assists ... Privacy Act (CCPA) and the European Union's General Data\u00a0...",
+   "htmlSnippet": "Jul 1, 2019 <b>...</b> ... <b>privacy law</b>. As part of his practice, David counsels and assists ... <b>Privacy Act</b> (CCPA) and the European Union&#39;s General Data&nbsp;...",
+   "formattedUrl": "https://www.ohiobar.org/member...ohio.../ohios-data-protection-act/",
+   "htmlFormattedUrl": "https://www.<b>ohio</b>bar.org/member...<b>ohio</b>.../<b>ohio</b>s-data-protection-act/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoUpFUfniClpUvIzSAd4mwsivT4JrbPhcLDmexd1PyFNcSZL1IfJKZVIeU&s",
+      "width": "331",
+      "height": "152"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#b91d47",
+      "theme-color": "#ffffff",
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.ohiobar.org/link/9a78aec5567742ceb67490a548826720.aspx"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Chapter 129: Ohio Privacy Act",
+   "htmlTitle": "Chapter 129: <b>Ohio Privacy Act</b>",
+   "link": "https://ccao.org/aws/CCAO/asset_manager/get_file/713188?ver=1",
+   "displayLink": "ccao.org",
+   "snippet": "The Ohio Privacy Act, as detailed in Chapter 1347 of the Revised Code regulates the collection of information by governmental jurisdictions, and became\u00a0...",
+   "htmlSnippet": "The <b>Ohio Privacy Act</b>, as detailed in Chapter 1347 of the Revised Code regulates the collection of information by governmental jurisdictions, and became&nbsp;...",
+   "formattedUrl": "https://ccao.org/aws/CCAO/asset_manager/get_file/713188?ver=1",
+   "htmlFormattedUrl": "https://ccao.org/aws/CCAO/asset_manager/get_file/713188?ver=1",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "PScript5.dll Version 5.2.2",
+      "creationdate": "1/20/2007 8:56:48",
+      "author": "amandamjones",
+      "producer": "GNU Ghostscript 7.06",
+      "title": "129)  OHIO PRIVACY ACT"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ohio Regulates Targeted Advertising and Sale of Personal Data by ...",
+   "htmlTitle": "<b>Ohio</b> Regulates Targeted Advertising and Sale of Personal Data by ...",
+   "link": "https://www.thompsonhine.com/insights/ohio-regulates-targeted-advertising-and-sale-of-personal-data-by-hospitals/",
+   "displayLink": "www.thompsonhine.com",
+   "snippet": "Mar 7, 2025 ... ... privacy law, such as the Ohio Personal Privacy Act (HB 345), which was introduced in 2023. This advisory bulletin may be reproduced, in\u00a0...",
+   "htmlSnippet": "Mar 7, 2025 <b>...</b> ... <b>privacy law</b>, such as the <b>Ohio</b> Personal <b>Privacy Act</b> (HB 345), which was introduced in 2023. This advisory bulletin may be reproduced, in&nbsp;...",
+   "formattedUrl": "https://www.thompsonhine.com/.../ohio-regulates-targeted-advertising-and-...",
+   "htmlFormattedUrl": "https://www.thompsonhine.com/.../<b>ohio</b>-regulates-targeted-advertising-and-...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5VKhKnPTdOnD7C11kk2xsVBcLV6-hmXpYeXv4usb-QfR1tt7o5Rt-p7Qy&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#d71825",
+      "og:image": "https://admin.thompsonhine.com/wp-content/uploads/2022/06/cropped-TH_Favicon-e1656595149778.png",
+      "next-head-count": "20",
+      "og:type": "website",
+      "theme-color": "#ffffff",
+      "og:site_name": "Thompson Hine LLP",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Ohio Regulates Targeted Advertising and Sale of Personal Data by Hospitals | Thompson Hine LLP",
+      "og:locale": "en_US",
+      "og:url": "https://www.thompsonhine.com/insights/ohio-regulates-targeted-advertising-and-sale-of-personal-data-by-hospitals/",
+      "og:description": "Searchable database of legal alerts, bulletins, news, articles, events and podcasts that cover timely topics and important legal updates."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.thompsonhine.com/_next/image/?url=https%3A%2F%2Fadmin.thompsonhine.com%2Fwp-content%2Fuploads%2F2022%2F01%2FMedia-Mentions-Articles-1920x1080.png&w=3840&q=100"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ohio House Considers Enacting The Ohio Personal Privacy Act ...",
+   "htmlTitle": "<b>Ohio</b> House Considers Enacting The <b>Ohio</b> Personal <b>Privacy Act</b> ...",
+   "link": "https://www.jdsupra.com/legalnews/ohio-house-considers-enacting-the-ohio-1158653/",
+   "displayLink": "www.jdsupra.com",
+   "snippet": "Aug 6, 2024 ... Ohio House Bill 345, also known as The Ohio Personal Privacy Act, was introduced at the end of 2023 and is currently being considered in\u00a0...",
+   "htmlSnippet": "Aug 6, 2024 <b>...</b> <b>Ohio</b> House Bill 345, also known as The <b>Ohio</b> Personal <b>Privacy Act</b>, was introduced at the end of 2023 and is currently being considered in&nbsp;...",
+   "formattedUrl": "https://www.jdsupra.com/.../ohio-house-considers-enacting-the-ohio-11586...",
+   "htmlFormattedUrl": "https://www.jdsupra.com/.../<b>ohio</b>-house-considers-enacting-the-<b>ohio</b>-11586...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlqhkStMYSzP-PSuc5yqFK-EG-wm8P2EPU0T4jBMW8DVYi7eG9Ya7URjdX&s",
+      "width": "259",
+      "height": "194"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://jdsupra-static.s3.amazonaws.com/profile-images/og.16164_0009.jpg",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "twitter:title": "Ohio House Considers Enacting The Ohio Personal Privacy Act",
+      "og:site_name": "JD Supra",
+      "og:title": "Ohio House Considers Enacting The Ohio Personal Privacy Act | JD Supra",
+      "og:description": "Ohio House Bill 345, also known as The Ohio Personal Privacy Act, was introduced at the end of 2023 and is currently being considered in committee....",
+      "twitter:creator": "@kjk_law",
+      "twitter:image": "https://jdsupra-static.s3.amazonaws.com/profile-images/hr.16164_0009.jpg",
+      "fb:app_id": "87741124305",
+      "twitter:site": "@jdsupra",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Ohio House Bill 345, also known as The Ohio Personal Privacy Act, was introduced at the end of 2023 and is currently being considered in committee. The bill establishes requirements related to...",
+      "og:url": "https://www.jdsupra.com/legalnews/ohio-house-considers-enacting-the-ohio-1158653/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://jdsupra-static.s3.amazonaws.com/profile-images/og.16164_0009.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What is the Ohio Data Protection Act (Senate Bill 220)? | UpGuard",
+   "htmlTitle": "What is the <b>Ohio</b> Data Protection Act (Senate Bill 220)? | UpGuard",
+   "link": "https://www.upguard.com/blog/ohio-senate-bill-220",
+   "displayLink": "www.upguard.com",
+   "snippet": "Jan 16, 2025 ... On July 7, 2021, the Ohio government introduced House Bill 376, the Ohio Personal Privacy Act. ... Nevada Privacy Law (603A). How Can\u00a0...",
+   "htmlSnippet": "Jan 16, 2025 <b>...</b> On July 7, 2021, the <b>Ohio</b> government introduced House Bill 376, the <b>Ohio</b> Personal <b>Privacy Act</b>. ... Nevada <b>Privacy Law</b> (603A). How Can&nbsp;...",
+   "formattedUrl": "https://www.upguard.com/blog/ohio-senate-bill-220",
+   "htmlFormattedUrl": "https://www.upguard.com/blog/<b>ohio</b>-senate-bill-220",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaidepc79fmwaRipWy_BGS8jpTu2mpdyBxx5bxCxuKPtGOcTfPpUEOQvuO&s",
+      "width": "311",
+      "height": "162"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://cdn.prod.website-files.com/5efc3ccdb72aaa7480ec8179/64d6535af87a867677496c4d_data-protection-ohio.jpg",
+      "ahrefs-site-verification": "6cddbf7c67efe322c864dfb433bd13cd9c5ce14298f88382a2111586ce4c9433",
+      "twitter:title": "What is the Ohio Data Protection Act (Senate Bill 220)? | UpGuard",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Learn more about the Ohio Data Protection Act (Senate Bill 220) and the incentive-based benefits it offers data-conscious businesses.",
+      "og:title": "What is the Ohio Data Protection Act (Senate Bill 220)? | UpGuard",
+      "og:url": "https://www.upguard.com/blog/ohio-senate-bill-220",
+      "og:description": "Learn more about the Ohio Data Protection Act (Senate Bill 220) and the incentive-based benefits it offers data-conscious businesses.",
+      "twitter:image": "https://cdn.prod.website-files.com/5efc3ccdb72aaa7480ec8179/64d6535af87a867677496c4d_data-protection-ohio.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://cdn.prod.website-files.com/5efc3ccdb72aaa7480ec8179/64d6535af87a867677496c4d_data-protection-ohio.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ohio Personal Privacy Act Introduced | Byte Back",
+   "htmlTitle": "<b>Ohio</b> Personal <b>Privacy Act</b> Introduced | Byte Back",
+   "link": "https://www.bytebacklaw.com/2021/07/ohio-personal-privacy-act-introduced/",
+   "displayLink": "www.bytebacklaw.com",
+   "snippet": "Jul 13, 2021 ... ... Privacy Law Tracker Byte Back Plus Search. Byte Back. Ohio ... Keypoint: As introduced, the Ohio Personal Privacy Act would provide Ohio\u00a0...",
+   "htmlSnippet": "Jul 13, 2021 <b>...</b> ... <b>Privacy Law</b> Tracker Byte Back Plus Search. Byte Back. <b>Ohio</b> ... Keypoint: As introduced, the <b>Ohio</b> Personal <b>Privacy Act</b> would provide <b>Ohio</b>&nbsp;...",
+   "formattedUrl": "https://www.bytebacklaw.com/2021/.../ohio-personal-privacy-act-introduce...",
+   "htmlFormattedUrl": "https://www.bytebacklaw.com/2021/.../<b>ohio</b>-personal-<b>privacy-act</b>-introduce...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRutXoGD7lL-VFlvVt9oPxMRU_sdsfKqHsR-OO3YK1PGJabRwA23LtK4rs&s",
+      "width": "271",
+      "height": "186"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.bytebacklaw.com/wp-content/uploads/sites/631/2021/07/AdobeStock_316909371-320x219.jpg",
+      "og:type": "article",
+      "article:published_time": "2021-07-13T21:21:02+00:00",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Byte Back",
+      "author": "David Stauss [Former Attorney]",
+      "og:title": "Ohio Personal Privacy Act Introduced",
+      "msapplication-tileimage": "https://www.bytebacklaw.com/wp-content/uploads/sites/631/2017/07/cropped-favicon-270x270.png",
+      "og:description": "Keypoint: As introduced, the Ohio Personal Privacy Act would provide Ohio residents with some rights regarding their personal data, but it is not as",
+      "article:modified_time": "2021-07-14T20:36:09+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.bytebacklaw.com/2021/07/ohio-personal-privacy-act-introduced/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.bytebacklaw.com/wp-content/uploads/sites/631/2021/07/AdobeStock_316909371-320x219.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

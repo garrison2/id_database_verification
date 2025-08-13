@@ -1,0 +1,335 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://www.dps.texas.gov/ \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "14",
+    "searchTerms": "site:https://www.dps.texas.gov/ \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://www.dps.texas.gov/ \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "14",
+    "searchTerms": "site:https://www.dps.texas.gov/ \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.107082,
+  "formattedSearchTime": "0.11",
+  "totalResults": "14",
+  "formattedTotalResults": "14"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile ID | Department of Public Safety",
+   "htmlTitle": "<b>Mobile ID</b> | Department of Public Safety",
+   "link": "https://www.dps.texas.gov/section/crime-records/mobile-id",
+   "displayLink": "www.dps.texas.gov",
+   "snippet": "Aug 27, 2020 ... DPS Requirements. The Mobile ID device should adhere to national standards and be a Fingerprint Acquisition Profile (FAP) 30 device or greater.",
+   "htmlSnippet": "Aug 27, 2020 <b>...</b> DPS Requirements. The <b>Mobile ID</b> device should adhere to national standards and be a Fingerprint Acquisition Profile (FAP) 30 device or greater.",
+   "formattedUrl": "https://www.dps.texas.gov/section/crime-records/mobile-id",
+   "htmlFormattedUrl": "https://www.dps.texas.gov/section/crime-records/<b>mobile-id</b>",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "TEXAS DEPARTMENT OF PUBLIC SAFETY MOBILE ...",
+   "htmlTitle": "TEXAS DEPARTMENT OF PUBLIC SAFETY MOBILE ...",
+   "link": "https://www.dps.texas.gov/administration/crime_records/docs/cjis/mobileIDRef.pdf",
+   "displayLink": "www.dps.texas.gov",
+   "snippet": "Additionally, a device physically attached to a computer located in a vehicle that acquires biometric samples may also be considered as a Mobile ID device. DPS\u00a0...",
+   "htmlSnippet": "Additionally, a device physically attached to a computer located in a vehicle that acquires biometric samples may also be considered as a <b>Mobile ID</b> device. DPS&nbsp;...",
+   "formattedUrl": "https://www.dps.texas.gov/administration/crime_records/.../mobileIDRef.pd...",
+   "htmlFormattedUrl": "https://www.dps.texas.gov/administration/crime_records/.../<b>mobileID</b>Ref.pd...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSaLhN1UMIpbo0EEMxo1kKKECKtqZGBwB7TEa9Nt5_HiSY9mSKzT3xT4-k&s",
+      "width": "294",
+      "height": "171"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20150115090405-06'00'",
+      "creationdate": "D:20150114130934-06'00'",
+      "creator": "Microsoft\u00ae Word 2010",
+      "author": "LG06614",
+      "producer": "Microsoft\u00ae Word 2010"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///4608f292cbaf24fae19ed856c05c2ff0c633e5ba86a49ed050ee069468d6898a"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MOBILE ID 2011 CJIS CONFERENCE",
+   "htmlTitle": "<b>MOBILE ID</b> 2011 CJIS CONFERENCE",
+   "link": "https://www.dps.texas.gov/administration/crime_records/crNewsletters/2011/crNews2ndQtr11.pdf",
+   "displayLink": "www.dps.texas.gov",
+   "snippet": "DPS anticipates being online for the Mobile ID to access DPS' fingerprints on. September 1, 2011. This will allow users to quickly asses the threat level of an\u00a0...",
+   "htmlSnippet": "DPS anticipates being online for the <b>Mobile ID</b> to access DPS&#39; fingerprints on. September 1, 2011. This will allow users to quickly asses the threat level of an&nbsp;...",
+   "formattedUrl": "https://www.dps.texas.gov/administration/crime.../crNews2ndQtr11.pdf",
+   "htmlFormattedUrl": "https://www.dps.texas.gov/administration/crime.../crNews2ndQtr11.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyXL_mmedpCB5WXLIRgP8WHGbxIJxkR13cSharigLfR-xz2qrIMxtgdHI1&s",
+      "width": "217",
+      "height": "232"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20110817131752-05'00'",
+      "creationdate": "D:20110815085555-05'00'",
+      "creator": "Acrobat PDFMaker 9.0 for Publisher",
+      "author": "TXDPS",
+      "producer": "Acrobat Distiller 9.0.0 (Windows)"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///819c7035369d19bf2cc11d9d23375f0a334d9c7c94e492315a95c738200c065d"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MOBILE ID",
+   "htmlTitle": "<b>MOBILE ID</b>",
+   "link": "https://www.dps.texas.gov/administration/crime_records/crNewsletters/2013/crNews3rdQtr13.pdf",
+   "displayLink": "www.dps.texas.gov",
+   "snippet": "Mobile ID is a service that provides rapid fingerprint identification searches through the. DPS and FBI's fingerprint databases.",
+   "htmlSnippet": "<b>Mobile ID</b> is a service that provides rapid fingerprint identification searches through the. DPS and FBI&#39;s fingerprint databases.",
+   "formattedUrl": "https://www.dps.texas.gov/administration/crime.../crNews3rdQtr13.pdf",
+   "htmlFormattedUrl": "https://www.dps.texas.gov/administration/crime.../crNews3rdQtr13.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0wLssQd6oNzsF7lZ7P4EjAqAvJUMETMeIRdE3wVCwfD9kWFE4fylyxZQ&s",
+      "width": "217",
+      "height": "232"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20181030062316-05'00'",
+      "creationdate": "D:20181029143140-05'00'",
+      "creator": "Microsoft\u00ae Publisher 2016",
+      "author": "TXDPS",
+      "producer": "Microsoft\u00ae Publisher 2016"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///5849d391033a03a1c2b3ab68ad1b9180b8502e74d1ec47d37113613945848786"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BIOMETRICS",
+   "htmlTitle": "BIOMETRICS",
+   "link": "https://www.dps.texas.gov/sites/default/files/documents/administration/crime_records/conferences/NonCATB_Livescan.pdf",
+   "displayLink": "www.dps.texas.gov",
+   "snippet": "Jun 18, 2025 ... Do not populate an arrest record with identification data base on a name search from a DL search. MOBILE ID. 17. 18. 19. 20. Page 6\u00a0...",
+   "htmlSnippet": "Jun 18, 2025 <b>...</b> Do not populate an arrest record with identification data base on a name search from a DL search. <b>MOBILE ID</b>. 17. 18. 19. 20. Page 6&nbsp;...",
+   "formattedUrl": "https://www.dps.texas.gov/sites/default/files/.../NonCATB_Livescan.pdf",
+   "htmlFormattedUrl": "https://www.dps.texas.gov/sites/default/files/.../NonCATB_Livescan.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9A4zUJr89s1NGod9fy10zEncJyyoIhb7Bd5TuGsGLy7HTwZ0yo3WSi5oq&s",
+      "width": "259",
+      "height": "194"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20250618154534-05'00'",
+      "creationdate": "D:20250618154534-05'00'",
+      "author": "Morse, John",
+      "producer": "Microsoft: Print To PDF",
+      "title": "Microsoft PowerPoint - Biometrics Presentation 2025"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///d6e45de100ad8077d3200f52c27953d49729c432e6b4bde8dce945bff6b14ccc"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Biometric Services | Department of Public Safety",
+   "htmlTitle": "Biometric Services | Department of Public Safety",
+   "link": "https://www.dps.texas.gov/section/crime-records/biometric-services",
+   "displayLink": "www.dps.texas.gov",
+   "snippet": "Jul 29, 2021 ... Our Biometric Coordinator and Assistant Biometric Coordinator manage the criminal justice livescan devices and mobile ID devices across the\u00a0...",
+   "htmlSnippet": "Jul 29, 2021 <b>...</b> Our Biometric Coordinator and Assistant Biometric Coordinator manage the criminal justice livescan devices and <b>mobile ID</b> devices across the&nbsp;...",
+   "formattedUrl": "https://www.dps.texas.gov/section/crime-records/biometric-services",
+   "htmlFormattedUrl": "https://www.dps.texas.gov/section/crime-records/biometric-services",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Multimodal Biometric Identification System (MBIS) | Department of ...",
+   "htmlTitle": "Multimodal Biometric Identification System (MBIS) | Department of ...",
+   "link": "https://www.dps.texas.gov/section/crime-records-service/multimodal-biometric-identification-system-mbis",
+   "displayLink": "www.dps.texas.gov",
+   "snippet": "Aug 27, 2020 ... Additionally, it provides functionality for processing Mobile ID submissions. Furthermore, MBIS stores other biometrics for an individual\u00a0...",
+   "htmlSnippet": "Aug 27, 2020 <b>...</b> Additionally, it provides functionality for processing <b>Mobile ID</b> submissions. Furthermore, MBIS stores other biometrics for an individual&nbsp;...",
+   "formattedUrl": "https://www.dps.texas.gov/.../multimodal-biometric-identification-system-m...",
+   "htmlFormattedUrl": "https://www.dps.texas.gov/.../multimodal-biometric-identification-system-m...",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MEMORANDUM OF UNDERSTANDING",
+   "htmlTitle": "MEMORANDUM OF UNDERSTANDING",
+   "link": "https://www.dps.texas.gov/administration/crime_records/docs/cjis/midRISCUserAgrmnt.pdf",
+   "displayLink": "www.dps.texas.gov",
+   "snippet": "hereinafter referred to as the \"Parties\", is for the limited purpose of accessing the Texas. Department of Public Safety (DPS) Mobile ID System (MID) and the\u00a0...",
+   "htmlSnippet": "hereinafter referred to as the &quot;Parties&quot;, is for the limited purpose of accessing the Texas. Department of Public Safety (DPS) <b>Mobile ID</b> System (MID) and the&nbsp;...",
+   "formattedUrl": "https://www.dps.texas.gov/administration/crime.../midRISCUserAgrmnt.pdf",
+   "htmlFormattedUrl": "https://www.dps.texas.gov/administration/crime.../midRISCUserAgrmnt.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20231024110623-05'00'",
+      "creationdate": "D:20231024110620-05'00'",
+      "creator": "Acrobat PDFMaker 23 for Word",
+      "display_urn:schemas_microsoft_com:office:office_editor": "Garcia, Loann",
+      "display_urn:schemas_microsoft_com:office:office_author": "Garcia, Loann",
+      "sourcemodified": "D:20231024135608",
+      "author": "ML",
+      "producer": "Adobe PDF Library 23.6.136",
+      "company": "TXDPS",
+      "title": "MEMORANDUM OF UNDERSTANDING",
+      "order": "23100.0000000000"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Inside Thank you for 25 Years of Service! Promotions",
+   "htmlTitle": "Inside Thank you for 25 Years of Service! Promotions",
+   "link": "https://www.dps.texas.gov/administration/crime_records/crnewsletters/2024/crnews2stqtr24.pdf",
+   "displayLink": "www.dps.texas.gov",
+   "snippet": "Nov 1, 2024 ... Mobile ID searches include records such as wanted persons, sex offender registration subjects, and known or suspected terrorists. Mobile ID\u00a0...",
+   "htmlSnippet": "Nov 1, 2024 <b>...</b> <b>Mobile ID</b> searches include records such as wanted persons, sex offender registration subjects, and known or suspected terrorists. <b>Mobile ID</b>&nbsp;...",
+   "formattedUrl": "https://www.dps.texas.gov/administration/crime.../crnews2stqtr24.pdf",
+   "htmlFormattedUrl": "https://www.dps.texas.gov/administration/crime.../crnews2stqtr24.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzcTZ4CYL0G_6t1g0623PAdW75__vYXQnTZdcaD4PI7neT020zkrTEK50&s",
+      "width": "251",
+      "height": "201"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20241031123956-05'00'",
+      "creationdate": "D:20241024101121-05'00'",
+      "creator": "Adobe InDesign 18.5 (Windows)",
+      "producer": "Adobe PDF Library 17.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///99441b05ae9d7492fea682a0d99314623a7d86b5f3496881c33e2e263acbd4a3"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CJIS and JJIS Information | Department of Public Safety",
+   "htmlTitle": "CJIS and JJIS Information | Department of Public Safety",
+   "link": "https://www.dps.texas.gov/section/crime-records-service/cjis-and-jjis-information",
+   "displayLink": "www.dps.texas.gov",
+   "snippet": "Aug 27, 2020 ... Mobile ID \u00b7 Texas NICS Indices Entry Reporting \u00b7 Back to Crime Records Home >. Follow DPS. twitter \u00b7 facebook youtube \u00b7 RSS Feed. Keep Texas\u00a0...",
+   "htmlSnippet": "Aug 27, 2020 <b>...</b> <b>Mobile ID</b> &middot; Texas NICS Indices Entry Reporting &middot; Back to Crime Records Home &gt;. Follow DPS. twitter &middot; facebook youtube &middot; RSS Feed. Keep Texas&nbsp;...",
+   "formattedUrl": "https://www.dps.texas.gov/section/crime-records.../cjis-and-jjis-information",
+   "htmlFormattedUrl": "https://www.dps.texas.gov/section/crime-records.../cjis-and-jjis-information",
+   "pagemap": {
+    "metatags": [
+     {
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+      "mobileoptimized": "width"
+     }
+    ]
+   }
+  }
+ ]
+}

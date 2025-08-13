@@ -1,0 +1,75 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://www.driverservicebureau.dps.ms.gov/ \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"  \"privacy policy\" OR \"privacy notice\" OR \"privacy statement\" OR \"terms of service\" OR \"terms and conditions\"",
+    "totalResults": "1",
+    "searchTerms": "site:https://www.driverservicebureau.dps.ms.gov/ \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"  \"privacy policy\" OR \"privacy notice\" OR \"privacy statement\" OR \"terms of service\" OR \"terms and conditions\"",
+    "count": 1,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.113825,
+  "formattedSearchTime": "0.11",
+  "totalResults": "1",
+  "formattedTotalResults": "1"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "DUI Department | DPS Driver Service Bureau",
+   "htmlTitle": "DUI Department | DPS Driver Service Bureau",
+   "link": "https://www.driverservicebureau.dps.ms.gov/DriverRecords/DUI_Department",
+   "displayLink": "www.driverservicebureau.dps.ms.gov",
+   "snippet": "Get MS Mobile ID. Search. Home DPS Driver Service Bureau. Driving ... successfully complete all terms and conditions imposed by the court after\u00a0...",
+   "htmlSnippet": "Get MS <b>Mobile ID</b>. Search. Home DPS Driver Service Bureau. Driving ... successfully complete all <b>terms and conditions</b> imposed by the court after&nbsp;...",
+   "formattedUrl": "https://www.driverservicebureau.dps.ms.gov/.../DUI_Department",
+   "htmlFormattedUrl": "https://www.driverservicebureau.dps.ms.gov/.../DUI_Department",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY0pnfwq6O-OrhX_72GBl3rmQenuDEnIfM6rbdvua2eeybGDrJdRJd5Bo&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "WebPage": [
+     {
+      "name": "DUI Department"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.driverservicebureau.dps.ms.gov/themes/custom/mississippi-dps/images/DriverServicesBureau-DPS-logo.png",
+      "og:type": "website",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobileoptimized": "width",
+      "og:title": "Department of Public Safety Driver Service Bureau",
+      "og:url": "https://www.driverservicebureau.dps.ms.gov/",
+      "og:description": "Driver Service is a bureau of the Department of Public Safety. Our mission to promote positive customer service while empowering the citizens of this state with positive means for measuring our performance."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.driverservicebureau.dps.ms.gov/themes/custom/mississippi-dps/images/DriverServicesBureau-DPS-logo.png"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,394 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://transportation.wv.gov/dmv/ \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "13",
+    "searchTerms": "site:https://transportation.wv.gov/dmv/ \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://transportation.wv.gov/dmv/ \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "13",
+    "searchTerms": "site:https://transportation.wv.gov/dmv/ \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.11134,
+  "formattedSearchTime": "0.11",
+  "totalResults": "13",
+  "formattedTotalResults": "13"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "West Virginia Mobile ID",
+   "htmlTitle": "West Virginia <b>Mobile ID</b>",
+   "link": "https://transportation.wv.gov/DMV/MiD/Pages/default.aspx",
+   "displayLink": "transportation.wv.gov",
+   "snippet": "Mobile ID is a new form of digital identity that allows users to crea te a contactless, highly secure, state-approved personal credential.",
+   "htmlSnippet": "<b>Mobile ID</b> is a new form of digital identity that allows users to crea te a contactless, highly secure, state-approved personal credential.",
+   "formattedUrl": "https://transportation.wv.gov/DMV/MiD/Pages/default.aspx",
+   "htmlFormattedUrl": "https://transportation.wv.gov/DMV/MiD/Pages/default.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLlAoDAolU1FYAYcSSSTtcTMR67qwk1fIfQIdW6Y2fUE6r1nI-j-DCGQ&s",
+      "width": "350",
+      "height": "144"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.wv.gov/images/homebkg.jpg",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "West Virginia Mobile ID",
+      "twitter:site": "@wvgov",
+      "viewport": "width=device-width",
+      "og:title": "West Virginia Mobile ID",
+      "progid": "SharePoint.WebPartPage.Document"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.wv.gov/images/homebkg.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Get Digital Registration and Mobile ID Now",
+   "htmlTitle": "Get Digital Registration and <b>Mobile ID</b> Now",
+   "link": "https://transportation.wv.gov/DMV/Pages/registration-mobileid.aspx",
+   "displayLink": "transportation.wv.gov",
+   "snippet": "... Mobile ID. You will be able to access your digital driver's license and ID card on your smartphone. It is a secure, convenient, and contactless way to\u00a0...",
+   "htmlSnippet": "... <b>Mobile ID</b>. You will be able to access your <b>digital driver&#39;s license</b> and ID card on your smartphone. It is a secure, convenient, and contactless way to&nbsp;...",
+   "formattedUrl": "https://transportation.wv.gov/DMV/Pages/registration-mobileid.aspx",
+   "htmlFormattedUrl": "https://transportation.wv.gov/DMV/Pages/registration-<b>mobileid</b>.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLlAoDAolU1FYAYcSSSTtcTMR67qwk1fIfQIdW6Y2fUE6r1nI-j-DCGQ&s",
+      "width": "350",
+      "height": "144"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.wv.gov/images/homebkg.jpg",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Get Digital Registration and Mobile ID Now",
+      "twitter:site": "@wvgov",
+      "viewport": "width=device-width",
+      "og:title": "Get Digital Registration and Mobile ID Now",
+      "progid": "SharePoint.WebPartPage.Document"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.wv.gov/images/homebkg.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Frequently Asked Questions",
+   "htmlTitle": "Frequently Asked Questions",
+   "link": "https://transportation.wv.gov/DMV/MiD/Pages/FAQ.aspx",
+   "displayLink": "transportation.wv.gov",
+   "snippet": "How can I verify a Mobile ID? Mobile ID makes it simple to verify a digital ID as a valid credential by using any of these contactless options: ... To learn more\u00a0...",
+   "htmlSnippet": "How can I verify a <b>Mobile ID</b>? <b>Mobile ID</b> makes it simple to verify a <b>digital ID</b> as a valid credential by using any of these contactless options: ... To learn more&nbsp;...",
+   "formattedUrl": "https://transportation.wv.gov/DMV/MiD/Pages/FAQ.aspx",
+   "htmlFormattedUrl": "https://transportation.wv.gov/DMV/MiD/Pages/FAQ.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLlAoDAolU1FYAYcSSSTtcTMR67qwk1fIfQIdW6Y2fUE6r1nI-j-DCGQ&s",
+      "width": "350",
+      "height": "144"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.wv.gov/images/homebkg.jpg",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Frequently Asked Questions",
+      "twitter:site": "@wvgov",
+      "viewport": "width=device-width",
+      "og:title": "Frequently Asked Questions",
+      "progid": "SharePoint.WebPartPage.Document"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.wv.gov/images/homebkg.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile ID FAQs",
+   "htmlTitle": "<b>Mobile ID</b> FAQs",
+   "link": "https://transportation.wv.gov/DMV/MiD/Pages/Mobile_ID_FAQs.aspx",
+   "displayLink": "transportation.wv.gov",
+   "snippet": "PLEASE CONTACT THE WV DMV FOR THE FOLLOWING BEFORE YOU ENROLL IN THE MOBILE ID APP. You are updating any information on your Credential (Driver License, Permit\u00a0...",
+   "htmlSnippet": "PLEASE CONTACT THE WV DMV FOR THE FOLLOWING BEFORE YOU ENROLL IN THE <b>MOBILE ID</b> APP. You are updating any information on your Credential (Driver License, Permit&nbsp;...",
+   "formattedUrl": "https://transportation.wv.gov/DMV/MiD/Pages/Mobile_ID_FAQs.aspx",
+   "htmlFormattedUrl": "https://transportation.wv.gov/DMV/MiD/Pages/<b>Mobile_ID</b>_FAQs.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLlAoDAolU1FYAYcSSSTtcTMR67qwk1fIfQIdW6Y2fUE6r1nI-j-DCGQ&s",
+      "width": "350",
+      "height": "144"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.wv.gov/images/homebkg.jpg",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Mobile ID FAQs",
+      "twitter:site": "@wvgov",
+      "viewport": "width=device-width",
+      "og:title": "Mobile ID FAQs",
+      "progid": "SharePoint.WebPartPage.Document"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.wv.gov/images/homebkg.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "West Virginia Digital ID in Samsung Wallet",
+   "htmlTitle": "West Virginia <b>Digital ID</b> in Samsung Wallet",
+   "link": "https://transportation.wv.gov/DMV/MiD/Pages/Samsung_Wallet.aspx",
+   "displayLink": "transportation.wv.gov",
+   "snippet": "Skip Navigation Links Transportation > Division of Motor Vehicles > Mobile ID > West Virginia Digital ID in Samsung Wallet ... Mobile Driver's License or State ID\u00a0...",
+   "htmlSnippet": "Skip Navigation Links Transportation &gt; Division of Motor Vehicles &gt; <b>Mobile ID</b> &gt; West Virginia <b>Digital ID</b> in Samsung Wallet ... <b>Mobile Driver&#39;s License</b> or State ID&nbsp;...",
+   "formattedUrl": "https://transportation.wv.gov/DMV/MiD/Pages/Samsung_Wallet.aspx",
+   "htmlFormattedUrl": "https://transportation.wv.gov/DMV/MiD/Pages/Samsung_Wallet.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLlAoDAolU1FYAYcSSSTtcTMR67qwk1fIfQIdW6Y2fUE6r1nI-j-DCGQ&s",
+      "width": "350",
+      "height": "144"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.wv.gov/images/homebkg.jpg",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "West Virginia Digital ID in Samsung Wallet",
+      "twitter:site": "@wvgov",
+      "viewport": "width=device-width",
+      "og:title": "West Virginia Digital ID in Samsung Wallet",
+      "progid": "SharePoint.WebPartPage.Document"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.wv.gov/images/homebkg.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "West Virginia DMV implements Digital Vehicle Registration and ...",
+   "htmlTitle": "West Virginia DMV implements Digital Vehicle Registration and ...",
+   "link": "https://transportation.wv.gov/DMV/News/Pages/West-Virginia-DMV-implements-Digital-Vehicle-Registration-and-Mobile-ID.aspx",
+   "displayLink": "transportation.wv.gov",
+   "snippet": "Jan 24, 2024 ... The DMV is also developing the West Virginia Mobile ID, a digital driver's license and ID card accessible on your phone. This innovative\u00a0...",
+   "htmlSnippet": "Jan 24, 2024 <b>...</b> The DMV is also developing the West Virginia <b>Mobile ID</b>, a <b>digital driver&#39;s license</b> and ID card accessible on your phone. This innovative&nbsp;...",
+   "formattedUrl": "https://transportation.wv.gov/.../West-Virginia-DMV-implements-Digital-V...",
+   "htmlFormattedUrl": "https://transportation.wv.gov/.../West-Virginia-DMV-implements-Digital-V...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLlAoDAolU1FYAYcSSSTtcTMR67qwk1fIfQIdW6Y2fUE6r1nI-j-DCGQ&s",
+      "width": "350",
+      "height": "144"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.wv.gov/images/homebkg.jpg",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "West Virginia DMV implements Digital Vehicle Registration and Mobile ID",
+      "twitter:site": "@wvgov",
+      "viewport": "width=device-width",
+      "og:title": "West Virginia DMV implements Digital Vehicle Registration and Mobile ID",
+      "progid": "SharePoint.WebPartPage.Document"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.wv.gov/images/homebkg.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "WV Division of Motor Vehicles",
+   "htmlTitle": "WV Division of Motor Vehicles",
+   "link": "https://transportation.wv.gov/DMV/MiD/Pages/Android_Screenshots.aspx",
+   "displayLink": "transportation.wv.gov",
+   "snippet": "\u200b\u200b\u200bAndroid 9 Screenshots for opening SMS OTP Link in Mobile ID app. If you have an Android device and get the message \u201cThis site can't be reached\u201d when you tap\u00a0...",
+   "htmlSnippet": "\u200b\u200b\u200bAndroid 9 Screenshots for opening SMS OTP Link in <b>Mobile ID</b> app. If you have an Android device and get the message \u201cThis site can&#39;t be reached\u201d when you tap&nbsp;...",
+   "formattedUrl": "https://transportation.wv.gov/DMV/MiD/Pages/Android_Screenshots.aspx",
+   "htmlFormattedUrl": "https://transportation.wv.gov/DMV/MiD/Pages/Android_Screenshots.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLlAoDAolU1FYAYcSSSTtcTMR67qwk1fIfQIdW6Y2fUE6r1nI-j-DCGQ&s",
+      "width": "350",
+      "height": "144"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.wv.gov/images/homebkg.jpg",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Android Screenshots",
+      "twitter:site": "@wvgov",
+      "viewport": "width=device-width",
+      "og:title": "Android Screenshots",
+      "progid": "SharePoint.WebPartPage.Document"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.wv.gov/images/homebkg.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Untitled",
+   "htmlTitle": "Untitled",
+   "link": "https://transportation.wv.gov/DMV/MiD/Documents/Samsung%20Terms%20and%20Conditions.pdf",
+   "displayLink": "transportation.wv.gov",
+   "snippet": "Jan 14, 2025 ... security breach resulting from your use of the mDL. The WV DMV does not monitor the use of the Digital ID. However, in the event of\u00a0...",
+   "htmlSnippet": "Jan 14, 2025 <b>...</b> security breach resulting from your use of the <b>mDL</b>. The WV DMV does not monitor the use of the <b>Digital ID</b>. However, in the event of&nbsp;...",
+   "formattedUrl": "https://transportation.wv.gov/.../Samsung%20Terms%20and%20Conditions...",
+   "htmlFormattedUrl": "https://transportation.wv.gov/.../Samsung%20Terms%20and%20Conditions...",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "Tue Jan 21 04:28:22 2025",
+      "creationdate": "Tue Jan 21 04:28:22 2025",
+      "creator": "KM_C550i",
+      "author": "Mike.A.May@wv.gov",
+      "producer": "KONICA MINOLTA bizhub C550i"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "How To Sign Up For Mobile ID",
+   "htmlTitle": "How To Sign Up For <b>Mobile ID</b>",
+   "link": "https://transportation.wv.gov/DMV/MiD/Pages/HOW_TO_SIGN_UP.aspx",
+   "displayLink": "transportation.wv.gov",
+   "snippet": "Skip Navigation Links Transportation > Division of Motor Vehicles > Mobile ID > How To Sign Up For Mobile ID. How To Sign Up For Mobile ID. Page Content.",
+   "htmlSnippet": "Skip Navigation Links Transportation &gt; Division of Motor Vehicles &gt; <b>Mobile ID</b> &gt; How To Sign Up For <b>Mobile ID</b>. How To Sign Up For <b>Mobile ID</b>. Page Content.",
+   "formattedUrl": "https://transportation.wv.gov/DMV/MiD/Pages/HOW_TO_SIGN_UP.aspx",
+   "htmlFormattedUrl": "https://transportation.wv.gov/DMV/MiD/Pages/HOW_TO_SIGN_UP.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLlAoDAolU1FYAYcSSSTtcTMR67qwk1fIfQIdW6Y2fUE6r1nI-j-DCGQ&s",
+      "width": "350",
+      "height": "144"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.wv.gov/images/homebkg.jpg",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "How To Sign Up For Mobile ID",
+      "twitter:site": "@wvgov",
+      "viewport": "width=device-width",
+      "og:title": "How To Sign Up For Mobile ID",
+      "progid": "SharePoint.WebPartPage.Document"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.wv.gov/images/homebkg.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Site Map",
+   "htmlTitle": "Site Map",
+   "link": "https://transportation.wv.gov/DMV/Pages/Site-Map.aspx",
+   "displayLink": "transportation.wv.gov",
+   "snippet": "How To Sign Up For Mobile ID \u00b7 Mobile ID FAQs \u00b7 West Virginia Digital ID in Samsung Wallet \u00b7 West Virginia Mobile ID. Recent. Motor Carriers \u00b7 Commercial\u00a0...",
+   "htmlSnippet": "How To Sign Up For <b>Mobile ID</b> &middot; <b>Mobile ID</b> FAQs &middot; West Virginia <b>Digital ID</b> in Samsung Wallet &middot; West Virginia <b>Mobile ID</b>. Recent. Motor Carriers &middot; Commercial&nbsp;...",
+   "formattedUrl": "https://transportation.wv.gov/DMV/Pages/Site-Map.aspx",
+   "htmlFormattedUrl": "https://transportation.wv.gov/DMV/Pages/Site-Map.aspx",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLlAoDAolU1FYAYcSSSTtcTMR67qwk1fIfQIdW6Y2fUE6r1nI-j-DCGQ&s",
+      "width": "350",
+      "height": "144"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.wv.gov/images/homebkg.jpg",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Site Map",
+      "twitter:site": "@wvgov",
+      "viewport": "width=device-width",
+      "og:title": "Site Map",
+      "progid": "SharePoint.WebPartPage.Document"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.wv.gov/images/homebkg.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

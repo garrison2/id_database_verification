@@ -1,0 +1,408 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Illinois Compiled Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "totalResults": "2930",
+    "searchTerms": "\"Illinois Compiled Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Illinois Compiled Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "totalResults": "2930",
+    "searchTerms": "\"Illinois Compiled Statutes\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.176496,
+  "formattedSearchTime": "0.18",
+  "totalResults": "2930",
+  "formattedTotalResults": "2,930"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "PUBLIC SAFETY (430 ILCS 65/) Firearm Owners Identification Card ...",
+   "htmlTitle": "PUBLIC SAFETY (430 ILCS 65/) Firearm Owners <b>Identification Card</b> ...",
+   "link": "https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=1657&ChapterID=39",
+   "displayLink": "www.ilga.gov",
+   "snippet": "... driver's license or Illinois Identification Card, if available. On and after ... Identification Card was surrendered. Once completed, the person shall retain a\u00a0...",
+   "htmlSnippet": "... <b>driver&#39;s license</b> or Illinois <b>Identification Card</b>, if available. On and after ... <b>Identification Card</b> was surrendered. Once completed, the person shall <b>retain</b> a&nbsp;...",
+   "formattedUrl": "https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=1657&ChapterID...",
+   "htmlFormattedUrl": "https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=1657&amp;ChapterID...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd9sLi-XxMDhSt0t98KxmBUkckians5FexRwe4TvTDx0Fv-G7wf8vMlFE&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "dc.publisher": "Legislative Information System",
+      "og:image": "https://cdn.ilga.gov/assets/img/site/open_graph.png",
+      "twitter:card": "summary_large_image",
+      "originatoroffice": "Illinois General Assembly",
+      "contactphonenumber": "217-782-3944",
+      "og:description": "Welcome to the Official government website of the Illinois General Assembly",
+      "contactnetworkaddress": "webmaster@ilga.gov",
+      "twitter:image": "https://cdn.ilga.gov/assets/img/site/open_graph.png",
+      "contactname": "Legislative Information System",
+      "contactorganization": "LIS Staff Services",
+      "dc.creator": "Legislative Information Systeme",
+      "contactfaxnumber": "217-524-6059",
+      "og:type": "website",
+      "twitter:title": "Official Government Website of the Illinois General Assembly",
+      "dc.description": "Official government website of the Illinois General Assembly",
+      "contactstreetaddress1": "705 Stratton Office Building",
+      "originatordepartment": "Legislative Information System",
+      "author": "Legislative Information System",
+      "og:title": "Official government website of the Illinois General Assembly",
+      "originatorjurisdiction": "State Of Illinois",
+      "dc.date": "2024-06-14",
+      "originatordivision": "Web Staff",
+      "classification": "Government--State Government--Illinois General Assembly",
+      "contactzipcode": "62706",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:description": "Official government website of the Illinois General Assembly",
+      "dc.title": "Official Government Website of the Illinois General Assembly",
+      "dc.subject": "Illinois General Assembly, legislation, public acts, Springfield, Illinois state government, Illinois State Legislators, government, official",
+      "og:url": "https://ilga.gov",
+      "dc.language": "en",
+      "contactcity": "Springfield"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://cdn.ilga.gov/assets/img/site/open_graph.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "15 ILCS 335/ - Illinois Identification Card Act. :: 2024 Illinois ...",
+   "htmlTitle": "15 ILCS 335/ - Illinois <b>Identification Card</b> Act. :: 2024 <b>Illinois</b> ...",
+   "link": "https://law.justia.com/codes/illinois/chapter-15/act-15-ilcs-335/",
+   "displayLink": "law.justia.com",
+   "snippet": "(1) A committed person who has previously held an Illinois Identification Card or an Illinois driver's license shall submit an Identification Card verification\u00a0...",
+   "htmlSnippet": "(1) A committed person who has previously held an Illinois <b>Identification Card</b> or an Illinois <b>driver&#39;s license</b> shall submit an <b>Identification Card verification</b>&nbsp;...",
+   "formattedUrl": "https://law.justia.com/codes/illinois/chapter-15/act-15-ilcs-335/",
+   "htmlFormattedUrl": "https://law.justia.com/codes/illinois/chapter-15/act-15-ilcs-335/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPP2ksOfM4IyWL7PTxPyS5N80Or-jyXZZLgeH1kYuOtXk5YU597YCxGszS&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "og:site_name": "Justia Law",
+      "og:title": "2024 Illinois Compiled Statutes :: Chapter 15 - EXECUTIVE OFFICERS :: 15 ILCS 335/ - Illinois Identification Card Act.",
+      "og:app_id": "119529808075661",
+      "trigger-ga": "1",
+      "og:description": "Justia Free Databases of U.S. Laws, Codes & Statutes",
+      "og:admins": "656268335,686786921,25900864",
+      "referrer": "unsafe-url",
+      "twitter:site": "@JustiaCom",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "page-type": "Law: Codes Document Page (Current Year)",
+      "is-li": "0",
+      "og:url": "https://law.justia.com/codes/illinois/chapter-15/act-15-ilcs-335/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Illinois Notary Public Handbook",
+   "htmlTitle": "Illinois Notary Public Handbook",
+   "link": "https://www.ilsos.gov/publications/pdf_publications/ipub16.pdf",
+   "displayLink": "www.ilsos.gov",
+   "snippet": "driver's license and Illinois Identification Card databases and understand that such signature will be used ... verification of the bond information for\u00a0...",
+   "htmlSnippet": "<b>driver&#39;s license</b> and Illinois <b>Identification Card</b> databases and understand that such signature will be used ... <b>verification</b> of the bond information for&nbsp;...",
+   "formattedUrl": "https://www.ilsos.gov/publications/pdf_publications/ipub16.pdf",
+   "htmlFormattedUrl": "https://www.ilsos.gov/publications/pdf_publications/ipub16.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNroYDwSjkIiFfXVCeKn-n2Yi-fo9CI8R5JDjtv2KGsdKw-E8QDHTSnshd&s",
+      "width": "256",
+      "height": "197"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20240228132007-06'00'",
+      "creationdate": "D:20240227203427Z",
+      "author": "Illinois Secretary of State",
+      "producer": "macOS Version 14.2.1 (Build 23C71) Quartz PDFContext",
+      "title": "Illinois Notary Public Handbook"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///2cd3f47b210d028e035370fecb809fb22690b81fc98d8a6aeb8ae366c23294f2"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "5/6-101. Drivers must have licenses or permits | Statutes | Westlaw",
+   "htmlTitle": "5/6-101. Drivers must have licenses or permits | Statutes | Westlaw",
+   "link": "https://content.next.westlaw.com/practical-law/document/N97C2534186CC11EF8C58DCB8EDA2461E/5-6-101-Drivers-must-have-licenses-or-permits?viewType=FullText&transitionType=Default&contextData=(sc.Default)",
+   "displayLink": "content.next.westlaw.com",
+   "snippet": "... Illinois Compiled Statutes Annotated. Chapter 625. Vehicles. Act 5 ... verification of a mobile driver's license issued by the Secretary or another state.",
+   "htmlSnippet": "... <b>Illinois Compiled Statutes</b> Annotated. Chapter 625. Vehicles. Act 5 ... <b>verification</b> of a mobile <b>driver&#39;s license</b> issued by the Secretary or another state.",
+   "formattedUrl": "https://content.next.westlaw.com/.../5-6-101-Drivers-must-have-licenses-or-...",
+   "htmlFormattedUrl": "https://content.next.westlaw.com/.../5-6-101-Drivers-must-have-licenses-or-...",
+   "pagemap": {
+    "digitaldocument": [
+     {
+      "name": "5/6-101. Drivers must have licenses or permits | Statutes | Westlaw",
+      "description": "View on Westlaw or start a FREE TRIAL today, 5/6-101. Drivers must have licenses or permits, Statutes",
+      "headline": "5/6-101. Drivers must have licenses or permits | Statutes | Westlaw",
+      "url": "https://content.next.westlaw.com/Document/N97C2534186CC11EF8C58DCB8EDA2461E/View/FullText.html?transitionType=Default&contextData=(sc.Default)"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width",
+      "og:title": "5/6-101. Drivers must have licenses or permits | Statutes | Westlaw",
+      "og:url": "https://content.next.westlaw.com/Document/N97C2534186CC11EF8C58DCB8EDA2461E/View/FullText.html?transitionType=Default&contextData=(sc.Default)"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "instruction sheet - fingerprint vendor",
+   "htmlTitle": "instruction sheet - fingerprint vendor",
+   "link": "https://idfpr.illinois.gov/content/dam/soi/en/web/idfpr/renewals/apply/forms/fpv.pdf",
+   "displayLink": "idfpr.illinois.gov",
+   "snippet": "Oct 17, 2024 ... Contact the vendor to determine the fee for a \u201cCard Scan\u201d. Mail the original Identity Verification Certifying Statement (with Sections 1 and 2.",
+   "htmlSnippet": "Oct 17, 2024 <b>...</b> Contact the vendor to determine the fee for a \u201cCard <b>Scan</b>\u201d. Mail the original Identity <b>Verification</b> Certifying Statement (with Sections 1 and 2.",
+   "formattedUrl": "https://idfpr.illinois.gov/content/dam/soi/en/web/idfpr/renewals/.../fpv.pdf",
+   "htmlFormattedUrl": "https://idfpr.illinois.gov/content/dam/soi/en/web/idfpr/renewals/.../fpv.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20241017091451-05'00'",
+      "creationdate": "D:20241017091451-05'00'",
+      "creator": "PScript5.dll Version 5.2.2",
+      "author": "christopher.dinardo",
+      "producer": "Acrobat Distiller 24.0 (Windows)",
+      "title": "fpv.indd"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ILLINOIS COMPILED STATUTES CHAPTER 5. GENERAL ...",
+   "htmlTitle": "<b>ILLINOIS COMPILED STATUTES</b> CHAPTER 5. GENERAL ...",
+   "link": "https://www.nationalnotary.org/file%20library/nna/reference-library/state-law-summaries/illinois.pdf",
+   "displayLink": "www.nationalnotary.org",
+   "snippet": "driver's license or Illinois Identification Card and such signature shall be deemed to be the ... retention period. Liquidation or other cessation of\u00a0...",
+   "htmlSnippet": "<b>driver&#39;s license</b> or Illinois <b>Identification Card</b> and such signature shall be deemed to be the ... <b>retention</b> period. Liquidation or other cessation of&nbsp;...",
+   "formattedUrl": "https://www.nationalnotary.org/file%20library/nna/reference.../illinois.pdf",
+   "htmlFormattedUrl": "https://www.nationalnotary.org/file%20library/nna/reference.../illinois.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20241212090328-08'00'",
+      "creator": "Microsoft\u00ae Word for Microsoft 365",
+      "creationdate": "D:20241212090328-08'00'",
+      "author": "Bill Anderson",
+      "producer": "Microsoft\u00ae Word for Microsoft 365"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Navigating E-Verify: State-by-State Mandates - Employer Services ...",
+   "htmlTitle": "Navigating E-<b>Verify</b>: State-by-State Mandates - Employer Services ...",
+   "link": "https://www.experian.com/blogs/employer-services/e-verify-state-by-state-mandates/",
+   "displayLink": "www.experian.com",
+   "snippet": "Nov 11, 2024 ... Verification: Employers can use the E-Verify system to input ... driver's license information is incorrect. Final nonconfirmation: The\u00a0...",
+   "htmlSnippet": "Nov 11, 2024 <b>...</b> <b>Verification</b>: Employers can use the E-<b>Verify</b> system to input ... <b>driver&#39;s license</b> information is incorrect. Final nonconfirmation: The&nbsp;...",
+   "formattedUrl": "https://www.experian.com/blogs/employer.../e-verify-state-by-state-mandat...",
+   "htmlFormattedUrl": "https://www.experian.com/blogs/employer.../e-<b>verify</b>-state-by-state-mandat...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-ItuZn-FtegiMC_0MxZhKsJJbTjodr3b60uieJ5z7lDKNCgqank_ohII&s",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.experian.com/blogs/employer-services/wp-content/uploads/2022/08/GettyImages-571065895-450x300.jpeg",
+      "og:type": "article",
+      "article:published_time": "2024-11-11T18:02:34+00:00",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Employer Services Insights",
+      "author": "Gordon Middleton",
+      "og:title": "Navigating E-Verify: State-by-State Mandates - Employer Services Insights",
+      "twitter:label1": "Written by",
+      "twitter:label2": "Est. reading time",
+      "og:description": "Comprehensive guide to navigating state-by-state E-Verify mandates. Stay compliant and streamline your hiring process with state-specific requirements.",
+      "twitter:data1": "Gordon Middleton",
+      "twitter:data2": "7 minutes",
+      "article:modified_time": "2024-11-22T17:02:38+00:00",
+      "viewport": "width=device-width, initial-scale=1.0, user-scalable=no",
+      "og:locale": "en_US",
+      "og:url": "https://www.experian.com/blogs/employer-services/e-verify-state-by-state-mandates/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.experian.com/blogs/employer-services/wp-content/uploads/2022/08/GettyImages-571065895-450x300.jpeg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "instruction sheet - private security contractor",
+   "htmlTitle": "instruction sheet - private security contractor",
+   "link": "https://idfpr.illinois.gov/content/dam/soi/en/web/idfpr/renewals/apply/forms/psc-ex.pdf",
+   "displayLink": "idfpr.illinois.gov",
+   "snippet": "Oct 17, 2024 ... The Illinois State Police will transmit ... scanning the fingerprints to include your driver's license or other government issued ID.",
+   "htmlSnippet": "Oct 17, 2024 <b>...</b> The Illinois State Police will <b>transmit</b> ... <b>scanning</b> the fingerprints to include your <b>driver&#39;s license</b> or other government issued ID.",
+   "formattedUrl": "https://idfpr.illinois.gov/content/dam/soi/en/web/idfpr/.../psc-ex.pdf",
+   "htmlFormattedUrl": "https://idfpr.illinois.gov/content/dam/soi/en/web/idfpr/.../psc-ex.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20241017091043-05'00'",
+      "creationdate": "D:20241017091043-05'00'",
+      "creator": "PScript5.dll Version 5.2.2",
+      "author": "christopher.dinardo",
+      "producer": "Acrobat Distiller 24.0 (Windows)",
+      "title": "psc-ex.indd"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Victim's Services | Rock Island County, IL",
+   "htmlTitle": "Victim&#39;s Services | Rock Island County, IL",
+   "link": "https://www.rockislandcountyil.gov/362/Victims-Services",
+   "displayLink": "www.rockislandcountyil.gov",
+   "snippet": "Verify ... Verify the check writer's identity at the time the check is written by checking their valid driver's license or identification card and comparing the\u00a0...",
+   "htmlSnippet": "<b>Verify</b> ... <b>Verify</b> the check writer&#39;s identity at the time the check is written by checking their valid <b>driver&#39;s license</b> or <b>identification card</b> and comparing the&nbsp;...",
+   "formattedUrl": "https://www.rockislandcountyil.gov/362/Victims-Services",
+   "htmlFormattedUrl": "https://www.rockislandcountyil.gov/362/Victims-Services",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2BSwPhYHrdhdfZYUlWUnsqi9YalKdRRaTeB3s7MOdtbnkEu-ZMQu27Rzu&s",
+      "width": "385",
+      "height": "131"
+     }
+    ],
+    "metatags": [
+     {
+      "category2": "J through Z",
+      "category3": "State's Attorney",
+      "category4": "Victim's Services",
+      "theme-color": "#0053a1",
+      "viewport": "width=device-width, initial-scale=1",
+      "category0": "Home",
+      "category1": "Departments"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.rockislandcountyil.gov/ImageRepository/Document?documentID=74"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Guide to Understanding Criminal History Record Check Information",
+   "htmlTitle": "Guide to Understanding Criminal History Record Check Information",
+   "link": "https://dph.illinois.gov/content/dam/soi/en/web/idph/files/forms/background-check-guide-071817.pdf",
+   "displayLink": "dph.illinois.gov",
+   "snippet": "commercial live scan fingerprinting vendor is used to transmit the fingerprint submissions to the ISP. If a live scan vendor is used, payment can be made to the.",
+   "htmlSnippet": "commercial live <b>scan</b> fingerprinting vendor is used to <b>transmit</b> the fingerprint submissions to the ISP. If a live <b>scan</b> vendor is used, payment can be made to the.",
+   "formattedUrl": "https://dph.illinois.gov/content/.../background-check-guide-071817.pdf",
+   "htmlFormattedUrl": "https://dph.illinois.gov/content/.../background-check-guide-071817.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRlgXLedd_KFsQhRF5ui4XWA2VqOLgRV4Zq_rEo6vL4R17XxVlg1Ytnoif&s",
+      "width": "239",
+      "height": "211"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20211007192541Z",
+      "creationdate": "D:20110809174723Z",
+      "creator": "Acrobat PDFMaker 10.1 for Word",
+      "sourcemodified": "D:20110809174631",
+      "author": "westmom",
+      "producer": "Adobe PDF Library 10.0",
+      "company": "Illinois Stae Police",
+      "title": "Illinois State Police Background Check Guide"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///9c44e4fcb886b508a9b65026c7ae57af58f0880e58b4f629d46c5bfa35c39f53"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

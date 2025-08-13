@@ -1,0 +1,424 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Delaware Code\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\" -\"apply\" -\"application\"",
+    "totalResults": "25",
+    "searchTerms": "\"Delaware Code\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\" -\"apply\" -\"application\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Delaware Code\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\" -\"apply\" -\"application\"",
+    "totalResults": "25",
+    "searchTerms": "\"Delaware Code\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\" -\"apply\" -\"application\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.184909,
+  "formattedSearchTime": "0.18",
+  "totalResults": "25",
+  "formattedTotalResults": "25"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Legislation Document",
+   "htmlTitle": "Legislation Document",
+   "link": "https://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=141462&legislationTypeId=1&docTypeId=2&legislationName=HB416",
+   "displayLink": "legis.delaware.gov",
+   "snippet": "\u2014 All persons operating a low-speed vehicle on the highways of this State shall hold a valid driver's license. ... verification. Upon registration and\u00a0...",
+   "htmlSnippet": "\u2014 All persons operating a low-speed vehicle on the highways of this State shall hold a valid <b>driver&#39;s license</b>. ... <b>verification</b>. Upon registration and&nbsp;...",
+   "formattedUrl": "https://legis.delaware.gov/json/.../GenerateHtmlDocument?...1...2...",
+   "htmlFormattedUrl": "https://legis.delaware.gov/json/.../GenerateHtmlDocument?...1...2...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOHbmQEJh3aMtKbuaEiPH__HE66cCLRhHM30Y2AujrSSlLrWyQwMNT6w&s",
+      "width": "105",
+      "height": "100"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://legis.delaware.gov/Content/images/embedded/image002.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "department of health and social services",
+   "htmlTitle": "department of health and social services",
+   "link": "https://regulations.delaware.gov/register/february2013/final/16%20DE%20Reg%20874%2002-01-13.htm",
+   "displayLink": "regulations.delaware.gov",
+   "snippet": "Feb 10, 2013 ... Therefore, DSS proposes deletion of the requirement of issuance of the identification card. The percentage of the population that is on food\u00a0...",
+   "htmlSnippet": "Feb 10, 2013 <b>...</b> Therefore, DSS proposes <b>deletion</b> of the requirement of issuance of the <b>identification card</b>. The percentage of the population that is on food&nbsp;...",
+   "formattedUrl": "https://regulations.delaware.gov/.../16%20DE%20Reg%20874%2002-01-1...",
+   "htmlFormattedUrl": "https://regulations.delaware.gov/.../16%20DE%20Reg%20874%2002-01-1...",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "VOTER REGISTRATION FAQS",
+   "htmlTitle": "VOTER REGISTRATION FAQS",
+   "link": "https://elections.delaware.gov/voter/pdfs/VoterRegistrationFAQs.pdf",
+   "displayLink": "elections.delaware.gov",
+   "snippet": "32 states and District of Columbia that securely share information regarding individuals who have registered to vote or to obtain a driver's license or state ID\u00a0...",
+   "htmlSnippet": "32 states and District of Columbia that securely <b>share</b> information regarding individuals who have registered to vote or to obtain a <b>driver&#39;s license</b> or state ID&nbsp;...",
+   "formattedUrl": "https://elections.delaware.gov/voter/pdfs/VoterRegistrationFAQs.pdf",
+   "htmlFormattedUrl": "https://elections.delaware.gov/voter/pdfs/VoterRegistrationFAQs.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDCuQFklEsC8aSDd1O5fq5zo20EF3PKLs3-LlvhhSPWbZuQKApqob5Ez0&s",
+      "width": "220",
+      "height": "229"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20230303121231-05'00'",
+      "creationdate": "D:20230303121231-05'00'",
+      "author": "Cathleen.Carter",
+      "producer": "Microsoft: Print To PDF",
+      "title": "Microsoft PowerPoint - Voter Registration FAQs"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///d350cd7813e9b616a8ba1913e7fe79c2e89d3dfe60f5b85386e192ece6b389cc"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "21 Delaware Code \u00a7 2626 (2024) - CDL medical certification ...",
+   "htmlTitle": "21 <b>Delaware Code</b> \u00a7 2626 (2024) - CDL medical certification ...",
+   "link": "https://law.justia.com/codes/delaware/title-21/chapter-26/section-2626/",
+   "displayLink": "law.justia.com",
+   "snippet": "2024 Delaware Code Title 21 - Motor Vehicles Chapter 26. UNIFORM COMMERCIAL DRIVER LICENSE ACT \u00a7 2626. CDL medical certification requirements. Universal\u00a0...",
+   "htmlSnippet": "2024 <b>Delaware Code</b> Title 21 - Motor Vehicles Chapter 26. UNIFORM COMMERCIAL <b>DRIVER LICENSE</b> ACT \u00a7 2626. CDL medical certification requirements. Universal&nbsp;...",
+   "formattedUrl": "https://law.justia.com/codes/delaware/title-21/chapter-26/section-2626/",
+   "htmlFormattedUrl": "https://law.justia.com/codes/delaware/title-21/chapter-26/section-2626/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUsEXFeYBuAPfcBBVPIyUzrZ_CJMY-G1UQkbVgeLAo7QKw91U8LPjTVlwN&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://justatic.com/v/20250617153813/shared/images/social-media/law.jpg",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "og:site_name": "Justia Law",
+      "og:title": "2024 Delaware Code :: Title 21 - Motor Vehicles :: Chapter 26. UNIFORM COMMERCIAL DRIVER LICENSE ACT :: &sect; 2626. CDL medical certification requirements.",
+      "og:app_id": "119529808075661",
+      "trigger-ga": "1",
+      "og:description": "Justia Free Databases of U.S. Laws, Codes & Statutes",
+      "og:admins": "656268335,686786921,25900864",
+      "referrer": "unsafe-url",
+      "twitter:site": "@JustiaCom",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "page-type": "Law: Codes Document Page (Current Year)",
+      "is-li": "0",
+      "og:url": "https://law.justia.com/codes/delaware/title-21/chapter-26/section-2626/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://justatic.com/v/20250617153813/shared/images/social-media/law.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Bill Text: DE SB46 | 2025-2026 | 153rd General Assembly | Draft ...",
+   "htmlTitle": "Bill Text: DE SB46 | 2025-2026 | 153rd General Assembly | Draft ...",
+   "link": "https://legiscan.com/DE/text/SB46/id/3063063",
+   "displayLink": "legiscan.com",
+   "snippet": "... driver license that is valid for the vehicle being driven. Section 2. Amend Chapter 41, Title 21 of the Delaware Code by making deletions as shown by strike\u00a0...",
+   "htmlSnippet": "... <b>driver license</b> that is valid for the vehicle being driven. Section 2. Amend Chapter 41, Title 21 of the <b>Delaware Code</b> by making deletions as shown by strike&nbsp;...",
+   "formattedUrl": "https://legiscan.com/DE/text/SB46/id/3063063",
+   "htmlFormattedUrl": "https://legi<b>scan</b>.com/DE/text/SB46/id/3063063",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNHoMDMLlw-6Rym0vQ_2fLAuGOSEIUM7kfXxyxX7YR121bLjATyWMlKPI&s",
+      "width": "200",
+      "height": "200"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://acme.legiscan.com/images/legiscan_opengraph_200x200.png",
+      "og:type": "Article",
+      "og:image:width": "200",
+      "fb:profile_id": "454937694543893",
+      "twitter:card": "summary",
+      "twitter:title": "Delaware SB46 | 2025-2026 | 153rd General Assembly",
+      "og:site_name": "LegiScan",
+      "twitter:url": "https://legiscan.com/DE/text/SB46/id/3063063",
+      "og:title": "Delaware SB46 | 2025-2026 | 153rd General Assembly",
+      "og:image:height": "200",
+      "og:image:type": "image/png",
+      "og:description": "Bill Text (2025-05-14) An Act To Amend Title 21 Of The Delaware Code Relating To Autonomous Vehicles. [Reported Out of Committee (Transportation) in House with 1 Favorable, 5 On Its Merits]",
+      "twitter:creator": "@LegiScanDE",
+      "twitter:image": "https://acme.legiscan.com/images/legiscan_twittercard.png",
+      "fb:app_id": "113560478825038",
+      "twitter:site": "@LegiScan",
+      "twitter:description": "Bill Text (2025-05-14) An Act To Amend Title 21 Of The Delaware Code Relating To Autonomous Vehicles. [Reported Out of Committee (Transportation) in House with 1 Favorable, 5 On Its Merits]",
+      "og:url": "https://legiscan.com/DE/text/SB46/id/3063063"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://acme.legiscan.com/images/legiscan_opengraph_200x200.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Delaware ID Scanning Laws - Guest Ban | ID Scanning for Hospitality",
+   "htmlTitle": "Delaware ID <b>Scanning</b> Laws - Guest Ban | ID <b>Scanning</b> for Hospitality",
+   "link": "https://guestban.com/id-scanning-laws/delaware-id-scanning-laws/",
+   "displayLink": "guestban.com",
+   "snippet": "According to the Delaware Code Title 4, Chapter 9, it's illegal to sell ... Can hotels in Delaware use ID scanning for age verification for alcohol sales?",
+   "htmlSnippet": "According to the <b>Delaware Code</b> Title 4, Chapter 9, it&#39;s illegal to <b>sell</b> ... Can hotels in Delaware use ID <b>scanning</b> for age <b>verification</b> for alcohol sales?",
+   "formattedUrl": "https://guestban.com/id-scanning-laws/delaware-id-scanning-laws/",
+   "htmlFormattedUrl": "https://guestban.com/id-<b>scanning</b>-laws/delaware-id-<b>scanning</b>-laws/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc2iLi0eQs--SrPT2tq-h--IRkGoTZ-hWbBvmSczAHXdcaPsBaQ31UyttN&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://guestban.com/wp-content/uploads/2023/08/static-shot-over-highways-and-downtown-city-skyline-wilmington-delaware.jpg",
+      "og:type": "article",
+      "og:image:width": "2000",
+      "og:image:alt": "Static Shot Over Highways and Downtown City Skyline Wilmington Delaware",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Delaware ID Scanning Laws - Guest Ban | ID Scanning for Hospitality",
+      "og:site_name": "Guest Ban ID Scanning",
+      "og:title": "Delaware ID Scanning Laws - Guest Ban | ID Scanning for Hospitality",
+      "og:image:height": "1124",
+      "twitter:label1": "Time to read",
+      "og:image:type": "image/jpeg",
+      "og:updated_time": "2025-02-11T19:11:41-08:00",
+      "msapplication-tileimage": "https://guestban.com/wp-content/uploads/2021/12/cropped-app-min-270x270.jpg",
+      "og:description": "Understand the laws and regulations of ID scanning in Delaware. Learn about the legalities, how and when you can scan IDs, and more.",
+      "twitter:creator": "@guest_ban",
+      "article:publisher": "https://www.facebook.com/guestbanhospitality",
+      "og:image:secure_url": "https://guestban.com/wp-content/uploads/2023/08/static-shot-over-highways-and-downtown-city-skyline-wilmington-delaware.jpg",
+      "twitter:image": "https://guestban.com/wp-content/uploads/2023/08/static-shot-over-highways-and-downtown-city-skyline-wilmington-delaware.jpg",
+      "twitter:data1": "4 minutes",
+      "twitter:site": "@guest_ban",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Understand the laws and regulations of ID scanning in Delaware. Learn about the legalities, how and when you can scan IDs, and more.",
+      "og:locale": "en_US",
+      "og:url": "https://guestban.com/id-scanning-laws/delaware-id-scanning-laws/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://guestban.com/wp-content/uploads/2023/08/static-shot-over-highways-and-downtown-city-skyline-wilmington-delaware.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CITY OF DELAWARE CITY DELAWARE CITY, DELAWARE ...",
+   "htmlTitle": "CITY OF DELAWARE CITY DELAWARE CITY, DELAWARE ...",
+   "link": "https://www.delawarecity.org/mayor-council/files/21-0920-01-proposed-ordinance-re-allowing-low-speed-vehicles-and-golf-carts",
+   "displayLink": "www.delawarecity.org",
+   "snippet": "(f) Low-speed vehicle insurance requirements. All LSVs shall be required to maintain insurance as required by \u00a72118 of Title 21 of the Delaware Code. All LSV\u00a0...",
+   "htmlSnippet": "(f) Low-speed vehicle insurance requirements. All LSVs shall be required to <b>maintain</b> insurance as required by \u00a72118 of Title 21 of the <b>Delaware Code</b>. All LSV&nbsp;...",
+   "formattedUrl": "https://www.delawarecity.org/.../21-0920-01-proposed-ordinance-re-allowi...",
+   "htmlFormattedUrl": "https://www.delawarecity.org/.../21-0920-01-proposed-ordinance-re-allowi...",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20210920173221-04'00'",
+      "creator": "Microsoft\u00ae Word 2010",
+      "creationdate": "D:20210920173221-04'00'",
+      "author": "Jon Layton",
+      "producer": "Microsoft\u00ae Word 2010"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Bill Text: CA AB728 | 2025-2026 | Regular Session | Introduced ...",
+   "htmlTitle": "Bill Text: CA AB728 | 2025-2026 | Regular Session | Introduced ...",
+   "link": "https://legiscan.com/CA/text/AB728/id/3129344",
+   "displayLink": "legiscan.com",
+   "snippet": "Feb 18, 2025 ... ... verify the purchaser's age. (b) Based upon these examples, there ... (a) It shall be unlawful for a person, firm, or corporation to sell\u00a0...",
+   "htmlSnippet": "Feb 18, 2025 <b>...</b> ... <b>verify</b> the purchaser&#39;s age. (b) Based upon these examples, there ... (a) It shall be unlawful for a person, firm, or corporation to <b>sell</b>&nbsp;...",
+   "formattedUrl": "https://legiscan.com/CA/text/AB728/id/3129344",
+   "htmlFormattedUrl": "https://legi<b>scan</b>.com/CA/text/AB728/id/3129344",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNHoMDMLlw-6Rym0vQ_2fLAuGOSEIUM7kfXxyxX7YR121bLjATyWMlKPI&s",
+      "width": "200",
+      "height": "200"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://acme.legiscan.com/images/legiscan_opengraph_200x200.png",
+      "og:type": "Article",
+      "og:image:width": "200",
+      "fb:profile_id": "454937694543893",
+      "twitter:card": "summary",
+      "twitter:title": "California AB728 | 2025-2026 | Regular Session",
+      "og:site_name": "LegiScan",
+      "twitter:url": "https://legiscan.com/CA/text/AB728/id/3129344",
+      "og:title": "California AB728 | 2025-2026 | Regular Session",
+      "og:image:height": "200",
+      "og:image:type": "image/png",
+      "og:description": "Bill Text (2025-05-23) Skin care product sales: age verification. [In committee: Held under submission.]",
+      "twitter:creator": "@LegiScanCA",
+      "twitter:image": "https://acme.legiscan.com/images/legiscan_twittercard.png",
+      "fb:app_id": "113560478825038",
+      "twitter:site": "@LegiScan",
+      "twitter:description": "Bill Text (2025-05-23) Skin care product sales: age verification. [In committee: Held under submission.]",
+      "og:url": "https://legiscan.com/CA/text/AB728/id/3129344"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://acme.legiscan.com/images/legiscan_opengraph_200x200.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Delaware Code Title 21. Motor Vehicles \u00a7 2626 | FindLaw",
+   "htmlTitle": "<b>Delaware Code</b> Title 21. Motor Vehicles \u00a7 2626 | FindLaw",
+   "link": "https://codes.findlaw.com/de/title-21-motor-vehicles/de-code-sect-21-2626",
+   "displayLink": "codes.findlaw.com",
+   "snippet": "--(1) The Division must verify the driver has self-certified as a nonexcepted interstate commerce operator. ... driver license issued by the United Mexican\u00a0...",
+   "htmlSnippet": "--(1) The Division must <b>verify</b> the driver has self-certified as a nonexcepted interstate commerce operator. ... <b>driver license</b> issued by the United Mexican&nbsp;...",
+   "formattedUrl": "https://codes.findlaw.com/de/title-21-motor.../de-code-sect-21-2626",
+   "htmlFormattedUrl": "https://codes.findlaw.com/de/title-21-motor.../de-code-sect-21-2626",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuWtKEZ0kzYj6NSuZlgNrAF5XcYIi9XgsiqHcAgQHtxY18xcWZ1bDMaCM&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png",
+      "og:type": "article",
+      "og:site_name": "Findlaw",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Delaware Code Title 21. Motor Vehicles \u00a7 2626 | FindLaw",
+      "apple-mobile-web-app-title": "FindLaw",
+      "og:url": "https://codes.findlaw.com/de/title-21-motor-vehicles/de-code-sect-21-2626/",
+      "og:description": "Delaware Title 21. Motor Vehicles   Section 2626. Read the code on FindLaw"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Bill Text: DE SB174 | 2025-2026 | 153rd General Assembly ...",
+   "htmlTitle": "Bill Text: DE SB174 | 2025-2026 | 153rd General Assembly ...",
+   "link": "https://legiscan.com/DE/text/SB174/id/3259965",
+   "displayLink": "legiscan.com",
+   "snippet": "Jun 30, 2025 ... ... DE SB174 (Text) An Act To Amend Title 11 And Title 16 Of The Delaware Code Relating To An Animal Abuse Offender List ... store's\u00a0...",
+   "htmlSnippet": "Jun 30, 2025 <b>...</b> ... DE SB174 (Text) An Act To Amend Title 11 And Title 16 Of The <b>Delaware Code</b> Relating To An Animal Abuse Offender List ... <b>store&#39;s</b>&nbsp;...",
+   "formattedUrl": "https://legiscan.com/DE/text/SB174/id/3259965",
+   "htmlFormattedUrl": "https://legi<b>scan</b>.com/DE/text/SB174/id/3259965",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNHoMDMLlw-6Rym0vQ_2fLAuGOSEIUM7kfXxyxX7YR121bLjATyWMlKPI&s",
+      "width": "200",
+      "height": "200"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://acme.legiscan.com/images/legiscan_opengraph_200x200.png",
+      "og:type": "Article",
+      "og:image:width": "200",
+      "fb:profile_id": "454937694543893",
+      "twitter:card": "summary",
+      "twitter:title": "Delaware SB174 | 2025-2026 | 153rd General Assembly",
+      "og:site_name": "LegiScan",
+      "twitter:url": "https://legiscan.com/DE/text/SB174/id/3259965",
+      "og:title": "Delaware SB174 | 2025-2026 | 153rd General Assembly",
+      "og:image:height": "200",
+      "og:image:type": "image/png",
+      "og:description": "Bill Text (2025-06-30) An Act To Amend Title 11 And Title 16 Of The Delaware Code Relating To An Animal Abuse Offender List. [Passed By Senate. Votes: 15 YES 6 NO]",
+      "twitter:creator": "@LegiScanDE",
+      "twitter:image": "https://acme.legiscan.com/images/legiscan_twittercard.png",
+      "fb:app_id": "113560478825038",
+      "twitter:site": "@LegiScan",
+      "twitter:description": "Bill Text (2025-06-30) An Act To Amend Title 11 And Title 16 Of The Delaware Code Relating To An Animal Abuse Offender List. [Passed By Senate. Votes: 15 YES 6 NO]",
+      "og:url": "https://legiscan.com/DE/text/SB174/id/3259965"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://acme.legiscan.com/images/legiscan_opengraph_200x200.png"
+     }
+    ]
+   }
+  }
+ ]
+}

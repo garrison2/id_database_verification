@@ -1,0 +1,337 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Utah Code\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "totalResults": "11400",
+    "searchTerms": "\"Utah Code\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Utah Code\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "totalResults": "11400",
+    "searchTerms": "\"Utah Code\" \"driver's license\" OR \"identification card\" OR \"driver license\" \"scan\" OR \"scanning\" OR \"swipe\" OR \"swiping\" OR \"verify\" OR \"verification\" \"retain\" OR \"retention\" OR \"delete\" OR \"deletion\" OR \"compile\" OR \"maintain\" OR \"sell\" OR \"store\" OR \"share\" OR \"transmit\" OR \"transmission\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.201711,
+  "formattedSearchTime": "0.20",
+  "totalResults": "11400",
+  "formattedTotalResults": "11,400"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Utah Code Section 53-3-104",
+   "htmlTitle": "<b>Utah Code</b> Section 53-3-104",
+   "link": "https://le.utah.gov/xcode/Title53/Chapter3/53-3-S104.html",
+   "displayLink": "le.utah.gov",
+   "snippet": "Index, Utah Code ; Title 53, Public Safety Code ; Chapter 3, Uniform Driver License Act ; Part 1, Driver License Division Administration ; Section 104, Division\u00a0...",
+   "htmlSnippet": "Index, <b>Utah Code</b> ; Title 53, Public Safety Code ; Chapter 3, Uniform <b>Driver License</b> Act ; Part 1, <b>Driver License</b> Division Administration ; Section 104, Division&nbsp;...",
+   "formattedUrl": "https://le.utah.gov/xcode/Title53/Chapter3/53-3-S104.html",
+   "htmlFormattedUrl": "https://le.utah.gov/xcode/Title53/Chapter3/53-3-S104.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Vehicle Insurance Requirements - DMV",
+   "htmlTitle": "Vehicle Insurance Requirements - DMV",
+   "link": "https://dmv.utah.gov/register/insurance/",
+   "displayLink": "dmv.utah.gov",
+   "snippet": "Under such circumstances, a non-resident owner must maintain no-fault insurance while the vehicle remains in the state. ... Insurance Verification. The law\u00a0...",
+   "htmlSnippet": "Under such circumstances, a non-resident owner must <b>maintain</b> no-fault insurance while the vehicle remains in the state. ... Insurance <b>Verification</b>. The law&nbsp;...",
+   "formattedUrl": "https://dmv.utah.gov/register/insurance/",
+   "htmlFormattedUrl": "https://dmv.utah.gov/register/insurance/",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "DMV",
+      "article:modified_time": "2025-08-11T19:58:04+00:00",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Vehicle Insurance Requirements - DMV",
+      "og:locale": "en_US",
+      "twitter:label1": "Est. reading time",
+      "og:url": "https://dmv.utah.gov/register/insurance/",
+      "og:description": "Online ServicesDMV HomeRegister and Renew OverviewVehicle Insurance RequirementsVehicle Insurance RequirementsVehicle Insurance Requirements FAQGeneral Information Per Utah Code Ann. \u00a731A-22-302, a current policy of insurance that includes No-Fault, bodily injury, and property damage liability coverage must be maintained on all vehicles throughout the vehicle\u2019s registration period in the following circumstances: The owner/operator is a Utah resident. The owner/operator is a non-resident ... Read More",
+      "twitter:data1": "7 minutes"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "Home",
+      "name": "Home",
+      "position": "1"
+     },
+     {
+      "item": "Register and Renew Overview",
+      "name": "Register and Renew Overview",
+      "position": "2"
+     },
+     {
+      "item": "Vehicle Insurance Requirements",
+      "name": "Vehicle Insurance Requirements",
+      "position": "3"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ignition Interlock Device | Utah Driver License Division",
+   "htmlTitle": "Ignition Interlock Device | Utah <b>Driver License</b> Division",
+   "link": "https://dld.utah.gov/iid/",
+   "displayLink": "dld.utah.gov",
+   "snippet": "All restricted drivers will need to have this completed by October 31, 2024 to maintain compliance with the updated rules. ... IID Offense Types with Utah Code.",
+   "htmlSnippet": "All restricted drivers will need to have this completed by October 31, 2024 to <b>maintain</b> compliance with the updated rules. ... IID Offense Types with <b>Utah Code</b>.",
+   "formattedUrl": "https://dld.utah.gov/iid/",
+   "htmlFormattedUrl": "https://dld.utah.gov/iid/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-tileimage": "https://dld.utah.gov/wp-content/uploads/cropped-DLD-fav-icon-270x270.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Utah Code Part 41-6a-5",
+   "htmlTitle": "<b>Utah Code</b> Part 41-6a-5",
+   "link": "https://le.utah.gov/xcode/Title41/Chapter6A/41-6a-P5.html",
+   "displayLink": "le.utah.gov",
+   "snippet": "Driver license suspension or revocation for a driving under the influence violation. ... Acceptance of plea of guilty to DUI -- Restrictions -- Verification\u00a0...",
+   "htmlSnippet": "<b>Driver license</b> suspension or revocation for a driving under the influence violation. ... Acceptance of plea of guilty to DUI -- Restrictions -- <b>Verification</b>&nbsp;...",
+   "formattedUrl": "https://le.utah.gov/xcode/Title41/Chapter6A/41-6a-P5.html",
+   "htmlFormattedUrl": "https://le.utah.gov/xcode/Title41/Chapter6A/41-6a-P5.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Services for Registered Users | Utah.gov",
+   "htmlTitle": "Services for Registered Users | Utah.gov",
+   "link": "https://www.utah.gov/registration/onlineservices.html",
+   "displayLink": "www.utah.gov",
+   "snippet": "... Utah Code Section 7-1-103. Complete the Release of Private and Protected Driver License Records form and submit it to the Department of Public Safety/Driver\u00a0...",
+   "htmlSnippet": "... <b>Utah Code</b> Section 7-1-103. Complete the Release of Private and Protected <b>Driver License</b> Records form and submit it to the Department of Public Safety/<b>Driver</b>&nbsp;...",
+   "formattedUrl": "https://www.utah.gov/registration/onlineservices.html",
+   "htmlFormattedUrl": "https://www.utah.gov/registration/onlineservices.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#175264",
+      "og:image": "/img/deviceIcons/apple-icon-152x152.png",
+      "theme-color": "#175264",
+      "viewport": "width=device-width,initial-scale=1",
+      "og:title": "Services for Registered Users | Utah.gov",
+      "msapplication-tileimage": "../img/deviceIcons/ms-icon-144x144.png",
+      "og:description": "The Official Website of the State of Utah"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "/img/deviceIcons/apple-icon-152x152.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Table 14: How States Verify Voted Absentee/Mail Ballots",
+   "htmlTitle": "Table 14: How States <b>Verify</b> Voted Absentee/Mail Ballots",
+   "link": "https://www.ncsl.org/elections-and-campaigns/table-14-how-states-verify-voted-absentee-mail-ballots",
+   "displayLink": "www.ncsl.org",
+   "snippet": "A voter must also provide the number of their driver's license or identification card. ... All personnel assigned to verify signatures must receive training on\u00a0...",
+   "htmlSnippet": "A voter must also provide the number of their <b>driver&#39;s license</b> or <b>identification card</b>. ... All personnel assigned to <b>verify</b> signatures must receive training on&nbsp;...",
+   "formattedUrl": "https://www.ncsl.org/.../table-14-how-states-verify-voted-absentee-mail-ball...",
+   "htmlFormattedUrl": "https://www.ncsl.org/.../table-14-how-states-<b>verify</b>-voted-absentee-mail-ball...",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "facebook-domain-verification": "d01vcrcofyvil47w3ksyhcvlcgb2eg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Utah Code \u00a7 53-3-205.5 (2024) - Fingerprint and photograph ...",
+   "htmlTitle": "<b>Utah Code</b> \u00a7 53-3-205.5 (2024) - Fingerprint and photograph ...",
+   "link": "https://law.justia.com/codes/utah/title-53/chapter-3/part-2/section-205-5/",
+   "displayLink": "law.justia.com",
+   "snippet": "2024 Utah Code Title 53 - Public Safety Code Chapter 3 - Uniform Driver License Act Part 2 - Driver Licensing Act Section 205.5 - Fingerprint and photograph\u00a0...",
+   "htmlSnippet": "2024 <b>Utah Code</b> Title 53 - Public Safety Code Chapter 3 - Uniform <b>Driver License</b> Act Part 2 - Driver Licensing Act Section 205.5 - Fingerprint and photograph&nbsp;...",
+   "formattedUrl": "https://law.justia.com/codes/utah/title-53/chapter-3/part-2/section-205-5/",
+   "htmlFormattedUrl": "https://law.justia.com/codes/utah/title-53/chapter-3/part-2/section-205-5/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPP2ksOfM4IyWL7PTxPyS5N80Or-jyXZZLgeH1kYuOtXk5YU597YCxGszS&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "og:site_name": "Justia Law",
+      "og:title": "2024 Utah Code :: Title 53 - Public Safety Code :: Chapter 3 - Uniform Driver License Act :: Part 2 - Driver Licensing Act :: Section 205.5 - Fingerprint and photograph submission requirements for driving privilege card applicants and cardholders -- Approved private fingerprint vendor requests -- Division approval of a vendor.",
+      "og:app_id": "119529808075661",
+      "trigger-ga": "1",
+      "og:description": "Justia Free Databases of U.S. Laws, Codes & Statutes",
+      "og:admins": "656268335,686786921,25900864",
+      "referrer": "unsafe-url",
+      "twitter:site": "@JustiaCom",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "page-type": "Law: Codes Document Page (Current Year)",
+      "is-li": "0",
+      "og:url": "https://law.justia.com/codes/utah/title-53/chapter-3/part-2/section-205-5/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://justatic.com/v/20250805080524/shared/images/social-media/law.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "845P - State of Utah Office of Recovery Services",
+   "htmlTitle": "845P - State of Utah Office of Recovery Services",
+   "link": "https://ors.utah.gov/child-support/public-policy/845p/",
+   "displayLink": "ors.utah.gov",
+   "snippet": "Utah Code 26B-9-502: \u201c(2) Before ordering a suspension of a person's driver license, the office shall serve the person with a \"notice of\u00a0...",
+   "htmlSnippet": "<b>Utah Code</b> 26B-9-502: \u201c(2) Before ordering a suspension of a person&#39;s <b>driver license</b>, the office shall serve the person with a &quot;notice of&nbsp;...",
+   "formattedUrl": "https://ors.utah.gov/child-support/public-policy/845p/",
+   "htmlFormattedUrl": "https://ors.utah.gov/child-support/public-policy/845p/",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "State of Utah Office of Recovery Services",
+      "article:modified_time": "2022-02-04T15:18:04+00:00",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "845P - State of Utah Office of Recovery Services",
+      "og:locale": "en_US",
+      "og:url": "https://ors.utah.gov/child-support/public-policy/845p/",
+      "msapplication-tileimage": "https://ors.utah.gov/wp-content/uploads/cropped-cropped-DHHS-favicon-white-270x270.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Residency Frequently Asked Questions | Admissions - The ...",
+   "htmlTitle": "Residency Frequently Asked Questions | Admissions - The ...",
+   "link": "https://admissions.utah.edu/information-resources/residency/helpful-residency-resources/residency-faqs/",
+   "displayLink": "admissions.utah.edu",
+   "snippet": "... store or an in-person class at the University of Utah for example. ... Do I need all 3 ties for the One Year Rule? (driver's license, voter and vehicle\u00a0...",
+   "htmlSnippet": "... <b>store</b> or an in-person class at the University of Utah for example. ... Do I need all 3 ties for the One Year Rule? (<b>driver&#39;s license</b>, voter and vehicle&nbsp;...",
+   "formattedUrl": "https://admissions.utah.edu/information-resources/.../residency-faqs/",
+   "htmlFormattedUrl": "https://admissions.utah.edu/information-resources/.../residency-faqs/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh5TR31OE6myQp0I8qKE52xWFPgk128iffokrgMdv9cVbXiXjCG2Pmiqc&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tilecolor": "#ffffff",
+      "og:image": "https://admissions.utah.edu/wp-content/themes/umctheme3/img/og-image-placeholder.jpg",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Residency Frequently Asked Questions - Utah Admissions",
+      "theme-color": "#ffffff",
+      "og:site_name": "Utah Admissions",
+      "og:title": "Residency Frequently Asked Questions - Utah Admissions",
+      "twitter:label1": "Est. reading time",
+      "msapplication-tileimage": "https://admissions.utah.edu/wp-content/uploads/sites/6/2025/07/cropped-BlockU_RGB-1-270x270.png",
+      "og:description": "Information & Resources Menu Residency FAQs Frequently Asked Questions about Residency for Tuition Purposes Find useful resources and answers to common questions for Utah residency...",
+      "twitter:image": "https://admissions.utah.edu/wp-content/themes/umctheme3/img/og-image-placeholder.jpg",
+      "twitter:data1": "30 minutes",
+      "article:modified_time": "2025-05-05T14:54:25+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "twitter:description": "Information & Resources Menu Residency FAQs Frequently Asked Questions about Residency for Tuition Purposes Find useful resources and answers to common questions for Utah residency...",
+      "og:locale": "en_US",
+      "og:url": "https://admissions.utah.edu/information-resources/residency/helpful-residency-resources/residency-faqs/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://admissions.utah.edu/wp-content/themes/umctheme3/img/og-image-placeholder.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "845P-1 - State of Utah Office of Recovery Services",
+   "htmlTitle": "845P-1 - State of Utah Office of Recovery Services",
+   "link": "https://ors.utah.gov/child-support/public-policy/845p-1/",
+   "displayLink": "ors.utah.gov",
+   "snippet": "... driver license. The criteria are defined in Utah Code Annotated ... Driver's License to the NCP to begin the driver's license suspension process; or,.",
+   "htmlSnippet": "... <b>driver license</b>. The criteria are defined in <b>Utah Code</b> Annotated ... <b>Driver&#39;s License</b> to the NCP to begin the <b>driver&#39;s license</b> suspension process; or,.",
+   "formattedUrl": "https://ors.utah.gov/child-support/public-policy/845p-1/",
+   "htmlFormattedUrl": "https://ors.utah.gov/child-support/public-policy/845p-1/",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "State of Utah Office of Recovery Services",
+      "article:modified_time": "2022-02-04T15:18:44+00:00",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "845P-1 - State of Utah Office of Recovery Services",
+      "og:locale": "en_US",
+      "og:url": "https://ors.utah.gov/child-support/public-policy/845p-1/",
+      "msapplication-tileimage": "https://ors.utah.gov/wp-content/uploads/cropped-cropped-DHHS-favicon-white-270x270.png"
+     }
+    ]
+   }
+  }
+ ]
+}

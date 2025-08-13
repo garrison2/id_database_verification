@@ -1,0 +1,567 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:play.google.com \"Alaska\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "55",
+    "searchTerms": "site:play.google.com \"Alaska\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:play.google.com \"Alaska\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "55",
+    "searchTerms": "site:play.google.com \"Alaska\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.159835,
+  "formattedSearchTime": "0.16",
+  "totalResults": "55",
+  "formattedTotalResults": "55"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Alaska Mobile ID - Apps on Google Play",
+   "htmlTitle": "<b>Alaska Mobile ID</b> - Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis.idv.ak.holder.prd&hl=en_US",
+   "displayLink": "play.google.com",
+   "snippet": "Feb 25, 2025 ... This app is for Alaska residents to obtain and use their Alaska Mobile ID. As with your physical driver license, please confirm anyone\u00a0...",
+   "htmlSnippet": "Feb 25, 2025 <b>...</b> This app is for <b>Alaska</b> residents to obtain and use their <b>Alaska Mobile ID</b>. As with your physical driver license, please confirm anyone&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis.idv.ak.holder.prd&rdid=com.thalesgroup.dis.idv.ak.holder.prd&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgOPSZkhLZRUztCe5pGb--3Mu8VQEpGJELqU8qCsu5syW6UJfFM3LS564&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/zTketRJeFwqpEn0gY9O_-wjaOE9pSHEAD0rP5V8Hxl1t7N5k-ng43AJ3upcOt6g7jC6Q",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Alaska Mobile ID - Apps on Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis.idv.ak.holder.prd&hl=en_US",
+      "appstore:developer_url": "about:invalid#navigation",
+      "og:title": "Alaska Mobile ID - Apps on Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/zTketRJeFwqpEn0gY9O_-wjaOE9pSHEAD0rP5V8Hxl1t7N5k-ng43AJ3upcOt6g7jC6Q=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.thalesgroup.dis.idv.ak.holder.prd",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.thalesgroup.dis.idv.ak.holder.prd",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "This app is for Alaska residents to obtain and use their Alaska Mobile ID.",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis.idv.ak.holder.prd&hl=en_US"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/zTketRJeFwqpEn0gY9O_-wjaOE9pSHEAD0rP5V8Hxl1t7N5k-ng43AJ3upcOt6g7jC6Q"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Alaska Mobile ID Verifier - Apps on Google Play",
+   "htmlTitle": "<b>Alaska Mobile ID</b> Verifier - Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis.idv.ak.verifier.prd&hl=en_US",
+   "displayLink": "play.google.com",
+   "snippet": "Mar 4, 2025 ... Citizens using an mDL or digital identification app, such as Alaska Mobile ID, can provide their proof of age or identity information in a\u00a0...",
+   "htmlSnippet": "Mar 4, 2025 <b>...</b> Citizens using an <b>mDL</b> or digital identification app, such as <b>Alaska Mobile ID</b>, can provide their proof of age or identity information in a&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis.idv.ak.verifier.prd&rdid=com.thalesgroup.dis.idv.ak.verifier.prd&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm3QhaKCIccHhGIb189IK9-mo4h-V4oX8M2jGYwX5DS2RoHyI3B9VzxTs&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/wJh2BYsJYjhvZoM3alllPH6Dspv1HDoygE2U3D6DOhgnL9BOFEjh6zK-gUkYn2pNYdA",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Alaska Mobile ID Verifier - Apps on Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis.idv.ak.verifier.prd&hl=en_US",
+      "appstore:developer_url": "about:invalid#navigation",
+      "og:title": "Alaska Mobile ID Verifier - Apps on Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/wJh2BYsJYjhvZoM3alllPH6Dspv1HDoygE2U3D6DOhgnL9BOFEjh6zK-gUkYn2pNYdA=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.thalesgroup.dis.idv.ak.verifier.prd",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.thalesgroup.dis.idv.ak.verifier.prd",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "This app is for Alaska businesses and organizations to verify Alaska Mobile IDs.",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis.idv.ak.verifier.prd&hl=en_US"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/wJh2BYsJYjhvZoM3alllPH6Dspv1HDoygE2U3D6DOhgnL9BOFEjh6zK-gUkYn2pNYdA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Alaska Mobile ID - Apps en Google Play",
+   "htmlTitle": "<b>Alaska Mobile ID</b> - Apps en Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis.idv.ak.holder.prd&hl=es_MX",
+   "displayLink": "play.google.com",
+   "snippet": "Feb 25, 2025 ... Utilice su Alaska Mobile ID con empresas y/o autoridades policiales que acepten licencias de conducir m\u00f3viles.",
+   "htmlSnippet": "Feb 25, 2025 <b>...</b> Utilice su <b>Alaska Mobile ID</b> con empresas y/o autoridades policiales que acepten licencias de conducir m\u00f3viles.",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis.idv.ak.holder.prd&rdid=com.thalesgroup.dis.idv.ak.holder.prd&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgOPSZkhLZRUztCe5pGb--3Mu8VQEpGJELqU8qCsu5syW6UJfFM3LS564&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/zTketRJeFwqpEn0gY9O_-wjaOE9pSHEAD0rP5V8Hxl1t7N5k-ng43AJ3upcOt6g7jC6Q",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Alaska Mobile ID - Apps en Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis.idv.ak.holder.prd&hl=es_MX",
+      "appstore:developer_url": "about:invalid#navigation",
+      "og:title": "Alaska Mobile ID - Apps en Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/zTketRJeFwqpEn0gY9O_-wjaOE9pSHEAD0rP5V8Hxl1t7N5k-ng43AJ3upcOt6g7jC6Q=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.thalesgroup.dis.idv.ak.holder.prd",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.thalesgroup.dis.idv.ak.holder.prd",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Esta aplicaci\u00f3n es para que los residentes de Alaska obtengan y utilicen su identificaci\u00f3n m\u00f3vil de Alaska.",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis.idv.ak.holder.prd&hl=es_MX"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/zTketRJeFwqpEn0gY9O_-wjaOE9pSHEAD0rP5V8Hxl1t7N5k-ng43AJ3upcOt6g7jC6Q"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Alaska Mobile ID Verifier - Apps en Google Play",
+   "htmlTitle": "<b>Alaska Mobile ID</b> Verifier - Apps en Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis.idv.ak.verifier.prd&hl=gl",
+   "displayLink": "play.google.com",
+   "snippet": "Mar 4, 2025 ... Os cidad\u00e1ns que utilicen unha aplicaci\u00f3n mDL ou de identificaci\u00f3n dixital, como Alaska Mobile ID, poden proporcionar a s\u00faa proba de idade ou a\u00a0...",
+   "htmlSnippet": "Mar 4, 2025 <b>...</b> Os cidad\u00e1ns que utilicen unha aplicaci\u00f3n <b>mDL</b> ou de identificaci\u00f3n dixital, como <b>Alaska Mobile ID</b>, poden proporcionar a s\u00faa proba de idade ou a&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis.idv.ak.verifier.prd&rdid=com.thalesgroup.dis.idv.ak.verifier.prd&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm3QhaKCIccHhGIb189IK9-mo4h-V4oX8M2jGYwX5DS2RoHyI3B9VzxTs&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/wJh2BYsJYjhvZoM3alllPH6Dspv1HDoygE2U3D6DOhgnL9BOFEjh6zK-gUkYn2pNYdA",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Alaska Mobile ID Verifier - Apps en Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis.idv.ak.verifier.prd&hl=gl",
+      "appstore:developer_url": "about:invalid#navigation",
+      "og:title": "Alaska Mobile ID Verifier - Apps en Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/wJh2BYsJYjhvZoM3alllPH6Dspv1HDoygE2U3D6DOhgnL9BOFEjh6zK-gUkYn2pNYdA=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.thalesgroup.dis.idv.ak.verifier.prd",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.thalesgroup.dis.idv.ak.verifier.prd",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Esta aplicaci\u00f3n \u00e9 para que as empresas e organizaci\u00f3ns de Alaska verifiquen os ID de Alaska Mobile.",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis.idv.ak.verifier.prd&hl=gl"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/wJh2BYsJYjhvZoM3alllPH6Dspv1HDoygE2U3D6DOhgnL9BOFEjh6zK-gUkYn2pNYdA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Alaska Mobile ID Verifier - \u0410\u043f\u043b\u0438\u043a\u0430\u0446\u0438\u0438 \u043d\u0430 Google Play",
+   "htmlTitle": "<b>Alaska Mobile ID</b> Verifier - \u0410\u043f\u043b\u0438\u043a\u0430\u0446\u0438\u0438 \u043d\u0430 Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis.idv.ak.verifier.prd&hl=mk",
+   "displayLink": "play.google.com",
+   "snippet": "\u041e\u0432\u0430\u0430 \u0430\u043f\u043b\u0438\u043a\u0430\u0446\u0438\u0458\u0430 \u0435 \u043d\u0430\u043c\u0435\u043d\u0435\u0442\u0430 \u0437\u0430 \u0431\u0438\u0437\u043d\u0438\u0441\u0438 \u0438 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0438 \u043d\u0430 \u0410\u043b\u0458\u0430\u0441\u043a\u0430 \u0434\u0430 \u0433\u0438 \u043f\u043e\u0442\u0432\u0440\u0434\u0430\u0442 \u043c\u043e\u0431\u0438\u043b\u043d\u0438\u0442\u0435 \u0438\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u043a\u0430\u0442\u043e\u0440\u0438 \u043d\u0430 \u0410\u043b\u0458\u0430\u0441\u043a\u0430. Alaska Mobile ID Verifier by Thales \u0435\u00a0...",
+   "htmlSnippet": "\u041e\u0432\u0430\u0430 \u0430\u043f\u043b\u0438\u043a\u0430\u0446\u0438\u0458\u0430 \u0435 \u043d\u0430\u043c\u0435\u043d\u0435\u0442\u0430 \u0437\u0430 \u0431\u0438\u0437\u043d\u0438\u0441\u0438 \u0438 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0438 \u043d\u0430 \u0410\u043b\u0458\u0430\u0441\u043a\u0430 \u0434\u0430 \u0433\u0438 \u043f\u043e\u0442\u0432\u0440\u0434\u0430\u0442 \u043c\u043e\u0431\u0438\u043b\u043d\u0438\u0442\u0435 \u0438\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u043a\u0430\u0442\u043e\u0440\u0438 \u043d\u0430 \u0410\u043b\u0458\u0430\u0441\u043a\u0430. <b>Alaska Mobile ID</b> Verifier by Thales \u0435&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis.idv.ak.verifier.prd&rdid=com.thalesgroup.dis.idv.ak.verifier.prd&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm3QhaKCIccHhGIb189IK9-mo4h-V4oX8M2jGYwX5DS2RoHyI3B9VzxTs&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/wJh2BYsJYjhvZoM3alllPH6Dspv1HDoygE2U3D6DOhgnL9BOFEjh6zK-gUkYn2pNYdA",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Alaska Mobile ID Verifier - \u0410\u043f\u043b\u0438\u043a\u0430\u0446\u0438\u0438 \u043d\u0430 Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis.idv.ak.verifier.prd&hl=mk",
+      "appstore:developer_url": "about:invalid#navigation",
+      "og:title": "Alaska Mobile ID Verifier - \u0410\u043f\u043b\u0438\u043a\u0430\u0446\u0438\u0438 \u043d\u0430 Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/wJh2BYsJYjhvZoM3alllPH6Dspv1HDoygE2U3D6DOhgnL9BOFEjh6zK-gUkYn2pNYdA=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.thalesgroup.dis.idv.ak.verifier.prd",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.thalesgroup.dis.idv.ak.verifier.prd",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "\u041e\u0432\u0430\u0430 \u0430\u043f\u043b\u0438\u043a\u0430\u0446\u0438\u0458\u0430 \u0435 \u043d\u0430\u043c\u0435\u043d\u0435\u0442\u0430 \u0437\u0430 \u0431\u0438\u0437\u043d\u0438\u0441\u0438 \u0438 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0438 \u043d\u0430 \u0410\u043b\u0458\u0430\u0441\u043a\u0430 \u0434\u0430 \u0433\u0438 \u043f\u043e\u0442\u0432\u0440\u0434\u0430\u0442 \u043c\u043e\u0431\u0438\u043b\u043d\u0438\u0442\u0435 \u0438\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u043a\u0430\u0442\u043e\u0440\u0438 \u043d\u0430 \u0410\u043b\u0458\u0430\u0441\u043a\u0430.",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.thalesgroup.dis.idv.ak.verifier.prd&hl=mk"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/wJh2BYsJYjhvZoM3alllPH6Dspv1HDoygE2U3D6DOhgnL9BOFEjh6zK-gUkYn2pNYdA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Premera - Apps on Google Play",
+   "htmlTitle": "Premera - Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.premera.android",
+   "displayLink": "play.google.com",
+   "snippet": "Show your digital ID card ... Premera Blue Cross is an independent licensee of the Blue Cross Blue Shield Association serving businesses and residents of Alaska\u00a0...",
+   "htmlSnippet": "Show your <b>digital ID</b> card ... Premera Blue Cross is an independent licensee of the Blue Cross Blue Shield Association serving businesses and residents of <b>Alaska</b>&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.premera.android",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.premera.android",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.premera.android&rdid=com.premera.android&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5AnRogDx05L1WClbB2BAOvRwE8zUCSrZOB1r0MU313FWJJHK8dRN_Xq0&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/3DHvb2WBwI40f8V9juHFi0gw9nf0OQUZGQBr3aHgS5PIkpkC79s4ejilSwXjI-Qt8Jo",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Premera - Apps on Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.premera.android&hl=en_US",
+      "appstore:developer_url": "http://www.premera.com",
+      "og:title": "Premera - Apps on Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/3DHvb2WBwI40f8V9juHFi0gw9nf0OQUZGQBr3aHgS5PIkpkC79s4ejilSwXjI-Qt8Jo=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.premera.android",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.premera.android",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Convenient access to your healthcare information",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.premera.android&hl=en_US"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/3DHvb2WBwI40f8V9juHFi0gw9nf0OQUZGQBr3aHgS5PIkpkC79s4ejilSwXjI-Qt8Jo"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Premera \u2013 Google Play ilovalari",
+   "htmlTitle": "Premera \u2013 Google Play ilovalari",
+   "link": "https://play.google.com/store/apps/details?id=com.premera.android&hl=uz",
+   "displayLink": "play.google.com",
+   "snippet": "Show your digital ID card ... Premera Blue Cross is an independent licensee of the Blue Cross Blue Shield Association serving businesses and residents of Alaska\u00a0...",
+   "htmlSnippet": "Show your <b>digital ID</b> card ... Premera Blue Cross is an independent licensee of the Blue Cross Blue Shield Association serving businesses and residents of <b>Alaska</b>&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.premera.android...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.premera.android...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.premera.android&rdid=com.premera.android&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5AnRogDx05L1WClbB2BAOvRwE8zUCSrZOB1r0MU313FWJJHK8dRN_Xq0&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/3DHvb2WBwI40f8V9juHFi0gw9nf0OQUZGQBr3aHgS5PIkpkC79s4ejilSwXjI-Qt8Jo",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Premera \u2013 Google Play ilovalari",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.premera.android&hl=uz",
+      "appstore:developer_url": "http://www.premera.com",
+      "og:title": "Premera \u2013 Google Play ilovalari",
+      "twitter:image": "https://play-lh.googleusercontent.com/3DHvb2WBwI40f8V9juHFi0gw9nf0OQUZGQBr3aHgS5PIkpkC79s4ejilSwXjI-Qt8Jo=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.premera.android",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.premera.android",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Convenient access to your healthcare information",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.premera.android&hl=uz"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/3DHvb2WBwI40f8V9juHFi0gw9nf0OQUZGQBr3aHgS5PIkpkC79s4ejilSwXjI-Qt8Jo"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Premera \u2013 Applications sur Google Play",
+   "htmlTitle": "Premera \u2013 Applications sur Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.premera.android&hl=ln",
+   "displayLink": "play.google.com",
+   "snippet": "Show your digital ID card ... Premera Blue Cross is an independent licensee of the Blue Cross Blue Shield Association serving businesses and residents of Alaska\u00a0...",
+   "htmlSnippet": "Show your <b>digital ID</b> card ... Premera Blue Cross is an independent licensee of the Blue Cross Blue Shield Association serving businesses and residents of <b>Alaska</b>&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.premera.android...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.premera.android...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.premera.android&rdid=com.premera.android&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5AnRogDx05L1WClbB2BAOvRwE8zUCSrZOB1r0MU313FWJJHK8dRN_Xq0&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/3DHvb2WBwI40f8V9juHFi0gw9nf0OQUZGQBr3aHgS5PIkpkC79s4ejilSwXjI-Qt8Jo",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Premera \u2013 Applications sur Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.premera.android&hl=ln",
+      "appstore:developer_url": "http://www.premera.com",
+      "og:title": "Premera \u2013 Applications sur Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/3DHvb2WBwI40f8V9juHFi0gw9nf0OQUZGQBr3aHgS5PIkpkC79s4ejilSwXjI-Qt8Jo=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.premera.android",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.premera.android",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Convenient access to your healthcare information",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.premera.android&hl=ln"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/3DHvb2WBwI40f8V9juHFi0gw9nf0OQUZGQBr3aHgS5PIkpkC79s4ejilSwXjI-Qt8Jo"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Premera - Mga App sa Google Play",
+   "htmlTitle": "Premera - Mga App sa Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.premera.android&hl=fil",
+   "displayLink": "play.google.com",
+   "snippet": "Ang Premera Blue Cross ay isang independent licensee ng Blue Cross Blue Shield Association na naglilingkod sa mga negosyo at residente ng Alaska at Washington\u00a0...",
+   "htmlSnippet": "Ang Premera Blue Cross ay isang independent licensee ng Blue Cross Blue Shield Association na naglilingkod sa mga negosyo at residente ng <b>Alaska</b> at Washington&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.premera.android...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.premera.android...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.premera.android&rdid=com.premera.android&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5AnRogDx05L1WClbB2BAOvRwE8zUCSrZOB1r0MU313FWJJHK8dRN_Xq0&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/3DHvb2WBwI40f8V9juHFi0gw9nf0OQUZGQBr3aHgS5PIkpkC79s4ejilSwXjI-Qt8Jo",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Premera - Mga App sa Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.premera.android&hl=fil",
+      "appstore:developer_url": "http://www.premera.com",
+      "og:title": "Premera - Mga App sa Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/3DHvb2WBwI40f8V9juHFi0gw9nf0OQUZGQBr3aHgS5PIkpkC79s4ejilSwXjI-Qt8Jo=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.premera.android",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.premera.android",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Maginhawang pag-access sa iyong impormasyon sa pangangalagang pangkalusugan",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.premera.android&hl=fil"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/3DHvb2WBwI40f8V9juHFi0gw9nf0OQUZGQBr3aHgS5PIkpkC79s4ejilSwXjI-Qt8Jo"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Edge \u2013 Movies on Google Play",
+   "htmlTitle": "The Edge \u2013 Movies on Google Play",
+   "link": "https://play.google.com/store/movies/details/The_Edge?id=x0VHs702okg&hl=en_ZA",
+   "displayLink": "play.google.com",
+   "snippet": "Following a plane crash in Alaska's wilderness, a wealthy intellectual and the fashion photographer who covets his wife must rely on each other for survival\u00a0...",
+   "htmlSnippet": "Following a plane crash in <b>Alaska&#39;s</b> wilderness, a wealthy intellectual and the fashion photographer who covets his wife must rely on each other for survival&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/movies/details/The_Edge?id...hl=en_ZA",
+   "htmlFormattedUrl": "https://play.google.com/store/movies/details/The_Edge?id...hl=en_ZA",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "$9.99",
+      "url": "https://play.google.com/store/movies/details?id=x0VHs702okg&rdid=movie-x0VHs702okg&feature=md&offerId=4349ad6c00000000"
+     },
+     {
+      "price": "$3.99",
+      "url": "https://play.google.com/store/movies/details?id=x0VHs702okg&rdid=movie-x0VHs702okg&feature=md&offerId=8a83521e00000000"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLXrUZO8Iz8O6jzGlzZfkigfOwZgsHpHSueO79SpidnKdpfIqYJP9a6sl_&s",
+      "width": "187",
+      "height": "270"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/cExFVXQ3KwJo7L11Rca6pX8NAwyjvMg24M9TncRdUNRBb2fZspPiRDBtxxoEvRZwfa0",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "The Edge \u2013 Movies on Google Play",
+      "twitter:url": "https://play.google.com/store/movies/details/The_Edge?id=x0VHs702okg&hl=en_ZA",
+      "og:title": "The Edge \u2013 Movies on Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/cExFVXQ3KwJo7L11Rca6pX8NAwyjvMg24M9TncRdUNRBb2fZspPiRDBtxxoEvRZwfa0=w600-h300-pc0xffffff-pd",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Following a plane crash in Alaska's wilderness, a wealthy intellectual and the fashion photographer who covets his wife must rely on each other for survival.",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/movies/details/The_Edge?id=x0VHs702okg&hl=en_ZA"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/cExFVXQ3KwJo7L11Rca6pX8NAwyjvMg24M9TncRdUNRBb2fZspPiRDBtxxoEvRZwfa0"
+     }
+    ]
+   }
+  }
+ ]
+}

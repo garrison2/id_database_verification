@@ -1,0 +1,539 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"California\" API OR \"verify\" OR \"verifier\" OR \"reader\" OR \"SDK\" OR \"software development kit\" OR \"check\" around 50 \"app\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "163000",
+    "searchTerms": "\"California\" API OR \"verify\" OR \"verifier\" OR \"reader\" OR \"SDK\" OR \"software development kit\" OR \"check\" around 50 \"app\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"California\" API OR \"verify\" OR \"verifier\" OR \"reader\" OR \"SDK\" OR \"software development kit\" OR \"check\" around 50 \"app\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "163000",
+    "searchTerms": "\"California\" API OR \"verify\" OR \"verifier\" OR \"reader\" OR \"SDK\" OR \"software development kit\" OR \"check\" around 50 \"app\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.303704,
+  "formattedSearchTime": "0.30",
+  "totalResults": "163000",
+  "formattedTotalResults": "163,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Participating States and Eligible Digital IDs | Transportation Security ...",
+   "htmlTitle": "Participating States and Eligible Digital IDs | Transportation Security ...",
+   "link": "https://www.tsa.gov/digital-id/participating-states",
+   "displayLink": "www.tsa.gov",
+   "snippet": "With a mobile driver's license (mDL) or ID pass stored in your phone's digital wallet or in a third party app, you can breeze through more than 250 TSA\u00a0...",
+   "htmlSnippet": "With a <b>mobile driver&#39;s license</b> (<b>mDL</b>) or ID pass stored in your phone&#39;s digital wallet or in a third party <b>app</b>, you can breeze through more than 250 TSA&nbsp;...",
+   "formattedUrl": "https://www.tsa.gov/digital-id/participating-states",
+   "htmlFormattedUrl": "https://www.tsa.gov/<b>digital-id</b>/participating-states",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPmfB7IVmgDmb3IDXSU12352SHrXv5e_5i8yycsOrPNmZwXMWtBL06Rg4&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.tsa.gov/sites/default/files/2025-03/21366_graphic_tsa_open_graph_image_1200x630.jpg",
+      "og:type": "website",
+      "og:image:width": "1200",
+      "og:site_name": "U.S. Department of Homeland Security Transportation Security Administration",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+      "og:title": "Participating States and Eligible Digital IDs | Transportation Security Administration",
+      "mobileoptimized": "width",
+      "og:image:height": "630",
+      "og:image:type": "image/jpg",
+      "og:url": "https://www.tsa.gov/digital-id/participating-states",
+      "og:description": "The TSA's digital ID program allows travelers from participating states to use mobile driver's licenses or state IDs at select TSA checkpoints. These digital IDs can be added to platforms like Apple Wallet, Google Wallet, or state-specific apps. The program aims to enhance security and streamline the identity verification process. However, travelers must still carry a physical ID as a backup. You can find more details on the TSA's official page."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.tsa.gov/sites/default/files/2025-03/21366_graphic_tsa_open_graph_image_1200x630.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Apple rolls out support for California digital IDs - CalMatters",
+   "htmlTitle": "Apple rolls out support for <b>California</b> digital IDs - CalMatters",
+   "link": "https://calmatters.org/economy/technology/2024/09/california-digital-id-in-iphones/",
+   "displayLink": "calmatters.org",
+   "snippet": "Sep 19, 2024 ... The app can not only present a mobile ID but also read one ... reader, used to verify a person's identity, age, or driving privileges.",
+   "htmlSnippet": "Sep 19, 2024 <b>...</b> The <b>app</b> can not only present a <b>mobile ID</b> but also read one ... <b>reader</b>, used to <b>verify</b> a person&#39;s identity, age, or driving privileges.",
+   "formattedUrl": "https://calmatters.org/economy/technology/.../california-digital-id-in-iphone...",
+   "htmlFormattedUrl": "https://calmatters.org/economy/technology/.../<b>california</b>-<b>digital-id</b>-in-iphone...",
+   "pagemap": {
+    "hcard": [
+     {
+      "url_text": "Khari Johnson",
+      "fn": "Khari Johnson",
+      "url": "https://calmatters.org/author/khari-johnson/"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJpbxEZfvloniSgLpF9zqtj1AMHxe9BmFkW2HbfaNGrfbUmE6UJRDzWglR&s",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://i0.wp.com/calmatters.org/wp-content/uploads/2024/08/020224-Apple-Store-Palo-Alto-AP-CM-01.jpg?fit=2000%2C1331&ssl=1",
+      "article:published_time": "2024-09-19T19:03:16+00:00",
+      "og:image:width": "2000",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "CalMatters",
+      "twitter:label1": "Written by",
+      "twitter:label2": "Est. reading time",
+      "parsely-author": "Khari Johnson",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://i0.wp.com/calmatters.org/wp-content/uploads/2025/06/cropped-favicon.png?fit=270%2C270&ssl=1",
+      "og:description": "CA is the seventh U.S. state to adopt mobile driver\u2019s licenses for iPhones, part of a growing push by businesses and governments to make digital IDs commonplace.",
+      "twitter:creator": "@CalMatters",
+      "article:publisher": "https://www.facebook.com/calmatters/",
+      "twitter:data1": "Khari Johnson",
+      "twitter:data2": "11 minutes",
+      "parsely-type": "post",
+      "twitter:site": "@CalMatters",
+      "article:modified_time": "2024-09-20T22:35:48+00:00",
+      "parsely-link": "http://calmatters.org/economy/technology/2024/09/california-digital-id-in-iphones/",
+      "parsely-image-url": "https://i0.wp.com/calmatters.org/wp-content/uploads/2024/08/020224-Apple-Store-Palo-Alto-AP-CM-01.jpg?resize=60%2C60&ssl=1",
+      "parsely-section": "Technology",
+      "og:type": "article",
+      "author": "Khari Johnson",
+      "og:title": "California drivers can get mobile licenses on their iPhones \u2014 but they need physical ones too",
+      "og:image:height": "1331",
+      "parsely-title": "California drivers can get mobile licenses on their iPhones \u2014 but they need physical ones too",
+      "parsely-pub-date": "2024-09-19T19:03:16Z",
+      "parsely-tags": "technology",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://calmatters.org/economy/technology/2024/09/california-digital-id-in-iphones/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://i0.wp.com/calmatters.org/wp-content/uploads/2024/08/020224-Apple-Store-Palo-Alto-AP-CM-01.jpg?fit=2000%2C1331&ssl=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Can someone explain the Arizona mobile id? : r/phoenix",
+   "htmlTitle": "Can someone explain the Arizona <b>mobile id</b>? : r/phoenix",
+   "link": "https://www.reddit.com/r/phoenix/comments/1fb8t3h/can_someone_explain_the_arizona_mobile_id/",
+   "displayLink": "www.reddit.com",
+   "snippet": "Sep 7, 2024 ... TSA stations are currently excluded (check website: https://azdot.gov/mobile-id-app). The issue is awareness and adoption. That'll take time\u00a0...",
+   "htmlSnippet": "Sep 7, 2024 <b>...</b> TSA stations are currently excluded (<b>check</b> website: https://azdot.gov/<b>mobile-id</b>-<b>app</b>). The issue is awareness and adoption. That&#39;ll take time&nbsp;...",
+   "formattedUrl": "https://www.reddit.com/r/.../can_someone_explain_the_arizona_mobile_id/",
+   "htmlFormattedUrl": "https://www.reddit.com/r/.../can_someone_explain_the_arizona_<b>mobile_id</b>/",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:image": "https://share.redd.it/preview/post/1fb8t3h",
+      "theme-color": "#000000",
+      "og:image:width": "1200",
+      "og:type": "website",
+      "og:image:alt": "An image containing a preview of the post",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "r/phoenix on Reddit: Can someone explain the Arizona mobile id?",
+      "og:site_name": "Reddit",
+      "og:title": "r/phoenix on Reddit: Can someone explain the Arizona mobile id?",
+      "og:image:height": "630",
+      "msapplication-navbutton-color": "#000000",
+      "og:description": "Posted by u/SackDanDruff - 100 votes and 97 comments",
+      "twitter:image": "https://share.redd.it/preview/post/1fb8t3h",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "twitter:site": "@reddit",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "apple-mobile-web-app-capable": "yes",
+      "og:ttl": "600",
+      "og:url": "https://www.reddit.com/r/phoenix/comments/1fb8t3h/can_someone_explain_the_arizona_mobile_id/?seeker-session=true"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DMV Recognizes Companies for Outstanding mDL Use Cases at ...",
+   "htmlTitle": "DMV Recognizes Companies for Outstanding <b>mDL</b> Use Cases at ...",
+   "link": "https://www.dmv.ca.gov/portal/news-and-media/news-releases/dmv-recognizes-companies-for-outstanding-mdl-use-cases-at-first-community-hackathon/",
+   "displayLink": "www.dmv.ca.gov",
+   "snippet": "Oct 10, 2024 ... ... California mobile driver's license (mDL). Held at the Computer ... Their efforts underscore the mDL's potential to empower Californians to verify\u00a0...",
+   "htmlSnippet": "Oct 10, 2024 <b>...</b> ... <b>California mobile driver&#39;s license</b> (<b>mDL</b>). Held at the Computer ... Their efforts underscore the <b>mDL&#39;s</b> potential to empower Californians to <b>verify</b>&nbsp;...",
+   "formattedUrl": "https://www.dmv.ca.gov/.../dmv-recognizes-companies-for-outstanding-md...",
+   "htmlFormattedUrl": "https://www.dmv.ca.gov/.../dmv-recognizes-companies-for-outstanding-<b>md</b>...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu1CncnGPr7i_CpSdehYf9W8kOo4yocch0014LrFVFGRKxXMAF2_OIgWU&s",
+      "width": "300",
+      "height": "168"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.ca.gov/portal/uploads/2022/06/DMV_Logo.png",
+      "og:type": "article",
+      "og:image:width": "1920",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "California DMV",
+      "og:title": "DMV Recognizes Companies for Outstanding mDL Use Cases at First Community Hackathon - California DMV",
+      "og:image:height": "1080",
+      "twitter:label1": "Est. reading time",
+      "og:image:type": "image/png",
+      "msapplication-tileimage": "https://www.dmv.ca.gov/portal/uploads/2020/02/cropped-dmv_favicon_Final_png-1-270x270.png",
+      "og:description": "Contact:\u00a0Office of Public Affairs2415 First AvenueSacramento, CA 95818(916) 657\u20136437 |\u00a0dmvpublicaffairs@dmv.ca.gov FOR IMMEDIATE RELEASEOctober 10, 2024 Sacramento \u2013 The California Department of Motor Vehicles (DMV) today announced recognition awardees of its first community hackathon focused on expanding the use of the California mobile driver\u2019s license (mDL). Held at the Computer History Museum in Mountain View on [\u2026]",
+      "article:publisher": "https://www.facebook.com/CADMV",
+      "twitter:data1": "2 minutes",
+      "twitter:site": "@ca_dmv",
+      "article:modified_time": "2024-10-10T21:24:15+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.dmv.ca.gov/portal/news-and-media/news-releases/dmv-recognizes-companies-for-outstanding-mdl-use-cases-at-first-community-hackathon/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.ca.gov/portal/uploads/2022/06/DMV_Logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "California Mobile Driver's License App Offers User Benefits",
+   "htmlTitle": "<b>California Mobile Driver&#39;s License App</b> Offers User Benefits",
+   "link": "https://www.govtech.com/civic/california-mobile-drivers-license-app-offers-user-benefits",
+   "displayLink": "www.govtech.com",
+   "snippet": "Sep 7, 2023 ... ... verify their age for purchases ... California Mobile Driver's License App Offers User Benefits\u00a0...",
+   "htmlSnippet": "Sep 7, 2023 <b>...</b> ... <b>verify</b> their age for purchases ... <b>California Mobile Driver&#39;s License App</b> Offers User Benefits&nbsp;...",
+   "formattedUrl": "https://www.govtech.com/.../california-mobile-drivers-license-app-offers-us...",
+   "htmlFormattedUrl": "https://www.govtech.com/.../<b>california</b>-<b>mobile-drivers-license</b>-<b>app</b>-offers-us...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrIVwCLU7zm7XPywNyUlpWYNwh504sLu13KWuamUQZ_4HI47bXPK388q0m&s",
+      "width": "322",
+      "height": "156"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://erepublic.brightspotcdn.com/dims4/default/e24944c/2147483647/strip/true/crop/5167x2512+0+559/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2Fcf%2F98%2Fa03ce681420191e1466912fb5d6f%2Fshutterstock-47535424.jpg",
+      "og:image:width": "1440",
+      "article:published_time": "2023-09-07T15:18:07.548",
+      "twitter:card": "summary_large_image",
+      "brightspot.cached": "false",
+      "og:site_name": "GovTech",
+      "og:image:type": "image/jpeg",
+      "og:description": "California has been quietly testing out a mobile driver's license that could help speed travelers through airport security and also help protect users' privacy when asked to verify their age for purchases.",
+      "twitter:image": "https://erepublic.brightspotcdn.com/dims4/default/e24944c/2147483647/strip/true/crop/5167x2512+0+559/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2Fcf%2F98%2Fa03ce681420191e1466912fb5d6f%2Fshutterstock-47535424.jpg",
+      "twitter:image:alt": "The California State Capital building.",
+      "twitter:site": "@govtechnews",
+      "article:modified_time": "2023-09-07T20:04:10.459",
+      "brightspot.contentid": "0000018a-6fb8-d224-abde-ffbeb01f0000",
+      "og:image:alt": "The California State Capital building.",
+      "og:type": "article",
+      "article:section": "Civic Innovation",
+      "twitter:title": "California Mobile Driver\u2019s License App Offers User Benefits",
+      "og:image:url": "https://erepublic.brightspotcdn.com/dims4/default/e24944c/2147483647/strip/true/crop/5167x2512+0+559/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2Fcf%2F98%2Fa03ce681420191e1466912fb5d6f%2Fshutterstock-47535424.jpg",
+      "og:title": "California Mobile Driver\u2019s License App Offers User Benefits",
+      "og:image:height": "700",
+      "article:tag": "California",
+      "fb:app_id": "314190606794339",
+      "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=5",
+      "twitter:description": "California has been quietly testing out a mobile driver's license that could help speed travelers through airport security and also help protect users' privacy when asked to verify their age for purchases.",
+      "og:url": "https://www.govtech.com/civic/california-mobile-drivers-license-app-offers-user-benefits"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://erepublic.brightspotcdn.com/dims4/default/e24944c/2147483647/strip/true/crop/5167x2512+0+559/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2Fcf%2F98%2Fa03ce681420191e1466912fb5d6f%2Fshutterstock-47535424.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "mDL for Businesses - California DMV",
+   "htmlTitle": "<b>mDL</b> for Businesses - <b>California</b> DMV",
+   "link": "https://www.dmv.ca.gov/portal/ca-dmv-wallet/mdl-for-business/",
+   "displayLink": "www.dmv.ca.gov",
+   "snippet": "mDL Readers: CA DMV Wallet \u00b7 Credence ID Tap2iD\u2122 Mobile App \u00b7 Credence ID Tap2iD Verifier\u2122 \u00b7 GET Mobile ID\u00a0...",
+   "htmlSnippet": "<b>mDL</b> Readers: CA DMV Wallet &middot; Credence ID Tap2iD\u2122 Mobile <b>App</b> &middot; Credence ID Tap2iD <b>Verifier</b>\u2122 &middot; GET <b>Mobile ID</b>&nbsp;...",
+   "formattedUrl": "https://www.dmv.ca.gov/portal/ca-dmv-wallet/mdl-for-business/",
+   "htmlFormattedUrl": "https://www.dmv.ca.gov/portal/ca-dmv-wallet/<b>mdl</b>-for-business/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6NT0ZPTiMM3d5XCGLvTEJIlCbyU6MPm89nI2WjmImwW64pbhhWuGL8l-J&s",
+      "width": "385",
+      "height": "131"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.dmv.ca.gov/portal/uploads/2024/02/mDL_BIZwebsite_bannerv2-2-scaled.jpg",
+      "og:type": "article",
+      "og:image:width": "2560",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "California DMV",
+      "og:title": "mDL for Businesses - California DMV",
+      "og:image:height": "873",
+      "twitter:label1": "Est. reading time",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://www.dmv.ca.gov/portal/uploads/2020/02/cropped-dmv_favicon_Final_png-1-270x270.png",
+      "og:description": "The mobile driver\u2019s license (mDL) digital identity credential offers a range of benefits for both businesses and government entities.",
+      "article:publisher": "https://www.facebook.com/CADMV",
+      "twitter:data1": "7 minutes",
+      "twitter:site": "@ca_dmv",
+      "article:modified_time": "2025-04-14T20:49:09+00:00",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:url": "https://www.dmv.ca.gov/portal/ca-dmv-wallet/mdl-for-business/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.dmv.ca.gov/portal/uploads/2024/02/mDL_BIZwebsite_bannerv2-2-scaled.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver's licenses and state IDs in Apple Wallet are coming soon to ...",
+   "htmlTitle": "Driver&#39;s licenses and state IDs in Apple Wallet are coming soon to ...",
+   "link": "https://www.apple.com/newsroom/2024/08/drivers-licenses-and-state-ids-in-apple-wallet-are-coming-soon-to-california/",
+   "displayLink": "www.apple.com",
+   "snippet": "Aug 15, 2024 ... ... app using Apple Wallet,\u201d said Jennifer Bailey, Apple's vice ... More information on California's mDL pilot can be found at dmv.ca.gov/mDL.",
+   "htmlSnippet": "Aug 15, 2024 <b>...</b> ... <b>app</b> using Apple Wallet,\u201d said Jennifer Bailey, Apple&#39;s vice ... More information on <b>California&#39;s mDL</b> pilot can be found at dmv.ca.gov/<b>mDL</b>.",
+   "formattedUrl": "https://www.apple.com/.../drivers-licenses-and-state-ids-in-apple-wallet-are-...",
+   "htmlFormattedUrl": "https://www.<b>app</b>le.com/.../drivers-licenses-and-state-ids-in-<b>app</b>le-wallet-are-...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcVBeehdbvHIUCKz9wAKshd-E6JoKyE3X6YlLZwNIwg4H5z50A4ITo7Go&s",
+      "width": "310",
+      "height": "163"
+     }
+    ],
+    "BreadcrumbList": [
+     {}
+    ],
+    "metatags": [
+     {
+      "analytics-s-bucket-1": "applestoreww",
+      "analytics-s-bucket-0": "applestoreww",
+      "og:image": "https://www.apple.com/newsroom/images/2024/08/drivers-licenses-and-state-ids-in-apple-wallet-are-coming-soon-to-california/tile/Apple-Wallet-California-state-ID-hero-lp.jpg.og.jpg?202505082252",
+      "og:type": "article",
+      "twitter:title": "Driver\u2019s licenses and state IDs in Apple Wallet are coming soon to California",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "Apple Newsroom",
+      "globalnav-store-key": "SFX9YPYY9PPXCU9KH",
+      "og:title": "Driver\u2019s licenses and state IDs in Apple Wallet are coming soon to California",
+      "og:description": "Beginning this fall, Californians will be able to add their driver\u2019s licenses and state IDs to Apple Wallet.",
+      "twitter:image": "https://www.apple.com/newsroom/images/2024/08/drivers-licenses-and-state-ids-in-apple-wallet-are-coming-soon-to-california/tile/Apple-Wallet-California-state-ID-hero-lp.jpg.og.jpg?202505082252",
+      "analytics-s-channel": "newsroom",
+      "twitter:site": "@Apple",
+      "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+      "twitter:description": "Beginning this fall, Californians will be able to add their driver\u2019s licenses and state IDs to Apple Wallet.",
+      "og:locale": "en_US",
+      "globalnav-submenus-enabled": "false",
+      "position": "1",
+      "og:url": "https://www.apple.com/newsroom/2024/08/drivers-licenses-and-state-ids-in-apple-wallet-are-coming-soon-to-california/",
+      "analytics-s-bucket-2": "applestoreww",
+      "analytics-track": "Newsroom - Driver\u2019s licenses and state IDs in Apple Wallet are coming soon to California"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.apple.com/newsroom/images/2024/08/drivers-licenses-and-state-ids-in-apple-wallet-are-coming-soon-to-california/tile/Apple-Wallet-California-state-ID-hero-lp.jpg.og.jpg?202505082252"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Travel Emergency Health Care and Coverage | Kaiser Permanente",
+   "htmlTitle": "Travel Emergency Health Care and Coverage | Kaiser Permanente",
+   "link": "https://healthy.kaiserpermanente.org/get-care/traveling",
+   "displayLink": "healthy.kaiserpermanente.org",
+   "snippet": "You can find your digital ID card in our app. You can also use the app to ... For more details about your coverage, please check your Evidence of Coverage or\u00a0...",
+   "htmlSnippet": "You can find your <b>digital ID</b> card in our <b>app</b>. You can also use the <b>app</b> to ... For more details <b>about</b> your coverage, please <b>check</b> your Evidence of Coverage or&nbsp;...",
+   "formattedUrl": "https://healthy.kaiserpermanente.org/get-care/traveling",
+   "htmlFormattedUrl": "https://healthy.kaiserpermanente.org/get-care/traveling",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwq3T0E_ZBkd_qbe96R-JHgjClIVvQJsMKPFn5C7ZzCAFVk7Gr9F8-Hyo&s",
+      "width": "344",
+      "height": "147"
+     }
+    ],
+    "imageobject": [
+     {
+      "contenturl": "https://healthy.kaiserpermanente.org/get-care/traveling/_jcr_content/root/responsivegrid/container/responsivegrid/container_1115150449/column_control_262276009/col-cntl-1/column_control_17195/col-cntl-1/container_1495949835/image.coreimg.svg/1716417287500/laptop-phone-illustrative.svg"
+     },
+     {
+      "contenturl": "https://healthy.kaiserpermanente.org/get-care/traveling/_jcr_content/root/responsivegrid/container/responsivegrid/container_1115150449/column_control_262276009/col-cntl-1/column_control_17195/col-cntl-2/container/image.coreimg.svg/1712960138307/membership-id-illustrative.svg"
+     },
+     {
+      "contenturl": "https://healthy.kaiserpermanente.org/get-care/traveling/_jcr_content/root/responsivegrid/container/responsivegrid/container_1115150449/column_control_262276009/col-cntl-1/column_control_17195/col-cntl-3/container/image.coreimg.svg/1712949910011/phone-illustrative.svg"
+     },
+     {
+      "contenturl": "https://healthy.kaiserpermanente.org/get-care/traveling/_jcr_content/root/responsivegrid/container/responsivegrid/container_1503765424/column_control_1485156377/col-cntl-1/column_control_copy/col-cntl-1/image.coreimg.png/1720471640025/us-map-with-key-showing-the-kaiser-permanente-areas-see-footnote-3-ca-co-dc-ga-hi-md-or-va-wa-and-other-areas-l-dt.png"
+     },
+     {
+      "contenturl": "https://healthy.kaiserpermanente.org/get-care/traveling/_jcr_content/root/responsivegrid/container/responsivegrid/container_1503765424/column_control_1485156377/col-cntl-1/column_control_copy/col-cntl-2/container/image_copy.coreimg.svg/1750437230782/globe-illustrative.svg"
+     },
+     {
+      "contenturl": "https://healthy.kaiserpermanente.org/get-care/traveling/_jcr_content/root/responsivegrid/container/responsivegrid/container_569764660/column_control/col-cntl-2/container/container/image.coreimg.png/1746213972549/parent-and-child-loading-luggage-into-car-mobile.png"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "articletype": "static",
+      "og:site_name": "Kaiser Permanente",
+      "kp:region": "National",
+      "google": "nositelinkssearchbox",
+      "content-id": "e9bae198-dc32-51e6-bfd1-948ec00bdf45",
+      "twitter:creator": "@kaiserpermanente",
+      "url": "https://healthy.kaiserpermanente.org/get-care/traveling",
+      "searchable": "yes",
+      "facebook-domain-verification": "ur90fre4r3qqke1sgrepku7ou7bpfh",
+      "twitter:site": "@kaiserpermanente",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "kp:publication-type": "page",
+      "og:locale": "en_US",
+      "kp:kp-category": "Away from Home",
+      "og:url": "https://healthy.kaiserpermanente.org/get-care/traveling"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://healthy.kaiserpermanente.org/content/dam/kporg/jkp/afh-landing/revised-size/revised_6_28_24/parents-and-child-walking-along-bluff-overlooking-ocean-l-dt.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ID in Wallet",
+   "htmlTitle": "ID in Wallet",
+   "link": "https://learn.wallet.apple/id",
+   "displayLink": "learn.wallet.apple",
+   "snippet": "California; Colorado; Georgia; Hawaii; Iowa; Maryland; New Mexico; Ohio; Puerto Rico ... Mobile ID Acceptance on iPhone is available at select merchants.",
+   "htmlSnippet": "<b>California</b>; Colorado; Georgia; Hawaii; Iowa; Maryland; New Mexico; Ohio; Puerto Rico ... <b>Mobile ID</b> Acceptance on iPhone is available at select merchants.",
+   "formattedUrl": "https://learn.wallet.apple/id",
+   "htmlFormattedUrl": "https://learn.wallet.<b>app</b>le/id",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL2s9VTM7gsWYCazl6Gs93y9cV57kkh9Keh3ERm_6Fk3s20-402XmsR0U&s",
+      "width": "283",
+      "height": "178"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin",
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+      "csrf-token": "NXhyNwLeWv5OLPuYrtSf3aeycW0Ti772X00t8wAKBUzCGfzjZY2EZEJzx_MuE-lL248RTWyHBZz6QX5jINw2uQ",
+      "m:defaultlocale": "en-US",
+      "csrf-param": "authenticity_token"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://learn.wallet.apple/mdsa/assets/storage/blobs/images/6699645317499d0007e5c5fa/en-us-large@1x.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "California DMV Fortifies Mobile Driver's License (mDL) Enrollment ...",
+   "htmlTitle": "<b>California</b> DMV Fortifies <b>Mobile Driver&#39;s License</b> (<b>mDL</b>) Enrollment ...",
+   "link": "https://www.authenticid.com/news_press/california-dmv-fortifies-mobile-drivers-license-mdl-enrollment-with-authenticids-identity-verification-technology/",
+   "displayLink": "www.authenticid.com",
+   "snippet": "Nov 13, 2024 ... AuthenticID has partnered with the California DMV to allow consumers to verify ... Participants can download an mDL through the California DMV\u00a0...",
+   "htmlSnippet": "Nov 13, 2024 <b>...</b> AuthenticID has partnered with the <b>California</b> DMV to allow consumers to <b>verify</b> ... Participants can download an <b>mDL</b> through the <b>California</b> DMV&nbsp;...",
+   "formattedUrl": "https://www.authenticid.com/.../california-dmv-fortifies-mobile-drivers-lice...",
+   "htmlFormattedUrl": "https://www.authenticid.com/.../<b>california</b>-dmv-fortifies-<b>mobile-drivers-lice</b>...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc-QKx_lEvxhoU7V76o1HkACsIaqsd7WP9xWw4QQ3xea55bl74830WSAru&s",
+      "width": "282",
+      "height": "179"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://www.authenticid.com/wp-content/uploads/2025/06/mdl-mobile-driver-license-california-dmv-scaled-1-1024x585.jpeg",
+      "og:type": "article",
+      "og:image:width": "1024",
+      "og:image:alt": "California DMV Fortifies Mobile Driver\u2019s License (mDL) Enrollment with AuthenticID\u2019s Identity Verification Technology\u00a0",
+      "article:published_time": "2024-11-13T13:48:11+00:00",
+      "twitter:card": "summary_large_image",
+      "og:site_name": "AuthenticID",
+      "og:image:height": "585",
+      "og:image:type": "image/jpeg",
+      "msapplication-tileimage": "https://www.authenticid.com/wp-content/uploads/2025/06/favicon-32x32-1.webp",
+      "og:description": "AuthenticID has partnered with the California DMV to allow consumers to verify their identities in the state\u2019s mobile driver\u2019s licenses (mDLs) program via its identity verification and biometric authentication solutions.\u00a0",
+      "article:publisher": "https://www.facebook.com/authenticidinc",
+      "og:image:secure_url": "https://www.authenticid.com/wp-content/uploads/2025/06/mdl-mobile-driver-license-california-dmv-scaled-1-1024x585.jpeg",
+      "twitter:image": "https://www.authenticid.com/wp-content/uploads/2025/06/mdl-mobile-driver-license-california-dmv-scaled-1-1024x585.jpeg",
+      "viewport": "width=device-width",
+      "twitter:description": "AuthenticID has partnered with the California DMV to allow consumers to verify their identities in the state\u2019s mobile driver\u2019s licenses (mDLs) program via its identity verification and biometric authentication solutions.\u00a0",
+      "mobile-web-app-capable": "yes",
+      "og:locale": "en_US",
+      "og:url": "https://www.authenticid.com/news_press/california-dmv-fortifies-mobile-drivers-license-mdl-enrollment-with-authenticids-identity-verification-technology/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.authenticid.com/wp-content/uploads/2025/06/taskforce.png"
+     }
+    ]
+   }
+  }
+ ]
+}

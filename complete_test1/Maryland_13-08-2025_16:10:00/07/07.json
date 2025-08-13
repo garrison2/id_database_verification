@@ -1,0 +1,566 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:play.google.com \"Maryland\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "15",
+    "searchTerms": "site:play.google.com \"Maryland\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:play.google.com \"Maryland\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "totalResults": "15",
+    "searchTerms": "site:play.google.com \"Maryland\" \"mobile ID\" OR \"digital ID\" OR \"mobile driver's license\" OR \"digital driver's license\" OR mDL -\"multidistrict litigation\" -\"district\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.154114,
+  "formattedSearchTime": "0.15",
+  "totalResults": "15",
+  "formattedTotalResults": "15"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile ID Check by MD - Apps on Google Play",
+   "htmlTitle": "<b>Mobile ID</b> Check by MD - Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.mdot.mva.mobileidcheck",
+   "displayLink": "play.google.com",
+   "snippet": "Oct 17, 2024 ... ID and Digital ID Verifier App by MDOT MVA for mDL and Physical ID Verification ... \u2022 Maryland \u2022 Arizona \u2022 California \u2022 Colorado \u2022 Georgia \u2022\u00a0...",
+   "htmlSnippet": "Oct 17, 2024 <b>...</b> ID and <b>Digital ID</b> Verifier App by MDOT MVA for <b>mDL</b> and Physical ID Verification ... \u2022 <b>Maryland</b> \u2022 Arizona \u2022 California \u2022 Colorado \u2022 Georgia \u2022&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.mdot...mobileidcheck",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.mdot...<b>mobileid</b>check",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.mdot.mva.mobileidcheck&rdid=com.mdot.mva.mobileidcheck&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCsUar5K4Nq7816RR9WGPdIMRXjTZnDqGcXZIcqDYsn22DpvREigblp8Do&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/3ZeAj6zKj-fHfJA8mqvks57oooYgUTM5p8LJlw_MQwol42IanOImYSuH8GqoCHiYfQ",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Mobile ID Check by MD - Apps on Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.mdot.mva.mobileidcheck&hl=en_US",
+      "appstore:developer_url": "https://mva.maryland.gov/Pages/MDMobileIDBusiness.aspx",
+      "og:title": "Mobile ID Check by MD - Apps on Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/3ZeAj6zKj-fHfJA8mqvks57oooYgUTM5p8LJlw_MQwol42IanOImYSuH8GqoCHiYfQ=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.mdot.mva.mobileidcheck",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.mdot.mva.mobileidcheck",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "ID and Digital ID Verifier App by MDOT MVA for mDL and Physical ID Verification.",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.mdot.mva.mobileidcheck&hl=en_US"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/3ZeAj6zKj-fHfJA8mqvks57oooYgUTM5p8LJlw_MQwol42IanOImYSuH8GqoCHiYfQ"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "GET Mobile Verify \u2013 Apps on Google Play",
+   "htmlTitle": "GET Mobile Verify \u2013 Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.getgroupna.mdl.pol&hl=en_IN",
+   "displayLink": "play.google.com",
+   "snippet": "Accept mDLs for your business! Read mDLs from Utah and any FINAL ISO 18013-5 mDL. May read Iowa (new!),Delaware, Arizona, Oklahoma, Missouri, Maryland, Florida,\u00a0...",
+   "htmlSnippet": "Accept mDLs for your business! Read mDLs from Utah and any FINAL ISO 18013-5 <b>mDL</b>. May read Iowa (new!),Delaware, Arizona, Oklahoma, Missouri, <b>Maryland</b>, Florida,&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.getgroupna.mdl...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.getgroupna.<b>mdl</b>...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.getgroupna.mdl.pol&rdid=com.getgroupna.mdl.pol&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1a11Aae0YpQGtjvg18Bs0YrMuELoE95sliJTNOki1LTNwWXWITI--HPtH&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/iSij1Vu_4TpqEZJuVKki7v0xS1XObvhMLVon6DeNK_eKUHeZix131IQuiyFWtPjCdqBN",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "GET Mobile Verify \u2013 Apps on Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.getgroupna.mdl.pol&hl=en_IN",
+      "appstore:developer_url": "https://mobiledl.us/verify/",
+      "og:title": "GET Mobile Verify \u2013 Apps on Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/iSij1Vu_4TpqEZJuVKki7v0xS1XObvhMLVon6DeNK_eKUHeZix131IQuiyFWtPjCdqBN=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.getgroupna.mdl.pol",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.getgroupna.mdl.pol",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "GET Mobile Verify reads ISO 18013 mDLs",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.getgroupna.mdl.pol&hl=en_IN"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/iSij1Vu_4TpqEZJuVKki7v0xS1XObvhMLVon6DeNK_eKUHeZix131IQuiyFWtPjCdqBN"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "GET Mobile Verify - Programu zilizo kwenye Google Play",
+   "htmlTitle": "GET Mobile Verify - Programu zilizo kwenye Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.getgroupna.mdl.pol&hl=sw",
+   "displayLink": "play.google.com",
+   "snippet": "Kubali mDL kwa biashara yako! Soma mDL kutoka Utah na FINAL ISO 18013-5 mDL yoyote. Mei kusoma Iowa (mpya!),Delaware, Arizona, Oklahoma, Missouri, Maryland\u00a0...",
+   "htmlSnippet": "Kubali <b>mDL</b> kwa biashara yako! Soma <b>mDL</b> kutoka Utah na FINAL ISO 18013-5 <b>mDL</b> yoyote. Mei kusoma Iowa (mpya!),Delaware, Arizona, Oklahoma, Missouri, <b>Maryland</b>&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.getgroupna.mdl.pol...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.getgroupna.<b>mdl</b>.pol...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.getgroupna.mdl.pol&rdid=com.getgroupna.mdl.pol&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1a11Aae0YpQGtjvg18Bs0YrMuELoE95sliJTNOki1LTNwWXWITI--HPtH&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/iSij1Vu_4TpqEZJuVKki7v0xS1XObvhMLVon6DeNK_eKUHeZix131IQuiyFWtPjCdqBN",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "GET Mobile Verify - Programu zilizo kwenye Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.getgroupna.mdl.pol&hl=sw",
+      "appstore:developer_url": "https://mobiledl.us/verify/",
+      "og:title": "GET Mobile Verify - Programu zilizo kwenye Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/iSij1Vu_4TpqEZJuVKki7v0xS1XObvhMLVon6DeNK_eKUHeZix131IQuiyFWtPjCdqBN=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.getgroupna.mdl.pol",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.getgroupna.mdl.pol",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "PATA Thibitisha Simu ya rununu kusoma ISO 18013 mDL",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.getgroupna.mdl.pol&hl=sw"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/iSij1Vu_4TpqEZJuVKki7v0xS1XObvhMLVon6DeNK_eKUHeZix131IQuiyFWtPjCdqBN"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile ID Check by MD - Mga App sa Google Play",
+   "htmlTitle": "<b>Mobile ID</b> Check by MD - Mga App sa Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.mdot.mva.mobileidcheck&hl=fil",
+   "displayLink": "play.google.com",
+   "snippet": "Oct 17, 2024 ... \u2022 Maryland \u2022 Arizona \u2022 California \u2022 Colorado \u2022 Georgia \u2022 Louisiana ... ID and Digital ID Verifier App by MDOT MVA for mDL and Physical ID\u00a0...",
+   "htmlSnippet": "Oct 17, 2024 <b>...</b> \u2022 <b>Maryland</b> \u2022 Arizona \u2022 California \u2022 Colorado \u2022 Georgia \u2022 Louisiana ... ID and <b>Digital ID</b> Verifier App by MDOT MVA for <b>mDL</b> and Physical ID&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com...mobileidcheck&hl...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com...<b>mobileid</b>check&amp;hl...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.mdot.mva.mobileidcheck&rdid=com.mdot.mva.mobileidcheck&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCsUar5K4Nq7816RR9WGPdIMRXjTZnDqGcXZIcqDYsn22DpvREigblp8Do&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/3ZeAj6zKj-fHfJA8mqvks57oooYgUTM5p8LJlw_MQwol42IanOImYSuH8GqoCHiYfQ",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Mobile ID Check by MD - Mga App sa Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.mdot.mva.mobileidcheck&hl=fil",
+      "appstore:developer_url": "https://mva.maryland.gov/Pages/MDMobileIDBusiness.aspx",
+      "og:title": "Mobile ID Check by MD - Mga App sa Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/3ZeAj6zKj-fHfJA8mqvks57oooYgUTM5p8LJlw_MQwol42IanOImYSuH8GqoCHiYfQ=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.mdot.mva.mobileidcheck",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.mdot.mva.mobileidcheck",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "ID at Digital ID Verifier App ng MDOT MVA para sa mDL at Physical ID Verification.",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.mdot.mva.mobileidcheck&hl=fil"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/3ZeAj6zKj-fHfJA8mqvks57oooYgUTM5p8LJlw_MQwol42IanOImYSuH8GqoCHiYfQ"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "GET Mobile Verify \u2013 Aplik\u00e1cie v slu\u017ebe Google Play",
+   "htmlTitle": "GET Mobile Verify \u2013 Aplik\u00e1cie v slu\u017ebe Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.getgroupna.mdl.pol&hl=sk",
+   "displayLink": "play.google.com",
+   "snippet": "Pre\u010d\u00edtajte si mDL z Utahu a v\u0161etky KONE\u010cN\u00c9 ISO 18013-5 mDL. M\u00f4\u017eete si ... M\u00f4\u017eete si pre\u010d\u00edta\u0165 Iowa (nov\u00e9!), Delaware, Arizona, Oklahoma, Missouri, Maryland,\u00a0...",
+   "htmlSnippet": "Pre\u010d\u00edtajte si <b>mDL</b> z Utahu a v\u0161etky KONE\u010cN\u00c9 ISO 18013-5 <b>mDL</b>. M\u00f4\u017eete si ... M\u00f4\u017eete si pre\u010d\u00edta\u0165 Iowa (nov\u00e9!), Delaware, Arizona, Oklahoma, Missouri, <b>Maryland</b>,&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.getgroupna.mdl.pol...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.getgroupna.<b>mdl</b>.pol...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.getgroupna.mdl.pol&rdid=com.getgroupna.mdl.pol&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1a11Aae0YpQGtjvg18Bs0YrMuELoE95sliJTNOki1LTNwWXWITI--HPtH&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/iSij1Vu_4TpqEZJuVKki7v0xS1XObvhMLVon6DeNK_eKUHeZix131IQuiyFWtPjCdqBN",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "GET Mobile Verify \u2013 Aplik\u00e1cie v slu\u017ebe Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.getgroupna.mdl.pol&hl=sk",
+      "appstore:developer_url": "https://mobiledl.us/verify/",
+      "og:title": "GET Mobile Verify \u2013 Aplik\u00e1cie v slu\u017ebe Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/iSij1Vu_4TpqEZJuVKki7v0xS1XObvhMLVon6DeNK_eKUHeZix131IQuiyFWtPjCdqBN=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.getgroupna.mdl.pol",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.getgroupna.mdl.pol",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "GET Mobile Verify \u010d\u00edta ISO 18013 mDL",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.getgroupna.mdl.pol&hl=sk"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/iSij1Vu_4TpqEZJuVKki7v0xS1XObvhMLVon6DeNK_eKUHeZix131IQuiyFWtPjCdqBN"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "GET Mobile Verify \u2013 Applications sur Google Play",
+   "htmlTitle": "GET Mobile Verify \u2013 Applications sur Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.getgroupna.mdl.pol&hl=fr",
+   "displayLink": "play.google.com",
+   "snippet": "Mar 12, 2025 ... ... (mDL). V\u00e9rifiez l'\u00e2ge ou l'identit\u00e9 \u00e0 l'aide de tous les modes d ... Peut lire Iowa (nouveau!), Delaware, Arizona, Oklahoma, Missouri, Maryland,\u00a0...",
+   "htmlSnippet": "Mar 12, 2025 <b>...</b> ... (<b>mDL</b>). V\u00e9rifiez l&#39;\u00e2ge ou l&#39;identit\u00e9 \u00e0 l&#39;aide de tous les modes d ... Peut lire Iowa (nouveau!), Delaware, Arizona, Oklahoma, Missouri, <b>Maryland</b>,&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.getgroupna.mdl.pol...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.getgroupna.<b>mdl</b>.pol...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.getgroupna.mdl.pol&rdid=com.getgroupna.mdl.pol&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1a11Aae0YpQGtjvg18Bs0YrMuELoE95sliJTNOki1LTNwWXWITI--HPtH&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/iSij1Vu_4TpqEZJuVKki7v0xS1XObvhMLVon6DeNK_eKUHeZix131IQuiyFWtPjCdqBN",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "GET Mobile Verify \u2013 Applications sur Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.getgroupna.mdl.pol&hl=fr",
+      "appstore:developer_url": "https://mobiledl.us/verify/",
+      "og:title": "GET Mobile Verify \u2013 Applications sur Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/iSij1Vu_4TpqEZJuVKki7v0xS1XObvhMLVon6DeNK_eKUHeZix131IQuiyFWtPjCdqBN=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.getgroupna.mdl.pol",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.getgroupna.mdl.pol",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "GET Mobile Verify lit les mDL ISO 18013",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.getgroupna.mdl.pol&hl=fr"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/iSij1Vu_4TpqEZJuVKki7v0xS1XObvhMLVon6DeNK_eKUHeZix131IQuiyFWtPjCdqBN"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Tap2iD Mobile\u2122 - Apps on Google Play",
+   "htmlTitle": "Tap2iD Mobile\u2122 - Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.credenceid.phoneverifier",
+   "displayLink": "play.google.com",
+   "snippet": "Oct 26, 2024 ... Digital ID/mDL verifier app by CredenceID for mobile driver license verification. ... Maryland, New York, Ohio, and Utah. Why Tap2iD\u2122 Mobile\u00a0...",
+   "htmlSnippet": "Oct 26, 2024 <b>...</b> <b>Digital ID</b>/<b>mDL</b> verifier app by CredenceID for mobile driver license verification. ... <b>Maryland</b>, New York, Ohio, and Utah. Why Tap2iD\u2122 Mobile&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.credenceid...",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.credenceid...",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.credenceid.phoneverifier&rdid=com.credenceid.phoneverifier&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8qI42wxhgmVXWQyD_tb7e2DoR6II-CjRZxiZU9uIQkqlnBAi-kCbViCc&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/816pGMGCio9cvaTMv9s1TVBHuhWWdwSkLGoz_kEWRo2e92q7IrUVGP8ABOHmcfSAog",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Tap2iD Mobile\u2122 - Apps on Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.credenceid.phoneverifier&hl=en_US",
+      "appstore:developer_url": "https://www.credenceid.com/digital-id",
+      "og:title": "Tap2iD Mobile\u2122 - Apps on Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/816pGMGCio9cvaTMv9s1TVBHuhWWdwSkLGoz_kEWRo2e92q7IrUVGP8ABOHmcfSAog=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.credenceid.phoneverifier",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.credenceid.phoneverifier",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Digital ID/mDL verifier app by CredenceID for mobile driver license verification",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.credenceid.phoneverifier&hl=en_US"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/816pGMGCio9cvaTMv9s1TVBHuhWWdwSkLGoz_kEWRo2e92q7IrUVGP8ABOHmcfSAog"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Tap2iD Mobile\u2122 \u2013 Apps no Google Play",
+   "htmlTitle": "Tap2iD Mobile\u2122 \u2013 Apps no Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.credenceid.phoneverifier&hl=pt",
+   "displayLink": "play.google.com",
+   "snippet": "Aplicativo verificador de ID digital/mDL da CredenceID para verifica\u00e7\u00e3o de carteira de habilita\u00e7\u00e3o m\u00f3vel. ... Maryland, Nova York, Ohio e Utah. Por que o\u00a0...",
+   "htmlSnippet": "Aplicativo verificador de ID digital/<b>mDL</b> da CredenceID para verifica\u00e7\u00e3o de carteira de habilita\u00e7\u00e3o m\u00f3vel. ... <b>Maryland</b>, Nova York, Ohio e Utah. Por que o&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.credenceid...hl=pt",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.credenceid...hl=pt",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.credenceid.phoneverifier&rdid=com.credenceid.phoneverifier&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8qI42wxhgmVXWQyD_tb7e2DoR6II-CjRZxiZU9uIQkqlnBAi-kCbViCc&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/816pGMGCio9cvaTMv9s1TVBHuhWWdwSkLGoz_kEWRo2e92q7IrUVGP8ABOHmcfSAog",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Tap2iD Mobile\u2122 \u2013 Apps no Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.credenceid.phoneverifier&hl=pt",
+      "appstore:developer_url": "https://www.credenceid.com/digital-id",
+      "og:title": "Tap2iD Mobile\u2122 \u2013 Apps no Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/816pGMGCio9cvaTMv9s1TVBHuhWWdwSkLGoz_kEWRo2e92q7IrUVGP8ABOHmcfSAog=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.credenceid.phoneverifier",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.credenceid.phoneverifier",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Aplicativo verificador de ID digital/mDL da CredenceID para verifica\u00e7\u00e3o de carteira de habilita\u00e7\u00e3o m\u00f3vel",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.credenceid.phoneverifier&hl=pt"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/816pGMGCio9cvaTMv9s1TVBHuhWWdwSkLGoz_kEWRo2e92q7IrUVGP8ABOHmcfSAog"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NZ Verify Whakat\u016bturu - Apps on Google Play",
+   "htmlTitle": "NZ Verify Whakat\u016bturu - Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details?id=nz.govt.nzverify",
+   "displayLink": "play.google.com",
+   "snippet": "Jul 30, 2025 ... ... Maryland, Colorado, Utah, Puerto Rico, Iowa, New Mexico, Hawai'i, Alaska \u00b7 Australia mobile driver licences: Queensland NZ Verify will also\u00a0...",
+   "htmlSnippet": "Jul 30, 2025 <b>...</b> ... <b>Maryland</b>, Colorado, Utah, Puerto Rico, Iowa, New Mexico, Hawai&#39;i, Alaska \u00b7 Australia mobile driver licences: Queensland NZ Verify will also&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=nz.govt.nzverify",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=nz.govt.nzverify",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=nz.govt.nzverify&rdid=nz.govt.nzverify&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGzzP0kLhSnomKraAQmUjJLhuTF5hyoIFUnxoAmLd893RVe-V7YoAVTud6&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/idSKoQiGWIJN7GXLCMGlUS_f5DPpa0c_9ug14qJF-l90jc3JVWNW9DzomuOTUGSlMMg",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "NZ Verify Whakat\u016bturu - Apps on Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=nz.govt.nzverify&hl=en_US",
+      "appstore:developer_url": "https://www.dia.govt.nz",
+      "og:title": "NZ Verify Whakat\u016bturu - Apps on Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/idSKoQiGWIJN7GXLCMGlUS_f5DPpa0c_9ug14qJF-l90jc3JVWNW9DzomuOTUGSlMMg=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "nz.govt.nzverify",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "nz.govt.nzverify",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "The official New Zealand Government verifier for digital credentials",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=nz.govt.nzverify&hl=en_US"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/idSKoQiGWIJN7GXLCMGlUS_f5DPpa0c_9ug14qJF-l90jc3JVWNW9DzomuOTUGSlMMg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Tap2iD Mobile\u2122 \u2013 Aplikacje w Google Play",
+   "htmlTitle": "Tap2iD Mobile\u2122 \u2013 Aplikacje w Google Play",
+   "link": "https://play.google.com/store/apps/details?id=com.credenceid.phoneverifier&hl=pl",
+   "displayLink": "play.google.com",
+   "snippet": "Aplikacja weryfikatora Digital ID/mDL firmy CredenceID do mobilnej weryfikacji prawa jazdy. ... Maryland, Nowy Jork, Ohio i Utah. Dlaczego Tap2iD\u2122 Mobile to\u00a0...",
+   "htmlSnippet": "Aplikacja weryfikatora <b>Digital ID</b>/<b>mDL</b> firmy CredenceID do mobilnej weryfikacji prawa jazdy. ... <b>Maryland</b>, Nowy Jork, Ohio i Utah. Dlaczego Tap2iD\u2122 Mobile to&nbsp;...",
+   "formattedUrl": "https://play.google.com/store/apps/details?id=com.credenceid...hl=pl",
+   "htmlFormattedUrl": "https://play.google.com/store/apps/details?id=com.credenceid...hl=pl",
+   "pagemap": {
+    "offer": [
+     {
+      "price": "0",
+      "url": "https://play.google.com/store/apps/details?id=com.credenceid.phoneverifier&rdid=com.credenceid.phoneverifier&feature=md&offerId"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8qI42wxhgmVXWQyD_tb7e2DoR6II-CjRZxiZU9uIQkqlnBAi-kCbViCc&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://play-lh.googleusercontent.com/816pGMGCio9cvaTMv9s1TVBHuhWWdwSkLGoz_kEWRo2e92q7IrUVGP8ABOHmcfSAog",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Tap2iD Mobile\u2122 \u2013 Aplikacje w Google Play",
+      "twitter:url": "https://play.google.com/store/apps/details?id=com.credenceid.phoneverifier&hl=pl",
+      "appstore:developer_url": "https://www.credenceid.com/digital-id",
+      "og:title": "Tap2iD Mobile\u2122 \u2013 Aplikacje w Google Play",
+      "twitter:image": "https://play-lh.googleusercontent.com/816pGMGCio9cvaTMv9s1TVBHuhWWdwSkLGoz_kEWRo2e92q7IrUVGP8ABOHmcfSAog=w600-h300-pc0xffffff-pd",
+      "appstore:bundle_id": "com.credenceid.phoneverifier",
+      "referrer": "origin",
+      "twitter:site": "@GooglePlay",
+      "appstore:store_id": "com.credenceid.phoneverifier",
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "twitter:description": "Aplikacja weryfikatora Digital ID/mDL firmy CredenceID do mobilnej weryfikacji prawa jazdy",
+      "mobile-web-app-capable": "yes",
+      "og:url": "https://play.google.com/store/apps/details?id=com.credenceid.phoneverifier&hl=pl"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://play-lh.googleusercontent.com/816pGMGCio9cvaTMv9s1TVBHuhWWdwSkLGoz_kEWRo2e92q7IrUVGP8ABOHmcfSAog"
+     }
+    ]
+   }
+  }
+ ]
+}

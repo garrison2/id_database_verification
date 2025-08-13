@@ -1,0 +1,368 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - \"Mississippi Code\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "1250",
+    "searchTerms": "\"Mississippi Code\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - \"Mississippi Code\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "totalResults": "1250",
+    "searchTerms": "\"Mississippi Code\" \"personally identifiable information\" OR \"personal information\" \"defined\" OR \"means\" \"driver's license\" OR \"identification card\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.195471,
+  "formattedSearchTime": "0.20",
+  "totalResults": "1250",
+  "formattedTotalResults": "1,250"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "HB 277 (As Introduced) - 2021 Regular Session",
+   "htmlTitle": "HB 277 (As Introduced) - 2021 Regular Session",
+   "link": "https://billstatus.ls.state.ms.us/documents/2021/html/HB/0200-0299/HB0277IN.htm",
+   "displayLink": "billstatus.ls.state.ms.us",
+   "snippet": "The following shall be codified as Section 97-7-77, Mississippi Code of 1972: 97-7-77. (1) \"Tribal identification card\" means a valid identification card\u00a0...",
+   "htmlSnippet": "The following shall be codified as Section 97-7-77, <b>Mississippi Code</b> of 1972: 97-7-77. (1) &quot;Tribal <b>identification card</b>&quot; <b>means</b> a valid <b>identification card</b>&nbsp;...",
+   "formattedUrl": "https://billstatus.ls.state.ms.us/documents/2021/html/HB/.../HB0277IN.htm",
+   "htmlFormattedUrl": "https://billstatus.ls.state.ms.us/documents/2021/html/HB/.../HB0277IN.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mississippi Code \u00a7 75-24-29 (2024) - Persons conducting business ...",
+   "htmlTitle": "<b>Mississippi Code</b> \u00a7 75-24-29 (2024) - Persons conducting business ...",
+   "link": "https://law.justia.com/codes/mississippi/title-75/chapter-24/general-provisions/section-75-24-29/",
+   "displayLink": "law.justia.com",
+   "snippet": "(b) \"Personal information\" means ... (i) Social security number;. (ii) Driver's license number, state identification card number or tribal identification card\u00a0...",
+   "htmlSnippet": "(b) &quot;<b>Personal information</b>&quot; <b>means</b> ... (i) Social security number;. (ii) <b>Driver&#39;s license</b> number, state <b>identification card</b> number or tribal <b>identification card</b>&nbsp;...",
+   "formattedUrl": "https://law.justia.com/codes/mississippi/title-75/...24/.../section-75-24-29/",
+   "htmlFormattedUrl": "https://law.justia.com/codes/mississippi/title-75/...24/.../section-75-24-29/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9ooq2CY4wn1M317EbUaCCw5ZAIAlSdzgpscbjYt4auTmAevEEYyQNOXA&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://justatic.com/v/20250812074739/shared/images/social-media/law.jpg",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "og:site_name": "Justia Law",
+      "og:title": "Mississippi Code 1972 (2024) :: Title 75 - REGULATION OF TRADE, COMMERCE AND INVESTMENTS (\u00a7\u00a7 75-1-101 \u2014 75-99-7) :: Chapter 24 - REGULATION OF BUSINESS FOR CONSUMER PROTECTION (\u00a7\u00a7 75-24-1 \u2014 75-24-359) :: GENERAL PROVISIONS (\u00a7\u00a7 75-24-1 \u2014 75-24-29) :: Section 75-24-29 - Persons conducting business in Mississippi required to provide notice of a breach of security involving personal information to all affected individuals; enforcement",
+      "og:app_id": "119529808075661",
+      "trigger-ga": "1",
+      "og:description": "Justia Free Databases of U.S. Laws, Codes & Statutes",
+      "og:admins": "656268335,686786921,25900864",
+      "referrer": "unsafe-url",
+      "twitter:site": "@JustiaCom",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "page-type": "Law: Codes Document Page (Current Year)",
+      "is-li": "0",
+      "og:url": "https://law.justia.com/codes/mississippi/title-75/chapter-24/general-provisions/section-75-24-29/"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://justatic.com/v/20250812074739/shared/images/social-media/law.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Driver License",
+   "htmlTitle": "Driver License",
+   "link": "https://sos.ms.gov/ACProposed/00020433b.pdf",
+   "displayLink": "sos.ms.gov",
+   "snippet": "\u201cPersonal information\u201d means information that identifies an individual, including an individual's photograph, Social Security Number, driver identification\u00a0...",
+   "htmlSnippet": "\u201c<b>Personal information</b>\u201d <b>means</b> information that identifies an individual, including an individual&#39;s photograph, Social Security Number, driver identification&nbsp;...",
+   "formattedUrl": "https://sos.ms.gov/ACProposed/00020433b.pdf",
+   "htmlFormattedUrl": "https://sos.ms.gov/ACProposed/00020433b.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20140331133219-05'00'",
+      "creator": "Microsoft\u00ae Office Word 2007",
+      "creationdate": "D:20140331133219-05'00'",
+      "author": "MDPS",
+      "producer": "Microsoft\u00ae Office Word 2007",
+      "title": "Driver License"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mississippi Code Title 63. Motor Vehicles & Traffic Regulations \u00a7 63 ...",
+   "htmlTitle": "<b>Mississippi Code</b> Title 63. Motor Vehicles &amp; Traffic Regulations \u00a7 63 ...",
+   "link": "https://codes.findlaw.com/ms/title-63-motor-vehicles-traffic-regulations/ms-code-sect-63-11-31/",
+   "displayLink": "codes.findlaw.com",
+   "snippet": "Mississippi Code Title 63. Motor Vehicles & Traffic Regulations \u00a7 63 ... Interlock-restricted license\u201d means a driver's license bearing a restriction\u00a0...",
+   "htmlSnippet": "<b>Mississippi Code</b> Title 63. Motor Vehicles &amp; Traffic Regulations \u00a7 63 ... Interlock-restricted license\u201d <b>means</b> a <b>driver&#39;s license</b> bearing a restriction&nbsp;...",
+   "formattedUrl": "https://codes.findlaw.com/ms/title-63-motor.../ms-code-sect-63-11-31/",
+   "htmlFormattedUrl": "https://codes.findlaw.com/ms/title-63-motor.../ms-code-sect-63-11-31/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuWtKEZ0kzYj6NSuZlgNrAF5XcYIi9XgsiqHcAgQHtxY18xcWZ1bDMaCM&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png",
+      "og:type": "article",
+      "og:site_name": "Findlaw",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Mississippi Code Title 63. Motor Vehicles & Traffic Regulations \u00a7 63-11-31 | FindLaw",
+      "apple-mobile-web-app-title": "FindLaw",
+      "og:url": "https://codes.findlaw.com/ms/title-63-motor-vehicles-traffic-regulations/ms-code-sect-63-11-31/",
+      "og:description": "Mississippi Title 63. Motor Vehicles & Traffic Regulations MS ST  Section 63-11-31. Read the code on FindLaw"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MISSISSIPPI LEGISLATURE REGULAR SESSION 2008 By ...",
+   "htmlTitle": "MISSISSIPPI LEGISLATURE REGULAR SESSION 2008 By ...",
+   "link": "https://msora.org/wp-content/uploads/2018/03/HB1075SG.pdf",
+   "displayLink": "msora.org",
+   "snippet": "(13) \"Identification card\" means an identification card. 61 issued by the ... driver's license or identification card upon which an anatomical. 167 gift\u00a0...",
+   "htmlSnippet": "(13) &quot;<b>Identification card</b>&quot; <b>means</b> an <b>identification card</b>. 61 issued by the ... <b>driver&#39;s license</b> or <b>identification card</b> upon which an anatomical. 167 gift&nbsp;...",
+   "formattedUrl": "https://msora.org/wp-content/uploads/2018/03/HB1075SG.pdf",
+   "htmlFormattedUrl": "https://msora.org/wp-content/uploads/2018/03/HB1075SG.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20080424195507",
+      "creator": "Microsoft\u00ae Office Word 2007",
+      "creationdate": "D:20080424195507",
+      "producer": "Microsoft\u00ae Office Word 2007"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mississippi Code Title 63. Motor Vehicles & Traffic Regulations \u00a7 63 ...",
+   "htmlTitle": "<b>Mississippi Code</b> Title 63. Motor Vehicles &amp; Traffic Regulations \u00a7 63 ...",
+   "link": "https://codes.findlaw.com/ms/title-63-motor-vehicles-traffic-regulations/ms-code-sect-63-1-203/",
+   "displayLink": "codes.findlaw.com",
+   "snippet": "(c) \u201cCommercial driver's license\u201d or \u201cCDL\u201d means a license issued by a state ... Motor homes as defined in Section 63-3-103; however, this exemption\u00a0...",
+   "htmlSnippet": "(c) \u201cCommercial <b>driver&#39;s license</b>\u201d or \u201cCDL\u201d <b>means</b> a license issued by a state ... Motor homes as <b>defined</b> in Section 63-3-103; however, this exemption&nbsp;...",
+   "formattedUrl": "https://codes.findlaw.com/ms/title-63-motor.../ms-code-sect-63-1-203/",
+   "htmlFormattedUrl": "https://codes.findlaw.com/ms/title-63-motor.../ms-code-sect-63-1-203/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuWtKEZ0kzYj6NSuZlgNrAF5XcYIi9XgsiqHcAgQHtxY18xcWZ1bDMaCM&s",
+      "width": "225",
+      "height": "225"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png",
+      "og:type": "article",
+      "og:site_name": "Findlaw",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:title": "Mississippi Code Title 63. Motor Vehicles & Traffic Regulations \u00a7 63-1-203 | FindLaw",
+      "apple-mobile-web-app-title": "FindLaw",
+      "og:url": "https://codes.findlaw.com/ms/title-63-motor-vehicles-traffic-regulations/ms-code-sect-63-1-203/",
+      "og:description": "Mississippi Title 63. Motor Vehicles & Traffic Regulations MS ST  Section 63-1-203. Read the code on FindLaw"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://codes.findlaw.com/static/fi/images/public/thumbnails_600x600/FindLaw_600x600.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Complete Driver Services Admin Code New Format2",
+   "htmlTitle": "Complete Driver Services Admin Code New Format2",
+   "link": "https://www.sos.ms.gov/ACProposed/00013644b.pdf",
+   "displayLink": "www.sos.ms.gov",
+   "snippet": "\u201cpersonal information\u201d means information that identifies an individual, including ... Retesting will include the eye test, written test (as defined Mississippi\u00a0...",
+   "htmlSnippet": "\u201c<b>personal information</b>\u201d <b>means</b> information that identifies an individual, including ... Retesting will include the eye test, written test (as <b>defined Mississippi</b>&nbsp;...",
+   "formattedUrl": "https://www.sos.ms.gov/ACProposed/00013644b.pdf",
+   "htmlFormattedUrl": "https://www.sos.ms.gov/ACProposed/00013644b.pdf",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwPh643mIT5ZIPgSHqD4A7fj_mrb0u7pHHoPovMZS0fD9lAhTUQVe6VaY&s",
+      "width": "189",
+      "height": "267"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20060731151913",
+      "creator": "PDFCREATOR Version 0.8.0",
+      "creationdate": "D:20060731151913",
+      "author": "tsmith",
+      "producer": "GNU Ghostscript 7.06",
+      "title": "Complete Driver Services Admin Code New Format2"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///70bb7021cd03abe68039bb1618900780ff8d72e013697f8296c86850fad7cc60"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Bill Text: MS HB717 | 2025 | Regular Session | Introduced | LegiScan",
+   "htmlTitle": "Bill Text: MS HB717 | 2025 | Regular Session | Introduced | LegiScan",
+   "link": "https://legiscan.com/MS/text/HB717/2025",
+   "displayLink": "legiscan.com",
+   "snippet": "... IDENTIFICATION CARD TO HOMELESS PERSONS; TO AMEND SECTIONS 45-35-7 AND 45-35-5, MISSISSIPPI CODE ... defined in Section 45-35-17, must present valid\u00a0...",
+   "htmlSnippet": "... <b>IDENTIFICATION CARD</b> TO HOMELESS PERSONS; TO AMEND SECTIONS 45-35-7 AND 45-35-5, <b>MISSISSIPPI CODE</b> ... <b>defined</b> in Section 45-35-17, must present valid&nbsp;...",
+   "formattedUrl": "https://legiscan.com/MS/text/HB717/2025",
+   "htmlFormattedUrl": "https://legiscan.com/MS/text/HB717/2025",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNHoMDMLlw-6Rym0vQ_2fLAuGOSEIUM7kfXxyxX7YR121bLjATyWMlKPI&s",
+      "width": "200",
+      "height": "200"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "https://acme.legiscan.com/images/legiscan_opengraph_200x200.png",
+      "og:type": "Article",
+      "og:image:width": "200",
+      "fb:profile_id": "454937694543893",
+      "twitter:card": "summary",
+      "twitter:title": "Mississippi HB717 | 2025 | Regular Session",
+      "og:site_name": "LegiScan",
+      "twitter:url": "https://legiscan.com/MS/text/HB717/id/3057585",
+      "og:title": "Mississippi HB717 | 2025 | Regular Session",
+      "og:image:height": "200",
+      "og:image:type": "image/png",
+      "og:description": "Bill Text (2025-02-04) State identification for homeless persons; authorize. [Died In Committee]",
+      "twitter:creator": "@LegiScanMS",
+      "twitter:image": "https://acme.legiscan.com/images/legiscan_twittercard.png",
+      "fb:app_id": "113560478825038",
+      "twitter:site": "@LegiScan",
+      "twitter:description": "Bill Text (2025-02-04) State identification for homeless persons; authorize. [Died In Committee]",
+      "og:url": "https://legiscan.com/MS/text/HB717/id/3057585"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://acme.legiscan.com/images/legiscan_opengraph_200x200.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MISSISSIPPI DEPARTMENT OF PUBLIC SAFETY APPLICATION ...",
+   "htmlTitle": "MISSISSIPPI DEPARTMENT OF PUBLIC SAFETY APPLICATION ...",
+   "link": "https://www.driverservicebureau.dps.ms.gov/sites/default/files/2025-08/IFP-APP-01%20Individual%20Firearm%20Permit%20Application%20with%20Notice%20-%20Combined_8.11.2025.pdf",
+   "displayLink": "www.driverservicebureau.dps.ms.gov",
+   "snippet": "Mississippi Driver's License, Identification Card or valid tribal identification card from a federally-recognized Indian tribe? ... I desire a legal means\u00a0...",
+   "htmlSnippet": "Mississippi <b>Driver&#39;s License</b>, <b>Identification Card</b> or valid tribal <b>identification card</b> from a federally-recognized Indian tribe? ... I desire a legal <b>means</b>&nbsp;...",
+   "formattedUrl": "https://www.driverservicebureau.dps.ms.gov/.../IFP-APP-01%20Individual...",
+   "htmlFormattedUrl": "https://www.driverservicebureau.dps.ms.gov/.../IFP-APP-01%20Individual...",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20250811142820-05'00'",
+      "creationdate": "D:20210901103330-05'00'",
+      "creator": "Adobe Acrobat Standard DC (32-bit) 21.5.20060",
+      "author": "MS DPS",
+      "producer": "Microsoft: Print To PDF"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Municipal Government in Mississippi",
+   "htmlTitle": "Municipal Government in Mississippi",
+   "link": "https://gcd.extension.msstate.edu/sites/gcd.extension.msstate.edu/files/resources/municipal_government_in_mississippi_accessible.pdf",
+   "displayLink": "gcd.extension.msstate.edu",
+   "snippet": "Jul 25, 2021 ... government are defined by the Mississippi Code. 5 Code, \u00a7 21-1-9 ... means, with respect to an individual, \u201c(A) a physical or mental\u00a0...",
+   "htmlSnippet": "Jul 25, 2021 <b>...</b> government are <b>defined</b> by the <b>Mississippi Code</b>. 5 Code, \u00a7 21-1-9 ... <b>means</b>, with respect to an individual, \u201c(A) a physical or mental&nbsp;...",
+   "formattedUrl": "https://gcd.extension.msstate.edu/.../municipal_government_in_mississippi_...",
+   "htmlFormattedUrl": "https://gcd.extension.msstate.edu/.../municipal_government_in_mississippi_...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSh_6Om_Oq7V4674QxOQLEfKdJY3VR2E-thnXrxjiLvPxp43PkSdrJc2Jn&s",
+      "width": "187",
+      "height": "270"
+     }
+    ],
+    "metatags": [
+     {
+      "moddate": "D:20210819104538-05'00'",
+      "creationdate": "D:20210719152303-05'00'",
+      "creator": "Microsoft Word",
+      "author": "Extension Service",
+      "producer": "Acrobat Pro DC 21.5.20058",
+      "title": "Municipal Governernment in Mississippi"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "x-raw-image:///943615767ec85c0fdbe9a7ca13c2dc602f6ffc554c0ef8f2faaadc1c36688b95"
+     }
+    ]
+   },
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat"
+  }
+ ]
+}

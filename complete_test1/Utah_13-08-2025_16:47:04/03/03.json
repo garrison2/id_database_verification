@@ -1,0 +1,262 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - site:https://dld.utah.gov/ \"REAL ID\"",
+    "totalResults": "210",
+    "searchTerms": "site:https://dld.utah.gov/ \"REAL ID\"",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - site:https://dld.utah.gov/ \"REAL ID\"",
+    "totalResults": "210",
+    "searchTerms": "site:https://dld.utah.gov/ \"REAL ID\"",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "3548decfb27244f8b"
+   }
+  ]
+ },
+ "context": {
+  "title": "id_research"
+ },
+ "searchInformation": {
+  "searchTime": 0.103647,
+  "formattedSearchTime": "0.10",
+  "totalResults": "210",
+  "formattedTotalResults": "210"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "ID Card US Citizen | Utah Driver License Division",
+   "htmlTitle": "ID Card US Citizen | Utah Driver License Division",
+   "link": "https://dld.utah.gov/id-card-us-citizen/",
+   "displayLink": "dld.utah.gov",
+   "snippet": "Attention: By law, you may not possess more than one REAL ID-compliant certificate at a time (e.g., a Utah license and a Colorado ID.) Follow us online. DPS\u00a0...",
+   "htmlSnippet": "Attention: By law, you may not possess more than one <b>REAL ID</b>-compliant certificate at a time (e.g., a Utah license and a Colorado ID.) Follow us online. DPS&nbsp;...",
+   "formattedUrl": "https://dld.utah.gov/id-card-us-citizen/",
+   "htmlFormattedUrl": "https://dld.utah.gov/id-card-us-citizen/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-tileimage": "https://dld.utah.gov/wp-content/uploads/cropped-DLD-fav-icon-270x270.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Utah Driver License Division",
+   "htmlTitle": "Utah Driver License Division",
+   "link": "https://dld.utah.gov/",
+   "displayLink": "dld.utah.gov",
+   "snippet": "REAL ID Information. All Utah Licenses and IDs Meet REAL ID Requirements. Follow us online. DPS Logo appears next to text \"Department of Public Safety\". Utah\u00a0...",
+   "htmlSnippet": "<b>REAL ID</b> Information. All Utah Licenses and IDs Meet <b>REAL ID</b> Requirements. Follow us online. DPS Logo appears next to text &quot;Department of Public Safety&quot;. Utah&nbsp;...",
+   "formattedUrl": "https://dld.utah.gov/",
+   "htmlFormattedUrl": "https://dld.utah.gov/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-tileimage": "https://dld.utah.gov/wp-content/uploads/cropped-DLD-fav-icon-270x270.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Adult Advance Parolee, Humanitarian Parolee, and Parolee | DPS ...",
+   "htmlTitle": "Adult Advance Parolee, Humanitarian Parolee, and Parolee | DPS ...",
+   "link": "https://dld.utah.gov/adult-advance-parolee-humanitarian-parolee-and-parolee/",
+   "displayLink": "dld.utah.gov",
+   "snippet": "... REAL ID-compliant driver license and identification card. Those individuals were paroled into the United States as a Covered Humanitarian (Afghanistan)\u00a0...",
+   "htmlSnippet": "... <b>REAL ID</b>-compliant driver license and identification card. Those individuals were paroled into the United States as a Covered Humanitarian (Afghanistan)&nbsp;...",
+   "formattedUrl": "https://dld.utah.gov/adult-advance-parolee-humanitarian-parolee-and-parol...",
+   "htmlFormattedUrl": "https://dld.utah.gov/adult-advance-parolee-humanitarian-parolee-and-parol...",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb6EQUDlestDqdjxWMpfyO65JHgRsKf91niQXRSkFdXw3UuJZF-EkFW9or&s",
+      "width": "142",
+      "height": "152"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "website",
+      "og:site_name": "DPS \u2013 Driver License",
+      "viewport": "width=device-width",
+      "og:description": "Adult Advance Parolee, Humanitarian Parolee, and Parolee"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dld.utah.gov/wp-content/themes/publicsafety/images/header-dps-logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Required Documents | Utah Driver License Division",
+   "htmlTitle": "Required Documents | Utah Driver License Division",
+   "link": "https://dld.utah.gov/required-documents/",
+   "displayLink": "dld.utah.gov",
+   "snippet": "REAL ID Information \u00b7 Office Locations \u00b7 Office Closures \u00b7 Military / Veteran \u00b7 Forms / Handbooks / Videos \u00b7 Fees. Divisions Menu. DPS Administration \u00b7 Bureau\u00a0...",
+   "htmlSnippet": "<b>REAL ID</b> Information &middot; Office Locations &middot; Office Closures &middot; Military / Veteran &middot; Forms / Handbooks / Videos &middot; Fees. Divisions Menu. DPS Administration &middot; Bureau&nbsp;...",
+   "formattedUrl": "https://dld.utah.gov/required-documents/",
+   "htmlFormattedUrl": "https://dld.utah.gov/required-documents/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-tileimage": "https://dld.utah.gov/wp-content/uploads/cropped-DLD-fav-icon-270x270.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Where's My License / ID Card | Utah Driver License Division",
+   "htmlTitle": "Where&#39;s My License / ID Card | Utah Driver License Division",
+   "link": "https://dld.utah.gov/production-status/",
+   "displayLink": "dld.utah.gov",
+   "snippet": "REAL ID Information \u00b7 Office Locations \u00b7 Office Closures \u00b7 Military / Veteran \u00b7 Forms / Handbooks / Videos \u00b7 Fees. Divisions Menu. DPS Administration \u00b7 Bureau\u00a0...",
+   "htmlSnippet": "<b>REAL ID</b> Information &middot; Office Locations &middot; Office Closures &middot; Military / Veteran &middot; Forms / Handbooks / Videos &middot; Fees. Divisions Menu. DPS Administration &middot; Bureau&nbsp;...",
+   "formattedUrl": "https://dld.utah.gov/production-status/",
+   "htmlFormattedUrl": "https://dld.utah.gov/production-status/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhnVUvgzY_It1oQa2I8JM8QFR-yin8Ny3nR8H3Uf25ZbYbC6ZK6UL9fE4&s",
+      "width": "269",
+      "height": "88"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-tileimage": "https://dld.utah.gov/wp-content/uploads/cropped-DLD-fav-icon-270x270.png"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://dld.utah.gov/wp-content/uploads/DPS-Agency-Logo-Footer-1.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ID card | Utah Driver License Division",
+   "htmlTitle": "ID card | Utah Driver License Division",
+   "link": "https://dld.utah.gov/id-sort/",
+   "displayLink": "dld.utah.gov",
+   "snippet": "REAL ID Information \u00b7 Office Locations \u00b7 Office Closures \u00b7 Military / Veteran \u00b7 Forms / Handbooks / Videos \u00b7 Fees. Divisions Menu. DPS Administration \u00b7 Bureau\u00a0...",
+   "htmlSnippet": "<b>REAL ID</b> Information &middot; Office Locations &middot; Office Closures &middot; Military / Veteran &middot; Forms / Handbooks / Videos &middot; Fees. Divisions Menu. DPS Administration &middot; Bureau&nbsp;...",
+   "formattedUrl": "https://dld.utah.gov/id-sort/",
+   "htmlFormattedUrl": "https://dld.utah.gov/id-sort/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-tileimage": "https://dld.utah.gov/wp-content/uploads/cropped-DLD-fav-icon-270x270.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Fees",
+   "htmlTitle": "Fees",
+   "link": "https://dld.utah.gov/fees/",
+   "displayLink": "dld.utah.gov",
+   "snippet": "REAL ID Information \u00b7 Office Locations \u00b7 Office Closures \u00b7 Military / Veteran \u00b7 Forms / Handbooks / Videos \u00b7 Fees. Divisions Menu. DPS\u00a0...",
+   "htmlSnippet": "<b>REAL ID</b> Information &middot; Office Locations &middot; Office Closures &middot; Military / Veteran &middot; Forms / Handbooks / Videos &middot; Fees. Divisions Menu. DPS&nbsp;...",
+   "formattedUrl": "https://dld.utah.gov/fees/",
+   "htmlFormattedUrl": "https://dld.utah.gov/fees/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-tileimage": "https://dld.utah.gov/wp-content/uploads/cropped-DLD-fav-icon-270x270.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Make An Appointment | Utah Driver License Division",
+   "htmlTitle": "Make An Appointment | Utah Driver License Division",
+   "link": "https://dld.utah.gov/make-appointment/",
+   "displayLink": "dld.utah.gov",
+   "snippet": "Required identity and address documents \u00b7 REAL ID information. All Utah licenses and IDs meet REAL ID requirements. Follow us online. DPS Logo appears next to\u00a0...",
+   "htmlSnippet": "Required identity and address documents &middot; <b>REAL ID</b> information. All Utah licenses and IDs meet <b>REAL ID</b> requirements. Follow us online. DPS Logo appears next to&nbsp;...",
+   "formattedUrl": "https://dld.utah.gov/make-appointment/",
+   "htmlFormattedUrl": "https://dld.utah.gov/make-appointment/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-tileimage": "https://dld.utah.gov/wp-content/uploads/cropped-DLD-fav-icon-270x270.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ID Card Not US Citizen | Utah Driver License Division",
+   "htmlTitle": "ID Card Not US Citizen | Utah Driver License Division",
+   "link": "https://dld.utah.gov/id-card-not-us-citizen/",
+   "displayLink": "dld.utah.gov",
+   "snippet": "Attention: By law, you may not possess more than one REAL ID-compliant certificate at a time (e.g., a Utah license and a Colorado ID.) Follow us online. DPS\u00a0...",
+   "htmlSnippet": "Attention: By law, you may not possess more than one <b>REAL ID</b>-compliant certificate at a time (e.g., a Utah license and a Colorado ID.) Follow us online. DPS&nbsp;...",
+   "formattedUrl": "https://dld.utah.gov/id-card-not-us-citizen/",
+   "htmlFormattedUrl": "https://dld.utah.gov/id-card-not-us-citizen/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-tileimage": "https://dld.utah.gov/wp-content/uploads/cropped-DLD-fav-icon-270x270.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Get Your mDL | Utah Driver License Division",
+   "htmlTitle": "Get Your mDL | Utah Driver License Division",
+   "link": "https://dld.utah.gov/mdl-registration/",
+   "displayLink": "dld.utah.gov",
+   "snippet": "REAL ID Information \u00b7 Office Locations \u00b7 Office Closures \u00b7 Military / Veteran \u00b7 Forms / Resources / Videos \u00b7 Fees. Divisions Menu. DPS Administration \u00b7 Bureau\u00a0...",
+   "htmlSnippet": "<b>REAL ID</b> Information &middot; Office Locations &middot; Office Closures &middot; Military / Veteran &middot; Forms / Resources / Videos &middot; Fees. Divisions Menu. DPS Administration &middot; Bureau&nbsp;...",
+   "formattedUrl": "https://dld.utah.gov/mdl-registration/",
+   "htmlFormattedUrl": "https://dld.utah.gov/mdl-registration/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-tileimage": "https://dld.utah.gov/wp-content/uploads/cropped-DLD-fav-icon-270x270.png"
+     }
+    ]
+   }
+  }
+ ]
+}
