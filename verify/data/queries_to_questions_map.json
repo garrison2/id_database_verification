@@ -1,0 +1,87 @@
+{
+    "Digital?" :
+    {
+        "Digital?" : [ "Q00" ]
+    },
+    "Future Proposals" :
+    {
+        "Details of Future Proposals" : [ "Q00","Q01" ],
+        "Prototype Start" : [ "Q00","Q01" ],
+        "Prototype Ended?" : [ "Q00","Q01" ],
+        "Prototype End" : [ "Q00","Q01" ],
+        "Future Digital Offering Date?" : [ "Q00","Q01" ]
+    },
+    "Card Features" :
+    {
+        "ID_fields" : [ "Q02","Q03" ],
+        "Real ID?" : [ "Q02","Q03" ],
+        "Barcode Types - Phy" : [ "Q02","Q03" ],
+        "Barcode Types - Dig" : [ "Q02","Q03" ],
+        "Biometrics?" : [ "Q02","Q03" ]
+    },
+    "Application" :
+    {
+        "Application Requirement - Phy" : [ "Q02", "Q03" ],
+        "Relationship between Phy and Dig IDs?" : [ "Q04" ],
+        "Other Application Requirements - Dig" : [ "Q04" ],
+        "Technical Requirements - Dig" : [ "Q04" ]
+    },
+    "Agency/Vendor" :
+    {
+        "What is the issuing agency?" : [ "Q02" ],
+        "Is the issuing agency partnering with a commercial vendor to design and distribute the mobile ID?" : [ "Q05", "Q06", "Q07" ],
+        "What is the commercial vendor partner for the in-house app?" : [ "Q05","Q06","Q07" ],
+        "What is (are) the commercial vendor partner(s) for wallet apps?" : [ "Q05","Q06","Q07" ]
+    },
+    "Privacy Policies" :
+    {
+        "Privacy policies for physical IDs? (e.g. DMV website policy)" : [],
+        "Privacy policies for digital IDs?" : [ "Q08" ],
+        "What kinds of data are being collected?" : [ "Q04","Q08" ],
+        "For what purpose is information used/processed/stored?" : [ "Q04","Q08" ],
+        "Who is information shared with?" : [ "Q04","Q08" ]
+    },
+    "Mobile ID Data Protections" :
+    {
+        "Is collected data being warehoused somewhere?" : [ "Q04","Q08" ],
+        "What kinds of data are being collected?" : [ "Q04","Q08" ],
+        "How is information on the Mobile ID protected?" : [ "Q04","Q08" ]
+    },
+    "Mobile ID Usage" :
+    {
+        "What can the dig ID be used for?" : [ "Q04" ]
+    },
+    "Mobile ID API" :
+    {
+        "Is there a mobile API?" : [ "Q09" ],
+        "Mobile API Specifications" : [ "Q09" ]
+    },
+    "Verifying Information" :
+    {
+        "How is information verified? - Phy Human" : [ "Q10" ],
+        "How is information verified? - Phy Scanner" : [ "Q10" ],
+        "How is information verified? - Dig" : [ "Q10" ]
+    },
+    "Selective Disclosure" :
+    {
+        "How is selective disclosure implemented?" : [ "Q04","Q08" ]
+    },
+    "License considered PII? (in legislation)" :
+    {
+        "License considered PII? (in legislation)" : [ "Q11" ]
+    },
+    "ID Data Collection Limitations" :
+    {
+        "Limited by Purpose?" : [ "Q12","Q13","Q14" ],
+        "Legislation requiring ID use for some circumstances (not exhaustive)" : [ "Q12","Q13","Q14" ],
+        "Limited by Physical Location?" : [ "Q12","Q13","Q14" ],
+        "Limited by Virtual Location?" : [ "Q12","Q13","Q14" ],
+        "Limited by Other?" : [ "Q12","Q13","Q14" ],
+        "Retention?" : [ "Q12","Q13","Q14" ],
+        "Deletion?" : [ "Q12","Q13","Q14" ],
+        "Required Retention?" : [ "Q12","Q13","Q14" ],
+        "Distinguishes Between Methods of ID Verification?" : [ "Q12","Q13","Q14" ],
+        "Consent?" : [ "Q12","Q13","Q14" ],
+        "Data Breaches?" : [ "Q15" ]
+    }
+}
