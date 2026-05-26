@@ -2,32 +2,17 @@
 import os, time
 import json, csv
 
-RESULTS_PATH = os.getenv('RESULTS_PATH')
+from util import get_most_recent_rdirs()
+
+SEARCH_RESULTS_PATH = os.getenv('SEARCH_RESULTS_PATH')
 CSV_RESULTS = os.getenv('CSV_RESULTS')
 HYPERLINK_FORMAT = '=HYPERLINK("{0}", "{1}")'
 
-def get_most_recent_rdirs():
-    convert = lambda t: time.mktime(time.strptime(t, "%d-%m-%Y_%H:%M:%S"))
-    
-    states = dict()
-    for rdir in os.listdir(RESULTS_PATH):
-        state = rdir[:rdir.find('_')]
-        tval = convert(rdir[rdir.find('_') + 1:])
-        if tval > states.get(state, (0, None))[0]:
-            states[state] = (tval, rdir)
-
-    results = []
-    for state in states:
-        results.append(states[state][1])
-
-    results.sort()
-    return results
-
 states = dict()
-rdirs = get_most_recent_rdirs()
+rdirs = get_most_recent_rdirs(SEARCH_RESULTS_PATH)
 for rdir in rdirs:
     state = rdir[:rdir.find('_')]
-    rdir = os.path.join(RESULTS_PATH, rdir)
+    rdir = os.path.join(SEARCH_RESULTS_PATH, rdir)
 
     queries = dict()
     for query_dir in os.listdir(rdir):
