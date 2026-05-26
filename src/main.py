@@ -4,9 +4,6 @@ import json
 import time
 import argparse
 
-from googleapiclient.discovery import build
-from googleapiclient.errors import HttpError
-
 API_KEY = os.getenv('CSE_KEY')
 LOGGING = os.getenv('LOGGING')
 MOBILE_ID_TERMS = os.getenv('MOBILE_ID_TERMS')
@@ -248,6 +245,8 @@ def main(args):
                 func(parsed.state, query, rdir)
 
         case 'search':
+            from googleapiclient.discovery import build
+            from googleapiclient.errors import HttpError
             verify_state_and_query(parsed.state, parsed.queries)
 
             if parsed.queries:
@@ -307,7 +306,7 @@ def main(args):
                                                parsed.most_recent, parsed.time)
 
                 for rdir in result_directories:
-                    queries = os.listdir(os.path.join(RESULTS_PATH, rdir))
+                    queries = os.listdir(rdir)
 
                     if not parsed.queries:
                         print(f'Queries: ({rdir})')
@@ -318,8 +317,7 @@ def main(args):
                             if query not in queries:
                                 raise Exception("Query is invalid.")
                         
-                            files = os.listdir(os.path.join(RESULTS_PATH, rdir,
-                                                            query))
+                            files = os.listdir(rdir, query)
                             print(f'Files: ({rdir}/{query})')
                             for f in files:
                                 print('\t' + f)
