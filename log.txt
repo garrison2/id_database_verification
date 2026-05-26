@@ -313,3 +313,11 @@ googleapiclient.errors.HttpError: <HttpError 429 when requesting https://customs
 13-08-2025_16:46:09query="Tennessee" "mobile ID" OR "digital ID" OR "mobile driver's license" OR "digital driver's license" OR mDL -"multidistrict litigation" -"district" law OR bill OR order OR "Tennessee Code"	attempt=0	sleep_time=45
 13-08-2025_16:46:55query="Tennessee" "mobile ID" OR "digital ID" OR "mobile driver's license" OR "digital driver's license" OR mDL -"multidistrict litigation" -"district" vendor OR developer OR procurement	attempt=0	sleep_time=45
 13-08-2025_16:48:01	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py search all --confirm 10
+18-08-2025_16:17:27	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view Idaho --most-recent
+18-08-2025_16:17:32	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py view Idaho --most-recent
+22-08-2025_08:34:04	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py process Alabama --most-recent
+22-08-2025_08:41:01	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py list Alabama
+22-08-2025_08:41:08	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py list all
+22-08-2025_08:41:18	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py list all --most-recent
+22-08-2025_08:44:18	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py process Alabama --most-recent
+22-08-2025_08:55:26	/home/garry/documents/id_research/database_cleaning/cse_method/src/main.py process Alabama --most-recent -q 14 15
