@@ -3,8 +3,11 @@ import os, time
 import json, csv
 
 from util import get_most_recent_rdirs
+
 SEARCH_RESULTS_PATH = os.getenv('SEARCH_RESULTS_PATH')
-CSV_RESULTS = os.getenv('CSV_RESULTS')
+SEARCH_RESULTS_PARSED = os.getenv('SEARCH_RESULTS_PARSED')
+AIRTABLE_RESULTS = os.getenv('AIRTABLE_RESULTS')
+QUERIES_TO_QUESTIONS = os.getenv('QUERIES_TO_QUESTIONS')
 
 def get_queries_from_search() -> dict():
     states = dict()
@@ -26,10 +29,48 @@ def get_queries_from_search() -> dict():
             for website in query_results['items']:
                 links.append(website['link'])
                 
-            queries[query_dir] = links
+            queries[int(query_dir)] = links
         states[state] = queries
     return states
 
-results = get_queries_from_search()
-print(results)
+def get_parsed(queries) -> dict():
+    with open(SEARCH_RESULTS_PARSED, 'r') as file:
+        reader = csv.reader(file)
+        header = next(reader)
+        header = list(set(header[2:]))
+        header.remove('TRUE')
+        header.sort()
 
+        states = { state : 
+                  { i : {'links' : [], 'notes' : None } for i in range(16) }
+                  for state in header }
+        states_index_map = { header.index(s) : s for s in header }
+
+        for question in range(16):
+            for link in range(11):
+                link_row = next(reader)[2:]
+                for i in range(0, len(link_row), 2):
+                    if link_row[i+1] == 'TRUE':
+                        state = states_index_map[i//2]
+                        if link != 10:
+                            states[state][question]['links'].append(queries[state][question][link])
+                        else:
+                            states[state][question]['links'].append(link_row[i])
+
+            notes = next(reader)[2:]
+            for i in range(0, len(notes), 2):
+                if notes[i] != '':
+                    states[states_index_map[i//2]][question]['notes'] = notes[i]
+
+            if question != 15: next(reader)
+
+        print(states['Alabama'])
+        print(states['Alaska'])
+
+    return notes
+
+# results = get_queries_from_search()
+# print(results)
+
+# print(get_queries_from_search())
+get_parsed(get_queries_from_search())
