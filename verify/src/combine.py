@@ -6,7 +6,11 @@ from util import get_most_recent_rdirs
 
 SEARCH_RESULTS_PATH = os.getenv('SEARCH_RESULTS_PATH')
 SEARCH_RESULTS_PARSED = os.getenv('SEARCH_RESULTS_PARSED')
+
 AIRTABLE_RESULTS = os.getenv('AIRTABLE_RESULTS')
+AIRTABLE_TO_JSON = os.getenv('AIRTABLE_TO_JSON')
+
+RESULTS = os.getenv('RESULTS')
 QUERIES_TO_QUESTIONS = os.getenv('QUERIES_TO_QUESTIONS')
 
 def get_queries_from_search() -> dict():
@@ -64,13 +68,36 @@ def get_parsed(queries) -> dict():
 
             if question != 15: next(reader)
 
-        print(states['Alabama'])
-        print(states['Alaska'])
+    return states
 
-    return notes
+def get_airtable() -> dict():
+    with open(AIRTABLE_TO_JSON, 'r') as file:
+        airtable_map = json.load(file)
 
-# results = get_queries_from_search()
-# print(results)
+    states = {}
+    with open(AIRTABLE_RESULTS, 'r') as file:
+        reader = csv.reader(file)
+        header = next(reader)
 
-# print(get_queries_from_search())
-get_parsed(get_queries_from_search())
+        for row in reader:
+            state = row[0]
+            states[state] = {}
+            for i in range(len(row[1:])):
+                states[state][airtable_map[str(i)]] = row[i]
+
+#            print(states[state])
+
+    return states
+
+def dump_search_results():
+    results = get_parsed(get_queries_from_search())
+    with open(RESULTS, 'w') as file:
+        json.dump(results, file, indent=1)
+
+def dump_airtable_results():
+    results = get_airtable()
+    with open(RESULTS, 'w') as file:
+        json.dump(results, file, indent=1)
+
+
+dump_airtable_results()
