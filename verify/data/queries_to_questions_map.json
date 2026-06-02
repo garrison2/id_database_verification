@@ -37,7 +37,6 @@
     {
         "Privacy policies for physical IDs? (e.g. DMV website policy)" : [],
         "Privacy policies for digital IDs?" : [ "Q08" ],
-        "What kinds of data are being collected?" : [ "Q04","Q08" ],
         "For what purpose is information used/processed/stored?" : [ "Q04","Q08" ],
         "Who is information shared with?" : [ "Q04","Q08" ]
     },
@@ -64,6 +63,7 @@
     },
     "Selective Disclosure" :
     {
+        "Selective Disclosure?" : [ "Q04", "Q08" ],
         "How is selective disclosure implemented?" : [ "Q04","Q08" ]
     },
     "License considered PII? (in legislation)" :

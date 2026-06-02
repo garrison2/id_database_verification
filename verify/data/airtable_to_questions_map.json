@@ -1,0 +1,122 @@
+{
+ "Meta": {
+  "Created" : null,
+  "Last Modified" : null,
+  "Created By" : null,
+  "General Notes" : null
+ },
+ "Digital?": {
+  "Digital?": {
+   "Source": "Legislation Text (Digital)"
+  }
+ },
+ "Changes in Bills/Laws": {
+  "Changes in Bills/Laws (administrative)": null,
+  "Changes in Bills/Laws (legal)": null,
+  "Changes in Bills/Laws (privacy)": null
+ },
+ "Future Proposals": {
+  "Details of Future Proposals": null,
+  "Prototype Start": null,
+  "Prototype Ended?": null,
+  "Prototype End": null,
+  "Future Digital Offering Date?": null
+ },
+ "Card Features": {
+  "ID_fields": {
+   "Other": "Other (ID fields)"
+  },
+  "Real ID?": null,
+  "Barcode Types - Phy": null,
+  "Barcode Types - Dig": null,
+  "Biometrics?": {
+   "Source" : "Source (Biometrics)",
+   "Other" : "Other (Biometrics)"
+  }
+ },
+ "Application": {
+  "Application Requirement - Phy": {
+   "Source": "Source (Application Requirements - Phy)",
+   "Other": "Other (Application Requirements - Phy)"
+  },
+  "Relationship between Phy and Dig IDs?": {
+   "Other": "Other (Relationship between Phy and Dig IDs?)"
+  },
+  "Other Application Requirements - Dig": null,
+  "Technical Requirements - Dig": null
+ },
+ "Agency/Vendor": {
+  "What is the issuing agency?": null,
+  "Is the issuing agency partnering with a commercial vendor to design and distribute the mobile ID?": null,
+  "What is the commercial vendor partner for the in-house app?": null,
+  "What is (are) the commercial vendor partner(s) for wallet apps?": null
+ },
+ "Privacy Policies": {
+  "Privacy policies for physical IDs? (e.g. DMV website policy)": null,
+  "Privacy policies for digital IDs?": null
+ },
+ "Mobile ID Data Protections": {
+  "Is collected data being warehoused somewhere?": {
+   "Other": "Other (Is collected data being warehoused somewhere?)"
+  },
+  "What kinds of data are being collected?": null,
+  "How is information on the Mobile ID protected?": null
+ },
+ "Mobile ID Usage": {
+  "What can the dig ID be used for?": {
+   "Source": "Source (What can the dig ID be used for?)",
+   "Other": "Other (What can the dig ID be used for?)"
+  }
+ },
+ "Mobile ID API": {
+  "Is there a mobile API?": null,
+  "Mobile API Specifications": null
+ },
+ "Verifying Information": {
+  "How is information verified? - Phy Human": null,
+  "How is information verified? - Phy Scanner": null,
+  "How is information verified? - Dig": null
+ },
+ "Selective Disclosure": {
+  "Selective Disclosure?": null,
+  "How is selective disclosure implemented?": null
+ },
+ "License considered PII? (in legislation)": {
+  "License considered PII? (in legislation)": {
+   "Source": "Legislation Text (Considered PII)"
+  }
+ },
+ "ID Data Collection Limitations": {
+  "Limited by Purpose?": {
+   "Source": "Legislation Text (Limited by Purpose)"
+  },
+  "Legislation requiring ID use for some circumstances (not exhaustive)": null,
+  "Limited by Physical Location?": {
+   "Source": "Legislation Text (Limited by Physical Location)"
+  },
+  "Limited by Virtual Location?": {
+   "Source": "Legislation Text (Limited by Virtual Location)"
+  },
+  "Limited by Other?": {
+   "Source": "Legislation Text (Limited by Other)"
+  },
+  "Retention?": {
+   "Source": "Legislation Text (Retention)"
+  },
+  "Deletion?": {
+   "Source": "Legislation Text (Deletion)"
+  },
+  "Required Retention?": {
+   "Source": "Legislation Text (Required Retention)"
+  },
+  "Distinguishes Between Methods of ID Verification?": {
+   "Source": "Legislation Text (Methods of ID verification)"
+  },
+  "Consent?": {
+   "Source": "Legislation Text (Consent)"
+  },
+  "Data Breaches?": {
+   "Source": "Legislation Text (Data Breaches)"
+  }
+ }
+}
