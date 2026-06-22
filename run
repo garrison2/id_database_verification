@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+{
+    envars=$(mktemp)
+    trap "rm $envars" EXIT
+    export > "$envars"
+
+    [[ -d .venv ]] && source .venv/bin/activate && echo "Activated venv."
+    set -o allexport
+    [[ -f .env ]] && source ".env" && echo "Sourced .env."
+    set +o allexport
+
+    set -o allexport
+    [[ -f "$envars" ]] && source "$envars" && echo "Reapplied existing envars."
+    set +o allexport
+
+    "$1" "${@:2}"
+
+}
+
