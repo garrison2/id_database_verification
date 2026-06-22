@@ -1,87 +1,208 @@
 {
-    "Digital?" :
-    {
-        "Digital?" : [ "Q00" ]
-    },
-    "Future Proposals" :
-    {
-        "Details of Future Proposals" : [ "Q00","Q01" ],
-        "Prototype Start" : [ "Q00","Q01" ],
-        "Prototype Ended?" : [ "Q00","Q01" ],
-        "Prototype End" : [ "Q00","Q01" ],
-        "Future Digital Offering Date?" : [ "Q00","Q01" ]
-    },
-    "Card Features" :
-    {
-        "ID_fields" : [ "Q02","Q03" ],
-        "Real ID?" : [ "Q02","Q03" ],
-        "Barcode Types - Phy" : [ "Q02","Q03" ],
-        "Barcode Types - Dig" : [ "Q02","Q03" ],
-        "Biometrics?" : [ "Q02","Q03" ]
-    },
-    "Application" :
-    {
-        "Application Requirement - Phy" : [ "Q02", "Q03" ],
-        "Relationship between Phy and Dig IDs?" : [ "Q04" ],
-        "Other Application Requirements - Dig" : [ "Q04" ],
-        "Technical Requirements - Dig" : [ "Q04" ]
-    },
-    "Agency/Vendor" :
-    {
-        "What is the issuing agency?" : [ "Q02" ],
-        "Is the issuing agency partnering with a commercial vendor to design and distribute the mobile ID?" : [ "Q05", "Q06", "Q07" ],
-        "What is the commercial vendor partner for the in-house app?" : [ "Q05","Q06","Q07" ],
-        "What is (are) the commercial vendor partner(s) for wallet apps?" : [ "Q05","Q06","Q07" ]
-    },
-    "Privacy Policies" :
-    {
-        "Privacy policies for physical IDs? (e.g. DMV website policy)" : [],
-        "Privacy policies for digital IDs?" : [ "Q08" ],
-        "For what purpose is information used/processed/stored?" : [ "Q04","Q08" ],
-        "Who is information shared with?" : [ "Q04","Q08" ]
-    },
-    "Mobile ID Data Protections" :
-    {
-        "Is collected data being warehoused somewhere?" : [ "Q04","Q08" ],
-        "What kinds of data are being collected?" : [ "Q04","Q08" ],
-        "How is information on the Mobile ID protected?" : [ "Q04","Q08" ]
-    },
-    "Mobile ID Usage" :
-    {
-        "What can the dig ID be used for?" : [ "Q04" ]
-    },
-    "Mobile ID API" :
-    {
-        "Is there a mobile API?" : [ "Q09" ],
-        "Mobile API Specifications" : [ "Q09" ]
-    },
-    "Verifying Information" :
-    {
-        "How is information verified? - Phy Human" : [ "Q10" ],
-        "How is information verified? - Phy Scanner" : [ "Q10" ],
-        "How is information verified? - Dig" : [ "Q10" ]
-    },
-    "Selective Disclosure" :
-    {
-        "Selective Disclosure?" : [ "Q04", "Q08" ],
-        "How is selective disclosure implemented?" : [ "Q04","Q08" ]
-    },
-    "License considered PII? (in legislation)" :
-    {
-        "License considered PII? (in legislation)" : [ "Q11" ]
-    },
-    "ID Data Collection Limitations" :
-    {
-        "Limited by Purpose?" : [ "Q12","Q13","Q14" ],
-        "Legislation requiring ID use for some circumstances (not exhaustive)" : [ "Q12","Q13","Q14" ],
-        "Limited by Physical Location?" : [ "Q12","Q13","Q14" ],
-        "Limited by Virtual Location?" : [ "Q12","Q13","Q14" ],
-        "Limited by Other?" : [ "Q12","Q13","Q14" ],
-        "Retention?" : [ "Q12","Q13","Q14" ],
-        "Deletion?" : [ "Q12","Q13","Q14" ],
-        "Required Retention?" : [ "Q12","Q13","Q14" ],
-        "Distinguishes Between Methods of ID Verification?" : [ "Q12","Q13","Q14" ],
-        "Consent?" : [ "Q12","Q13","Q14" ],
-        "Data Breaches?" : [ "Q15" ]
-    }
+ "Digital?": {
+  "Digital?": [
+   0
+  ]
+ },
+ "Future Proposals": {
+  "Details of Future Proposals": [
+   0,
+   1
+  ],
+  "Prototype Start": [
+   0,
+   1
+  ],
+  "Prototype Ended?": [
+   0,
+   1
+  ],
+  "Prototype End": [
+   0,
+   1
+  ],
+  "Future Digital Offering Date?": [
+   0,
+   1
+  ]
+ },
+ "Card Features": {
+  "ID_fields": [
+   2,
+   3
+  ],
+  "Real ID?": [
+   2,
+   3
+  ],
+  "Barcode Types - Phy": [
+   2,
+   3
+  ],
+  "Barcode Types - Dig": [
+   2,
+   3
+  ],
+  "Biometrics?": [
+   2,
+   3
+  ]
+ },
+ "Application": {
+  "Application Requirement - Phy": [
+   2,
+   3
+  ],
+  "Relationship between Phy and Dig IDs?": [
+   4
+  ],
+  "Other Application Requirements - Dig": [
+   4
+  ],
+  "Technical Requirements - Dig": [
+   4
+  ]
+ },
+ "Agency/Vendor": {
+  "What is the issuing agency?": [
+   2
+  ],
+  "Is the issuing agency partnering with a commercial vendor to design and distribute the mobile ID?": [
+   5,
+   6,
+   7
+  ],
+  "What is the commercial vendor partner for the in-house app?": [
+   5,
+   6,
+   7
+  ],
+  "What is (are) the commercial vendor partner(s) for wallet apps?": [
+   5,
+   6,
+   7
+  ]
+ },
+ "Privacy Policies": {
+  "Privacy policies for physical IDs? (e.g. DMV website policy)": [],
+  "Privacy policies for digital IDs?": [
+   8
+  ],
+  "For what purpose is information used/processed/stored?": [
+   4,
+   8
+  ],
+  "Who is information shared with?": [
+   4,
+   8
+  ]
+ },
+ "Mobile ID Data Protections": {
+  "Is collected data being warehoused somewhere?": [
+   4,
+   8
+  ],
+  "What kinds of data are being collected?": [
+   4,
+   8
+  ],
+  "How is information on the Mobile ID protected?": [
+   4,
+   8
+  ]
+ },
+ "Mobile ID Usage": {
+  "What can the dig ID be used for?": [
+   4
+  ]
+ },
+ "Mobile ID API": {
+  "Is there a mobile API?": [
+   9
+  ],
+  "Mobile API Specifications": [
+   9
+  ]
+ },
+ "Verifying Information": {
+  "How is information verified? - Phy Human": [
+   10
+  ],
+  "How is information verified? - Phy Scanner": [
+   10
+  ],
+  "How is information verified? - Dig": [
+   10
+  ]
+ },
+ "Selective Disclosure": {
+  "Selective Disclosure?": [
+   4,
+   8
+  ],
+  "How is selective disclosure implemented?": [
+   4,
+   8
+  ]
+ },
+ "License considered PII? (in legislation)": {
+  "License considered PII? (in legislation)": [
+   11
+  ]
+ },
+ "ID Data Collection Limitations": {
+  "Limited by Purpose?": [
+   12,
+   13,
+   14
+  ],
+  "Legislation requiring ID use for some circumstances (not exhaustive)": [
+   12,
+   13,
+   14
+  ],
+  "Limited by Physical Location?": [
+   12,
+   13,
+   14
+  ],
+  "Limited by Virtual Location?": [
+   12,
+   13,
+   14
+  ],
+  "Limited by Other?": [
+   12,
+   13,
+   14
+  ],
+  "Retention?": [
+   12,
+   13,
+   14
+  ],
+  "Deletion?": [
+   12,
+   13,
+   14
+  ],
+  "Required Retention?": [
+   12,
+   13,
+   14
+  ],
+  "Distinguishes Between Methods of ID Verification?": [
+   12,
+   13,
+   14
+  ],
+  "Consent?": [
+   12,
+   13,
+   14
+  ],
+  "Data Breaches?": [
+   15
+  ]
+ }
 }
