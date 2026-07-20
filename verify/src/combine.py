@@ -179,67 +179,64 @@ def map_to_questions():
     with open("/tmp/airtable.json", 'w') as file:
         json.dump(states, file, indent=1)
 
-HREF_PATTERN = re.compile(
-    r'<a\s+[^>]*href="([^"]+)"[^>]*>(.*?)</a>',
-    re.IGNORECASE | re.DOTALL,
-)
-
 URL_PATTERN = re.compile(
     r'https?://[^\s<>"\']+',
     re.IGNORECASE,
 )
 
+class ExtractedBlock:
+    def __init__(self, block: str):
+        self.title = None
+        self.block = block
+        self.url = self.extractUrl()
+        
+        self.id = None
+        self.val = None
 
-def extract_title(block: str) -> str | None:
-    """
-    Title priority:
-      1. First non-empty line ending with ':'
-      2. JSON-style key
-      3. None
-    """
+    def addto(self, addto_dict):
+        addto_dict[self.id] = self.val
 
-    lines = [line.strip() for line in block.splitlines() if line.strip()]
+    def extract(self):
+        if self.extractFromTitle():
+            return True
+        if self.url:
+            self.id = self.url
+            self.val = self.cleanAnalysis(self.block.replace(self.url, ''))
+            return True
+        return False
 
-    if not lines:
+    def extractFromTitle(self):
+        lines = [line.strip() for line in self.block.splitlines() if line.strip()]
+
+        if not lines:
+            return None
+
+        first = lines[0]
+
+        if first.endswith(":"):
+            self.id = self.title = first[:-1].strip()
+            self.val = self.cleanAnalysis(self.block.replace(first, ''))
+            return True
+        return False
+
+    def extractUrl(self):
+        url = URL_PATTERN.search(self.block)
+        if url:
+            return url.group(0).strip().rstrip('",.)')
         return None
 
-    first = lines[0]
-
-    if first.endswith(":"):
-        return first[:-1].strip()
-
-    json_key = re.match(r'^"?([^"]+)"?\s*:', first)
-    if json_key:
-        return json_key.group(1).strip()
-
-    return None
-
-
-def extract_url(block: str) -> str | None:
-    href = HREF_PATTERN.search(block)
-    if href:
-        return href.group(1).strip().rstrip('",')
-
-    url = URL_PATTERN.search(block)
-    if url:
-        return url.group(0).strip().rstrip('",.')
-
-    return None
+    @staticmethod
+    def cleanAnalysis(text: str) -> str:
+        return text.strip()
 
 
 def clean_analysis(block: str) -> str:
-    text = re.sub(
-        r'<a\s+[^>]*>(.*?)</a>',
-        r'\1',
-        block,
-        flags=re.IGNORECASE | re.DOTALL,
-    )
-
-    text = URL_PATTERN.sub("", text)
+#    text = URL_PATTERN.sub("", text)
     return text.strip()
 
 
 def parse_input(text: str) -> dict:
+#    return text
     result = {}
     blank = []
 
@@ -251,19 +248,20 @@ def parse_input(text: str) -> dict:
         if not block:
             continue
 
-        title = extract_title(block)
-        url = extract_url(block)
-
-        analysis = clean_analysis(block)
-
-        if title:
-            result[title] = analysis
-
-        elif url:
-            result[url] = analysis
-
+        extracted_block = ExtractedBlock(block)
+        if extracted_block.extract():
+            extracted_block.addto(result)
         else:
-            blank.append(analysis)
+            blank.append(block)
+
+#        if title:
+#            result[title] = analysis
+#
+#        elif url:
+#            result[url] = analysis
+#
+#        else:
+#            blank.append(analysis)
 
     if blank:
         result["blank"] = blank
