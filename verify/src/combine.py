@@ -145,21 +145,24 @@ def map_to_questions():
                 
                 if state_dict[subcategory] != '':
                     if state_dict[subcategory] == 'checked':
-                        state_result_dict["value"] = True
+                        state_result_dict['value'] = True
                     else:
-                        state_result_dict["value"] = state_dict[subcategory]
+                        state_result_dict['value'] = parse_input(state_dict[subcategory])
+                        if (len(state_result_dict['value']) == 1 and
+                            'blank' in state_result_dict['value']):
+                            state_result_dict['value'] = state_result_dict['value']['blank']
 
                 if airtable_map[category][subcategory] is None: continue
 
                 if ("Source" in airtable_map[category][subcategory] and 
                     state_dict[airtable_map[category][subcategory]["Source"]] != ""):
-                    state_result_dict["AirtableSource"] = state_dict[airtable_map[category][subcategory]["Source"]]
-                    print(category, subcategory)
-                    split_string(state_result_dict["AirtableSource"])
+                    state_result_dict["AirtableSource"] = parse_input(state_dict[airtable_map[category][subcategory]["Source"]])
+#                    print(category, subcategory)
+#                    split_string(state_result_dict["AirtableSource"])
 
                 if ("Other" in airtable_map[category][subcategory]
                     and state_dict[airtable_map[category][subcategory]["Other"]] != ""):
-                    state_result_dict["AirtableOther"] = state_dict[airtable_map[category][subcategory]["Other"]]
+                    state_result_dict["AirtableOther"] = parse_input(state_dict[airtable_map[category][subcategory]["Other"]])
 #                    if state_result_dict["AirtableOther"] == "":
 #                        del state_result_dict["Airtable_source"] 
 
@@ -172,15 +175,102 @@ def map_to_questions():
 #        for val in states[state]:
 #            print(f'{val} - {states[state][val]}')
 #        print(states[state])
-#        pprint.pp(states[state], width=180)
+#    pprint.pp(states['Colorado'], width=180)
+    with open("/tmp/airtable.json", 'w') as file:
+        json.dump(states, file, indent=1)
+
+HREF_PATTERN = re.compile(
+    r'<a\s+[^>]*href="([^"]+)"[^>]*>(.*?)</a>',
+    re.IGNORECASE | re.DOTALL,
+)
+
+URL_PATTERN = re.compile(
+    r'https?://[^\s<>"\']+',
+    re.IGNORECASE,
+)
 
 
-#    print(queries_map)
+def extract_title(block: str) -> str | None:
+    """
+    Title priority:
+      1. First non-empty line ending with ':'
+      2. JSON-style key
+      3. None
+    """
+
+    lines = [line.strip() for line in block.splitlines() if line.strip()]
+
+    if not lines:
+        return None
+
+    first = lines[0]
+
+    if first.endswith(":"):
+        return first[:-1].strip()
+
+    json_key = re.match(r'^"?([^"]+)"?\s*:', first)
+    if json_key:
+        return json_key.group(1).strip()
+
+    return None
 
 
+def extract_url(block: str) -> str | None:
+    href = HREF_PATTERN.search(block)
+    if href:
+        return href.group(1).strip().rstrip('",')
 
+    url = URL_PATTERN.search(block)
+    if url:
+        return url.group(0).strip().rstrip('",.')
+
+    return None
+
+
+def clean_analysis(block: str) -> str:
+    text = re.sub(
+        r'<a\s+[^>]*>(.*?)</a>',
+        r'\1',
+        block,
+        flags=re.IGNORECASE | re.DOTALL,
+    )
+
+    text = URL_PATTERN.sub("", text)
+    return text.strip()
+
+
+def parse_input(text: str) -> dict:
+    result = {}
+    blank = []
+
+    blocks = re.split(r"\n\s*\n+", text)
+
+    for block in blocks:
+        block = block.strip()
+
+        if not block:
+            continue
+
+        title = extract_title(block)
+        url = extract_url(block)
+
+        analysis = clean_analysis(block)
+
+        if title:
+            result[title] = analysis
+
+        elif url:
+            result[url] = analysis
+
+        else:
+            blank.append(analysis)
+
+    if blank:
+        result["blank"] = blank
+
+    return result
 #    return airtable_map
 
 
 # dump_airtable_results()
-# map_to_questions()
+map_to_questions()
