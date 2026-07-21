@@ -152,17 +152,16 @@ def map_to_questions():
                             'blank' in state_result_dict['value']):
                             state_result_dict['value'] = state_result_dict['value']['blank']
 
-                if airtable_map[category][subcategory] is None: continue
+                if airtable_map[category][subcategory].get('Subsubcategories') is None: continue
+                subsubcategories = airtable_map[category][subcategory]['Subsubcategories']
 
-                if ("Source" in airtable_map[category][subcategory] and 
-                    state_dict[airtable_map[category][subcategory]["Source"]] != ""):
-                    state_result_dict["AirtableSource"] = parse_input(state_dict[airtable_map[category][subcategory]["Source"]])
+                if ("Source" in subsubcategories and state_dict[subsubcategories["Source"]] != ""):
+                    state_result_dict["AirtableSource"] = parse_input(state_dict[subsubcategories["Source"]])
 #                    print(category, subcategory)
 #                    split_string(state_result_dict["AirtableSource"])
 
-                if ("Other" in airtable_map[category][subcategory]
-                    and state_dict[airtable_map[category][subcategory]["Other"]] != ""):
-                    state_result_dict["AirtableOther"] = parse_input(state_dict[airtable_map[category][subcategory]["Other"]])
+                if ("Other" in subsubcategories and state_dict[subsubcategories["Other"]] != ""):
+                    state_result_dict["AirtableOther"] = parse_input(state_dict[subsubcategories["Other"]])
 #                    if state_result_dict["AirtableOther"] == "":
 #                        del state_result_dict["Airtable_source"] 
 
