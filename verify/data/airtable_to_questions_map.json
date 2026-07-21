@@ -1,122 +1,158 @@
 {
  "Meta": {
-  "Created" : null,
-  "Last Modified" : null,
-  "Created By" : null,
-  "General Notes" : null
+  "Created" : { "split" : false },
+  "Last Modified" : { "split" : false },
+  "Created By" : { "split" : false },
+  "General Notes" : { "split" : false }
  },
  "Digital?": {
   "Digital?": {
-   "Source": "Legislation Text (Digital)"
+    "Subsubcategories" : {
+       "Source": "Legislation Text (Digital)"
+    }
   }
  },
  "Changes in Bills/Laws": {
-  "Changes in Bills/Laws (administrative)": null,
-  "Changes in Bills/Laws (legal)": null,
-  "Changes in Bills/Laws (privacy)": null
+  "Changes in Bills/Laws (administrative)": { "split" : false },
+  "Changes in Bills/Laws (legal)": { "split" : false },
+  "Changes in Bills/Laws (privacy)": { "split" : false }
  },
  "Future Proposals": {
-  "Details of Future Proposals": null,
-  "Prototype Start": null,
-  "Prototype Ended?": null,
-  "Prototype End": null,
-  "Future Digital Offering Date?": null
+  "Details of Future Proposals": { "split" : false },
+  "Prototype Start": { "split" : false },
+  "Prototype Ended?": { "split" : false },
+  "Prototype End": { "split" : false },
+  "Future Digital Offering Date?": { "split" : false }
  },
  "Card Features": {
   "ID_fields": {
-   "Other": "Other (ID fields)"
+    "Subsubcategories" : {
+      "Other": "Other (ID fields)"
+    }
   },
-  "Real ID?": null,
-  "Barcode Types - Phy": null,
-  "Barcode Types - Dig": null,
+  "Real ID?": { "split" : false },
+  "Barcode Types - Phy": { "split" : false },
+  "Barcode Types - Dig": { "split" : false },
   "Biometrics?": {
-   "Source" : "Source (Biometrics)",
-   "Other" : "Other (Biometrics)"
+    "Subsubcategories" : {
+       "Source" : "Source (Biometrics)",
+       "Other" : "Other (Biometrics)"
+    }
   }
  },
  "Application": {
   "Application Requirement - Phy": {
-   "Source": "Source (Application Requirements - Phy)",
-   "Other": "Other (Application Requirements - Phy)"
+    "Subsubcategories" : {
+       "Source": "Source (Application Requirements - Phy)",
+       "Other": "Other (Application Requirements - Phy)"
+    }
   },
   "Relationship between Phy and Dig IDs?": {
-   "Other": "Other (Relationship between Phy and Dig IDs?)"
+    "Subsubcategories" : {
+      "Other": "Other (Relationship between Phy and Dig IDs?)"
+    }
   },
-  "Other Application Requirements - Dig": null,
-  "Technical Requirements - Dig": null
+  "Other Application Requirements - Dig": { "split" : false },
+  "Technical Requirements - Dig": { "split" : false }
  },
  "Agency/Vendor": {
-  "What is the issuing agency?": null,
-  "Is the issuing agency partnering with a commercial vendor to design and distribute the mobile ID?": null,
-  "What is the commercial vendor partner for the in-house app?": null,
-  "What is (are) the commercial vendor partner(s) for wallet apps?": null
+  "What is the issuing agency?": { "split" : false },
+  "Is the issuing agency partnering with a commercial vendor to design and distribute the mobile ID?": { "split" : false },
+  "What is the commercial vendor partner for the in-house app?": { "split" : false },
+  "What is (are) the commercial vendor partner(s) for wallet apps?": { "split" : false }
  },
  "Privacy Policies": {
-  "Privacy policies for physical IDs? (e.g. DMV website policy)": null,
-  "Privacy policies for digital IDs?": null
+  "Privacy policies for physical IDs? (e.g. DMV website policy)": { "split" : false },
+  "Privacy policies for digital IDs?": { "split" : false }
  },
  "Mobile ID Data Protections": {
   "Is collected data being warehoused somewhere?": {
-   "Other": "Other (Is collected data being warehoused somewhere?)"
+    "Subsubcategories" : {
+       "Other": "Other (Is collected data being warehoused somewhere?)"
+    }
   },
-  "What kinds of data are being collected?": null,
-  "How is information on the Mobile ID protected?": null
+  "What kinds of data are being collected?": { "split" : false },
+  "How is information on the Mobile ID protected?": { "split" : false }
  },
  "Mobile ID Usage": {
   "What can the dig ID be used for?": {
-   "Source": "Source (What can the dig ID be used for?)",
-   "Other": "Other (What can the dig ID be used for?)"
+    "Subsubcategories" : {
+       "Source": "Source (What can the dig ID be used for?)",
+       "Other": "Other (What can the dig ID be used for?)"
+    }
   }
  },
  "Mobile ID API": {
-  "Is there a mobile API?": null,
-  "Mobile API Specifications": null
+  "Is there a mobile API?": { "split" : false },
+  "Mobile API Specifications": { "split" : false }
  },
  "Verifying Information": {
-  "How is information verified? - Phy Human": null,
-  "How is information verified? - Phy Scanner": null,
-  "How is information verified? - Dig": null
+  "How is information verified? - Phy Human": { "split" : false },
+  "How is information verified? - Phy Scanner": { "split" : false },
+  "How is information verified? - Dig": { "split" : false }
  },
  "Selective Disclosure": {
-  "Selective Disclosure?": null,
-  "How is selective disclosure implemented?": null
+  "Selective Disclosure?": { "split" : false },
+  "How is selective disclosure implemented?": { "split" : false }
  },
  "License considered PII? (in legislation)": {
   "License considered PII? (in legislation)": {
-   "Source": "Legislation Text (Considered PII)"
+    "Subsubcategories" : {
+       "Source": "Legislation Text (Considered PII)"
+    }
   }
  },
  "ID Data Collection Limitations": {
   "Limited by Purpose?": {
-   "Source": "Legislation Text (Limited by Purpose)"
+    "Subsubcategories" : {
+       "Source": "Legislation Text (Limited by Purpose)"
+    }
   },
-  "Legislation requiring ID use for some circumstances (not exhaustive)": null,
+  "Legislation requiring ID use for some circumstances (not exhaustive)": { "split" : false },
   "Limited by Physical Location?": {
-   "Source": "Legislation Text (Limited by Physical Location)"
+    "Subsubcategories" : {
+       "Source": "Legislation Text (Limited by Physical Location)"
+    }
   },
   "Limited by Virtual Location?": {
-   "Source": "Legislation Text (Limited by Virtual Location)"
+    "Subsubcategories" : {
+       "Source": "Legislation Text (Limited by Virtual Location)"
+    }
   },
   "Limited by Other?": {
-   "Source": "Legislation Text (Limited by Other)"
+    "Subsubcategories" : {
+       "Source": "Legislation Text (Limited by Other)"
+    }
   },
   "Retention?": {
-   "Source": "Legislation Text (Retention)"
+    "Subsubcategories" : {
+       "Source": "Legislation Text (Retention)"
+    }
   },
   "Deletion?": {
-   "Source": "Legislation Text (Deletion)"
+    "Subsubcategories" : {
+       "Source": "Legislation Text (Deletion)"
+    }
   },
   "Required Retention?": {
-   "Source": "Legislation Text (Required Retention)"
+    "Subsubcategories" : {
+       "Source": "Legislation Text (Required Retention)"
+    }
   },
   "Distinguishes Between Methods of ID Verification?": {
-   "Source": "Legislation Text (Methods of ID verification)"
+    "Subsubcategories" : {
+       "Source": "Legislation Text (Methods of ID verification)"
+    }
   },
   "Consent?": {
-   "Source": "Legislation Text (Consent)"
+    "Subsubcategories" : {
+       "Source": "Legislation Text (Consent)"
+    }
   },
   "Data Breaches?": {
-   "Source": "Legislation Text (Data Breaches)"
+    "Subsubcategories" : {
+       "Source": "Legislation Text (Data Breaches)"
+    }
   }
  }
 }
