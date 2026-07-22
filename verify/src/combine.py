@@ -8,6 +8,17 @@ from constants import *
 
 import pprint
 
+# DUMPS
+def dump_search_results():
+    results = get_parsed(get_queries_from_search())
+    with open(SEARCH_RESULTS_JSON, 'w') as file:
+        json.dump(results, file, indent=1)
+
+def dump_airtable_results():
+    results = get_airtable()
+    with open(AIRTABLE_RESULTS_JSON, 'w') as file:
+        json.dump(results, file, indent=1)
+
 def split_string(response) -> list():
     split = response.splitlines()
     parsed = {}
@@ -29,6 +40,7 @@ def split_string(response) -> list():
 
     print(parsed)
 
+# STRUCTURING DATA
 def get_queries_from_search() -> dict():
     states = dict()
     rdirs = get_most_recent_rdirs(SEARCH_RESULTS_PATH)
@@ -108,16 +120,7 @@ def get_airtable() -> dict():
 
     return states
 
-def dump_search_results():
-    results = get_parsed(get_queries_from_search())
-    with open(SEARCH_RESULTS_JSON, 'w') as file:
-        json.dump(results, file, indent=1)
-
-def dump_airtable_results():
-    results = get_airtable()
-    with open(AIRTABLE_RESULTS_JSON, 'w') as file:
-        json.dump(results, file, indent=1)
-
+# COMBINING
 def map_to_questions():
     with open(AIRTABLE_TO_QUESTIONS, 'r') as file:
         airtable_map = json.load(file)
@@ -143,41 +146,43 @@ def map_to_questions():
                 states[state][category][subcategory] = dict()
                 state_result_dict = states[state][category][subcategory] 
                 
-                if state_dict[subcategory] != '':
-                    if state_dict[subcategory] == 'checked':
-                        state_result_dict['value'] = True
-                    else:
-                        state_result_dict['value'] = parse_input(state_dict[subcategory])
-                        if (len(state_result_dict['value']) == 1 and
-                            'blank' in state_result_dict['value']):
-                            state_result_dict['value'] = state_result_dict['value']['blank']
-
-                if airtable_map[category][subcategory].get('Subsubcategories') is None: continue
-                subsubcategories = airtable_map[category][subcategory]['Subsubcategories']
-
-                if ("Source" in subsubcategories and state_dict[subsubcategories["Source"]] != ""):
-                    state_result_dict["AirtableSource"] = parse_input(state_dict[subsubcategories["Source"]])
-#                    print(category, subcategory)
-#                    split_string(state_result_dict["AirtableSource"])
-
-                if ("Other" in subsubcategories and state_dict[subsubcategories["Other"]] != ""):
-                    state_result_dict["AirtableOther"] = parse_input(state_dict[subsubcategories["Other"]])
-#                    if state_result_dict["AirtableOther"] == "":
-#                        del state_result_dict["Airtable_source"] 
+                add_subcategories(airtable_map[category][subcategory]['parse_method'],
+                                  state_dict[subcategory],
+                                  state_result_dict)
+                add_subsubcategories(airtable_map[category][subcategory], 
+                                     state_dict,
+                                     state_result_dict)
 
 
-#                for val in airtable_map[category][subcategory]:
-#                    #                    if state_dict[airtable_map[category][subcategory][val]]
-#
-#                    state_result_dict[val] = state_dict[airtable_map[category][subcategory][val]]
 
-#        for val in states[state]:
-#            print(f'{val} - {states[state][val]}')
-#        print(states[state])
 #    pprint.pp(states['Colorado'], width=180)
     with open("/tmp/airtable.json", 'w') as file:
         json.dump(states, file, indent=1)
 
+def add_subcategories(parse_method, state_dict_subcat, state_result_dict):
+    if state_dict_subcat != '':
+        if state_dict_subcat == 'checked':
+            state_result_dict['value'] = True
+        else:
+            if parse_method == 'full':
+                val = parse_input(state_dict_subcat)
+                if len(val) == 1 and 'blank' in val:
+                    val = val['blank']
+            else:
+                val = state_dict_subcat
+            state_result_dict['value'] = val
+
+def add_subsubcategories(subcategory_map, state_dict, state_result_dict):
+    if 'subsubcategories' not in subcategory_map: return
+    subsubcat_map = subcategory_map['subsubcategories']
+
+    if "Source" in subsubcat_map and state_dict[subsubcat_map["Source"]]:
+        state_result_dict["AirtableSource"] = parse_input(state_dict[subsubcat_map["Source"]])
+
+    if "Other" in subsubcat_map and state_dict[subsubcat_map["Other"]]:
+        state_result_dict["AirtableOther"] = parse_input(state_dict[subsubcat_map["Other"]])
+
+# PARSING TEXT
 URL_PATTERN = re.compile(
     r'https?://[^\s<>"\']+',
     re.IGNORECASE,
@@ -253,21 +258,9 @@ def parse_input(text: str) -> dict:
         else:
             blank.append(block)
 
-#        if title:
-#            result[title] = analysis
-#
-#        elif url:
-#            result[url] = analysis
-#
-#        else:
-#            blank.append(analysis)
-
     if blank:
         result["blank"] = blank
 
     return result
-#    return airtable_map
 
-
-# dump_airtable_results()
 map_to_questions()

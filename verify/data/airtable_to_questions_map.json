@@ -16,7 +16,7 @@
   "Digital?": {
     "Digital?": {
       "parse_method" : null,
-      "Subsubcategories": {
+      "subsubcategories": {
         "Source": "Legislation Text (Digital)"
       }
     }
@@ -52,7 +52,7 @@
   "Card Features": {
     "ID_fields": {
       "parse_method" : null,
-      "Subsubcategories": {
+      "subsubcategories": {
         "Other": "Other (ID fields)"
       }
     },
@@ -67,7 +67,7 @@
     },
     "Biometrics?": {
       "parse_method" : null,
-      "Subsubcategories": {
+      "subsubcategories": {
         "Source": "Source (Biometrics)",
         "Other": "Other (Biometrics)"
       }
@@ -76,14 +76,14 @@
   "Application": {
     "Application Requirement - Phy": {
       "parse_method" : "full",
-      "Subsubcategories": {
+      "subsubcategories": {
         "Source": "Source (Application Requirements - Phy)",
         "Other": "Other (Application Requirements - Phy)"
       }
     },
     "Relationship between Phy and Dig IDs?": {
       "parse_method" : "full",
-      "Subsubcategories": {
+      "subsubcategories": {
         "Other": "Other (Relationship between Phy and Dig IDs?)"
       }
     },
@@ -119,7 +119,7 @@
   "Mobile ID Data Protections": {
     "Is collected data being warehoused somewhere?": {
       "parse_method" : "full",
-      "Subsubcategories": {
+      "subsubcategories": {
         "Other": "Other (Is collected data being warehoused somewhere?)"
       }
     },
@@ -133,7 +133,7 @@
   "Mobile ID Usage": {
     "What can the dig ID be used for?": {
       "parse_method": "full",
-      "Subsubcategories": {
+      "subsubcategories": {
         "Source": "Source (What can the dig ID be used for?)",
         "Other": "Other (What can the dig ID be used for?)"
       }
@@ -169,7 +169,7 @@
   "License considered PII? (in legislation)": {
     "License considered PII? (in legislation)": {
       "parse_method": null,
-      "Subsubcategories": {
+      "subsubcategories": {
         "Source": "Legislation Text (Considered PII)"
       }
     }
@@ -177,7 +177,7 @@
   "ID Data Collection Limitations": {
     "Limited by Purpose?": {
       "parse_method": null,
-      "Subsubcategories": {
+      "subsubcategories": {
         "Source": "Legislation Text (Limited by Purpose)"
       }
     },
@@ -186,55 +186,55 @@
     },
     "Limited by Physical Location?": {
       "parse_method": null,
-      "Subsubcategories": {
+      "subsubcategories": {
         "Source": "Legislation Text (Limited by Physical Location)"
       }
     },
     "Limited by Virtual Location?": {
       "parse_method": null,
-      "Subsubcategories": {
+      "subsubcategories": {
         "Source": "Legislation Text (Limited by Virtual Location)"
       }
     },
     "Limited by Other?": {
       "parse_method": null,
-      "Subsubcategories": {
+      "subsubcategories": {
         "Source": "Legislation Text (Limited by Other)"
       }
     },
     "Retention?": {
       "parse_method": null,
-      "Subsubcategories": {
+      "subsubcategories": {
         "Source": "Legislation Text (Retention)"
       }
     },
     "Deletion?": {
       "parse_method": null,
-      "Subsubcategories": {
+      "subsubcategories": {
         "Source": "Legislation Text (Deletion)"
       }
     },
     "Required Retention?": {
       "parse_method": null,
-      "Subsubcategories": {
+      "subsubcategories": {
         "Source": "Legislation Text (Required Retention)"
       }
     },
     "Distinguishes Between Methods of ID Verification?": {
       "parse_method": null,
-      "Subsubcategories": {
+      "subsubcategories": {
         "Source": "Legislation Text (Methods of ID verification)"
       }
     },
     "Consent?": {
       "parse_method": null,
-      "Subsubcategories": {
+      "subsubcategories": {
         "Source": "Legislation Text (Consent)"
       }
     },
     "Data Breaches?": {
       "parse_method": null,
-      "Subsubcategories": {
+      "subsubcategories": {
         "Source": "Legislation Text (Data Breaches)"
       }
     }
