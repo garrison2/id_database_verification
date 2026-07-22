@@ -51,7 +51,7 @@
   },
   "Card Features": {
     "ID_fields": {
-      "parse_method" : null,
+      "parse_method" : "split_comma",
       "subsubcategories": {
         "Other": "Other (ID fields)"
       }
@@ -60,13 +60,13 @@
       "parse_method": null
     },
     "Barcode Types - Phy": {
-      "parse_method": null
+      "parse_method" : "split_comma"
     },
     "Barcode Types - Dig": {
-      "parse_method": null
+      "parse_method" : "split_comma"
     },
     "Biometrics?": {
-      "parse_method" : null,
+      "parse_method" : "split_comma",
       "subsubcategories": {
         "Source": "Source (Biometrics)",
         "Other": "Other (Biometrics)"
@@ -75,7 +75,7 @@
   },
   "Application": {
     "Application Requirement - Phy": {
-      "parse_method" : "full",
+      "parse_method" : "split_comma",
       "subsubcategories": {
         "Source": "Source (Application Requirements - Phy)",
         "Other": "Other (Application Requirements - Phy)"
@@ -118,7 +118,7 @@
   },
   "Mobile ID Data Protections": {
     "Is collected data being warehoused somewhere?": {
-      "parse_method" : "full",
+      "parse_method" : "split_comma",
       "subsubcategories": {
         "Other": "Other (Is collected data being warehoused somewhere?)"
       }
@@ -132,7 +132,7 @@
   },
   "Mobile ID Usage": {
     "What can the dig ID be used for?": {
-      "parse_method": "full",
+      "parse_method" : "split_comma",
       "subsubcategories": {
         "Source": "Source (What can the dig ID be used for?)",
         "Other": "Other (What can the dig ID be used for?)"

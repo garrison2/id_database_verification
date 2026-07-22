@@ -5,6 +5,7 @@ import re
 
 from util import get_most_recent_rdirs
 from constants import *
+import test_suite
 
 import pprint
 
@@ -112,10 +113,9 @@ def map_to_questions():
     states = dict()
 
     # accounts for missing states in either list & duplicates in Airtable
-    states_list = search_results_json.keys() | airtable_results_json.keys()
+    states_list = sorted(list(search_results_json.keys() | airtable_results_json.keys()))
 
     for state in states_list:
-        if state != 'Colorado': continue
         states[state] = dict()
         state_dict = airtable_results_json.get(state)
         if state_dict is None: continue
@@ -132,23 +132,24 @@ def map_to_questions():
                                      state_dict,
                                      state_result_dict)
 
-
-
 #    pprint.pp(states['Colorado'], width=180)
-    with open("/tmp/airtable.json", 'w') as file:
-        json.dump(states, file, indent=1)
+    test_suite.dump_and_diff('airtable_parse', states)
 
 def add_subcategories(parse_method, state_dict_subcat, state_result_dict):
     if state_dict_subcat != '':
         if state_dict_subcat == 'checked':
             state_result_dict['value'] = True
         else:
-            if parse_method == 'full':
-                val = parse_input(state_dict_subcat)
-                if len(val) == 1 and 'blank' in val:
-                    val = val['blank']
-            else:
-                val = state_dict_subcat
+            val = None
+            match parse_method:
+                case 'full':
+                    val = parse_input(state_dict_subcat)
+                    if len(val) == 1 and 'blank' in val:
+                        val = val['blank']
+                case 'split_comma':
+                    pass
+                case _:
+                    val = state_dict_subcat
             state_result_dict['value'] = val
 
 def add_subsubcategories(subcategory_map, state_dict, state_result_dict):
