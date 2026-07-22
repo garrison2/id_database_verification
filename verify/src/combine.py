@@ -19,27 +19,6 @@ def dump_airtable_results():
     with open(AIRTABLE_RESULTS_JSON, 'w') as file:
         json.dump(results, file, indent=1)
 
-def split_string(response) -> list():
-    split = response.splitlines()
-    parsed = {}
-    link_re = re.compile(r".*(http.*)")
-
-    link = None
-    val = ''
-    for i in range(len(split)):
-        match = link_re.match(split[i])
-        if match:
-            if link:
-                parsed[link] = val if val != '' else None
-                val = ''
-            link = match[1]
-        else:
-            val = "\n".join(filter(None, [val, split[i]]))
-    if val:
-        parsed[link] = val if val != '' else None
-
-    print(parsed)
-
 # STRUCTURING DATA
 def get_queries_from_search() -> dict():
     states = dict()
@@ -116,7 +95,6 @@ def get_airtable() -> dict():
             for i in range(len(row)):
                 states[state][airtable_map[str(i)]] = row[i].strip()
 
-#            print(states[state])
 
     return states
 
@@ -137,6 +115,7 @@ def map_to_questions():
     states_list = search_results_json.keys() | airtable_results_json.keys()
 
     for state in states_list:
+        if state != 'Colorado': continue
         states[state] = dict()
         state_dict = airtable_results_json.get(state)
         if state_dict is None: continue
@@ -189,74 +168,56 @@ URL_PATTERN = re.compile(
 )
 
 class ExtractedBlock:
+    blockList = []
+    blockDict = dict()
+
     def __init__(self, block: str):
         self.title = None
         self.block = block
         blockList = []
-        self.url = self.extractUrl()
+        self.source = self._extractSource()
         
         self.id = None
         self.val = None
 
-    def addto(self, addto_dict):
-        addto_dict[self.id] = {'value' : self.val, 'url' : self.url}
+        ExtractedBlock.blockList.append(self)
 
     def extract(self):
-        self.extractFromTitle()
-        if self.url:
-            if len(self.url) == 1:
-                self.val = self.cleanAnalysis(self.block.replace(self.url[0], ''))
-            else:
-                self.val = self.block
-                for url in self.url:
-                    self.val = self.val.replace(url, '')
-                self.val = self.cleanAnalysis(self.val)
-
-        if self.id is None and self.url:
-            self.id = self.url[0] if len(self.url) == 1 else 'multiple_links'
+        if self._extractFromTitle():
+            self._removeSourceFromVal()
             return True
-        
-        self.id = 'blank'
+
         self.val = self.block
-        return False
 
-    def extractFromTitle(self):
-        lines = [line.strip() for line in self.block.splitlines() if line.strip()]
+        if self.source:
+            self._removeSourceFromVal()
 
-        if not lines:
-            return None
+            self.id = self.source[0] if len(self.source) == 1 else 'multiple_links'
 
-        first = lines[0]
-
-        if first.endswith(":"):
-            self.id = self.title = first[:-1].strip()
-            self.val = self.cleanAnalysis(self.block.replace(first, ''))
             return True
+
+        self.id = 'blank'
         return False
 
-    def extractUrl(self):
-        #         url = URL_PATTERN.search(self.block)
-        url = URL_PATTERN.findall(self.block)
-#        if url:
-#            return url.group(0).strip().rstrip('",.)')
-#        return None
-        return url
+    @staticmethod
+    def resetBlocks():
+        ExtractedBlock.blockList = []
+        ExtractedBlock.blockDict = dict()
 
     @staticmethod
-    def cleanAnalysis(text: str) -> str:
-        return text.strip()
+    def mergeBlocks():
+        blocks = ExtractedBlock.blockList
+        merged_blocks = ExtractedBlock.blockDict
 
-    @staticmethod
-    def mergeBlocks(blocks: list) -> dict:
-        merged_blocks = dict() 
         merge_start = 0
         merged_blocks['blank'] = []
         for i in range(len(blocks)):
             if blocks[i].title:
                 merged_blocks['blank'] += [block.val for block in blocks[merge_start:i]]
+                blocks[i]._addToDict()
                 merge_start = i + 1
             elif blocks[i].id != 'blank':
-                ExtractedBlock.mergeAddTo(blocks[merge_start:i+1], merged_blocks)
+                ExtractedBlock._addMultiple(blocks[merge_start:i+1])
                 merge_start = i
 
         if blocks[-1].id == 'blank':
@@ -264,17 +225,67 @@ class ExtractedBlock:
         if merged_blocks['blank'] == []:
             merged_blocks.pop('blank')
 
-        return merged_blocks
+    @staticmethod
+    def getMerged():
+        return ExtractedBlock.blockDict
+
+    def _extractFromTitle(self):
+        lines = [line.strip() for line in self.block.splitlines() if line.strip()]
+
+        if not lines: return None
+
+        first = lines[0]
+        if first.endswith(":"):
+            self.id = self.title = first[:-1].strip()
+            self.val = self._cleanAnalysis(self.block.replace(first, ''))
+            return True
+        return False
+
+    def _extractSource(self):
+        #         source = URL_PATTERN.search(self.block)
+        source = URL_PATTERN.findall(self.block)
+#        if source:
+#            return source.group(0).strip().rstrip('",.)')
+#        return None
+        return source
+
+    # @def Removes all sources stored in self.source from self.val 
+    def _removeSourceFromVal(self):
+        if self.source is None: return
+
+        if len(self.source) == 1:
+            self.val = self._cleanAnalysis(self.val.replace(self.source[0], ''))
+        else:
+            self.val = self.block
+            for source in self.source:
+                self.val = self.val.replace(source, '')
+            self.val = self._cleanAnalysis(self.val)
+
+    def _resolveIDConflicts(self):
+        i = 1
+        candidate = self.id
+        while candidate in ExtractedBlock.blockDict:
+            candidate = f'{self.id}_{i}'
+            i += 1
+        self.id = candidate
 
     @staticmethod
-    def mergeAddTo(blocks, addto_dict):
+    def _cleanAnalysis(text: str) -> str:
+        return text.strip()
+
+    def _addToDict(self):
+        self._resolveIDConflicts()
+        ExtractedBlock.blockDict[self.id] = {'value' : self.val, 'source' : self.source}
+
+    @staticmethod
+    def _addMultiple(blocks):
         block = blocks[0]
         for next_block in blocks[1:]:
             block.val += next_block.val
-            block.url = next_block.url
+            block.source = next_block.source
             block.id = next_block.id
 
-        block.addto(addto_dict)
+        block._addToDict()
 
 def clean_analysis(block: str) -> str:
 #    text = URL_PATTERN.sub("", text)
@@ -288,6 +299,7 @@ def parse_input(text: str) -> dict:
     blank = []
 
     blocks = re.split(r"\n\s*\n+", text)
+    ExtractedBlock.resetBlocks()
 
     for block in blocks:
         block = block.strip()
@@ -297,33 +309,25 @@ def parse_input(text: str) -> dict:
 
         extracted_block = ExtractedBlock(block)
         extracted_block.extract()
-        result_list.append(extracted_block)
 #        if extracted_block.extract():
 #            result_list.append(extracted_block)
 #            extracted_block.addto(result)
 #        else:
 #            blank.append(block)
 
-<<<<<<< HEAD
-    if blank:
-        result["blank"] = blank
-=======
 #        if title:
 #            result[title] = analysis
 #
-#        elif url:
-#            result[url] = analysis
+#        elif source:
+#            result[source] = analysis
 #
 #        else:
 #            blank.append(analysis)
-    result = ExtractedBlock.mergeBlocks(result_list)
-    print(result)
-
+    ExtractedBlock.mergeBlocks()
 
 #    if blank:
 #        result["blank"] = blank
->>>>>>> origin/tmp_combine
 
-    return result
+    return ExtractedBlock.getMerged()
 
 map_to_questions()
