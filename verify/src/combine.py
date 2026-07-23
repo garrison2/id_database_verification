@@ -147,7 +147,8 @@ def add_subcategories(parse_method, state_dict_subcat, state_result_dict):
                     if len(val) == 1 and 'blank' in val:
                         val = val['blank']
                 case 'split_comma':
-                    val = state_dict_subcat.split(',')
+                    val = [ x for x in next(csv.reader([state_dict_subcat], delimiter=',', quotechar='"')) ]
+
                 case _:
                     val = state_dict_subcat
             state_result_dict['value'] = val
