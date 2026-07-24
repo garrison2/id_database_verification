@@ -165,7 +165,7 @@ def add_subsubcategories(subcategory_map, state_dict, state_result_dict):
 
 # PARSING TEXT
 URL_PATTERN = re.compile(
-    r'https?://[^\s<>"\']+',
+    r'https?://.*?(?=https?://|$|\s|[<>"\'])',
     re.IGNORECASE,
 )
 
@@ -220,7 +220,7 @@ class ExtractedBlock:
                 merge_start = i + 1
             elif blocks[i].id != 'blank':
                 ExtractedBlock._addMultiple(blocks[merge_start:i+1])
-                merge_start = i
+                merge_start = i + 1
 
         if blocks[-1].id == 'blank':
             merged_blocks['blank'] += [block.val for block in blocks[merge_start:]]
@@ -295,7 +295,6 @@ def clean_analysis(block: str) -> str:
 
 
 def parse_input(text: str) -> dict:
-#    return text
     result = {}
     result_list = []
     blank = []
@@ -311,24 +310,8 @@ def parse_input(text: str) -> dict:
 
         extracted_block = ExtractedBlock(block)
         extracted_block.extract()
-#        if extracted_block.extract():
-#            result_list.append(extracted_block)
-#            extracted_block.addto(result)
-#        else:
-#            blank.append(block)
 
-#        if title:
-#            result[title] = analysis
-#
-#        elif source:
-#            result[source] = analysis
-#
-#        else:
-#            blank.append(analysis)
     ExtractedBlock.mergeBlocks()
-
-#    if blank:
-#        result["blank"] = blank
 
     return ExtractedBlock.getMerged()
 
