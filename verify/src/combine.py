@@ -117,7 +117,7 @@ def map_to_questions():
     states_list = sorted(list(search_results_json.keys() | airtable_results_json.keys()))
 
     for state in states_list:
-#        if state != 'Delaware': continue
+#        if state != 'Alaska_1': continue
         states[state] = dict()
         state_dict = airtable_results_json.get(state)
         if state_dict is None: continue
@@ -165,9 +165,8 @@ def add_subsubcategories(subcategory_map, state_dict, state_result_dict):
     if "Other" in subsubcat_map and state_dict[subsubcat_map["Other"]]:
         state_result_dict["AirtableOther"] = parse_input(state_dict[subsubcat_map["Other"]])
 
-# PARSING TEXT
 URL_PATTERN = re.compile(
-    r'https?://.*?(?=https?://|$|\s|[<>"\'])',
+    r'https?://(?:(?!https?://)[^\s<>"{}|\\^`\[\]])+',
     re.IGNORECASE,
 )
 
@@ -227,7 +226,6 @@ class ExtractedBlock:
         merge_end = None
         merged_blocks['blank'] = []
 
-#        print([repr(block.val) for block in blocks])
         for i in range(len(blocks)):
             print(f'{i} - "{blocks[i].id}", "{repr(blocks[i].val)}", "{blocks[i].idType}"')
             match blocks[i].idType:
@@ -238,8 +236,6 @@ class ExtractedBlock:
                         ExtractedBlock._addMultiple(blocks[merge_start:merge_end+1])
                     merge_start = i
                     merge_end = i
-#                    blocks[i]._addToDict()
-#                    merge_start = i + 1
                 case BlockIdType.SOURCE_ONLY | BlockIdType.MULTIPLE_SOURCES_ONLY:
                     merge_end = i
                 case BlockIdType.SOURCE | BlockIdType.MULTIPLE_SOURCES:
@@ -278,7 +274,6 @@ class ExtractedBlock:
             self.id = self.title = first[:-1].strip()
             self.val = self._cleanAnalysis(self.block.replace(first, ''))
             self.idType = BlockIdType.TITLE
-            print('here', self.id, self.val)
             return True
         return False
 
@@ -347,6 +342,28 @@ def clean_analysis(block: str) -> str:
 #    text = URL_PATTERN.sub("", text)
     return text.strip()
 
+url_pattern = re.compile(r'https?://\S+')
+section_pattern = re.compile(r'\n\s*\n+')
+
+def split_text(text: str) -> list[str]:
+    url = r"https?://[^\s]+"
+
+    # split on blank lines & after URLs
+    parts = re.split(
+        rf"\n\s*\n|({url})(?=\s|$)",
+        text
+    )
+
+    # Remove empty entries and preserve all matched content
+    result = [part for part in parts if part]
+
+    # Split malformed glued URLs:
+    # "texthttps://example.com" -> "text", "https://example.com"
+    final = []
+    for part in result:
+        final.extend(re.split(r"(?<=\S)(?=https?://)", part))
+
+    return [x for x in final if x]
 
 def parse_input(text: str) -> dict:
     result = {}
@@ -354,7 +371,19 @@ def parse_input(text: str) -> dict:
     blank = []
 
 #    blocks = re.split(r"\n\s*\n+", text)
-    blocks = re.split(r"(?:\r?\n\s*){2,}|\r?\n(?=https?://)|(?<=\S)(?=https?://)", text)
+    pattern = (
+        r"(?:\r?\n\s*){2,}"
+        r"|\r?\n(?=https?://)"
+        r"|(?<=\S)(?=https?://)"
+    )
+
+#    blocks = [
+#        b for b in re.split(f"({pattern})", text.strip())
+#        if b and not re.fullmatch(r"(?:\r?\n\s*){2,}", b)
+#    ]
+    blocks = split_text(text)
+
+#    blocks = re.split(r"(?:\r?\n\s*){2,}|\r?\n(?=https?://)|(?<=\S)(?=https?://)", text)
     print('\t\t', blocks)
     ExtractedBlock.resetBlocks()
 
