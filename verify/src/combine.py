@@ -2,6 +2,7 @@
 import os, time
 import json, csv
 import re
+from enum import Enum
 
 from util import get_most_recent_rdirs
 from constants import *
@@ -116,6 +117,7 @@ def map_to_questions():
     states_list = sorted(list(search_results_json.keys() | airtable_results_json.keys()))
 
     for state in states_list:
+        if state != 'Connecticut': continue
         states[state] = dict()
         state_dict = airtable_results_json.get(state)
         if state_dict is None: continue
@@ -132,8 +134,8 @@ def map_to_questions():
                                      state_dict,
                                      state_result_dict)
 
-#    pprint.pp(states['Colorado'], width=180)
-    test_suite.dump_and_diff('airtable_parse', states)
+    pprint.pp(states, width=180)
+#    test_suite.dump_and_diff('airtable_parse', states)
 
 def add_subcategories(parse_method, state_dict_subcat, state_result_dict):
     if state_dict_subcat != '':
@@ -169,20 +171,30 @@ URL_PATTERN = re.compile(
     re.IGNORECASE,
 )
 
+class BlockIdType(Enum):
+    TITLE = 0
+    SOURCE = 1
+    MULTIPLE_SOURCES = 2
+    SOURCE_ONLY = 3
+    MULTIPLE_SOURCES_ONLY = 4
+    BLANK = 5
+
 class ExtractedBlock:
     blockList = []
     blockDict = dict()
 
-    def __init__(self, block: str):
-        self.title = None
+    def __init__(self, block: str, setup = True):
         self.block = block
-        blockList = []
-        self.source = self._extractSource()
+        self.source = self._extractSource() if setup else None
         
         self.id = None
+        self.idType = None
         self.val = None
 
-        ExtractedBlock.blockList.append(self)
+        self.title = None
+
+        if setup:
+            ExtractedBlock.blockList.append(self)
 
     def extract(self):
         if self._extractFromTitle():
@@ -193,12 +205,12 @@ class ExtractedBlock:
 
         if self.source:
             self._removeSourceFromVal()
-
-            self.id = self.source[0] if len(self.source) == 1 else 'multiple_links'
+            self._setMultipleSources()
 
             return True
 
         self.id = 'blank'
+        self.idType = BlockIdType.BLANK
         return False
 
     @staticmethod
@@ -212,18 +224,40 @@ class ExtractedBlock:
         merged_blocks = ExtractedBlock.blockDict
 
         merge_start = 0
+        hit_link = None
         merged_blocks['blank'] = []
-        for i in range(len(blocks)):
-            if blocks[i].title:
-                merged_blocks['blank'] += [block.val for block in blocks[merge_start:i]]
-                blocks[i]._addToDict()
-                merge_start = i + 1
-            elif blocks[i].id != 'blank':
-                ExtractedBlock._addMultiple(blocks[merge_start:i+1])
-                merge_start = i + 1
 
-        if blocks[-1].id == 'blank':
+#        print([repr(block.val) for block in blocks])
+        for i in range(len(blocks)):
+            print(f'{i} - "{blocks[i].id}", "{repr(blocks[i].val)}", "{blocks[i].idType}"')
+            match blocks[i].idType:
+                case BlockIdType.TITLE:
+                    if hit_link is not None:
+                        ExtractedBlock._addMultiple(blocks[merge_start:hit_link+1])
+                        hit_link = None
+                    else:
+                        merged_blocks['blank'] += [block.val for block in blocks[merge_start:i]]
+                    blocks[i]._addToDict()
+                    merge_start = i + 1
+                case BlockIdType.SOURCE_ONLY | BlockIdType.MULTIPLE_SOURCES_ONLY:
+                    hit_link = i
+                case BlockIdType.SOURCE | BlockIdType.MULTIPLE_SOURCES:
+                    if hit_link is not None:
+                        ExtractedBlock._addMultiple(blocks[merge_start:hit_link+1])
+                    hit_link = i
+                    merge_start = i
+
+                case BlockIdType.BLANK:
+                    if hit_link is not None:
+                        ExtractedBlock._addMultiple(blocks[merge_start:hit_link+1])
+                        hit_link = None
+                        merge_start = i
+
+        if blocks[-1].idType == BlockIdType.BLANK:
             merged_blocks['blank'] += [block.val for block in blocks[merge_start:]]
+        if hit_link is not None:
+            ExtractedBlock._addMultiple(blocks[merge_start:hit_link+1])
+
         if merged_blocks['blank'] == []:
             merged_blocks.pop('blank')
 
@@ -240,6 +274,7 @@ class ExtractedBlock:
         if first.endswith(":"):
             self.id = self.title = first[:-1].strip()
             self.val = self._cleanAnalysis(self.block.replace(first, ''))
+            self.idType = BlockIdType.TITLE
             return True
         return False
 
@@ -271,6 +306,14 @@ class ExtractedBlock:
             i += 1
         self.id = candidate
 
+    def _setMultipleSources(self):
+        if len(self.source) == 1:
+            self.id = self.source[0]
+            self.idType = BlockIdType.SOURCE if self.val else BlockIdType.SOURCE_ONLY
+        else:
+            self.id = 'multiple_sources'
+            self.idType = BlockIdType.MULTIPLE_SOURCES if self.val else BlockIdType.MULTIPLE_SOURCES_ONLY
+
     @staticmethod
     def _cleanAnalysis(text: str) -> str:
         return text.strip()
@@ -281,12 +324,17 @@ class ExtractedBlock:
 
     @staticmethod
     def _addMultiple(blocks):
-        block = blocks[0]
-        for next_block in blocks[1:]:
+        block = ExtractedBlock('', setup = False)
+        block.source = []
+        block.val = ''
+#        block = blocks[0]
+        for next_block in blocks:
+            block.block += next_block.block
             block.val += next_block.val
-            block.source = next_block.source
+            block.source += next_block.source
             block.id = next_block.id
 
+        block._setMultipleSources()
         block._addToDict()
 
 def clean_analysis(block: str) -> str:
@@ -299,7 +347,10 @@ def parse_input(text: str) -> dict:
     result_list = []
     blank = []
 
-    blocks = re.split(r"\n\s*\n+", text)
+#    blocks = re.split(r"\n\s*\n+", text)
+    blocks = re.split(r"\n\s*\n+|(?<=\S)(?=https?://)", text)
+    sections = re.split(r"(?:\r?\n\s*){2,}", text.strip())
+    print('\t\t', blocks)
     ExtractedBlock.resetBlocks()
 
     for block in blocks:
