@@ -117,7 +117,7 @@ def map_to_questions():
     states_list = sorted(list(search_results_json.keys() | airtable_results_json.keys()))
 
     for state in states_list:
-        if state != 'Connecticut': continue
+#        if state != 'Delaware': continue
         states[state] = dict()
         state_dict = airtable_results_json.get(state)
         if state_dict is None: continue
@@ -135,7 +135,7 @@ def map_to_questions():
                                      state_result_dict)
 
     pprint.pp(states, width=180)
-#    test_suite.dump_and_diff('airtable_parse', states)
+    test_suite.dump_and_diff('airtable_parse', states)
 
 def add_subcategories(parse_method, state_dict_subcat, state_result_dict):
     if state_dict_subcat != '':
@@ -243,7 +243,9 @@ class ExtractedBlock:
                 case BlockIdType.SOURCE_ONLY | BlockIdType.MULTIPLE_SOURCES_ONLY:
                     merge_end = i
                 case BlockIdType.SOURCE | BlockIdType.MULTIPLE_SOURCES:
-                    if merge_end is not None:
+                    if merge_end is None:
+                        merged_blocks['blank'] += [block.val for block in blocks[merge_start:i]]
+                    else:
                         ExtractedBlock._addMultiple(blocks[merge_start:merge_end+1])
                     merge_start = i
                     merge_end = i
@@ -366,6 +368,7 @@ def parse_input(text: str) -> dict:
         extracted_block.extract()
 
     ExtractedBlock.mergeBlocks()
+    print(ExtractedBlock.getMerged())
 
     return ExtractedBlock.getMerged()
 
