@@ -185,7 +185,7 @@ class ExtractedBlock:
 
     def __init__(self, block: str, setup = True):
         self.block = block
-        self.source = self._extractSource() if setup else None
+        self.source = self._extractSource() if setup else []
         
         self.id = None
         self.idType = None
@@ -205,7 +205,7 @@ class ExtractedBlock:
 
         if self.source:
             self._removeSourceFromVal()
-            self._setMultipleSources()
+            self._resolveMultipleSources()
 
             return True
 
@@ -224,7 +224,7 @@ class ExtractedBlock:
         merged_blocks = ExtractedBlock.blockDict
 
         merge_start = 0
-        hit_link = None
+        merge_end = None
         merged_blocks['blank'] = []
 
 #        print([repr(block.val) for block in blocks])
@@ -232,31 +232,32 @@ class ExtractedBlock:
             print(f'{i} - "{blocks[i].id}", "{repr(blocks[i].val)}", "{blocks[i].idType}"')
             match blocks[i].idType:
                 case BlockIdType.TITLE:
-                    if hit_link is not None:
-                        ExtractedBlock._addMultiple(blocks[merge_start:hit_link+1])
-                        hit_link = None
-                    else:
+                    if merge_end is None:
                         merged_blocks['blank'] += [block.val for block in blocks[merge_start:i]]
-                    blocks[i]._addToDict()
-                    merge_start = i + 1
-                case BlockIdType.SOURCE_ONLY | BlockIdType.MULTIPLE_SOURCES_ONLY:
-                    hit_link = i
-                case BlockIdType.SOURCE | BlockIdType.MULTIPLE_SOURCES:
-                    if hit_link is not None:
-                        ExtractedBlock._addMultiple(blocks[merge_start:hit_link+1])
-                    hit_link = i
+                    else:
+                        ExtractedBlock._addMultiple(blocks[merge_start:merge_end+1])
                     merge_start = i
+                    merge_end = i
+#                    blocks[i]._addToDict()
+#                    merge_start = i + 1
+                case BlockIdType.SOURCE_ONLY | BlockIdType.MULTIPLE_SOURCES_ONLY:
+                    merge_end = i
+                case BlockIdType.SOURCE | BlockIdType.MULTIPLE_SOURCES:
+                    if merge_end is not None:
+                        ExtractedBlock._addMultiple(blocks[merge_start:merge_end+1])
+                    merge_start = i
+                    merge_end = i
 
                 case BlockIdType.BLANK:
-                    if hit_link is not None:
-                        ExtractedBlock._addMultiple(blocks[merge_start:hit_link+1])
-                        hit_link = None
+                    if merge_end is not None:
+                        ExtractedBlock._addMultiple(blocks[merge_start:merge_end+1])
                         merge_start = i
+                        merge_end = None
 
         if blocks[-1].idType == BlockIdType.BLANK:
             merged_blocks['blank'] += [block.val for block in blocks[merge_start:]]
-        if hit_link is not None:
-            ExtractedBlock._addMultiple(blocks[merge_start:hit_link+1])
+        if merge_end is not None:
+            ExtractedBlock._addMultiple(blocks[merge_start:merge_end+1])
 
         if merged_blocks['blank'] == []:
             merged_blocks.pop('blank')
@@ -275,6 +276,7 @@ class ExtractedBlock:
             self.id = self.title = first[:-1].strip()
             self.val = self._cleanAnalysis(self.block.replace(first, ''))
             self.idType = BlockIdType.TITLE
+            print('here', self.id, self.val)
             return True
         return False
 
@@ -288,7 +290,7 @@ class ExtractedBlock:
 
     # @def Removes all sources stored in self.source from self.val 
     def _removeSourceFromVal(self):
-        if self.source is None: return
+        if self.source == []: return
 
         if len(self.source) == 1:
             self.val = self._cleanAnalysis(self.val.replace(self.source[0], ''))
@@ -306,7 +308,8 @@ class ExtractedBlock:
             i += 1
         self.id = candidate
 
-    def _setMultipleSources(self):
+    def _resolveMultipleSources(self):
+        if self.idType is BlockIdType.TITLE: return
         if len(self.source) == 1:
             self.id = self.source[0]
             self.idType = BlockIdType.SOURCE if self.val else BlockIdType.SOURCE_ONLY
@@ -325,16 +328,17 @@ class ExtractedBlock:
     @staticmethod
     def _addMultiple(blocks):
         block = ExtractedBlock('', setup = False)
-        block.source = []
         block.val = ''
 #        block = blocks[0]
         for next_block in blocks:
             block.block += next_block.block
             block.val += next_block.val
             block.source += next_block.source
-            block.id = next_block.id
+            if block.idType is None:
+                block.id = next_block.id
+                block.idType = next_block.idType
 
-        block._setMultipleSources()
+        block._resolveMultipleSources()
         block._addToDict()
 
 def clean_analysis(block: str) -> str:
@@ -348,8 +352,7 @@ def parse_input(text: str) -> dict:
     blank = []
 
 #    blocks = re.split(r"\n\s*\n+", text)
-    blocks = re.split(r"\n\s*\n+|(?<=\S)(?=https?://)", text)
-    sections = re.split(r"(?:\r?\n\s*){2,}", text.strip())
+    blocks = re.split(r"(?:\r?\n\s*){2,}|\r?\n(?=https?://)|(?<=\S)(?=https?://)", text)
     print('\t\t', blocks)
     ExtractedBlock.resetBlocks()
 
