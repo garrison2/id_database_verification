@@ -1,8 +1,9 @@
 #!/usr/bin/env python
-import os, time
+import os, time, shutil
 import json, csv
 import re
 from enum import Enum
+from urllib.parse import urlparse
 
 from util import get_most_recent_rdirs
 from constants import *
@@ -13,7 +14,7 @@ import pprint
 # DUMPS
 def dump_search_results():
     results = get_parsed(get_queries_from_search())
-    with open(SEARCH_RESULTS_JSON, 'w') as file:
+    with open(SEARCH_RESULTS_PARSED, 'w') as file:
         json.dump(results, file, indent=1)
 
 def dump_airtable_results():
@@ -47,7 +48,7 @@ def get_queries_from_search() -> dict():
     return states
 
 def get_parsed(queries) -> dict():
-    with open(SEARCH_RESULTS_PARSED, 'r') as file:
+    with open(SEARCH_RESULTS_HUMAN_PARSED, 'r') as file:
         reader = csv.reader(file)
         header = next(reader)
         header = list(set(header[2:]))
@@ -97,27 +98,23 @@ def get_airtable() -> dict():
             for i in range(len(row)):
                 states[state][airtable_map[str(i)]] = row[i].strip()
 
-
     return states
 
-# COMBINING
-def map_to_questions():
+# PARSING AIRTABLE
+def parse_airtable():
     with open(AIRTABLE_TO_QUESTIONS, 'r') as file:
         airtable_map = json.load(file)
-    with open(QUERIES_TO_QUESTIONS, 'r') as file:
-        queries_map = json.load(file)
-    with open(SEARCH_RESULTS_JSON, 'r') as file:
-        search_results_json = json.load(file)
+    with open(SEARCH_RESULTS_PARSED, 'r') as file:
+        search_results_parsed = json.load(file)
     with open(AIRTABLE_RESULTS_JSON, 'r') as file:
         airtable_results_json = json.load(file)
 
     states = dict()
 
     # accounts for missing states in either list & duplicates in Airtable
-    states_list = sorted(list(search_results_json.keys() | airtable_results_json.keys()))
+    states_list = sorted(list(search_results_parsed.keys() | airtable_results_json.keys()))
 
     for state in states_list:
-#        if state != 'Alaska_1': continue
         states[state] = dict()
         state_dict = airtable_results_json.get(state)
         if state_dict is None: continue
@@ -134,8 +131,23 @@ def map_to_questions():
                                      state_dict,
                                      state_result_dict)
 
-    pprint.pp(states, width=180)
     test_suite.dump_and_diff('airtable_parse', states)
+
+def parse_input(text: str) -> dict:
+    blocks = split_text(text)
+    ExtractedBlock.resetBlocks()
+
+    for block in blocks:
+        block = block.strip()
+
+        if not block:
+            continue
+
+        extracted_block = ExtractedBlock(block)
+        extracted_block.extract()
+
+    ExtractedBlock.mergeBlocks()
+    return ExtractedBlock.getMerged()
 
 def add_subcategories(parse_method, state_dict_subcat, state_result_dict):
     if state_dict_subcat != '':
@@ -146,8 +158,6 @@ def add_subcategories(parse_method, state_dict_subcat, state_result_dict):
             match parse_method:
                 case 'full':
                     val = parse_input(state_dict_subcat)
-                    if len(val) == 1 and 'blank' in val:
-                        val = val['blank']
                 case 'split_comma':
                     val = [ x for x in next(csv.reader([state_dict_subcat], delimiter=',', quotechar='"')) ]
 
@@ -179,8 +189,8 @@ class BlockIdType(Enum):
     BLANK = 5
 
 class ExtractedBlock:
+    unmergedList = []
     blockList = []
-    blockDict = dict()
 
     def __init__(self, block: str, setup = True):
         self.block = block
@@ -193,7 +203,7 @@ class ExtractedBlock:
         self.title = None
 
         if setup:
-            ExtractedBlock.blockList.append(self)
+            ExtractedBlock.unmergedList.append(self)
 
     def extract(self):
         if self._extractFromTitle():
@@ -214,55 +224,49 @@ class ExtractedBlock:
 
     @staticmethod
     def resetBlocks():
+        ExtractedBlock.unmergedList = []
         ExtractedBlock.blockList = []
-        ExtractedBlock.blockDict = dict()
 
     @staticmethod
     def mergeBlocks():
-        blocks = ExtractedBlock.blockList
-        merged_blocks = ExtractedBlock.blockDict
+        blocks = ExtractedBlock.unmergedList
 
         merge_start = 0
         merge_end = None
-        merged_blocks['blank'] = []
 
         for i in range(len(blocks)):
-            print(f'{i} - "{blocks[i].id}", "{repr(blocks[i].val)}", "{blocks[i].idType}"')
             match blocks[i].idType:
                 case BlockIdType.TITLE:
                     if merge_end is None:
-                        merged_blocks['blank'] += [block.val for block in blocks[merge_start:i]]
+                        ExtractedBlock._addAsBlank(blocks[merge_start:i])
                     else:
-                        ExtractedBlock._addMultiple(blocks[merge_start:merge_end+1])
+                        ExtractedBlock._combineAndAddMultiple(blocks[merge_start:merge_end+1])
                     merge_start = i
                     merge_end = i
                 case BlockIdType.SOURCE_ONLY | BlockIdType.MULTIPLE_SOURCES_ONLY:
                     merge_end = i
                 case BlockIdType.SOURCE | BlockIdType.MULTIPLE_SOURCES:
                     if merge_end is None:
-                        merged_blocks['blank'] += [block.val for block in blocks[merge_start:i]]
+                        ExtractedBlock._addAsBlank(blocks[merge_start:i])
                     else:
-                        ExtractedBlock._addMultiple(blocks[merge_start:merge_end+1])
+                        ExtractedBlock._combineAndAddMultiple(blocks[merge_start:merge_end+1])
                     merge_start = i
                     merge_end = i
 
                 case BlockIdType.BLANK:
                     if merge_end is not None:
-                        ExtractedBlock._addMultiple(blocks[merge_start:merge_end+1])
+                        ExtractedBlock._combineAndAddMultiple(blocks[merge_start:merge_end+1])
                         merge_start = i
                         merge_end = None
 
         if blocks[-1].idType == BlockIdType.BLANK:
-            merged_blocks['blank'] += [block.val for block in blocks[merge_start:]]
+            ExtractedBlock._addAsBlank(blocks[merge_start:])
         if merge_end is not None:
-            ExtractedBlock._addMultiple(blocks[merge_start:merge_end+1])
-
-        if merged_blocks['blank'] == []:
-            merged_blocks.pop('blank')
+            ExtractedBlock._combineAndAddMultiple(blocks[merge_start:merge_end+1])
 
     @staticmethod
     def getMerged():
-        return ExtractedBlock.blockDict
+        return ExtractedBlock.blockList
 
     def _extractFromTitle(self):
         lines = [line.strip() for line in self.block.splitlines() if line.strip()]
@@ -278,11 +282,7 @@ class ExtractedBlock:
         return False
 
     def _extractSource(self):
-        #         source = URL_PATTERN.search(self.block)
         source = URL_PATTERN.findall(self.block)
-#        if source:
-#            return source.group(0).strip().rstrip('",.)')
-#        return None
         return source
 
     # @def Removes all sources stored in self.source from self.val 
@@ -297,14 +297,6 @@ class ExtractedBlock:
                 self.val = self.val.replace(source, '')
             self.val = self._cleanAnalysis(self.val)
 
-    def _resolveIDConflicts(self):
-        i = 1
-        candidate = self.id
-        while candidate in ExtractedBlock.blockDict:
-            candidate = f'{self.id}_{i}'
-            i += 1
-        self.id = candidate
-
     def _resolveMultipleSources(self):
         if self.idType is BlockIdType.TITLE: return
         if len(self.source) == 1:
@@ -318,15 +310,31 @@ class ExtractedBlock:
     def _cleanAnalysis(text: str) -> str:
         return text.strip()
 
-    def _addToDict(self):
-        self._resolveIDConflicts()
-        ExtractedBlock.blockDict[self.id] = {'value' : self.val, 'source' : self.source}
+    def _addToList(self):
+        if self.idType is BlockIdType.TITLE:
+            block = { 'title' : self.id }
+            if self.val:
+                block['value'] = self.val
+            if self.source:
+                block['source'] = self.source
+            ExtractedBlock.blockList.append(block)
+        else:
+            block = dict()
+            if self.val:
+                block['value'] = self.val
+            block['source'] = self.source
+            ExtractedBlock.blockList.append(block)
 
     @staticmethod
-    def _addMultiple(blocks):
+    def _addAsBlank(blocks):
+        val = [block.val for block in blocks]
+        if val == []: return
+        ExtractedBlock.blockList.append({'value' : val})
+
+    @staticmethod
+    def _combineAndAddMultiple(blocks):
         block = ExtractedBlock('', setup = False)
         block.val = ''
-#        block = blocks[0]
         for next_block in blocks:
             block.block += next_block.block
             block.val += next_block.val
@@ -336,14 +344,7 @@ class ExtractedBlock:
                 block.idType = next_block.idType
 
         block._resolveMultipleSources()
-        block._addToDict()
-
-def clean_analysis(block: str) -> str:
-#    text = URL_PATTERN.sub("", text)
-    return text.strip()
-
-url_pattern = re.compile(r'https?://\S+')
-section_pattern = re.compile(r'\n\s*\n+')
+        block._addToList()
 
 def split_text(text: str) -> list[str]:
     url = r"https?://[^\s]+"
@@ -365,40 +366,116 @@ def split_text(text: str) -> list[str]:
 
     return [x for x in final if x]
 
-def parse_input(text: str) -> dict:
-    result = {}
-    result_list = []
-    blank = []
+# COMBINING
+TERMINAL_WIDTH = shutil.get_terminal_size().columns
 
-#    blocks = re.split(r"\n\s*\n+", text)
-    pattern = (
-        r"(?:\r?\n\s*){2,}"
-        r"|\r?\n(?=https?://)"
-        r"|(?<=\S)(?=https?://)"
-    )
+def print_side_by_side(left: list, right: list):
+    result = []
 
-#    blocks = [
-#        b for b in re.split(f"({pattern})", text.strip())
-#        if b and not re.fullmatch(r"(?:\r?\n\s*){2,}", b)
-#    ]
-    blocks = split_text(text)
+    while any(strings):
+        line = []
 
-#    blocks = re.split(r"(?:\r?\n\s*){2,}|\r?\n(?=https?://)|(?<=\S)(?=https?://)", text)
-    print('\t\t', blocks)
-    ExtractedBlock.resetBlocks()
+        for i, s in enumerate(strings):
+            line.append(s[:size].ljust(size))
+            strings[i] = s[size:]
 
-    for block in blocks:
-        block = block.strip()
+        result.append((" " * space).join(line))
+    
+    return "\n".join(result)
 
-        if not block:
-            continue
+def combine_airtable_and_search():
+    with open(QUERIES_TO_QUESTIONS, 'r') as file:
+        queries_map = json.load(file)
+    with open(SEARCH_RESULTS_PARSED, 'r') as file:
+        search_results_parsed = json.load(file)
+    with open(AIRTABLE_RESULTS_PARSED, 'r') as file:
+        airtable_results_parsed = json.load(file)
 
-        extracted_block = ExtractedBlock(block)
-        extracted_block.extract()
+    states_list = sorted(list(search_results_parsed.keys() | airtable_results_parsed.keys()))
 
-    ExtractedBlock.mergeBlocks()
-    print(ExtractedBlock.getMerged())
+    combined = dict()
 
-    return ExtractedBlock.getMerged()
+    for state in states_list:
+        combined[state] = dict()
+        combined[state]['notes'] = airtable_results_parsed[state].get('Meta', dict()).get('General Notes', dict())
 
-map_to_questions()
+        for category in queries_map:
+            combined[state][category] = dict()
+            for subcategory in queries_map[category]:
+
+                if (category in airtable_results_parsed[state] and
+                    subcategory in airtable_results_parsed[state][category]):
+                    combined[state][category][subcategory] = airtable_results_parsed[state][category][subcategory]
+
+                if state not in search_results_parsed:
+                    modified_state = state[:state.find('_')]
+                else:
+                    modified_state = state
+
+                combined[state][category][subcategory] = combined[state][category].get(subcategory, dict())
+                subcat = combined[state][category][subcategory]
+
+                search_nums = queries_map[category][subcategory]
+
+                links = [link for num in search_nums for link in search_results_parsed[modified_state][str(num)]['links']]
+                notes = [search_results_parsed[modified_state][str(num)]['notes'] for num in search_nums 
+                         if search_results_parsed[modified_state][str(num)]['notes']]
+
+                # remove duplicates while retaining order
+                links = list(dict.fromkeys(links))
+                notes = list(dict.fromkeys(notes))
+
+                for search_index in range(len(links)):
+                    search_link = urlparse(links[search_index])
+                    if 'AirtableSource' in subcat:
+                        airtable_index = 1 if 'value' in subcat else 0
+                        for item in subcat['AirtableSource']:
+                            if 'source' in item:
+                                for airtable_link in item['source']:
+                                    airtable_link = urlparse(airtable_link)
+                                    if search_link[0:5] == airtable_link[0:5]:
+                                        links[search_index] = f'[Airtable {airtable_index}]'
+                                        print(state, category, subcategory, links[search_index])
+                                        break
+                            airtable_index += 1
+
+                if links:
+                    subcat['GoogleSource'] = links
+                if notes:
+                    subcat['GoogleNotes'] = notes 
+
+    with open(COMBINED_RESULTS, 'w') as file:
+        json.dump(combined, file, indent=1)
+
+def select_from_combined():
+    with open(COMBINED_RESULTS, 'r') as file:
+        combined = json.load(file)
+    try:
+        with open(COMBINE_LOGS, 'r') as file:
+            logs = json.load(file)
+    except FileNotFoundError:
+        logs = dict()
+
+
+    logs['seen'] = logs.get('seen', dict())
+
+    if not os.path.isdir(COMBINE_DIR):
+        os.makedirs(COMBINE_DIR)
+
+    for state in combined:
+        logs['seen'][state] = logs['seen'].get(state, dict())
+        for category in combined[state]:
+            logs['seen'][state][category] = logs['seen'][state].get(category, [])
+            for subcategory in combined[state][category]:
+                if subcategory in logs['seen'][state][category]:
+                    continue
+
+def print_info(info, selected: list, modified: list):
+    value = info.get('value')
+    airtable_sources = info.get('AirtableSources')
+    google_sources = info.get('GoogleSources')
+    google_notes = info.get('GoogleNotes')
+
+combine_airtable_and_search()
+        
+# select_from_combined()
