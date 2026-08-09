@@ -6,9 +6,10 @@ from os.path import join as joinpath
 from constants import *
 
 def dump_test(test_type, val):
-    time_str = time.strftime("%d-%m-%Y-%H_%M_%S")
+    time_str = time.strftime("%Y-%m-%d-%H_%M_%S")
     os.makedirs(joinpath(TEST_DIR, test_type), exist_ok=True)
     filepath = joinpath(TEST_DIR, test_type, time_str)
+    print(filepath)
     with open(filepath, 'w') as file:
         json.dump(val, file, indent=1)
 
