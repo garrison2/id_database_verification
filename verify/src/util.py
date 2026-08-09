@@ -22,20 +22,29 @@ def get_most_recent_rdirs(results_path):
     results.sort()
     return results
 
-# @param tabstop1   The number of TAB-WIDTH spaces to indent the first line to
-# @param tabstop2   The number of SINGLE-SPACES to FURTHER indent subsequent lines
-def print_wrapped(val, tabstop1 = 0, tabstop2 = None):
+# @param tabstop1       The number of TAB-WIDTH spaces to indent the first line to
+# @param tabstop2       The number of TAB-WIDTH spaces to further indent subsequent lines
+# @param tabstop1_space The number of SINGLE-SPACES to further indent the first line
+# @param tabstop2_space The number of SINGLE-SPACES to further indent subsequent lines
+def print_wrapped(val, 
+                  tabstop1 = 0.0, 
+                  tabstop2 = 0.0, 
+                  tabstop1_space = 0,
+                  tabstop2_space = 0,
+                  **kwargs):
     if val is None: 
         return
     if isinstance(val, bool):
         val = str(val)
-    tabstop1 = f'{' ' * round(TABSIZE * tabstop1)}'
-    tabstop2 = tabstop1 + f'{' ' * tabstop2}' if tabstop2 else tabstop1
+    tabstop1 = f'{' ' * (round(TABSIZE * tabstop1) + tabstop1_space)}'
+    tabstop2 = tabstop1 + f'{' ' * (round(TABSIZE * tabstop2) + tabstop2_space)}'
+
 
     lines = textwrap.wrap(val, 
                           width = TERMINAL_WIDTH,
                           initial_indent = tabstop1,
-                          subsequent_indent = tabstop2)
+                          subsequent_indent = tabstop2,
+                          **kwargs)
 
     lines = '\n'.join(lines)
     print(lines)
