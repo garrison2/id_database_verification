@@ -17,4 +17,6 @@ COMBINED_RESULTS = 'results/results_combined.json'
 COMBINE_DIR = 'results/combined'
 COMBINE_LOGS = 'combine_logs'
 
+SELECTED = 'results/selected.json'
+
 TEST_DIR = 'test'

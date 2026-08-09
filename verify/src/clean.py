@@ -365,4 +365,68 @@ def split_text(text: str) -> list[str]:
 
     return [x for x in final if x]
 
+def combine_airtable_and_search():
+    with open(QUERIES_TO_QUESTIONS, 'r') as file:
+        queries_map = json.load(file)
+    with open(SEARCH_RESULTS_PARSED, 'r') as file:
+        search_results_parsed = json.load(file)
+    with open(AIRTABLE_RESULTS_PARSED, 'r') as file:
+        airtable_results_parsed = json.load(file)
+
+    states_list = sorted(list(search_results_parsed.keys() | airtable_results_parsed.keys()))
+
+    combined = dict()
+
+    for state in states_list:
+        combined[state] = dict()
+        combined[state]['notes'] = airtable_results_parsed[state].get('Meta', dict()).get('General Notes', dict())
+
+        for category in queries_map:
+            combined[state][category] = dict()
+            for subcategory in queries_map[category]:
+
+                if (category in airtable_results_parsed[state] and
+                    subcategory in airtable_results_parsed[state][category]):
+                    combined[state][category][subcategory] = airtable_results_parsed[state][category][subcategory]
+
+                if state not in search_results_parsed:
+                    modified_state = state[:state.find('_')]
+                else:
+                    modified_state = state
+
+                combined[state][category][subcategory] = combined[state][category].get(subcategory, dict())
+                subcat = combined[state][category][subcategory]
+
+                search_nums = queries_map[category][subcategory]
+
+                links = [link for num in search_nums for link in search_results_parsed[modified_state][str(num)]['links']]
+                notes = [search_results_parsed[modified_state][str(num)]['notes'] for num in search_nums 
+                         if search_results_parsed[modified_state][str(num)]['notes']]
+
+                # remove duplicates while retaining order
+                links = list(dict.fromkeys(links))
+                notes = list(dict.fromkeys(notes))
+
+                for search_index in range(len(links)):
+                    search_link = urlparse(links[search_index])
+                    if 'AirtableSource' in subcat:
+                        airtable_index = 1 if 'value' in subcat else 0
+                        for item in subcat['AirtableSource']:
+                            if 'source' in item:
+                                for airtable_link in item['source']:
+                                    airtable_link = urlparse(airtable_link)
+                                    if search_link[0:5] == airtable_link[0:5]:
+                                        links[search_index] = f'[Airtable {airtable_index}]'
+                                        print(state, category, subcategory, links[search_index])
+                                        break
+                            airtable_index += 1
+
+                if links:
+                    subcat['GoogleSource'] = links
+                if links and notes: # only add notes if links matched
+                    subcat['GoogleNotes'] = notes 
+
+    with open(COMBINED_RESULTS, 'w') as file:
+        json.dump(combined, file, indent=1)
+
 parse_airtable()
