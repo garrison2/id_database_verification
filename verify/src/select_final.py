@@ -107,15 +107,19 @@ class Info:
             print_wrapped(self.notes, 3)
 
 # --------------------------------- CLI -------------------------------- #
-@dataclass(frozen=True)
+@dataclass
 class Action:
     action: ActionType
     index: int
     datatype: DataType
 
+    # allow 3 types of inputs:
+    #   [action]#<a/g>      action is performed on Airtable/Google #; merge assumed
+    #   #<a/g><n/p/u>       merge is performed on Airtable/Google #; then next/previous/undo
+    #   n/p/u               next/previous/undo
     @staticmethod
     def parse_input(input_val):
-        pattern = r'^(?:([A-Za-z])?(\d)?(\d)([A-Za-z])|([A-Za-z]))$'
+        pattern = r'^(?:([A-Za-z])?(\d)?(\d)([A-Za-z])([A-Za-z])?|([A-Za-z]))$'
 
         if input_val == '':
             return None
@@ -124,19 +128,9 @@ class Action:
         if input_parsed is None:
             raise ActionError(f'"{input_val}" is an invalid input.')
 
-        action1, num1, num2, datatype, action2 = input_parsed.groups()
-        if action2:
-            match action2:
-                case 'u' | 'U':
-                    return Action(ActionType.UNDO, None, None)
-                case 'n' | 'N':
-                    return Action(ActionType.NEXT, None, None)
-                case 'p' | 'P':
-                    return Action(ActionType.PREVIOUS, None, None)
-                case _:
-                    raise ActionError(f'"{action2}" is an invalid action.')
+        action1, num1, num2, datatype, action2, action3 = input_parsed.groups()
 
-        index = int((num1 or '') + num2)
+        index = int((num1 or '') + num2) if num2 else None
         match action1:
             case None | 'm' | 'M':
                 action1 = ActionType.MERGE
@@ -153,8 +147,21 @@ class Action:
                 datatype = DataType.AIRTABLE
             case 'g' | 'G':
                 datatype = DataType.GOOGLE
+            case None:
+                pass
             case _:
                 raise ActionError(f'"{datatype}" is an invalid data type.')
+
+        if action2 or action3:
+            match action2 or action3:
+                case 'u' | 'U':
+                    return Action(ActionType.UNDO, index, datatype)
+                case 'n' | 'N':
+                    return Action(ActionType.NEXT, index, datatype)
+                case 'p' | 'P':
+                    return Action(ActionType.PREVIOUS, index, datatype)
+                case _:
+                    raise ActionError(f'"{action2}" is an invalid action.')
 
         return Action(action1, index, datatype)
 
@@ -202,7 +209,6 @@ class HeadingIterator:
                     raise StopIteration
                 self.iterators[-1] += 1
             
-#        print('in __next__', self.iterators, self.vals[-1][self.iterators[-1]])
         return self.vals[-1][self.iterators[-1]]
 
     def previous(self, _is_recursive_call = False):
@@ -253,13 +259,11 @@ class HeadingIterator:
             return None
         return self.vals[layer][self.iterators[layer]]
 
+    def get_val(self):
+        return self.path[-1]
+
     def get_depth(self):
         return self.depth
-
-    def print_current(self):
-        print_wrapped(self.vals[-1][self.iterators[-1]], self.depth - 2)
-
-
 
 class HeadingType(Enum):
     STATE = 1
@@ -289,6 +293,9 @@ def select_from_combined():
     headings = HeadingIterator(combined, False)
     heading_type = None
 
+    info_list = []
+    info_index = 0
+
     def get_headings():
         return (headings.get_heading(0), 
                 headings.get_heading(1),
@@ -297,6 +304,8 @@ def select_from_combined():
     for heading in headings:
         heading_type = HeadingType(headings.get_depth())
         state, category, subcategory = get_headings()
+
+#        print(state, category, subcategory, heading_type, heading)
 
         match heading_type:
             case HeadingType.STATE:
@@ -310,30 +319,34 @@ def select_from_combined():
                 
                 headings.enter() # next iteration is in subcategory
 
-
             case HeadingType.SUBCATEGORY:
                 if category == 'notes':
                     headings.enter(category)
                     headings.print(1)
-                    print_wrapped(combined[state]['notes']['value'], 2)
+                    print_wrapped(headings.get_val(), 2)
                     continue
-
 
                 if subcategory in logs['seen'][state][category]:
-                    print('skipped', subcategory)
                     continue
 
-                info = Info.flatten_info(combined[state][category][subcategory])
+                headings.enter() # enter the subcategory scope
+
+                if len(info_list) > info_index:
+                    info = info_list[info_index] # use cached
+                else:
+                    info = Info.flatten_info(headings.get_val())
+                    info_list.insert(info_index, info)
+                info_index += 1
                 if info is None:
                     continue
 
-                headings.enter()
                 headings.print()
                 info.print()
                 action = perform_selection(info, selected, headings)
                 logs['seen'][state][category].append(subcategory)
 #                save_selection(selected, logs)
-                headings.exit() # next iteration is in subcategory
+                headings.exit() # exit to a category's scope
+
                 if action == ActionType.PREVIOUS:
                     logs['seen'][state][category].pop()
 
@@ -349,13 +362,16 @@ def select_from_combined():
                             state, category, subcategory = get_headings()
                             if subcategory in logs['seen'][state][category]:
                                 logs['seen'][state][category].remove(subcategory)
+                            info_index -= 1
                         headings.previous()
+                        info_index -= 2
                     except StopIteration:
+                        info_index -= 1
                         pass
 
 def perform_selection(info, selected, heading):
     def reprint():
-        heading.print_current()
+        print_wrapped(heading.get_heading(2), 2)
         info.print()
 
     while True:
@@ -384,8 +400,14 @@ def perform_selection(info, selected, heading):
             case ActionType.UNDO:
                 pass
             case ActionType.NEXT:
+                if action.datatype is not None: # merge and then next
+                    action.action = ActionType.MERGE
+                    info.merge(action)
                 break
             case ActionType.PREVIOUS:
+                if action.datatype is not None: # merge and then previous
+                    action.action = ActionType.MERGE
+                    info.merge(action)
                 return ActionType.PREVIOUS
 
 
