@@ -173,46 +173,57 @@ class DataType(StrEnum):
     GOOGLE = 'google'
 # ---------------------------------------------------------------------- #
 
-# __next__ is always called before enter
-# each enter must have a corresponding exit
 class HeadingIterator:
     def __init__(self, data : dict, shuffle_start = False):
+        self.depth = 1              #assert self.depth == len(self.path) == ...
         self.printed_depth = 0
         self.path = [data]
 
-        self.iterators = [0]
+        self.iterators = [-1]
         self.lengths = [len(data)]
         if shuffle_start:
             self.vals = [random.sample(data.keys(), len(data))]
         else:
             self.vals = [list(data.keys())]
 
+        self.reverse = False
+
     def __iter__(self):
         return self
 
     def __next__(self):
-        if self.iterators[-1] >= self.lengths[-1]:
-            raise StopIteration
-        
-        self.iterators[-1] += 1
-        print('in __next__', self.iterators)
-        return self.vals[-1][self.iterators[-1] - 1]
+        if self.reverse:
+            self.previous()
+        else:
+            self.iterators[-1] += 1
+            while self.iterators[-1] >= self.lengths[-1]:
+                self.exit()
+                if self.depth == 0:
+                    raise StopIteration
+                self.iterators[-1] += 1
+            
+#        print('in __next__', self.iterators, self.vals[-1][self.iterators[-1]])
+        return self.vals[-1][self.iterators[-1]]
 
-    def previous(self):
-        print(self.iterators, self.vals)
+    def previous(self, _is_recursive_call = False):
         self.iterators[-1] -= 1
-        while self.iterators[-1] < 0:
+        if self.depth == 1:
+            raise StopIteration
+
+        if self.iterators[-1] < 0:
             self.exit()
-            self.iterators[-1] -= 1
+            self.previous(True)
+
+        if _is_recursive_call:
             self.enter()
             self.iterators[-1] = self.lengths[-1] - 1
-        print(self.iterators, self.vals)
-
-
+            if self.iterators[-1] < 0:
+                self.exit()
+                self.previous(True)
 
     def enter(self, val = None):
-        self.path.append(self.path[-1][self.vals[-1][self.iterators[-1] - 1]])
-        self.iterators.append(0)
+        self.path.append(self.path[-1][self.vals[-1][self.iterators[-1]]])
+        self.iterators.append(-1)
 
         if isinstance(self.path[-1], dict):
             self.vals.append(list(self.path[-1].keys()))
@@ -221,21 +232,41 @@ class HeadingIterator:
             self.vals.append(None)
             self.lengths.append(0)
 
+        self.depth += 1
+
     def exit(self):
         self.path.pop()
         self.iterators.pop()
         self.lengths.pop()
         self.vals.pop()
-        if self.printed_depth  >= len(self.path):
-            self.printed_depth = len(self.path) - 1
+        self.depth -= 1
+        if self.printed_depth  >= self.depth:
+            self.printed_depth = self.depth - 1
 
     def print(self, skip_last_num = 0):
-        for i in range(self.printed_depth, len(self.vals) - 1 - skip_last_num):
-            print_wrapped(self.vals[i][self.iterators[i] - 1], i)
-        self.printed_depth = len(self.vals) - 1
+        for i in range(self.printed_depth, self.depth - 1 - skip_last_num):
+            print_wrapped(self.vals[i][self.iterators[i]], i)
+        self.printed_depth = self.depth - 1
+
+    def get_heading(self, layer = -1):
+        if layer >= self.depth:
+            return None
+        return self.vals[layer][self.iterators[layer]]
+
+    def get_depth(self):
+        return self.depth
 
     def print_current(self):
-        print_wrapped(self.vals[-2][self.iterators[-1] - 1], len(self.vals) - 2)
+        print_wrapped(self.vals[-1][self.iterators[-1]], self.depth - 2)
+
+
+
+class HeadingType(Enum):
+    STATE = 1
+    CATEGORY = 2
+    SUBCATEGORY = 3
+    VALUE = 4
+
 
 def select_from_combined():
     with open(COMBINED_RESULTS, 'r') as file:
@@ -254,55 +285,73 @@ def select_from_combined():
     except FileNotFoundError:
         selected = dict()
 
-    heading = HeadingIterator(combined, False)
-    for state in heading:
-        logs['seen'][state] = logs['seen'].get(state, dict())
-        if '.complete' in logs['seen'][state]:
-            continue
+    state, category, subcategory = None, None, None
+    headings = HeadingIterator(combined, False)
+    heading_type = None
 
-        heading.enter(state)
-        for category in heading:
-            logs['seen'][state][category] = logs['seen'][state].get(category, [])
+    def get_headings():
+        return (headings.get_heading(0), 
+                headings.get_heading(1),
+                headings.get_heading(2))
 
-            heading.enter(category)
+    for heading in headings:
+        heading_type = HeadingType(headings.get_depth())
+        state, category, subcategory = get_headings()
 
-            if category == 'notes':
-                if next(heading, None):
-                    heading.enter(category)
-                    heading.print(1)
+        match heading_type:
+            case HeadingType.STATE:
+                logs['seen'][state] = logs['seen'].get(state, dict())
+                if '.complete' in logs['seen'][state]:
+                    continue
+                headings.enter() # next iteration is in category
+
+            case HeadingType.CATEGORY:
+                logs['seen'][state][category] = logs['seen'][state].get(category, [])
+                
+                headings.enter() # next iteration is in subcategory
+
+
+            case HeadingType.SUBCATEGORY:
+                if category == 'notes':
+                    headings.enter(category)
+                    headings.print(1)
                     print_wrapped(combined[state]['notes']['value'], 2)
-                    heading.exit()
-                heading.exit()
-                continue
-
-            for subcategory in heading:
-                print(logs['seen'])
-                if subcategory in logs['seen'][state][category]:
-                    print('here')
                     continue
 
-                print(state, category, subcategory)
+
+                if subcategory in logs['seen'][state][category]:
+                    print('skipped', subcategory)
+                    continue
+
                 info = Info.flatten_info(combined[state][category][subcategory])
                 if info is None:
                     continue
 
-                heading.enter(subcategory)
-                heading.print()
+                headings.enter()
+                headings.print()
                 info.print()
-                action = perform_selection(info, selected, heading)
+                action = perform_selection(info, selected, headings)
                 logs['seen'][state][category].append(subcategory)
 #                save_selection(selected, logs)
-                heading.exit()
-
+                headings.exit() # next iteration is in subcategory
                 if action == ActionType.PREVIOUS:
                     logs['seen'][state][category].pop()
-                    print(logs['seen'])
-                    heading.previous()
-                    heading.previous()
-                    heading.previous()
-                    break;
-            heading.exit()
-        heading.exit()
+
+                    try:
+                        headings.previous()
+                        state, category, subcategory = get_headings()
+                        if subcategory in logs['seen'][state][category]:
+                            logs['seen'][state][category].remove(subcategory)
+                        if category == 'notes':
+                            headings.previous()
+                        while (Info.flatten_info(combined[state][category][subcategory])) is None:
+                            headings.previous()
+                            state, category, subcategory = get_headings()
+                            if subcategory in logs['seen'][state][category]:
+                                logs['seen'][state][category].remove(subcategory)
+                        headings.previous()
+                    except StopIteration:
+                        pass
 
 def perform_selection(info, selected, heading):
     def reprint():
