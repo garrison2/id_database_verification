@@ -13,6 +13,8 @@ from util import print_wrapped, TABSIZE
 from constants import *
 import test_suite
 
+import pprint
+
 random.seed(RANDOM_SEED)
 
 @dataclass
@@ -22,11 +24,14 @@ class Info:
     notes: str
 
     airtable_refs: list
+    airtable_keys: list
 
     airtable_merged: list
     google_merged: list
     airtable_edited: list
     history: list
+
+#    hashes: list
 
     @staticmethod
     def flatten_info(info) -> Info:
@@ -37,31 +42,39 @@ class Info:
 
         airtable_flattened = []
         airtable_refs = []
+        airtable_keys = []
 
-        def add_blocks(blocks):
-            for block in blocks:
+        def add_blocks(blocks, key_prefix):
+            for i in range(len(blocks)):
+                block = blocks[i]
                 if 'title' in block:
                     airtable_flattened.append(block['title'])
-                    airtable_refs.append(block)
+                    airtable_refs.append(i)
+                    airtable_keys.append(tuple(k for k in (key_prefix, 'title')))
                 if 'value' in block:
                     airtable_flattened.append(block['value'])
-                    airtable_refs.append(block)
+                    airtable_refs.append(i)
+                    airtable_keys.append(tuple(k for k in (key_prefix, 'value')))
                 for source in block.get('source', []):
                     airtable_flattened.append(source)
-                    airtable_refs.append(block)
+                    airtable_refs.append(i)
+                    airtable_keys.append(tuple(k for k in (key_prefix, 'source')))
 
         if isinstance(value, list):
             if isinstance(value[0], dict):
-                add_blocks(value)
+                add_blocks(value, ('value'))
             else:
                 airtable_flattened.append(', '.join(value))
-                airtable_refs.append(value)
+                airtable_refs.append(None)
+                airtable_keys.append(('value', value))
         elif isinstance(value, str):
             airtable_flattened.append(value)
-            airtable_refs.append(value)
+            airtable_refs.append(None)
+            airtable_keys.append(('value', None))
 
         if airtable_sources is not None:
-            add_blocks(airtable_sources)
+            add_blocks(airtable_sources, ('AirtableSource', list))
+            # reconstructed as ['AirtableSource'][list_index]['title'/'value'/'source']
 
         if not airtable_flattened and not airtable_refs and not google_sources:
             return None
@@ -70,6 +83,7 @@ class Info:
                     google_sources, 
                     '; '.join(google_notes),
                     airtable_refs, 
+                    airtable_keys,
                     [ False for val in airtable_flattened ],
                     [ False for val in google_sources ],
                     [ None for val in airtable_flattened ],
@@ -105,6 +119,69 @@ class Info:
         if self.notes:
             print()
             print_wrapped(self.notes, 3)
+
+    # reconstructed as ['AirtableSource'][list_index]['title'/'value'/'source']
+    def export(self):
+        value = []
+        airtable = []
+        for i in range(len(self.airtable_merged)):
+            if not self.airtable_merged[i]:
+                continue
+
+            if self.airtable_keys[i][0] == 'value':
+                value.append([self.airtable_edited[i] or self.airtable[i],
+                              self.airtable_refs[i],
+                              self.airtable_keys[i][1:]])
+            else:
+                airtable.append([self.airtable_edited[i] or self.airtable[i],
+                                 self.airtable_refs[i],
+                                 self.airtable_keys[i][1:]])
+
+        def normalize(values):
+            rank = -1
+            previous = None
+
+            for i, value in enumerate(values):
+                if value[1] != previous:
+                    rank += 1
+                    previous = value[1]
+                values[i] = (value[0], rank, value[2][0])
+
+        def structure(values):
+            new_values = []
+            for val, index, key in values:
+                if index < len(new_values):
+                    if isinstance(new_values[index].get(key), str):
+                        new_values[index][key] = [new_values[index][key]]
+                        new_values[index][key].append(val)
+                    else:
+                        new_values[index][key] = val
+                else:
+                    new_values.append(dict())
+                    new_values[index][key] = val
+            return new_values
+
+        if len(value) == 1 and value[0][1] is None:
+            if value[0][2][0]:
+                value = value[0][2][0]     # use the stored list
+            else:
+                value = value[0][0]     # use the str
+        else:
+            normalize(value)
+            value = structure(value)
+
+        normalize(airtable)
+        airtable = structure(airtable)
+
+        google = [self.google[i] for i in range(len(self.google)) 
+                  if self.google_merged[i]]
+
+        return_dict = dict()
+        if value: return_dict['value'] = value
+        if airtable: return_dict['AirtableSource'] = airtable
+        if google: return_dict['GoogleSource'] = google
+        return return_dict
+
 
 # --------------------------------- CLI -------------------------------- #
 @dataclass
@@ -161,7 +238,7 @@ class Action:
                 case 'p' | 'P':
                     return Action(ActionType.PREVIOUS, index, datatype)
                 case _:
-                    raise ActionError(f'"{action2}" is an invalid action.')
+                    raise ActionError(f'"{action2 or action3}" is an invalid action.')
 
         return Action(action1, index, datatype)
 
@@ -271,7 +348,6 @@ class HeadingType(Enum):
     SUBCATEGORY = 3
     VALUE = 4
 
-
 def select_from_combined():
     with open(COMBINED_RESULTS, 'r') as file:
         combined = json.load(file)
@@ -304,8 +380,6 @@ def select_from_combined():
     for heading in headings:
         heading_type = HeadingType(headings.get_depth())
         state, category, subcategory = get_headings()
-
-#        print(state, category, subcategory, heading_type, heading)
 
         match heading_type:
             case HeadingType.STATE:
@@ -342,9 +416,12 @@ def select_from_combined():
 
                 headings.print()
                 info.print()
-                action = perform_selection(info, selected, headings)
+                action = perform_selection(info, headings)
                 logs['seen'][state][category].append(subcategory)
-#                save_selection(selected, logs)
+                save_selection(selected,
+                               info_list[info_index - 1], 
+                               (state, category, subcategory),
+                               logs)
                 headings.exit() # exit to a category's scope
 
                 if action == ActionType.PREVIOUS:
@@ -369,7 +446,7 @@ def select_from_combined():
                         info_index -= 1
                         pass
 
-def perform_selection(info, selected, heading):
+def perform_selection(info, heading):
     def reprint():
         print_wrapped(heading.get_heading(2), 2)
         info.print()
@@ -410,11 +487,15 @@ def perform_selection(info, selected, heading):
                     info.merge(action)
                 return ActionType.PREVIOUS
 
-
-def save_selection(selected, logs):
-    with open(SELECTED, 'w') as file:
-        json.dump(selected, indent=1)
+def save_selection(selected, info, headings, logs):
+    info = info.export()
+    if info:
+        selected[headings[0]] = selected.get(headings[0], dict())
+        selected[headings[0]][headings[1]] = selected.get(headings[1], dict())
+        selected[headings[0]][headings[1]][headings[2]] = info
+        with open(SELECTED, 'w') as file:
+            json.dump(selected, file, indent=1)
     with open(COMBINE_LOGS, 'w') as file:
-        json.dump(logs, indent=1)
+        json.dump(logs, file, indent=1)
 
 select_from_combined()
