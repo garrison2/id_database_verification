@@ -13,6 +13,8 @@ from util import print_wrapped, TABSIZE
 from constants import *
 import test_suite
 
+import pprint
+
 random.seed(RANDOM_SEED)
 
 @dataclass
@@ -22,11 +24,11 @@ class Info:
     notes: str
 
     airtable_refs: list
+    airtable_keys: list
 
     airtable_merged: list
     google_merged: list
     airtable_edited: list
-    history: list
 
     @staticmethod
     def flatten_info(info) -> Info:
@@ -37,31 +39,39 @@ class Info:
 
         airtable_flattened = []
         airtable_refs = []
+        airtable_keys = []
 
-        def add_blocks(blocks):
-            for block in blocks:
+        def add_blocks(blocks, key_prefix):
+            for i in range(len(blocks)):
+                block = blocks[i]
                 if 'title' in block:
                     airtable_flattened.append(block['title'])
-                    airtable_refs.append(block)
+                    airtable_refs.append(i)
+                    airtable_keys.append(tuple(k for k in (key_prefix, 'title')))
                 if 'value' in block:
                     airtable_flattened.append(block['value'])
-                    airtable_refs.append(block)
+                    airtable_refs.append(i)
+                    airtable_keys.append(tuple(k for k in (key_prefix, 'value')))
                 for source in block.get('source', []):
                     airtable_flattened.append(source)
-                    airtable_refs.append(block)
+                    airtable_refs.append(i)
+                    airtable_keys.append(tuple(k for k in (key_prefix, 'source')))
 
         if isinstance(value, list):
             if isinstance(value[0], dict):
-                add_blocks(value)
+                add_blocks(value, ('value'))
             else:
                 airtable_flattened.append(', '.join(value))
-                airtable_refs.append(value)
+                airtable_refs.append(None)
+                airtable_keys.append(('value', value))
         elif isinstance(value, str):
             airtable_flattened.append(value)
-            airtable_refs.append(value)
+            airtable_refs.append(None)
+            airtable_keys.append(('value', None))
 
         if airtable_sources is not None:
-            add_blocks(airtable_sources)
+            add_blocks(airtable_sources, ('AirtableSource', list))
+            # reconstructed as ['AirtableSource'][list_index]['title'/'value'/'source']
 
         if not airtable_flattened and not airtable_refs and not google_sources:
             return None
@@ -70,17 +80,27 @@ class Info:
                     google_sources, 
                     '; '.join(google_notes),
                     airtable_refs, 
-                    [ False for val in airtable_flattened ],
-                    [ False for val in google_sources ],
-                    [ None for val in airtable_flattened ],
-                    [])
+                    airtable_keys,
+                    [ MergeStatus.UNMERGED for val in airtable_flattened ],
+                    [ MergeStatus.UNMERGED for val in google_sources ],
+                    [ None for val in airtable_flattened ])
 
-    def undo(self, selection):
-        last_action = self.history[-1]
+    def flag(self, action):
+        mergedlist = f'{action.datatype}_merged'
+        if getattr(self, mergedlist)[action.index] == MergeStatus.FLAGGED:
+            getattr(self, mergedlist)[action.index] = MergeStatus.UNMERGED
+        else:
+            getattr(self, mergedlist)[action.index] = MergeStatus.FLAGGED
 
     def merge(self, action):
         mergedlist = f'{action.datatype}_merged'
-        getattr(self, mergedlist)[action.index] = not getattr(self, mergedlist)[action.index]
+        if getattr(self, mergedlist)[action.index] == MergeStatus.MERGED:
+            getattr(self, mergedlist)[action.index] = MergeStatus.UNMERGED
+        else:
+            getattr(self, mergedlist)[action.index] = MergeStatus.MERGED
+
+#        getattr(self, mergedlist)[action.index] =
+#            MergeStatus((getattr(self, mergedlist)[action.index] + 1) % 2)
 
     def edit(self, action, replacement):
         editlist = f'{action.datatype}_edited'
@@ -88,7 +108,7 @@ class Info:
 
     def print(self):
         for i in range(len(self.airtable)):
-            merged = '*' if self.airtable_merged[i] else ''
+            merged = '*' if self.airtable_merged[i] == MergeStatus.MERGED else ''
             edited = '~' if self.airtable_edited[i] else ''
             val = f'{edited}{merged}{str(i)}a - {self.airtable_edited[i] or self.airtable[i]}'
             
@@ -98,13 +118,89 @@ class Info:
             print()
 
         for i in range(len(self.google)):
-            merged = '*' if self.google_merged[i] else ''
+            merged = '*' if self.google_merged[i] == MergeStatus.MERGED else ''
             dedent = (1 if merged else 0) - (1 if i < 10 else 0)
             print_wrapped(f'{merged}{str(i)}g - {self.google[i]}', 3, 0, -dedent, 6)
 
         if self.notes:
             print()
             print_wrapped(self.notes, 3)
+
+    # reconstructed as ['AirtableSource'][list_index]['title'/'value'/'source']
+    def export(self):
+        value = [ [], [] ]
+        airtable = [ [], [] ]
+        for i in range(len(self.airtable_merged)):
+            merge_status = self.airtable_merged[i]
+            if merge_status == MergeStatus.UNMERGED:
+                continue
+
+            if self.airtable_keys[i][0] == 'value':
+                value[int(merge_status) - 1].append([self.airtable_edited[i] or self.airtable[i],
+                                                self.airtable_refs[i],
+                                                self.airtable_keys[i][1:]])
+            else:
+                airtable[int(merge_status) - 1].append([self.airtable_edited[i] or self.airtable[i],
+                                                   self.airtable_refs[i],
+                                                   self.airtable_keys[i][1:]])
+
+        def normalize(L):
+            rank = -1
+            previous = None
+
+            for i, value in enumerate(L):
+                print(value)
+                if value[1] != previous:
+                    rank += 1
+                    previous = value[1]
+                L[i] = (value[0], rank, value[2][0])
+
+        def structure(L) -> list:
+            M = []
+            for val, index, key in L:
+                if index < len(M):
+                    if isinstance(M[index].get(key), str):
+                        M[index][key] = [new_values[index][key]]
+                        M[index][key].append(val)
+                    else:
+                        M[index][key] = val
+                else:
+                    M.append(dict())
+                    M[index][key] = val
+            return M
+
+        value_merged = value[0]
+        value_flagged = value[1]
+        airtable_merged = airtable[0]
+        airtable_flagged = airtable[1]
+
+        if len(value_merged) == 1 and value_merged[0][1] is None:
+            if value_merged[0][2][0]:
+                value_merged = value_merged[0][2][0]     # use the stored list
+            else:
+                value_merged = value_merged[0][0]     # use the str
+        else:
+            normalize(value_merged)
+            value_merged = structure(value_merged)
+
+        normalize(airtable_merged)
+        airtable = structure(airtable_merged)
+
+        google = [self.google[i] for i in range(len(self.google)) 
+                  if self.google_merged[i] == MergeStatus.MERGED]
+
+        return_dict = dict()
+        if value_merged: return_dict['value'] = value
+        if airtable_merged: return_dict['AirtableSource'] = airtable
+        if google: return_dict['GoogleSource'] = google
+
+        pprint.pprint(return_dict)
+        return return_dict
+
+class MergeStatus(Enum):
+    UNMERGED = 0
+    MERGED = 1
+    FLAGGED = 2
 
 # --------------------------------- CLI -------------------------------- #
 @dataclass
@@ -115,8 +211,8 @@ class Action:
 
     # allow 3 types of inputs:
     #   [action]#<a/g>      action is performed on Airtable/Google #; merge assumed
-    #   #<a/g><n/p/u>       merge is performed on Airtable/Google #; then next/previous/undo
-    #   n/p/u               next/previous/undo
+    #   #<a/g><n/p/u>       merge is performed on Airtable/Google #; then next/previous
+    #   n/p/u               next/previous
     @staticmethod
     def parse_input(input_val):
         pattern = r'^(?:([A-Za-z])?(\d)?(\d)([A-Za-z])([A-Za-z])?|([A-Za-z]))$'
@@ -137,8 +233,8 @@ class Action:
                 action1 = ActionType.MERGE
             case 'e' | 'E':
                 action1 = ActionType.EDIT
-            case 'u' | 'U':
-                action1 = ActionType.UNDO
+            case 'f' | 'F':
+                action1 = ActionType.FLAG
             case _:
                 raise ActionError(f'"{action1}" is an invalid action.')
         
@@ -154,14 +250,12 @@ class Action:
 
         if action2 or action3:
             match action2 or action3:
-                case 'u' | 'U':
-                    return Action(ActionType.UNDO, index, datatype)
                 case 'n' | 'N':
                     return Action(ActionType.NEXT, index, datatype)
                 case 'p' | 'P':
                     return Action(ActionType.PREVIOUS, index, datatype)
                 case _:
-                    raise ActionError(f'"{action2}" is an invalid action.')
+                    raise ActionError(f'"{action2 or action3}" is an invalid action.')
 
         return Action(action1, index, datatype)
 
@@ -171,7 +265,7 @@ class ActionError(Exception):
 class ActionType(Enum):
     MERGE = 0
     EDIT = 1
-    UNDO = 2
+    FLAG = 2
     NEXT = 3
     PREVIOUS = 4
 
@@ -271,7 +365,6 @@ class HeadingType(Enum):
     SUBCATEGORY = 3
     VALUE = 4
 
-
 def select_from_combined():
     with open(COMBINED_RESULTS, 'r') as file:
         combined = json.load(file)
@@ -288,6 +381,12 @@ def select_from_combined():
             selected = json.load(file)
     except FileNotFoundError:
         selected = dict()
+    try:
+        with open(FLAGGED, 'r') as file:
+            flagged = json.load(file)
+    except FileNotFoundError:
+        flagged = dict()
+
 
     state, category, subcategory = None, None, None
     headings = HeadingIterator(combined, False)
@@ -304,8 +403,6 @@ def select_from_combined():
     for heading in headings:
         heading_type = HeadingType(headings.get_depth())
         state, category, subcategory = get_headings()
-
-#        print(state, category, subcategory, heading_type, heading)
 
         match heading_type:
             case HeadingType.STATE:
@@ -342,9 +439,13 @@ def select_from_combined():
 
                 headings.print()
                 info.print()
-                action = perform_selection(info, selected, headings)
+                action = perform_selection(info, headings)
                 logs['seen'][state][category].append(subcategory)
-#                save_selection(selected, logs)
+                save_selection(selected,
+                               flagged,
+                               info_list[info_index - 1], 
+                               (state, category, subcategory),
+                               logs)
                 headings.exit() # exit to a category's scope
 
                 if action == ActionType.PREVIOUS:
@@ -369,7 +470,7 @@ def select_from_combined():
                         info_index -= 1
                         pass
 
-def perform_selection(info, selected, heading):
+def perform_selection(info, heading):
     def reprint():
         print_wrapped(heading.get_heading(2), 2)
         info.print()
@@ -397,7 +498,7 @@ def perform_selection(info, selected, heading):
                 new_text = prompt("> ", default=info.airtable[action.index])
                 info.edit(action, new_text)
                 reprint()
-            case ActionType.UNDO:
+            case ActionType.FLAG:
                 pass
             case ActionType.NEXT:
                 if action.datatype is not None: # merge and then next
@@ -410,11 +511,16 @@ def perform_selection(info, selected, heading):
                     info.merge(action)
                 return ActionType.PREVIOUS
 
-
-def save_selection(selected, logs):
-    with open(SELECTED, 'w') as file:
-        json.dump(selected, indent=1)
+def save_selection(selected, flagged, info, headings, logs):
+    info = info.export()
+    if info:
+        state, category, subcategory = headings
+        selected[state] = selected.get(state, dict())
+        selected[state][category] = selected.get(category, dict())
+        selected[state][category][subcategory] = info
+        with open(SELECTED, 'w') as file:
+            json.dump(selected, file, indent=1)
     with open(COMBINE_LOGS, 'w') as file:
-        json.dump(logs, indent=1)
+        json.dump(logs, file, indent=1)
 
 select_from_combined()

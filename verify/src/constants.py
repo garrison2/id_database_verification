@@ -18,6 +18,7 @@ COMBINE_DIR = 'results/combined'
 COMBINE_LOGS = 'combine_logs'
 
 SELECTED = 'results/selected.json'
+FLAGGED = 'results/flagged.json'
 RANDOM_SEED = 121
 
 TEST_DIR = 'test'
