@@ -287,22 +287,17 @@ class HeadingIterator:
         else:
             self.vals = [list(data.keys())]
 
-        self.reverse = False
-
     def __iter__(self):
         return self
 
     def __next__(self):
-        if self.reverse:
-            self.previous()
-        else:
+        self.iterators[-1] += 1
+        while self.iterators[-1] >= self.lengths[-1]:
+            self.exit()
+            if self.depth == 0:
+                raise StopIteration
             self.iterators[-1] += 1
-            while self.iterators[-1] >= self.lengths[-1]:
-                self.exit()
-                if self.depth == 0:
-                    raise StopIteration
-                self.iterators[-1] += 1
-            
+        
         return self.vals[-1][self.iterators[-1]]
 
     def previous(self, _is_recursive_call = False):
@@ -424,11 +419,15 @@ def select_from_combined():
                     continue
 
                 if subcategory in logs['seen'][state][category]:
+                    info_list.insert(info_index, False) # placeholder
+                    info_index += 1
                     continue
 
                 headings.enter() # enter the subcategory scope
 
-                if len(info_list) > info_index:
+                if info_index < len(info_list):
+                    if info_list[info_index] is False:
+                        info_list[info_index] = Info.flatten_info(headings.get_val())
                     info = info_list[info_index] # use cached
                 else:
                     info = Info.flatten_info(headings.get_val())
@@ -468,7 +467,6 @@ def select_from_combined():
                         info_index -= 2
                     except StopIteration:
                         info_index -= 1
-                        pass
 
 def perform_selection(info, heading):
     def reprint():
