@@ -139,7 +139,6 @@ class Info:
             if merge_status == MergeStatus.UNMERGED:
                 continue
 
-            pprint.pprint(self.airtable_keys)
             L = export_dict[self.airtable_keys[i][0]][merge_status]
             L.append({'val' : self.airtable_edited[i] or self.airtable[i],
                       'ref' : self.airtable_refs[i],
@@ -310,17 +309,21 @@ class DataType(StrEnum):
 # ---------------------------------------------------------------------- #
 
 class HeadingIterator:
-    def __init__(self, data : dict, shuffle_start = False):
+    def __init__(self, data : dict, shuffle_start = False, order : list = None):
         self.depth = 1              #assert self.depth == len(self.path) == ...
         self.printed_depth = 0
         self.path = [data]
 
         self.iterators = [-1]
         self.lengths = [len(data)]
-        if shuffle_start:
-            self.vals = [random.sample(data.keys(), len(data))]
+
+        if order:
+            self.vals = [state for state in order if state in ]
         else:
             self.vals = [list(data.keys())]
+
+        if shuffle_start:
+            self.vals = [random.sample(self.vals[0], len(data))]
 
     def __iter__(self):
         return self
@@ -399,6 +402,14 @@ def select_from_combined():
     with open(COMBINED_RESULTS, 'r') as file:
         combined = json.load(file)
 
+    # order
+    try:
+        with open(ORDER, 'r') as file:
+            order = json.load(file)
+    except FileNotFoundError:
+        order = None
+
+    # logs
     try:
         with open(COMBINE_LOGS, 'r') as file:
             logs = json.load(file)
@@ -406,11 +417,14 @@ def select_from_combined():
         logs = dict()
     logs['seen'] = logs.get('seen', dict())
 
+    # merged
     try:
         with open(MERGED, 'r') as file:
             merged = json.load(file)
     except FileNotFoundError:
         merged = dict()
+
+    # flagged
     try:
         with open(FLAGGED, 'r') as file:
             flagged = json.load(file)
@@ -423,7 +437,7 @@ def select_from_combined():
 #                combined[state][category][subcategory] |= merged[state][category][subcategory]
 
     state, category, subcategory = None, None, None
-    headings = HeadingIterator(combined, False)
+    headings = HeadingIterator(combined, False, order)
     heading_type = None
 
     info_list = []

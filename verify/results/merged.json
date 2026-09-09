@@ -1,0 +1,98 @@
+{
+ "Alabama": {
+  "Digital?": {
+   "Digital?": {
+    "value": "No Digital Offering"
+   }
+  },
+  "Card Features": {
+   "Barcode Types - Phy": {
+    "value": [
+     "PDF417"
+    ],
+    "GoogleSource": [
+     "https://www.alea.gov/dps/driver-license/license-and-id-cards"
+    ]
+   }
+  },
+  "Application": {
+   "Application Requirement - Phy": {
+    "value": [
+     "Proof of Identity",
+     "SSN"
+    ],
+    "AirtableSource": [
+     {
+      "value": "Two forms of identification, at least one of which contains a photograph (one form must be from the \u201cprimary\u201d list, in addition to the Social Security card) or three forms of non-photo identification (one form must be from the \u201cprimary\u201d list, in addition to the Social Security card)\nSocial Security card *\nAcceptable school enrollment form or proof of graduation (if younger than 19 and applying for the first time) **\n2 Proofs of Principal Residence ***\n$5 test fee (no checks)\nApplicants 18 or older who wish to complete all testing for a license must have a licensed driver, proof of car insurance and a vehicle that will pass inspection\n$36.25 to purchase license (no checks)",
+      "source": [
+       "https://www.alea.gov/dps/driver-license/document-requirements-and-fees"
+      ]
+     }
+    ],
+    "GoogleSource": [
+     "https://www.alea.gov/dps/driver-license/license-and-id-cards"
+    ]
+   }
+  },
+  "Agency/Vendor": {
+   "What is the issuing agency?": {}
+  },
+  "Privacy Policies": {
+   "Privacy policies for physical IDs? (e.g. DMV website policy)": {
+    "value": [
+     {
+      "value": "Not directly addressed in legislation/policy I found"
+     }
+    ]
+   }
+  },
+  "Verifying Information": {
+   "How is information verified? - Phy Human": {
+    "value": [
+     {
+      "value": "App, scanned code"
+     }
+    ]
+   }
+  },
+  "License considered PII? (in legislation)": {
+   "License considered PII? (in legislation)": {
+    "AirtableSource": [
+     {
+      "value": "Rule 265-X-6-.02 - Alabama Administrative Code\nPII includes names, gender, race, date of birth, photographs, addresses, social security numbers, driver's license numbers, or biometric data.",
+      "source": "https://admincode.legislature.state.al.us/administrative-code/265-X-6-.02"
+     }
+    ]
+   }
+  },
+  "ID Data Collection Limitations": {
+   "Limited by Purpose?": {}
+  }
+ },
+ "Arizona": {
+  "Digital?": {
+   "Digital?": {
+    "value": "Current Offering",
+    "AirtableSource": [
+     {
+      "value": "SB1237 (2015): electronic driver licenses; ADOT authority\n28-3169. A. Possession and display of driver license; defense: \n\u201cIf a person displays the driver license on a wireless communication device pursuant to this subsection, the person is not consenting for a justice of the peace, a police officer or a field deputy or inspector of the department to access other contents of the wireless communication device\u201d",
+      "source": [
+       "https://apps.azleg.gov/BillStatus/BillOverview?billnumber=SB1237&Sessionid=114"
+      ]
+     },
+     {
+      "title": "SB1287 (2018)",
+      "value": "28-364. G. Powers of the director: \u201cthe director may implement electronic or digital versions of driver licenses\u201d\n28-442. B. Records; evidence: The display by a person of evidence on a wireless communication device pursuant to this title does not constitute consent for law enforcement to access other content of the wireless communication device.",
+      "source": [
+       "https://apps.azleg.gov/BillStatus/BillOverview/70402"
+      ]
+     }
+    ],
+    "GoogleSource": [
+     "https://azdot.gov/mvd/mobile-driver-license",
+     "https://azdot.gov/mobile-id-app"
+    ]
+   }
+  }
+ }
+}
