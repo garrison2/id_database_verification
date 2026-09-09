@@ -1,74 +1,4 @@
 {
- "Alabama": {
-  "Digital?": {
-   "Digital?": {
-    "value": "No Digital Offering"
-   }
-  },
-  "Card Features": {
-   "Barcode Types - Phy": {
-    "value": [
-     "PDF417"
-    ],
-    "GoogleSource": [
-     "https://www.alea.gov/dps/driver-license/license-and-id-cards"
-    ]
-   }
-  },
-  "Application": {
-   "Application Requirement - Phy": {
-    "value": [
-     "Proof of Identity",
-     "SSN"
-    ],
-    "AirtableSource": [
-     {
-      "value": "Two forms of identification, at least one of which contains a photograph (one form must be from the \u201cprimary\u201d list, in addition to the Social Security card) or three forms of non-photo identification (one form must be from the \u201cprimary\u201d list, in addition to the Social Security card)\nSocial Security card *\nAcceptable school enrollment form or proof of graduation (if younger than 19 and applying for the first time) **\n2 Proofs of Principal Residence ***\n$5 test fee (no checks)\nApplicants 18 or older who wish to complete all testing for a license must have a licensed driver, proof of car insurance and a vehicle that will pass inspection\n$36.25 to purchase license (no checks)",
-      "source": [
-       "https://www.alea.gov/dps/driver-license/document-requirements-and-fees"
-      ]
-     }
-    ],
-    "GoogleSource": [
-     "https://www.alea.gov/dps/driver-license/license-and-id-cards"
-    ]
-   }
-  },
-  "Agency/Vendor": {
-   "What is the issuing agency?": {}
-  },
-  "Privacy Policies": {
-   "Privacy policies for physical IDs? (e.g. DMV website policy)": {
-    "value": [
-     {
-      "value": "Not directly addressed in legislation/policy I found"
-     }
-    ]
-   }
-  },
-  "Verifying Information": {
-   "How is information verified? - Phy Human": {
-    "value": [
-     {
-      "value": "App, scanned code"
-     }
-    ]
-   }
-  },
-  "License considered PII? (in legislation)": {
-   "License considered PII? (in legislation)": {
-    "AirtableSource": [
-     {
-      "value": "Rule 265-X-6-.02 - Alabama Administrative Code\nPII includes names, gender, race, date of birth, photographs, addresses, social security numbers, driver's license numbers, or biometric data.",
-      "source": "https://admincode.legislature.state.al.us/administrative-code/265-X-6-.02"
-     }
-    ]
-   }
-  },
-  "ID Data Collection Limitations": {
-   "Limited by Purpose?": {}
-  }
- },
  "Arizona": {
   "Digital?": {
    "Digital?": {
@@ -91,6 +21,404 @@
     "GoogleSource": [
      "https://azdot.gov/mvd/mobile-driver-license",
      "https://azdot.gov/mobile-id-app"
+    ]
+   }
+  },
+  "Card Features": {
+   "ID_fields": {
+    "value": [
+     "ID number",
+     "Date of Issue",
+     "Name",
+     "Date of expiry",
+     "Date of Birth",
+     "Address",
+     "Sex (Biological)",
+     "Other",
+     "Class (Commercial, Non-commercial, etc)",
+     "Restrictions",
+     "Organ Donor",
+     "Veteran",
+     "Document Discriminator",
+     "Signature",
+     "Height",
+     "Weight",
+     "Eye Color",
+     "Endorsements"
+    ],
+    "GoogleSource": [
+     "https://azdot.gov/mvd/services/driver-services/driver-license-classes-and-types"
+    ]
+   },
+   "Real ID?": {
+    "value": "Yes (Optional)",
+    "GoogleSource": [
+     "https://azdot.gov/mvd/services/driver-services/driver-license-classes-and-types"
+    ]
+   },
+   "Barcode Types - Phy": {
+    "value": [
+     "PDF417",
+     "Code 128"
+    ],
+    "GoogleSource": [
+     "https://azdot.gov/mvd/services/driver-services/driver-license-classes-and-types"
+    ]
+   },
+   "Barcode Types - Dig": {
+    "value": [
+     "QR"
+    ],
+    "GoogleSource": [
+     "https://azdot.gov/mvd/services/driver-services/driver-license-classes-and-types"
+    ]
+   }
+  },
+  "Application": {
+   "Application Requirement - Phy": {
+    "value": [
+     "Other",
+     "SSN",
+     "Proof of Residency x1",
+     "Proof of Residency x2",
+     "If name change: Proof of name change",
+     "Payment",
+     "Signature"
+    ],
+    "AirtableSource": [
+     {
+      "source": [
+       "https://apps.azdot.gov/files/mvd/mvd-forms-lib/40-5144.pdf",
+       "https://azdot.gov/mvd/services/driver-services/driver-license-information/proof-identification-age-and-authorized",
+       "https://azdot.gov/mvd/services/driver-services/arizona-travel-id/identification-requirements/required-documents-list"
+      ]
+     },
+     {
+      "value": "Signature: (28-3166. Driver license content and application; marked licenses; emancipated minors)\n- A driver license is not valid until it is signed by the licensee.",
+      "source": [
+       "https://www.azleg.gov/viewdocument/?docName=",
+       "https://www.azleg.gov/ars/28/03166.htm"
+      ]
+     }
+    ],
+    "GoogleSource": [
+     "https://azdot.gov/mvd/services/driver-services/driver-license-classes-and-types"
+    ]
+   },
+   "Relationship between Phy and Dig IDs?": {
+    "value": [
+     {
+      "value": "Phy ID required for Dig"
+     }
+    ],
+    "GoogleSource": [
+     "https://azdot.gov/mvd/mobile-driver-license"
+    ]
+   },
+   "Other Application Requirements - Dig": {
+    "GoogleSource": [
+     "https://azdot.gov/mvd/mobile-driver-license"
+    ]
+   },
+   "Technical Requirements - Dig": {
+    "GoogleSource": [
+     "https://azdot.gov/mvd/mobile-driver-license"
+    ]
+   }
+  },
+  "Agency/Vendor": {
+   "What is the issuing agency?": {
+    "value": "Arizona Department of Transport",
+    "GoogleSource": [
+     "https://azdot.gov/mvd/services/driver-services/driver-license-classes-and-types"
+    ]
+   },
+   "Is the issuing agency partnering with a commercial vendor to design and distribute the mobile ID?": {
+    "value": true,
+    "GoogleSource": [
+     "https://azdot.gov/mobile-id-app"
+    ]
+   },
+   "What is the commercial vendor partner for the in-house app?": {
+    "value": "Idemia",
+    "GoogleSource": [
+     "https://azdot.gov/mobile-id-app"
+    ]
+   },
+   "What is (are) the commercial vendor partner(s) for wallet apps?": {
+    "value": "Other,Apple,Google,Samsung"
+   }
+  },
+  "Privacy Policies": {
+   "Privacy policies for physical IDs? (e.g. DMV website policy)": {
+    "value": [
+     {
+      "source": [
+       "https://azdot.gov/privacy-statement"
+      ]
+     }
+    ]
+   },
+   "Privacy policies for digital IDs?": {
+    "value": [
+     {
+      "title": "Idemia App Store",
+      "source": [
+       "https://idemia-mobile-id.com/policies/di"
+      ]
+     },
+     {
+      "value": "(same as Delaware)\nIdemia Google Store:",
+      "source": [
+       "https://idemia-mobile-id.com/enduserprivacy"
+      ]
+     }
+    ]
+   },
+   "For what purpose is information used/processed/stored?": {
+    "GoogleSource": [
+     "https://azdot.gov/mvd/mobile-driver-license"
+    ]
+   },
+   "Who is information shared with?": {
+    "GoogleSource": [
+     "https://azdot.gov/mvd/mobile-driver-license"
+    ]
+   }
+  },
+  "Mobile ID Data Protections": {
+   "Is collected data being warehoused somewhere?": {
+    "value": [
+     "On phone"
+    ],
+    "GoogleSource": [
+     "https://azdot.gov/mvd/mobile-driver-license"
+    ]
+   },
+   "What kinds of data are being collected?": {
+    "GoogleSource": [
+     "https://azdot.gov/mvd/mobile-driver-license"
+    ]
+   },
+   "How is information on the Mobile ID protected?": {
+    "GoogleSource": [
+     "https://azdot.gov/mvd/mobile-driver-license"
+    ]
+   }
+  },
+  "Mobile ID Usage": {
+   "What can the dig ID be used for?": {
+    "value": [
+     "TSA",
+     "Businesses",
+     "Law Enforcement"
+    ],
+    "AirtableSource": [
+     {
+      "value": "\"The mDL is based on an international standard and all states are working towards that same standard. However, the mDL requires certain technology to be able to read and verify it. So while the mDL is valid in other states, just like a physical card, it is up to each business or verifier to decide whether or not to have mDL reader technologies available to customers, so keeping your physical card with you is still a good idea.\"",
+      "source": [
+       "https://azdot.gov/mvd/mobile-driver-license"
+      ]
+     },
+     {
+      "value": "Is Arizona ID in Apple/Google/Samsung Wallet the Same as mID?\nNo. Arizona ID in Apple/Google/Samsung Wallet \"can be presented to confirm identity\"/\"is one of the few IDs that can be presented\" at select TSA airport security checkpoints to confirm your identity.\nThe Arizona Mobile ID can be used to remotely authenticate identity and complete enhanced-security services on AZMVDNow.gov, such as transferring a vehicle title. More information on the Arizona Mobile ID can be found here."
+     },
+     {
+      "title": "Apple Wallet",
+      "value": "You can use your Arizona ID in Apple Wallet on iPhone and Apple Watch at select TSA checkpoints and lanes at participating airports.\nAdditionally, you may present your Arizona ID in an app with your iPhone for participating apps."
+     },
+     {
+      "title": "Google Wallet",
+      "value": "You can use your Arizona ID in Google Wallet at select TSA PreCheck\u00ae checkpoints and lanes at participating airports."
+     },
+     {
+      "title": "Samsung Wallet",
+      "value": "Currently, a Mobile Driver's License or State ID can only be used at select TSA checkpoints in select airports in participating states. Please visit the TSA Digital ID site for the most up to date information on TSA acceptance.\nYou should continue to carry your physical driver's license or State ID as a form of identification.",
+      "source": [
+       "https://apps.azdot.gov/files/MVD/MVM/AppleWalletFAQs/",
+       "https://azdot.gov/faqs-google-wallet",
+       "https://apps.azdot.gov/files/mvd/mvm/samsung-wallet/Default.htm"
+      ]
+     }
+    ]
+   }
+  },
+  "Mobile ID API": {
+   "Is there a mobile API?": {
+    "value": true
+   },
+   "Mobile API Specifications": {
+    "value": [
+     {
+      "title": "Apple API",
+      "source": [
+       "https://azdot.gov/smart-id-verifier-app"
+      ]
+     }
+    ]
+   }
+  },
+  "Selective Disclosure": {
+   "Selective Disclosure?": {
+    "value": true,
+    "GoogleSource": [
+     "https://azdot.gov/mvd/mobile-driver-license"
+    ]
+   },
+   "How is selective disclosure implemented?": {
+    "GoogleSource": [
+     "https://azdot.gov/mvd/mobile-driver-license"
+    ]
+   }
+  },
+  "License considered PII? (in legislation)": {
+   "License considered PII? (in legislation)": {
+    "value": true,
+    "AirtableSource": [
+     {
+      "title": "18-551. (Data Breach)",
+      "value": "- Personal information includes first name/initial + last name",
+      "source": [
+       "https://www.azleg.gov/viewdocument/?docName=",
+       "https://www.azleg.gov/ars/18/00551.htm"
+      ]
+     }
+    ]
+   }
+  },
+  "ID Data Collection Limitations": {
+   "Limited by Purpose?": {
+    "value": "Purpose restriction on scanning IDs",
+    "AirtableSource": [
+     {
+      "title": "44-7701. Retention of customer information; transmission to third parties prohibited; enforcement; civil penalties",
+      "value": "Can only retain and use information \"from a customer's driver license or other state issued identification\" to\n- verify age\n- establish identity\n- confirm license to operate a vehicle\n- disclose to DOT, insurance, business (to verify a check, evaluate creditworthiness, detect fraud, account collection, \"met the motor vehicle financial responsibility requirements pursuant to section 28-4135\"), financial institutions,"
+     },
+     {
+      "value": "Cannot disclose otherwise",
+      "source": [
+       "https://www.azleg.gov/viewdocument/?docName=",
+       "https://www.azleg.gov/ars/44/07701.htm"
+      ]
+     }
+    ]
+   },
+   "Limited by Physical Location?": {
+    "value": "No physical location restriction on scanning"
+   },
+   "Limited by Virtual Location?": {
+    "value": "No virtual location restriction on scanning"
+   },
+   "Limited by Other?": {
+    "value": "No other restrictions on scanning"
+   },
+   "Retention?": {
+    "value": "ID-specific legislation",
+    "AirtableSource": [
+     {
+      "title": "44-7701. Retention of customer information; transmission to third parties prohibited; enforcement; civil penalties",
+      "value": "Can only retain and use information \"from a customer's driver license or other state issued identification\" to\n- verify age\n- establish identity\n- confirm license to operate a vehicle\n- disclose to DOT, insurance, business (to verify a check, evaluate creditworthiness, detect fraud, account collection, \"met the motor vehicle financial responsibility requirements pursuant to section 28-4135\"), financial institutions,"
+     },
+     {
+      "value": "Cannot disclose otherwise",
+      "source": [
+       "https://www.azleg.gov/viewdocument/?docName=",
+       "https://www.azleg.gov/ars/44/07701.htm"
+      ]
+     }
+    ]
+   },
+   "Deletion?": {
+    "value": "No legislation"
+   },
+   "Required Retention?": {
+    "value": "No legislation"
+   },
+   "Distinguishes Between Methods of ID Verification?": {
+    "value": "No legislation"
+   },
+   "Consent?": {
+    "value": "No legislation"
+   },
+   "Data Breaches?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "title": "18-552. Notification of security system breaches; requirements; enforcement; confidentiality; civil penalty; preemption; exceptions",
+      "value": "Must notify within 45 days",
+      "source": [
+       "https://www.azleg.gov/viewdocument/?docName=",
+       "https://www.azleg.gov/ars/18/00552.htm"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "California": {
+  "Digital?": {
+   "Digital?": {
+    "value": "Prototype/In-Pilot",
+    "AirtableSource": [
+     {
+      "value": "Part of 2023 Digital Identity Framework - California DMV Wallet mobile driver\u2019s license (mDL) pilot program. \"The California Department of Technology (CDT) is responsible for the development, implementation, administration, and management of the California Digital ID Framework. The Framework is a collection of data, technology infrastructure, digital services, and gover\u00adnance that allows for secure, user-friendly use of digital IDs across California. It ensures that everyone is held to the same high standards, better protecting your privacy, and helps you easily access more of California\u2019s state programs and benefits by simplifying and streamlining eligibility verification across agencies.\"",
+      "source": [
+       "https://digitalidstrategy.cdt.ca.gov"
+      ]
+     }
+    ],
+    "GoogleSource": [
+     "https://www.dmv.ca.gov/portal/ca-dmv-wallet/"
+    ]
+   }
+  },
+  "Card Features": {
+   "ID_fields": {
+    "value": [
+     "Name",
+     "Date of expiry",
+     "Date of Issue",
+     "Date of Birth",
+     "Address",
+     "ID number",
+     "Sex (Biological)",
+     "Signature",
+     "Class (Commercial, Non-commercial, etc)",
+     "Organ Donor",
+     "Restrictions",
+     "Veteran",
+     "Other",
+     "Height",
+     "Weight",
+     "Hair Color",
+     "Eye Color",
+     "Document Discriminator"
+    ],
+    "GoogleSource": [
+     "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/"
+    ]
+   },
+   "Real ID?": {
+    "value": "Yes (Optional)",
+    "GoogleSource": [
+     "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/real-id/what-is-real-id/"
+    ]
+   },
+   "Barcode Types - Phy": {
+    "value": [
+     "PDF417",
+     "UPC"
+    ],
+    "GoogleSource": [
+     "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/"
+    ]
+   },
+   "Barcode Types - Dig": {
+    "value": [
+     "QR"
+    ],
+    "GoogleSource": [
+     "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/"
     ]
    }
   }

@@ -1,22 +1,88 @@
 {
- "Alabama": {
+ "Arizona": {
   "Card Features": {
+   "ID_fields": {
+    "GoogleSource": [
+     "https://azdot.gov/mvd/services/driver-services/arizona-travel-id"
+    ]
+   },
    "Biometrics?": {
     "value": [
      "Image of face"
-    ],
-    "AirtableSource": [
+    ]
+   }
+  },
+  "Application": {
+   "Other Application Requirements - Dig": {
+    "value": [
      {
-      "value": "Biometrics for criminals, background checks, etc",
-      "source": "https://law.justia.com/codes/alabama/title-41/chapter-9/article-23/division-2/section-41-9-625/#:~:text=(a)%20All%20persons%20in%20this,ALEA%20and%20the%20rules%20established"
+      "value": "Standard for all states that use Apple Wallet/Google Wallet/Samsung Wallet; see other states"
+     }
+    ]
+   },
+   "Technical Requirements - Dig": {
+    "value": [
+     {
+      "value": "Standard for all states that use Apple Wallet/Google Wallet/Samsung Wallet; see other states"
      }
     ]
    }
   },
   "Agency/Vendor": {
-   "What is the commercial vendor partner for the in-house app?": {
+   "What is (are) the commercial vendor partner(s) for wallet apps?": {
     "GoogleSource": [
-     "https://www.atlasalabama.gov/tag/alabama-eid/"
+     "https://azdot.gov/mobile-id-app"
+    ]
+   }
+  },
+  "Privacy Policies": {
+   "Privacy policies for digital IDs?": {
+    "value": [
+     {
+      "value": "(broken link)\nStandard for all states that use Apple Wallet/Google Wallet/Samsung Wallet; see other states"
+     }
+    ]
+   }
+  },
+  "Mobile ID Data Protections": {
+   "What kinds of data are being collected?": {
+    "value": [
+     {
+      "value": "Standard for Idemia; see other states\nStandard for all states that use Apple Wallet/Google Wallet/Samsung Wallet; see other states"
+     }
+    ]
+   },
+   "How is information on the Mobile ID protected?": {
+    "value": [
+     {
+      "value": "Standard for Idemia; see other states\nStandard for all states that use Apple Wallet/Google Wallet/Samsung Wallet; see other states"
+     }
+    ]
+   }
+  },
+  "Selective Disclosure": {
+   "How is selective disclosure implemented?": {
+    "value": [
+     {
+      "value": "Standard for Idemia; see other states\nStandard for all states that use Apple Wallet/Google Wallet/Samsung Wallet; see other states"
+     }
+    ]
+   }
+  },
+  "License considered PII? (in legislation)": {
+   "License considered PII? (in legislation)": {
+    "GoogleSource": [
+     "https://www.azleg.gov/legtext/56leg/2r/bills/hb2434p.htm"
+    ]
+   }
+  }
+ },
+ "California": {
+  "Future Proposals": {
+   "Prototype Start": {
+    "value": "5/1/2023",
+    "GoogleSource": [
+     "https://www.dmv.ca.gov/portal/ca-dmv-wallet/"
     ]
    }
   }

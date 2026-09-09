@@ -64,7 +64,7 @@ class Info:
                 airtable_flattened.append(', '.join(value))
                 airtable_refs.append(None)
                 airtable_keys.append(('value', value))
-        elif isinstance(value, str):
+        elif isinstance(value, str) or isinstance(value, bool):
             airtable_flattened.append(value)
             airtable_refs.append(None)
             airtable_keys.append(('value', None))
@@ -190,10 +190,8 @@ class Info:
                 structure(value_list)
 
             airtable_list = export_dict['AirtableSource'][mergetype]
-            print(f'{airtable_list=}')
             normalize(airtable_list)
             structure(airtable_list)
-            print(f'processed: {airtable_list=}')
 
 
         google_merged = [self.google[i] for i in range(len(self.google)) 
@@ -301,7 +299,6 @@ class ActionType(Enum):
     PREVIOUS = 4
     SAVE = 5
     SAVE_ALL = 6
-   
 
 class DataType(StrEnum):
     AIRTABLE = 'airtable'
@@ -318,7 +315,7 @@ class HeadingIterator:
         self.lengths = [len(data)]
 
         if order:
-            self.vals = [state for state in order if state in ]
+            self.vals = [order]
         else:
             self.vals = [list(data.keys())]
 
@@ -480,7 +477,6 @@ def select_from_combined():
 
                 if info_index < len(info_list):
                     if info_list[info_index] is False:
-                        print(f'{headings.get_val()=}')
                         info_list[info_index] = Info.flatten_info(headings.get_val())
                     info = info_list[info_index] # use cached
                 else:
@@ -579,22 +575,18 @@ def perform_selection(info, heading):
 
 def save_selection(merged, flagged, info, headings, logs):
     merged_info, flagged_info = info.export()
-    print()
-    print(f'{merged_info=}')
-    print(f'{flagged_info=}')
 
     state, category, subcategory = headings
     if merged_info:
         merged[state] = merged.get(state, dict())
-        merged[state][category] = merged.get(category, dict())
+        merged[state][category] = merged[state].get(category, dict())
         merged[state][category][subcategory] = merged_info
         with open(MERGED, 'w') as file:
             json.dump(merged, file, indent=1)
     if flagged_info:
         flagged[state] = flagged.get(state, dict())
-        flagged[state][category] = flagged.get(category, dict())
+        flagged[state][category] = flagged[state].get(category, dict())
         flagged[state][category][subcategory] = flagged_info
-        print(flagged[state][category])
         with open(FLAGGED, 'w') as file:
             json.dump(flagged, file, indent=1)
 
