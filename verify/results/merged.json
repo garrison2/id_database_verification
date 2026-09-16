@@ -1500,5 +1500,206 @@
     ]
    }
   }
+ },
+ "Alaska": {
+  "Digital?": {
+   "Digital?": {
+    "value": [
+     {
+      "value": "Thales DIS USA, Inc."
+     }
+    ],
+    "GoogleSource": [
+     "https://dmv.alaska.gov/mid/"
+    ]
+   }
+  },
+  "Future Proposals": {
+   "Details of Future Proposals": {
+    "GoogleSource": [
+     "https://dmv.alaska.gov/mid/"
+    ]
+   },
+   "Future Digital Offering Date?": {
+    "value": [
+     "Name",
+     "Address",
+     "Date of Birth",
+     "ID number",
+     "Sex (Biological)",
+     "Date of Issue",
+     "Date of expiry",
+     "Signature",
+     "Class (Commercial, Non-commercial, etc)",
+     "Restrictions",
+     "Veteran",
+     "Organ Donor",
+     "Document Discriminator"
+    ]
+   }
+  },
+  "Card Features": {
+   "ID_fields": {
+    "value": "Yes (Optional)",
+    "GoogleSource": [
+     "https://online.dmv.alaska.gov/REALIdChecklist"
+    ]
+   },
+   "Real ID?": {
+    "value": [
+     "PDF417"
+    ]
+   },
+   "Barcode Types - Phy": {
+    "value": [
+     "PDF417"
+    ]
+   }
+  },
+  "Application": {
+   "Application Requirement - Phy": {
+    "value": [
+     "SSN",
+     "Proof of Identity",
+     "Proof of Residency x1",
+     "Proof of Residency x2",
+     "Signature",
+     "Payment",
+     "If name change: Proof of name change"
+    ],
+    "AirtableSource": [
+     {
+      "source": [
+       "https://dmv.alaska.gov/credential-services/your-first-alaska-drivers-license/",
+       "https://dmv.alaska.gov/media/ozwhxz3e/ak-real-id-checklist.pdf"
+      ]
+     }
+    ],
+    "GoogleSource": [
+     "https://online.dmv.alaska.gov/REALIdChecklist"
+    ]
+   },
+   "Relationship between Phy and Dig IDs?": {
+    "GoogleSource": [
+     "https://dmv.alaska.gov/mid/"
+    ]
+   }
+  },
+  "Agency/Vendor": {
+   "What is the issuing agency?": {
+    "value": "Alaska DMV"
+   },
+   "Is the issuing agency partnering with a commercial vendor to design and distribute the mobile ID?": {
+    "GoogleSource": [
+     "https://www.biometricupdate.com/202503/launch-of-alaska-mobile-id-brings-number-of-states-with-mdl-to-19"
+    ]
+   },
+   "What is the commercial vendor partner for the in-house app?": {
+    "GoogleSource": [
+     "https://www.biometricupdate.com/202503/launch-of-alaska-mobile-id-brings-number-of-states-with-mdl-to-19",
+     "https://apps.apple.com/us/app/alaska-mobile-id/id6742159339",
+     "https://play.google.com/store/apps/details?id=com.thalesgroup.dis.idv.ak.holder.prd&hl=en_US"
+    ]
+   }
+  },
+  "Privacy Policies": {
+   "Privacy policies for physical IDs? (e.g. DMV website policy)": {
+    "value": [
+     {
+      "title": "General gov, no link on the DMV website",
+      "source": [
+       "https://doa.alaska.gov/resources/privacy.html"
+      ]
+     }
+    ]
+   }
+  },
+  "License considered PII? (in legislation)": {
+   "License considered PII? (in legislation)": {
+    "value": true,
+    "AirtableSource": [
+     {
+      "value": "AS 45.48.090 - Definitions (for the Personal Information Protection Act)",
+      "source": [
+       "https://casetext.com/statute/alaska-statutes/title-45-trade-and-commerce/chapter-4548-personal-information-protection-act/article-01-breach-of-security-involving-personal-information/section-4548090-definitions"
+      ]
+     }
+    ],
+    "GoogleSource": [
+     "https://www.akleg.gov/basis/get_documents.asp?session=29&docid=65934"
+    ]
+   }
+  },
+  "ID Data Collection Limitations": {
+   "Limited by Purpose?": {
+    "GoogleSource": [
+     "https://law.justia.com/codes/alaska/title-18/chapter-65/article-3/section-18-65-310/",
+     "https://www.akleg.gov/basis/Bill/Text/32?Hsid=HB0159B"
+    ]
+   },
+   "Retention?": {
+    "value": "No legislation"
+   },
+   "Data Breaches?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "value": "AS 45.48.010-45.48.090 - Personal Information Protection Act\nMust disclose data breaches in \"the most expeditious time possible and without unreasonable\"",
+      "source": [
+       "https://casetext.com/statute/alaska-statutes/title-45-trade-and-commerce/chapter-4548-personal-information-protection-act/article-01-breach-of-security-involving-personal-information"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "Alaska_1": {
+  "Digital?": {
+   "Digital?": {
+    "AirtableSource": [
+     {
+      "source": [
+       "https://www.akleg.gov/basis/Bill/Text/26?Hsid=HB0003B"
+      ]
+     },
+     {
+      "value": "CSHB 3(FIN): \"An Act relating to issuance of identification cards and to issuance of driver's licenses; relating to regulations concerning identification cards and driver's licenses; and providing for an effective date.\"\nCS FOR HOUSE BILL NO. 3(FIN)\n(a) Upon payment of a $15 fee, the department shall issue a card identical to   the motor vehicle operator's license provided for in AS 28.15.111, except that the card   shall be of a different color and shall state in bold type letters across the face of it that   it is for identification purposes only. Except as provided in (g) and (l) of this   section, an identification card expires on the person's birthday in the fifth year   following issuance of the card.\nthe rest of the bill is about documentation they have to present to qualify"
+     }
+    ],
+    "GoogleSource": [
+     "https://dmv.alaska.gov/mid/"
+    ]
+   }
+  },
+  "Card Features": {
+   "ID_fields": {
+    "value": [
+     "Name",
+     "Date of Birth",
+     "Address",
+     "ID number",
+     "Sex (Biological)",
+     "Date of Issue",
+     "Date of expiry",
+     "Signature",
+     "Class (Commercial, Non-commercial, etc)",
+     "Organ Donor",
+     "Veteran",
+     "Restrictions"
+    ]
+   },
+   "Real ID?": {
+    "value": "Yes (Optional)",
+    "GoogleSource": [
+     "https://online.dmv.alaska.gov/REALIdChecklist"
+    ]
+   },
+   "Barcode Types - Phy": {
+    "value": [
+     "PDF417",
+     "Other"
+    ]
+   }
+  }
  }
 }
