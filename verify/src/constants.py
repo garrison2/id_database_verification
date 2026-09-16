@@ -17,6 +17,7 @@ COMBINED_RESULTS = 'results/results_combined.json'
 COMBINE_DIR = 'results/combined'
 COMBINE_LOGS = 'results/combine_logs'
 ORDER = "data/states_order.json"
+SELECTED_STATES = "data/states_order.json"
 
 MERGED = 'results/merged.json'
 FLAGGED = 'results/flagged.json'

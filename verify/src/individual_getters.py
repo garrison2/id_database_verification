@@ -24,7 +24,33 @@ def get_has_digital():
         elif search_digital:
             print(f'{state} (Search) - {search_digital}')
 
-def get_app():
+def get_urls():
+    with open(COMBINED_RESULTS, 'r') as file:
+        combined_results = json.load(file)
 
+    with open(SELECTED_STATES, 'r') as file:
+        selected_states = json.load(file)
 
-get_has_digital()
+    for state in selected_states:
+        state_list = []
+        for category in combined_results[state]:
+            if category == 'notes': continue
+            for subcategory in combined_results[state][category]:
+                value = combined_results[state][category][subcategory].get('value', [])
+                if (isinstance(value, list) and len(value) > 0 and isinstance(value[0], dict)):
+                    value = [s for val in value if 'source' in val for s in val['source']]
+                else:
+                    value = []
+
+                google_source = combined_results[state][category][subcategory].get('GoogleSource', [])
+                airtable_source = combined_results[state][category][subcategory].get('AirtableSource', [])
+                airtable_source = [s for val in airtable_source if 'source' in val for s in val['source']]
+                state_list += value + airtable_source + google_source
+
+        state_list = list(set(state_list))
+        with open(f'results/state_links/{state}', 'w') as file:
+            for link in state_list:
+                file.write(f'{link}\n')
+
+# get_has_digital()
+get_urls()
