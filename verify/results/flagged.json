@@ -85,6 +85,132 @@
      "https://www.dmv.ca.gov/portal/ca-dmv-wallet/"
     ]
    }
+  },
+  "Card Features": {
+   "Biometrics?": {
+    "AirtableSource": [
+     {
+      "value": "DMV Image"
+     }
+    ]
+   }
+  },
+  "Privacy Policies": {
+   "Privacy policies for physical IDs? (e.g. DMV website policy)": {
+    "value": [
+     {
+      "value": "Search pointed me to the CCPA - \"The CCPA requires businesses to give consumers certain information in a \u201cnotice at collection.\u201d A notice at collection must list the categories of personal information businesses collect about consumers and the purposes for which they use the categories of information.\" This includes IDs but goes beyond as well."
+     },
+     {
+      "title": "PII and Data Collected: DMV Services collects PII on individuals only as authorized by law. DMV Services may collect PII and Data which may include the following",
+      "value": "Name, address, passwords, date of birth, driver\u2019s license/identification card, biometric information (e.g., face, fingerprints).\nData about a User\u2019s use of the Services, including crash logs and usage statistics.\nData about a User\u2019s device and its interaction with the Services, including the type of mobile device, unique user ID, IP address and operating system, and type of browser(s) in use.\nData about the location of a user\u2019s device, including geo-location information.\nAnalytics and statistics such as the number of identity documents processed within a time interval, the pass/fail rate of a type of identity document or of a document authentication process, pass/fail codes, date and/or location of document issuance.\nDMV does not collect SSNs as part of the mobile driver\u2019s license enrollment process."
+     }
+    ]
+   }
+  },
+  "Mobile ID API": {
+   "Is there a mobile API?": {
+    "value": true
+   }
+  },
+  "ID Data Collection Limitations": {
+   "Required Retention?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "value": "Stateless Services provide User\u2019s value without the need for long-term storage of PII. - \u201cStateful Services deliver value through the long-term storage of User PII.\u201d",
+      "source": [
+       "https://www.dmv.ca.gov/portal/ca-dmv-wallet/mdl-privacy-policy/"
+      ]
+     },
+     {
+      "value": "In general, PII for Stateless Services will be stored for a 30-calendar day period and purged monthly. PII older than 30 days will automatically be purged from the system during the next scheduled Data purge. For User support purposes, PII will remain in the system until either 30 days from the date on which the support request is resolved, or the next scheduled purge process after the support request is resolved."
+     }
+    ]
+   }
+  }
+ },
+ "Colorado": {
+  "Card Features": {
+   "Real ID?": {
+    "value": "Yes (Mandatory)"
+   }
+  }
+ },
+ "Louisiana": {
+  "Card Features": {
+   "Biometrics?": {
+    "value": [
+     "Image of face",
+     "Fingerprints"
+    ],
+    "AirtableSource": [
+     {
+      "value": "\"Once the app is installed, users can create their personal account by entering their email address and a secure password. Next, users are required to create a four-digit PIN to ensure an extra level of security. LA wallet offers Touch ID or Face ID to access the app. Once the app is set up, a user can add their driver\u2019s license.\"",
+      "source": [
+       "https://idscan.net/state-digital-id/louisiana-digital-id-mobile-drivers-license-through-la-wallet/#:~:text=As%20such%2C%20Louisiana%20is%20one,and%20other%20high%20compliance%20scenarios."
+      ]
+     }
+    ]
+   }
+  },
+  "Application": {
+   "Technical Requirements - Dig": {
+    "value": [
+     {
+      "value": "Once the app is installed, users can create their personal account by entering their email address and a secure password. Next, users are required to create a four-digit PIN to ensure an extra level of security. LA wallet offers Touch ID or Face ID to access the app. Once the app is set up, a user can add their driver\u2019s license.\nTo add their current driver\u2019s license to LA Wallet, residents can use the camera of their mobile phone to scan the barcode on the back of their physical license or enter the required information manually. Users should fill in their name, number of license, and audit number."
+     }
+    ]
+   }
+  },
+  "Mobile ID Data Protections": {
+   "How is information on the Mobile ID protected?": {
+    "value": [
+     {
+      "value": "VerifyYou Remote Verify - one time code, businesses etc can remotely request to verify your identity, four digit pin on app,"
+     }
+    ]
+   },
+   "What kinds of data are being collected?": {
+    "value": [
+     {
+      "value": "The app doesn\u2019t simply display an image of a physical Louisiana driver license; it retrieves all license data from the OMV database to create a pixel-perfect and high-resolution rendering of document. The app stores the digital license, so users can access it \u2012 anytime, even without an internet connection."
+     }
+    ]
+   }
+  },
+  "Mobile ID API": {
+   "Is there a mobile API?": {
+    "value": true
+   },
+   "Mobile API Specifications": {
+    "value": [
+     {
+      "value": "LA Wallet app available from app store"
+     }
+    ]
+   }
+  },
+  "Verifying Information": {
+   "How is information verified? - Phy Scanner": {
+    "value": [
+     {
+      "value": "Judgement, sight"
+     }
+    ]
+   },
+   "How is information verified? - Dig": {
+    "value": [
+     {
+      "value": "scanner tool or app"
+     }
+    ]
+   }
+  },
+  "Selective Disclosure": {
+   "Selective Disclosure?": {
+    "value": true
+   }
   }
  }
 }
