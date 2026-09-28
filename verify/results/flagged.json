@@ -588,5 +588,83 @@
     ]
    }
   }
+ },
+ "Virginia": {
+  "Digital?": {
+   "Digital?": {
+    "value": [
+     {
+      "value": "Can't find information on when pilot program ends, etc. Date of prototype start assumed from article quote:  \"Virginia has plans for 2023 to launch a digital ID app option, with Virginia DMV Director of Communications Brandy Brubaker telling Technical.ly that the app will launch in late summer or early fall.\u201cWe are excited to launch a mobile ID app later this year in partnership with our driver\u2019s license vendor, CBN Secure Technologies,\u201d Brubaker wrote to Technical.ly in an email.\"",
+      "source": [
+       "https://technical.ly/civic-news/virginia-dc-mobile-id/"
+      ]
+     }
+    ],
+    "GoogleSource": [
+     "https://virginiamercury.com/2024/10/04/virginia-adopted-standards-for-electronic-credentials-years-ago-what-happened/"
+    ]
+   }
+  },
+  "Future Proposals": {
+   "Details of Future Proposals": {
+    "value": [
+     {
+      "value": "Can't find information on when pilot program ends, etc. Date of prototype start assumed from article quote:  \"Virginia has plans for 2023 to launch a digital ID app option, with Virginia DMV Director of Communications Brandy Brubaker telling Technical.ly that the app will launch in late summer or early fall.\u201cWe are excited to launch a mobile ID app later this year in partnership with our driver\u2019s license vendor, CBN Secure Technologies,\u201d Brubaker wrote to Technical.ly in an email.\"",
+      "source": [
+       "https://technical.ly/civic-news/virginia-dc-mobile-id/"
+      ]
+     }
+    ]
+   },
+   "Prototype Start": {
+    "value": "8/1/2023"
+   }
+  },
+  "Card Features": {
+   "Biometrics?": {
+    "AirtableSource": [
+     {
+      "value": "\"How do I get a Virginia mID?Download and launch the Virginia mID app from the Apple Store or Google Play \nReview and accept the Terms and Conditions \nUnlock/Authenticate your phone \nScan the back of your ID \nTake a selfie\"",
+      "source": [
+       "https://www.dmv.virginia.gov/licenses-ids/mobile-id"
+      ]
+     }
+    ]
+   }
+  },
+  "Agency/Vendor": {
+   "What is (are) the commercial vendor partner(s) for wallet apps?": {
+    "value": "Other"
+   }
+  },
+  "Mobile ID API": {
+   "Is there a mobile API?": {
+    "value": true
+   }
+  },
+  "ID Data Collection Limitations": {
+   "Limited by Purpose?": {
+    "value": "No purpose restriction on scanning"
+   },
+   "Consent?": {
+    "AirtableSource": [
+     {
+      "value": "\"Virginia has become the second state in the United States to pass a comprehensive data privacy law and the first with a law requiring opt-in consent to process sensitive personal information... It is the first comprehensive U.S. privacy law to require opt-in consent for the use of sensitive personal information, which includes race, ethnicity, precise geolocation data and certain health data\"",
+      "source": [
+       "https://www.loeb.com/en/insights/publications/2021/03/va-passes-comprehensive-data-privacy-law-requires-optin-for-sensitive-personal-data#:~:text=Virginia%20has%20become%20the%20second,of%20at%20least%2025%2C000%20consumers."
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "Virginia_1": {
+  "License considered PII? (in legislation)": {
+   "License considered PII? (in legislation)": {
+    "GoogleSource": [
+     "https://lis.virginia.gov/bill-details/20251/HB2550/text/HB2550"
+    ]
+   }
+  }
  }
 }

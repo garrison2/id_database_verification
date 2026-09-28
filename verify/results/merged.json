@@ -4082,6 +4082,774 @@
      }
     ]
    }
+  },
+  "Card Features": {
+   "ID_fields": {
+    "value": [
+     "Name",
+     "ID number",
+     "Address",
+     "Date of Birth",
+     "Sex (Biological)",
+     "Class (Commercial, Non-commercial, etc)",
+     "Date of Issue",
+     "Date of expiry",
+     "Organ Donor",
+     "Restrictions",
+     "Signature"
+    ],
+    "GoogleSource": [
+     "https://www.dmv.virginia.gov/licenses-ids/license"
+    ]
+   },
+   "Real ID?": {
+    "value": "Yes (Optional)",
+    "GoogleSource": [
+     "https://www.dmv.virginia.gov/licenses-ids/real-id"
+    ]
+   },
+   "Barcode Types - Phy": {
+    "value": [
+     "PDF417"
+    ],
+    "GoogleSource": [
+     "https://www.dmv.virginia.gov/licenses-ids/license"
+    ]
+   },
+   "Barcode Types - Dig": {
+    "value": [
+     "QR"
+    ],
+    "GoogleSource": [
+     "https://www.dmv.virginia.gov/licenses-ids/license"
+    ]
+   },
+   "Biometrics?": {
+    "value": [
+     "Image of face"
+    ]
+   }
+  },
+  "Application": {
+   "Application Requirement - Phy": {
+    "value": [
+     "Proof of Identity",
+     "Proof of Citizenship/Lawful Status",
+     "Proof of Residency x2",
+     "SSN",
+     "Other"
+    ],
+    "AirtableSource": [
+     {
+      "source": [
+       "https://www.dmv.virginia.gov/licenses-ids/id-cards/get-id"
+      ]
+     }
+    ]
+   },
+   "Relationship between Phy and Dig IDs?": {
+    "value": [
+     {
+      "value": "Phy ID required for Dig"
+     }
+    ],
+    "GoogleSource": [
+     "https://www.dmv.virginia.gov/licenses-ids/mobile-id/faq"
+    ]
+   },
+   "Other Application Requirements - Dig": {
+    "value": [
+     {
+      "value": "iPhone after #8 to be able to get app, access to Apple Store/google play"
+     }
+    ],
+    "GoogleSource": [
+     "https://www.dmv.virginia.gov/licenses-ids/mobile-id/faq"
+    ]
+   },
+   "Technical Requirements - Dig": {
+    "GoogleSource": [
+     "https://www.dmv.virginia.gov/licenses-ids/mobile-id/faq"
+    ]
+   }
+  },
+  "Agency/Vendor": {
+   "What is the issuing agency?": {
+    "value": "DMV"
+   },
+   "Is the issuing agency partnering with a commercial vendor to design and distribute the mobile ID?": {
+    "value": true,
+    "GoogleSource": [
+     "https://apps.apple.com/us/app/virginia-mid/id6480013606",
+     "https://play.google.com/store/apps/details?id=com.cbnco.idsys.digid.virginia.mdl&hl=en_IE"
+    ]
+   },
+   "What is the commercial vendor partner for the in-house app?": {
+    "value": "CBN: https://www.cbnco.com/case-studies/secure-from-start-to-finish/",
+    "GoogleSource": [
+     "https://apps.apple.com/us/app/virginia-mid/id6480013606",
+     "https://play.google.com/store/apps/details?id=com.cbnco.idsys.digid.virginia.mdl&hl=en_IE"
+    ]
+   }
+  },
+  "Privacy Policies": {
+   "Privacy policies for physical IDs? (e.g. DMV website policy)": {
+    "value": [
+     {
+      "value": "Protected as personal information - Consumer Data Protection Act: \"Personal data\" means any information that is linked or reasonably linkable to an identified or identifiable natural person. \"Personal data\" does not include de-identified data or publicly available information.",
+      "source": [
+       "https://law.lis.virginia.gov/vacodefull/title59.1/chapter53/"
+      ]
+     }
+    ]
+   },
+   "Privacy policies for digital IDs?": {
+    "value": [
+     {
+      "value": "Virginia DMV provides the highest level of security in credential storage, data transmission and verification. Only you can share your information from your app. The mID presents only the information needed for the interaction, and you can review and authorize the information being requested before it is shared.",
+      "source": [
+       "https://www.dmv.virginia.gov/licenses-ids/mobile-id/faq"
+      ]
+     }
+    ],
+    "GoogleSource": [
+     "https://www.dmv.virginia.gov/licenses-ids/mobile-id/privacy"
+    ]
+   },
+   "For what purpose is information used/processed/stored?": {
+    "GoogleSource": [
+     "https://www.dmv.virginia.gov/licenses-ids/mobile-id/faq",
+     "https://www.dmv.virginia.gov/licenses-ids/mobile-id/privacy"
+    ]
+   },
+   "Who is information shared with?": {
+    "GoogleSource": [
+     "https://www.dmv.virginia.gov/licenses-ids/mobile-id/faq",
+     "https://www.dmv.virginia.gov/licenses-ids/mobile-id/privacy"
+    ]
+   }
+  },
+  "Mobile ID Data Protections": {
+   "Is collected data being warehoused somewhere?": {
+    "value": [
+     "On phone",
+     "Other"
+    ],
+    "GoogleSource": [
+     "https://www.dmv.virginia.gov/licenses-ids/mobile-id/faq",
+     "https://www.dmv.virginia.gov/licenses-ids/mobile-id/privacy"
+    ]
+   },
+   "What kinds of data are being collected?": {
+    "value": [
+     {
+      "value": "DMV does not collect data on where ID is used - Virginia DMV cannot see when or where you present your mID. Information about usage, including where, when and what personal information you share, is encrypted and stored only on your device, if you so choose. You have the option to delete or opt out of storing this information in the app\u2019s history.",
+      "source": [
+       "https://www.dmv.virginia.gov/licenses-ids/mobile-id/faq"
+      ]
+     }
+    ],
+    "GoogleSource": [
+     "https://www.dmv.virginia.gov/licenses-ids/mobile-id/privacy"
+    ]
+   },
+   "How is information on the Mobile ID protected?": {
+    "value": [
+     {
+      "value": "Additionally, mIDs are presented digitally through encrypted communication directly between your device and the verifying business or organization, so you do not need to hand over your device. Just like your physical card, DMV safeguards your personal data.",
+      "source": [
+       "https://www.dmv.virginia.gov/licenses-ids/mobile-id/faq"
+      ]
+     }
+    ],
+    "GoogleSource": [
+     "https://www.dmv.virginia.gov/licenses-ids/mobile-id/privacy"
+    ]
+   }
+  },
+  "Mobile ID Usage": {
+   "What can the dig ID be used for?": {
+    "value": [
+     "TSA",
+     "Other"
+    ],
+    "AirtableSource": [
+     {
+      "source": [
+       "https://www.dmv.virginia.gov/licenses-ids/mobile-id"
+      ]
+     }
+    ]
+   }
+  },
+  "Mobile ID API": {
+   "Is there a mobile API?": {
+    "value": true
+   }
+  },
+  "Verifying Information": {
+   "How is information verified? - Phy Human": {
+    "value": [
+     {
+      "value": "App, scan tool"
+     }
+    ]
+   },
+   "How is information verified? - Phy Scanner": {
+    "value": [
+     {
+      "value": "Human judgement, sight"
+     }
+    ]
+   },
+   "How is information verified? - Dig": {
+    "value": [
+     {
+      "value": "QR code from app scanned via app or scan tool presumably"
+     }
+    ]
+   }
+  },
+  "Selective Disclosure": {
+   "Selective Disclosure?": {
+    "value": true,
+    "GoogleSource": [
+     "https://www.dmv.virginia.gov/licenses-ids/mobile-id/faq",
+     "https://www.dmv.virginia.gov/licenses-ids/mobile-id/privacy"
+    ]
+   },
+   "How is selective disclosure implemented?": {
+    "value": [
+     {
+      "value": "\"Virginia mID is built on industry standards and limits the information you share to just the data needed for the transaction. The mID app provides an easy, private and secure way for Virginians to present their state-issued driver\u2019s license or ID card to participating businesses or organizations.\"",
+      "source": [
+       "https://www.dmv.virginia.gov/licenses-ids/mobile-id/faq"
+      ]
+     }
+    ],
+    "GoogleSource": [
+     "https://www.dmv.virginia.gov/licenses-ids/mobile-id/privacy"
+    ]
+   }
+  },
+  "License considered PII? (in legislation)": {
+   "License considered PII? (in legislation)": {
+    "value": true,
+    "AirtableSource": [
+     {
+      "value": "Consumer Data Protection Act: \"Personal data\" means any information that is linked or reasonably linkable to an identified or identifiable natural person. \"Personal data\" does not include de-identified data or publicly available information.",
+      "source": [
+       "https://law.lis.virginia.gov/vacodefull/title59.1/chapter53/"
+      ]
+     }
+    ],
+    "GoogleSource": [
+     "https://lis.virginia.gov/bill-details/20251/HB2550/text/HB2550"
+    ]
+   }
+  },
+  "ID Data Collection Limitations": {
+   "Limited by Purpose?": {
+    "GoogleSource": [
+     "https://law.lis.virginia.gov/vacode/title59.1/chapter35/section59.1-443.3/",
+     "https://law.lis.virginia.gov/vacodefull/title59.1/chapter53/",
+     "https://law.lis.virginia.gov/vacodepopularnames/personal-information-privacy-act/"
+    ]
+   },
+   "Legislation requiring ID use for some circumstances (not exhaustive)": {
+    "value": [
+     {
+      "value": "Age, identity verification, alcohol purchase, TSA, etc"
+     }
+    ],
+    "GoogleSource": [
+     "https://law.lis.virginia.gov/vacode/title59.1/chapter35/section59.1-443.3/",
+     "https://law.lis.virginia.gov/vacodefull/title59.1/chapter53/",
+     "https://law.lis.virginia.gov/vacodepopularnames/personal-information-privacy-act/"
+    ]
+   },
+   "Retention?": {
+    "value": "ID-specific legislation",
+    "AirtableSource": [
+     {
+      "value": "\"Your information is not accessible without your consent. You control what information from your mID you\u2019d like to share. When you enroll, your information is stored on your personal device. Only those with access to your personal device and the ability to unlock and access the app would have access to view it.\nYou remain in control of what information verifying businesses or organizations see. They can only view your information after they scan your mID. Virginia DMV does not track when or where you use mID.\nAdditionally, your mID will not access other data from your mobile device.\""
+     }
+    ],
+    "GoogleSource": [
+     "https://law.lis.virginia.gov/vacode/title59.1/chapter35/section59.1-443.3/",
+     "https://law.lis.virginia.gov/vacodefull/title59.1/chapter53/",
+     "https://law.lis.virginia.gov/vacodepopularnames/personal-information-privacy-act/"
+    ]
+   },
+   "Deletion?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "value": "Consumers can request data deletion: \"A controller that has obtained personal data about a consumer from a source other than the consumer shall be deemed in compliance with a consumer's request to delete such data pursuant to subdivision A 3 by either (i) retaining a record of the deletion request and the minimum data necessary for the purpose of ensuring the consumer's personal data remains deleted from the business's records and not using such retained data for any other purpose pursuant to the provisions of this chapter or (ii) opting the consumer out of the processing of such personal data for any purpose except for those exempted pursuant to the provisions of this chapter.\"",
+      "source": [
+       "https://law.lis.virginia.gov/vacodefull/title59.1/chapter53/"
+      ]
+     }
+    ],
+    "GoogleSource": [
+     "https://law.lis.virginia.gov/vacode/title59.1/chapter35/section59.1-443.3/",
+     "https://law.lis.virginia.gov/vacodepopularnames/personal-information-privacy-act/"
+    ]
+   },
+   "Required Retention?": {
+    "value": "ID-specific legislation",
+    "AirtableSource": [
+     {
+      "value": "Code of Virginia \u00a7 59.1-443.3. Scanning information from driver's license or other document; retention, sale, or dissemination of information.",
+      "source": [
+       "https://law.lis.virginia.gov/vacode/title59.1/chapter35/section59.1-443.3/"
+      ]
+     },
+     {
+      "value": "\"No merchant shall retain any information obtained from a scan of the machine-readable zone of an individual's driver's license or other document except as permitted in subdivision A 1, 3, 4, 5, or 6. The merchant shall destroy the retained information when the purpose for which it was provided and retained under this section has been satisfied.\nC. No merchant shall sell or disseminate to a third party any information obtained from a scan of the machine-readable zone of an individual's driver's license or other document for any marketing, advertising, or promotional purpose. This subsection shall not prohibit a merchant from disseminating to a third party any such information for a purpose described in subdivision A 3, 4, 5, or 6.\""
+     }
+    ],
+    "GoogleSource": [
+     "https://law.lis.virginia.gov/vacodefull/title59.1/chapter53/",
+     "https://law.lis.virginia.gov/vacodepopularnames/personal-information-privacy-act/"
+    ]
+   },
+   "Distinguishes Between Methods of ID Verification?": {
+    "value": "ID-specific legislation",
+    "AirtableSource": [
+     {
+      "value": "Laws around retention from scanning specifically, same as above is what I could find.",
+      "source": [
+       "https://law.lis.virginia.gov/vacode/title59.1/chapter35/section59.1-443.3/"
+      ]
+     }
+    ],
+    "GoogleSource": [
+     "https://law.lis.virginia.gov/vacodefull/title59.1/chapter53/",
+     "https://law.lis.virginia.gov/vacodepopularnames/personal-information-privacy-act/"
+    ]
+   },
+   "Consent?": {
+    "value": "General legislation",
+    "GoogleSource": [
+     "https://law.lis.virginia.gov/vacode/title59.1/chapter35/section59.1-443.3/",
+     "https://law.lis.virginia.gov/vacodefull/title59.1/chapter53/",
+     "https://law.lis.virginia.gov/vacodepopularnames/personal-information-privacy-act/"
+    ]
+   },
+   "Data Breaches?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "value": "Code of Virginia \u00a7 18.2-186.6. Breach of personal information notification.\"An individual or entity that maintains computerized data that includes personal information that the individual or entity does not own or license shall notify the owner or licensee of the information of any breach of the security of the system without unreasonable delay following discovery of the breach of the security of the system, if the personal information was accessed and acquired by an unauthorized person or the individual or entity reasonably believes the personal information was accessed and acquired by an unauthorized person.\"",
+      "source": [
+       "https://law.lis.virginia.gov/vacode/title18.2/chapter6/section18.2-186.6/#:~:text=An%20individual%20or%20entity%20that%20maintains%20computerized%20data%20that%20includes,the%20breach%20of%20the%20security"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "Virginia_1": {
+  "Digital?": {
+   "Digital?": {
+    "value": "Current Offering",
+    "AirtableSource": [
+     {
+      "value": "\u00a7 46.2-225/30 (Article 3. Electronic Credentials Act): / 2017 Bill\n- the credentials shall be issued in addition to, and not instead of, the underlying physical credentials for which a person is eligible- The Department and other agencies that enter into an agreement with the Department pursuant to subsection C of \u00a7 46.2-226 may create and issue profiles (electronic credential that displays a different set of data fields than are displayed on the physical credential) to be used in those circumstances where the display of the data fields would satisfy the purpose for which the profile is being presented.\n- Electronic credentials and electronic credential systems shall be designed so that there is no need for the credential holder to relinquish possession of the device in which the electronic credential system is installed in order to present the credential or for the person to whom the credential is presented to search the verification system to confirm the validity of the credential.\n- Electronic credential and verification systems shall be designed to protect the credential holder's privacy, including by use of privacy-enhancing technologies or other appropriate methods. If the Department enters into an agreement with the owner of a third-party electronic credential system, the agreement shall require the owner of that system to take appropriate measures to protect the credential holder's privacy.- The Department or its agent may enter into an agreement with a person to access and search the verification system. Any such agreement shall require, at a minimum, that the person to whom the Department is granting access agree to search the system only in compliance with the requirements of this section and to take appropriate measures to protect the credential holder's privacy.",
+      "source": [
+       "https://law.lis.virginia.gov/vacodefull/title46.2/chapter2/article3/",
+       "https://legacylis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0697&171+ful+CHAP0697"
+      ]
+     }
+    ]
+   }
+  },
+  "Card Features": {
+   "ID_fields": {
+    "value": [
+     "ID number",
+     "Name",
+     "Address",
+     "Date of Birth",
+     "Class (Commercial, Non-commercial, etc)",
+     "Sex (Biological)",
+     "Other",
+     "Restrictions",
+     "Date of Issue",
+     "Date of expiry",
+     "Signature",
+     "Document Discriminator",
+     "Organ Donor",
+     "Veteran",
+     "Eye Color",
+     "Endorsements",
+     "Height"
+    ],
+    "GoogleSource": [
+     "https://www.dmv.virginia.gov/licenses-ids/license"
+    ]
+   },
+   "Real ID?": {
+    "value": "Yes (Optional)",
+    "GoogleSource": [
+     "https://www.dmv.virginia.gov/licenses-ids/real-id"
+    ]
+   },
+   "Barcode Types - Phy": {
+    "value": [
+     "PDF417"
+    ],
+    "GoogleSource": [
+     "https://www.dmv.virginia.gov/licenses-ids/license"
+    ]
+   },
+   "Biometrics?": {
+    "value": [
+     "Image of face"
+    ],
+    "GoogleSource": [
+     "https://www.dmv.virginia.gov/licenses-ids/license"
+    ]
+   }
+  },
+  "Application": {
+   "Application Requirement - Phy": {
+    "value": [
+     "Proof of Identity",
+     "Other",
+     "Proof of Residency x1",
+     "Proof of Residency x2",
+     "SSN",
+     "If name change: Proof of name change",
+     "Signature",
+     "Payment"
+    ],
+    "AirtableSource": [
+     {
+      "source": [
+       "https://www.dmv.virginia.gov/sites/default/files/forms/dmv141.pd",
+       "https://law.lis.virginia.gov/vacode/title46.2/chapter3/section46.2-323/"
+      ]
+     }
+    ],
+    "GoogleSource": [
+     "https://www.dmv.virginia.gov/licenses-ids/license"
+    ]
+   },
+   "Relationship between Phy and Dig IDs?": {
+    "value": [
+     {
+      "value": "Phy ID required for Dig"
+     }
+    ],
+    "GoogleSource": [
+     "https://www.dmv.virginia.gov/licenses-ids/mobile-id/faq"
+    ]
+   },
+   "Other Application Requirements - Dig": {
+    "value": [
+     {
+      "value": "Download and launch the Virginia mID app from the Apple Store or Google Play\nReview and accept the Terms and Conditions. \nUnlock/Authenticate your phone. \nScan the back of your ID. \nTake a selfie.",
+      "source": [
+       "https://www.dmv.virginia.gov/licenses-ids/mobile-id/faq"
+      ]
+     }
+    ]
+   },
+   "Technical Requirements - Dig": {
+    "value": [
+     {
+      "value": "An iPhone 8 with iOS 16 or an Android OS 8.0 or newer.",
+      "source": [
+       "https://www.dmv.virginia.gov/licenses-ids/mobile-id/faq"
+      ]
+     }
+    ]
+   }
+  },
+  "Agency/Vendor": {
+   "What is the issuing agency?": {
+    "value": "Virginia Department of Motor Vehicles"
+   },
+   "Is the issuing agency partnering with a commercial vendor to design and distribute the mobile ID?": {
+    "value": true,
+    "GoogleSource": [
+     "https://apps.apple.com/us/app/virginia-mid/id6480013606",
+     "https://play.google.com/store/apps/details?id=com.cbnco.idsys.digid.virginia.mdl&hl=en_IE"
+    ]
+   },
+   "What is the commercial vendor partner for the in-house app?": {
+    "value": "CBN Secure Technologies Inc (Canadian Bank Note)\n\nhttps://cbncomid.com/\nhttps://www.cbnco.com/why-cbn/about-us/",
+    "GoogleSource": [
+     "https://apps.apple.com/us/app/virginia-mid/id6480013606",
+     "https://play.google.com/store/apps/details?id=com.cbnco.idsys.digid.virginia.mdl&hl=en_IE"
+    ]
+   }
+  },
+  "Privacy Policies": {
+   "Privacy policies for physical IDs? (e.g. DMV website policy)": {
+    "value": [
+     {
+      "source": [
+       "https://www.dmv.virginia.gov/policies-regulations"
+      ]
+     }
+    ]
+   },
+   "Privacy policies for digital IDs?": {
+    "value": [
+     {
+      "source": [
+       "https://cbnco.com/legal/CBN-Mobile-eID-Privacy-Policy.html"
+      ]
+     },
+     {
+      "title": "DMV Privacy Policy",
+      "value": "DMV agrees without reservation or qualification that it and its officers, employees, agents, and/or authorized users shall comply with, and be subject to the penalties for violations of, all laws and regulations, whether federal or state, pertaining to the access, use, and/or dissemination of information, including but not limited to, the Federal Driver\u2019s Privacy Protection Act of 1994, 18 U.S.C. \u00a7 2721 et seq.; the Federal Fair Credit Reporting Act, 15 U.S.C. \u00a7 1681 et seq.; the Government Data Collection and Dissemination Practices Act, Virginia Code \u00a7 2.2-3800 et. seq.; Virginia Code \u00a7 46.2\u2013208; and Virginia Code \u00a7 58.1-3.",
+      "source": [
+       "https://www.dmv.virginia.gov/licenses-ids/mobile-id/privacy"
+      ]
+     },
+     {
+      "title": "DMV TOS",
+      "value": "- The data that passes between you and DMV while using the Mobile ID will be encrypted. \n- DMV... may do so to ensure proper performance of the Mobile ID features and prevent criminal activity. Such inspection may result in the acquisition, recording, and analysis of all data being communicated, transmitted, processed, or stored by you or by DMV. You acknowledge  that DMV may disclose information about you to other persons or organizations when DMV is required or authorized by local, state or federal laws or regulations.\n- you are sending information to DMV and giving DMV permission to access your driver's license or identification card record to compare the information you have supplied to the Digital Wallet provider with the information contained on your most recent driver's license or identification card record.\n- The information provided to DMV to provision the Mobile ID to the Digital Wallet will not be used for monitoring or tracking purposes. \n- DMV may share data with the Digital Wallet provider related to verifying your information to finalize the verification of your identity and provision the Mobile ID to the Digital Wallet.\n- You acknowledge that by using the Mobile ID, you agree and give DMV consent to share information (including information that may personally identify you) with the Digital Wallet provider to facilitate your use of the mobile ID. \n- You further agree that DMV may share non-personal information with the Digital Wallet provider to improve the Digital Wallet service.",
+      "source": [
+       "https://www.dmv.virginia.gov/licenses-ids/mobile-id/terms"
+      ]
+     }
+    ]
+   },
+   "For what purpose is information used/processed/stored?": {
+    "GoogleSource": [
+     "https://www.dmv.virginia.gov/licenses-ids/mobile-id/faq",
+     "https://www.dmv.virginia.gov/licenses-ids/mobile-id/privacy"
+    ]
+   },
+   "Who is information shared with?": {
+    "GoogleSource": [
+     "https://www.dmv.virginia.gov/licenses-ids/mobile-id/faq",
+     "https://www.dmv.virginia.gov/licenses-ids/mobile-id/privacy"
+    ]
+   }
+  },
+  "Mobile ID Data Protections": {
+   "Is collected data being warehoused somewhere?": {
+    "value": [
+     "On phone"
+    ],
+    "GoogleSource": [
+     "https://www.dmv.virginia.gov/licenses-ids/mobile-id/faq",
+     "https://www.dmv.virginia.gov/licenses-ids/mobile-id/privacy"
+    ]
+   },
+   "What kinds of data are being collected?": {
+    "value": [
+     {
+      "value": "'- Demographic and other personally identifiable information (such as your name, date of birth, driver\u2019s license number, home address, height, eye colour, and email address) that you voluntarily give to us\n- Financial information, such as data related to your payment method (e.g. valid credit card number, card brand, expiration date) that we may collect when you purchase, order, return, exchange, or request information about our services from the Application.\n- We may request access or permission to and track location-based information from your mobile device, either continuously or while you are using the Application, to provide location-based services. If you wish to change our access or permissions, you may do so in your device\u2019s settings.\n- We may request access or permission to certain features from your mobile device, including your mobile device\u2019s camera, Bluetooth, internet. If you wish to change our access or permissions, you may do so in your device\u2019s settings however in such case the Application may not function correctly, or at all. \n- Device information such as your mobile device ID number, model, and manufacturer, version of your operating system, phone number, country, location, and any other data you choose to provide.\nHaving accurate information about you permits us to provide you with a smooth, efficient, and customized experience so that you can properly use the Application. Specifically, you authorize us to use the information in the Application for the following purposes \n1.      Assist law enforcement. \n2.      Compile anonymous statistical data and analysis for use internally or with third parties. Create and manage your account.\n3.      Email you regarding your a count or order.\n4.      Enable user-to-user communications.\n5.      Fulfill and manage purchases, orders, payments, and other transactions related to the Application.\n6.      Generate a personal profile about you to make future visits to the Application more personalized.\n7.      Increase the efficiency and operation of the Application.\n8.      Monitor and analyze usage and trends to improve your experience with the Application.\n9.      Notify you of updates to the Application.\n10.  Offer new products, services, mobile applications, and/or recommendations to you.\n11.  Perform other business activities as needed.\n12.  Prevent fraudulent transactions, monitor against theft, and protect against criminal activity.\n13.  Process payments and refunds.\n14.  Request feedback and contact you about your use of the Application.\n15.  Resolve disputes and troubleshoot problems.\n16.  Respond to product and customer service requests.\n17.  Send you a newsletter."
+     },
+     {
+      "title": "Shared to",
+      "value": "- If we believe the release of information about you is necessary to respond to legal process, to investigate or remedy potential violations of our policies, or to protect the rights, property, and safety of others, we may share your information as permitted or required by any applicable law, rule, or regulation. This includes exchanging information with other entities for fraud protection and credit risk reduction.\n- We may share your information with third parties that perform services for us or on our behalf, including payment processing, data analysis, email delivery, hosting services, customer service, and marketing assistance.\n- If you interact with other users of the Application, those users may see your name, profile photo, dob, DL # if you consent for them to see such information. \n- We may share your information with our affiliates, in which case we will require those affiliates to honor this Privacy Policy. Affiliates include our parent company and any subsidiaries, joint venture partners or other companies that we control or that are under common control with us.\n- We may share your information with the organization who administers your driver\u2019s license or identification card.",
+      "source": [
+       "https://cbnco.com/legal/CBN-Mobile-eID-Privacy-Policy.html"
+      ]
+     }
+    ]
+   },
+   "How is information on the Mobile ID protected?": {
+    "value": [
+     {
+      "value": "- The data that passes between you and DMV while using the Mobile ID will be encrypted.",
+      "source": [
+       "https://www.dmv.virginia.gov/licenses-ids/mobile-id/terms"
+      ]
+     },
+     {
+      "value": "We use administrative, technical, and physical security measures to help protect your personal information. While we have taken reasonable steps to secure the personal information you provide to us, please be aware that despite our efforts, no security measures are perfect or impenetrable, and no method of data transmission can be guaranteed against any interception or other type of misuse. Any information disclosed online is vulnerable to interception and misuse by unauthorized parties. Therefore, we cannot guarantee complete security for any personal information provided to us via the Application.",
+      "source": [
+       "https://cbnco.com/legal/CBN-Mobile-eID-Privacy-Policy.html"
+      ]
+     }
+    ]
+   }
+  },
+  "Mobile ID Usage": {
+   "What can the dig ID be used for?": {
+    "value": [
+     "TSA"
+    ],
+    "AirtableSource": [
+     {
+      "value": "Currently, the mID can be used at select airport Transportation Security Administration (TSA) checkpoints Norfolk International Airport, Richmond International Airport, Ronald Reagan Washington National Airport, Washington Dulles International Airport. In time, you will be able to use Virginia mID at participating businesses or organizations the same way you use your physical driver\u2019s license or ID card. Because the technology is new, many businesses and organizations have not yet developed a process to accept the mID.Currently, your physical driver\u2019s license or ID is still required to show a law enforcement officer.",
+      "source": [
+       "https://www.dmv.virginia.gov/licenses-ids/mobile-id/faq"
+      ]
+     }
+    ]
+   }
+  },
+  "Selective Disclosure": {
+   "Selective Disclosure?": {
+    "value": true,
+    "GoogleSource": [
+     "https://www.dmv.virginia.gov/licenses-ids/mobile-id/faq"
+    ]
+   },
+   "How is selective disclosure implemented?": {
+    "value": [
+     {
+      "value": "The mID presents only the information needed for the interaction, and you can review and authorize the information being requested before it is shared.",
+      "source": [
+       "https://www.dmv.virginia.gov/licenses-ids/mobile-id/faq"
+      ]
+     }
+    ]
+   }
+  },
+  "License considered PII? (in legislation)": {
+   "License considered PII? (in legislation)": {
+    "value": true,
+    "AirtableSource": [
+     {
+      "title": "\u00a7 18.2-186.6. Breach of personal information notification",
+      "value": "- Personal information includes first name/initial + last + DL/ID number",
+      "source": [
+       "https://law.lis.virginia.gov/vacode/title18.2/chapter6/section18.2-186.6/"
+      ]
+     },
+     {
+      "title": "\u00a7 59.1-575. (Consumer Data Protection Act)",
+      "value": "\"Personal data\" is information that is linked or reasonably linkable to an identified or identifiable natural person",
+      "source": [
+       "https://law.lis.virginia.gov/vacodefull/title59.1/chapter53/"
+      ]
+     }
+    ]
+   }
+  },
+  "ID Data Collection Limitations": {
+   "Limited by Purpose?": {
+    "value": "Purpose restriction on scanning IDs",
+    "AirtableSource": [
+     {
+      "title": "\u00a7 59.1-443.3. Scanning information from driver's license or other document; retention, sale, or dissemination of information",
+      "value": "- machine-readable zone of a driver's license \n- Merchant cannot scan except to 1) verify authenticity, 2) verify age, 3) prevent fraud, 4) comply with law, 5) provide to check service under federal Fair Credit Reporting Act, 6) complete a transaction under Gramm-Leach-Bliley Act/Fair Credit Reporting Act\n- Information obtained from the above cannot be retained if the purpose was to verify age\n- Cannot \"sell or disseminate to a third party any information obtained\" \"for any marketing, advertising, or promotional purpose\"",
+      "source": [
+       "https://law.lis.virginia.gov/vacodefull/title59.1/chapter35/"
+      ]
+     },
+     {
+      "value": "\u00a7 59.1-575/585. Chapter 53. Consumer Data Protection Act.\nApplies to businesses that have 100,000 consumers or control or process personal data of 25,000 consumers and derive over 50 percent of gross revenue from the sale of personal data\n- Consumers can confirm, correct, delete, obtain a copy of, opt out of for targeted advertising, sale, profiling with legal significance\n- Controller can only collect what is \"adequate, relevant, and reasonably necessary\" to disclosed purpose\n- Controller cannot process personal data that is not reasonable without consumer consent",
+      "source": [
+       "https://law.lis.virginia.gov/vacodefull/title59.1/chapter53/"
+      ]
+     }
+    ],
+    "GoogleSource": [
+     "https://law.lis.virginia.gov/vacode/title59.1/chapter35/section59.1-443.3/",
+     "https://law.lis.virginia.gov/vacodepopularnames/personal-information-privacy-act/"
+    ]
+   },
+   "Limited by Physical Location?": {
+    "value": "No physical location restriction on scanning"
+   },
+   "Limited by Virtual Location?": {
+    "value": "No virtual location restriction on scanning"
+   },
+   "Limited by Other?": {
+    "value": "No other restrictions on scanning"
+   },
+   "Retention?": {
+    "value": "ID-specific legislation",
+    "AirtableSource": [
+     {
+      "title": "\u00a7 59.1-443.3. Scanning information from driver's license or other document; retention, sale, or dissemination of information",
+      "value": "- machine-readable zone of a driver's license \n- Merchant cannot scan except to 1) verify authenticity, 2) verify age, 3) prevent fraud, 4) comply with law, 5) provide to check service under federal Fair Credit Reporting Act, 6) complete a transaction under Gramm-Leach-Bliley Act/Fair Credit Reporting Act\n- Information obtained from the above cannot be retained if the purpose was to verify age\n- Cannot \"sell or disseminate to a third party any information obtained\" \"for any marketing, advertising, or promotional purpose\"",
+      "source": [
+       "https://law.lis.virginia.gov/vacodefull/title59.1/chapter35/"
+      ]
+     },
+     {
+      "value": "\u00a7 59.1-575/585. Chapter 53. Consumer Data Protection Act.\nApplies to businesses that have 100,000 consumers or control or process personal data of 25,000 consumers and derive over 50 percent of gross revenue from the sale of personal data\n- Consumers can confirm, correct, delete, obtain a copy of, opt out of for targeted advertising, sale, profiling with legal significance\n- Controller can only collect what is \"adequate, relevant, and reasonably necessary\" to disclosed purpose\n- Controller cannot process personal data that is not reasonable without consumer consent",
+      "source": [
+       "https://law.lis.virginia.gov/vacodefull/title59.1/chapter53/"
+      ]
+     }
+    ],
+    "GoogleSource": [
+     "https://law.lis.virginia.gov/vacode/title59.1/chapter35/section59.1-443.3/",
+     "https://law.lis.virginia.gov/vacodepopularnames/personal-information-privacy-act/"
+    ]
+   },
+   "Deletion?": {
+    "value": "ID-specific legislation",
+    "AirtableSource": [
+     {
+      "title": "\u00a7 59.1-443.3. Scanning information from driver's license or other document; retention, sale, or dissemination of information",
+      "value": "- machine-readable zone of a driver's license \n- Merchant cannot scan except to 1) verify authenticity, 2) verify age, 3) prevent fraud, 4) comply with law, 5) provide to check service under federal Fair Credit Reporting Act, 6) complete a transaction under Gramm-Leach-Bliley Act/Fair Credit Reporting Act\n- Information obtained from the above cannot be retained if the purpose was to verify age\n- Cannot \"sell or disseminate to a third party any information obtained\" \"for any marketing, advertising, or promotional purpose\"",
+      "source": [
+       "https://law.lis.virginia.gov/vacodefull/title59.1/chapter35/"
+      ]
+     },
+     {
+      "value": "\u00a7 59.1-575/585. Chapter 53. Consumer Data Protection Act.\nApplies to businesses that have 100,000 consumers or control or process personal data of 25,000 consumers and derive over 50 percent of gross revenue from the sale of personal data\n- Consumers can confirm, correct, delete, obtain a copy of, opt out of for targeted advertising, sale, profiling with legal significance\n- Controller can only collect what is \"adequate, relevant, and reasonably necessary\" to disclosed purpose\n- Controller cannot process personal data that is not reasonable without consumer consent",
+      "source": [
+       "https://law.lis.virginia.gov/vacodefull/title59.1/chapter53/"
+      ]
+     }
+    ],
+    "GoogleSource": [
+     "https://law.lis.virginia.gov/vacode/title59.1/chapter35/section59.1-443.3/",
+     "https://law.lis.virginia.gov/vacodepopularnames/personal-information-privacy-act/"
+    ]
+   },
+   "Required Retention?": {
+    "value": "No legislation"
+   },
+   "Distinguishes Between Methods of ID Verification?": {
+    "value": "ID-specific legislation",
+    "AirtableSource": [
+     {
+      "value": "\u00a7 59.1-443.3. Scanning information from driver's license or other document; retention, sale, or dissemination of information.",
+      "source": [
+       "https://law.lis.virginia.gov/vacodefull/title59.1/chapter35/"
+      ]
+     }
+    ],
+    "GoogleSource": [
+     "https://law.lis.virginia.gov/vacode/title59.1/chapter35/section59.1-443.3/",
+     "https://law.lis.virginia.gov/vacodefull/title59.1/chapter53/",
+     "https://law.lis.virginia.gov/vacodepopularnames/personal-information-privacy-act/"
+    ]
+   },
+   "Consent?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "value": "\u00a7 59.1-575/585. Chapter 53. Consumer Data Protection Act.\nApplies to businesses that have 100,000 consumers or control or process personal data of 25,000 consumers and derive over 50 percent of gross revenue from the sale of personal data\n- Consumers can confirm, correct, delete, obtain a copy of, opt out of for targeted advertising, sale, profiling with legal significance\n- Controller can only collect what is \"adequate, relevant, and reasonably necessary\" to disclosed purpose\n- Controller cannot process personal data that is not reasonable without consumer consent",
+      "source": [
+       "https://law.lis.virginia.gov/vacodefull/title59.1/chapter53/"
+      ]
+     }
+    ],
+    "GoogleSource": [
+     "https://law.lis.virginia.gov/vacode/title59.1/chapter35/section59.1-443.3/",
+     "https://law.lis.virginia.gov/vacodepopularnames/personal-information-privacy-act/"
+    ]
+   },
+   "Data Breaches?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "title": "\u00a7 18.2-186.6. Breach of personal information notification",
+      "value": "- Must notify without unreasonable delay",
+      "source": [
+       "https://law.lis.virginia.gov/vacode/title18.2/chapter6/section18.2-186.6/"
+      ]
+     }
+    ]
+   }
   }
  }
 }
