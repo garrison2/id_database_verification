@@ -2623,6 +2623,306 @@
      }
     ]
    }
+  },
+  "Card Features": {
+   "ID_fields": {
+    "GoogleSource": [
+     "https://drive.ky.gov/Pages/index.aspx"
+    ]
+   },
+   "Real ID?": {
+    "GoogleSource": [
+     "https://drive.ky.gov/RealID/Pages/default.aspx"
+    ]
+   },
+   "Barcode Types - Phy": {
+    "value": [
+     "PDF417",
+     "Other"
+    ],
+    "GoogleSource": [
+     "https://drive.ky.gov/Pages/index.aspx"
+    ]
+   },
+   "Barcode Types - Dig": {
+    "value": [
+     "QR"
+    ],
+    "GoogleSource": [
+     "https://drive.ky.gov/Pages/index.aspx"
+    ]
+   },
+   "Biometrics?": {
+    "value": [
+     "Image of face"
+    ],
+    "GoogleSource": [
+     "https://drive.ky.gov/Pages/index.aspx"
+    ]
+   }
+  },
+  "Application": {
+   "Application Requirement - Phy": {
+    "value": [
+     "Proof of Identity",
+     "SSN",
+     "Proof of Residency x1",
+     "Proof of Residency x2"
+    ],
+    "AirtableSource": [
+     {
+      "value": "2 proof of residency for real ID, name change if relevant.",
+      "source": [
+       "https://drive.ky.gov/Drivers/Pages/First-Issuance.aspx"
+      ]
+     }
+    ]
+   },
+   "Relationship between Phy and Dig IDs?": {
+    "value": [
+     {
+      "value": "Phy ID required for Dig"
+     }
+    ]
+   }
+  },
+  "Agency/Vendor": {
+   "What is the issuing agency?": {
+    "value": "Kentucky Department of Vehicle Regulation"
+   },
+   "Is the issuing agency partnering with a commercial vendor to design and distribute the mobile ID?": {
+    "value": true
+   },
+   "What is the commercial vendor partner for the in-house app?": {
+    "value": "IDEMIA"
+   }
+  },
+  "Privacy Policies": {
+   "Privacy policies for digital IDs?": {
+    "value": [
+     {
+      "value": "Not specified yet besides claims about how it ensures privacy -",
+      "source": [
+       "https://drive.ky.gov/Pages/Mobile-ID.aspx#:~:text=Mobile%20ID%20can%20be%20used,under%20the%20\u201cID\u201d%20tab."
+      ]
+     }
+    ]
+   }
+  },
+  "Mobile ID Data Protections": {
+   "Is collected data being warehoused somewhere?": {
+    "value": [
+     "On phone",
+     "In database"
+    ]
+   },
+   "How is information on the Mobile ID protected?": {
+    "value": [
+     {
+      "value": "\"It ensures privacy by keeping data only on your device and the state system.\"",
+      "source": [
+       "https://drive.ky.gov/Pages/Mobile-ID.aspx#:~:text=Mobile%20ID%20can%20be%20used,under%20the%20\u201cID\u201d%20tab."
+      ]
+     }
+    ]
+   }
+  },
+  "Mobile ID Usage": {
+   "What can the dig ID be used for?": {
+    "value": [
+     "TSA",
+     "Businesses",
+     "Law Enforcement"
+    ],
+    "AirtableSource": [
+     {
+      "source": [
+       "https://drive.ky.gov/Pages/Mobile-ID.aspx#:~:text=Mobile%20ID%20can%20be%20used,under%20the%20\u201cID\u201d%20tab."
+      ]
+     },
+     {
+      "value": "\"Mobile ID can be used in any context in which you would use your physical ID to verify your age or identity. A merchant can choose to physically verify the Mobile ID by identifying your birthdate from the rendered license under the \u201cID\u201d tab.\""
+     }
+    ]
+   }
+  },
+  "Mobile ID API": {
+   "Is there a mobile API?": {
+    "value": true
+   }
+  },
+  "Verifying Information": {
+   "How is information verified? - Phy Human": {
+    "value": [
+     {
+      "value": "Scanner tool or app"
+     }
+    ]
+   },
+   "How is information verified? - Phy Scanner": {
+    "value": [
+     {
+      "value": "Judgement"
+     }
+    ]
+   },
+   "How is information verified? - Dig": {
+    "value": [
+     {
+      "value": "Scanner app (QR)"
+     }
+    ]
+   }
+  },
+  "Selective Disclosure": {
+   "Selective Disclosure?": {
+    "value": true
+   },
+   "How is selective disclosure implemented?": {
+    "value": [
+     {
+      "value": "\"Safer than carrying your ID in your wallet, the Mobile ID app is secure, using FaceID or TouchID. Mobile ID puts you in control by letting you decide what information you share.\"",
+      "source": [
+       "https://drive.ky.gov/Pages/Mobile-ID.aspx"
+      ]
+     }
+    ]
+   }
+  },
+  "License considered PII? (in legislation)": {
+   "License considered PII? (in legislation)": {
+    "value": true,
+    "AirtableSource": [
+     {
+      "source": [
+       "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=43575"
+      ]
+     },
+     {
+      "title": "KRS 61.931 (HB5) states \"Personal Information\" means an individual's first name or first initial\u200b and last name; personal mark; or unique biometric or genetic print or image, in combination with one (1) or more of the following data elements"
+     },
+     {
+      "value": "\u200bAn account number, credit card number, or debit card number that, in combination with any required security code, access code, or password, would permit access to an account;\nA Social Security number;\nA taxpayer identification number that incorporates a Social Security number;\nA driver's license number, state identification card, or other individual identification number issued by any agency;\nA passport number or other identification number issued by the United States government; or\nIndividually identifiable health information as defined in 45 C.F.R. sec. 160.103 except for education records covered by the Family Educational Rights and Privacy Act, as amended 20 U.S.C. sec. 1232g."
+     }
+    ],
+    "GoogleSource": [
+     "https://apps.legislature.ky.gov/law/kar/titles/601/002/020/"
+    ]
+   }
+  },
+  "ID Data Collection Limitations": {
+   "Limited by Purpose?": {
+    "value": "No purpose restriction on scanning"
+   },
+   "Legislation requiring ID use for some circumstances (not exhaustive)": {
+    "value": [
+     {
+      "value": "Alcohol purchase, TSA, law enforcement"
+     }
+    ]
+   },
+   "Limited by Physical Location?": {
+    "value": "No physical location restriction on scanning"
+   },
+   "Limited by Virtual Location?": {
+    "value": "No virtual location restriction on scanning"
+   },
+   "Limited by Other?": {
+    "value": "No other restrictions on scanning"
+   },
+   "Retention?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "source": [
+       "https://apps.legislature.ky.gov/recorddocuments/bill/24RS/hb15/bill.pdf"
+      ]
+     },
+     {
+      "title": "Kentucky Consumer Data Privacy Act"
+     },
+     {
+      "value": "(b) At the controller's direction, delete or return all personal data to the\ncontroller as requested at the end of the provision of services, unless\nretention of the personal data is required by law;\n(b) Adequate, relevant, and limited to what is necessary in relation to the\nspecific purposes listed in this section. Personal data collected, used, or\nretained pursuant to subsection (2) of this section shall, where applicable,\ntake into account the nature and purpose or purposes of such collection,\nuse, or retention. The data shall be subject to reasonable administrative,\ntechnical, and physical measures to protect the confidentiality, integrity,\nand accessibility of personal data and to reduce reasonably foreseeable risks\nof harm to consumers relating to the collection, use, or retention of\npersonal data."
+     }
+    ],
+    "GoogleSource": [
+     "https://apps.legislature.ky.gov/recorddocuments/bill/22RS/hb586/orig_bill.pdf"
+    ]
+   },
+   "Deletion?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "value": "Kentucky Law 365.725. Destruction of customer records",
+      "source": [
+       "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=34843"
+      ]
+     },
+     {
+      "value": "When a business disposes of, other than by storage, any customer\u2019s records that are not required to be retained, the business shall take reasonable steps to destroy, or arrange for the destruction of, that portion of the records containing personally identifiable information by shredding, erasing, or otherwise modifying the personal information in those records to make it unreadable or indecipherable through any means."
+     }
+    ],
+    "GoogleSource": [
+     "https://apps.legislature.ky.gov/recorddocuments/bill/22RS/hb586/orig_bill.pdf"
+    ]
+   },
+   "Required Retention?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "value": "Kentucky House Bill 74. An Act relating to pawnbrokers",
+      "source": [
+       "https://legiscan.com/KY/text/HB74/2018"
+      ]
+     },
+     {
+      "value": "Requires pawnbrokers to record the driver\u2019s license, other government-issued picture identification card, or SSN (if no picture identification is available) of every person leaving property that has been pawned or sold.Kentucky Law 365.725. Destruction of customer records",
+      "source": [
+       "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=34843"
+      ]
+     },
+     {
+      "value": "When a business disposes of, other than by storage, any customer\u2019s records that are not required to be retained, the business shall take reasonable steps to destroy, or arrange for the destruction of, that portion of the records containing personally identifiable information by shredding, erasing, or otherwise modifying the personal information in those records to make it unreadable or indecipherable through any means."
+     }
+    ],
+    "GoogleSource": [
+     "https://apps.legislature.ky.gov/recorddocuments/bill/22RS/hb586/orig_bill.pdf"
+    ]
+   },
+   "Distinguishes Between Methods of ID Verification?": {
+    "value": "No legislation"
+   },
+   "Consent?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "value": "Kentucky Consumer Data Privacy Act",
+      "source": [
+       "https://apps.legislature.ky.gov/recorddocuments/bill/24RS/hb15/bill.pdf"
+      ]
+     },
+     {
+      "value": "Except as otherwise provided in this section, not process personal data for\npurposes that are neither reasonably necessary to nor compatible with the\ndisclosed purposes for which the personal data is processed as disclosed to\nthe consumer, unless the controller obtains the consumer's consent;\nNot process sensitive data concerning a consumer without obtaining the\nconsumer's consent, or, in the case of the processing of sensitive data\ncollected from a known child, process the data in accordance with the\nfederal Children's Online Privacy Protection Act 15 U.S.C. sec. 6501 et seq."
+     }
+    ],
+    "GoogleSource": [
+     "https://apps.legislature.ky.gov/recorddocuments/bill/22RS/hb586/orig_bill.pdf"
+    ]
+   },
+   "Data Breaches?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "value": "365.732 Notification to affected persons of computer security breach involving their unencrypted personally identifiable information.",
+      "source": [
+       "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=43326"
+      ]
+     },
+     {
+      "value": "Any information holder shall disclose any breach of the security of the system, following discovery or notification of the breach in the security of the data, to any resident of Kentucky whose unencrypted personal information was, or is reasonably believed to have been, acquired by an unauthorized person. The disclosure shall be made in the most expedient time possible and without unreasonable delay, consistent with the legitimate needs of law enforcement, as provided in subsection (4) of this section, or any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system."
+     }
+    ]
+   }
   }
  }
 }

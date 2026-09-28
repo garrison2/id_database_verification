@@ -436,6 +436,51 @@
    "Future Digital Offering Date?": {
     "value": "3/1/2025"
    }
+  },
+  "Card Features": {
+   "Biometrics?": {
+    "AirtableSource": [
+     {
+      "source": [
+       "https://drive.ky.gov/Pages/Mobile-ID.aspx"
+      ]
+     }
+    ]
+   }
+  },
+  "Privacy Policies": {
+   "Privacy policies for physical IDs? (e.g. DMV website policy)": {
+    "value": [
+     {
+      "value": "It's PII, covered by state privacy act"
+     }
+    ]
+   }
+  },
+  "Mobile ID Data Protections": {
+   "What kinds of data are being collected?": {
+    "value": [
+     {
+      "value": "ID information?"
+     }
+    ]
+   }
+  },
+  "Mobile ID API": {
+   "Mobile API Specifications": {
+    "value": [
+     {
+      "value": "Apple Store, Apple Wallet, Google Play"
+     }
+    ]
+   }
+  },
+  "ID Data Collection Limitations": {
+   "Limited by Purpose?": {
+    "GoogleSource": [
+     "https://apps.legislature.ky.gov/recorddocuments/bill/22RS/hb586/orig_bill.pdf"
+    ]
+   }
   }
  }
 }
