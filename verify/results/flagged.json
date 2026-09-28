@@ -526,5 +526,29 @@
     "value": "No legislation"
    }
   }
+ },
+ "New York": {
+  "Privacy Policies": {
+   "Privacy policies for digital IDs?": {
+    "value": [
+     {
+      "value": "\"Personal information found on the MiD is encrypted and only accessible when the Mobile ID holder consents to sharing it. It is transmitted to a verifier through a secure, digital connection so the user never has to hand over their phone. The user also controls what data to share. For example, when using a Mobile ID, wherever it is accepted, to make an age-restricted purchase such as buying tobacco or alcohol, a Mobile ID holder can prove their age without sharing any other unnecessary information like their name, height, or address.The MiD app can only be unlocked through Face ID, TouchID, or a six-digit PIN. Information about usage including where, when, and what personal information the user has shared is encrypted and stored only on their personal device. The New York Mobile ID does not store or transmit data on when and where it is used.\"",
+      "source": [
+       "https://www.governor.ny.gov/news/governor-hochul-announces-launch-new-york-mobile-id"
+      ]
+     }
+    ]
+   }
+  },
+  "ID Data Collection Limitations": {
+   "Retention?": {
+    "value": "ID-specific legislation",
+    "AirtableSource": [
+     {
+      "value": "There are restrictions when scanning IDs for alcohol or tobacco sales. For these sales, businesses can only keep records of a customer\u2019s name, date of birth, ID number, and expiration date."
+     }
+    ]
+   }
+  }
  }
 }

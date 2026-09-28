@@ -3269,5 +3269,396 @@
     ]
    }
   }
+ },
+ "New York": {
+  "Digital?": {
+   "Digital?": {
+    "value": "Current Offering",
+    "AirtableSource": [
+     {
+      "value": "Initiative without legislation - unveiled by Gov Hochul and NY DMV June 11, 2024.",
+      "source": [
+       "https://www.governor.ny.gov/news/governor-hochul-announces-launch-new-york-mobile-id"
+      ]
+     },
+     {
+      "value": "\"Governor Kathy Hochul announced today that the New York State Department of Motor Vehicles has launched the New York Mobile ID, a highly secure digital version of a state-issued driver license, learner permit or ID on a smartphone. The Mobile ID is a voluntary product designed for the convenience and security of New Yorkers and is available to IOS and Android users. Anyone who has a valid, state-issued driver license, learner permit or non-driver ID can download the secure Mobile ID app through Google Play or the App Store.\""
+     }
+    ],
+    "GoogleSource": [
+     "https://dmv.ny.gov/id-card/mobile-id-mid"
+    ]
+   }
+  },
+  "Card Features": {
+   "ID_fields": {
+    "value": [
+     "Name",
+     "Address",
+     "ID number",
+     "Date of Birth",
+     "Sex (Biological)",
+     "Date of Issue",
+     "Date of expiry",
+     "Signature",
+     "Organ Donor",
+     "Veteran",
+     "Class (Commercial, Non-commercial, etc)",
+     "Other",
+     "Height",
+     "Eye Color"
+    ],
+    "GoogleSource": [
+     "https://dmv.ny.gov/driver-license"
+    ]
+   },
+   "Real ID?": {
+    "value": "Yes (Optional)",
+    "GoogleSource": [
+     "https://dmv.ny.gov/driver-license/enhanced-or-real-id"
+    ]
+   },
+   "Barcode Types - Phy": {
+    "value": [
+     "PDF417",
+     "Other"
+    ],
+    "GoogleSource": [
+     "https://dmv.ny.gov/driver-license"
+    ]
+   },
+   "Barcode Types - Dig": {
+    "value": [
+     "QR"
+    ],
+    "GoogleSource": [
+     "https://dmv.ny.gov/driver-license"
+    ]
+   },
+   "Biometrics?": {
+    "value": [
+     "Image of face",
+     "Fingerprints",
+     "Other"
+    ],
+    "AirtableSource": [
+     {
+      "source": [
+       "https://dmv.ny.gov/id-card/mobile-id-mid-for-license-permit-and-id-holders"
+      ]
+     }
+    ],
+    "GoogleSource": [
+     "https://dmv.ny.gov/driver-license"
+    ]
+   }
+  },
+  "Application": {
+   "Application Requirement - Phy": {
+    "value": [
+     "Payment",
+     "Proof of Residency x2",
+     "Proof of Identity",
+     "Proof of Citizenship/Lawful Status"
+    ],
+    "AirtableSource": [
+     {
+      "source": [
+       "https://dmv.ny.gov/driver-license/enhanced-or-real-id"
+      ]
+     },
+     {
+      "value": "this is for real ID"
+     }
+    ],
+    "GoogleSource": [
+     "https://dmv.ny.gov/driver-license"
+    ]
+   },
+   "Relationship between Phy and Dig IDs?": {
+    "value": [
+     {
+      "value": "Phy ID required for Dig"
+     }
+    ]
+   },
+   "Other Application Requirements - Dig": {
+    "value": [
+     {
+      "value": "\"The app enrollment process involves taking a picture of the front and back of your most recently issued physical license, permit or non-driver ID card.\"\"You must enable Face ID or Touch ID and set your region to the United States.\"",
+      "source": [
+       "https://dmv.ny.gov/id-card/mobile-id-mid-for-license-permit-and-id-holders"
+      ]
+     }
+    ]
+   },
+   "Technical Requirements - Dig": {
+    "value": [
+     {
+      "value": "Compatible smart phone"
+     }
+    ],
+    "GoogleSource": [
+     "https://dmv.ny.gov/id-card/mobile-id-mid"
+    ]
+   }
+  },
+  "Agency/Vendor": {
+   "What is the issuing agency?": {
+    "value": "NY DMV"
+   },
+   "Is the issuing agency partnering with a commercial vendor to design and distribute the mobile ID?": {
+    "value": true,
+    "GoogleSource": [
+     "https://www.idemia.com/press-release/idemia-public-security-brings-next-generation-mobile-id-new-york-2024-06-27",
+     "https://apps.apple.com/us/app/new-york-mobile-id/id1506757023",
+     "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.ny&hl=en_US"
+    ]
+   },
+   "What is the commercial vendor partner for the in-house app?": {
+    "value": "IDEMIA",
+    "GoogleSource": [
+     "https://www.idemia.com/press-release/idemia-public-security-brings-next-generation-mobile-id-new-york-2024-06-27",
+     "https://apps.apple.com/us/app/new-york-mobile-id/id1506757023",
+     "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.ny&hl=en_US"
+    ]
+   }
+  },
+  "Privacy Policies": {
+   "Privacy policies for physical IDs? (e.g. DMV website policy)": {
+    "value": [
+     {
+      "value": "New York State enacted the Personal Privacy Protection Law (Public Officers Law, Article 6-A, sections 91-99) in 1984 to recognize public concern about privacy and the relationship between government and the people.\"Personal information\" means any information concerning an individual which, because of name number, symbol, mark or other identifier can be used to identify that person.",
+      "source": [
+       "https://opengovernment.ny.gov/what-you-should-know-nys-personal-privacy-protection-law-pppl"
+      ]
+     }
+    ]
+   },
+   "For what purpose is information used/processed/stored?": {
+    "GoogleSource": [
+     "https://dmv.ny.gov/id-card/mobile-id-mid"
+    ]
+   },
+   "Who is information shared with?": {
+    "GoogleSource": [
+     "https://dmv.ny.gov/id-card/mobile-id-mid"
+    ]
+   }
+  },
+  "Mobile ID Data Protections": {
+   "Is collected data being warehoused somewhere?": {
+    "value": [
+     "On phone"
+    ],
+    "GoogleSource": [
+     "https://dmv.ny.gov/id-card/mobile-id-mid"
+    ]
+   },
+   "What kinds of data are being collected?": {
+    "value": [
+     {
+      "value": "\"Your MiD is stored on your smartphone in the MiD app. Usage information - including where, when, and what personal information you share - is encrypted and stored only on your device. MiD does not use geolocation tagging, and DMV cannot see when or where you present your MiD.\"",
+      "source": [
+       "https://dmv.ny.gov/id-card/mobile-id-mid-for-license-permit-and-id-holders"
+      ]
+     }
+    ]
+   },
+   "How is information on the Mobile ID protected?": {
+    "value": [
+     {
+      "value": "\"The MiD app can only be unlocked through Face ID, TouchID, or a six-digit PIN. Information about usage including where, when, and what personal information the user has shared is encrypted and stored only on their personal device. The New York Mobile ID does not store or transmit data on when and where it is used.\"",
+      "source": [
+       "https://www.governor.ny.gov/news/governor-hochul-announces-launch-new-york-mobile-id"
+      ]
+     },
+     {
+      "value": "\"Scanning the QR by a reader device allows the establishment of a secure, encrypted channel between your smartphone and the verifier\u2019s device without having to have an internet connection.Once the secure, encrypted channel is created between the devices, the verifier will send a request to your smartphone for what identity data they wish to verify. Before any data is provided to the verifier, you must give your approval to release the requested identity data to the verifier. When any data is approved and shared by you, included in what is provided to the verifier is an encrypted key signature that allows the verifier to know the mobile ID was issued by the NYS DMV and can be trusted.\"",
+      "source": [
+       "https://dmv.ny.gov/id-card/mobile-id-mid-for-license-permit-and-id-holders"
+      ]
+     }
+    ]
+   }
+  },
+  "Mobile ID Usage": {
+   "What can the dig ID be used for?": {
+    "value": [
+     "TSA",
+     "Businesses",
+     "Law Enforcement"
+    ],
+    "AirtableSource": [
+     {
+      "value": "Law enforcement, TSA, business/services -",
+      "source": [
+       "https://dmv.ny.gov/id-card/mobile-id-mid-for-license-permit-and-id-holders"
+      ]
+     }
+    ]
+   }
+  },
+  "Mobile ID API": {
+   "Is there a mobile API?": {
+    "value": true,
+    "GoogleSource": [
+     "https://dmv.ny.gov/id-card/mobile-id-for-businesses-and-organizations"
+    ]
+   },
+   "Mobile API Specifications": {
+    "value": [
+     {
+      "value": "App through Idemia available on google play and Apple Store"
+     }
+    ],
+    "GoogleSource": [
+     "https://dmv.ny.gov/id-card/mobile-id-for-businesses-and-organizations"
+    ]
+   }
+  },
+  "Verifying Information": {
+   "How is information verified? - Phy Human": {
+    "value": [
+     {
+      "value": "Scanner tool, app"
+     }
+    ]
+   },
+   "How is information verified? - Phy Scanner": {
+    "value": [
+     {
+      "value": "Judgement, sight,"
+     }
+    ]
+   },
+   "How is information verified? - Dig": {
+    "value": [
+     {
+      "value": "App or scanner that can handle QRs"
+     }
+    ]
+   }
+  },
+  "Selective Disclosure": {
+   "Selective Disclosure?": {
+    "value": true
+   },
+   "How is selective disclosure implemented?": {
+    "value": [
+     {
+      "value": "QR code: \" Now, with MiD, you have full control over the information you share with an MiD verifier. ... There is no personal data in the QR code. Scanning the QR by a reader device allows the establishment of a secure, encrypted channel between your smartphone and the verifier\u2019s device without having to have an internet connection.\"",
+      "source": [
+       "https://dmv.ny.gov/id-card/mobile-id-mid-for-license-permit-and-id-holders"
+      ]
+     }
+    ]
+   }
+  },
+  "License considered PII? (in legislation)": {
+   "License considered PII? (in legislation)": {
+    "value": true,
+    "AirtableSource": [
+     {
+      "value": "New York State enacted the Personal Privacy Protection Law (Public Officers Law, Article 6-A, sections 91-99) in 1984 to recognize public concern about privacy and the relationship between government and the people.\"Personal information\" means any information concerning an individual which, because of name number, symbol, mark or other identifier can be used to identify that person.",
+      "source": [
+       "https://opengovernment.ny.gov/what-you-should-know-nys-personal-privacy-protection-law-pppl"
+      ]
+     }
+    ]
+   }
+  },
+  "ID Data Collection Limitations": {
+   "Limited by Purpose?": {
+    "value": "No purpose restriction on scanning"
+   },
+   "Legislation requiring ID use for some circumstances (not exhaustive)": {
+    "value": [
+     {
+      "value": "Law enforcement, TSA, business/services -",
+      "source": [
+       "https://dmv.ny.gov/id-card/mobile-id-mid-for-license-permit-and-id-holders"
+      ]
+     },
+     {
+      "value": "Scrap metal, diet pills,"
+     }
+    ]
+   },
+   "Limited by Physical Location?": {
+    "value": "No physical location restriction on scanning"
+   },
+   "Limited by Virtual Location?": {
+    "value": "No virtual location restriction on scanning"
+   },
+   "Limited by Other?": {
+    "value": "No other restrictions on scanning"
+   },
+   "Deletion?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "title": "Proposed bill where consumers can request deletion"
+     },
+     {
+      "value": "\"To achieve this, this act  provides New York consumers a number  of  new  rights,  including  clear notice of how their data is being used, processed and shared; the ability  to  access  and obtain a copy of their data in a commonly used electronic format, with the ability to transfer  it  between  services;  the ability  to  correct inaccurate data and to delete their data.\"",
+      "source": [
+       "https://nyassembly.gov/leg/?default_fld=&leg_video=&bn=S00365&term=2023&Summary=Y&Actions=Y&Text=Y#:~:text=Enacts%20the%20New%20York%20privacy,whom%20their%20information%20is%20shared."
+      ]
+     }
+    ]
+   },
+   "Required Retention?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "value": "NYS Personal Privacy Protection Law (PPPL)",
+      "source": [
+       "https://opengovernment.ny.gov/what-you-should-know-nys-personal-privacy-protection-law-pppl#:~:text=Others%20About%20You-,Notice%20of%20Disclosures%20to%20Others%20About%20You,an%20accounting%20is%20being%20made."
+      ]
+     },
+     {
+      "value": "Notice of Disclosures to Others About You\nUnder certain circumstances when information about you is disclosed, the fact of that disclosure must be included as part of the record. An \"accounting of disclosures\" must include the date, nature, purpose and recipient of personal information. The notation of the disclosure must be retained for five years, or the life of the record, whichever is longer."
+     },
+     {
+      "title": "An accounting of a disclosure must be made if the information is disclosed"
+     },
+     {
+      "value": "for a use that is irrelevant to the purpose for which it is collected, when the information is necessary\nfor the receiving agency to operate a program specifically authorized by statute;\ndue to compelling circumstances affecting the health or safety of a person;\nfor law enforcement purposes. In such a case, the agency disclosing the information must notify the receiving agency that an accounting is being made."
+     }
+    ]
+   },
+   "Distinguishes Between Methods of ID Verification?": {
+    "value": "No legislation"
+   },
+   "Consent?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "value": "\"This act also imposes obligations upon businesses  to  maintain  reasonable data security  for personal data, to notify New York consumers of foreseeable harms arising from use of their data and to obtain specific consent  for that  use, and to conduct regular assessments to ensure that data is not being used for unacceptable purposes.\"",
+      "source": [
+       "https://nyassembly.gov/leg/?default_fld=&leg_video=&bn=S00365&term=2023&Summary=Y&Actions=Y&Text=Y"
+      ]
+     }
+    ]
+   },
+   "Data Breaches?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "value": "Stop Hacks and Improve Electronic Data Security Act (SHIELD Act)"
+     },
+     {
+      "title": "The SHIELD Act, signed into law on July 25, 2019, by Governor Andrew Cuomo, amends New York\u2019s 2005 Information Security Breach and Notification Act. The SHIELD Act significantly strengthens New York\u2019s data-security laws by"
+     },
+     {
+      "value": "expanding the types of private information for which companies must provide consumer notice in the event of a breach\nrequiring that companies develop, implement, and maintain reasonable safeguards to protect the security, confidentiality, and integrity of the private information\nWhat types of security breaches are covered by this law?Under the 2005 law, a security breach is defined as an unauthorized acquisition of computerized data that compromises the security, confidentiality, or integrity of private information. The SHIELD Act expands the definition of a security breach to any \"access\" to computerized data that compromises the confidentiality, security, or integrity of private data.",
+      "source": [
+       "https://ag.ny.gov/resources/organizations/data-breach-reporting/shield-act"
+      ]
+     }
+    ]
+   }
+  }
  }
 }
