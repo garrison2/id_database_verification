@@ -321,7 +321,80 @@
      }
     ]
    }
+  },
+  "ID Data Collection Limitations": {
+   "Limited by Purpose?": {
+    "value": "Purpose restriction on scanning IDs",
+    "GoogleSource": [
+     "https://www.akleg.gov/basis/Bill/Text/32?Hsid=HB0159B"
+    ]
+   },
+   "Legislation requiring ID use for some circumstances (not exhaustive)": {
+    "value": [
+     {
+      "value": "\u201cThere are some instances in which merchants are required to record information related to identity, such as the purchase of scrap metal. ID scanning can improve the ease and accuracy of record keeping in these scenarios.\u201d",
+      "source": [
+       "https://idscan.net/id-scanning-laws/alaska/#:~:text=Alaska%20law%20does%20not%20regulate,record%20keeping%20in%20these%20scenarios."
+      ]
+     }
+    ],
+    "GoogleSource": [
+     "https://www.akleg.gov/basis/Bill/Text/32?Hsid=HB0159B"
+    ]
+   },
+   "Retention?": {
+    "AirtableSource": [
+     {
+      "value": "\u201cAlaska law does not regulate a business\u2019s practice of scanning IDs or retaining information obtained from a scan.\u201d",
+      "source": [
+       "https://idscan.net/id-scanning-laws/alaska/#:~:text=Alaska%20law%20does%20not%20regulate,record%20keeping%20in%20these%20scenarios."
+      ]
+     },
+     {
+      "title": "Alaska doesn't have specific laws that regulate businesses scanning IDs or keeping the information they obtain. However, businesses must comply with applicable privacy laws when scanning IDs and retaining the information. Alaska's Personal Information Protection Act (PIPA) protects the personal information of Alaska residents. PIPA requires businesses and government agencies to",
+      "value": "Notify customers if their personal information is compromised\nRestrict the use of social security numbers\nDestroy records containing personal information when it's no longer needed\nAllow customers to place a security freeze on their credit report\nAllow victims of identity theft to petition the court for a declaration of factual innocence"
+     }
+    ],
+    "GoogleSource": [
+     "https://www.akleg.gov/basis/Bill/Text/32?Hsid=HB0159B"
+    ]
+   },
+   "Consent?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "value": "Same as above retention laws I presume"
+     }
+    ]
+   }
   }
+ },
+ "Arkansas": {
+  "Agency/Vendor": {
+   "What is (are) the commercial vendor partner(s) for wallet apps?": {
+    "value": "Other"
+   }
+  },
+  "Privacy Policies": {
+   "Privacy policies for digital IDs?": {
+    "value": [
+     {
+      "value": "See Idemia's privacy policy"
+     }
+    ]
+   }
+  },
+  "ID Data Collection Limitations": {
+   "Limited by Purpose?": {
+    "GoogleSource": [
+     "https://sas.arkansas.gov/wp-content/uploads/2020/05/Act1526.pdf"
+    ]
+   },
+   "Legislation requiring ID use for some circumstances (not exhaustive)": {
+    "GoogleSource": [
+     "https://sas.arkansas.gov/wp-content/uploads/2020/05/Act1526.pdf"
+    ]
+   }
   }
  }
 }

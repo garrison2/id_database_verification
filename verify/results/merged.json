@@ -1806,6 +1806,366 @@
     "GoogleSource": [
      "https://dmv.alaska.gov/mid/"
     ]
+   },
+   "How is selective disclosure implemented?": {
+    "GoogleSource": [
+     "https://dmv.alaska.gov/mid/"
+    ]
+   }
+  },
+  "License considered PII? (in legislation)": {
+   "License considered PII? (in legislation)": {
+    "value": true,
+    "AirtableSource": [
+     {
+      "value": "Yes: Alaska Personal Information Protection Act, House Bill 65",
+      "source": [
+       "https://www.akleg.gov/basis/get_documents.asp?session=29&docid=65934"
+      ]
+     }
+    ]
+   }
+  },
+  "ID Data Collection Limitations": {
+   "Limited by Purpose?": {
+    "value": "Purpose restriction on scanning IDs",
+    "GoogleSource": [
+     "https://www.akleg.gov/basis/Bill/Text/32?Hsid=HB0159B"
+    ]
+   },
+   "Retention?": {
+    "value": "General legislation"
+   },
+   "Deletion?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "value": "2021 AK H 222 Sec. 45.48.765. Deletion of personal information. (a) Except as provided under this section and AS 45.48.815, a business shall delete personal information collected from a consumer if the consumer makes a verifiable consumer request to the business to delete the personal information.",
+      "source": [
+       "https://custom.statenet.com/public/resources.cgi?id=ID:bill:AK2021000H222&ciq=ncsl&client_md=e04179fdd87c99ac5f60e3473f64b311&mode=current_text"
+      ]
+     }
+    ]
+   },
+   "Required Retention?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "value": "Sec. 45.48.800. Criteria for business to collect, use, retain, or share personal information. A business may not collect, use, retain, or share personal information about a consumer unless (1) the collection, use, retention, or sharing is reasonably necessary and proportionate for achieving the purposes disclosed under AS 45.48.760 for which the business collected or processed the personal information or for another purpose that is compatible with the context in which the business collected the personal information and that was disclosed by the business under AS 45.48.760;",
+      "source": [
+       "https://custom.statenet.com/public/resources.cgi?id=ID:bill:AK2021000H222&ciq=ncsl&client_md=e04179fdd87c99ac5f60e3473f64b311&mode=current_text"
+      ]
+     }
+    ]
+   },
+   "Distinguishes Between Methods of ID Verification?": {
+    "value": "No legislation"
+   },
+   "Consent?": {
+    "value": "General legislation"
+   },
+   "Data Breaches?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "value": "\u201cThe Alaska Legislature recently passed a new law that is aimed at protecting the personal information of Alaska consumers.  The law requires businesses and government agencies to notify you if your personal information has been compromised, restricts the use of social security numbers, and requires records containing your personal information to be destroyed as soon as it is no longer needed.  In addition, the law allows you to place a security freeze on your credit report, and allows you to petition the court for a declaration of factual innocence after identity theft.  For more information, read the Alaska Personal Information Protection Act.\u201d",
+      "source": [
+       "https://www.law.alaska.gov/department/civil/consumer/idtheft.html#:~:text=The%20Alaska%20Legislature%20recently%20passed,Alaska%20Personal%20Information%20Protection%20Act."
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "Arkansas": {
+  "Digital?": {
+   "Digital?": {
+    "value": "Current Offering",
+    "AirtableSource": [
+     {
+      "value": "27-16-817. Digitized driver's license",
+      "source": [
+       "https://law.justia.com/codes/arkansas/title-27/subtitle-2/chapter-16/subchapter-8/section-27-16-817/"
+      ]
+     },
+     {
+      "value": "Established through HB1244 (2023) and HB1135 (2025):-",
+      "source": [
+       "https://arkleg.state.ar.us/Bills/Detail?id=hb1244&ddBienniumSession=2023%2F2023R"
+      ]
+     },
+     {
+      "source": [
+       "https://arkleg.state.ar.us/Bills/Detail?id=hb1135&ddBienniumSession=2025%2F2025R"
+      ]
+     },
+     {
+      "value": "- showing phone \"shall not serve as consent and \"the law enforcement officer shall promptly return the mobile device\"\n- Digital DL/ID: is a data file \"Containing all of the same data elements visible on the face and back of the identification card\""
+     }
+    ]
+   }
+  },
+  "Card Features": {
+   "ID_fields": {
+    "value": [
+     "ID number",
+     "Name",
+     "Class (Commercial, Non-commercial, etc)",
+     "Date of Birth",
+     "Address",
+     "Date of Issue",
+     "Date of expiry",
+     "Sex (Biological)",
+     "Other",
+     "Restrictions",
+     "Document Discriminator",
+     "Signature",
+     "Veteran",
+     "Organ Donor",
+     "Height",
+     "Eye Color",
+     "Endorsements"
+    ]
+   },
+   "Real ID?": {
+    "value": "Yes (Optional)",
+    "GoogleSource": [
+     "https://www.dfa.arkansas.gov/mydmv-service/real-id/"
+    ]
+   },
+   "Barcode Types - Phy": {
+    "value": [
+     "PDF417",
+     "Code 128"
+    ]
+   },
+   "Barcode Types - Dig": {
+    "value": [
+     "QR"
+    ]
+   },
+   "Biometrics?": {
+    "value": [
+     "Image of face"
+    ]
+   }
+  },
+  "Application": {
+   "Application Requirement - Phy": {
+    "value": [
+     "Other"
+    ],
+    "AirtableSource": [
+     {
+      "source": [
+       "https://dps.arkansas.gov/wp-content/uploads/Arkansas-DL-Manual-English.pdf"
+      ]
+     },
+     {
+      "value": "(page 18)"
+     }
+    ]
+   },
+   "Relationship between Phy and Dig IDs?": {
+    "value": [
+     {
+      "value": "Phy ID required for Dig"
+     }
+    ],
+    "GoogleSource": [
+     "https://www.dfa.arkansas.gov/office/driver-services/mobile-id/"
+    ]
+   },
+   "Other Application Requirements - Dig": {
+    "value": [
+     {
+      "value": "1. Download/launch the app and set permissions\n2. Register your phone number to bind your ID to your device\n3. Use your phone's camera to capture the front and back of your ID\n4. Capture selfie and complete liveness detection\n5. Set up app security and go",
+      "source": [
+       "https://www.dfa.arkansas.gov/office/driver-services/mobile-id/mobile-id-for-users/"
+      ]
+     }
+    ],
+    "GoogleSource": [
+     "https://www.dfa.arkansas.gov/office/driver-services/mobile-id/"
+    ]
+   },
+   "Technical Requirements - Dig": {
+    "value": [
+     {
+      "title": "Any Arkansas resident with a valid, legible driver\u2019s license or state-issued photo ID is eligible. Arkansas Mobile ID can currently be used with",
+      "value": "- Android Users: Android Version 10 or newer\n- IOS Users: iOS 15 or newer"
+     },
+     {
+      "value": "You cannot use a jailbroken/rooted smartphone or a device where the software has been manipulated to remove manufacturer restrictions and limitations.",
+      "source": [
+       "https://dfa.arkansas.gov/wp-content/uploads/Arkansas-Mobile-Identification-Frequently-Asked-Questions.pdf"
+      ]
+     }
+    ]
+   }
+  },
+  "Agency/Vendor": {
+   "What is the issuing agency?": {
+    "value": "Department of Finance & Administration"
+   },
+   "Is the issuing agency partnering with a commercial vendor to design and distribute the mobile ID?": {
+    "value": true
+   },
+   "What is the commercial vendor partner for the in-house app?": {
+    "value": "Idemia",
+    "GoogleSource": [
+     "https://apps.apple.com/us/app/arkansas-mobile-id/id6596562568",
+     "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.ar"
+    ]
+   }
+  },
+  "Privacy Policies": {
+   "Privacy policies for physical IDs? (e.g. DMV website policy)": {
+    "value": [
+     {
+      "source": [
+       "https://portal.arkansas.gov/acceptable-use/#privacy-policy"
+      ]
+     }
+    ]
+   },
+   "Privacy policies for digital IDs?": {
+    "GoogleSource": [
+     "https://www.dfa.arkansas.gov/office/driver-services/mobile-id/mobile-id-for-users/"
+    ]
+   },
+   "For what purpose is information used/processed/stored?": {
+    "GoogleSource": [
+     "https://www.dfa.arkansas.gov/office/driver-services/mobile-id/",
+     "https://www.dfa.arkansas.gov/office/driver-services/mobile-id/mobile-id-for-users/"
+    ]
+   },
+   "Who is information shared with?": {
+    "GoogleSource": [
+     "https://www.dfa.arkansas.gov/office/driver-services/mobile-id/",
+     "https://www.dfa.arkansas.gov/office/driver-services/mobile-id/mobile-id-for-users/"
+    ]
+   }
+  },
+  "Mobile ID Data Protections": {
+   "Is collected data being warehoused somewhere?": {
+    "value": [
+     "On phone"
+    ],
+    "GoogleSource": [
+     "https://www.dfa.arkansas.gov/office/driver-services/mobile-id/",
+     "https://www.dfa.arkansas.gov/office/driver-services/mobile-id/mobile-id-for-users/"
+    ]
+   },
+   "What kinds of data are being collected?": {
+    "value": [
+     {
+      "value": "Mobile ID doesn\u2019t permanently collect, store, or hold onto your personal data \u2014 except an encrypted version of your driver\u2019s license number and phone number to use as a record locator. The only place your complete information is stored is with the Arkansas Office of Driver Services.",
+      "source": [
+       "https://www.dfa.arkansas.gov/office/driver-services/mobile-id/mobile-id-for-users/"
+      ]
+     }
+    ]
+   },
+   "How is information on the Mobile ID protected?": {
+    "value": [
+     {
+      "value": "Mobile ID doesn\u2019t permanently collect, store, or hold onto your personal data \u2014 except an encrypted version of your driver\u2019s license number and phone number to use as a record locator. The only place your complete information is stored is with the Arkansas Office of Driver Services.",
+      "source": [
+       "https://www.dfa.arkansas.gov/office/driver-services/mobile-id/mobile-id-for-users/"
+      ]
+     }
+    ]
+   }
+  },
+  "Mobile ID Usage": {
+   "What can the dig ID be used for?": {
+    "value": [
+     "Businesses",
+     "Law Enforcement"
+    ],
+    "AirtableSource": [
+     {
+      "source": [
+       "https://www.dfa.arkansas.gov/office/driver-services/mobile-id/mobile-id-for-users/"
+      ]
+     }
+    ]
+   }
+  },
+  "Mobile ID API": {
+   "Is there a mobile API?": {
+    "value": true,
+    "GoogleSource": [
+     "https://www.dfa.arkansas.gov/office/driver-services/mobile-id/mobile-id-for-businesses/"
+    ]
+   },
+   "Mobile API Specifications": {
+    "GoogleSource": [
+     "https://www.dfa.arkansas.gov/office/driver-services/mobile-id/mobile-id-for-businesses/"
+    ]
+   }
+  },
+  "Selective Disclosure": {
+   "Selective Disclosure?": {
+    "value": true,
+    "GoogleSource": [
+     "https://www.dfa.arkansas.gov/office/driver-services/mobile-id/"
+    ]
+   },
+   "How is selective disclosure implemented?": {
+    "GoogleSource": [
+     "https://www.dfa.arkansas.gov/office/driver-services/mobile-id/"
+    ]
+   }
+  },
+  "License considered PII? (in legislation)": {
+   "License considered PII? (in legislation)": {
+    "value": true,
+    "GoogleSource": [
+     "https://www.dwt.com/files/uploads/documents/Publications/Arkansas%20Security%20Breach.pdf"
+    ]
+   }
+  },
+  "ID Data Collection Limitations": {
+   "Limited by Purpose?": {
+    "value": "No purpose restriction on scanning"
+   },
+   "Limited by Physical Location?": {
+    "value": "No physical location restriction on scanning"
+   },
+   "Limited by Virtual Location?": {
+    "value": "No virtual location restriction on scanning"
+   },
+   "Limited by Other?": {
+    "value": "No other restrictions on scanning"
+   },
+   "Retention?": {
+    "value": "No legislation"
+   },
+   "Deletion?": {
+    "value": "No legislation"
+   },
+   "Required Retention?": {
+    "value": "No legislation"
+   },
+   "Distinguishes Between Methods of ID Verification?": {
+    "value": "No legislation"
+   },
+   "Consent?": {
+    "value": "No legislation"
+   },
+   "Data Breaches?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "title": "A.C.A. \u00a7 4-110-103 (Data Breach)",
+      "value": "Must inform \"in the most expedient time and manner possible and without unreasonable delay\"",
+      "source": [
+       "https://law.justia.com/codes/arkansas/title-4/subtitle-7/chapter-110/section-4-110-103/"
+      ]
+     }
+    ]
    }
   }
  }
