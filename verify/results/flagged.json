@@ -396,5 +396,46 @@
     ]
    }
   }
+ },
+ "Iowa": {
+  "Card Features": {
+   "Barcode Types - Dig": {
+    "value": [
+     "QR"
+    ]
+   }
+  },
+  "Agency/Vendor": {
+   "What is (are) the commercial vendor partner(s) for wallet apps?": {
+    "value": "Other"
+   }
+  }
+ },
+ "Kentucky": {
+  "Digital?": {
+   "Digital?": {
+    "value": "Future/Plan",
+    "AirtableSource": [
+     {
+      "value": "Came through state announcement apparently - can't find bill or first announcement though, just gov sites on it.",
+      "source": [
+       "https://drive.ky.gov/Pages/Mobile-ID.aspx"
+      ]
+     }
+    ]
+   }
+  },
+  "Future Proposals": {
+   "Details of Future Proposals": {
+    "value": [
+     {
+      "value": "Apple Wallet"
+     }
+    ]
+   },
+   "Future Digital Offering Date?": {
+    "value": "3/1/2025"
+   }
+  }
  }
 }

@@ -2014,6 +2014,7 @@
    "What is the commercial vendor partner for the in-house app?": {
     "value": "Idemia",
     "GoogleSource": [
+     "https://na.idemia.com/2025/03/03/idemia-public-security-north-america-partners-with-arkansas-department-of-finance-and-administrations-dfa-division-of-driver-services-and-motor-vehicles-to-launch-next-generation-of-mobile/",
      "https://apps.apple.com/us/app/arkansas-mobile-id/id6596562568",
      "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.ar"
     ]
@@ -2163,6 +2164,461 @@
       "value": "Must inform \"in the most expedient time and manner possible and without unreasonable delay\"",
       "source": [
        "https://law.justia.com/codes/arkansas/title-4/subtitle-7/chapter-110/section-4-110-103/"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "Iowa": {
+  "Digital?": {
+   "Digital?": {
+    "value": "Current Offering",
+    "AirtableSource": [
+     {
+      "title": "DOT Pilot; no specific legislation",
+      "source": [
+       "https://ideas.iowadot.gov/subdomain/ideas-main/end/node/3798?qmzn=iKFrYf#Active"
+      ]
+     }
+    ],
+    "GoogleSource": [
+     "https://iowadot.gov/drivers-licenses-ids/mobile-id"
+    ]
+   }
+  },
+  "Card Features": {
+   "ID_fields": {
+    "value": [
+     "Name",
+     "Address",
+     "Date of Birth",
+     "ID number",
+     "Sex (Biological)",
+     "Date of Issue",
+     "Date of expiry",
+     "Signature",
+     "Document Discriminator",
+     "Class (Commercial, Non-commercial, etc)",
+     "Organ Donor",
+     "Veteran",
+     "Other"
+    ],
+    "GoogleSource": [
+     "https://iowadot.gov/drivers-licenses-ids"
+    ]
+   },
+   "Real ID?": {
+    "value": "Yes (Optional)",
+    "GoogleSource": [
+     "https://iowadot.gov/drivers-licenses-ids/get-or-renew-drivers-licenses-ids-permits/real-id"
+    ]
+   },
+   "Barcode Types - Phy": {
+    "value": [
+     "PDF417",
+     "Code 128"
+    ],
+    "GoogleSource": [
+     "https://iowadot.gov/drivers-licenses-ids"
+    ]
+   },
+   "Biometrics?": {
+    "value": [
+     "Image of face"
+    ],
+    "GoogleSource": [
+     "https://iowadot.gov/drivers-licenses-ids"
+    ]
+   }
+  },
+  "Application": {
+   "Application Requirement - Phy": {
+    "value": [
+     "Proof of Identity",
+     "Proof of Citizenship/Lawful Status",
+     "SSN",
+     "Proof of Residency x1",
+     "Proof of Residency x2",
+     "Payment",
+     "If name change: Proof of name change",
+     "Other"
+    ],
+    "AirtableSource": [
+     {
+      "source": [
+       "https://iowadot.gov/mvd/realid/success.aspx"
+      ]
+     }
+    ],
+    "GoogleSource": [
+     "https://iowadot.gov/drivers-licenses-ids"
+    ]
+   },
+   "Relationship between Phy and Dig IDs?": {
+    "value": [
+     {
+      "value": "Phy ID required for Dig"
+     }
+    ],
+    "GoogleSource": [
+     "https://iowadot.gov/drivers-licenses-ids/mobile-id"
+    ]
+   },
+   "Other Application Requirements - Dig": {
+    "value": [
+     {
+      "title": "App",
+      "value": "- Register phone number\n- Scan ID\n- Selfie\n- Set up app security",
+      "source": [
+       "https://iowadot.gov/mvd/MID-ID-Holders"
+      ]
+     },
+     {
+      "title": "Apple Wallet/Watch",
+      "value": "- Scan of front and back of license, selfie",
+      "source": [
+       "https://iowadot.gov/mvd/MID-Apple#569552997-im-not-seeing-the-option-to-add-my-iowa-dl-or-id-to-apple-wallet"
+      ]
+     },
+     {
+      "title": "Samsung Wallet",
+      "value": "- Scan of front and back of license, face scan, authenticate via fingerprint or pin",
+      "source": [
+       "https://iowadot.gov/mvd/MID-Samsung"
+      ]
+     }
+    ],
+    "GoogleSource": [
+     "https://iowadot.gov/drivers-licenses-ids/mobile-id"
+    ]
+   },
+   "Technical Requirements - Dig": {
+    "value": [
+     {
+      "title": "Mobile App",
+      "value": "- Android phones (Android 7 or newer); or iPhones (iOS 13 or newer)\n- (no jailbroken/rooted smartphone)",
+      "source": [
+       "https://iowadot.gov/mvd/MID-ID-Holders"
+      ]
+     },
+     {
+      "title": "Apple Wallet/Watch",
+      "value": "- iPhone 8 or above",
+      "source": [
+       "https://iowadot.gov/mvd/MID-Apple#569552997-im-not-seeing-the-option-to-add-my-iowa-dl-or-id-to-apple-wallet"
+      ]
+     },
+     {
+      "title": "Samsung",
+      "value": "- Valid, legible driver\u2019s license or state-issued photo ID-  Galaxy S Series - S20 or later\n    Galaxy Z Series - Z Flip 5G, Z Fold 5G, Z Flip 2, and Fold 2 or later\n    Galaxy A Series - A53, A54\n- Android 12 or above",
+      "source": [
+       "https://iowadot.gov/mvd/MID-Samsung"
+      ]
+     }
+    ],
+    "GoogleSource": [
+     "https://iowadot.gov/drivers-licenses-ids/mobile-id"
+    ]
+   }
+  },
+  "Agency/Vendor": {
+   "What is the issuing agency?": {
+    "value": "Iowa Department of Transportation"
+   },
+   "Is the issuing agency partnering with a commercial vendor to design and distribute the mobile ID?": {
+    "value": true,
+    "GoogleSource": [
+     "https://na.idemia.com/2023/10/31/idemia-partners-with-iowa-department-of-transportation-to-launchnext-generation-mobile-id-technology/",
+     "https://apps.apple.com/us/app/iowa-mobile-id/id1489723178",
+     "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.ia"
+    ]
+   },
+   "What is the commercial vendor partner for the in-house app?": {
+    "value": "Idemia",
+    "GoogleSource": [
+     "https://na.idemia.com/2023/10/31/idemia-partners-with-iowa-department-of-transportation-to-launchnext-generation-mobile-id-technology/",
+     "https://apps.apple.com/us/app/iowa-mobile-id/id1489723178",
+     "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.ia"
+    ]
+   }
+  },
+  "Privacy Policies": {
+   "Privacy policies for physical IDs? (e.g. DMV website policy)": {
+    "value": [
+     {
+      "source": [
+       "https://iowadot.gov/policies_and_statements/Privacy-Policy"
+      ]
+     }
+    ]
+   },
+   "Privacy policies for digital IDs?": {
+    "value": [
+     {
+      "title": "App",
+      "source": [
+       "https://na.idemia.com/user-privacy/"
+      ]
+     },
+     {
+      "value": "(linked from Apple Store)",
+      "source": [
+       "https://idemia-mobile-id.com/policies/di"
+      ]
+     },
+     {
+      "value": "(linked from Google Play)"
+     },
+     {
+      "title": "Apple Wallet",
+      "source": [
+       "https://www.apple.com/legal/privacy/data/en/identity/"
+      ]
+     },
+     {
+      "title": "Samsung Wallet",
+      "source": [
+       "https://www.samsung.com/us/samsung-wallet/privacy-notice/"
+      ]
+     }
+    ]
+   }
+  },
+  "Mobile ID Data Protections": {
+   "Is collected data being warehoused somewhere?": {
+    "value": [
+     "On phone"
+    ],
+    "GoogleSource": [
+     "https://iowadot.gov/drivers-licenses-ids/mobile-id"
+    ]
+   },
+   "What kinds of data are being collected?": {
+    "value": [
+     {
+      "title": "App",
+      "value": "- Mobile ID doesn\u2019t permanently collect, store, or hold onto your personal data -- except an encrypted version of your driver's license number and phone number to use as a record locator."
+     },
+     {
+      "title": "Samsung Wallet",
+      "value": "- Certain data remains on your mobile device (front and back image of your physical ID, ID photo, Transaction history) but it is never sent to or stored on Samsung servers\n- When your Mobile Driver's License or State ID is approved and granted, an authenticated piece of digital information is transferred from the state issuing authority systems to your Samsung Mobile device. It is then stored in a secure and isolated location within your phone that is unreachable by any other application or service in your phone.",
+      "source": [
+       "https://www.samsung.com/us/apps/samsung-wallet/faq/#driverslicense"
+      ]
+     },
+     {
+      "title": "Apple Wallet",
+      "value": "Sent to state:\n    Images of the front and back of your ID    Your selfie\n    Results of the analysis of the video of your head and facial movements, but not the video itself\n    Data read from the PDF417 barcode on your ID\n    A single-digit value, used to help prevent fraud, that\u2019s based on your device use patterns, settings data, and information about your Apple ID\nStored during setup:\n    A subset of data from the PDF417 barcode on your ID (name, address, date of birth)\n    Your selfie\n    The video of your head and facial movements\nThe subset of data from your ID is deleted from Apple servers right after sending your request to the state. Your selfie and the video of your movements are deleted from Apple servers shortly after the state issuing authority approves or denies adding your ID to Apple Wallet.",
+      "source": [
+       "https://support.apple.com/en-us/118260"
+      ]
+     }
+    ]
+   },
+   "How is information on the Mobile ID protected?": {
+    "value": [
+     {
+      "title": "App",
+      "value": "encrypted version of your driver's license number and phone number",
+      "source": [
+       "https://iowadot.gov/mvd/MID-ID-Holders#553962183-what-does-mobile-id-do-with-my-data"
+      ]
+     },
+     {
+      "title": "Apple Wallet",
+      "value": "encrypted and stored only on your device",
+      "source": [
+       "https://support.apple.com/en-us/118260"
+      ]
+     },
+     {
+      "title": "Samsung Wallet",
+      "value": "It is then stored in a secure and isolated location within your phone that is unreachable by any other application or service in your phone",
+      "source": [
+       "https://www.samsung.com/us/apps/samsung-wallet/faq/#driverslicense"
+      ]
+     }
+    ]
+   }
+  },
+  "Mobile ID Usage": {
+   "What can the dig ID be used for?": {
+    "value": [
+     "Businesses",
+     "Law Enforcement",
+     "TSA"
+    ],
+    "AirtableSource": [
+     {
+      "source": [
+       "https://iowadot.gov/mvd/mIDacceptedhere",
+       "https://iowadot.gov/mvd/MID-ID-Holders#553962184-can-mobile-id-be-used-to-verify-identity-with-law-enforcement",
+       "https://iowadot.gov/mvd/realid/#563762810-is-my-real-id-status-included-within-my-iowa-mobile-id"
+      ]
+     }
+    ]
+   }
+  },
+  "Mobile ID API": {
+   "Is there a mobile API?": {
+    "value": true
+   },
+   "Mobile API Specifications": {
+    "value": [
+     {
+      "value": "\"The Iowa DOT does not require or endorse a specific verification method or vendor\"\n\"The verification systems you choose must be ISO 18013-5 compliant and have Iowa\u2019s public key\""
+     },
+     {
+      "title": "2 Options",
+      "value": "Verify app - use a smartphone or tablet to scan the mobile ID user\u2019s QR code or NFC to verify their age/identity\nApplication Program Interface (API) / Software Development Kit (SDK)"
+     },
+     {
+      "value": "The businesses below have notified the DOT that they have verification tools available that accept mobile ID Tap (NFC) and QR code.\n    Credence Tap2iD Verifier\u2122\n    Idemia Verify App\n    Iowa ABD Age to Purchase App (QR code only at this time)",
+      "source": [
+       "https://iowadot.gov/mvd/MID-businesses",
+       "https://experience.idemia.com/mobile-id/develop/verify-sdks/guide/"
+      ]
+     }
+    ]
+   }
+  },
+  "Verifying Information": {
+   "How is information verified? - Phy Scanner": {
+    "GoogleSource": [
+     "https://iowadot.gov/drivers-licenses-ids/mobile-id/iowa-mobile-id-app"
+    ]
+   },
+   "How is information verified? - Dig": {
+    "value": [
+     {
+      "value": "NFC/QR"
+     }
+    ],
+    "GoogleSource": [
+     "https://iowadot.gov/drivers-licenses-ids/mobile-id/iowa-mobile-id-app"
+    ]
+   }
+  },
+  "Selective Disclosure": {
+   "Selective Disclosure?": {
+    "value": true
+   },
+   "How is selective disclosure implemented?": {
+    "value": [
+     {
+      "title": "Mobile App",
+      "value": "Privacy views allow you to verify your age without having to expose sensitive data like your birthdate or address.\nYou are in control as you decide what information you share.",
+      "source": [
+       "https://iowadot.gov/mvd/MID-ID-Holders"
+      ]
+     },
+     {
+      "title": "Apple",
+      "value": "Iowa-issued IDs and driver\u2019s licenses in Wallet present only the information needed for the interaction, and the user has the opportunity to review and authorize the information being requested before it is shared. Additionally, driver\u2019s licenses and Iowa-issued IDs in Wallet are only presented digitally through encrypted communication directly between the device and the identity reader, so users do not need to show or hand over their device.",
+      "source": [
+       "https://iowadot.gov/mvd/MID-Apple#569553011-how-do-i-know-id-in-apple-wallet-keeps-my-identity-information-private-and-secure"
+      ]
+     },
+     {
+      "title": "Samsung",
+      "value": "The specific information that is sent to entities when you present your Iowa Mobile ID depends on what is needed for each case. Some entities may request to see more information than others, but Samsung will only provide the information that is requested and required. You are always in control of your information and can accept or decline a request.",
+      "source": [
+       "https://iowadot.gov/mvd/MID-Samsung#562682186-what-information-will-be-sent-when-i-use-my-iowa-mobile-id"
+      ]
+     }
+    ]
+   }
+  },
+  "License considered PII? (in legislation)": {
+   "License considered PII? (in legislation)": {
+    "value": true,
+    "AirtableSource": [
+     {
+      "title": "Personal information/personally identifiable information is defined in several different codes",
+      "value": "\u00a7715C defines first name/initial + last name + driver's license number\n\u00a7715D defines \"any information that is linked or reasonably linkable to [a person who can be readily identified, directly or indirectly.]\""
+     }
+    ]
+   }
+  },
+  "ID Data Collection Limitations": {
+   "Limited by Purpose?": {
+    "value": "No purpose restriction on scanning"
+   },
+   "Limited by Physical Location?": {
+    "value": "No physical location restriction on scanning"
+   },
+   "Limited by Virtual Location?": {
+    "value": "No virtual location restriction on scanning"
+   },
+   "Limited by Other?": {
+    "value": "No other restrictions on scanning"
+   },
+   "Retention?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "title": "\u00a7715C",
+      "value": "For companies that deal with data of 100,000 customers, or 25,000 customers and make >50% of revenue from them\n- Must opt out of sale if consumer asks, within 90 to 135 days (when \"reasonably necessary\")",
+      "source": [
+       "https://www.legis.iowa.gov/legislation/BillBook?ga=90&ba=SF%20262"
+      ]
+     }
+    ]
+   },
+   "Deletion?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "title": "\u00a7715C",
+      "value": "For companies that deal with data of 100,000 customers, or 25,000 customers and make >50% of revenue from them\n- Must delete if consumer asks, within 90 to 135 days (when \"reasonably necessary\")",
+      "source": [
+       "https://www.legis.iowa.gov/legislation/BillBook?ga=90&ba=SF%20262"
+      ]
+     }
+    ]
+   },
+   "Required Retention?": {
+    "value": "No legislation"
+   },
+   "Distinguishes Between Methods of ID Verification?": {
+    "value": "No legislation"
+   },
+   "Consent?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "title": "\u00a7715C",
+      "value": "For companies that deal with data of 100,000 customers, or 25,000 customers and make >50% of revenue from them\n- Must confirm if processing data, delete, send a copy, or opt out of sale, if consumer asks, within 90 to 135 days (when \"reasonably necessary\")",
+      "source": [
+       "https://www.legis.iowa.gov/legislation/BillBook?ga=90&ba=SF%20262"
+      ]
+     }
+    ]
+   },
+   "Data Breaches?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "title": "\u00a7715C",
+      "value": "Must notify affected consumers \"in the most expeditious manner possible and without unreasonable delay\"",
+      "source": [
+       "https://www.legis.iowa.gov/docs/code/715c.pdf"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "Kentucky": {
+  "Digital?": {
+   "Digital?": {
+    "value": "Future/Plan",
+    "AirtableSource": [
+     {
+      "value": "Came through state announcement apparently - can't find bill or first announcement though, just gov sites on it.",
+      "source": [
+       "https://drive.ky.gov/Pages/Mobile-ID.aspx"
       ]
      }
     ]
