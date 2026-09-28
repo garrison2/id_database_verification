@@ -2924,5 +2924,350 @@
     ]
    }
   }
+ },
+ "Mississippi": {
+  "Digital?": {
+   "Digital?": {
+    "value": "Current Offering",
+    "AirtableSource": [
+     {
+      "value": "Announced/launched by DPS November 2021 -",
+      "source": [
+       "https://www.dps.ms.gov/node/950#:~:text=Submitted%20by%20chris.vignes%20on,share%20for%20age%2Dverified%20transactions."
+      ]
+     },
+     {
+      "value": "The Mississippi Department of Public Safety Announces the Launch of Mississippi Mobile ID\nJACKSON, Miss. \u2013 The Mississippi Department of Public Safety announced today that it has partnered with IDEMIA, the world-leading biometric and identity solutions provider, to introduce Mississippi Mobile ID to residents.\nMississippi Mobile ID is a digital version of a physical driver\u2019s license that will allow residents to control their identity via a free app on their smartphone. Mississippi Mobile ID will be voluntary, and residents can choose to continue to rely upon their physical ID.\nMississippi Mobile ID offers several advantages over physical identification, including convenience, security, and privacy. Mississippi Mobile ID will give residents instant access to an up-to-date version of their driver\u2019s license or ID. It can be used as a legal form of identity verification anywhere in the state that residents would usually show their driver\u2019s license. Mississippi Mobile ID also expands residents\u2019 ability to provide proof of identity online. Residents\u2019 information is secure and can only be accessed with their fingerprint or face ID. Mississippi Mobile ID also protects residents\u2019 private data by allowing them to choose what information they share for age-verified transactions.\n\u201cThe Mississippi Department of Public Safety is committed to utilizing technology to enhance the quality of our residents\u2019 lives,\u201d said Commissioner Sean Tindell. \u201cWhile Mississippi Mobile ID will be voluntary, it is our belief that residents will find this new service to be convenient, secure, and private.\u201d\nFor more information about Mississippi Mobile ID, please visit www.dps.ms.gov/mobile-ID."
+     }
+    ],
+    "GoogleSource": [
+     "https://www.driverservicebureau.dps.ms.gov/mobile-id/node/1"
+    ]
+   }
+  },
+  "Card Features": {
+   "ID_fields": {
+    "value": [
+     "Name",
+     "Address",
+     "Class (Commercial, Non-commercial, etc)",
+     "Date of Issue",
+     "Date of expiry",
+     "Restrictions",
+     "Signature",
+     "Sex (Biological)",
+     "Other",
+     "Organ Donor",
+     "Document Discriminator",
+     "ID number",
+     "Date of Birth",
+     "Veteran",
+     "Height",
+     "Eye Color"
+    ],
+    "GoogleSource": [
+     "https://www.driverservicebureau.dps.ms.gov/Drivers/Identification_Cards"
+    ]
+   },
+   "Real ID?": {
+    "value": "Yes (Optional)"
+   },
+   "Barcode Types - Phy": {
+    "value": [
+     "PDF417"
+    ],
+    "GoogleSource": [
+     "https://www.driverservicebureau.dps.ms.gov/Drivers/Identification_Cards"
+    ]
+   },
+   "Barcode Types - Dig": {
+    "value": [
+     "PDF417",
+     "Other"
+    ],
+    "GoogleSource": [
+     "https://www.driverservicebureau.dps.ms.gov/Drivers/Identification_Cards"
+    ]
+   },
+   "Biometrics?": {
+    "GoogleSource": [
+     "https://www.driverservicebureau.dps.ms.gov/Drivers/Identification_Cards"
+    ]
+   }
+  },
+  "Application": {
+   "Application Requirement - Phy": {
+    "value": [
+     "Other",
+     "Payment",
+     "Proof of Identity",
+     "SSN",
+     "Proof of Residency x2"
+    ],
+    "AirtableSource": [
+     {
+      "source": [
+       "https://www.driverservicebureau.dps.ms.gov/Drivers/Identification_Cards"
+      ]
+     }
+    ]
+   },
+   "Relationship between Phy and Dig IDs?": {
+    "value": [
+     {
+      "value": "Phy ID required for Dig"
+     }
+    ],
+    "GoogleSource": [
+     "https://www.driverservicebureau.dps.ms.gov/mobile-id/node/1"
+    ]
+   },
+   "Other Application Requirements - Dig": {
+    "value": [
+     {
+      "value": "You must have a valid and easily readable Mississippi driver license or state-issued photo ID card\n\u2022 You must own a smartphone\no Minimum Phone Requirement: Android 7 and newer; iPhone 6 and newer (iOS 13 and newer)\no Android 10-based EMUI 10 devices are NOT supported\n\u2022 You can\u2019t use a jailbroken/rooted smartphone, so you can\u2019t use a device where the software has been manipulated to remove restrictions and limitations placed there by the manufacturer.\u201d",
+      "source": [
+       "https://www.driverservicebureau.dps.ms.gov/mobile-id/sites/default/files/Mobile%20ID%20Files/MS-ID-FAQ.pdf"
+      ]
+     }
+    ]
+   },
+   "Technical Requirements - Dig": {
+    "GoogleSource": [
+     "https://www.driverservicebureau.dps.ms.gov/mobile-id/node/1"
+    ]
+   }
+  },
+  "Agency/Vendor": {
+   "What is the issuing agency?": {
+    "value": "Mississippi Department of Public Safety"
+   },
+   "Is the issuing agency partnering with a commercial vendor to design and distribute the mobile ID?": {
+    "value": true,
+    "GoogleSource": [
+     "https://www.idemia.com/press-release/idemia-identity-and-security-north-america-launches-mobile-id-technology-mississippi-2021-11-18",
+     "https://apps.apple.com/us/app/mississippi-mobile-id/id1588419578",
+     "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.ms"
+    ]
+   },
+   "What is the commercial vendor partner for the in-house app?": {
+    "value": "IDEMIA",
+    "GoogleSource": [
+     "https://www.idemia.com/press-release/idemia-identity-and-security-north-america-launches-mobile-id-technology-mississippi-2021-11-18",
+     "https://apps.apple.com/us/app/mississippi-mobile-id/id1588419578",
+     "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.ms"
+    ]
+   },
+   "What is (are) the commercial vendor partner(s) for wallet apps?": {
+    "value": "Apple,Google"
+   }
+  },
+  "Privacy Policies": {
+   "Privacy policies for digital IDs?": {
+    "value": [
+     {
+      "value": "Mississippi mobile driver\u2019s license app keeps user data secure and ensures privacy of personal information by only storing information with the state system of record and on the user\u2019s device.",
+      "source": [
+       "https://idscan.net/state-digital-id/mississippi-mobile-drivers-license-app-is-live/?srsltid=AfmBOor2XVsg6YDzdUMHJgkoqU2beeD30F-toSy2s11dueyKdegcM5rk"
+      ]
+     }
+    ]
+   }
+  },
+  "Mobile ID Data Protections": {
+   "Is collected data being warehoused somewhere?": {
+    "value": [
+     "Other"
+    ],
+    "GoogleSource": [
+     "https://www.driverservicebureau.dps.ms.gov/mobile-id/node/1"
+    ]
+   },
+   "What kinds of data are being collected?": {
+    "value": [
+     {
+      "value": "According to the app\u2019s website, Mississippi mobile driver\u2019s license app keeps user data secure and ensures privacy of personal information by only storing information with the state system of record and on the user\u2019s device.",
+      "source": [
+       "https://www.driverservicebureau.dps.ms.gov/mobile-id/"
+      ]
+     },
+     {
+      "title": "Google play",
+      "source": [
+       "https://play.google.com/store/apps/datasafety?id=com.idemia.mobileid.us.ms&hl=en_US"
+      ]
+     },
+     {
+      "value": "Data collected: Data this app may collect"
+     },
+     {
+      "title": "App info and performance",
+      "value": "Diagnostics"
+     },
+     {
+      "title": "App activity",
+      "value": "App interactions"
+     },
+     {
+      "title": "Device or other IDs",
+      "value": "Device or other IDs"
+     },
+     {
+      "title": "Personal info",
+      "value": "User IDs"
+     }
+    ],
+    "GoogleSource": [
+     "https://www.driverservicebureau.dps.ms.gov/mobile-id/node/1"
+    ]
+   },
+   "How is information on the Mobile ID protected?": {
+    "value": [
+     {
+      "value": "To obtain a Mississippi mobile driver\u2019s license, you must first download the Mississippi Mobile ID app. After downloading, you should register your phone number. Next, you should scan your ID so that it may display on the app. After that, take a selfie to authenticate yourself. After taking a selfie, you may now set up the app security by creating a six digital pin for login purposes.",
+      "source": [
+       "https://idscan.net/state-digital-id/mississippi-mobile-drivers-license-app-is-live/?srsltid=AfmBOor2XVsg6YDzdUMHJgkoqU2beeD30F-toSy2s11dueyKdegcM5rk"
+      ]
+     },
+     {
+      "value": "-pin \n-selfie\n-fingerprint\nOfficials with the Department of Public Safety say residents\u2019 information is secure and can only be accessed with their fingerprint or face ID. The app cannot be used when stopped by law enforcement or boarding a plane."
+     }
+    ],
+    "GoogleSource": [
+     "https://www.driverservicebureau.dps.ms.gov/mobile-id/node/1"
+    ]
+   }
+  },
+  "Mobile ID Usage": {
+   "What can the dig ID be used for?": {
+    "value": [
+     "TSA",
+     "Businesses",
+     "Law Enforcement"
+    ],
+    "AirtableSource": [
+     {
+      "value": "\"mID can be used in any context in which you would use your physical ID to verify your age or identity, where accepted. It is required to present a physical driver license when requested by law enforcement and when going through TSA checkpoints at the airport. Mobile ID is considered an acceptable form of identity verification by the State of Mississippi, however, because it is a new concept, some businesses and organizations may not be aware of how to use it or have not yet developed processes to accept mID. We will continually work with groups to familiarize them with mID and its use. Over time, we expect acceptance to grow and the need to show your physical card to decrease.\"",
+      "source": [
+       "https://www.driverservicebureau.dps.ms.gov/mobile-id/sites/default/files/Mobile%20ID%20Files/MS-ID-FAQ.pdf"
+      ]
+     }
+    ]
+   }
+  },
+  "Mobile ID API": {
+   "Is there a mobile API?": {
+    "value": true
+   }
+  },
+  "Verifying Information": {
+   "How is information verified? - Phy Human": {
+    "value": [
+     {
+      "value": "Scanner tool, app"
+     }
+    ]
+   },
+   "How is information verified? - Phy Scanner": {
+    "value": [
+     {
+      "value": "Judgement"
+     }
+    ]
+   },
+   "How is information verified? - Dig": {
+    "value": [
+     {
+      "value": "Scanner tools, app"
+     }
+    ]
+   }
+  },
+  "Selective Disclosure": {
+   "Selective Disclosure?": {
+    "value": true,
+    "GoogleSource": [
+     "https://www.driverservicebureau.dps.ms.gov/mobile-id/node/1"
+    ]
+   },
+   "How is selective disclosure implemented?": {
+    "value": [
+     {
+      "value": "\"An ID holder can access privacy views through the \u201cMe\u201d tab in their app, allowing users to verify their age or identity while protecting personal information not needed for the transaction, such as address or date of birth.\"",
+      "source": [
+       "https://www.driverservicebureau.dps.ms.gov/mobile-id/"
+      ]
+     }
+    ]
+   }
+  },
+  "License considered PII? (in legislation)": {
+   "License considered PII? (in legislation)": {
+    "value": true,
+    "AirtableSource": [
+     {
+      "value": "\"PII means information that can be used to distinguish or trace an individuals' identity, either alone or when combined with other personal or identifying information that is linked or linkable to a specific individual.\"",
+      "source": [
+       "https://www.mdeq.ms.gov/wp-content/uploads/2023/03/PII-policy.pdf"
+      ]
+     }
+    ],
+    "GoogleSource": [
+     "https://billstatus.ls.state.ms.us/documents/2021/html/HB/0200-0299/HB0277IN.htm"
+    ]
+   }
+  },
+  "ID Data Collection Limitations": {
+   "Limited by Purpose?": {
+    "value": "No purpose restriction on scanning"
+   },
+   "Legislation requiring ID use for some circumstances (not exhaustive)": {
+    "GoogleSource": [
+     "https://billstatus.ls.state.ms.us/documents/2020/html/SB/2500-2599/SB2548IN.htm"
+    ]
+   },
+   "Limited by Physical Location?": {
+    "value": "No physical location restriction on scanning"
+   },
+   "Limited by Virtual Location?": {
+    "value": "No virtual location restriction on scanning"
+   },
+   "Limited by Other?": {
+    "value": "No other restrictions on scanning"
+   },
+   "Retention?": {
+    "value": "No legislation"
+   },
+   "Deletion?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "value": "PROPOSAL EFFORT ---\"Senate Bill 2548\nAN ACT TO CREATE THE \"MISSISSIPPI CONSUMER DATA PRIVACY ACT\"; TO AUTHORIZE CONSUMERS TO REQUEST THAT BUSINESSES DISCLOSE CERTAIN INFORMATION; TO AUTHORIZE CONSUMERS TO REQUEST THAT BUSINESSES DELETE PERSONAL INFORMATION COLLECTED BY BUSINESSES; TO REQUIRE BUSINESSES TO DISCLOSE CERTAIN INFORMATION TO CONSUMERS, TO INFORM CONSUMERS OF THEIR RIGHT TO REQUEST THAT PERSONAL INFORMATION BE DELETED, AND TO DELETE PERSONAL INFORMATION COLLECTED ABOUT CONSUMERS UPON REQUEST; TO AUTHORIZE CONSUMERS TO INSTRUCT BUSINESSES TO NOT SELL THE CONSUMERS' PERSONAL INFORMATION; TO AUTHORIZE CONSUMERS TO BRING CIVIL ACTIONS AGAINST BUSINESSES THAT VIOLATE THIS ACT; TO AUTHORIZE THE ATTORNEY GENERAL TO BRING CIVIL ACTIONS AGAINST BUSINESSES THAT VIOLATE THIS ACT; TO REQUIRE THE ATTORNEY GENERAL TO ADOPT REGULATIONS TO FURTHER THE PURPOSES OF THIS ACT; AND FOR RELATED PURPOSES.\n     BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF MISSISSIPPI:\"",
+      "source": [
+       "https://billstatus.ls.state.ms.us/documents/2020/html/SB/2500-2599/SB2548IN.htm#:~:text=Senate%20Bill%202548,Mississippi%20Consumer%20Data%20Privacy%20Act.%22&text=(d)%20That%20many%20consumers%20do,disclosure%20of%20their%20personal%20data.&text=(e)%20To%20receive%20equal%20service,they%20exercise%20their%20above%20rights.&text=a%20company;%20and-,2.,a%20shared%20name%20or%20trademark.&text=10.,intelligence%2C%20abilities%2C%20and%20aptitudes."
+      ]
+     }
+    ]
+   },
+   "Required Retention?": {
+    "GoogleSource": [
+     "https://billstatus.ls.state.ms.us/documents/2020/html/SB/2500-2599/SB2548IN.htm"
+    ]
+   },
+   "Distinguishes Between Methods of ID Verification?": {
+    "value": "No legislation"
+   },
+   "Consent?": {
+    "value": "No legislation"
+   },
+   "Data Breaches?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "value": "according to \u00a775-24-29 of the Mississippi Code Annotated, a person who conducts business in Mississippi must notify affected individuals of a personal data breach, while under the Insurance Data Security Law there is a requirement for licensees to notify cybersecurity events to the Mississippi Insurance Commissioner."
+     }
+    ]
+   }
+  }
  }
 }

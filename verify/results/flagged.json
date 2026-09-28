@@ -482,5 +482,49 @@
     ]
    }
   }
+ },
+ "Mississippi": {
+  "Card Features": {
+   "Biometrics?": {
+    "value": [
+     "Image of face",
+     "Fingerprints"
+    ],
+    "AirtableSource": [
+     {
+      "source": [
+       "https://idscan.net/state-digital-id/mississippi-mobile-drivers-license-app-is-live/?srsltid=AfmBOor2XVsg6YDzdUMHJgkoqU2beeD30F-toSy2s11dueyKdegcM5rk"
+      ]
+     },
+     {
+      "value": "Officials with the Department of Public Safety say residents\u2019 information is secure and can only be accessed with their fingerprint or face ID. The app cannot be used when stopped by law enforcement or boarding a plane."
+     }
+    ]
+   }
+  },
+  "Mobile ID API": {
+   "Mobile API Specifications": {
+    "value": [
+     {
+      "value": "App Store, Google Play"
+     }
+    ]
+   }
+  },
+  "ID Data Collection Limitations": {
+   "Legislation requiring ID use for some circumstances (not exhaustive)": {
+    "value": [
+     {
+      "value": "\"mID can be used in any context in which you would use your physical ID to verify your age or identity, where accepted. It is required to present a physical driver license when requested by law enforcement and when going through TSA checkpoints at the airport. Mobile ID is considered an acceptable form of identity verification by the State of Mississippi, however, because it is a new concept, some businesses and organizations may not be aware of how to use it or have not yet developed processes to accept mID. We will continually work with groups to familiarize them with mID and its use. Over time, we expect acceptance to grow and the need to show your physical card to decrease.\"",
+      "source": [
+       "https://www.driverservicebureau.dps.ms.gov/mobile-id/sites/default/files/Mobile%20ID%20Files/MS-ID-FAQ.pdf"
+      ]
+     }
+    ]
+   },
+   "Required Retention?": {
+    "value": "No legislation"
+   }
+  }
  }
 }
