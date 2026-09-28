@@ -4851,5 +4851,730 @@
     ]
    }
   }
+ },
+ "West Virginia": {
+  "Digital?": {
+   "Digital?": {
+    "GoogleSource": [
+     "https://transportation.wv.gov/DMV/MiD/Pages/default.aspx"
+    ]
+   }
+  },
+  "Card Features": {
+   "ID_fields": {
+    "value": [
+     "ID number",
+     "Name",
+     "Address",
+     "Date of Birth",
+     "Date of expiry",
+     "Date of Issue",
+     "Restrictions",
+     "Sex (Biological)",
+     "Signature",
+     "Document Discriminator",
+     "Other",
+     "Height",
+     "Weight",
+     "Eye Color"
+    ],
+    "GoogleSource": [
+     "https://transportation.wv.gov/DMV/Drivers/Pages/Drivers-Licenses.aspx"
+    ]
+   },
+   "Real ID?": {
+    "value": "Yes (Optional)",
+    "GoogleSource": [
+     "https://transportation.wv.gov/DMV/Drivers/Pages/Drivers-Licenses.aspx"
+    ]
+   },
+   "Barcode Types - Phy": {
+    "value": [
+     "PDF417",
+     "Other"
+    ],
+    "GoogleSource": [
+     "https://transportation.wv.gov/DMV/Drivers/Pages/Drivers-Licenses.aspx"
+    ]
+   },
+   "Biometrics?": {
+    "value": [
+     "Image of face"
+    ],
+    "GoogleSource": [
+     "https://transportation.wv.gov/DMV/Drivers/Pages/Drivers-Licenses.aspx"
+    ]
+   }
+  },
+  "Application": {
+   "Application Requirement - Phy": {
+    "value": [
+     "Proof of Residency x2",
+     "Proof of Identity",
+     "SSN",
+     "Other"
+    ],
+    "AirtableSource": [
+     {
+      "source": [
+       "https://transportation.wv.gov/DMV/DMVFormSearch/Drivers_Licenses_REAL_ID_cards_brochure.pdf"
+      ]
+     }
+    ],
+    "GoogleSource": [
+     "https://transportation.wv.gov/DMV/Drivers/Pages/Drivers-Licenses.aspx"
+    ]
+   },
+   "Relationship between Phy and Dig IDs?": {
+    "GoogleSource": [
+     "https://transportation.wv.gov/DMV/MiD/Pages/default.aspx"
+    ]
+   },
+   "Other Application Requirements - Dig": {
+    "value": [
+     {
+      "value": "On-app identity verification"
+     }
+    ],
+    "GoogleSource": [
+     "https://transportation.wv.gov/DMV/MiD/Pages/default.aspx"
+    ]
+   },
+   "Technical Requirements - Dig": {
+    "value": [
+     {
+      "value": "App download, Minimum Phone Requirement: Android 7 and newer (Android 10-based EMUI 10 devices are NOT supported); iPhone 6 and newer (iOS 13.1 and newer)",
+      "source": [
+       "https://transportation.wv.gov/DMV/MiD/Pages/FAQ.aspx"
+      ]
+     }
+    ],
+    "GoogleSource": [
+     "https://transportation.wv.gov/DMV/MiD/Pages/default.aspx"
+    ]
+   }
+  },
+  "Agency/Vendor": {
+   "What is the issuing agency?": {
+    "value": "WV DMV"
+   },
+   "Is the issuing agency partnering with a commercial vendor to design and distribute the mobile ID?": {
+    "value": true,
+    "GoogleSource": [
+     "https://na.idemia.com/2025/02/21/idemia-public-security-partners-with-west-virginia-division-of-motor-vehicles-and-samsung-to-bring-mobile-id-to-samsung-wallet-in-west-virginia/",
+     "https://apps.apple.com/us/app/west-virginia-mobile-id/id6471418760",
+     "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.wv"
+    ]
+   },
+   "What is the commercial vendor partner for the in-house app?": {
+    "value": "IDEMIA",
+    "GoogleSource": [
+     "https://na.idemia.com/2025/02/21/idemia-public-security-partners-with-west-virginia-division-of-motor-vehicles-and-samsung-to-bring-mobile-id-to-samsung-wallet-in-west-virginia/",
+     "https://apps.apple.com/us/app/west-virginia-mobile-id/id6471418760",
+     "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.wv"
+    ]
+   },
+   "What is (are) the commercial vendor partner(s) for wallet apps?": {
+    "value": "Apple"
+   }
+  },
+  "Privacy Policies": {
+   "Privacy policies for digital IDs?": {
+    "GoogleSource": [
+     "https://transportation.wv.gov/DMV/MiD/Pages/Samsung_Wallet.aspx"
+    ]
+   }
+  },
+  "Mobile ID Data Protections": {
+   "Is collected data being warehoused somewhere?": {
+    "value": [
+     "On phone"
+    ],
+    "GoogleSource": [
+     "https://transportation.wv.gov/DMV/MiD/Pages/default.aspx",
+     "https://transportation.wv.gov/DMV/MiD/Pages/Samsung_Wallet.aspx"
+    ]
+   },
+   "What kinds of data are being collected?": {
+    "value": [
+     {
+      "value": "\"Mobile ID doesn\u2019t permanently collect, store or hold onto your personal data \u2013 except an encrypted version of your driver license number and phone number to use as a record locator. The only places your complete information is stored are on your phone and with the SOR.\u200b\u200b\"",
+      "source": [
+       "https://transportation.wv.gov/DMV/MiD/Pages/FAQ.aspx"
+      ]
+     }
+    ]
+   },
+   "How is information on the Mobile ID protected?": {
+    "GoogleSource": [
+     "https://transportation.wv.gov/DMV/MiD/Pages/default.aspx",
+     "https://transportation.wv.gov/DMV/MiD/Pages/Samsung_Wallet.aspx"
+    ]
+   }
+  },
+  "Mobile ID Usage": {
+   "What can the dig ID be used for?": {
+    "GoogleSource": [
+     "https://transportation.wv.gov/DMV/MiD/Pages/default.aspx"
+    ]
+   }
+  },
+  "Mobile ID API": {
+   "Is there a mobile API?": {
+    "value": true
+   }
+  },
+  "Verifying Information": {
+   "How is information verified? - Phy Human": {
+    "value": [
+     {
+      "value": "App or scanner"
+     }
+    ]
+   },
+   "How is information verified? - Phy Scanner": {
+    "value": [
+     {
+      "value": "Guessing human judgement, sight"
+     }
+    ]
+   },
+   "How is information verified? - Dig": {
+    "value": [
+     {
+      "value": "QR code - app or scanner? TSA will know what flight it's linked to apparently so won't have to check boarding pass too (so they claim)"
+     }
+    ]
+   }
+  },
+  "Selective Disclosure": {
+   "Selective Disclosure?": {
+    "value": true,
+    "GoogleSource": [
+     "https://transportation.wv.gov/DMV/MiD/Pages/default.aspx",
+     "https://transportation.wv.gov/DMV/MiD/Pages/Samsung_Wallet.aspx"
+    ]
+   },
+   "How is selective disclosure implemented?": {
+    "GoogleSource": [
+     "https://transportation.wv.gov/DMV/MiD/Pages/default.aspx",
+     "https://transportation.wv.gov/DMV/MiD/Pages/Samsung_Wallet.aspx"
+    ]
+   }
+  },
+  "License considered PII? (in legislation)": {
+   "License considered PII? (in legislation)": {
+    "value": true,
+    "AirtableSource": [
+     {
+      "title": "\"(11) \u201cPersonally identifiable information\u201d means any information about an individual maintained by an agency, including",
+      "value": "(A) any information that can be used to distinguish or trace an individual\u2018s identity, such as name, social security number, date and place of birth, mother\u2018s maiden name, or biometric records; and\n(B) any other information that is linked or linkable to an individual, such as medical, educational, financial, and employment information.\"",
+      "source": [
+       "https://www.wvlegislature.gov/Bill_Status/bills_text.cfm?billdoc=hb4867%20sub%20eng.htm&yr=2024&sesstype=RS&i=4867"
+      ]
+     }
+    ],
+    "GoogleSource": [
+     "https://code.wvlegislature.gov/17A-2A-3/"
+    ]
+   }
+  },
+  "ID Data Collection Limitations": {
+   "Limited by Purpose?": {
+    "value": "No purpose restriction on scanning"
+   },
+   "Legislation requiring ID use for some circumstances (not exhaustive)": {
+    "value": [
+     {
+      "value": "West Virginia Statute \u00a760-3A-25a. Mandatory verification of age of persons purchasing alcohol."
+     }
+    ]
+   },
+   "Required Retention?": {
+    "value": "No legislation"
+   },
+   "Consent?": {
+    "value": "No legislation"
+   },
+   "Data Breaches?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "value": "\u00a746A-2A-102. Notice of breach of security of computerized personal information.\n\"(a) An individual or entity that owns or licenses computerized data that includes personal information shall give notice of any breach of the security of the system following discovery or notification of the breach of the security of the system to any resident of this state whose unencrypted and unredacted personal information was or is reasonably believed to have been accessed and acquired by an unauthorized person and that causes, or the individual or entity reasonably believes has caused or will cause, identity theft or other fraud to any resident of this state. Except as provided in subsection (e) of this section or in order to take any measures necessary to determine the scope of the breach and to restore the reasonable integrity of the system, the notice shall be made without unreasonable delay.\""
+     }
+    ]
+   }
+  }
+ },
+ "West Virginia_1": {
+  "Digital?": {
+   "Digital?": {
+    "value": "Current Offering",
+    "AirtableSource": [
+     {
+      "title": "Announced January 2024",
+      "source": [
+       "https://transportation.wv.gov/DMV/News/Pages/West-Virginia-DMV-implements-Digital-Vehicle-Registration-and-Mobile-ID.aspx"
+      ]
+     }
+    ],
+    "GoogleSource": [
+     "https://transportation.wv.gov/DMV/MiD/Pages/default.aspx"
+    ]
+   }
+  },
+  "Card Features": {
+   "ID_fields": {
+    "value": [
+     "ID number",
+     "Date of Birth",
+     "Name",
+     "Address",
+     "Date of expiry",
+     "Class (Commercial, Non-commercial, etc)",
+     "Other",
+     "Restrictions",
+     "Sex (Biological)",
+     "Document Discriminator",
+     "Organ Donor",
+     "Date of Issue",
+     "Veteran",
+     "Signature",
+     "Endorsements",
+     "Eye Color",
+     "Height",
+     "Weight"
+    ],
+    "GoogleSource": [
+     "https://transportation.wv.gov/DMV/Drivers/Pages/Drivers-Licenses.aspx"
+    ]
+   },
+   "Real ID?": {
+    "value": "Yes (Optional)",
+    "GoogleSource": [
+     "https://transportation.wv.gov/DMV/Drivers/Pages/Drivers-Licenses.aspx"
+    ]
+   },
+   "Barcode Types - Phy": {
+    "value": [
+     "PDF417",
+     "Code 128"
+    ],
+    "GoogleSource": [
+     "https://transportation.wv.gov/DMV/Drivers/Pages/Drivers-Licenses.aspx"
+    ]
+   },
+   "Biometrics?": {
+    "value": [
+     "Image of face"
+    ],
+    "GoogleSource": [
+     "https://transportation.wv.gov/DMV/Drivers/Pages/Drivers-Licenses.aspx"
+    ]
+   }
+  },
+  "Application": {
+   "Application Requirement - Phy": {
+    "value": [
+     "Proof of Identity",
+     "SSN",
+     "Proof of Residency x1",
+     "Proof of Residency x2",
+     "If name change: Proof of name change",
+     "Payment"
+    ],
+    "AirtableSource": [
+     {
+      "source": [
+       "https://transportation.wv.gov/DMV/Drivers/Pages/Drivers-Licenses.aspx"
+      ]
+     }
+    ]
+   },
+   "Relationship between Phy and Dig IDs?": {
+    "value": [
+     {
+      "value": "Phy ID required for Dig"
+     }
+    ],
+    "GoogleSource": [
+     "https://transportation.wv.gov/DMV/MiD/Pages/default.aspx"
+    ]
+   },
+   "Other Application Requirements - Dig": {
+    "value": [
+     {
+      "title": "Idemia App",
+      "value": "1. Download the Mobile ID app from the App Store or through Google Play.2. Register your phone number to bind your identity to your phone.\n3. Capture the front and back of your physical ID, using your phone\u2019s camera. This scan will populate your information into the app to create your Mobile ID.\n4. Take a selfie. Your photo and ID will be checked against your state\u2019s system of record (i.e. DMV) to ensure that you are who you say you are.\n5. Activation of your Mobile ID",
+      "source": [
+       "https://transportation.wv.gov/DMV/MiD/Pages/FAQ.aspx"
+      ]
+     },
+     {
+      "title": "Samsung Wallet",
+      "value": "1. Add to wallet\n2. Scan front and back of ID\n3. Face Scan\n4. Authenticate with fingerprint or pin",
+      "source": [
+       "https://transportation.wv.gov/DMV/MiD/Pages/Samsung_Wallet.aspx"
+      ]
+     }
+    ]
+   },
+   "Technical Requirements - Dig": {
+    "value": [
+     {
+      "title": "Idemia App",
+      "value": "1. A valid and easily readable state issued driver license or photo ID card.2. A smartphone* that has not been jailbroken or rooted, where the software has been manipulated to remove restrictions and limitations placed there by the manufacturer.\n* Minimum Phone Requirement: Android 7 and newer (Android 10-based EMUI 10 devices are NOT supported); iPhone 6 and newer (iOS 13.1 and newer)",
+      "source": [
+       "https://transportation.wv.gov/DMV/MiD/Pages/FAQ.aspx"
+      ]
+     },
+     {
+      "title": "Samsung Wallet",
+      "value": "Galaxy S Series - S20 or later\n      Galaxy Z Series - Z Flip 5G, Z Fold 5G, Z Flip 2, and Fold 2 or later\n      Galaxy A Series - A53, A54\n*Digital IDs are only available on devices running Android 12 or above."
+     }
+    ],
+    "GoogleSource": [
+     "https://transportation.wv.gov/DMV/MiD/Pages/default.aspx"
+    ]
+   }
+  },
+  "Agency/Vendor": {
+   "What is the issuing agency?": {
+    "value": "West Virginia Division of Motor Vehicles"
+   },
+   "Is the issuing agency partnering with a commercial vendor to design and distribute the mobile ID?": {
+    "value": true,
+    "GoogleSource": [
+     "https://na.idemia.com/2025/02/21/idemia-public-security-partners-with-west-virginia-division-of-motor-vehicles-and-samsung-to-bring-mobile-id-to-samsung-wallet-in-west-virginia/",
+     "https://apps.apple.com/us/app/west-virginia-mobile-id/id6471418760",
+     "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.wv"
+    ]
+   },
+   "What is the commercial vendor partner for the in-house app?": {
+    "GoogleSource": [
+     "https://na.idemia.com/2025/02/21/idemia-public-security-partners-with-west-virginia-division-of-motor-vehicles-and-samsung-to-bring-mobile-id-to-samsung-wallet-in-west-virginia/",
+     "https://apps.apple.com/us/app/west-virginia-mobile-id/id6471418760",
+     "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.wv"
+    ]
+   },
+   "What is (are) the commercial vendor partner(s) for wallet apps?": {
+    "value": "Other,Samsung"
+   }
+  },
+  "Privacy Policies": {
+   "Privacy policies for physical IDs? (e.g. DMV website policy)": {
+    "value": [
+     {
+      "source": [
+       "https://transportation.wv.gov/Pages/privacy.aspx"
+      ]
+     }
+    ]
+   },
+   "Privacy policies for digital IDs?": {
+    "value": [
+     {
+      "title": "Idemia App",
+      "source": [
+       "https://na.idemia.com/wv-mid-about/wv-mid-privacy-policy/",
+       "https://na.idemia.com/wv-mid-about/wv-mid-biometrics-collection-consent/"
+      ]
+     },
+     {
+      "value": "(Appears to be the same as other states'; cross-referenced with Idemia's Delaware privacy policy)"
+     },
+     {
+      "title": "Samsung Wallet",
+      "value": "\"In the event of suspicion of criminal activity, WV DMV may inspect use of the Digital ID to prevent or mitigate criminal activity. Such inspection may result in the acquisition, recording, and analysis of data being communicated or transmitted between you and the WV DMV.\"",
+      "source": [
+       "https://transportation.wv.gov/DMV/MiD/Documents/Samsung%20Terms%20and%20Conditions.pdf",
+       "https://www.samsung.com/us/samsung-wallet/privacy-notice/"
+      ]
+     }
+    ]
+   }
+  },
+  "Mobile ID Data Protections": {
+   "Is collected data being warehoused somewhere?": {
+    "value": [
+     "On phone",
+     "In database"
+    ],
+    "GoogleSource": [
+     "https://transportation.wv.gov/DMV/MiD/Pages/default.aspx",
+     "https://transportation.wv.gov/DMV/MiD/Pages/Samsung_Wallet.aspx"
+    ]
+   },
+   "What kinds of data are being collected?": {
+    "value": [
+     {
+      "title": "Idemia App",
+      "value": "- User PII provided during the download and use of the Services, including name, address, passwords, date of birth, identity documents and related information (e.g., driver\u2019s licenses, passports, etc.) and biometric information (e.g., face, fingerprints).- Data about a User\u2019s use of the Services, including crash logs and usage statistics.\n- Data about a User\u2019s device and its interaction with the Services, including the type of mobile device, unique user ID, IP address and operating system, and type of browser(s) in use.\n- Analytics and statistics such as the number of identity documents processed within a time interval, the pass/fail rate of a type of identity document or of a document authentication process, pass/fail codes, date and/or location of document issuance."
+     },
+     {
+      "value": "PII for stateful and stateless service is retained for different purposes, from 30 day cycles to indefinitely.",
+      "source": [
+       "https://na.idemia.com/wv-mid-about/wv-mid-privacy-policy/"
+      ]
+     },
+     {
+      "value": "Additionally:- Website\n- Postal address\n- Email address\n- Phone number\n- Company\n- Data about the User\u2019s use of the Services, including crash logs and usage statistics.\n- Data about the User\u2019s device and its interaction with the Services.\n- Personal identification numbers, including social security, driver's license, passport, or state ID card numbers.\n- Geolocation information at the time of verification.",
+      "source": [
+       "https://na.idemia.com/wv-mid-about/wv-mid-biometrics-collection-consent/"
+      ]
+     },
+     {
+      "value": "Mobile ID doesn\u2019t permanently collect, store or hold onto your personal data \u2013 except an encrypted version of your driver license number and phone number to use as a record locator. The only places your complete information is stored are on your phone and with the SOR.\u200b",
+      "source": [
+       "https://transportation.wv.gov/DMV/MiD/Pages/FAQ.aspx"
+      ]
+     },
+     {
+      "title": "Samsung Wallet",
+      "value": "- \"In the event of suspicion of criminal activity, WV DMV may inspect use of the Digital ID to prevent or mitigate criminal activity. Such inspection may result in the acquisition, recording, and analysis of data being communicated or transmitted between you and the WV DMV.\"\n- Sending information to the WV DMV and giving the WV DMV permission to access license/id to compare with information supplied to Digital Wallet provider\n- \"A limited set of the information you provide when adding your credential into Digital Wallet will be shared with the Digital Wallet provider to check for fraud\"\n- \"By using the Digital Wallet provider's software or application to provision the mDL, you may be consenting to storing the data provided by you through the Digital Wallet on their servers or within their network.\"",
+      "source": [
+       "https://transportation.wv.gov/DMV/MiD/Documents/Samsung%20Terms%20and%20Conditions.pdf"
+      ]
+     },
+     {
+      "value": "- Certain data remains on your mobile device (front and back image of your physical ID, ID photo, Transaction history) but it is never sent to or stored on Samsung servers\n- When your Mobile Driver's License or State ID is approved and granted, an authenticated piece of digital information is transferred from the state issuing authority systems to your Samsung Mobile device. It is then stored in a secure and isolated location within your phone that is unreachable by any other application or service in your phone.",
+      "source": [
+       "https://www.samsung.com/us/apps/samsung-wallet/faq/#driverslicense",
+       "https://www.samsung.com/us/samsung-wallet/privacy-notice/"
+      ]
+     }
+    ]
+   },
+   "How is information on the Mobile ID protected?": {
+    "value": [
+     {
+      "title": "Idemia App",
+      "value": "The Mobile ID app verifies your identity attributes and selfie photo against what is on file with the SOR (state\u2019s system of record). Only your Face ID, TouchID or six-digit pin will unlock the app and access your Mobile ID."
+     },
+     {
+      "value": "Mobile ID doesn\u2019t permanently collect, store or hold onto your personal data \u2013 except an encrypted version of your driver license number and phone number to use as a record locator. The only places your complete information is stored are on your phone and with the SOR.\u200b\u200b",
+      "source": [
+       "https://transportation.wv.gov/DMV/MiD/Pages/FAQ.aspx"
+      ]
+     },
+     {
+      "title": "Samsung Wallet",
+      "value": "- \"The digital data that passes between your Wallet Provider and the WV DMV through the issuance of the mDL will be encrypted.\"\n\"In the event of suspicion of criminal activity, WV DMV may inspect use of the Digital ID to prevent or mitigate criminal activity. Such inspection may result in the acquisition, recording, and analysis of data being communicated or transmitted between you and the WV DMV.\"",
+      "source": [
+       "https://transportation.wv.gov/DMV/MiD/Documents/Samsung%20Terms%20and%20Conditions.pdf"
+      ]
+     },
+     {
+      "value": "- \"It is then stored in a secure and isolated location within your phone that is unreachable by any other application or service in your phone\"",
+      "source": [
+       "https://www.samsung.com/us/apps/samsung-wallet/faq/#driverslicense"
+      ]
+     }
+    ]
+   }
+  },
+  "Mobile ID Usage": {
+   "What can the dig ID be used for?": {
+    "value": [
+     "TSA",
+     "Businesses",
+     "Law Enforcement",
+     "Other"
+    ],
+    "AirtableSource": [
+     {
+      "value": "'- Mobile ID can be used anywhere its accepted, in any context a physical driver license or state-issued ID would be used to verify age or identity, including at various airport security checkpoints throughout the U.S. The Transportation Security Administration (TSA) continues to integrate new technologies like the use of Mobile IDs at the checkpoint for TSA PreCheck\u00ae members.",
+      "source": [
+       "https://transportation.wv.gov/DMV/MiD/Pages/FAQ.aspx"
+      ]
+     },
+     {
+      "value": "- West Virginia Digital ID is currently the ONLY form of mobile phone-based identification that is recognized by WV-DMV and it is only available to individuals that have a current, valid West Virginia-issued driver's license or ID card. You must have an eligible West Virginia driver's license or state-issued identification card. \n- Currently, a West Virginia Digital ID can only be used at select TSA checkpoints in select airports in participating states.\n- No, law enforcement does not accept West Virginia Digital ID, users should continue to carry their physical license with them at all times.",
+      "source": [
+       "https://transportation.wv.gov/DMV/MiD/Pages/Samsung_Wallet.aspx"
+      ]
+     }
+    ]
+   }
+  },
+  "Mobile ID API": {
+   "Is there a mobile API?": {
+    "value": true
+   },
+   "Mobile API Specifications": {
+    "value": [
+     {
+      "value": "1. Mobile ID Verify app: request only the ID fields you need to verify and scan a QR code generated by the Mobile ID\n2. Integrate Verify SDK into existing point-of-sale system.\n3. Online verification integration",
+      "source": [
+       "https://transportation.wv.gov/DMV/MiD/Pages/FAQ.aspx"
+      ]
+     }
+    ]
+   }
+  },
+  "Verifying Information": {
+   "How is information verified? - Phy Human": {
+    "value": [
+     {
+      "title": "\u00a760-3A-25a. Mandatory verification of age of persons purchasing alcohol",
+      "value": "- No liability if a business \"installed a transaction scan device in its licensed premises\" and requires employees to verify age using it",
+      "source": [
+       "https://code.wvlegislature.gov/60-3A-25A/"
+      ]
+     },
+     {
+      "title": "\u00a760-2-22. Authority to utilize scanner technology in sales; authority to execute contracts relating thereto",
+      "value": "- West Virginia Alcohol Beverage Control Administration can \"authorize and establish standards for the use of scanner technology for the verification of age of purchasers of alcoholic beverages and wine\"\n- \"scanner technology may not be used for the collection of personal identifiable information of any purchaser... other than the age of the purchaser\"\n- No implementation of this found by the WV ABCA",
+      "source": [
+       "https://code.wvlegislature.gov/60-2-22/"
+      ]
+     }
+    ]
+   },
+   "How is information verified? - Phy Scanner": {
+    "value": [
+     {
+      "title": "Proper Carding Video",
+      "source": [
+       "https://abca.wv.gov/education/resources/Pages/default.aspx"
+      ]
+     }
+    ]
+   }
+  },
+  "Selective Disclosure": {
+   "Selective Disclosure?": {
+    "value": true
+   },
+   "How is selective disclosure implemented?": {
+    "value": [
+     {
+      "title": "Idemia App",
+      "value": "- Mobile ID puts users in control of what information they share. For example, when making an age-restricted purchase, users can prove their age without disclosing any unnecessary information (like their address).",
+      "source": [
+       "https://transportation.wv.gov/DMV/MiD/Pages/FAQ.aspx"
+      ]
+     },
+     {
+      "title": "Samsung Wallet",
+      "value": "- When you have done this successfully, your phone will display the information requested by the TSA digital identity reader. Authenticate via fingerprint or PIN to confirm and share the requested information with the TSA digital identity reader.",
+      "source": [
+       "https://transportation.wv.gov/DMV/MiD/Pages/Samsung_Wallet.aspx"
+      ]
+     }
+    ]
+   }
+  },
+  "License considered PII? (in legislation)": {
+   "License considered PII? (in legislation)": {
+    "value": true,
+    "AirtableSource": [
+     {
+      "title": "\u00a746A-2A-101. Breach of Consumer Information - Definitions",
+      "value": "- Personal information includes first name/initial + last name + Driver's license number or state identification card",
+      "source": [
+       "https://code.wvlegislature.gov/46A-2A-101/"
+      ]
+     },
+     {
+      "title": "\u00a730-1-12a. (State Boards of Examination) Prohibition against disclosure of personally identifiable information",
+      "value": "Sensitive PII (any information that identifies, or can be used to identify, locate, contact, or impersonate a particular individual) includes \"Driver's License numbers\"",
+      "source": [
+       "https://code.wvlegislature.gov/30-1-12A/"
+      ]
+     }
+    ],
+    "GoogleSource": [
+     "https://code.wvlegislature.gov/17A-2A-3/"
+    ]
+   }
+  },
+  "ID Data Collection Limitations": {
+   "Limited by Purpose?": {
+    "value": "Purpose restriction on scanning IDs",
+    "AirtableSource": [
+     {
+      "value": "(no implementation from ABCA) \n\u00a760-2-22. Authority to utilize scanner technology in sales; authority to execute contracts relating thereto:- West Virginia Alcohol Beverage Control Administration can \"authorize and establish standards for the use of scanner technology for the verification of age of purchasers of alcoholic beverages and wine\"\n- \"scanner technology may not be used for the collection of personal identifiable information of any purchaser... other than the age of the purchaser\"",
+      "source": [
+       "https://code.wvlegislature.gov/60-2-22/"
+      ]
+     },
+     {
+      "title": "(not passed): 2020 bill to regulate scanning",
+      "source": [
+       "http://www.wvlegislature.gov/Bill_Status/bills_text.cfm?billdoc=SB260%20INTR.htm&yr=2020&sesstype=RS&i=260"
+      ]
+     }
+    ]
+   },
+   "Legislation requiring ID use for some circumstances (not exhaustive)": {
+    "value": [
+     {
+      "title": "\u00a760-3A-25a. Mandatory verification of age of persons purchasing alcohol",
+      "value": "- No liability if a business \"installed a transaction scan device in its licensed premises\" and requires employees to verify age using it",
+      "source": [
+       "https://code.wvlegislature.gov/60-3A-25A/"
+      ]
+     }
+    ]
+   },
+   "Limited by Physical Location?": {
+    "value": "No physical location restriction on scanning"
+   },
+   "Limited by Virtual Location?": {
+    "value": "No virtual location restriction on scanning"
+   },
+   "Limited by Other?": {
+    "value": "No other restrictions on scanning"
+   },
+   "Retention?": {
+    "value": "No legislation"
+   },
+   "Deletion?": {
+    "value": "No legislation"
+   },
+   "Required Retention?": {
+    "value": "No legislation"
+   },
+   "Distinguishes Between Methods of ID Verification?": {
+    "value": "ID-specific legislation",
+    "AirtableSource": [
+     {
+      "title": "\u00a760-3A-25a. Mandatory verification of age of persons purchasing alcohol",
+      "value": "- No liability if a business \"installed a transaction scan device in its licensed premises\" and requires employees to verify age using it",
+      "source": [
+       "https://code.wvlegislature.gov/60-3A-25A/"
+      ]
+     },
+     {
+      "title": "\u00a760-2-22. Authority to utilize scanner technology in sales; authority to execute contracts relating thereto",
+      "value": "- West Virginia Alcohol Beverage Control Administration can \"authorize and establish standards for the use of scanner technology for the verification of age of purchasers of alcoholic beverages and wine\"\n- \"scanner technology may not be used for the collection of personal identifiable information of any purchaser... other than the age of the purchaser\"\n- No implementation of this found by the WV ABCA",
+      "source": [
+       "https://code.wvlegislature.gov/60-2-22/"
+      ]
+     },
+     {
+      "title": "(not passed): 2020 bill to regulate scanning",
+      "source": [
+       "http://www.wvlegislature.gov/Bill_Status/bills_text.cfm?billdoc=SB260%20INTR.htm&yr=2020&sesstype=RS&i=260"
+      ]
+     }
+    ]
+   },
+   "Consent?": {
+    "value": "No legislation"
+   },
+   "Data Breaches?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "value": "\"the notice shall be made without unreasonable delay.\"",
+      "source": [
+       "https://code.wvlegislature.gov/46A-2A-102/"
+      ]
+     }
+    ]
+   }
+  }
  }
 }

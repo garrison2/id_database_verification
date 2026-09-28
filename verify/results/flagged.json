@@ -666,5 +666,186 @@
     ]
    }
   }
+ },
+ "West Virginia": {
+  "Digital?": {
+   "Digital?": {
+    "value": "Prototype/In-Pilot",
+    "AirtableSource": [
+     {
+      "value": "\"(4) \"Digital identification\" means information stored on a digital network that may be accessed by a commercial entity and that serves as proof of the identity of an individual. \u201cDigital identification\u201d shall include but not be limited to the West Virginia Mobile ID.\"",
+      "source": [
+       "https://www.wvlegislature.gov/Bill_Status/bills_text.cfm?billdoc=hb4867%20sub%20eng.htm&yr=2024&sesstype=RS&i=4867"
+      ]
+     }
+    ]
+   }
+  },
+  "Future Proposals": {
+   "Details of Future Proposals": {
+    "value": [
+     {
+      "value": "Can't find? Very strange pilot - no corresponding legislation/end date announced"
+     }
+    ]
+   },
+   "Prototype Start": {
+    "value": "12/10/2024"
+   }
+  },
+  "Card Features": {
+   "Barcode Types - Dig": {
+    "value": [
+     "QR"
+    ]
+   },
+   "Biometrics?": {
+    "AirtableSource": [
+     {
+      "value": "In-app identity verification process: \"The user scans the front and back of their drivers\u2019 license/I.D. card and takes a photo of their face. Once approved, users can access the WV Mobile ID app.\""
+     },
+     {
+      "source": [
+       "https://www.theintelligencer.net/news/top-headlines/2024/12/west-virginia-dmv-launching-new-digital-id-option/#:~:text=\u201cThey%20can%20decide%20to%20share,This%20is%20really%20great%20stuff."
+      ]
+     }
+    ]
+   }
+  },
+  "Application": {
+   "Relationship between Phy and Dig IDs?": {
+    "value": [
+     {
+      "value": "Other"
+     }
+    ]
+   },
+   "Other Application Requirements - Dig": {
+    "value": [
+     {
+      "value": "On-app identity verification"
+     }
+    ]
+   }
+  },
+  "Privacy Policies": {
+   "Privacy policies for digital IDs?": {
+    "value": [
+     {
+      "value": "On device data storage, biometric/id scan identity verification - not outlined otherwise"
+     }
+    ]
+   }
+  },
+  "Mobile ID Data Protections": {
+   "How is information on the Mobile ID protected?": {
+    "value": [
+     {
+      "value": "\"IDEMIA says their app is secure, allowing users to unlock the WV Mobile ID app with their face or with a six-digit PIN.\"",
+      "source": [
+       "https://www.theintelligencer.net/news/top-headlines/2024/12/west-virginia-dmv-launching-new-digital-id-option/#:~:text=\u201cThey%20can%20decide%20to%20share,This%20is%20really%20great%20stuff.\u201d"
+      ]
+     },
+     {
+      "value": "\"Security features are a central component of the new system, with measures designed to ensure the digital IDs remain tamper-proof. The solution meets ISO 18013-5 standards, the international benchmark for mobile driver\u2019s license security and interoperability.\"",
+      "source": [
+       "https://mobileidworld.com/__trashed-83/#:~:text=West%20Virginia%20has%20initiated%20a,driver's%20license%20security%20and%20interoperability."
+      ]
+     }
+    ]
+   }
+  },
+  "Mobile ID Usage": {
+   "What can the dig ID be used for?": {
+    "value": [
+     "Law Enforcement",
+     "TSA",
+     "Businesses"
+    ],
+    "AirtableSource": [
+     {
+      "source": [
+       "https://www.theintelligencer.net/news/top-headlines/2024/12/west-virginia-dmv-launching-new-digital-id-option/#:~:text=\u201cThey%20can%20decide%20to%20share,This%20is%20really%20great%20stuff.\u201d"
+      ]
+     },
+     {
+      "value": "\"West Virginia residents can access on their smartphones and present for I.D. checks by law enforcement, airport security, or purchasing age-restricted products.\""
+     }
+    ]
+   }
+  },
+  "Mobile ID API": {
+   "Is there a mobile API?": {
+    "value": true
+   },
+   "Mobile API Specifications": {
+    "value": [
+     {
+      "value": "Made an app, not quite in wallet features yet I think"
+     }
+    ]
+   }
+  },
+  "Selective Disclosure": {
+   "How is selective disclosure implemented?": {
+    "value": [
+     {
+      "value": "\u201cThey [users] can decide to share complete personal information, or for example, just their birth date when making an age-restricted purchase.\u201d",
+      "source": [
+       "https://www.theintelligencer.net/news/top-headlines/2024/12/west-virginia-dmv-launching-new-digital-id-option/#:~:text=\u201cThey%20can%20decide%20to%20share,This%20is%20really%20great%20stuff.\u201d"
+      ]
+     }
+    ]
+   }
+  },
+  "ID Data Collection Limitations": {
+   "Retention?": {
+    "value": "ID-specific legislation",
+    "AirtableSource": [
+     {
+      "value": "In the context of selling \u201calcoholic beverages, wine, and non-intoxicating beer,\u201d West Virginia law provides that (a) no scanner can be used to collect personal information from a driver\u2019s license of any purchaser, including driver\u2019s license number, social security number, or other descriptive information, other than the age, and (b) the Alcohol Beverage Control Commissioner may establish standards for using scanners.  However, the Commissioner does not appear to have established such standards to date.\"Any scanner technology may not be used for the collection of personal identifiable information of any purchaser, which includes, but is limited to, drivers license number, social security number or other descriptive information contained on the license, other than the age of the purchaser.\"",
+      "source": [
+       "https://idscan.net/id-scanning-laws/west-virginia/?srsltid=AfmBOooemnoCjLhaqIK185Eo7cLfW4fjHYLJNkEGVyDCpo50RfXPlAEv"
+      ]
+     }
+    ]
+   },
+   "Deletion?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "value": "IBID: In the context of selling \u201calcoholic beverages, wine, and non-intoxicating beer,\u201d West Virginia law provides that (a) no scanner can be used to collect personal information from a driver\u2019s license of any purchaser, including driver\u2019s license number, social security number, or other descriptive information, other than the age, and (b) the Alcohol Beverage Control Commissioner may establish standards for using scanners.  However, the Commissioner does not appear to have established such standards to date.",
+      "source": [
+       "https://idscan.net/id-scanning-laws/west-virginia/?srsltid=AfmBOooemnoCjLhaqIK185Eo7cLfW4fjHYLJNkEGVyDCpo50RfXPlAEv"
+      ]
+     }
+    ]
+   },
+   "Distinguishes Between Methods of ID Verification?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "value": "Can't use scanner to collect info: In the context of selling \u201calcoholic beverages, wine, and non-intoxicating beer,\u201d West Virginia law provides that (a) no scanner can be used to collect personal information from a driver\u2019s license of any purchaser, including driver\u2019s license number, social security number, or other descriptive information, other than the age, and (b) the Alcohol Beverage Control Commissioner may establish standards for using scanners.  However, the Commissioner does not appear to have established such standards to date.",
+      "source": [
+       "https://idscan.net/id-scanning-laws/west-virginia/?srsltid=AfmBOooemnoCjLhaqIK185Eo7cLfW4fjHYLJNkEGVyDCpo50RfXPlAEv"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "West Virginia_1": {
+  "Card Features": {
+   "Barcode Types - Dig": {
+    "value": [
+     "QR"
+    ]
+   }
+  },
+  "Agency/Vendor": {
+   "What is the commercial vendor partner for the in-house app?": {
+    "value": "Idemia, Samsung (TSA only)"
+   }
+  }
  }
 }
