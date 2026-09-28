@@ -550,5 +550,43 @@
     ]
    }
   }
+ },
+ "Utah": {
+  "Future Proposals": {
+   "Details of Future Proposals": {
+    "GoogleSource": [
+     "https://le.utah.gov/~2025/bills/static/SB0260.html",
+     "https://le.utah.gov/~2019/bills/static/SB0100.html, https://le.utah.gov/~2020/bills/static/SB0110.html, https://le.utah.gov/~2023/bills/static/HB0470.html"
+    ]
+   }
+  },
+  "Privacy Policies": {
+   "Privacy policies for digital IDs?": {
+    "value": [
+     {
+      "value": "\"The mDL was implemented to give you additional convenience and to improve your privacy and control. Privacy protections are built into the software so that no entity can track how you use your mDL, but you have complete transparency into how and where you\u2019ve used your mDL. No data ever leaves your device without your consent. The mDL also gives greater accuracy to the businesses with whom you interact, can eliminate fake IDs, and can lower the incidence of fraudulent purchases, illegal driving, and criminals impersonating citizens.\""
+     }
+    ]
+   }
+  },
+  "License considered PII? (in legislation)": {
+   "License considered PII? (in legislation)": {
+    "value": true,
+    "AirtableSource": [
+     {
+      "value": "Definition of Personally Identifiable Information"
+     },
+     {
+      "title": "For the purposes of this policy \"personally identifiable information\" means any information collected online that could serve to identify an individual, such as"
+     },
+     {
+      "value": "First and last name\nPhysical address\nEmail address\nTelephone number\nSocial Security number\nCredit card information\nAccount Number\nBank account information\nAny combination of personal information that could be used to determine identity",
+      "source": [
+       "https://www.utah.gov/support/privacypolicy.html"
+      ]
+     }
+    ]
+   }
+  }
  }
 }

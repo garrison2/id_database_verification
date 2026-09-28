@@ -3660,5 +3660,428 @@
     ]
    }
   }
+ },
+ "Utah": {
+  "Digital?": {
+   "Digital?": {
+    "value": "Current Offering",
+    "AirtableSource": [
+     {
+      "value": "The Utah Legislature in 2019 and in 2020 authorized the Department of Public Safety\u2019s Driver License Division (DLD) to create and pilot a mobile driver license program for residents who want the option of carrying their data securely within their cell phone. ... The pilot program launched in June 2021. DLD was statutorily required to \u201cestablish a process and system for an individual to obtain an electronic license certificate or identification card\u201d on or before January 1, 2022, which it has done. The transition to production happened in October 2022 after the completion of security and privacy reviews.",
+      "source": [
+       "https://dld.utah.gov/mdlfaqs/#:~:text=The%20Utah%20Legislature%20in%202019,securely%20within%20their%20cell%20phone."
+      ]
+     }
+    ]
+   }
+  },
+  "Card Features": {
+   "ID_fields": {
+    "value": [
+     "Name",
+     "ID number",
+     "Date of Birth",
+     "Date of expiry",
+     "Date of Issue",
+     "Address",
+     "Sex (Biological)",
+     "Signature",
+     "Document Discriminator",
+     "Class (Commercial, Non-commercial, etc)",
+     "Restrictions",
+     "Veteran",
+     "Organ Donor",
+     "Other",
+     "Weight",
+     "Height",
+     "Hair Color",
+     "Endorsements"
+    ],
+    "GoogleSource": [
+     "https://dld.utah.gov/driver-licensing-services/,https://dld.utah.gov/id-card-services/"
+    ]
+   },
+   "Real ID?": {
+    "value": "Yes (Optional)",
+    "GoogleSource": [
+     "https://dld.utah.gov/driver-licensing-services/,https://dld.utah.gov/id-card-services/"
+    ]
+   },
+   "Barcode Types - Phy": {
+    "value": [
+     "PDF417",
+     "Other"
+    ],
+    "GoogleSource": [
+     "https://dld.utah.gov/driver-licensing-services/,https://dld.utah.gov/id-card-services/"
+    ]
+   },
+   "Barcode Types - Dig": {
+    "value": [
+     "QR"
+    ],
+    "GoogleSource": [
+     "https://dld.utah.gov/driver-licensing-services/,https://dld.utah.gov/id-card-services/"
+    ]
+   },
+   "Biometrics?": {
+    "value": [
+     "Image of face"
+    ],
+    "AirtableSource": [
+     {
+      "source": [
+       "https://dld.utah.gov/mdlfaqs/"
+      ]
+     }
+    ],
+    "GoogleSource": [
+     "https://dld.utah.gov/driver-licensing-services/,https://dld.utah.gov/id-card-services/"
+    ]
+   }
+  },
+  "Application": {
+   "Application Requirement - Phy": {
+    "value": [
+     "Proof of Identity",
+     "SSN",
+     "Proof of Residency x2",
+     "Other"
+    ],
+    "AirtableSource": [
+     {
+      "source": [
+       "https://dld.utah.gov/learner-permit/#:~:text=Bring%20proof%20of%20identity%20(name,to%20sign%20for%20financial%20responsibility."
+      ]
+     }
+    ]
+   },
+   "Relationship between Phy and Dig IDs?": {
+    "value": [
+     {
+      "value": "Phy ID required for Dig"
+     }
+    ],
+    "GoogleSource": [
+     "https://dld.utah.gov/utah-mdl/"
+    ]
+   },
+   "Other Application Requirements - Dig": {
+    "value": [
+     {
+      "value": "The license holder will: (1) download the app from the app store and then (2) confirm your mobile number and email and then (3) scan the 2D barcode on the back of the license and then (4) take a selfie and do a liveness detection. If the selfie matches the photo previously taken at a Driver License office and if the data on the back of the license matches the valid data in the Driver License database, then the license will be provisioned onto the phone.",
+      "source": [
+       "https://dld.utah.gov/mdlfaqs/"
+      ]
+     },
+     {
+      "value": "\"The GET Mobile ID application will require you to scan your physical driver license, confirm your phone number, and take a live selfie inside the app.\"",
+      "source": [
+       "https://dld.utah.gov/mdlfaqs/"
+      ]
+     },
+     {
+      "value": "Fee"
+     }
+    ]
+   },
+   "Technical Requirements - Dig": {
+    "GoogleSource": [
+     "https://dld.utah.gov/utah-mdl/"
+    ]
+   }
+  },
+  "Agency/Vendor": {
+   "What is the issuing agency?": {
+    "value": "Driver's License Division (DLD)"
+   },
+   "Is the issuing agency partnering with a commercial vendor to design and distribute the mobile ID?": {
+    "value": true,
+    "GoogleSource": [
+     "https://www.scytales.com/post/utah-launches-pioneering-pilot-on-mobile-drivers-license",
+     "https://apps.apple.com/us/app/get-mobile-id/id1552562526",
+     "https://play.google.com/store/apps/details?id=com.getgroupna.mdl.app.utah"
+    ]
+   },
+   "What is the commercial vendor partner for the in-house app?": {
+    "value": "GET Group North America",
+    "GoogleSource": [
+     "https://www.scytales.com/post/utah-launches-pioneering-pilot-on-mobile-drivers-license",
+     "https://apps.apple.com/us/app/get-mobile-id/id1552562526",
+     "https://play.google.com/store/apps/details?id=com.getgroupna.mdl.app.utah"
+    ]
+   }
+  },
+  "Privacy Policies": {
+   "For what purpose is information used/processed/stored?": {
+    "GoogleSource": [
+     "https://dld.utah.gov/utah-mdl/"
+    ]
+   },
+   "Who is information shared with?": {
+    "GoogleSource": [
+     "https://dld.utah.gov/utah-mdl/"
+    ]
+   }
+  },
+  "Mobile ID Data Protections": {
+   "Is collected data being warehoused somewhere?": {
+    "value": [
+     "On phone"
+    ],
+    "GoogleSource": [
+     "https://dld.utah.gov/utah-mdl/"
+    ]
+   },
+   "What kinds of data are being collected?": {
+    "value": [
+     {
+      "value": "\"Legislatively and contractually, the only data in the mDL application is your driver license and the phone number and email you provided. All data is encrypted and stored in the secure area along with the private data keys. For any other information to be added to the license or to expand the app\u2019s capability, it would have to be debated and approved by state lawmakers, which has not occurred or been discussed.You also have access to the transaction log of places you have shared your mDL data. This is also currently stored encrypted on the device and is never shared with any other entity, including any government entity.\"",
+      "source": [
+       "https://dld.utah.gov/mdlfaqs/"
+      ]
+     }
+    ]
+   },
+   "How is information on the Mobile ID protected?": {
+    "value": [
+     {
+      "value": "\"Privacy protections are built into the software so that no entity can track how you use your mDL, but you have complete transparency into how and where you\u2019ve used your mDL. No data ever leaves your device without your consent.\"\"All the security and privacy checks happen automatically through digital signatures and certificate verification.\"\"Secured on device \u2013 Data is encrypted and requires PIN or biometrics to open.\"\"The mDL data has been signed by Utah DLD when provisioned to your device. That digital signature makes it an official document that you control. The system uses the private keys on your device to encrypt each data element and ensure that only you can use it and share data. No other entity can access or read the mDL data without your consent.\"",
+      "source": [
+       "https://dld.utah.gov/mdlfaqs/"
+      ]
+     }
+    ]
+   }
+  },
+  "Mobile ID Usage": {
+   "What can the dig ID be used for?": {
+    "value": [
+     "TSA",
+     "Businesses",
+     "Law Enforcement"
+    ],
+    "AirtableSource": [
+     {
+      "source": [
+       "https://dld.utah.gov/mdlusage/"
+      ]
+     },
+     {
+      "title": "Utah\u2019s mDL is certified to the ISO 18013-5 standard and can be used across the US and the world. More businesses are accepting the mDL every day. You can see a list of locations that accept contactless IDs on this map. As of March 2023, the mDL is accepted as an official ID at the following locations"
+     },
+     {
+      "value": "Salt Lake International Airport \u2013 TSA PreCheck Members\nAmerica First Credit Union (AFCU) branches\nUtah Community Credit Union (UCCU) branches\nHarmons (City Creek, Traverse Mountain, and Santa Clara)\nMidtown Community Health Center (Ogden)\nDLD is working with the Utah Highway Patrol, gas stations, restaurants, local police, convenience stores, financial institutions, sports stadiums, and government agencies. They will be added to the map and announced through our social media channels when they become pioneers of the mDL."
+     }
+    ]
+   }
+  },
+  "Mobile ID API": {
+   "Is there a mobile API?": {
+    "value": true,
+    "GoogleSource": [
+     "https://dld.utah.gov/mdl-for-business/"
+    ]
+   },
+   "Mobile API Specifications": {
+    "value": [
+     {
+      "value": "With GET building the app, the technical lift really became a matter of building an API to be able to provision your DL/ID data to the device, which took approximately 2-3 months. Since this was done for an operational pilot, there was no significant change to move from pilot to production. Utah\u2019s mDL was implemented by GET Group North America without cost to the Utah Driver License Division and with minimal program expense by the state.The standards used to build the mDL are the ISO 18013-5 standards, which lay the groundwork for security and interoperability for a mobile driver license/ID solution. Since ISO/IEC is an International Standard, you will be able to use your mDL as identification around the globe. The system also adheres to the most recently published AAMVA (American Association of Motor Vehicle Administrators) guidelines, in which AAMVA and ISO developed the standards for our physical credentials. As additional standards from ISO/IEC, W3C, Open ID Foundation, or other standards development organizations become applicable to consenting and sharing your driver license for in-person and online interactions, Utah\u2019s mDL will implement them.",
+      "source": [
+       "https://dld.utah.gov/mdlfaqs/#:~:text=from%20being%20shared.-,What%20standards%20are%20you%20following?,as%20identification%20around%20the%20globe."
+      ]
+     }
+    ],
+    "GoogleSource": [
+     "https://dld.utah.gov/mdl-for-business/"
+    ]
+   }
+  },
+  "Verifying Information": {
+   "How is information verified? - Phy Human": {
+    "value": [
+     {
+      "value": "App or scan tool"
+     }
+    ]
+   },
+   "How is information verified? - Phy Scanner": {
+    "value": [
+     {
+      "value": "Judgement"
+     }
+    ]
+   },
+   "How is information verified? - Dig": {
+    "value": [
+     {
+      "value": "Made a \"Reader app\" for scanning the digital ID."
+     }
+    ]
+   }
+  },
+  "Selective Disclosure": {
+   "Selective Disclosure?": {
+    "value": true,
+    "GoogleSource": [
+     "https://dld.utah.gov/utah-mdl/"
+    ]
+   },
+   "How is selective disclosure implemented?": {
+    "value": [
+     {
+      "value": "\"Unlike the physical card and barcode, you may limit the data you share with businesses or entities that you interact with.\""
+     }
+    ],
+    "GoogleSource": [
+     "https://dld.utah.gov/utah-mdl/"
+    ]
+   }
+  },
+  "License considered PII? (in legislation)": {
+   "License considered PII? (in legislation)": {
+    "GoogleSource": [
+     "https://le.utah.gov/xcode/Title13/Chapter44/13-44-S102.html"
+    ]
+   }
+  },
+  "ID Data Collection Limitations": {
+   "Limited by Purpose?": {
+    "value": "No purpose restriction on scanning"
+   },
+   "Legislation requiring ID use for some circumstances (not exhaustive)": {
+    "value": [
+     {
+      "value": "Alcohol purchase, TSA, law enforcement"
+     }
+    ]
+   },
+   "Limited by Physical Location?": {
+    "value": "No physical location restriction on scanning"
+   },
+   "Limited by Virtual Location?": {
+    "value": "No virtual location restriction on scanning"
+   },
+   "Limited by Other?": {
+    "value": "No other restrictions on scanning"
+   },
+   "Retention?": {
+    "value": "ID-specific legislation",
+    "AirtableSource": [
+     {
+      "title": "Retain alcohol purchase information"
+     },
+     {
+      "value": "Utah \u00a7 32B-1-407. Verification of proof of age by applicable licensees",
+      "source": [
+       "https://le.utah.gov/xcode/Title32B/Chapter1/32B-1-S407.html"
+      ]
+     },
+     {
+      "title": "(b) the security measures that shall be used by an applicable licensee to ensure that information obtained under this section is",
+      "value": "(ii) retained by the applicable licensee for seven days after the day on which the applicable licensee obtains the information."
+     },
+     {
+      "value": "Can only retain for 7 days?"
+     }
+    ]
+   },
+   "Deletion?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "title": "General Description",
+      "value": "9          This bill enacts the Utah Consumer Privacy Act.\n10     Highlighted Provisions:\n11          This bill:\n12          \u25b8     defines terms;\n13          \u25b8     provides consumers the right to:\n14               \u2022     access and delete certain personal data maintained by certain businesses; and   \u2022     opt out of the collection and use of personal data for certain purposes;",
+      "source": [
+       "https://le.utah.gov/~2022/bills/static/SB0227.html"
+      ]
+     }
+    ]
+   },
+   "Required Retention?": {
+    "value": "ID-specific legislation",
+    "AirtableSource": [
+     {
+      "title": "Retain alcohol purchase information"
+     },
+     {
+      "value": "Utah \u00a7 32B-1-407. Verification of proof of age by applicable licensees",
+      "source": [
+       "https://le.utah.gov/xcode/Title32B/Chapter1/32B-1-S407.html"
+      ]
+     },
+     {
+      "title": "(b) the security measures that shall be used by an applicable licensee to ensure that information obtained under this section is",
+      "value": "(ii) retained by the applicable licensee for seven days after the day on which the applicable licensee obtains the information."
+     }
+    ]
+   },
+   "Distinguishes Between Methods of ID Verification?": {
+    "value": "ID-specific legislation",
+    "AirtableSource": [
+     {
+      "value": "Businesses selling alcohol must use electronic scanners to verify the age of patrons who look 35 or younger, cannot solely rely on visual inspection of physical ID.",
+      "source": [
+       "https://www.idscanner.com/id-scanner-law/utah-id-scanner-law/#:~:text=(1),(ii)"
+      ]
+     }
+    ]
+   },
+   "Consent?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "value": "UCPA opt out model of data collection",
+      "source": [
+       "https://le.utah.gov/xcode/Title13/Chapter61/C13-61_2022050420231231.pdf"
+      ]
+     },
+     {
+      "value": "13-61-302 Responsibilities of controllers -- Transparency -- Purpose specification and data\nminimization -- Consent for secondary use -- Security -- Nondiscrimination -- Nonretaliation\n-- Nonwaiver of consumer rights."
+     }
+    ]
+   },
+   "Data Breaches?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "source": [
+       "https://le.utah.gov/xcode/Title13/Chapter44/13-44-S202.html"
+      ]
+     },
+     {
+      "value": "13-44-202.  Personal information -- Disclosure of system security breach."
+     },
+     {
+      "title": "(2)\tA person required to provide notification under Subsection (1) shall provide the notification in the most expedient time possible without unreasonable delay",
+      "value": "(a)\tconsidering legitimate investigative needs of law enforcement, as provided in Subsection (4)(a);\n(b)\tafter determining the scope of the breach of system security; and\n(c)\tafter restoring the reasonable integrity of the system."
+     }
+    ]
+   }
+  }
+ },
+ "Virginia": {
+  "Digital?": {
+   "Digital?": {
+    "value": "Prototype/In-Pilot",
+    "AirtableSource": [
+     {
+      "value": "\"\u00a7 46.2 - Electronic Credentials Act",
+      "source": [
+       "https://law.lis.virginia.gov/vacodefull/title46.2/chapter2/article3/"
+      ]
+     },
+     {
+      "title": "2022 Bill (not passed)",
+      "source": [
+       "https://legacylis.virginia.gov/cgi-bin/legp604.exe?221+ful+HB506"
+      ]
+     },
+     {
+      "value": "\"\u00a7 46.2-226. Electronic credentials.\nA. The Department may shall issue electronic credentials to persons who hold a valid physical credential that the Department is authorized to issue, upon written request of the person holding such credential.\nB. If When the Department issues electronic credentials, the credentials shall be issued in addition to, and not instead of, the underlying physical credentials for which a person is eligible. No electronic credential shall be issued unless the applicant holds the corresponding physical credential. Such electronic credentials shall be issued to an electronic credential system.\""
+     }
+    ]
+   }
+  }
  }
 }
