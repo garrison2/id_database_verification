@@ -13,13 +13,12 @@ SEARCH_RESULTS_PARSED = 'results/search_results_parsed.json'
 AIRTABLE_RESULTS_PARSED = 'results/airtable_results_parsed.json'
 
 QUERIES_TO_QUESTIONS = 'data/queries_to_questions_map.json'
-COMBINED_RESULTS = 'results/results_combined.json'
-COMBINE_DIR = 'results/combined'
+COMBINED_RESULTS = 'results/flagged.json'
 COMBINE_LOGS = 'results/combine_logs'
 ORDER = "data/states_order.json"
 
 MERGED = 'results/merged.json'
-FLAGGED = 'results/flagged.json'
+FLAGGED = 'results/flagged_layer_2.json'
 RANDOM_SEED = 121
 
 TEST_DIR = 'test'

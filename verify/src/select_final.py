@@ -8,6 +8,7 @@ from dataclasses import dataclass
 from urllib.parse import urlparse
 
 from prompt_toolkit import prompt
+from argparse import ArgumentParser
 
 from util import print_wrapped, TABSIZE
 from constants import *
@@ -395,7 +396,22 @@ class HeadingType(Enum):
     SUBCATEGORY = 3
     VALUE = 4
 
-def select_from_combined():
+def select_main():
+    parser = ArgumentParser()
+    parser.add_argument('--select-from-merged', action='store_true')
+    parser.add_argument('--select-from-flagged', action='store_true')
+
+    parsed = parser.parse_args()
+    if parsed.select_from_merged:
+        select_from_combined(SelectionFunctions.merged_to_merged_and_flagged)
+    elif parsed.select_from_flagged:
+        select_from_combined(SelectionFunctions.flagged_to_merged_and_flagged)
+
+
+# When the program is stopped and then restarted, what data was merged/flagged
+# is not saved. Do not go backwards to previously saved merged/flagged data
+# and resave it, unless the saved data is meant to be overwritten.
+def select_from_combined(selection_function):
     with open(COMBINED_RESULTS, 'r') as file:
         combined = json.load(file)
 
@@ -427,11 +443,6 @@ def select_from_combined():
             flagged = json.load(file)
     except FileNotFoundError:
         flagged = dict()
-
-#    for state in merged:
-#        for category in merged[state]:
-#            for subcategory in merged[state][category]:
-#                combined[state][category][subcategory] |= merged[state][category][subcategory]
 
     state, category, subcategory = None, None, None
     headings = HeadingIterator(combined, False, order)
@@ -487,28 +498,9 @@ def select_from_combined():
                     continue
 
                 headings.print()
-                info.print()
-                action = None
-                while action is None:
-                    action, save = perform_selection(info, headings)
-                    if save == ActionType.SAVE:
-                        save_selection(merged,
-                                       flagged,
-                                       info_list[info_index - 1],
-                                       (state, category, subcategory),
-                                       logs)
-                        print_wrapped(f'"{headings.get_heading(-2)}" saved.')
-                    elif save == ActionType.SAVE_ALL:
-                        for info in info_list[:info_index - 1]:
-                            if not info: continue
-                            save_selection(merged,
-                                           flagged,
-                                           info,
-                                           (state, category, subcategory),
-                                           logs)
-                        print_wrapped(f'All categories up until "{headings.get_heading(-2)}" saved.')
-                        
-
+                action = selection_function(info, headings, info_list, 
+                                            state, category, subcategory, 
+                                            merged, flagged, logs)
 
                 logs['seen'][state][category].append(subcategory)
                 headings.exit() # exit to a category's scope
@@ -533,6 +525,48 @@ def select_from_combined():
                         info_index -= 2
                     except StopIteration:
                         info_index -= 1
+
+class SelectionFunctions:
+    @staticmethod
+    def merged_to_merged_and_flagged(info, headings, info_list, 
+                                     state, category, subcategory, 
+                                     merged, flagged, logs) -> Action:
+        info.print()
+        action = None
+        while action is None:
+            action, save = perform_selection(info, headings)
+            if save == ActionType.SAVE:
+                save_selection(merged,
+                               flagged,
+                               info_list[info_index - 1],
+                               (state, category, subcategory),
+                               logs)
+                print_wrapped(f'"{headings.get_heading(-2)}" saved.')
+            elif save == ActionType.SAVE_ALL:
+                for info in info_list[:info_index - 1]:
+                    if not info: continue
+                    save_selection(merged,
+                                   flagged,
+                                   info,
+                                   (state, category, subcategory),
+                                   logs)
+                print_wrapped(f'All categories up until "{headings.get_heading(-2)}" saved.')
+        return action
+
+    @staticmethod
+    def flagged_to_merged_and_flagged(info, headings, info_list, 
+                                      state, category, subcategory, 
+                                      merged, flagged, logs) -> Action:
+        info.print()
+        print()
+        print(merged[state][category][subcategory])
+        action = None
+        while action is None:
+            action, save = perform_selection(info, headings)
+        return action
+
+
+
 
 def perform_selection(info, heading):
     def reprint():
@@ -593,4 +627,4 @@ def save_selection(merged, flagged, info, headings, logs):
     with open(COMBINE_LOGS, 'w') as file:
         json.dump(logs, file, indent=1)
 
-select_from_combined()
+select_main()
