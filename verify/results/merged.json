@@ -578,7 +578,8 @@
      "https://www.dmv.ca.gov/portal/ca-dmv-wallet/",
      "https://www.dmv.ca.gov/portal/privacy-and-security/"
     ]
-   }
+   },
+   "Privacy policies for physical IDs? (e.g. DMV website policy)": {}
   },
   "Mobile ID Data Protections": {
    "Is collected data being warehoused somewhere?": {
@@ -763,7 +764,11 @@
       ]
      }
     ]
-   }
+   },
+   "Required Retention?": {}
+  },
+  "Future Proposals": {
+   "Prototype Start": {}
   }
  },
  "Colorado": {
@@ -805,6 +810,7 @@
     ]
    },
    "Real ID?": {
+    "value": "Yes",
     "GoogleSource": [
      "https://dmv.colorado.gov/real-id-and-colorado"
     ]
@@ -1322,20 +1328,7 @@
      "Other"
     ]
    },
-   "Biometrics?": {
-    "value": [
-     "Image of face",
-     "Fingerprints"
-    ],
-    "AirtableSource": [
-     {
-      "value": "\"Once the app is installed, users can create their personal account by entering their email address and a secure password. Next, users are required to create a four-digit PIN to ensure an extra level of security. LA wallet offers Touch ID or Face ID to access the app. Once the app is set up, a user can add their driver\u2019s license.\"",
-      "source": [
-       "https://idscan.net/state-digital-id/louisiana-digital-id-mobile-drivers-license-through-la-wallet/#:~:text=As%20such%2C%20Louisiana%20is%20one,and%20other%20high%20compliance%20scenarios."
-      ]
-     }
-    ]
-   }
+   "Biometrics?": {}
   },
   "Application": {
    "Application Requirement - Phy": {
@@ -1520,6 +1513,26 @@
      }
     ]
    }
+  },
+  "Mobile ID API": {
+   "Is there a mobile API?": {
+    "value": true
+   },
+   "Mobile API Specifications": {
+    "value": [
+     {
+      "value": "LA Wallet appears to have scanning functionality in the app."
+     }
+    ]
+   }
+  },
+  "Selective Disclosure": {
+   "Selective Disclosure?": {
+    "value": true,
+    "GoogleSource": [
+     "https://lawallet.com/"
+    ]
+   }
   }
  },
  "Alaska": {
@@ -1671,7 +1684,17 @@
       ]
      }
     ]
-   }
+   },
+   "Legislation requiring ID use for some circumstances (not exhaustive)": {},
+   "Limited by Physical Location?": {},
+   "Limited by Virtual Location?": {},
+   "Limited by Other?": {},
+   "Deletion?": {},
+   "Required Retention?": {
+    "value": "No legislation"
+   },
+   "Distinguishes Between Methods of ID Verification?": {},
+   "Consent?": {}
   }
  },
  "Alaska_1": {
@@ -1779,14 +1802,17 @@
     "GoogleSource": [
      "https://dmv.alaska.gov/mid/"
     ]
-   }
+   },
+   "Privacy policies for digital IDs?": {}
   },
   "Mobile ID Data Protections": {
    "Is collected data being warehoused somewhere?": {
     "GoogleSource": [
      "https://dmv.alaska.gov/mid/"
     ]
-   }
+   },
+   "What kinds of data are being collected?": {},
+   "How is information on the Mobile ID protected?": {}
   },
   "Mobile ID Usage": {
    "What can the dig ID be used for?": {
@@ -1849,13 +1875,10 @@
   },
   "ID Data Collection Limitations": {
    "Limited by Purpose?": {
-    "value": "Purpose restriction on scanning IDs",
-    "GoogleSource": [
-     "https://www.akleg.gov/basis/Bill/Text/32?Hsid=HB0159B"
-    ]
+    "value": "No purpose restriction on scanning IDs"
    },
    "Retention?": {
-    "value": "General legislation"
+    "value": "No legislation"
    },
    "Deletion?": {
     "value": "General legislation",
@@ -1883,7 +1906,7 @@
     "value": "No legislation"
    },
    "Consent?": {
-    "value": "General legislation"
+    "value": "No legislation"
    },
    "Data Breaches?": {
     "value": "General legislation",
@@ -1894,6 +1917,11 @@
        "https://www.law.alaska.gov/department/civil/consumer/idtheft.html#:~:text=The%20Alaska%20Legislature%20recently%20passed,Alaska%20Personal%20Information%20Protection%20Act."
       ]
      }
+    ]
+   },
+   "Legislation requiring ID use for some circumstances (not exhaustive)": {
+    "GoogleSource": [
+     "https://www.akleg.gov/basis/statutes.asp#08.60.200"
     ]
    }
   }
@@ -2039,7 +2067,8 @@
      "https://apps.apple.com/us/app/arkansas-mobile-id/id6596562568",
      "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.ar"
     ]
-   }
+   },
+   "What is (are) the commercial vendor partner(s) for wallet apps?": {}
   },
   "Privacy Policies": {
    "Privacy policies for physical IDs? (e.g. DMV website policy)": {
@@ -2052,6 +2081,11 @@
     ]
    },
    "Privacy policies for digital IDs?": {
+    "value": [
+     {
+      "value": "[Idemia]"
+     }
+    ],
     "GoogleSource": [
      "https://www.dfa.arkansas.gov/office/driver-services/mobile-id/mobile-id-for-users/"
     ]
@@ -2188,7 +2222,8 @@
       ]
      }
     ]
-   }
+   },
+   "Legislation requiring ID use for some circumstances (not exhaustive)": {}
   }
  },
  "Iowa": {
@@ -2250,6 +2285,14 @@
     ],
     "GoogleSource": [
      "https://iowadot.gov/drivers-licenses-ids"
+    ]
+   },
+   "Barcode Types - Dig": {
+    "value": [
+     "QR"
+    ],
+    "GoogleSource": [
+     "https://iowadot.gov/drivers-licenses-ids/mobile-id"
     ]
    }
   },
@@ -2362,7 +2405,8 @@
      "https://apps.apple.com/us/app/iowa-mobile-id/id1489723178",
      "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.ia"
     ]
-   }
+   },
+   "What is (are) the commercial vendor partner(s) for wallet apps?": {}
   },
   "Privacy Policies": {
    "Privacy policies for physical IDs? (e.g. DMV website policy)": {
@@ -2637,7 +2681,6 @@
     "value": "Future/Plan",
     "AirtableSource": [
      {
-      "value": "Came through state announcement apparently - can't find bill or first announcement though, just gov sites on it.",
       "source": [
        "https://drive.ky.gov/Pages/Mobile-ID.aspx"
       ]
@@ -2674,9 +2717,6 @@
     ]
    },
    "Biometrics?": {
-    "value": [
-     "Image of face"
-    ],
     "GoogleSource": [
      "https://drive.ky.gov/Pages/index.aspx"
     ]
@@ -2728,7 +2768,8 @@
       ]
      }
     ]
-   }
+   },
+   "Privacy policies for physical IDs? (e.g. DMV website policy)": {}
   },
   "Mobile ID Data Protections": {
    "Is collected data being warehoused somewhere?": {
@@ -2746,7 +2787,8 @@
       ]
      }
     ]
-   }
+   },
+   "What kinds of data are being collected?": {}
   },
   "Mobile ID Usage": {
    "What can the dig ID be used for?": {
@@ -2770,6 +2812,13 @@
   "Mobile ID API": {
    "Is there a mobile API?": {
     "value": true
+   },
+   "Mobile API Specifications": {
+    "value": [
+     {
+      "source": "https://play.google.com/store/apps/details?id=com.idemia.idverify.android"
+     }
+    ]
    }
   },
   "Verifying Information": {
@@ -2944,6 +2993,10 @@
      }
     ]
    }
+  },
+  "Future Proposals": {
+   "Details of Future Proposals": {},
+   "Future Digital Offering Date?": {}
   }
  },
  "Mississippi": {
@@ -3179,6 +3232,13 @@
   "Mobile ID API": {
    "Is there a mobile API?": {
     "value": true
+   },
+   "Mobile API Specifications": {
+    "value": [
+     {
+      "source": "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.ms"
+     }
+    ]
    }
   },
   "Verifying Information": {
@@ -3271,9 +3331,7 @@
     ]
    },
    "Required Retention?": {
-    "GoogleSource": [
-     "https://billstatus.ls.state.ms.us/documents/2020/html/SB/2500-2599/SB2548IN.htm"
-    ]
+    "value": "No legislation"
    },
    "Distinguishes Between Methods of ID Verification?": {
     "value": "No legislation"
@@ -3465,7 +3523,8 @@
     "GoogleSource": [
      "https://dmv.ny.gov/id-card/mobile-id-mid"
     ]
-   }
+   },
+   "Privacy policies for digital IDs?": {}
   },
   "Mobile ID Data Protections": {
    "Is collected data being warehoused somewhere?": {
@@ -3591,7 +3650,10 @@
   },
   "ID Data Collection Limitations": {
    "Limited by Purpose?": {
-    "value": "No purpose restriction on scanning"
+    "value": "ID-specific legislation",
+    "GoogleSource": [
+     "https://www.nysenate.gov/legislation/laws/ABC/65-B"
+    ]
    },
    "Legislation requiring ID use for some circumstances (not exhaustive)": {
     "value": [
@@ -3678,6 +3740,12 @@
        "https://ag.ny.gov/resources/organizations/data-breach-reporting/shield-act"
       ]
      }
+    ]
+   },
+   "Retention?": {
+    "value": "ID-specific legislation",
+    "GoogleSource": [
+     "https://www.nysenate.gov/legislation/laws/ABC/65-B"
     ]
    }
   }

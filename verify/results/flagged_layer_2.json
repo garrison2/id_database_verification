@@ -58,7 +58,251 @@
    "How is selective disclosure implemented?": {}
   },
   "License considered PII? (in legislation)": {
-   "License considered PII? (in legislation)": {}
+   "License considered PII? (in legislation)": {
+    "GoogleSource": [
+     "https://www.azleg.gov/legtext/56leg/2r/bills/hb2434p.htm"
+    ]
+   }
+  }
+ },
+ "California": {
+  "Future Proposals": {
+   "Prototype Start": {
+    "value": "5/1/2023",
+    "GoogleSource": [
+     "https://www.dmv.ca.gov/portal/ca-dmv-wallet/"
+    ]
+   }
+  },
+  "Card Features": {
+   "Biometrics?": {
+    "AirtableSource": [
+     {
+      "value": "DMV Image"
+     }
+    ]
+   }
+  },
+  "Privacy Policies": {
+   "Privacy policies for physical IDs? (e.g. DMV website policy)": {}
+  },
+  "Mobile ID API": {
+   "Is there a mobile API?": {
+    "value": true
+   }
+  },
+  "ID Data Collection Limitations": {
+   "Required Retention?": {}
+  }
+ },
+ "Colorado": {
+  "Card Features": {
+   "Real ID?": {}
+  }
+ },
+ "Louisiana": {
+  "Card Features": {
+   "Biometrics?": {}
+  },
+  "Application": {
+   "Technical Requirements - Dig": {}
+  },
+  "Mobile ID Data Protections": {
+   "How is information on the Mobile ID protected?": {},
+   "What kinds of data are being collected?": {}
+  },
+  "Mobile ID API": {
+   "Is there a mobile API?": {
+    "value": true
+   },
+   "Mobile API Specifications": {
+    "value": [
+     {
+      "value": "LA Wallet app available from app store"
+     }
+    ]
+   }
+  },
+  "Verifying Information": {
+   "How is information verified? - Phy Scanner": {
+    "value": [
+     {
+      "value": "Judgement, sight"
+     }
+    ]
+   },
+   "How is information verified? - Dig": {
+    "value": [
+     {
+      "value": "scanner tool or app"
+     }
+    ]
+   }
+  },
+  "Selective Disclosure": {
+   "Selective Disclosure?": {}
+  }
+ },
+ "Alaska": {
+  "ID Data Collection Limitations": {
+   "Limited by Purpose?": {
+    "value": "No purpose restriction on scanning",
+    "GoogleSource": [
+     "https://law.justia.com/codes/alaska/title-18/chapter-65/article-3/section-18-65-310/"
+    ]
+   },
+   "Legislation requiring ID use for some circumstances (not exhaustive)": {},
+   "Limited by Physical Location?": {},
+   "Limited by Virtual Location?": {},
+   "Limited by Other?": {},
+   "Retention?": {
+    "GoogleSource": [
+     "https://law.justia.com/codes/alaska/title-18/chapter-65/article-3/section-18-65-310/"
+    ]
+   },
+   "Deletion?": {
+    "value": "No legislation",
+    "GoogleSource": [
+     "https://law.justia.com/codes/alaska/title-18/chapter-65/article-3/section-18-65-310/"
+    ]
+   },
+   "Required Retention?": {},
+   "Distinguishes Between Methods of ID Verification?": {},
+   "Consent?": {}
+  }
+ },
+ "Alaska_1": {
+  "Digital?": {
+   "Digital?": {
+    "value": "Future/Plan"
+   }
+  },
+  "Privacy Policies": {
+   "Privacy policies for digital IDs?": {}
+  },
+  "Mobile ID Data Protections": {
+   "What kinds of data are being collected?": {},
+   "How is information on the Mobile ID protected?": {}
+  },
+  "ID Data Collection Limitations": {
+   "Limited by Purpose?": {},
+   "Legislation requiring ID use for some circumstances (not exhaustive)": {
+    "value": [
+     {
+      "value": "\u201cThere are some instances in which merchants are required to record information related to identity, such as the purchase of scrap metal. ID scanning can improve the ease and accuracy of record keeping in these scenarios.\u201d",
+      "source": [
+       "https://idscan.net/id-scanning-laws/alaska/#:~:text=Alaska%20law%20does%20not%20regulate,record%20keeping%20in%20these%20scenarios."
+      ]
+     }
+    ],
+    "GoogleSource": [
+     "https://www.akleg.gov/basis/Bill/Text/32?Hsid=HB0159B"
+    ]
+   },
+   "Retention?": {},
+   "Consent?": {}
+  }
+ },
+ "Arkansas": {
+  "Agency/Vendor": {
+   "What is (are) the commercial vendor partner(s) for wallet apps?": {
+    "value": ""
+   }
+  },
+  "Privacy Policies": {
+   "Privacy policies for digital IDs?": {}
+  },
+  "ID Data Collection Limitations": {
+   "Limited by Purpose?": {},
+   "Legislation requiring ID use for some circumstances (not exhaustive)": {}
+  }
+ },
+ "Iowa": {
+  "Card Features": {
+   "Barcode Types - Dig": {}
+  },
+  "Agency/Vendor": {
+   "What is (are) the commercial vendor partner(s) for wallet apps?": {
+    "value": "Other"
+   }
+  }
+ },
+ "Kentucky": {
+  "Digital?": {
+   "Digital?": {
+    "value": "Future/Plan",
+    "AirtableSource": [
+     {
+      "source": [
+       "https://drive.ky.gov/Pages/Mobile-ID.aspx"
+      ]
+     }
+    ]
+   }
+  },
+  "Future Proposals": {
+   "Details of Future Proposals": {
+    "value": [
+     {
+      "value": "Apple Wallet"
+     }
+    ]
+   },
+   "Future Digital Offering Date?": {
+    "value": "3/1/2025"
+   }
+  },
+  "Card Features": {
+   "Biometrics?": {
+    "AirtableSource": [
+     {
+      "source": [
+       "https://drive.ky.gov/Pages/Mobile-ID.aspx"
+      ]
+     }
+    ]
+   }
+  },
+  "Privacy Policies": {
+   "Privacy policies for physical IDs? (e.g. DMV website policy)": {}
+  },
+  "Mobile ID Data Protections": {
+   "What kinds of data are being collected?": {}
+  },
+  "Mobile ID API": {
+   "Mobile API Specifications": {}
+  },
+  "ID Data Collection Limitations": {
+   "Limited by Purpose?": {}
+  }
+ },
+ "Mississippi": {
+  "Card Features": {
+   "Biometrics?": {}
+  },
+  "Mobile ID API": {
+   "Mobile API Specifications": {}
+  },
+  "ID Data Collection Limitations": {
+   "Legislation requiring ID use for some circumstances (not exhaustive)": {},
+   "Required Retention?": {
+    "value": "No legislation"
+   }
+  }
+ },
+ "New York": {
+  "Privacy Policies": {
+   "Privacy policies for digital IDs?": {}
+  },
+  "ID Data Collection Limitations": {
+   "Retention?": {
+    "value": "ID-specific legislation",
+    "AirtableSource": [
+     {
+      "value": "There are restrictions when scanning IDs for alcohol or tobacco sales. For these sales, businesses can only keep records of a customer\u2019s name, date of birth, ID number, and expiration date."
+     }
+    ]
+   }
   }
  }
 }
