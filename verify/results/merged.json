@@ -72,6 +72,11 @@
     "GoogleSource": [
      "https://azdot.gov/mvd/services/driver-services/driver-license-classes-and-types"
     ]
+   },
+   "Biometrics?": {
+    "value": [
+     "Image of face"
+    ]
    }
   },
   "Application": {
@@ -116,11 +121,21 @@
     ]
    },
    "Other Application Requirements - Dig": {
+    "value": [
+     {
+      "value": "[Apple Wallet, Google Wallet]"
+     }
+    ],
     "GoogleSource": [
      "https://azdot.gov/mvd/mobile-driver-license"
     ]
    },
    "Technical Requirements - Dig": {
+    "value": [
+     {
+      "value": "[Apple Wallet, Google Wallet]"
+     }
+    ],
     "GoogleSource": [
      "https://azdot.gov/mvd/mobile-driver-license"
     ]
@@ -146,7 +161,10 @@
     ]
    },
    "What is (are) the commercial vendor partner(s) for wallet apps?": {
-    "value": "Other,Apple,Google,Samsung"
+    "value": "Other,Apple,Google,Samsung",
+    "GoogleSource": [
+     "https://azdot.gov/mvd/mobile-driver-license"
+    ]
    }
   },
   "Privacy Policies": {
@@ -162,16 +180,7 @@
    "Privacy policies for digital IDs?": {
     "value": [
      {
-      "title": "Idemia App Store",
-      "source": [
-       "https://idemia-mobile-id.com/policies/di"
-      ]
-     },
-     {
-      "value": "(same as Delaware)\nIdemia Google Store:",
-      "source": [
-       "https://idemia-mobile-id.com/enduserprivacy"
-      ]
+      "value": "[Idemia]"
      }
     ]
    },
@@ -196,11 +205,18 @@
     ]
    },
    "What kinds of data are being collected?": {
-    "GoogleSource": [
-     "https://azdot.gov/mvd/mobile-driver-license"
+    "value": [
+     {
+      "value": "[Idemia, Apple Wallet, Google Wallet, Samsung Wallet]"
+     }
     ]
    },
    "How is information on the Mobile ID protected?": {
+    "value": [
+     {
+      "value": "[Idemia, Apple Wallet, Google Wallet, Samsung Wallet]"
+     }
+    ],
     "GoogleSource": [
      "https://azdot.gov/mvd/mobile-driver-license"
     ]
@@ -266,6 +282,11 @@
     ]
    },
    "How is selective disclosure implemented?": {
+    "value": [
+     {
+      "value": "[Idemia, Apple Wallet, Google Wallet, Samsung Wallet]"
+     }
+    ],
     "GoogleSource": [
      "https://azdot.gov/mvd/mobile-driver-license"
     ]

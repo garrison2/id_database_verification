@@ -1,0 +1,64 @@
+{
+ "Arizona": {
+  "Card Features": {
+   "ID_fields": {
+    "GoogleSource": [
+     "https://azdot.gov/mvd/services/driver-services/arizona-travel-id"
+    ]
+   },
+   "Biometrics?": {
+    "value": [
+     "Image of face"
+    ]
+   }
+  },
+  "Application": {
+   "Other Application Requirements - Dig": {
+    "value": [
+     {
+      "value": "Standard for all states that use Apple Wallet/Google Wallet/Samsung Wallet; see other states"
+     }
+    ]
+   },
+   "Technical Requirements - Dig": {
+    "value": [
+     {
+      "value": "Standard for all states that use Apple Wallet/Google Wallet/Samsung Wallet; see other states"
+     }
+    ]
+   }
+  },
+  "Agency/Vendor": {
+   "What is (are) the commercial vendor partner(s) for wallet apps?": {
+    "GoogleSource": [
+     "https://azdot.gov/mobile-id-app"
+    ]
+   }
+  },
+  "Privacy Policies": {
+   "Privacy policies for digital IDs?": {}
+  },
+  "Mobile ID Data Protections": {
+   "What kinds of data are being collected?": {
+    "value": [
+     {
+      "value": "Standard for Idemia; see other states\nStandard for all states that use Apple Wallet/Google Wallet/Samsung Wallet; see other states"
+     }
+    ]
+   },
+   "How is information on the Mobile ID protected?": {
+    "value": [
+     {
+      "value": "Standard for Idemia; see other states\nStandard for all states that use Apple Wallet/Google Wallet/Samsung Wallet; see other states"
+     }
+    ]
+   }
+  },
+  "Selective Disclosure": {
+   "How is selective disclosure implemented?": {}
+  },
+  "License considered PII? (in legislation)": {
+   "License considered PII? (in legislation)": {}
+  }
+ }
+}
