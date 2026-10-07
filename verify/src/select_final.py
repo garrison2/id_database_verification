@@ -574,21 +574,25 @@ class SelectionFunctions:
 
         headings.print()
         input("Press any key to continue.")
-        subprocess.run(["vimdiff", flagged_tmp, merged_tmp])
-        with open(merged_tmp, 'r') as file:
-            new_merged = json.load(file)
-        with open(flagged_tmp, 'r') as file:
-            new_flagged = json.load(file)
 
-        print(merged[state][category][subcategory])
-        merged[state][category] = merged[state].get(category, dict())
-        merged[state][category][subcategory] = new_merged[subcategory]
-        flagged[state] = flagged.get(state, dict())
-        flagged[state][category] = flagged[state].get(category, dict())
-        flagged[state][category][subcategory] = new_flagged[subcategory]
+        while True:
+            try:
+                subprocess.run(["vimdiff", flagged_tmp, merged_tmp])
+                with open(merged_tmp, 'r') as file:
+                    new_merged = json.load(file)
+                with open(flagged_tmp, 'r') as file:
+                    new_flagged = json.load(file)
 
-        print(merged[state][category][subcategory])
-        print(flagged[state][category][subcategory])
+                merged[state][category] = merged[state].get(category, dict())
+                merged[state][category][subcategory] = new_merged[subcategory]
+                flagged[state] = flagged.get(state, dict())
+                flagged[state][category] = flagged[state].get(category, dict())
+                flagged[state][category][subcategory] = new_flagged[subcategory]
+                break
+            except Exception as e:
+                print(e)
+        os.remove(flagged_tmp)
+        os.remove(merged_tmp)
 
         action = None
         while action is None:
