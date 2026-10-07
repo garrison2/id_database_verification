@@ -568,7 +568,7 @@ class SelectionFunctions:
         _, merged_tmp = tempfile.mkstemp(suffix='json')
 
         with open(merged_tmp, 'w') as file:
-            json.dump(merged[state][category], file, indent=2)
+            json.dump(merged[state].get(category, {subcategory: {}}), file, indent=2)
         with open(flagged_tmp, 'w') as file:
             json.dump(headings.get_val(2), file, indent=2)
 
@@ -584,13 +584,14 @@ class SelectionFunctions:
                     new_flagged = json.load(file)
 
                 merged[state][category] = merged[state].get(category, dict())
-                merged[state][category][subcategory] = new_merged[subcategory]
+                merged[state][category][subcategory] = new_merged.get(subcategory, dict())
                 flagged[state] = flagged.get(state, dict())
                 flagged[state][category] = flagged[state].get(category, dict())
                 flagged[state][category][subcategory] = new_flagged[subcategory]
                 break
             except Exception as e:
-                print(e)
+                print(repr(e))
+                input("Press any key to continue.")
         os.remove(flagged_tmp)
         os.remove(merged_tmp)
 
