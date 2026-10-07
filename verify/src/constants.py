@@ -18,7 +18,7 @@ COMBINE_LOGS = 'results/combine_logs'
 ORDER = "data/states_order.json"
 
 MERGED = 'results/merged.json'
-FLAGGED = 'results/flagged_layer_2.json'
+FLAGGED = 'results/flagged_pass2.json'
 RANDOM_SEED = 121
 
 TEST_DIR = 'test'
