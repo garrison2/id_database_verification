@@ -3,6 +3,7 @@ import os
 import json
 import re
 import random
+import tempfile, subprocess
 from enum import Enum, StrEnum, IntEnum
 from dataclasses import dataclass
 from urllib.parse import urlparse
@@ -85,6 +86,13 @@ class Info:
                     [ MergeStatus.UNMERGED for val in airtable_flattened ],
                     [ MergeStatus.UNMERGED for val in google_sources ],
                     [ None for val in airtable_flattened ])
+
+    def flatten_in_place(self, info):
+        info2 = self.flatten_info(info)
+        for key in self:
+            self.pop(key)
+        for key in info2:
+            self[key] = info2[key]
 
     def flag(self, action):
         mergedlist = f'{action.datatype}_merged'
@@ -223,7 +231,7 @@ class MergeStatus(IntEnum):
     MERGED = 1
     FLAGGED = 2
 
-# --------------------------------- CLI -------------------------------- #
+# ----------------------------- SELECTION CLI  ----------------------------- #
 @dataclass
 class Action:
     edit_action: ActionType
@@ -384,8 +392,8 @@ class HeadingIterator:
             return None
         return self.vals[layer][self.iterators[layer]]
 
-    def get_val(self):
-        return self.path[-1]
+    def get_val(self, index = 1):
+        return self.path[-1 * index]
 
     def get_depth(self):
         return self.depth
@@ -406,7 +414,6 @@ def select_main():
         select_from_combined(SelectionFunctions.merged_to_merged_and_flagged)
     elif parsed.select_from_flagged:
         select_from_combined(SelectionFunctions.flagged_to_merged_and_flagged)
-
 
 # When the program is stopped and then restarted, what data was merged/flagged
 # is not saved. Do not go backwards to previously saved merged/flagged data
@@ -557,16 +564,44 @@ class SelectionFunctions:
     def flagged_to_merged_and_flagged(info, headings, info_list, 
                                       state, category, subcategory, 
                                       merged, flagged, logs) -> Action:
-        info.print()
-        print()
+        _, flagged_tmp = tempfile.mkstemp(suffix='json')
+        _, merged_tmp = tempfile.mkstemp(suffix='json')
+
+        with open(merged_tmp, 'w') as file:
+            json.dump(merged[state][category], file, indent=2)
+        with open(flagged_tmp, 'w') as file:
+            json.dump(headings.get_val(2), file, indent=2)
+
+        headings.print()
+        input("Press any key to continue.")
+        subprocess.run(["vimdiff", flagged_tmp, merged_tmp])
+        with open(merged_tmp, 'r') as file:
+            new_merged = json.load(file)
+        with open(flagged_tmp, 'r') as file:
+            new_flagged = json.load(file)
+
         print(merged[state][category][subcategory])
+        merged[state][category] = merged[state].get(category, dict())
+        merged[state][category][subcategory] = new_merged[subcategory]
+        flagged[state] = flagged.get(state, dict())
+        flagged[state][category] = flagged[state].get(category, dict())
+        flagged[state][category][subcategory] = new_flagged[subcategory]
+
+        print(merged[state][category][subcategory])
+        print(flagged[state][category][subcategory])
+
         action = None
         while action is None:
             action, save = perform_selection(info, headings)
+
+            if save == ActionType.SAVE:
+                with open(MERGED, 'w') as file:
+                    json.dump(merged, file, indent=1)
+                with open(FLAGGED, 'w') as file:
+                    json.dump(flagged, file, indent=1)
+                with open(COMBINE_LOGS, 'w') as file:
+                    json.dump(logs, file, indent=1)
         return action
-
-
-
 
 def perform_selection(info, heading):
     def reprint():
