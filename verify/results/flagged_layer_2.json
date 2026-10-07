@@ -304,5 +304,157 @@
     ]
    }
   }
+ },
+ "Utah": {
+  "Future Proposals": {
+   "Details of Future Proposals": {
+    "GoogleSource": [
+     "https://le.utah.gov/~2025/bills/static/SB0260.html",
+     "https://le.utah.gov/~2019/bills/static/SB0100.html, https://le.utah.gov/~2020/bills/static/SB0110.html, https://le.utah.gov/~2023/bills/static/HB0470.html"
+    ]
+   }
+  },
+  "Privacy Policies": {
+   "Privacy policies for digital IDs?": {}
+  },
+  "License considered PII? (in legislation)": {
+   "License considered PII? (in legislation)": {}
+  }
+ },
+ "Virginia": {
+  "Digital?": {
+   "Digital?": {
+    "value": [
+     {
+      "value": "Can't find information on when pilot program ends, etc. Date of prototype start assumed from article quote:  \"Virginia has plans for 2023 to launch a digital ID app option, with Virginia DMV Director of Communications Brandy Brubaker telling Technical.ly that the app will launch in late summer or early fall.\u201cWe are excited to launch a mobile ID app later this year in partnership with our driver\u2019s license vendor, CBN Secure Technologies,\u201d Brubaker wrote to Technical.ly in an email.\"",
+      "source": [
+       "https://technical.ly/civic-news/virginia-dc-mobile-id/"
+      ]
+     }
+    ],
+    "GoogleSource": [
+     "https://virginiamercury.com/2024/10/04/virginia-adopted-standards-for-electronic-credentials-years-ago-what-happened/"
+    ]
+   }
+  },
+  "Future Proposals": {
+   "Details of Future Proposals": {
+    "value": [
+     {
+      "value": "Can't find information on when pilot program ends, etc. Date of prototype start assumed from article quote:  \"Virginia has plans for 2023 to launch a digital ID app option, with Virginia DMV Director of Communications Brandy Brubaker telling Technical.ly that the app will launch in late summer or early fall.\u201cWe are excited to launch a mobile ID app later this year in partnership with our driver\u2019s license vendor, CBN Secure Technologies,\u201d Brubaker wrote to Technical.ly in an email.\"",
+      "source": [
+       "https://technical.ly/civic-news/virginia-dc-mobile-id/"
+      ]
+     }
+    ]
+   },
+   "Prototype Start": {
+    "value": "8/1/2023"
+   }
+  },
+  "Card Features": {
+   "Biometrics?": {}
+  },
+  "Agency/Vendor": {
+   "What is (are) the commercial vendor partner(s) for wallet apps?": {
+    "value": "Other"
+   }
+  },
+  "Mobile ID API": {
+   "Is there a mobile API?": {
+    "value": true
+   }
+  },
+  "ID Data Collection Limitations": {
+   "Limited by Purpose?": {},
+   "Consent?": {}
+  }
+ },
+ "Virginia_1": {
+  "License considered PII? (in legislation)": {
+   "License considered PII? (in legislation)": {}
+  }
+ },
+ "West Virginia": {
+  "Digital?": {
+   "Digital?": {
+    "value": "Prototype/In-Pilot",
+    "AirtableSource": [
+     {
+      "value": "\"(4) \"Digital identification\" means information stored on a digital network that may be accessed by a commercial entity and that serves as proof of the identity of an individual. \u201cDigital identification\u201d shall include but not be limited to the West Virginia Mobile ID.\"",
+      "source": [
+       "https://www.wvlegislature.gov/Bill_Status/bills_text.cfm?billdoc=hb4867%20sub%20eng.htm&yr=2024&sesstype=RS&i=4867"
+      ]
+     }
+    ]
+   }
+  },
+  "Future Proposals": {
+   "Details of Future Proposals": {},
+   "Prototype Start": {
+    "value": "12/10/2024"
+   }
+  },
+  "Card Features": {
+   "Barcode Types - Dig": {},
+   "Biometrics?": {}
+  },
+  "Application": {
+   "Relationship between Phy and Dig IDs?": {},
+   "Other Application Requirements - Dig": {}
+  },
+  "Privacy Policies": {
+   "Privacy policies for digital IDs?": {}
+  },
+  "Mobile ID Data Protections": {
+   "How is information on the Mobile ID protected?": {}
+  },
+  "Mobile ID Usage": {
+   "What can the dig ID be used for?": {
+    "value": [
+     "Law Enforcement",
+     "TSA",
+     "Businesses"
+    ]
+   }
+  },
+  "Mobile ID API": {
+   "Is there a mobile API?": {},
+   "Mobile API Specifications": {
+    "value": [
+     {
+      "value": "Made an app, not quite in wallet features yet I think"
+     }
+    ]
+   }
+  },
+  "Selective Disclosure": {
+   "How is selective disclosure implemented?": {}
+  },
+  "ID Data Collection Limitations": {
+   "Retention?": {},
+   "Deletion?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "value": "IBID: In the context of selling \u201calcoholic beverages, wine, and non-intoxicating beer,\u201d West Virginia law provides that (a) no scanner can be used to collect personal information from a driver\u2019s license of any purchaser, including driver\u2019s license number, social security number, or other descriptive information, other than the age, and (b) the Alcohol Beverage Control Commissioner may establish standards for using scanners.  However, the Commissioner does not appear to have established such standards to date.",
+      "source": [
+       "https://idscan.net/id-scanning-laws/west-virginia/?srsltid=AfmBOooemnoCjLhaqIK185Eo7cLfW4fjHYLJNkEGVyDCpo50RfXPlAEv"
+      ]
+     }
+    ]
+   },
+   "Distinguishes Between Methods of ID Verification?": {}
+  }
+ },
+ "West Virginia_1": {
+  "Card Features": {
+   "Barcode Types - Dig": {}
+  },
+  "Agency/Vendor": {
+   "What is the commercial vendor partner for the in-house app?": {
+    "value": "Idemia, Samsung (TSA only)"
+   }
+  }
  }
 }

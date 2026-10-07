@@ -3911,7 +3911,8 @@
     "GoogleSource": [
      "https://dld.utah.gov/utah-mdl/"
     ]
-   }
+   },
+   "Privacy policies for digital IDs?": {}
   },
   "Mobile ID Data Protections": {
    "Is collected data being warehoused somewhere?": {
@@ -4029,6 +4030,7 @@
   },
   "License considered PII? (in legislation)": {
    "License considered PII? (in legislation)": {
+    "value": true,
     "GoogleSource": [
      "https://le.utah.gov/xcode/Title13/Chapter44/13-44-S102.html"
     ]
@@ -4147,6 +4149,9 @@
      }
     ]
    }
+  },
+  "Future Proposals": {
+   "Details of Future Proposals": {}
   }
  },
  "Virginia": {
@@ -4213,11 +4218,7 @@
      "https://www.dmv.virginia.gov/licenses-ids/license"
     ]
    },
-   "Biometrics?": {
-    "value": [
-     "Image of face"
-    ]
-   }
+   "Biometrics?": {}
   },
   "Application": {
    "Application Requirement - Phy": {
@@ -4279,7 +4280,8 @@
      "https://apps.apple.com/us/app/virginia-mid/id6480013606",
      "https://play.google.com/store/apps/details?id=com.cbnco.idsys.digid.virginia.mdl&hl=en_IE"
     ]
-   }
+   },
+   "What is (are) the commercial vendor partner(s) for wallet apps?": {}
   },
   "Privacy Policies": {
    "Privacy policies for physical IDs? (e.g. DMV website policy)": {
@@ -4373,7 +4375,10 @@
   },
   "Mobile ID API": {
    "Is there a mobile API?": {
-    "value": true
+    "value": true,
+    "GoogleSource": [
+     "https://www.dmv.virginia.gov/licenses-ids/mobile-id/business"
+    ]
    }
   },
   "Verifying Information": {
@@ -4439,6 +4444,7 @@
   },
   "ID Data Collection Limitations": {
    "Limited by Purpose?": {
+    "value": "Purpose restriction on scanning",
     "GoogleSource": [
      "https://law.lis.virginia.gov/vacode/title59.1/chapter35/section59.1-443.3/",
      "https://law.lis.virginia.gov/vacodefull/title59.1/chapter53/",
@@ -4537,6 +4543,10 @@
      }
     ]
    }
+  },
+  "Future Proposals": {
+   "Details of Future Proposals": {},
+   "Prototype Start": {}
   }
  },
  "Virginia_1": {
@@ -4814,6 +4824,9 @@
        "https://law.lis.virginia.gov/vacodefull/title59.1/chapter53/"
       ]
      }
+    ],
+    "GoogleSource": [
+     "https://lis.virginia.gov/bill-details/20251/HB2550/text/HB2550"
     ]
    }
   },
@@ -4993,6 +5006,14 @@
     "GoogleSource": [
      "https://transportation.wv.gov/DMV/Drivers/Pages/Drivers-Licenses.aspx"
     ]
+   },
+   "Barcode Types - Dig": {
+    "value": [
+     "QR"
+    ],
+    "GoogleSource": [
+     "https://dmv.wv.gov/mobile-id-faqs"
+    ]
    }
   },
   "Application": {
@@ -5015,16 +5036,16 @@
     ]
    },
    "Relationship between Phy and Dig IDs?": {
+    "value": [
+     {
+      "value": "Phy ID required for Dig"
+     }
+    ],
     "GoogleSource": [
      "https://transportation.wv.gov/DMV/MiD/Pages/default.aspx"
     ]
    },
    "Other Application Requirements - Dig": {
-    "value": [
-     {
-      "value": "On-app identity verification"
-     }
-    ],
     "GoogleSource": [
      "https://transportation.wv.gov/DMV/MiD/Pages/default.aspx"
     ]
@@ -5111,6 +5132,13 @@
   "Mobile ID API": {
    "Is there a mobile API?": {
     "value": true
+   },
+   "Mobile API Specifications": {
+    "value": [
+     {
+      "source": "https://dmv.wv.gov/west-virginia-mobile-id"
+     }
+    ]
    }
   },
   "Verifying Information": {
@@ -5175,7 +5203,15 @@
    "Legislation requiring ID use for some circumstances (not exhaustive)": {
     "value": [
      {
-      "value": "West Virginia Statute \u00a760-3A-25a. Mandatory verification of age of persons purchasing alcohol."
+      "title": "\u00a760-3A-25a. Mandatory verification of age of persons purchasing alcohol",
+      "value": "- No liability if a business \"installed a transaction scan device in its licensed premises\" and requires employees to verify age using it",
+      "source": [
+       "https://code.wvlegislature.gov/60-3A-25A/"
+      ]
+     },
+     {
+         "title" : "§19-12F-6. Age verification requirements.",
+         "source" : "https://code.wvlegislature.gov/19-12F-6/"
      }
     ]
    },
@@ -5192,7 +5228,36 @@
       "value": "\u00a746A-2A-102. Notice of breach of security of computerized personal information.\n\"(a) An individual or entity that owns or licenses computerized data that includes personal information shall give notice of any breach of the security of the system following discovery or notification of the breach of the security of the system to any resident of this state whose unencrypted and unredacted personal information was or is reasonably believed to have been accessed and acquired by an unauthorized person and that causes, or the individual or entity reasonably believes has caused or will cause, identity theft or other fraud to any resident of this state. Except as provided in subsection (e) of this section or in order to take any measures necessary to determine the scope of the breach and to restore the reasonable integrity of the system, the notice shall be made without unreasonable delay.\""
      }
     ]
+   },
+   "Retention?": {
+    "value": "ID-specific legislation",
+    "GoogleSource": [
+     "https://code.wvlegislature.gov/60-2-22/"
+    ]
+   },
+   "Deletion?": {},
+   "Distinguishes Between Methods of ID Verification?": {
+    "value": "ID-specific legislation",
+    "AirtableSource": [
+     {
+      "title": "\u00a760-3A-25a. Mandatory verification of age of persons purchasing alcohol",
+      "value": "- No liability if a business \"installed a transaction scan device in its licensed premises\" and requires employees to verify age using it",
+      "source": [
+       "https://code.wvlegislature.gov/60-3A-25A/"
+      ]
+     },
+     {
+      "title": "\u00a760-2-22. Authority to utilize scanner technology in sales; authority to execute contracts relating thereto",
+      "value": "- West Virginia Alcohol Beverage Control Administration can \"authorize and establish standards for the use of scanner technology for the verification of age of purchasers of alcoholic beverages and wine\"\n- \"scanner technology may not be used for the collection of personal identifiable information of any purchaser... other than the age of the purchaser\"\n- No implementation of this found by the WV ABCA",
+      "source": [
+       "https://code.wvlegislature.gov/60-2-22/"
+      ]
+     }
    }
+  },
+  "Future Proposals": {
+   "Details of Future Proposals": {},
+   "Prototype Start": {}
   }
  },
  "West Virginia_1": {
@@ -5259,6 +5324,14 @@
     ],
     "GoogleSource": [
      "https://transportation.wv.gov/DMV/Drivers/Pages/Drivers-Licenses.aspx"
+    ]
+   },
+   "Barcode Types - Dig": {
+    "value": [
+     "QR"
+    ],
+    "GoogleSource": [
+     "https://dmv.wv.gov/mobile-id-faqs"
     ]
    }
   },
@@ -5604,6 +5677,10 @@
       "source": [
        "https://code.wvlegislature.gov/60-3A-25A/"
       ]
+     },
+     {
+         "title" : "§19-12F-6. Age verification requirements.",
+         "source" : "https://code.wvlegislature.gov/19-12F-6/"
      }
     ]
    },
