@@ -1554,34 +1554,30 @@
      "https://dmv.alaska.gov/mid/"
     ]
    },
-   "Future Digital Offering Date?": {
-    "value": [
-     "Name",
-     "Address",
-     "Date of Birth",
-     "ID number",
-     "Sex (Biological)",
-     "Date of Issue",
-     "Date of expiry",
-     "Signature",
-     "Class (Commercial, Non-commercial, etc)",
-     "Restrictions",
-     "Veteran",
-     "Organ Donor",
-     "Document Discriminator"
-    ]
-   }
+   "Future Digital Offering Date?": { }
   },
   "Card Features": {
    "ID_fields": {
+        "value": [
+         "Name",
+         "Address",
+         "Date of Birth",
+         "ID number",
+         "Sex (Biological)",
+         "Date of Issue",
+         "Date of expiry",
+         "Signature",
+         "Class (Commercial, Non-commercial, etc)",
+         "Restrictions",
+         "Veteran",
+         "Organ Donor",
+         "Document Discriminator"
+        ]
+   },
+   "Real ID?": {
     "value": "Yes (Optional)",
     "GoogleSource": [
      "https://online.dmv.alaska.gov/REALIdChecklist"
-    ]
-   },
-   "Real ID?": {
-    "value": [
-     "PDF417"
     ]
    },
    "Barcode Types - Phy": {
@@ -5210,8 +5206,8 @@
       ]
      },
      {
-         "title" : "§19-12F-6. Age verification requirements.",
-         "source" : "https://code.wvlegislature.gov/19-12F-6/"
+      "title": "\u00a719-12F-6. Age verification requirements.",
+      "source": "https://code.wvlegislature.gov/19-12F-6/"
      }
     ]
    },
@@ -5680,8 +5676,8 @@
       ]
      },
      {
-         "title" : "§19-12F-6. Age verification requirements.",
-         "source" : "https://code.wvlegislature.gov/19-12F-6/"
+      "title": "\u00a719-12F-6. Age verification requirements.",
+      "source": "https://code.wvlegislature.gov/19-12F-6/"
      }
     ]
    },
