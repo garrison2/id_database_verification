@@ -429,6 +429,13 @@ def select_from_combined(selection_function):
     except FileNotFoundError:
         order = None
 
+    # skip 
+    try:
+        with open(SKIP, 'r') as file:
+            skip = json.load(file)
+    except FileNotFoundError:
+        skip = None
+
     # logs
     try:
         with open(COMBINE_LOGS, 'r') as file:
@@ -487,6 +494,11 @@ def select_from_combined(selection_function):
                     continue
 
                 if subcategory in logs['seen'][state][category]:
+                    info_list.insert(info_index, False) # placeholder
+                    info_index += 1
+                    continue
+
+                if subcategory in skip:
                     info_list.insert(info_index, False) # placeholder
                     info_index += 1
                     continue
