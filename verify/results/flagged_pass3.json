@@ -1,0 +1,188 @@
+{
+ "Arizona": {
+  "Card Features": {
+   "ID_fields": {
+    "GoogleSource": []
+   },
+   "Biometrics?": {}
+  },
+  "Application": {
+   "Other Application Requirements - Dig": {},
+   "Technical Requirements - Dig": {}
+  },
+  "Agency/Vendor": {
+   "What is (are) the commercial vendor partner(s) for wallet apps?": {
+    "GoogleSource": [
+     "https://azdot.gov/mobile-id-app"
+    ]
+   }
+  }
+ },
+ "California": {
+  "Mobile ID API": {
+   "Is there a mobile API?": {
+    "value": true
+   }
+  },
+  "Future Proposals": {
+   "Prototype Start": {
+    "value": "5/1/2023",
+    "GoogleSource": [
+     "https://www.dmv.ca.gov/portal/ca-dmv-wallet/"
+    ]
+   }
+  }
+ },
+ "Louisiana": {
+  "Mobile ID API": {
+   "Is there a mobile API?": {
+    "value": true
+   },
+   "Mobile API Specifications": {}
+  },
+  "Verifying Information": {
+   "How is information verified? - Phy Scanner": {
+    "value": [
+     {
+      "value": "Judgement, sight"
+     }
+    ]
+   },
+   "How is information verified? - Dig": {
+    "value": [
+     {
+      "value": "scanner tool or app"
+     }
+    ]
+   }
+  }
+ },
+ "Alaska": {
+  "ID Data Collection Limitations": {
+   "Limited by Purpose?": {
+   },
+   "Retention?": {
+   },
+   "Deletion?": {
+   }
+  }
+ },
+ "Alaska_1": {
+  "Digital?": {
+   "Digital?": {}
+  },
+  "ID Data Collection Limitations": {
+   "Legislation requiring ID use for some circumstances (not exhaustive)": {}
+  }
+ },
+ "Arkansas": {
+  "Agency/Vendor": {
+   "What is (are) the commercial vendor partner(s) for wallet apps?": {}
+  }
+ },
+ "Iowa": {
+  "Agency/Vendor": {
+   "What is (are) the commercial vendor partner(s) for wallet apps?": {}
+  }
+ },
+ "Kentucky": {
+  "Digital?": {
+   "Digital?": {
+    "value": "Future/Plan",
+    "AirtableSource": [
+     {
+      "source": [
+       "https://drive.ky.gov/Pages/Mobile-ID.aspx"
+      ]
+     }
+    ]
+   }
+  },
+  "Card Features": {
+   "Biometrics?": {
+    "AirtableSource": [
+     {
+      "source": [
+       "https://drive.ky.gov/Pages/Mobile-ID.aspx"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "Mississippi": {
+  "ID Data Collection Limitations": {
+   "Required Retention?": {}
+  }
+ },
+ "New York": {
+  "ID Data Collection Limitations": {
+   "Retention?": {}
+  }
+ },
+ "Virginia": {
+  "Digital?": {
+   "Digital?": {
+    "value": [
+     {
+      "value": "Can't find information on when pilot program ends, etc. Date of prototype start assumed from article quote:  \"Virginia has plans for 2023 to launch a digital ID app option, with Virginia DMV Director of Communications Brandy Brubaker telling Technical.ly that the app will launch in late summer or early fall.\u201cWe are excited to launch a mobile ID app later this year in partnership with our driver\u2019s license vendor, CBN Secure Technologies,\u201d Brubaker wrote to Technical.ly in an email.\"",
+      "source": [
+       "https://technical.ly/civic-news/virginia-dc-mobile-id/"
+      ]
+     }
+    ],
+    "GoogleSource": [
+     "https://virginiamercury.com/2024/10/04/virginia-adopted-standards-for-electronic-credentials-years-ago-what-happened/"
+    ]
+   }
+  },
+  "Future Proposals": {
+   "Prototype Start": {
+    "value": "8/1/2023"
+   }
+  },
+  "Agency/Vendor": {
+   "What is (are) the commercial vendor partner(s) for wallet apps?": {
+    "value": "Other"
+   }
+  },
+  "Mobile ID API": {
+   "Is there a mobile API?": {}
+  }
+ },
+ "West Virginia": {
+  "Digital?": {
+   "Digital?": {
+    "value": "Prototype/In-Pilot",
+    "AirtableSource": [
+     {
+      "value": "\"(4) \"Digital identification\" means information stored on a digital network that may be accessed by a commercial entity and that serves as proof of the identity of an individual. \u201cDigital identification\u201d shall include but not be limited to the West Virginia Mobile ID.\"",
+      "source": [
+       "https://www.wvlegislature.gov/Bill_Status/bills_text.cfm?billdoc=hb4867%20sub%20eng.htm&yr=2024&sesstype=RS&i=4867"
+      ]
+     }
+    ]
+   }
+  },
+  "Future Proposals": {
+   "Prototype Start": {
+    "value": "12/10/2024"
+   }
+  },
+  "Mobile ID Usage": {
+   "What can the dig ID be used for?": {
+    "value": [
+     "Law Enforcement",
+     "TSA",
+     "Businesses"
+    ]
+   }
+  },
+  "Mobile ID API": {
+   "Mobile API Specifications": {}
+  },
+  "ID Data Collection Limitations": {
+   "Deletion?": {}
+  }
+ }
+}

@@ -6,27 +6,11 @@
      "https://azdot.gov/mvd/services/driver-services/arizona-travel-id"
     ]
    },
-   "Biometrics?": {
-    "value": [
-     "Image of face"
-    ]
-   }
+   "Biometrics?": {}
   },
   "Application": {
-   "Other Application Requirements - Dig": {
-    "value": [
-     {
-      "value": "Standard for all states that use Apple Wallet/Google Wallet/Samsung Wallet; see other states"
-     }
-    ]
-   },
-   "Technical Requirements - Dig": {
-    "value": [
-     {
-      "value": "Standard for all states that use Apple Wallet/Google Wallet/Samsung Wallet; see other states"
-     }
-    ]
-   }
+   "Other Application Requirements - Dig": {},
+   "Technical Requirements - Dig": {}
   },
   "Agency/Vendor": {
    "What is (are) the commercial vendor partner(s) for wallet apps?": {
@@ -39,30 +23,14 @@
    "Privacy policies for digital IDs?": {}
   },
   "Mobile ID Data Protections": {
-   "What kinds of data are being collected?": {
-    "value": [
-     {
-      "value": "Standard for Idemia; see other states\nStandard for all states that use Apple Wallet/Google Wallet/Samsung Wallet; see other states"
-     }
-    ]
-   },
-   "How is information on the Mobile ID protected?": {
-    "value": [
-     {
-      "value": "Standard for Idemia; see other states\nStandard for all states that use Apple Wallet/Google Wallet/Samsung Wallet; see other states"
-     }
-    ]
-   }
+   "What kinds of data are being collected?": {},
+   "How is information on the Mobile ID protected?": {}
   },
   "Selective Disclosure": {
    "How is selective disclosure implemented?": {}
   },
   "License considered PII? (in legislation)": {
-   "License considered PII? (in legislation)": {
-    "GoogleSource": [
-     "https://www.azleg.gov/legtext/56leg/2r/bills/hb2434p.htm"
-    ]
-   }
+   "License considered PII? (in legislation)": {}
   }
  },
  "California": {
@@ -75,13 +43,7 @@
    }
   },
   "Card Features": {
-   "Biometrics?": {
-    "AirtableSource": [
-     {
-      "value": "DMV Image"
-     }
-    ]
-   }
+   "Biometrics?": {}
   },
   "Privacy Policies": {
    "Privacy policies for physical IDs? (e.g. DMV website policy)": {}

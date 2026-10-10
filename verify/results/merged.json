@@ -53,7 +53,8 @@
    "Real ID?": {
     "value": "Yes (Optional)",
     "GoogleSource": [
-     "https://azdot.gov/mvd/services/driver-services/driver-license-classes-and-types"
+     "https://azdot.gov/mvd/services/driver-services/driver-license-classes-and-types",
+     "https://azdot.gov/mvd/services/driver-services/arizona-travel-id"
     ]
    },
    "Barcode Types - Phy": {
@@ -1554,25 +1555,25 @@
      "https://dmv.alaska.gov/mid/"
     ]
    },
-   "Future Digital Offering Date?": { }
+   "Future Digital Offering Date?": {}
   },
   "Card Features": {
    "ID_fields": {
-        "value": [
-         "Name",
-         "Address",
-         "Date of Birth",
-         "ID number",
-         "Sex (Biological)",
-         "Date of Issue",
-         "Date of expiry",
-         "Signature",
-         "Class (Commercial, Non-commercial, etc)",
-         "Restrictions",
-         "Veteran",
-         "Organ Donor",
-         "Document Discriminator"
-        ]
+    "value": [
+     "Name",
+     "Address",
+     "Date of Birth",
+     "ID number",
+     "Sex (Biological)",
+     "Date of Issue",
+     "Date of expiry",
+     "Signature",
+     "Class (Commercial, Non-commercial, etc)",
+     "Restrictions",
+     "Veteran",
+     "Organ Donor",
+     "Document Discriminator"
+    ]
    },
    "Real ID?": {
     "value": "Yes (Optional)",
@@ -1662,10 +1663,7 @@
   },
   "ID Data Collection Limitations": {
    "Limited by Purpose?": {
-    "GoogleSource": [
-     "https://law.justia.com/codes/alaska/title-18/chapter-65/article-3/section-18-65-310/",
-     "https://www.akleg.gov/basis/Bill/Text/32?Hsid=HB0159B"
-    ]
+    "value": "No purpose restriction on scanning"
    },
    "Retention?": {
     "value": "No legislation"
@@ -1696,6 +1694,7 @@
  "Alaska_1": {
   "Digital?": {
    "Digital?": {
+    "value": "Current Offering",
     "AirtableSource": [
      {
       "source": [
@@ -1871,7 +1870,7 @@
   },
   "ID Data Collection Limitations": {
    "Limited by Purpose?": {
-    "value": "No purpose restriction on scanning IDs"
+    "value": "No purpose restriction on scanning"
    },
    "Retention?": {
     "value": "No legislation"
@@ -2402,7 +2401,12 @@
      "https://play.google.com/store/apps/details?id=com.idemia.mobileid.us.ia"
     ]
    },
-   "What is (are) the commercial vendor partner(s) for wallet apps?": {}
+   "What is (are) the commercial vendor partner(s) for wallet apps?": {
+    "value": "Apple,Google,Samsung",
+    "GoogleSource": [
+     "https://iowadot.gov/drivers-licenses-ids/mobile-id"
+    ]
+   }
   },
   "Privacy Policies": {
    "Privacy policies for physical IDs? (e.g. DMV website policy)": {
