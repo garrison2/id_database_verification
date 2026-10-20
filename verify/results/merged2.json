@@ -1,0 +1,1216 @@
+{
+ "Arizona": {
+  "Digital?": {
+   "Digital?": {
+    "value": "Current Offering",
+    "AirtableSource": [
+     {
+      "value": "SB1237 (2015): electronic driver licenses; ADOT authority\n28-3169. A. Possession and display of driver license; defense: \n\u201cIf a person displays the driver license on a wireless communication device pursuant to this subsection, the person is not consenting for a justice of the peace, a police officer or a field deputy or inspector of the department to access other contents of the wireless communication device\u201d",
+      "source": [
+       "https://apps.azleg.gov/BillStatus/BillOverview?billnumber=SB1237&Sessionid=114"
+      ]
+     },
+     {
+      "title": "SB1287 (2018)",
+      "value": "28-364. G. Powers of the director: \u201cthe director may implement electronic or digital versions of driver licenses\u201d\n28-442. B. Records; evidence: The display by a person of evidence on a wireless communication device pursuant to this title does not constitute consent for law enforcement to access other content of the wireless communication device.",
+      "source": [
+       "https://apps.azleg.gov/BillStatus/BillOverview/70402"
+      ]
+     }
+    ],
+    "GoogleSource": [
+     "https://azdot.gov/mvd/mobile-driver-license",
+     "https://azdot.gov/mobile-id-app"
+    ]
+   }
+  },
+  "License considered PII? (in legislation)": {
+   "License considered PII? (in legislation)": {
+    "value": true,
+    "AirtableSource": [
+     {
+      "title": "18-551. (Data Breach)",
+      "value": "- Personal information includes first name/initial + last name",
+      "source": [
+       "https://www.azleg.gov/ars/18/00551.htm"
+      ]
+     }
+    ]
+   }
+  },
+  "ID Data Collection Limitations": {
+   "Limited by Purpose?": {
+    "value": "Purpose restriction on scanning IDs",
+    "AirtableSource": [
+     {
+      "title": "44-7701. Retention of customer information; transmission to third parties prohibited; enforcement; civil penalties",
+      "value": "Can only retain and use information \"from a customer's driver license or other state issued identification\" to\n- verify age\n- establish identity\n- confirm license to operate a vehicle\n- disclose to DOT, insurance, business (to verify a check, evaluate creditworthiness, detect fraud, account collection, \"met the motor vehicle financial responsibility requirements pursuant to section 28-4135\"), financial institutions,"
+     },
+     {
+      "value": "Cannot disclose otherwise",
+      "source": [
+       "https://www.azleg.gov/ars/44/07701.htm"
+      ]
+     }
+    ]
+   },
+   "Retention?": {
+    "value": "ID-specific legislation",
+    "AirtableSource": [
+     {
+      "title": "44-7701. Retention of customer information; transmission to third parties prohibited; enforcement; civil penalties",
+      "value": "Can only retain and use information \"from a customer's driver license or other state issued identification\" to\n- verify age\n- establish identity\n- confirm license to operate a vehicle\n- disclose to DOT, insurance, business (to verify a check, evaluate creditworthiness, detect fraud, account collection, \"met the motor vehicle financial responsibility requirements pursuant to section 28-4135\"), financial institutions,"
+     },
+     {
+      "value": "Cannot disclose otherwise",
+      "source": [
+       "https://www.azleg.gov/ars/44/07701.htm"
+      ]
+     }
+    ]
+   },
+   "Deletion?": {
+    "value": "No legislation"
+   },
+   "Required Retention?": {
+    "value": "No legislation"
+   },
+   "Distinguishes Between Methods of ID Verification?": {
+    "value": "No legislation"
+   },
+   "Consent?": {
+    "value": "No legislation"
+   },
+   "Data Breaches?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "title": "18-552. Notification of security system breaches; requirements; enforcement; confidentiality; civil penalty; preemption; exceptions",
+      "value": "Must notify within 45 days",
+      "source": [
+       "https://www.azleg.gov/ars/18/00552.htm"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "California": {
+  "Digital?": {
+   "Digital?": {
+    "value": "Current Implementation",
+    "AirtableSource": [
+     {
+      "source": [
+       "https://digitalidstrategy.cdt.ca.gov"
+      ]
+     }
+    ],
+    "GoogleSource": [
+     "https://www.dmv.ca.gov/portal/ca-dmv-wallet/"
+    ]
+   }
+  },
+  "License considered PII? (in legislation)": {
+   "License considered PII? (in legislation)": {
+    "value": true,
+    "AirtableSource": [
+     {
+      "source": [
+       "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1798.80."
+      ]
+     },
+     {
+      "source": [
+       "https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CIV&division=3.&title=1.81.5.&part=4.&chapter=&article="
+      ]
+     }
+    ]
+   }
+  },
+  "ID Data Collection Limitations": {
+   "Limited by Purpose?": {
+    "value": "Purpose restriction on scanning IDs",
+    "AirtableSource": [
+     {
+      "value": "California Civil Code Section 1798.90.1: businesses can swipe an individual\u2019s driver\u2019s license or identification card only to verify age or authenticity of the ID, or to comply with a legal requirement. https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CIV&division=3.&title=1.81.2.&part=4.&chapter=&article="
+     }
+    ]
+   },
+   "Retention?": {
+    "value": "ID-specific legislation",
+    "AirtableSource": [
+     {
+      "source": [
+       "https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CIV&division=3.&title=1.81.2.&part=4.&chapter=&article="
+      ]
+     }
+    ]
+   },
+   "Deletion?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "title": "CCPA",
+      "value": "Right to delete: You can request that businesses delete personal information they collected from you and tell their service providers to do the same, subject to certain exceptions (such as if the business is legally required to keep the information).",
+      "source": [
+       "https://oag.ca.gov/privacy/ccpa#:~:text=Right%20to%20delete:%20You%20can,required%20to%20keep%20the%20information)."
+      ]
+     }
+    ]
+   },
+   "Data Breaches?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "value": "California law requires a business or state agency to notify any California resident whose unencrypted personal information, as defined, was acquired, or reasonably believed to have been acquired, by an unauthorized person. (California Civil Code s. 1798.29(a) [agency] and California Civ.",
+      "source": [
+       "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1798.29"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "Colorado": {
+  "Digital?": {
+   "Digital?": {
+    "value": "Current Offering",
+    "AirtableSource": [
+     {
+      "title": "Colorado Executive Order B 2019 013",
+      "value": "- Colorado Digital ID will be accepted as a legal form of identification\n- All executive branches may accept instead of physical id (although police are exempted)",
+      "source": [
+       "https://sbg.colorado.gov/sites/sbg/files/documents/2019-EO-ID_1.pdf"
+      ]
+     }
+    ],
+    "GoogleSource": [
+     "https://mycolorado.state.co.us/"
+    ]
+   }
+  },
+  "License considered PII? (in legislation)": {
+   "License considered PII? (in legislation)": {
+    "value": true,
+    "AirtableSource": [
+     {
+      "title": "C.R.S. 6-1-716",
+      "value": "For data breaches, personal information is first name/initial + last name + driver's license number",
+      "source": [
+       "https://advance.lexis.com/api/document/collection/statutes-legislation/id/61P5-X0P1-DYDC-J4YD-00008-00?cite=C.R.S.%206-1-716&context=1000516"
+      ]
+     },
+     {
+      "title": "C.R.S. 6-1-1303",
+      "value": "Colorado Privacy Act: personal data is \"information that is linked or reasonably linkable to an identified or identifiable individual; and \"",
+      "source": [
+       "https://advance.lexis.com/api/document/collection/statutes-legislation/id/63JP-6XP3-GXJ9-330T-00008-00?cite=C.R.S.%206-1-1303&context=1000516"
+      ]
+     }
+    ]
+   }
+  },
+  "ID Data Collection Limitations": {
+   "Limited by Purpose?": {
+    "value": "Purpose restriction on using general (non-ID) private info",
+    "AirtableSource": [
+     {
+      "value": "C.R.S. 6-1-1301 to C.R.S. 6-1-1314: (Colorado Privacy Act)",
+      "source": [
+       "https://advance.lexis.com/api/document/collection/statutes-legislation/id/63JP-6XP3-GXJ9-330K-00008-00?cite=C.R.S.%20Title%206%2C%20Art.%201%2C%20Pt.%2013&context=1000516"
+      ]
+     },
+     {
+      "value": "Additional rules developed by the attorney general",
+      "source": [
+       "https://coag.gov/resources/colorado-privacy-act/"
+      ]
+     }
+    ]
+   },
+   "Retention?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "value": "C.R.S. 6-1-1301 to C.R.S. 6-1-1314: (Colorado Privacy Act)",
+      "source": [
+       "https://advance.lexis.com/api/document/collection/statutes-legislation/id/63JP-6XP3-GXJ9-330K-00008-00?cite=C.R.S.%20Title%206%2C%20Art.%201%2C%20Pt.%2013&context=1000516"
+      ]
+     },
+     {
+      "value": "Additional rules developed by the attorney general",
+      "source": [
+       "https://coag.gov/resources/colorado-privacy-act/"
+      ]
+     }
+    ]
+   },
+   "Deletion?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "value": "C.R.S. 6-1-1301 to C.R.S. 6-1-1314: (Colorado Privacy Act)",
+      "source": [
+       "https://advance.lexis.com/api/document/collection/statutes-legislation/id/63JP-6XP3-GXJ9-330K-00008-00?cite=C.R.S.%20Title%206%2C%20Art.%201%2C%20Pt.%2013&context=1000516"
+      ]
+     },
+     {
+      "value": "Additional rules developed by the attorney general",
+      "source": [
+       "https://coag.gov/resources/colorado-privacy-act/"
+      ]
+     }
+    ]
+   },
+   "Consent?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "value": "C.R.S. 6-1-1301 to C.R.S. 6-1-1314: (Colorado Privacy Act)",
+      "source": [
+       "https://advance.lexis.com/api/document/collection/statutes-legislation/id/63JP-6XP3-GXJ9-330K-00008-00?cite=C.R.S.%20Title%206%2C%20Art.%201%2C%20Pt.%2013&context=1000516"
+      ]
+     },
+     {
+      "value": "Additional rules developed by the attorney general",
+      "source": [
+       "https://coag.gov/resources/colorado-privacy-act/"
+      ]
+     }
+    ]
+   },
+   "Data Breaches?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "title": "C.R.S. 6-1-716",
+      "value": "Must notify within 30 days + additional responsibilities depending on situation",
+      "source": [
+       "https://advance.lexis.com/api/document/collection/statutes-legislation/id/61P5-X0P1-DYDC-J4YD-00008-00?cite=C.R.S.%206-1-716&context=1000516"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "Louisiana": {
+  "Digital?": {
+   "Digital?": {
+    "value": "Current Offering",
+    "AirtableSource": [
+     {
+      "value": "RS 39:17.1",
+      "source": [
+       "https://www.legis.la.gov/legis/Law.aspx?d=1148754"
+      ]
+     },
+     {
+      "value": "\" (3) \"Digitized credential\" means a credential relayed in a data file available on any mobile device which has connectivity to the internet through an application that allows the mobile device to download the data file from the department, office, agency, company, division, university, school, board, commission, or other applicable entity and contains all of the data elements visible on the face and back of the credential, and also displays the current status of the credential.\n            (4) \"Electronic wallet\" refers to an electronic or online service or application that allows an individual to store credentials in order to access the credentials from a mobile device.\n            Acts 2019, No. 220, \u00a71, eff. June 11, 2019.\"\"RS 51:3212 - Digitized identification card acceptance; limitation of liabilityA. When a person requests a consumer to produce valid identification for the purpose of furnishing proof of the consumer's identification or age, the person shall accept a state-issued digitized identification card as a valid form of identification.\"",
+      "source": [
+       "https://legis.la.gov/legis/Law.aspx?d=1195449"
+      ]
+     }
+    ],
+    "GoogleSource": [
+     "https://lawallet.com/"
+    ]
+   }
+  },
+  "License considered PII? (in legislation)": {
+   "License considered PII? (in legislation)": {
+    "value": true,
+    "AirtableSource": [
+     {
+      "source": [
+       "https://www.legis.la.gov/legis/Law.aspx?d=322029"
+      ]
+     },
+     {
+      "title": "\"B. (1) For purposes of this Section, \u201cpersonally identifiable information\u201d is defined as information about an individual that can be used on its own or with other information to identify, contact, or locate a single individual, including but not limited to the following"
+     },
+     {
+      "value": "(a) Any information that can be used to distinguish or trace an individual's identity such as full name, social security number, date and place of birth, mother's maiden name, or biometric records.(b) Any other information that is linked or linkable to an individual such as medical, educational, financial, and employment information.(c) Two or more pieces of information that separately or when linked together can be used to reasonably ascertain the identity of the person.\"",
+      "source": [
+       "legis.la.gov/legis/Law.aspx?d=920124"
+      ]
+     }
+    ]
+   }
+  },
+  "ID Data Collection Limitations": {
+   "Limited by Purpose?": {
+    "value": "No purpose restriction on scanning"
+   },
+   "Retention?": {
+    "value": "No legislation"
+   },
+   "Deletion?": {
+    "value": "No legislation"
+   },
+   "Required Retention?": {
+    "value": "No legislation"
+   },
+   "Distinguishes Between Methods of ID Verification?": {
+    "value": "No legislation"
+   },
+   "Consent?": {
+    "value": "No legislation"
+   },
+   "Data Breaches?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "value": "\"C. Any person that owns or licenses computerized data that includes personal information, or any agency that owns or licenses computerized data that includes personal information, shall, following discovery of a breach in the security of the system containing such data, notify any resident of the state whose personal information was, or is reasonably believed to have been, acquired by an unauthorized person.\n            D. Any agency or person that maintains computerized data that includes personal information that the agency or person does not own shall notify the owner or licensee of the information if the personal information was, or is reasonably believed to have been, acquired by an unauthorized person through a breach of security of the system containing such data, following discovery by the agency or person of a breach of security of the system.\n            E. The notification required pursuant to Subsections C and D of this Section shall be made in the most expedient time possible and without unreasonable delay but not later than sixty days from the discovery of the breach, consistent with the legitimate needs of law enforcement, as provided in Subsection F of this Section, or any measures necessary to determine the scope of the breach, prevent further disclosures, and restore the reasonable integrity of the data system. When notification required pursuant to Subsections C and D of this Section is delayed pursuant to Subsection F of this Section or due to a determination by the person or agency that measures are necessary to determine the scope of the breach, prevent further disclosures, and restore the reasonable integrity of the data system, the person or agency shall provide the attorney general the reasons for the delay in writing within the sixty day notification period provided in this Subsection. Upon receipt of the written reasons, the attorney general shall allow a reasonable extension of time to provide the notification required in Subsections C and D of this Section.\n            F. If a law enforcement agency determines that the notification required under this Section would impede a criminal investigation, such notification may be delayed until such law enforcement agency determines that the notification will no longer compromise such investigation.\"RS 51:3074",
+      "source": [
+       "https://legis.la.gov/Legis/Law.aspx?d=322030"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "Alaska": {
+  "Digital?": {
+   "Digital?": {
+    "GoogleSource": [
+     "https://dmv.alaska.gov/mid/"
+    ]
+   }
+  },
+  "License considered PII? (in legislation)": {
+   "License considered PII? (in legislation)": {
+    "value": true,
+    "AirtableSource": [
+     {
+      "value": "AS 45.48.090 - Definitions (for the Personal Information Protection Act)",
+      "source": [
+       "https://www.akleg.gov/basis/statutes.asp#45.48.090"
+      ]
+     }
+    ]
+   }
+  },
+  "ID Data Collection Limitations": {
+   "Limited by Purpose?": {
+    "value": "No purpose restriction on scanning"
+   },
+   "Retention?": {
+    "value": "No legislation"
+   },
+   "Data Breaches?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "value": "AS 45.48.010-45.48.090 - Personal Information Protection Act\nMust disclose data breaches in \"the most expeditious time possible and without unreasonable\"",
+      "source": [
+       "https://www.akleg.gov/basis/statutes.asp#45.48.090"
+      ]
+     }
+    ]
+   },
+   "Required Retention?": {
+    "value": "No legislation"
+   }
+  }
+ },
+ "Alaska_1": {
+  "Digital?": {
+   "Digital?": {
+    "value": "Current Offering",
+    "GoogleSource": [
+     "https://dmv.alaska.gov/mid/"
+    ]
+   }
+  },
+  "License considered PII? (in legislation)": {
+   "License considered PII? (in legislation)": {
+    "value": true
+   }
+  },
+  "ID Data Collection Limitations": {
+   "Limited by Purpose?": {
+    "value": "No purpose restriction on scanning"
+   },
+   "Retention?": {
+    "value": "No legislation"
+   },
+   "Deletion?": {
+    "value": "No legislation"
+   },
+   "Required Retention?": {
+    "value": "No legislation"
+   },
+   "Distinguishes Between Methods of ID Verification?": {
+    "value": "No legislation"
+   },
+   "Consent?": {
+    "value": "No legislation"
+   },
+   "Data Breaches?": {
+    "value": "General legislation"
+   }
+  }
+ },
+ "Arkansas": {
+  "Digital?": {
+   "Digital?": {
+    "value": "Current Offering",
+    "AirtableSource": [
+     {
+      "value": "27-16-817. Digitized driver's license",
+      "source": [
+       "https://advance.lexis.com/documentpage/?pdmfid=1000516&crid=4bd3d059-7892-487e-81f9-1e00b7f8b5ca&nodeid=ABBAACAAEAAJAAS&nodepath=%2FROOT%2FABB%2FABBAAC%2FABBAACAAE%2FABBAACAAEAAJ%2FABBAACAAEAAJAAS&level=5&haschildren=&populated=false&title=27-16-817.+Digitized+driver%27s+license+%E2%80%94+Definitions.&config=00JAA2ZjZiM2VhNS0wNTVlLTQ3NzUtYjQzYy0yYWZmODJiODRmMDYKAFBvZENhdGFsb2fXiYCnsel0plIgqpYkw9PK&pddocfullpath=%2Fshared%2Fdocument%2Fstatutes-legislation%2Furn%3AcontentItem%3A67YH-F000-R03K-746J-00008-00&ecomp=6gf5kkk&prid=b79e4120-0dba-46e4-b7aa-d4d16fc5da95"
+      ]
+     },
+     {
+      "value": "Established through HB1244 (2023) and HB1135 (2025):-",
+      "source": [
+       "https://arkleg.state.ar.us/Bills/Detail?id=hb1244&ddBienniumSession=2023%2F2023R"
+      ]
+     },
+     {
+      "source": [
+       "https://arkleg.state.ar.us/Bills/Detail?id=hb1135&ddBienniumSession=2025%2F2025R"
+      ]
+     },
+     {
+      "value": "- showing phone \"shall not serve as consent and \"the law enforcement officer shall promptly return the mobile device\"\n- Digital DL/ID: is a data file \"Containing all of the same data elements visible on the face and back of the identification card\""
+     }
+    ]
+   }
+  },
+  "License considered PII? (in legislation)": {
+   "License considered PII? (in legislation)": {
+    "value": true,
+    "AirtableSource": [
+     {
+      "source": [
+       "https://advance.lexis.com/documentpage/?pdmfid=1000516&crid=0efbd0ca-ab8f-4234-aa1d-c4cfec58549e&nodeid=AAEAAHAAZAAD&nodepath=%2FROOT%2FAAE%2FAAEAAH%2FAAEAAHAAZ%2FAAEAAHAAZAAD&level=4&haschildren=&populated=false&title=4-110-103.+Definitions.&config=00JAA2ZjZiM2VhNS0wNTVlLTQ3NzUtYjQzYy0yYWZmODJiODRmMDYKAFBvZENhdGFsb2fXiYCnsel0plIgqpYkw9PK&pddocfullpath=%2Fshared%2Fdocument%2Fstatutes-legislation%2Furn%3AcontentItem%3A5W3T-XVP0-R03K-6476-00008-00&ecomp=6gf5kkk&prid=87b8b68f-442a-4fac-bb19-0d0b8162bda4"
+      ]
+     }
+    ]
+   }
+  },
+  "ID Data Collection Limitations": {
+   "Limited by Purpose?": {
+    "value": "No purpose restriction on scanning"
+   },
+   "Retention?": {
+    "value": "No legislation"
+   },
+   "Deletion?": {
+    "value": "No legislation"
+   },
+   "Required Retention?": {
+    "value": "No legislation"
+   },
+   "Distinguishes Between Methods of ID Verification?": {
+    "value": "No legislation"
+   },
+   "Consent?": {
+    "value": "No legislation"
+   },
+   "Data Breaches?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "title": "A.C.A. \u00a7 4-110-103 (Data Breach)",
+      "value": "Must inform \"in the most expedient time and manner possible and without unreasonable delay\"",
+      "source": [
+       "https://advance.lexis.com/documentpage/?pdmfid=1000516&crid=0efbd0ca-ab8f-4234-aa1d-c4cfec58549e&nodeid=AAEAAHAAZAAD&nodepath=%2FROOT%2FAAE%2FAAEAAH%2FAAEAAHAAZ%2FAAEAAHAAZAAD&level=4&haschildren=&populated=false&title=4-110-103.+Definitions.&config=00JAA2ZjZiM2VhNS0wNTVlLTQ3NzUtYjQzYy0yYWZmODJiODRmMDYKAFBvZENhdGFsb2fXiYCnsel0plIgqpYkw9PK&pddocfullpath=%2Fshared%2Fdocument%2Fstatutes-legislation%2Furn%3AcontentItem%3A5W3T-XVP0-R03K-6476-00008-00&ecomp=6gf5kkk&prid=87b8b68f-442a-4fac-bb19-0d0b8162bda4"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "Iowa": {
+  "Digital?": {
+   "Digital?": {
+    "value": "Current Offering",
+    "AirtableSource": [
+     {
+      "title": "DOT Pilot; no specific legislation",
+      "source": [
+       "https://ideas.iowadot.gov/subdomain/ideas-main/end/node/3798?qmzn=iKFrYf#Active"
+      ]
+     }
+    ],
+    "GoogleSource": [
+     "https://iowadot.gov/drivers-licenses-ids/mobile-id"
+    ]
+   }
+  },
+  "License considered PII? (in legislation)": {
+   "License considered PII? (in legislation)": {
+    "value": true,
+    "AirtableSource": [
+     {
+      "title": "Personal information/personally identifiable information is defined in several different codes",
+      "value": "\u00a7715C defines first name/initial + last name + driver's license number\n\u00a7715D defines \"any information that is linked or reasonably linkable to [a person who can be readily identified, directly or indirectly.]\"",
+      "source": [
+       "https://www.legis.iowa.gov/docs/code/715c.pdf",
+       "https://www.legis.iowa.gov/docs/code/715D.pdf"
+      ]
+     }
+    ]
+   }
+  },
+  "ID Data Collection Limitations": {
+   "Limited by Purpose?": {
+    "value": "No purpose restriction on scanning"
+   },
+   "Retention?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "title": "\u00a7715D",
+      "value": "For companies that deal with data of 100,000 customers, or 25,000 customers and make >50% of revenue from them\n- Must opt out of sale if consumer asks, within 90 to 135 days (when \"reasonably necessary\")",
+      "source": [
+       "https://www.legis.iowa.gov/docs/code/715D.pdf"
+      ]
+     }
+    ]
+   },
+   "Deletion?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "title": "\u00a7715D",
+      "value": "For companies that deal with data of 100,000 customers, or 25,000 customers and make >50% of revenue from them\n- Must delete if consumer asks, within 90 to 135 days (when \"reasonably necessary\")",
+      "source": [
+       "https://www.legis.iowa.gov/docs/code/715D.pdf"
+      ]
+     }
+    ]
+   },
+   "Required Retention?": {
+    "value": "No legislation"
+   },
+   "Distinguishes Between Methods of ID Verification?": {
+    "value": "No legislation"
+   },
+   "Consent?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "title": "\u00a7715D",
+      "value": "For companies that deal with data of 100,000 customers, or 25,000 customers and make >50% of revenue from them\n- Must confirm if processing data, delete, send a copy, or opt out of sale, if consumer asks, within 90 to 135 days (when \"reasonably necessary\")",
+      "source": [
+       "\"https://www.legis.iowa.gov/docs/code/715D.pdf\""
+      ]
+     }
+    ]
+   },
+   "Data Breaches?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "title": "\u00a7715C",
+      "value": "Must notify affected consumers \"in the most expeditious manner possible and without unreasonable delay\"",
+      "source": [
+       "https://www.legis.iowa.gov/docs/code/715c.pdf"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "Kentucky": {
+  "Digital?": {
+   "Digital?": {
+    "value": "Current Offering",
+    "AirtableSource": [
+     {
+      "source": [
+       "https://drive.ky.gov/Pages/Mobile-ID.aspx"
+      ]
+     }
+    ]
+   }
+  },
+  "License considered PII? (in legislation)": {
+   "License considered PII? (in legislation)": {
+    "value": true,
+    "AirtableSource": [
+     {
+      "source": [
+       "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=43575"
+      ]
+     },
+     {
+      "title": "KRS 61.931 (HB5) states \"Personal Information\" means an individual's first name or first initial\u200b and last name; personal mark; or unique biometric or genetic print or image, in combination with one (1) or more of the following data elements"
+     },
+     {
+      "value": "\u200bAn account number, credit card number, or debit card number that, in combination with any required security code, access code, or password, would permit access to an account;\nA Social Security number;\nA taxpayer identification number that incorporates a Social Security number;\nA driver's license number, state identification card, or other individual identification number issued by any agency;\nA passport number or other identification number issued by the United States government; or\nIndividually identifiable health information as defined in 45 C.F.R. sec. 160.103 except for education records covered by the Family Educational Rights and Privacy Act, as amended 20 U.S.C. sec. 1232g."
+     }
+    ],
+    "GoogleSource": [
+     "https://apps.legislature.ky.gov/law/kar/titles/601/002/020/"
+    ]
+   }
+  },
+  "ID Data Collection Limitations": {
+   "Limited by Purpose?": {
+    "value": "No purpose restriction on scanning"
+   },
+   "Retention?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "source": [
+       "https://apps.legislature.ky.gov/recorddocuments/bill/24RS/hb15/bill.pdf"
+      ]
+     },
+     {
+      "title": "Kentucky Consumer Data Privacy Act"
+     },
+     {
+      "value": "(b) At the controller's direction, delete or return all personal data to the\ncontroller as requested at the end of the provision of services, unless\nretention of the personal data is required by law;\n(b) Adequate, relevant, and limited to what is necessary in relation to the\nspecific purposes listed in this section. Personal data collected, used, or\nretained pursuant to subsection (2) of this section shall, where applicable,\ntake into account the nature and purpose or purposes of such collection,\nuse, or retention. The data shall be subject to reasonable administrative,\ntechnical, and physical measures to protect the confidentiality, integrity,\nand accessibility of personal data and to reduce reasonably foreseeable risks\nof harm to consumers relating to the collection, use, or retention of\npersonal data.",
+      "source": [
+       "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39092"
+      ]
+     }
+    ]
+   },
+   "Deletion?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "value": "Kentucky Law 365.725. Destruction of customer records",
+      "source": [
+       "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=34843"
+      ]
+     },
+     {
+      "value": "When a business disposes of, other than by storage, any customer\u2019s records that are not required to be retained, the business shall take reasonable steps to destroy, or arrange for the destruction of, that portion of the records containing personally identifiable information by shredding, erasing, or otherwise modifying the personal information in those records to make it unreadable or indecipherable through any means."
+     }
+    ]
+   },
+   "Required Retention?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "value": "Kentucky House Bill 74. An Act relating to pawnbrokers",
+      "source": [
+       "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=47486"
+      ]
+     },
+     {
+      "value": "Requires pawnbrokers to record the driver\u2019s license, other government-issued picture identification card, or SSN (if no picture identification is available) of every person leaving property that has been pawned or sold.Kentucky Law 365.725. Destruction of customer records"
+     }
+    ]
+   },
+   "Distinguishes Between Methods of ID Verification?": {
+    "value": "No legislation"
+   },
+   "Consent?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "value": "Kentucky Consumer Data Privacy Act",
+      "source": [
+       "https://apps.legislature.ky.gov/recorddocuments/bill/24RS/hb15/bill.pdf",
+       "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39092"
+      ]
+     },
+     {
+      "value": "Except as otherwise provided in this section, not process personal data for\npurposes that are neither reasonably necessary to nor compatible with the\ndisclosed purposes for which the personal data is processed as disclosed to\nthe consumer, unless the controller obtains the consumer's consent;\nNot process sensitive data concerning a consumer without obtaining the\nconsumer's consent, or, in the case of the processing of sensitive data\ncollected from a known child, process the data in accordance with the\nfederal Children's Online Privacy Protection Act 15 U.S.C. sec. 6501 et seq."
+     }
+    ]
+   },
+   "Data Breaches?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "value": "365.732 Notification to affected persons of computer security breach involving their unencrypted personally identifiable information.",
+      "source": [
+       "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=43326"
+      ]
+     },
+     {
+      "value": "Any information holder shall disclose any breach of the security of the system, following discovery or notification of the breach in the security of the data, to any resident of Kentucky whose unencrypted personal information was, or is reasonably believed to have been, acquired by an unauthorized person. The disclosure shall be made in the most expedient time possible and without unreasonable delay, consistent with the legitimate needs of law enforcement, as provided in subsection (4) of this section, or any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system."
+     }
+    ]
+   }
+  }
+ },
+ "Mississippi": {
+  "Digital?": {
+   "Digital?": {
+    "value": "Current Offering",
+    "AirtableSource": [
+     {
+      "value": "Announced/launched by DPS November 2021 -",
+      "source": [
+       "https://www.dps.ms.gov/node/950#:~:text=Submitted%20by%20chris.vignes%20on,share%20for%20age%2Dverified%20transactions."
+      ]
+     },
+     {
+      "value": "The Mississippi Department of Public Safety Announces the Launch of Mississippi Mobile ID\nJACKSON, Miss. \u2013 The Mississippi Department of Public Safety announced today that it has partnered with IDEMIA, the world-leading biometric and identity solutions provider, to introduce Mississippi Mobile ID to residents.\nMississippi Mobile ID is a digital version of a physical driver\u2019s license that will allow residents to control their identity via a free app on their smartphone. Mississippi Mobile ID will be voluntary, and residents can choose to continue to rely upon their physical ID.\nMississippi Mobile ID offers several advantages over physical identification, including convenience, security, and privacy. Mississippi Mobile ID will give residents instant access to an up-to-date version of their driver\u2019s license or ID. It can be used as a legal form of identity verification anywhere in the state that residents would usually show their driver\u2019s license. Mississippi Mobile ID also expands residents\u2019 ability to provide proof of identity online. Residents\u2019 information is secure and can only be accessed with their fingerprint or face ID. Mississippi Mobile ID also protects residents\u2019 private data by allowing them to choose what information they share for age-verified transactions.\n\u201cThe Mississippi Department of Public Safety is committed to utilizing technology to enhance the quality of our residents\u2019 lives,\u201d said Commissioner Sean Tindell. \u201cWhile Mississippi Mobile ID will be voluntary, it is our belief that residents will find this new service to be convenient, secure, and private.\u201d\nFor more information about Mississippi Mobile ID, please visit www.dps.ms.gov/mobile-ID."
+     }
+    ],
+    "GoogleSource": [
+     "https://www.driverservicebureau.dps.ms.gov/mobile-id/node/1"
+    ]
+   }
+  },
+  "License considered PII? (in legislation)": {
+   "License considered PII? (in legislation)": {
+    "value": true,
+    "AirtableSource": [
+     {
+      "value": "\"PII means information that can be used to distinguish or trace an individuals' identity, either alone or when combined with other personal or identifying information that is linked or linkable to a specific individual.\"",
+      "source": [
+       "https://www.mdeq.ms.gov/wp-content/uploads/2023/03/PII-policy.pdf"
+      ]
+     }
+    ]
+   }
+  },
+  "ID Data Collection Limitations": {
+   "Limited by Purpose?": {
+    "value": "No purpose restriction on scanning"
+   },
+   "Retention?": {
+    "value": "No legislation"
+   },
+   "Deletion?": {
+    "value": "No legislation"
+   },
+   "Required Retention?": {
+    "value": "No legislation"
+   },
+   "Distinguishes Between Methods of ID Verification?": {
+    "value": "No legislation"
+   },
+   "Consent?": {
+    "value": "No legislation"
+   },
+   "Data Breaches?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "value": "according to \u00a775-24-29 of the Mississippi Code Annotated, a person who conducts business in Mississippi must notify affected individuals of a personal data breach, while under the Insurance Data Security Law there is a requirement for licensees to notify cybersecurity events to the Mississippi Insurance Commissioner.",
+      "source": [
+       "https://advance.lexis.com/documentpage/?pdmfid=1000516&crid=4a73830b-21c5-4f5d-87ac-7e382345050e&nodeid=ABNAAWAABAAQ&nodepath=%2FROOT%2FABN%2FABNAAW%2FABNAAWAAB%2FABNAAWAABAAQ&level=4&haschildren=&populated=false&title=%C2%A7+75-24-29.+Persons+conducting+business+in+Mississippi+required+to+provide+notice+of+a+breach+of+security+involving+personal+information+to+all+affected+individuals%3B+enforcement.&config=00JABhZDIzMTViZS04NjcxLTQ1MDItOTllOS03MDg0ZTQxYzU4ZTQKAFBvZENhdGFsb2f8inKxYiqNVSihJeNKRlUp&pddocfullpath=%2Fshared%2Fdocument%2Fstatutes-legislation%2Furn%3AcontentItem%3A627R-MSW3-GXJ9-31CB-00008-00&ecomp=_g1_kkk&prid=a0f8f0b4-7866-4cb8-92a0-73c8e0e4c123"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "New York": {
+  "Digital?": {
+   "Digital?": {
+    "value": "Current Offering",
+    "AirtableSource": [
+     {
+      "value": "Initiative without legislation - unveiled by Gov Hochul and NY DMV June 11, 2024.",
+      "source": [
+       "https://www.governor.ny.gov/news/governor-hochul-announces-launch-new-york-mobile-id"
+      ]
+     },
+     {
+      "value": "\"Governor Kathy Hochul announced today that the New York State Department of Motor Vehicles has launched the New York Mobile ID, a highly secure digital version of a state-issued driver license, learner permit or ID on a smartphone. The Mobile ID is a voluntary product designed for the convenience and security of New Yorkers and is available to IOS and Android users. Anyone who has a valid, state-issued driver license, learner permit or non-driver ID can download the secure Mobile ID app through Google Play or the App Store.\""
+     }
+    ],
+    "GoogleSource": [
+     "https://dmv.ny.gov/id-card/mobile-id-mid"
+    ]
+   }
+  },
+  "License considered PII? (in legislation)": {
+   "License considered PII? (in legislation)": {
+    "value": true,
+    "AirtableSource": [
+     {
+      "source": [
+       "https://www.nysenate.gov/legislation/laws/PBO/92"
+      ]
+     }
+    ]
+   }
+  },
+  "ID Data Collection Limitations": {
+   "Limited by Purpose?": {
+    "value": "ID-specific legislation",
+    "GoogleSource": [
+     "https://www.nysenate.gov/legislation/laws/ABC/65-B"
+    ]
+   },
+   "Deletion?": {
+    "value": "No legislation"
+   },
+   "Required Retention?": {
+    "value": "No legislation"
+   },
+   "Distinguishes Between Methods of ID Verification?": {
+    "value": "No legislation"
+   },
+   "Consent?": {
+    "value": "No legislation"
+   },
+   "Data Breaches?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "source": [
+       "https://www.nysenate.gov/legislation/laws/GBS/A39-F"
+      ]
+     }
+    ]
+   },
+   "Retention?": {
+    "value": "ID-specific legislation",
+    "GoogleSource": [
+     "https://www.nysenate.gov/legislation/laws/ABC/65-B"
+    ]
+   }
+  }
+ },
+ "Utah": {
+  "Digital?": {
+   "Digital?": {
+    "value": "Current Offering",
+    "AirtableSource": [
+     {
+      "value": "The Utah Legislature in 2019 and in 2020 authorized the Department of Public Safety\u2019s Driver License Division (DLD) to create and pilot a mobile driver license program for residents who want the option of carrying their data securely within their cell phone. ... The pilot program launched in June 2021. DLD was statutorily required to \u201cestablish a process and system for an individual to obtain an electronic license certificate or identification card\u201d on or before January 1, 2022, which it has done. The transition to production happened in October 2022 after the completion of security and privacy reviews.",
+      "source": [
+       "https://dld.utah.gov/mdlfaqs"
+      ]
+     }
+    ]
+   }
+  },
+  "License considered PII? (in legislation)": {
+   "License considered PII? (in legislation)": {
+    "value": true,
+    "GoogleSource": [
+     "https://le.utah.gov/xcode/Title13/Chapter44/13-44-S102.html"
+    ]
+   }
+  },
+  "ID Data Collection Limitations": {
+   "Limited by Purpose?": {
+    "value": "No purpose restriction on scanning"
+   },
+   "Retention?": {
+    "value": "ID-specific legislation",
+    "AirtableSource": [
+     {
+      "title": "Retain alcohol purchase information"
+     },
+     {
+      "value": "Utah \u00a7 32B-1-407. Verification of proof of age by applicable licensees",
+      "source": [
+       "https://le.utah.gov/xcode/Title32B/Chapter1/32B-1-S407.html"
+      ]
+     },
+     {
+      "title": "(b) the security measures that shall be used by an applicable licensee to ensure that information obtained under this section is",
+      "value": "(ii) retained by the applicable licensee for seven days after the day on which the applicable licensee obtains the information."
+     },
+     {
+      "value": "Can only retain for 7 days"
+     }
+    ]
+   },
+   "Deletion?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "title": "General Description",
+      "source": [
+       "https://le.utah.gov/xcode/Title13/Chapter61/13-61-P1.html"
+      ]
+     }
+    ]
+   },
+   "Required Retention?": {
+    "value": "ID-specific legislation",
+    "AirtableSource": [
+     {
+      "title": "Retain alcohol purchase information"
+     },
+     {
+      "value": "Utah \u00a7 32B-1-407. Verification of proof of age by applicable licensees",
+      "source": [
+       "https://le.utah.gov/xcode/Title32B/Chapter1/32B-1-S407.html"
+      ]
+     },
+     {
+      "title": "(b) the security measures that shall be used by an applicable licensee to ensure that information obtained under this section is",
+      "value": "(ii) retained by the applicable licensee for seven days after the day on which the applicable licensee obtains the information."
+     }
+    ]
+   },
+   "Distinguishes Between Methods of ID Verification?": {
+    "value": "ID-specific legislation",
+    "AirtableSource": [
+     {
+      "source": [
+       "https://le.utah.gov/xcode/Title32B/Chapter1/32B-1-S407.html"
+      ]
+     }
+    ]
+   },
+   "Consent?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "value": "UCPA opt out model of data collection",
+      "source": [
+       "https://le.utah.gov/xcode/Title13/Chapter61/13-61-S302.html?v%3DC13-61-S302_2022050420231231"
+      ]
+     },
+     {
+      "value": "13-61-302 Responsibilities of controllers -- Transparency -- Purpose specification and data\nminimization -- Consent for secondary use -- Security -- Nondiscrimination -- Nonretaliation\n-- Nonwaiver of consumer rights."
+     }
+    ]
+   },
+   "Data Breaches?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "source": [
+       "https://le.utah.gov/xcode/Title13/Chapter44/13-44-S202.html"
+      ]
+     },
+     {
+      "value": "13-44-202.  Personal information -- Disclosure of system security breach."
+     },
+     {
+      "title": "(2)\tA person required to provide notification under Subsection (1) shall provide the notification in the most expedient time possible without unreasonable delay",
+      "value": "(a)\tconsidering legitimate investigative needs of law enforcement, as provided in Subsection (4)(a);\n(b)\tafter determining the scope of the breach of system security; and\n(c)\tafter restoring the reasonable integrity of the system."
+     }
+    ]
+   }
+  }
+ },
+ "Virginia": {
+  "Digital?": {
+   "Digital?": {
+    "value": "Current Offering",
+    "AirtableSource": [
+     {
+      "value": "\u00a7 46.2-225/30 (Article 3. Electronic Credentials Act): / 2017 Bill\n- the credentials shall be issued in addition to, and not instead of, the underlying physical credentials for which a person is eligible- The Department and other agencies that enter into an agreement with the Department pursuant to subsection C of \u00a7 46.2-226 may create and issue profiles (electronic credential that displays a different set of data fields than are displayed on the physical credential) to be used in those circumstances where the display of the data fields would satisfy the purpose for which the profile is being presented.\n- Electronic credentials and electronic credential systems shall be designed so that there is no need for the credential holder to relinquish possession of the device in which the electronic credential system is installed in order to present the credential or for the person to whom the credential is presented to search the verification system to confirm the validity of the credential.\n- Electronic credential and verification systems shall be designed to protect the credential holder's privacy, including by use of privacy-enhancing technologies or other appropriate methods. If the Department enters into an agreement with the owner of a third-party electronic credential system, the agreement shall require the owner of that system to take appropriate measures to protect the credential holder's privacy.- The Department or its agent may enter into an agreement with a person to access and search the verification system. Any such agreement shall require, at a minimum, that the person to whom the Department is granting access agree to search the system only in compliance with the requirements of this section and to take appropriate measures to protect the credential holder's privacy.",
+      "source": [
+       "https://law.lis.virginia.gov/vacodefull/title46.2/chapter2/article3/",
+       "https://legacylis.virginia.gov/cgi-bin/legp604.exe?171+ful+CHAP0697&171+ful+CHAP0697"
+      ]
+     }
+    ]
+   }
+  },
+  "License considered PII? (in legislation)": {
+   "License considered PII? (in legislation)": {
+    "value": true,
+    "AirtableSource": [
+     {
+      "title": "\u00a7 18.2-186.6. Breach of personal information notification",
+      "value": "- Personal information includes first name/initial + last + DL/ID number",
+      "source": [
+       "https://law.lis.virginia.gov/vacode/title18.2/chapter6/section18.2-186.6/"
+      ]
+     },
+     {
+      "title": "\u00a7 59.1-575. (Consumer Data Protection Act)",
+      "value": "\"Personal data\" is information that is linked or reasonably linkable to an identified or identifiable natural person",
+      "source": [
+       "https://law.lis.virginia.gov/vacodefull/title59.1/chapter53/"
+      ]
+     }
+    ]
+   }
+  },
+  "ID Data Collection Limitations": {
+   "Limited by Purpose?": {
+    "value": "Purpose restriction on scanning IDs",
+    "AirtableSource": [
+     {
+      "title": "\u00a7 59.1-443.3. Scanning information from driver's license or other document; retention, sale, or dissemination of information",
+      "value": "- machine-readable zone of a driver's license \n- Merchant cannot scan except to 1) verify authenticity, 2) verify age, 3) prevent fraud, 4) comply with law, 5) provide to check service under federal Fair Credit Reporting Act, 6) complete a transaction under Gramm-Leach-Bliley Act/Fair Credit Reporting Act\n- Information obtained from the above cannot be retained if the purpose was to verify age\n- Cannot \"sell or disseminate to a third party any information obtained\" \"for any marketing, advertising, or promotional purpose\"",
+      "source": [
+       "https://law.lis.virginia.gov/vacodefull/title59.1/chapter35/"
+      ]
+     },
+     {
+      "value": "\u00a7 59.1-575/585. Chapter 53. Consumer Data Protection Act.\nApplies to businesses that have 100,000 consumers or control or process personal data of 25,000 consumers and derive over 50 percent of gross revenue from the sale of personal data\n- Consumers can confirm, correct, delete, obtain a copy of, opt out of for targeted advertising, sale, profiling with legal significance\n- Controller can only collect what is \"adequate, relevant, and reasonably necessary\" to disclosed purpose\n- Controller cannot process personal data that is not reasonable without consumer consent",
+      "source": [
+       "https://law.lis.virginia.gov/vacodefull/title59.1/chapter53/"
+      ]
+     }
+    ]
+   },
+   "Deletion?": {
+    "value": "ID-specific legislation",
+    "AirtableSource": [
+     {
+      "title": "\u00a7 59.1-443.3. Scanning information from driver's license or other document; retention, sale, or dissemination of information",
+      "value": "- machine-readable zone of a driver's license \n- Merchant cannot scan except to 1) verify authenticity, 2) verify age, 3) prevent fraud, 4) comply with law, 5) provide to check service under federal Fair Credit Reporting Act, 6) complete a transaction under Gramm-Leach-Bliley Act/Fair Credit Reporting Act\n- Information obtained from the above cannot be retained if the purpose was to verify age\n- Cannot \"sell or disseminate to a third party any information obtained\" \"for any marketing, advertising, or promotional purpose\"",
+      "source": [
+       "https://law.lis.virginia.gov/vacodefull/title59.1/chapter35/"
+      ]
+     },
+     {
+      "value": "\u00a7 59.1-575/585. Chapter 53. Consumer Data Protection Act.\nApplies to businesses that have 100,000 consumers or control or process personal data of 25,000 consumers and derive over 50 percent of gross revenue from the sale of personal data\n- Consumers can confirm, correct, delete, obtain a copy of, opt out of for targeted advertising, sale, profiling with legal significance\n- Controller can only collect what is \"adequate, relevant, and reasonably necessary\" to disclosed purpose\n- Controller cannot process personal data that is not reasonable without consumer consent",
+      "source": [
+       "https://law.lis.virginia.gov/vacodefull/title59.1/chapter53/"
+      ]
+     }
+    ]
+   },
+   "Data Breaches?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "title": "\u00a7 18.2-186.6. Breach of personal information notification",
+      "value": "- Must notify without unreasonable delay",
+      "source": [
+       "https://law.lis.virginia.gov/vacode/title18.2/chapter6/section18.2-186.6/"
+      ]
+     }
+    ]
+   },
+   "Retention?": {
+    "value": "ID-specific legislation",
+    "AirtableSource": [
+     {
+      "title": "\u00a7 59.1-443.3. Scanning information from driver's license or other document; retention, sale, or dissemination of information",
+      "value": "- machine-readable zone of a driver's license \n- Merchant cannot scan except to 1) verify authenticity, 2) verify age, 3) prevent fraud, 4) comply with law, 5) provide to check service under federal Fair Credit Reporting Act, 6) complete a transaction under Gramm-Leach-Bliley Act/Fair Credit Reporting Act\n- Information obtained from the above cannot be retained if the purpose was to verify age\n- Cannot \"sell or disseminate to a third party any information obtained\" \"for any marketing, advertising, or promotional purpose\"",
+      "source": [
+       "https://law.lis.virginia.gov/vacodefull/title59.1/chapter35/"
+      ]
+     },
+     {
+      "value": "\u00a7 59.1-575/585. Chapter 53. Consumer Data Protection Act.\nApplies to businesses that have 100,000 consumers or control or process personal data of 25,000 consumers and derive over 50 percent of gross revenue from the sale of personal data\n- Consumers can confirm, correct, delete, obtain a copy of, opt out of for targeted advertising, sale, profiling with legal significance\n- Controller can only collect what is \"adequate, relevant, and reasonably necessary\" to disclosed purpose\n- Controller cannot process personal data that is not reasonable without consumer consent",
+      "source": [
+       "https://law.lis.virginia.gov/vacodefull/title59.1/chapter53/"
+      ]
+     }
+    ]
+   },
+   "Required Retention?": {
+    "value": "No legislation"
+   },
+   "Distinguishes Between Methods of ID Verification?": {
+    "value": "ID-specific legislation",
+    "AirtableSource": [
+     {
+      "value": "\u00a7 59.1-443.3. Scanning information from driver's license or other document; retention, sale, or dissemination of information.",
+      "source": [
+       "https://law.lis.virginia.gov/vacodefull/title59.1/chapter35/"
+      ]
+     }
+    ]
+   },
+   "Consent?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "value": "\u00a7 59.1-575/585. Chapter 53. Consumer Data Protection Act.\nApplies to businesses that have 100,000 consumers or control or process personal data of 25,000 consumers and derive over 50 percent of gross revenue from the sale of personal data\n- Consumers can confirm, correct, delete, obtain a copy of, opt out of for targeted advertising, sale, profiling with legal significance\n- Controller can only collect what is \"adequate, relevant, and reasonably necessary\" to disclosed purpose\n- Controller cannot process personal data that is not reasonable without consumer consent",
+      "source": [
+       "https://law.lis.virginia.gov/vacodefull/title59.1/chapter53/"
+      ]
+     }
+    ]
+   }
+  }
+ },
+"West Virginia": {
+  "Digital?": {
+   "Digital?": {
+    "value": "Current Offering",
+    "GoogleSource": [
+     "https://dmv.wv.gov/mobileID"
+    ]
+   }
+  },
+   "License considered PII? (in legislation)": {
+    "value": true,
+    "AirtableSource": [
+     {
+      "title": "\u00a746A-2A-101. Breach of Consumer Information - Definitions",
+      "value": "- Personal information includes first name/initial + last name + Driver's license number or state identification card",
+      "source": [
+       "https://code.wvlegislature.gov/46A-2A-101/"
+      ]
+     },
+     {
+      "title": "\u00a730-1-12a. (State Boards of Examination) Prohibition against disclosure of personally identifiable information",
+      "value": "Sensitive PII (any information that identifies, or can be used to identify, locate, contact, or impersonate a particular individual) includes \"Driver's License numbers\"",
+      "source": [
+       "https://code.wvlegislature.gov/30-1-12A/"
+      ]
+     },
+     {
+      "title": "\"(11) \u201cPersonally identifiable information\u201d means any information about an individual maintained by an agency, including",
+      "value": "(A) any information that can be used to distinguish or trace an individual\u2018s identity, such as name, social security number, date and place of birth, mother\u2018s maiden name, or biometric records; and\n(B) any other information that is linked or linkable to an individual, such as medical, educational, financial, and employment information.\"",
+      "source": [
+       "https://code.wvlegislature.gov/49A-1-101/"
+      ]
+     }
+    ],
+    "GoogleSource": [
+     "https://code.wvlegislature.gov/17A-2A-3/"
+    ]
+  },
+  "ID Data Collection Limitations": {
+   "Limited by Purpose?": {
+    "value": "Purpose restriction on scanning IDs",
+    "AirtableSource": [
+     {
+      "value": "(no implementation from ABCA) \n\u00a760-2-22. Authority to utilize scanner technology in sales; authority to execute contracts relating thereto:- West Virginia Alcohol Beverage Control Administration can \"authorize and establish standards for the use of scanner technology for the verification of age of purchasers of alcoholic beverages and wine\"\n- \"scanner technology may not be used for the collection of personal identifiable information of any purchaser... other than the age of the purchaser\"",
+      "source": [
+       "https://code.wvlegislature.gov/60-2-22/"
+      ]
+     }
+    ]
+   },
+   "Required Retention?": {
+    "value": "No legislation"
+   },
+   "Consent?": {
+    "value": "No legislation"
+   },
+   "Data Breaches?": {
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "value": "\u00a746A-2A-102. Notice of breach of security of computerized personal information.\n\"(a) An individual or entity that owns or licenses computerized data that includes personal information shall give notice of any breach of the security of the system following discovery or notification of the breach of the security of the system to any resident of this state whose unencrypted and unredacted personal information was or is reasonably believed to have been accessed and acquired by an unauthorized person and that causes, or the individual or entity reasonably believes has caused or will cause, identity theft or other fraud to any resident of this state. Except as provided in subsection (e) of this section or in order to take any measures necessary to determine the scope of the breach and to restore the reasonable integrity of the system, the notice shall be made without unreasonable delay.\"",
+      "source": [
+       "https://code.wvlegislature.gov/46A-2A-102/"
+      ]
+     }
+    ]
+   },
+   "Retention?": {
+    "value": "No legislation"
+   },
+   "Deletion?": {
+    "value": "No legislation"
+   },
+   "Distinguishes Between Methods of ID Verification?": {
+    "value": "ID-specific legislation",
+    "AirtableSource": [
+     {
+      "title": "\u00a760-3A-25a. Mandatory verification of age of persons purchasing alcohol",
+      "value": "- No liability if a business \"installed a transaction scan device in its licensed premises\" and requires employees to verify age using it",
+      "source": [
+       "https://code.wvlegislature.gov/60-3A-25A/"
+      ]
+     },
+     {
+      "title": "\u00a760-2-22. Authority to utilize scanner technology in sales; authority to execute contracts relating thereto",
+      "value": "- West Virginia Alcohol Beverage Control Administration can \"authorize and establish standards for the use of scanner technology for the verification of age of purchasers of alcoholic beverages and wine\"\n- \"scanner technology may not be used for the collection of personal identifiable information of any purchaser... other than the age of the purchaser\"\n- No implementation of this found by the WV ABCA",
+      "source": [
+       "https://code.wvlegislature.gov/60-2-22/"
+      ]
+     }
+    ]
+   }
+  }
+ }
+}
