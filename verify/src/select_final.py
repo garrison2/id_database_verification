@@ -115,8 +115,13 @@ class Info:
     def insert_source(self, action, source):
         index = action.index
         self.airtable.insert(index + 1, source)
-        self.airtable_refs.insert(index + 1, self.airtable_refs[index])
-        self.airtable_keys.append((self.airtable_keys[index][0], 'source', list))
+        if self.airtable_refs[index] is None: # if option 0 is a value
+            # default 0 if there are no other references
+            ref = max(v if v is not None else -1 for v in self.airtable_refs) + 1
+        else:
+            ref = self.airtable_refs[index]
+        self.airtable_refs.insert(index + 1, ref)
+        self.airtable_keys.insert(index + 1, ('AirtableSource', 'source', list))
         self.airtable_merged.insert(index + 1, MergeStatus.UNMERGED)
         self.airtable_edited.insert(index + 1, None)
 
@@ -187,13 +192,8 @@ class Info:
                     M[index][key] = M[index].get(key, [])
                     M[index][key].append(val)
                 else:
+                    print(M)
                     M[index][key] = val
-#                    if isinstance(M[index].get(key), str):
-#                        M[index][key] = [M[index][key]]
-#                        M[index][key].append(val)
-#                    else:
-#                        M[index][key] = val
-#                else:
             L[:] = M
 
         for mergetype in (MergeStatus.MERGED, MergeStatus.FLAGGED):
@@ -204,7 +204,9 @@ class Info:
                 else:                       # use the str
                     export_dict['value'][mergetype] = value_list[0]['val']
             else:
+                print(f"{value_list=}")
                 normalize(value_list)
+                print(f"{value_list=}")
                 structure(value_list)
 
             airtable_list = export_dict['AirtableSource'][mergetype]
@@ -677,6 +679,13 @@ def perform_selection(info, heading):
                 return None, False
             new_source = prompt("> ")
             info.insert_source(action, new_source)
+            try:
+                info.merge(action)
+                if action.move_action is None:
+                    reprint()
+            except IndexError:
+                print("Out of bounds index selected.")
+
             if action.move_action is None:
                 reprint()
 
