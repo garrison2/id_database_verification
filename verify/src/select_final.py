@@ -112,6 +112,14 @@ class Info:
         editlist = f'{action.datatype}_edited'
         getattr(self, editlist)[action.index] = replacement
 
+    def insert_source(self, action, source):
+        index = action.index
+        self.airtable.insert(index + 1, source)
+        self.airtable_refs.insert(index + 1, self.airtable_refs[index])
+        self.airtable_keys.append((self.airtable_keys[index][0], 'source', list))
+        self.airtable_merged.insert(index + 1, MergeStatus.UNMERGED)
+        self.airtable_edited.insert(index + 1, None)
+
     def print(self):
         for i in range(len(self.airtable)):
             merged = '*' if self.airtable_merged[i] == MergeStatus.MERGED else ''
@@ -167,6 +175,7 @@ class Info:
             return L
 
         def structure(L):
+            print(L)
             M = []
             for item in L:
                 val = item['val']
@@ -246,7 +255,7 @@ class Action:
     #   n/p/u               next/previous
     @staticmethod
     def parse_input(input_val):
-        pattern = r'^(?:(?:([mMeEfF])?(\d?\d)([gGaA])([nNpP])?|([nNpP])?)([sS]?)$)|([sS][aA])$'
+        pattern = r'^(?:(?:([mMeEfFiI])?(\d?\d)([gGaA])([nNpP])?|([nNpP])?)([sS]?)$)|([sS][aA])$'
 
         if input_val == '':
             return None
@@ -273,6 +282,8 @@ class Action:
                 e_action = ActionType.EDIT
             case 'f' | 'F':
                 e_action = ActionType.FLAG
+            case 'i' | 'I':
+                e_action = ActionType.INSERT
             case _:
                 raise ActionError(f'"{e_action}" is an invalid action.')
         
@@ -308,6 +319,7 @@ class ActionType(Enum):
     PREVIOUS = 4
     SAVE = 5
     SAVE_ALL = 6
+    INSERT = 7
 
 class DataType(StrEnum):
     AIRTABLE = 'airtable'
@@ -434,7 +446,7 @@ def select_from_combined(selection_function):
         with open(SKIP, 'r') as file:
             skip = json.load(file)
     except FileNotFoundError:
-        skip = None
+        skip = []
 
     # logs
     try:
@@ -517,7 +529,7 @@ def select_from_combined(selection_function):
                     continue
 
                 headings.print()
-                action = selection_function(info, headings, info_list, 
+                action = selection_function(info, headings, info_list, info_index,
                                             state, category, subcategory, 
                                             merged, flagged, logs)
 
@@ -547,7 +559,7 @@ def select_from_combined(selection_function):
 
 class SelectionFunctions:
     @staticmethod
-    def merged_to_merged_and_flagged(info, headings, info_list, 
+    def merged_to_merged_and_flagged(info, headings, info_list, info_index,
                                      state, category, subcategory, 
                                      merged, flagged, logs) -> Action:
         info.print()
@@ -573,16 +585,19 @@ class SelectionFunctions:
         return action
 
     @staticmethod
-    def flagged_to_merged_and_flagged(info, headings, info_list, 
+    def flagged_to_merged_and_flagged(info, headings, info_list, info_index,
                                       state, category, subcategory, 
                                       merged, flagged, logs) -> Action:
         _, flagged_tmp = tempfile.mkstemp(suffix='json')
         _, merged_tmp = tempfile.mkstemp(suffix='json')
 
+        merged_val = merged[state].get(category, {subcategory: {}})
+        flagged_val = headings.get_val(2) 
+#        if merged_val == flagged_val: return
         with open(merged_tmp, 'w') as file:
-            json.dump(merged[state].get(category, {subcategory: {}}), file, indent=2)
+            json.dump(merged_val, file, indent=2)
         with open(flagged_tmp, 'w') as file:
-            json.dump(headings.get_val(2), file, indent=2)
+            json.dump(flagged_val, file, indent=2)
 
         headings.print()
         input("Press any key to continue.")
@@ -654,6 +669,14 @@ def perform_selection(info, heading):
                 return None, False
             new_text = prompt("> ", default=info.airtable[action.index])
             info.edit(action, new_text)
+            if action.move_action is None:
+                reprint()
+        case ActionType.INSERT:
+            if action.datatype != DataType.AIRTABLE:
+                print("Only Airtable can be edited.")
+                return None, False
+            new_source = prompt("> ")
+            info.insert_source(action, new_source)
             if action.move_action is None:
                 reprint()
 
