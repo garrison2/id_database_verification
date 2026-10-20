@@ -98,7 +98,7 @@
  "California": {
   "Digital?": {
    "Digital?": {
-    "value": "Current Implementation",
+    "value": "Current Offering",
     "AirtableSource": [
      {
       "source": [
@@ -158,6 +158,15 @@
       ]
      }
     ]
+   },
+   "Required Retention?": {
+    "value": "No legislation"
+   },
+   "Distinguishes Between Methods of ID Verification?": {
+    "value": "No legislation"
+   },
+   "Consent?": {
+    "value": "No legislation"
    },
    "Data Breaches?": {
     "value": "General legislation",
@@ -262,6 +271,12 @@
       ]
      }
     ]
+   },
+   "Required Retention?": {
+    "value": "No legislation"
+   },
+   "Distinguishes Between Methods of ID Verification?": {
+    "value": "No legislation"
    },
    "Consent?": {
     "value": "General legislation",
@@ -370,9 +385,10 @@
    }
   }
  },
- "Alaska": {
+"Alaska": {
   "Digital?": {
    "Digital?": {
+    "value": "Current Offering",
     "GoogleSource": [
      "https://dmv.alaska.gov/mid/"
     ]
@@ -398,43 +414,6 @@
    "Retention?": {
     "value": "No legislation"
    },
-   "Data Breaches?": {
-    "value": "General legislation",
-    "AirtableSource": [
-     {
-      "value": "AS 45.48.010-45.48.090 - Personal Information Protection Act\nMust disclose data breaches in \"the most expeditious time possible and without unreasonable\"",
-      "source": [
-       "https://www.akleg.gov/basis/statutes.asp#45.48.090"
-      ]
-     }
-    ]
-   },
-   "Required Retention?": {
-    "value": "No legislation"
-   }
-  }
- },
- "Alaska_1": {
-  "Digital?": {
-   "Digital?": {
-    "value": "Current Offering",
-    "GoogleSource": [
-     "https://dmv.alaska.gov/mid/"
-    ]
-   }
-  },
-  "License considered PII? (in legislation)": {
-   "License considered PII? (in legislation)": {
-    "value": true
-   }
-  },
-  "ID Data Collection Limitations": {
-   "Limited by Purpose?": {
-    "value": "No purpose restriction on scanning"
-   },
-   "Retention?": {
-    "value": "No legislation"
-   },
    "Deletion?": {
     "value": "No legislation"
    },
@@ -448,7 +427,15 @@
     "value": "No legislation"
    },
    "Data Breaches?": {
-    "value": "General legislation"
+    "value": "General legislation",
+    "AirtableSource": [
+     {
+      "value": "AS 45.48.010-45.48.090 - Personal Information Protection Act\nMust disclose data breaches in \"the most expeditious time possible and without unreasonable\"",
+      "source": [
+       "https://www.akleg.gov/basis/statutes.asp#45.48.090"
+      ]
+     }
+    ]
    }
   }
  },
@@ -547,12 +534,16 @@
     "value": true,
     "AirtableSource": [
      {
-      "title": "Personal information/personally identifiable information is defined in several different codes",
-      "value": "\u00a7715C defines first name/initial + last name + driver's license number\n\u00a7715D defines \"any information that is linked or reasonably linkable to [a person who can be readily identified, directly or indirectly.]\"",
+      "value": "\u00a7715C defines first name/initial + last name + driver's license number",
       "source": [
-       "https://www.legis.iowa.gov/docs/code/715c.pdf",
-       "https://www.legis.iowa.gov/docs/code/715D.pdf"
+       "https://www.legis.iowa.gov/docs/code/715c.pdf"
       ]
+     },
+     {
+       "value" : "\u00a7715D defines \"any information that is linked or reasonably linkable to [a person who can be readily identified, directly or indirectly.]\"",
+       "source" : [
+       "https://www.legis.iowa.gov/docs/code/715D.pdf"
+       ]
      }
     ]
    }
@@ -740,17 +731,6 @@
   "Digital?": {
    "Digital?": {
     "value": "Current Offering",
-    "AirtableSource": [
-     {
-      "value": "Announced/launched by DPS November 2021 -",
-      "source": [
-       "https://www.dps.ms.gov/node/950#:~:text=Submitted%20by%20chris.vignes%20on,share%20for%20age%2Dverified%20transactions."
-      ]
-     },
-     {
-      "value": "The Mississippi Department of Public Safety Announces the Launch of Mississippi Mobile ID\nJACKSON, Miss. \u2013 The Mississippi Department of Public Safety announced today that it has partnered with IDEMIA, the world-leading biometric and identity solutions provider, to introduce Mississippi Mobile ID to residents.\nMississippi Mobile ID is a digital version of a physical driver\u2019s license that will allow residents to control their identity via a free app on their smartphone. Mississippi Mobile ID will be voluntary, and residents can choose to continue to rely upon their physical ID.\nMississippi Mobile ID offers several advantages over physical identification, including convenience, security, and privacy. Mississippi Mobile ID will give residents instant access to an up-to-date version of their driver\u2019s license or ID. It can be used as a legal form of identity verification anywhere in the state that residents would usually show their driver\u2019s license. Mississippi Mobile ID also expands residents\u2019 ability to provide proof of identity online. Residents\u2019 information is secure and can only be accessed with their fingerprint or face ID. Mississippi Mobile ID also protects residents\u2019 private data by allowing them to choose what information they share for age-verified transactions.\n\u201cThe Mississippi Department of Public Safety is committed to utilizing technology to enhance the quality of our residents\u2019 lives,\u201d said Commissioner Sean Tindell. \u201cWhile Mississippi Mobile ID will be voluntary, it is our belief that residents will find this new service to be convenient, secure, and private.\u201d\nFor more information about Mississippi Mobile ID, please visit www.dps.ms.gov/mobile-ID."
-     }
-    ],
     "GoogleSource": [
      "https://www.driverservicebureau.dps.ms.gov/mobile-id/node/1"
     ]
@@ -911,9 +891,6 @@
      {
       "title": "(b) the security measures that shall be used by an applicable licensee to ensure that information obtained under this section is",
       "value": "(ii) retained by the applicable licensee for seven days after the day on which the applicable licensee obtains the information."
-     },
-     {
-      "value": "Can only retain for 7 days"
      }
     ]
    },
@@ -1128,6 +1105,7 @@
     ]
    }
   },
+  "License considered PII? (in legislation)": {
    "License considered PII? (in legislation)": {
     "value": true,
     "AirtableSource": [
@@ -1156,6 +1134,7 @@
     "GoogleSource": [
      "https://code.wvlegislature.gov/17A-2A-3/"
     ]
+   }
   },
   "ID Data Collection Limitations": {
    "Limited by Purpose?": {
